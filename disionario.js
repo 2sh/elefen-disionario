@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '18 junio 2017';
+﻿var dataDeDatos = '19 junio 2017';
 var disionario = [
 {T:"r",L:"A",C:["sim","n"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",en:"A",fr:"la",he:"האות הראשונה באלפבית הלטיני",ru:"А"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me ia parti a la fini de la semana",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -17680,7 +17680,7 @@ var disionario = [
 {T:"r",L:"ositalia",C:["vt","util"],d:"talia (alga cosa) par caldi lo con flama de osijen e asetilen",en:"cut with a torch"},
 {L:"ositalia",C:["n"],en:"oxy-fuel cutting, oxyacetylene cutting"},
 {L:"ositaliador",C:["n"],en:"cutting torch"},
-{T:"r",L:"ositan",C:["a","dem"],d:"la lingua medieval o moderna de Languedoc, incluinte Provensal entre la sentenios 12 e 14",en:"Occitan (language)"},
+{T:"r",L:"ositan",C:["a","dem"],d:"un colie de dialetos romanica de Frans sude e rejiones visina en Espania e Italia",en:"Occitan (language)"},
 {L:"ositan",C:["n"],en:"Occitan (language)"},
 {T:"r",L:"osite",C:["n","bio"],d:"un selula en un ovario cual pote developa per formi un ovo",en:"oocyte (biology)"},
 {T:"r",L:"ositosina",C:["n","bio"],d:"un ormon relasada par la ipofise cual aumenta la contraes de la utero en pari e stimula la secrete de lete en la dutos de seno",en:"oxytocin (hormone)"},
