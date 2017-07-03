@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '30 junio 2017';
+﻿var dataDeDatos = '2 julio 2017';
 var disionario = [
 {T:"r",L:"A",C:["sim","n"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",en:"A",fr:"la",he:"האות הראשונה באלפבית הלטיני",ru:"А"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -4615,7 +4615,8 @@ var disionario = [
 {T:"r",L:"castanieta",C:["n","mus"],d:"un strumento peti, composada de du pesos concava de lenio, ivor o plastica, juntada par un corda e clicada contra lunlotra par la ditos",i:"#",en:"castanets"},
 {T:"r",L:"castel",C:["n","arci"],d:"un construida grande, fortida contra ataca par mures spesa, merlones, tores, e cisa un foso; (metafor) un casa grande e gloriosa, tipal parteninte a un nobil; un peso de xace cual sembla un tore merlonida",i:"#",en:"castle"},
 {L:"castel de salta",C:["n"],en:"bouncy castle"},
-{T:"r",L:"castelian",C:["a","dem"],d:"pertinente a la popla de Espania norde-sentral, o a sua dialeto de espaniol cual es ance la model jeneral per espaniol en Espania",en:"Castellano, Castilian (person, language)"},
+{T:"r",L:"Castelia",C:["n","jeo"],d:"un rejion en Espania norde-sentral; un rena autonom en la eda medieval",i:"#",en:"Castile (Spanish region)"},
+{L:"castelian",C:["a","dem"],d:"pertinente a la popla de Espania norde-sentral, o a sua dialeto de espaniol cual es ance la model jeneral per espaniol en Espania",en:"Castellano, Castilian (person, language)"},
 {L:"castelian",C:["n"],en:"Castellano, Castilian (person, language)"},
 {T:"r",L:"castor",C:["n","mam"],d:"un rodente grande e semiacual con coda larga, notada per sua abitua de rode tra troncos de arbores per come la cortex e construi pararios e abitadas",i:"#",t:"Castor",en:"beaver"},
 {T:"r",L:"castra",C:["vt","bio"],d:"sutrae la testiculos de; (metafor) sutrae la potia, vivosia o enerjia de",en:"castrate"},
@@ -27647,8 +27648,8 @@ var disionario = [
 {T:"r",L:"xi",C:["n"],d:"la letera 14 de la alfabeta elinica",s:"Ξ ξ",en:"xi (Greek letter)",eo:"ksi"},
 {T:"r",L:"xia",C:["a","rel"],d:"pertinente a un de la du ramos xef de islam, en cual on rejeta la suna e regarda Ali como la califa prima",en:"Shia, Shiite, Shi'ite (Islam)",eo:"ŝijaisma"},
 {L:"xia",C:["n"],en:"Shia, Shiite, Shi'ite (Islam)",eo:"ŝijaisto"},
-{T:"r",L:"xiang",C:["a","dem"],en:"Xiang Chinese, Hunanese (language)"},
-{L:"xiang",C:["n"],d:"un lingua parlada en la provinse Hunan en Jonguo",en:"Xiang Chinese, Hunanese (language)"},
+{T:"r",L:"xiang",C:["a","dem"],en:"Xiang, Hunanese (language)"},
+{L:"xiang",C:["n"],d:"un lingua parlada en la provinse Hunan en Jonguo",en:"Xiang, Hunanese (language)"},
 {T:"r",L:"xiatsu",C:["n","spo"],d:"un spesie de masaje nion",en:"shiatsu (massage)",eo:"japana fingromasaĝo"},
 {T:"r",L:"xibolet",C:["n","ling"],d:"un abitua o crede par cual on pote clasi un person",en:"shibboleth",eo:"ŝiboleto"},
 {T:"r",L:"xice",C:["n","uma"],d:"un enfante; (nonformal) un person",en:"kid; (colloq.) guy, gal (person)"},
