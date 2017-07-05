@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '3 julio 2017';
+﻿var dataDeDatos = '4 julio 2017';
 var disionario = [
 {T:"r",L:"A",C:["sim","n"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",en:"A",fr:"la",he:"האות הראשונה באלפבית הלטיני",ru:"А"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -13146,7 +13146,7 @@ var disionario = [
 {L:"jenerali",C:["n"],en:"generalization|is",fr:"généralisation"},
 {T:"r",L:"jenero",C:["n","bio","arte","ling"],d:"un clase de cosas con cualias compartida, dividable en clases suordinada; (en biolojia) un categoria tasonomial supra un spesie e su un familia; un forma de arte, musica o leteratur con cualias compartida en stilo o tema; pertinente a la identia como mas o fema; (en gramatica) un clase de nomes cual inclui mas, fema, neutra comun, etc",en:"genus, kind, type, genre; gender (sexual, grammatical)",fr:"genre"},
 {L:"de jenero fluente",C:["a"],d:"(un person) de ci sua jenero varia con la pasa de tempo",en:"gender-fluid"},
-{L:"jeneral",C:["a"],d:"pertinente a un jenero",en:"general, generic"},
+{L:"jeneral",C:["a"],d:"pertinente a un jenero",en:"generic (of a genus)"},
 {L:"sujenero",C:["n"],en:"subgenus",fr:"sous-genre"},
 {T:"r",L:"jenerosa",C:["a","uma"],d:"(un person) volente donante plu de alga cosa como mone o tempo ca on espeta o nesesa",en:"generous, charitable, magnanimous, big-hearted, bountiful, munificent, liberal",fr:"généreux, charitable, magnanime"},
 {L:"jenerosia",C:["n"],en:"generosity, largess|largesse, magnanimity, munificence",fr:"générosité, largesse, magnanimité"},
@@ -22226,7 +22226,7 @@ var disionario = [
 {L:"savaji",C:["vt"],en:"turn wild, turn savage, brutalize|is"},
 {L:"savajia",C:["n"],en:"wildness, savagery, brutality"},
 {T:"r",L:"savana",C:["n","tera"],d:"un plano grande de erbas ma poca arbores en zonas tropical, sutropical o temperada",i:"#",en:"savanna, grassland, bush"},
-{T:"r",L:"Savoie",C:["n","jeo"],d:"un area de Frans sude-este, bordante Italia norde-ueste, e un duxia e contia en la pasada",i:"#",en:"Savoie (French region)"},
+{T:"r",L:"Savoie",C:["n","jeo"],d:"un rejion de Frans sude-este, bordante Italia norde-ueste, e un duxia e contia en la pasada",i:"#",en:"Savoie (French region)"},
 {L:"savoian",C:["a"],en:"Savoisien, Savoyen"},
 {T:"r",L:"Savu",C:["n","jeo"],d:"un isola en Indonesia",en:"Savu (island)"},
 {L:"Mar Savu",C:["n","jeo"],d:"un mar entre Flores e Savu",i:"#",en:"Savu Sea"},
@@ -22349,6 +22349,7 @@ var disionario = [
 {L:"prescolal",C:["a"],en:"preschool"},
 {L:"scolal",C:["a"],en:"school, scholastic",fr:"scolaire"},
 {L:"scolor",C:["n"],en:"pupil, schoolchild, schoolboy, schoolgirl",fr:"écolier"},
+{T:"r",L:"scolastica",C:["n","fil","rel"],d:"un sistem de teolojia e filosofia instruida en la universias de Europa en la eda medieval, fundida sur la lojica de Aristotele e la scrives de la Padres de la Eglesa temprana",en:"scholasticism"},
 {T:"r",L:"scoliose",C:["n","med"],d:"un curvi ladal nonormal de la spino dorsal",en:"scoliosis (medical)"},
 {L:"scoliosica",C:["a"],en:"scoliotic"},
 {T:"r",L:"scolta",C:["n"],d:"un membro de un promove cual suporta la developa fisical, mental e spirital de jovenes, afin los condui produosa en sosia, con asentua forte a la capasia de survive estra casa",i:"#",en:"scout, boy scout, girl guide"},
