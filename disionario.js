@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '31 julio 2017';
+﻿var dataDeDatos = '3 agosto 2017';
 var disionario = [
 {T:"r",L:"A",C:["sim","n"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",en:"A",fr:"la",he:"האות הראשונה באלפבית הלטיני",ru:"А"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -15134,6 +15134,7 @@ var disionario = [
 {L:"masimi",C:["vnt"],en:"maximize|is, optimize|is"},
 {L:"masimi",C:["vt"],en:"maximize|is, optimize|is"},
 {L:"masimi",C:["n"],en:"maximization|is, optimization|is"},
+{T:"r",L:"masis",C:["n","pla","cos"],d:"la covrente esterna roja e pulposa de un muscada, secida e usada como un spise",en:"mace (spice)"},
 {T:"r",L:"masocisme",C:["n","uma"],d:"la deriva de plaser, tipal sesal, par dole o vergonia se",en:"masochism"},
 {L:"masociste",C:["a"],en:"masochistic"},
 {L:"masociste",C:["n"],en:"masochist"},
@@ -24304,7 +24305,7 @@ var disionario = [
 {L:"sponjin",C:["a"],en:"spongy"},
 {T:"r",L:"sponsor",C:["n","mone"],d:"un person o organiza cual furni la finansia per un projeta o ativia de un otra o otras; un person o organiza cual suporta en otra modos",en:"sponsor"},
 {L:"sponsori",C:["vt"],en:"sponsor"},
-{L:"sponsori",C:["n"],en:"sponsorship, patronage"},
+{L:"sponsoria",C:["n"],en:"sponsorship, patronage"},
 {T:"r",L:"spontan",C:["a","arte"],d:"pertinente a un ata o aveni cual resulta de un impulsa o inclina subita, sin preconsidera o stimula esterna; franca e nonrestrinjeda; (un imaje de un person) nonformal fotografida, spesial sin la permete de la person fotografida",en:"spontaneous, candid"},
 {L:"spontania",C:["n"],en:"spontaneity"},
 {T:"r",L:"spora",C:["n","bio"],d:"un unia pico de reprodui, tipal un selula, capas de deveni un individua nova sin fusa sesal, como en alga plantas, fungos e protozones; (en baterias) un forma ronda e dur tipal proprida par baterias en situas perilosa",en:"spore"},
@@ -28064,6 +28065,8 @@ var disionario = [
 {L:"xvabes",C:["a"],en:"Swabian"},
 {T:"r",L:"Y",C:["sim"],d:"la letera 25 de la alfabeta roman",p:"ya",en:"Y"},
 {T:"r",L:"York Nova",C:["n","jeo"],d:"un stato en la SUA norde-este, con bordas a la Mar Atlantica e la Lago Ontario",en:"New York State (US state)"},
+{T:"r",L:"Yucatan",C:["n","jeo"],d:"un stato en Mexico sude-este",en:"Yucatán"},
+{L:"Penisola Yucatan",C:["n","jeo"],en:"Yucatán Peninsula"},
 {T:"r",L:"Yukon",C:["n","jeo"],d:"un provinse de Canada norde-ueste, bordante Alaska",en:"Yukon (Canadian province)"},
 {T:"r",L:"Z",C:["sim"],d:"la letera 26 e final de la alfabeta roman",p:"ze",en:"Z"},
 {T:"r",L:"zabalion",C:["n","cos"],d:"un deser italian con jala de ovo, zucar e vino dulse",en:"zabaglione, zabaione (dessert)",eo:"zabajono",fr:"sabayon"},
