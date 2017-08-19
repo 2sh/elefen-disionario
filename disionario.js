@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '16 agosto 2017';
+﻿var dataDeDatos = '18 agosto 2017';
 var disionario = [
 {T:"r",L:"A",C:["sim","n"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"A",fr:"la",he:"האות הראשונה באלפבית הלטיני",ru:"А"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -8729,7 +8729,7 @@ var disionario = [
 {L:"ejetada",C:["a"],en:"ejective"},
 {L:"ejetada",C:["n"],en:"ejective (consonant)"},
 {T:"r",L:"ejitalido",C:["n","avia"],d:"un avia peti e pasarin de Eurasia, con color blanda e coda relativa longa",i:"#",t:"Aegithalidae",en:"bushtit, long-tailed tit (bird)"},
-{T:"r",L:"el",C:["pron"],d:"representante un person, un animal personin, o un cosa personin como un robot",en:"he, she; him, her; it (mammal, fish, personified animal)"},
+{T:"r",L:"el",C:["pron"],d:"representante un person, un animal personin, o un cosa personin como un robot",en:"he, she; him, her; it (personified thing)"},
 {L:"el ci",C:["esp"],u:"el ci osa gania",en:"he who, she who, the one who"},
 {L:"elisme",C:["n"],d:"la abitua de refere a se par sua nom o como `el`",en:"illeism (referring to oneself in the third person)"},
 {T:"r",L:"ela",C:["pron"],d:"representante un person o animal fema",n:"On usa normal `el`, egal per un fema o un mas. `Ela` es multe rara, ma on pote usa lo per claria e stilo si, per esemplo, on nara un conversa entre un fem (`ela`) e un om (`elo`).",en:"she, her"},
@@ -18326,7 +18326,7 @@ var disionario = [
 {L:"paper de stanio",C:["n"],en:"tin foil"},
 {L:"paper de vason",C:["n"],i:"#",en:"toilet paper"},
 {L:"paper diafana",C:["n"],en:"tracing paper, onion skin"},
-{L:"paper maxada",C:["n"],en:"papier mache"},
+{L:"paper maxada",C:["n"],en:"papier mâché"},
 {L:"paper raspante",C:["n"],i:"#",en:"sandpaper"},
 {L:"paper trinxada",C:["n"],en:"shredded paper, confetti"},
 {L:"papereria",C:["n"],en:"stationery store, stationer's"},
@@ -22644,7 +22644,7 @@ var disionario = [
 {T:"r",L:"scolastica",C:["n","fil","rel"],d:"un sistem de teolojia e filosofia instruida en la universias de Europa en la eda medieval, fundida sur la lojica de Aristotele e la scrives de la Padres de la Eglesa temprana",en:"scholasticism"},
 {T:"r",L:"scoliose",C:["n","med"],d:"un curvi ladal nonormal de la spino dorsal",en:"scoliosis (medical)"},
 {L:"scoliosica",C:["a"],en:"scoliotic"},
-{T:"r",L:"scolta",C:["n"],d:"un membro de un promove cual suporta la developa fisical, mental e spirital de jovenes, afin los condui produosa en sosia, con asentua forte a la capasia de survive estra casa",i:"#",en:"scout, boy scout, girl guide"},
+{T:"r",L:"scolta",C:["n"],d:"un membro de un promove cual suporta la developa fisical, mental e spirital de jovenes, afin los condui produosa en sosia, con asentua forte a la capasia de survive estra casa",i:"#",en:"scout, boy scout, girl guide, girl scout"},
 {L:"scolta joven",C:["n"],en:"brownie, cub"},
 {L:"scoltisme",C:["n"],en:"scouting, scout movement"},
 {T:"r",L:"scon",C:["n","cos"],d:"un torta peti e cuasi dulse, preparada de farina, gras e lete, e conteninte pesos de fruta a veses",i:"#",en:"scone (food)"},
