@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '6 otobre 2017';
+﻿var dataDeDatos = '7 otobre 2017';
 var disionario = [
 {T:"r",L:"a",C:["sim","n"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
