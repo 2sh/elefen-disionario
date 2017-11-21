@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '18 novembre 2017';
+﻿var dataDeDatos = '20 novembre 2017';
 var disionario = [
 {T:"r",L:"a",C:["sim","n"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -27460,7 +27460,7 @@ var disionario = [
 {T:"r",L:"vetor",C:["n","mat"],d:"un cuantia con no sola grandia ma ance un dirije, tipal indicante la loca spasial de un punto en relata con un otra; un matris con sola un linia o colona",en:"vector, one-dimensional array; array (software)",fr:"vecteur"},
 {L:"vetor de asosia",C:["n"],en:"associative array (software)"},
 {L:"vetoral",C:["a"],en:"vector"},
-{T:"r",L:"vetulicolo",C:["n"],d:"un jenero de animales peti de la cambrian",i:"#",t:"Vetulicola",en:"vetulicola (ancient animal)"},
+{T:"r",L:"vetulicola",C:["n"],d:"un jenero de animales peti de la cambrian",i:"#",t:"Vetulicola",en:"vetulicola (ancient animal)"},
 {T:"r",L:"via",C:["n"],d:"un tereno usada o creada per vade o viaja, como un rua, strada, etc",ca:"via",da:"rute, sti, kurs, måde",de:"Bahn, Weg",en:"way, avenue, route, course, path, approach",es:"ruta, camino, curso, rumbo, via, itinerario, paso, pasaje, senda, sendero, vereda, trayectoria",fr:"voie, chemin, route, itinéraire",it:"via, passaggio, strada",ja:"ハイウェイ",nl:"weg, route",pt:"via, rota, caminho, curso",ru:"путь, дорожка"},
 {L:"via de rola",C:["n"],en:"taxiway (airport)"},
 {L:"Via Letin",C:["n"],i:"#",en:"Milky Way (astronomy)",fr:"Voie Lactée"},
