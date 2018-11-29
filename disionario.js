@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '27 novembre 2018';
+﻿var dataDeDatos = '28 novembre 2018';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -12687,6 +12687,7 @@ var disionario = [
 {L:"incluinte",C:["prep"],en:"including, inclusive of"},
 {L:"incluinte tota",C:["av"],en:"including everything, all-inclusive, all-in"},
 {T:"r",L:"inco",C:["n","util","anat"],d:"un bloco pesosa de aser o fero sur cual on marteli e formi metal; un oso en la orea media, con forma simil, cual transmete vibras entre la martel e la stribo",i:"#",en:"anvil; incus (anatomy)",eo:"amboso; inkudo, amboso"},
+{T:"r",L:"incoativa",C:["a","ling"],d:"pertinente a un verbo, o un aspeta de verbo, cual espresa la comensa de un ata",en:"inchoative"},
 {T:"r",L:"incore",C:["vt","gov"],d:"reseta o esperia (un cosa nondesirada o nonplasente) par causa de sua propre condui o atas",en:"incur (punishment)"},
 {T:"r",L:"incuba",C:["vt","bio","med"],d:"(un avia) senta sur (ovos) per manteni sua temperatur e causa la emerji de la avietas; manteni selulas, baterias, embrios, etc, a bon temperatur per developa; developa lenta (un maladia comunicable) sin sintomes persepable",en:"incubate, cause to hatch",eo:"kovi"},
 {L:"incuba",C:["n"],en:"incubation",eo:"kovado"},
@@ -23531,6 +23532,10 @@ var disionario = [
 {L:"serosa",C:["a"],en:"serous",fr:"séreux"},
 {T:"r",L:"serolojia",C:["n","med"],d:"la studia o esamina de sero sangual, tipal per esamina la responde par la sistem imunial contra patojenes o otra cosas introduida en la corpo",en:"serology"},
 {L:"serolojiste",C:["n"],en:"serologist"},
+{T:"r",L:"seronegativa",C:["a","med"],d:"(un proba de sero de sangue, o un person tal probada) con resulta negativa sur la presentia de un virus o simil",en:"seronegative"},
+{L:"seronegativia",C:["n"],en:"seronegativity"},
+{T:"r",L:"seropositiva",C:["a","med"],d:"(un proba de sero de sangue, o un person tal probada) con resulta positiva sur la presentia de un virus o simil",en:"seropositive"},
+{L:"seropositivia",C:["n"],en:"seropositivity"},
 {T:"r",L:"serotonin",C:["n","bio"],d:"un composada en trombosites e sero, constrinjente la dutos sangual e funsionante como un neurotransmetador",en:"serotonin"},
 {T:"r",L:"serpe",C:["vnt"],d:"segue un curso con multe curvas; move en curvas como un serpente; vaga acaso; prosede sin gol o intende; torse e verje con moves rapida",en:"meander, snake, wind; wriggle, wiggle, writhe, slither",fr:"serpenter"},
 {L:"serpe",C:["vt"],en:"meander, snake, wind; wriggle, wiggle, writhe, slither"},
@@ -27345,7 +27350,9 @@ var disionario = [
 {T:"r",L:"vale",C:["n","tera"],d:"un rejion de tera basa entre colinas o montes, tipal con un rio o rieta",i:"#",ca:"vall",da:"dal",de:"Tal",en:"valley, vale, dale",eo:"valo",es:"valle",fr:"vallée",it:"valle, vallata",ja:"谷",nl:"vallei",pt:"vale",ru:"долина"},
 {L:"a vale",C:["av"],en:"down, downhill, downstream, downward, downwards"},
 {L:"valeta",C:["n"],en:"dell, glen"},
-{T:"r",L:"Valensia",C:["n","jeo"],d:"un rejion de Espania este; un rena moro en la eda medieval",i:"#",en:"Valencia (Spanish region)"},
+{T:"r",L:"Valensia",C:["n","jeo"],d:"un site a la costa este de Espania",en:"Valencia"},
+{L:"Comunia Valensian",C:["n","jeo"],i:"Valensia",en:"Valencian Community"},
+{L:"Provinse Valensia",C:["n","jeo"],en:"Province of Valencia"},
 {T:"r",L:"valente",C:["a","cim","bio"],d:"pertinente a la eletrones en o disponable a un lia cimical; (en jenetica) composada de un cuantia spesifada de cromosomas",en:"valent"},
 {L:"valentia",C:["n"],en:"valence, valency",fr:"valence"},
 {T:"r",L:"valeriana",C:["n","pla"],d:"un planta, tipal con grupos de flores peti rosa o blanca, valuada per sua cualias medical",i:"#",t:"Valeriana officinalis",en:"valerian (plant)",fr:"valériane"},
