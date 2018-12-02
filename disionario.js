@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '29 novembre 2018';
+﻿var dataDeDatos = '1 desembre 2018';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -3311,8 +3311,8 @@ var disionario = [
 {L:"bloci",C:["vt"],en:"block, clog, obstruct, stonewall",fr:"bloquer",he:"לחסום, לסתום"},
 {L:"bloci",C:["n"],en:"blockage, obstruction",he:"מחסום, חסימה, מעצור, סתימה"},
 {L:"bloci de via",C:["n"],en:"roadblock",he:"מחסום דרכים"},
-{L:"blocinte",C:["a"],en:"blocking",he:"חוסם, עוצר, סותם"},
-{L:"blocinte",C:["n"],en:"blocker",he:"(רפואה) חוסם, מדכא"},
+{L:"blocinte",C:["a"],en:"blocking; occlusive",he:"חוסם, עוצר, סותם"},
+{L:"blocinte",C:["n"],en:"blocker; occlusive (consonant)",he:"(רפואה) חוסם, מדכא"},
 {L:"blocinte de canales de calsio",C:["n","med"],d:"un medisin cual destensa la dutos sangual e furni plu sangue e osijen a la cor",en:"calcium-channel blocker",he:"חוסם תעלות סידן"},
 {L:"blocinte de resetadores beta",C:["n","med"],d:"un droga cual preveni la stimula de la resetadores cual ativi plu la cor",en:"beta blocker",he:"חוסם בטא"},
 {L:"desbloci",C:["vt"],en:"unblock, unclog",he:"לפתוח או לשחרר סתימה או חסימה"},
