@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '3 desembre 2018';
+﻿var dataDeDatos = '5 desembre 2018';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -7361,9 +7361,9 @@ var disionario = [
 {L:"dagara",C:["n"],en:"Dagaaba (people), Dagare (language)"},
 {T:"r",L:"dagereotipo",C:["n","util"],d:"un foto preparada par un prosede temprana, developada par Louis Daguerre en 1831",en:"daguerreotype",es:"daguerrotipo",ru:"дагерротип"},
 {T:"r",L:"daiciri",C:["n","cos"],d:"un coctel conteninte rum e jus de lima",en:"daiquiri (drink)",es:"daiquiri",ru:"Дайкири (коктель из смеси светлого рома, сока Лайма и сахара)"},
-{T:"r",L:"Dakota",C:["n","jeo"],en:"Dakota"},
-{L:"Dakota Norde",C:["n","jeo"],d:"un stato en la SUA norde-sentral, bordante Canada",en:"North Dakota (US state)",ru:"Северная Дакота (штат)"},
-{L:"Dakota Sude",C:["n","jeo"],d:"un stato en la SUA norde-sentral",en:"South Dakota (US state)",ru:"Южная Дакота (штат)"},
+{T:"r",L:"Dakota",C:["n","jeo"],en:"Dakota",es:"Dakota"},
+{L:"Dakota Norde",C:["n","jeo"],d:"un stato en la SUA norde-sentral, bordante Canada",en:"North Dakota (US state)",es:"Dakota del Norte (estado de Estados Unidos)",ru:"Северная Дакота (штат)"},
+{L:"Dakota Sude",C:["n","jeo"],d:"un stato en la SUA norde-sentral",en:"South Dakota (US state)",es:"Dakota del Sur (estado de Estados Unidos)",ru:"Южная Дакота (штат)"},
 {T:"r",L:"dalia",C:["n","pla"],d:"un planta mexican en familia de margarita, con radises tuberosa",i:"#",t:"Dahlia",en:"dahlia",ru:"георгин (цветок)"},
 {T:"r",L:"dalit",C:["a","dem"],d:"pertinente a cada de la castas indu cual on ia nomi `nontocable` en la pasada",en:"Dalit (caste)",ru:"относящийся к касте неприкасаемых"},
 {L:"dalit",C:["n","dem"],en:"Dalit (caste)",ru:"Далит, неприкасаемый (каста в Индии)"},
@@ -23619,7 +23619,7 @@ var disionario = [
 {L:"nonsesante",C:["a"],en:"unceasing, incessant, continual, non-stop",fr:"incessant"},
 {L:"sin sesa",C:["a"],en:"unceasing, incessant, continual, non-stop",fr:"incessant"},
 {T:"r",L:"sesamo",C:["n","pla","cos"],d:"un planta alta de zonas tropical e sutropical de Africa e Asia, cultivada per sua semes; la semes de esta, comeda o usada per sua olio",i:"#",t:"Sesamum",da:"sesamfrø",de:"Sesam, Sesamsamen",en:"sesame (plant, seeds)",eo:"sezamo",es:"sésamo",fr:"sésame",it:"sesamo",nl:"sesam",pt:"sésamo"},
-{T:"r",L:"sesarea",C:["n","med"],d:"un sirurjia per aida pare un bebe par talia tra la mur de la adomen e la utero de la madre",en:"Cesarean|Caesarean section"},
+{T:"r",L:"sesarea",C:["n","med"],d:"un sirurjia per aida pari un bebe par talia tra la mur de la adomen e la utero de la madre",en:"Cesarean|Caesarean section"},
 {T:"r",L:"sesaspara",C:["n","vn"],d:"un acorda tempora de sesa combate",en:"ceasefire, truce, armistice",fr:"cessez-le-feu, armistice"},
 {T:"r",L:"sesio",C:["n","cim"],d:"la elemento cimical con numero atomal 55",s:"Cs (caesium)",en:"cesium|ae",fr:"césium"},
 {T:"r",L:"sesion",C:["n","bio"],d:"cada de la partes en cual un cosa es o pote es divideda; un periodo dedicada a un aveni; (en zolojia) cada de un serie de unias de anatomia de cual la corpo o membros de alga animales es composada",da:"afdeling, udsnit, sektion",de:"Abschnitt",en:"section, segment; session",eo:"sekcio, segmento; sesio",es:"sección, segmento",fr:"section, segment",it:"sezione",nl:"snee",pt:"seção, segmento"},
