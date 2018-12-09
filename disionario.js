@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '7 desembre 2018';
+﻿var dataDeDatos = '8 desembre 2018';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -1549,6 +1549,7 @@ var disionario = [
 {L:"Mar Arabi",C:["n","jeo"],d:"la parte de la Mar Indian entre Arabia e Barat",i:"#",en:"Arabian Sea",he:"חלקו הצפוני-מערבי של האוקיאנוס ההודי"},
 {L:"Penisola Arabi",C:["n","jeo"],d:"Arabia",en:"Arabian Peninsula",he:"חצי האי ערב"},
 {L:"Arabia Saudi",C:["n","jeo"],c:"Riad",d:"un pais en Asia sude-ueste cual inclui la plu de la Penisola Arabi",i:"arabia-saudi",en:"Saudi Arabia",he:"ערב הסעודית, סעודיה"},
+{T:"r",L:"arabis",C:["n","pla"],d:"un planta erbin de crese basa, tipal con flores blanca o ros, comun trovada en rocerias",t:"Arabis",en:"arabis, rockcress"},
 {T:"r",L:"arac",C:["n","cos"],d:"un bevida alcolosa, tipal distilada de ris o de la sava de palma de coco",en:"arrack, arak (drink)",he:"ערק (משקה אלכוהולי)"},
 {T:"r",L:"aracide",C:["n","pla"],d:"un planta en familia de piso, produinte un seme oval cual es usada per produi olio; esta seme, tipal rostada e salida como un cometa",i:"#",t:"Arachis hypogaea",en:"peanut",he:"בוטן"},
 {T:"r",L:"aracnido",C:["n","artr"],d:"un artropodo de la clase cual conteni aranias e scorpiones",t:"Arachnida",en:"arachnid",he:"חבר במשפחת העכבישיים"},
@@ -18511,6 +18512,7 @@ var disionario = [
 {L:"panorama",C:["vt","arte"],en:"pan"},
 {L:"panorama",C:["n"],en:"panorama"},
 {L:"panoramador",C:["n"],en:"pan control, pan pot"},
+{L:"panoramal",C:["a"],en:"panoramic"},
 {T:"r",L:"pansesal",C:["a","uma"],d:"no limitada en elejes de seso biolojial, jenero o identia de jenero",en:"pansexual"},
 {T:"r",L:"pantala",C:["n","vest"],d:"un veste cual covre la corpo de la taie o anca asta la coxas o jenos, con tubo separada per cada gama",i:"#",en:"short trousers, short pants, shorts, trunks; breeches, britches, knickerbockers"},
 {L:"pantala de bisicli",C:["n"],en:"cycling shorts, bike shorts"},
@@ -21245,6 +21247,8 @@ var disionario = [
 {L:"radio-",C:["pf","tecn"],d:"radia",en:"radio-"},
 {T:"r",L:"radio",C:["n","anat"],d:"la oso la plu corta e spesa de la du osos de la braso umana; la oso corespondente en la gama anterior de un vertebrato o la ala de un avia",en:"radius (bone)",fr:"radius"},
 {T:"r",L:"radio",C:["n","cim"],d:"la elemento cimical con numero atomal 88, un metal radioativa rara",s:"Ra",en:"radium (chemistry)",fr:"radium"},
+{T:"r",L:"radioastronomia",C:["n","ast"],d:"la ramo de astronomia cual studia la radioemetes de ojetos sielal",en:"radio astronomy"},
+{L:"radioastronomiste",C:["n"],en:"radio astronomer"},
 {T:"r",L:"radioativa",C:["a","fis"],d:"emetente radia o particulas ioninte",i:"#",en:"radioactive",fr:"radioactif"},
 {L:"radioativia",C:["n"],en:"radioactivity, fallout",fr:"radioactivité"},
 {T:"r",L:"radiocomunica",C:["vt","info"],d:"comunica par ondas de radio",en:"radio"},
@@ -24628,6 +24632,7 @@ var disionario = [
 {L:"spetaculin",C:["a"],en:"spectacular, phenomenal"},
 {T:"r",L:"spetro",C:["n","fis","col"],d:"un banda de colores, como videda en un arco de sielo, produida par la separa de la composantes de lus par sua grados de refrata seguente la longia de ondas; la estende intera de longias de onda; un imaje de alga cosa, ordinada par cualias como frecuentia, carga o enerjia; un clasi de alga cosa en la forma de un scala entre du puntos estrema o oposante",en:"spectrum"},
 {L:"spetral",C:["a"],en:"spectral"},
+{T:"r",L:"spetrometre",C:["n","util"],d:"un aparato usada per rejistra e mesura spetros",en:"spectrometer"},
 {T:"r",L:"spetroscopio",C:["n","util"],d:"un aparato per produi e rejistra spetros",en:"spectroscope"},
 {L:"spetroscopi",C:["n"],en:"spectroscopy"},
 {L:"spetroscopial",C:["a"],en:"spectroscopic"},
