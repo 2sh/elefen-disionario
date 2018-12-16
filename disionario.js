@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '13 desembre 2018';
+﻿var dataDeDatos = '15 desembre 2018';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -7273,9 +7273,9 @@ var disionario = [
 {L:"noncurantia",C:["n"],en:"indifference"},
 {L:"sin cura",C:["a"],en:"carefree, mindless, thoughtless"},
 {T:"r",L:"Curan",C:["n","rel"],d:"la libro santa de islam",en:"Qur'an, Koran",fr:"Coran"},
-{T:"r",L:"curare",C:["n","med"],d:"un resina cual paralise la motoneurones, otenida de alga plantas de America Sude",en:"curare (resin)"},
-{T:"r",L:"Curasau",C:["n","jeo"],c:"Willemstad",d:"un teritorio autonom de Nederland en la Mar Caribe",i:"#",en:"Curaçao (island)",fr:"Curaçao"},
-{T:"r",L:"curcuma",C:["n","pla","cos"],d:"un planta asian en familia de jinjer; la polvo bonodorosa e briliante jala derivada de la rizoma de esta, usada per sabori e colori en cosini asian e istorial per tinje stofa",i:"#",t:"Curcuma longa",en:"turmeric (plant, spice)",fr:"curcuma"},
+{T:"r",L:"curare",C:["n","med"],d:"un resina cual paralise la motoneurones, otenida de alga plantas de America Sude",en:"curare (resin)",es:"curare"},
+{T:"r",L:"Curasau",C:["n","jeo"],c:"Willemstad",d:"un teritorio autonom de Nederland en la Mar Caribe",i:"#",en:"Curaçao (island)",es:"Curazao, Curasao",fr:"Curaçao"},
+{T:"r",L:"curcuma",C:["n","pla","cos"],d:"un planta asian en familia de jinjer; la polvo bonodorosa e briliante jala derivada de la rizoma de esta, usada per sabori e colori en cosini asian e istorial per tinje stofa",i:"#",t:"Curcuma longa",en:"turmeric (plant, spice)",es:"cúrcuma",fr:"curcuma"},
 {T:"r",L:"Curdistan",C:["n","jeo"],d:"un rejion a sude de la Montes Caucaso, la abitada tradisional de la popla curdi",i:"curdistan",en:"Kurdistan"},
 {L:"curdi",C:["a"],en:"Kurdish, Kurd (person, language)"},
 {L:"curdi",C:["n","dem"],en:"Kurdish, Kurd (person, language)"},
@@ -7345,8 +7345,8 @@ var disionario = [
 {T:"r",L:"cuxin",C:["n","arci"],d:"un saco, tipal retangulo, plenida con plumas o otra materia mol, usada per suporta la testa, dorso o otra partes de la corpo; un cosa simil, usada per proteje contra xocas",i:"#",en:"cushion, pillow; buffer",fr:"coussin"},
 {L:"cuxin de favas",C:["n"],en:"beanbag"},
 {L:"cuxin de jenos",C:["n"],en:"kneeler, hassock"},
-{L:"cuxin de securia",C:["n"],i:"#",en:"safety cushion, airbag",fr:"airbag"},
-{L:"cuxin de testa",C:["n"],en:"pillow"},
+{L:"cuxin de securia",C:["n"],i:"#",en:"safety cushion, airbag",es:"airbag",fr:"airbag"},
+{L:"cuxin de testa",C:["n"],en:"pillow",es:"almohada"},
 {L:"cuxineta",C:["n"],en:"pad"},
 {L:"cuxini",C:["vt"],en:"cushion, pad"},
 {L:"cuxinida",C:["a"],en:"cushioned, padded"},
