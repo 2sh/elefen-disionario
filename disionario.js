@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '15 desembre 2018';
+﻿var dataDeDatos = '16 desembre 2018';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -3875,7 +3875,7 @@ var disionario = [
 {T:"r",L:"cabal",C:["n","gov","rel"],d:"un partito political secreta",en:"cabal, caucus",he:"קבוצה פוליטית סודית"},
 {T:"r",L:"cabala",C:["n","rel"],d:"un filosofia e pratica mistica cual ia orijina en iudisme",en:"kabbalah, kabbala (Judaism)",es:"cábala",he:"(יהדות) קבלה"},
 {T:"r",L:"cabana",C:["n","arci"],d:"un casa o otra construida peti, construida de lenio",i:"#",en:"cabin, hut, shed, cabana",es:"cabaña, choza, champa, jacal",he:"בקתה, צריף"},
-{L:"cabana bruta",C:["n"],en:"shack, hovel",he:"פחון"},
+{L:"cabana bruta",C:["n"],en:"shack, hovel",es:"chabola, choza, casucha",he:"פחון"},
 {L:"cabana de arbor",C:["n"],i:"#",en:"tree house, tree fort",he:"בית עץ"},
 {L:"cabana de lenio",C:["n"],en:"woodshed",he:"מחסן עצים"},
 {L:"cabana de troncos",C:["n"],i:"#",en:"log cabin",he:"צריף עץ"},
@@ -4130,7 +4130,7 @@ var disionario = [
 {L:"camerada de scola",C:["n"],en:"schoolmate",he:"חבר לספסל הלימודים"},
 {L:"camerada de selula",C:["n"],en:"cellmate; cubemate",he:"שותף לתא מאסר"},
 {L:"cameradia",C:["n"],en:"comradeship, camaraderie",he:"חברות, אחווה"},
-{T:"r",L:"Camerun",C:["n","jeo"],c:"Yaounde",d:"un pais a la costa ueste de Africa, entre Nijeria e Gabon",i:"#",en:"Cameroon",he:"קמרון"},
+{T:"r",L:"Camerun",C:["n","jeo"],c:"Yaounde",d:"un pais a la costa ueste de Africa, entre Nijeria e Gabon",i:"#",en:"Cameroon",es:"Camerún",he:"קמרון"},
 {L:"camerunes",C:["a"],en:"Cameroonian",he:"קמרוני"},
 {L:"camerunes",C:["n"],en:"Cameroonian",he:"קמרוני"},
 {T:"r",L:"camfor",C:["n","cim"],d:"un materia blanca, volatil e cristal, con odor bon e sabor amarga, trovada en alga olios esensal",en:"camphor",he:"(כימיה) קמפור"},
@@ -7341,8 +7341,8 @@ var disionario = [
 {L:"sucutanea",C:["a","anat"],en:"subcutaneous"},
 {T:"r",L:"cuticula",C:["n","anat"],d:"la strato esterna de un texeda vivente; la pel mor a la funda de un ungia de un dito de mano o pede",en:"cuticle",fr:"cuicule"},
 {L:"cuticula laserada",C:["n"],en:"hangnail"},
-{T:"r",L:"cuxan",C:["a","dem","ist"],d:"pertinente a un dinastia de Iran cual ia invade Barat e ia crea un impero en la norde-ueste entre la sentenios 1 e 3 ec",i:"#",en:"Kushan (dynasty)"},
-{T:"r",L:"cuxin",C:["n","arci"],d:"un saco, tipal retangulo, plenida con plumas o otra materia mol, usada per suporta la testa, dorso o otra partes de la corpo; un cosa simil, usada per proteje contra xocas",i:"#",en:"cushion, pillow; buffer",fr:"coussin"},
+{T:"r",L:"cuxan",C:["a","dem","ist"],d:"pertinente a un dinastia de Iran cual ia invade Barat e ia crea un impero en la norde-ueste entre la sentenios 1 e 3 ec",i:"#",en:"Kushan (dynasty)",es:"kushán (dinastía)"},
+{T:"r",L:"cuxin",C:["n","arci"],d:"un saco, tipal retangulo, plenida con plumas o otra materia mol, usada per suporta la testa, dorso o otra partes de la corpo; un cosa simil, usada per proteje contra xocas",i:"#",en:"cushion, pillow; buffer",es:"cojín",fr:"coussin"},
 {L:"cuxin de favas",C:["n"],en:"beanbag"},
 {L:"cuxin de jenos",C:["n"],en:"kneeler, hassock"},
 {L:"cuxin de securia",C:["n"],i:"#",en:"safety cushion, airbag",es:"airbag",fr:"airbag"},
