@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '20 desembre 2018';
+﻿var dataDeDatos = '25 desembre 2018';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -16793,6 +16793,9 @@ var disionario = [
 {L:"nanisme",C:["n"],en:"dwarfism",es:"enanismo"},
 {T:"r",L:"nana",C:["n"],d:"(nonformal) un enfantor",en:"(colloquial) nanny (carer)",es:"niñera, canguro, nana"},
 {T:"r",L:"nano-",C:["pf","tecn"],d:"multe peti; {10^-9}",en:"nano- (tiny, a thousand-millionth)",es:"nano- (minúsculo, una milmillonésima)"},
+{T:"r",L:"nanomedica",C:["n"],d:"La usa de nanotecnolojia per diagnose, trata e preveni maladias..",en:"nanomedicine",es:"nanomedicina",fr:"nanomédecine"},
+{T:"r",L:"nanoparticula",C:["n"],d:"cualce particula microscopial min ca s 100 nanometres de diametre.",en:"nanoparticle",es:"nanopartícula",fr:"nanoparticule"},
+{T:"r",L:"nanotecnolojia",C:["n"],d:"la siensa e tecnolojia de crea e manipula nanoparticulas",en:"nanotechnology",es:"nanotecnología",fr:"nanotechnologie"},
 {T:"r",L:"napalm",C:["n","cim"],d:"un jelatin aderente e multe flamable, usada en bombas e lansaflamas",en:"napalm (liquid)",es:"napalm (líquido)"},
 {T:"r",L:"nara",C:["vt","arte"],d:"reporta sur (avenis real o imajinada), en parla o scrive, ma tipal per diverti",en:"narrate, tell, relate (story)",es:"narrar, contar"},
 {L:"nara",C:["n"],en:"narration, story, tale, chronicle",es:"narración, historia, cuento, crónica"},
@@ -19264,6 +19267,7 @@ var disionario = [
 {T:"s",d:"(en mesuras de rapidia e simil) en cada (de la unias spesifada)",u:"viaja a sento cilometres per ora",en:"for every, per (in measurements of speed, etc.)"},
 {T:"s",d:"suportante o representante (un promove)",u:"vota per la proposa; me parla per mea ami",en:"for, on behalf of; pro (in favour of)"},
 {T:"s",d:"indicante la longia de un periodo de tempo o distantia tra cual on intende pasa",n:"E `per` e `tra` introdui espresas de tempo o distantia: `per` sujesta mera un intende; `tra` sujesta ce la esperia ia aveni vera.",u:"me vade a via per un semana; el va bisicli per tre menses",en:"for (an intended distance or duration)",eo:"-n, por"},
+{T:"s",d:"no plu tarda ca (un tempo spesifada)",u:"me va ariva per cuatri pos nove; la labora va es completa per la fini de la anio",de:"bis",en:"by (an intended date or time)",es:"para",fr:"d'ici à",it:"per, entro",pt:"até"},
 {L:"per ci",C:["esp"],en:"for whom (relative)"},
 {L:"per cual",C:["esp"],en:"for which (relative)"},
 {L:"per si",C:["sj"],en:"in case"},
