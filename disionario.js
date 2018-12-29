@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '27 desembre 2018';
+﻿var dataDeDatos = '28 desembre 2018';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -16271,7 +16271,7 @@ var disionario = [
 {T:"r",L:"molesta",C:["vt","gov"],d:"ataca o menasa (algun), tipal en modo violente o persistente",en:"molest, harass, harry, hassle"},
 {L:"molesta",C:["n"],en:"molestation, harassment"},
 {T:"r",L:"molibdeno",C:["n","cim"],d:"la elemento cimical con numero atomal 42, un metal arjentin gris e frajil",s:"Mo",en:"molybdenum (element)"},
-{T:"r",L:"molin",C:["n","util","arci","anat"],d:"un aparato per mole gran o otra cosas; un construida conteninte xef un tal aparato; un parte musculosa e con muras spesa de la stomaco de un avia, per moli comedas",en:"mill; gizzard"},
+{T:"r",L:"molin",C:["n","util","arci","anat"],d:"un aparato per mole gran o otra cosas; un construida conteninte xef un tal aparato; un parte musculosa de la stomaco de un avia, con mures spesa, per moli comedas",en:"mill; gizzard"},
 {L:"molin de carne",C:["n"],en:"meat grinder"},
 {L:"molin de gran",C:["n"],en:"gristmill"},
 {L:"molin de mano",C:["n"],en:"handmill, quern"},
@@ -19643,7 +19643,7 @@ var disionario = [
 {L:"piga verde",C:["n","ani","avia"],i:"#",t:"Cissa",en:"green magpie"},
 {T:"r",L:"pigmento",C:["n","bio"],d:"la materia de color natural de la texeda de animales o plantas; un materia usada per colori o pinti, tipal un polvo cual deveni un pinta o inca cuando on misca lo con olio o acua",en:"pigment, pigmentation"},
 {T:"r",L:"pigmeo",C:["n","uma"],d:"un membro de alga poplas de altia multe corta ci abita partes de Africa sentral e Asia sude-este",i:"#",en:"pygmy, pigmy"},
-{T:"r",L:"pigostilo",C:["n","anat"],d:"la vertebras cadual fusada de un avia, suportante la plumas de la coda",en:"pygostyle"},
+{T:"r",L:"pigostilo",C:["n","anat"],d:"la vertebras codal fusada de un avia, suportante la plumas de la coda",en:"pygostyle"},
 {T:"r",L:"pigra",C:["a","uma"],d:"no volente labora o usa enerjia; sin fortia o ativia",en:"lazy, languid, idle, indolent, lackadaisical, slothful"},
 {L:"pigra",C:["n"],en:"lazy person, lazybones, idler, deadbeat, goldbricker, sluggard, wastrel"},
 {L:"pigri",C:["vnt"],en:"laze, lounge, bask, idle; loiter, dawdle, dally, tarry"},
