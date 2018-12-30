@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '28 desembre 2018';
+﻿var dataDeDatos = '29 desembre 2018';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -12108,8 +12108,8 @@ var disionario = [
 {T:"r",L:"grifon",C:["n","mit"],d:"un monstro con corpo de leon e testa e alas de agila",i:"#",en:"griffin, griffon, gryphon"},
 {T:"r",L:"grilia",C:["n","arci","util"],d:"un strutur de bandas de lenio o metal crusante, con spasios cuadro o diamantin a entre, usada como un serca, scermo, brasador, etc; un sinia de du linias vertical e du linias orizonal crusante, con sinifias diversa",i:"#",s:"#",en:"grill, grillwork, grid, gridiron, grate, lattice, latticework, trellis; broiler; hash sign, hashtag; number sign; pound sign (US: weight)"},
 {L:"grilia de ximineria",C:["n"],en:"grate (fireplace)"},
-{L:"grili",C:["vt"],en:"grill, barbecue, broil, charbroil; add a hash sign to, hashtag"},
-{L:"grilin",C:["a"],en:"gridlike, crisscross"},
+{L:"grili",C:["vt"],en:"grill, barbecue, broil, charbroil; add a hash sign to, hashtag; crosshatch"},
+{L:"grilin",C:["a"],en:"gridlike, crisscross, hatching, crosshatching"},
 {T:"r",L:"grilo",C:["n","artr"],d:"un inseto en familia de locusta, de cual la mas produi un grinse ruidosa",i:"#",t:"Ensifera",en:"cricket (insect)"},
 {L:"grilo verde",C:["n","artr"],d:"un locusta grande e tipal verde",i:"#",t:"Tettigoniidae",en:"katydid, bush cricket"},
 {T:"r",L:"grima",C:["vnt","uma"],d:"un espresa de fas, indicante coleria, tristia, consentra o mal umor",en:"grimace, frown, scowl, glower, glare, sneer; grin (skull)"},
