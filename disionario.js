@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '29 desembre 2018';
+﻿var dataDeDatos = '2 janero 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -5790,6 +5790,7 @@ var disionario = [
 {T:"r",L:"condena",C:["vt","gov"],d:"espresa un desaproba completa de; (un judor) declara ofisial ce (algun) debe sufri un puni spesifada",en:"condemn (disapprove, declare punishment), convict, sentence, doom, censure"},
 {L:"condena",C:["n"],en:"condemnation, conviction, sentence, indictment, demerit"},
 {L:"condena a enferno",C:["v"],en:"damn"},
+{L:"condena falsa",C:["v"],en:"frame, falsely convict"},
 {L:"condenada",C:["a"],en:"condemned"},
 {L:"condenada",C:["n"],en:"condemned, convict"},
 {L:"descondena",C:["vt"],en:"overturn the conviction of, quash a guilty verdict against"},
@@ -16639,6 +16640,7 @@ var disionario = [
 {T:"r",L:"multifasetal",C:["a","fis"],d:"con multe fasetas",en:"multifaceted"},
 {T:"r",L:"multigradal",C:["a"],d:"con multe grados o pasos",en:"multistage"},
 {T:"r",L:"multiladal",C:["a","mat"],d:"con multe lados",en:"multilateral, many-sided"},
+{L:"multiladalisme",C:["n"],en:"multilateralism"},
 {T:"r",L:"multilingual",C:["a","ling"],d:"capas de parla, o presentada en, plu ca du linguas",en:"multilingual"},
 {L:"multilingual",C:["n"],en:"polyglot"},
 {T:"r",L:"multilinial",C:["a"],d:"con plu ca un linia",en:"multilinial"},
@@ -24211,7 +24213,7 @@ var disionario = [
 {L:"sisante",C:["a"],en:"hissing, sibilant"},
 {L:"sisante",C:["n"],en:"sibilant (consonant)"},
 {T:"r",L:"sisal",C:["n","pla"],d:"un agave mexican con folias spesa, cultivada per fibres",t:"Agave sisalana",en:"sisal (plant)"},
-{T:"r",L:"sisel",C:["n","util"],d:"un util de mano con un lama longa con borda biselida e un manico simple cual on colpa con un martel per talia o formi lenio, metal o otra materias dur",i:"#",en:"chisel"},
+{T:"r",L:"sisel",C:["n","util"],d:"un util de mano con un lama longa con borda biselida e un manico simple cual on colpa con un martel per talia o formi lenio, metal o otra materias dur",i:"#",en:"chisel, celt"},
 {L:"Sisel",C:["n","ast"],en:"Caelum (constellation)"},
 {L:"siseli",C:["vt"],en:"chisel, carve"},
 {L:"siseli",C:["n"],en:"carving"},
