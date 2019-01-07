@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '3 janero 2019';
+﻿var dataDeDatos = '6 janero 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -23321,6 +23321,7 @@ var disionario = [
 {L:"sembla",C:["n"],en:"resemblance"},
 {T:"r",L:"seme",C:["n","bio"],d:"la unia de reprodui de un planta florinte, capas de developa a un otra tal planta; la calculos peti o la sentro dur de un fruta",i:"#",da:"sæd",de:"Samen",en:"seed; pip, pit, stone (fruit)",eo:"semo",es:"semilla",fr:"graine",it:"seme",nl:"zaad",pt:"semente"},
 {L:"seme de pino",C:["n"],en:"pine nut"},
+{L:"desemador",C:["n"],en:"seed remover; cotton gin"},
 {L:"desemi",C:["vt"],en:"pit, stone (fruit)"},
 {L:"semador",C:["n"],en:"seed drill, seeder"},
 {L:"semi",C:["vt"],en:"sow, seed"},
