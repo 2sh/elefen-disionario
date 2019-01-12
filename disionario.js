@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '8 janero 2019';
+﻿var dataDeDatos = '11 janero 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -6882,6 +6882,7 @@ var disionario = [
 {T:"r",L:"-crin",C:["sf","a","bio","med"],d:"secrete",en:"-crine (secreting)"},
 {T:"r",L:"crinera",C:["n","bio"],d:"la capeles longa a la colo de un cavalo, leon o otra animal; la capeles densa e desordinada de un person",i:"#",en:"mane, mop (hair); horsehair"},
 {T:"r",L:"crinoide",C:["n"],d:"un ecinodermato con brasos magra e plumin, incluinte stelas-de-mar e stelas-de-mar plumosa",i:"#",t:"Crinoidea",en:"crinoid (organism)"},
+{T:"r",L:"crio",C:["n"],d:"un creol fundida sur la engles parlada par sirca 500 000 persones en Siera Leon",en:"Krio  (language)",es:"krio (lengua)",fr:"krio (langue)",it:"krio (lingua)",ja:"クリオ語",nl:"krio (taal)",pl:"krio (język)",pt:"krio (língua)",ru:"Крио"},
 {T:"r",L:"criobiolojia",C:["n","bio"],en:"cryobiology"},
 {T:"r",L:"criofilia",C:["n","bio"],d:"la capasia de alga organismes de abita en situas multe fria",en:"cryophilia"},
 {L:"criofilica",C:["a"],en:"cryophilic"},
@@ -23586,7 +23587,7 @@ var disionario = [
 {T:"r",L:"serie",C:["n"],d:"un cuantia de cosas, avenis o persones de un tipo simil o natural relatada, ordinada la un pos la otra; un grupo de libros, mapas, jornales o otra documentos publicida en la mesma forma o stilo o con titulo comun; un grupo de programes de radio, televisa o filma con tema comun, tipal presentada en ordina; (en cimica) un grupo de elementos con cualias comun o de composadas relatada par sua composa o strutur",da:"serie",de:"Reihe",en:"series, spate, succession",eo:"serio",es:"serie",fr:"série",it:"serie, sequenza",nl:"serie, reeks",pt:"série, seqüência"},
 {L:"serie de colonas",C:["n","arci"],i:"#",en:"colonnade"},
 {L:"serie de imajes",C:["n"],en:"series of images, slide show",fr:"diaporama"},
-{L:"en serie",C:["a"],en:"in series, in sequence, running, consecutive, in a row",fr:"à la suite, consécutif"},
+{L:"en serie",C:["a"],en:"in series, in sequence, running, consecutive, successive, in a row",fr:"à la suite, consécutif"},
 {L:"serial",C:["a"],en:"serial",fr:"en série"},
 {L:"serial",C:["av"],en:"in series"},
 {T:"r",L:"serif",C:["n","ling"],d:"un estende peti cual completi un linia de un letera en alga tipos de leteras",en:"serif",fr:"empattement"},
