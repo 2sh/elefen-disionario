@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '2 febrero 2019';
+﻿var dataDeDatos = '3 febrero 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -22097,6 +22097,8 @@ var disionario = [
 {L:"revolta",C:["n"],en:"revolution, revolt, uprising (local rebellion)"},
 {T:"r",L:"revolui",C:["vt","gov"],d:"aboli, desvalidi o reversa (un sistem presedente); cambia (un cosa) en modo estrema o fundal",en:"revolutionize|is, overturn"},
 {L:"revolui",C:["n"],en:"revolution (overthrow of government), insurgence"},
+{L:"posrevolual",C:["a"],en:"post-revolutionary"},
+{L:"prerevolual",C:["a"],en:"pre-revolutionary"},
 {L:"revoluinte",C:["a"],en:"revolutionary, radical"},
 {L:"revoluisme",C:["n"],en:"revolutionism"},
 {L:"revoluiste",C:["n"],en:"revolutionist, revolutionary, radical, insurgent"},
