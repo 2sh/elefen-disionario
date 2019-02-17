@@ -2945,7 +2945,7 @@
 {"L":"bateta","C":["n"],"en":"knock, rap, tap (at door); beat (heart); flutter (wings)","he":"נקישה, דפיקה; פעימה (לב); נפנוף (כנפיים)"}
 {"L":"bateta de cor","C":["n","med"],"en":"heartbeat","fr":"battement de cœur","he":"פעימת לב, דופק"}
 {"L":"bateta de ungulas","C":["n"],"en":"hoofbeat","he":"נקישת פרסה"}
-{"L":"batetador","C":["n"],"en":"knocker (door)","he":"מרתוק (התקן הקשה על הדלת)"}
+{"L":"batetador","C":["n","util","med"],"d":"un ojeto de metal o lenio, xarnierida a un porte e colpada par visitores arivante; un aparato medical per stimula la cor e regula sua contraes","en":"knocker (door); pacemaker (medical)","he":"מרתוק (התקן הקשה על הדלת)"}
 {"T":"r","L":"bateovo","C":["n","vn","cos"],"d":"un util de cosini per bate ovos o crema","en":"eggbeater","he":"מקציף ביצים"}
 {"T":"r","L":"bateporte","C":["n","vn"],"d":"un ojeto de metal o lenio xarnierida a un porte e bateda par visitores per atrae atende","i":"#","en":"door knocker","fr":"heurtoir","he":"מרתוק (התקן הקשה על הדלת)"}
 {"T":"r","L":"bateria","C":["n","bio"],"d":"un membro de un grupo multe grande de microbios uniselulal, con mures selulal ma sin organetas e sin nucleo, de cual alga causa maladias","t":"Bacteria, Eubacteria","en":"bacterium, eubacterium","fr":"bactérie","he":"חיידק, בקטריה"}
@@ -6481,50 +6481,49 @@
 {"L":"coronin","C":["a"],"en":"crownlike, crown-shaped","he":"כתרי, דמוי-כתר"}
 {"L":"descoroni","C":["vt"],"en":"uncrown","he":"להדיח מלך/מלכה"}
 {"T":"r","L":"coronel","C":["n","gov"],"d":"un ofisior militar de grado alta, supra un teninte e su un jeneral","en":"colonel","he":"קולונל"}
-{"T":"r","L":"corpo","C":["n","anat"],"d":"la strutur fisical de un person o animal, incluinte la osos, carne e organos; la casco de un veculo; la sudivide major de un forte militar ativa; un colie de testos, spesial la obras completa de un autor spesifada o sur un sujeto spesifada","en":"body (person, animal, vehicle); corps (military); corpus (texts)"}
-{"L":"corpo de comunica","C":["n"],"en":"signals corps"}
-{"L":"corpo mamelin","C":["n"],"en":"mammillary body"}
-{"L":"corpo mor","C":["n"],"en":"dead body, corpse, cadaver, carcass"}
-{"L":"corpal","C":["a"],"en":"corporal, corporeal, somatic"}
-{"L":"corpeta","C":["n"],"en":"corpuscle"}
-{"L":"corpi","C":["vnt"],"en":"become embodied"}
-{"L":"corpi","C":["vt"],"en":"embody, be the embodiment of"}
-{"L":"corpi","C":["n"],"en":"embodiment"}
-{"L":"corpin","C":["a"],"en":"bodylike, close-fitting, figure-hugging, form-fitting, tight-fitting, skintight"}
-{"L":"de corpo capas","C":["a"],"en":"able-bodied"}
-{"L":"descorpi","C":["vnt"],"en":"become disembodied"}
-{"L":"descorpida","C":["a"],"en":"disembodied"}
-{"L":"sin corpo","C":["a"],"en":"bodiless, disembodied, incorporeal"}
-{"T":"r","L":"corpora","C":["vnt","gov"],"d":"(un compania o grupo) reseta la autoria per funsiona como un individua legal reconoseda","en":"incorporate"}
-{"L":"corpora","C":["n"],"en":"incorporation; corporation, guild; corporate (company)"}
-{"T":"r","L":"corsa","C":["vnt","spo"],"d":"(corores, cavalores, canes, veculos, barcones, etc) compete per trova la plu rapida","en":"race"}
-{"L":"corsa","C":["n"],"en":"race; racing"}
-{"L":"corsa de autos","C":["n","spo"],"i":"#","en":"motor racing, car racing, auto racing"}
-{"L":"corsa de cavalos","C":["n","spo"],"i":"#","en":"horse race; horseracing"}
-{"L":"corsa de dragsteres","C":["n","spo"],"en":"drag race"}
-{"L":"corsa de orienta","C":["n","spo"],"en":"orienteering"}
-{"L":"corsa de ostaculos","C":["n","spo"],"en":"hurdle race"}
-{"L":"corsa de rele","C":["n","spo"],"en":"relay race"}
-{"L":"corsa de salta","C":["n","spo"],"en":"steeplechase"}
-{"L":"corsa de sci","C":["n","spo"],"en":"cross-country skiing"}
-{"L":"corsor","C":["n"],"en":"racer"}
-{"L":"corsor de ostaculos","C":["n"],"en":"hurdler"}
-{"L":"precorsor","C":["n"],"en":"pacemaker, pacesetter (in race)"}
-{"T":"r","L":"Corse","C":["n","jeo"],"d":"un isola montaniosa prosima a Italia, parteninte a Frans","i":"#","en":"Corsica"}
-{"L":"corsu","C":["a"],"en":"Corsican (person, language)"}
-{"L":"corsu","C":["n","dem"],"en":"Corsican (person, language)"}
-{"T":"r","L":"corseto","C":["n","vest"],"d":"un veste streta cual suporta la dorso o magri la taie","i":"#","en":"corset, girdle, bodice"}
-{"L":"corsetor","C":["n"],"en":"corsetiere"}
-{"T":"r","L":"corta","C":["a"],"d":"(un person, cosa o tempo) no longa, con poca distantia de un fini a la otra","en":"short, brief, stubby"}
-{"L":"corta pos","C":["prep"],"en":"shortly after"}
-{"L":"cortador","C":["n"],"i":"#","en":"clippers (electric)"}
-{"L":"corti","C":["vnt"],"en":"shorten"}
-{"L":"corti","C":["vt"],"en":"shorten, cut short, trim, prune, crop, lop, abbreviate, abridge, curtail"}
-{"L":"corti","C":["n"],"en":"trim, abbreviation (action, result)"}
-{"L":"corti de barba","C":["n"],"en":"shave"}
+{"T":"r","L":"corpo","C":["n","anat"],"d":"la strutur fisical de un person o animal, incluinte la osos, carne e organos; la casco de un veculo; la sudivide major de un forte militar ativa; un colie de testos, spesial la obras completa de un autor spesifada o sur un sujeto spesifada","en":"body (person, animal, vehicle); corps (military); corpus (texts)","he":"גוף; גיס, חיל; קורפוס"}
+{"L":"corpo de comunica","C":["n"],"en":"signals corps","he":"חיל הקשר"}
+{"L":"corpo mamelin","C":["n"],"en":"mammillary body","he":"(אנטומיה) גוף דדי"}
+{"L":"corpo mor","C":["n"],"en":"dead body, corpse, cadaver, carcass","he":"גופה, גוויה; נבלה, פגר"}
+{"L":"corpal","C":["a"],"en":"corporal, corporeal, somatic","he":"גשמי, פיזי, גופני"}
+{"L":"corpeta","C":["n"],"en":"corpuscle","he":"גופיף"}
+{"L":"corpi","C":["vnt"],"en":"become embodied","he":"להתגלם"}
+{"L":"corpi","C":["vt"],"en":"embody, be the embodiment of","he":"לגלם"}
+{"L":"corpi","C":["n"],"en":"embodiment","he":"התגלמות, גילום, גופיות"}
+{"L":"corpin","C":["a"],"en":"bodylike, close-fitting, figure-hugging, form-fitting, tight-fitting, skintight","he":"צמוד (לגוף)"}
+{"L":"de corpo capas","C":["a"],"en":"able-bodied","he":"כשיר, ללא מוגבלות"}
+{"L":"descorpi","C":["vnt"],"en":"become disembodied","he":"להיפרד מהגוף, להפוך ללא גשמי"}
+{"L":"descorpida","C":["a"],"en":"disembodied","he":"חסר גוף, לא גשמי"}
+{"L":"sin corpo","C":["a"],"en":"bodiless, disembodied, incorporeal","he":"חסר גוף, לא גשמי"}
+{"T":"r","L":"corpora","C":["vnt","gov"],"d":"(un compania o grupo) reseta la autoria per funsiona como un individua legal reconoseda","en":"incorporate","he":"להתאגד"}
+{"L":"corpora","C":["n"],"en":"incorporation; corporation, guild; corporate (company)","he":"תאגיד"}
+{"T":"r","L":"corsa","C":["vnt","spo"],"d":"(corores, cavalores, canes, veculos, barcones, etc) compete per trova la plu rapida","en":"race","he":"להשתתף במרוץ"}
+{"L":"corsa","C":["n"],"en":"race; racing","he":"מרוץ"}
+{"L":"corsa de autos","C":["n","spo"],"i":"#","en":"motor racing, car racing, auto racing","he":"מרוץ מכוניות"}
+{"L":"corsa de cavalos","C":["n","spo"],"i":"#","en":"horse race; horseracing","he":"מרוץ סוסים"}
+{"L":"corsa de dragsteres","C":["n","spo"],"en":"drag race","he":"מרוץ דראג"}
+{"L":"corsa de orienta","C":["n","spo"],"en":"orienteering","he":"ניווט ספורטיבי"}
+{"L":"corsa de ostaculos","C":["n","spo"],"en":"hurdle race","he":"מרוץ משוכות"}
+{"L":"corsa de rele","C":["n","spo"],"en":"relay race","he":"מרוץ שליחים"}
+{"L":"corsa de salta","C":["n","spo"],"en":"steeplechase","he":"מרוץ/ריצת מכשולים"}
+{"L":"corsa de sci","C":["n","spo"],"en":"cross-country skiing","he":"סקי למרחקים"}
+{"L":"corsor","C":["n"],"en":"racer","he":"מתחרה (במרוץ)"}
+{"L":"corsor de ostaculos","C":["n"],"en":"hurdler","he":"רץ משוכות"}
+{"L":"precorsor","C":["n"],"en":"pacemaker, pacesetter (in race)","he":"מכתיב קצב, פייסר"}
+{"T":"r","L":"Corse","C":["n","jeo"],"d":"un isola montaniosa prosima a Italia, parteninte a Frans","i":"#","en":"Corsica","he":"קורסיקה"}
+{"L":"corsu","C":["a"],"en":"Corsican (person, language)","he":"קורסיקאי, קורסיקאית (שפה)"}
+{"L":"corsu","C":["n","dem"],"en":"Corsican (person, language)","he":"קורסיקאי, קורסיקאית (שפה)"}
+{"T":"r","L":"corseto","C":["n","vest"],"d":"un veste streta cual suporta la dorso o magri la taie","i":"#","en":"corset, girdle, bodice","he":"מחוך"}
+{"L":"corsetor","C":["n"],"en":"corsetiere","he":"יצרן מחוכים"}
+{"T":"r","L":"corta","C":["a"],"d":"(un person, cosa o tempo) no longa, con poca distantia de un fini a la otra","en":"short, brief, stubby","he":"קצר"}
+{"L":"corta pos","C":["prep"],"en":"shortly after","he":"זמן קצר לאחר-מכן"}
+{"L":"cortador","C":["n"],"i":"#","en":"clippers (electric)","he":"מכונת תספורת"}
+{"L":"corti","C":["vnt"],"en":"shorten","he":"להתקצר"}
+{"L":"corti","C":["vt"],"en":"shorten, cut short, trim, prune, crop, lop, abbreviate, abridge, curtail","he":"לקצר, לקצוץ, לגזום"}
+{"L":"corti","C":["n"],"en":"trim, abbreviation (action, result)","he":"התקצרות, קיצור, קיצוץ, גיזום"}
 {"L":"corti de capeles","C":["n"],"en":"haircut"}
 {"L":"corti de perspetiva","C":["n"],"en":"foreshortening"}
-{"L":"corti la barba","C":["v"],"en":"shave"}
+{"L":"corti sua barba","C":["v"],"en":"trim one's beard"}
 {"L":"corti la erba","C":["v"],"en":"cut the grass, mow the lawn"}
 {"L":"cortia","C":["n"],"en":"brevity"}
 {"L":"cortor","C":["n"],"en":"cutter, mower (person)"}
@@ -12614,6 +12613,7 @@
 {"T":"r","L":"imno","C":["n","rel"],"d":"un canta o poesia formal de loda","en":"hymn, anthem, paean","eo":"himno"}
 {"T":"r","L":"imobila","C":["n","mone"],"d":"un propria nonmovable, tipal un construida e la tera ensircante","n":"`Imobila` es un nom contable.","en":"property, premises, piece of real estate, homestead, realty","eo":"domhavaĵo, terhavaĵo"}
 {"L":"con imobila","C":["a"],"en":"propertied, landed"}
+{"L":"imobilor","C":["n"],"en":"landowner, property owner"}
 {"T":"r","L":"impala","C":["n","mam"],"d":"un antilope de Africa este e sude, con moves refinada e cornos curva como un lira","i":"#","t":"Aepyceros melampus","en":"impala (antelope)","eo":"impalo"}
 {"T":"r","L":"impasto","C":["n","arte"],"d":"la tecnica de aplica un pinta tan densa ce lo protende de un surfas","en":"impasto (painting technique)"}
 {"T":"r","L":"impedi","C":["vt"],"d":"bloci (un person o cosa) per retarda o para el o lo","en":"impede, hinder, prevent, hamper, deter, preclude, thwart; obstruct, block, congest, be in the way","eo":"malhelpi, obstrukci"}
@@ -19028,7 +19028,6 @@
 {"T":"r","L":"pasiva","C":["a","ling","gov"],"d":"asetante o permetente lo cual aveni o lo cual otras fa, sin resiste o responde ativa; (un verbo) indicante un ata cual es fada a sua sujeto","en":"passive"}
 {"L":"pasiva","C":["n"],"en":"passive (grammar)"}
 {"L":"pasivia","C":["n"],"en":"passivity"}
-{"T":"r","L":"pasmacer","C":["n","util","med"],"d":"un aparato per stimula la cor e regula sua contraes","en":"pacemaker (medical)"}
 {"T":"r","L":"paso","C":["n"],"d":"un move de un pede ante la otra cuando on pasea o core; un ata en un serie dirijeda a un gol","en":"step, footstep, pace, tread; stage (of progress)"}
 {"L":"fa un mal paso","C":["v"],"en":"stumble, trip, misstep, make a mistake, make a faux pas"}
 {"L":"fa un paso","C":["v"],"en":"step, take a step, tread, pace"}
