@@ -2945,7 +2945,7 @@
 {"L":"bateta","C":["n"],"en":"knock, rap, tap (at door); beat (heart); flutter (wings)","he":"נקישה, דפיקה; פעימה (לב); נפנוף (כנפיים)"}
 {"L":"bateta de cor","C":["n","med"],"en":"heartbeat","fr":"battement de cœur","he":"פעימת לב, דופק"}
 {"L":"bateta de ungulas","C":["n"],"en":"hoofbeat","he":"נקישת פרסה"}
-{"L":"batetador","C":["n","util","med"],"d":"un ojeto de metal o lenio, xarnierida a un porte e colpada par visitores arivante; un aparato medical per stimula la cor e regula sua contraes","en":"knocker (door); pacemaker (medical)","he":"מרתוק (התקן הקשה על הדלת)"}
+{"L":"batetador","C":["n","util","med"],"d":"un ojeto de metal o lenio, xarnierida a un porte e colpada par visitores arivante; un aparato medical per stimula la cor e regula sua contraes","en":"knocker (door); pacemaker (medical)","he":"מרתוק (התקן הקשה על הדלת); קוצב לב"}
 {"T":"r","L":"bateovo","C":["n","vn","cos"],"d":"un util de cosini per bate ovos o crema","en":"eggbeater","he":"מקציף ביצים"}
 {"T":"r","L":"bateporte","C":["n","vn"],"d":"un ojeto de metal o lenio xarnierida a un porte e bateda par visitores per atrae atende","i":"#","en":"door knocker","fr":"heurtoir","he":"מרתוק (התקן הקשה על הדלת)"}
 {"T":"r","L":"bateria","C":["n","bio"],"d":"un membro de un grupo multe grande de microbios uniselulal, con mures selulal ma sin organetas e sin nucleo, de cual alga causa maladias","t":"Bacteria, Eubacteria","en":"bacterium, eubacterium","fr":"bactérie","he":"חיידק, בקטריה"}
@@ -5103,7 +5103,7 @@
 {"L":"clave de arco","C":["n"],"i":"#","en":"keystone","he":"אבן הראשה"}
 {"L":"clave de musica","C":["n"],"en":"clef","he":"(מוזיקה) מפתח"}
 {"L":"clave engles","C":["n"],"i":"#","en":"monkey wrench","he":"מפתח צינורות"}
-{"L":"clave exagon","C":["n"],"i":"#","en":"Allen key, Allen wrench","he":"מפתח אלן"}
+{"L":"clave esagon","C":["n"],"i":"#","en":"Allen key, Allen wrench","he":"מפתח אלן"}
 {"L":"clave restrinjeda","C":["n"],"d":"un clave per la porte de un sala ofisial restrinjeda a sola alga persones","en":"passkey","he":"מפתח מוגבל (שאינו ניתן לשכפול)"}
 {"L":"clave xef","C":["n"],"d":"un clave capas de abri multe portes, de cual cada ave ance sua propre clave","en":"master key, passkey","he":"מפתח מאסטר"}
 {"L":"clavi","C":["vt"],"en":"lock","he":"לנעול (במנעול ומפתח)"}
@@ -6519,33 +6519,33 @@
 {"L":"corta pos","C":["prep"],"en":"shortly after","he":"זמן קצר לאחר-מכן"}
 {"L":"cortador","C":["n"],"i":"#","en":"clippers (electric)","he":"מכונת תספורת"}
 {"L":"corti","C":["vnt"],"en":"shorten","he":"להתקצר"}
-{"L":"corti","C":["vt"],"en":"shorten, cut short, trim, prune, crop, lop, abbreviate, abridge, curtail","he":"לקצר, לקצוץ, לגזום"}
+{"L":"corti","C":["vt"],"en":"shorten, cut short, trim, prune, crop, lop, abbreviate, abridge, curtail","he":"לקצר, לקצוץ, לגזום, לכסח"}
 {"L":"corti","C":["n"],"en":"trim, abbreviation (action, result)","he":"התקצרות, קיצור, קיצוץ, גיזום"}
-{"L":"corti de capeles","C":["n"],"en":"haircut"}
-{"L":"corti de perspetiva","C":["n"],"en":"foreshortening"}
-{"L":"corti sua barba","C":["v"],"en":"trim one's beard"}
-{"L":"corti la erba","C":["v"],"en":"cut the grass, mow the lawn"}
-{"L":"cortia","C":["n"],"en":"brevity"}
-{"L":"cortor","C":["n"],"en":"cutter, mower (person)"}
-{"L":"pos corta","C":["av"],"en":"soon, shortly"}
-{"T":"r","L":"corte","C":["n","gov"],"d":"un asembla governada par un o plu judores per gida prosedes de lege; la construida o salon per esta; un renor e sua consiliores e otra persones; la abiteria de un renor","en":"court (law, royal); courthouse, courtroom"}
-{"L":"corte de apela","C":["n"],"en":"court of appeal, appellate court"}
-{"L":"corte militar","C":["n"],"en":"court martial, military court"}
-{"L":"corte suprema","C":["n"],"en":"supreme court"}
-{"T":"r","L":"cortea","C":["vt","uma"],"d":"interata romantica con un otra person, tipal con intende de sposi; (un animal) atenta atrae un spos","en":"court, woo, date"}
-{"L":"cortea","C":["n"],"en":"courtship, date, dating"}
-{"L":"corteal","C":["a"],"en":"courting, dating"}
-{"L":"compete corteal","C":["v"],"en":"rut"}
-{"L":"compete corteal","C":["n"],"en":"rut"}
-{"L":"corteor","C":["n"],"en":"date, wooer, suitor"}
-{"L":"mostra corteal","C":["n"],"en":"courtship display"}
-{"L":"periodo corteal","C":["n"],"en":"mating season, rut, estrus|oe"}
-{"T":"r","L":"cortes","C":["a"],"d":"conduinte en un modo respetosa e compatiosa a otra persones","en":"courteous, polite, cordial, decorous, urbane"}
-{"L":"cortesia","C":["n"],"en":"courtesy, politeness, civility, etiquette, manners, decorum, propriety"}
-{"L":"cortesia de rede","C":["n"],"en":"netiquette"}
-{"L":"noncortes","C":["a"],"en":"discourteous, impolite, rude, impudent, cheeky, irreverent, impertinent, sassy, tactless, gruff, surly, mouthy, overfamiliar, presumptuous, unmannerly"}
-{"L":"noncortesia","C":["n"],"en":"impoliteness, rudeness, impudence, cheek, cheekiness, nerve, irreverence, impertinence, sass"}
-{"T":"r","L":"cortesan","C":["n","uma"],"d":"un prostituida, tipal con clientes rica","en":"courtesan, hetaera"}
+{"L":"corti de capeles","C":["n"],"en":"haircut","he":"תספורת"}
+{"L":"corti de perspetiva","C":["n"],"en":"foreshortening","he":"קיצור פרספקטיבה"}
+{"L":"corti sua barba","C":["v"],"en":"trim one's beard","he":"לקצר את הזקן"}
+{"L":"corti la erba","C":["v"],"en":"cut the grass, mow the lawn","he":"לכסח את הדשא"}
+{"L":"cortia","C":["n"],"en":"brevity","he":"קיצור, תמציתיות"}
+{"L":"cortor","C":["n"],"en":"cutter, mower (person)","he":"(אדם) חותך, קוצץ, גוזם, מכסח"}
+{"L":"pos corta","C":["av"],"en":"soon, shortly","he":"בקרוב, במהרה, עוד מעט, לאחר זמן קצר"}
+{"T":"r","L":"corte","C":["n","gov"],"d":"un asembla governada par un o plu judores per gida prosedes de lege; la construida o salon per esta; un renor e sua consiliores e otra persones; la abiteria de un renor","en":"court (law, royal); courthouse, courtroom","he":"בית משפט, בית דין; חצר (המלך)"}
+{"L":"corte de apela","C":["n"],"en":"court of appeal, appellate court","he":"בית משפט לערעורים"}
+{"L":"corte militar","C":["n"],"en":"court martial, military court","he":"בית משפט צבאי"}
+{"L":"corte suprema","C":["n"],"en":"supreme court","he":"בית משפט עליון"}
+{"T":"r","L":"cortea","C":["vt","uma"],"d":"interata romantica con un otra person, tipal con intende de sposi; (un animal) atenta atrae un spos","en":"court, woo, date","he":"לחזר"}
+{"L":"cortea","C":["n"],"en":"courtship, date, dating","he":"חיזור"}
+{"L":"corteal","C":["a"],"en":"courting, dating","he":"של חיזור"}
+{"L":"compete corteal","C":["v"],"en":"rut","he":"להתייחם"}
+{"L":"compete corteal","C":["n"],"en":"rut","he":"ייחום"}
+{"L":"corteor","C":["n"],"en":"date, wooer, suitor","he":"מחזר"}
+{"L":"mostra corteal","C":["n"],"en":"courtship display","he":"טקס חיזור"}
+{"L":"periodo corteal","C":["n"],"en":"mating season, rut, estrus|oe","he":"עונת רבייה"}
+{"T":"r","L":"cortes","C":["a"],"d":"conduinte en un modo respetosa e compatiosa a otra persones","en":"courteous, polite, cordial, decorous, urbane","he":"אדיב, מנומס"}
+{"L":"cortesia","C":["n"],"en":"courtesy, politeness, civility, etiquette, manners, decorum, propriety","he":"אדיבות, נימוס"}
+{"L":"cortesia de rede","C":["n"],"en":"netiquette","he":"נימוסי רשת"}
+{"L":"noncortes","C":["a"],"en":"discourteous, impolite, rude, impudent, cheeky, irreverent, impertinent, sassy, tactless, gruff, surly, mouthy, overfamiliar, presumptuous, unmannerly","he":"גס, גס רוח, חסר נימוס, בוטה, חצוף, עז מצח"}
+{"L":"noncortesia","C":["n"],"en":"impoliteness, rudeness, impudence, cheek, cheekiness, nerve, irreverence, impertinence, sass","he":"גסות, גסות רוח, חוסר נימוס, בוטות, חוצפנות, עזות מצח"}
+{"T":"r","L":"cortesan","C":["n","uma"],"d":"un prostituida, tipal con clientes rica","en":"courtesan, hetaera","he":"קורטיזנה"}
 {"T":"r","L":"cortex","C":["n","anat"],"d":"la strato esterna de la serebro; la strato esterna de otra organos, como la ren, la serebreta o un capel; (en botanica) la strato direta su la epiderma de un radis o tronceta","en":"cortex; bark (tree)"}
 {"L":"cortex de tanin","C":["n"],"en":"tanbark"}
 {"L":"cortex serebral","C":["n"],"en":"cerebral cortex"}
@@ -8710,6 +8710,7 @@
 {"T":"r","L":"ecotono","C":["n","bio"],"d":"un zona de cambia entre du comunias biolojial","en":"ecotone (biology)"}
 {"T":"r","L":"ectare","C":["n","mat"],"d":"un unia metral per mesura area, egal a 100 ares","en":"hectare (unit of area)"}
 {"T":"r","L":"ecto-","C":["pf","tecn"],"d":"(un mesura) multiplida par 100","en":"hecto- (hundred)"}
+{"T":"r","L":"ecto-","C":["pf","tecn"],"d":"estra, esterna","en":"ecto- (outside)"}
 {"T":"r","L":"ectoderma","C":["n","bio"],"d":"la strato de selulas la plu esterna, spesial en embrios temprana","en":"ectoderm (anatomy)"}
 {"T":"r","L":"-ectomia","C":["sf","n","med"],"d":"estrae sirurjial","en":"-ectomy (surgery)"}
 {"T":"r","L":"ectopia","C":["n","med"],"d":"un loca o posa nonormal de un organo","en":"ectopia (medical)"}
@@ -9204,6 +9205,7 @@
 {"L":"endoscopial","C":["a"],"en":"endoscopic"}
 {"T":"r","L":"endostilo","C":["n","bio"],"d":"(en alga animales primitiva, como lampreas) un ranur con silios a la mur ventral de la farinje, cual produi muco per colie particulas de nurintes","en":"endostyle (anatomy)"}
 {"T":"r","L":"endotelio","C":["n","bio","anat"],"d":"la texeda cual formi un strato de selulas forente multe organos e cavetas de corpo, spesial la cor, la dutos sangual e la dutos limfal","en":"endothelium (anatomy)"}
+{"T":"r","L":"enea-","C":["pf","mat"],"d":"nove","en":"ennea-"}
 {"T":"r","L":"enebria","C":["vt","bio","uma"],"d":"(un droga o alcol) fa ce (algun) perde controla de sua condui e capasias","i":"#","en":"intoxicate, inebriate"}
 {"L":"enebria","C":["n"],"en":"intoxication, inebriation, drunkenness"}
 {"L":"enebriada","C":["a"],"en":"intoxicated, inebriated, drunk, drunken, tipsy"}
@@ -9607,9 +9609,13 @@
 {"T":"r","L":"-es","C":["sf"],"d":"ajuntada per plurali un nom cual fini con un consonante","u":"canes","v":"-s","en":"-s (plural of noun that ends in a consonant)"}
 {"T":"r","L":"esa-","C":["pf","tecn"],"d":"ses","en":"hex- (six)"}
 {"T":"r","L":"-esa","C":["sf","n"],"d":"ajuntada a un nom per crea un titulo formal per un fem","u":"prinsesa","en":"-ess (formal female title)"}
+{"T":"r","L":"esadesimal","C":["a","info"],"d":"pertinente a un sistem de aritmetica fundida sur la numero des-ses","en":"hexadecimal"}
 {"T":"r","L":"esaedro","C":["a","mat"],"d":"(un ojeto) solida con ses fases plana","en":"hexahedral"}
 {"L":"esaedro","C":["n"],"en":"hexahedron"}
+{"T":"r","L":"esagon","C":["a","mat"],"d":"(un forma plana) con ses lados reta e ses angulos","en":"hexagonal"}
+{"L":"esagon","C":["n"],"en":"hexagon"}
 {"T":"r","L":"esagram","C":["n","mit"],"d":"un stela con ses puntos, formida par la crusa de du triangulos ecuiladal; cada de 64 grupos de ses linias paralel, intera o rompeda, en la libro de divina {Yì jīng}","i":"#","en":"hexagram"}
+{"T":"r","L":"esametre","C":["n","ling"],"d":"un linia de poesia composada de ses metres","en":"hexameter"}
 {"T":"r","L":"esajera","C":["vt"],"d":"representa (alga cosa) como plu grande, plu bon o plu mal ca lo es en realia","en":"exaggerate, overstate, overdo, caricature"}
 {"L":"esajera","C":["n"],"en":"exaggeration, hyperbole; spoof"}
 {"T":"r","L":"esajo","C":["n","arte"],"d":"un scriveda corta sur un tema spesifada","en":"essay"}
@@ -10086,7 +10092,6 @@
 {"L":"etnolojial","C":["a"],"en":"ethnological"}
 {"L":"etnolojiste","C":["n"],"en":"ethnologist"}
 {"T":"r","L":"etnomusicolojia","C":["n","mus"],"d":"la studia de musica de etnicos spesifada","en":"ethnomusicology"}
-{"T":"r","L":"eto-","C":["pf","tecn"],"d":"estra, esterna","en":"ecto- (outside)"}
 {"T":"r","L":"etolojia","C":["n","bio","uma"],"d":"la studia biolojial de la condui de animales o umanas e sua organiza sosial","en":"ethology"}
 {"L":"etolojial","C":["a"],"en":"ethological"}
 {"L":"etolojiste","C":["n"],"en":"ethologist"}
@@ -10189,10 +10194,6 @@
 {"L":"evoluisme","C":["n"],"en":"evolutionism"}
 {"L":"evoluiste","C":["n"],"en":"evolutionist"}
 {"T":"r","L":"exa-","C":["pf","tecn"],"d":"{10^18}","en":"exa-"}
-{"T":"r","L":"exadesimal","C":["a","info"],"d":"pertinente a un sistem de aritmetica fundida sur la numero des-ses","en":"hexadecimal"}
-{"T":"r","L":"exagon","C":["a","mat"],"d":"(un forma plana) con ses lados reta e ses angulos","en":"hexagonal"}
-{"L":"exagon","C":["n"],"en":"hexagon"}
-{"T":"r","L":"exametre","C":["n","ling"],"d":"un linia de poesia composada de ses metres","en":"hexameter"}
 {"T":"r","L":"eziditi","C":["a","dem"],"d":"pertinente a un etnico curdi con relijio e cultur antica","en":"Yazidi"}
 {"L":"eziditi","C":["n"],"en":"Yazidi"}
 {"L":"eziditisme","C":["n"],"en":"Yazidism (religion)"}
@@ -10434,7 +10435,7 @@
 {"L":"fava roja","C":["n"],"en":"kidney bean, frijol","fr":"haricot rouge"}
 {"L":"fava verde","C":["n"],"en":"green bean, snap bean","fr":"haricot vert"}
 {"L":"favin","C":["a"],"en":"beanlike, bean-shaped"}
-{"T":"r","L":"favo","C":["n","bio"],"d":"un strutur de selulas exagon, fabricada de sira par abeas per reserva miel e ovos; cualce strutur simil","i":"#","en":"honeycomb","fr":"alvéole d'abeille"}
+{"T":"r","L":"favo","C":["n","bio"],"d":"un strutur de selulas esagon, fabricada de sira par abeas per reserva miel e ovos; cualce strutur simil","i":"#","en":"honeycomb","fr":"alvéole d'abeille"}
 {"T":"r","L":"favore","C":["vt","uma"],"d":"senti o mostra aproba o prefere per; (vestes) dona un bon aspeta a","en":"favor|ur, indulge, privilege; (garment) flatter","fr":"favoriser"}
 {"L":"favore","C":["n"],"en":"favor|ur, indulgence, partiality; good turn","fr":"faveur"}
 {"L":"favore divin","C":["n"],"en":"providence","fr":"providence"}
@@ -17261,7 +17262,7 @@
 {"L":"malnomida","C":["n"],"en":"misnomer"}
 {"L":"nomes","C":["n","pl"],"en":"names, nomenclature"}
 {"L":"nometa","C":["n"],"en":"nickname, sobriquet, soubriquet"}
-{"L":"nomi","C":["vt"],"u":"on nomi esta forma un exagon","en":"name, call, give a name to; appoint"}
+{"L":"nomi","C":["vt"],"u":"on nomi esta forma un esagon","en":"name, call, give a name to; appoint"}
 {"L":"nomi per","C":["v"],"en":"name for, name after"}
 {"L":"nomida","C":["a"],"en":"named, called"}
 {"L":"nomida X","C":["n"],"en":"named X, called X, known as X"}
@@ -18268,7 +18269,6 @@
 {"T":"r","L":"ostror","C":["n","avia"],"d":"un avia costal vadante, con plumas intera negra o blanca-negra e beco orania-roja, xef comente moluscos","i":"#","t":"Haematopus","en":"oystercatcher (bird)"}
 {"T":"r","L":"otagon","C":["a","mat"],"d":"(un forma plana) con oto lados reta e oto angulos","en":"octagonal"}
 {"L":"otagon","C":["n"],"en":"octagon"}
-{"T":"r","L":"otalmo-","C":["pf","tecn","med"],"d":"oios","en":"opthalmo- (eye)"}
 {"T":"r","L":"otano","C":["n","cim"],"d":"un idrocarbono flamable e sin color","en":"octane"}
 {"T":"r","L":"otante","C":["n","mat","ast"],"d":"un oti de la perimetre de un sirculo, o la area encluida par esta e du radios de la sirculo; un strumento antica con esta forma, usada en astronomia e naviga","en":"octant"}
 {"L":"Otante","C":["n","ast"],"d":"un constela minor en la sielo sude","en":"Octans (constellation)"}
@@ -26400,7 +26400,7 @@
 {"T":"r","L":"torax","C":["n","anat"],"d":"la parte de la corpo de un mamal entre la colo e la adomen; la parte simil de otra vertebratos; la parte media de la corpo de un inseto","en":"thorax","fr":"thorax"}
 {"L":"toraxal","C":["a"],"en":"thoracic","fr":"thoracique"}
 {"T":"r","L":"torba","C":["n","tera"],"d":"un materia brun, tipal de tera asida e pantanosa, composada de plantas partal descomposada, usada como un combustable e en jardines","en":"peat (soil)","fr":"tourbe"}
-{"T":"r","L":"torca","C":["n","util"],"d":"un peso peti de metal o otra materia, tipal cuadro o exagon, con un fora con fileta per usa con un bulon","i":"#","en":"nut (for bolt)","fr":"écrou"}
+{"T":"r","L":"torca","C":["n","util"],"d":"un peso peti de metal o otra materia, tipal cuadro o esagon, con un fora con fileta per usa con un bulon","i":"#","en":"nut (for bolt)","fr":"écrou"}
 {"L":"torca papilin","C":["n"],"en":"wing nut","fr":"vis papillon"}
 {"T":"r","L":"torce","C":["n","vest","ist"],"d":"un banda de metal torseda, portada par celtas antica","en":"torc (ornament)"}
 {"T":"r","L":"tore","C":["n","arci"],"d":"un construida alta e streta, tipal un parte de un eglesa o castel ma ance autonom a veses; un peso en xace, con forma de tore, cual pote move en linias orizonal e vertical","i":"#","ca":"torre","da":"tårn","de":"Turm","en":"tower; rook (chess)","es":"torre","fr":"(une) tour","it":"torre","ja":"塔","nl":"toren","pt":"torre","ru":"башня"}
