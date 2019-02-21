@@ -551,7 +551,7 @@
 {"T":"r","L":"ajenero","C":["a","uma"],"d":"(un person) ci regarda se no como masin, no como femin","en":"agender, gender-neutral, unisex","he":"ג'נדרקוויר (אדם שאינו מגדיר את עצמו כזכר או כנקבה)"}
 {"L":"ajenero","C":["n","uma"],"en":"agender person","he":"ג'נדרקוויר (אדם שאינו מגדיר את עצמו כזכר או כנקבה)"}
 {"T":"r","L":"ajente","C":["n","gov"],"d":"un person ci ata per un otra, tipal negosiante entre du persones o organizas","en":"agent, broker, intermediary, attaché","eo":"agento, makleristo, peranto","he":"סוכן, מתווך"}
-{"L":"ajente asecurinte","C":["n"],"en":"underwriter","he":"(ביטוח) חתם"}
+{"L":"ajente asecurante","C":["n"],"en":"underwriter","he":"(ביטוח) חתם"}
 {"L":"ajente de aposta","C":["n"],"d":"un person ci aseta apostas, calcula probablias e paia la ganias","en":"bookmaker, bookie","he":"סוכן הימורים"}
 {"L":"ajente de cambia","C":["n"],"d":"un person en un asioneria ci compra e vende titulos finansial per un otra","en":"stockbroker","eo":"borsagento","he":"סוכן בורסה, ברוקר"}
 {"L":"ajente de imobila","C":["n"],"d":"un person ci vende o lua imobila per un otra","en":"estate agent, real estate agent, realtor","eo":"domagento, bienmakleristo","he":"סוכן נדל\"ן"}
@@ -11608,16 +11608,16 @@
 {"L":"galeta","C":["n"],"i":"#","en":"chick, chicken","es":"pollo"}
 {"L":"galin","C":["a"],"en":"chickenlike"}
 {"T":"r","L":"gala","C":["n","spo","arte"],"d":"un diverti publica; un esibi de obras spesial","en":"show (entertainment)","es":"gala, espectáculo"}
-{"T":"r","L":"galago","C":["n","mam"],"d":"un primate peti e noturna de Africa con oios multe grande","i":"#","t":"Galagidae","en":"galago, bushbaby, nagapie (primate)"}
-{"T":"r","L":"Galapagos, Isolas","C":["n","pl","jeo"],"d":"un arcipelago de isolas a la ecuator en la Mar Pasifica a ueste de Ecuador, a cual los parteni","i":"Isolas-Galapagos","en":"Galápagos Islands"}
-{"T":"r","L":"galasia","C":["n","ast"],"d":"un sistem de miliones o biliones de stelas, con gas e polvo, tenida par gravita","i":"#","en":"galaxy"}
-{"L":"galasial","C":["a"],"en":"galactic"}
-{"L":"intergalasial","C":["a"],"en":"intergalactic"}
-{"T":"r","L":"galatosa","C":["n","cim"],"d":"un zucar cual es un composante de latosa e multe polisacaridos","en":"galactose (sugar)"}
-{"T":"r","L":"galea","C":["n","vec","ist"],"d":"un barco antica, basa e plata con un o plu velas e un, du o tre linias de remos, usada per gera, comersia e piratia","i":"#","en":"galley (ship)"}
-{"L":"galeon","C":["n"],"en":"galleon (ship)"}
-{"T":"r","L":"galeria","C":["n","arci"],"d":"un sala o construida per esibi o vende obras de arte; un sala o pasaje longa, partal abrida a un lado","i":"#","en":"gallery, showroom (art); cloister (architecture)"}
-{"L":"galerieta","C":["n"],"en":"portfolio (of work)"}
+{"T":"r","L":"galago","C":["n","mam"],"d":"un primate peti e noturna de Africa con oios multe grande","i":"#","t":"Galagidae","en":"galago, bushbaby, nagapie (primate)","es":"galágido, gálago"}
+{"T":"r","L":"Galapagos, Isolas","C":["n","pl","jeo"],"d":"un arcipelago de isolas a la ecuator en la Mar Pasifica a ueste de Ecuador, a cual los parteni","i":"Isolas-Galapagos","en":"Galápagos Islands","es":"Islas Galápagos"}
+{"T":"r","L":"galasia","C":["n","ast"],"d":"un sistem de miliones o biliones de stelas, con gas e polvo, tenida par gravita","i":"#","en":"galaxy","es":"galaxia"}
+{"L":"galasial","C":["a"],"en":"galactic","es":"galáctico"}
+{"L":"intergalasial","C":["a"],"en":"intergalactic","es":"intergaláctico"}
+{"T":"r","L":"galatosa","C":["n","cim"],"d":"un zucar cual es un composante de latosa e multe polisacaridos","en":"galactose (sugar)","es":"galactosa"}
+{"T":"r","L":"galea","C":["n","vec","ist"],"d":"un barco antica, basa e plata con un o plu velas e un, du o tre linias de remos, usada per gera, comersia e piratia","i":"#","en":"galley (ship)","es":"galera (barco)"}
+{"L":"galeon","C":["n"],"en":"galleon (ship)","es":"galeón (barco)"}
+{"T":"r","L":"galeria","C":["n","arci"],"d":"un sala o construida per esibi o vende obras de arte; un sala o pasaje longa, partal abrida a un lado","i":"#","en":"gallery, showroom (art); cloister (architecture)","es":"galería, sala de exposición, sala de exposiciones (arte); soportal (arquitectura)"}
+{"L":"galerieta","C":["n"],"en":"portfolio (of work)","es":"portfolio"}
 {"T":"r","L":"galia","C":["n","pla"],"d":"un planta erbosa con flores peti, jala o blanca, e spirales de folias magra, istorial usada per pleni materases","i":"#","t":"Galium","en":"bedstraw, galium (plant)"}
 {"T":"r","L":"Galia","C":["n","jeo"],"d":"un area en Europa antica, corespondente a la loca moderna de Frans, Beljia, Nederland sude, Deutxland sude-ueste, e Italia norde","i":"#","en":"Gaul (ancient region)"}
 {"L":"galo","C":["a"],"en":"Gaulish; Gaul"}
