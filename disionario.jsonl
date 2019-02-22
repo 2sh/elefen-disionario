@@ -248,7 +248,7 @@
 {"L":"acui","C":["vt"],"d":"ajunta acua a","en":"water","he":"להשקות, להוסיף מים"}
 {"L":"acuin","C":["a"],"d":"(un sustantia) simil a acua, spesial en relata a sua capasia de flue","en":"watery, runny, thin, non-viscous","eo":"akveca, fluema, neviskoza","he":"מימי, נוזלי, דליל"}
 {"L":"acuor","C":["n"],"d":"un person ci trae acua","en":"water carrier, water bearer","eo":"akvisto, akvoportanto","he":"נושא מים"}
-{"L":"Acuor","C":["n","ast"],"d":"un constela grande de la zodiaco, entre la Capra e la Pexes","s":"♒","en":"Aquarius (constellation)","eo":"Akvisto, Amforo","he":"קבוצת הכוכבים דלי"}
+{"L":"Acuor","C":["n","ast"],"d":"un constela grande de la zodiaco, entre la Capra e la Pexes","s":"♒","en":"Aquarius (constellation)","eo":"Akvisto, Amforo","he":"דלי (קבוצת כוכבים)"}
 {"L":"acuosa","C":["a"],"d":"conteninte o empapada con multe acua","en":"watery, aqueous; waterlogged, sodden, soggy","eo":"akvoplena, tramalseka, saturita","he":"מימי, מכיל מים; מוצף, רווי, ספוג"}
 {"L":"de acua dulse","C":["a"],"en":"freshwater","he":"של מים מתוקים"}
 {"L":"de acua salosa","C":["a"],"en":"saltwater","he":"של מים מלוחים"}
@@ -346,6 +346,7 @@
 {"L":"adsorbe","C":["n"],"en":"adsorption","he":"(כימיה) סיפוח או צבירה על גבי משטח"}
 {"T":"r","L":"adui","C":["vt","anat"],"d":"(un musculo) move (un membro) en dirije a la linia media de simetria de la corpo","en":"adduct (muscle)","eo":"adukcii","he":"למשוך או להזיז לעבר הציר המרכזי של הגוף"}
 {"L":"adui","C":["n"],"en":"adduction","eo":"adukcio","he":"משיכה או הזזה לעבר הציר המרכזי של הגוף"}
+{"L":"aduinte","C":["a"],"en":"adducent"}
 {"L":"aduador","C":["n"],"d":"un musculo cual adui","en":"adductor (muscle)","eo":"aduktoro","he":"שריר המקרב לעבר הציר המרכזי של הגוף"}
 {"T":"r","L":"adula","C":["vt"],"d":"loda multe (algun) en modo umil per atenta boni sua situa","en":"adulate, flatter, fawn over, grovel to, toady to, suck up to, coax, wheedle, cajole, ingratiate, kowtow","eo":"flataĉi, komplezaĉi, rampi antaŭ","he":"להחניף, להחמיא, להתרפס כלפי"}
 {"L":"adula","C":["n"],"en":"flattery, fawning, adulation, sycophancy","eo":"flataĉado, komplezaĉado","he":"חנופה, התרפסות"}
@@ -427,6 +428,9 @@
 {"L":"agilin","C":["a"],"en":"aquiline; eagle-eyed","eo":"agleca","fr":"aquilin","he":"נשרי"}
 {"T":"r","L":"aglutina","C":["vt","ling"],"d":"combina (morfemes semantical) per formi un parola nova","o":"de latina ad- (a) + glutinare (coli)","en":"agglutinate","eo":"aglutini, alglui","fr":"agglutiner","he":"ליצור מילים חדשות על ידי חיבור מילים או מיליות"}
 {"L":"aglutinante","C":["a","ling"],"en":"agglutinative","eo":"aglutina","fr":"agglutinant","he":"שפה שבה יוצרים מילים על ידי חיבור"}
+{"T":"r","L":"agnosia","C":["n","med"],"d":"un noncapasia de interprete sensas e donce de reconose cosas, tipal resultante de dana serebral","en":"agnosia"}
+{"L":"agnosica","C":["a"],"en":"agnosic"}
+{"L":"agnosica","C":["n"],"en":"agnosic"}
 {"T":"r","L":"agnostica","C":["a","rel"],"d":"credente ce on no pote sabe esce dios esiste","o":"de elinica a- (no) + gnostos (sabe)","en":"agnostic","eo":"agnostika","fr":"agnostique","he":"אגנוסטי"}
 {"L":"agnostica","C":["n"],"en":"agnostic","eo":"agnostikulo","he":"אגנוסטי"}
 {"L":"agnosticisme","C":["n"],"en":"agnosticism","eo":"agnostikismo","fr":"agnosticisme","he":"אגנוטיציזם"}
@@ -3658,7 +3662,7 @@
 {"L":"brilieta","C":["vnt"],"en":"glow","he":"לזהור, לבהוק באור עמום"}
 {"L":"brilieta","C":["n"],"en":"sheen, glow, luster|re","he":"ברק, בוהק עמום"}
 {"L":"brilion","C":["n"],"en":"glare, dazzle","he":"סנוור"}
-{"L":"cuantia de brilia","C":["n"],"en":"brightness; magnitude (astronomy)","he":"בהירות"}
+{"L":"grado de brilia","C":["n"],"en":"brightness; magnitude (astronomy)","he":"בהירות"}
 {"T":"r","L":"briliamobila","C":["n","vn"],"d":"un sustantia usada per brilia mobilas de lenio","en":"furniture polish","he":"מבריק רהיטים"}
 {"T":"r","L":"briliasapato","C":["n","vn"],"d":"un sustantia usada per brilia sapatos o botas de cuoro","en":"shoe polish","he":"משחת נעליים"}
 {"T":"r","L":"brinca","C":["vt","spo"],"d":"move lejera par saltas peti, sur un o du pedes, per traversa (un loca); core juante, como un enfante","en":"hop, skip, gambol, caper, cavort, flit across","fr":"sautiller","he":"לקפץ, לדלג"}
@@ -6546,15 +6550,15 @@
 {"L":"noncortes","C":["a"],"en":"discourteous, impolite, rude, impudent, cheeky, irreverent, impertinent, sassy, tactless, gruff, surly, mouthy, overfamiliar, presumptuous, unmannerly","he":"גס, גס רוח, חסר נימוס, בוטה, חצוף, עז מצח"}
 {"L":"noncortesia","C":["n"],"en":"impoliteness, rudeness, impudence, cheek, cheekiness, nerve, irreverence, impertinence, sass","he":"גסות, גסות רוח, חוסר נימוס, בוטות, חוצפנות, עזות מצח"}
 {"T":"r","L":"cortesan","C":["n","uma"],"d":"un prostituida, tipal con clientes rica","en":"courtesan, hetaera","he":"קורטיזנה"}
-{"T":"r","L":"cortex","C":["n","anat"],"d":"la strato esterna de la serebro; la strato esterna de otra organos, como la ren, la serebreta o un capel; (en botanica) la strato direta su la epiderma de un radis o tronceta","en":"cortex; bark (tree)"}
-{"L":"cortex de tanin","C":["n"],"en":"tanbark"}
-{"L":"cortex serebral","C":["n"],"en":"cerebral cortex"}
-{"L":"cortexal","C":["a"],"en":"cortical"}
-{"L":"descortexi","C":["vt"],"en":"decorticate, remove the bark from"}
-{"T":"r","L":"corticosteroide","C":["a","bio","med"],"d":"parteninte a un grupo de ormones steroide, produida en la cortex de la glande suprarenal o sinteseda","en":"corticosteroid"}
-{"L":"corticosteroide","C":["n","bio","med"],"en":"corticosteroid"}
-{"T":"r","L":"cortierba","C":["n","vn"],"d":"un macina per corti la erba en un jardin o parce","i":"#","en":"lawnmower, mower"}
-{"L":"cortierba puiable","C":["n"],"i":"#","en":"push mower, unmotorized|is lawnmower"}
+{"T":"r","L":"cortex","C":["n","anat"],"d":"la strato esterna de la serebro; la strato esterna de otra organos, como la ren, la serebreta o un capel; (en botanica) la strato direta su la epiderma de un radis o tronceta","en":"cortex; bark (tree)","he":"(אנטומיה) קליפה; קליפת עץ"}
+{"L":"cortex de tanin","C":["n"],"en":"tanbark","he":"קליפת עץ לטאנין"}
+{"L":"cortex serebral","C":["n"],"en":"cerebral cortex","he":"קליפת המוח"}
+{"L":"cortexal","C":["a"],"en":"cortical","he":"קליפתי"}
+{"L":"descortexi","C":["vt"],"en":"decorticate, remove the bark from","he":"להסיר קליפת עץ"}
+{"T":"r","L":"corticosteroide","C":["a","bio","med"],"d":"parteninte a un grupo de ormones steroide, produida en la cortex de la glande suprarenal o sinteseda","en":"corticosteroid","he":"קורטיקוסטרואיד"}
+{"L":"corticosteroide","C":["n","bio","med"],"en":"corticosteroid","he":"קורטיקוסטרואיד"}
+{"T":"r","L":"cortierba","C":["n","vn"],"d":"un macina per corti la erba en un jardin o parce","i":"#","en":"lawnmower, mower","he":"מכסחת דשא"}
+{"L":"cortierba puiable","C":["n"],"i":"#","en":"push mower, unmotorized|is lawnmower","he":"מכסחת דשא ידנית"}
 {"T":"r","L":"cortina","C":["n","arci"],"d":"un stofa pendente cual covre o scermi, tipal un de du ante un fenetra","i":"#","en":"curtain, drape"}
 {"L":"cortina alta","C":["n"],"i":"#","en":"valance"}
 {"L":"cortina enrolante","C":["n"],"en":"window blind, window shade"}
@@ -7507,6 +7511,7 @@
 {"L":"deduinte","C":["a"],"en":"deductive, inferential","fr":"déductif","ru":"дедуктивный, логически выведенный"}
 {"T":"r","L":"dedui","C":["vt","anat"],"d":"(un musculo) move (un membro) a via de la linia media de simetria de la corpo","en":"abduct (muscle)","eo":"abdukcii","ru":"сокращаться (о мышце)"}
 {"L":"dedui","C":["n"],"en":"abduction","eo":"abdukcio","fr":"abduction","ru":"сокращение (о мышце)"}
+{"L":"deduinte","C":["a"],"en":"abducent"}
 {"L":"deduador","C":["n"],"d":"un musculo cual dedui","en":"abductor (muscle)","eo":"abduktoro","fr":"abducteur","ru":"абдуктор (мышца, осуществляющая отведение конечности или ее части)"}
 {"T":"r","L":"defende","C":["vt"],"d":"resiste un ataca a (un person o cosa); proteje (un person o cosa) de peril o dana; parla o scrive per suporta (un ata o person); gida un caso per (algun) en un litiga; compete per reteni (un titulo o seja) en un concurso o eleje","en":"defend, advocate","ru":"защищать (в то числе в суде), отстаивать (права, честь и тп)"}
 {"L":"defende","C":["n"],"en":"defense|ce","ru":"защита (в том числе в суде)"}
@@ -8815,7 +8820,13 @@
 {"L":"egali","C":["vt"],"en":"equalize|is, make equal"}
 {"L":"egali","C":["vt"],"en":"match, rival, equate to, catch up with"}
 {"L":"egali","C":["n"],"en":"equation"}
+{"L":"egali cuadral","C":["n"],"v":"egali de grado du","en":"quadratic equation"}
+{"L":"egali cubo","C":["n"],"v":"egali de grado tre","en":"cubic equation"}
+{"L":"egali de grado du","C":["n"],"v":"egali cuadral","en":"quadratic equation"}
+{"L":"egali de grado tre","C":["n"],"v":"egali de grado tre","en":"cubic equation"}
+{"L":"egali de grado un","C":["n"],"v":"egali linial","en":"linear equation"}
 {"L":"egali diferensial","C":["n"],"en":"differential equation"}
+{"L":"egali linial","C":["n"],"v":"egali de grado un","en":"linear equation"}
 {"L":"egalia","C":["n"],"en":"equality, parity, equivalence"}
 {"L":"egalinte","C":["a"],"en":"equalizing|is"}
 {"L":"egalinte","C":["n"],"en":"equalizer|is"}
@@ -12069,7 +12080,7 @@
 {"L":"grandi","C":["vnt"],"en":"enlarge, grow, increase, amplify, magnify, augment, scale up, escalate, heighten"}
 {"L":"grandi","C":["vt"],"en":"enlarge, grow, increase, amplify, magnify, augment, scale up, escalate, heighten"}
 {"L":"grandi","C":["n"],"en":"enlargement, growth, increase, amplification, magnification; augmentation, escalation"}
-{"L":"grandia","C":["n"],"en":"size, amplitude; stature"}
+{"L":"grandia","C":["n"],"en":"size, amplitude, magnitude; stature"}
 {"L":"grandida","C":["a"],"en":"enlarged, magnified"}
 {"L":"grandiosa","C":["a"],"en":"grandiose, grand"}
 {"L":"nongrandida","C":["a"],"en":"unenlarged, unmagnified"}
@@ -12248,15 +12259,15 @@
 {"T":"r","L":"haida","C":["a","dem"],"d":"pertinente a un popla de americanes orijinal de la costas de Columbia Brites e Alaska sude-este, o a sua lingua","en":"Haida (person, language)"}
 {"L":"haida","C":["n"],"en":"Haida (person, language)"}
 {"T":"r","L":"Hainan","C":["n","jeo"],"d":"un isola en la Mar Xina Sude cual es un rejion autonom de Jonguo","i":"#","en":"Hainan (island)"}
-{"T":"r","L":"halal","C":["a","cos"],"d":"pertinente a carne preparada en la modo prescriveda par lege muslim","en":"halal"}
-{"L":"halal","C":["n"],"en":"halal meat"}
-{"T":"r","L":"halter","C":["n","spo"],"d":"un bara corta con un pesa a cada fini, levada per crese la musculos de braso","i":"#","en":"dumbbell"}
+{"T":"r","L":"halal","C":["a","cos"],"d":"pertinente a carne preparada en la modo prescriveda par lege muslim","en":"halal","es":"halal"}
+{"L":"halal","C":["n"],"en":"halal meat","es":"carne halal"}
+{"T":"r","L":"halter","C":["n","spo"],"d":"un bara corta con un pesa a cada fini, levada per crese la musculos de braso","i":"#","en":"dumbbell","es":"mancuerna"}
 {"T":"r","L":"halter","C":["n","bio"],"d":"un de la du organos de ecuilibra de un mosca","en":"halter, haltere"}
 {"T":"r","L":"halumi","C":["n","cos"],"d":"un ceso blanca, blanda e firma de Cipros","en":"halloumi"}
-{"T":"r","L":"halux","C":["n","anat","med"],"d":"la diton de la pede","en":"hallux, big toe (technical)"}
-{"L":"halux valga","C":["n"],"en":"bunion"}
-{"T":"r","L":"Hampshire Nova","C":["n","jeo"],"d":"un stato en la SUA norde-este","p":"hámpxer","en":"New Hampshire (US state)"}
-{"T":"r","L":"han","C":["n","ist"],"d":"la titulo de renores e ofisiores en Asia sentral e alga otra nasiones muslim; la titulo de la imperores mongol","i":"han-renor","en":"khan, khagan (governor)"}
+{"T":"r","L":"halux","C":["n","anat","med"],"d":"la diton de la pede","en":"hallux, big toe (technical)","es":"hallux, dedo gordo del, dedo grueso del pie, gran artejo, ortejo"}
+{"L":"halux valga","C":["n"],"en":"bunion","es":"bunio, juanete"}
+{"T":"r","L":"Hampshire Nova","C":["n","jeo"],"d":"un stato en la SUA norde-este","p":"hámpxer","en":"New Hampshire (US state)","es":"Nuevo Hampshire (estado de Estados Unidos)"}
+{"T":"r","L":"han","C":["n","ist"],"d":"la titulo de renores e ofisiores en Asia sentral e alga otra nasiones muslim; la titulo de la imperores mongol","i":"han-renor","en":"khan, khagan (governor)","es":"kan"}
 {"L":"hania","C":["n"],"d":"la impero o otra rena de un han","en":"khanate, khaganate"}
 {"T":"r","L":"han","C":["a","ist"],"d":"pertinente a la dinastia cual ia rena Jonguo de 206 aec a 220 ec","i":"#","en":"Han (dynasty)"}
 {"T":"r","L":"handbal","C":["n","spo"],"d":"un sporte en cual du ecipos usa sua manos per colpa un bal en dirije a goles","i":"#","en":"handball (sport)"}
