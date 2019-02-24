@@ -428,9 +428,9 @@
 {"L":"agilin","C":["a"],"en":"aquiline; eagle-eyed","eo":"agleca","fr":"aquilin","he":"נשרי"}
 {"T":"r","L":"aglutina","C":["vt","ling"],"d":"combina (morfemes semantical) per formi un parola nova","o":"de latina ad- (a) + glutinare (coli)","en":"agglutinate","eo":"aglutini, alglui","fr":"agglutiner","he":"ליצור מילים חדשות על ידי חיבור מילים או מיליות"}
 {"L":"aglutinante","C":["a","ling"],"en":"agglutinative","eo":"aglutina","fr":"agglutinant","he":"שפה שבה יוצרים מילים על ידי חיבור"}
-{"T":"r","L":"agnosia","C":["n","med"],"d":"un noncapasia de interprete sensas e donce de reconose cosas, tipal resultante de dana serebral","en":"agnosia"}
-{"L":"agnosica","C":["a"],"en":"agnosic"}
-{"L":"agnosica","C":["n"],"en":"agnosic"}
+{"T":"r","L":"agnosia","C":["n","med"],"d":"un noncapasia de interprete sensas e donce de reconose cosas, tipal resultante de dana serebral","en":"agnosia","he":"אגנוזיה, אל-הכר"}
+{"L":"agnosica","C":["a"],"en":"agnosic","he":"סובל מאגנוזיה"}
+{"L":"agnosica","C":["n"],"en":"agnosic","he":"סובל מאגנוזיה"}
 {"T":"r","L":"agnostica","C":["a","rel"],"d":"credente ce on no pote sabe esce dios esiste","o":"de elinica a- (no) + gnostos (sabe)","en":"agnostic","eo":"agnostika","fr":"agnostique","he":"אגנוסטי"}
 {"L":"agnostica","C":["n"],"en":"agnostic","eo":"agnostikulo","he":"אגנוסטי"}
 {"L":"agnosticisme","C":["n"],"en":"agnosticism","eo":"agnostikismo","fr":"agnosticisme","he":"אגנוטיציזם"}
@@ -442,7 +442,7 @@
 {"L":"ageti","C":["vnt"],"d":"rompe, deveninte agetas","en":"splinter, sliver, chip","eo":"splitiĝi","fr":"voler en éclats","he":"להתפצל, להתבקע, להפוך לשבבים"}
 {"L":"ageti","C":["vt"],"en":"splinter, sliver, chip","he":"לפצל, לבקע, ליצור שבבים"}
 {"L":"agin","C":["a"],"en":"needlelike","he":"בצורת מחט"}
-{"T":"r","L":"agoniste","C":["n","med","bio"],"d":"un cimical cual stimula un responde fisiolojial; un musculo de cual sua contrae move un parte de la corpo","en":"agonist"}
+{"T":"r","L":"agoniste","C":["n","med","bio"],"d":"un cimical cual stimula un responde fisiolojial; un musculo de cual sua contrae move un parte de la corpo","en":"agonist","he":"(רפואה) אגוניסט, מסייע"}
 {"T":"r","L":"agopuntur","C":["n","med"],"d":"un tecnica de medica alternativa en cual on pone agos en la pel","i":"#","en":"acupuncture","eo":"akupunkturo","fr":"acupuncture","he":"אקופונקטורה, דיקור סיני"}
 {"L":"acupunturiste","C":["n"],"en":"acupuncturist","he":"אקופונטוריסט, מדקר סיני"}
 {"T":"r","L":"agora","C":["n"],"d":"(en Elas antica) un plaza publica per asemblas e mercatos","i":"#","en":"agora","he":"(יוון העתיקה) שוק או כיכר"}
@@ -470,7 +470,7 @@
 {"T":"r","L":"aha","C":["esc"],"d":"espresante ce on comprende subita o ia fa un descovre","p":"ahá","en":"aha","he":"אהא"}
 {"T":"r","L":"ahimsa","C":["n","rel"],"d":"(en budisme, induisme e jainisme) la prinsipe de respeta tota organismes e evita violentia","o":"de sanscrito a- (sin) + himsa (violentia)","en":"ahimsa (Buddhism, Hinduism)","eo":"ahimso","he":"(בודהיזם) אהימסה"}
 {"T":"r","L":"ai","C":["esc"],"d":"espresante tristia o compatia","en":"oh dear, sigh, alas, alack","eo":"ve","he":"אוי, אבוי"}
-{"T":"r","L":"aiai","C":["n","mam"],"d":"un lemur con dentes rodente e un dito media longa e streta per estrae larvas de arbores","i":"#","o":"de malagasi aiay","t":"Daubentonia madagascariensis","en":"aye-aye (primate)","eo":"fingrobesto, ajajo, daŭbentonio","fr":"aye-aye","he":"איי איי (סוג של פרימט ממדגסקר)"}
+{"T":"r","L":"aiai","C":["n","mam"],"d":"un lemur con dentes rodente e un dito media longa e streta per estrae larvas de arbores","i":"#","o":"de malagasi aiay","t":"Daubentonia madagascariensis","en":"aye-aye (primate)","eo":"fingrobesto, ajajo, daŭbentonio","fr":"aye-aye","he":"איי איי (בעל חיים)"}
 {"T":"r","L":"aiatola","C":["n","rel","gov"],"d":"un autoriosa en islam xia, spesial en Iran","o":"de arabi ayatu (simbol) + allah (dio)","en":"ayatollah","he":"אייתולה"}
 {"T":"r","L":"aicido","C":["n","spo"],"d":"un arte militar o autodefende nion cual redirije la atacas de la oposor","o":"de japanes ai (unida) + ki (spirito) + do (via)","en":"aikido","eo":"aikido, ajkido","fr":"aikido","he":"אייקידו"}
 {"T":"r","L":"aida","C":["vt"],"d":"fasili la taxe de (algun) par partisipa en lo; fa ce (un situa o problem) deveni plu bon","en":"help, assist, aid, abet, help out; serve (customer); improve","eo":"helpi","fr":"aider, assister; servir (client)","he":"לעזור, לסייע"}
@@ -6172,7 +6172,7 @@
 {"L":"contraconsepi urjente","C":["n"],"en":"emergency contraception","he":"מניעת הריון דחופה"}
 {"L":"contraconsepinte","C":["a"],"en":"contraceptive","he":"מונע הריון"}
 {"L":"contraconsepinte","C":["n"],"en":"contraceptive","he":"אמצעי מניעה"}
-{"L":"contraconsepinte intrauteral","C":["n"],"i":"#","en":"intrauterine contraceptive device, IUD, coil","he":"התקן תוך-רחמי"}
+{"L":"contraconsepinte intrauteral","C":["n"],"en":"intrauterine contraceptive device, IUD, coil","he":"התקן תוך-רחמי"}
 {"T":"r","L":"contracultur","C":["n"],"d":"un modo de vive e colie de disposas oposante o diferente de la normas sosial comun","en":"counterculture","he":"תרבות הנגד"}
 {"L":"contracultural","C":["a"],"en":"counterculture, countercultural","he":"של תרבות הנגד"}
 {"T":"r","L":"contrademostra","C":["vt","fil"],"d":"demostra ce (alga cosa) es falsa","en":"disprove","he":"להפריך, להזם"}
@@ -6559,57 +6559,57 @@
 {"L":"corticosteroide","C":["n","bio","med"],"en":"corticosteroid","he":"קורטיקוסטרואיד"}
 {"T":"r","L":"cortierba","C":["n","vn"],"d":"un macina per corti la erba en un jardin o parce","i":"#","en":"lawnmower, mower","he":"מכסחת דשא"}
 {"L":"cortierba puiable","C":["n"],"i":"#","en":"push mower, unmotorized|is lawnmower","he":"מכסחת דשא ידנית"}
-{"T":"r","L":"cortina","C":["n","arci"],"d":"un stofa pendente cual covre o scermi, tipal un de du ante un fenetra","i":"#","en":"curtain, drape"}
-{"L":"cortina alta","C":["n"],"i":"#","en":"valance"}
-{"L":"cortina enrolante","C":["n"],"en":"window blind, window shade"}
-{"L":"cortina venezian","C":["n"],"en":"venetian blind, jalousie"}
-{"L":"cortinas","C":["n","pl"],"en":"curtains, drapery"}
-{"L":"sin cortina","C":["a"],"en":"uncurtained"}
-{"T":"r","L":"cortisona","C":["n","bio"],"d":"un ormon produida par la cortex suprarenal","en":"cortisone (hormone)"}
-{"T":"r","L":"cortiungia","C":["n","vn","util"],"d":"un util per corti ungias de dito e pede","en":"nail clipper"}
-{"T":"r","L":"Corvatsca","C":["n","jeo"],"c":"Zagreb","d":"un pais en Europa sude-este, con costa a la Mar Adriatica","i":"#","en":"Croatia"}
-{"L":"corvatsce","C":["a"],"en":"Croatian (person, language)"}
-{"L":"corvatsce","C":["n","dem"],"en":"Croatian (person, language)"}
-{"T":"r","L":"corveta","C":["n","vec"],"d":"un barcon peti de gera, desiniada per acompania convoias","en":"corvette (ship)"}
-{"T":"r","L":"corvo","C":["n","avia"],"d":"un avia grande con plumas negra e briliante, beco spesa, e vose xiliante","t":"Corvus","en":"crow, raven"}
-{"L":"corvo american","C":["n","ani","avia"],"i":"#","t":"Corvus brachyrhynchos","en":"American crow"}
-{"L":"corvo blanca-negra","C":["n","ani","avia"],"i":"#","t":"Corvus albus","en":"pied crow"}
-{"L":"corvo comun","C":["n","ani","avia"],"i":"#","t":"Corvus corone","en":"carrion crow"}
-{"L":"corvo de jungla","C":["n","ani","avia"],"i":"#","t":"Corvus macrorhynchos","en":"jungle crow"}
-{"L":"corvo gris","C":["n","ani","avia"],"i":"#","t":"Corvus cornix","en":"hooded crow, hoodie"}
-{"L":"Corvo","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Corvus (constellation)"}
-{"L":"corvo pexante","C":["n","ani","avia"],"i":"#","t":"Corvus ossifragus","en":"fish crow"}
-{"L":"corvon","C":["n","ani","avia"],"i":"#","t":"Corvus albicollis, Corvus corax, Corvus crassirostris, Corvus ruficollis, {etc","en":"raven"}
-{"T":"r","L":"cosa","C":["n"],"d":"cualce ojeto o conseta cual esiste o pote es pensada","en":"thing, affair, matter, entity"}
-{"L":"no cosa","C":["n"],"en":"nothing"}
-{"L":"no cosa plu ca","C":["esp"],"en":"nothing more than, merely, simply, just"}
-{"L":"noncosia","C":["n"],"en":"nothingness"}
-{"T":"r","L":"cosa","C":["a","dem"],"d":"pertinente a un popla de Sudafrica o a sua lingua","en":"Xhosa (person, language)"}
-{"L":"cosa","C":["n"],"en":"Xhosa (person, language)"}
-{"T":"r","L":"coscrive","C":["vt","arte"],"d":"scrive (alga cosa) con un otra person","en":"co-write, coauthor"}
-{"L":"coscrivor","C":["n"],"en":"co-writer, coauthor"}
-{"T":"r","L":"cose","C":["vt","vest"],"d":"junta o repara (alga cosa) con filo, usante un ago o un macina spesial","en":"sew, stitch"}
-{"L":"cose","C":["n"],"en":"sewing, stitching, needlework"}
-{"L":"cose de orlo","C":["n"],"en":"hemstitch"}
-{"L":"cose laxe","C":["vt"],"en":"baste"}
-{"L":"cosador","C":["n"],"i":"#","en":"sewing machine"}
-{"L":"coseda","C":["a"],"en":"sewn, stitched"}
-{"L":"coseda par mano","C":["a"],"en":"handsewn, handstitched"}
-{"L":"cosor","C":["n"],"en":"sewer, seamster, seamstress"}
-{"T":"r","L":"cosina","C":["n","cos"],"d":"un sala o area do on prepara e coce comedas","i":"#","en":"kitchen"}
-{"L":"cosinal","C":["a"],"en":"culinary"}
-{"L":"cosineta","C":["n"],"en":"kitchenette"}
-{"L":"cosini","C":["vt"],"en":"cook"}
-{"L":"cosini","C":["n"],"en":"cooking, cookery, cuisine, cooking style"}
-{"L":"cosini refinada","C":["n"],"en":"haute cuisine"}
-{"L":"cosinor","C":["n"],"en":"cook"}
-{"T":"r","L":"cosineto","C":["n","util"],"d":"un parte de un macina cual tolera frica, spesial entre un parte jirante e sua caxa","en":"bearing (machinery)"}
-{"T":"r","L":"cosinus","C":["n","mat"],"d":"un funsiona trigonometrial, egal (en un triangulo reta) a la longia de la lado tocada par la angulo agu pertinente, divideda par la longia de la ipotenusa","en":"cosine"}
-{"T":"r","L":"cosix","C":["n","anat"],"d":"un oso peti e triangulo a la funda de la colon spinal en umanas e alga simias, formida de vertebras fusada","en":"coccyx, tailbone"}
-{"T":"r","L":"cosmetica","C":["a","vest"],"d":"pertinente a tratas intendeda per boni o repara la aspeta de un person, tipal la fas","i":"#","en":"cosmetic"}
-{"L":"cosmetica","C":["n"],"en":"cosmetic"}
-{"T":"r","L":"cosmetolojia","C":["n","vest"],"d":"la pratica profesal de beli la fas, capeles e pel","en":"cosmetology"}
-{"L":"cosmetolojiste","C":["n"],"en":"cosmetologist"}
+{"T":"r","L":"cortina","C":["n","arci"],"d":"un stofa pendente cual covre o scermi, tipal un de du ante un fenetra","i":"#","en":"curtain, drape","he":"וילון"}
+{"L":"cortina alta","C":["n"],"i":"#","en":"valance","he":"וילון קצר"}
+{"L":"cortina enrolante","C":["n"],"en":"window blind, window shade","he":"תריס גלילה"}
+{"L":"cortina venezian","C":["n"],"en":"venetian blind, jalousie","he":"תריס ונציאני"}
+{"L":"cortinas","C":["n","pl"],"en":"curtains, drapery","he":"וילונות"}
+{"L":"sin cortina","C":["a"],"en":"uncurtained","he":"ללא וילון"}
+{"T":"r","L":"cortisona","C":["n","bio"],"d":"un ormon produida par la cortex suprarenal","en":"cortisone (hormone)","he":"קורטיזון"}
+{"T":"r","L":"cortiungia","C":["n","vn","util"],"d":"un util per corti ungias de dito e pede","en":"nail clipper","he":"קוצץ ציפורניים"}
+{"T":"r","L":"Corvatsca","C":["n","jeo"],"c":"Zagreb","d":"un pais en Europa sude-este, con costa a la Mar Adriatica","i":"#","en":"Croatia","he":"קרואטיה"}
+{"L":"corvatsce","C":["a"],"en":"Croatian (person, language)","he":"קרואטי, קרואטית (שפה)"}
+{"L":"corvatsce","C":["n","dem"],"en":"Croatian (person, language)","he":"קרואטי, קרואטית (שפה)"}
+{"T":"r","L":"corveta","C":["n","vec"],"d":"un barcon peti de gera, desiniada per acompania convoias","en":"corvette (ship)","he":"קורבטה (ספינה)"}
+{"T":"r","L":"corvo","C":["n","avia"],"d":"un avia grande con plumas negra e briliante, beco spesa, e vose xiliante","t":"Corvus","en":"crow, raven","he":"עורב"}
+{"L":"corvo american","C":["n","ani","avia"],"i":"#","t":"Corvus brachyrhynchos","en":"American crow","he":"עורב אמריקאי"}
+{"L":"corvo blanca-negra","C":["n","ani","avia"],"i":"#","t":"Corvus albus","en":"pied crow","he":"עורב צבוע"}
+{"L":"corvo comun","C":["n","ani","avia"],"i":"#","t":"Corvus corone","en":"carrion crow","he":"עורב הנבלות"}
+{"L":"corvo de jungla","C":["n","ani","avia"],"i":"#","t":"Corvus macrorhynchos","en":"jungle crow","he":"עורב ארוך-מקור"}
+{"L":"corvo gris","C":["n","ani","avia"],"i":"#","t":"Corvus cornix","en":"hooded crow, hoodie","he":"עורב אפור"}
+{"L":"Corvo","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Corvus (constellation)","he":"עורב (קבוצת כוכבים)"}
+{"L":"corvo pexante","C":["n","ani","avia"],"i":"#","t":"Corvus ossifragus","en":"fish crow","he":"עורב הדגים"}
+{"L":"corvon","C":["n","ani","avia"],"i":"#","t":"Corvus albicollis, Corvus corax, Corvus crassirostris, Corvus ruficollis, {etc","en":"raven","he":"עורב שחור"}
+{"T":"r","L":"cosa","C":["n"],"d":"cualce ojeto o conseta cual esiste o pote es pensada","en":"thing, affair, matter, entity","he":"דבר, חפץ, עניין"}
+{"L":"no cosa","C":["n"],"en":"nothing","he":"כלום, שום דבר"}
+{"L":"no cosa plu ca","C":["esp"],"en":"nothing more than, merely, simply, just","he":"לא יותר מ, אך ורק, בלבד"}
+{"L":"noncosia","C":["n"],"en":"nothingness","he":"איין, אפסיות, כלומיות"}
+{"T":"r","L":"cosa","C":["a","dem"],"d":"pertinente a un popla de Sudafrica o a sua lingua","en":"Xhosa (person, language)","he":"קוסה (עם, שפה)"}
+{"L":"cosa","C":["n"],"en":"Xhosa (person, language)","he":"קוסה (עם, שפה)"}
+{"T":"r","L":"coscrive","C":["vt","arte"],"d":"scrive (alga cosa) con un otra person","en":"co-write, coauthor","he":"לכתוב במשותף"}
+{"L":"coscrivor","C":["n"],"en":"co-writer, coauthor","he":"מחבר שותף"}
+{"T":"r","L":"cose","C":["vt","vest"],"d":"junta o repara (alga cosa) con filo, usante un ago o un macina spesial","en":"sew, stitch","he":"לתפור"}
+{"L":"cose","C":["n"],"en":"sewing, stitching, needlework","he":"תפירה"}
+{"L":"cose de orlo","C":["n"],"en":"hemstitch","he":"תפר מכפלת"}
+{"L":"cose laxe","C":["vt"],"en":"baste","he":"להכליב"}
+{"L":"cosador","C":["n"],"i":"#","en":"sewing machine","he":"מכונת תפירה"}
+{"L":"coseda","C":["a"],"en":"sewn, stitched","he":"תפור"}
+{"L":"coseda par mano","C":["a"],"en":"handsewn, handstitched","he":"תפור ידנית"}
+{"L":"cosor","C":["n"],"en":"sewer, seamster, seamstress","he":"תופר, תופרת"}
+{"T":"r","L":"cosina","C":["n","cos"],"d":"un sala o area do on prepara e coce comedas","i":"#","en":"kitchen","he":"מטבח"}
+{"L":"cosinal","C":["a"],"en":"culinary","he":"קולינרי"}
+{"L":"cosineta","C":["n"],"en":"kitchenette","he":"מטבחון"}
+{"L":"cosini","C":["vt"],"en":"cook","he":"לבשל"}
+{"L":"cosini","C":["n"],"en":"cooking, cookery, cuisine, cooking style","he":"בישול, טבחות"}
+{"L":"cosini refinada","C":["n"],"en":"haute cuisine","he":"מטבח עילית"}
+{"L":"cosinor","C":["n"],"en":"cook","he":"טבח"}
+{"T":"r","L":"cosineto","C":["n","util"],"d":"un parte de un macina cual tolera frica, spesial entre un parte jirante e sua caxa","en":"bearing (machinery)","he":"מסב"}
+{"T":"r","L":"cosinus","C":["n","mat"],"d":"un funsiona trigonometrial, egal (en un triangulo reta) a la longia de la lado tocada par la angulo agu pertinente, divideda par la longia de la ipotenusa","en":"cosine","he":"קוסינוס"}
+{"T":"r","L":"cosix","C":["n","anat"],"d":"un oso peti e triangulo a la funda de la colon spinal en umanas e alga simias, formida de vertebras fusada","en":"coccyx, tailbone","he":"עצם הזנב"}
+{"T":"r","L":"cosmetica","C":["a","vest"],"d":"pertinente a tratas intendeda per boni o repara la aspeta de un person, tipal la fas","i":"#","en":"cosmetic","he":"קוסמטי"}
+{"L":"cosmetica","C":["n"],"en":"cosmetic","he":"קוסמטיקה"}
+{"L":"cosmeticisme","C":["n","vest"],"d":"la pratica profesal de beli la fas, capeles e pel","en":"cosmetology"}
+{"L":"cosmeticiste","C":["n"],"en":"cosmetologist, beautician"}
 {"T":"r","L":"cosmogonia","C":["n","ast"],"d":"la siensa cual studia la orijina de la universo, spesial la sistem solal","en":"cosmogony"}
 {"T":"r","L":"cosmolojia","C":["n","ast"],"d":"la siensa de la orijina e developa de la universo","en":"cosmology"}
 {"L":"cosmolojiste","C":["n"],"en":"cosmologist"}
@@ -16253,6 +16253,7 @@
 {"L":"modernisme","C":["n"],"en":"modernism"}
 {"L":"moderniste","C":["n"],"en":"modernist"}
 {"L":"modernor","C":["n"],"en":"modernizer|is"}
+{"L":"nonmoderna","C":["a"],"en":"unmodern, out of date, old-fashioned"}
 {"T":"r","L":"modesta","C":["a","uma"],"d":"umil sur sua propre capasias o atenis; conduinte o vestinte se en un modo cual evita atrae atende sesal","en":"modest (humble, avoiding impropriety), unpretentious"}
 {"L":"nonmodesta","C":["a"],"en":"immodest"}
 {"L":"tro modesta","C":["a"],"en":"prudish"}
