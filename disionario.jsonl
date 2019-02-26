@@ -6608,38 +6608,38 @@
 {"T":"r","L":"cosix","C":["n","anat"],"d":"un oso peti e triangulo a la funda de la colon spinal en umanas e alga simias, formida de vertebras fusada","en":"coccyx, tailbone","he":"עצם הזנב"}
 {"T":"r","L":"cosmetica","C":["a","vest"],"d":"pertinente a tratas intendeda per boni o repara la aspeta de un person, tipal la fas","i":"#","en":"cosmetic","he":"קוסמטי"}
 {"L":"cosmetica","C":["n"],"en":"cosmetic","he":"קוסמטיקה"}
-{"L":"cosmeticisme","C":["n","vest"],"d":"la pratica profesal de beli la fas, capeles e pel","en":"cosmetology"}
-{"L":"cosmeticiste","C":["n"],"en":"cosmetologist, beautician"}
-{"T":"r","L":"cosmogonia","C":["n","ast"],"d":"la siensa cual studia la orijina de la universo, spesial la sistem solal","en":"cosmogony"}
-{"T":"r","L":"cosmolojia","C":["n","ast"],"d":"la siensa de la orijina e developa de la universo","en":"cosmology"}
-{"L":"cosmolojiste","C":["n"],"en":"cosmologist"}
-{"T":"r","L":"Cosovo","C":["n","jeo"],"c":"Pristina","d":"un parte autonom de la Balcanes, entre Serbia e Xciperia","i":"#","en":"Kosovo"}
-{"L":"cosovan","C":["a"],"en":"Kosovan"}
-{"L":"cosovan","C":["n"],"en":"Kosovan"}
-{"T":"r","L":"cosponsor","C":["n"],"d":"un de un grupo de sponsores","en":"cosponsor"}
-{"L":"cosponsori","C":["vt"],"en":"cosponsor"}
-{"T":"r","L":"costa","C":["n","tera"],"d":"la parte de la tera prosima a la mar; la borda de la tera","en":"coast, shore, seashore, seacoast, waterside"}
-{"L":"a lado de costa","C":["av"],"en":"off the coast"}
-{"L":"costal","C":["a"],"en":"coastal, littoral, offshore"}
-{"L":"costal","C":["av"],"en":"offshore"}
-{"L":"sin costa","C":["a"],"en":"landlocked"}
-{"L":"Costa de Ivor","C":["n","jeo"],"c":"Abidjan","d":"un pais en Africa ueste, a la Golfo Ginea","i":"costa-de-ivor","v":"ivorian","en":"Ivory Coast, Côte d'Ivoire"}
-{"L":"ivorian","C":["a"],"v":"Costa de Ivor","en":"Ivorian"}
-{"L":"ivorian","C":["n"],"en":"Ivorian"}
-{"L":"Costa Rica","C":["n","jeo"],"c":"San José","d":"un pais en America Sentral con costas a la Mar Pasifica e la Mar Caribe","i":"costa-rica","en":"Costa Rica"}
-{"L":"costarican","C":["a"],"en":"Costa Rican, Costarican"}
-{"L":"costarican","C":["n"],"en":"Costa Rican, Costarican"}
-{"T":"r","L":"costela","C":["n","anat","cos"],"d":"cada de un serie de osos magra e curva cual proteje la organos su la peto; (en un animal) un de estas, de cual on come sua carne","en":"rib; chop (meat)"}
-{"L":"costela de porco","C":["n"],"en":"pork rib, spare rib"}
-{"L":"costeleta","C":["n"],"d":"un peso de carne taliada, panida, e grilida o fritada","en":"cutlet"}
-{"L":"costelin","C":["a"],"en":"ribbed, corded"}
-{"L":"costelin","C":["n"],"en":"rib, ridge, wale (fabric)"}
-{"T":"r","L":"costela","C":["n","arte"],"d":"un ator major ci presenta con un otra ator egal importante","en":"co-star"}
-{"T":"r","L":"costudiante","C":["n"],"d":"un de la otra persones ci studia en la mesma curso o loca","en":"fellow student","eo":"kunstudento"}
-{"T":"r","L":"costum","C":["n","uma"],"d":"un modo de condui tradisional, normal e asetada en un sosia, loca o tempo spesifada","en":"custom, routine, usage, social convention"}
-{"L":"costumal","C":["a"],"en":"customary, default, pro forma"}
-{"L":"costumal","C":["av"],"en":"customarily"}
-{"L":"noncostumal","C":["a"],"en":"uncustomary"}
+{"L":"cosmeticisme","C":["n","vest"],"d":"la pratica profesal de beli la fas, capeles e pel","en":"cosmetology","he":"קוסמטולוגיה"}
+{"L":"cosmeticiste","C":["n"],"en":"cosmetologist, beautician","he":"קוסמטיקאי, קוסמטיקאית, קוסמטולוג"}
+{"T":"r","L":"cosmogonia","C":["n","ast"],"d":"la siensa cual studia la orijina de la universo, spesial la sistem solal","en":"cosmogony","he":"קוסמוגוניה"}
+{"T":"r","L":"cosmolojia","C":["n","ast"],"d":"la siensa de la orijina e developa de la universo","en":"cosmology","he":"קוסמולוגיה"}
+{"L":"cosmolojiste","C":["n"],"en":"cosmologist","he":"קוסמולוג"}
+{"T":"r","L":"Cosovo","C":["n","jeo"],"c":"Pristina","d":"un parte autonom de la Balcanes, entre Serbia e Xciperia","i":"#","en":"Kosovo","he":"קוסובו"}
+{"L":"cosovan","C":["a"],"en":"Kosovan","he":"קוסובני"}
+{"L":"cosovan","C":["n"],"en":"Kosovan","he":"קוסובני"}
+{"T":"r","L":"cosponsor","C":["n"],"d":"un de un grupo de sponsores","en":"cosponsor","he":"נותן חסות שותף"}
+{"L":"cosponsori","C":["vt"],"en":"cosponsor","he":"להצטרף כנותן חסות"}
+{"T":"r","L":"costa","C":["n","tera"],"d":"la parte de la tera prosima a la mar; la borda de la tera","en":"coast, shore, seashore, seacoast, waterside","he":"חוף"}
+{"L":"a lado de costa","C":["av"],"en":"off the coast","he":"קרוב לחוף"}
+{"L":"costal","C":["a"],"en":"coastal, littoral, offshore","he":"חופי"}
+{"L":"costal","C":["av"],"en":"offshore","he":"מול החוף (בים)"}
+{"L":"sin costa","C":["a"],"en":"landlocked","he":"ללא מוצא לים"}
+{"L":"Costa de Ivor","C":["n","jeo"],"c":"Abidjan","d":"un pais en Africa ueste, a la Golfo Ginea","i":"costa-de-ivor","v":"ivorian","en":"Ivory Coast, Côte d'Ivoire","he":"חוף השנהב"}
+{"L":"ivorian","C":["a"],"v":"Costa de Ivor","en":"Ivorian","he":"של חוף השנהב"}
+{"L":"ivorian","C":["n"],"en":"Ivorian","he":"תושב חוף השנהב"}
+{"L":"Costa Rica","C":["n","jeo"],"c":"San José","d":"un pais en America Sentral con costas a la Mar Pasifica e la Mar Caribe","i":"costa-rica","en":"Costa Rica","he":"קוסטה ריקה"}
+{"L":"costarican","C":["a"],"en":"Costa Rican, Costarican","he":"קוסטריקני"}
+{"L":"costarican","C":["n"],"en":"Costa Rican, Costarican","he":"קוסטריקני"}
+{"T":"r","L":"costela","C":["n","anat","cos"],"d":"cada de un serie de osos magra e curva cual proteje la organos su la peto; (en un animal) un de estas, de cual on come sua carne","en":"rib; chop (meat)","he":"צלע"}
+{"L":"costela de porco","C":["n"],"en":"pork rib, spare rib","he":"צלע חזיר"}
+{"L":"costeleta","C":["n"],"d":"un peso de carne taliada, panida, e grilida o fritada","en":"cutlet","he":"קוטלט (נתח בשר)"}
+{"L":"costelin","C":["a"],"en":"ribbed, corded","he":"מצולע"}
+{"L":"costelin","C":["n"],"en":"rib, ridge, wale (fabric)","he":"ריב (סריג)"}
+{"T":"r","L":"costela","C":["n","arte"],"d":"un ator major ci presenta con un otra ator egal importante","en":"co-star","he":"כוכב משנה"}
+{"T":"r","L":"costudiante","C":["n"],"d":"un de la otra persones ci studia en la mesma curso o loca","en":"fellow student","eo":"kunstudento","he":"שותף ללימודים"}
+{"T":"r","L":"costum","C":["n","uma"],"d":"un modo de condui tradisional, normal e asetada en un sosia, loca o tempo spesifada","en":"custom, routine, usage, social convention","he":"מנהג, נוהג"}
+{"L":"costumal","C":["a"],"en":"customary, default, pro forma","he":"נהוג, מקובל"}
+{"L":"costumal","C":["av"],"en":"customarily","he":"כנהוג, כמקובל"}
+{"L":"noncostumal","C":["a"],"en":"uncustomary","he":"לא נהוג, לא מקובל"}
 {"T":"r","L":"costur","C":["n","vest"],"d":"un linia longo cual du pesos de stofa es coseda con lunlotra; la linia longo cual du pesos de lenio, paper o stofa contata lunlotra","en":"seam"}
 {"L":"costur interna","C":["n"],"en":"inseam"}
 {"L":"costurin","C":["a"],"en":"seamlike"}
@@ -18382,12 +18382,12 @@
 {"T":"r","L":"p","C":["c"],"d":"paje, pajes","en":"p., pp."}
 {"T":"r","L":"pacarana","C":["n","mam"],"d":"un rodente de America Sude simil a un cavia, con pelo oscur brun, bandas blanca, e coda corta e pelosa","i":"#","t":"Dinomys branickii","en":"pacarana (rodent)"}
 {"T":"r","L":"paci-","C":["pf","tecn"],"d":"densa, spesa","en":"pachy- (thick)"}
-{"T":"r","L":"pacidermo","C":["n","mam"],"d":"un mamal grande con pel spesa, como un elefante, rinosero o ipopotamo","en":"pachyderm"}
-{"T":"r","L":"Pacistan","C":["n","jeo"],"c":"Islamabad","d":"un pais en Asia sude a norde-ueste de Barat","i":"#","en":"Pakistan"}
-{"L":"pacistani","C":["a"],"en":"Pakistani"}
-{"L":"pacistani","C":["n"],"en":"Pakistani"}
+{"T":"r","L":"pacidermo","C":["n","mam"],"d":"un mamal grande con pel spesa, como un elefante, rinosero o ipopotamo","en":"pachyderm","es":"paquidermo"}
+{"T":"r","L":"Pacistan","C":["n","jeo"],"c":"Islamabad","d":"un pais en Asia sude a norde-ueste de Barat","i":"#","en":"Pakistan","es":"Pakistán, Paquistán"}
+{"L":"pacistani","C":["a"],"en":"Pakistani","es":"pakistaní, paquistaní"}
+{"L":"pacistani","C":["n"],"en":"Pakistani","es":"pakistaní, paquistaní"}
 {"T":"r","L":"paco","C":["n","util"],"d":"un contenador e sua contenidas","i":"#","en":"pack, bundle, kit"}
-{"L":"despaci","C":["vt"],"en":"unpack"}
+{"L":"despaci","C":["vt"],"en":"unpack","es":"desempacar, desempaquetar"}
 {"L":"despaci","C":["n"],"en":"unpacking"}
 {"L":"paceta","C":["n"],"en":"package, packet, parcel; deck, pack (cards)"}
 {"L":"paceta de proba","C":["n"],"en":"test kit"}
@@ -18398,24 +18398,24 @@
 {"L":"pacida","C":["a"],"en":"packed, packaged, bundled"}
 {"L":"prepaci","C":["vt"],"en":"prepackage"}
 {"L":"repaci","C":["vt"],"en":"repack, repackage"}
-{"T":"r","L":"padela","C":["n","util","cos"],"d":"un casola basa con manico longa","i":"#","en":"pan, fry pan, frying pan, skillet"}
+{"T":"r","L":"padela","C":["n","util","cos"],"d":"un casola basa con manico longa","i":"#","en":"pan, fry pan, frying pan, skillet","es":"sartén"}
 {"L":"padela de crepes","C":["n"],"i":"#","en":"crêpe pan, omelet|omelette pan"}
-{"L":"padela de grili","C":["n"],"en":"griddle"}
-{"L":"padela de polvo","C":["n"],"en":"dustpan"}
+{"L":"padela de grili","C":["n"],"en":"griddle","es":"plancha de cocina"}
+{"L":"padela de polvo","C":["n"],"en":"dustpan","es":"recogedor"}
 {"L":"padela de sote","C":["n"],"i":"#","en":"sauté pan"}
-{"T":"r","L":"padre","C":["n","uma"],"d":"un om en relata a sua enfantes; un jenitor mas","en":"father"}
-{"L":"padre de batiza","C":["n"],"en":"godfather"}
-{"L":"padre futur","C":["n"],"en":"father-to-be"}
-{"L":"padre par sposi","C":["n"],"en":"father-in-law"}
-{"L":"padre sin sposa","C":["n"],"en":"single father"}
-{"L":"estrapadre","C":["n"],"en":"stepfather"}
-{"L":"padral","C":["a"],"en":"paternal; paternity (leave)"}
-{"L":"padria","C":["n"],"en":"fatherhood, paternity"}
-{"L":"padrin","C":["a"],"en":"fatherly"}
-{"L":"padrin","C":["n"],"en":"father figure, godfather"}
+{"T":"r","L":"padre","C":["n","uma"],"d":"un om en relata a sua enfantes; un jenitor mas","en":"father","es":"padre"}
+{"L":"padre de batiza","C":["n"],"en":"godfather","es":"padrino"}
+{"L":"padre futur","C":["n"],"en":"father-to-be","es":"futuro padre"}
+{"L":"padre par sposi","C":["n"],"en":"father-in-law","es":"suegro"}
+{"L":"padre sin sposa","C":["n"],"en":"single father","es":"padre soltero"}
+{"L":"estrapadre","C":["n"],"en":"stepfather","es":"padrastro"}
+{"L":"padral","C":["a"],"en":"paternal; paternity (leave)","es":"paternal, (permiso de) paternidad"}
+{"L":"padria","C":["n"],"en":"fatherhood, paternity","es":"paternidad"}
+{"L":"padrin","C":["a"],"en":"fatherly","es":"paternal, paterno"}
+{"L":"padrin","C":["n"],"en":"father figure, godfather","es":"figura paterna, padrino"}
 {"L":"padron","C":["n"],"en":"master, lord, boss; patriarch; patron (supporter)"}
-{"L":"padronia","C":["n"],"en":"patronage"}
-{"L":"sin padre","C":["a"],"en":"fatherless"}
+{"L":"padronia","C":["n"],"en":"patronage","es":"patrocinio, mecenazgo, patronato, patronazgo"}
+{"L":"sin padre","C":["a"],"en":"fatherless","es":"huérfano de padre, sin padre"}
 {"T":"r","L":"padriside","C":["vt","gov"],"d":"mata (sua propre padre)","en":"commit patricide"}
 {"L":"padriside","C":["n"],"en":"patricide (action)"}
 {"L":"padrisidor","C":["n"],"en":"patricide (person)"}
@@ -18555,6 +18555,7 @@
 {"L":"panor","C":["n"],"i":"#","en":"baker"}
 {"T":"r","L":"pan-","C":["pf","tecn"],"d":"incluinte tota","en":"pan- (all)"}
 {"T":"r","L":"Pan","C":["n","mit"],"d":"(en mitos elinica) un dio de la manadas, regardada como un om con cornos, oreas e gamas de capra","en":"Pan (mythology)"}
+{"T":"r","L":"panafrican","C":["a","gov"],"d":"pertinente a tota nasiones de Africa o a tota persones de desende african","en":"pan-African"}
 {"T":"r","L":"Panama","C":["n","jeo"],"c":"la Site Panama","d":"un pais en America Sentral, entre Colombia e Costa Rica, e la loca de la canal entre la mares Atlantica e Pasifica","i":"#","en":"Panama"}
 {"L":"Canal Panama","C":["n","jeo"],"en":"Panama Canal"}
 {"L":"Golfo Panama","C":["n","jeo"],"d":"un golfo a ueste de Panama","i":"#","en":"Gulf of Panama"}
@@ -24916,11 +24917,12 @@
 {"L":"staniante","C":["n"],"en":"stagnant water, backwater"}
 {"T":"r","L":"stanio","C":["n","cim"],"d":"la elemento cimical con numero atomal 50, un metal arjentin blanca","s":"Sn","da":"tin","de":"Zinn","en":"tin (element)","eo":"stano","es":"estaño","fr":"étain","it":"stagno","nl":"tin","pt":"estanho"}
 {"T":"r","L":"-stase","C":["sf","n"],"d":"restante en loca o state","en":"-stasis"}
-{"T":"r","L":"stasion","C":["n","arci","vec"],"d":"un loca de para de transporta publica, tipal a un ferovia con un plataforma e construida; un loca o construida a cual un ativia o servi spesifada es fundida; un compania de radio o televisa; un loca do un soldato es poneda","i":"#","ca":"estació","de":"Bahnhof","en":"station, stop, stopping place","eo":"stacio","es":"estación","fr":"gare","ja":"駅","pt":"estação, parada","ru":"станция"}
+{"T":"r","L":"stasion","C":["n","arci","vec"],"d":"un loca de para de transporta publica, tipal a un ferovia con un plataforma e construida; un loca o construida a cual un ativia o servi spesifada es fundida; un compania de radio o televisa; un loca do un soldato es poneda","i":"#","ca":"estació","de":"Bahnhof","en":"station, stop, stopping place; (soldier's) post","eo":"stacio","es":"estación","fr":"gare","ja":"駅","pt":"estação, parada","ru":"станция"}
 {"L":"stasion de autovia","C":["n"],"en":"service area, service station, rest area"}
 {"L":"stasion de labora","C":["n"],"en":"workstation"}
 {"L":"stasion final","C":["n"],"en":"terminal, terminus"}
 {"L":"stasion spasial","C":["n"],"i":"#","en":"space station"}
+{"L":"stasioni","C":["vt"],"en":"station, deploy, post (soldier, etc.)"}
 {"L":"sustasion","C":["n"],"en":"substation"}
 {"T":"r","L":"state","C":["n","fis","cim"],"d":"la forma o cualia de la esiste de un person o cosa a un tempo spesifada","da":"kondition, tilstand, status","de":"Zustand","en":"state (of affairs), condition; going; status","eo":"stato","es":"condición, estado, estatus, posición, situación, estado o posición social","fr":"condition","it":"condizione, stato","nl":"toestand","pt":"estado, condição, circunstância, situação, posição"}
 {"L":"state presente","C":["n"],"en":"present state, status quo"}
