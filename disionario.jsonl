@@ -6640,50 +6640,50 @@
 {"L":"costumal","C":["a"],"en":"customary, default, pro forma","he":"נהוג, מקובל"}
 {"L":"costumal","C":["av"],"en":"customarily","he":"כנהוג, כמקובל"}
 {"L":"noncostumal","C":["a"],"en":"uncustomary","he":"לא נהוג, לא מקובל"}
-{"T":"r","L":"costur","C":["n","vest"],"d":"un linia longo cual du pesos de stofa es coseda con lunlotra; la linia longo cual du pesos de lenio, paper o stofa contata lunlotra","en":"seam"}
-{"L":"costur interna","C":["n"],"en":"inseam"}
-{"L":"costurin","C":["a"],"en":"seamlike"}
-{"T":"r","L":"cosuscrive","C":["vt"],"d":"suscrive (alga cosa) con un otra person","en":"cosign"}
-{"L":"cosuscrivor","C":["n"],"en":"cosigner, cosignatory"}
-{"T":"r","L":"cotanjente","C":["n","mat"],"d":"un funsiona trigonometrial, egal (en un triangulo reta) a la longia de la lado tocada par la angulo agu pertinente, divideda par la longia de la lado oposante esta angulo","en":"cotangent"}
-{"T":"r","L":"cotel","C":["n","util"],"d":"un strumento composada de un lamina fisada a un manico, usada per talia o corti, o como un arma","en":"knife, shiv"}
-{"L":"cotel composada","C":["n"],"i":"#","en":"Swiss army knife"}
-{"L":"cotel de pox","C":["n"],"en":"pocket knife, folding knife, jackknife, penknife"}
-{"L":"cotel de xef","C":["n"],"i":"#","en":"chef's knife"}
-{"L":"cotel ejetable","C":["n"],"en":"flick knife, switchblade"}
-{"L":"cotel osilante","C":["n"],"i":"#","en":"herb chopper, mezzaluna, hachoir"}
-{"L":"colpa con cotel","C":["v"],"en":"stab, jab"}
-{"L":"colpa con cotel","C":["n"],"en":"stab, jab"}
-{"L":"coteli","C":["vt"],"en":"cut, stab (with knife)"}
-{"T":"r","L":"cotiledon","C":["n","bio"],"d":"un folia embrial de un planta de semes","en":"cotyledon (botany)"}
-{"T":"r","L":"cotinga","C":["n","avia"],"d":"un avia trovada en la forestas de America Sentral e Sude, de cual la mas es tipal briliante colorida","i":"#","t":"Cotingidae","en":"cotinga (bird)"}
-{"T":"r","L":"cotino","C":["n","pla"],"d":"un arboreta o arbor peti en familia de anacardio, cual produi plumas longa de flores","i":"#","t":"Cotinus","en":"smoke tree"}
-{"T":"r","L":"coto","C":["n","mus"],"d":"un sitra longa, orijinante en Nion, con des-tre filos de seda cual pasa sur pontes peti e movable","i":"#","en":"koto (musical instrument)"}
-{"T":"r","L":"coton","C":["n","pla","vest"],"d":"un planta usada xef per fibre e stofa; un materia mol, blanca e fibrosa cual ensirca la semes de esta","i":"#","t":"Gossypium","en":"cotton (plant, fiber|re)"}
-{"L":"coton asorbente","C":["n"],"en":"cotton wool"}
-{"L":"coton de zucar","C":["n"],"en":"cotton candy, candyfloss"}
-{"L":"de coton","C":["a"],"en":"(made of) cotton"}
-{"T":"r","L":"coturnix","C":["n","avia"],"d":"un avia peti de la mundo vea, semblante un perdis peti, con coda corta e tipal plumas brun camoflante","i":"#","t":"Coturnix","en":"quail (bird)"}
-{"T":"r","L":"covalente","C":["a"],"d":"pertinente a lias cimical formida par la comparti de eletrones par atomes","en":"covalent"}
-{"T":"r","L":"covre","C":["vt"],"d":"pone alga cosa sur (un person o cosa) per proteje o asconde el o lo","en":"cover, coat"}
-{"L":"covre","C":["n"],"en":"coverage, coat, coating"}
-{"L":"covre completa","C":["n"],"en":"full coverage"}
-{"L":"covre partal","C":["v"],"en":"overlap"}
-{"L":"a covre de","C":["prep"],"en":"covering, coating, all over"}
-{"L":"covreda","C":["a"],"en":"covered, overcast"}
-{"L":"covrente","C":["a"],"en":"covering, coating"}
-{"L":"covrente","C":["prep"],"en":"covering, coating, all over"}
-{"L":"covrente","C":["n"],"en":"cover, covering, lid, top"}
-{"L":"covrente desfisable","C":["n"],"en":"slipcover"}
-{"L":"covreta","C":["vt"],"d":"covre lejera o partal","en":"dust, sprinkle, strew"}
-{"L":"covreta","C":["n"],"d":"un covre lejera o partal; un abri o talia en un veste, covrente un fisador o un pox; la plia de stofa su esta","en":"dusting, sprinkling; placket; fly, flies"}
-{"L":"descovrable","C":["a"],"en":"discoverable"}
-{"L":"descovre","C":["vt"],"en":"discover, uncover, find out, ascertain"}
-{"L":"descovre","C":["n"],"en":"discovery"}
-{"L":"descovror","C":["n"],"en":"discoverer"}
-{"L":"noncovreda","C":["a"],"en":"uncovered, not covered"}
-{"L":"redescovre","C":["vt"],"en":"rediscover, become reacquainted with"}
-{"L":"(retira) noncovreda","C":["n"],"en":"overdraft"}
+{"T":"r","L":"costur","C":["n","vest"],"d":"un linia longo cual du pesos de stofa es coseda con lunlotra; la linia longo cual du pesos de lenio, paper o stofa contata lunlotra","en":"seam","he":"תפר"}
+{"L":"costur interna","C":["n"],"en":"inseam","he":"תפר פנימי"}
+{"L":"costurin","C":["a"],"en":"seamlike","he":"דמוי תפר"}
+{"T":"r","L":"cosuscrive","C":["vt"],"d":"suscrive (alga cosa) con un otra person","en":"cosign","he":"לחתום עם עוד אנשים"}
+{"L":"cosuscrivor","C":["n"],"en":"cosigner, cosignatory","he":"חותם עם עוד אנשים"}
+{"T":"r","L":"cotanjente","C":["n","mat"],"d":"un funsiona trigonometrial, egal (en un triangulo reta) a la longia de la lado tocada par la angulo agu pertinente, divideda par la longia de la lado oposante esta angulo","en":"cotangent","he":"קוטנגנס"}
+{"T":"r","L":"cotel","C":["n","util"],"d":"un strumento composada de un lamina fisada a un manico, usada per talia o corti, o como un arma","en":"knife, shiv","he":"סכין"}
+{"L":"cotel composada","C":["n"],"i":"#","en":"Swiss army knife","he":"אולר שוויצרי"}
+{"L":"cotel de pox","C":["n"],"en":"pocket knife, folding knife, jackknife, penknife","he":"אולר"}
+{"L":"cotel de xef","C":["n"],"i":"#","en":"chef's knife","he":"סכין שף"}
+{"L":"cotel ejetable","C":["n"],"en":"flick knife, switchblade","he":"אולר קפיצי"}
+{"L":"cotel osilante","C":["n"],"i":"#","en":"herb chopper, mezzaluna, hachoir","he":"מזלונה (סכין)"}
+{"L":"colpa con cotel","C":["v"],"en":"stab, jab","he":"לדקור (עם סכין)"}
+{"L":"colpa con cotel","C":["n"],"en":"stab, jab","he":"דקירה (עם סכין)"}
+{"L":"coteli","C":["vt"],"en":"cut, stab (with knife)","he":"לחתוך (עם סכין)"}
+{"T":"r","L":"cotiledon","C":["n","bio"],"d":"un folia embrial de un planta de semes","en":"cotyledon (botany)","he":"(בוטניקה) פסיג"}
+{"T":"r","L":"cotinga","C":["n","avia"],"d":"un avia trovada en la forestas de America Sentral e Sude, de cual la mas es tipal briliante colorida","i":"#","t":"Cotingidae","en":"cotinga (bird)","he":"קוטינגה (ציפור)"}
+{"T":"r","L":"cotino","C":["n","pla"],"d":"un arboreta o arbor peti en familia de anacardio, cual produi plumas longa de flores","i":"#","t":"Cotinus","en":"smoke tree","he":"קוטינוס (צמח)"}
+{"T":"r","L":"coto","C":["n","mus"],"d":"un sitra longa, orijinante en Nion, con des-tre filos de seda cual pasa sur pontes peti e movable","i":"#","en":"koto (musical instrument)","he":"קוטו (כלי נגינה)"}
+{"T":"r","L":"coton","C":["n","pla","vest"],"d":"un planta usada xef per fibre e stofa; un materia mol, blanca e fibrosa cual ensirca la semes de esta","i":"#","t":"Gossypium","en":"cotton (plant, fiber|re)","he":"כותנה"}
+{"L":"coton asorbente","C":["n"],"en":"cotton wool","he":"צמר גפן"}
+{"L":"coton de zucar","C":["n"],"en":"cotton candy, candyfloss","he":"צמר גפן מתוק"}
+{"L":"de coton","C":["a"],"en":"(made of) cotton","he":"עשוי כותנה"}
+{"T":"r","L":"coturnix","C":["n","avia"],"d":"un avia peti de la mundo vea, semblante un perdis peti, con coda corta e tipal plumas brun camoflante","i":"#","t":"Coturnix","en":"quail (bird)","he":"שלו (ציפור)"}
+{"T":"r","L":"covalente","C":["a"],"d":"pertinente a lias cimical formida par la comparti de eletrones par atomes","en":"covalent","he":"(כימיה) קוולנטי"}
+{"T":"r","L":"covre","C":["vt"],"d":"pone alga cosa sur (un person o cosa) per proteje o asconde el o lo","en":"cover, coat","he":"לכסות, לסוכך"}
+{"L":"covre","C":["n"],"en":"coverage, coat, coating","he":"כיסוי"}
+{"L":"covre completa","C":["n"],"en":"full coverage","he":"כיסוי מלא"}
+{"L":"covre partal","C":["v"],"en":"overlap","he":"לכסות חלקית, לחפוף"}
+{"L":"a covre de","C":["prep"],"en":"covering, coating, all over","he":"(מילת יחס) מכסה"}
+{"L":"covreda","C":["a"],"en":"covered, overcast","he":"מכוסה"}
+{"L":"covrente","C":["a"],"en":"covering, coating","he":"מכסה"}
+{"L":"covrente","C":["prep"],"en":"covering, coating, all over","he":"(מילת יחס) מכסה"}
+{"L":"covrente","C":["n"],"en":"cover, covering, lid, top","he":"מכסה"}
+{"L":"covrente desfisable","C":["n"],"en":"slipcover","he":"כיסוי בד"}
+{"L":"covreta","C":["vt"],"d":"covre lejera o partal","en":"dust, sprinkle, strew","he":"לזרות, לבזוק, לפזר"}
+{"L":"covreta","C":["n"],"d":"un covre lejera o partal; un abri o talia en un veste, covrente un fisador o un pox; la plia de stofa su esta","en":"dusting, sprinkling; placket; fly, flies","he":"זרייה, בזיקה; (בגדים( פריפה"}
+{"L":"descovrable","C":["a"],"en":"discoverable","he":"שניתן לגילוי"}
+{"L":"descovre","C":["vt"],"en":"discover, uncover, find out, ascertain","he":"לגלות, לחשוף"}
+{"L":"descovre","C":["n"],"en":"discovery","he":"גילוי, תגלית, חשיפה"}
+{"L":"descovror","C":["n"],"en":"discoverer","he":"מגלה"}
+{"L":"noncovreda","C":["a"],"en":"uncovered, not covered","he":"גלוי, מגולה, חשוף"}
+{"L":"redescovre","C":["vt"],"en":"rediscover, become reacquainted with","he":"לגלות מחדש"}
+{"L":"(retira) noncovreda","C":["n"],"en":"overdraft","he":"משיכת יתר"}
 {"T":"r","L":"covrebuco","C":["n","vn"],"d":"un ojeto usada per asconde un buco; un modo tempora de solve un problem","en":"stopgap"}
 {"T":"r","L":"covrecasola","C":["n","vn"],"d":"un covrente per un casola","en":"saucepan lid"}
 {"T":"r","L":"covrecolo","C":["n","vn"],"d":"un tela o peso de armur cual covre la colo","en":"neckscarf; gorget (throat protector)"}
@@ -16828,13 +16828,13 @@
 {"T":"r","L":"nadir","C":["n","ast"],"d":"(en astronomia) la punto de la sfera de la sielo direta su un oservor; (metafor) la tempo la plu basa en la fortunas de un person o organiza","en":"nadir (astronomy, misfortune)","es":"nadir","fr":"nadir"}
 {"T":"r","L":"nafta","C":["n","cim"],"d":"un olio flamable cual conteni idrocarbonos, otenida par la distila seca de materias organica como carbon, xel o petrolio","en":"naphtha (oil)","es":"nafta"}
 {"T":"r","L":"naftalina","C":["n","cim"],"d":"un composada organica con la formula {C10H8}, tipal usada per repulsa papilios de vestes","en":"naphthalina (substance)","es":"naftalina"}
-{"T":"r","L":"naftol","C":["n","cim"],"d":"un materia cristal derivada de naftalina, usada per fabrica antisepsicas e tinjentes","en":"naphthol (substance)"}
+{"T":"r","L":"naftol","C":["n","cim"],"d":"un materia cristal derivada de naftalina, usada per fabrica antisepsicas e tinjentes","en":"naphthol (substance)","es":"naftol (sustancia)"}
 {"T":"r","L":"naive","C":["a","uma"],"d":"mostrante un manca de esperia, sajia o bon judi; natural, nonfinjosa, inosente","en":"naive, ingenuous, trusting, innocent, unsophisticated, jejune","es":"ingenuo, inocente, cándido","fr":"naïf"}
 {"L":"naive","C":["n"],"en":"simpleton","es":"simplón, mentecato"}
 {"L":"naivia","C":["n"],"en":"naivety, naiveness, innocence, ingenuousness","es":"ingenuidad, inocencia","fr":"naïveté"}
 {"T":"r","L":"Namib, Deserto","C":["n","jeo"],"d":"un deserto en Namibia en Africa sude-ueste a la costa de la Mar Atlantica","i":"Deserto-Namib","en":"Namib Desert","es":"Desierto del Namib"}
 {"T":"r","L":"Namibia","C":["n","jeo"],"c":"Windhoek","d":"un pais en Africa sude-ueste, xef composada de deserto, con costa a la Mar Atlantica","i":"#","en":"Namibia","es":"Namibia"}
-{"L":"namibian","C":["a"],"en":"Namibian"}
+{"L":"namibian","C":["a"],"en":"Namibian","es":"namibio"}
 {"L":"namibian","C":["n","dem"],"en":"Namibian","es":"namibio"}
 {"T":"r","L":"nana","C":["a"],"d":"estrema o noncomun peti","en":"dwarf (including mythology), midget, gnome","es":"enano","fr":"nain"}
 {"L":"nana","C":["n"],"d":"un person estrema o noncomun peti; (en fables) un membro de un raza mital de viventes corta e umanin, jeneral capas de mina e metalurjia","i":"#","en":"dwarf, midget, gnome","es":"enano","fr":"nain"}
@@ -16851,47 +16851,47 @@
 {"L":"nara de folclor","C":["n"],"en":"folktale","es":"leyenda, fábula"}
 {"L":"nara en tre libros","C":["n"],"en":"trilogy","es":"trilogía"}
 {"L":"nara fondal","C":["n"],"en":"backstory","es":"trasfondo, historia de fondo"}
-{"L":"malnara","C":["vt"],"en":"garble (story)"}
-{"L":"naral","C":["a"],"en":"fictional, narrative, narrational"}
-{"L":"naras","C":["n","pl"],"en":"stories, fiction"}
-{"L":"naras siensal","C":["n"],"en":"science fiction"}
-{"L":"nareta","C":["n"],"en":"short story"}
-{"L":"naror","C":["n"],"en":"storyteller, narrator, raconteur"}
-{"L":"nonarada","C":["a"],"en":"untold"}
-{"L":"renara","C":["vt"],"en":"retell"}
-{"T":"r","L":"narco-","C":["pf","tecn"],"d":"nonsensosa","en":"narco- (stupor)"}
-{"T":"r","L":"narcolesia","C":["n","med"],"d":"un maladia distinguida par un tende estrema de adormi en situas nonormal","en":"narcolepsy"}
-{"L":"narcolesica","C":["a"],"en":"narcoleptic"}
-{"T":"r","L":"narcose","C":["n","med"],"d":"un state de stupor, dormosia o nonconsensia, produida par drogas","en":"narcosis"}
-{"T":"r","L":"narcotica","C":["a","med"],"d":"(un droga) reduinte dole e causante stupor, dormosia o nonconsensia","en":"narcotic"}
-{"L":"narcotica","C":["n"],"en":"narcotic"}
-{"T":"r","L":"nardo","C":["n","pla"],"d":"un planta himalaian en familia de valeriana, cual produi un rizoma de cual on ia prepara un unjente multe custosa en edas antica","i":"#","t":"Nardostachys grandiflora","en":"spikenard (plant)"}
-{"T":"r","L":"narina","C":["n","anat"],"d":"cada de la du abris esterna de la nas","en":"nostril, naris (pl. nares)","fr":"narine"}
-{"T":"r","L":"narsisisme","C":["n","uma"],"d":"un interesa suprabundante o erotica sur se e sua aspeta fisical","en":"narcissism"}
-{"L":"narsisiste","C":["a"],"en":"narcissistic"}
-{"L":"narsisiste","C":["n"],"en":"narcissist"}
-{"T":"r","L":"narsiso","C":["n","pla"],"d":"un planta en familia de lil, con flores tipal blanca e jala con sentro trompetin","i":"#","t":"Narcissus","en":"narcissus, daffodil (plant)","fr":"narcisse"}
-{"T":"r","L":"narval","C":["n","mam"],"d":"un balena peti de la Mar Artica, de cual la mas ave un denton longa e spiral cual estende a ante","i":"#","t":"Monodon monoceros","en":"narwhal (whale)","fr":"narval"}
-{"T":"r","L":"nas","C":["n","anat"],"d":"la parte supra la boca de un person o animal, usada per respira e ole","i":"#","en":"nose","fr":"nez"}
-{"L":"nasal","C":["a"],"en":"nasal","fr":"nasal"}
-{"L":"nasal","C":["n"],"en":"nasal (consonant)","fr":"nasale (consonne)"}
-{"L":"nasali","C":["vnt"],"en":"nasalize|is","fr":"nasaliser"}
-{"L":"nasali","C":["vt"],"en":"nasalize|is"}
-{"L":"nasi","C":["vt"],"en":"nuzzle, nose at"}
-{"L":"posnasal","C":["a"],"en":"postnasal"}
-{"T":"r","L":"nase","C":["vnt","bio"],"d":"(un enfante) deveni un individua par sorti de la utero de un fema; (metafor) deveni esistente","en":"be born; come into existence","fr":"naître"}
-{"L":"nase","C":["vt"],"v":"pari","en":"bear, give birth to"}
-{"L":"nase","C":["n"],"en":"birth","fr":"naissance"}
-{"L":"ante nase","C":["a"],"en":"prenatal, antenatal","fr":"prénatal"}
-{"L":"de nase","C":["a"],"en":"natal"}
-{"L":"mor naseda","C":["a"],"en":"stillborn"}
-{"L":"naseda","C":["a"],"en":"born"}
-{"L":"nasente","C":["a"],"en":"nascent, coming into existence"}
-{"L":"pos nase","C":["a"],"en":"postnatal","fr":"postnatal"}
-{"L":"prima naseda","C":["a"],"en":"firstborn"}
-{"L":"renase","C":["vnt"],"en":"be reborn","fr":"renaître"}
-{"L":"renase","C":["n"],"en":"rebirth, renaissance, renascence","fr":"renaissance"}
-{"L":"Renase","C":["n"],"en":"Renaissance","fr":"Renaissance"}
+{"L":"malnara","C":["vt"],"en":"garble (story)","es":"codificar, embrollar, confundir"}
+{"L":"naral","C":["a"],"en":"fictional, narrative, narrational","es":"ficticio, imaginario, inventado"}
+{"L":"naras","C":["n","pl"],"en":"stories, fiction","es":"hsitorias, ficción"}
+{"L":"naras siensal","C":["n"],"en":"science fiction","es":"ciencia ficción"}
+{"L":"nareta","C":["n"],"en":"short story","es":"cuento, relato corto"}
+{"L":"naror","C":["n"],"en":"storyteller, narrator, raconteur","es":"escritor, cuentista, narrador, cuentacuentos"}
+{"L":"nonarada","C":["a"],"en":"untold","es":"sin contar, no contada"}
+{"L":"renara","C":["vt"],"en":"retell","es":"volver a contar"}
+{"T":"r","L":"narco-","C":["pf","tecn"],"d":"nonsensosa","en":"narco- (stupor)","es":"narco-"}
+{"T":"r","L":"narcolesia","C":["n","med"],"d":"un maladia distinguida par un tende estrema de adormi en situas nonormal","en":"narcolepsy","es":"narcolepsia"}
+{"L":"narcolesica","C":["a"],"en":"narcoleptic","es":"narcoléptico"}
+{"T":"r","L":"narcose","C":["n","med"],"d":"un state de stupor, dormosia o nonconsensia, produida par drogas","en":"narcosis","es":"narcosis"}
+{"T":"r","L":"narcotica","C":["a","med"],"d":"(un droga) reduinte dole e causante stupor, dormosia o nonconsensia","en":"narcotic","es":"narcótico, sedante, tranquilizante"}
+{"L":"narcotica","C":["n"],"en":"narcotic","es":"narcótico, sedante, tranquilizante"}
+{"T":"r","L":"nardo","C":["n","pla"],"d":"un planta himalaian en familia de valeriana, cual produi un rizoma de cual on ia prepara un unjente multe custosa en edas antica","i":"#","t":"Nardostachys grandiflora","en":"spikenard (plant)","es":"nardo (planta)"}
+{"T":"r","L":"narina","C":["n","anat"],"d":"cada de la du abris esterna de la nas","en":"nostril, naris (pl. nares)","es":"fosa nasal","fr":"narine"}
+{"T":"r","L":"narsisisme","C":["n","uma"],"d":"un interesa suprabundante o erotica sur se e sua aspeta fisical","en":"narcissism","es":"narcisismo"}
+{"L":"narsisiste","C":["a"],"en":"narcissistic","es":"ególatra, narcisista"}
+{"L":"narsisiste","C":["n"],"en":"narcissist","es":"narcisista"}
+{"T":"r","L":"narsiso","C":["n","pla"],"d":"un planta en familia de lil, con flores tipal blanca e jala con sentro trompetin","i":"#","t":"Narcissus","en":"narcissus, daffodil (plant)","es":"narciso","fr":"narcisse"}
+{"T":"r","L":"narval","C":["n","mam"],"d":"un balena peti de la Mar Artica, de cual la mas ave un denton longa e spiral cual estende a ante","i":"#","t":"Monodon monoceros","ca":"narval","de":"Narwal","en":"narwhal (whale)","es":"narval","fr":"narval","it":"narvalo","pt":"narval","zh":"一角鯨"}
+{"T":"r","L":"nas","C":["n","anat"],"d":"la parte supra la boca de un person o animal, usada per respira e ole","i":"#","en":"nose","es":"nariz","fr":"nez"}
+{"L":"nasal","C":["a"],"en":"nasal","es":"nasal","fr":"nasal"}
+{"L":"nasal","C":["n"],"en":"nasal (consonant)","es":"nasal (consonante)","fr":"nasale (consonne)"}
+{"L":"nasali","C":["vnt"],"en":"nasalize|is","es":"nasalizar","fr":"nasaliser"}
+{"L":"nasali","C":["vt"],"en":"nasalize|is","es":"nasalizar"}
+{"L":"nasi","C":["vt"],"en":"nuzzle, nose at","es":"frotar con la nariz"}
+{"L":"posnasal","C":["a"],"en":"postnasal","es":"postnasal"}
+{"T":"r","L":"nase","C":["vnt","bio"],"d":"(un enfante) deveni un individua par sorti de la utero de un fema; (metafor) deveni esistente","en":"be born; come into existence","es":"nacer","fr":"naître"}
+{"L":"nase","C":["vt"],"v":"pari","en":"bear, give birth to","es":"parir"}
+{"L":"nase","C":["n"],"en":"birth","es":"nacimiento","fr":"naissance"}
+{"L":"ante nase","C":["a"],"en":"prenatal, antenatal","es":"prenatal","fr":"prénatal"}
+{"L":"de nase","C":["a"],"en":"natal","es":"natal"}
+{"L":"mor naseda","C":["a"],"en":"stillborn","es":"mortinato"}
+{"L":"naseda","C":["a"],"en":"born","es":"nacido"}
+{"L":"nasente","C":["a"],"en":"nascent, coming into existence","es":"naciente"}
+{"L":"pos nase","C":["a"],"en":"postnatal","es":"postnatal","fr":"postnatal"}
+{"L":"prima naseda","C":["a"],"en":"firstborn","es":"primogénito"}
+{"L":"renase","C":["vnt"],"en":"be reborn","es":"renacer","fr":"renaître"}
+{"L":"renase","C":["n"],"en":"rebirth, renaissance, renascence","es":"renacimiento","fr":"renaissance"}
+{"L":"Renase","C":["n"],"en":"Renaissance","es":"Renacimiento","fr":"Renaissance"}
 {"L":"renaseda","C":["a"],"en":"reborn"}
 {"L":"renasente","C":["a"],"en":"renascent"}
 {"T":"r","L":"nasel","C":["n","util"],"d":"un caxa o tance airodinamical a la esterna de un veculo, spesial un avion; la caxa esterna de un motor de un avion","i":"#","en":"nacelle (vehicle part)"}
@@ -17433,6 +17433,8 @@
 {"T":"r","L":"nuca","C":["n","anat"],"d":"la retro de la colo","i":"#","en":"nape, scruff, back of the neck"}
 {"T":"r","L":"nucleo","C":["n","fis","bio"],"d":"la parte sentral e la plu importante de un ojeto, move o grupo; (en fisica) la cor de un atom, con carga negativa, composada de protones e neutrones; la organeta presente en la plu de selulas eucariotal, conteninte la materia jenetical; la parola cual governa la otras en un formula, con la mesma categoria gramatical como la formula intera","en":"nucleus, kernel; head (syntax)"}
 {"L":"nucleal","C":["a"],"en":"nuclear, nucleic"}
+{"L":"desnucleali","C":["vnt"],"en":"denuclearize|is"}
+{"L":"desnucleali","C":["n"],"en":"denuclearization|is"}
 {"T":"r","L":"nucleol","C":["n","bio"],"d":"un strutur peti e sferin en la nucleo de un selula en la interfase","en":"nucleolus (biology)"}
 {"T":"r","L":"nucleon","C":["n","fis"],"d":"un proton o neutron","en":"nucleon (particle)"}
 {"T":"r","L":"nucleotido","C":["n","bio"],"d":"un de la unias fundal de asidas nucleal como adn","en":"nucleotide"}
@@ -18601,22 +18603,22 @@
 {"L":"pantala de bisicli","C":["n"],"en":"cycling shorts, bike shorts"}
 {"L":"pantala de jenos","C":["n"],"en":"knee-length shorts, Bermuda shorts, boardshorts"}
 {"L":"pantala de nada","C":["n"],"en":"swim shorts, swimming trunks"}
-{"L":"pantala faldin","C":["n"],"en":"culottes; skort"}
-{"L":"pantaleta","C":["n"],"d":"un veste interna cual covre la jenitales, tipal la gluteos e a veses la coxas","i":"#","en":"underpants, undershorts, pants (UK), shorts (US), panties, knickers"}
-{"L":"pantalon","C":["n"],"d":"un veste esterna cual covre la corpo de la taie o anca asta la talos, con tubo separada per cada gama","i":"#","en":"trousers, pants (US), slacks, bottoms"}
+{"L":"pantala faldin","C":["n"],"en":"culottes; skort","es":"falda pantalón"}
+{"L":"pantaleta","C":["n"],"d":"un veste interna cual covre la jenitales, tipal la gluteos e a veses la coxas","i":"#","en":"underpants, undershorts, pants (UK), shorts (US), panties, knickers","es":"calzoncillos, calzones"}
+{"L":"pantalon","C":["n"],"d":"un veste esterna cual covre la corpo de la taie o anca asta la talos, con tubo separada per cada gama","i":"#","en":"trousers, pants (US), slacks, bottoms","es":"trousers"}
 {"L":"pantalon cortida","C":["n"],"en":"cut-offs"}
-{"L":"pantalon de anca","C":["n"],"en":"hipsters, hip-huggers"}
-{"L":"pantalon de carga","C":["n"],"en":"cargo pants"}
-{"L":"pantalon de cavalor","C":["n"],"en":"jodhpurs"}
-{"L":"pantalon de denim","C":["n"],"en":"jeans"}
+{"L":"pantalon de anca","C":["n"],"en":"hipsters, hip-huggers","es":"vaqueros caídos, de cintura baja, de tiro bajo"}
+{"L":"pantalon de carga","C":["n"],"en":"cargo pants","es":"pantalón de camuflaje"}
+{"L":"pantalon de cavalor","C":["n"],"en":"jodhpurs","es":"pantalones de montar"}
+{"L":"pantalon de denim","C":["n"],"en":"jeans","es":"vaqueros"}
 {"L":"pantalon de sporte","C":["n"],"en":"sweatpants, joggers, jogging bottoms, tracksuit bottoms"}
 {"L":"pantalon de stribos","C":["n"],"en":"ski pants, stirrup pants, salopettes"}
 {"L":"pantalon de sura","C":["n"],"en":"capri pants"}
 {"L":"pantalon esvasante","C":["n"],"en":"flared trousers, flares, bellbottoms"}
 {"L":"supantala","C":["n"],"en":"boxer shorts, boxers"}
-{"T":"r","L":"pantan","C":["n","tera"],"d":"un rejion de tera basa, acuosa e noncultivada","i":"#","en":"wetland, swamp, bog, mire, quagmire, marsh, marshland, fen, fenland, bayou, morass"}
-{"L":"pantan arborosa","C":["n"],"en":"marsh"}
-{"L":"pantan erbosa","C":["n"],"en":"swamp"}
+{"T":"r","L":"pantan","C":["n","tera"],"d":"un rejion de tera basa, acuosa e noncultivada","i":"#","en":"wetland, swamp, bog, mire, quagmire, marsh, marshland, fen, fenland, bayou, morass","es":"humedal, cenagal, ciénaga, lodazal, marisma, pantano"}
+{"L":"pantan arborosa","C":["n"],"en":"marsh","es":"ciénaga, pantano"}
+{"L":"pantan erbosa","C":["n"],"en":"swamp","es":"ciénaga, pantano, marisma"}
 {"L":"pantan torbosa","C":["n"],"en":"peatland, peat bog"}
 {"L":"pantan torbosa alta","C":["n"],"en":"bog (ecology)"}
 {"L":"pantan torbosa basa","C":["n"],"en":"fen (ecology)"}
@@ -21237,7 +21239,7 @@
 {"L":"puntos","C":["n","pl"],"da":"pointtal, scoring","de":"Punktzahl","en":"points, score","eo":"poentaro","es":"cuenta, escor, puntuación, puntaje, calificación","fr":"points","it":"punteggio","nl":"score","pt":"escore, placar, resultado, pontuação, pontos"}
 {"L":"puntosa","C":["a"],"en":"dotted, spotty, spotted, speckled, spangled, studded, patterned with dots"}
 {"L":"trepunto","C":["n"],"en":"ellipsis, dot-dot-dot"}
-{"T":"r","L":"puntua","C":["vt","ling"],"d":"ajunta marcas como puntos, virgulas e brasetas a (un testo scriveda) per separa frases e sua partes e per clari sinifias","en":"punctuate"}
+{"T":"r","L":"puntua","C":["vt","ling"],"d":"ajunta marcas como puntos, virgulas e brasetas a (un testo scriveda) per separa frases e sua partes e per clari sinifias","en":"punctuate","es":"puntuar"}
 {"L":"puntua","C":["n"],"en":"punctuation"}
 {"T":"r","L":"puntual","C":["a"],"d":"arivante o comensante a la tempo acordada","ca":"a temps, puntual(ment)","de":"pünklich","en":"punctual, prompt, on time, in time","eo":"akurata","es":"a tiempo","fr":"à temps","ja":"ちょうど","pt":"na hora, em tempo, pontualmente","ru":"вовремя"}
 {"L":"puntualia","C":["n"],"en":"punctuality, promptness"}
@@ -21301,7 +21303,7 @@
 {"T":"r","L":"puxa","C":["vt"],"d":"puia (un person o cosa) en modo bruta e noncurante","en":"shove, ram, thrust, sweep, jostle, manhandle"}
 {"L":"puxa","C":["n"],"en":"shove, thrust"}
 {"L":"puxador","C":["n"],"en":"thruster"}
-{"T":"r","L":"puzel","C":["n","spo"],"d":"un pasatempo composada de un imaje primida sur carton o lenio e taliada en pesos de formas diversa cual on debe reasembla","i":"#","en":"jigsaw puzzle"}
+{"T":"r","L":"puzel","C":["n","spo"],"d":"un pasatempo composada de un imaje primida sur carton o lenio e taliada en pesos de formas diversa cual on debe reasembla","i":"#","en":"jigsaw puzzle","es":"rompecabezas"}
 {"T":"r","L":"q","C":["sim"],"d":"la letera 17 de la alfabeta roman","p":"qua","en":"q","es":"q"}
 {"T":"r","L":"Qahira","C":["n","jeo"],"d":"la site capital de Misre","en":"Cairo","es":"Cairo"}
 {"T":"r","L":"Quebec","C":["n","jeo"],"d":"un provinse de Canada este, bordante la Golfo San Laurent e la Baia Hudson","i":"#","p":"cebec","en":"Quebec (Canadian province)","es":"Quebec","fr":"Québec"}
