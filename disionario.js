@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '1 marto 2019';
+﻿var dataDeDatos = '2 marto 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -20301,7 +20301,7 @@ var disionario = [
 {T:"r",L:"pontxo",C:["n","vest"],d:"un veste simple de lana, sin mangas e con ranur per la testa, orijinante en America Sude; un veste simil usada per proteje contra la pluve",i:"#",en:"poncho (garment)"},
 {T:"r",L:"pop",C:["a","mus"],d:"pertinente a musica popular e comersialida",en:"pop (music)"},
 {L:"pop",C:["n"],en:"pop (music)"},
-{T:"r",L:"popa",C:["n","vec"],d:"la parte la plu retro de un barco o barcon, spesial sua teto; (nonformal) la gluteos",en:"stern (ship); (colloquial) bum, butt, rear, tush (buttocks)"},
+{T:"r",L:"popa",C:["n","vec"],d:"la parte la plu retro de un barco o barcon, spesial sua teto; (nonformal) la gluteos",en:"poop, stern (ship); (colloquial) bum, butt, rear, tush (buttocks)"},
 {L:"Popa",C:["n","ast"],en:"Puppis (constellation)"},
 {L:"popal",C:["a"],en:"aft, astern"},
 {T:"r",L:"popcorn",C:["n","cos"],d:"un tipo de mais con granes dur cual esplode cuando caldida; esta mais usada como un comeda, tipal con bur e sal",i:"#",en:"popcorn"},
