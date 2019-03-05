@@ -11672,14 +11672,14 @@
 {"T":"r","L":"gameta","C":["n","bio"],"d":"un selula matur aploide, mas o fema, cual pote uni con un de la otra seso per formi un zigoto","en":"gamete"}
 {"T":"r","L":"gametofite","C":["n","bio"],"d":"la fase de developa cual produi gametas en moses e epaticas","en":"gametophyte"}
 {"T":"r","L":"gan","C":["n","dem"],"d":"un dialeto de xines, parlada par sirca 20 milion persones, xef en la provinse Jiangxi","en":"Gan (language)"}
-{"T":"r","L":"Gana","C":["n","jeo"],"c":"Accra","d":"un pais en Africa ueste, con costa sude a la Mar Atlantica","i":"#","en":"Ghana"}
-{"L":"ganaian","C":["a"],"en":"Ghanaian"}
-{"L":"ganaian","C":["n"],"en":"Ghanaian"}
-{"T":"r","L":"ganax","C":["n","cos"],"d":"un pleninte bateda de xocolada e crema, usada en tortas e confetos","en":"ganache (food)"}
-{"T":"r","L":"gang","C":["n","gov"],"d":"un grupo organizada de criminales; un grupo de jovenes envolveda en crimin o violentia minor; un grupo de jovenes ci asosia con lunlotra; un grupo organizada de persones ci labora par mano","en":"gang"}
-{"T":"r","L":"ganga","C":["n","avia"],"d":"un avia con plumas brunin, nidinte sur tera en desertos, comente semes, e relatada a pijones","t":"Pteroclidae","en":"sandgrouse"}
-{"T":"r","L":"Ganga, Rio","C":["n","jeo"],"d":"un rio en Barat norde e Bangladex cual comensa en la Montes Himalaia e fini en la Golfo Bengala","i":"Rio-Ganga","en":"Ganges River"}
-{"T":"r","L":"ganglio","C":["n","anat"],"d":"un strutur composada de un cuantia de corpos de neurones, tipal forminte un infla a la fibre; un masa bon definida de materia gris en la sistem de nervos sentral","en":"ganglion (biology)"}
+{"T":"r","L":"Gana","C":["n","jeo"],"c":"Accra","d":"un pais en Africa ueste, con costa sude a la Mar Atlantica","i":"#","en":"Ghana","es":"Ghana"}
+{"L":"ganaian","C":["a"],"en":"Ghanaian","es":"ghanés"}
+{"L":"ganaian","C":["n"],"en":"Ghanaian","es":"ghanés"}
+{"T":"r","L":"ganax","C":["n","cos"],"d":"un pleninte bateda de xocolada e crema, usada en tortas e confetos","en":"ganache (food)","es":"ganache"}
+{"T":"r","L":"gang","C":["n","gov"],"d":"un grupo organizada de criminales; un grupo de jovenes envolveda en crimin o violentia minor; un grupo de jovenes ci asosia con lunlotra; un grupo organizada de persones ci labora par mano","en":"gang","es":"pandilla"}
+{"T":"r","L":"ganga","C":["n","avia"],"d":"un avia con plumas brunin, nidinte sur tera en desertos, comente semes, e relatada a pijones","t":"Pteroclidae","en":"sandgrouse","es":"ganga"}
+{"T":"r","L":"Ganga, Rio","C":["n","jeo"],"d":"un rio en Barat norde e Bangladex cual comensa en la Montes Himalaia e fini en la Golfo Bengala","i":"Rio-Ganga","en":"Ganges River","es":"río Ganges"}
+{"T":"r","L":"ganglio","C":["n","anat"],"d":"un strutur composada de un cuantia de corpos de neurones, tipal forminte un infla a la fibre; un masa bon definida de materia gris en la sistem de nervos sentral","en":"ganglion (biology)","es":"ganglio (anatomía)"}
 {"T":"r","L":"gangrena","C":["n","med"],"d":"la mori e descomposa local de texeda, cual resulta de sangue blocida o un infeta baterial","en":"gangrene"}
 {"L":"gangrenosa","C":["a"],"en":"gangrenous"}
 {"T":"r","L":"gangster","C":["n","gov"],"d":"un membro de un gang de criminales violente","i":"#","en":"gangster, mobster, racketeer"}
@@ -12109,6 +12109,7 @@
 {"L":"gras de bur","C":["n"],"en":"butterfat"}
 {"L":"gras de porco","C":["n"],"en":"lard"}
 {"L":"gras de ren","C":["n"],"en":"suet"}
+{"L":"grasal","C":["a"],"en":"fatty (pertaining to fat)"}
 {"L":"grasi","C":["vt"],"en":"grease, baste"}
 {"L":"grasosa","C":["a"],"en":"fat, fatty, greasy"}
 {"T":"r","L":"grasia","C":["vt","uma"],"d":"espresa un senti de felisia a (algun) pos reseta alga cosa beneficante","en":"thank"}
@@ -12216,40 +12217,40 @@
 {"T":"r","L":"Guatemala","C":["n","jeo"],"c":"la Site Guatemala","d":"un pais en America Sentral cual borda la Mar Pasifica con costa corta a la Mar Caribe","i":"#","en":"Guatemala"}
 {"L":"guatemalteca","C":["a"],"en":"Guatemalan"}
 {"L":"guatemalteca","C":["n","dem"],"en":"Guatemalan"}
-{"T":"r","L":"Guayaquil","C":["n","jeo"],"en":"Guayaquil"}
-{"L":"Golfo Guayaquil","C":["n","jeo"],"d":"un golfo a ueste de Ecuador, un estende de la Mar Pasifica","i":"#","en":"Gulf of Guayaquil"}
+{"T":"r","L":"Guayaquil","C":["n","jeo"],"en":"Guayaquil","es":"Guayaquil"}
+{"L":"Golfo Guayaquil","C":["n","jeo"],"d":"un golfo a ueste de Ecuador, un estende de la Mar Pasifica","i":"#","en":"Gulf of Guayaquil","es":"Golfo de Guayaquil"}
 {"T":"r","L":"Gudjarat","C":["n","jeo"],"d":"un provinse de Barat","i":"#","en":"Gujarat (Indian state)"}
 {"L":"gudjarati","C":["a","dem"],"en":"Gujarati (person, language)"}
 {"L":"gudjarati","C":["n"],"en":"Gujarati (person, language)"}
 {"T":"r","L":"gugli","C":["vt","info"],"d":"xerca informa sur (un person o cosa) a la interede, usante la programes de la compania Google","en":"google (search for)"}
 {"T":"r","L":"gugli","C":["n","spo"],"d":"(en criceta) un bal lansada con bondi enganosa","en":"googly (cricket)"}
-{"T":"r","L":"gugol","C":["n","mat"],"d":"des a la potia 100","en":"googol (number)"}
-{"T":"r","L":"gugolplex","C":["n","mat"],"d":"des a la potia gugol; (metafor) cualce cuantia enorme","en":"googolplex (number)"}
-{"T":"r","L":"guaiaco","C":["n","pla"],"d":"un arbor sempreverde de la Caribe e America tropical, istorial importante per sua lenio dur e oliosa","en":"guiacum"}
-{"T":"r","L":"Guian Franses","C":["n","jeo"],"d":"un pais en America Sude norde, governada par Frans","i":"#","en":"French Guiana"}
-{"L":"guianes","C":["a"],"en":"Guianan, French Guianan"}
-{"L":"guianes","C":["n","dem"],"en":"Guianan, French Guianan"}
-{"T":"r","L":"Guiana","C":["n","jeo"],"c":"Georgetown","d":"un pais a la costa norde-este de America Sude","i":"#","en":"Guyana"}
-{"L":"guianan","C":["a"],"en":"Guyanese"}
-{"L":"guianan","C":["n"],"en":"Guyanese"}
-{"T":"r","L":"gul","C":["n","mit"],"d":"(en mitos) un mal fantasma ci ruba tombas e come corpos mor","en":"ghoul (mythology)"}
-{"T":"r","L":"gulag","C":["n","gov"],"d":"un campo de labora en la sistem mantenida en la Uni Soviet de 1930 a 1955, tipal usada per prisonidas political, en cual multe persones ia mori; cualce loca simil","en":"gulag"}
-{"T":"r","L":"gulax","C":["n","cos"],"d":"un sopa o ragu de bove, paprica e onion, orijinante en Magiar","i":"#","en":"goulash, gulyás (soup)"}
-{"T":"r","L":"gulo","C":["n","mam"],"d":"un mamal carnivor con corpo grande ma gamas corta, pelo longa e brun, e coda brosin, nativa de la tundra e forestas norde de Europa, Asia e America Norde","i":"#","t":"Gulo gulo","en":"wolverine (animal)"}
-{"T":"r","L":"gundi","C":["n","mam"],"d":"un rodente peti e sosial, abitante rejiones rocosa en la desertos de Africa norde e este","i":"#","t":"Ctenodactylidae","en":"gundi (rodent)"}
-{"T":"r","L":"gupi","C":["n","pex"],"d":"un pex peti de acua dulse, comun trovada en acuerias","i":"#","t":"Poecilia reticulata","en":"guppy (fish)"}
-{"T":"r","L":"guptan","C":["a","ist"],"d":"pertinente a la dinastia indu fundida en 320 cual ia rena la plu de Barat norde tra un periodo","i":"#","en":"Guptan (dynasty)"}
-{"T":"r","L":"gurami","C":["n","pex"],"d":"un pex colorosa de Asia, popular en acuerias","i":"#","t":"Osphronemidae","en":"gourami (fish)"}
+{"T":"r","L":"gugol","C":["n","mat"],"d":"des a la potia 100","en":"googol (number)","es":"gúgol (número)"}
+{"T":"r","L":"gugolplex","C":["n","mat"],"d":"des a la potia gugol; (metafor) cualce cuantia enorme","en":"googolplex (number)","es":"gúgolplex (número)"}
+{"T":"r","L":"guaiaco","C":["n","pla"],"d":"un arbor sempreverde de la Caribe e America tropical, istorial importante per sua lenio dur e oliosa","en":"guiacum","es":"guayacán, guayaco"}
+{"T":"r","L":"Guian Franses","C":["n","jeo"],"d":"un pais en America Sude norde, governada par Frans","i":"#","en":"French Guiana","es":"Guayana Francesa"}
+{"L":"guianes","C":["a"],"en":"Guianan, French Guianan","es":"francoguyanés"}
+{"L":"guianes","C":["n","dem"],"en":"Guianan, French Guianan","es":"francoguyanés"}
+{"T":"r","L":"Guiana","C":["n","jeo"],"c":"Georgetown","d":"un pais a la costa norde-este de America Sude","i":"#","en":"Guyana","es":"Guyana"}
+{"L":"guianan","C":["a"],"en":"Guyanese","es":"guyanés"}
+{"L":"guianan","C":["n"],"en":"Guyanese","es":"guyanés"}
+{"T":"r","L":"gul","C":["n","mit"],"d":"(en mitos) un mal fantasma ci ruba tombas e come corpos mor","en":"ghoul (mythology)","es":"gul"}
+{"T":"r","L":"gulag","C":["n","gov"],"d":"un campo de labora en la sistem mantenida en la Uni Soviet de 1930 a 1955, tipal usada per prisonidas political, en cual multe persones ia mori; cualce loca simil","en":"gulag","es":"gulag"}
+{"T":"r","L":"gulax","C":["n","cos"],"d":"un sopa o ragu de bove, paprica e onion, orijinante en Magiar","i":"#","en":"goulash, gulyás (soup)","es":"gulash"}
+{"T":"r","L":"gulo","C":["n","mam"],"d":"un mamal carnivor con corpo grande ma gamas corta, pelo longa e brun, e coda brosin, nativa de la tundra e forestas norde de Europa, Asia e America Norde","i":"#","t":"Gulo gulo","en":"wolverine (animal)","es":"glotón, carcayú (animal)"}
+{"T":"r","L":"gundi","C":["n","mam"],"d":"un rodente peti e sosial, abitante rejiones rocosa en la desertos de Africa norde e este","i":"#","t":"Ctenodactylidae","en":"gundi (rodent)","es":"gundi (roedor)"}
+{"T":"r","L":"gupi","C":["n","pex"],"d":"un pex peti de acua dulse, comun trovada en acuerias","i":"#","t":"Poecilia reticulata","en":"guppy (fish)","es":"guppy, lebistes, pez millón"}
+{"T":"r","L":"guptan","C":["a","ist"],"d":"pertinente a la dinastia indu fundida en 320 cual ia rena la plu de Barat norde tra un periodo","i":"#","en":"Guptan (dynasty)","es":"Gupta (dinastía)"}
+{"T":"r","L":"gurami","C":["n","pex"],"d":"un pex colorosa de Asia, popular en acuerias","i":"#","t":"Osphronemidae","en":"gourami (fish)","es":"gurami"}
 {"T":"r","L":"gurgula","C":["vnt"],"d":"crea un sona como acua corente de un botela, un stomaco fame, o un paso en fango","en":"gurgle, glug, squelch"}
 {"L":"gurgula","C":["vt"],"en":"gurgle, glug, squelch"}
 {"L":"gurgula","C":["n"],"en":"gurgle, glug, squelch"}
 {"T":"r","L":"gurme","C":["n","cos"],"d":"un person con multe sabes e esperia de comedas de cualia alta","en":"gourmet, gastronome, epicure, epicurean"}
 {"T":"r","L":"guru","C":["n","rel"],"d":"(en budisme e induisme) un instruor relijiosa","i":"#","en":"guru"}
-{"T":"r","L":"gusta","C":["vt","uma"],"d":"senti ce (un person o cosa) es bon, simpatiosa, sasiante, plasente, etc","u":"me gusta leje; me gusta esta canta","en":"like, enjoy, be fond of"}
-{"L":"gusta","C":["n"],"en":"enjoyment"}
+{"T":"r","L":"gusta","C":["vt","uma"],"d":"senti ce (un person o cosa) es bon, simpatiosa, sasiante, plasente, etc","u":"me gusta leje; me gusta esta canta","en":"like, enjoy, be fond of","es":"agradar, disfrutar, gustar"}
+{"L":"gusta","C":["n"],"en":"enjoyment","es":"goce, gozo, disfrute, placer"}
 {"L":"gustable","C":["a"],"en":"likable|likeable, enjoyable, pleasant, agreeable, welcome, groovy"}
-{"L":"no gusta","C":["v"],"en":"dislike"}
-{"L":"nongusta","C":["n"],"en":"dislike"}
+{"L":"no gusta","C":["v"],"en":"dislike","es":"no gustar, desagradar, tener aversión a,"}
+{"L":"nongusta","C":["n"],"en":"dislike","es":"antipatía, desagrado, fastidio"}
 {"T":"r","L":"h","C":["sim"],"d":"la letera oto de la alfabeta roman","p":"hax","en":"h"}
 {"T":"r","L":"ha","C":["esc"],"d":"espresante ce on es surprendeda, ce on ia vinse, ce on ia fa un descovre, o un otra reata simil","en":"ha"}
 {"L":"ha ha","C":["esc"],"d":"espresante un rie","en":"ha ha (laughing)","es":"ja, ja, ja (riendo)"}
@@ -13401,6 +13402,7 @@
 {"T":"r","L":"isomerase","C":["n","bio","cim"],"d":"un enzima cual catalise cambias de isomeri con un sola molecula","en":"isomerase"}
 {"T":"r","L":"isomero","C":["n","cim"],"d":"cada de du o plu composadas con la mesma formula ma un ordina diferente de la atomes en la molecula e con cualias diferente","en":"isomer (chemistry)"}
 {"L":"isomeral","C":["a","cim"],"en":"isomeric"}
+{"L":"isomeri","C":["vnt"],"en":"isomerize|is"}
 {"T":"r","L":"isometral","C":["a","mat"],"d":"con dimensiones egal; (en fisiolojia) de o pertinente a tensa de musculos sin contrae; (en desinia) usante un modo de mostra perspetiva en cual la tre dimensiones es representada par tre ases separada par 120°; (en matematica) pertinente a un cambia de un forma cual manteni distantias e angulos","en":"isometric"}
 {"T":"r","L":"isomorfe","C":["a","mat"],"d":"simil en forma e relatas","en":"isomorphic"}
 {"L":"isomorfe","C":["n"],"d":"un materia o organisme cual coresponde esata en forma con un otra","en":"isomorph"}
@@ -14436,7 +14438,7 @@
 {"L":"verbo liante","C":["n"],"d":"un verbo nontransitiva cual es sempre acompaniada par un completinte ajetivin o nomin, como en `los es libros`, `acel pare riable`, `me senti felis`","en":"linking verb, copula"}
 {"T":"r","L":"liama","C":["n","mam"],"d":"un mamal en familia de camel, usada per transporta cargas en la Andes e valuada per sua lana suave","i":"#","t":"Lama glama","en":"llama (animal)"}
 {"T":"r","L":"liana","C":["n","pla"],"d":"un planta leniosa e trepante cual pende de arbores, tipal en forestas pluvosa tropical","en":"liana (plant)"}
-{"T":"r","L":"liase","C":["n","bio","cim"],"d":"un enzima cual fendi lias variosa par modos otra ca idrolise e osidi","en":"lyase"}
+{"T":"r","L":"liase","C":["n","bio","cim"],"d":"un enzima cual fende lias variosa par modos otra ca idrolise e osidi","en":"lyase"}
 {"T":"r","L":"libela","C":["n","artr"],"d":"un inseto rapida volante e xasante, con du duples de alas grande e transparente","i":"#","t":"Odonata","en":"dragonfly, damselfly"}
 {"T":"r","L":"Liberia","C":["n","jeo"],"c":"Monrovia","d":"un pais a la costa de la Mar Atlantica en Africa ueste","i":"#","en":"Liberia"}
 {"L":"liberian","C":["a"],"en":"Liberian"}
@@ -20198,7 +20200,7 @@
 {"L":"polimeri","C":["n"],"en":"polymerization|is"}
 {"L":"polimeria","C":["n"],"en":"polymerism"}
 {"L":"polimerosa","C":["a"],"en":"polymeric, polymerous"}
-{"T":"r","L":"polimerase","C":["n","bio","cim"],"d":"un enzima cual causa la crea de un polimer, spesial ADN o ARN","en":"polymerase"}
+{"T":"r","L":"polimerase","C":["n","bio","cim"],"d":"un enzima cual causa la crea de un polimer, spesial adn o arn","en":"polymerase"}
 {"T":"r","L":"polimorfe","C":["a","bio"],"d":"esistente en formas diversa","en":"polymorphic"}
 {"L":"polimorfia","C":["n"],"en":"polymorphism"}
 {"T":"r","L":"Polinesia","C":["n","jeo"],"d":"un colie de isolas en la Mar Pasifica sentral a este de Micronesia e Melanesia e a ueste de la Americas","en":"Polynesia"}
@@ -23375,7 +23377,7 @@
 {"L":"selula de sangue","C":["n"],"en":"blood cell, corpuscle","fr":"cellule sanguine"}
 {"L":"selula madrin","C":["n"],"en":"stem cell","fr":"cellule souche"}
 {"L":"selulal","C":["a"],"en":"cellular","fr":"cellulaire"}
-{"T":"r","L":"selulase","C":["n","bio","cim"],"d":"n enzima cual cambia selulosa a glucosa o un disacarido","en":"cellulase"}
+{"T":"r","L":"selulase","C":["n","bio","cim"],"d":"un enzima cual cambia selulosa a glucosa o un disacarido","en":"cellulase"}
 {"T":"r","L":"selulite","C":["n"],"d":"un inflama de texeda juntante ipodermal","en":"cellulitis"}
 {"T":"r","L":"seluloide","C":["n","util"],"d":"un plastica transparente e flamable, fabricada en folias e usada en la pasada per filmas","en":"celluloid (plastic)","fr":"celluloïde"}
 {"T":"r","L":"selulosa","C":["n","cim","bio"],"d":"un materia nondisolvable cual es la parte major de la mures de la selulas de plantas e de fibres como coton","en":"cellulose","fr":"cellulose"}
@@ -26600,7 +26602,7 @@
 {"L":"transesalia","C":["n"],"en":"transsexuality"}
 {"T":"r","L":"transetador","C":["n","util"],"d":"un aparato cual reseta e transmete siniales de radio","en":"transceiver"}
 {"T":"r","L":"transfemin","C":["a"],"d":"(un fem) transjenero; (un person nonbinaria) ci ia nase mas e regarda se como xef femin","en":"transfeminine"}
-{"T":"r","L":"transferase","C":["n","bio","cim"],"d":"un enzima cual envia un grupo funsional (pe un grupo metil o fosfato) de un molecula a un otra","en":"transferase"}
+{"T":"r","L":"transferase","C":["n","bio","cim"],"d":"un enzima cual envia un grupo funsional (per esemplo un grupo de metil o fosfato) de un molecula a un otra","en":"transferase"}
 {"T":"r","L":"transfobia","C":["n","uma"],"d":"un antipatia estrema o nonrazonada a persones transesal","en":"transphobia"}
 {"L":"transfobica","C":["a"],"en":"transphobic"}
 {"L":"transfobica","C":["n"],"en":"transphobe"}
