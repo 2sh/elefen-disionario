@@ -5598,6 +5598,7 @@
 {"L":"como si","C":["sj"],"en":"as if, as though, like","he":"כאילו ש","ru":"как если бы"}
 {"L":"no como","C":["prep"],"en":"unlike","he":"לא כמו","ru":"не как, словно не, как будто не"}
 {"L":"no como","C":["sj"],"en":"unlike how","he":"שלא כמו","ru":"словно не, как будто не"}
+{"L":"sempre como","C":["sj"],"en":"however"}
 {"T":"r","L":"comoda","C":["n","arci"],"d":"un mobila de caxetas e cisa scafales","i":"#","en":"chest of drawers, dresser","he":"שידה, קומודה"}
 {"L":"comoda de cosina","C":["n"],"en":"sideboard (displaying or storing dishes)","he":"מזנון (רהיט)"}
 {"L":"comodeta","C":["n"],"en":"nightstand, bedside table","he":"שידת לילה"}
@@ -6896,96 +6897,96 @@
 {"T":"r","L":"criofilia","C":["n","bio"],"d":"la capasia de alga organismes de abita en situas multe fria","en":"cryophilia","he":"קריופיליה"}
 {"L":"criofilica","C":["a"],"en":"cryophilic","he":"קריופילי"}
 {"L":"criofilica","C":["n"],"en":"cryophile","he":"קריופיל"}
-{"T":"r","L":"criojen","C":["a"],"d":"pertinente a la ramo de fisica cual studia la produi e efetos de temperatures multe basa; pertinente a la jela de persones mor, esperante ce la siensa futur va trova un modo de revive los","en":"cryogenic, cryonic"}
-{"L":"criojenia","C":["n"],"en":"cryogenics"}
-{"T":"r","L":"criosirurjia","C":["n","med"],"d":"sirurjia cual usa la aplica local de fria estrema per destrui texedas nondesirada","en":"cryosurgery"}
-{"T":"r","L":"criovolcan","C":["n","tera"],"d":"un volcan cual ejeta materias como acua, amonia o metano en loca de roca fondeda","en":"cryovolcano"}
-{"L":"criovolcanisme","C":["n"],"en":"cryovolcanism"}
-{"T":"r","L":"cripto-","C":["pf","tecn"],"d":"secreta, ascondeda","en":"crypto-"}
-{"T":"r","L":"criptografia","C":["n","gov"],"d":"la arte de crea o solve sifras","en":"cryptography, cryptology"}
-{"L":"criptografiste","C":["n"],"en":"cryptographer, cryptologist"}
-{"T":"r","L":"criptomone","C":["n","mone"],"d":"un sistem de mone dijital, usante tecnicas de sifri per regula la jenera de mone e per validi la intercambias","en":"cryptocurrency"}
-{"T":"r","L":"cripton","C":["n","cim"],"d":"la elemento cimical con numero atomal 36, un gas usada en alga tipos de lumina eletrica","s":"Kr (krypton)","en":"krypton"}
-{"T":"r","L":"criptonita","C":["n","mit"],"d":"un mineral estrateran, capas de cansela la potias de Superman; cualce cosa cual redui multe la fortia de algun","en":"kryptonite"}
-{"T":"r","L":"cris","C":["n","util"],"d":"un daga de Malaisia o Indonesia con lamina ondin","i":"#","en":"kris (dagger)"}
-{"T":"r","L":"crisalida","C":["n","bio"],"d":"un inseto en sua forma nonativa e nonmatur, entre larva e adulte","i":"#","en":"chrysalis, pupa"}
-{"T":"r","L":"crisantemo","C":["n","pla"],"d":"un planta en familia de margarita, con flores briliante colorida","i":"#","t":"Chrysanthemum","en":"chrysanthemum"}
-{"T":"r","L":"crise","C":["n","uma"],"d":"un tempo de difisilia, turba o peril intensa; un tempo cuando on debe fa un deside difisil o importante","en":"crisis, emergency"}
-{"L":"crise coler","C":["n"],"en":"temper tantrum"}
-{"L":"crise mental","C":["n"],"en":"mental breakdown, nervous breakdown"}
-{"T":"r","L":"crisol","C":["n","util"],"d":"un contenador seramica o metal, en cual on pote fonde metales o otra materias o esposa los a caldia estrema; (metafor) un situa en cual elementos diversa interata e produi un cosa nova, tipal con alga turbas","en":"crucible, melting pot"}
-{"T":"r","L":"crisopa","C":["n","ins"],"d":"un inseto magra e delicata con alas grande de membrana clar","i":"#","t":"Chrysopidae","en":"lacewing (insect)"}
-{"T":"r","L":"cristal","C":["a","cim"],"d":"composada de un agrega de atomes o moleculas simetre ordinada en tre dimensiones; (vitro) clar e refratante","en":"crystalline"}
-{"L":"cristal","C":["n"],"en":"crystal"}
-{"L":"cristal licuida","C":["n"],"en":"liquid crystal"}
-{"L":"cristali","C":["vnt"],"en":"crystallize|is, effloresce"}
-{"L":"cristali","C":["vt"],"en":"crystallize|is, effloresce"}
-{"L":"cristali","C":["n"],"en":"crystallization|is"}
-{"T":"r","L":"cristalografia","C":["n","cim"],"d":"la siensa de la cualias e strutur de cristales","en":"crystallography"}
-{"T":"r","L":"cristian","C":["a","rel"],"d":"pertinente a la relijio fundida sur la atas e dises de Jesus Cristo, o a la membros","en":"Christian","es":"cristiano"}
-{"L":"cristian","C":["n"],"en":"Christian","es":"cristiano"}
-{"L":"cristiani","C":["vnt"],"en":"Christianize|is"}
-{"L":"cristiani","C":["vt"],"en":"Christianize|is"}
-{"L":"cristiani","C":["n"],"en":"Christianization|is"}
-{"L":"cristianisme","C":["n"],"en":"Christianity","es":"Cristianismo"}
-{"L":"mundo cristian","C":["n"],"en":"Christendom"}
-{"T":"r","L":"Cristo","C":["n","rel"],"d":"la titulo, tipal tratada como un nom, donada a Jesus de Nasira, traduida de la parola ivri per `maxia`","en":"Christ","es":"Cristo"}
-{"L":"Anticristo","C":["n","rel"],"en":"Antichrist"}
-{"T":"r","L":"criterio","C":["n","fil"],"d":"un prinsipe, model o norma par cual on fa un judi o deside","en":"criterion (pl. criteria)"}
-{"T":"r","L":"Criti","C":["n","jeo"],"d":"un isola elinica en la Mar Mediteraneo este, e la loca de la sivilia Minoan de la milenio du aec","i":"#","en":"Crete","es":"Creta"}
-{"L":"critica","C":["a"],"en":"Cretan","es":"cretense"}
-{"L":"critica","C":["n"],"en":"Cretan","es":"cretense"}
-{"T":"r","L":"critica","C":["vt","fil"],"d":"indica la falis de (un person o cosa) en un modo desaprobante; formi e espresa un judi sofistica de (un obra de arte)","en":"criticize|is, reproach, lambast, tell off, henpeck; critique"}
-{"L":"critica","C":["n"],"en":"criticism, reproach, sideswipe; critique"}
-{"L":"criticante","C":["a"],"en":"critical, mordant, trenchant"}
-{"L":"criticiste","C":["n"],"en":"critic (art)"}
-{"L":"criticor","C":["n"],"en":"critic, opponent"}
-{"T":"r","L":"Crixna","C":["n","rel"],"d":"un de la dios de induisme, la incarne oto e la plu importante de Vixnu","i":"#","en":"Krishna"}
-{"L":"crixnaisme","C":["n"],"p":"crixnaïsme","en":"Krishnaism, Hare Krishna"}
-{"L":"crixnaiste","C":["a"],"p":"crixnaïste","en":"Krishnaist"}
-{"L":"crixnaiste","C":["n"],"en":"Krishnaist"}
-{"T":"r","L":"croceta","C":["n","cos"],"d":"un enrola de vejetales, carne o pex axida a pesos, covreda par pesetas de pan e fritada","i":"croceta-comeda","en":"croquette (food)"}
-{"T":"r","L":"croceta","C":["n","spo"],"d":"un jua sur erba, en cual on usa marteles de lenio con manicos longa per colpa bales colorida tra un serie de portetas; un colpa a un bal cual toca ja un otra en esta jua","i":"#","en":"croquet (game, shot)"}
-{"T":"r","L":"croco","C":["n","pla"],"d":"un planta peti en familia de iris, cual crese de un cormo e produi flores briliante jala, purpur o blanca","i":"#","t":"Crocus","en":"crocus"}
-{"T":"r","L":"crocodil","C":["n","ret"],"d":"un retil grande, xasante e semiacual, con mandibulas longa, coda longa, gamas corta e pel cornin","i":"#","t":"Crocodylidae","en":"crocodile"}
-{"T":"r","L":"cromatica","C":["a","mus"],"d":"pertinente a colores; (musica) usante notas cual no parteni a la scala diatonica de la tono en cual la pasaje es scriveda; (un scala musical) asendente o desendente par semitonos; (un strumento) capas de jua tota notas de un scala cromatica","en":"chromatic"}
-{"L":"noncromatica","C":["a"],"en":"achromatic"}
-{"T":"r","L":"cromatida","C":["n","bio"],"d":"cada de la du filos a cual un cromosoma divide lonjitudal","en":"chromatid"}
-{"T":"r","L":"cromatina","C":["n","bio"],"d":"la materia de cual la cromosomas de eucariotas es composada","en":"chromatin"}
-{"T":"r","L":"cromato","C":["n","cim"],"d":"un sal de cual la anion conteni e cromo e osijen","en":"chromate (chemistry)"}
-{"T":"r","L":"cromo","C":["n","cim"],"d":"la elemento cimical con numero atomal 24, un metal usada per produi aser nonosidable e otra metales aliada","s":"Cr","en":"chromium"}
-{"L":"cromi","C":["vt"],"en":"chrome-plate, chromium-plate"}
-{"L":"cromida","C":["a"],"en":"chrome-plated, chromium-plated"}
-{"L":"cromida","C":["n"],"en":"chrome"}
-{"T":"r","L":"cromo-","C":["pf","tecn"],"d":"color","en":"chromo-"}
-{"T":"r","L":"cromorno","C":["n","mus"],"d":"un strumento medieval de venta, curva, con anxa duple encluida en beco de lenio","i":"#","en":"krummhorn, crumhorn (musical instrument)"}
-{"T":"r","L":"cromosoma","C":["n","bio"],"d":"un strutur de asidas nucleal e protena, trovada en la nucleo de la plu de selulas vivente, conteninte la informa jenetical","en":"chromosome"}
-{"T":"r","L":"cronica","C":["a","med"],"d":"(un maladia) durante tra un tempo longa o frecuente reveninte","en":"chronic (medical)"}
-{"T":"r","L":"crono-","C":["pf","tecn"],"d":"tempo","en":"chrono-"}
-{"T":"r","L":"cronobiolojia","C":["n","bio"],"en":"chronobiology"}
-{"T":"r","L":"cronolojia","C":["n"],"d":"un presenta de avenis o datas en la ordina de sua aveni; la studia de arcivos istorial per trova la datas de avenis pasada","en":"chronology"}
-{"L":"cronolojial","C":["a"],"en":"chronological"}
-{"L":"cronolojiste","C":["n"],"en":"chronologist"}
-{"T":"r","L":"cronometre","C":["n","util"],"d":"un spesie de orolojo, con botones per ativi e pausa lo, usada per mesura la tempo esata de un corsa o otra prosede","en":"chronometer, stopwatch, timer"}
-{"L":"cronometri","C":["vt"],"en":"time"}
-{"L":"cronometri","C":["n"],"en":"timing, timekeeping, measurement of time"}
-{"L":"cronometriste","C":["n"],"en":"timekeeper"}
-{"T":"r","L":"crosta","C":["n","cos","med"],"d":"la strato esterna de un pan, torta, ceso, neva, etc; la strato esterna de roca de cual un planeta es composada; la covrente seca e protejente cual formi sur un feri cuando lo sani","en":"crust, scab, rind (cheese)"}
-{"L":"crosti","C":["vnt"],"en":"encrust, cake"}
-{"L":"crosti","C":["vt"],"en":"encrust, cake"}
-{"L":"crosti","C":["n"],"en":"encrustation"}
-{"L":"crostosa","C":["a"],"en":"crusty"}
-{"T":"r","L":"crotal","C":["n","ret"],"d":"un vipera grande american con un serie de anelos cornin a sua coda cual vibra e crea clicas avertinte","i":"#","t":"Crotalus, Sistrurus","en":"rattlesnake, rattler"}
-{"T":"r","L":"croxe","C":["vt","vest"],"d":"fabrica (un stofa o veste) par aneli filo de lana con un ago oncin","en":"crochet"}
-{"T":"r","L":"cru","C":["a","cos"],"d":"(un comeda) no coceda; (un materia) en sua forma natural, ancora no preparada o purida; (un informa) no analiseda, evaluada o preparada per usa","en":"raw, uncooked, crude, gross"}
-{"T":"r","L":"cruel","C":["a","uma"],"d":"causante dole o sufri a otras, con intende o sin cura","en":"cruel, ruthless, dastardly, vicious, cut-throat"}
-{"L":"cruelia","C":["n"],"en":"cruelty, ruthlessness, viciousness"}
-{"T":"r","L":"cruji","C":["vnt"],"d":"(un ojeto, tipal de lenio) fa un sona basa cuando on move o presa lo","en":"creak (low-pitched), groan"}
-{"L":"cruji","C":["vt"],"en":"creak (low-pitched), groan"}
-{"L":"cruji","C":["n"],"en":"creak (low-pitched), groan"}
-{"L":"crujinte","C":["a"],"en":"creaking, creaky"}
-{"T":"r","L":"crumpeta","C":["n"],"d":"un torteta engles, plana, spesa e mol, tipal tostada e burida","en":"crumpet (cake)"}
-{"T":"r","L":"crup","C":["n","med"],"d":"un inflama de la larinje e tracea en enfantes, asosiada con infeta e causante respira difisil","en":"croup (medical)"}
+{"T":"r","L":"criojen","C":["a"],"d":"pertinente a la ramo de fisica cual studia la produi e efetos de temperatures multe basa; pertinente a la jela de persones mor, esperante ce la siensa futur va trova un modo de revive los","en":"cryogenic, cryonic","he":"קריוגני"}
+{"L":"criojenia","C":["n"],"en":"cryogenics","he":"קריוגניקה"}
+{"T":"r","L":"criosirurjia","C":["n","med"],"d":"sirurjia cual usa la aplica local de fria estrema per destrui texedas nondesirada","en":"cryosurgery","he":"ניתוח בהקפאה"}
+{"T":"r","L":"criovolcan","C":["n","tera"],"d":"un volcan cual ejeta materias como acua, amonia o metano en loca de roca fondeda","en":"cryovolcano","he":"(גאולוגיה) קריו-וולקנו"}
+{"L":"criovolcanisme","C":["n"],"en":"cryovolcanism","he":"(גאולוגיה) קריו-וולקניזם"}
+{"T":"r","L":"cripto-","C":["pf","tecn"],"d":"secreta, ascondeda","en":"crypto-","he":"(קידומת טכנית) סודי"}
+{"T":"r","L":"criptografia","C":["n","gov"],"d":"la arte de crea o solve sifras","en":"cryptography, cryptology","he":"קריפטוגרפיה, קריפטולוגיה"}
+{"L":"criptografiste","C":["n"],"en":"cryptographer, cryptologist","he":"קריפטוגרף, קריפטולוג"}
+{"T":"r","L":"criptomone","C":["n","mone"],"d":"un sistem de mone dijital, usante tecnicas de sifri per regula la jenera de mone e per validi la intercambias","en":"cryptocurrency","he":"מטבע מבוזר, מטבע קריפטו"}
+{"T":"r","L":"cripton","C":["n","cim"],"d":"la elemento cimical con numero atomal 36, un gas usada en alga tipos de lumina eletrica","s":"Kr (krypton)","en":"krypton","he":"קריפטון (יסוד)"}
+{"T":"r","L":"criptonita","C":["n","mit"],"d":"un mineral estrateran, capas de cansela la potias de Superman; cualce cosa cual redui multe la fortia de algun","en":"kryptonite","he":"קריפטונייט"}
+{"T":"r","L":"cris","C":["n","util"],"d":"un daga de Malaisia o Indonesia con lamina ondin","i":"#","en":"kris (dagger)","he":"קריס (פגיון)"}
+{"T":"r","L":"crisalida","C":["n","bio"],"d":"un inseto en sua forma nonativa e nonmatur, entre larva e adulte","i":"#","en":"chrysalis, pupa","he":"גולם"}
+{"T":"r","L":"crisantemo","C":["n","pla"],"d":"un planta en familia de margarita, con flores briliante colorida","i":"#","t":"Chrysanthemum","en":"chrysanthemum","he":"חרצית (צמח)"}
+{"T":"r","L":"crise","C":["n","uma"],"d":"un tempo de difisilia, turba o peril intensa; un tempo cuando on debe fa un deside difisil o importante","en":"crisis, emergency","he":"משבר, מצב חירום"}
+{"L":"crise coler","C":["n"],"en":"temper tantrum","he":"התפרצות זעם"}
+{"L":"crise mental","C":["n"],"en":"mental breakdown, nervous breakdown","he":"התמוטטות עצבים"}
+{"T":"r","L":"crisol","C":["n","util"],"d":"un contenador seramica o metal, en cual on pote fonde metales o otra materias o esposa los a caldia estrema; (metafor) un situa en cual elementos diversa interata e produi un cosa nova, tipal con alga turbas","en":"crucible, melting pot","he":"כור היתוך"}
+{"T":"r","L":"crisopa","C":["n","ins"],"d":"un inseto magra e delicata con alas grande de membrana clar","i":"#","t":"Chrysopidae","en":"lacewing (insect)","he":"עינפז (חרק)"}
+{"T":"r","L":"cristal","C":["a","cim"],"d":"composada de un agrega de atomes o moleculas simetre ordinada en tre dimensiones; (vitro) clar e refratante","en":"crystalline","he":"גבישי, קריסטלי"}
+{"L":"cristal","C":["n"],"en":"crystal","he":"גביש, קריסטל"}
+{"L":"cristal licuida","C":["n"],"en":"liquid crystal","he":"גביש נוזלי"}
+{"L":"cristali","C":["vnt"],"en":"crystallize|is, effloresce","he":"להתגבש (להפוך לגביש)"}
+{"L":"cristali","C":["vt"],"en":"crystallize|is, effloresce","he":"לגבש (ליצור גביש)"}
+{"L":"cristali","C":["n"],"en":"crystallization|is","he":"גיבוש, התגבשות"}
+{"T":"r","L":"cristalografia","C":["n","cim"],"d":"la siensa de la cualias e strutur de cristales","en":"crystallography","he":"קריסטלוגרפיה"}
+{"T":"r","L":"cristian","C":["a","rel"],"d":"pertinente a la relijio fundida sur la atas e dises de Jesus Cristo, o a la membros","en":"Christian","es":"cristiano","he":"נוצרי"}
+{"L":"cristian","C":["n"],"en":"Christian","es":"cristiano","he":"נוצרי"}
+{"L":"cristiani","C":["vnt"],"en":"Christianize|is","he":"להתנצר"}
+{"L":"cristiani","C":["vt"],"en":"Christianize|is","he":"לנצר"}
+{"L":"cristiani","C":["n"],"en":"Christianization|is","he":"ניצור, התנצרות"}
+{"L":"cristianisme","C":["n"],"en":"Christianity","es":"Cristianismo","he":"נצרות"}
+{"L":"mundo cristian","C":["n"],"en":"Christendom","he":"עולם הנצרות"}
+{"T":"r","L":"Cristo","C":["n","rel"],"d":"la titulo, tipal tratada como un nom, donada a Jesus de Nasira, traduida de la parola ivri per `maxia`","en":"Christ","es":"Cristo","he":"ישו"}
+{"L":"Anticristo","C":["n","rel"],"en":"Antichrist","he":"אנטיכריסט"}
+{"T":"r","L":"criterio","C":["n","fil"],"d":"un prinsipe, model o norma par cual on fa un judi o deside","en":"criterion (pl. criteria)","he":"קריטריון, אמת מידה"}
+{"T":"r","L":"Criti","C":["n","jeo"],"d":"un isola elinica en la Mar Mediteraneo este, e la loca de la sivilia Minoan de la milenio du aec","i":"#","en":"Crete","es":"Creta","he":"כרתים"}
+{"L":"critica","C":["a"],"en":"Cretan","es":"cretense","he":"שקשור לכרתים"}
+{"L":"critica","C":["n"],"en":"Cretan","es":"cretense","he":"תושב כרתים"}
+{"T":"r","L":"critica","C":["vt","fil"],"d":"indica la falis de (un person o cosa) en un modo desaprobante; formi e espresa un judi sofistica de (un obra de arte)","en":"criticize|is, reproach, lambast, tell off, henpeck; critique","he":"לבקר (למתוח ביקורת)"}
+{"L":"critica","C":["n"],"en":"criticism, reproach, sideswipe; critique","he":"ביקורת"}
+{"L":"criticante","C":["a"],"en":"critical, mordant, trenchant","he":"ביקורתי"}
+{"L":"criticiste","C":["n"],"en":"critic (art)","he":"מבקר (אמנות)"}
+{"L":"criticor","C":["n"],"en":"critic, opponent","he":"מבקר, מתנגד"}
+{"T":"r","L":"Crixna","C":["n","rel"],"d":"un de la dios de induisme, la incarne oto e la plu importante de Vixnu","i":"#","en":"Krishna","he":"קרישנה"}
+{"L":"crixnaisme","C":["n"],"p":"crixnaïsme","en":"Krishnaism, Hare Krishna","he":"קרישניזם"}
+{"L":"crixnaiste","C":["a"],"p":"crixnaïste","en":"Krishnaist","he":"שקשור בקרישנה"}
+{"L":"crixnaiste","C":["n"],"en":"Krishnaist","he":"מאמין בקרישנה"}
+{"T":"r","L":"croceta","C":["n","cos"],"d":"un enrola de vejetales, carne o pex axida a pesos, covreda par pesetas de pan e fritada","i":"croceta-comeda","en":"croquette (food)","he":"קרוקט (מאכל)"}
+{"T":"r","L":"croceta","C":["n","spo"],"d":"un jua sur erba, en cual on usa marteles de lenio con manicos longa per colpa bales colorida tra un serie de portetas; un colpa a un bal cual toca ja un otra en esta jua","i":"#","en":"croquet (game, shot)","he":"קרוקט (משחק כדור)"}
+{"T":"r","L":"croco","C":["n","pla"],"d":"un planta peti en familia de iris, cual crese de un cormo e produi flores briliante jala, purpur o blanca","i":"#","t":"Crocus","en":"crocus","he":"כרכום (צמח)"}
+{"T":"r","L":"crocodil","C":["n","ret"],"d":"un retil grande, xasante e semiacual, con mandibulas longa, coda longa, gamas corta e pel cornin","i":"#","t":"Crocodylidae","en":"crocodile","he":"תנין, קרוקודיל"}
+{"T":"r","L":"cromatica","C":["a","mus"],"d":"pertinente a colores; (musica) usante notas cual no parteni a la scala diatonica de la tono en cual la pasaje es scriveda; (un scala musical) asendente o desendente par semitonos; (un strumento) capas de jua tota notas de un scala cromatica","en":"chromatic","he":"(צבעים, מוזיקה) כרומטי"}
+{"L":"noncromatica","C":["a"],"en":"achromatic","he":"(צבעים, מוזיקה) אכרומטי"}
+{"T":"r","L":"cromatida","C":["n","bio"],"d":"cada de la du filos a cual un cromosoma divide lonjitudal","en":"chromatid","he":"(ביולוגיה) כרומטידה"}
+{"T":"r","L":"cromatina","C":["n","bio"],"d":"la materia de cual la cromosomas de eucariotas es composada","en":"chromatin","he":"(ביולוגיה) כרומטין"}
+{"T":"r","L":"cromato","C":["n","cim"],"d":"un sal de cual la anion conteni e cromo e osijen","en":"chromate (chemistry)","he":"(כימיה) כרומט"}
+{"T":"r","L":"cromo","C":["n","cim"],"d":"la elemento cimical con numero atomal 24, un metal usada per produi aser nonosidable e otra metales aliada","s":"Cr","en":"chromium","he":"כרום (יסוד)"}
+{"L":"cromi","C":["vt"],"en":"chrome-plate, chromium-plate","he":"לצפות בכרום"}
+{"L":"cromida","C":["a"],"en":"chrome-plated, chromium-plated","he":"מצופה בכרום"}
+{"L":"cromida","C":["n"],"en":"chrome","he":"מצופה בכרום"}
+{"T":"r","L":"cromo-","C":["pf","tecn"],"d":"color","en":"chromo-","he":"(קידומת טכנית) צבע"}
+{"T":"r","L":"cromorno","C":["n","mus"],"d":"un strumento medieval de venta, curva, con anxa duple encluida en beco de lenio","i":"#","en":"krummhorn, crumhorn (musical instrument)","he":"קרומהורן (כלי נגינה)"}
+{"T":"r","L":"cromosoma","C":["n","bio"],"d":"un strutur de asidas nucleal e protena, trovada en la nucleo de la plu de selulas vivente, conteninte la informa jenetical","en":"chromosome","he":"כרומוזום"}
+{"T":"r","L":"cronica","C":["a","med"],"d":"(un maladia) durante tra un tempo longa o frecuente reveninte","en":"chronic (medical)","he":"כרוני"}
+{"T":"r","L":"crono-","C":["pf","tecn"],"d":"tempo","en":"chrono-","he":"(קידומת טכנית) זמן"}
+{"T":"r","L":"cronobiolojia","C":["n","bio"],"en":"chronobiology","he":"כרונוביולוגיה"}
+{"T":"r","L":"cronolojia","C":["n"],"d":"un presenta de avenis o datas en la ordina de sua aveni; la studia de arcivos istorial per trova la datas de avenis pasada","en":"chronology","he":"כרונולוגיה"}
+{"L":"cronolojial","C":["a"],"en":"chronological","he":"כרונולוגי"}
+{"L":"cronolojiste","C":["n"],"en":"chronologist","he":"כרונולוג"}
+{"T":"r","L":"cronometre","C":["n","util"],"d":"un spesie de orolojo, con botones per ativi e pausa lo, usada per mesura la tempo esata de un corsa o otra prosede","en":"chronometer, stopwatch, timer","he":"כרונומטר, שעון עצר, סטופר"}
+{"L":"cronometri","C":["vt"],"en":"time","he":"למדוד זמן"}
+{"L":"cronometri","C":["n"],"en":"timing, timekeeping, measurement of time","he":"מדידת זמן"}
+{"L":"cronometriste","C":["n"],"en":"timekeeper","he":"(אדם) מודד זמן"}
+{"T":"r","L":"crosta","C":["n","cos","med"],"d":"la strato esterna de un pan, torta, ceso, neva, etc; la strato esterna de roca de cual un planeta es composada; la covrente seca e protejente cual formi sur un feri cuando lo sani","en":"crust, scab, rind (cheese)","he":"קרום; גלד"}
+{"L":"crosti","C":["vnt"],"en":"encrust, cake","he":"להתכסות בקרום, להתקרש; להתגלד"}
+{"L":"crosti","C":["vt"],"en":"encrust, cake","he":"לצפות בקרום; לגלוד"}
+{"L":"crosti","C":["n"],"en":"encrustation","he":"הקרמה"}
+{"L":"crostosa","C":["a"],"en":"crusty","he":"קרומי"}
+{"T":"r","L":"crotal","C":["n","ret"],"d":"un vipera grande american con un serie de anelos cornin a sua coda cual vibra e crea clicas avertinte","i":"#","t":"Crotalus, Sistrurus","en":"rattlesnake, rattler","he":"עכסן (נחש)"}
+{"T":"r","L":"croxe","C":["vt","vest"],"d":"fabrica (un stofa o veste) par aneli filo de lana con un ago oncin","en":"crochet","he":"לסרוג בשיטת קרושה"}
+{"T":"r","L":"cru","C":["a","cos"],"d":"(un comeda) no coceda; (un materia) en sua forma natural, ancora no preparada o purida; (un informa) no analiseda, evaluada o preparada per usa","en":"raw, uncooked, crude, gross","he":"נא; גס, לא מעובד"}
+{"T":"r","L":"cruel","C":["a","uma"],"d":"causante dole o sufri a otras, con intende o sin cura","en":"cruel, ruthless, dastardly, vicious, cut-throat","he":"אכזרי, מרושע, חסר רחמים"}
+{"L":"cruelia","C":["n"],"en":"cruelty, ruthlessness, viciousness","he":"אכזריות, רשעות, חוסר רחמים"}
+{"T":"r","L":"cruji","C":["vnt"],"d":"(un ojeto, tipal de lenio) fa un sona basa cuando on move o presa lo","en":"creak (low-pitched), groan","he":"לחרוק"}
+{"L":"cruji","C":["vt"],"en":"creak (low-pitched), groan","he":"לחרוק"}
+{"L":"cruji","C":["n"],"en":"creak (low-pitched), groan","he":"חריקה"}
+{"L":"crujinte","C":["a"],"en":"creaking, creaky","he":"חורק"}
+{"T":"r","L":"crumpeta","C":["n"],"d":"un torteta engles, plana, spesa e mol, tipal tostada e burida","en":"crumpet (cake)","he":"קראמפט (לחמניה)"}
+{"T":"r","L":"crup","C":["n","med"],"d":"un inflama de la larinje e tracea en enfantes, asosiada con infeta e causante respira difisil","en":"croup (medical)","he":"אסכרה, דלקת דרכי הנשימה"}
 {"T":"r","L":"crus","C":["n","util","rel"],"d":"un marca o ojeto formida par du linias reta cual comparti un punto comun; un palo vertical con bara traversante, usada en edas pasada per mata criminales e otras; un simbol de cristianisme","i":"#","en":"cross; crucifix"}
 {"L":"crus de vias","C":["n"],"en":"crossroads"}
 {"L":"Crus","C":["n","ast"],"d":"un constela fasil per vide en la sielo sude","en":"Crux (constellation)"}
