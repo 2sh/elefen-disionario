@@ -5598,7 +5598,7 @@
 {"L":"como si","C":["sj"],"en":"as if, as though, like","he":"כאילו ש","ru":"как если бы"}
 {"L":"no como","C":["prep"],"en":"unlike","he":"לא כמו","ru":"не как, словно не, как будто не"}
 {"L":"no como","C":["sj"],"en":"unlike how","he":"שלא כמו","ru":"словно не, как будто не"}
-{"L":"sempre como","C":["sj"],"en":"however"}
+{"L":"sempre como","C":["sj"],"en":"however, in whatever way"}
 {"T":"r","L":"comoda","C":["n","arci"],"d":"un mobila de caxetas e cisa scafales","i":"#","en":"chest of drawers, dresser","he":"שידה, קומודה"}
 {"L":"comoda de cosina","C":["n"],"en":"sideboard (displaying or storing dishes)","he":"מזנון (רהיט)"}
 {"L":"comodeta","C":["n"],"en":"nightstand, bedside table","he":"שידת לילה"}
@@ -6987,222 +6987,222 @@
 {"L":"crujinte","C":["a"],"en":"creaking, creaky","he":"חורק"}
 {"T":"r","L":"crumpeta","C":["n"],"d":"un torteta engles, plana, spesa e mol, tipal tostada e burida","en":"crumpet (cake)","he":"קראמפט (לחמניה)"}
 {"T":"r","L":"crup","C":["n","med"],"d":"un inflama de la larinje e tracea en enfantes, asosiada con infeta e causante respira difisil","en":"croup (medical)","he":"אסכרה, דלקת דרכי הנשימה"}
-{"T":"r","L":"crus","C":["n","util","rel"],"d":"un marca o ojeto formida par du linias reta cual comparti un punto comun; un palo vertical con bara traversante, usada en edas pasada per mata criminales e otras; un simbol de cristianisme","i":"#","en":"cross; crucifix"}
-{"L":"crus de vias","C":["n"],"en":"crossroads"}
-{"L":"Crus","C":["n","ast"],"d":"un constela fasil per vide en la sielo sude","en":"Crux (constellation)"}
-{"L":"Crus Roja","C":["n"],"en":"Red Cross"}
-{"L":"crusi","C":["vt"],"en":"crucify"}
-{"L":"crusi","C":["n"],"en":"crucifixion"}
-{"L":"crusin","C":["a"],"en":"crosslike, cross-shaped, cruciform"}
-{"T":"r","L":"crusa","C":["vnt"],"d":"(du cosas) pasa lunlotra o reposa sur lunlotra en dirijes diferente, simil a la forma de un crus a alga grado","en":"cross, intersect"}
-{"L":"crusa","C":["n"],"en":"crossing, intersection"}
-{"L":"crusa plana","C":["n"],"en":"level crossing, grade crossing"}
-{"L":"crusa sua brasos","C":["esp"],"en":"cross one's arms, fold one's arms"}
-{"L":"crusa sua gamas","C":["esp"],"en":"cross one's legs"}
-{"L":"crusante","C":["a"],"en":"crossing, intersecting, crisscross"}
-{"L":"descrusa","C":["vt"],"en":"uncross (arms, legs)"}
-{"T":"r","L":"crusada","C":["vnt","ist"],"d":"un mision militar medieval en un serie fada par europeanes per regania la Tera Santa de la muslimes entre la sentenios 11 e 13; cualce gera con intendes relijial; (metafor) un campania organizada con intende political, sosial o relijial, tipal motivada par un desira zelosa per cambia","en":"crusade"}
-{"L":"crusada","C":["n"],"en":"crusade"}
-{"L":"crusador","C":["n"],"en":"crusader"}
-{"T":"r","L":"crusca","C":["n","cos"],"d":"pesos de glumas de gran, separada de farina pos molini","en":"bran"}
-{"T":"r","L":"cruser","C":["a","vec"],"d":"(un veculo) movente a un rapidia constante","en":"cruising"}
-{"L":"cruser","C":["n"],"d":"un barcon de gera, plu grande ca un xasatorpedo e min armada ca un corasida","en":"cruiser (warship)","eo":"krozoŝipo","fr":"croiseur"}
-{"L":"cruser de batalia","C":["n"],"en":"battlecruiser (warship)"}
-{"T":"r","L":"crustaseo","C":["n","artr"],"d":"un artropodo de un grupo grande e xef acual, como un crabe, langosta, omaro, gamba o siripede","t":"Curstacea","en":"crustacean, shellfish"}
-{"T":"r","L":"crut","C":["n","mus"],"d":"un strumento musical, orijinante en Cimri, simil a un lira ma juada como un violin","i":"#","en":"crwth (musical instrument)"}
-{"T":"r","L":"cruton","C":["n","cos"],"d":"un peso peti de pan, fritada o tostada, tipal servida con sopa o salada","en":"crouton"}
-{"T":"r","L":"ctenoforo","C":["n"],"d":"un nonvertebrato acual, con grupos de silios per nada e con selulas spesial cual lo usa per catura predas","i":"#","t":"Ctenophora","en":"ctenophore (organism)"}
-{"T":"r","L":"cuac","C":["esc","onom"],"d":"la sona tipal de un pato o rana","en":"quack (duck); ribbit (frog)"}
-{"L":"cuaci","C":["vnt"],"en":"quack; croak"}
-{"L":"cuaci","C":["n"],"en":"quack; croak"}
-{"T":"r","L":"cuadrante","C":["n","mat"],"d":"cada de la cuatro cuatris de un sirculo; cada de la cuatro partes de cualce corpo divideda par du linias o planas a angulos reta; (istorial) un aparato per mesura angulos de altia en astronomia e naviga","en":"quadrant"}
-{"T":"r","L":"cuadrilia","C":["n","mus"],"d":"un dansa cuadro par cuatro duples, con sinco partes de cual cada es un dansa completa; un musica per esta","en":"quadrille (dance, music)"}
-{"T":"r","L":"cuadro","C":["a","mat"],"d":"(un forma) con cuatro lados reta de la mesma longia e cuatro angulos reta","en":"square, check"}
-{"L":"cuadro","C":["n"],"en":"square, check"}
-{"L":"cuadrador","C":["n"],"en":"set square, carpenter's square"}
-{"L":"Cuadrador","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Norma (constellation)"}
-{"L":"cuadral","C":["a"],"en":"quadratic, square (root)"}
-{"L":"cuadri","C":["vnt"],"en":"square, become square"}
-{"L":"cuadri","C":["vt"],"en":"square, make square"}
-{"L":"cuadrida","C":["a"],"en":"squared"}
-{"L":"cuadrosa","C":["a"],"en":"checked, checkered"}
-{"T":"r","L":"cuaga","C":["n","mam"],"d":"un spesie estinguida de zebra","i":"#","t":"Quagga quagga","en":"quagga (zebra)"}
-{"T":"r","L":"cuai","C":["n","cos","util"],"d":"cada de un duple de bastetas de lenio, ivor o plastica, magra e diminuinte, tenida contra lunlotra en un mano per come, tipal par persones de Asia este","i":"#","en":"chopstick"}
-{"T":"r","L":"Cuait","C":["n","jeo"],"c":"la Site Cuait","d":"un pais a la costa norde-ueste de la Golfo Persian","i":"#","p":"cüait","en":"Kuwait"}
-{"L":"cuaiti","C":["a"],"p":"cüaiti","en":"Kuwaiti"}
-{"L":"cuaiti","C":["n"],"en":"Kuwaiti"}
-{"T":"r","L":"cual","C":["d"],"d":"demandante sur la identia de un cosa","en":"(interrogative) what, which"}
-{"L":"cual","C":["pron"],"d":"demandante sur la identia de un cosa; (suordinante) introduinte un suproposa ajetivin cual dona plu informa sur un cosa cual on ia indica direta a ante","u":"un ata cual merita es lodada; la vino cual tu bevi es multe vea","en":"(interrogative) what, which, which one; (relative) which, that (cannot be omitted)"}
-{"L":"cual cosa?","C":["pron"],"en":"what, which thing?"}
-{"L":"cual de enferno?","C":["esp"],"en":"what the hell?"}
-{"L":"cual de mundo?","C":["esp"],"en":"what on earth?"}
-{"L":"cual es la data?","C":["esp"],"en":"what is the date?"}
-{"L":"cual es la ora?","C":["esp"],"en":"what is the time?"}
-{"L":"de cual ... sua","C":["esp"],"u":"me no ave plu la caxa de cual tu ia trova sua covrente","en":"whose, of which"}
-{"L":"sur cual ... lo","C":["esp"],"n":"","u":"sur cual el ia demanda esce me gusta lo?; esta es la libro sur cual me ia dise ce me va mostra lo a tu","en":"(interrogative) about what ... it?; (relative) which, that ... it"}
-{"T":"r","L":"cualce","C":["d"],"d":"un o alga, asentuante ce la eleje entre la posibles no importa","u":"prende cualce carta; cualce vestes va sufisi","en":"any (at all), whichever (you like), arbitrary"}
-{"L":"cualce","C":["pron"],"en":"any (no matter which), whichever; so-and-so"}
-{"L":"cualces","C":["pron","pl"],"en":"any (people or things, optional plural pronoun)"}
-{"L":"cualce cosa","C":["pron"],"en":"anything (at all), whatever (you like)"}
-{"L":"cualce cosa cual","C":["sj"],"en":"whatever, anything which"}
-{"L":"a cualce caso","C":["av"],"en":"in any case, anyhow, anyway, nonetheless, nevertheless"}
-{"L":"a cualce ora","C":["av"],"en":"at any time of the day (at all), whenever (you like)"}
-{"L":"a cualce ora cuando","C":["sj"],"en":"whenever, at any time when"}
-{"L":"a cualce ves","C":["av"],"en":"on any occasion (at all), at any time, whenever (you like), ever"}
-{"L":"en cualce loca","C":["av"],"en":"anywhere (at all), wherever (you like)"}
-{"L":"en cualce loca do","C":["sj"],"en":"wherever, in any place where"}
-{"L":"en cualce modo","C":["av"],"en":"in any way (at all), by any means (you like), in whatever way"}
-{"L":"en cualce modo par cual","C":["sj"],"en":"however, by whatever means, by any means by which"}
-{"T":"r","L":"cualcun","C":["pron"],"d":"cualce person","en":"anyone, anybody (doesn't matter who), whoever (you like), whosoever"}
-{"L":"cualcun","C":["n"],"en":"everyman, man in the street"}
-{"L":"cualcun ci","C":["esp"],"en":"anyone who, whoever"}
-{"T":"r","L":"cuale","C":["n","uma"],"d":"la esperia sujetal de un sensa","en":"quale (philosophy)"}
-{"T":"r","L":"cuali","C":["vnt"],"d":"merita es asetada (per un emplea, concurso o simil) par causa de sua capasia, sabes o otra cualias","en":"qualify (for something), be eligible (for something)"}
-{"L":"cuali","C":["vt"],"d":"fa ce (un person) merita es asetada; (un parola) atribui un cualia a (un otra parola)","en":"qualify (someone for something, grammar)"}
-{"L":"cuali","C":["n"],"en":"qualification"}
-{"L":"cualinte","C":["a"],"en":"qualifying, eligible"}
-{"L":"cualinte","C":["n"],"en":"qualifier (grammar)"}
-{"L":"descuali","C":["vt"],"en":"disqualify (someone)"}
-{"L":"descuali","C":["n"],"en":"disqualification"}
-{"L":"noncualinte","C":["a"],"en":"ineligible"}
-{"T":"r","L":"cualia","C":["n","fil","uma"],"d":"un atribuida distinguinte de un person o cosa; la grado de bonia de un situa","en":"quality, feature, trait, attribute, property, characteristic, aura"}
-{"L":"cualia de labora","C":["n"],"en":"quality of work, workmanship"}
-{"L":"cualia de parla","C":["n"],"en":"quality of speech, diction"}
-{"L":"cualia de vive","C":["n"],"en":"quality of life, well-being, welfare"}
-{"L":"cualia spesial","C":["n"],"en":"feature, special feature"}
-{"L":"cualia unica","C":["n"],"en":"idiosyncrasy"}
-{"L":"cualial","C":["a"],"en":"qualitative"}
-{"L":"cualias nesesada","C":["n","pl"],"en":"necessary qualities, right stuff"}
-{"L":"de cualia alta","C":["a"],"en":"high-quality, vintage"}
-{"L":"sin cualias","C":["a"],"en":"featureless"}
-{"T":"r","L":"cuando","C":["av"],"d":"(demandante o introduinte un suproposa ajetivin) a cual tempo","u":"cuando nos va parti?; me no sabe cuando me va reveni; febrero, cuando la aira es fria","en":"(interrogative) when; (relative) at which time"}
-{"L":"cuando","C":["sj"],"d":"(introduinte un suproposa averbin) a la tempo a cual, o (pos un preposada) la tempo a cual","u":"nos va parti cuando la sol reposa; me ia come ante cuando vos ia ariva","en":"when"}
-{"L":"a cuando","C":["sj"],"d":"a la momento cuando (alga cosa aveni)","en":"as (at the moment when)","fr":"au moment où","he":"-בזמן ש-, ברגע ש","ru":"когда, в тот момент когда"}
-{"L":"ante cuando","C":["sj"],"en":"before (the time when)","eo":"antaŭ ol","he":"-לפני ש"}
-{"L":"asta cuando","C":["sj"],"en":"until, till (the time when)","he":"-עד ש"}
-{"L":"de cuando","C":["sj"],"en":"since the time when, ever since","fr":"depuis que","ru":"с той поры как, с тех пор как, как только"}
-{"L":"en cuando","C":["sj"],"d":"en un parte de, o tota de, la tempo cuando (alga cosa aveni)","en":"while, whilst, as, during the time when"}
-{"L":"estra cuando","C":["sj"],"en":"except when, unless"}
-{"L":"pos cuando","C":["sj"],"ca":"després que","de":"nachdem","en":"after (the time when)","eo":"post kiam","es":"después que","fr":"après que","ja":"後に","pt":"pois que, depois","ru":"после"}
-{"L":"sempre cuando","C":["sj"],"en":"whenever"}
-{"T":"r","L":"cuantia","C":["n"],"d":"un mesura de cuanto, usada egal per cosas individua contable o noncontable, tipal espresada con numeros","en":"quantity, amount, magnitude; number (quantity, not position in sequence)"}
-{"L":"cuantia de abitores","C":["n"],"en":"population (figure)","fr":"population","he":"גודל האוכלוסיה"}
-{"L":"cuantia de mores","C":["n"],"en":"death toll"}
-{"L":"cuantia de regardores","C":["n"],"en":"audience size, ratings, viewing figures"}
-{"L":"cuantia persental","C":["n"],"en":"percentage"}
-{"L":"cuantial","C":["a"],"en":"quantitative"}
-{"L":"cuanti","C":["vt"],"en":"quantify"}
-{"L":"cuanti","C":["n"],"en":"quantification"}
-{"T":"r","L":"cuanto","C":["d"],"d":"demandante sur la cuantia de alga cosa","en":"(interrogative) how many, how much"}
-{"L":"cuanto","C":["av"],"en":"(interrogative) how many, how much"}
-{"L":"cuanto","C":["sj"],"d":"(introduinte un suproposa averbin) en la cuantia cual","u":"el ia aida cuanto el ia pote","en":"as many as, as much as, inasmuch as, as far as, so far as, to the extent that"}
-{"L":"per cuanto tempo","C":["esp"],"u":"per cuanto tempo tu va labora?","en":"how much time, how long (intended)"}
-{"L":"tra cuanto tempo","C":["esp"],"u":"tra cuanto tempo tu abita ja asi?","en":"how much time, how long (elapsed)"}
-{"T":"r","L":"cuanto","C":["n","fis"],"d":"la cuantia minima de cualce cosa fisical cual pote partisipa en un interata","en":"quantum"}
-{"L":"cuantos","C":["n","pl"],"en":"quanta"}
-{"T":"r","L":"cuarc","C":["n","fis"],"d":"cada de alga particulas suatomal cual ave un carga eletrical fratal, e sur cual fisicistes suspeta ce los es la composantes de adrones","en":"quark"}
-{"L":"cuarc alta","C":["n"],"en":"top quark"}
-{"L":"cuarc asendente","C":["n"],"en":"up quark"}
-{"L":"cuarc basa","C":["n"],"en":"bottom quark"}
-{"L":"cuarc desendente","C":["n"],"en":"down quark"}
-{"L":"cuarc encantada","C":["n"],"en":"charm quark"}
-{"L":"cuarc strana","C":["n"],"en":"strange quark"}
-{"T":"r","L":"cuaresma","C":["n","rel"],"d":"la periodo de cuatrodes dias ante pascua en cristianisme, tradisional un periodo de juna, asteni e repenti","en":"lent (Christianity)"}
-{"L":"cuaresmal","C":["a"],"en":"lenten"}
-{"T":"r","L":"cuarzo","C":["n","tera"],"d":"un mineral dur e blanca o sin color, composada de silica","en":"quartz"}
-{"T":"r","L":"cuasar","C":["n","ast"],"d":"un ojeto sielal multe masosa e distante cual emete cuantias enorme de enerjia","en":"quasar"}
-{"T":"r","L":"cuasi","C":["av"],"d":"no multe min ca; a grado noncompleta ma sin multe mancas; nonesata ma sin difere major","en":"almost, nearly, virtually, practically, not quite, just less than"}
-{"L":"cuasi-","C":["pf","tecn"],"d":"cuasi, multe prosima a","en":"quasi-"}
-{"L":"cuasi cadun","C":["pron"],"en":"almost everyone"}
-{"T":"r","L":"cuatrigalon","C":["n"],"d":"un cuatri de un galon","en":"quart"}
-{"T":"r","L":"cuatrim","C":["n","mone"],"d":"un moneta con valua de 25 sentimes","en":"25-cent piece, quarter, farthing (coin)"}
-{"T":"r","L":"cuatrinegra","C":["a","ist"],"en":"quadroon"}
-{"L":"cuatrinegra","C":["n"],"d":"(istorial) un person ci ave un avo o ava de la raza negra","en":"quadroon"}
-{"T":"r","L":"cuatro","C":["d","mat"],"d":"2 multiplida par 2; la numero entre tre e sinco","en":"four"}
-{"L":"cuatro","C":["a"],"en":"fourth (ordinal)"}
-{"L":"cuatro-","C":["pf","tecn"],"d":"cuatro","en":"quadr-, quadri-"}
-{"L":"cuatri","C":["vnt"],"en":"quarter"}
-{"L":"cuatri","C":["n"],"en":"quarter, fourth (fraction)"}
-{"L":"cuatri-","C":["pf","tecn"],"d":"un cuatri de","en":"quarter-"}
-{"L":"Cuatri Vacua","C":["n","jeo"],"d":"un deserto vasta en la Penisola Arabi","i":"#","en":"Empty Quarter, Rub al Khali, Great Sandy Desert"}
-{"L":"cuatrida","C":["a"],"en":"quartered; quarto (book size)"}
-{"L":"cuatruple","C":["a"],"en":"quadruple"}
-{"L":"cuatruple","C":["n"],"en":"quartet, foursome"}
-{"T":"r","L":"cuatroangulo","C":["a","mat"],"d":"(un forma plana) con cuatro angulos","en":"quadrangular"}
-{"L":"cuatroangulo","C":["n"],"en":"quadrangle"}
-{"T":"r","L":"cuatrojemelo","C":["a","bio"],"en":"quadruplet"}
-{"L":"cuatrojemelo","C":["n"],"d":"un de cuatro enfantes naseda en la mesma pari","en":"quadruplet"}
-{"T":"r","L":"cuatroladal","C":["a","mat"],"d":"(un forma plana) con cuatro lados","en":"quadrilateral, quadrangular","fr":"quadrilatéral, quadrangulaire"}
-{"L":"cuatroladal","C":["n"],"en":"quadrilateral, quadrangle","fr":"quadrilatère, quadrangle"}
-{"T":"r","L":"cuatronaria","C":["a","tera","cim"],"d":"pertinente a la periodo jeolojial la plu resente en la senozoica, seguente la tersiaria e composada de la plestosene e olosene; (en cimica) pertinente a un cimical con cuatro atomes de carbono o grupos organica","en":"quaternary"}
-{"T":"r","L":"cuatropede","C":["a","bio"],"d":"(un animal) con cuatro pedes","en":"quadrupedal"}
-{"L":"cuatropede","C":["n"],"en":"quadruped"}
-{"T":"r","L":"cuaxiorcor","C":["n","med"],"d":"un forma de malnuri causada par un manca de protena, tipal afetante enfantes joven en la tropicos","en":"kwashiorkor (medical)"}
-{"T":"r","L":"Cuba","C":["n","jeo"],"c":"Havana","d":"un pais en la Indias Ueste, la plu grande e la plu ueste de la isolas en la Mar Caribe a la boca de la Golfo Mexico","i":"#","en":"Cuba"}
-{"L":"cuban","C":["a"],"en":"Cuban"}
-{"L":"cuban","C":["n"],"en":"Cuban"}
-{"T":"r","L":"cubisme","C":["n","arte"],"d":"un stilo de arte, tipal depinta, de la temprana de la sentenio 20, presentante formas natural en modo jeometrial","en":"cubism"}
-{"L":"cubiste","C":["a"],"en":"cubist"}
-{"L":"cubiste","C":["n"],"en":"cubist"}
-{"T":"r","L":"cubo","C":["a","mat"],"d":"(un cosa tridimensional) con un forma solida o vacua cual es contenida par ses cuadros egal","i":"#","en":"cubic, cubical"}
-{"L":"cubo","C":["n"],"en":"cube"}
-{"L":"cubi","C":["vnt"],"en":"become a cube"}
-{"L":"cubi","C":["vt"],"en":"cube"}
-{"L":"cubida","C":["a"],"en":"cubed, to the third power"}
-{"T":"r","L":"cucabura","C":["n","avia"],"d":"un avia pexor de Australia e Gine Nova, notada per sua clama multe forte","i":"#","t":"Dacelo","en":"kookaburra"}
-{"T":"r","L":"cucaraxa","C":["n","artr"],"d":"un inseto simil a un scarabe con antenas e gamas longa, tipal regardada como pestes en cosinas e otra locas","i":"#","t":"Blattaria","en":"cockroach, roach"}
-{"T":"r","L":"cuci","C":["n","info"],"d":"un dato enviada par un servador a un surfador, reenviada sempre cuando la surfador reasede la mesma servador, e usada per identifia la usor","en":"cookie (web)"}
-{"T":"r","L":"cucu","C":["n","avia"],"d":"un avia de grandia media, con coda longa e dorso gris o brun, de cual alga pone sua ovos en la nidos de avias cantante peti","i":"#","t":"Cuculidae","en":"cuckoo"}
-{"T":"r","L":"cucui","C":["n","pla"],"d":"un arbor perene en familia de euforbia, con semes grande de cual on oteni un olio usada en lampas, nativa de Asia sude-este e la isolas de la Mar Pasifica sude","i":"#","t":"Aleurites moluccana","en":"candlenut, candleberry (tree)"}
-{"T":"r","L":"cucurucu","C":["esc","onom"],"d":"la sona forte de un gal mas","en":"cock-a-doodle-doo, crow"}
-{"T":"r","L":"cudzu","C":["n","pla"],"d":"un planta trepante de Asia cual crese rapida, usada como comeda de bestias e per controla erode, e cual ia deveni un peste en la SUA sude-este","i":"#","t":"Pueraria","en":"kudzu (plant)"}
-{"T":"r","L":"cuecer","C":["a","rel"],"d":"pertinente a la Sosia Relijiosa de Amis, un promove fundida sirca 1650 par George Fox e dedicada a prinsipes pasosa","en":"Quaker"}
-{"L":"cuecer","C":["n"],"en":"Quaker"}
-{"L":"cuecerisme","C":["n"],"en":"Quakerism (Christianity)"}
-{"T":"r","L":"cuer","C":["a","uma"],"d":"parteninte a un minoria noneterosesal o nonsisjenero","en":"queer (non-conforming)"}
-{"T":"r","L":"cuerco","C":["n","pla"],"d":"un arbor cual produi un noza oval e lisa en un funda tasin, e cual es un fonte importante de lenio dur","i":"#","t":"Quercus","en":"oak"}
-{"L":"cuerco sempreverde","C":["n","pla"],"i":"#","t":"Quercus virginianus","en":"evergreen oak, live oak"}
-{"L":"cuerco de suber","C":["n","pla"],"i":"#","t":"Quercus suber","en":"cork oak"}
-{"L":"cuerca","C":["n"],"d":"la fruta de la cuerco","en":"acorn"}
-{"L":"de cuerco","C":["a"],"en":"oak, oaken"}
-{"T":"r","L":"cuicstep","C":["n","mus"],"d":"un dansa simil a un fostrot rapida","en":"quickstep (dance)"}
-{"T":"r","L":"cuieta","C":["a"],"d":"produinte poca o no sona","en":"quiet, calm, soft, faint, stealthy"}
-{"L":"cuieta","C":["av"],"en":"quietly, calmly, softly, faintly, stealthily; pianissimo"}
-{"L":"cuieti","C":["vnt"],"en":"quieten, calm, calm down"}
-{"L":"cuieti","C":["vt"],"en":"quieten, calm, calm down"}
-{"L":"cuietia","C":["n"],"en":"quiet, calm, quietness, calmness"}
-{"L":"cuietisme","C":["n"],"en":"quietism"}
-{"L":"cuietiste","C":["n"],"en":"quietist"}
-{"L":"noncuieta","C":["a"],"en":"uneasy"}
-{"T":"r","L":"cuiscal","C":["n","avia"],"d":"un avia negra e larga de America Norde e Sude","i":"#","t":"Quiscalus","en":"grackle (bird)"}
-{"T":"r","L":"cuiz","C":["n","spo"],"d":"un concurso simil a un esamina de sabes","en":"quiz"}
-{"T":"r","L":"culier","C":["n","util"],"d":"un util composada de un bol peti, tipal ronda o oval, con manico longa, usada per come, misca e servi comedas; un util simil ma plu grande, usada per prende cosas polvin o semisolida de un contenador; un parte simil de alga macinas per escava","i":"#","en":"spoon, scoop","fr":"cuiller, cuillère"}
-{"L":"culier de table","C":["n"],"en":"tablespoon (spoon, measurement)","fr":"cuiller à soupe"}
-{"L":"culier de te","C":["n"],"en":"teaspoon (spoon, measurement)","fr":"petite cuillère, cuiller à café"}
-{"L":"culieri","C":["vt"],"en":"(transfer by) spoon"}
-{"L":"culierin","C":["a"],"en":"spoonlike, spoon-shaped"}
-{"L":"culieron","C":["n"],"i":"#","en":"ladle","fr":"louche"}
-{"T":"r","L":"culmina","C":["vnt"],"d":"ateni la punto la plu alta, fisical o metafor","en":"culminate, climax, peak, crest","fr":"culminer"}
-{"L":"culmina","C":["n"],"en":"culmination, climax, peak, summit, top, crest; paragon; punchline","fr":"point culminant, sommet"}
-{"L":"culmina con","C":["v"],"en":"culminate with, be surmounted with, be topped with"}
-{"L":"culmina de arbor","C":["n"],"en":"treetop"}
-{"L":"culmina de colina","C":["n"],"en":"hilltop"}
-{"L":"culmina de monte","C":["n"],"en":"mountaintop"}
-{"L":"culminante","C":["a"],"en":"culminating, peaking, climaxing, climactic","fr":"culminant"}
-{"T":"r","L":"culo","C":["n","anat"],"d":"(nonformal) la gluteos o ano; un person fol o despetable","en":"(colloquial) arse, ass, bum, butt, booty, fanny (US), rump, tush (buttocks); (insult) arse, jerk, schmuck, prat","eo":"pugo","fr":"cul"}
-{"L":"culeta","C":["n"],"d":"(nonformal) un gluteo","en":"(colloquial) bun, butt cheek (buttock)","fr":"fesse"}
-{"T":"r","L":"culom","C":["n","fis"],"d":"la mesura internasional de carga eletrical","en":"coulomb (unit of charge)","fr":"coulomb"}
-{"T":"r","L":"culote","C":["n","vest"],"d":"un pantaleta fema con forma de pantala laxe","en":"French knickers, tap pants","fr":"culotte-short"}
-{"T":"r","L":"culpa","C":["vt","gov"],"d":"senti o declara ce (un person o cosa) ia causa un fali o rompe spesifada","en":"blame","fr":"blâmer"}
-{"L":"culpa","C":["n"],"en":"blame","fr":"reproches, blâme"}
-{"L":"culpable","C":["a"],"en":"guilty, blameworthy, culpable, responsible, liable","fr":"coupable, blâmable"}
-{"L":"culpablia","C":["n"],"en":"guilt, responsibility, liability","fr":"culpabilité"}
-{"L":"desculpa","C":["vt"],"en":"exculpate, exonerate, vindicate, acquit","fr":"disculper"}
-{"L":"desculpa","C":["n"],"en":"exoneration, vindication, acquittal"}
-{"L":"desculpada","C":["a"],"en":"exonerated"}
-{"L":"es desculpada","C":["v"],"en":"be exonerated, be acquitted, get off"}
-{"L":"nonculpable","C":["a"],"en":"blameless, innocent (of crime), not guilty","fr":"innocent, non coupable"}
-{"L":"nonculpablia","C":["n"],"en":"blamelessness, innocence","eo":"senkulpeco"}
+{"T":"r","L":"crus","C":["n","util","rel"],"d":"un marca o ojeto formida par du linias reta cual comparti un punto comun; un palo vertical con bara traversante, usada en edas pasada per mata criminales e otras; un simbol de cristianisme","i":"#","en":"cross; crucifix","he":"צלב"}
+{"L":"crus de vias","C":["n"],"en":"crossroads","he":"צומת, הצטלבות"}
+{"L":"Crus","C":["n","ast"],"d":"un constela fasil per vide en la sielo sude","en":"Crux (constellation)","he":"הצלב הדרומי (קבוצת כוכבים)"}
+{"L":"Crus Roja","C":["n"],"en":"Red Cross","he":"הצלב האדום"}
+{"L":"crusi","C":["vt"],"en":"crucify","he":"לצלוב"}
+{"L":"crusi","C":["n"],"en":"crucifixion","he":"צליבה"}
+{"L":"crusin","C":["a"],"en":"crosslike, cross-shaped, cruciform","he":"דמוי צלב"}
+{"T":"r","L":"crusa","C":["vnt"],"d":"(du cosas) pasa lunlotra o reposa sur lunlotra en dirijes diferente, simil a la forma de un crus a alga grado","en":"cross, intersect","he":"לחצות (אחד את השני), להצטלב"}
+{"L":"crusa","C":["n"],"en":"crossing, intersection","he":"חציה, הצטלבות"}
+{"L":"crusa plana","C":["n"],"en":"level crossing, grade crossing","he":"מצלב"}
+{"L":"crusa sua brasos","C":["esp"],"en":"cross one's arms, fold one's arms","he":"לשלב ידיים"}
+{"L":"crusa sua gamas","C":["esp"],"en":"cross one's legs","he":"לשלב רגליים"}
+{"L":"crusante","C":["a"],"en":"crossing, intersecting, crisscross","he":"חוצה, מצטלב, שתי וערב"}
+{"L":"descrusa","C":["vt"],"en":"uncross (arms, legs)","he":"לפשוט (ידיים, רגליים)"}
+{"T":"r","L":"crusada","C":["vnt","ist"],"d":"un mision militar medieval en un serie fada par europeanes per regania la Tera Santa de la muslimes entre la sentenios 11 e 13; cualce gera con intendes relijial; (metafor) un campania organizada con intende political, sosial o relijial, tipal motivada par un desira zelosa per cambia","en":"crusade","he":"לצאת למסע צלב"}
+{"L":"crusada","C":["n"],"en":"crusade","he":"מסע צלב"}
+{"L":"crusador","C":["n"],"en":"crusader","he":"צלבן; פעיל במאבק חברתי"}
+{"T":"r","L":"crusca","C":["n","cos"],"d":"pesos de glumas de gran, separada de farina pos molini","en":"bran","he":"סובין"}
+{"T":"r","L":"cruser","C":["a","vec"],"d":"(un veculo) movente a un rapidia constante","en":"cruising","he":"נע במהירות קבועה"}
+{"L":"cruser","C":["n"],"d":"un barcon de gera, plu grande ca un xasatorpedo e min armada ca un corasida","en":"cruiser (warship)","eo":"krozoŝipo","fr":"croiseur","he":"סיירת (ספינת מלחמה)"}
+{"L":"cruser de batalia","C":["n"],"en":"battlecruiser (warship)","he":"סיירת מערכה"}
+{"T":"r","L":"crustaseo","C":["n","artr"],"d":"un artropodo de un grupo grande e xef acual, como un crabe, langosta, omaro, gamba o siripede","t":"Curstacea","en":"crustacean, shellfish","he":"(ביולוגיה) סרטנאי"}
+{"T":"r","L":"crut","C":["n","mus"],"d":"un strumento musical, orijinante en Cimri, simil a un lira ma juada como un violin","i":"#","en":"crwth (musical instrument)","he":"כלי נגינה וולשי"}
+{"T":"r","L":"cruton","C":["n","cos"],"d":"un peso peti de pan, fritada o tostada, tipal servida con sopa o salada","en":"crouton","he":"קרוטון, צנימון"}
+{"T":"r","L":"ctenoforo","C":["n"],"d":"un nonvertebrato acual, con grupos de silios per nada e con selulas spesial cual lo usa per catura predas","i":"#","t":"Ctenophora","en":"ctenophore (organism)","he":"מסרקנית (בעל חיים)"}
+{"T":"r","L":"cuac","C":["esc","onom"],"d":"la sona tipal de un pato o rana","en":"quack (duck); ribbit (frog)","he":"גע-גע (קול ברווז)"}
+{"L":"cuaci","C":["vnt"],"en":"quack; croak","he":"לגעגע"}
+{"L":"cuaci","C":["n"],"en":"quack; croak","he":"געגוע (קול ברווז)"}
+{"T":"r","L":"cuadrante","C":["n","mat"],"d":"cada de la cuatro cuatris de un sirculo; cada de la cuatro partes de cualce corpo divideda par du linias o planas a angulos reta; (istorial) un aparato per mesura angulos de altia en astronomia e naviga","en":"quadrant","he":"רביע"}
+{"T":"r","L":"cuadrilia","C":["n","mus"],"d":"un dansa cuadro par cuatro duples, con sinco partes de cual cada es un dansa completa; un musica per esta","en":"quadrille (dance, music)","he":"קוודריל (ריקוד)"}
+{"T":"r","L":"cuadro","C":["a","mat"],"d":"(un forma) con cuatro lados reta de la mesma longia e cuatro angulos reta","en":"square, check","he":"ריבוע, משבצת"}
+{"L":"cuadro","C":["n"],"en":"square, check","he":"ריבוע, משבצת"}
+{"L":"cuadrador","C":["n"],"en":"set square, carpenter's square","he":"זוויתן נגרים"}
+{"L":"Cuadrador","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Norma (constellation)","he":"סרגל (קבוצת כוכבים)"}
+{"L":"cuadral","C":["a"],"en":"quadratic, square (root)","he":"ריבועי"}
+{"L":"cuadri","C":["vnt"],"en":"square, become square","he":"להפוך לריבועי"}
+{"L":"cuadri","C":["vt"],"en":"square, make square","he":"לרבע"}
+{"L":"cuadrida","C":["a"],"en":"squared","he":"מרובע"}
+{"L":"cuadrosa","C":["a"],"en":"checked, checkered","he":"משובץ (בעל משבצות)"}
+{"T":"r","L":"cuaga","C":["n","mam"],"d":"un spesie estinguida de zebra","i":"#","t":"Quagga quagga","en":"quagga (zebra)","he":"קואגה (זברה)"}
+{"T":"r","L":"cuai","C":["n","cos","util"],"d":"cada de un duple de bastetas de lenio, ivor o plastica, magra e diminuinte, tenida contra lunlotra en un mano per come, tipal par persones de Asia este","i":"#","en":"chopstick","he":"מקל אכילה"}
+{"T":"r","L":"Cuait","C":["n","jeo"],"c":"la Site Cuait","d":"un pais a la costa norde-ueste de la Golfo Persian","i":"#","p":"cüait","en":"Kuwait","he":"כווית"}
+{"L":"cuaiti","C":["a"],"p":"cüaiti","en":"Kuwaiti","he":"כוויתי"}
+{"L":"cuaiti","C":["n"],"en":"Kuwaiti","he":"כוויתי"}
+{"T":"r","L":"cual","C":["d"],"d":"demandante sur la identia de un cosa","en":"(interrogative) what, which","he":"מה, איזה, איזו"}
+{"L":"cual","C":["pron"],"d":"demandante sur la identia de un cosa; (suordinante) introduinte un suproposa ajetivin cual dona plu informa sur un cosa cual on ia indica direta a ante","u":"un ata cual merita es lodada; la vino cual tu bevi es multe vea","en":"(interrogative) what, which, which one; (relative) which, that (cannot be omitted)","he":"ש-, אשר"}
+{"L":"cual cosa?","C":["pron"],"en":"what, which thing?","he":"איזה? איזה דבר?"}
+{"L":"cual de enferno?","C":["esp"],"en":"what the hell?","he":"מה לעזאזל?"}
+{"L":"cual de mundo?","C":["esp"],"en":"what on earth?","he":"מה לכל הרוחות?"}
+{"L":"cual es la data?","C":["esp"],"en":"what is the date?","he":"מה התאריך?"}
+{"L":"cual es la ora?","C":["esp"],"en":"what is the time?","he":"מה השעה?"}
+{"L":"de cual ... sua","C":["esp"],"u":"me no ave plu la caxa de cual tu ia trova sua covrente","en":"whose, of which","he":"שאת... שלו/שלה"}
+{"L":"sur cual ... lo","C":["esp"],"n":"","u":"sur cual el ia demanda esce me gusta lo?; esta es la libro sur cual me ia dise ce me va mostra lo a tu","en":"(interrogative) about what ... it?; (relative) which, that ... it","he":"בקשר למה; שעליו/שאודותיו"}
+{"T":"r","L":"cualce","C":["d"],"d":"un o alga, asentuante ce la eleje entre la posibles no importa","u":"prende cualce carta; cualce vestes va sufisi","en":"any (at all), whichever (you like), arbitrary","he":"כלשהו, איזשהו"}
+{"L":"cualce","C":["pron"],"en":"any (no matter which), whichever; so-and-so","he":"כל דבר, כל אחד (לא משנה מי)"}
+{"L":"cualces","C":["pron","pl"],"en":"any (people or things, optional plural pronoun)","he":"כל דבר, כל אחד (לא משנה מי)"}
+{"L":"cualce cosa","C":["pron"],"en":"anything (at all), whatever (you like)","he":"כל דבר (לא משנה מה)"}
+{"L":"cualce cosa cual","C":["sj"],"en":"whatever, anything which","he":"כל דבר ש"}
+{"L":"a cualce caso","C":["av"],"en":"in any case, anyhow, anyway, nonetheless, nevertheless","he":"בכל מקרה, בכל אופן, מכל מקום, איך שלא יהיה"}
+{"L":"a cualce ora","C":["av"],"en":"at any time of the day (at all), whenever (you like)","he":"בכל שעה (לא משנה מתי), מתישהו"}
+{"L":"a cualce ora cuando","C":["sj"],"en":"whenever, at any time when","he":"בכל שעה ש"}
+{"L":"a cualce ves","C":["av"],"en":"on any occasion (at all), at any time, whenever (you like), ever","he":"בכל זמן, בכל הזדמנות"}
+{"L":"en cualce loca","C":["av"],"en":"anywhere (at all), wherever (you like)","he":"בכל מקום (לא משנה איפה), איפשהו"}
+{"L":"en cualce loca do","C":["sj"],"en":"wherever, in any place where","he":"בכל מקום ש"}
+{"L":"en cualce modo","C":["av"],"en":"in any way (at all), by any means (you like), in whatever way","he":"בכל דרך אפשרית, בכל צורה"}
+{"L":"en cualce modo par cual","C":["sj"],"en":"however, by whatever means, by any means by which","he":"בכל דרך ש, בכל צורה ש"}
+{"T":"r","L":"cualcun","C":["pron"],"d":"cualce person","en":"anyone, anybody (doesn't matter who), whoever (you like), whosoever","he":"כל אחד (לא משנה מי), מי שלא יהיה"}
+{"L":"cualcun","C":["n"],"en":"everyman, man in the street","he":"אדם מן השורה"}
+{"L":"cualcun ci","C":["esp"],"en":"anyone who, whoever","he":"כל מי ש (לא משנה מי)"}
+{"T":"r","L":"cuale","C":["n","uma"],"d":"la esperia sujetal de un sensa","en":"quale (philosophy)","he":"(פילוסופיה) קווליה"}
+{"T":"r","L":"cuali","C":["vnt"],"d":"merita es asetada (per un emplea, concurso o simil) par causa de sua capasia, sabes o otra cualias","en":"qualify (for something), be eligible (for something)","he":"להיות כשיר, להיות מתאים (למשהו)"}
+{"L":"cuali","C":["vt"],"d":"fa ce (un person) merita es asetada; (un parola) atribui un cualia a (un otra parola)","en":"qualify (someone for something, grammar)","he":"להכשיר (מישהו למשהו); (דקדוק) להגביל, להבחין משמעות"}
+{"L":"cuali","C":["n"],"en":"qualification","he":"הכשרה, התאמה"}
+{"L":"cualinte","C":["a"],"en":"qualifying, eligible","he":"כשיר, מתאים (למשהו)"}
+{"L":"cualinte","C":["n"],"en":"qualifier (grammar)","he":"(דקדוק) מסייג, מבחין"}
+{"L":"descuali","C":["vt"],"en":"disqualify (someone)","he":"לפסול, לשלול (מישהו)"}
+{"L":"descuali","C":["n"],"en":"disqualification","he":"פסילה, שלילה"}
+{"L":"noncualinte","C":["a"],"en":"ineligible","he":"פסול, לא כשיר, לא מתאים"}
+{"T":"r","L":"cualia","C":["n","fil","uma"],"d":"un atribuida distinguinte de un person o cosa; la grado de bonia de un situa","en":"quality, feature, trait, attribute, property, characteristic, aura","he":"איכות, טיב; תכונה, מאפיין, סגולה"}
+{"L":"cualia de labora","C":["n"],"en":"quality of work, workmanship","he":"דרגת מיומנות"}
+{"L":"cualia de parla","C":["n"],"en":"quality of speech, diction","he":"הגייה, דיקציה"}
+{"L":"cualia de vive","C":["n"],"en":"quality of life, well-being, welfare","he":"איכות חיים"}
+{"L":"cualia spesial","C":["n"],"en":"feature, special feature","he":"תכונה מיוחדת"}
+{"L":"cualia unica","C":["n"],"en":"idiosyncrasy","he":"תכונה ייחודית"}
+{"L":"cualial","C":["a"],"en":"qualitative","he":"איכותני"}
+{"L":"cualias nesesada","C":["n","pl"],"en":"necessary qualities, right stuff","he":"תכונות נדרשות"}
+{"L":"de cualia alta","C":["a"],"en":"high-quality, vintage","he":"איכותי"}
+{"L":"sin cualias","C":["a"],"en":"featureless","he":"חסר מאפיינים מיוחדים"}
+{"T":"r","L":"cuando","C":["av"],"d":"(demandante o introduinte un suproposa ajetivin) a cual tempo","u":"cuando nos va parti?; me no sabe cuando me va reveni; febrero, cuando la aira es fria","en":"(interrogative) when; (relative) at which time","he":"מתי; כש-"}
+{"L":"cuando","C":["sj"],"d":"(introduinte un suproposa averbin) a la tempo a cual, o (pos un preposada) la tempo a cual","u":"nos va parti cuando la sol reposa; me ia come ante cuando vos ia ariva","en":"when","he":"בזמן ש, כש-"}
+{"L":"a cuando","C":["sj"],"d":"a la momento cuando (alga cosa aveni)","en":"as (at the moment when)","fr":"au moment où","he":"בזמן ש, ברגע ש","ru":"когда, в тот момент когда"}
+{"L":"ante cuando","C":["sj"],"en":"before (the time when)","eo":"antaŭ ol","he":"לפני ש"}
+{"L":"asta cuando","C":["sj"],"en":"until, till (the time when)","he":"עד ש"}
+{"L":"de cuando","C":["sj"],"en":"since the time when, ever since","fr":"depuis que","he":"מאז ש","ru":"с той поры как, с тех пор как, как только"}
+{"L":"en cuando","C":["sj"],"d":"en un parte de, o tota de, la tempo cuando (alga cosa aveni)","en":"while, whilst, as, during the time when","he":"בזמן ש, בעוד ש"}
+{"L":"estra cuando","C":["sj"],"en":"except when, unless","he":"חוץ מ (הזמן ש)"}
+{"L":"pos cuando","C":["sj"],"ca":"després que","de":"nachdem","en":"after (the time when)","eo":"post kiam","es":"después que","fr":"après que","he":"לאחר, אחרי ש","ja":"後に","pt":"pois que, depois","ru":"после"}
+{"L":"sempre cuando","C":["sj"],"en":"whenever","he":"בכל פעם ש, בכל שעה ש, כל אימת ש"}
+{"T":"r","L":"cuantia","C":["n"],"d":"un mesura de cuanto, usada egal per cosas individua contable o noncontable, tipal espresada con numeros","en":"quantity, amount, magnitude; number (quantity, not position in sequence)","he":"כמות, מידה, שיעור"}
+{"L":"cuantia de abitores","C":["n"],"en":"population (figure)","fr":"population","he":"שיעור האוכלוסייה"}
+{"L":"cuantia de mores","C":["n"],"en":"death toll","he":"מחיר דמים, מספר הרוגים"}
+{"L":"cuantia de regardores","C":["n"],"en":"audience size, ratings, viewing figures","he":"שיעור צפייה"}
+{"L":"cuantia persental","C":["n"],"en":"percentage","he":"שיעור אחוזים, תאחוז"}
+{"L":"cuantial","C":["a"],"en":"quantitative","he":"כמותי"}
+{"L":"cuanti","C":["vt"],"en":"quantify","he":"לכמת"}
+{"L":"cuanti","C":["n"],"en":"quantification","he":"כימות"}
+{"T":"r","L":"cuanto","C":["d"],"d":"demandante sur la cuantia de alga cosa","en":"(interrogative) how many, how much","he":"כמה"}
+{"L":"cuanto","C":["av"],"en":"(interrogative) how many, how much","he":"כמה"}
+{"L":"cuanto","C":["sj"],"d":"(introduinte un suproposa averbin) en la cuantia cual","u":"el ia aida cuanto el ia pote","en":"as many as, as much as, inasmuch as, as far as, so far as, to the extent that","he":"ככל ש, עד כמה ש"}
+{"L":"per cuanto tempo","C":["esp"],"u":"per cuanto tempo tu va labora?","en":"how much time, how long (intended)","he":"כמה זמן"}
+{"L":"tra cuanto tempo","C":["esp"],"u":"tra cuanto tempo tu abita ja asi?","en":"how much time, how long (elapsed)","he":"כמה זמן"}
+{"T":"r","L":"cuanto","C":["n","fis"],"d":"la cuantia minima de cualce cosa fisical cual pote partisipa en un interata","en":"quantum","he":"קוונט, קוונטום"}
+{"L":"cuantos","C":["n","pl"],"en":"quanta","he":"קוונטה"}
+{"T":"r","L":"cuarc","C":["n","fis"],"d":"cada de alga particulas suatomal cual ave un carga eletrical fratal, e sur cual fisicistes suspeta ce los es la composantes de adrones","en":"quark","he":"קווארק"}
+{"L":"cuarc alta","C":["n"],"en":"top quark","he":"קווארק עליון"}
+{"L":"cuarc asendente","C":["n"],"en":"up quark","he":"קווארק למעלה"}
+{"L":"cuarc basa","C":["n"],"en":"bottom quark","he":"קווארק תחתון"}
+{"L":"cuarc desendente","C":["n"],"en":"down quark","he":"קווארק למטה"}
+{"L":"cuarc encantada","C":["n"],"en":"charm quark","he":"קווארק קסום"}
+{"L":"cuarc strana","C":["n"],"en":"strange quark","he":"קווארק מוזר"}
+{"T":"r","L":"cuaresma","C":["n","rel"],"d":"la periodo de cuatrodes dias ante pascua en cristianisme, tradisional un periodo de juna, asteni e repenti","en":"lent (Christianity)","he":"(נצרות) תענית"}
+{"L":"cuaresmal","C":["a"],"en":"lenten","he":"(נצרות) שקשור בתענית"}
+{"T":"r","L":"cuarzo","C":["n","tera"],"d":"un mineral dur e blanca o sin color, composada de silica","en":"quartz","he":"קוורץ"}
+{"T":"r","L":"cuasar","C":["n","ast"],"d":"un ojeto sielal multe masosa e distante cual emete cuantias enorme de enerjia","en":"quasar","he":"קוואזר"}
+{"T":"r","L":"cuasi","C":["av"],"d":"no multe min ca; a grado noncompleta ma sin multe mancas; nonesata ma sin difere major","en":"almost, nearly, virtually, practically, not quite, just less than","he":"כמעט, בקירוב"}
+{"L":"cuasi-","C":["pf","tecn"],"d":"cuasi, multe prosima a","en":"quasi-","he":"(קידומת טכנית) קרוב ל"}
+{"L":"cuasi cadun","C":["pron"],"en":"almost everyone","he":"כמעט כולם"}
+{"T":"r","L":"cuatrigalon","C":["n"],"d":"un cuatri de un galon","en":"quart","he":"רבע גלון"}
+{"T":"r","L":"cuatrim","C":["n","mone"],"d":"un moneta con valua de 25 sentimes","en":"25-cent piece, quarter, farthing (coin)","he":"רבע דולר"}
+{"T":"r","L":"cuatrinegra","C":["a","ist"],"en":"quadroon","he":"(מוצא) רבע אפריקאי"}
+{"L":"cuatrinegra","C":["n"],"d":"(istorial) un person ci ave un avo o ava de la raza negra","en":"quadroon","he":"(אדם ממוצא) רבע אפריקאי"}
+{"T":"r","L":"cuatro","C":["d","mat"],"d":"2 multiplida par 2; la numero entre tre e sinco","en":"four","he":"ארבע, ארבעה"}
+{"L":"cuatro","C":["a"],"en":"fourth (ordinal)","he":"רביעי, רביעית"}
+{"L":"cuatro-","C":["pf","tecn"],"d":"cuatro","en":"quadr-, quadri-","he":"(קידומת טכנית) ארבע"}
+{"L":"cuatri","C":["vnt"],"en":"quarter","he":"להתחלק לארבע"}
+{"L":"cuatri","C":["n"],"en":"quarter, fourth (fraction)","he":"רבע"}
+{"L":"cuatri-","C":["pf","tecn"],"d":"un cuatri de","en":"quarter-","he":"(קידומת טכנית) רבע"}
+{"L":"Cuatri Vacua","C":["n","jeo"],"d":"un deserto vasta en la Penisola Arabi","i":"#","en":"Empty Quarter, Rub al Khali, Great Sandy Desert","he":"מדבר רובע אל חאלי"}
+{"L":"cuatrida","C":["a"],"en":"quartered; quarto (book size)","he":"מחולק לארבע; קוורטו (מידת גיליון)"}
+{"L":"cuatruple","C":["a"],"en":"quadruple","he":"פי ארבעה"}
+{"L":"cuatruple","C":["n"],"en":"quartet, foursome","he":"רביעייה"}
+{"T":"r","L":"cuatroangulo","C":["a","mat"],"d":"(un forma plana) con cuatro angulos","en":"quadrangular","he":"בעל ארבע צלעות"}
+{"L":"cuatroangulo","C":["n"],"en":"quadrangle","he":"צורה בעלת ארבע צלעות"}
+{"T":"r","L":"cuatrojemelo","C":["a","bio"],"en":"quadruplet","he":"אחד מרביעייה"}
+{"L":"cuatrojemelo","C":["n"],"d":"un de cuatro enfantes naseda en la mesma pari","en":"quadruplet","he":"אחד מרביעייה"}
+{"T":"r","L":"cuatroladal","C":["a","mat"],"d":"(un forma plana) con cuatro lados","en":"quadrilateral, quadrangular","fr":"quadrilatéral, quadrangulaire","he":"בעל ארבע צלעות"}
+{"L":"cuatroladal","C":["n"],"en":"quadrilateral, quadrangle","fr":"quadrilatère, quadrangle","he":"צורה בעלת ארבע צלעות"}
+{"T":"r","L":"cuatronaria","C":["a","tera","cim"],"d":"pertinente a la periodo jeolojial la plu resente en la senozoica, seguente la tersiaria e composada de la plestosene e olosene; (en cimica) pertinente a un cimical con cuatro atomes de carbono o grupos organica","en":"quaternary","he":"(גאולוגיה) רביעון"}
+{"T":"r","L":"cuatropede","C":["a","bio"],"d":"(un animal) con cuatro pedes","en":"quadrupedal","he":"בעל ארבע רגליים"}
+{"L":"cuatropede","C":["n"],"en":"quadruped","he":"בעל ארבע רגליים"}
+{"T":"r","L":"cuaxiorcor","C":["n","med"],"d":"un forma de malnuri causada par un manca de protena, tipal afetante enfantes joven en la tropicos","en":"kwashiorkor (medical)","he":"(רפואה) קוושיורקור"}
+{"T":"r","L":"Cuba","C":["n","jeo"],"c":"Havana","d":"un pais en la Indias Ueste, la plu grande e la plu ueste de la isolas en la Mar Caribe a la boca de la Golfo Mexico","i":"#","en":"Cuba","he":"קובה"}
+{"L":"cuban","C":["a"],"en":"Cuban","he":"קובני"}
+{"L":"cuban","C":["n"],"en":"Cuban","he":"קובני"}
+{"T":"r","L":"cubisme","C":["n","arte"],"d":"un stilo de arte, tipal depinta, de la temprana de la sentenio 20, presentante formas natural en modo jeometrial","en":"cubism","he":"קוביזם"}
+{"L":"cubiste","C":["a"],"en":"cubist","he":"קוביסטי"}
+{"L":"cubiste","C":["n"],"en":"cubist","he":"קוביסט"}
+{"T":"r","L":"cubo","C":["a","mat"],"d":"(un cosa tridimensional) con un forma solida o vacua cual es contenida par ses cuadros egal","i":"#","en":"cubic, cubical","he":"קובייתי; מעוקב"}
+{"L":"cubo","C":["n"],"en":"cube","he":"קובייה"}
+{"L":"cubi","C":["vnt"],"en":"become a cube","he":"לעלות בחזקת שלוש"}
+{"L":"cubi","C":["vt"],"en":"cube","he":"להעלות בחזקת שלוש"}
+{"L":"cubida","C":["a"],"en":"cubed, to the third power","he":"בחזקת שלוש"}
+{"T":"r","L":"cucabura","C":["n","avia"],"d":"un avia pexor de Australia e Gine Nova, notada per sua clama multe forte","i":"#","t":"Dacelo","en":"kookaburra","he":"קוקברה (ציפור)"}
+{"T":"r","L":"cucaraxa","C":["n","artr"],"d":"un inseto simil a un scarabe con antenas e gamas longa, tipal regardada como pestes en cosinas e otra locas","i":"#","t":"Blattaria","en":"cockroach, roach","he":"תיקן, מקק, ג'וק"}
+{"T":"r","L":"cuci","C":["n","info"],"d":"un dato enviada par un servador a un surfador, reenviada sempre cuando la surfador reasede la mesma servador, e usada per identifia la usor","en":"cookie (web)","he":"(מחשבים) קוקית"}
+{"T":"r","L":"cucu","C":["n","avia"],"d":"un avia de grandia media, con coda longa e dorso gris o brun, de cual alga pone sua ovos en la nidos de avias cantante peti","i":"#","t":"Cuculidae","en":"cuckoo","he":"קוקייה (ציפור)"}
+{"T":"r","L":"cucui","C":["n","pla"],"d":"un arbor perene en familia de euforbia, con semes grande de cual on oteni un olio usada en lampas, nativa de Asia sude-este e la isolas de la Mar Pasifica sude","i":"#","t":"Aleurites moluccana","en":"candlenut, candleberry (tree)","he":"קוקוי (עץ)"}
+{"T":"r","L":"cucurucu","C":["esc","onom"],"d":"la sona forte de un gal mas","en":"cock-a-doodle-doo, crow","he":"קוקוריקו"}
+{"T":"r","L":"cudzu","C":["n","pla"],"d":"un planta trepante de Asia cual crese rapida, usada como comeda de bestias e per controla erode, e cual ia deveni un peste en la SUA sude-este","i":"#","t":"Pueraria","en":"kudzu (plant)","he":"קוזו, קודזו (צמח)"}
+{"T":"r","L":"cuecer","C":["a","rel"],"d":"pertinente a la Sosia Relijiosa de Amis, un promove fundida sirca 1650 par George Fox e dedicada a prinsipes pasosa","en":"Quaker","he":"קוויקר"}
+{"L":"cuecer","C":["n"],"en":"Quaker","he":"קוויקר"}
+{"L":"cuecerisme","C":["n"],"en":"Quakerism (Christianity)","he":"(נצרות) קוויקרים, קוויקריזם"}
+{"T":"r","L":"cuer","C":["a","uma"],"d":"parteninte a un minoria noneterosesal o nonsisjenero","en":"queer (non-conforming)","he":"קוויר"}
+{"T":"r","L":"cuerco","C":["n","pla"],"d":"un arbor cual produi un noza oval e lisa en un funda tasin, e cual es un fonte importante de lenio dur","i":"#","t":"Quercus","en":"oak","he":"אלון (עץ)"}
+{"L":"cuerco sempreverde","C":["n","pla"],"i":"#","t":"Quercus virginianus","en":"evergreen oak, live oak","he":"אלון ירוק-עד"}
+{"L":"cuerco de suber","C":["n","pla"],"i":"#","t":"Quercus suber","en":"cork oak","he":"אלון השעם"}
+{"L":"cuerca","C":["n"],"d":"la fruta de la cuerco","en":"acorn","he":"בלוט"}
+{"L":"de cuerco","C":["a"],"en":"oak, oaken","he":"מעץ אלון"}
+{"T":"r","L":"cuicstep","C":["n","mus"],"d":"un dansa simil a un fostrot rapida","en":"quickstep (dance)","he":"קוויקסטפ (ריקוד)"}
+{"T":"r","L":"cuieta","C":["a"],"d":"produinte poca o no sona","en":"quiet, calm, soft, faint, stealthy","he":"שקט, עמום"}
+{"L":"cuieta","C":["av"],"en":"quietly, calmly, softly, faintly, stealthily; pianissimo","he":"בשקט"}
+{"L":"cuieti","C":["vnt"],"en":"quieten, calm, calm down","he":"לשקוט"}
+{"L":"cuieti","C":["vt"],"en":"quieten, calm, calm down","he":"להשקיט"}
+{"L":"cuietia","C":["n"],"en":"quiet, calm, quietness, calmness","he":"שקט"}
+{"L":"cuietisme","C":["n"],"en":"quietism","he":"(נצרות) קווייטיזם"}
+{"L":"cuietiste","C":["n"],"en":"quietist","he":"(נצרות) קווייטיסט"}
+{"L":"noncuieta","C":["a"],"en":"uneasy","he":"לא שקט"}
+{"T":"r","L":"cuiscal","C":["n","avia"],"d":"un avia negra e larga de America Norde e Sude","i":"#","t":"Quiscalus","en":"grackle (bird)","he":"סוג ציפור"}
+{"T":"r","L":"cuiz","C":["n","spo"],"d":"un concurso simil a un esamina de sabes","en":"quiz","he":"בוחן, חידון"}
+{"T":"r","L":"culier","C":["n","util"],"d":"un util composada de un bol peti, tipal ronda o oval, con manico longa, usada per come, misca e servi comedas; un util simil ma plu grande, usada per prende cosas polvin o semisolida de un contenador; un parte simil de alga macinas per escava","i":"#","en":"spoon, scoop","fr":"cuiller, cuillère","he":"כף"}
+{"L":"culier de table","C":["n"],"en":"tablespoon (spoon, measurement)","fr":"cuiller à soupe","he":"כף"}
+{"L":"culier de te","C":["n"],"en":"teaspoon (spoon, measurement)","fr":"petite cuillère, cuiller à café","he":"כפית"}
+{"L":"culieri","C":["vt"],"en":"(transfer by) spoon","he":"להשתמש בכף"}
+{"L":"culierin","C":["a"],"en":"spoonlike, spoon-shaped","he":"בצורת כף, כפית"}
+{"L":"culieron","C":["n"],"i":"#","en":"ladle","fr":"louche","he":"תרווד, מצקת"}
+{"T":"r","L":"culmina","C":["vnt"],"d":"ateni la punto la plu alta, fisical o metafor","en":"culminate, climax, peak, crest","fr":"culminer","he":"להגיע לפסגה, להגיע לשיא"}
+{"L":"culmina","C":["n"],"en":"culmination, climax, peak, summit, top, crest; paragon; punchline","fr":"point culminant, sommet","he":"פסגה, שיא, צמרת"}
+{"L":"culmina con","C":["v"],"en":"culminate with, be surmounted with, be topped with","he":"לסיים עם"}
+{"L":"culmina de arbor","C":["n"],"en":"treetop","he":"צמרת עץ"}
+{"L":"culmina de colina","C":["n"],"en":"hilltop","he":"ראש גבעה"}
+{"L":"culmina de monte","C":["n"],"en":"mountaintop","he":"ראש הר"}
+{"L":"culminante","C":["a"],"en":"culminating, peaking, climaxing, climactic","fr":"culminant","he":"מגיע לשיא, מגיע לפסגה"}
+{"T":"r","L":"culo","C":["n","anat"],"d":"(nonformal) la gluteos o ano; un person fol o despetable","en":"(colloquial) arse, ass, bum, butt, booty, fanny (US), rump, tush (buttocks); (insult) arse, jerk, schmuck, prat","eo":"pugo","fr":"cul","he":"תחת"}
+{"L":"culeta","C":["n"],"d":"(nonformal) un gluteo","en":"(colloquial) bun, butt cheek (buttock)","fr":"fesse","he":"אחד מצדדי הישבן"}
+{"T":"r","L":"culom","C":["n","fis"],"d":"la mesura internasional de carga eletrical","en":"coulomb (unit of charge)","fr":"coulomb","he":"(פיזיקה) קולון"}
+{"T":"r","L":"culote","C":["n","vest"],"d":"un pantaleta fema con forma de pantala laxe","en":"French knickers, tap pants","fr":"culotte-short","he":"מכנס קצר לנשים"}
+{"T":"r","L":"culpa","C":["vt","gov"],"d":"senti o declara ce (un person o cosa) ia causa un fali o rompe spesifada","en":"blame","fr":"blâmer","he":"להאשים"}
+{"L":"culpa","C":["n"],"en":"blame","fr":"reproches, blâme","he":"האשמה"}
+{"L":"culpable","C":["a"],"en":"guilty, blameworthy, culpable, responsible, liable","fr":"coupable, blâmable","he":"אשם"}
+{"L":"culpablia","C":["n"],"en":"guilt, responsibility, liability","fr":"culpabilité","he":"אשמה"}
+{"L":"desculpa","C":["vt"],"en":"exculpate, exonerate, vindicate, acquit","fr":"disculper","he":"לזכות"}
+{"L":"desculpa","C":["n"],"en":"exoneration, vindication, acquittal","he":"זיכוי (מאשמה)"}
+{"L":"desculpada","C":["a"],"en":"exonerated","he":"זכאי, מזוכה"}
+{"L":"es desculpada","C":["v"],"en":"be exonerated, be acquitted, get off","he":"לצאת זכאי"}
+{"L":"nonculpable","C":["a"],"en":"blameless, innocent (of crime), not guilty","fr":"innocent, non coupable","he":"חף מפשע"}
+{"L":"nonculpablia","C":["n"],"en":"blamelessness, innocence","eo":"senkulpeco","he":"חפות"}
 {"T":"r","L":"cultiva","C":["vt","uma"],"d":"prepara e usa (un area de tera) per eleva plantas, tipal per come par umanas o animales","en":"cultivate, farm, grow (something); till, work (the soil)","fr":"cultiver"}
 {"L":"cultiva","C":["n"],"en":"crop, cultivation, agriculture, husbandry; culture (medical)","fr":"culture"}
 {"L":"cultiva de uvas","C":["n"],"en":"viticulture"}
@@ -11396,6 +11396,7 @@
 {"L":"frigian","C":["a"],"en":"Phrygian"}
 {"T":"r","L":"fringilo","C":["n","avia"],"d":"un pinson eurasian, tipal con alas e coda oscur e xapeta bluin","i":"#","t":"Fringilla","en":"chaffinch (bird)"}
 {"T":"r","L":"frisbi","C":["n","spo"],"d":"un disco concava de plastica, flotada tra la aira como un diverti o sporte","i":"#","en":"frisbee"}
+{"T":"r","L":"Frisia","C":["n","jeo","ist"],"d":"un area istorial a la costa de la Mar Norde, incluinte la provinse Frisland e otra locas en cual frisce es oji parlada","en":"Frisia"}
 {"T":"r","L":"Frisland","C":["n","jeo"],"d":"un provinse en Nederland norde","i":"#","en":"Frisia, Friesland","es":"Frisia"}
 {"L":"frisce","C":["a"],"en":"Frisian"}
 {"L":"frisce","C":["n","dem"],"en":"Frisian (person, language)"}
@@ -14296,6 +14297,9 @@
 {"L":"leoneta","C":["n"],"en":"lion cub"}
 {"L":"leoni","C":["vnt"],"en":"lionize|is"}
 {"L":"leoni","C":["vt"],"en":"lionize|is"}
+{"T":"r","L":"Leon","C":["n","jeo"],"d":"un rena antica e provinse presente de Espania norde","i":"#","en":"León (Spanish region)"}
+{"L":"leones","C":["a"],"en":"Leonese"}
+{"L":"leones","C":["n"],"en":"Leonese"}
 {"T":"r","L":"leopardo","C":["n","mam"],"d":"un gato grande con pelo brun con manxas negra, trovada en la forestas de Africa e Asia sude","i":"#","t":"Panthera pardus","en":"leopard"}
 {"L":"leopardeta","C":["n"],"en":"leopard cub"}
 {"T":"r","L":"lepidio","C":["n","pla"],"d":"un creson savaje, tipal con folias con odor agu","t":"Lepidium","en":"peppercress, peppergrass, pepperwort"}
@@ -14640,9 +14644,6 @@
 {"T":"r","L":"lintel","C":["n","arci"],"d":"un suporta orizonal de lenio, petra, beton o aser supra un porte o fenetra","i":"#","en":"lintel, transom"}
 {"T":"r","L":"linxa","C":["vt","gov"],"d":"(un manada de persones) mata (algun), tipal par pende, per un ofende alegada, con o sin litiga","en":"lynch"}
 {"L":"linxa","C":["n"],"en":"lynching"}
-{"T":"r","L":"Lion","C":["n","jeo"],"d":"un rena antica e provinse presente de Espania norde","i":"#","en":"León (Spanish region)"}
-{"L":"liones","C":["a"],"en":"Leonese"}
-{"L":"liones","C":["n"],"en":"Leonese"}
 {"T":"r","L":"lipase","C":["n","bio","cim"],"d":"un enzima de la pancreas cual catalise la redui de gras o asidas grasal","en":"lipase"}
 {"T":"r","L":"lipido","C":["a","bio","cim"],"d":"parteninte a un clase de composadas organica cual es asidas grasosa o sua derivadas, e es nondisolvable en acua ma disolvable en solventes organica, incluinte multe olios natural, siras e steroides","en":"lipid (chemistry)"}
 {"L":"lipido","C":["n"],"en":"lipid"}
@@ -15061,6 +15062,7 @@
 {"T":"r","L":"maior","C":["n","gov"],"d":"la xef elejeda de un site, vila o otra munisipa","en":"mayor","fr":"maire"}
 {"L":"maioral","C":["a"],"en":"mayoral"}
 {"L":"vismaior","C":["n"],"en":"vice-mayor, alderman"}
+{"T":"r","L":"Maiorca","C":["n","jeo"],"d":"la isola la plu grande de la Isolas Balear","en":"Mallorca, Majorca"}
 {"T":"r","L":"mais","C":["n","pla","cos"],"d":"un planta sereal con granes grande; esta granes, usada per comeda de umanas e bestias","i":"#","t":"Zea mays","en":"corn, maize","fr":"maïs"}
 {"L":"mais moleda","C":["n"],"en":"hominy"}
 {"T":"r","L":"maitili","C":["a","dem"],"d":"pertinente a la popla de Bihar norde e rejiones prosima","en":"Maithil, Maithili (person, language)"}
@@ -26182,6 +26184,7 @@
 {"L":"teti","C":["vt"],"en":"suckle, breastfeed"}
 {"L":"tetin","C":["n"],"en":"pacifier, comforter, dummy (for baby)","fr":"tétine"}
 {"L":"teton","C":["n"],"d":"(nonformal) un seno","en":"(colloquial) tit, boob, knocker (breast)"}
+{"L":"tetor","C":["n"],"en":"suckler, breastfeeder, wet nurse"}
 {"T":"r","L":"teta","C":["n"],"d":"la letera oto de la alfabeta elinica","s":"Θ θ","en":"theta (Greek letter)"}
 {"T":"r","L":"tetania","C":["n","med"],"d":"un state marcada par spasmas musculal causada par un malfunsiona de la glandes paratiroide e la nonsufisi resultante de calsio","en":"tetany (medical)"}
 {"T":"r","L":"tetano","C":["n","med"],"d":"un maladia causada par un bateria, marcada par tetania","en":"tetanus, lockjaw (medical)"}
@@ -26242,15 +26245,15 @@
 {"L":"tictaci","C":["n"],"en":"tick, ticking","fr":"tic tac"}
 {"T":"r","L":"tie","C":["n","uma"],"d":"un person familial de la mesma jenera como sua jenitores; (nonformal) un person familial de cualce jenera plu temprana ca la propre","en":"aunt or uncle; (colloquial) family member of an older generation"}
 {"L":"como tio","C":["a"],"en":"avuncular"}
-{"L":"dutia","C":["n"],"p":"dutía","en":"female cousin of one's grandparents' generation","fr":"grande-tante"}
-{"L":"dutie","C":["n"],"en":"cousin of one's grandparents' generation"}
-{"L":"dutio","C":["n"],"p":"dutío","en":"male cousin of one's grandparents' generation","fr":"grand-oncle"}
+{"L":"dutia","C":["n"],"p":"dutía","en":"great-aunt; any female cousin of one's grandparents' generation","fr":"grande-tante"}
+{"L":"dutie","C":["n"],"en":"great-aunt, great-uncle; any cousin of one's grandparents' generation"}
+{"L":"dutio","C":["n"],"p":"dutío","en":"great-uncle; any male cousin of one's grandparents' generation","fr":"grand-oncle"}
 {"L":"tia","C":["n"],"d":"un tie fema","en":"aunt","fr":"tante"}
 {"L":"tin","C":["a"],"en":"avuncular"}
 {"L":"tio","C":["n"],"d":"un tie mas","en":"uncle","fr":"oncle"}
-{"L":"tretia","C":["n"],"p":"tretía","en":"female cousin of one's great-grandparents' generation","fr":"arrière-grande-tante"}
-{"L":"tretie","C":["n"],"en":"cousin of one's great-grandparents' generation"}
-{"L":"tretio","C":["n"],"p":"tretío","en":"male cousin of one's great-grandparents' generation","fr":"arrière-grand-oncle"}
+{"L":"tretia","C":["n"],"p":"tretía","en":"great-great-aunt; any female cousin of one's great-grandparents' generation","fr":"arrière-grande-tante"}
+{"L":"tretie","C":["n"],"en":"great-great-aunt, great-great-uncle; any cousin of one's great-grandparents' generation"}
+{"L":"tretio","C":["n"],"p":"tretío","en":"great-great-uncle; any male cousin of one's great-grandparents' generation","fr":"arrière-grand-oncle"}
 {"T":"r","L":"tifa","C":["n","pla"],"d":"un planta alta de pantanes, simil a un cana, con testa silindre con surfas veludin e oscur brun","i":"#","t":"Typha","en":"cattail, bulrush (plant)","fr":"massette"}
 {"T":"r","L":"tifo","C":["n","med"],"d":"un maladia comunicable, causada par ricetsias, marcada par erutas purpur, dole de testa, febre e tipal delirio","en":"typhus"}
 {"T":"r","L":"tifoide","C":["a","med"],"d":"pertinente a un infeta baterial con febre, la eruta de puntos roja sur la peto e adomen, e un irita sever de la intestines","en":"typhoid","fr":"typhoïde"}
@@ -26873,7 +26876,7 @@
 {"L":"trompetor","C":["n","avia"],"d":"un avia grande e sosial ci abita sur la tera en la forestas tropical de America Sude, con plumas negra e vose simil a un trompeta","i":"#","t":"Psophia","en":"trumpeter (bird)"}
 {"L":"trompi","C":["vt","mus"],"en":"trumpet, bray"}
 {"L":"trompon","C":["n"],"i":"#","en":"trombone","fr":"trombone"}
-{"T":"r","L":"tronco","C":["n","bio","anat"],"d":"la parte major de un arbor, distinguida de sua ramos e radises; un peso grande taliada de un arbor; la parte de la corpo de un umana o animal estra sua membros o testa; la parte major de un avion estra sua alas; la parte de un parola estra sua afisas","i":"#","en":"trunk (log, torso); fuselage; frustum (geometry); stem (of word)","fr":"tronc; buche; torse; radical (d'un mot)"}
+{"T":"r","L":"tronco","C":["n","bio","anat"],"d":"la parte major de un arbor, distinguida de sua ramos e radises; un peso grande taliada de un arbor; la parte de la corpo de un umana o animal estra sua membros o testa; la parte major de un avion estra sua alas; la parte de un parola estra sua afisas","i":"#","en":"trunk (tree, torso), log; fuselage; frustum (geometry); stem (of word)","fr":"tronc; buche; torse; radical (d'un mot)"}
 {"L":"tronceta","C":["n"],"en":"stem, stalk"}
 {"L":"troncetin","C":["a"],"en":"stalklike"}
 {"T":"r","L":"trono","C":["n","gov"],"d":"un seja ritual per un renor, bispo o otra person importante","i":"#","en":"throne","fr":"trône"}
