@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '15 marto 2019';
+﻿var dataDeDatos = '16 marto 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -19858,6 +19858,7 @@ var disionario = [
 {L:"pita elinica",C:["n"],en:"gyro, gyros"},
 {T:"r",L:"Pitagora",C:["n","ist"],d:"un filosofiste e matematiciste famosa de Elas antica",en:"Pythagoras"},
 {L:"pitagoran",C:["a"],en:"Pythagorean"},
+{L:"pitagorisme",C:["n","fil"],ca:"pitagorisme",de:"Pythagoreismus",en:"Pythagoreanism",es:"pitagorismo",fr:"pythagorisme",it:"pitagorismo",pt:"pitagorismo",ru:"пифагореизм"},
 {T:"r",L:"piton",C:["n","ret"],d:"un serpente grande ma nonvenenosa, cual mata sua preda par presa lo",i:"#",t:"Pythonidae",en:"python"},
 {T:"r",L:"pitui",C:["n","avia"],d:"un avia briliante de Gine Nova",i:"#",t:"Pitohui",en:"pitohui (bird)"},
 {T:"r",L:"pivote",C:["vnt"],d:"turna sur un fulcro o otra punto sentral",en:"pivot, swing round"},
