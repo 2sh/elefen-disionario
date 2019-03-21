@@ -2375,9 +2375,9 @@
 {"L":"autor de anunsias","C":["n"],"en":"copywriter","he":"קופירייטר, רעיונאי"}
 {"L":"autor teatral","C":["n"],"en":"playwright","he":"מחזאי"}
 {"L":"autoria","C":["n"],"en":"authorship","he":"מקור היצירה; כתיבה (של ספרים)"}
-{"T":"r","L":"autoria","C":["n","gov"],"d":"un potia o direto de comanda, deside e forsa la obedi","en":"authority, mandate, jurisdiction","fr":"(l') autorité","he":"סמכות, מנדט"}
+{"T":"r","L":"autoria","C":["n","gov"],"d":"un potia o direto de comanda, deside e forsa la obedi","en":"authority, mandate, jurisdiction, empowerment","fr":"(l') autorité","he":"סמכות, מנדט"}
 {"L":"autori","C":["vt"],"d":"dona autoria a","en":"authorize|is, empower","fr":"mandater, accréditer","he":"להסמיך, להאציל סמכות"}
-{"L":"autori","C":["n"],"en":"authorization|is","fr":"mandat, accréditation","he":"הסמכה, האצלת סמכות"}
+{"L":"autori","C":["n"],"en":"authorization|is, empowerment","fr":"mandat, accréditation","he":"הסמכה, האצלת סמכות"}
 {"L":"autorida","C":["a"],"en":"authorized|is, certified, qualified","he":"מוסמך, מאושר, מוכשר"}
 {"L":"autoriosa","C":["a"],"en":"authoritative, canonical; plenipotentiary","he":"סמכותי, בעל סמכות"}
 {"L":"autoriosa","C":["n"],"d":"un person o organiza cual ave autoria political","en":"authority; leader","fr":"(une) autorité","he":"אדם בעל סמכות, אחראי, מנהיג"}
@@ -4360,7 +4360,8 @@
 {"L":"capas de susede","C":["a"],"en":"capable of success, viable","he":"ישומי, מעשי"}
 {"L":"ave la capasia","C":["v"],"en":"be qualified","he":"להיות מסוגל, להיות מוכשר, להיות מתאים"}
 {"L":"capasi","C":["vnt"],"en":"grow capable","he":"לרכוש מיומנות"}
-{"L":"capasi","C":["vt"],"en":"enable","he":"לאפשר"}
+{"L":"capasi","C":["vt"],"en":"enable, empower","he":"לאפשר"}
+{"L":"capasi","C":["n"],"en":"enabling, empowerment"}
 {"L":"capasia","C":["n"],"en":"ability, capability, capacity, power, faculty (power); talent, skill, knack, gift; proficiency, competence, prowess, artistry; efficiency, performance","he":"מסוגלות, כושר, יכולת; כישרון, מיומנות, מומחיות"}
 {"L":"capasia eletrical","C":["n"],"en":"capacitance","he":"(חשמל) קיבול, קיבוליות"}
 {"L":"descapasi","C":["vnt"],"en":"incapacitate, disable, impair, vitiate, cripple","he":"להיפגם, להחליש"}
@@ -6987,7 +6988,7 @@
 {"L":"crujinte","C":["a"],"en":"creaking, creaky","he":"חורק"}
 {"T":"r","L":"crumpeta","C":["n"],"d":"un torteta engles, plana, spesa e mol, tipal tostada e burida","en":"crumpet (cake)","he":"קראמפט (לחמניה)"}
 {"T":"r","L":"crup","C":["n","med"],"d":"un inflama de la larinje e tracea en enfantes, asosiada con infeta e causante respira difisil","en":"croup (medical)","he":"אסכרה, דלקת דרכי הנשימה"}
-{"T":"r","L":"crus","C":["n","util","rel"],"d":"un marca o ojeto formida par du linias reta cual comparti un punto comun; un palo vertical con bara traversante, usada en edas pasada per mata criminales e otras; un simbol de cristianisme","i":"#","en":"cross; crucifix","he":"צלב"}
+{"T":"r","L":"crus","C":["n","util","rel"],"d":"un marca o ojeto formida par du linias reta cual comparti un punto comun; un palo vertical con bara traversante, usada en edas pasada per mata criminales e otras; un simbol de cristianisme; la area entre la colo e la spalas de un cavalo o otra bestias, a cual la altia de la animal es mesurada","i":"#","en":"cross; crucifix; withers (horse)","he":"צלב"}
 {"L":"crus de vias","C":["n"],"en":"crossroads","he":"צומת, הצטלבות"}
 {"L":"Crus","C":["n","ast"],"d":"un constela fasil per vide en la sielo sude","en":"Crux (constellation)","he":"הצלב הדרומי (קבוצת כוכבים)"}
 {"L":"Crus Roja","C":["n"],"en":"Red Cross","he":"הצלב האדום"}
@@ -7203,22 +7204,22 @@
 {"L":"es desculpada","C":["v"],"en":"be exonerated, be acquitted, get off","he":"לצאת זכאי"}
 {"L":"nonculpable","C":["a"],"en":"blameless, innocent (of crime), not guilty","fr":"innocent, non coupable","he":"חף מפשע"}
 {"L":"nonculpablia","C":["n"],"en":"blamelessness, innocence","eo":"senkulpeco","he":"חפות"}
-{"T":"r","L":"cultiva","C":["vt","uma"],"d":"prepara e usa (un area de tera) per eleva plantas, tipal per come par umanas o animales","en":"cultivate, farm, grow (something); till, work (the soil)","fr":"cultiver"}
-{"L":"cultiva","C":["n"],"en":"crop, cultivation, agriculture, husbandry; culture (medical)","fr":"culture"}
-{"L":"cultiva de uvas","C":["n"],"en":"viticulture"}
-{"L":"cultiva luante","C":["vt"],"en":"sharecrop"}
-{"L":"alterna de cultiva","C":["n"],"en":"crop rotation","fr":"rotation culturale"}
-{"L":"cultivable","C":["a"],"en":"cultivatable, cultivable, arable, farmable, growable","fr":"cultivable"}
-{"L":"cultivada","C":["a"],"en":"cultivated, farmed","fr":"cultivé"}
-{"L":"cultivada a casa","C":["a"],"en":"homegrown"}
-{"L":"cultivador","C":["n"],"en":"cultivator, tiller, rototiller, rotavator","fr":"motoculteur"}
-{"L":"cultival","C":["a"],"en":"agricultural, agrarian","fr":"cultural"}
-{"L":"cultiveria","C":["n"],"en":"farm, farmstead, plantation","fr":"ferme, plantation"}
-{"L":"cultiveria grande","C":["n"],"en":"plantation, latifundium","fr":"hacienda"}
-{"L":"cultivor","C":["n"],"en":"farmer, grower, agriculturalist, cultivator (person)","fr":"cultivateur"}
-{"L":"cultivor luante","C":["n"],"en":"sharecropper"}
-{"L":"cultivorisme","C":["n"],"d":"un filosofia cual regarda cultiva como la funda ideal de valuas sosial","en":"agrarianism"}
-{"L":"noncultivada","C":["a"],"en":"uncultivated, fallow","fr":"inculte"}
+{"T":"r","L":"cultiva","C":["vt","uma"],"d":"prepara e usa (un area de tera) per eleva plantas, tipal per come par umanas o animales","en":"cultivate, farm, grow (something); till, work (the soil)","fr":"cultiver","he":"לעבד (קרקע); לגדל (צמחים)"}
+{"L":"cultiva","C":["n"],"en":"crop, cultivation, agriculture, husbandry; culture (medical)","fr":"culture","he":"עיבוד (קרקע); גידול (חקלאי), יבול"}
+{"L":"cultiva de uvas","C":["n"],"en":"viticulture","he":"גידול גפנים"}
+{"L":"cultiva luante","C":["vt"],"en":"sharecrop","he":"לעבד קרקע כאריס"}
+{"L":"alterna de cultiva","C":["n"],"en":"crop rotation","fr":"rotation culturale","he":"מחזור זרעים"}
+{"L":"cultivable","C":["a"],"en":"cultivatable, cultivable, arable, farmable, growable","fr":"cultivable","he":"(קרקע) ראוייה לעיבוד"}
+{"L":"cultivada","C":["a"],"en":"cultivated, farmed","fr":"cultivé","he":"(קרקע) מעובדת"}
+{"L":"cultivada a casa","C":["a"],"en":"homegrown","he":"מגודל בבית"}
+{"L":"cultivador","C":["n"],"en":"cultivator, tiller, rototiller, rotavator","fr":"motoculteur","he":"קלטרת, מקלטר"}
+{"L":"cultival","C":["a"],"en":"agricultural, agrarian","fr":"cultural","he":"חקלאי, אגררי"}
+{"L":"cultiveria","C":["n"],"en":"farm, farmstead, plantation","fr":"ferme, plantation","he":"חווה, משק, מטע"}
+{"L":"cultiveria grande","C":["n"],"en":"plantation, latifundium","fr":"hacienda","he":"נחלה חקלאית, לטיפונדיה"}
+{"L":"cultivor","C":["n"],"en":"farmer, grower, agriculturalist, cultivator (person)","fr":"cultivateur","he":"חוואי"}
+{"L":"cultivor luante","C":["n"],"en":"sharecropper","he":"אריס"}
+{"L":"cultivorisme","C":["n"],"d":"un filosofia cual regarda cultiva como la funda ideal de valuas sosial","en":"agrarianism","he":"(פילוסופיה) אגרריות"}
+{"L":"noncultivada","C":["a"],"en":"uncultivated, fallow","fr":"inculte","he":"(אדמת) בור"}
 {"T":"r","L":"culto","C":["n","rel"],"d":"un sistem de adora relijiosa, dirijeda a un person o cosa spesifada; un grupo relativa peti de persones con credes o rituos cual otra persones regarda como strana o mal; un amira tro grande o nonmeritada per un person o cosa spesifada","en":"cult","fr":"culte"}
 {"L":"culto de personalia","C":["n"],"en":"personality cult","fr":"culte de la personnalié"}
 {"L":"cultiste","C":["n"],"en":"cultist"}
@@ -15090,13 +15091,14 @@
 {"T":"r","L":"Makasar, Streta","C":["n","jeo"],"d":"un streta entre Borneo e Sulawesi","i":"Streta-Makasar","en":"Makassar Strait"}
 {"T":"r","L":"mal","C":["a","pren"],"d":"con cualia basa; con capasia minima; nonmoral; nonvalida; noncoreta","en":"bad, invalid, wrong","fr":"mauvais"}
 {"L":"mal","C":["av"],"en":"badly, wrongly","fr":"mal"}
+{"L":"mal","C":["n"],"en":"bad thing, evil thing, wicked thing"}
 {"L":"mal-","C":["pf"],"d":"ajuntada a un verbo per formi un verbo per un ata plu mal, tipal spesialida","u":"malodori; maldise","en":"mis-, bad-, ill- (added to verbs: a worse variant of the action, often a specialized sense)"}
 {"L":"fa mal","C":["v"],"en":"do wrong"}
 {"L":"mal fa","C":["n"],"en":"wrongdoing, bad deed"}
 {"L":"mali","C":["vnt"],"en":"turn bad, become corrupt; worsen, degenerate, deteriorate, spoil"}
 {"L":"mali","C":["vt"],"en":"make bad, corrupt; worsen, exacerbate, aggravate"}
 {"L":"mali","C":["n"],"en":"worsening, degeneration, deterioration, corruption, exacerbation"}
-{"L":"malia","C":["n"],"en":"evil"}
+{"L":"malia","C":["n"],"en":"evil, wickedness"}
 {"L":"malida","C":["a"],"en":"deteriorated, corrupt, degenerate, spoiled (food)"}
 {"L":"nonmalida","C":["a"],"en":"unspoiled, uncorrupted, unsullied"}
 {"L":"plu mal","C":["a"],"en":"worse","fr":"pire"}
@@ -22857,6 +22859,9 @@
 {"T":"r","L":"santa","C":["a","rel","mit"],"d":"dedicada a un dio o un intende relijiosa; (un person) dedicada a la servi de dio; (un testo) conteninte la leges o credes de un relijio; respetada par un seta o person de un relijio; moral e spirital eselente","da":"hellig, velsignet","de":"heilig","en":"holy, sacred, sacral","eo":"sankta","es":"sacro, sagrado, santo","fr":"sacré","it":"santo, sacro","nl":"heilig","pt":"santo, sagrado"}
 {"L":"santa","C":["n"],"en":"saint"}
 {"L":"santa padronal","C":["n"],"en":"patron saint"}
+{"L":"desanti","C":["vnt"],"en":"become desecrated, become defiled, become profane"}
+{"L":"desanti","C":["vt"],"en":"desecrate, defile, profane"}
+{"L":"desanti","C":["n"],"en":"desecration, sacrilege"}
 {"L":"nonsanta","C":["a"],"en":"unholy, profane"}
 {"L":"santeria","C":["n"],"en":"shrine, holy place"}
 {"L":"santi","C":["vnt"],"en":"consecrate, sanctify, hallow; canonize"}
@@ -23223,7 +23228,7 @@
 {"L":"susecretor","C":["n"],"en":"undersecretary"}
 {"T":"r","L":"secrete","C":["vt","bio"],"d":"(un selula, glande o organo) produi e emete (un materia)","en":"secrete","fr":"secréter"}
 {"L":"secrete","C":["n"],"en":"secretion","fr":"sécrétion"}
-{"T":"r","L":"secular","C":["a","rel","gov"],"d":"pertinente a ativias, disposas o otra cosas cual no ave un funda relijial o spirital","en":"secular","fr":"séculier"}
+{"T":"r","L":"secular","C":["a","rel","gov"],"d":"pertinente a ativias, disposas o otra cosas cual no ave un funda relijial o spirital","en":"secular, profane","fr":"séculier"}
 {"L":"seculari","C":["vnt"],"en":"secularize|is"}
 {"L":"seculari","C":["vt"],"en":"secularize|is"}
 {"L":"seculari","C":["n"],"en":"secularization|is"}
