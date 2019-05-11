@@ -6543,7 +6543,7 @@
 {"L":"cortia","C":["n"],"en":"brevity","he":"קיצור, תמציתיות"}
 {"L":"cortor","C":["n"],"en":"cutter, mower (person)","he":"(אדם) חותך, קוצץ, גוזם, מכסח"}
 {"L":"pos corta","C":["av"],"en":"soon, shortly","he":"בקרוב, במהרה, עוד מעט, לאחר זמן קצר"}
-{"T":"r","L":"corte","C":["n","gov"],"d":"un asembla governada par un o plu judores per gida prosedes de lege; la construida o salon per esta; un renor e sua consiliores e otra persones; la abiteria de un renor","en":"court (law, royal); courthouse, courtroom","he":"בית משפט, בית דין; חצר (המלך)"}
+{"T":"r","L":"corte","C":["n","gov"],"d":"un asembla governada par un o plu judores per gida litigas; la construida o salon per esta; un renor e sua consiliores e otra persones; la abiteria de un renor","en":"court (law, royal); courthouse, courtroom","he":"בית משפט, בית דין; חצר (המלך)"}
 {"L":"corte de apela","C":["n"],"en":"court of appeal, appellate court","he":"בית משפט לערעורים"}
 {"L":"corte militar","C":["n"],"en":"court martial, military court","he":"בית משפט צבאי"}
 {"L":"corte suprema","C":["n"],"en":"supreme court","he":"בית משפט עליון"}
@@ -7239,29 +7239,29 @@
 {"T":"r","L":"cumbia","C":["n","mus"],"d":"un tipo de musica e dansa, orijinante en Colombia, simil a salsa","en":"cumbia (dance, music)","he":"קומביה (ריקוד, מוזיקה)"}
 {"T":"r","L":"cumcuat","C":["n","pla","cos"],"d":"un arbor de Asia; la fruta sitrica de esta, con casca dulse e comable, e pulpa asida","i":"#","t":"Fortunella","en":"kumquat","he":"קומקוואט, תפוז סיני"}
 {"T":"r","L":"cumin","C":["n","pla","cos"],"d":"un planta peti e magra de Asia sentral e la Mediteraneo; la semes bonodorosa de esta, usada como un spise, tipal moleda e usada en cari","i":"#","t":"Cuminum cyminum","en":"cumin (plant, seed)","fr":"cumin","he":"כמון"}
-{"T":"r","L":"cumula","C":["vnt"],"d":"(cosas) deveni colieda en cuantia cresente","en":"accumulate, hoard, accrue","fr":"accumuler"}
-{"L":"cumula","C":["n"],"en":"accumulation, accrual, backlog, build-up, pile-up","fr":"accumulation"}
-{"L":"cumula de neva","C":["n"],"en":"snowpack"}
-{"L":"cumulador","C":["n"],"en":"accumulator (software, cryptography, energy)"}
-{"L":"cumulante","C":["a"],"en":"cumulative","fr":"cumulatif"}
-{"L":"cumulor","C":["n"],"en":"hoarder"}
-{"T":"r","L":"cumulo","C":["a"],"d":"(nubes) forminte masas ronda, pilada sur lunlotra sur un funda plana","en":"cumulus (cloud)"}
-{"L":"cumulo","C":["n"],"en":"cumulus","fr":"cumulus (cloud)"}
-{"L":"cumulin","C":["a"],"en":"cumulous (like cumulus clouds)"}
-{"L":"cumulosa","C":["a"],"en":"cumulous (containing cumulus clouds)"}
-{"T":"r","L":"cumulonimbo","C":["a"],"d":"(nubes) forminte un masa densa e multe alta con funda plana, tipal en tempestas lamposa","en":"cumulonimbus (cloud)"}
-{"L":"cumulonimbo","C":["n"],"en":"cumulonimbus (cloud)"}
-{"T":"r","L":"cuna","C":["n","arci"],"d":"un leto peti per un bebe, tipal osilante","i":"#","en":"cradle","fr":"berceau"}
-{"L":"cuna texeda","C":["n"],"en":"cat's cradle"}
-{"T":"r","L":"cuneforma","C":["a","ling"],"d":"pertinente a la sinias formida como cuneos, usada en la sistemes antica de scrive de Mesopotamia, Persia e la site Ugart, cual survive xef como impresas sur tabletas de arjila","i":"#","en":"cuneiform","fr":"cunéiforme"}
-{"L":"cuneforma","C":["n"],"en":"cuneiform"}
-{"T":"r","L":"cuneo","C":["n","util"],"d":"un peso de lenio, metal o otra materia con un fini spesa cual diminui a un borda magra, tipal martelida entre du ojetos per fisa o separa los","en":"wedge, chock, shim; wedge (golf club)","fr":"coin (pour fendre le bois)"}
-{"T":"r","L":"cungfu","C":["n","spo"],"d":"un arte militar de Jonguo, simil a carate","en":"kung fu"}
-{"T":"r","L":"cunilingo","C":["n","uma"],"d":"la ata de stimula la jenitales de un fem con lingua o labios","en":"cunnilingus"}
-{"L":"fa cunilingo","C":["v"],"en":"perform cunnilingus"}
-{"T":"r","L":"cuno","C":["n","anat"],"d":"(nonformal) la vulva o vajina","en":"(colloquial) pussy, fanny (UK), cunt (vagina)","eo":"piĉo","fr":"con, chatte"}
-{"L":"leca la cuno","C":["v"],"en":"(colloquial) eat out, go down on (cunnilingus)","eo":"frandzi"}
-{"T":"r","L":"cuol","C":["n","mam"],"d":"un marsupio carnivor ci sembla un gato, con gamas corta e pelo con marcas blanca, abitante la forestas de Australia e Gine Nova","i":"#","t":"Dasyurus","en":"quoll (animal)","fr":"dasyure, chat marsupial"}
+{"T":"r","L":"cumula","C":["vnt"],"d":"(cosas) deveni colieda en cuantia cresente","en":"accumulate, hoard, accrue","fr":"accumuler","he":"להצטבר, להיאסף, להיערם"}
+{"L":"cumula","C":["n"],"en":"accumulation, accrual, backlog, build-up, pile-up","fr":"accumulation","he":"צבירה, איסוף, אגירה; הצטברות, מצבור, ערימה, מערום"}
+{"L":"cumula de neva","C":["n"],"en":"snowpack","he":"שלג עמוק"}
+{"L":"cumulador","C":["n"],"en":"accumulator (software, cryptography, energy)","he":"(מחשבים) צובר, אוגר"}
+{"L":"cumulante","C":["a"],"en":"cumulative","fr":"cumulatif","he":"מצטבר"}
+{"L":"cumulor","C":["n"],"en":"hoarder","he":"אגרן, אספן כפייתי"}
+{"T":"r","L":"cumulo","C":["a"],"d":"(nubes) forminte masas ronda, pilada sur lunlotra sur un funda plana","en":"cumulus (cloud)","he":"קומולוס, עב (ענן)"}
+{"L":"cumulo","C":["n"],"en":"cumulus","fr":"cumulus (cloud)","he":"קומולוס, עב (ענן)"}
+{"L":"cumulin","C":["a"],"en":"cumulous (like cumulus clouds)","he":"בצורת ענן קומולוס"}
+{"L":"cumulosa","C":["a"],"en":"cumulous (containing cumulus clouds)","he":"(שמיים) מלא ענני קומולוס"}
+{"T":"r","L":"cumulonimbo","C":["a"],"d":"(nubes) forminte un masa densa e multe alta con funda plana, tipal en tempestas lamposa","en":"cumulonimbus (cloud)","he":"קומולונימבוס, עב חשרה (ענן)"}
+{"L":"cumulonimbo","C":["n"],"en":"cumulonimbus (cloud)","he":"קומולונימבוס, עב חשרה (ענן)"}
+{"T":"r","L":"cuna","C":["n","arci"],"d":"un leto peti per un bebe, tipal osilante","i":"#","en":"cradle","fr":"berceau","he":"עריסה"}
+{"L":"cuna texeda","C":["n"],"en":"cat's cradle","he":"סבתא סורגת (משחק)"}
+{"T":"r","L":"cuneforma","C":["a","ling"],"d":"pertinente a la sinias formida como cuneos, usada en la sistemes antica de scrive de Mesopotamia, Persia e la site Ugart, cual survive xef como impresas sur tabletas de arjila","i":"#","en":"cuneiform","fr":"cunéiforme","he":"שקשור לכתב יתדות"}
+{"L":"cuneforma","C":["n"],"en":"cuneiform","he":"כתב יתדות"}
+{"T":"r","L":"cuneo","C":["n","util"],"d":"un peso de lenio, metal o otra materia con un fini spesa cual diminui a un borda magra, tipal martelida entre du ojetos per fisa o separa los","en":"wedge, chock, shim; wedge (golf club)","fr":"coin (pour fendre le bois)","he":"טריז"}
+{"T":"r","L":"cungfu","C":["n","spo"],"d":"un arte militar de Jonguo, simil a carate","en":"kung fu","he":"קונג פו"}
+{"T":"r","L":"cunilingo","C":["n","uma"],"d":"la ata de stimula la jenitales de un fem con lingua o labios","en":"cunnilingus","he":"מין אוראלי באישה"}
+{"L":"fa cunilingo","C":["v"],"en":"perform cunnilingus","he":"לבצע מין אוראלי באישה"}
+{"T":"r","L":"cuno","C":["n","anat"],"d":"(nonformal) la vulva o vajina","en":"(colloquial) pussy, fanny (UK), cunt (vagina)","eo":"piĉo","fr":"con, chatte","he":"(סלנג) כוס (פות)"}
+{"L":"leca la cuno","C":["v"],"en":"(colloquial) eat out, go down on (cunnilingus)","eo":"frandzi","he":"(סלנג) לרדת לבחורה"}
+{"T":"r","L":"cuol","C":["n","mam"],"d":"un marsupio carnivor ci sembla un gato, con gamas corta e pelo con marcas blanca, abitante la forestas de Australia e Gine Nova","i":"#","t":"Dasyurus","en":"quoll (animal)","fr":"dasyure, chat marsupial","he":"נמיית כיס"}
 {"T":"r","L":"cuoro","C":["n","util"],"d":"un materia fabricada de la pel de un animal par tana o simil","en":"leather","fr":"cuir"}
 {"L":"cuoro suave","C":["n"],"en":"suede","fr":"daim, cuir suédé"}
 {"L":"cuoro vernisida","C":["n"],"en":"patent leather","fr":"cuir vernis"}
@@ -12852,6 +12852,7 @@
 {"L":"induinte","C":["a"],"en":"inductive, inaugural","fr":"inductif"}
 {"T":"r","L":"industani","C":["a","ling"],"d":"un grupo de dialetos parlada en Barat norde-ueste e Pacistan, en familia de linguas indoeuropean","en":"Hindustani"}
 {"T":"r","L":"industria","C":["n","mone","gov"],"d":"ativia economial cual trata la prosede de materias cru e la fabrica de benes en fabricerias","en":"industry"}
+{"L":"industria casetal","C":["n"],"en":"cottage industry, domestic system"}
 {"L":"industri","C":["vt"],"en":"industrialize|is"}
 {"L":"industri","C":["n"],"en":"industrialization|is"}
 {"L":"industrial","C":["a"],"en":"industrial"}
@@ -15759,7 +15760,7 @@
 {"L":"premenstrual","C":["a"],"en":"premenstrual"}
 {"T":"r","L":"mensula","C":["n","arci"],"d":"un strutur cual protende de un mur per suporta un strutur a supra","i":"#","en":"corbel (architecture)"}
 {"T":"r","L":"menta","C":["n","pla","cos"],"d":"un planta bonodorosa, tipal usada como un spise","i":"#","t":"Mentha","en":"mint (plant)"}
-{"L":"menta fresca","C":["n"],"d":"un menta usada en cosina e como un saborinte per confetos","t":"Mentha spicata","en":"spearmint"}
+{"L":"menta fresca","C":["n"],"d":"un menta usada en cosini e como un saborinte per confetos","t":"Mentha spicata","en":"spearmint"}
 {"L":"menta peperin","C":["n"],"en":"peppermint"}
 {"L":"mentin","C":["a"],"en":"minty"}
 {"T":"r","L":"mentalisme","C":["n","fil"],"d":"la teoria ce fenomenos fisical e psicolojial es ultima esplicable sola como efetos de un mente creosa e interpretente; la arte de presenta capasias parente psicica per diverti","en":"mentalism (philosophy, psychic)"}
