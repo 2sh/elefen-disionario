@@ -1860,9 +1860,10 @@
 {"T":"r","L":"asclepia","C":["n","pla"],"d":"un planta american con sava letin","i":"#","o":"de Asclepius, dio de sani de Elas antica","t":"Asclepias","en":"milkweed (plant)","he":"אסקלפיאס (צמח)"}
 {"T":"r","L":"asconde","C":["vnt"],"d":"(un person) preveni ce otras vide o trova el","en":"hide, be in hiding, lurk, skulk","he":"להתחבא, להסתתר"}
 {"L":"asconde","C":["vt"],"d":"preveni ce otras vide o trova (un person, cosa o secreta)","en":"hide, conceal, efface, tuck away, cover up, screen, stash, shield from view","he":"להחביא, להסתיר, להצניע, להסוות"}
-{"L":"asconde","C":["n"],"en":"hiding, cover-up","he":"התחבאות, הסתרה; העלמה, טיוח"}
+{"L":"asconde","C":["n"],"en":"hiding, cover-up; latency","he":"התחבאות, הסתתרות; החבאה, הסתרה, הצנעה; טיוח; חביון"}
 {"L":"ascondeda","C":["a"],"en":"hidden, concealed, latent, tucked away; lurking, stealthy","he":"מוחבא, מוסתר, מוצנע, מוסווה"}
 {"L":"ascondeda","C":["av"],"en":"stealthily, by stealth","he":"בחשאי, בהחבא"}
+{"L":"ascondedia","C":["n"],"en":"hiddenness, latency"}
 {"L":"asconderia","C":["n"],"en":"hideout, hiding place","he":"מחבוא, מסתור"}
 {"L":"sin asconde","C":["av"],"en":"above board, openly","he":"גלויות, במישרין, בהגינות"}
 {"T":"r","L":"ase","C":["n","util","mat"],"d":"un palo pasante tra la sentro de un rota o grupo de rotas; un palo magra cual formi un parte de un flexa, un arbor de maniveles, un capel, etc; un linia imajinal sirca cual un corpo jira","en":"axle, shaft; axis","he":"ציר, סרן"}
@@ -4438,6 +4439,7 @@
 {"L":"caprisal","C":["a"],"en":"arbitrary","he":"שרירותי"}
 {"L":"caprisia","C":["n"],"en":"capriciousness, whimsy","he":"קפריזיות, גחמנות"}
 {"L":"caprisosa","C":["a"],"en":"capricious, whimsical","he":"קפריזי, גחמני"}
+{"T":"r","L":"capside","C":["n","bio"],"d":"un casca de protenas ensircante un virus","en":"capsid"}
 {"T":"r","L":"capsula","C":["n","util","bio"],"d":"un contenador peti, tipal ronda o silindre; un contenador multe peti de jelatin, conteninte un cuantia de medisin; la membrana o gaina dur cual enclui alga cosa en la corpo, como la ren; la strato jelatin cual formi la surfas esterna de alga selulas baterial; un fruta seca cual rompe per relasa sua semes cuando matur; la strutur cual produi sporas en moses e epaticas","en":"capsule","he":"כמוסה, קפסולה; (בוטניקה) תרמיל, הלקט, נרתיק; (אנטומיה) מעטפת"}
 {"L":"capsula de percute","C":["n"],"en":"percussion cap","he":"(נשק) מנעל כוסית הנקישה"}
 {"L":"capsula de tempo","C":["n"],"en":"time capsule","he":"כמוסת זמן"}
@@ -11891,6 +11893,7 @@
 {"T":"r","L":"glande","C":["n","anat"],"d":"un organo cual secrete cimicales spesial per usa en la corpo o per descarga a estra; la fini ronda de un penis o clitoris","en":"gland; glans"}
 {"L":"glande salival","C":["n"],"en":"salivary gland"}
 {"L":"glande suprarenal","C":["n"],"en":"adrenal gland"}
+{"L":"glandal","C":["a"],"en":"glandular"}
 {"T":"r","L":"glareola","C":["n","avia"],"d":"un avia insetivor con alas longa e coda forcin, relatada a la pluviales","i":"#","t":"Glareola, Stiltia","en":"pratincole (bird)"}
 {"T":"r","L":"glasa","C":["vt"],"d":"covre (comedas o stofa) con un strato lisa e briliante","en":"glaze, ice, frost"}
 {"L":"glasa","C":["n"],"en":"glaze, icing, frosting"}
@@ -14696,7 +14699,8 @@
 {"L":"nonliscosa","C":["a"],"en":"non-slip"}
 {"T":"r","L":"liscasapato","C":["n","vn","util"],"i":"#","en":"shoehorn"}
 {"T":"r","L":"liscor","C":["n","mam"],"d":"un marsupio peti australasian, con pel entre sua gamas anterior e posterior cual el usa per vola de arbor a arbor","i":"#","t":"Petaurus","en":"flying possum, flying phalanger, glider (marsupial)"}
-{"T":"r","L":"-lise","C":["sf","n","cim","med"],"d":"descomposa o desintegra","en":"-lysis (decomposition)"}
+{"T":"r","L":"lise","C":["n","cim","med"],"d":"descomposa o desintegra","en":"lysis"}
+{"L":"-lise","C":["sf","n","cim","med"],"d":"descomposa o desintegra","en":"-lysis (decomposition)"}
 {"L":"-lisica","C":["sf","a","med"],"d":"desintegra de un selula","en":"-lytic"}
 {"T":"r","L":"lisensa","C":["vt","gov"],"d":"dona un permete formal o ofisial a (algun) per posese, usa o fa alga cosa","en":"license"}
 {"L":"lisensa","C":["n"],"en":"license|ce, permit"}
@@ -14861,6 +14865,7 @@
 {"L":"longi","C":["n"],"en":"elongation, prolongation"}
 {"L":"longia","C":["n"],"en":"length, duration"}
 {"L":"longia de onda","C":["n"],"en":"wavelength"}
+{"L":"longida","C":["a"],"en":"elongated, prolate"}
 {"L":"par longia","C":["n"],"en":"lengthwise, lengthways"}
 {"L":"Isola Longa","C":["n","jeo"],"d":"un isola a la costa de York Nova, conteninte un parte de la Site York Nova","i":"#","en":"Long Island"}
 {"T":"r","L":"longo","C":["prep"],"d":"movente o estendente en un dirije constante sur o paralel a","g":"Preposadas#Longo","u":"la folias flota longo la rio; un arania rampe longo mea gama","en":"along, up, down (following or in parallel with)","eo":"laŭ, laŭlonge de"}
@@ -19987,6 +19992,7 @@
 {"T":"r","L":"-plasma","C":["sf","n","med"],"d":"masa, crese","en":"-plasm (growth)"}
 {"L":"-plasmica","C":["sf","a","med"],"en":"-plasmic"}
 {"T":"r","L":"plasmasite","C":["n","bio"],"d":"un selula blanca de sangue cual secrete cuantias grande de anticorpos","en":"plasmacyte (biology)"}
+{"T":"r","L":"plasmide","C":["n","bio"],"d":"un molecula peti de adn, separada de la adn cromosomal, capas de reprodui autonom, e comun en baterias","en":"plasmid"}
 {"T":"r","L":"plasmodio","C":["n","med"],"d":"un protozon parasital de un jenero cual inclui los cual causa malaria","i":"#","en":"plasmodium (organism)"}
 {"T":"r","L":"-plastia","C":["sf","n","med"],"d":"sirurjia reconstruinte","en":"-plasty (surgery)"}
 {"L":"-plastica","C":["sf","a","med"],"en":"-plastic (surgical)"}
@@ -20005,6 +20011,7 @@
 {"L":"plata per biscotos","C":["n"],"en":"cookie sheet"}
 {"L":"plati","C":["vnt"],"en":"flatten"}
 {"L":"plati","C":["vt"],"en":"flatten"}
+{"L":"platida","C":["a"],"en":"flattened, oblate"}
 {"L":"platin","C":["a"],"en":"flattish"}
 {"T":"r","L":"plataforma","C":["n","arci"],"d":"un surfas levada sur cual persones o cosas pote sta; un solo levada usada par parlores, atores, etc afin los pote es videda par sua regardores; un strutur levada longo la lado de un ferovia do pasajores pote entra a e sorti de trenes; un strutur levada supra la mar de cual on pote oteni fontes de olio o gas","ca":"andana","de":"Bahnsteig","en":"platform, podium, rostrum, dais, catwalk","eo":"platformo, kajo","es":"andén","fr":"quai","ja":"プラットフォーム","pt":"plataforma","ru":"платформа"}
 {"L":"plataforma de petrolio","C":["n"],"en":"oil platform, oil rig"}
@@ -20405,7 +20412,7 @@
 {"L":"portada","C":["a"],"en":"carried; worn"}
 {"L":"portada par aira","C":["a"],"en":"airborne"}
 {"L":"portador","C":["n"],"en":"stand, holder, support"}
-{"L":"portor","C":["n"],"ca":"porter","de":"Pförtner","en":"porter, bellboy, bellhop; caddie (golf); pallbearer","eo":"portisto","es":"mozo","fr":"porteur","ja":"運び屋さん","pt":"portador","ru":"носильщик"}
+{"L":"portor","C":["n"],"ca":"porter","de":"Pförtner","en":"porter, bellboy, bellhop; caddie (golf); pallbearer; carrier, vector (disease)","eo":"portisto","es":"mozo","fr":"porteur","ja":"運び屋さん","pt":"portador","ru":"носильщик"}
 {"T":"r","L":"portabagaje","C":["n","vn"],"d":"un spasio encluida a retro de un auto per porta bagaje o otra ojetos","i":"#","en":"boot, trunk (of vehicle)"}
 {"T":"r","L":"portabal","C":["n","vn"],"d":"un cavil peti con testa concava, poneda en la tera per suporta un bal de golf cual on va colpa","en":"tee (golf)"}
 {"T":"r","L":"portabebe","C":["n","vn"],"d":"un spesie de saco usada sur peto o dorso per porta bebes","i":"#","en":"baby sling, babycarrier"}
@@ -24134,7 +24141,8 @@
 {"L":"sindrom de angusa pos trauma","C":["n"],"en":"post-traumatic stress disorder"}
 {"L":"sindrom de Down","C":["n"],"en":"Down syndrome, Down's syndrome"}
 {"L":"sindrom de imunodebilia otenida","C":["n"],"d":"un maladia, causada par un virus en licuidas de corpo, cual redui grave la imunia selulal","en":"acquired immune deficiency syndrome, AIDS","eo":"aidoso","fr":"SIDA","he":"איידס"}
-{"L":"sindrom de osese e compulsa","C":["n"],"en":"obsessive-compulsive disorder"}
+{"L":"sindrom de osese e compulsa","C":["n"],"en":"OCD, obsessive-compulsive disorder"}
+{"L":"sindrom respiral acuta sever","C":["n"],"en":"SARS, severe acuta respiratory sindrome"}
 {"T":"r","L":"sinema","C":["n","arte","arci"],"d":"un teatro cual mostra filmas","i":"#","en":"cinema, movie theater|re"}
 {"L":"sinema de casa","C":["n"],"en":"home theater|re, home cinema"}
 {"L":"fan de sinema","C":["n"],"en":"moviegoer, film fan, cinema fan"}
@@ -24919,6 +24927,7 @@
 {"T":"r","L":"sputnic","C":["n","ist"],"d":"la satelite artifis prima, lansada par la URSS en 1957","i":"#","en":"sputnik"}
 {"T":"r","L":"Sr","C":["c"],"d":"Senior","da":"Hr.","de":"Herr","en":"Mr","eo":"S-ro","es":"Señor, Sr.","fr":"M.","it":"Sig.","nl":"meneer","pt":"Senhor"}
 {"T":"r","L":"Sra","C":["c"],"d":"Seniora","da":"Fr.","de":"Frau, Fraülein","en":"Mrs, Miss, Ms","eo":"S-ino","es":"Sra., Srta.","fr":"Mme., Mlle.","it":"Sig.ra, Sig.na","nl":"mevrouw, juffrouw","pt":"Senhora, senhorita"}
+{"T":"r","L":"sras","C":["n","c"],"d":"sindrom respiral acuta sever","en":"SARS, severe acute respiratory sindrome"}
 {"T":"r","L":"sri","C":["n"],"d":"(en parla cortes o formal) un person","en":"gentleman or lady; sir or ma'am (gender-neutral form of address)"}
 {"L":"Sri","C":["n"],"en":"Mr, Ms, Mrs, Miss, Mx"}
 {"L":"sris","C":["n","pl"],"en":"ladies and gentlemen"}
@@ -28183,6 +28192,7 @@
 {"T":"r","L":"virgula","C":["n","ling","mat"],"d":"un marca de puntua cual indica un pausa entre partes de un frase, separa cosas en un lista, o indica la comensa de la parte fratal de un cuantia scriveda con dijitos","en":"comma"}
 {"L":"de virgula flotante","C":["n"],"en":"floating-point (number)"}
 {"L":"virgula desimal","C":["n"],"en":"decimal point"}
+{"T":"r","L":"virion","C":["n","bio","med"],"d":"un virus cuando estra un selula ospitante","en":"virion"}
 {"T":"r","L":"virjin","C":["a","uma"],"d":"(un person) ci no ia copula e ia fa no otra relatas sesal; (metafor) naive, sin esperia","en":"virginal, sexually innocent, chaste"}
 {"L":"virjin","C":["n"],"en":"virgin, maiden"}
 {"L":"Virjin","C":["n","ast"],"s":"♍","en":"Virgo (constellation)"}
@@ -28792,6 +28802,7 @@
 {"L":"zoroastrisme","C":["n"],"d":"un relijio monoteiste de Persia antica","en":"Zoroastrianism, Mazdaism (religion)","eo":"zoroastrismo, zaratuŝtrismo, mazdaism","fr":"zoroastrisme"}
 {"L":"zoroastriste","C":["a"],"d":"pertinente a zoroastrisme","en":"Zoroastrian","eo":"zoroastrisma"}
 {"L":"zoroastriste","C":["n"],"d":"un credor de zoroastrisme","en":"Zoroastrian","eo":"zoroastristo","fr":"zoroastrien"}
+{"T":"r","L":"zoster","C":["n","med"],"d":"un inflama acuta e dolente de la nervos","en":"shingles, herpes zoster, zoster"}
 {"T":"r","L":"zuca","C":["n","pla","cos"],"d":"cualce de un grupo de plantas cual produi frutas grande e pulposa con casca dur; un de esta frutas, de cual sua pulpa es tipal coceda e comeda como un vejetal","i":"#","t":"Lagenaria, Cucurbita","da":"græskar","de":"Kalebasse","en":"pumpkin, squash, gourd, marrow, calabash","eo":"kukurbo","es":"calabaza","fr":"courge, calebasse","it":"zucca","nl":"kalebas","pt":"cabaça"}
 {"L":"zuceta","C":["n"],"d":"un spesie de zuca comeda cuando lo es ancora peti","i":"#","t":"Cucurbita pepo","en":"courgette, zucchini","eo":"kukurbeto","fr":"courgette"}
 {"T":"r","L":"zucar","C":["n","cim","cos"],"d":"un carboidrato cristal e disolvable, como glucosa o sucrosa, usada per dulsi comedas e bevidas","i":"#","ca":"sucre","da":"sukker","de":"Zucker","en":"sugar","eo":"sukero","es":"azúcar","fr":"sucre","it":"zucchero","ja":"砂糖","nl":"suiker","pt":"açúcar","ru":"сахар"}
