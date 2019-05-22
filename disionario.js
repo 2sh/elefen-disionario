@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '20 maio 2019';
+﻿var dataDeDatos = '21 maio 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -11319,7 +11319,7 @@ var disionario = [
 {T:"r",L:"frambosa",C:["n","pla","cos"],d:"un planta en familia de mora e rubo; la fruta mol e comable de esta, composada de un grupo de bacas peti e rojin ros",i:"#",t:"Rubus",en:"raspberry"},
 {T:"r",L:"franc",C:["n","mone"],d:"la unia de mone en Suiz, Lictenstain e multe paises african, e istorial en Frans",en:"franc (currency)"},
 {T:"r",L:"franca",C:["a"],d:"onesta e direta en parla o scrive; sinsera e no desemblante en condui o apare",en:"frank, direct, candid, outspoken, plainspoken, outright, explicit, vocal; straightforward"},
-{L:"francia",C:["n"],en:"frankness, directness"},
+{L:"francia",C:["n"],en:"frankness, directness, straightforwardness"},
 {T:"r",L:"francamason",C:["n","gov"],d:"un membro de un ordina internasional instituida per amia e aida mutua, cual inclui rituos secreta",en:"freemason, mason"},
 {L:"francamasonisme",C:["n"],en:"freemasonry, masonry"},
 {T:"r",L:"francisia",C:["n","mone"],d:"un autoria donada par un governa o compania a un person o grupo per partisipa en un comersia spesifada",en:"franchise (commercial)"},
@@ -12945,7 +12945,7 @@ var disionario = [
 {L:"influe",C:["n"],en:"influence"},
 {L:"influable",C:["a"],en:"amenable, suggestible"},
 {L:"influablia",C:["n"],en:"suggestibility"},
-{L:"influente",C:["a"],en:"influential, seminal"},
+{L:"influente",C:["a"],en:"influential, seminal, instrumental"},
 {T:"r",L:"infografia",C:["n","info"],d:"imajes produida par computadores; la arte e siensa de produi estas",en:"computer graphics, CGI"},
 {T:"r",L:"informa",C:["vt","info"],d:"dona a (algun) fatos o descrives importante o nesesada",en:"inform, tell, apprise, acquaint"},
 {L:"informa",C:["n"],en:"information, info, lowdown, tattle; intelligence (gathered), intel"},
@@ -18984,7 +18984,7 @@ var disionario = [
 {L:"parteninte",C:["a"],en:"belonging, affiliated"},
 {L:"parteninte",C:["n"],en:"appurtenance"},
 {T:"r",L:"partenojenese",C:["n","bio"],d:"reprodui de un ovo sin fertili, tipal como un prosede normal en alga nonvertebratos e plantas simple",en:"parthenogenesis (biology)"},
-{T:"r",L:"parti",C:["vnt"],d:"vade a via (de un loca, grupo, person, etc)",u:"la tren va parti de la stasion",en:"depart, leave, go"},
+{T:"r",L:"parti",C:["vnt"],d:"vade a via (de un loca, grupo, person, etc)",u:"la tren va parti de la stasion",en:"depart, leave, go; pass away (die)"},
 {L:"parti",C:["n"],en:"departure, parting; exodus"},
 {L:"partinte",C:["a"],en:"departing, outbound"},
 {L:"partinte de",C:["prep"],en:"starting from, leaving from"},
