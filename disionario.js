@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '21 maio 2019';
+﻿var dataDeDatos = '23 maio 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -17179,7 +17179,9 @@ var disionario = [
 {L:"neurosirurjial",C:["a"],en:"neurosurgical"},
 {L:"neurosirurjiste",C:["n"],en:"neurosurgeon"},
 {T:"r",L:"neurotoxina",C:["n","cim","bio"],d:"un toxina cual afeta la sistem de nervos",en:"neurotoxin"},
-{T:"r",L:"neurotransmetador",C:["n","bio"],d:"un cimical cual es relasada a la fini de un neuron e vade ultra la sinapse per stimula la selula seguente",en:"neurotransmitter"},
+{T:"r",L:"neurotransmete",C:["vt","bio"],d:"envia (un impulsa) tra un sinapse entre neurones",en:"neurotransmit"},
+{L:"neurotransmete",C:["n"],en:"neurotransmission"},
+{L:"neurotransmetador",C:["n"],d:"un cimical cual es relasada a la fini de un neuron e vade ultra la sinapse per stimula la selula seguente",en:"neurotransmitter"},
 {T:"r",L:"neuton",C:["n","fis"],d:"un unia internasional de fortia, egal a {100 000} dines, la fortia capas de aselera un masa de un cilogram par un metre per secondo per secondo",en:"newton (unit of force)",fr:"newton"},
 {T:"r",L:"neutra",C:["a","gov","bio"],d:"no aidante o suportante la un lado o la otra en un desacorda, disputa, gera, etc; (un color) blanda; (un cimical) no asida e no alcalin; (un animal) sin organos sesal developada, o pos la estrae de estas; (un nom en alga linguas) sin jenero gramatical",en:"neutral; neuter",fr:"neutre"},
 {L:"neutri",C:["vnt"],en:"neutralize|is, neuter, spay",fr:"neutraliser"},
