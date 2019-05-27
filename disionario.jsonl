@@ -1077,9 +1077,8 @@
 {"T":"r","L":"amper","C":["n","fis"],"d":"un unia de corente eletrical, egal a un flue de un culom per secondo","o":"de siensiste André-Marie Ampère","en":"ampere, amp","he":"אמפר"}
 {"L":"cuantia de amperes","C":["n"],"en":"ampage, amperage","he":"אמפראז', עוצמת הזרם החשמלי"}
 {"T":"r","L":"amperimetre","C":["n"],"d":"un strumento per mesura corente eletrical","en":"ammeter","he":"מד-זרם"}
-{"T":"r","L":"ampola","C":["n"],"d":"un capsula selida de vitro conteninte un licuida, tipal per injeta; un bulbo de lus","i":"#","en":"ampoule; lightbulb","he":"אמפולה"}
-{"T":"r","L":"ampula","C":["n","anat","med"],"d":"un botela cuasi sfera con du manicos, usada en Roma antica; un botela per usas santa; un caveta, o la fini dilatada de un duto, con forma simil","en":"ampulla"}
-{"T":"r","L":"amputa","C":["vt","med"],"d":"corti o sutrae (un parte de corpo), tipal par sirurjia","u":"amputa la gama de algun","en":"amputate","he":"לקטוע, לכרות איבר"}
+{"T":"r","L":"ampola","C":["n","anat","med"],"d":"un capsula selida de vitro conteninte un licuida, tipal per injeta; un bulbo de lus; un botela cuasi sfera con du manicos, usada en Roma antica; un botela per usas santa; un caveta, o la fini dilatada de un duto, con forma simil","i":"#","en":"ampoule; lightbulb; ampulla","he":"אמפולה, בקבוקית; (נצרות) קנקן"}
+{"T":"r","L":"amputa","C":["vt","med"],"d":"corti o sutrae (un parte de corpo), tipal par sirurjia","u":"amputa la gama de algun","en":"amputate","he":"לקטוע, לכרות (איבר)"}
 {"L":"amputa","C":["n"],"en":"amputation","he":"קטיעה, כריתה"}
 {"L":"amputada","C":["a"],"en":"amputated","he":"קטוע, כרות"}
 {"L":"amputada","C":["n"],"en":"amputated limb; amputee","he":"איבר כרות; קטוע איברים"}
@@ -1161,7 +1160,7 @@
 {"T":"r","L":"ancilose","C":["n","med"],"d":"un rijidia nonormal de un junta, causada par un fusa de osos","o":"de elinica ankulos (curvada)","en":"ankylosis (medical)","he":"קושי בתנועה של מפרק עקב איחוי עצמות"}
 {"T":"r","L":"ancilostoma","C":["n"],"d":"un nematodo parasital cual abita la intestines de umanas e otra animales, comente sangue","i":"#","o":"de elinica ankulos (curvada) + stoma (boca)","t":"Ancylostoma","en":"hookworm","he":"תולעת קרס"}
 {"T":"r","L":"ancilostomiase","C":["n","med"],"d":"un maladia resultante de un infesta par ancilostomas, comun causante anemia grave","o":"de elinica ankulos (curvada) + stoma (boca)","en":"hookworm, ancylostomiasis","he":"מחלה הנגרמת על-ידי תולעי קרס"}
-{"T":"r","L":"anconeo","C":["n","tecn","anat","med"],"d":"un musculo peti a la posterior de la junta de codo","en":"anconeus (muscle)"}
+{"T":"r","L":"anconeo","C":["n","tecn","anat","med"],"d":"un musculo peti a la posterior de la junta de codo","en":"anconeus (muscle)","he":"שריר המרפק"}
 {"T":"r","L":"ancor","C":["n","util"],"d":"un ojeto pesosa, liada a un cordon e usada per fisa un barcon a la fondo de mar","i":"#","en":"anchor","he":"עוגן"}
 {"L":"ancoreria","C":["n"],"en":"anchorage","he":"מעגן"}
 {"L":"ancori","C":["vt"],"en":"anchor","he":"להשליך עוגן, לעגן"}
@@ -1698,7 +1697,7 @@
 {"L":"aresta acaso","C":["n"],"en":"arbitrary arrest","he":"מעצר שרירותי"}
 {"L":"aresta nonlegal","C":["n"],"en":"illegal arrest","he":"מעצר בלתי חוקי"}
 {"L":"arestada","C":["a"],"en":"arrested, under arrest, in custody","he":"עצור, נמצא במעצר"}
-{"T":"r","L":"aritenoide","C":["n","anat","med"],"d":"un musculo con la forma de un culieron","en":"arytenoid (muscle)"}
+{"T":"r","L":"aritenoide","C":["n","anat","med"],"d":"un musculo con la forma de un culieron","en":"arytenoid (muscle)","he":"קיתון (שריר)"}
 {"T":"r","L":"argon","C":["n","cim"],"d":"la elemento cimical con numero atomal 18, un gas inerte","o":"de elinica a- (sin) + ergon (labora)","s":"Ar","en":"argon","he":"ארגון (יסוד)"}
 {"T":"r","L":"arhat","C":["n","rel"],"d":"(en budisme e jainisme) un person santa de grado alta","o":"de sanscrito arhat","en":"arhat (saint)","he":"בודהיסט שהגיע לנירוונה"}
 {"T":"r","L":"aria","C":["n","mus"],"d":"(en un opera) un canta longa e acompaniada per un vose solo","en":"aria","eo":"ario","fr":"aria","he":"(מוזיקה) אריה"}
@@ -1833,10 +1832,10 @@
 {"L":"article de lavabo","C":["n"],"en":"toiletry","he":"תמרוק"}
 {"L":"article de nondefini","C":["n","ling"],"en":"indefinite article","he":"תווית סתמית"}
 {"L":"article de novas","C":["n"],"en":"news item","he":"ידיעה, כתבה חדשותית"}
-{"T":"r","L":"articula","C":["vnt","anat"],"d":"(un oso) formi un junta (con un otra oso)","en":"articulate"}
-{"L":"articula","C":["n"],"en":"articulation, joint (anatomy)"}
-{"L":"articulal","C":["a"],"en":"articular"}
-{"L":"articulada","C":["a"],"en":"articulated, articulate, jointed"}
+{"T":"r","L":"articula","C":["vnt","anat"],"d":"(un oso) formi un junta (con un otra oso)","en":"articulate","he":"להתחבר במפרק"}
+{"L":"articula","C":["n"],"en":"articulation, joint (anatomy)","he":"מפרק"}
+{"L":"articulal","C":["a"],"en":"articular","he":"מפרקי"}
+{"L":"articulada","C":["a"],"en":"articulated, articulate, jointed","he":"מחובר במפרק"}
 {"T":"r","L":"artifis","C":["a"],"d":"fabricada par umanas, tipal de materias ance fabricada par umanas, en contrasta con cosas plu biolojial","en":"artificial, synthetic, manmade","he":"מלאכותי, סינטתי"}
 {"L":"artifisia","C":["n"],"en":"artifice, artificiality","he":"מלאכותיות, סינטתיות"}
 {"T":"r","L":"artileria","C":["n","util"],"d":"fusiles de calibre multe grande, usada en gera","en":"artillery, ordnance","he":"ארטילריה, תותחנות"}
@@ -3875,7 +3874,7 @@
 {"L":"bus de dona sangue","C":["n"],"en":"bloodmobile","he":"ניידת דם"}
 {"L":"busor","C":["n"],"en":"bus driver, coach driver","he":"נהג אוטובוס"}
 {"T":"r","L":"busino","C":["n","mol"],"d":"un molusco xasante con un conca pesosa e spiral","i":"#","t":"Buccinidae","en":"whelk","fr":"bulot, buccin","he":"שבלול ימי"}
-{"T":"r","L":"businador","C":["n","anat","med"],"d":"un musculo plata e magra en la jena","en":"buccinator (muscle)"}
+{"T":"r","L":"businador","C":["n","anat","med"],"d":"un musculo plata e magra en la jena","en":"buccinator (muscle)","he":"שריר המחצצר"}
 {"T":"r","L":"busola","C":["n","util"],"d":"un aparato con ago cual punta en dirije a la norde magnetal","i":"#","en":"compass (for finding north)","fr":"boussole","he":"מצפן"}
 {"L":"Busola","C":["n","ast"],"d":"un constela minor en la sielo sude","en":"Pyxis (constellation)","fr":"la Boussole","he":"מצפן (קבוצת כוכבים)"}
 {"T":"r","L":"bustier","C":["n","vest"],"d":"un veste o vesteta abrasante la tronco superior sin bretelas, per femes","i":"#","en":"bustier","fr":"bustier","he":"בוסטייה (בגד)"}
@@ -6364,7 +6363,7 @@
 {"L":"descorador","C":["n"],"en":"decorer, corer","he":"מוציא ליבה (של פירות או ירקות)"}
 {"L":"descori","C":["vt"],"en":"decore, core","he":"להוציא ליבה (של פירות או ירקות)"}
 {"L":"sin cor","C":["a"],"en":"heartless","he":"חסר לב"}
-{"T":"r","L":"coraco-","C":["pf","tecn","anat","med"],"d":"oncin, con forma de beco de corvo","en":"coraco-, hook-like"}
+{"T":"r","L":"coraco-","C":["pf","tecn","anat","med"],"d":"oncin, con forma de beco de corvo","en":"coraco-, hook-like","he":"(קידומת טכנית) דמוי קרס"}
 {"T":"r","L":"coracoide","C":["n","anat"],"d":"un parte de la spala de multe vertebratos (estra la plu de mamales)","en":"coracoid","he":"(אנטומיה) קורקואיד"}
 {"T":"r","L":"coraje","C":["n","uma"],"d":"la capasia de fa alga cosa cual on teme; fortia cuando on sufri dole o lamenta","en":"courage, bravery, valor|ur, nerve","he":"אומץ, גבורה, נועזות"}
 {"L":"corajosa","C":["a"],"en":"brave, courageous, valorous, valiant, bold, plucky, feisty, gutsy, stout-hearted","he":"אמיץ, נועז"}
@@ -6591,8 +6590,8 @@
 {"L":"sin cortina","C":["a"],"en":"uncurtained","he":"ללא וילון"}
 {"T":"r","L":"cortisona","C":["n","bio"],"d":"un ormon produida par la cortex suprarenal","en":"cortisone (hormone)","he":"קורטיזון"}
 {"T":"r","L":"cortiungia","C":["n","vn","util"],"d":"un util per corti ungias de dito e pede","en":"nail clipper","he":"קוצץ ציפורניים"}
-{"T":"r","L":"coruga","C":["vnt","anat","med"],"d":"contrae en plias o plietas","en":"corrugate"}
-{"L":"corugada","C":["a"],"en":"corrugated, wrinkled, crinkled, crinkly, wrinkly, crumpled, striated"}
+{"T":"r","L":"coruga","C":["vnt","anat","med"],"d":"contrae en plias o plietas","en":"corrugate","he":"להתקמט, לקבל צורה גלית"}
+{"L":"corugada","C":["a"],"en":"corrugated, wrinkled, crinkled, crinkly, wrinkly, crumpled, striated","he":"מקומט, גלי"}
 {"T":"r","L":"Corvatsca","C":["n","jeo"],"c":"Zagreb","d":"un pais en Europa sude-este, con costa a la Mar Adriatica","i":"#","en":"Croatia","he":"קרואטיה"}
 {"L":"corvatsce","C":["a"],"en":"Croatian (person, language)","he":"קרואטי, קרואטית (שפה)"}
 {"L":"corvatsce","C":["n","dem"],"en":"Croatian (person, language)","he":"קרואטי, קרואטית (שפה)"}
@@ -6833,7 +6832,7 @@
 {"L":"cremosa","C":["a"],"en":"creamy (full of cream)","he":"מלא קרם, מלא שמנת"}
 {"L":"descremi","C":["vt"],"en":"skim","he":"להפריד שמנת (מחלב)"}
 {"L":"descremida","C":["a"],"en":"skimmed (milk)","he":"(חלב) דל-שומן"}
-{"T":"r","L":"cremaster","C":["n","anat","med"],"d":"un musculo cual teni la testiculos","en":"cremaster (muscle)"}
+{"T":"r","L":"cremaster","C":["n","anat","med"],"d":"un musculo cual teni la testiculos","en":"cremaster (muscle)","he":"שריר מרים האשך"}
 {"T":"r","L":"creol","C":["a","dem","ling"],"d":"pertinente a persones ci desende de un misca de europeanes e africanes, spesial en la isolas de la Caribe, a sua cultur e cosini, o a sua linguas","en":"creole","he":"קריאולי"}
 {"L":"creol","C":["n"],"en":"creole","he":"קריאולי, קריאולית (שפה)"}
 {"L":"creol aitian","C":["a"],"en":"Haitian Creole, Kreyol Ayisyen","he":"קריאולית האיטית"}
@@ -6895,7 +6894,7 @@
 {"T":"r","L":"criceto","C":["n","mam"],"d":"un rodente solitar e tunelinte con coda corta e poxes grande de jena per porta comedas","i":"#","t":"Cricetinae","en":"hamster","he":"אוגר"}
 {"T":"r","L":"crico","C":["n","util"],"d":"un aparato per leva ojetos pesosa, spesial per leva la ase de un veculo de la tera per cambia un numatico o per esamina a su","en":"jack (for lifting)","he":"מגבה, ג'ק"}
 {"L":"crici","C":["vt"],"en":"jack up","he":"להשתמש במגבה"}
-{"T":"r","L":"crico-","C":["pf","tecn","anat","med"],"d":"con forma de anelo","en":"crico-, ring-shaped"}
+{"T":"r","L":"crico-","C":["pf","tecn","anat","med"],"d":"con forma de anelo","en":"crico-, ring-shaped","he":"(קידומת טכנית) דמוי טבעת"}
 {"T":"r","L":"cril","C":["n","artr"],"d":"un crustaseo peti, simil a un gamba","i":"#","en":"krill (crustacean)","he":"קריל (סרטן)"}
 {"T":"r","L":"Crim","C":["n","jeo"],"d":"un penisola a sude de Ucraina entre la Mar Azov e la Mar Negra","i":"#","en":"Crimea","he":"חצי האי קרים"}
 {"L":"crimsce","C":["a"],"en":"Crimean","he":"שקשור לקרים"}
@@ -7013,7 +7012,7 @@
 {"L":"crujinte","C":["a"],"en":"creaking, creaky","he":"חורק"}
 {"T":"r","L":"crumpeta","C":["n"],"d":"un torteta engles, plana, spesa e mol, tipal tostada e burida","en":"crumpet (cake)","he":"קראמפט (לחמניה)"}
 {"T":"r","L":"crup","C":["n","med"],"d":"un inflama de la larinje e tracea en enfantes, asosiada con infeta e causante respira difisil","en":"croup (medical)","he":"אסכרה, דלקת דרכי הנשימה"}
-{"T":"r","L":"crure","C":["n","anat","med"],"d":"un parte longa en un strutur anatomial, spesial un cual parteni a un duple","en":"crus (anatomy)"}
+{"T":"r","L":"crure","C":["n","anat","med"],"d":"un parte longa en un strutur anatomial, spesial un cual parteni a un duple","en":"crus (anatomy)","he":"(אנטומיה) מבנה ארוך, בדרך-כלל חלק מזוג"}
 {"T":"r","L":"crus","C":["n","util","rel"],"d":"un marca o ojeto formida par du linias reta cual comparti un punto comun; un palo vertical con bara traversante, usada en edas pasada per mata criminales e otras; un simbol de cristianisme; la area entre la colo e la spalas de un cavalo o otra bestias, a cual la altia de la animal es mesurada","i":"#","en":"cross; crucifix; withers (horse)","he":"צלב"}
 {"L":"crus de vias","C":["n"],"en":"crossroads","he":"צומת, הצטלבות"}
 {"L":"Crus","C":["n","ast"],"d":"un constela fasil per vide en la sielo sude","en":"Crux (constellation)","he":"הצלב הדרומי (קבוצת כוכבים)"}
@@ -20083,6 +20082,7 @@
 {"L":"platonisme","C":["n","fil"],"en":"Platonism"}
 {"T":"r","L":"platonica","C":["a"],"d":"(ama o amia) intima e amosa ma no sesal","en":"platonic"}
 {"T":"r","L":"plaza","C":["n","arci"],"d":"un area publica e abrida, intera o partal ensircada par construidas; un area publica usada per vende e compra benes","i":"#","ca":"plaça","da":"kvadrat, firkant, plads","de":"Platz","en":"plaza, (town) square","es":"plaza","fr":"place","it":"piazza","ja":"プラザ、スクウェア","nl":"vierkant","pt":"praça","ru":"площадь"}
+{"T":"r","L":"Pleades","C":["n","pl","mit"],"d":"(en mitos elinica) la sete fias de Atlas e Pleone, xasada par Orion asta cuando Zeus ia cambia los a un grupo de stelas; un grupo de stelas en la Bove","en":"Pleiades (mythology, stars)"}
 {"T":"r","L":"plectro","C":["n","mus"],"d":"un peso magra e plata de plastica o otra materia cuasi flexable, usada per toca la cordetas de un strumento como la gitar; un parte simil per toca la cordetas de un strumento como la clavesimbal","i":"#","en":"plectrum"}
 {"T":"r","L":"-plejia","C":["sf","n","med"],"d":"paralise","en":"-plegia (paralysis)"}
 {"L":"-plejica","C":["sf","a","med"],"en":"-plegic"}
@@ -20135,7 +20135,6 @@
 {"L":"plieta","C":["n"],"da":"rynke, fold","de":"Runzel","en":"wrinkle, crinkle, crimp, pucker, furrow","eo":"sulketo","es":"arruga, pliegue, doblez, surco","fr":"ride","it":"piega","nl":"rimpel, plooi","pt":"prega, sulco"}
 {"L":"plieta sua fronte","C":["esp"],"en":"furrow one's brow","fr":"plisser le front"}
 {"L":"plietosa","C":["a"],"en":"wrinkled, shriveled|ll, wizened, crumpled, crinkled, crinkly, puckered, puckery, plissé","fr":"ridé"}
-{"T":"r","L":"Pliades","C":["n","pl","mit"],"d":"(en mitos elinica) la sete fias de Atlas e Plione, xasada par Orion asta cuando Zeus ia cambia los a un grupo de stelas; un grupo de stelas en la Bove","en":"Pleiades (mythology, stars)"}
 {"T":"r","L":"pliosene","C":["a","tera"],"d":"pertinente a la epoca final de la tersiaria, entre la miosene e la plestosene","en":"Pliocene (anatomy)"}
 {"L":"pliosene","C":["n"],"en":"Pliocene (anatomy)","fr":"pliocène"}
 {"T":"r","L":"plisa","C":["vt","vest"],"d":"un plia duple o multiple en un veste o otra stofa, tenida par cose la culmina o la lado","en":"pleat (stitched fold)","fr":"plisser, froncer (un tissu par couture)"}
