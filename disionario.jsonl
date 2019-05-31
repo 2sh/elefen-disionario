@@ -7421,40 +7421,40 @@
 {"T":"r","L":"dalia","C":["n","pla"],"d":"un planta mexican en familia de margarita, con radises tuberosa","i":"#","t":"Dahlia","en":"dahlia","he":"דליה (צמח)","ru":"георгин (цветок)"}
 {"T":"r","L":"dalit","C":["a","dem"],"d":"pertinente a cada de la castas indu cual on ia nomi `nontocable` en la pasada","en":"Dalit (caste)","he":"שקשור לדלית (קאסטה בהודו)","ru":"относящийся к касте неприкасаемых"}
 {"L":"dalit","C":["n","dem"],"en":"Dalit (caste)","he":"דלית (קאסטה בהודו)","ru":"Далит, неприкасаемый (каста в Индии)"}
-{"T":"r","L":"Dalmasia","C":["n","jeo"],"d":"un rejion antica corespondente a un parte de Corvatsca moderna, composada de montanias e un plano costal streta a la Mar Adriatica","i":"#","en":"Dalmatia","es":"Dalmacia","ru":"Далмация (историческая область на северо-западе Балканского полуострова, на побережье Адриатического моря, на территории современных Хорватии в основном и Черногории)"}
-{"L":"dalmasian","C":["a"],"en":"Dalmatian (including dog)","ru":"далматский, далматинский"}
-{"L":"dalmasian","C":["n","dem","mam"],"i":"#","en":"Dalmatian (including dog)","ru":"далмат (член племени далматов), далматинец (порода собак)"}
-{"T":"r","L":"daltonisme","C":["n","med"],"d":"la noncapasia de distingui alga colores","en":"color|ur blindness","es":"daltonismo","ru":"дальтонизм"}
-{"T":"r","L":"dama","C":["n"],"d":"un fem de un grado sosial superior, spesial nobil; un fem cortes e jentil; un fem ci acompania un sposa nova a sua dia de sposi; (en xace o cartas) la rea","i":"#","en":"lady, dame, gentlewoman, matron; bridesmaid; queen (chess, cards)","es":"dama","fr":"dame","ru":"дама"}
-{"L":"dama de onora","C":["n"],"en":"maid of honor|ur","es":"dama de honor","fr":"demoiselle d'honneur","ru":"подружка невесты"}
-{"L":"damas","C":["n","pl","spo"],"i":"#","en":"checkers, draughts (game)","es":"damas (juego)","fr":"les dames (jeu)","ru":"шашки"}
-{"L":"damia","C":["n"],"en":"ladyship","ru":"Ваша Милость (обращение к титулованной женщине)"}
-{"L":"damin","C":["a"],"en":"ladylike","es":"damenhaft"}
-{"T":"r","L":"damasco","C":["n","vest"],"d":"un stofa texeda con motif vidable a ambos lados","en":"damask (fabric)"}
-{"T":"r","L":"dana","C":["vt"],"d":"causa cambias fisical a (alga cosa) cual redui sua valua, usosia o funsiona normal; afeta negativa (alga cosa)","en":"damage","fr":"endommager","ru":"повреждать, портить"}
-{"L":"dana","C":["n"],"en":"damage","es":"daño, perjuicio","fr":"dommage","ru":"повреждение, поломка"}
-{"L":"dana criminal","C":["n"],"en":"vandalism","es":"vandalismo","fr":"vandalisme","ru":"вандализм"}
-{"L":"danante","C":["a"],"en":"damaging, injurious"}
-{"T":"r","L":"dandi","C":["n","uma"],"d":"un om multe dedicada a moda, stilo e ordina pertinente a sua vestes e aspeta; un om de esta tipo ci finje ce el es plu sofisticada ca el es en realia","en":"fop, dandy, poseur, hipster, popinjay, metrosexual","ru":"щёголь, фат, денди, хлыщь"}
-{"L":"dandia","C":["n"],"en":"foppery"}
-{"T":"r","L":"Danmarc","C":["n","jeo"],"c":"Kobenhavn","d":"un pais en Europa norde-ueste, entre la Mar Norde e la Mar Baltica","i":"#","en":"Denmark","ru":"Дания"}
-{"L":"dansce","C":["a"],"en":"Danish (person, language)","ru":"датский"}
-{"L":"dansce","C":["n","dem"],"en":"Dane; Danish","ru":"датчанин, датский язык"}
-{"L":"Streta Danmarc","C":["n","jeo"],"d":"un streta entre Calalitnunat e Island, un parte de la Mar Atlantica","i":"#","en":"Denmark Strait","ru":"Датский пролив"}
-{"T":"r","L":"dansa","C":["vnt","mus"],"d":"move ritmosa a musica, tipal usante un serie fisada de pasos","i":"valsa","en":"dance, prance; flicker (flame)","es":"bailar, danzar","fr":"danser","ru":"танцевать"}
-{"L":"dansa","C":["n"],"en":"dance","es":"baile, danza","fr":"danse","ru":"танец"}
-{"L":"dansa cuadro","C":["n"],"en":"square dance","ru":"кадриль"}
-{"L":"dansa de folclor","C":["n"],"en":"folk dance","es":"baile folclórico","fr":"danse folklorique","ru":"народный танец"}
-{"L":"dansa de moria","C":["n"],"en":"danse macabre","es":"danza de la muerte, danza macabra","fr":"danse macabre","ru":"пляска смерти (род аллегорической драмы или процессии в Средневековье)"}
-{"L":"dansa de ventre","C":["n"],"i":"#","en":"belly dance","es":"danza del vientre, danza egipcia, danza oriental","fr":"dance du ventre","ru":"танец живота"}
-{"L":"dansa un valsa","C":["esp"],"en":"dance a waltz"}
-{"L":"dansor","C":["n"],"en":"dancer","es":"bailarín, bailarina","fr":"danseur","ru":"танцор"}
-{"T":"r","L":"Danubio, Rio","C":["n","jeo"],"d":"un rio cual comensa en Deutxland sude-ueste e fini en la Mar Negra","i":"Rio-Danubio","en":"River Danube","es":"Río Danubio","ru":"Дунай (река)"}
-{"T":"r","L":"Dardanelia, Streta","C":["n","jeo"],"d":"un streta liante la Mar Ejeo e la Mar Marmara","en":"Dardanelles","es":"Dardanelos","ru":"Дарданеллы (обобщающее название нескольких проливов между европой и Азией)"}
-{"T":"r","L":"dardo","C":["n","spo"],"d":"un misil peti e puntida cual pote es lansada o xutada","i":"#","en":"dart","es":"dardo","fr":"dard","ru":"дротик"}
-{"T":"r","L":"darma","C":["n","rel"],"d":"(en induisme) la prinsipe de ordina de la universo, incluinte virtuas e obligas; (en budisme) la instruis o relijio de la Buda","en":"dharma (religion)","es":"dharma","ru":"дхарма"}
-{"T":"r","L":"darmstatio","C":["n","cim"],"d":"la elemento cimical con numero atomal 110","s":"Ds","en":"darmstadtium (element)","es":"darmstatio","ru":"дармшта́дтий"}
-{"T":"r","L":"darvix","C":["n","rel"],"d":"un membro de un ordina relijiosa en sufisme ci dedica se a un vive de povria, e ci usa rituos incluinte dansas jirante","i":"#","en":"dervish","es":"derviche","ru":"дервиш"}
+{"T":"r","L":"Dalmasia","C":["n","jeo"],"d":"un rejion antica corespondente a un parte de Corvatsca moderna, composada de montanias e un plano costal streta a la Mar Adriatica","i":"#","en":"Dalmatia","es":"Dalmacia","he":"דלמטיה (אזור)","ru":"Далмация (историческая область на северо-западе Балканского полуострова, на побережье Адриатического моря, на территории современных Хорватии в основном и Черногории)"}
+{"L":"dalmasian","C":["a"],"en":"Dalmatian (including dog)","he":"דלמטי","ru":"далматский, далматинский"}
+{"L":"dalmasian","C":["n","dem","mam"],"i":"#","en":"Dalmatian (including dog)","he":"דלמטי","ru":"далмат (член племени далматов), далматинец (порода собак)"}
+{"T":"r","L":"daltonisme","C":["n","med"],"d":"la noncapasia de distingui alga colores","en":"color|ur blindness","es":"daltonismo","he":"עיוורון צבעים","ru":"дальтонизм"}
+{"T":"r","L":"dama","C":["n"],"d":"un fem de un grado sosial superior, spesial nobil; un fem cortes e jentil; un fem ci acompania un sposa nova a sua dia de sposi; (en xace o cartas) la rea","i":"#","en":"lady, dame, gentlewoman, matron; bridesmaid; queen (chess, cards)","es":"dama","fr":"dame","he":"גברת, ליידי; שושבינה; (שחמט, קלפים) מלכה","ru":"дама"}
+{"L":"dama de onora","C":["n"],"en":"maid of honor|ur","es":"dama de honor","fr":"demoiselle d'honneur","he":"שושבינה","ru":"подружка невесты"}
+{"L":"damas","C":["n","pl","spo"],"i":"#","en":"checkers, draughts (game)","es":"damas (juego)","fr":"les dames (jeu)","he":"דמקה","ru":"шашки"}
+{"L":"damia","C":["n"],"en":"ladyship","he":"כבוד מעלתה","ru":"Ваша Милость (обращение к титулованной женщине)"}
+{"L":"damin","C":["a"],"en":"ladylike","es":"damenhaft","he":"שהולם גברת, מעודן, נשי"}
+{"T":"r","L":"damasco","C":["n","vest"],"d":"un stofa texeda con motif vidable a ambos lados","en":"damask (fabric)","he":"אריג דמשק"}
+{"T":"r","L":"dana","C":["vt"],"d":"causa cambias fisical a (alga cosa) cual redui sua valua, usosia o funsiona normal; afeta negativa (alga cosa)","en":"damage","fr":"endommager","he":"להזיק, לגרום נזק","ru":"повреждать, портить"}
+{"L":"dana","C":["n"],"en":"damage","es":"daño, perjuicio","fr":"dommage","he":"נזק","ru":"повреждение, поломка"}
+{"L":"dana criminal","C":["n"],"en":"vandalism","es":"vandalismo","fr":"vandalisme","he":"ונדליזם, משחיתנות","ru":"вандализм"}
+{"L":"danante","C":["a"],"en":"damaging, injurious","he":"מזיק, פוגעני"}
+{"T":"r","L":"dandi","C":["n","uma"],"d":"un om multe dedicada a moda, stilo e ordina pertinente a sua vestes e aspeta; un om de esta tipo ci finje ce el es plu sofisticada ca el es en realia","en":"fop, dandy, poseur, hipster, popinjay, metrosexual","he":"גנדרן, מטרוסקסואל","ru":"щёголь, фат, денди, хлыщь"}
+{"L":"dandia","C":["n"],"en":"foppery","he":"גנדרנות, מטרוסקסואליות"}
+{"T":"r","L":"Danmarc","C":["n","jeo"],"c":"Kobenhavn","d":"un pais en Europa norde-ueste, entre la Mar Norde e la Mar Baltica","i":"#","en":"Denmark","he":"דנמרק","ru":"Дания"}
+{"L":"dansce","C":["a"],"en":"Danish (person, language)","he":"דני, דנית (שפה)","ru":"датский"}
+{"L":"dansce","C":["n","dem"],"en":"Dane; Danish","he":"דני, דנית (שפה)","ru":"датчанин, датский язык"}
+{"L":"Streta Danmarc","C":["n","jeo"],"d":"un streta entre Calalitnunat e Island, un parte de la Mar Atlantica","i":"#","en":"Denmark Strait","he":"מצר דנמרק","ru":"Датский пролив"}
+{"T":"r","L":"dansa","C":["vnt","mus"],"d":"move ritmosa a musica, tipal usante un serie fisada de pasos","i":"valsa","en":"dance, prance; flicker (flame)","es":"bailar, danzar","fr":"danser","he":"לרקוד","ru":"танцевать"}
+{"L":"dansa","C":["n"],"en":"dance","es":"baile, danza","fr":"danse","he":"ריקוד, מחול","ru":"танец"}
+{"L":"dansa cuadro","C":["n"],"en":"square dance","he":"ריקוד רביעיות","ru":"кадриль"}
+{"L":"dansa de folclor","C":["n"],"en":"folk dance","es":"baile folclórico","fr":"danse folklorique","he":"ריקוד עם","ru":"народный танец"}
+{"L":"dansa de moria","C":["n"],"en":"danse macabre","es":"danza de la muerte, danza macabra","fr":"danse macabre","he":"ריקוד המוות","ru":"пляска смерти (род аллегорической драмы или процессии в Средневековье)"}
+{"L":"dansa de ventre","C":["n"],"i":"#","en":"belly dance","es":"danza del vientre, danza egipcia, danza oriental","fr":"dance du ventre","he":"ריקוד בטן","ru":"танец живота"}
+{"L":"dansa un valsa","C":["esp"],"en":"dance a waltz","he":"לרקוד ואלס"}
+{"L":"dansor","C":["n"],"en":"dancer","es":"bailarín, bailarina","fr":"danseur","he":"רקדן","ru":"танцор"}
+{"T":"r","L":"Danubio, Rio","C":["n","jeo"],"d":"un rio cual comensa en Deutxland sude-ueste e fini en la Mar Negra","i":"Rio-Danubio","en":"River Danube","es":"Río Danubio","he":"דנובה (נהר)","ru":"Дунай (река)"}
+{"T":"r","L":"Dardanelia, Streta","C":["n","jeo"],"d":"un streta liante la Mar Ejeo e la Mar Marmara","en":"Dardanelles","es":"Dardanelos","he":"דרדנלים (מצר)","ru":"Дарданеллы (обобщающее название нескольких проливов между европой и Азией)"}
+{"T":"r","L":"dardo","C":["n","spo"],"d":"un misil peti e puntida cual pote es lansada o xutada","i":"#","en":"dart","es":"dardo","fr":"dard","he":"חץ (עם כנפיים)","ru":"дротик"}
+{"T":"r","L":"darma","C":["n","rel"],"d":"(en induisme) la prinsipe de ordina de la universo, incluinte virtuas e obligas; (en budisme) la instruis o relijio de la Buda","en":"dharma (religion)","es":"dharma","he":"(דת) דארמה","ru":"дхарма"}
+{"T":"r","L":"darmstatio","C":["n","cim"],"d":"la elemento cimical con numero atomal 110","s":"Ds","en":"darmstadtium (element)","es":"darmstatio","he":"דרמשטאדטיום (יסוד)","ru":"дармшта́дтий"}
+{"T":"r","L":"darvix","C":["n","rel"],"d":"un membro de un ordina relijiosa en sufisme ci dedica se a un vive de povria, e ci usa rituos incluinte dansas jirante","i":"#","en":"dervish","es":"derviche","he":"דרוויש","ru":"дервиш"}
 {"T":"r","L":"Darwin, Charles","C":["n","bio"],"d":"un naturiste engles notada per sua contribuis a la teoria de evolui, e la autor de _Sur la orijina de spesies_ (1809-1882)","i":"Darwin","p":"txarlz dárwin","en":"Charles Darwin","es":"Charles Darwin","ru":"Чарлз Дарвин","zh":"查尔斯·达尔文"}
 {"L":"darwinisme","C":["n","bio"],"d":"la teoria de la evolui de spesies par eleje natural, developada par Charles Darwin, un naturiste engles","en":"Darwinism","es":"darwinismo"}
 {"T":"r","L":"data","C":["n"],"d":"un dia de mense o anio, spesifada par un numero","en":"date (calendar)","fr":"date","ru":"дата"}
