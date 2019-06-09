@@ -8026,7 +8026,7 @@
 {"T":"r","L":"diatomea","C":["n","bio"],"d":"un alge uniselulal, con mur de silica","i":"#","t":"Bacillariophyceae","en":"diatom (organism)"}
 {"T":"r","L":"diatonica","C":["a","mus"],"d":"usante notas de un sola tonalia sin cambias cromatica","en":"diatonic"}
 {"T":"r","L":"diazepam","C":["n","med"],"d":"un medisin per destensa la musculos e calmi ansia","en":"diazepam, valium"}
-{"T":"r","L":"dicdic","C":["n"],"d":"un antilope nana de la savana seca de Africa","i":"#","t":"Madoqua","en":"dik-dik (antelope)"}
+{"T":"r","L":"dicdic","C":["n"],"d":"un antilope nano de la savana seca de Africa","i":"#","t":"Madoqua","en":"dik-dik (antelope)"}
 {"T":"r","L":"dicotiledon","C":["n","bio"],"d":"un planta florinte con un embrio cual produi du cotiledones","en":"dicotyledon, dicot (botany)"}
 {"T":"r","L":"dicotomia","C":["n","fil"],"d":"un divide o contrasta entre du cosas oposada o diferente; (en botanica) un rami repetente a du partes egal","en":"dichotomy"}
 {"L":"dicotomial","C":["a"],"en":"dichotomous"}
@@ -16919,10 +16919,10 @@
 {"T":"r","L":"Namibia","C":["n","jeo"],"c":"Windhoek","d":"un pais en Africa sude-ueste, xef composada de deserto, con costa a la Mar Atlantica","i":"#","en":"Namibia","es":"Namibia"}
 {"L":"namibian","C":["a"],"en":"Namibian","es":"namibio"}
 {"L":"namibian","C":["n","dem"],"en":"Namibian","es":"namibio"}
-{"T":"r","L":"nana","C":["a"],"d":"estrema o noncomun peti","en":"dwarf (including mythology), midget, gnome","es":"enano","fr":"nain"}
-{"L":"nana","C":["n"],"d":"un person estrema o noncomun peti; (en fables) un membro de un raza mital de viventes corta e umanin, jeneral capas de mina e metalurjia","i":"#","en":"dwarf, midget, gnome","es":"enano","fr":"nain"}
-{"L":"nanisme","C":["n"],"en":"dwarfism","es":"enanismo"}
 {"T":"r","L":"nana","C":["n"],"d":"(nonformal) un enfantor","en":"(colloquial) nanny (carer)","es":"niñera, canguro, nana"}
+{"T":"r","L":"nano","C":["n"],"d":"un person estrema o noncomun peti; (en fables) un membro de un raza mital de viventes corta e umanin, jeneral capas de mina e metalurjia","i":"#","en":"dwarf (including mythology), midget, gnome","es":"enano","fr":"nain"}
+{"L":"nanin","C":["a"],"en":"dwarflike; dwarf (planet)"}
+{"L":"nanisme","C":["n"],"en":"dwarfism","es":"enanismo"}
 {"T":"r","L":"nano-","C":["pf","tecn"],"d":"multe peti; {10^-9}","en":"nano- (tiny, a thousand-millionth)","es":"nano- (minúsculo, una milmillonésima)"}
 {"T":"r","L":"nanomedica","C":["n"],"d":"la usa de nanotecnolojia per diagnose, trata e preveni maladias","en":"nanomedicine","es":"nanomedicina","fr":"nanomédecine"}
 {"T":"r","L":"nanoparticula","C":["n"],"d":"cualce particula microscopial con min ca sirca 100 nanometres de diametre","en":"nanoparticle","es":"nanopartícula","fr":"nanoparticule"}
@@ -20189,7 +20189,7 @@
 {"L":"pluralia","C":["n"],"en":"plurality"}
 {"L":"pluralisme","C":["n"],"d":"un sistem de du o plu grupos colaborante","en":"pluralism"}
 {"L":"pluraliste","C":["n"],"en":"pluralist"}
-{"T":"r","L":"Pluto","C":["n","ast","mit"],"d":"un planeta nana cual orbita la Sol; (en mitos elinica) la dio de la sumundo","en":"Pluto (mythology, planet)","fr":"Pluton"}
+{"T":"r","L":"Pluto","C":["n","ast","mit"],"d":"un planeta nanin cual orbita la Sol; (en mitos elinica) la dio de la sumundo","en":"Pluto (mythology, planet)","fr":"Pluton"}
 {"T":"r","L":"plutocrata","C":["n","mone","gov"],"d":"un person de ci sua potia deriva de sua ricia","en":"plutocrat"}
 {"L":"plutocratia","C":["n"],"en":"plutocracy"}
 {"T":"r","L":"plutonio","C":["n","cim"],"d":"la elemento cimical con numero atomal 94","s":"Pu","en":"plutonium"}
