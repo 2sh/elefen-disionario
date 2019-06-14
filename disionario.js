@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '8 junio 2019';
+﻿var dataDeDatos = '13 junio 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -16595,6 +16595,8 @@ var disionario = [
 {T:"r",L:"-morfe",C:["sf","a","med","bio"],d:"forma",en:"-morph"},
 {T:"r",L:"morfem",C:["n","ling"],d:"un unia de sinifia en un lingua, cual on no pote divide plu",en:"morpheme"},
 {T:"r",L:"morfina",C:["n","med"],d:"un paradole e narcotica otenida de opio",en:"morphine"},
+{T:"r",L:"morfo",C:["n","info"],d:"un imaje cambiada par de un otra imaje par pasos peti e gradal, usante tecincas de anima par computador",en:"morph"},
+{L:"morfi",C:["vt","info"],d:"cambia lisa de un imaje a un otra par pasos peti e gradal, usante tecnicas de anima par computador",en:"morph"},
 {T:"r",L:"morfo-",C:["pf","tecn"],d:"forma",en:"morpho-"},
 {T:"r",L:"morfolojia",C:["n","bio","ling"],d:"(en biolojia) la studia de la formas de organismes e la relatas entre sua strutures; (en linguistica) la studia de la formas de parolas",en:"morphology"},
 {L:"morfolojial",C:["a"],en:"morphological"},
@@ -16885,6 +16887,9 @@ var disionario = [
 {L:"mutisme",C:["n"],en:"metamorphism (geology)"},
 {L:"nonmutable",C:["a"],en:"immutable"},
 {L:"nonmutablia",C:["n"],en:"immutability"},
+{T:"r",L:"mutaforma",C:["n"],d:"un esente cual pote muta sua forma fisical, tipal volente, como trovada en mitos e fantasias",de:"formwandler",en:"shape-shifter",it:"mutaforma"},
+{L:"mutaformi",C:["v"],d:"muta sua forma fisical, tipal con un capasia inerente o par la usa de majia, como trovada en mitos e fantasias",en:"shape-shift, metamorphose"},
+{L:"mutaformia",C:["n"],d:"la capasia, inerente o majial, per cambia sua forma fisical, como trovada en mitos e fantasias",en:"shape-shifting, metamorphosis"},
 {T:"r",L:"mutajen",C:["a","bio","cim"],d:"capas de inisia o aselera muta jenetical",en:"mutagenic (genetics)"},
 {L:"mutajen",C:["n"],en:"mutagen"},
 {T:"r",L:"mutila",C:["vt","uma"],d:"malformi (un person o cosa) par feri o dana",en:"mutilate, mangle"},
@@ -28500,7 +28505,7 @@ var disionario = [
 {L:"votores",C:["n","pl"],en:"voters, electorate"},
 {T:"r",L:"vudu",C:["n","rel"],d:"un relijio de alga persones de la Isolas de Caribe e la SUA sude, composada de elementos de rituos catolica e rituos tradisional de Africa, tipal incluinte la usa de sorsoria e posese par spiritos",i:"#",en:"voodoo (religion)"},
 {T:"r",L:"vulcani",C:["vt","cim"],d:"duri (cauxo o materia simil) par trata lo con sulfur a temperatur alta",en:"vulcanize"},
-{T:"r",L:"vulgar",C:["a","uma"],d:"sin sofistica; referente a seso o otra funsionas fundal de la corpo en modo ofendente",en:"vulgar, indecent, improper, naughty, bawdy, crude, foul-mouthed, rabelaisian, ribald, off-color|ur"},
+{T:"r",L:"vulgar",C:["a","uma"],d:"sin sofistica; referente a seso o otra funsionas fundal de la corpo en modo ofendente",en:"vulgar, indecent, improper, naughty, bawdy, crude, foul-mouthed, lewd, rabelaisian, ribald, off-color|ur"},
 {L:"vulgaria",C:["n"],en:"vulgarity"},
 {T:"r",L:"vultur",C:["n","avia"],d:"un avia grande con testa e colo calva, ci come tipal caronia",i:"#",t:"Aegypiinae, Cathartidae",en:"vulture"},
 {T:"r",L:"vulva",C:["n","anat"],d:"la jenitales esterna de un fema",i:"#",en:"vulva (anatomy)"},
