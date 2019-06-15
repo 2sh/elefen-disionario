@@ -10274,7 +10274,7 @@
 {"L":"fabrica de vitro","C":["n"],"en":"glasswork"}
 {"L":"fabrica par mano","C":["n"],"en":"handcraft, handicraft"}
 {"L":"fabricada","C":["a"],"en":"manufactured, fabricated, manmade","fr":"fabriqué"}
-{"L":"fabricada","C":["n"],"en":"artifact","fr":"artefact"}
+{"L":"fabricada","C":["n"],"en":"artifact|artefact","fr":"artefact"}
 {"L":"fabricada a casa","C":["a"],"en":"homemade"}
 {"L":"fabriceria","C":["n"],"i":"#","en":"factory, manufacturing plant, workshop","fr":"fabrique, usine, atelier"}
 {"L":"fabriceria misera","C":["n"],"en":"sweatshop"}
@@ -10282,7 +10282,7 @@
 {"L":"fabricor de fusiles","C":["n"],"en":"gunsmith"}
 {"L":"fabricor de rotas","C":["n"],"en":"wheelwright"}
 {"L":"fabricor de vagones","C":["n"],"en":"wainwright"}
-{"L":"ojeto fabricada","C":["n"],"en":"artifact","fr":"artefact"}
+{"L":"ojeto fabricada","C":["n"],"en":"artifact|artefact","fr":"artefact"}
 {"L":"prefabrica","C":["vt"],"en":"prefabricate","fr":"préfabriquer"}
 {"L":"prefabrica","C":["n"],"en":"prefabrication, prefab"}
 {"L":"prefabricada","C":["a"],"en":"prefabricated, prefab","fr":"préfabriqué"}
@@ -16591,10 +16591,10 @@
 {"T":"r","L":"morero","C":["n","pla","cos"],"d":"un arbor caduca con folias larga, orijinal de Asia este; la baca roja o purpur de esta","i":"#","t":"Morus","en":"mulberry (tree)"}
 {"L":"morera","C":["n"],"en":"mulberry (berry)"}
 {"T":"r","L":"-morfe","C":["sf","a","med","bio"],"d":"forma","en":"-morph"}
+{"T":"r","L":"morfe","C":["vt","info"],"d":"cambia lisa de un imaje a un otra par pasos peti e gradal, usante tecnicas de anima par computador","en":"morph"}
+{"L":"morfe","C":["n","info"],"d":"un imaje cambiada de un otra par morfe","en":"morph"}
 {"T":"r","L":"morfem","C":["n","ling"],"d":"un unia de sinifia en un lingua, cual on no pote divide plu","en":"morpheme"}
 {"T":"r","L":"morfina","C":["n","med"],"d":"un paradole e narcotica otenida de opio","en":"morphine"}
-{"T":"r","L":"morfo","C":["n","info"],"d":"un imaje cambiada par de un otra imaje par pasos peti e gradal, usante tecincas de anima par computador","en":"morph"}
-{"L":"morfi","C":["vt","info"],"d":"cambia lisa de un imaje a un otra par pasos peti e gradal, usante tecnicas de anima par computador","en":"morph"}
 {"T":"r","L":"morfo-","C":["pf","tecn"],"d":"forma","en":"morpho-"}
 {"T":"r","L":"morfolojia","C":["n","bio","ling"],"d":"(en biolojia) la studia de la formas de organismes e la relatas entre sua strutures; (en linguistica) la studia de la formas de parolas","en":"morphology"}
 {"L":"morfolojial","C":["a"],"en":"morphological"}
@@ -16886,7 +16886,7 @@
 {"L":"nonmutable","C":["a"],"en":"immutable"}
 {"L":"nonmutablia","C":["n"],"en":"immutability"}
 {"T":"r","L":"mutaforma","C":["n"],"d":"un esente cual pote muta sua forma fisical, tipal volente, como trovada en mitos e fantasias","de":"formwandler","en":"shape-shifter","it":"mutaforma"}
-{"L":"mutaformi","C":["v"],"d":"muta sua forma fisical, tipal con un capasia inerente o par la usa de majia, como trovada en mitos e fantasias","en":"shape-shift, metamorphose"}
+{"L":"mutaformi","C":["vnt"],"d":"muta sua forma fisical, tipal par un capasia inerente o par majia, como trovada en mitos e fantasias","en":"shape-shift, metamorphose"}
 {"L":"mutaformia","C":["n"],"d":"la capasia, inerente o majial, per cambia sua forma fisical, como trovada en mitos e fantasias","en":"shape-shifting, metamorphosis"}
 {"T":"r","L":"mutajen","C":["a","bio","cim"],"d":"capas de inisia o aselera muta jenetical","en":"mutagenic (genetics)"}
 {"L":"mutajen","C":["n"],"en":"mutagen"}
