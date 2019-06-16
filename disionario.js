@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '14 junio 2019';
+﻿var dataDeDatos = '15 junio 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -15679,8 +15679,9 @@ var disionario = [
 {L:"mediciste comensante",C:["n"],en:"intern (medical graduate)"},
 {L:"mediciste forense",C:["n"],en:"coroner"},
 {L:"premedical",C:["a"],en:"premedical, premed"},
-{T:"r",L:"medieval",C:["a","ist"],d:"parteninte a la eda entre aprosima la sentenios 5 e 15",en:"medieval"},
+{T:"r",L:"medieval",C:["a","ist"],d:"parteninte a la eda entre aprosima la sentenios 5 e 15",en:"medieval|ae"},
 {L:"eda medieval",C:["n"],en:"middle ages"},
+{L:"medievaliste",C:["n"],en:"medievalist|ae"},
 {T:"r",L:"mediocre",C:["a"],d:"con cualia media o min ca media; no multe bon",en:"mediocre, ordinary, average, middling, uninspired, undistinguished, indifferent, unexceptional, unexciting, unremarkable, run-of-the-mill, pedestrian, prosaic, lackluster|re, forgettable"},
 {L:"mediocria",C:["n"],en:"mediocrity"},
 {L:"obra mediocre",C:["n"],en:"mediocre work, potboiler"},
@@ -16593,8 +16594,8 @@ var disionario = [
 {T:"r",L:"morero",C:["n","pla","cos"],d:"un arbor caduca con folias larga, orijinal de Asia este; la baca roja o purpur de esta",i:"#",t:"Morus",en:"mulberry (tree)"},
 {L:"morera",C:["n"],en:"mulberry (berry)"},
 {T:"r",L:"-morfe",C:["sf","a","med","bio"],d:"forma",en:"-morph"},
-{T:"r",L:"morfe",C:["vt","info"],d:"cambia lisa de un imaje a un otra par pasos peti e gradal, usante tecnicas de anima par computador",en:"morph"},
-{L:"morfe",C:["n","info"],d:"un imaje cambiada de un otra par morfe",en:"morph"},
+{T:"r",L:"morfe",C:["vt","info"],d:"cambia lisa (un imaje) a un otra par pasos peti e gradal, usante tecnicas de anima par computador",en:"morph"},
+{L:"morfe",C:["n","info"],d:"un imaje cambiante de un otra par morfe",en:"morph"},
 {T:"r",L:"morfem",C:["n","ling"],d:"un unia de sinifia en un lingua, cual on no pote divide plu",en:"morpheme"},
 {T:"r",L:"morfina",C:["n","med"],d:"un paradole e narcotica otenida de opio",en:"morphine"},
 {T:"r",L:"morfo-",C:["pf","tecn"],d:"forma",en:"morpho-"},
