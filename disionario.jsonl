@@ -1,4 +1,4 @@
-{"T":"r","L":"a","C":["sim"],"d":"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C :EO loĝadomajor","p":"a","en":"a","fr":"la","he":"האות הראשונה באלפבית הלטיני"}
+{"T":"r","L":"a","C":["sim"],"d":"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major","p":"a","en":"a","fr":"la","he":"האות הראשונה באלפבית הלטיני"}
 {"T":"r","L":"a","C":["prep"],"d":"indicante un loca o tempo como un punto simple","g":"Preposadas#A","u":"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco","en":"at, in, on (a point in space or time)","eo":"ĉe, en, je","fr":"à","he":"ב-, אצל","ru":"в, на, за (сидим за столом)"}
 {"T":"s","d":"indicante la punto de refere en un relata","u":"tu sta tro prosima a la borda; la pen parteni a me; la forma de Italia es simil a un gama; a la min","en":"(in relation) to","eo":"al","fr":"à","he":"ל-","ru":"к; дательный падеж; на (в выражениях сравнения)"}
 {"T":"s","d":"indicante la loca, resetor o state cual on ateni o vole ateni par un move o cambia","u":"el desira viaja a la Luna; de ves a ves; me va dona un oso a tua can; la idea pare bon a me; la sorsor ia cambia se a un capra; on va eleje tu a presidente; el ia pinti sua mures a jala; tradui un poesia a elefen","en":"in the direction of, to, toward, towards, unto","eo":"al, direkte al","fr":"à, vers","he":"ל-; מסמן שינוי למצב חדש (צביעה בלבן, בחירה לנשיא)","ru":"на (как направление); дательный падеж; в (при глаголах превращения в, изменения в)"}
@@ -1621,42 +1621,42 @@
 {"T":"r","L":"arceopterix","C":["n","avia","dino"],"d":"la fosil la plu antica conoseda de un avia de la tarda de la jurasica, un organisme con plumas, alas e osos cavetin como un avia moderna, ma con dentes, coda ososa e gamas como un spesie de dinosauro peti","i":"#","t":"Archaeopteryx","en":"archaeopteryx","he":"ארכאופטריקס"}
 {"T":"r","L":"arcetipo","C":["n","arte","mit"],"d":"un esemplo multe tipal de un person o cosa spesifada; un orijinal cual on ia imita; un simbol o motif en leteratur, arte o mitolojia","en":"archetype","he":"ארכיטיפ, אב-טיפוס"}
 {"L":"arcetipal","C":["a"],"en":"archetypal","he":"אבטיפוסי"}
-{"T":"r","L":"arci-","C":["pf","tecn"],"d":"xef, major","en":"archi-, arch- (chief)","he":"(קידומת טכנית) ראשי, עיקרי"}
-{"T":"r","L":"arcibispo","C":["n","rel"],"d":"un bispo major","en":"archbishop","he":"ארכיבישופ"}
-{"L":"arcibispia","C":["n"],"en":"archbishopric, archdiocese","he":"ארכיבישופות"}
-{"T":"r","L":"arciduxe","C":["n","gov"],"d":"un duxe xef","en":"archduke","he":"ארכידוכס"}
-{"L":"arciduxesa","C":["n"],"en":"archduchess"}
-{"T":"r","L":"arcipelago","C":["n","tera"],"d":"un grupo o cadena de isolas","en":"archipelago","he":"ארכיפלג"}
-{"T":"r","L":"arciprete","C":["n","rel"],"d":"la prete xef de un grupo relijiosa","en":"high priest, high priestess","he":"כהן גדול"}
+{"T":"r","L":"arci-","C":["pf","tecn"],"d":"xef, major","en":"archi-, arch- (chief)","es":"archi-, arqui-","he":"(קידומת טכנית) ראשי, עיקרי"}
+{"T":"r","L":"arcibispo","C":["n","rel"],"d":"un bispo major","en":"archbishop","es":"arzobispo","he":"ארכיבישופ"}
+{"L":"arcibispia","C":["n"],"en":"archbishopric, archdiocese","es":"arzobispado","he":"ארכיבישופות"}
+{"T":"r","L":"arciduxe","C":["n","gov"],"d":"un duxe xef","en":"archduke","es":"archiduque","he":"ארכידוכס"}
+{"L":"arciduxesa","C":["n"],"en":"archduchess","es":"archiduquesa"}
+{"T":"r","L":"arcipelago","C":["n","tera"],"d":"un grupo o cadena de isolas","en":"archipelago","es":"archipiélago","he":"ארכיפלג"}
+{"T":"r","L":"arciprete","C":["n","rel"],"d":"la prete xef de un grupo relijiosa","en":"high priest, high priestess","es":"arcipreste","he":"כהן גדול"}
 {"T":"r","L":"arciteta","C":["n","arte"],"d":"la arte o pratica de desinia e construi construidas; un strutur fisical o lojical cual es complicada o desiniada en modo atendente","ar":"عمارة","en":"architecture","es":"arquitectura","eu":"arkitektura","he":"ארכיטקטורה, אדריכלות","ru":"архитектура"}
-{"L":"arcitetal","C":["a"],"en":"architectural","he":"ארכיטקטי, אדריכלי"}
-{"L":"arcitetor","C":["n"],"en":"architect","he":"ארכיטקט, אדריכל"}
-{"T":"r","L":"arcitrava","C":["n","arte"],"d":"un faxon major, reposante sur la culminas de colonas; un moldur sirca un fenetra, porte o arco","i":"#","en":"architrave","he":"ארכיטרב (קורת אבן אופקית על שורת עמודים)"}
-{"T":"r","L":"arcivo","C":["n","info"],"d":"un colie de informa rejistrada; un portapaper; un spesie de fix cual grupi otra fixes o suarcivos","en":"record (information), register, log; file, folder, document wallet; folder, directory","he":"רשומה"}
-{"L":"arcivador","C":["n"],"en":"file cabinet, filing cabinet","he":"ארון מסמכים"}
-{"L":"arcivador de revisas","C":["n"],"en":"version control system, revision control system","he":"מערכת ניהול גרסאות"}
-{"L":"arcival","C":["a"],"en":"archival","he":"ארכיוני"}
-{"L":"arciveria","C":["n"],"en":"archive, depository, record office, repository, registry","he":"ארכיון"}
-{"L":"arcivi","C":["vt"],"en":"archive, log, chronicle, file","he":"לתעד, לתייק, לשמור בארכיון"}
-{"L":"arciviste","C":["n"],"en":"archivist","he":"ארכיונאי"}
-{"L":"arcivos anial","C":["n"],"en":"annals","he":"ספרי השנים"}
-{"L":"malarcivi","C":["vt"],"en":"misfile","he":"לתייק במקום הלא נכון"}
-{"L":"suarcivo","C":["n","info"],"en":"subfolder, subdirectory","he":"תת-ספריה"}
-{"T":"r","L":"arcivolta","C":["n","arte"],"d":"un banda de moldures simil a un arcitrava, longo la curva su un arco","en":"archivolt, voussure (architecture)","he":"ארכיוולט"}
-{"T":"r","L":"arco","C":["n","mat","arte","util"],"d":"un parte de la perimetre de un sirculo o otra curva; un forma o strutur curva; la curso curvinte de un ojeto movente; un curso developante en un nara; un strutur curva cual estende simetre supra un abri, tipal suportante un teto, ponte o mur; un descarga eletrical luminosa entre du puntos; un arma per xuta flexas, tipal fabricada de un peso curva de lenio, de cual sua finis es juntada par un corda tensada; un basto longa portante filos tensada, usada per jua strumentos de cordetas","i":"#, arco-construi","en":"arc (geometry, electrical, narrative); arch, archway (architecture); bow (weapon, music)","he":"קשת"}
-{"L":"arco apoiante","C":["n"],"i":"#","en":"flying buttress","he":"קשתות דואות"}
-{"L":"arco de pede","C":["n"],"en":"arch (foot), instep","he":"קשת כף הרגל"}
+{"L":"arcitetal","C":["a"],"en":"architectural","es":"arquitectónico","he":"ארכיטקטי, אדריכלי"}
+{"L":"arcitetor","C":["n"],"en":"architect","es":"arquitecto","he":"ארכיטקט, אדריכל"}
+{"T":"r","L":"arcitrava","C":["n","arte"],"d":"un faxon major, reposante sur la culminas de colonas; un moldur sirca un fenetra, porte o arco","i":"#","en":"architrave","es":"arquitrabe","he":"ארכיטרב (קורת אבן אופקית על שורת עמודים)"}
+{"T":"r","L":"arcivo","C":["n","info"],"d":"un colie de informa rejistrada; un portapaper; un spesie de fix cual grupi otra fixes o suarcivos","en":"record (information), register, log; file, folder, document wallet; folder, directory","es":"archivo, carpeta, cartera de documentos","he":"רשומה"}
+{"L":"arcivador","C":["n"],"en":"file cabinet, filing cabinet","es":"archivador","he":"ארון מסמכים"}
+{"L":"arcivador de revisas","C":["n"],"en":"version control system, revision control system","es":"sistema de control de versiones, sistema de control de revisión","he":"מערכת ניהול גרסאות"}
+{"L":"arcival","C":["a"],"en":"archival","es":"de archivo","he":"ארכיוני"}
+{"L":"arciveria","C":["n"],"en":"archive, depository, record office, repository, registry","es":"archivo, depósito, oficina de registro, depósito, repositorio, registro","he":"ארכיון"}
+{"L":"arcivi","C":["vt"],"en":"archive, log, chronicle, file","es":"archivar, registrar","he":"לתעד, לתייק, לשמור בארכיון"}
+{"L":"arciviste","C":["n"],"en":"archivist","es":"archivero, archivista","he":"ארכיונאי"}
+{"L":"arcivos anial","C":["n"],"en":"annals","es":"anales","he":"ספרי השנים"}
+{"L":"malarcivi","C":["vt"],"en":"misfile","es":"archivar incorrectamente","he":"לתייק במקום הלא נכון"}
+{"L":"suarcivo","C":["n","info"],"en":"subfolder, subdirectory","es":"subcarpeta, subdirectorio","he":"תת-ספריה"}
+{"T":"r","L":"arcivolta","C":["n","arte"],"d":"un banda de moldures simil a un arcitrava, longo la curva su un arco","en":"archivolt, voussure (architecture)","es":"arquivolta","he":"ארכיוולט"}
+{"T":"r","L":"arco","C":["n","mat","arte","util"],"d":"un parte de la perimetre de un sirculo o otra curva; un forma o strutur curva; la curso curvinte de un ojeto movente; un curso developante en un nara; un strutur curva cual estende simetre supra un abri, tipal suportante un teto, ponte o mur; un descarga eletrical luminosa entre du puntos; un arma per xuta flexas, tipal fabricada de un peso curva de lenio, de cual sua finis es juntada par un corda tensada; un basto longa portante filos tensada, usada per jua strumentos de cordetas","i":"#, arco-construi","en":"arc (geometry, electrical, narrative); arch, archway (architecture); bow (weapon, music)","es":"arco","he":"קשת"}
+{"L":"arco apoiante","C":["n"],"i":"#","en":"flying buttress","es":"arbotante","he":"קשתות דואות"}
+{"L":"arco de pede","C":["n"],"en":"arch (foot), instep","es":"arco del pie, arco plantar","he":"קשת כף הרגל"}
 {"L":"arco de porte","C":["n"],"en":"doorway","he":"פתח, כניסה מקושתת"}
-{"L":"arco de sielo","C":["n"],"i":"#","en":"rainbow","he":"קשת בענן"}
-{"L":"arco longa","C":["n"],"en":"longbow","he":"קשת ליריית חיצים"}
+{"L":"arco de sielo","C":["n"],"i":"#","en":"rainbow","es":"arcoiris","he":"קשת בענן"}
+{"L":"arco longa","C":["n"],"en":"longbow","es":"arco largo","he":"קשת ליריית חיצים"}
 {"L":"arco sigmoide","C":["n"],"i":"#","en":"ogee (architecture, mathematics, etc.)","he":"קשת בצורת S"}
-{"L":"arci","C":["vnt"],"en":"arch (back, roof)","he":"לקמר"}
+{"L":"arci","C":["vnt"],"en":"arch (back, roof)","es":"arquear, abovedar","he":"לקמר"}
 {"L":"arci a retro","C":["n"],"en":"backbend","he":"כפיפה לאחור"}
-{"L":"arcin","C":["a"],"en":"bow-shaped","he":"בצורת קשת"}
-{"L":"arcor","C":["n"],"en":"archer","he":"קשת, אדם היורה בחץ וקשת"}
-{"L":"Arcor","C":["n","ast"],"d":"un constela de la zodiaco, entre la Scorpion e la Capra","s":"♐","en":"Sagittarius (constellation)","he":"קבוצת הכוכבים קשת"}
-{"L":"xuta con arco","C":["n"],"en":"archery","he":"קשתות, ירי בחץ וקשת"}
-{"T":"r","L":"arconte","C":["n","ist","gov"],"d":"cada de la nove judores xef en Atina antica; (metafor) un renor","en":"archon (Athenian judge)","he":"ארכון (שופט ביוון העתיקה)"}
+{"L":"arcin","C":["a"],"en":"bow-shaped","es":"en forma de arco","he":"בצורת קשת"}
+{"L":"arcor","C":["n"],"en":"archer","es":"arquero","he":"קשת, אדם היורה בחץ וקשת"}
+{"L":"Arcor","C":["n","ast"],"d":"un constela de la zodiaco, entre la Scorpion e la Capra","s":"♐","en":"Sagittarius (constellation)","es":"Sagitario (constalación)","he":"קבוצת הכוכבים קשת"}
+{"L":"xuta con arco","C":["n"],"en":"archery","es":"tiro con arco","he":"קשתות, ירי בחץ וקשת"}
+{"T":"r","L":"arconte","C":["n","ist","gov"],"d":"cada de la nove judores xef en Atina antica; (metafor) un renor","en":"archon (Athenian judge)","es":"arconte (juez ateniense)","he":"ארכון (שופט ביוון העתיקה)"}
 {"T":"r","L":"arde","C":["vnt"],"d":"produi un flama o brilia en consuma un materia como carbon o lenio; (un candela o otra fonte de lus) emete lus; (un person, sua pel o un parte de corpo) es roja e dolosa pos esposa a la sol o par causa de un maladia o feri; (metafor) es saisida par un desira multe forte","en":"burn, blaze","he":"להישרף, לבעור, להתלקח; להיכוות"}
 {"L":"arde","C":["vt"],"en":"burn, sear, incinerate","he":"לשרוף, להבעיר; לגרום לכוויה"}
 {"L":"arde de ereses","C":["n"],"en":"auto-da-fé","he":"העלאה על המוקד"}
@@ -5834,6 +5834,7 @@
 {"T":"r","L":"condo","C":["n","arci"],"d":"un construida conteninte apartes cual parteni a persones diversa; un tal aparte","en":"condominium, condo","he":"בית משותף, בניין דירות"}
 {"T":"r","L":"condom","C":["n","med"],"d":"un gaina magra de latex o otra materia, portada sur la penis de un om copulante per proteje contra consepi o infeta","i":"#","en":"condom","he":"קונדום, כובעון"}
 {"T":"r","L":"condor","C":["n","avia"],"d":"un vultur grande de la mundo nova, con testa calva e plumas negra, ci vive en montanias e vola tipal alta","i":"#","t":"Cathartidae","en":"condor, New World vulture","he":"קונדור (ציפור)"}
+{"T":"r","L":"condromalasia","C":["n","med"],"d":"un moli de la cartilaje de un junta","en":"chondromalacia","es":"condromalacia"}
 {"T":"r","L":"condui","C":["vnt"],"d":"ata en un modo spesifada, tipal en relata sosial con otra persones","n":"No usa `condui` per dise `gida` o `porta`.","v":"gida","en":"behave, conduct (oneself), comport","he":"להתנהג"}
 {"L":"condui","C":["n"],"en":"behavior|ur, demeanor|ur, comportment, conduct","he":"התנהגות"}
 {"L":"conduisme","C":["n"],"en":"behaviorism|ur","he":"ביהביוריזם"}
@@ -10249,23 +10250,23 @@
 {"T":"r","L":"eziditi","C":["a","dem"],"d":"pertinente a un etnico curdi con relijio e cultur antica","en":"Yazidi"}
 {"L":"eziditi","C":["n"],"en":"Yazidi"}
 {"L":"eziditisme","C":["n"],"en":"Yazidism (religion)"}
-{"T":"r","L":"f","C":["sim"],"d":"la letera ses de la alfabeta roman; la nota cuatro de la scala diatonica de C major","p":"ef","en":"f","fr":"f"}
-{"T":"r","L":"fa","C":["vt"],"d":"reali o partisipa en (un ata)","n":"No usa `fa` per dise `crea` o `fabrica`.","en":"do, perform; commit (crime); have (shower, dream, etc.); take (shower, photo, etc.); hold (event); play (game, role)","fr":"faire"}
-{"L":"fa","C":["n"],"en":"doing, deed"}
-{"L":"fa a","C":["v"],"u":"los ia fa la fol a re","en":"cause (someone or something) to become, make (someone or something) ..."}
-{"L":"fa bon","C":["v"],"en":"do well; do good"}
-{"L":"fa ce","C":["v"],"u":"no fa ce me rie; la anunsia ia fa ce el roji","en":"cause (something to happen or become), make (something happen), render, turn"}
-{"L":"fa de","C":["v"],"u":"los ia fa de la fol un re","en":"make ... of (someone or something)"}
-{"L":"desfa","C":["vt"],"en":"undo","fr":"défaire"}
-{"L":"desfa","C":["n"],"en":"undoing"}
-{"L":"fada","C":["a"],"en":"done","fr":"fait"}
-{"L":"fada","C":["n"],"en":"deed (past)","fr":"fait"}
-{"L":"fada realida","C":["n"],"en":"fait accompli","fr":"fait accompli"}
-{"L":"faor","C":["n"],"en":"doer","fr":"faiseur"}
-{"L":"malfa","C":["vt"],"en":"do badly, bodge, botch, bungle, bumble, screw up, make a bad job of"}
+{"T":"r","L":"f","C":["sim"],"d":"la letera ses de la alfabeta roman; la nota cuatro de la scala diatonica de C major","p":"ef","en":"f","es":"f","fr":"f"}
+{"T":"r","L":"fa","C":["vt"],"d":"reali o partisipa en (un ata)","n":"No usa `fa` per dise `crea` o `fabrica`.","en":"do, perform; commit (crime); have (shower, dream, etc.); take (shower, photo, etc.); hold (event); play (game, role)","es":"hacer","fr":"faire"}
+{"L":"fa","C":["n"],"en":"doing, deed","es":"hecho"}
+{"L":"fa a","C":["v"],"u":"los ia fa la fol a re","en":"cause (someone or something) to become, make (someone or something) ...","es":"causar (algo, algo a alguien), llegar a ser"}
+{"L":"fa bon","C":["v"],"en":"do well; do good","es":"hacer el bien, estar bien, hacerlo bien"}
+{"L":"fa ce","C":["v"],"u":"no fa ce me rie; la anunsia ia fa ce el roji","en":"cause (something to happen or become), make (something happen), render, turn","es":"causar, hacer que"}
+{"L":"fa de","C":["v"],"u":"los ia fa de la fol un re","en":"make ... of (someone or something)","es":"hacer ... de (alguien o algo)"}
+{"L":"desfa","C":["vt"],"en":"undo","es":"deshacer","fr":"défaire"}
+{"L":"desfa","C":["n"],"en":"undoing","es":"ruina, perdición"}
+{"L":"fada","C":["a"],"en":"done","es":"hecho","fr":"fait"}
+{"L":"fada","C":["n"],"en":"deed (past)","es":"hecho (pasado)","fr":"fait"}
+{"L":"fada realida","C":["n"],"en":"fait accompli","es":"hecho consumado","fr":"fait accompli"}
+{"L":"faor","C":["n"],"en":"doer","es":"emprendedor, ejecutor, realizador, fabricante, creador","fr":"faiseur"}
+{"L":"malfa","C":["vt"],"en":"do badly, bodge, botch, bungle, bumble, screw up, make a bad job of","es":"hacer mal, estropear, hacer una chapuza, arruinar"}
 {"L":"malfa","C":["n"],"en":"misfeed, bodge, botch"}
-{"L":"malfaor","C":["a"],"en":"bodger, botcher, bungler"}
-{"L":"refa","C":["vt"],"en":"redo, recommit, do over, do again","fr":"refaire"}
+{"L":"malfaor","C":["a"],"en":"bodger, botcher, bungler","es":"chapucero, inepto, manaza, torpe"}
+{"L":"refa","C":["vt"],"en":"redo, recommit, do over, do again","es":"rehacer","fr":"refaire"}
 {"L":"refa","C":["n"],"en":"redoing, do-over, retake"}
 {"T":"r","L":"fa","C":["n","mus"],"d":"la nota cuatro de la scala de C major, F, en la sistem de solfejo","en":"fa (musical note)","fr":"fa"}
 {"T":"r","L":"fable","C":["n","arte"],"d":"un nara corta con sinifia moral, tipal per enfantes, con carateres como animales o fes","i":"#","en":"fable, legend, folktale, fairy tale, children's story","fr":"fable, légende, conte de fée"}
@@ -10360,11 +10361,11 @@
 {"L":"familin","C":["a"],"en":"familiar","es":"familiar","fr":"familier"}
 {"L":"sufamilia","C":["n"],"en":"subfamily (biology)"}
 {"L":"suprafamilia","C":["n"],"en":"superfamily (biology)"}
-{"T":"r","L":"fan","C":["n","spo"],"d":"un person con un interesa forte en un sporte, arte, etc; un person ci amira forte un ecipo de sporte o un person famosa","en":"fan, fanatic, aficionado","es":"fan (admirador), fanático, aficionado, enthusiast","fr":"fan"}
-{"L":"fanes","C":["n","pl"],"en":"fans, fandom"}
+{"T":"r","L":"fan","C":["n","spo"],"d":"un person con un interesa forte en un sporte, arte, etc; un person ci amira forte un ecipo de sporte o un person famosa","en":"fan, fanatic, aficionado","es":"fan (admirador), fanático, aficionado, entusiasta","fr":"fan"}
+{"L":"fanes","C":["n","pl"],"en":"fans, fandom","es":"admiradores, aficionados, fanáticos, seguidores"}
 {"L":"fania","C":["n"],"en":"fandom (quality)"}
 {"L":"fanin","C":["a"],"en":"fannish"}
-{"T":"r","L":"fandango","C":["n","mus"],"d":"un dansa vivosa de Espania per du persones, tipal acompaniada par castanietas o tambureta","en":"fandango (dance)"}
+{"T":"r","L":"fandango","C":["n","mus"],"d":"un dansa vivosa de Espania per du persones, tipal acompaniada par castanietas o tambureta","en":"fandango (dance)","es":"fandango (baile)"}
 {"T":"r","L":"fanfara","C":["vnt","mus"],"d":"jua un melodia corta con strumentos como trompas, tipal per anunsia la ariva de un person importante","en":"sound a fanfare"}
 {"L":"fanfara","C":["n"],"en":"fanfare","fr":"fanfare"}
 {"T":"r","L":"fango","C":["n","tera"],"d":"un materia mol e aderente, miscada de tera e acua","i":"#","en":"mud, mire","fr":"boue, fange"}
@@ -11286,6 +11287,7 @@
 {"L":"foto pos aresta","C":["n"],"en":"mugshot"}
 {"L":"foto prosima","C":["n"],"en":"closeup"}
 {"L":"fa un foto","C":["n"],"en":"take a photo"}
+{"L":"fotor","C":["n"],"en":"photographer"}
 {"T":"r","L":"foto-","C":["pf","tecn"],"d":"lus o fotografia","en":"photo- (light, photography)"}
 {"T":"r","L":"fotocimical","C":["a","cim"],"d":"pertinente a o causada par la ativia cimical de lus","en":"photochemical"}
 {"T":"r","L":"fotocopia","C":["vt","util"],"d":"fa un copia de (un documento fisical), usante la efeto de lus sur un surfas spesial preparada","en":"photocopy, xerox"}
@@ -11629,19 +11631,19 @@
 {"T":"r","L":"fuso","C":["n","util"],"d":"un palo ronda e magra con finis diminuida, usada per torse e enrola filos de un masa de lana o simil; un spino cual porta la bobin de un macina de fili","i":"#","en":"spindle"}
 {"L":"fusin","C":["a"],"en":"spindle-shaped, fusiform"}
 {"T":"r","L":"fustan","C":["n","vest"],"d":"un sarja densa e durante","en":"fustian (fabric)"}
-{"T":"r","L":"fusuma","C":["n","arci"],"d":"un panel liscable, usada como un dividente o porte entre sales en casas nion tradisional","i":"#","en":"fusuma (screen)"}
-{"T":"r","L":"futbal","C":["n","spo"],"d":"un sporte juada par du ecipos de 11 juores, con un bal sfera cual no juor estra la golores pote toca par braso o mano; cualce de la varias de esta jua","i":"#","en":"football, soccer"}
-{"L":"futbal american","C":["n"],"en":"American football, gridiron football"}
-{"L":"futbalor","C":["n"],"en":"footballer, football player, soccer player"}
+{"T":"r","L":"fusuma","C":["n","arci"],"d":"un panel liscable, usada como un dividente o porte entre sales en casas nion tradisional","i":"#","en":"fusuma (screen)","es":"fusuma"}
+{"T":"r","L":"futbal","C":["n","spo"],"d":"un sporte juada par du ecipos de 11 juores, con un bal sfera cual no juor estra la golores pote toca par braso o mano; cualce de la varias de esta jua","i":"#","en":"football, soccer","es":"fútbol"}
+{"L":"futbal american","C":["n"],"en":"American football, gridiron football","es":"fútbol americano"}
+{"L":"futbalor","C":["n"],"en":"footballer, football player, soccer player","es":"futbolista"}
 {"T":"r","L":"futil","C":["a","uma"],"d":"(un ata) sin resulta usosa","en":"futile, fruitless, hopeless, pointless, vain, fatuous; fond (hope)"}
 {"L":"futil","C":["av"],"en":"in vain, to no avail"}
 {"L":"futilia","C":["n"],"en":"futility, fruitlessness"}
-{"T":"r","L":"futon","C":["n","arci"],"d":"un materas nion, desenrolada sur la solo per usa como leto; un tipo de sofa basa cual on desplia per usa como leto","i":"#","en":"futon (mattress)"}
+{"T":"r","L":"futon","C":["n","arci"],"d":"un materas nion, desenrolada sur la solo per usa como leto; un tipo de sofa basa cual on desplia per usa como leto","i":"#","en":"futon (mattress)","es":"futón (colchón)"}
 {"T":"r","L":"futur","C":["a","fil"],"d":"a un tempo plu tarda ca la momento de parla o scrive","en":"future, forthcoming, to come, -to-be, subsequent, eventual, prospective"}
-{"L":"futur","C":["n"],"en":"future, posterity"}
-{"L":"en la futur","C":["av"],"en":"in the future, subsequently"}
-{"L":"en la futur distante","C":["av"],"en":"in the distant future, eventually"}
-{"L":"futuriste","C":["n"],"en":"futurist"}
+{"L":"futur","C":["n"],"en":"future, posterity","es":"futuro, posteridad"}
+{"L":"en la futur","C":["av"],"en":"in the future, subsequently","es":"en el futuro, posteriormente"}
+{"L":"en la futur distante","C":["av"],"en":"in the distant future, eventually","es":"en el futuro lejano, finalmente, al final"}
+{"L":"futuriste","C":["n"],"en":"futurist","es":"futurista"}
 {"T":"r","L":"futurolojia","C":["n","uma"],"d":"la predise sistemosa de la futur, tipal par estrapola tendes presente","en":"futurology"}
 {"L":"futurolojiste","C":["n"],"en":"futurologist"}
 {"T":"r","L":"g","C":["sim"],"d":"la letera sete de la alfabeta roman; la nota sinco de la scala diatonica de C major","p":"ge","en":"g"}
@@ -13130,7 +13132,7 @@
 {"L":"intensia","C":["n"],"en":"intensity"}
 {"T":"r","L":"inter-","C":["pf","tecn"],"d":"entre","u":"interata, internasional","en":"inter- (between, mutually)"}
 {"T":"r","L":"intera","C":["a"],"d":"con no parte mancante; completa unida; no rompeda o dejenerada","en":"entire, whole, total"}
-{"L":"intera","C":["av"],"en":"entirely, wholly, totally, quite"}
+{"L":"intera","C":["av"],"en":"entirely, wholly, totally, utterly, quite"}
 {"L":"intera","C":["n"],"en":"whole, entirety, totality"}
 {"T":"r","L":"interesa","C":["vt","uma","mone"],"d":"stimula la curiosia o atende de (algun)","en":"interest, be of interest to"}
 {"L":"interesa","C":["n"],"d":"un senti de curiosia; mone periodal paiada a un taso spesifada, per la usa de mone prestada o per pospone la repaia de un deta","en":"interest (including money), attention; return (on investment), yield, payoff; sake"}
@@ -13523,6 +13525,7 @@
 {"L":"iudis","C":["n","pl"],"en":"Jews, Jewry"}
 {"L":"iudisme","C":["n"],"en":"Judaism"}
 {"L":"iudiste","C":["a"],"en":"Judaic, Jewish"}
+{"L":"noniudi","C":["a"],"en":"non-Jewish, gentile"}
 {"T":"r","L":"iugo","C":["n","util"],"d":"un peso de lenio usada per lia du boves o otra animales a un arado, caro o vagon","i":"#","en":"yoke"}
 {"L":"iugi","C":["vt"],"en":"yoke"}
 {"T":"r","L":"Iugoslavia","C":["n","jeo"],"d":"un federa pasada de paises en Europa sude-este, cual ia es divideda per formi Slovenia, Corvatsca, Serbia, Tsernagora, Bosnia e Hersegovina e Macedonia","i":"#","en":"Yugoslavia"}
@@ -16946,7 +16949,7 @@
 {"L":"naras","C":["n","pl"],"en":"stories, fiction","es":"hsitorias, ficción"}
 {"L":"naras siensal","C":["n"],"en":"science fiction","es":"ciencia ficción"}
 {"L":"nareta","C":["n"],"en":"short story","es":"cuento, relato corto"}
-{"L":"naror","C":["n"],"en":"storyteller, narrator, raconteur","es":"escritor, cuentista, narrador, cuentacuentos"}
+{"L":"naror","C":["n"],"en":"storyteller, narrator, raconteur, chronicler","es":"escritor, cuentista, narrador, cuentacuentos, cronista"}
 {"L":"nonarada","C":["a"],"en":"untold","es":"sin contar, no contada"}
 {"L":"renara","C":["vt"],"en":"retell","es":"volver a contar"}
 {"T":"r","L":"narco-","C":["pf","tecn"],"d":"nonsensosa","en":"narco- (stupor)","es":"narco-"}
@@ -17587,7 +17590,7 @@
 {"L":"desobedi","C":["vt"],"en":"disobey; break (rule, law)","es":"desobedecer","fr":"désobéir"}
 {"L":"desobedi","C":["n"],"en":"disobedience","es":"desobediencia","fr":"désobéissance"}
 {"L":"desobedinte","C":["a"],"en":"disobedient, insubordinate","es":"desobediente"}
-{"L":"nonobedinte","C":["a"],"en":"uncompliant"}
+{"L":"nonobedinte","C":["a"],"en":"non-compliant, uncompliant"}
 {"L":"obedinte","C":["a"],"en":"obedient, obeying, compliant","es":"obediente","fr":"obéissant"}
 {"T":"r","L":"obelisce","C":["n","arci"],"d":"un colona de cual sua talia traversal es cuadro o retangulo, con culmina piramide","i":"#","en":"obelisk","es":"obelisco","fr":"obélisque"}
 {"T":"r","L":"obesa","C":["a","med"],"d":"con tro multe gras; tro pesosa","i":"#","en":"obese, fat, overweight, plump, corpulent, portly, stout, flabby","es":"gordo, obeso","fr":"obèse"}
@@ -21993,7 +21996,7 @@
 {"L":"reporta","C":["n"],"da":"rapport, historie","de":"Geschichte, Bericht","en":"report, account, allegation, briefing","es":"reporte, historia, recuento, relato","fr":"reportage, histoire","it":"storia, racconto, rapporto, resoconto","nl":"verhaal, verslag","pt":"história, reporte, conto"}
 {"L":"malreporta","C":["vt"],"en":"misreport"}
 {"L":"nonreportada","C":["a"],"en":"unreported"}
-{"L":"reportor","C":["n"],"en":"reporter"}
+{"L":"reportor","C":["n"],"en":"reporter, chronicler","es":"periodista, reportero, cronista"}
 {"T":"r","L":"reposa","C":["vnt","bio"],"d":"sesa labora per refresci se; reclina sur la tera, un sofa, un leto, etc; resta tempora a un loca; (la Sol, Luna, etc) move a su la orizon","ca":"reposar, descansar","da":"ligge","de":"(aus)ruhen, rasten, liegen","en":"rest, relax, repose, lounge, have a rest, take it easy; lie down, settle, pause, ensconce oneself; roost (birds); stay (reside temporarily), sojourn; set (sun, moon, planet)","es":"reposar, acostar(se), recostar(se), tenderse, yacer, echarse","fr":"reposer, rester, coucher","it":"giacere","ja":"休む","nl":"liggen","pt":"repousar, descançar, deitar-se, estender-se","ru":"отдыхать"}
 {"L":"reposa","C":["vt"],"en":"rest"}
 {"L":"reposa","C":["n"],"en":"rest, relaxation, repose, respite, pause; stay, sojourn"}
