@@ -1245,7 +1245,7 @@
 {"L":"angulida","C":["a"],"en":"angled","he":"מוטה, מזוות"}
 {"T":"r","L":"angulometre","C":["n","util"],"d":"un strumento per mesura angulos","i":"#","en":"protractor","he":"מד-זווית"}
 {"T":"r","L":"angusa","C":["vt","uma"],"d":"fa ce (algun) sufri multe en sua mente par un xoca o preocupa ansiosa","en":"distress, appal|ll, harrow","he":"לגרום לייסורים, לגרום למצוקה"}
-{"L":"angusa","C":["n"],"en":"agony, anguish, anxiety, dismay, consternation, distress, stress (mental)","he":"ייסורים, סבל, עינוי, חרדה, לחץ, סטרס, מצוקה"}
+{"L":"angusa","C":["n"],"en":"agony, anguish, anxiety, dismay, consternation, distress, stress (mental), tribulation","he":"ייסורים, סבל, עינוי, חרדה, לחץ, סטרס, מצוקה"}
 {"L":"angusada","C":["a"],"en":"distressed, anxious, agonized|is, anguished, in anguish","he":"מיוסר, חרד, מעונה, סובל, לחוץ, שרוי במצוקה"}
 {"L":"angusante","C":["a"],"en":"distressing, appalling, harrowing, hurtful","he":"מייסר, מענה, גורם לסבל, מלחיץ"}
 {"T":"r","L":"ani","C":["n","avia"],"d":"un avia briliante negra de America Sentral e Sude, en familia de cucu, con coda longa e beco grande e profonda","i":"#","t":"Crotophaga","en":"ani (bird)","he":"אני (ציפור)"}
@@ -2190,7 +2190,7 @@
 {"T":"r","L":"atende","C":["vt"],"d":"dirije sua sensas e pensas a (un person o cosa) cual on regarda como importante; acompania (algun) como un servor","n":"No usa `atende` per dise `cura`.","v":"cura","en":"pay attention to, attend to, heed, take into account; keep an eye on, mind, look after, take care of (temporarily); attend, serve (master)","he":"לשים לב ל-, לשים עין, להשגיח"}
 {"L":"atende","C":["esc"],"en":"look out, watch out, be careful, fore","he":"שים לב!, זהירות!"}
 {"L":"atende","C":["n"],"en":"attention, heedfulness","he":"תשומת לב; קשב; השגחה"}
-{"L":"atendente","C":["a"],"en":"attentive, alert, attendant, heedful; careful, rigorous, clear-headed, wakeful","he":"קשוב, מתחשב; דרוך, זהיר"}
+{"L":"atendente","C":["a"],"en":"attentive, alert, attendant, heedful, intent; careful, rigorous, clear-headed, wakeful","he":"קשוב, מתחשב; דרוך, זהיר"}
 {"L":"atendor","C":["n"],"en":"attendant, caretaker, sitter; squire","he":"משגיח, בן-לוויה, מטפל; משרת, נושא כלים"}
 {"L":"atendor de bebe","C":["n"],"en":"babysitter","he":"שמרטף, בייביסיטר"}
 {"L":"atendores","C":["n","pl"],"en":"attendants, entourage, retinue","he":"פמלייה"}
@@ -5980,6 +5980,7 @@
 {"L":"consenta","C":["n"],"en":"meeting, session, sitting","he":"ישיבה, פגישה, סשן"}
 {"T":"r","L":"consentra","C":["vnt","cim","info"],"d":"foca sua persepi o labora mental sur un cosa o taxe spesifada; deveni colieda en un cuantia o masa grande; (un cimical) deveni plu forte par la sutrae de acua o un otra licuida, o par la cumula distinguinte de atomes o moleculas","en":"concentrate (attention, substance)","he":"להתרכז"}
 {"L":"consentra","C":["n"],"en":"concentration, focus","he":"ריכוז"}
+{"L":"consentrada","C":["a"],"en":"concentrated, focused, intent"}
 {"L":"consentrador","C":["n"],"en":"hub (computer)","he":"(מחשבים) רכז"}
 {"T":"r","L":"consentral","C":["a","mat"],"d":"descrivente sirculos, arcos o otra formas cual comparti la mesma sentro","en":"concentric","he":"קונצנטרי"}
 {"T":"r","L":"consepi","C":["vt","bio"],"d":"deveni ensinta con (un enfante)","en":"conceive (pregnancy)","he":"להתעבר, להרות"}
@@ -7397,9 +7398,9 @@
 {"L":"cuxini","C":["vt"],"en":"cushion, pad","he":"לרפד"}
 {"L":"cuxinida","C":["a"],"en":"cushioned, padded","he":"מרופד"}
 {"T":"r","L":"cvas","C":["n","cos"],"d":"un bevida slavica, comun preparada de pan de segal, e ance usada en sopas","en":"kvass","he":"קוואס (משקה)"}
-{"T":"r","L":"d","C":["sim"],"d":"la letera cuatro de la alfabeta roman; la nota du de la scala diatonica de C major","p":"de","en":"d","fr":"ré","he":"האות הרביעית באלפבית הלטיני"}
-{"T":"r","L":"-da","C":["sf","a"],"d":"ajuntada a un verbo per formi la partisipio pasiva","n":"La partisipio pasiva es un ajetivo cual indica ce on fa (o ia fa) la ata de la verbo a la person o cosa cual la partisipio descrive (un mesaje ascondeda es un mesaje cual on ia asconde). On usa lo ance como un nom, indicante un person o cosa cual es `-da`. No confusa `-da` con la paroleta `ia`, cual formi la tempo pasada de un verbo xef.","u":"ascondeda; tu ia asconde un mesaje e me ia trova tua mesaje ascondeda; la mesaje ia es ascondeda","en":"-ed","he":"(סיומת) בינוני פעול (צורות פעול, מפועל, מופעל)"}
-{"L":"-da","C":["sf","n"],"u":"empleada; comeda","en":"-ee (person or thing that is -ed)","he":"(סיומת) בינוני פעול (צורות פעול, מפועל, מופעל)"}
+{"T":"r","L":"d","C":["sim"],"d":"la letera cuatro de la alfabeta roman; la nota du de la scala diatonica de C major","p":"de","en":"d","es":"d","fr":"ré","he":"האות הרביעית באלפבית הלטיני"}
+{"T":"r","L":"-da","C":["sf","a"],"d":"ajuntada a un verbo per formi la partisipio pasiva","n":"La partisipio pasiva es un ajetivo cual indica ce on fa (o ia fa) la ata de la verbo a la person o cosa cual la partisipio descrive (un mesaje ascondeda es un mesaje cual on ia asconde). On usa lo ance como un nom, indicante un person o cosa cual es `-da`. No confusa `-da` con la paroleta `ia`, cual formi la tempo pasada de un verbo xef.","u":"ascondeda; tu ia asconde un mesaje e me ia trova tua mesaje ascondeda; la mesaje ia es ascondeda","en":"-ed","es":"-ado, -ido (en verbos regulares)","he":"(סיומת) בינוני פעול (צורות פעול, מפועל, מופעל)"}
+{"L":"-da","C":["sf","n"],"u":"empleada; comeda","en":"-ee (person or thing that is -ed","he":"(סיומת) בינוני פעול (צורות פעול, מפועל, מופעל)"}
 {"T":"r","L":"Dacia","C":["n","jeo"],"d":"un pais antica en Europa sude-este, corespondente a Romania moderna","i":"#","en":"Dacia (ancient region)","es":"Dacia","he":"דאקיה (ארץ עתיקה)","ru":"Дакия"}
 {"T":"r","L":"dacota","C":["a","dem"],"d":"pertinente a la americanes orijinal de la vale de la Rio Mississippi norde e la planos prosima, o a sua lingua","en":"Dakota (person, language)","es":"dacota (persona, lengua)","he":"דקוטה (עם, שפה)","ru":"дакота, дакотский"}
 {"L":"dacota","C":["n"],"en":"Dakota (person, language)","es":"dacota (persona, lengua)","he":"דקוטה (עם, שפה)","ru":"Дакота"}
@@ -7413,18 +7414,18 @@
 {"L":"dageta","C":["n","util"],"d":"un ago spesa e nonagu, con buco grande, usada per tira un banda o cordeta tra un orlo","en":"bodkin (needle)","es":"punzón","he":"(תפירה) משחיל גומי, משחיל שרוכים"}
 {"L":"dagi","C":["vt"],"en":"stab","he":"לדקור (בפגיון)"}
 {"T":"r","L":"dagara","C":["a","dem"],"d":"pertinente a un popla de Gana e Burcina Faso o a sua lingua","en":"Dagaaba (people), Dagare (language)","he":"דגאבה (עם, שפה)"}
-{"L":"dagara","C":["n"],"en":"Dagaaba (people), Dagare (language)","he":"דגאבה (עם, שפה)"}
+{"L":"dagara","C":["n"],"de":"Dagaare, Dagaaba","en":"Dagaaba (people), Dagare (language)","he":"דגאבה (עם, שפה)"}
 {"T":"r","L":"dagereotipo","C":["n","util"],"d":"un foto preparada par un prosede temprana, developada par Louis Daguerre en 1831","en":"daguerreotype","es":"daguerrotipo","he":"דאגרוטיפ","ru":"дагерротип"}
 {"T":"r","L":"daiciri","C":["n","cos"],"d":"un coctel conteninte rum e jus de lima","en":"daiquiri (drink)","es":"daiquiri","he":"דאקירי (משקה)","ru":"Дайкири (коктель из смеси светлого рома, сока Лайма и сахара)"}
 {"T":"r","L":"Dakota","C":["n","jeo"],"en":"Dakota","es":"Dakota","he":"דקוטה (איזור)"}
 {"L":"Dakota Norde","C":["n","jeo"],"d":"un stato en la SUA norde-sentral, bordante Canada","en":"North Dakota (US state)","es":"Dakota del Norte (estado de Estados Unidos)","he":"דקוטה הצפונית","ru":"Северная Дакота (штат)"}
 {"L":"Dakota Sude","C":["n","jeo"],"d":"un stato en la SUA norde-sentral","en":"South Dakota (US state)","es":"Dakota del Sur (estado de Estados Unidos)","he":"דקוטה הדרומית","ru":"Южная Дакота (штат)"}
-{"T":"r","L":"dalia","C":["n","pla"],"d":"un planta mexican en familia de margarita, con radises tuberosa","i":"#","t":"Dahlia","en":"dahlia","he":"דליה (צמח)","ru":"георгин (цветок)"}
-{"T":"r","L":"dalit","C":["a","dem"],"d":"pertinente a cada de la castas indu cual on ia nomi `nontocable` en la pasada","en":"Dalit (caste)","he":"שקשור לדלית (קאסטה בהודו)","ru":"относящийся к касте неприкасаемых"}
-{"L":"dalit","C":["n","dem"],"en":"Dalit (caste)","he":"דלית (קאסטה בהודו)","ru":"Далит, неприкасаемый (каста в Индии)"}
+{"T":"r","L":"dalia","C":["n","pla"],"d":"un planta mexican en familia de margarita, con radises tuberosa","i":"#","t":"Dahlia","en":"dahlia","es":"dalia","he":"דליה (צמח)","ru":"георгин (цветок)"}
+{"T":"r","L":"dalit","C":["a","dem"],"d":"pertinente a cada de la castas indu cual on ia nomi `nontocable` en la pasada","en":"Dalit (caste)","es":"paria (casta)","he":"שקשור לדלית (קאסטה בהודו)","ru":"относящийся к касте неприкасаемых"}
+{"L":"dalit","C":["n","dem"],"en":"Dalit (caste)","es":"paria (casta)","he":"דלית (קאסטה בהודו)","ru":"Далит, неприкасаемый (каста в Индии)"}
 {"T":"r","L":"Dalmasia","C":["n","jeo"],"d":"un rejion antica corespondente a un parte de Corvatsca moderna, composada de montanias e un plano costal streta a la Mar Adriatica","i":"#","en":"Dalmatia","es":"Dalmacia","he":"דלמטיה (אזור)","ru":"Далмация (историческая область на северо-западе Балканского полуострова, на побережье Адриатического моря, на территории современных Хорватии в основном и Черногории)"}
-{"L":"dalmasian","C":["a"],"en":"Dalmatian (including dog)","he":"דלמטי","ru":"далматский, далматинский"}
-{"L":"dalmasian","C":["n","dem","mam"],"i":"#","en":"Dalmatian (including dog)","he":"דלמטי","ru":"далмат (член племени далматов), далматинец (порода собак)"}
+{"L":"dalmasian","C":["a"],"en":"Dalmatian (including dog)","es":"dálmata (incluyendo el perro)","he":"דלמטי","ru":"далматский, далматинский"}
+{"L":"dalmasian","C":["n","dem","mam"],"i":"#","en":"Dalmatian (including dog)","es":"dámata (incluyendo el perro)","he":"דלמטי","ru":"далмат (член племени далматов), далматинец (порода собак)"}
 {"T":"r","L":"daltonisme","C":["n","med"],"d":"la noncapasia de distingui alga colores","en":"color|ur blindness","es":"daltonismo","he":"עיוורון צבעים","ru":"дальтонизм"}
 {"T":"r","L":"dama","C":["n"],"d":"un fem de un grado sosial superior, spesial nobil; un fem cortes e jentil; un fem ci acompania un sposa nova a sua dia de sposi; (en xace o cartas) la rea","i":"#","en":"lady, dame, gentlewoman, matron; bridesmaid; queen (chess, cards)","es":"dama","fr":"dame","he":"גברת, ליידי; שושבינה; (שחמט, קלפים) מלכה","ru":"дама"}
 {"L":"dama de onora","C":["n"],"en":"maid of honor|ur","es":"dama de honor","fr":"demoiselle d'honneur","he":"שושבינה","ru":"подружка невесты"}
@@ -10448,7 +10449,7 @@
 {"T":"r","L":"fasimil","C":["n","info"],"d":"un copia esata, tipal de materia scriveda o primida","en":"facsimile, exact reproduction","fr":"fac-similé"}
 {"T":"r","L":"fasina","C":["vt","uma"],"d":"atrae la atende e interesa de (algun) en modo nonresistable","en":"fascinate, intrigue, engross","fr":"fasciner"}
 {"L":"fasina","C":["n"],"en":"fascination, allure","fr":"fascination"}
-{"L":"fasinada","C":["a"],"en":"fascinated, rapt"}
+{"L":"fasinada","C":["a"],"en":"fascinated, rapt, intent"}
 {"L":"fasinante","C":["a"],"en":"fascinating, engrossing, riveting, compelling"}
 {"T":"r","L":"fasmido","C":["n","artr"],"d":"un inseto longa e magra cual sembla un basteta","i":"#","t":"Phasmatodea","en":"stick insect, stick bug, walking stick","fr":"phasme"}
 {"T":"r","L":"fatiga","C":["vt","bio"],"d":"fa ce (algun) senti la nesesa de reposa, dormi o sesa labora","en":"tire, exhaust, fatigue","fr":"fatiguer"}
@@ -11046,7 +11047,7 @@
 {"T":"r","L":"foca","C":["vnt","fis"],"d":"deveni consentrada como un raio agu de lus o enerjia; deveni capas de vide clar; (un person) atende forte con sua mente","en":"focus (light, energy, attention)"}
 {"L":"foca","C":["vt"],"en":"focus (light, energy, attention)"}
 {"L":"foca","C":["n"],"en":"focus; centerpiece|re"}
-{"L":"focada","C":["a"],"en":"focused, in focus"}
+{"L":"focada","C":["a"],"en":"focused, in focus; intent"}
 {"L":"focal","C":["a"],"en":"focal"}
 {"L":"nonfocada","C":["a"],"en":"unfocused, out of focus"}
 {"T":"r","L":"foca","C":["n","mam"],"d":"un mamal con corpo idrodinamical ci come pexes e reveni a tera per reposa o reprodui","i":"#","t":"Phocidae, Otariidae","en":"seal (animal)"}
@@ -13123,7 +13124,7 @@
 {"L":"intendente","C":["a"],"en":"intentional, deliberate, on purpose"}
 {"L":"malintendente","C":["a"],"en":"ill-willed, cruel"}
 {"L":"nonintendeda","C":["a"],"en":"unintended, inadvertent, unplanned, collateral"}
-{"T":"r","L":"intensa","C":["a"],"d":"de fortia o grado estrema; multe consentrada","en":"intense, intensive; formidable"}
+{"T":"r","L":"intensa","C":["a"],"d":"de fortia o grado estrema; multe consentrada","en":"intense, intensive; intent; formidable"}
 {"L":"desintensi","C":["vnt"],"en":"reduce, assuage"}
 {"L":"desintensi","C":["vt"],"en":"reduce, assuage"}
 {"L":"intensi","C":["vnt"],"en":"intensify, heighten"}
@@ -14309,6 +14310,7 @@
 {"L":"lejeria completa","C":["n"],"en":"weightlessness, zero gravity"}
 {"L":"tro lejera","C":["a"],"en":"underweight"}
 {"T":"r","L":"lejion","C":["n","gov","ist"],"d":"(en la armada roman antica) un unia de entre tre e ses mil soldatos; (en la armada franses) un unia xef composada de soldatos nonfranses","en":"legion"}
+{"L":"desilejion","C":["n"],"en":"cohort (Roman army unit)"}
 {"L":"lejionor","C":["n"],"en":"legionnaire"}
 {"T":"r","L":"lema","C":["n","mat","fil"],"d":"un teorem media en un demostra matematical o filosofial; un titulo indicante un tema; un parola definida en un disionario","en":"lemma (mathematics, philosophy); headword (dictionary)"}
 {"T":"r","L":"leming","C":["n","mam"],"d":"un rodente peti en familia de campaniol, trovada en la tundra artica","i":"#","t":"Lemmini","en":"lemming (rodent)"}
@@ -14852,7 +14854,7 @@
 {"L":"con loda masima","C":["av"],"en":"with the highest praise, summa cum laude"}
 {"L":"lodable","C":["a"],"en":"laudable, praiseworthy, commendable"}
 {"L":"lodante","C":["a"],"en":"praising, flattering"}
-{"L":"lodas","C":["esc"],"en":"congratulations, my compliments"}
+{"L":"lodas","C":["esc"],"en":"congratulations, my compliments; hail (greeting)"}
 {"L":"nonlodada","C":["a"],"en":"unpraised, unsung"}
 {"L":"nonlodante","C":["a"],"en":"unflattering"}
 {"T":"r","L":"loden","C":["n","vest"],"d":"un stofa spesa e secur contra acua, tipal verde oscur","en":"loden (fabric)"}
@@ -19687,6 +19689,7 @@
 {"T":"r","L":"petra","C":["n","tera"],"d":"la materia dur, solida e nonmetal de minerales de cual roca es composada, tipal usada per construi; un peso de esta","i":"#","en":"stone"}
 {"L":"petra cubo","C":["n"],"en":"sett, paving block"}
 {"L":"petra de agi","C":["n"],"en":"whetstone"}
+{"L":"petra de angulo","C":["n"],"en":"cornerstone"}
 {"L":"petra de milia","C":["n"],"en":"milestone"}
 {"L":"petra de molin","C":["n"],"en":"millstone, grindstone"}
 {"L":"petra de paso","C":["n"],"en":"stepping stone"}
@@ -22691,6 +22694,7 @@
 {"L":"sadiste","C":["n"],"en":"sadist","fr":"sadique"}
 {"T":"r","L":"sadomasocisme","C":["n","uma"],"d":"un tende psicolojial cual combina sadisme e masocisme","en":"sadomasochism"}
 {"L":"sadomasociste","C":["a"],"en":"sadomasochistic"}
+{"T":"r","L":"saduseo","C":["n","ist","rel"],"d":"un membro de un seta antica de iudisme cual ia nega la esiste de spiritos e ia aseta sola leges scriveda","en":"sadducee"}
 {"T":"r","L":"safari","C":["n"],"d":"un mision per oserva o xasa animales en sua abita natural, tipal en Africa este","en":"safari","fr":"safari"}
 {"T":"r","L":"safir","C":["n","tera"],"d":"un varia de corindon valuada como un jem, cual ave tipal un color oscur blu","i":"#","en":"sapphire (gem)","fr":"saphir"}
 {"T":"r","L":"saga","C":["n","arte","ist"],"d":"un nara longa de la atenis de un eroe, tipal un nara medieval en norsce vea o islansce vea; (metafor) un nara o reporta longa e complicada","en":"saga (story)","fr":"saga"}
@@ -25404,7 +25408,7 @@
 {"T":"r","L":"sufle","C":["n","cos"],"d":"un plato lejera e sponjin, tipal preparada par ajunta vitelos saborida a albumenes multe bateda","i":"#","en":"soufflé (food)"}
 {"T":"r","L":"sufrajeta","C":["n","gov","ist"],"d":"un fem ci esije la direto de vota par protestas organizada, tipal en la tarda de la sentenio 19 e la temprana de la sentenio 20","i":"#","en":"suffragette"}
 {"T":"r","L":"sufri","C":["vt","uma"],"d":"esperia (un cosa dolosa o triste)","u":"sufri de depresa; sufri un crise mental","da":"lide","de":"leiden; ertragen","en":"suffer, undergo","eo":"suferi","es":"sufrir, padecer, soportar","fr":"sufrir","it":"soffrire","nl":"lijden","pt":"sofrer, padecer"}
-{"L":"sufri","C":["n"],"en":"suffering, affliction, hardship"}
+{"L":"sufri","C":["n"],"en":"suffering, affliction, hardship, tribulation"}
 {"L":"sufror","C":["n"],"en":"sufferer"}
 {"T":"r","L":"suhur","C":["n","rel"],"d":"(en islam) un come temprana en ramadan","en":"suhur, sahur, sehri (Islam)"}
 {"T":"r","L":"suing","C":["a","mus"],"d":"pertinente a un moda de musica e dansa derivada de jaz, con un ritmo forte ma suave","i":"#","p":"swing","en":"swing, jive, jitterbug, lindy (dance, music)"}
@@ -26293,7 +26297,7 @@
 {"T":"r","L":"teta","C":["n"],"d":"la letera oto de la alfabeta elinica","s":"Θ θ","en":"theta (Greek letter)"}
 {"T":"r","L":"tetania","C":["n","med"],"d":"un state marcada par spasmas musculal causada par un malfunsiona de la glandes paratiroide e la nonsufisi resultante de calsio","en":"tetany (medical)"}
 {"T":"r","L":"tetano","C":["n","med"],"d":"un maladia causada par un bateria, marcada par tetania","en":"tetanus, lockjaw (medical)"}
-{"T":"r","L":"teto","C":["n","arci"],"d":"la strutur cual covre la culmina de un construida o veculo; la nivel su sielo de un barcon","i":"#","ca":"teulat","da":"tag","de":"Dach","en":"roof, rooftop; deck","eo":"tegmento; ferdeko","es":"techo, techumbre, tejado, azotea","fr":"toit; pont (de bateau)","it":"tetto","ja":"屋根","nl":"dak","pt":"telhado","ru":"крыша"}
+{"T":"r","L":"teto","C":["n","arci"],"d":"la strutur cual covre la culmina de un construida o veculo; la covrente de un contenador; la nivel su sielo de un barcon","i":"#","ca":"teulat","da":"tag","de":"Dach","en":"roof, rooftop; lid; deck","eo":"tegmento; ferdeko","es":"techo, techumbre, tejado, azotea","fr":"toit; pont (de bateau)","it":"tetto","ja":"屋根","nl":"dak","pt":"telhado","ru":"крыша"}
 {"L":"teto de palia","C":["n"],"i":"#","en":"thatched roof"}
 {"L":"teto dur","C":["n"],"en":"hardtop (car)"}
 {"L":"teto solal","C":["n"],"en":"sunroof"}
@@ -27113,7 +27117,7 @@
 {"L":"tupi","C":["n"],"en":"Tupi (person, language)"}
 {"T":"r","L":"turaco","C":["n","avia"],"d":"un avia de Africa con plumas briliante, cresta protendente e coda longa, ci prefere frutas","i":"#","t":"Musophagidae","en":"turaco (bird)","fr":"touraco"}
 {"T":"r","L":"turba","C":["vt","uma"],"d":"desordina, confusa o ajita (un person, sustantia o situa) en modo major, subita o angusante","v":"disturba","en":"disturb, shake up, stir up, churn up, roil; upset, agitate, distress, cause anxiety to, cause pain to, trouble, harrow","fr":"troubler, agiter"}
-{"L":"turba","C":["n"],"da":"besvær, vrøvl","de":"Schwierigkeit","en":"trouble, difficulty, unrest; mischief, shenanigans; turbulence","es":"problema, apuro, dificultad, aflicción, inquietud, perturbación, molestia, pena","fr":"trouble, turbulence","it":"difficoltà","nl":"moeite","pt":"dificuldade, problema, confusão"}
+{"L":"turba","C":["n"],"da":"besvær, vrøvl","de":"Schwierigkeit","en":"trouble, difficulty, unrest, tribulation; mischief, shenanigans; turbulence","es":"problema, apuro, dificultad, aflicción, inquietud, perturbación, molestia, pena","fr":"trouble, turbulence","it":"difficoltà","nl":"moeite","pt":"dificuldade, problema, confusão"}
 {"L":"turba la tera","C":["v"],"en":"dig the soil, turn the soil"}
 {"L":"sin turba","C":["a"],"en":"undisturbed"}
 {"L":"turbable","C":["a"],"en":"disturbable, agitable, capable of getting upset"}
@@ -28809,7 +28813,7 @@
 {"L":"nonzelosa","C":["a"],"en":"unenthusiastic, cool"}
 {"L":"tro zelosa","C":["a"],"en":"overenthusiastic, overeager"}
 {"L":"zeli","C":["vt"],"en":"enthuse","eo":"entuziasmigi"}
-{"L":"zelosa","C":["a"],"d":"con multe zelo","en":"zealous, enthusiastic, eager, keen, anxious (for), passionate, ardent, avid, fanatical, fervent, zestful; hearty, heartfelt, (emotionally) warm","eo":"entuziasma, fervora, avida, kora","fr":"enthousiaste, zélé"}
+{"L":"zelosa","C":["a"],"d":"con multe zelo","en":"zealous, enthusiastic, eager, keen, anxious (for), passionate, ardent, avid, fanatical, fervent, intent, zestful; hearty, heartfelt, (emotionally) warm","eo":"entuziasma, fervora, avida, kora","fr":"enthousiaste, zélé"}
 {"T":"r","L":"zen","C":["n","rel"],"d":"un varia de budisme de Nion, orijinante en Jonguo","en":"Zen","eo":"zeno","fr":"zen"}
 {"L":"zeniste","C":["a"],"en":"Zen"}
 {"L":"zeniste","C":["n"],"en":"Zen Buddhist"}
