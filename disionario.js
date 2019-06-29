@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '27 junio 2019';
+﻿var dataDeDatos = '28 junio 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -6203,11 +6203,11 @@ var disionario = [
 {L:"contracultural",C:["a"],en:"counterculture, countercultural",he:"של תרבות הנגד"},
 {T:"r",L:"contrademostra",C:["vt","fil"],d:"demostra ce (alga cosa) es falsa",en:"disprove",he:"להפריך, להזם"},
 {L:"contrademostra",C:["n"],en:"disproof",he:"הפרכה, הזמה"},
-{T:"r",L:"contradise",C:["vt","fil"],d:"nega la veria de (un declara), spesial par mostra la oposada",en:"contradict",he:"לסתור"},
-{L:"contradise",C:["n"],en:"contradiction",he:"סתירה"},
+{T:"r",L:"contradise",C:["vt","fil"],d:"nega la veria de (un declara), spesial par mostra la oposada",en:"contradict, be at odds with, call into question, show to be false, prove to be false, disprove, debunk, discredit, controvert, negate, confute",he:"לסתור"},
+{L:"contradise",C:["n"],en:"contradiction, inconsistency, mismatch, variance",he:"סתירה"},
 {L:"autocontradise",C:["vt"],en:"contradict oneself",he:"לסתור את עצמו"},
 {L:"autocontradisente",C:["a"],en:"self-contradictory",he:"סתירה עצמית"},
-{L:"contradisente",C:["a"],en:"contradictory",he:"סותר"},
+{L:"contradisente",C:["a"],en:"contradictory, antithetical, contrary, contrasting, conflicting, at variance, at odds, opposing, clashing, divergent, discrepant, different; inconsistent, incompatible",he:"סותר"},
 {L:"contradise se",C:["vt"],en:"contradict oneself",he:"לסתור את עצמו"},
 {T:"r",L:"contrae",C:["vnt","bio"],d:"deveni plu peti en grandia, cuantia o estende; (un musculo) deveni plu corta o tensada per causa de un move de un parte de la corpo",en:"contract (shrink)",he:"להתכווץ"},
 {L:"contrae",C:["n"],d:"un corti de un musculo, tipal subita e nonintendeda",en:"contraction, spasm",he:"התכווצות, כיווץ; עווית"},
@@ -7402,7 +7402,7 @@ var disionario = [
 {T:"r",L:"cvas",C:["n","cos"],d:"un bevida slavica, comun preparada de pan de segal, e ance usada en sopas",en:"kvass",he:"קוואס (משקה)"},
 {T:"r",L:"d",C:["sim"],d:"la letera cuatro de la alfabeta roman; la nota du de la scala diatonica de C major",p:"de",en:"d",es:"d",fr:"ré",he:"האות הרביעית באלפבית הלטיני"},
 {T:"r",L:"-da",C:["sf","a"],d:"ajuntada a un verbo per formi la partisipio pasiva",n:"La partisipio pasiva es un ajetivo cual indica ce on fa (o ia fa) la ata de la verbo a la person o cosa cual la partisipio descrive (un mesaje ascondeda es un mesaje cual on ia asconde). On usa lo ance como un nom, indicante un person o cosa cual es `-da`. No confusa `-da` con la paroleta `ia`, cual formi la tempo pasada de un verbo xef.",u:"ascondeda; tu ia asconde un mesaje e me ia trova tua mesaje ascondeda; la mesaje ia es ascondeda",en:"-ed",es:"-ado, -ido (en verbos regulares)",he:"(סיומת) בינוני פעול (צורות פעול, מפועל, מופעל)"},
-{L:"-da",C:["sf","n"],u:"empleada; comeda",en:"-ee (person or thing that is -ed",he:"(סיומת) בינוני פעול (צורות פעול, מפועל, מופעל)"},
+{L:"-da",C:["sf","n"],u:"empleada; comeda",en:"-ee (person or thing that is -ed)",he:"(סיומת) בינוני פעול (צורות פעול, מפועל, מופעל)"},
 {T:"r",L:"Dacia",C:["n","jeo"],d:"un pais antica en Europa sude-este, corespondente a Romania moderna",i:"#",en:"Dacia (ancient region)",es:"Dacia",he:"דאקיה (ארץ עתיקה)",ru:"Дакия"},
 {T:"r",L:"dacota",C:["a","dem"],d:"pertinente a la americanes orijinal de la vale de la Rio Mississippi norde e la planos prosima, o a sua lingua",en:"Dakota (person, language)",es:"dacota (persona, lengua)",he:"דקוטה (עם, שפה)",ru:"дакота, дакотский"},
 {L:"dacota",C:["n"],en:"Dakota (person, language)",es:"dacota (persona, lengua)",he:"דקוטה (עם, שפה)",ru:"Дакота"},
