@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '28 junio 2019';
+﻿var dataDeDatos = '30 junio 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -383,7 +383,7 @@ var disionario = [
 {T:"r",L:"afin",C:["sj"],d:"intendente ce, con gol ce",u:"me va leva tu afin tu vide",v:"car",en:"so that, in order that",eo:"por ke",he:"בשביל ש, כדי ש"},
 {T:"r",L:"afina",C:["a","mat"],d:"permetente o conservante relatas paralel",en:"affine",he:"(מתמטיקה) אפיני"},
 {T:"r",L:"afirma",C:["vt","gov"],d:"declara formal",en:"affirm, state, aver",eo:"aserti",he:"לאשר, להצהיר"},
-{L:"afirma",C:["n"],en:"affirmation",eo:"aserto",he:"אישור, הצהרה"},
+{L:"afirma",C:["n"],en:"affirmation, (formal) statement",eo:"aserto",he:"אישור, הצהרה"},
 {L:"afirmante",C:["a"],en:"affirming, affirmative",eo:"asertanta, jesa",he:"מאשר, מצהיר"},
 {L:"preafirma",C:["vt"],en:"preaffirm",he:"לאשר מראש"},
 {L:"reafirma",C:["vt"],en:"reaffirm",eo:"reaserti",he:"לאשר שוב"},
@@ -8859,8 +8859,7 @@ var disionario = [
 {L:"atenta egali",C:["v"],en:"try to catch up, play catch-up"},
 {L:"egalador",C:["n"],en:"equalizer|is (filter)"},
 {L:"egali",C:["vnt"],en:"equalize|is, become equal, catch up"},
-{L:"egali",C:["vt"],en:"equalize|is, make equal"},
-{L:"egali",C:["vt"],en:"match, rival, equate to, catch up with"},
+{L:"egali",C:["vt"],en:"equalize|is, make equal, match, rival, equate to, catch up with"},
 {L:"egali",C:["n"],en:"equation"},
 {L:"egali cuadral",C:["n"],v:"egali de grado du",en:"quadratic equation"},
 {L:"egali cubo",C:["n"],v:"egali de grado tre",en:"cubic equation"},
@@ -8875,6 +8874,9 @@ var disionario = [
 {L:"egalisme",C:["n"],en:"egalitarianism"},
 {L:"egaliste",C:["a"],en:"egalitarian"},
 {L:"nonegal",C:["a"],en:"unequal, non-equivalent"},
+{L:"nonegali",C:["vnt"],en:"become unequal"},
+{L:"nonegali",C:["vt"],en:"make unequal"},
+{L:"nonegali",C:["n"],en:"inequation"},
 {L:"nonegalia",C:["n"],en:"inequality, disparity, discrepancy"},
 {L:"sin egal",C:["a"],en:"without equal, unequaled|ll, unrivaled|ll, unmatched, matchless, peerless, nonpareil, incomparable"},
 {T:"r",L:"Egipte",C:["n","jeo"],d:"un otra nom per Misre",i:"Misre",v:"Misre",en:"Egypt"},
