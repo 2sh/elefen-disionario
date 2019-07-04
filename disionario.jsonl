@@ -8700,17 +8700,17 @@
 {"T":"r","L":"e","C":["sim"],"d":"la letera sinco de la alfabeta roman, e sua nom; la nota tre de la scala diatonica de C major","p":"e","en":"e","es":"e"}
 {"T":"r","L":"e","C":["cj"],"d":"ance, en ajunta (juntante du espresas o frases cual es membros egal de un lista o grupo)","en":"and","es":"y, e"}
 {"L":"e ... e","C":["esp"],"u":"e esta e acel","en":"both ... and"}
-{"L":"e/o","C":["cj"],"en":"and/or"}
-{"T":"r","L":"e-","C":["pf"],"en":"e- (electronic)"}
+{"L":"e/o","C":["cj"],"en":"and/or","es":"y/o"}
+{"T":"r","L":"e-","C":["pf"],"en":"e- (electronic)","es":"e- (electrónico)"}
 {"T":"r","L":"ebano","C":["n","pla"],"d":"un lenio negra o brun oscur; la arbor tropical cual produi esta","i":"#","t":"Ebenaceae","en":"ebony","es":"ébano"}
 {"T":"r","L":"ebefrenia","C":["n","uma","med"],"d":"un varia cronica de scizofrenia, marcada par rie e condui enfantin","en":"hebephrenia (medical)","es":"hebefrenia, esquizofrenia desorganizada"}
-{"L":"ebefrenica","C":["a"],"en":"hebephrenic","es":"heefrénica"}
+{"L":"ebefrenica","C":["a"],"en":"hebephrenic","es":"hebefrénica"}
 {"T":"r","L":"ebonita","C":["n","tera"],"d":"cauxo vulcanida, cual deveni dur e negra","en":"ebonite (rubber)","es":"ebonita (caucho)"}
 {"T":"r","L":"ec","C":["c"],"d":"de la eda comun","en":"CE, AD, anno domini","es":"EC, d.C."}
-{"T":"r","L":"ecdisozon","C":["n"],"d":"un clado o suprafilo de animales cual inclui artropodos, nematodos e otras cual perde sua esosceleto","t":"Ecdysozoa","en":"ecdysozoon (pl. ecdysozoa) (organism)"}
-{"T":"r","L":"ecg","C":["c","util","med"],"d":"eletrocardiograf","en":"ECG, EKG"}
-{"T":"r","L":"ecidna","C":["n","mam"],"d":"un mamal spinosa e insetivor de Australia e Gine Nova, con beco e garas longa, cual produi ovos e come formicas","i":"#","t":"Tachyglossidae","en":"echidna, spiny anteater"}
-{"T":"r","L":"ecimose","C":["n","med"],"d":"un malcolori causada par la cumula de sangue su la pel, tipal de un contusa","en":"ecchymosis (medical)"}
+{"T":"r","L":"ecdisozon","C":["n"],"d":"un clado o suprafilo de animales cual inclui artropodos, nematodos e otras cual perde sua esosceleto","t":"Ecdysozoa","en":"ecdysozoon (pl. ecdysozoa) (organism)","es":"ecdisozoo (pl. ecdisozoos) (organismo)"}
+{"T":"r","L":"ecg","C":["c","util","med"],"d":"eletrocardiograf","en":"ECG, EKG","es":"ECG, EKG"}
+{"T":"r","L":"ecidna","C":["n","mam"],"d":"un mamal spinosa e insetivor de Australia e Gine Nova, con beco e garas longa, cual produi ovos e come formicas","i":"#","t":"Tachyglossidae","en":"echidna, spiny anteater","es":"equidna, taquiglósido"}
+{"T":"r","L":"ecimose","C":["n","med"],"d":"un malcolori causada par la cumula de sangue su la pel, tipal de un contusa","en":"ecchymosis (medical)","es":"equimosis (medicina)"}
 {"T":"r","L":"ecinodermato","C":["n"],"d":"un filo de nonvertebratos incluinte stelas-de-mar, erisos-de-mar e concombres-de-mar","t":"Echinodermata","en":"echinoderm (organism)"}
 {"T":"r","L":"ecipo","C":["n","spo"],"d":"un grupo de persones ci labora con lunlotra; un grupo de juores ci formi un lado en un jua o sporte; un grupo peti de soldatos con un taxe comun","da":"team, hold, gruppe","de":"Mannschaft, Team","en":"crew, team, squad, cadre","eo":"ekipo","es":"equipo, partido, grupo, tripulación, cuadrilla, escuadrón","fr":"équipe","it":"squadra","nl":"ploeg, groep, team","pt":"equipe, time, esquadrão"}
 {"L":"ecipo prima","C":["n"],"en":"first team, varsity"}
@@ -25877,6 +25877,7 @@
 {"T":"r","L":"Tasmania","C":["n","jeo"],"d":"un isola sude de Australia; un stato de Australia composada de esta isola e alga isolas plu peti","i":"#","en":"Tasmania"}
 {"T":"r","L":"Tasman, Mar","C":["n","jeo"],"i":"Mar-Tasman","en":"Tasman Sea"}
 {"T":"r","L":"taso","C":["n","mone"],"d":"un cuantia espresada como persentos de un otra cuantia, o finansial o otra","en":"rate (numerical)"}
+{"L":"taso de intercambia","C":["n"],"en":"exchange rate"}
 {"L":"taso de interesa","C":["n"],"en":"interest rate"}
 {"L":"taso de mori","C":["n"],"en":"death rate"}
 {"L":"taso de nase","C":["n"],"en":"birth rate"}
