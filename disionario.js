@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '3 julio 2019';
+﻿var dataDeDatos = '4 julio 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"Preposadas#A",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -17528,6 +17528,7 @@ var disionario = [
 {T:"r",L:"nube",C:["n","tera"],d:"un masa vidable de vapor condensada de acua, flotante en la atmosfera, tipal alta supra la tera; (metafor) cualce masa simil; (en informatica) un rede de servadores en la interede, usada per reteni e prosede datos en loca de servadores local o computadores personal",i:"#",en:"cloud"},
 {L:"nube de zucar",C:["n"],en:"marshmallow"},
 {L:"nube oscur",C:["n"],en:"dark cloud, pall"},
+{L:"nube xampinionin",C:["n"],en:"mushroom cloud"},
 {L:"nubosa",C:["a"],en:"cloudy, overcast"},
 {L:"nubosia",C:["n"],en:"cloudiness"},
 {L:"sin nube",C:["a"],en:"cloudless, cloudfree"},
