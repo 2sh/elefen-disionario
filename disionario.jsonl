@@ -1,5 +1,5 @@
 {"T":"r","L":"a","C":["sim"],"d":"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major","p":"a","en":"a","es":"a","fr":"la","he":"האות הראשונה באלפבית הלטיני"}
-{"T":"r","L":"a","C":["prep"],"d":"indicante un loca o tempo como un punto simple","g":"Preposadas#A","u":"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco","en":"at, in, on (a point in space or time)","eo":"ĉe, en, je","es":"a, en (un punto en el tiempo o en el espacio)","fr":"à","he":"ב-, אצל","ru":"в, на, за (сидим за столом)"}
+{"T":"r","L":"a","C":["prep"],"d":"indicante un loca o tempo como un punto simple","g":"preposadas#a","u":"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco","en":"at, in, on (a point in space or time)","eo":"ĉe, en, je","es":"a, en (un punto en el tiempo o en el espacio)","fr":"à","he":"ב-, אצל","ru":"в, на, за (сидим за столом)"}
 {"T":"s","d":"indicante la punto de refere en un relata","u":"tu sta tro prosima a la borda; la pen parteni a me; la forma de Italia es simil a un gama; a la min","en":"(in relation) to","eo":"al","es":"a","fr":"à","he":"ל-","ru":"к; дательный падеж; на (в выражениях сравнения)"}
 {"T":"s","d":"indicante la loca, resetor o state cual on ateni o vole ateni par un move o cambia","u":"el desira viaja a la Luna; de ves a ves; me va dona un oso a tua can; la idea pare bon a me; la sorsor ia cambia se a un capra; on va eleje tu a presidente; el ia pinti sua mures a jala; tradui un poesia a elefen","en":"in the direction of, to, toward, towards, unto","eo":"al, direkte al","es":"a, en dirección, a hacia","fr":"à, vers","he":"ל-; מסמן שינוי למצב חדש (צביעה בלבן, בחירה לנשיא)","ru":"на (как направление); дательный падеж; в (при глаголах превращения в, изменения в)"}
 {"T":"s","d":"indicante un ata cual on asinia a la ojeto presedente","n":"Nota la difere entre `me instrui el a comprende` (cual sinifia `me instrui el afin _el_ comprende`) e `me instrui el per comprende` (cual sinifia `me instrui el afin _me_ comprende`).","u":"el comanda la soldatos a ataca la fortres","en":"(influencing another) to (do something)","es":"con el objeto de, (influir a alguien para que haga algo)","fr":"à","he":"ל-, למען המטרה ..."}
@@ -164,7 +164,7 @@
 {"T":"r","L":"Acea","C":["n","jeo","ist"],"c":"Patra","d":"un provinse en Elas","en":"Achaea (Greek region)","eo":"Aĥeo","he":"אכאיה (מחוז ביוון)"}
 {"L":"acean","C":["a"],"en":"Achaean","eo":"aĥea","he":"ששייך לאכאיה"}
 {"L":"acean","C":["n","dem"],"d":"un membro de la popla de Acea; (en Homero) un person elinica","en":"Achaean","eo":"aĥeano; aĥajano","he":"תושב אכאיה; (בשירתו של הומרוס) אדם יווני"}
-{"T":"r","L":"acel","C":["d"],"d":"cual nos vide ala; cual nos ia indica ja","g":"Determinantes#Determinantes_de_mostra","n":"`Acel` es un varia asentuada de `la`. Lo contrasta comun con `esta`, cual indica un person o cosa plu prosima (fisical o metafor).","en":"that, those, yonder, yon","eo":"tiu","he":"ההוא, זה ששם"}
+{"T":"r","L":"acel","C":["d"],"d":"cual nos vide ala; cual nos ia indica ja","g":"determinantes#determinantes_de_mostra","n":"`Acel` es un varia asentuada de `la`. Lo contrasta comun con `esta`, cual indica un person o cosa plu prosima (fisical o metafor).","en":"that, those, yonder, yon","eo":"tiu","he":"ההוא, זה ששם"}
 {"L":"acel","C":["pron"],"en":"that, that one; the former","eo":"tiu","he":"ההוא, זה ששם"}
 {"L":"aceles","C":["pron","pl"],"en":"those, those ones","eo":"tiuj","he":"ההם, אלה ששם"}
 {"L":"par acel","C":["av"],"en":"thereby","he":"על-ידי כך"}
@@ -743,7 +743,7 @@
 {"L":"nonalfabetiste","C":["a"],"en":"illiterate, preliterate","he":"אנאלפביתי, בור, נבער"}
 {"T":"r","L":"alfalfa","C":["n","pla"],"d":"un legum con flores bluin e folias simil a trefolias, comun cultivada per nuri bestias","i":"#","t":"Medicago sativa","en":"alfalfa","he":"אלפלפה, אספסת"}
 {"T":"r","L":"alfanumeral","C":["a","info"],"d":"composada de sola leteras e dijitos","en":"alphanumeric","he":"אלפאנומרי (שמכיל אותיות וספרות)"}
-{"T":"r","L":"alga","C":["d"],"d":"referente a un person o cosa nonidentifiada, o un cuantia nonesata ma relativa peti","g":"Determinantes#Determinantes_de_eleje","en":"some, certain, a certain (unspecified identity); some, several, a few, a little, a small amount of (unspecified quantity); any (in a question or negative statement)","he":"כמה, מספר מסויים, מספר מועט"}
+{"T":"r","L":"alga","C":["d"],"d":"referente a un person o cosa nonidentifiada, o un cuantia nonesata ma relativa peti","g":"determinantes#determinantes_de_eleje","en":"some, certain, a certain (unspecified identity); some, several, a few, a little, a small amount of (unspecified quantity); any (in a question or negative statement)","he":"כמה, מספר מסויים, מספר מועט"}
 {"L":"alga","C":["av"],"d":"a alga grado","en":"somewhat, rather, fairly, quite","he":"במקצת, במידת מה, למדי"}
 {"L":"alga","C":["pron"],"n":"La pronom `alga` pote refere a un o a plu. Per claria masima, on pote usa ance la forma plural `algas`.","u":"alga de la pan; alga de la botecas; alga dise","en":"some (singular or plural); several","he":"כמה, מספר מסויים, מספר מועט"}
 {"L":"algas","C":["pron","pl"],"u":"algas dise","en":"some, several, a few (people or things, optional plural pronoun)","he":"אנשים מסויימים, דברים מסויימים"}
@@ -1338,7 +1338,7 @@
 {"T":"r","L":"antartica","C":["a","jeo"],"d":"pertinente a la continente sirca la polo sude, de cual la plu es a sude de la sirculo antartica e cuasi tota es covreda par glasias","en":"Antarctic","he":"אנטרקטי"}
 {"L":"Antartica","C":["n","jeo"],"i":"#","en":"Antarctica, Antarctic","he":"יבשת אנטרקטיקה"}
 {"L":"Mar Antartica","C":["n","jeo"],"i":"#","en":"Antarctic Ocean, Southern Ocean","he":"האוקיינוס הדרומי"}
-{"T":"r","L":"ante","C":["prep"],"d":"a, o prosima a, la fronte de (alga cosa), o plu fronte ca lo","g":"Preposadas#Ante","n":"Multe cosas ave un lado evidente major con cual los fasa la mundo. En otra casos, `ante` indica simple la lado plu prosima a la parlor.","u":"mea peto es ante mea dorso; un can dormi ante la boteca; la casa sta ante un colina","en":"in front of, before (in space)","eo":"antaŭ","fr":"devant","he":"לפני, מלפנים, מול"}
+{"T":"r","L":"ante","C":["prep"],"d":"a, o prosima a, la fronte de (alga cosa), o plu fronte ca lo","g":"preposadas#ante","n":"Multe cosas ave un lado evidente major con cual los fasa la mundo. En otra casos, `ante` indica simple la lado plu prosima a la parlor.","u":"mea peto es ante mea dorso; un can dormi ante la boteca; la casa sta ante un colina","en":"in front of, before (in space)","eo":"antaŭ","fr":"devant","he":"לפני, מלפנים, מול"}
 {"T":"s","d":"movente per ateni la fronte de (alga cosa)","n":"Per espresa esta en modo plu clar, on pote dise `a ante`.","u":"me veni ante tu per demanda per tua pardona","en":"(moving) to the front of, in front of","eo":"antaŭ -n","he":"ללפני, בפני"}
 {"T":"s","d":"en la tempo presedente (alga cosa)","n":"Per introdui un proposa suordinada, usa `ante cuando` en loca. La averbo con la sinifia `a un tempo plu temprana` es `a ante`.","u":"janero veni ante febrero; me espera fini la labora ante la reposa de sol","v":"cuando","en":"before (in time), earlier than, prior to, ahead of","eo":"antaŭ","fr":"avant","he":"לפני, בטרם, קודם"}
 {"L":"ante-","C":["pf","tecn"],"d":"ante, a ante, a fronte","en":"ante-","he":"(קידומת טכנית) לפני, קדימה"}
@@ -1783,8 +1783,8 @@
 {"L":"armoniosa","C":["a"],"en":"harmonious, compatible, congruous, eurhythmic","he":"הרמוני, מתואם"}
 {"L":"nonarmonia","C":["n"],"en":"disharmony; incompatibility","he":"דיסהרמוניה, חוסר התאמה"}
 {"L":"nonarmoniosa","C":["a"],"en":"inharmonious, incompatible, incongruous","he":"צורם, לא הרמוני"}
-{"L":"rearmoni","C":["vnt"],"en":"reharmonize","he":"ליצור הרמוניה מחדש"}
-{"L":"rearmoni","C":["vt"],"en":"reharmonize","he":"ליצור הרמוניה מחדש"}
+{"L":"rearmoni","C":["vnt"],"en":"reharmonize|is","he":"ליצור הרמוניה מחדש"}
+{"L":"rearmoni","C":["vt"],"en":"reharmonize|is","he":"ליצור הרמוניה מחדש"}
 {"L":"rearmoni","C":["n"],"en":"reharmonization|is, rapprochement","he":"יצירת הרמוניה מחדש, התקרבות מחדש"}
 {"T":"r","L":"armonica","C":["n","mus"],"d":"un strumento peti e retangulo con un linia de anxas metal, a cual la juor sofla o suca, produinte notas diversa par move lo de lado a lado","i":"#","en":"harmonica, mouth organ, mouth harp","he":"הרמוניקה, מפוחית פה"}
 {"T":"r","L":"armonio","C":["n","mus"],"d":"un strumento de teclas cual produi sonas cuando aira es puiada tra anxas par un soflador operada par la pedes","i":"#","en":"harmonium (musical instrument)","he":"הרמוניום"}
@@ -2073,7 +2073,7 @@
 {"L":"aspiror","C":["n"],"en":"candidate, applicant, nominee, postulant","he":"מועמד"}
 {"L":"nonaspirante","C":["a"],"en":"unambitious","he":"לא שאפתן"}
 {"T":"r","L":"aspirina","C":["n","med","cim"],"d":"un composada sinteseda, usada como un medisin per redui dole, febre e inflama","i":"medisin","en":"aspirin","he":"אספירין"}
-{"T":"r","L":"asta","C":["prep"],"d":"indicante la loca o state do un move o cambia fini","g":"Preposadas#Asta","n":"`Asta` implica ce la move ateni la loca spesifada e no vade ultra lo. `A` es plu jeneral, e pote es usada an cuando la move no ateni sua fini intendeda.","u":"me va acompania tu asta la porte; moiada asta sua pel; la preso ia cade asta sento euros; studia pajes 25 asta 42","en":"as far as, up to, down to, until (reaching a point but going no further)","eo":"ĝis","he":"עד"}
+{"T":"r","L":"asta","C":["prep"],"d":"indicante la loca o state do un move o cambia fini","g":"preposadas#asta","n":"`Asta` implica ce la move ateni la loca spesifada e no vade ultra lo. `A` es plu jeneral, e pote es usada an cuando la move no ateni sua fini intendeda.","u":"me va acompania tu asta la porte; moiada asta sua pel; la preso ia cade asta sento euros; studia pajes 25 asta 42","en":"as far as, up to, down to, until (reaching a point but going no further)","eo":"ĝis","he":"עד"}
 {"T":"s","d":"indicante la tempo cuando un ata fini","n":"","u":"el ia dormi asta mediadia","v":"cuando","en":"until, till, up to (in time)","eo":"ĝis","he":"עד"}
 {"L":"asta doman","C":["esc"],"en":"see you tomorrow","he":"להתראות מחר"}
 {"L":"asta plu tarda","C":["esc"],"en":"see you later","he":"להתראות, נתראה אח\"כ"}
@@ -2772,11 +2772,12 @@
 {"T":"r","L":"bangra","C":["n","mus"],"d":"un spesie de musica popular cual combina folclor pandjabi con pop ueste","en":"bhangra"}
 {"T":"r","L":"banio","C":["n","arci"],"d":"un contenador grande plenida con acua, tipal locada en un sala privata, en cual persones lava se","i":"#","en":"bathtub, bath, tub","fr":"baignoire","he":"אמבטיה, אמבט"}
 {"L":"banio de vortis","C":["n"],"en":"whirlpool bath, hot tub, jacuzzi, spa","fr":"jacuzzi","he":"ג'קוזי, אמבט זרמים"}
-{"L":"bani","C":["vt"],"en":"bathe","fr":"baigner","he":"להתרחץ"}
+{"L":"bani","C":["vt"],"en":"bathe, soak","fr":"baigner","he":"להתרחץ"}
 {"L":"bani","C":["n"],"en":"bath, bathing","fr":"bain","he":"רחיצה, רחצה"}
 {"L":"bani de sangue","C":["n"],"en":"bloodbath","he":"מרחץ דמים"}
 {"L":"bani de spuma","C":["n"],"i":"#","en":"foam bath, bubble bath (activity)","fr":"bain de mousse","he":"(רחיצה ב) אמבטיית קצף"}
 {"L":"bani su sol","C":["v"],"i":"#","en":"sunbathe","fr":"bain de soleil","he":"להשתזף"}
+{"L":"banida","C":["a"],"en":"bathed, soaked, drenched, wet"}
 {"L":"banieria","C":["n"],"en":"spa, bath, bath house (communal)","he":"ספא, בית מרחץ"}
 {"L":"banieria mineral","C":["n"],"en":"mineral bath, spa","he":"בריכת מינרלים"}
 {"L":"banieria termal","C":["n"],"en":"thermal bath, spa","he":"בריכה תרמית"}
@@ -2814,6 +2815,7 @@
 {"L":"bareta","C":["n","util"],"en":"bolt (door, gun); barrette, hairslide","he":"בריח; סיכת ראש"}
 {"L":"bari","C":["vt"],"en":"bar, block off; cross out, strike through","he":"לחסום; למחוק (על-ידי שרטוט קו)"}
 {"L":"desbari","C":["vt"],"en":"unbar, unblock","he":"להסיר חסימה"}
+{"L":"retrobara","C":["n"],"s":"\\","en":"backslash","he":"לוכסן אחורי"}
 {"T":"r","L":"baracuda","C":["n","pex"],"d":"un pex tropical, grande e xasante, con corpo magra e mandibulas e dentes grande","i":"#","t":"Phyraena barracuda","en":"barracuda","he":"ברקודה (דג)"}
 {"T":"r","L":"Barain","C":["n","jeo"],"c":"Manama","d":"un pais en Asia ueste, composada de un grupo de isolas en la Golfo Persian","i":"#","en":"Bahrain","he":"בחריין"}
 {"L":"baraini","C":["a"],"en":"Bahraini","he":"בחרייני"}
@@ -3489,6 +3491,7 @@
 {"L":"bon","C":["esc"],"en":"well, right; good, OK, okay","fr":"bon, bien","he":"טוב, בסדר, אוקיי"}
 {"L":"bon-","C":["pf"],"d":"ajuntada a un verbo per formi un verbo per un ata plu bon, tipal spesialida","u":"bonodori; bondise","en":"good-, well- (added to verbs: a better variant of the action, often a specialized sense)","he":"(קידומת) בצורה טובה"}
 {"L":"autoboni","C":["n"],"en":"self-improvement","fr":"auto-amélioration","he":"שיפור עצמי"}
+{"L":"bonetas","C":["n","pl"],"en":"goodies (desirable things)"}
 {"L":"boni","C":["vnt"],"en":"improve, become good, get better","fr":"s'améliorer","he":"להשתפר"}
 {"L":"boni","C":["vt"],"en":"improve, ameliorate, better, enhance, emend, revamp","fr":"améliorer","he":"לשפר"}
 {"L":"boni","C":["n"],"en":"improvement, enhancement","fr":"amélioration","he":"שיפור"}
@@ -3906,7 +3909,7 @@
 {"T":"r","L":"buzuci","C":["n","mus"],"d":"un strumento elinica con colo longa, simil a un mandolin","i":"#","en":"bouzouki (musical instrument)","es":"buzuki (instrumento musical)","fr":"bouzouki","he":"בוזוקי (כלי נגינה)"}
 {"T":"r","L":"bzz","C":["esc","onom"],"d":"un sona zumbinte como lo fada par un abea","en":"buzz","he":"בזז (צליל זמזום)"}
 {"T":"r","L":"c","C":["sim"],"d":"la letera tre de la alfabeta roman; la nota prima de la scala diatonica de C major","p":"ce","en":"c","es":"c","he":"האות השלישית באלפבית הלטיני"}
-{"T":"r","L":"ca","C":["prep"],"d":"indicante la otra person o cosa en un compara de nonegalia","g":"Preposadas#Ca","u":"mea can es plu intelijente ca me","en":"than","eo":"ol","es":"que","he":"מ-, מאשר"}
+{"T":"r","L":"ca","C":["prep"],"d":"indicante la otra person o cosa en un compara de nonegalia","g":"preposadas#ca","u":"mea can es plu intelijente ca me","en":"than","eo":"ol","es":"que","he":"מ-, מאשר"}
 {"L":"ca","C":["sj"],"u":"la mundo conteni plu ca on imajina","en":"than","es":"que","he":"מ-, מאשר"}
 {"T":"r","L":"caa","C":["esc","onom"],"d":"la cria xiliante de un corvo o avia simil","en":"caw, crow","es":"croc","fr":"croa","he":"קריאת עורב","ru":"кар, кар-кар"}
 {"T":"r","L":"cabal","C":["n","gov","rel"],"d":"un partito political secreta","de":"kwrah","en":"cabal, caucus","es":"cábala, camarilla","he":"קבוצה פוליטית סודית","pt":"bancada"}
@@ -5624,7 +5627,7 @@
 {"T":"r","L":"como","C":["av"],"d":"(demandante) en cual modo, par cual metodo; (ante un ajetivo o averbo) a cual grado; (metafor) a cual grado de sania o felisia","u":"como on abri esta caxa?; como longa es la viaja?","en":"(interrogative) how","he":"איך","ru":"как"}
 {"L":"como","C":["esc"],"en":"what, huh, eh? (confusion)","he":"איך? מה אמרת?"}
 {"L":"como","C":["sj"],"d":"en la modo en cual, par la metodo par cual; a la grado a cual","u":"acel es como on debe condui; salta tan alta como tu pote","en":"as, like, in the way that","he":"כמו ש","ru":"как, словно, будто, как будто"}
-{"L":"como","C":["prep"],"d":"simil a","g":"Preposadas#Como","u":"el rie como un iena; tan alta como me","en":"like, similarly to, qua","eo":"kiel, simile al","he":"כ-, כמו, בדומה ל","ru":"как"}
+{"L":"como","C":["prep"],"d":"simil a","g":"preposadas#como","u":"el rie como un iena; tan alta como me","en":"like, similarly to, qua","eo":"kiel, simile al","he":"כ-, כמו, בדומה ל","ru":"как"}
 {"L":"como poca","C":["d"],"en":"how few, how little","he":"כמה מעט"}
 {"L":"como poca","C":["av"],"en":"how few, how little","he":"כמה מעט"}
 {"L":"como si","C":["sj"],"en":"as if, as though, like","he":"כאילו ש","ru":"как если бы"}
@@ -5796,7 +5799,7 @@
 {"L":"descomuta","C":["n"],"en":"shutoff, disconnection","he":"כיבוי, הפסקה, עצירה, ניתוק, השבתה (של מכונה)"}
 {"L":"descomutada","C":["a"],"en":"off, switched off, turned off; disconnected, offline; disabled","he":"כבוי, מכובה, מופסק, מנותק, מושבת"}
 {"L":"recomuta","C":["vt"],"en":"reconnect, switch back on","he":"לחבר שוב, להדליק שוב"}
-{"T":"r","L":"con","C":["prep"],"d":"acompaniada par (un otra person o cosa)","g":"Preposadas#Con","u":"me jua tenis con mea sore; el nada con la flue","en":"with, in the company of, going along with","eo":"kun","he":"עם"}
+{"T":"r","L":"con","C":["prep"],"d":"acompaniada par (un otra person o cosa)","g":"preposadas#con","u":"me jua tenis con mea sore; el nada con la flue","en":"with, in the company of, going along with","eo":"kun","he":"עם"}
 {"T":"s","d":"posesente o incluinte (un cosa o cualia)","u":"cafe con lete; un can con oreas longa; tu roji con embarasa","en":"with (having or including)","eo":"kun","he":"עם"}
 {"T":"s","d":"fada par usa (un ojeto, tipal un strumento)","u":"me scrive con un lapis; compra bonbones con monetas","en":"with, by means of, using (a tool)","eo":"per","he":"עם, באמצעות"}
 {"L":"con ce","C":["sj"],"d":"a la mesma tempo cuando; acompaniada par un situa en cual","u":"los pasea con ce la pluve cade","en":"at the same time as, accompanied by a situation in which","he":"באותו זמן ש"}
@@ -6194,7 +6197,7 @@
 {"L":"contorse","C":["n"],"en":"contortion, distortion","he":"עיוות; סילוף"}
 {"L":"contorseda","C":["a"],"en":"distorted, warped, crooked","he":"מעוות; מסולף"}
 {"L":"contorsor","C":["n"],"i":"#","en":"contortionist","he":"נער/ת גומי"}
-{"T":"r","L":"contra","C":["prep"],"d":"oposante (un enemi fisical o metafor); contrastada con","g":"Preposadas#Contra","u":"batalia contra un enemi; tu ata contra mea desiras; secur contra acua","en":"against, versus, opposing, opposed to (something undesirable)","eo":"kontraŭ","he":"נגד"}
+{"T":"r","L":"contra","C":["prep"],"d":"oposante (un enemi fisical o metafor); contrastada con","g":"preposadas#contra","u":"batalia contra un enemi; tu ata contra mea desiras; secur contra acua","en":"against, versus, opposing, opposed to (something undesirable)","eo":"kontraŭ","he":"נגד"}
 {"T":"s","d":"suportada par o colpante (un surfas vertical)","u":"la scala sta contra la mur; la bisicliste ia cade contra la serca","en":"against (a vertical surface)","eo":"kontraŭ","he":"כנגד"}
 {"L":"contra-","C":["pf","tecn"],"d":"contra","en":"contra-","he":"(קידומת טכנית) נגד"}
 {"L":"contra ce","C":["sj"],"en":"although, while (contrast), whilst, whereas, despite the fact that","he":"למרות ש, אף-על-פי ש"}
@@ -6933,7 +6936,7 @@
 {"T":"r","L":"-crin","C":["sf","a","bio","med"],"d":"secrete","en":"-crine (secreting)","he":"(סיומת טכנית) מפריש"}
 {"T":"r","L":"crinera","C":["n","bio"],"d":"la capeles longa a la colo de un cavalo, leon o otra animal; la capeles densa e desordinada de un person","i":"#","en":"mane, mop (hair); horsehair","he":"רעמה"}
 {"T":"r","L":"crinoide","C":["n"],"d":"un ecinodermato con brasos magra e plumin, incluinte stelas-de-mar e stelas-de-mar plumosa","i":"#","t":"Crinoidea","en":"crinoid (organism)","he":"חבצלת ים"}
-{"T":"r","L":"crio","C":["n"],"d":"un creol fundida sur la engles parlada par sirca 500 000 persones en Siera Leon","en":"Krio (language)","es":"krio (lengua)","fr":"krio (langue)","he":"קריו (שפה)","it":"krio (lingua)","ja":"クリオ語","nl":"krio (taal)","pl":"krio (język)","pt":"krio (língua)","ru":"Крио"}
+{"T":"r","L":"crio","C":["n"],"d":"un creol fundida sur la engles parlada par sirca 500(~)000 persones en Siera Leon","en":"Krio (language)","es":"krio (lengua)","fr":"krio (langue)","he":"קריו (שפה)","it":"krio (lingua)","ja":"クリオ語","nl":"krio (taal)","pl":"krio (język)","pt":"krio (língua)","ru":"Крио"}
 {"T":"r","L":"criobiolojia","C":["n","bio"],"en":"cryobiology","he":"קריוביולוגיה"}
 {"T":"r","L":"criofilia","C":["n","bio"],"d":"la capasia de alga organismes de abita en situas multe fria","en":"cryophilia","he":"קריופיליה"}
 {"L":"criofilica","C":["a"],"en":"cryophilic","he":"קריופילי"}
@@ -7496,7 +7499,7 @@
 {"T":"r","L":"Davis, Streta","C":["n","jeo"],"d":"un streta a sude de la Baia Baffin, entre Labrador e Calalitnunat","i":"Streta-Davis","en":"Davis Strait","he":"מצר דיוויס","ru":"пролив Дейвиса"}
 {"T":"r","L":"de","C":["prep"],"d":"introduinte la orijina de un move o relata, o un tempo de orijina","u":"me es de London; el ia parti de Paris; Frans es a norde de Espania; me ia sta a no plu ca un metre de la asidente; me estrae el de la casa; el ia es salvada de mori; el ia asconde de la polisia; un cavalo difere de un bove; aprende de tua frate; esta libro veni de la sentenio 17; la boteca funsiona de lundi asta jovedi; el labora de la ora cuando el velia","en":"from, of, since (a point of origin in space or time)","eo":"de, ekde, disde, de post","fr":"de dès, depuis","he":"מ-, מן","ru":"(обозначает начальную точку движения или как уточнение к месту нахождения; обозначает место рождения и происхождения, принадлежность к какому-то временному периоду, начальную точку во времени, источник; например - информации; обозначает место откуда убирают что-либо или то от чего избавляют)"}
 {"T":"s","d":"indicante la relata entre un cosa e sua materia","u":"un veste de seda; un anelo de oro","en":"made of, composed of, consisting of","eo":"el","fr":"de, en","he":"עשוי מ","ru":"(описывает материал из которого сделан предмет)"}
-{"T":"s","d":"indicante la relata entre un cosa poseseda e la posesor, o entre un parte e la intera","g":"Preposadas#De","u":"la casa de Juan; la rota es un parte de la veculo","en":"of, belonging to (an owner or whole)","eo":"de","fr":"de","he":"של (שייכות)","ru":"(предлог передающий значение родительного падежа, принадлежности к чему-либо)"}
+{"T":"s","d":"indicante la relata entre un cosa poseseda e la posesor, o entre un parte e la intera","g":"preposadas#de","u":"la casa de Juan; la rota es un parte de la veculo","en":"of, belonging to (an owner or whole)","eo":"de","fr":"de","he":"של (שייכות)","ru":"(предлог передающий значение родительного падежа, принадлежности к чему-либо)"}
 {"T":"s","d":"introduinte un espresa plu spesifante o detaliante","u":"la idea de progresa; un arbor con altia de dudes metres","en":"of (specifying, adding detail)","eo":"el (aŭ sen prepozicio)","fr":"de","he":"של (פירוט)","ru":"(образует сочетания соответствующие русским качественным и количественным прилагательным)"}
 {"T":"s","d":"indicante la relata entre un cuantia, mesura o contenador e la cosa mesurada o contenida","u":"un tas de cafe; tre caxas de libros; cuatro metres de altia; plen de aira","en":"(a quantity) of","eo":"da","fr":"de","he":"של (כמות)","ru":"(выражает количество или меру вещества, содержащегося в чём-либо)"}
 {"T":"s","d":"juntante du nomes per crea un elemento fisada de vocabulo","u":"avia de mar; oculo de sol; tenis de table","en":"(forming the equivalent of a compound noun)","he":"של (יצירת שם עצם מורכב)"}
@@ -8087,6 +8090,8 @@
 {"L":"difusa","C":["n"],"en":"broadcast, telecast, broadcasting, diffusion, dissemination; airplay, airtime"}
 {"L":"difusa de novas","C":["n"],"en":"newscast, news bulletin"}
 {"L":"difusa simultan","C":["n"],"en":"simulcast"}
+{"L":"difusante","C":["n"],"en":"broadcaster (organization|is)"}
+{"L":"difusor","C":["n"],"en":"broadcaster (person)"}
 {"L":"redifusa","C":["vt"],"en":"rebroadcast"}
 {"T":"r","L":"digram","C":["n","ling"],"d":"un combina de du leteras cual representa un sola sona","en":"digraph"}
 {"T":"r","L":"dijesta","C":["vt","bio"],"d":"rompe (comedas) en la stomaco e intestines per permete ce la corpo asorbe e usa los","en":"digest"}
@@ -9207,7 +9212,7 @@
 {"T":"r","L":"emulsion","C":["n","cim"],"d":"un sperde de gotas pico de un licuida en un otra en cual lo no es disolvable o miscable","en":"emulsion"}
 {"L":"emulsioni","C":["vnt"],"en":"emulsify"}
 {"L":"emulsioni","C":["vt"],"en":"emulsify"}
-{"T":"r","L":"en","C":["prep"],"d":"a interna de; esente (o parente es) encluida o ensircada par","g":"Preposadas#En","u":"mea cor es en mea peto; ideas en la mente; nos es en peril; nos es en acorda; vive en felisia; los senta en un sirculo","en":"in (a place or condition), inside, within","eo":"en"}
+{"T":"r","L":"en","C":["prep"],"d":"a interna de; esente (o parente es) encluida o ensircada par","g":"preposadas#en","u":"mea cor es en mea peto; ideas en la mente; nos es en peril; nos es en acorda; vive en felisia; los senta en un sirculo","en":"in (a place or condition), inside, within","eo":"en"}
 {"T":"s","d":"entrante a","u":"el ia cade en la rio","en":"(moving) into","eo":"en -n"}
 {"T":"s","d":"pos la comensa e ante la fini de (un aveni o situa)","u":"en la note; en febrero; en 1770; el ia scrive la libro en sola tre semanas; el ia spende du anios en scrive la prefas","v":"cuando","en":"in, during (a period of time)","eo":"dum"}
 {"T":"s","d":"espresada o fada par usa (un lingua, media o modo)","u":"un jornal en franses; parla en modo aidosa","en":"in (a language, medium or manner)","eo":"en, per"}
@@ -9460,7 +9465,7 @@
 {"L":"reentra","C":["vt"],"en":"readmit"}
 {"L":"reentra","C":["n"],"en":"re-entry; readmittance"}
 {"L":"suentrada","C":["n"],"en":"subentry (in list)"}
-{"T":"r","L":"entre","C":["prep"],"d":"a, en o tra la spasio o tempo cual separa (du o plu ojetos, areas o avenis)","g":"Preposadas#Entre","u":"viaja entre Paris e Madrid; comunica entre comunias; tu es entre amis; entre la geras mundal","en":"between, among, amongst, amid, amidst, betwixt, twixt; within (a group)","eo":"inter"}
+{"T":"r","L":"entre","C":["prep"],"d":"a, en o tra la spasio o tempo cual separa (du o plu ojetos, areas o avenis)","g":"preposadas#entre","u":"viaja entre Paris e Madrid; comunica entre comunias; tu es entre amis; entre la geras mundal","en":"between, among, amongst, amid, amidst, betwixt, twixt; within (a group)","eo":"inter"}
 {"T":"s","d":"(un cuantia) divideda par (un otra)","u":"100 entre 4 es 25","en":"divided by, per, out of"}
 {"L":"entre-","C":["pf","tecn"],"d":"entre","en":"inter- (between)"}
 {"L":"entre cual","C":["esp"],"en":"between which, within which (relative)"}
@@ -9864,6 +9869,7 @@
 {"L":"espera","C":["n"],"en":"hope, wish"}
 {"L":"esperable","C":["av"],"en":"hopefully"}
 {"L":"esperante","C":["a"],"en":"hoping, hopeful"}
+{"L":"esperosa","C":["a"],"en":"hopeful, full of hope"}
 {"L":"on espera ce","C":["esp"],"en":"hopefully, it is hoped that"}
 {"L":"sin espera","C":["a"],"en":"hopeless, forlorn"}
 {"T":"r","L":"esperanto","C":["a","ling"],"d":"un lingua creada par Ludwik L Zamenhof en 1887 per comunica internasional","en":"Esperanto"}
@@ -10041,7 +10047,7 @@
 {"L":"estorsador","C":["n"],"en":"wringer"}
 {"L":"estorsin","C":["a"],"en":"extortionate, exorbitant (cost)"}
 {"L":"estorsor","C":["n"],"en":"extortionist"}
-{"T":"r","L":"estra","C":["prep"],"d":"situada ultra la bordas o limitas de (un loca, tempo o grupo)","g":"Preposadas#Estra","u":"abita estra la site; estra peril; estra la oras de labora; estra la familia","en":"outside (a place or time)","eo":"ekster"}
+{"T":"r","L":"estra","C":["prep"],"d":"situada ultra la bordas o limitas de (un loca, tempo o grupo)","g":"preposadas#estra","u":"abita estra la site; estra peril; estra la oras de labora; estra la familia","en":"outside (a place or time)","eo":"ekster"}
 {"T":"s","d":"movente a ultra la bordas o limitas de (alga cosa)","u":"la gato ia core estra la caxa","en":"(moving) out of"}
 {"T":"s","d":"no incluinte, con eseta de, ma no","u":"nun estra la golor pote toca la bal; me ia vide la serie estra la episodio final","v":"cuando, si","en":"except, except for, excepting, with the exception of, apart from, other than","eo":"krom, escepte de"}
 {"L":"estra-","C":["pf","tecn"],"d":"a estra, a ultra, en ajunta; indicante un person relatada par la resposi de un jenitor","en":"extra- (outer, additional); step- (relation)"}
@@ -11083,6 +11089,7 @@
 {"L":"focosa","C":["a"],"en":"fiery, passionate, sensual"}
 {"T":"r","L":"fode","C":["vt"],"d":"(nonformal) copula con (algun)","en":"(colloquial) fuck, screw, shag, bonk, lay (have sex with)"}
 {"L":"fodeda","C":["a"],"en":"fucking (colloquial intensifier)"}
+{"L":"fodeta","C":["vt"],"d":"(nonformal) masturba","en":"(colloquial) jerk off, wank, diddle (masturbate)"}
 {"T":"r","L":"fol","C":["a","uma"],"d":"sin bon judi, nonsaja; asurda","en":"foolish, silly, crazy, idiotic, daft, dotty, fatuous, inane, madcap"}
 {"L":"fol","C":["n"],"en":"fool, dupe, imbecile, idiot, loony, moron, nincompoop, numpty, airhead, bimbo, chump, twit, goon"}
 {"L":"folia","C":["n"],"en":"silliness, foolishness, madness, folly"}
@@ -14937,7 +14944,7 @@
 {"L":"longida","C":["a"],"en":"elongated, prolate"}
 {"L":"par longia","C":["n"],"en":"lengthwise, lengthways"}
 {"L":"Isola Longa","C":["n","jeo"],"d":"un isola a la costa de York Nova, conteninte un parte de la Site York Nova","i":"#","en":"Long Island"}
-{"T":"r","L":"longo","C":["prep"],"d":"movente o estendente en un dirije constante sur o paralel a","g":"Preposadas#Longo","u":"la folias flota longo la rio; un arania rampe longo mea gama","en":"along, up, down (following or in parallel with)","eo":"laŭ, laŭlonge de"}
+{"T":"r","L":"longo","C":["prep"],"d":"movente o estendente en un dirije constante sur o paralel a","g":"preposadas#longo","u":"la folias flota longo la rio; un arania rampe longo mea gama","en":"along, up, down (following or in parallel with)","eo":"laŭ, laŭlonge de"}
 {"T":"s","d":"en la opina de; como diseda par","u":"longo la predise, doman va es an plu calda","en":"according to"}
 {"L":"a longo","C":["av"],"en":"along"}
 {"T":"r","L":"lonjitude","C":["n","tera"],"d":"la distantia angulo de un loca, espresada en grados e minutos a este o ueste de la meridiano de Greenwich","en":"longitude"}
@@ -16133,7 +16140,7 @@
 {"L":"milia maral","C":["n"],"en":"nautical mile"}
 {"L":"milia roman antica","C":["n"],"d":"un unia de 1000 pasos par la pede sinistra, egal a 1,481 km","en":"Roman mile"}
 {"T":"r","L":"milio","C":["n","pla"],"d":"un planta sereal cual crese rapida e es cultivada en paises calda e rejiones con tera povre","t":"Gramineae, {spesial","en":"millet (plant)"}
-{"T":"r","L":"milion","C":["d","mat"],"d":"{1 000 000}, {10^6}","n":"On dise `du milion`, `des milion`, etc, (no `du miliones`), esata como on dise `du mil`.","en":"(a) million"}
+{"T":"r","L":"milion","C":["d","mat"],"d":"{1(~)000(~)000}, {10^6}","n":"On dise `du milion`, `des milion`, etc, (no `du miliones`), esata como on dise `du mil`.","en":"(a) million"}
 {"L":"milion","C":["a"],"en":"millionth (ordinal)"}
 {"L":"miliones","C":["n","pl"],"en":"millions"}
 {"L":"du milion","C":["d"],"en":"two million"}
@@ -17096,7 +17103,7 @@
 {"L":"nazisme","C":["n"],"en":"Nazism"}
 {"T":"r","L":"nb","C":["c"],"d":"nota bon","en":"NB, nota bene"}
 {"T":"r","L":"ne","C":["n","mus"],"d":"un flauta de Asia sude-ueste","i":"#","en":"nay, ney (flute)"}
-{"T":"r","L":"neandertalan","C":["a","uma"],"d":"pertinente a un spesie estinguida de umanas, ci ia abita Europa e Asia sude-ueste entre sirca {120 000} e {35 000} anios ante aora","i":"#","en":"Neanderthal"}
+{"T":"r","L":"neandertalan","C":["a","uma"],"d":"pertinente a un spesie estinguida de umanas, ci ia abita Europa e Asia sude-ueste entre sirca {120(~)000} e {35(~)000} anios ante aora","i":"#","en":"Neanderthal"}
 {"L":"neandertalan","C":["n"],"en":"Neanderthal"}
 {"T":"r","L":"nebla","C":["n","tera"],"d":"un nube densa de gotas peti de acua, suspendeda en la atmosfera prosima a la tera, cual restrinje la vide","i":"#","en":"fog","fr":"brouillard"}
 {"L":"nebla fumosa","C":["n"],"en":"smog"}
@@ -17246,7 +17253,7 @@
 {"T":"r","L":"neurotransmete","C":["vt","bio"],"d":"envia (un impulsa) tra un sinapse entre neurones","en":"neurotransmit"}
 {"L":"neurotransmete","C":["n"],"en":"neurotransmission"}
 {"L":"neurotransmetador","C":["n"],"d":"un cimical cual es relasada a la fini de un neuron e vade ultra la sinapse per stimula la selula seguente","en":"neurotransmitter"}
-{"T":"r","L":"neuton","C":["n","fis"],"d":"un unia internasional de fortia, egal a {100 000} dines, la fortia capas de aselera un masa de un cilogram par un metre per secondo per secondo","en":"newton (unit of force)","fr":"newton"}
+{"T":"r","L":"neuton","C":["n","fis"],"d":"un unia internasional de fortia, egal a {100(~)000} dines, la fortia capas de aselera un masa de un cilogram par un metre per secondo per secondo","en":"newton (unit of force)","fr":"newton"}
 {"T":"r","L":"neutra","C":["a","gov","bio"],"d":"no aidante o suportante la un lado o la otra en un desacorda, disputa, gera, etc; (un color) blanda; (un cimical) no asida e no alcalin; (un animal) sin organos sesal developada, o pos la estrae de estas; (un nom en alga linguas) sin jenero gramatical","en":"neutral; neuter","fr":"neutre"}
 {"L":"neutri","C":["vnt"],"en":"neutralize|is, neuter, spay","fr":"neutraliser"}
 {"L":"neutri","C":["vt"],"en":"neutralize|is, neuter, spay"}
@@ -17400,6 +17407,7 @@
 {"L":"la X malnomida","C":["a"],"en":"the so-called X (disparaging)"}
 {"L":"malnomida","C":["a"],"en":"misnamed; so-called (disparaging)"}
 {"L":"malnomida","C":["n"],"en":"misnomer"}
+{"L":"nomeria","C":["n","info"],"en":"namespace"}
 {"L":"nomes","C":["n","pl"],"en":"names, nomenclature"}
 {"L":"nometa","C":["n"],"en":"nickname, sobriquet, soubriquet"}
 {"L":"nomi","C":["vt"],"u":"on nomi esta forma un esagon","en":"name, call, give a name to; appoint"}
@@ -17846,7 +17854,7 @@
 {"L":"olografi","C":["vt"],"en":"make a hologram of"}
 {"L":"olografial","C":["a"],"en":"holographic"}
 {"T":"r","L":"ologram","C":["n","fis"],"d":"un imaje tridimensional, formida par la interfere de raios de lus de un laser o otra fonte coerente","en":"hologram"}
-{"T":"r","L":"olosene","C":["a","tera"],"d":"pertinente a la epoca jeolojial presente, cual segue la plestosene, comensante a sirca 10 000 anios ante aora","en":"Holocene (geology)"}
+{"T":"r","L":"olosene","C":["a","tera"],"d":"pertinente a la epoca jeolojial presente, cual segue la plestosene, comensante a sirca 10(~)000 anios ante aora","en":"Holocene (geology)"}
 {"L":"olosene","C":["n"],"en":"Holocene (geology)"}
 {"T":"r","L":"om","C":["n","uma"],"d":"un umana adulte mas; (nonformal) un sposo","en":"man; guy, bloke, chap, fellow; (colloquial) husband"}
 {"L":"om de carera","C":["n"],"en":"career man"}
@@ -18753,6 +18761,7 @@
 {"L":"pantalon de sura","C":["n"],"en":"capri pants"}
 {"L":"pantalon esvasante","C":["n"],"en":"flared trousers, flares, bellbottoms"}
 {"L":"supantala","C":["n"],"en":"boxer shorts, boxers"}
+{"L":"supantalon","C":["n"],"en":"long johns, long underwear, thermals"}
 {"T":"r","L":"pantan","C":["n","tera"],"d":"un rejion de tera basa, acuosa e noncultivada","i":"#","en":"wetland, swamp, bog, mire, quagmire, marsh, marshland, fen, fenland, bayou, morass","es":"humedal, cenagal, ciénaga, lodazal, marisma, pantano"}
 {"L":"pantan arborosa","C":["n"],"en":"marsh","es":"ciénaga, pantano"}
 {"L":"pantan erbosa","C":["n"],"en":"swamp","es":"ciénaga, pantano, marisma"}
@@ -18821,7 +18830,7 @@
 {"L":"papuan","C":["a"],"en":"Papuan"}
 {"L":"papuan","C":["n"],"en":"Papuan"}
 {"T":"r","L":"papula","C":["n","med"],"d":"un bulteta, tipal un parte de un eruta inflamada de la pel","en":"papule, pimple (anatomy)"}
-{"T":"r","L":"par","C":["prep"],"d":"indicante la ajente de un ata, la causa de un efeto, o la creor de un obra","g":"Preposadas#Par","u":"surprendeda par la responde; ensircada par otra paises; un teatral par Shakespeare; la ataca de la troianes par la elinicas","en":"(made, done, caused) by, through the agency of, because of","eo":"de, fare de, pro"}
+{"T":"r","L":"par","C":["prep"],"d":"indicante la ajente de un ata, la causa de un efeto, o la creor de un obra","g":"preposadas#par","u":"surprendeda par la responde; ensircada par otra paises; un teatral par Shakespeare; la ataca de la troianes par la elinicas","en":"(made, done, caused) by, through the agency of, because of","eo":"de, fare de, pro"}
 {"T":"s","d":"indicante la modo en cual alga cosa es fada o transportada","u":"viaja par avion; codigida par color; el ia survive par asconde su la table","en":"by means of, using, via (method, action)","eo":"per"}
 {"T":"s","d":"indicante la cuantia du en un multipli","u":"2 par 3 es 6","en":"multiplied by, times"}
 {"T":"s","d":"indicante la grandia de un difere","u":"me es plu alta ca tu par un sentimetre","en":"differing by (amount, quality)"}
@@ -19452,7 +19461,7 @@
 {"L":"-pepsica","C":["sf","a","med"],"en":"-peptic"}
 {"T":"r","L":"pepsin","C":["n","bio"],"d":"la enzima xef de dijesta en la stomaco, cual rompe protenas a polipeptidos","en":"pepsin (enzyme)"}
 {"T":"r","L":"peptido","C":["n","cim"],"d":"un composada de du o plu aminoasidas liada en un cadena","en":"peptide (chemistry)"}
-{"T":"r","L":"per","C":["prep"],"d":"con intende de; beneficante","g":"Preposadas#Per","n":"No confusa `per` e `par`. `Per` introdui un intende; `par` introdui un causa.","u":"nos labora per mone; viaja per vide la mundo; vestida per un sera de dansa; el ia scrive la libro per sua madre","v":"par, tra","en":"for (an intended reason or beneficiary); in order to, to","eo":"por, pro, en ĉiu"}
+{"T":"r","L":"per","C":["prep"],"d":"con intende de; beneficante","g":"preposadas#per","n":"No confusa `per` e `par`. `Per` introdui un intende; `par` introdui un causa.","u":"nos labora per mone; viaja per vide la mundo; vestida per un sera de dansa; el ia scrive la libro per sua madre","v":"par, tra","en":"for (an intended reason or beneficiary); in order to, to","eo":"por, pro, en ĉiu"}
 {"T":"s","d":"intercambiada con","u":"tu ia paia tro per acel computador; me ia compra lo per mil euros; grasias per tua mesaje","en":"for, in exchange for, in return for"}
 {"T":"s","d":"(en mesuras de rapidia e simil) en cada (de la unias spesifada)","u":"viaja a sento cilometres per ora","en":"for every, per (in measurements of speed, etc.)"}
 {"T":"s","d":"suportante o representante (un promove)","u":"vota per la proposa; me parla per mea ami","en":"for, on behalf of; pro (in favour of)"}
@@ -20587,9 +20596,9 @@
 {"L":"portuges","C":["a"],"en":"Portuguese"}
 {"L":"portuges","C":["n","dem"],"en":"Portuguese"}
 {"T":"r","L":"portulaca","C":["n","pla"],"d":"un planta peti con folias pulposa cual crese en locas moiada","i":"#","t":"Portulaca","en":"portulaca, purslane (plant)"}
-{"T":"r","L":"pos","C":["prep"],"d":"a, o prosima a, la retro de (alga cosa), o plu retro ca lo; seguente (en un ordina o prosegue); min avansada ca","g":"Preposadas#Pos","u":"la gato dormi pos la sofa","ca":"darrere de","da":"bagved bag, bagved","de":"hinter","en":"behind (in space or sequence)","eo":"malantaŭ","es":"detrás de, tras","fr":"derrière","it":"dietro a","ja":"の後ろに・で","nl":"achter","pt":"atrás de","ru":"после, через"}
+{"T":"r","L":"pos","C":["prep"],"d":"a, o prosima a, la retro de (alga cosa), o plu retro ca lo; seguente (en un ordina o prosegue); min avansada ca","g":"preposadas#pos","u":"la gato dormi pos la sofa","ca":"darrere de","da":"bagved bag, bagved","de":"hinter","en":"behind (in space or sequence)","eo":"malantaŭ","es":"detrás de, tras","fr":"derrière","it":"dietro a","ja":"の後ろに・で","nl":"achter","pt":"atrás de","ru":"после, через"}
 {"T":"s","d":"movente per ateni la retro de (alga cosa)","n":"Per espresa esta en modo plu clar, on pote dise `a pos`.","u":"la gato core pos la sofa","en":"(moving) to behind, to the back of"}
-{"T":"s","d":"en la tempo seguente (alga cosa)","g":"Preposadas#Pos","n":"Per introdui un proposa suordinada, usa `pos cuando` en loca. La averbo con la sinifia `a un tempo plu tarda` es `a pos`.","u":"desembre veni pos novembre; nos esperia la tona pos la lampo; me va reveni pos du dias; pos come, el ia dormi","v":"cuando","ca":"després de","da":"efter","de":"nach","en":"after, later than, since; in (e.g. one week's time)","eo":"post","es":"después de","fr":"après","it":"dopo","nl":"na","pt":"após, depois de","ru":"после, за"}
+{"T":"s","d":"en la tempo seguente (alga cosa)","g":"preposadas#pos","n":"Per introdui un proposa suordinada, usa `pos cuando` en loca. La averbo con la sinifia `a un tempo plu tarda` es `a pos`.","u":"desembre veni pos novembre; nos esperia la tona pos la lampo; me va reveni pos du dias; pos come, el ia dormi","v":"cuando","ca":"després de","da":"efter","de":"nach","en":"after, later than, since; in (e.g. one week's time)","eo":"post","es":"después de","fr":"après","it":"dopo","nl":"na","pt":"após, depois de","ru":"после, за"}
 {"L":"pos-","C":["pf"],"d":"pos, plu tarda","u":"posenebria; posalveolal","en":"post- (happening later or located behind)"}
 {"L":"a pos","C":["prep"],"u":"la gato ia core a pos la sofa","en":"behind, to behind"}
 {"L":"a pos","C":["av"],"d":"a la retro (de un cosa sujestada par la contesto); movente en dirije a la retro; movente en la dirije cual on no fasa; en la tempo seguente","en":"behind, at the back, at the rear; (moving) to the back; backward, backwards; (time) afterward, afterwards, later, then, next, subsequently, since","eo":"malantaŭe; malantaŭen; poste"}
@@ -24205,7 +24214,7 @@
 {"T":"r","L":"simultan","C":["a"],"d":"aveninte o fada a la mesma tempo","en":"simultaneous, concurrent"}
 {"L":"simultan","C":["av"],"en":"simultaneously, in unison"}
 {"L":"simultania","C":["n"],"en":"simultaneity, synchronicity, unison"}
-{"T":"r","L":"sin","C":["prep"],"d":"no acompaniada par, en la asentia de; privada de, nesesante, desirante","g":"Preposadas#Sin","u":"cafe sin lete; tu viaja sin bileta; leje sin comprende la sinifia","ca":"sense","da":"uden, foruden, ved siden af, eksklusiv","de":"ohne, ausser, abgesehen von","en":"without; lacking, devoid of","eo":"sen","es":"sin, excepto, aparte de, más que","fr":"sans, excepté","it":"senza, tranne","ja":"なしで","nl":"zonder, behalve, afgezien van","pt":"sem, exceto","ru":"без"}
+{"T":"r","L":"sin","C":["prep"],"d":"no acompaniada par, en la asentia de; privada de, nesesante, desirante","g":"preposadas#sin","u":"cafe sin lete; tu viaja sin bileta; leje sin comprende la sinifia","ca":"sense","da":"uden, foruden, ved siden af, eksklusiv","de":"ohne, ausser, abgesehen von","en":"without; lacking, devoid of","eo":"sen","es":"sin, excepto, aparte de, más que","fr":"sans, excepté","it":"senza, tranne","ja":"なしで","nl":"zonder, behalve, afgezien van","pt":"sem, exceto","ru":"без"}
 {"L":"sin ce","C":["sj"],"u":"la gato entra a la sala sin ce algun vide lo","en":"without"}
 {"T":"r","L":"sin-","C":["pf","tecn"],"d":"con, juntada, con lunlotra","en":"syn- (together)"}
 {"T":"r","L":"Sina","C":["n","jeo"],"d":"un penisola en Misre entre la Golfo Suwais e la Golfo Acaba","i":"#","en":"Sinai, Sinai Peninsula"}
@@ -24390,7 +24399,7 @@
 {"L":"sira de abea","C":["n"],"en":"beeswax"}
 {"L":"sira per brilia","C":["n"],"en":"polish"}
 {"L":"sirin","C":["a"],"en":"waxy"}
-{"T":"r","L":"sirca","C":["prep"],"d":"locada o situada a tota lados de; movente longo un via sirculo en relata a","g":"Preposadas#Sirca","u":"nos ia senta sirca la foco; edera crese sirca la tronco; me viaja sirca la mundo","ca":"al voltant de","da":"omkring","de":"um, herum","en":"around, round, surrounding, circling","eo":"ĉirkaŭ","es":"acerca de, alrededor de","fr":"autour de","it":"attorno a, in giro per","ja":"周りに, 辺りに","nl":"rond, rondom, rond, om","pt":"em torn cerca, em torno, arredores, vizinhança","ru":"вокруг"}
+{"T":"r","L":"sirca","C":["prep"],"d":"locada o situada a tota lados de; movente longo un via sirculo en relata a","g":"preposadas#sirca","u":"nos ia senta sirca la foco; edera crese sirca la tronco; me viaja sirca la mundo","ca":"al voltant de","da":"omkring","de":"um, herum","en":"around, round, surrounding, circling","eo":"ĉirkaŭ","es":"acerca de, alrededor de","fr":"autour de","it":"attorno a, in giro per","ja":"周りに, 辺りに","nl":"rond, rondom, rond, om","pt":"em torn cerca, em torno, arredores, vizinhança","ru":"вокруг"}
 {"T":"s","d":"indicante un tempo o cuantia aprosima","u":"a sirca sento anios ante aora; la conserta ia comensa sirca la ora dudes","ca":"aproximadament","de":"ungefähr","en":"about, approximately, circa, some","eo":"ĉirkaŭ, proksimume, preskaŭ","fr":"environ","pt":"a cerca de, a respeito de, sobre, relacionado com, relativo à","ru":"около, приблизительно"}
 {"L":"a sirca","C":["prep"],"en":"(moving) to around"}
 {"L":"a sirca","C":["av"],"en":"(positioned or moving) around; dotted about, here and there"}
@@ -25346,7 +25355,7 @@
 {"T":"r","L":"stupor","C":["n","med","mit"],"d":"un state cuasi nonconsensa de stimulas esterna, tipal induida par ipnose o atenida par un spiritiste","en":"stupor, trance"}
 {"T":"r","L":"sturion","C":["n","pex"],"d":"un pex primitiva con laminas de oso sur sua corpo, importante per sua carne e caviar","i":"#","t":"Acipenseridae","en":"sturgeon (fish)"}
 {"T":"r","L":"sturnela","C":["n","avia"],"d":"un avia cantante de la prados american","i":"#","t":"Sturnella","en":"meadowlark (bird)"}
-{"T":"r","L":"su","C":["prep"],"d":"situada o estendente a un loca plu basa o profonda ca; plu basa ca (un cuantia, frecuentia o norma)","g":"Preposadas#Su","u":"ombra su la arbores; un table su la fenetra; un sueter su un jaca; labora su esta regulas; la temperatur es su zero","ca":"a sota de","da":"under, neden under","de":"unter, unten","en":"below, beneath, under, underneath, lower than (location, quantity, standard)","eo":"sub","es":"bajo, debajo de, menos que, indigno de, inferior a","fr":"sous","it":"sotto","ja":"の下に, で","nl":"onder","pt":"sob, debaixo, embaixo, inferior, abaixo","ru":"под"}
+{"T":"r","L":"su","C":["prep"],"d":"situada o estendente a un loca plu basa o profonda ca; plu basa ca (un cuantia, frecuentia o norma)","g":"preposadas#su","u":"ombra su la arbores; un table su la fenetra; un sueter su un jaca; labora su esta regulas; la temperatur es su zero","ca":"a sota de","da":"under, neden under","de":"unter, unten","en":"below, beneath, under, underneath, lower than (location, quantity, standard)","eo":"sub","es":"bajo, debajo de, menos que, indigno de, inferior a","fr":"sous","it":"sotto","ja":"の下に, で","nl":"onder","pt":"sob, debaixo, embaixo, inferior, abaixo","ru":"под"}
 {"T":"s","d":"movente a un loca plu basa ca","u":"pone un cuxin su sua testa","en":"(moving) to below, under"}
 {"L":"su-","C":["pf"],"d":"su, a su, plu basa en loca o grado","u":"sutera; sudivide","en":"sub- (lower in location or hierarchy)"}
 {"L":"a su","C":["prep"],"u":"la gato core a su la table","en":"(moving) to below, under"}
@@ -25548,7 +25557,7 @@
 {"L":"suposable","C":["av"],"en":"presumably"}
 {"L":"suposada","C":["a"],"en":"supposed, presumptive, putative; so-called (disparaging)"}
 {"T":"r","L":"supositorio","C":["n","med"],"d":"un prepara medical desiniada per introdui en la reto o vajina per disolve","en":"suppository"}
-{"T":"r","L":"supra","C":["prep"],"d":"situada o estendente a un loca plu alta ca; plu alta ca (un cuantia, frecuentia o norma)","g":"Preposadas#Supra","u":"la teto es supra la sofito; un covretota supra tua otra vestes; nosa rapidia es supra sento cilometres per ora","ca":"a sobre","da":"over","de":"ober, über","en":"above, over, higher than (location, quantity, standard)","eo":"super","es":"sobre, por encima de","fr":"au-dessus de","it":"su, sopra a","ja":"の上へ, に, で","nl":"boven","pt":"acima, sobre, em cima","ru":"над"}
+{"T":"r","L":"supra","C":["prep"],"d":"situada o estendente a un loca plu alta ca; plu alta ca (un cuantia, frecuentia o norma)","g":"preposadas#supra","u":"la teto es supra la sofito; un covretota supra tua otra vestes; nosa rapidia es supra sento cilometres per ora","ca":"a sobre","da":"over","de":"ober, über","en":"above, over, higher than (location, quantity, standard)","eo":"super","es":"sobre, por encima de","fr":"au-dessus de","it":"su, sopra a","ja":"の上へ, に, で","nl":"boven","pt":"acima, sobre, em cima","ru":"над"}
 {"T":"s","d":"movente a un loca plu alta ca","u":"el leva la enfante supra sua testa","en":"(moving) to above, over"}
 {"L":"supra-","C":["pf"],"d":"supra, plu alta ca","u":"suprasil; supraumana","en":"super- (higher in location or hierarchy)"}
 {"L":"supra tota","C":["av"],"ca":"sobretot","de":"über alles","en":"above all","es":"sobre todo","fr":"surtout","ja":"何より","pt":"acima de tudo","ru":"прежде всего, больше всего"}
@@ -25568,7 +25577,7 @@
 {"T":"r","L":"supresa","C":["vt","gov","uma"],"d":"para par forsa; preveni la developa, ata o espresa de (un impulsa, senti, idea, etc); preveni la difusa de (informa); preveni o retarda (un prosede o reata); elimina partal o completa (un interfere eletrical); (en psicolojia) retarda o evita (un idea o memoria nonplasente)","en":"suppress, quash, quell, override"}
 {"L":"supresa","C":["n"],"en":"suppression"}
 {"L":"supresante","C":["n"],"en":"suppressant"}
-{"T":"r","L":"sur","C":["prep"],"d":"suportada a la surfas de (un cosa)","g":"Preposadas#Sur","u":"tre libros es sur la table; un depinta pende sur la mur; un sicatris sur tua dito; la vive sur Marte","en":"on (surface, including vertical), on top of, upon","eo":"sur"}
+{"T":"r","L":"sur","C":["prep"],"d":"suportada a la surfas de (un cosa)","g":"preposadas#sur","u":"tre libros es sur la table; un depinta pende sur la mur; un sicatris sur tua dito; la vive sur Marte","en":"on (surface, including vertical), on top of, upon","eo":"sur"}
 {"T":"s","d":"movente a la surfas de (un cosa)","u":"la caxa ia cade sur la solo","en":"(moving) onto","eo":"sur -n"}
 {"T":"s","d":"consernante o pertinente a (un tema)","u":"me vole parla sur mea vacanse; la xica plora sur sua popa perdeda","en":"concerning, about, pertaining to (a topic)","eo":"pri"}
 {"L":"a sur","C":["prep"],"en":"(moving) onto, on"}
@@ -26690,7 +26699,7 @@
 {"L":"toxina de botulisme","C":["n"],"en":"botulinum toxin","es":"toxina botulínica"}
 {"L":"antitoxina","C":["n","med"],"d":"un medisin per combate la efetos de toxinas","en":"antitoxin","es":"antitoxina"}
 {"L":"toxinia","C":["n"],"en":"toxicity","es":"toxicidad"}
-{"T":"r","L":"tra","C":["prep"],"d":"pasante de un lado a la otra de (un loca), o a en e continuante a ultra","g":"Preposadas#Tra","u":"acua flue tra la tubos; core tra la campos; regarda la sielo tra la fenetra; de Milano a Roma tra Bologna","ca":"a través de","da":"gennem, igennem, tværs over, på tværs","de":"durch, herüber, quer über","en":"through; via","eo":"tra","es":"a través de, más álla de, por medio de, por conducto de, por entre","fr":"à travers; durant; en passant par; au moyen de","it":"al di là, oltre, attraverso, per","ja":"～を通って, ～を抜けて","nl":"door, over","pt":"através de","ru":"через"}
+{"T":"r","L":"tra","C":["prep"],"d":"pasante de un lado a la otra de (un loca), o a en e continuante a ultra","g":"preposadas#tra","u":"acua flue tra la tubos; core tra la campos; regarda la sielo tra la fenetra; de Milano a Roma tra Bologna","ca":"a través de","da":"gennem, igennem, tværs over, på tværs","de":"durch, herüber, quer über","en":"through; via","eo":"tra","es":"a través de, más álla de, por medio de, por conducto de, por entre","fr":"à travers; durant; en passant par; au moyen de","it":"al di là, oltre, attraverso, per","ja":"～を通って, ～を抜けて","nl":"door, over","pt":"através de","ru":"через"}
 {"T":"s","d":"ocupante tota de (un loca o un tempo esperiada)","u":"la odor es tra la vila; leje tra la note; on ia esperimenta tra du anios ante trova la solve","en":"throughout (a place or period); during, for (an elapsed time or distance actually travelled)"}
 {"L":"tra cuando","C":["sj"],"d":"tra tota la tempo cuando (alga cosa aveni)","en":"as long as, so long as","fr":"tout le temps que, tant que"}
 {"L":"tra la dia","C":["av"],"en":"all day, all the time, continually","fr":"toute la journée, tout le temps, continuellement"}
@@ -26726,6 +26735,7 @@
 {"L":"retraor","C":["n"],"i":"#","en":"retriever (dog)"}
 {"L":"retraor de Labrador","C":["n"],"en":"Labrador retriever, Labrador (dog)"}
 {"L":"retraor oro","C":["n"],"i":"#","en":"golden retriever (dog)"}
+{"L":"traor","C":["n"],"en":"deliveryman, delivery boy, delivery girl, delivery person"}
 {"T":"r","L":"trafica","C":["vnt","vec"],"d":"(veculos o persones) move sur un via publica, tipal en cuantias grande","i":"#","en":"circulate"}
 {"L":"trafica","C":["vt"],"d":"transporta benes o pasajores; transmete (un sinial) tra un sistem de comunica","en":"traffic","fr":"circuler"}
 {"L":"trafica","C":["n"],"en":"traffic","fr":"trafic, circulation"}
@@ -27343,7 +27353,7 @@
 {"L":"anteultima","C":["a"],"en":"penultimate, second from last, last but one"}
 {"L":"cuasi ultima","C":["a"],"en":"penultimate, second from last, last but one"}
 {"L":"du ante la ultima","C":["a"],"en":"antepenultimate, third from last, last but two"}
-{"T":"r","L":"ultra","C":["prep"],"d":"a la lado plu distante de; (un cualia o cuantia) esedente","g":"Preposadas#Ultra","u":"la eglesa es ultra la ponte; un taxe ultra mea capasia; viaja ultra la rapidia de sona","da":"bagefter, længere end","de":"weiter","en":"beyond, past, across, on the other side of; more than, further than, farther than, exceeding","eo":"preter, trans, aliflanke de","es":"más allá de, fuera de, allende","fr":"au delà de","it":"oltre","nl":"verder dan, voorbij","pt":"além de, mais distante que","ru":"за, вне"}
+{"T":"r","L":"ultra","C":["prep"],"d":"a la lado plu distante de; (un cualia o cuantia) esedente","g":"preposadas#ultra","u":"la eglesa es ultra la ponte; un taxe ultra mea capasia; viaja ultra la rapidia de sona","da":"bagefter, længere end","de":"weiter","en":"beyond, past, across, on the other side of; more than, further than, farther than, exceeding","eo":"preter, trans, aliflanke de","es":"más allá de, fuera de, allende","fr":"au delà de","it":"oltre","nl":"verder dan, voorbij","pt":"além de, mais distante que","ru":"за, вне"}
 {"T":"s","d":"movente a la lado plu distante de","u":"viaja ultra la montes","en":"(moving) to beyond, to the other side of, across"}
 {"L":"ultra-","C":["pf","tecn"],"d":"ultra, plu ca, estrema","en":"ultra-"}
 {"L":"a ultra","C":["prep"],"u":"remi un barceta a ultra la lago","en":"(moving) to beyond, to the other side of, across"}
