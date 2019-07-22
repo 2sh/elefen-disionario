@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '20 julio 2019';
+﻿var dataDeDatos = '21 julio 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -19532,7 +19532,7 @@ var disionario = [
 {T:"r",L:"pericardite",C:["n","med"],d:"un inflama de la pericardio",en:"pericarditis (medical)"},
 {T:"r",L:"perielio",C:["n","ast"],d:"la punto en la orbita de un planeta, asteroide o cometa do lo es la plu prosima a la Sol",en:"perihelion (astronomy)"},
 {T:"r",L:"periferia",C:["n"],d:"la borda o limitas esterna de un area o ojeto; un rol min importante en un ativia, grupo o sujeto",en:"periphery"},
-{L:"periferial",C:["a"],en:"peripheral, distal"},
+{L:"periferial",C:["a"],en:"peripheral, distal; obviative"},
 {T:"r",L:"perifrase",C:["vt","ling"],d:"espresa (un sinifia) par parolas nondireta o multiple",en:"periphrase"},
 {L:"perifrase",C:["n"],en:"periphrasis, circumlocution, circuitousness"},
 {L:"perifrasente",C:["a"],en:"periphrastic, circumlocutory, circuitous"},
@@ -21095,6 +21095,7 @@ var disionario = [
 {L:"proni",C:["n"],en:"pronation"},
 {T:"r",L:"pronom",C:["n","ling"],d:"un parola cual pote es usada como un formula nomin e cual refere a la persones ci conversa (como `me`, `tu`, `nos`) o a un person o cosa notada a otra locas de la conversa (como `el`, `los`, `esta`)",en:"pronoun"},
 {L:"pronom de demanda",C:["n"],en:"interrogative pronoun"},
+{L:"pronom periferial",C:["n"],en:"obviative pronoun, obviate pronoun"},
 {L:"pronom-sujunta",C:["n"],d:"un pronom cual introdui un suproposa ajetivin o nomin",en:"relative pronoun"},
 {L:"pronomal",C:["a"],en:"pronominal"},
 {T:"r",L:"pronto",C:["a"],d:"preparada per funsiona direta o pos tempo minima",en:"with little delay; instant (coffee), ready"},

@@ -19530,7 +19530,7 @@
 {"T":"r","L":"pericardite","C":["n","med"],"d":"un inflama de la pericardio","en":"pericarditis (medical)"}
 {"T":"r","L":"perielio","C":["n","ast"],"d":"la punto en la orbita de un planeta, asteroide o cometa do lo es la plu prosima a la Sol","en":"perihelion (astronomy)"}
 {"T":"r","L":"periferia","C":["n"],"d":"la borda o limitas esterna de un area o ojeto; un rol min importante en un ativia, grupo o sujeto","en":"periphery"}
-{"L":"periferial","C":["a"],"en":"peripheral, distal"}
+{"L":"periferial","C":["a"],"en":"peripheral, distal; obviative"}
 {"T":"r","L":"perifrase","C":["vt","ling"],"d":"espresa (un sinifia) par parolas nondireta o multiple","en":"periphrase"}
 {"L":"perifrase","C":["n"],"en":"periphrasis, circumlocution, circuitousness"}
 {"L":"perifrasente","C":["a"],"en":"periphrastic, circumlocutory, circuitous"}
@@ -21093,6 +21093,7 @@
 {"L":"proni","C":["n"],"en":"pronation"}
 {"T":"r","L":"pronom","C":["n","ling"],"d":"un parola cual pote es usada como un formula nomin e cual refere a la persones ci conversa (como `me`, `tu`, `nos`) o a un person o cosa notada a otra locas de la conversa (como `el`, `los`, `esta`)","en":"pronoun"}
 {"L":"pronom de demanda","C":["n"],"en":"interrogative pronoun"}
+{"L":"pronom periferial","C":["n"],"en":"obviative pronoun, obviate pronoun"}
 {"L":"pronom-sujunta","C":["n"],"d":"un pronom cual introdui un suproposa ajetivin o nomin","en":"relative pronoun"}
 {"L":"pronomal","C":["a"],"en":"pronominal"}
 {"T":"r","L":"pronto","C":["a"],"d":"preparada per funsiona direta o pos tempo minima","en":"with little delay; instant (coffee), ready"}
