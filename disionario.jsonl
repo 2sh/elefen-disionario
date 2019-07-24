@@ -2328,7 +2328,7 @@
 {"T":"r","L":"aulacode","C":["n","mam"],"d":"un rodente grande e ratin, trovada en la zona umida a sude de la Sahara, a veses un pesta per cultiverias de zucar","i":"#","t":"Thryonomys","en":"cane rat","he":"חולדת קנים"}
 {"T":"r","L":"aulo","C":["n","mus"],"d":"un strumento de venta de Elas antica, tipal con anxa duple, con sona forte e xiliante","en":"aulos (musical instrument)","he":"אאולוס (כלי נגינה)"}
 {"T":"r","L":"aumenta","C":["vnt"],"d":"deveni plu grande o forte par ajuntas","en":"augment, increase, increment, supplement, boost, surge, redouble; appreciate (in value); tighten (rules)","he":"להגדיל, להרחיב, להגביר, להוסיף"}
-{"L":"aumenta","C":["n"],"en":"augmentation, increase, surge, supplement, boost, upsurge, increment","he":"הגדלה, גידול, עליה, תוספת"}
+{"L":"aumenta","C":["n"],"en":"augmentation, increase, surge, supplement, boost, upsurge, increment, appreciation","he":"הגדלה, גידול, עליה, תוספת"}
 {"L":"aumenta con","C":["v"],"en":"increase by (an addition)","he":"לעלות ב-"}
 {"L":"aumenta de salario","C":["n"],"en":"wage rise, wage raise, pay rise, pay raise","he":"תוספת שכר"}
 {"L":"aumental","C":["a"],"en":"supplementary, supplemental, incremental","he":"נוסף, מוסף"}
@@ -5866,6 +5866,8 @@
 {"T":"r","L":"coneo","C":["n","mam"],"d":"un mamal sosial e erbivor, con oreas longa, gamas anterior longa, e coda corta","i":"#","t":"Leporidae","en":"rabbit","he":"ארנב"}
 {"L":"coneria","C":["n"],"en":"warren","he":"ארנביה"}
 {"L":"coneta","C":["n"],"en":"baby rabbit, bunny","he":"ארנבון"}
+{"T":"r","L":"confedera","C":["vnt","gov"],"d":"(un cuantia de statos o organizas) formi un unia ma reteni multe autonomia interna","v":"federa","en":"confederate"}
+{"L":"confedera","C":["n"],"en":"confederacy, confederation (action, result)"}
 {"T":"r","L":"confere","C":["vnt"],"d":"fa discutes; intercambia opinas","en":"confer; parley","he":"להתייעץ, לדון, להחליף דעות"}
 {"L":"confere","C":["n"],"en":"conference, convention (meeting), symposium, powwow; parley","he":"כנס, ועידה, אספה, סימפוזיון; דיון, החלפת דעות"}
 {"L":"confere academial","C":["n"],"en":"academic conference, colloquium, seminar","he":"כנס אקדמי, סמינר, יום עיון"}
@@ -10565,8 +10567,8 @@
 {"L":"fecal","C":["a"],"en":"fecal|ae"}
 {"L":"feci","C":["vt"],"en":"defecate"}
 {"L":"feci","C":["n"],"en":"defecation"}
-{"T":"r","L":"federa","C":["vnt","gov"],"d":"(un cuantia de statos o organizas) formi un unia ma reteni alga autonomia interna","en":"federate, confederate"}
-{"L":"federa","C":["n"],"en":"federation, confederacy, confederation (action, result)"}
+{"T":"r","L":"federa","C":["vnt","gov"],"d":"(un cuantia de statos o organizas) formi un unia, donante multe de sua autonomia a la potiosa sentral","v":"confedera","en":"federate"}
+{"L":"federa","C":["n"],"en":"federation (action, result)"}
 {"L":"federada","C":["a"],"en":"federated"}
 {"L":"federal","C":["a"],"en":"federal"}
 {"L":"federalisme","C":["n"],"en":"federalism"}
@@ -12193,7 +12195,7 @@
 {"L":"grasi","C":["vt"],"en":"grease, baste"}
 {"L":"grasosa","C":["a"],"en":"fat, fatty, greasy"}
 {"T":"r","L":"grasia","C":["vt","uma"],"d":"espresa un senti de felisia a (algun) pos reseta alga cosa beneficante","en":"thank"}
-{"L":"grasia","C":["n"],"en":"gratitude, thanks; grace (Christianity)"}
+{"L":"grasia","C":["n"],"en":"gratitude, thanks, appreciation; grace (Christianity)"}
 {"L":"con grasias a","C":["prep"],"en":"thanks to"}
 {"L":"es grasiosa per","C":["v"],"en":"be grateful for, appreciate"}
 {"L":"grasias","C":["esc","pl"],"en":"thanks, thank you"}
@@ -13020,10 +13022,10 @@
 {"T":"r","L":"infrastrutur","C":["n","arci"],"d":"la strutures fundal nesesada per la funsiona de un sosia o emprendes (construidas, vias, transportas, sentros eletrical, etc)","en":"infrastructure"}
 {"T":"r","L":"infusa","C":["vt","cos"],"d":"empapa (te, erbas, etc) en licuida per estrae la sabor o cualias saninte","i":"#","en":"infuse, brew (tea, coffee)"}
 {"L":"infusa","C":["n"],"en":"infusion, brew"}
-{"T":"r","L":"ingrediente","C":["n","cos"],"d":"un cosa cual on combina con otra cosas per produi un comeda; un parte o elemento nesesada per produi alga cosa","en":"ingredient"}
-{"T":"r","L":"inguin","C":["n","anat"],"d":"la area entre la adomen e un coxa; (en arciteta) la borda curva formida par du voltas crusante","en":"groin, crotch, crutch"}
-{"L":"inguinal","C":["a"],"en":"inguinal"}
-{"T":"r","L":"Inguxetia","C":["n","jeo"],"d":"un republica autonom en Caucaso en Rusia sude-ueste","i":"Txetxnia","en":"Ingushetia"}
+{"T":"r","L":"ingrediente","C":["n","cos"],"d":"un cosa cual on combina con otra cosas per produi un comeda; un parte o elemento nesesada per produi alga cosa","en":"ingredient","es":"ingrediente"}
+{"T":"r","L":"inguin","C":["n","anat"],"d":"la area entre la adomen e un coxa; (en arciteta) la borda curva formida par du voltas crusante","en":"groin, crotch, crutch","es":"ingle, entrepierna"}
+{"L":"inguinal","C":["a"],"en":"inguinal","es":"inguinal, inguinario"}
+{"T":"r","L":"Inguxetia","C":["n","jeo"],"d":"un republica autonom en Caucaso en Rusia sude-ueste","i":"Txetxnia","en":"Ingushetia","es":"Ingusetia","fr":"Ingouchie"}
 {"L":"ingux","C":["a"],"en":"Ingush (person, language)"}
 {"L":"ingux","C":["n"],"en":"Ingush (person, language)"}
 {"T":"r","L":"inibi","C":["vt","bio","cim"],"d":"retarda o preveni un prosede fisiolojial o reata cimical; redui la ativia de (un enzima o otra ajente)","en":"inhibit (process, reaction)"}
@@ -13054,6 +13056,7 @@
 {"L":"injenior","C":["n"],"en":"engineer"}
 {"L":"injenior de sona","C":["n"],"en":"sound engineer"}
 {"L":"injeniosa","C":["a"],"en":"ingenious"}
+{"L":"suprainjenia","C":["vt"],"en":"overengineer"}
 {"T":"r","L":"injeta","C":["vt","med"],"d":"forsa (un licuida, spesial un droga o vasin) a en la corpo de un person o animal con un siringa o otra aparato","en":"inject; mainline"}
 {"L":"injeta","C":["n"],"en":"injection"}
 {"T":"r","L":"inonda","C":["vt","tera","info"],"d":"covre o sumerji (un loca) con acua; (metafor) fa ce (algun) ave tro multe de un cosa, tipal problemes o labora","en":"inundate, flood, drown; overwhelm, overpower"}
@@ -13297,6 +13300,10 @@
 {"L":"investor","C":["n"],"en":"investor, stakeholder"}
 {"L":"investor otimiste","C":["n"],"en":"bull"}
 {"L":"investor pesimiste","C":["n"],"en":"bear"}
+{"L":"suprainvesti","C":["vt"],"en":"overinvest"}
+{"L":"suprainvesti","C":["n"],"en":"overinvestment"}
+{"L":"suinvesti","C":["vt"],"en":"underinvest"}
+{"L":"suinvesti","C":["n"],"en":"underinvestment"}
 {"T":"r","L":"investiga","C":["vt","gov"],"d":"atenta descovre e esamina fatos en modo formal o sistemal, per trova la veria de (un aveni o situa); rexerca o studia per descovre fatos o informa; atenta determina la carater, atas o istoria de (un person)","en":"investigate"}
 {"L":"investiga","C":["n"],"en":"investigation, inquiry, enquiry"}
 {"L":"investiga judal","C":["n"],"en":"judicial inquiry, inquest"}
@@ -19876,7 +19883,7 @@
 {"L":"pilori","C":["vt"],"en":"pillory"}
 {"T":"r","L":"piloro","C":["n","anat"],"d":"la duto juntante la stomaco a la intestin magra","en":"pylorus (anatomy)"}
 {"L":"piloral","C":["a"],"en":"pyloric"}
-{"T":"r","L":"pilote","C":["n","vec"],"d":"un person ci controla la vola de un avion o otra veculo volante; un person ci controla un barco en acua restrinjeda","en":"pilot"}
+{"T":"r","L":"pilote","C":["n","vec"],"d":"un person ci controla un avion, auto o otra veculo; un esperta local ci controla un barco en acua restrinjeda","en":"pilot, driver"}
 {"L":"autopilote","C":["n"],"en":"autopilot"}
 {"L":"piloteria","C":["n"],"en":"cockpit"}
 {"T":"r","L":"pilsen","C":["n","cos"],"d":"un bir con sabor forte de lupulo, orijinante en Pilsen, Txesco","en":"pils, pilsner (beer)"}
@@ -22154,8 +22161,8 @@
 {"L":"resoma","C":["n"],"en":"summary, synopsis, outline, résumé, precis, recap; minutes (of meeting)"}
 {"L":"resoma de carera","C":["n"],"en":"curriculum vitae, CV, résumé, vita, vitae"}
 {"L":"resomal","C":["a"],"en":"synoptic"}
-{"T":"r","L":"respeta","C":["vt","uma","gov"],"d":"amira (un person o cosa) profonda, como la resulta de sua capasias, cualias o atenis; valua la sentis, desiras, diretos o tradisiones de","da":"respektere","de":"achten","en":"respect, esteem, venerate","eo":"respekti","es":"respetar, venerar, estimar, apreciar, considerar","fr":"respecter","it":"rispettare, stimare","nl":"respekteren, achten","pt":"respeitar, venerar, estimar"}
-{"L":"respeta","C":["n"],"en":"respect, deference"}
+{"T":"r","L":"respeta","C":["vt","uma","gov"],"d":"amira (un person o cosa) profonda, como la resulta de sua capasias, cualias o atenis; valua la sentis, desiras, diretos o tradisiones de","da":"respektere","de":"achten","en":"respect, esteem, venerate, appreciate","eo":"respekti","es":"respetar, venerar, estimar, apreciar, considerar","fr":"respecter","it":"rispettare, stimare","nl":"respekteren, achten","pt":"respeitar, venerar, estimar"}
+{"L":"respeta","C":["n"],"en":"respect, deference, appreciation"}
 {"L":"autorespeta","C":["n"],"en":"self-respect, self-esteem"}
 {"L":"desrespeta","C":["vt"],"en":"disrespect"}
 {"L":"desrespeta","C":["n"],"en":"disrespect, insolence"}
