@@ -4231,6 +4231,7 @@
 {"T":"r","L":"Campeche","C":["n","jeo"],"p":"campetxe","en":"Campeche (Mexican state)","he":"קמפצ'ה (מדינה במקסיקו)"}
 {"L":"Baia Campeche","C":["n","jeo"],"d":"un baia a este de Mexico, entre Campeche e Veracruz","i":"#","en":"Bay of Campeche, Campeche Sound","he":"מפרץ קמפצ'ה"}
 {"T":"r","L":"campefaje","C":["n","avia"],"d":"un avia cantante, simil a un lanio, tipal con plumas gris, negra o blanca, e semblante un cucu cuando el vola","i":"#","t":"Campephagidae","en":"cuckoo shrike","he":"חנקני הקוקיה (ציפור)"}
+{"T":"r","L":"Campetxe","C":["n","jeo"],"d":"un stato de Mexico sude-este","en":"Campeche"}
 {"T":"r","L":"campidanes","C":["a","dem"],"d":"pertinente a un dialeto de sarda de Sardinia sude","en":"Campidanese (language)","he":"קאמפידנזה (שפה)"}
 {"L":"campidanes","C":["n"],"en":"Campidanese (language)","he":"קאמפידנזה (שפה)"}
 {"T":"r","L":"campion","C":["n","spo"],"d":"un sportor ci ia vinse tota concursores; un person ci batalia o disputa per benefica un caso o un otra person","en":"champion (including of a cause), champ, winner, prize-winner; paladin (knight)","he":"אלוף"}
@@ -9095,6 +9096,8 @@
 {"L":"ematoma periorbital","C":["n","med"],"en":"periorbital hematoma|ae, black eye"}
 {"T":"r","L":"ematopoiese","C":["n","bio"],"d":"la produi de selulas de sangue e trombosites, cual aveni en la medulas de la osos","en":"hematopoiesis|haematopoiesis, hemopoiesis|haemopoiesis (biology)"}
 {"L":"ematopoiesal","C":["a"],"en":"hematopoietic|haematopoietic, hemopoietic|haemopoietic"}
+{"T":"r","L":"ematoxilo]","C":["n","pla"],"d":"un jenera de plantas florinte en la familia de legumes","t":"Haematoxylum","en":"bloodwood"}
+{"L":"ematoxilo de Campetxe","C":["n","pla"],"t":"Haematoxylum campechianum","en":"logwood, bluewood, blackwood, campeachy wood"}
 {"T":"r","L":"ematozon","C":["n"],"d":"un parasito cual vive en sangue","en":"hematozoon|ae (pl. hematozoa|ae) (organism)"}
 {"T":"r","L":"ematuria","C":["n","med"],"d":"la presentia de sangue en urina","en":"hematuria|ae (medical)"}
 {"T":"r","L":"embarasa","C":["vt","uma"],"d":"fa ce (algun) senti torpe, autoconsensa o vergoniosa","en":"embarrass, mortify"}
@@ -11675,6 +11678,7 @@
 {"L":"futur","C":["n"],"en":"future, posterity","es":"futuro, posteridad"}
 {"L":"en la futur","C":["av"],"en":"in the future, subsequently","es":"en el futuro, posteriormente"}
 {"L":"en la futur distante","C":["av"],"en":"in the distant future, eventually","es":"en el futuro lejano, finalmente, al final"}
+{"L":"futurin","C":["a"],"en":"futuristic"}
 {"L":"futuriste","C":["n"],"en":"futurist","es":"futurista"}
 {"T":"r","L":"futurolojia","C":["n","uma"],"d":"la predise sistemosa de la futur, tipal par estrapola tendes presente","en":"futurology"}
 {"L":"futurolojiste","C":["n"],"en":"futurologist"}
