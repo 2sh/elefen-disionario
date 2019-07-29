@@ -8,7 +8,7 @@
 {"T":"r","L":"a","C":["esc"],"d":"espresante ce on es surprendeda, ce on comprende subita, o un otra reata simil","en":"ah, aha","eo":"ha","es":"ah, ajá","he":"אה","ru":"ааа, ага"}
 {"T":"r","L":"a-","C":["pf","tecn"],"d":"non-, sin; en dirije a","o":"de elenica a- (no, sin)","en":"a-","es":"a-","he":"(סיומת טכנית) ללא, בלי; בכיוון של"}
 {"T":"r","L":"-a","C":["sf","n"],"d":"ajuntada a alga nomes mas con la coda `-o` per nomi la fema corespondente; ajuntada a la nom de un arbor con la coda `-o` per formi la nom de sua fruta o noza, cual es ance usada en alga casos como un ajetivo de color","u":"tio/tia; pero/pera; oranio/orania","v":"-o","en":"female; fruit","es":"femenino, fruta","he":"במילים מסוימות, מסמן את הצורה הנקבית"}
-{"T":"r","L":"aa","C":["c"],"d":"ante aora","en":"before now, before the present, ago","eo":"antaŭ nun","es":"antes de ahora","he":"(קיצור) לפני, בעבר, אז","ru":"до сего (этого) момента"}
+{"T":"r","L":"aa","C":["c"],"d":"ante aora","en":"before now, before the present, ago","eo":"antaŭ nun","es":"hace..., antes de ahora","he":"(קיצור) לפני, בעבר, אז","ru":"до сего (этого) момента"}
 {"T":"r","L":"abaco","C":["n","mat","util","arci"],"d":"un util per calcula con perletas liscable; un bloco plata sur la capital de un colona, cual suporta la arcitrava","i":"#","en":"abacus","eo":"abako","es":"ábaco","fr":"boulier","he":"אבקוס, חשבוניה","ru":"счёты"}
 {"T":"r","L":"abade","C":["n","rel"],"d":"la xef de un grupo de monces mas","en":"abbot","eo":"abato","es":"abad","fr":"abbé","he":"ראש מנזר","ru":"аббат, настоятель, игумен"}
 {"L":"abade xef","C":["n"],"en":"head abbot, archimandrite","es":"archimandrita (en iglesias ortodoxas e iglesias orientales católicas)","he":"ראש מנזר","ru":"архимандрит"}
@@ -72,7 +72,7 @@
 {"L":"nonabituada","C":["a"],"en":"unaccustomed, unused","eo":"nekutimiĝinta","es":"desacostumbrado, raro","fr":"inhabituel","he":"שאינו מורגל; זר, בלתי רגיל"}
 {"T":"r","L":"abjad","C":["n","ling"],"d":"un sistem de scrive con sinias per consonantes ma no per vocales","i":"#","o":"de la leteras prima de la alfabeta vea arabi, a, b, j, d","en":"abjad (writing system)","eo":"abĝado","es":"abyad","he":"אבגד, כתיב עיצורי"}
 {"T":"r","L":"ablativa","C":["a","ling"],"o":"de latina ablativus (sutrae)","en":"ablative (grammar)","eo":"ablativa","es":"ablativo (gramática)","he":"שקשור ליחסה בדקדוק שמתארת מקום מוצא"}
-{"L":"ablativa","C":["n"],"d":"un caso gramatical cual indica moves a via","en":"ablative (grammar)","eo":"ablativo","es":"ablativo","he":"יחסה בדקדוק שמתארת מקום מוצא"}
+{"L":"ablativa","C":["n"],"d":"un caso gramatical cual indica moves a via","en":"ablative (grammar)","eo":"ablativo","es":"ablativo (gramática)","he":"יחסה בדקדוק שמתארת מקום מוצא"}
 {"T":"r","L":"-able","C":["sf","a"],"d":"ajuntada a un verbo transitiva per formi un ajetivo descrivente un person o cosa a cual on pote fa la ata, o cual merita es tal tratada","u":"comable; lejable; lodable; notable; vidable","en":"-able, -ible","eo":"-ebla, -inda","es":"-able, -ible","he":"(סיומת) ניתן ל, ראוי ל"}
 {"T":"r","L":"aboli","C":["vt","gov"],"d":"elimina ofisial la esiste de (un lege o costum)","en":"abolish, do away with, get rid of, scrap, axe","eo":"abolicii, aboli","es":"abolir","fr":"abolir","he":"לבטל בצורה רשמית, להיפטר מ"}
 {"L":"aboli","C":["esc"],"u":"aboli la gera!","en":"down with ..., no more ...","eo":"for la ...","es":"abajo...!","he":"... לא עוד"}
@@ -80,55 +80,55 @@
 {"L":"abolisme","C":["n"],"d":"la crede ce on debe aboli un lege o costum spesifada","en":"abolitionism","eo":"aboliciismo, abolismo","es":"abolicionismo","he":"האמונה בביטול חוק או מנהג ספציפי"}
 {"L":"aboliste","C":["a"],"en":"abolitionist","es":"abolicionista","he":"שקשור בביטול חוק או מנהג ספציפי, במיוחד עבדות או עונש מוות"}
 {"L":"aboliste","C":["n"],"en":"abolitionist","eo":"aboliciisto, abolisto","es":"abolicionista","he":"אדם המאמין בביטול חוק או מנהג ספציפי, במיוחד עבדות או עונש מוות"}
-{"T":"r","L":"aborta","C":["vnt","med"],"d":"sesa prematur; pari prematur un feto noncapas de vive","en":"abort, terminate, be canceled|ll, come to nothing; miscarry","eo":"nuliĝi, aborti","fr":"avorter","he":"להפיל, לעבור הפלה"}
-{"L":"aborta","C":["vt"],"en":"abort, terminate, cancel, foil","eo":"nuligi, abortigi","fr":"faire avorter","he":"לבטל, להפסיק לפני הזמן הראוי"}
-{"L":"aborta","C":["n"],"en":"abortion, termination","eo":"nuliĝo, abortiĝo; nuligo, abortigo","he":"הפסקה לפני הזמן הראוי; הפלה"}
-{"L":"aborta natural","C":["vnt","med"],"en":"miscarry","eo":"aborti","he":"להפיל בהפלה טבעית"}
-{"L":"aborta natural","C":["n","med"],"en":"miscarriage","eo":"aborto","fr":"avortement","he":"הפלה טבעית"}
-{"L":"abortada","C":["a"],"en":"abortive","eo":"abortita","he":"בוטל, הופסק טרם זמנו"}
-{"L":"abortiste","C":["a"],"d":"credente ce on no debe proibi abortas intendeda de fetos","en":"abortionist","he":"תומך בהפלות"}
-{"L":"abortiste","C":["n"],"en":"abortionist","he":"תומך בהפלות"}
-{"L":"antiabortiste","C":["a"],"en":"antiabortionist","he":"מתנגד להפלות"}
-{"L":"antiabortiste","C":["n"],"en":"antiabortionist","he":"מתנגד להפלות"}
-{"T":"r","L":"abracadabra","C":["esc"],"d":"diseda par un majiste en fa un truco","en":"abracadabra, hocus pocus","he":"אברקדברה, הוקוס פוקוס"}
-{"T":"r","L":"abrasa","C":["vt"],"d":"teni (algun) entre sua brasos, tipal per mostra ama","i":"#","en":"embrace, hug, cuddle, clinch","eo":"brakumi, ĉirkaŭbraki, ĉirkaŭpremi","fr":"embrasser, tenir entre ses bras","he":"לחבק"}
-{"L":"abrasa","C":["n"],"en":"embrace, hug, cuddle, clinch","eo":"brakumo, ĉirkaŭbrako, ĉirkaŭpremo","he":"חיבוק"}
-{"L":"abrasa ursin","C":["n"],"en":"bear hug","he":"חיבוק דוב"}
-{"L":"abrasable","C":["a"],"en":"embraceable, huggable","eo":"brakuminda, ĉirkaŭbrakinda, ĉirkaŭpreminda","he":"שראוי לחיבוק"}
-{"L":"abrasador","C":["n","util"],"d":"un fisador cual presa forte a la esterna de ojetos per forti o uni los","i":"#","en":"clamp","eo":"krampo","he":"מלחציים"}
-{"L":"abrasador de diton","C":["n","util"],"en":"thumbscrew","he":"בורג כנפיים, בורג פרפר"}
-{"L":"abrasador fisada","C":["n","util"],"d":"un util con du mandibulas plana, fisada a un table, cual impedi la move de la ojeto a cual on labora","i":"#","en":"vise|ce","eo":"ŝraŭbpremilo, vajco","he":"מלחציים קבועים"}
+{"T":"r","L":"aborta","C":["vnt","med"],"d":"sesa prematur; pari prematur un feto noncapas de vive","en":"abort, terminate, be canceled|ll, come to nothing; miscarry","eo":"nuliĝi, aborti","es":"abortar","fr":"avorter","he":"להפיל, לעבור הפלה"}
+{"L":"aborta","C":["vt"],"en":"abort, terminate, cancel, foil","eo":"nuligi, abortigi","es":"abortar","fr":"faire avorter","he":"לבטל, להפסיק לפני הזמן הראוי"}
+{"L":"aborta","C":["n"],"en":"abortion, termination","eo":"nuliĝo, abortiĝo; nuligo, abortigo","es":"aborto, terminación","he":"הפסקה לפני הזמן הראוי; הפלה"}
+{"L":"aborta natural","C":["vnt","med"],"en":"miscarry","eo":"aborti","es":"abortar de forma natural","he":"להפיל בהפלה טבעית"}
+{"L":"aborta natural","C":["n","med"],"en":"miscarriage","eo":"aborto","es":"aborto espontáneo, aborto natural","fr":"avortement","he":"הפלה טבעית"}
+{"L":"abortada","C":["a"],"en":"abortive","eo":"abortita","es":"abortivo","he":"בוטל, הופסק טרם זמנו"}
+{"L":"abortiste","C":["a"],"d":"credente ce on no debe proibi abortas intendeda de fetos","en":"abortionist","es":"abortista","he":"תומך בהפלות"}
+{"L":"abortiste","C":["n"],"en":"abortionist","es":"abortista","he":"תומך בהפלות"}
+{"L":"antiabortiste","C":["a"],"en":"antiabortionist","es":"antiabortista","he":"מתנגד להפלות"}
+{"L":"antiabortiste","C":["n"],"en":"antiabortionist","es":"antiabortista","he":"מתנגד להפלות"}
+{"T":"r","L":"abracadabra","C":["esc"],"d":"diseda par un majiste en fa un truco","en":"abracadabra, hocus pocus","es":"abracadabra","he":"אברקדברה, הוקוס פוקוס"}
+{"T":"r","L":"abrasa","C":["vt"],"d":"teni (algun) entre sua brasos, tipal per mostra ama","i":"#","en":"embrace, hug, cuddle, clinch","eo":"brakumi, ĉirkaŭbraki, ĉirkaŭpremi","es":"abrazar, achuchar","fr":"embrasser, tenir entre ses bras","he":"לחבק"}
+{"L":"abrasa","C":["n"],"en":"embrace, hug, cuddle, clinch","eo":"brakumo, ĉirkaŭbrako, ĉirkaŭpremo","es":"abrazo, achuchón","he":"חיבוק"}
+{"L":"abrasa ursin","C":["n"],"en":"bear hug","es":"abrazo de oso","he":"חיבוק דוב"}
+{"L":"abrasable","C":["a"],"en":"embraceable, huggable","eo":"brakuminda, ĉirkaŭbrakinda, ĉirkaŭpreminda","es":"abrazable","he":"שראוי לחיבוק"}
+{"L":"abrasador","C":["n","util"],"d":"un fisador cual presa forte a la esterna de ojetos per forti o uni los","i":"#","en":"clamp","eo":"krampo","es":"abrazadera, sargento, cepo","he":"מלחציים"}
+{"L":"abrasador de diton","C":["n","util"],"en":"thumbscrew","es":"aplastapulgares","he":"בורג כנפיים, בורג פרפר"}
+{"L":"abrasador fisada","C":["n","util"],"d":"un util con du mandibulas plana, fisada a un table, cual impedi la move de la ojeto a cual on labora","i":"#","en":"vise|ce","eo":"ŝraŭbpremilo, vajco","es":"tornillo de banco","he":"מלחציים קבועים"}
 {"L":"abrasadorin","C":["a"],"en":"viselike|ce","he":"כמו מלחציים"}
-{"L":"abrasante","C":["a"],"en":"embracing, hugging; tight, tight-fitting, skintight, close-fitting, form-fitting, figure-hugging","eo":"brakumanta, ĉirkaŭbrakuma, ĉirkaŭpremanta; strikta","he":"מחבק, צמוד"}
-{"T":"r","L":"abri","C":["vnt"],"d":"(un porte o contenador) deveni noncluida, permetente ce on pasa tra lo o asede sua contenidas; (un veste) deveni desfisada o desliada; (un valva o flue eletrical) comensa funsiona","en":"open, open up; undo, unfasten, come undone, come unbuttoned, come untied, fall open; turn on, switch on (tap, power)","eo":"malfermiĝi, malligiĝi, malbutoniĝi, ŝaltiĝi","fr":"s'ouvrir","he":"להיפתח; להידלק"}
-{"L":"abri","C":["vt"],"en":"open, open up; undo, unfasten, unbutton, untie, open; turn on, switch on","eo":"malfermi; malligi, malbutoni; ŝalti","he":"לפתוח; להדליק"}
-{"L":"abri","C":["n"],"d":"un ata de abri; un spasio o buco do on pote entra","en":"opening, aperture, orifice (action, result)","eo":"malfermo, malfermaĵo, aperturo","fr":"ouverture","he":"פתיחה; פתח, צוהר"}
-{"L":"abri la via de","C":["esp"],"en":"pioneer","eo":"pioniri","he":"להיות חלוץ, לפרוץ דרך"}
-{"L":"abrable","C":["a"],"en":"openable, foldout","he":"שניתן לפתיחה"}
-{"L":"abrida","C":["a"],"en":"open, opened; unabashed","eo":"malfermita","fr":"ouvert","he":"פתוח"}
-{"L":"abridia","C":["n"],"en":"openness","he":"פתיחות"}
-{"L":"abrinte","C":["a"],"en":"opening","he":"פתיחה"}
-{"L":"abrinte vias","C":["a"],"en":"pioneering, groundbreaking","he":"חלוצי, פורץ דרך"}
-{"L":"de fonte abrida","C":["a","info"],"d":"(un program) de cual sua codigo de fonte es libre disponable","en":"open-source","eo":"malfermitkoda","he":"קוד פתוח"}
-{"L":"nonabrida","C":["a"],"en":"unopened","he":"שלא נפתח, עדיין במצב סגור"}
-{"L":"pico abrida","C":["a"],"en":"slightly open, ajar","he":"פתוח באופן חלקי"}
-{"L":"reabri","C":["vnt"],"en":"reopen","eo":"remalfermiĝi","fr":"se rouvrir","he":"להיפתח שוב"}
-{"L":"reabri","C":["vt"],"en":"reopen","eo":"remalfermi","fr":"rouvrir","he":"לפתוח שוב"}
-{"T":"r","L":"abribote","C":["n","vn"],"d":"un util per abri botes de comeda","i":"#","en":"can opener, tin opener","eo":"skatolmalfermilo","fr":"ouvre-boîte","he":"פותחן קופסאות"}
-{"T":"r","L":"abribotela","C":["n","vn"],"d":"un util per abri botelas par deseli la covrente","i":"#","en":"bottle opener","he":"פותחן בקבוקים"}
-{"T":"r","L":"abricoco","C":["n","pla"],"d":"un arbor cual produi abricocas","t":"Prunus armeniaca","en":"apricot (tree)","eo":"abrikotujo, abrikotarbo","fr":"abricotier","he":"מישמש (עץ)"}
-{"L":"abricoca","C":["n","pla","cos"],"d":"un fruta mol e oranin jala, simil a un pesca peti","i":"#","en":"apricot (fruit)","eo":"abrikoto","fr":"abricot","he":"מישמש"}
-{"T":"r","L":"abrioio","C":["n","vn"],"d":"un descovre surprendente","en":"eye-opener, revelation","he":"גילוי, חשיפה, שפיכת אור"}
+{"L":"abrasante","C":["a"],"en":"embracing, hugging; tight, tight-fitting, skintight, close-fitting, form-fitting, figure-hugging","eo":"brakumanta, ĉirkaŭbrakuma, ĉirkaŭpremanta; strikta","es":"ceñido, ajustado, apretado, estricto","he":"מחבק, צמוד"}
+{"T":"r","L":"abri","C":["vnt"],"d":"(un porte o contenador) deveni noncluida, permetente ce on pasa tra lo o asede sua contenidas; (un veste) deveni desfisada o desliada; (un valva o flue eletrical) comensa funsiona","en":"open, open up; undo, unfasten, come undone, come unbuttoned, come untied, fall open; turn on, switch on (tap, power)","eo":"malfermiĝi, malligiĝi, malbutoniĝi, ŝaltiĝi","es":"abrirse","fr":"s'ouvrir","he":"להיפתח; להידלק"}
+{"L":"abri","C":["vt"],"en":"open, open up; undo, unfasten, unbutton, untie, open; turn on, switch on","eo":"malfermi; malligi, malbutoni; ŝalti","es":"abrir","he":"לפתוח; להדליק"}
+{"L":"abri","C":["n"],"d":"un ata de abri; un spasio o buco do on pote entra","en":"opening, aperture, orifice (action, result)","eo":"malfermo, malfermaĵo, aperturo","es":"abertura, apertura","fr":"ouverture","he":"פתיחה; פתח, צוהר"}
+{"L":"abri la via de","C":["esp"],"en":"pioneer","eo":"pioniri","es":"liderar, ser el primero","he":"להיות חלוץ, לפרוץ דרך"}
+{"L":"abrable","C":["a"],"en":"openable, foldout","es":"desplegable","he":"שניתן לפתיחה"}
+{"L":"abrida","C":["a"],"en":"open, opened; unabashed","eo":"malfermita","es":"abierto","fr":"ouvert","he":"פתוח"}
+{"L":"abridia","C":["n"],"en":"openness","es":"espacio, amplitud","he":"פתיחות"}
+{"L":"abrinte","C":["a"],"en":"opening","es":"abierto, de apertura","he":"פתיחה"}
+{"L":"abrinte vias","C":["a"],"en":"pioneering, groundbreaking","es":"pionero, innovador, revolucionario","he":"חלוצי, פורץ דרך"}
+{"L":"de fonte abrida","C":["a","info"],"d":"(un program) de cual sua codigo de fonte es libre disponable","en":"open-source","eo":"malfermitkoda","es":"de código abierta","he":"קוד פתוח"}
+{"L":"nonabrida","C":["a"],"en":"unopened","es":"cerrado","he":"שלא נפתח, עדיין במצב סגור"}
+{"L":"pico abrida","C":["a"],"en":"slightly open, ajar","es":"entreabierto","he":"פתוח באופן חלקי"}
+{"L":"reabri","C":["vnt"],"en":"reopen","eo":"remalfermiĝi","es":"reabrirse","fr":"se rouvrir","he":"להיפתח שוב"}
+{"L":"reabri","C":["vt"],"en":"reopen","eo":"remalfermi","es":"reabrir","fr":"rouvrir","he":"לפתוח שוב"}
+{"T":"r","L":"abribote","C":["n","vn"],"d":"un util per abri botes de comeda","i":"#","en":"can opener, tin opener","eo":"skatolmalfermilo","es":"abrelatas","fr":"ouvre-boîte","he":"פותחן קופסאות"}
+{"T":"r","L":"abribotela","C":["n","vn"],"d":"un util per abri botelas par deseli la covrente","i":"#","en":"bottle opener","es":"sacacorchos, abrebotellas","he":"פותחן בקבוקים"}
+{"T":"r","L":"abricoco","C":["n","pla"],"d":"un arbor cual produi abricocas","t":"Prunus armeniaca","en":"apricot (tree)","eo":"abrikotujo, abrikotarbo","es":"albaricoquero, árbol de damasco","fr":"abricotier","he":"מישמש (עץ)"}
+{"L":"abricoca","C":["n","pla","cos"],"d":"un fruta mol e oranin jala, simil a un pesca peti","i":"#","en":"apricot (fruit)","eo":"abrikoto","es":"albaricoque, damasco, chabacano","fr":"abricot","he":"מישמש"}
+{"T":"r","L":"abrioio","C":["n","vn"],"d":"un descovre surprendente","en":"eye-opener, revelation","es":"revelación, sorpresa","he":"גילוי, חשיפה, שפיכת אור"}
 {"T":"r","L":"abrisita","C":["n","vn"],"d":"un sinia de puntua introduinte un parola o frase sitada","s":"“ ‘","en":"opening quotation mark","he":"מרכאות פותחות"}
-{"T":"r","L":"abrivia","C":["n","vn"],"d":"la person prima ci esplora un loca o idea","p":"abrivía","en":"pioneer, pathfinder, trailblazer","eo":"pioniro","fr":"pionier","he":"חלוץ, פורץ דרך"}
+{"T":"r","L":"abrivia","C":["n","vn"],"d":"la person prima ci esplora un loca o idea","p":"abrivía","en":"pioneer, pathfinder, trailblazer","eo":"pioniro","es":"pionero","fr":"pionier","he":"חלוץ, פורץ דרך"}
 {"T":"r","L":"abrotano","C":["n","pla"],"d":"un artemisia brosin de Europa sude","i":"#","t":"Artemisia abrotanum","en":"southernwood (plant)","he":"צמח ממשפחת המורכבים מאירופה הדרומית"}
-{"T":"r","L":"abugida","C":["n","ling"],"d":"un sistem de scrive cual indica vocales par ajunta sinietas a la sinias per consonantes","i":"#","o":"de la leteras prima de la alfabeta Ge'ez, 'ä bu gi da","en":"abugida, alphasyllabary (writing system)","eo":"abugido","he":"אבוגידה, כתב הברתי"}
-{"T":"r","L":"abunda","C":["vnt"],"d":"esiste en un cuantia grande e sufisinte","en":"abound","eo":"abundi","fr":"être abondant","he":"להיות שופע"}
-{"L":"abunda","C":["n"],"en":"abundance, plenty, plenitude","eo":"abundo","fr":"abondance","he":"שפע, ריבוי, גודש"}
-{"L":"abundante","C":["a"],"en":"abounding, abundant, bountiful, plentiful, copious","eo":"abunda","fr":"abondant","he":"שופע, מצוי בשפע, גדוש"}
-{"L":"suprabunda","C":["vnt"],"d":"esiste en un cuantia multe plu ca sufisinte","en":"be overabundant, overflow","eo":"superabundi","fr":"être surabondant","he":"להיות עודף, להיות בכמות מוגזמת"}
-{"L":"suprabunda","C":["n"],"en":"overabundance, overflow, glut","eo":"superabundo","fr":"surabondance","he":"עודף, גודש, הפרזה"}
-{"L":"suprabundante","C":["a"],"en":"excessive, overabundant","eo":"superabunda","fr":"surabondant","he":"עודף, מופרז, מוגזם"}
+{"T":"r","L":"abugida","C":["n","ling"],"d":"un sistem de scrive cual indica vocales par ajunta sinietas a la sinias per consonantes","i":"#","o":"de la leteras prima de la alfabeta Ge'ez, 'ä bu gi da","en":"abugida, alphasyllabary (writing system)","eo":"abugido","es":"abugida, alfasilabario, alfabeto silábico","he":"אבוגידה, כתב הברתי"}
+{"T":"r","L":"abunda","C":["vnt"],"d":"esiste en un cuantia grande e sufisinte","en":"abound","eo":"abundi","es":"abundar","fr":"être abondant","he":"להיות שופע"}
+{"L":"abunda","C":["n"],"en":"abundance, plenty, plenitude","eo":"abundo","es":"abundancia","fr":"abondance","he":"שפע, ריבוי, גודש"}
+{"L":"abundante","C":["a"],"en":"abounding, abundant, bountiful, plentiful, copious","eo":"abunda","es":"abundante","fr":"abondant","he":"שופע, מצוי בשפע, גדוש"}
+{"L":"suprabunda","C":["vnt"],"d":"esiste en un cuantia multe plu ca sufisinte","en":"be overabundant, overflow","eo":"superabundi","es":"sobreabundar","fr":"être surabondant","he":"להיות עודף, להיות בכמות מוגזמת"}
+{"L":"suprabunda","C":["n"],"en":"overabundance, overflow, glut","eo":"superabundo","es":"superabundancia, profusión, exceso, sobreabundacia, saturación","fr":"surabondance","he":"עודף, גודש, הפרזה"}
+{"L":"suprabundante","C":["a"],"en":"excessive, overabundant","eo":"superabunda","es":"excesivo, superabundante","fr":"surabondant","he":"עודף, מופרז, מוגזם"}
 {"T":"r","L":"Acaba","C":["n","jeo"],"en":"Aqaba","es":"Áqaba","he":"עקבה"}
 {"L":"Golfo Acaba","C":["n","jeo"],"d":"la estende norde-ueste de la Mar Roja","i":"#","en":"Gulf of Aqaba, Gulf of Eilat","es":"Golfo de Áqaba, Golfo de Eilat","he":"מפרץ אילת"}
 {"T":"r","L":"acad","C":["a","dem","ist"],"d":"pertinente a la impero de la site Acad en Mesopotamia antica","i":"#","en":"Akkadian (person, language)","eo":"akada","he":"אכדי"}
