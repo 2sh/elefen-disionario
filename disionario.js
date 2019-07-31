@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '29 julio 2019';
+﻿var dataDeDatos = '30 julio 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -13728,7 +13728,8 @@ var disionario = [
 {L:"jenetical",C:["a"],en:"genetic, inborn",fr:"génétique"},
 {L:"jenetical alterada",C:["a"],en:"genetically modified, GM",fr:"génétiquement modifié"},
 {L:"jeneticiste",C:["n"],en:"geneticist",fr:"généticien"},
-{T:"r",L:"jenio",C:["n","arte"],d:"algun ci ave capasias multe spesial de inteleto o crea",en:"genius, mastermind",fr:"génie"},
+{T:"r",L:"jenio",C:["n","arte"],d:"algun ci ave capasias multe spesial de inteleto o crea",en:"genius (person), mastermind",fr:"génie"},
+{L:"jenia",C:["n"],en:"genius (quality), flair, exceptional talent"},
 {T:"r",L:"jeniseri",C:["n","gov","ist"],d:"un soldato turces de la gardores de la sultan entre la sentenios 14 e 19, orijinal elejeda de sclavos joven prendeda de familias cristian",i:"#",en:"janissary (soldier)",fr:"janissaire"},
 {T:"r",L:"jenita",C:["vt","bio"],d:"fa ce un enfante es consepida e naseda, par reprodui",en:"beget, father",fr:"engendrer"},
 {L:"jenital",C:["a"],en:"genital",fr:"génital"},
