@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '30 julio 2019';
+﻿var dataDeDatos = '1 agosto 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -6648,6 +6648,7 @@ var disionario = [
 {L:"coseda",C:["a"],en:"sewn, stitched",he:"תפור"},
 {L:"coseda par mano",C:["a"],en:"handsewn, handstitched",he:"תפור ידנית"},
 {L:"cosor",C:["n"],en:"sewer, seamster, seamstress",he:"תופר, תופרת"},
+{T:"r",L:"cosecante",C:["n","mat"],d:"un funsiona trigonometrial, egal (en un triangulo reta) a la longia de la ipotenusa divideda par la longia de la lado oposante la angulo agu pertinente",en:"cosecant"},
 {T:"r",L:"cosina",C:["n","cos"],d:"un sala o area do on prepara e coce comedas",i:"#",en:"kitchen",he:"מטבח"},
 {L:"cosinal",C:["a"],en:"culinary",he:"קולינרי"},
 {L:"cosineta",C:["n"],en:"kitchenette",he:"מטבחון"},
@@ -10151,6 +10152,9 @@ var disionario = [
 {T:"r",L:"etero-",C:["pf","tecn"],d:"diferente",en:"hetero- (different)"},
 {T:"r",L:"eterodox",C:["a"],d:"no conformante con normas o credes asetada o ortodox",en:"heterodox"},
 {T:"r",L:"eterojen",C:["a"],d:"con cualias o aspetas diversa",en:"heterogeneous, motley"},
+{T:"r",L:"eteronim",C:["a","ling"],d:"(un parola) con la mesma spele como un otra, ma con sinifia e pronunsia diferente",en:"heteronymous"},
+{L:"eteronim",C:["n"],en:"heteronym"},
+{L:"eteronimia",C:["n"],en:"heteronymy"},
 {T:"r",L:"eterosesal",C:["a","bio","uma"],d:"sesal atraeda a persones de la otra seso; pertinente a esta spesie de atrae",en:"heterosexual"},
 {L:"eterosesal",C:["n"],en:"heterosexual"},
 {L:"eterosesalia",C:["n"],en:"heterosexuality"},
