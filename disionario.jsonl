@@ -131,14 +131,14 @@
 {"L":"suprabundante","C":["a"],"en":"excessive, overabundant","eo":"superabunda","es":"excesivo, superabundante","fr":"surabondant","he":"עודף, מופרז, מוגזם"}
 {"T":"r","L":"Acaba","C":["n","jeo"],"en":"Aqaba","es":"Áqaba","he":"עקבה"}
 {"L":"Golfo Acaba","C":["n","jeo"],"d":"la estende norde-ueste de la Mar Roja","i":"#","en":"Gulf of Aqaba, Gulf of Eilat","es":"Golfo de Áqaba, Golfo de Eilat","he":"מפרץ אילת"}
-{"T":"r","L":"acad","C":["a","dem","ist"],"d":"pertinente a la impero de la site Acad en Mesopotamia antica","i":"#","en":"Akkadian (person, language)","eo":"akada","he":"אכדי"}
-{"L":"acad","C":["n","dem"],"en":"Akkadian (person, language)","eo":"akadano","he":"אכדי"}
-{"T":"r","L":"academia","C":["n"],"d":"un organiza distinguida de espertas, artistes o siensistes; un scola spesialida","en":"academy","eo":"akademio","he":"אקדמיה, מדרשה"}
-{"L":"academial","C":["a"],"d":"pertinente a educa e aprende","en":"academic","eo":"akademia","he":"אקדמי"}
-{"L":"academias","C":["n","pl"],"en":"academia, academe","he":"אקדמיות, מקומות להשכלה גבוהה"}
-{"L":"academin","C":["a"],"d":"(un demanda) mera teorial","en":"academic, irrelevant in practice","he":"אקדמי, תיאורטי, לא מעשי"}
-{"L":"academiste","C":["n"],"en":"academician, academy member","eo":"akademiano","he":"אקדמאי"}
-{"T":"r","L":"Acadia","C":["n","jeo","ist"],"d":"un colonia franses en la norde-este de America Norde cual ia inclui partes de Quebec este, la provinses maral de Canada, e la stato Maine asta la Rio Kennebec","en":"Acadia (French colony)","fr":"Acadie","he":"אקדיה (חבל ארץ בצפון אמריקה)"}
+{"T":"r","L":"acad","C":["a","dem","ist"],"d":"pertinente a la impero de la site Acad en Mesopotamia antica","i":"#","en":"Akkadian (person, language)","eo":"akada","es":"acadio (persona, lengua)","he":"אכדי"}
+{"L":"acad","C":["n","dem"],"en":"Akkadian (person, language)","eo":"akadano","es":"acadio (persona, lengua)","he":"אכדי"}
+{"T":"r","L":"academia","C":["n"],"d":"un organiza distinguida de espertas, artistes o siensistes; un scola spesialida","en":"academy","eo":"akademio","es":"academia","he":"אקדמיה, מדרשה"}
+{"L":"academial","C":["a"],"d":"pertinente a educa e aprende","en":"academic","eo":"akademia","es":"académico","he":"אקדמי"}
+{"L":"academias","C":["n","pl"],"en":"academia, academe","es":"mundo académico","he":"אקדמיות, מקומות להשכלה גבוהה"}
+{"L":"academin","C":["a"],"d":"(un demanda) mera teorial","en":"academic, irrelevant in practice","es":"académico","he":"אקדמי, תיאורטי, לא מעשי"}
+{"L":"academiste","C":["n"],"en":"academician, academy member","eo":"akademiano","es":"académico, miembro de la academia","he":"אקדמאי"}
+{"T":"r","L":"Acadia","C":["n","jeo","ist"],"d":"un colonia franses en la norde-este de America Norde cual ia inclui partes de Quebec este, la provinses maral de Canada, e la stato Maine asta la Rio Kennebec","en":"Acadia (French colony)","es":"Acadia (colonia francesa)","fr":"Acadie","he":"אקדיה (חבל ארץ בצפון אמריקה)"}
 {"L":"acadian","C":["a","dem"],"en":"Acadian","he":"שקשור לאקדיה"}
 {"L":"acadian","C":["n"],"en":"Acadian","he":"תושב חבל אקדיה"}
 {"T":"r","L":"acantisita","C":["n","avia"],"d":"un avia pico e pasarin de Zeland Nova","i":"#","t":"Acanthisittidae","en":"New Zealand wren","eo":"akantisitedo","he":"סוג של ציפור שיר קטנה שמקורה בניו זילנד"}
@@ -284,21 +284,21 @@
 {"L":"acustical","C":["a"],"en":"acoustic","eo":"akustika","he":"אקוסטי"}
 {"L":"acusticiste","C":["n"],"en":"acoustician","eo":"akustikisto","he":"מהנדס אקוסטיקה"}
 {"T":"r","L":"acuta","C":["a","med"],"d":"(un maladia) intensa ma de dura corta","n":"`Acuta` es un terma tecnical. No usa lo per dise `agu`.","en":"acute (medical)","eo":"akuta","he":"(רפואה) אקוטי, קריטי"}
-{"T":"r","L":"adajio","C":["a","mus"],"d":"(un musica) lenta juada","o":"de italian ad agio (osiosa)","en":"adagio","he":"אדג'יו"}
-{"T":"r","L":"Adam","C":["n","rel"],"d":"un nom mas, incluinte de la umana prima en la Biblia","en":"Adam","eo":"Adamo","he":"אדם (שם האדם הראשון ושם לגבר)"}
-{"T":"r","L":"Aden","C":["n","jeo"],"en":"Aden","he":"עדן"}
-{"L":"Golfo Aden","C":["n","jeo"],"d":"un golfo entre Iaman e Somalia","i":"#","en":"Gulf of Aden","he":"מפרץ עדן"}
-{"T":"r","L":"adenoide","C":["n","anat"],"d":"un masa grandida de texeda limfal entre la garga e la retro de la nas","o":"de elinica aden (glande) + latina -oides (simil en forma)","en":"adenoid, pharyngeal tonsil","eo":"adenoida vegetaĵo","he":"פוליפ"}
-{"L":"adenoidal","C":["a"],"en":"adenoidal","eo":"adenoida","he":"שקשור לפוליפ"}
-{"T":"r","L":"adere","C":["vnt"],"d":"es colida (a un surfas)","en":"stick, adhere, cling","eo":"adheri, algluiĝi","he":"להידבק, להיצמד"}
-{"L":"adere","C":["vt"],"en":"stick, adhere, cling","eo":"adherigi, alglui","he":"להדביק, להצמיד"}
-{"L":"adere","C":["n"],"en":"stickiness, adhesion, adhesiveness, adherence","eo":"adhero, adhereco","he":"הדבקה, הצמדה"}
-{"L":"aderente","C":["a"],"en":"adhesive, sticky, tacky","eo":"adhera, algluiĝinta","he":"מדביק, מצמיד"}
-{"L":"aderente","C":["n"],"en":"adhesive; sticker, sticky label","eo":"glumarko","he":"מדבקה"}
-{"L":"aderor","C":["n"],"d":"un suportor fidosa de un person o idea","en":"adherent, adept, aficionado","eo":"adepto, partiano, subtenanto","he":"חסיד, נאמן, מסור, מעריץ"}
-{"L":"aderosa","C":["a"],"en":"clingy, sticky","eo":"adherema, algluiĝema","he":"דביק, נצמד"}
-{"L":"autoaderente","C":["a"],"en":"self-adhesive, self-sticking","eo":"memglua","he":"דביק מעצמו"}
-{"L":"nonaderente","C":["a"],"d":"(un util de cosini) covreda con un sustantia cual impedi la adere de comedas","en":"non-adhesive, non-stick","eo":"neadhera, kontraŭadhera","he":"מונע הידבקות"}
+{"T":"r","L":"adajio","C":["a","mus"],"d":"(un musica) lenta juada","o":"de italian ad agio (osiosa)","en":"adagio","es":"adagio","he":"אדג'יו"}
+{"T":"r","L":"Adam","C":["n","rel"],"d":"un nom mas, incluinte de la umana prima en la Biblia","en":"Adam","eo":"Adamo","es":"Adán","he":"אדם (שם האדם הראשון ושם לגבר)"}
+{"T":"r","L":"Aden","C":["n","jeo"],"en":"Aden","es":"Adén","he":"עדן"}
+{"L":"Golfo Aden","C":["n","jeo"],"d":"un golfo entre Iaman e Somalia","i":"#","en":"Gulf of Aden","es":"Golfo de Adén","he":"מפרץ עדן"}
+{"T":"r","L":"adenoide","C":["n","anat"],"d":"un masa grandida de texeda limfal entre la garga e la retro de la nas","o":"de elinica aden (glande) + latina -oides (simil en forma)","en":"adenoid, pharyngeal tonsil","eo":"adenoida vegetaĵo","es":"adenoide","he":"פוליפ"}
+{"L":"adenoidal","C":["a"],"en":"adenoidal","eo":"adenoida","es":"adenoideo","he":"שקשור לפוליפ"}
+{"T":"r","L":"adere","C":["vnt"],"d":"es colida (a un surfas)","en":"stick, adhere, cling","eo":"adheri, algluiĝi","es":"adherirse, pegarse","he":"להידבק, להיצמד"}
+{"L":"adere","C":["vt"],"en":"stick, adhere, cling","eo":"adherigi, alglui","es":"adherir, pegar","he":"להדביק, להצמיד"}
+{"L":"adere","C":["n"],"en":"stickiness, adhesion, adhesiveness, adherence","eo":"adhero, adhereco","es":"pegajosidad, adhesión, adhesividad, adherencia","he":"הדבקה, הצמדה"}
+{"L":"aderente","C":["a"],"en":"adhesive, sticky, tacky","eo":"adhera, algluiĝinta","es":"adherente, adhesivo, pegajoso","he":"מדביק, מצמיד"}
+{"L":"aderente","C":["n"],"en":"adhesive; sticker, sticky label","eo":"glumarko","es":"adhesivo; pegatina, etiqueta adhesiva","he":"מדבקה"}
+{"L":"aderor","C":["n"],"d":"un suportor fidosa de un person o idea","en":"adherent, adept, aficionado","eo":"adepto, partiano, subtenanto","es":"adepto, partidario, seguidor","he":"חסיד, נאמן, מסור, מעריץ"}
+{"L":"aderosa","C":["a"],"en":"clingy, sticky","eo":"adherema, algluiĝema","es":"pegajoso","he":"דביק, נצמד"}
+{"L":"autoaderente","C":["a"],"en":"self-adhesive, self-sticking","eo":"memglua","es":"autoadherente, autoadesivo","he":"דביק מעצמו"}
+{"L":"nonaderente","C":["a"],"d":"(un util de cosini) covreda con un sustantia cual impedi la adere de comedas","en":"non-adhesive, non-stick","eo":"neadhera, kontraŭadhera","es":"antiadherente","he":"מונע הידבקות"}
 {"T":"r","L":"adiabatica","C":["a","fis"],"d":"no permetente ce caldia entra a o sorti de un sistem","o":"de elinica a- (no) + dia (tra) + batos (pasable)","en":"adiabatic (physics)","he":"אדיאבטי"}
 {"T":"r","L":"adio","C":["esc"],"d":"diseda cuando on parti per un tempo longa","en":"goodbye, farewell, adieu","eo":"adiaŭ","he":"שלום, להתראות, ביי"}
 {"L":"adio","C":["n"],"en":"farewell, send-off, valediction","he":"פרידה"}
@@ -7893,12 +7893,12 @@
 {"T":"r","L":"despera","C":["vt","uma"],"d":"perde espera o es sin espera ce (alga cosa) va aveni","en":"despair (of)"}
 {"L":"despera","C":["n"],"en":"despair, desperation"}
 {"L":"desperante","C":["a"],"en":"desperate"}
-{"T":"r","L":"despeta","C":["vt","uma"],"d":"odia (algun) en un modo cual inclui senti ce el es inferior","en":"despise, scorn, disdain, revile, look down on"}
+{"T":"r","L":"despeta","C":["vt","uma"],"d":"odia (algun) en un modo cual inclui senti ce el es inferior","en":"despise, scorn, disdain, revile, look down on","es":"desdeñar, despreciar, menospreciar"}
 {"L":"despeta","C":["n"],"en":"contempt, scorn, disdain"}
-{"L":"despetable","C":["a"],"en":"despicable, loathsome, execrable, contemptible, pissant"}
-{"L":"despetada","C":["a"],"en":"despised, despicable"}
-{"L":"despetante","C":["a"],"en":"pejorative"}
-{"L":"despetosa","C":["a"],"en":"contemptuous, scornful, disdainful, dismissive, contemptuous, cavalier"}
+{"L":"despetable","C":["a"],"en":"despicable, loathsome, execrable, contemptible, pissant","es":"despreciable"}
+{"L":"despetada","C":["a"],"en":"despised, despicable","es":"odiado, odioso"}
+{"L":"despetante","C":["a"],"en":"pejorative","es":"peyorativo"}
+{"L":"despetosa","C":["a"],"en":"contemptuous, scornful, disdainful, dismissive, contemptuous, cavalier","es":"despectivo"}
 {"T":"r","L":"despota","C":["n","gov"],"d":"un titulo per alga renores en la Balcanes medieval; (metafor) un tirano con potia asoluta","en":"despot"}
 {"L":"despotia","C":["n"],"en":"despotate"}
 {"L":"despotin","C":["a"],"en":"despotic"}
