@@ -1,4 +1,4 @@
-{"T":"r","L":"a","C":["sim"],"d":"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major","p":"a","en":"a","es":"a","fr":"la","he":"האות הראשונה באלפבית הלטיני"}
+{"T":"r","L":"a","C":["sim"],"d":"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major","p":"a","an":"a","ast":"a","en":"a","es":"a","fr":"la","he":"האות הראשונה באלפבית הלטיני"}
 {"T":"r","L":"a","C":["prep"],"d":"indicante un loca o tempo como un punto simple","g":"preposadas#a","u":"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco","en":"at, in, on (a point in space or time)","eo":"ĉe, en, je","es":"a, en (un punto en el tiempo o en el espacio)","fr":"à","he":"ב-, אצל","ru":"в, на, за (сидим за столом)"}
 {"T":"s","d":"indicante la punto de refere en un relata","u":"tu sta tro prosima a la borda; la pen parteni a me; la forma de Italia es simil a un gama; a la min","en":"(in relation) to","eo":"al","es":"a","fr":"à","he":"ל-","ru":"к; дательный падеж; на (в выражениях сравнения)"}
 {"T":"s","d":"indicante la loca, resetor o state cual on ateni o vole ateni par un move o cambia","u":"el desira viaja a la Luna; de ves a ves; me va dona un oso a tua can; la idea pare bon a me; la sorsor ia cambia se a un capra; on va eleje tu a presidente; el ia pinti sua mures a jala; tradui un poesia a elefen","en":"in the direction of, to, toward, towards, unto","eo":"al, direkte al","es":"a, en dirección, a hacia","fr":"à, vers","he":"ל-; מסמן שינוי למצב חדש (צביעה בלבן, בחירה לנשיא)","ru":"на (как направление); дательный падеж; в (при глаголах превращения в, изменения в)"}
@@ -18295,6 +18295,7 @@
 {"T":"r","L":"ortopedia","C":["n","med"],"d":"la ramo de medica cual studia la repara de malformis de osos o musculos","en":"orthopedics|ae, orthopedy|ae"}
 {"L":"ortopedial","C":["a"],"en":"orthopedic|ae"}
 {"L":"ortopediste","C":["n"],"en":"orthopedist|ae"}
+{"T":"r","L":"ortxata","C":["n","cos"],"d":"un bevida dulse, preparada de ris, txufa o amando, acua, zucar, canela, e cisa lete.","en":"horchata, orxata"}
 {"T":"r","L":"orzo","C":["n","pla","cos"],"d":"un sereal con capelones ru estendente de la spigas, xef usada per prepara bir o como comeda de bestias","i":"#","t":"Hordeum vulgare","en":"barley"}
 {"L":"orzo descascida","C":["n"],"en":"pearl barley"}
 {"T":"r","L":"osa","C":["vt","uma"],"d":"es sufisinte corajosa per fa (alga cosa)","en":"dare, venture"}
@@ -27305,6 +27306,7 @@
 {"L":"txucot","C":["n"],"en":"Chukot, Chukchi (person, language)"}
 {"T":"r","L":"Txucotca","C":["n","jeo"],"en":"Chukotka, Chukchi Peninsula"}
 {"L":"Mar Txucotca","C":["n","jeo"],"d":"un mar a norde de Sibir este e Alaska ueste","i":"#","en":"Chukchi Sea"}
+{"T":"r","L":"txufa","C":["n","cos"],"d":"la tuber peti, seca e comable de un spesie de sipero","t":"Cyperus esculentus","en":"tiger nut, earth almond"}
 {"T":"r","L":"txuro","C":["n","cos"],"d":"un cometa dulse de Espania, composada de un banda de pasta fritata e covretada con zucar o canela","en":"churro"}
 {"T":"r","L":"u","C":["sim"],"d":"la letera 21 de la alfabeta roman, e sua nom","p":"u","en":"u","es":"u"}
 {"T":"r","L":"u","C":["a"],"d":"pertinente a la dialeto de xines parlada en la provinses Jiangsu e Zhejiang e la site Shanghai","en":"Wu (language)"}
