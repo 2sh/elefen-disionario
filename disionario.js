@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '10 agosto 2019';
+﻿var dataDeDatos = '11 agosto 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",gl:"en (no mesmo lugar que)",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -5934,6 +5934,7 @@ var disionario = [
 {L:"Rio Congo",C:["n","jeo"],d:"un rio major en Africa sentral cual comensa en la norde de la Republica Democrata de Congo e fini en la Mar Atlantica",i:"#",en:"Congo River",he:"נהר קונגו"},
 {T:"r",L:"congrega",C:["n","rel"],d:"un grupo de persones asemblada per adora relijiosa, tipal e abitual a un loca spesifada; (en alga universias) un asembla de membros major",en:"congregation (religious, administrative), flock",he:"(דת) קהילה, ציבור"},
 {L:"congrega de sorsores",C:["n"],en:"coven",he:"מפגש מכשפות"},
+{L:"congregor",C:["n"],en:"congregant, congregation member"},
 {T:"r",L:"congresa",C:["n","gov"],d:"un institui nasional de lege, spesial lo de la SUA; cualce consenta de delegadas",en:"congress",he:"קונגרס, בית הנבחרים"},
 {L:"congresor",C:["n"],en:"member of congress, congressman, congresswoman",he:"חבר קונגרס"},
 {T:"r",L:"congro",C:["n","pex"],d:"un angila grande e xasante de acuas costal",i:"#",t:"Conger",en:"conger (eel)",he:"קונגר (צלופח)"},
@@ -9607,7 +9608,7 @@ var disionario = [
 {L:"erba de cosini",C:["n"],en:"herb"},
 {L:"erba-de-mar",C:["n","pla"],d:"un planta erbin cual abita en o prosima a la mar",i:"#",t:"Posidoniaceae, Zosteraceae, Hydrocharitaceae, Cymodoceaceae",en:"seagrass"},
 {L:"erba-de-mate",C:["n","pla"],d:"un spesie de ilex de cual on prepara la bevida mate",i:"#",t:"Ilex paraguariensis",en:"yerba maté"},
-{L:"erba de san Jacobo",C:["n","pla"],en:"un flor savaje comun"},
+{L:"erba de san Jacobo",C:["n","pla"],d:"un planta savaje comun, con flores jala",t:"Jacobaea vulgaris",en:"ragwort"},
 {L:"desmalerbi",C:["vt"],en:"weed"},
 {L:"erbal",C:["a"],en:"herbal"},
 {L:"erbalisme",C:["n"],en:"herbalism"},
@@ -24901,6 +24902,7 @@ var disionario = [
 {L:"spara antiavional",C:["n"],en:"antiaircraft fire, flak"},
 {L:"spara crusada",C:["n"],en:"crossfire"},
 {L:"spara par aliada",C:["n"],en:"friendly fire"},
+{L:"sparor",C:["n"],en:"gunman"},
 {T:"r",L:"spartan",C:["a"],d:"sin comforta o luso",en:"spartan"},
 {T:"r",L:"sparver",C:["n","avia"],d:"un de alga spesies de falcones peti de la forestas de la emisfera este, ci xasa avias peti",i:"#",t:"{membros peti de",ca:"esparver",en:"sparrowhawk (bird)",es:"gavilán",fr:"épervier",it:"sparviero",pt:"gavião"},
 {T:"r",L:"spasio",C:["n","fis","ast"],d:"un area continuante sin contenidas; la dimensiones de altia, largia e profondia en cual tota cosas esiste e move; la area entre stelas, planetas, etc, cual es cuasi un vacua",da:"mellemum, rum",de:"Raum",en:"space, room, void",eo:"spaco",es:"espacio, lugar, sitio, vacío",fr:"espace",it:"spazio",nl:"ruimte",pt:"espaço, vazio"},
