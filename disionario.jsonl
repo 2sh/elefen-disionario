@@ -293,7 +293,7 @@
 {"T":"r","L":"adere","C":["vnt"],"d":"es colida (a un surfas)","da":"klæbe, fastholde","en":"stick, adhere, cling","eo":"adheri, algluiĝi","es":"adherirse, pegarse","gl":"adherir, pegar","he":"להידבק, להיצמד"}
 {"L":"adere","C":["vt"],"en":"stick, adhere, cling","eo":"adherigi, alglui","es":"adherir, pegar","he":"להדביק, להצמיד"}
 {"L":"adere","C":["n"],"en":"stickiness, adhesion, adhesiveness, adherence","eo":"adhero, adhereco","es":"pegajosidad, adhesión, adhesividad, adherencia","he":"הדבקה, הצמדה"}
-{"L":"aderente","C":["a"],"en":"adhesive, sticky, tacky","eo":"adhera, algluiĝinta","es":"adherente, adhesivo, pegajoso","he":"מדביק, מצמיד"}
+{"L":"aderente","C":["a"],"da":"klæbrig, klistret","en":"adhesive, sticky, tacky","eo":"adhera, algluiĝinta","es":"adherente, adhesivo, pegajoso","he":"מדביק, מצמיד"}
 {"L":"aderente","C":["n"],"en":"adhesive; sticker, sticky label","eo":"glumarko","es":"adhesivo; pegatina, etiqueta adhesiva","he":"מדבקה"}
 {"L":"aderor","C":["n"],"d":"un suportor fidosa de un person o idea","en":"adherent, adept, aficionado","eo":"adepto, partiano, subtenanto","es":"adepto, partidario, seguidor","he":"חסיד, נאמן, מסור, מעריץ"}
 {"L":"aderosa","C":["a"],"en":"clingy, sticky","eo":"adherema, algluiĝema","es":"pegajoso","he":"דביק, נצמד"}
@@ -7369,7 +7369,7 @@
 {"L":"curiosia","C":["n"],"en":"curiosity","fr":"curiosité","he":"סקרנות"}
 {"T":"r","L":"curling","C":["n","spo"],"d":"un sporte en cual on lisca petras, ronda e plana a su, longo un surfas de jelo en dirije a un marca, en cuando otra membros de la ecipo scopi la jelo per controla la rapidia e dirije de la petra","i":"#","en":"curling (sport)","he":"קרלינג (ספורט)"}
 {"T":"r","L":"curlo","C":["n","avia"],"d":"un avia grande vadante en familia de calidris, con beco longa e curvida a su","i":"#","t":"Numenius","en":"curlew (bird)","fr":"courlis","he":"חרמשון (ציפור)"}
-{"T":"r","L":"curso","C":["n"],"d":"la via o dirije segueda par un cosa movente, incluinte ruas e rios e (metafor) un carera o la istoria; un via preparada per un corsa o otra usa simil; un serie de lesones instruinte sur un sujeto spesifada","en":"course, path, track, trail, circuit, trajectory, tract; fairway (golf)","fr":"cours, parcours, circuit, trajectoire","he":"מסלול, נתיב, אפיק; קורס, חוג"}
+{"T":"r","L":"curso","C":["n"],"d":"la via o dirije segueda par un cosa movente, incluinte ruas e rios e (metafor) un carera o la istoria; un via preparada per un corsa o otra usa simil; un serie de lesones instruinte sur un sujeto spesifada","da":"rute, sti, kurs","en":"course, path, track, trail, circuit, trajectory, tract; fairway (golf)","fr":"cours, parcours, circuit, trajectoire","he":"מסלול, נתיב, אפיק; קורס, חוג"}
 {"L":"curso alta","C":["n"],"en":"upper course (river)","fr":"amont","he":"(נהר) אפיק עליון"}
 {"L":"curso basa","C":["n"],"en":"lower course (river)","fr":"aval","he":"(נהר) אפיק תחתון"}
 {"L":"curso de corsa","C":["n"],"en":"racetrack, racecourse, raceway","fr":"parcours de course","he":"מסלול מרוץ"}
@@ -8415,7 +8415,7 @@
 {"T":"r","L":"Divehi","C":["n","jeo"],"c":"Male","d":"un pais composada de un cadena de isolas de coral en la Mar Indian, a sude-ueste de Srilanca","i":"#","v":"Maldives","en":"Maldives"}
 {"L":"divehi","C":["a"],"en":"Maldivian"}
 {"L":"divehi","C":["n","dem"],"en":"Maldivian"}
-{"T":"r","L":"diverje","C":["vnt"],"d":"(un via) separa de un otra e vade en un dirije diferente","en":"divert, diverge, shunt, sidetrack, turn in another direction"}
+{"T":"r","L":"diverje","C":["vnt"],"d":"(un via) separa de un otra e vade en un dirije diferente","da":"afbøje","en":"divert, diverge, shunt, sidetrack, turn in another direction"}
 {"L":"diverje","C":["n"],"en":"divergence"}
 {"L":"diverjador","C":["n"],"en":"overflow, spillway"}
 {"L":"diverjente","C":["a"],"en":"divergent"}
@@ -27799,7 +27799,7 @@
 {"L":"valuadas","C":["n","pl"],"en":"valuables, riches","fr":"richesses"}
 {"L":"valuosa","C":["a"],"en":"valuable, precious","fr":"précieux"}
 {"L":"valuosas","C":["n","pl"],"en":"valuables, riches","fr":"richesses"}
-{"T":"r","L":"valva","C":["n","util"],"d":"un aparato per controla la flue de un licuida tra un tubo o duto; un parte de un strumento de venta cual on depresa o turna per entra aira a tubos diversa per cambia la notas disponable","i":"#","en":"valve; tap, faucet, spigot","fr":"valve, robinet"}
+{"T":"r","L":"valva","C":["n","util"],"d":"un aparato per controla la flue de un licuida tra un tubo o duto; un parte de un strumento de venta cual on depresa o turna per entra aira a tubos diversa per cambia la notas disponable","i":"#","da":"ventil; vandhane","en":"valve; tap, faucet, spigot","fr":"valve, robinet"}
 {"L":"valva de banio","C":["n"],"en":"bath tap, bath faucet"}
 {"L":"valva de securia","C":["n"],"en":"safety valve"}
 {"T":"r","L":"vampir","C":["n","mit"],"d":"un umana mital cual bevi sangue umana, vive sola a note, e pote cambia se a un cirotero","i":"#","en":"vampire","fr":"vampire"}
@@ -28102,7 +28102,7 @@
 {"L":"sin vergonia","C":["a"],"en":"shameless, brazen, impenitent, unashamed","fr":"sans vergogne"}
 {"L":"vergoniante","C":["a"],"en":"ashamed"}
 {"L":"vergoniosa","C":["a"],"en":"shameful","fr":"honteux"}
-{"T":"r","L":"verje","C":["vnt"],"d":"(un ojeto movente) cambia sua dirije","u":"acel auto no ia indica ce lo va verje a destra","v":"turna","en":"turn, verge, veer, swerve, yaw (change direction while moving)","fr":"tourner, virer"}
+{"T":"r","L":"verje","C":["vnt"],"d":"(un ojeto movente) cambia sua dirije","u":"acel auto no ia indica ce lo va verje a destra","v":"turna","da":"dreje","en":"turn, verge, veer, swerve, yaw (change direction while moving)","fr":"tourner, virer"}
 {"L":"verje","C":["vt"],"en":"turn, swerve"}
 {"L":"verje","C":["n"],"en":"turn, swerve"}
 {"L":"verje contra la venta","C":["v"],"en":"tack"}
@@ -28216,7 +28216,7 @@
 {"L":"via rapida","C":["n"],"en":"quick route, shortcut","fr":"raccourci"}
 {"L":"via reta","C":["n"],"en":"straight, straightaway"}
 {"L":"via xef","C":["n"],"i":"#","en":"main road, highway, freeway, throughway, thruway","fr":"voie principale"}
-{"L":"a via","C":["av"],"en":"(go, throw, put) away, (saw) off, (throw) out","fr":"au loin"}
+{"L":"a via","C":["av"],"da":"væk, bort","en":"(go, throw, put) away, (saw) off, (throw) out","fr":"au loin"}
 {"L":"a via de","C":["prep"],"en":"away from","eo":"for de"}
 {"L":"a via de vias","C":["a"],"en":"in the middle of nowhere, in the back of beyond","eo":"meze de nenie"}
 {"L":"a via de vias comun","C":["a"],"en":"off the beaten track"}
@@ -28321,13 +28321,13 @@
 {"T":"r","L":"vil","C":["a","gov","uma"],"d":"(un person) multe nonplasente, sin prinsipes moral","en":"vile, loathsome, depraved, ignoble, fiendish"}
 {"L":"vil","C":["n"],"en":"villain, scoundrel, crook, con man, miscreant, evildoer, malfeasant, culprit, wrongdoer, reprobate, rogue, scoundrel, fiend"}
 {"L":"vilia","C":["n"],"en":"vice, villainy, depravity"}
-{"T":"r","L":"vila","C":["n","arci"],"d":"un urbe con nom, bordas definida e governa local, min grande ca un site","en":"town","eo":"urbo","fr":"ville"}
+{"T":"r","L":"vila","C":["n","arci"],"d":"un urbe con nom, bordas definida e governa local, min grande ca un site","da":"by","en":"town","eo":"urbo","fr":"ville"}
 {"L":"vila bumante","C":["n"],"en":"boomtown"}
 {"L":"vila de nase","C":["n"],"en":"birthtown, hometown"}
 {"L":"vila de universia","C":["n"],"en":"campus"}
 {"L":"vila provinsal","C":["n"],"en":"backwater, boondocks"}
 {"L":"vilan","C":["n"],"en":"townsman, townswoman, townsperson, townie"}
-{"L":"vileta","C":["n"],"d":"un grupo de casas e construidas relatada en la campania","i":"#","da":"by, landsby","de":"Dorf","en":"village","eo":"vilaĝo","es":"aldea, villa, pueblo, pueblito, caserío","fr":"village","it":"villaggio","nl":"dorp","pt":"vila, aldeia, aldeamento, pequena cidade"}
+{"L":"vileta","C":["n"],"d":"un grupo de casas e construidas relatada en la campania","i":"#","da":"landsby","de":"Dorf","en":"village","eo":"vilaĝo","es":"aldea, villa, pueblo, pueblito, caserío","fr":"village","it":"villaggio","nl":"dorp","pt":"vila, aldeia, aldeamento, pequena cidade"}
 {"L":"vileta noncorporada","C":["n"],"en":"unincorporated village, hamlet"}
 {"L":"viletan","C":["n"],"en":"villager"}
 {"T":"r","L":"vilo","C":["n","anat"],"d":"cada de multe protendes pico e longida sur un surfas; un estende peti e ditin de la fore de la intestin magra","i":"#","en":"villus (pl. villi) (anatomy)"}
