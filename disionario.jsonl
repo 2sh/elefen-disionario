@@ -7976,6 +7976,8 @@
 {"L":"detetor","C":["n"],"en":"detective, investigator, sleuth, gumshoe, private eye"}
 {"L":"nondetetada","C":["a"],"en":"undetected"}
 {"T":"r","L":"detona","C":["vnt"],"d":"(un bomba o simil) esplode","en":"detonate"}
+{"T":"r","L":"detrae","C":["vnt"],"d":"nega o sutrae (un cualia o ateni) per causa ce la sujeto pare min impresante","en":"detract"}
+{"L":"detrae","C":["n"],"en":"detraction"}
 {"T":"r","L":"detrito","C":["n"],"d":"pesos sperdeda de dejetada, tipal produida par erode o par la descomposa de organismes; pesos de petra, brice o beton restante pos un desconstrui","en":"detritus; debris, rubble"}
 {"T":"r","L":"detrivor","C":["a","bio"],"d":"(un organisme) cual come detrito","en":"detrivorous"}
 {"L":"detrivor","C":["n"],"en":"detrivore"}

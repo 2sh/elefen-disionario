@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '21 agosto 2019';
+﻿var dataDeDatos = '22 agosto 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",da:"i, ved, på, hos, nær",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",gl:"en (no mesmo lugar que)",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -7978,6 +7978,8 @@ var disionario = [
 {L:"detetor",C:["n"],en:"detective, investigator, sleuth, gumshoe, private eye"},
 {L:"nondetetada",C:["a"],en:"undetected"},
 {T:"r",L:"detona",C:["vnt"],d:"(un bomba o simil) esplode",en:"detonate"},
+{T:"r",L:"detrae",C:["vnt"],d:"nega o sutrae (un cualia o ateni) per causa ce la sujeto pare min impresante",en:"detract"},
+{L:"detrae",C:["n"],en:"detraction"},
 {T:"r",L:"detrito",C:["n"],d:"pesos sperdeda de dejetada, tipal produida par erode o par la descomposa de organismes; pesos de petra, brice o beton restante pos un desconstrui",en:"detritus; debris, rubble"},
 {T:"r",L:"detrivor",C:["a","bio"],d:"(un organisme) cual come detrito",en:"detrivorous"},
 {L:"detrivor",C:["n"],en:"detrivore"},
