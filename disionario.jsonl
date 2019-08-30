@@ -4836,6 +4836,7 @@
 {"T":"r","L":"catedral","C":["n","arci","rel"],"d":"la eglesa xef de un bispia, tipal plu grande ca un eglesa comun","i":"#","en":"cathedral","he":"קתדרלה"}
 {"T":"r","L":"categoria","C":["n"],"d":"un clase o divide de persones o cosas par sua cualias comun; (en filosofia) cada de un grupo de clases entre cual on pote cisa distribui tota cosas","da":"kategori, klassifikation","en":"category, class","he":"קטגוריה"}
 {"L":"categoria sintatical","C":["n","ling"],"en":"lexical category, syntactic category, part of speech","he":"קטגוריה לקסיקלית, חלק דיבר"}
+{"L":"categorial","C":["a"],"en":"categorial (relating to a category)"}
 {"L":"categori","C":["vt"],"en":"categorize|is, classify","he":"לסווג"}
 {"L":"categori","C":["n"],"en":"categorization|is, classification","he":"סיווג"}
 {"L":"sucategoria","C":["n"],"en":"subcategory","he":"תת-קטגוריה"}
@@ -5915,6 +5916,8 @@
 {"L":"conformante","C":["a"],"en":"conforming, compliant","he":"מתאים, תואם, הולם; קונפורמי, תלמן, הולך בתלם, צייתן"}
 {"L":"conformiste","C":["n"],"en":"conformist","he":"קונפורמיסט, תלמן"}
 {"L":"nonconforma","C":["n"],"en":"non-conformity","he":"אי-התאמה, אי-הלימה; נונ-קונפורמיזם, אי-תלמנות"}
+{"L":"nonconformisme","C":["n"],"en":"non-conformism"}
+{"L":"nonconformiste","C":["n"],"en":"non-conformist"}
 {"T":"r","L":"confusa","C":["vt"],"d":"era par misca (du o cosas) en sua mente, credente ce la un es la otra; (un cosa desordinada o nonclar) fa ce (algun) no comprende","en":"confuse, bewilder, muddle, addle, scramble","he":"לבלבל; (אלקטרוניקה) לערבל"}
 {"L":"confusa","C":["n"],"en":"confusion, bewilderment, muddle, mix-up","he":"בלבול; (אלקטרוניקה) ערבול"}
 {"L":"confusable","C":["a"],"en":"confusable, mistakable","he":"שעשוי לבלבל"}
@@ -6027,6 +6030,7 @@
 {"T":"r","L":"conserto","C":["n","mus"],"d":"un obra per tipal un strumento acompaniada par un orcestra","en":"concerto","he":"קונצ'רטו"}
 {"T":"r","L":"conserva","C":["vt","bio","cos"],"d":"manteni (un cosa) en sua state esistente o orijinal; proteje (un cosa, tipal un recurso o loca importante a la ecolojia o cultur) contra dana o peri o destrui","da":"holde, vedligeholde, beskytte","en":"conserve, preserve, store, enshrine","he":"לשמר"}
 {"L":"conserva","C":["n"],"en":"conservation, preservation","he":"שימור"}
+{"L":"autoconserva","C":["n"],"en":"self-preservation"}
 {"L":"conserva de fruta","C":["n"],"en":"preserve (marmalade)","he":"שימורי פירות"}
 {"L":"conserva de natur","C":["n"],"en":"conservationism","he":"שימור הטבע"}
 {"L":"conservalisme","C":["n"],"en":"conservatism (political)","he":"(פוליטיקה) שמרנות"}
@@ -6039,6 +6043,7 @@
 {"T":"r","L":"conseta","C":["n","fil"],"d":"un idea astrata","en":"concept, conceit","he":"מושג, קונספט"}
 {"L":"consetable","C":["a"],"en":"conceivable","he":"מתקבל על הדעת, סביר"}
 {"L":"consetal","C":["a"],"en":"conceptual","he":"מושגי, קונספטואלי"}
+{"L":"consetalisme","C":["n","uma"],"en":"conceptualism"}
 {"L":"conseti","C":["vnt"],"en":"form as a concept","he":"ליצור מושג"}
 {"L":"conseti","C":["vt"],"en":"conceive (concept), conceptualize|is","he":"להמשיג, ליצור מושג"}
 {"L":"conseti","C":["n"],"en":"conception (of concept)","he":"המשגה, יצירת מושג; תפיסה, קונספציה"}
@@ -6806,6 +6811,8 @@
 {"L":"creada","C":["a"],"en":"created","he":"נוצר, נברא"}
 {"L":"creada","C":["n"],"en":"creature, creation (product)","he":"יציר"}
 {"L":"creante","C":["a"],"en":"creating, creative","he":"יוצר, בורא"}
+{"L":"creisme","C":["n","rel"],"en":"creationism"}
+{"L":"creiste","C":["n","rel"],"en":"creationist"}
 {"L":"creor","C":["n"],"en":"creator","he":"(אדם) יוצר"}
 {"L":"creosa","C":["a"],"en":"creative","he":"יצירתי"}
 {"L":"creosia","C":["n"],"en":"creativity","he":"יצירתיות"}
@@ -7594,8 +7601,8 @@
 {"L":"defetisme","C":["n"],"en":"defeatism","he":"תבוסתנות","ru":"пораженчество"}
 {"L":"defetiste","C":["n"],"en":"defeatist","he":"תבוסתן","ru":"пораженец"}
 {"L":"sin defeta","C":["a"],"en":"undefeated","he":"שלא הובס"}
-{"T":"r","L":"defeto","C":["n","info"],"d":"un nonperfeta; un problem peti","da":"defekt, skade","en":"defect, glitch, bug","he":"פגם, ליקוי, דפקט, באג, תקל","ru":"дефект, глюк, баг"}
-{"L":"defetosa","C":["a"],"en":"defective, faulty","he":"פגום, לקוי, תקול, דפוק","ru":"дефектный, глючный, баговатый"}
+{"T":"r","L":"defeto","C":["n","info"],"d":"un nonperfeta; un problem peti","da":"defekt, skade","en":"defect, glitch, flaw, bug","he":"פגם, ליקוי, דפקט, באג, תקל","ru":"дефект, глюк, баг"}
+{"L":"defetosa","C":["a"],"en":"defective, faulty, flawed","he":"פגום, לקוי, תקול, דפוק","ru":"дефектный, глючный, баговатый"}
 {"L":"defetosa","C":["n"],"en":"dud","he":"(מכשיר) נפל"}
 {"L":"desdefetador","C":["n"],"en":"debugger","he":"תוכנת ניפוי","ru":"дебагер (программа, позволяющая выявлять ошибки в другой программе)"}
 {"L":"desdefeti","C":["vt"],"en":"debug","he":"(מחשבים) לנפות, לדבג","ru":"отлаживать (программу), дебажить, выявлять ошибки в программе"}
@@ -7713,29 +7720,29 @@
 {"T":"r","L":"denim","C":["n","vest"],"d":"un stofa durante de sarja de coton, tipal blu","en":"denim","he":"דנים (בד)"}
 {"L":"de denim","C":["a"],"en":"(made of) denim","he":"עשוי מדנים"}
 {"T":"r","L":"denova","C":["av"],"d":"a un plu ves; reocupante un state pasada","da":"igen, en gang til","en":"again, anew, afresh","fr":"de nouveau, à nouveau, encore","he":"שוב, עוד פעם, מחדש"}
-{"T":"r","L":"densa","C":["a","fis"],"d":"conteninte un cuantia grande e compatida de cosas o persones prosima a lunlotra; (un licuida) no fasil fluente; (un nebla) opaca","da":"tæt, kraftig, tyk, intens","en":"dense, thick","fr":"dense"}
-{"L":"densi","C":["vnt"],"en":"thicken, condense"}
-{"L":"densi","C":["vt"],"en":"thicken, condense; compress (data)","fr":"compresser (données)"}
-{"L":"densi","C":["n"],"en":"thickening; compression (data)"}
-{"L":"densia","C":["n"],"da":"tæthed","en":"density, thickness, consistency; resolution (image)","fr":"densité; résolution (d'une image)"}
-{"T":"r","L":"dente","C":["n","anat","util"],"d":"cada de un colie de strutures dur, ososa e stratida con esmalte en la mandibulas de la plu de vertebratos, usada per morde e mastica; un strutur simil en otra organismes; un strutur simil en piniones e otra aparatos; un spina de force","i":"#","da":"tand","en":"tooth; tine, prong; sprocket","fr":"dent"}
-{"L":"dente canin","C":["n"],"en":"canine tooth","fr":"canine"}
-{"L":"dente canin superior","C":["n"],"en":"eyetooth"}
-{"L":"dente conein","C":["n"],"en":"bucktooth"}
-{"L":"dente molente","C":["n"],"en":"molar","fr":"molaire"}
-{"L":"dente sisorante","C":["n"],"en":"incisor","fr":"incisive"}
-{"L":"dental","C":["a"],"en":"dental","fr":"dentaire"}
-{"L":"dental","C":["n"],"en":"dental (consonant)","fr":"dentale"}
-{"L":"dentes","C":["n","pl"],"en":"teeth, dentition"}
-{"L":"dentiste","C":["n"],"en":"dentist","fr":"dentiste"}
-{"L":"denton","C":["n"],"i":"#, denton2","en":"tusk, fang","fr":"défense"}
-{"L":"dentosa","C":["a"],"en":"toothy, toothed","fr":"denté"}
-{"L":"interdental","C":["a"],"en":"interdental (consonant)"}
-{"L":"interdental","C":["n"],"en":"interdental (consonant)","fr":"interdentale (consonne)"}
-{"T":"r","L":"dentela","C":["n","vest"],"d":"un stofa delicata, tipal de coton o seda, produida par aneli, torse o tricota filos en motifes, comun usada per vestes o decoras","i":"#","en":"lace, lacework","fr":"dentelle"}
-{"L":"dentela de lenio","C":["n"],"en":"fretwork"}
-{"T":"r","L":"denteleon","C":["n","pla"],"d":"un planta comun en familia de margarita, con roseta de folias, talos conteninte un latex letin, e flores briliante jala cual maturi a globos de semes con mexas peluxetin","i":"#","t":"Taraxacum","en":"dandelion","fr":"pissenlit"}
-{"T":"r","L":"dentin","C":["n","bio","anat"],"d":"la texeda dur, densa e ososa cual formi la plu de un dente su la esmalte","en":"dentin|dentine","fr":"dentine"}
+{"T":"r","L":"densa","C":["a","fis"],"d":"conteninte un cuantia grande e compatida de cosas o persones prosima a lunlotra; (un licuida) no fasil fluente; (un nebla) opaca","da":"tæt, kraftig, tyk, intens","en":"dense, thick","fr":"dense","he":"דחוס; סמיך"}
+{"L":"densi","C":["vnt"],"en":"thicken, condense","he":"להידחס; להפוך לסמיך; להתעבות"}
+{"L":"densi","C":["vt"],"en":"thicken, condense; compress (data)","fr":"compresser (données)","he":"לדחוס; להסמיך; לעבות"}
+{"L":"densi","C":["n"],"en":"thickening; compression (data)","he":"דחיסה; הסמכה; עיבוי, התעבות"}
+{"L":"densia","C":["n"],"da":"tæthed","en":"density, thickness, consistency; resolution (image)","fr":"densité; résolution (d'une image)","he":"דחיסות; סמיכות"}
+{"T":"r","L":"dente","C":["n","anat","util"],"d":"cada de un colie de strutures dur, ososa e stratida con esmalte en la mandibulas de la plu de vertebratos, usada per morde e mastica; un strutur simil en otra organismes; un strutur simil en piniones e otra aparatos; un spina de force","i":"#","da":"tand","en":"tooth; tine, prong; sprocket","fr":"dent","he":"שן"}
+{"L":"dente canin","C":["n"],"en":"canine tooth","fr":"canine","he":"ניב (שן)"}
+{"L":"dente canin superior","C":["n"],"en":"eyetooth","he":"ניב עליון"}
+{"L":"dente conein","C":["n"],"en":"bucktooth","he":"שן שפן"}
+{"L":"dente molente","C":["n"],"en":"molar","fr":"molaire","he":"שן טוחנת"}
+{"L":"dente sisorante","C":["n"],"en":"incisor","fr":"incisive","he":"שן חותכת"}
+{"L":"dental","C":["a"],"en":"dental","fr":"dentaire","he":"שיני, דנטלי"}
+{"L":"dental","C":["n"],"en":"dental (consonant)","fr":"dentale","he":"עיצור שיני"}
+{"L":"dentes","C":["n","pl"],"en":"teeth, dentition","he":"(מערכת) שיניים"}
+{"L":"dentiste","C":["n"],"en":"dentist","fr":"dentiste","he":"רופא שיניים"}
+{"L":"denton","C":["n"],"i":"#, denton2","en":"tusk, fang","fr":"défense","he":"ניב (של חיה), חט"}
+{"L":"dentosa","C":["a"],"en":"toothy, toothed","fr":"denté","he":"חושף שיניים (מרובות)"}
+{"L":"interdental","C":["a"],"en":"interdental (consonant)","he":"בין-שיני"}
+{"L":"interdental","C":["n"],"en":"interdental (consonant)","fr":"interdentale (consonne)","he":"עיצור בין-שיני"}
+{"T":"r","L":"dentela","C":["n","vest"],"d":"un stofa delicata, tipal de coton o seda, produida par aneli, torse o tricota filos en motifes, comun usada per vestes o decoras","i":"#","en":"lace, lacework","fr":"dentelle","he":"תחרה"}
+{"L":"dentela de lenio","C":["n"],"en":"fretwork","he":"קישוט עץ"}
+{"T":"r","L":"denteleon","C":["n","pla"],"d":"un planta comun en familia de margarita, con roseta de folias, talos conteninte un latex letin, e flores briliante jala cual maturi a globos de semes con mexas peluxetin","i":"#","t":"Taraxacum","en":"dandelion","fr":"pissenlit","he":"שן הארי (צמח)"}
+{"T":"r","L":"dentin","C":["n","bio","anat"],"d":"la texeda dur, densa e ososa cual formi la plu de un dente su la esmalte","en":"dentin|dentine","fr":"dentine","he":"דנטין"}
 {"T":"r","L":"denunsia","C":["vt","gov"],"d":"declara publica ce (un person o cosa) es mal o erante; informa la autoriosas contra (algun)","en":"denounce, decry","fr":"dénoncer"}
 {"L":"denunsia","C":["n"],"en":"denouncement","fr":"dénonciation"}
 {"L":"denunsior","C":["n"],"en":"denouncer, whistleblower","fr":"dénonciateur"}
@@ -7747,9 +7754,9 @@
 {"L":"interdepartal","C":["a"],"en":"interdepartmental, interoffice"}
 {"T":"r","L":"depende","C":["vnt"],"d":"ave un nesesa (de alga cosa) per suporta, susta o consola se; es controlada (par)","u":"nos depende de tu; la responde depende de fatores diversa","da":"afhænge af, støtte på","en":"depend, rely","fr":"dépendre"}
 {"L":"depende","C":["n"],"en":"dependence, dependency; reliance, addiction","fr":"dépendance"}
-{"L":"dependente","C":["a"],"en":"dependent, conditional, provisory; addicted","fr":"dépendant, conditionnel"}
+{"L":"dependente","C":["a"],"en":"dependent, conditional, provisory, contingent; addicted","fr":"dépendant, conditionnel"}
 {"L":"dependente","C":["n"],"en":"dependant, ward; addict"}
-{"L":"dependente de","C":["prep"],"en":"dependent on"}
+{"L":"dependente de","C":["prep"],"en":"dependent on, subject to"}
 {"L":"dependente si","C":["sj"],"en":"on condition that, provided that","fr":"à condition que"}
 {"L":"interdepende","C":["vnt"],"en":"interdepend","fr":"interdépendre"}
 {"L":"interdependente","C":["a"],"en":"interdependent"}
@@ -7937,7 +7944,7 @@
 {"T":"r","L":"deta","C":["n","mone"],"d":"un cosa, tipal mone, cual on debe repaia","da":"gæld, skyld","en":"debt, debit, arrears"}
 {"L":"deta de jua","C":["n"],"en":"gambling debt"}
 {"L":"detor","C":["n"],"en":"debtor"}
-{"T":"r","L":"detalia","C":["vt"],"d":"descrive (un cosa) en modo completa, incluinte tota fatos, cualias o partes, an si los es peti o minor; identifia esata (un fato o conseta)","en":"detail, itemize|is; pinpoint"}
+{"T":"r","L":"detalia","C":["vt"],"d":"descrive (un cosa) en modo completa, incluinte tota fatos, cualias o partes, an si los es peti o minor; identifia esata (un fato o conseta)","en":"detail, itemize|is, elaborate; pinpoint"}
 {"L":"detalia","C":["n"],"d":"un cualia, fato o parte individua, tipal peti o minor","da":"detalje","en":"detail"}
 {"L":"detaliosa","C":["a"],"en":"detailed, elaborate"}
 {"T":"r","L":"deteni","C":["vt","gov"],"d":"preveni (algun) de vade puntual, tipal par dona plu taxes a el o per interoga el sur un crimin o situa delicata; confisca e teni (benes)","en":"detain"}
@@ -7986,7 +7993,7 @@
 {"L":"deutx","C":["a"],"en":"German"}
 {"L":"deutx","C":["n","dem"],"en":"German (person, language)"}
 {"T":"r","L":"devanagari","C":["n","ling"],"d":"la sistem de scrive usada per sanscrito, hindi e otra linguas de Barat","i":"#","en":"Devanagari (writing system)"}
-{"T":"r","L":"developa","C":["vnt","bio"],"d":"crese e deveni plu matur, avansada o complicada","en":"develop, hone, educe; catch, contract (illness)"}
+{"T":"r","L":"developa","C":["vnt","bio"],"d":"crese e deveni plu matur, avansada o complicada","en":"develop, hone, educe, elaborate; catch, contract (illness)"}
 {"L":"developa","C":["n"],"en":"development"}
 {"L":"developa la gripe","C":["v"],"en":"catch cold"}
 {"L":"developa tro multe","C":["v"],"en":"overdevelop"}
@@ -9545,6 +9552,7 @@
 {"T":"r","L":"epicanto","C":["n","anat"],"d":"un plia de pel cual estende de la palpebra superior per covre la angulo interna de la oio, tipal en multe persones de Asia este","en":"epicanthus, epicanthic fold"}
 {"T":"r","L":"Epicuro","C":["n","fil"],"d":"un filosofiste de Elas antica e la fundor de epicurisme","en":"Epicurus (philosopher)"}
 {"L":"epicurisme","C":["n"],"en":"epicureanism"}
+{"L":"epicuriste","C":["n"],"en":"epicurean"}
 {"T":"r","L":"epidemica","C":["a","med"],"d":"pertinente a un maladia comunicable cual vasti en un comunia a un ves spesifada; (cualce fenomeno nondesirada) aveninte subita e vasta","en":"epidemic"}
 {"L":"epidemica","C":["n"],"en":"epidemic"}
 {"T":"r","L":"epidemiolojia","C":["n","med"],"d":"la siensa de epidemicas","en":"epidemiology"}
@@ -9942,6 +9950,7 @@
 {"L":"espirada","C":["n"],"en":"aspirate (consonant)"}
 {"T":"r","L":"esplica","C":["vt","fil"],"d":"clari (un idea, situa o problem) a algun par descrive plu detalias de lo o par mostra otra fatos o ideas pertinente; dona un razona, escusa o justi per (un condui o disposa)","en":"explain, elaborate, elucidate, rationalize|is, justify"}
 {"L":"esplica","C":["n"],"da":"årsag, begrundelse","en":"explanation, reason, justification, rationale, elaboration, rationalization|is, exposition; legend (diagram)"}
+{"L":"esplica plu","C":["vt"],"en":"further explain, elaborate"}
 {"L":"esplica tro","C":["vt"],"en":"overexplain, overelaborate, belabor|ur"}
 {"L":"autoesplicante","C":["a"],"en":"self-explanatory"}
 {"L":"esije un esplica","C":["v"],"en":"demand an explanation, call to account, hold to account"}
@@ -9962,6 +9971,7 @@
 {"L":"esplota","C":["n"],"en":"exploitation"}
 {"L":"esplota de forestas","C":["n"],"en":"logging (industry)"}
 {"L":"esplotable","C":["a"],"en":"exploitable"}
+{"L":"esplotor","C":["n"],"en":"exploiter"}
 {"L":"nonesplotada","C":["a"],"en":"unexploited, untapped"}
 {"T":"r","L":"esponente","C":["n"],"d":"(en matematica) la potia a cual un numero es levada, tipal scriveda como un supraindise","en":"exponent"}
 {"L":"esponental","C":["a","mat"],"d":"(un crese) sempre plu rapida en proportio a un cuantia o grandia cresente","en":"exponential (growth)"}
@@ -10362,6 +10372,9 @@
 {"T":"r","L":"falafel","C":["n","cos"],"d":"un bal fritada de xixes moleda o favas de visia, tradisional comeda en Asia sude-ueste","i":"#","en":"falafel (food)","es":"falafel (comida)"}
 {"T":"r","L":"falanje","C":["n","anat","med"],"d":"un fola densa de soldatos, polisiores o simil; (en medica) un dito o diton de mano o pede","en":"phalanx (crowd); phalange (anatomy)","fr":"phalange"}
 {"T":"r","L":"falaropo","C":["n","avia"],"d":"un avia vadante e nadante, con beco reta e pedes lobosa","i":"#","t":"Phalaropus","en":"phalarope (bird)"}
+{"T":"r","L":"falasia","C":["vt","fil"],"d":"crede erosa (alga cosa) par razona noncoreta","en":"believe fallaciously"}
+{"L":"falasia","C":["n"],"en":"fallacy"}
+{"L":"falasiosa","C":["a"],"en":"fallacious"}
 {"T":"r","L":"falcon","C":["n","avia"],"d":"un avia xasante, con alas longa e puntida e un beco con protende dentin, cual catura predas par tufa de supra","i":"#","t":"Falconinae","en":"hawk, falcon, kestrel, falconet","fr":"faucon"}
 {"L":"falconor","C":["n"],"en":"falconer","fr":"fauconnier"}
 {"L":"falconoria","C":["n"],"en":"falconry"}
@@ -11392,7 +11405,7 @@
 {"T":"r","L":"Fram, Streta","C":["n","jeo"],"d":"un streta entre Calalitnunat e Svalbard, un parte de la Mar Atlantica","i":"Streta-Fram","en":"Fram Strait"}
 {"T":"r","L":"frambosa","C":["n","pla","cos"],"d":"un planta en familia de mora e rubo; la fruta mol e comable de esta, composada de un grupo de bacas peti e rojin ros","i":"#","t":"Rubus","en":"raspberry"}
 {"T":"r","L":"franc","C":["n","mone"],"d":"la unia de mone en Suiz, Lictenstain e multe paises african, e istorial en Frans","en":"franc (currency)"}
-{"T":"r","L":"franca","C":["a"],"d":"onesta e direta en parla o scrive; sinsera e no desemblante en condui o apare","en":"frank, direct, candid, outspoken, plainspoken, outright, explicit, vocal; straightforward"}
+{"T":"r","L":"franca","C":["a"],"d":"onesta e direta en parla o scrive; sinsera e no desemblante en condui o apare","en":"frank, direct, candid, outspoken, plainspoken, outright, explicit, categorical, vocal; straightforward"}
 {"L":"francia","C":["n"],"en":"frankness, directness, straightforwardness"}
 {"T":"r","L":"francamason","C":["n","gov"],"d":"un membro de un ordina internasional instituida per amia e aida mutua, cual inclui rituos secreta","en":"freemason, mason"}
 {"L":"francamasonisme","C":["n"],"en":"freemasonry, masonry"}
@@ -12938,8 +12951,8 @@
 {"T":"r","L":"indoarian","C":["a","ling"],"d":"de o pertinente a la familia de linguas indoiranian parlada en Asia sude, e a la poplas corespondente","en":"Indo-Aryan, Indic"}
 {"T":"r","L":"indoeuropean","C":["a","ling"],"d":"de o pertinente a la familia de linguas parlada tra multe de Europa e Asia sude, e a la poplas corespondente","en":"Indo-European, Aryan"}
 {"L":"indoeuropean","C":["n"],"en":"Indo-European, Aryan"}
-{"T":"r","L":"indoiranian","C":["a","ling"],"d":"de o pertinente a la familia de linguas indoeuropean parlada en Asia sude e sude-ueste, e a la poplas corespondente","en":"Indo-Iranian"}
-{"L":"indoiranian","C":["n"],"en":"Indo-Iranian"}
+{"T":"r","L":"indoiranian","C":["a","ling"],"d":"de o pertinente a la familia de linguas indoeuropean parlada en Asia sude e sude-ueste, e a la poplas corespondente","en":"Indo-Iranian, Aryan"}
+{"L":"indoiranian","C":["n"],"en":"Indo-Iranian, Aryan"}
 {"T":"r","L":"Indonesia","C":["n","jeo"],"d":"un pais en Asia sude-este composada de multe isolas","i":"#","en":"Indonesia"}
 {"L":"indonesian","C":["a"],"en":"Indonesian"}
 {"L":"indonesian","C":["n","dem"],"en":"Indonesian"}
@@ -14153,6 +14166,8 @@
 {"T":"r","L":"lama","C":["n","util"],"d":"la borda agu de un cotel, siera, spada, patin o otra util o arma; la parte plata e larga de un aparato como un remo o elica; un peso plata de metal con borda agu; un strumento con borda agu, usada per sutrae capeles de la fas o corpo","i":"#","da":"blad","en":"blade, razor blade, razor"}
 {"L":"lama de arado","C":["n"],"en":"plowshare|ploughshare"}
 {"T":"r","L":"lama","C":["n","rel"],"d":"un titulo onorosa, donada a un monce xef en budisme bod","en":"lama (Buddhism)"}
+{"T":"r","L":"lamarcisme","C":["n","bio"],"d":"un teoria de la orijina de spesies, proposada par Jean-Baptiste de Lamarck, un naturiste franses.","en":"Lamarckism"}
+{"L":"lamarciste","C":["a"],"en":"Lamarckian"}
 {"T":"r","L":"lambada","C":["n","mus"],"d":"un dansa rapida e erotica de Brasil","en":"lambada (dance)"}
 {"T":"r","L":"lamda","C":["n","ling"],"d":"la letera 11 de la alfabeta elinica","s":"Λ λ","en":"lambda (Greek letter)"}
 {"T":"r","L":"lame","C":["n","vest"],"d":"un stofa entretexeda con fibres oro o arjento","en":"lamé (fabric)"}
@@ -14580,6 +14595,9 @@
 {"T":"r","L":"Liberia","C":["n","jeo"],"c":"Monrovia","d":"un pais a la costa de la Mar Atlantica en Africa ueste","i":"#","en":"Liberia"}
 {"L":"liberian","C":["a"],"en":"Liberian"}
 {"L":"liberian","C":["n","dem"],"en":"Liberian"}
+{"T":"r","L":"libertarisme","C":["n","gov"],"d":"un politica estrema libraliste cual recomenda intervenis minima par la governa en la vives de sitadanes","en":"libertarianism"}
+{"L":"libertariste","C":["a"],"en":"libertarian"}
+{"L":"libertariste","C":["n"],"en":"libertarian"}
 {"T":"r","L":"Libia","C":["n","jeo"],"c":"Tripoli","d":"un pais en Africa norde en la deserto Sahara, con costa a la Mar Mediteraneo","i":"#","en":"Libya"}
 {"L":"libi","C":["a"],"en":"Libyan"}
 {"L":"libi","C":["n","dem"],"en":"Libyan"}
@@ -14959,6 +14977,7 @@
 {"L":"es lojical","C":["v"],"en":"make sense"}
 {"L":"lojical","C":["a"],"en":"logical; Boolean"}
 {"L":"lojicalia","C":["n"],"en":"logicality"}
+{"L":"lojiciste","C":["n"],"en":"logician"}
 {"L":"nonlojical","C":["a"],"en":"illogical"}
 {"L":"nonlojicalia","C":["n"],"en":"illogicality"}
 {"T":"r","L":"lojistica","C":["n","gov"],"d":"la coordina detaliosa de un prosede complicada cual envolve multe persones, complesos o furnis","en":"logistics"}
@@ -16794,6 +16813,7 @@
 {"L":"movabli","C":["n"],"en":"mobilization|is"}
 {"L":"movablia","C":["n"],"en":"mobility"}
 {"L":"movente","C":["a"],"en":"moving, mobile, motile"}
+{"L":"movor","C":["n"],"en":"mover"}
 {"L":"nonmovable","C":["a"],"en":"immovable, immobile"}
 {"L":"nonmovente","C":["a"],"en":"motionless, unmoving, stationary, sessile, immobile, non-motile"}
 {"T":"r","L":"moxa","C":["vnt","mus"],"d":"dansa en modo violente par salta e colide con otra dansores, tipal a consertas de roc metal","i":"#","en":"mosh (dance)"}
@@ -17116,6 +17136,7 @@
 {"L":"naturali","C":["vt"],"en":"naturalize|is"}
 {"L":"naturali","C":["n"],"en":"naturalization|is"}
 {"L":"naturin","C":["a"],"en":"naturalistic"}
+{"L":"naturisme","C":["n"],"en":"naturalism"}
 {"L":"naturiste","C":["n"],"en":"naturalist"}
 {"L":"nonatural","C":["a"],"en":"unnatural, preternatural, otherworldly, unworldly"}
 {"L":"supranatural","C":["a"],"en":"supernatural","fr":"surnaturel"}
@@ -17480,6 +17501,8 @@
 {"T":"r","L":"nomina","C":["vt","gov"],"d":"proposa formal (algun) como aspiror per un posto o premio","en":"nominate","eo":"nomumi"}
 {"L":"nomina","C":["n"],"en":"nomination"}
 {"L":"nominada","C":["n"],"en":"nominee"}
+{"T":"r","L":"nominalisme","C":["n","fil"],"d":"la crede ce ideas jeneral e mera nomes sin realia corespondente","en":"nominalism"}
+{"L":"nominaliste","C":["n"],"en":"nominalist"}
 {"T":"r","L":"nominativa","C":["a","ling"],"en":"nominative (grammar)"}
 {"L":"nominativa","C":["n"],"d":"un caso gramatical cual indica la sujeto de un verbo","en":"nominative (grammar)"}
 {"T":"r","L":"non-","C":["pf"],"d":"ajuntada a un ajetivo per reversa la cualia, o a un nom verbal per indica la manca de la ata o state","n":"Ante N, `non-` simpli a `no-`.","u":"nonjusta; noncrede; nonesesada","en":"un-, in-, non- (added to adjectives and nouns: opposite characteristic, or absence of an action or state)"}
@@ -19359,6 +19382,7 @@
 {"L":"peceta","C":["n"],"en":"peccadillo, misdemeanor|ur, minor infraction, indiscretion"}
 {"L":"pecor","C":["n"],"en":"sinner"}
 {"L":"pecosa","C":["a"],"en":"sinful"}
+{"L":"pecosia","C":["n"],"en":"sinfulness"}
 {"T":"r","L":"pecan","C":["n","pla","cos"],"d":"un noza lisa e brun con cor comable; un arbor cual produi esta","i":"#","t":"Carya","en":"pecan, hickory (tree, nut)"}
 {"T":"r","L":"pecari","C":["n","mam"],"d":"un mamal porcin e sosial, trovada de la SUA sude-ueste asta Paraguai","i":"#","t":"Tayassuidae","en":"peccary (animal)"}
 {"T":"r","L":"peco","C":["n","cos"],"d":"un te negra de cualia alta, preparada de folias joven","en":"pekoe (tea)"}
@@ -19888,6 +19912,8 @@
 {"T":"r","L":"Piemonte","C":["n","jeo"],"d":"un rejion de Italia norde-ueste, orijinal un parte de Savoie","i":"#","en":"Piedmont (Italian region)"}
 {"L":"piemontes","C":["a","dem"],"d":"pertinente a la rejion Piemonte en Italia, o a la lingua romanica cual on parla ala","en":"Piedmontese (person, language)"}
 {"L":"piemontes","C":["n"],"en":"Piedmontese (person, language)"}
+{"T":"r","L":"pietisme","C":["n","rel"],"d":"un promove en la sentenio 17 per la reasentua de dedica relijiosa en la eglesa luteran","en":"Pietism (Christianity)"}
+{"L":"pietiste","C":["n"],"en":"Pietist (Christianity)"}
 {"T":"r","L":"piga","C":["n","avia"],"d":"un corvo con coda longa e vose xiliante","t":"Cissa, Cyanopica, Pica, Urocissa","en":"magpie (bird)"}
 {"L":"piga blu","C":["n","ani","avia"],"i":"#","t":"Urocissa","en":"blue magpie"}
 {"L":"piga comun","C":["n","ani","avia"],"i":"#","t":"Pica","en":"Eurasian magpie"}
@@ -20192,6 +20218,8 @@
 {"L":"platos de forno","C":["n"],"en":"ovenware"}
 {"T":"r","L":"Platon","C":["n","fil"],"d":"un filosofiste de Elas antica, multe importante en la developa de filosofia european","en":"Plato (philosopher)"}
 {"L":"platonisme","C":["n","fil"],"en":"Platonism"}
+{"L":"platoniste","C":["a"],"en":"Platonistic"}
+{"L":"platoniste","C":["n"],"en":"Platonist"}
 {"T":"r","L":"platonica","C":["a"],"d":"(ama o amia) intima e amosa ma no sesal","en":"platonic"}
 {"T":"r","L":"plaza","C":["n","arci"],"d":"un area publica e abrida, intera o partal ensircada par construidas; un area publica usada per vende e compra benes","i":"#","ca":"plaça","da":"kvadrat, firkant, plads","de":"Platz","en":"plaza, (town) square","es":"plaza","fr":"place","it":"piazza","ja":"プラザ、スクウェア","nl":"vierkant","pt":"praça","ru":"площадь"}
 {"T":"r","L":"Pleades","C":["n","pl","mit"],"d":"(en mitos elinica) la sete fias de Atlas e Pleone, xasada par Orion asta cuando Zeus ia cambia los a un grupo de stelas; un grupo de stelas en la Bove","en":"Pleiades (mythology, stars)"}
@@ -20677,7 +20705,7 @@
 {"L":"reposese","C":["n"],"en":"foreclosure"}
 {"T":"r","L":"posible","C":["a","fil"],"d":"capas de es fada par algun o alga cosa; capas de aveni; capas de deveni","da":"mulig","de":"möglich","en":"possible, feasible, potential","eo":"ebla","es":"posible, realizable, factible","fr":"possible","it":"possibile","nl":"mogelijk","pt":"posivel, factível"}
 {"L":"posible","C":["av"],"da":"måske, muligvis","en":"possibly, maybe, perhaps"}
-{"L":"posible","C":["n"],"en":"possibility, opportunity (something possible)"}
+{"L":"posible","C":["n"],"en":"possibility, opportunity (something possible), contingency"}
 {"L":"nonposible","C":["a"],"en":"impossible"}
 {"L":"nonposible","C":["n"],"en":"impossibility (something impossible)"}
 {"L":"nonposiblia","C":["n"],"en":"impossibility (quality)"}
@@ -20686,6 +20714,8 @@
 {"L":"un otra idea posible","C":["a"],"en":"an alternative idea, an alternate idea, another possible idea"}
 {"T":"r","L":"positiva","C":["a"],"d":"distinguida par la presentia de cualias en loca de sua asentia; indicante la presentia de alga cosa; espresante afirma, acorda o permete; con intendes bon o bela; otimiste, fidante, serta; mostrante progresa, profita o boni; sin posible de duta","da":"positiv","de":"Positiv","en":"positive","eo":"pozitiva","es":"positivo","fr":"positif","it":"positivo","nl":"positief","pt":"positivo"}
 {"L":"positivia","C":["n"],"en":"positivity"}
+{"L":"positivisme","C":["n","fil"],"en":"positivism"}
+{"L":"positiviste","C":["n"],"en":"positivist"}
 {"T":"r","L":"positron","C":["n","fis"],"d":"un particula suatomal con la mesma masa como un eletron e un carga egal ma positiva","en":"positron (particle)"}
 {"T":"r","L":"poso","C":["n","tera"],"d":"un duto escavada o forada en la tera per oteni acua, olio o gas","i":"#","en":"well (shaft)"}
 {"L":"poso de cloaca","C":["n"],"en":"cesspit, cesspool"}
@@ -21039,6 +21069,7 @@
 {"L":"profesalisme","C":["n"],"en":"professionalism"}
 {"T":"r","L":"profesor","C":["n","gov"],"d":"un mestre o ensenior con un diploma avansada, tipal en un universia","ca":"professor","de":"Professor","en":"professor, academic, academician, don, faculty member, prof","eo":"profesoro","es":"profesor","fr":"professeur","ja":"教授","pt":"catedrático","ru":"профессор"}
 {"L":"profesores","C":["n","pl"],"en":"professors, faculty (members)"}
+{"L":"profesoria","C":["n"],"en":"professorship (post, period)"}
 {"T":"r","L":"profeta","C":["n","rel"],"d":"un person regardada como un mestre inspirada o un proclamor de la vole de un dio; un person ci promove o parla como un previdor sur un crede, caso o teoria; un person ci previde o declara sua capasia de previde avenis","en":"prophet"}
 {"T":"r","L":"profil","C":["n"],"d":"un contorno de alga cosa regardada de un lado, tipal la fas de un person; un descrive corta de un person o organiza; un analise de la cualias e condui de un person per evalua o predise sua capasias o intendes","en":"profile"}
 {"L":"profili","C":["vnt"],"en":"profile"}
@@ -21075,6 +21106,7 @@
 {"L":"program de scrive","C":["n"],"en":"word-processing program, word processor"}
 {"L":"program ueb","C":["n"],"en":"web application"}
 {"L":"desprogrami","C":["vt"],"en":"deprogram|deprogramme, remove brainwashing from"}
+{"L":"programable","C":["a"],"d":"(un computador o otra macina) capas de aseta instruis codigida per fa un taxe","en":"programmable"}
 {"L":"programal","C":["a"],"en":"programmatic"}
 {"L":"programes","C":["n","pl"],"en":"programs, software"}
 {"L":"programes de nube","C":["n","pl"],"en":"cloudware"}
@@ -21344,6 +21376,9 @@
 {"L":"psicoanaliste","C":["n"],"en":"psychoanalyst"}
 {"T":"r","L":"psicoativa","C":["a"],"d":"(un droga) afetante la mente","en":"psychoactive"}
 {"T":"r","L":"psicobiolojia","C":["n","bio"],"d":"la ramo de siensa cual studia la funda biolojial de condui e fenomenos mental","en":"psychobiology"}
+{"T":"r","L":"psicofarmacolojia","C":["n","med"],"d":"la ramo de siensa cual studia la efetos de drogas a la mente e la condui","en":"psychopharmacology"}
+{"L":"psicofarmacolojial","C":["a"],"en":"psychopharmacological"}
+{"L":"psicofarmacolojiste","C":["n"],"en":"psychopharmacologist"}
 {"T":"r","L":"psicojen","C":["a","uma"],"d":"con un orijina psicolojial, contrastante con causas fisical","en":"psychogenic (of psychological origin)"}
 {"T":"r","L":"psicolesica","C":["a","med"],"d":"pertinente a medisines cual calmi la mente","en":"psycholeptic (medical)"}
 {"T":"r","L":"psicolojia","C":["n","uma"],"d":"la studia siensal de la mente umana e sua funsionas, spesial los cual afeta condui en un contesto spesifada","en":"psychology"}
@@ -21485,6 +21520,7 @@
 {"L":"puri","C":["vt"],"en":"purify"}
 {"L":"puri","C":["n"],"en":"purification"}
 {"L":"puria","C":["n"],"en":"cleanliness, purity"}
+{"L":"puria sesal","C":["n"],"en":"chastity"}
 {"L":"puriacua","C":["n"],"en":"water purifier"}
 {"L":"puriaira","C":["n"],"en":"air purifier"}
 {"L":"purisme","C":["n"],"d":"un adere osesente a regulas tradisional","en":"purism"}
@@ -21569,6 +21605,8 @@
 {"L":"radioastronomiste","C":["n"],"en":"radio astronomer"}
 {"T":"r","L":"radioativa","C":["a","fis"],"d":"emetente radia o particulas ioninte","i":"#","en":"radioactive","fr":"radioactif"}
 {"L":"radioativia","C":["n"],"en":"radioactivity, fallout","fr":"radioactivité"}
+{"T":"r","L":"radiocarbono","C":["n","cim"],"d":"un isotopo radioativa de carbono","en":"radiocarbon"}
+{"L":"radiocarbonal","C":["a"],"en":"radiocarbon"}
 {"T":"r","L":"radiocomunica","C":["vt","info"],"d":"comunica par ondas de radio","en":"radio"}
 {"L":"radiocomunica","C":["n"],"en":"radiocommunication"}
 {"T":"r","L":"radiograf","C":["n","med","util"],"d":"un aparato cual usa radia eletromagnetal de enerjia grande e ondas multe corta, cual pote pasa tra multe materias opaca a lus, tipal usada par medicistes per deteta maladias o otra disturbas en la corpo umana","i":"#","en":"X-ray machine"}
@@ -22010,6 +22048,7 @@
 {"T":"r","L":"relativa","C":["a","fil","fis"],"d":"esistente o posesente un cualia spesifada en compara con un otra cosa; regardada en relata o proportio con un otra cosa","en":"relative"}
 {"L":"relativia","C":["n"],"en":"relativity"}
 {"L":"relativial","C":["a"],"en":"relativistic"}
+{"L":"relativisme","C":["n","fil","uma"],"en":"relativism"}
 {"T":"r","L":"rele","C":["n","util"],"d":"un aparato eletrical, tipal usante un eletromagnete, cual es ativida par un corente o sinial en un sircuito per abri o clui un otra; un aveni en cual persones o animales partisipa per un periodo de tempo ante deveni sustituida par otras","en":"relay (electric, race)"}
 {"T":"r","L":"releva","C":["vt","arte"],"d":"fa ce (un cosa) es clar vidable car lo es asentuada en alga modo","en":"throw into relief"}
 {"L":"releva","C":["n"],"en":"relief"}
@@ -23023,7 +23062,7 @@
 {"L":"sani spirital","C":["n"],"en":"faith healing"}
 {"L":"sania","C":["n"],"en":"health, wellness, salubriousness"}
 {"L":"sania mental","C":["n"],"en":"mental health, sanity"}
-{"L":"saninte","C":["a"],"en":"wholesome, health-giving, healthful, healthy"}
+{"L":"saninte","C":["a"],"en":"wholesome, health-giving, healthful, healthy, therapeutic"}
 {"L":"sanitota","C":["n"],"en":"cureall, panacea"}
 {"L":"sanor","C":["n"],"en":"healer"}
 {"L":"sanor spirital","C":["n"],"en":"faith healer, curandero"}
@@ -23522,7 +23561,7 @@
 {"L":"seguador","C":["n"],"en":"sequencer (music)","fr":"séquenceur"}
 {"L":"seguente","C":["a"],"ca":"següent","da":"følgende, efterfølgende, næste","de":"nächste, folgend","en":"following, next, subsequent, consequent, consequential; consecutive, sequential, successive","eo":"sekva","es":"siguiente, posterior","fr":"suivant, prochain","it":"prossimo","ja":"次","nl":"naast","pt":"seguinte, próximo, a seguir","ru":"вслед"}
 {"L":"seguente","C":["av"],"en":"next"}
-{"L":"seguente","C":["n"],"en":"successor; sequel, follow-up; wake, wash (ship)"}
+{"L":"seguente","C":["n"],"en":"successor, sequel, follow-up; consequence; wake, wash (ship)"}
 {"L":"seguente","C":["prep"],"en":"following, according to, pursuant to","fr":"selon"}
 {"L":"seguente de condensa","C":["n"],"en":"contrail, vapor|ur trail"}
 {"L":"seguor","C":["n"],"en":"follower, acolyte; henchman; successor"}
@@ -23728,6 +23767,7 @@
 {"L":"sensador de move","C":["n"],"en":"motion sensor"}
 {"L":"sensal","C":["a"],"en":"sensory, sensuous, sensate"}
 {"L":"sensante","C":["a"],"en":"sentient"}
+{"L":"sensisme","C":["n","fil"],"en":"sensualism"}
 {"L":"sensosa","C":["a"],"en":"sensitive (to sensation)"}
 {"L":"sensosi","C":["vnt"],"en":"sensitize|is"}
 {"L":"sensosi","C":["vt"],"en":"sensitize|is"}
@@ -24218,6 +24258,8 @@
 {"L":"silo de misil","C":["n"],"en":"missile silo"}
 {"L":"sili","C":["vt"],"en":"silo, store in a silo"}
 {"L":"silida","C":["n"],"en":"silage"}
+{"T":"r","L":"silojisme]","C":["n","fil"],"d":"un dedui de un conclui de du proposas sur cual on dise o suposa ce los es vera","en":"syllogism"}
+{"L":"silojiste","C":["a"],"en":"syllogistic"}
 {"T":"r","L":"silueta","C":["vt","arte"],"d":"presenta un forma oscur de (un person o cosa) contra un fondo plu luminada; representa (un person o cosa) par sola sua contorno, tipal negra","i":"#","en":"silhouette"}
 {"L":"silueta","C":["n"],"en":"silhouette"}
 {"T":"r","L":"silurian","C":["a","tera"],"d":"pertinente a la periodo tre de la paleozoica, entre la ordovisian e devonian","en":"Silurian (geology)"}
@@ -24601,6 +24643,7 @@
 {"L":"mal situada","C":["a"],"en":"inconvenient, inopportune"}
 {"L":"resitua","C":["vt"],"en":"resituate"}
 {"L":"situada","C":["a"],"en":"situated, located"}
+{"L":"situal","C":["a"],"en":"situational"}
 {"T":"r","L":"siverte","C":["n","fis"],"d":"la unia internasional per mesura la efeto biolojial de radia ioninte","en":"sievert (unit of radiation)"}
 {"T":"r","L":"siveta","C":["n","mam"],"d":"un mamal magra, noturna e carnivor, con pel de bandetas e puntos, e glandes anal de odor forte, nativa de Africa e Asia","i":"#","t":"Viverridae","en":"civet (animal)"}
 {"T":"r","L":"sivil","C":["a","gov"],"d":"pertinente a un popla o stato developada a un state sosial, cultural e moral avansada; conduinte en modo propre a un cultur como esta; cortes, con bon maneras; nonmilitar","en":"civil, civilized|is; civilian"}
@@ -26603,6 +26646,8 @@
 {"L":"tocable","C":["a"],"en":"touchable, tangible"}
 {"L":"tocante","C":["a"],"en":"touching"}
 {"L":"tocante","C":["n"],"en":"tap, flap (consonant)"}
+{"T":"r","L":"tocarian","C":["a","dem"],"d":"pertinente a un popla de Asia sentral en la milenio 1 ec, o a sua lingua","en":"Tocharian (person, language)"}
+{"L":"tocarian","C":["n"],"en":"Tocharian (person, language)"}
 {"T":"r","L":"tocata","C":["n","mus"],"d":"un composada musical per un strumento de teclas, desiniada per esibi la toca e tecnica de la juor","en":"toccata (music)","fr":"toccata"}
 {"T":"r","L":"Tocelau","C":["n","jeo"],"d":"un grupo de tre isolas en la Mar Pasifica ueste cual formi un teritorio de Zeland Nova","i":"#","en":"Tokelau"}
 {"L":"tocelau","C":["a"],"en":"Tokelauan"}
@@ -27417,6 +27462,7 @@
 {"L":"ulsera jelal","C":["n"],"en":"frostbite"}
 {"L":"ulserada","C":["a"],"en":"ulcerated, frostbitten"}
 {"L":"ulsereta","C":["n"],"en":"canker sore, aphthous ulcer"}
+{"L":"ulserosa","C":["a"],"en":"ulcerous"}
 {"T":"r","L":"ultima","C":["a","fil"],"d":"esente o aveninte a la fini de un prosede; esente la esemplo la plu bon o la plu estrema","da":"sidste","de":"letzte","en":"ultimate (final or most extreme), last; utmost, prime; eventual","eo":"lasta, fina","es":"último, final","fr":"bout","it":"ultimo","nl":"laatste","pt":"último","ru":"окончательный, последний"}
 {"L":"ultima","C":["av"],"ca":"finalment","de":"zuletzt","en":"ultimately, eventually, after all","eo":"laste, fine","es":"finalmente","fr":"enfin","ja":"最後に","pt":"finalmente"}
 {"L":"anteultima","C":["a"],"en":"penultimate, second from last, last but one"}
