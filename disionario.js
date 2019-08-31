@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '29 agosto 2019';
+﻿var dataDeDatos = '30 agosto 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",da:"i, ved, på, hos, nær",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",gl:"en (no mesmo lugar que)",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -9734,7 +9734,7 @@ var disionario = [
 {T:"r",L:"esametre",C:["n","ling"],d:"un linia de poesia composada de ses metres",en:"hexameter"},
 {T:"r",L:"esajera",C:["vt"],d:"representa (alga cosa) como plu grande, plu bon o plu mal ca lo es en realia",en:"exaggerate, overstate, overdo, caricature"},
 {L:"esajera",C:["n"],en:"exaggeration, hyperbole; spoof"},
-{T:"r",L:"esajo",C:["n","arte"],d:"un scriveda corta sur un tema spesifada",en:"essay"},
+{T:"r",L:"esajo",C:["n","arte"],d:"un scriveda corta sur un tema spesifada",en:"essay, paper"},
 {L:"esajiste",C:["n"],en:"essayist"},
 {T:"r",L:"esamina",C:["vt"],d:"oserva atendente (un person o cosa) per determina sua natur o state; investiga completa; dona un serie de taxes o demandas per determina la sabe o capasia de (algun)",da:"eksaminere, inspicere",en:"examine, inspect, check, look over, peruse, investigate, scrutinize|is, probe, audit, vet, test"},
 {L:"esamina",C:["n"],en:"examination, check-up, work-up, inspection; examination, exam, test, scrutiny, probe, audit"},
@@ -15142,7 +15142,7 @@ var disionario = [
 {L:"macinal",C:["a"],en:"mechanical, clockwork",es:"mecánico"},
 {L:"macinas",C:["n","pl"],en:"machines, machinery",es:"máquinas"},
 {L:"macineta",C:["n"],en:"device, gadget, contraption",es:"aparato, artefacto, dispositivo"},
-{L:"macini",C:["vt"],en:"mechanize"},
+{L:"macini",C:["vt"],en:"mechanize|is"},
 {L:"maciniste",C:["n"],en:"mechanic, machinist; artificer"},
 {T:"r",L:"macrame",C:["n","arci"],d:"la arte de usa nodas en motifes per composa ojetos ornal",i:"#",en:"macrame (art)"},
 {T:"r",L:"macro",C:["a","info"],en:"closeup (image)"},
@@ -16592,7 +16592,7 @@ var disionario = [
 {T:"r",L:"monogama",C:["a","uma","bio"],d:"sposida a sola un person a la mesma tempo",en:"monogamous"},
 {L:"monogamia",C:["n"],en:"monogamy"},
 {L:"monogamiste",C:["n"],en:"monogamist"},
-{T:"r",L:"monografia",C:["n","arte"],d:"un studia detaliosa, publicida sur un tema spesialida",en:"monograph"},
+{T:"r",L:"monografia",C:["n","arte"],d:"un studia detaliosa, publicida sur un tema spesialida",en:"monograph, paper"},
 {L:"monografi",C:["vt"],en:"monograph"},
 {L:"monografiste",C:["n"],en:"monographer"},
 {T:"r",L:"monolingual",C:["a","ling"],d:"capas de parla fluente sola un lingua; (un testo o ata) scriveda o fada en sola un lingua",en:"monolingual",eo:"unulingva"},
