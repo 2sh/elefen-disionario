@@ -392,8 +392,8 @@
 {"L":"afisa","C":["n"],"en":"affixing, affixation; affix; attachment (email)","eo":"alfikso, alligo, alkroĉo; alfiksaĵo, alkroĉaĵo; kunsendaĵo (retpoŝta)","he":"צירוף, חיבור; מצורף, מחובר; קידומת או סיומת דקדוקית"}
 {"L":"reafisa","C":["vt"],"en":"reattach","he":"לחבר שוב"}
 {"T":"r","L":"afluente","C":["n"],"d":"un rio o rieta cual flue a un lago o rio plu grande","ar":"رافد","ca":"afluent","da":"biflod","de":"Nebenfluss","en":"tributary","eo":"alfluanto","es":"afluente","eu":"ibaiadar","fi":"sivujoki","fr":"affluent","gl":"afluente","he":"יובל","hi":"उपनदी","it":"tributario","ja":"流路形状","ko":"지류","nl":"zijrivier","pt":"afluente","ru":"приток","zh":"支流"}
-{"T":"r","L":"afoca","C":["vnt","med"],"d":"sofoca pos sumerji en licuida","da":"drukne","en":"drown","eo":"droni","he":"לטבוע"}
-{"L":"afoca","C":["vt"],"en":"drown","eo":"dronigi","he":"להטביע"}
+{"T":"r","L":"afoca","C":["vnt","med"],"d":"sofoca pos sumerji en licuida","da":"drukne","de":"ertrinken","en":"drown","eo":"droni","he":"לטבוע"}
+{"L":"afoca","C":["vt"],"de":"ertränken","en":"drown","eo":"dronigi","he":"להטביע"}
 {"L":"afoca","C":["n"],"en":"drowning","he":"טביעה"}
 {"T":"r","L":"afonda","C":["vnt"],"d":"sumerji lenta","da":"synke","de":"sinken","en":"sink, scuttle","eo":"sinki","he":"לשקוע"}
 {"L":"afonda","C":["vt"],"en":"sink, scuttle","eo":"sinkigi","he":"לשקע"}
@@ -7865,30 +7865,30 @@
 {"L":"desemblante","C":["a"],"en":"disguise, in disguise, undercover, incognito","he":"בתחפושת, סמוי"}
 {"L":"polisior desemblante","C":["n"],"en":"plainclothesman, plainclothes officer","he":"שוטר בלבוש אזרחי"}
 {"T":"r","L":"desembre","C":["n"],"d":"la mense des-du de la calendario gregorian","en":"December","he":"דצמבר"}
-{"T":"r","L":"desende","C":["vt"],"d":"vade en dirije a la punto la plu basa de (un cosa); (un person o simil) es un relatada direta (de un asendente)","en":"descend, decline, go down; alight, get off"}
-{"L":"desende","C":["n"],"en":"descent"}
-{"L":"desendente","C":["a"],"en":"descending, descendent"}
-{"L":"desendente","C":["n"],"en":"descendant, scion; descender, downstroke"}
-{"L":"desendente","C":["prep"],"en":"down, towards the bottom of"}
-{"L":"desendentes","C":["n","pl"],"en":"descendants, posterity"}
-{"T":"r","L":"desenio","C":["n"],"d":"un periodo de des anios, tipal comensante con un anio de cual sua numero fini con 0","en":"decade"}
-{"L":"es en sua desenio oto","C":["esp"],"en":"be in one's seventies"}
-{"L":"la desenio de 1970","C":["esp"],"en":"the 1970s"}
-{"T":"r","L":"deser","C":["n","cos"],"d":"un comeda dulse a la fini de un come","en":"dessert, pudding"}
-{"T":"r","L":"deserto","C":["n","tera"],"d":"un zona multe seca, comun covreda con arena, tipal sin multe plantas","i":"#","da":"ørken","de":"Wüste","en":"desert, wasteland, waste"}
-{"L":"deserti","C":["vnt"],"en":"turn into a desert"}
-{"L":"deserti","C":["vt"],"en":"turn into a desert"}
-{"L":"deserti","C":["n"],"en":"desertification"}
-{"L":"semideserto","C":["n"],"en":"semidesert"}
-{"T":"r","L":"desibel","C":["n","fis"],"d":"un unia de intensia de sona, o de potia de sinial eletrical, cual funsiona en scala logaritmal","en":"decibel"}
-{"T":"r","L":"deside","C":["vt"],"d":"ariva a un conclui en la mente pos considera, tipal par eleje entre atas posible","da":"beslutte","de":"entscheiden","en":"decide, resolve"}
-{"L":"deside","C":["n"],"en":"decision, verdict, resolution"}
-{"L":"desidente","C":["a"],"en":"decisive"}
-{"L":"desidente","C":["n"],"en":"tiebreak, tiebreaker, run-off, play-off"}
-{"L":"nondesideda","C":["a"],"en":"undecided"}
-{"T":"r","L":"desil","C":["n","uma"],"d":"cada de des grupos egal en cual on pote divide un popla par la valua de un variable","en":"decile (statistics)"}
-{"T":"r","L":"desim","C":["n","mone"],"d":"un moneta con valua de des sentimes","en":"ten-pence piece, ten-cent piece, dime (coin)"}
-{"T":"r","L":"desimal","C":["a","mat"],"d":"pertinente a un sistem de aritmetica fundida sur la numero des; pertinente a un sistem de mone, pesas, mesuras o otra unias en cual la unias peti relata con la unias plu grande par potias de des","en":"decimal"}
+{"T":"r","L":"desende","C":["vt"],"d":"vade en dirije a la punto la plu basa de (un cosa); (un person o simil) es un relatada direta (de un asendente)","en":"descend, decline, go down; alight, get off","he":"לרדת; להידרדר; להיות צאצא"}
+{"L":"desende","C":["n"],"en":"descent","he":"ירידה; הידרדרות"}
+{"L":"desendente","C":["a"],"en":"descending, descendent","he":"בירידה; בהידרדרות"}
+{"L":"desendente","C":["n"],"en":"descendant, scion; descender, downstroke","he":"צאצא, נצר; (טיפוגרפיה) דיסנדר, מתחת לשורה"}
+{"L":"desendente","C":["prep"],"en":"down, towards the bottom of","he":"יורד, נופל, מידרדר (למטה)"}
+{"L":"desendentes","C":["n","pl"],"en":"descendants, posterity","he":"צאצאים, הדורות הבאים"}
+{"T":"r","L":"desenio","C":["n"],"d":"un periodo de des anios, tipal comensante con un anio de cual sua numero fini con 0","en":"decade","he":"עשור"}
+{"L":"es en sua desenio oto","C":["esp"],"en":"be in one's seventies","he":"להיות בעשור השביעי לחייו"}
+{"L":"la desenio de 1970","C":["esp"],"en":"the 1970s","he":"שנות השבעים"}
+{"T":"r","L":"deser","C":["n","cos"],"d":"un comeda dulse a la fini de un come","en":"dessert, pudding","he":"קינוח"}
+{"T":"r","L":"deserto","C":["n","tera"],"d":"un zona multe seca, comun covreda con arena, tipal sin multe plantas","i":"#","da":"ørken","de":"Wüste","en":"desert, wasteland, waste","he":"מדבר, שממה"}
+{"L":"deserti","C":["vnt"],"en":"turn into a desert","he":"להפוך למדבר"}
+{"L":"deserti","C":["vt"],"en":"turn into a desert","he":"לגרום למדבור"}
+{"L":"deserti","C":["n"],"en":"desertification","he":"מדבור"}
+{"L":"semideserto","C":["n"],"en":"semidesert","he":"מדבר למחצה"}
+{"T":"r","L":"desibel","C":["n","fis"],"d":"un unia de intensia de sona, o de potia de sinial eletrical, cual funsiona en scala logaritmal","en":"decibel","he":"דציבל"}
+{"T":"r","L":"deside","C":["vt"],"d":"ariva a un conclui en la mente pos considera, tipal par eleje entre atas posible","da":"beslutte","de":"entscheiden","en":"decide, resolve","he":"להחליט, להכריע"}
+{"L":"deside","C":["n"],"en":"decision, verdict, resolution","he":"החלטה, הכרעה"}
+{"L":"desidente","C":["a"],"en":"decisive","he":"החלטי, נחרץ"}
+{"L":"desidente","C":["n"],"en":"tiebreak, tiebreaker, run-off, play-off","he":"שובר שיוויון"}
+{"L":"nondesideda","C":["a"],"en":"undecided","he":"שלא הוחלט לגביו; הססני"}
+{"T":"r","L":"desil","C":["n","uma"],"d":"cada de des grupos egal en cual on pote divide un popla par la valua de un variable","en":"decile (statistics)","he":"עשירון"}
+{"T":"r","L":"desim","C":["n","mone"],"d":"un moneta con valua de des sentimes","en":"ten-pence piece, ten-cent piece, dime (coin)","he":"דיים (מטבע)"}
+{"T":"r","L":"desimal","C":["a","mat"],"d":"pertinente a un sistem de aritmetica fundida sur la numero des; pertinente a un sistem de mone, pesas, mesuras o otra unias en cual la unias peti relata con la unias plu grande par potias de des","en":"decimal","he":"עשרוני"}
 {"T":"r","L":"desinia","C":["vt","arte"],"d":"produi (un imaje o scema) par usa un pen o lapis per fa linias e marcas sur paper o un otra surfas; deside la aspeta e funsiona de (un construida, veste o otra cosa fabricada), tipal par produi un imaje o scema; prepara (alga cosa) per un intende spesifada","i":"#","da":"tegne","de":"zeichnen","en":"draw, sketch, illustrate; design, plan (creatively); landscape (garden)"}
 {"L":"desinia","C":["n"],"da":"kort; design","de":"Zeichnung; Entwurf, Design","en":"drawing, sketch, illustration; design, configuration"}
 {"L":"desinia aidada par computador","C":["n"],"en":"computer-aided design, CAD"}
@@ -8035,7 +8035,7 @@
 {"L":"a la otra dia","C":["av"],"en":"the other day"}
 {"L":"de la dia","C":["a"],"en":"of the day, du jour"}
 {"L":"dial","C":["a"],"en":"daily, diurnal (once a day); everyday, quotidian"}
-{"L":"mediadia","C":["n"],"p":"mediadía","da":"middag","en":"midday, noon, noontime"}
+{"L":"mediadia","C":["n"],"p":"mediadía","da":"middag","de":"Mittag","en":"midday, noon, noontime"}
 {"T":"r","L":"dia-","C":["pf","tecn"],"d":"tra, ultra","en":"dia-"}
 {"T":"r","L":"diabete","C":["n","med"],"d":"un maladia de metaboli en cual la capasia de la corpo per produi insulina es diminuida o asente, causante un diminui de la cuantia de glucosa en la sangue","en":"diabetes"}
 {"L":"antidiabetica","C":["n","med"],"d":"un medisin per combate diabete","en":"antidiabetic"}
@@ -8278,7 +8278,7 @@
 {"L":"diseda","C":["n"],"en":"saying, maxim, adage, proverb"}
 {"L":"diseda saja","C":["n"],"en":"wise saying, word of wisdom, aphorism"}
 {"L":"maldisable","C":["a"],"en":"abominable"}
-{"L":"maldise","C":["vt"],"da":"forbande","en":"curse, damn, anathematize|is, badmouth, jinx; blaspheme"}
+{"L":"maldise","C":["vt"],"da":"forbande","de":"verfluchen","en":"curse, damn, anathematize|is, badmouth, jinx; blaspheme"}
 {"L":"maldise","C":["n"],"en":"curse, jinx, malediction; blasphemy, profanity"}
 {"L":"maldiseda","C":["a"],"en":"accursed, abominable"}
 {"L":"nondiseda","C":["a"],"en":"unsaid, unspoken, unstated, unvoiced"}
@@ -15127,7 +15127,7 @@
 {"T":"r","L":"Luzon","C":["n","jeo"],"d":"la isola la plu grande e la plu norde de la Pilipinas","i":"#","en":"Luzon (island)"}
 {"L":"Streta Luzon","C":["n","jeo"],"d":"un streta a norde de Luzon","i":"#","en":"Luzon Strait"}
 {"T":"r","L":"m","C":["sim"],"d":"la letera 13 de la alfabeta roman","p":"em","en":"m"}
-{"T":"r","L":"ma","C":["cj"],"d":"introduinte alga cosa cual contrasta con lo cual es ja diseda","da":"men, skønt","en":"but, whereas","fr":"mais"}
+{"T":"r","L":"ma","C":["cj"],"d":"introduinte alga cosa cual contrasta con lo cual es ja diseda","da":"men, skønt","de":"aber","en":"but, whereas","fr":"mais"}
 {"T":"r","L":"maa","C":["esc","onom"],"d":"la sona fada par un ovea o capra","v":"bala","en":"baa","es":"bee"}
 {"T":"r","L":"Maca","C":["n","jeo"],"d":"un site en Arabia Saudi, regardada par muslimes como la site la plu santa de islam","i":"#","en":"Mecca","es":"Meca"}
 {"T":"r","L":"macabre","C":["a","arte"],"d":"asustante e repulsante par sua descrive o presenta de mori e feri","en":"macabre, grim, ghoulish, ghastly, grisly, gruesome","es":"espantoso, horrible, horripilante, horroroso, macabro"}
@@ -15142,13 +15142,13 @@
 {"T":"r","L":"Macedonia","C":["n","jeo","ist"],"c":"Scopie","d":"un pais sin costa en la Balcanes; un pais antica en Europa sude-este, a norde de Elas antica","i":"#","en":"Macedonia","es":"Macedonia"}
 {"L":"macedonsce","C":["a"],"en":"Macedonian","es":"macedonio"}
 {"T":"r","L":"macero","C":["n","pex"],"d":"un pex migrante, comersial importante como un comeda","i":"#","t":"Scombridae, Carangidae","en":"mackerel","es":"caballa, macarela, escombro","fr":"maquereau"}
-{"T":"r","L":"macia","C":["vt","vest"],"d":"aplica polvos o cremas colorida a (la fas) per boni o cambia la aspeta","en":"make up, apply cosmetics to","es":"maquillar","fr":"maquiller"}
+{"T":"r","L":"macia","C":["vt","vest"],"d":"aplica polvos o cremas colorida a (la fas) per boni o cambia la aspeta","de":"Fleck, Makel","en":"make up, apply cosmetics to","es":"maquillar","fr":"maquiller"}
 {"L":"macia","C":["n"],"i":"#","da":"plet, klat","en":"makeup, cosmetics","es":"maquillaje","fr":"maquillage"}
 {"L":"macia de teatro","C":["n"],"en":"greasepaint","es":"maquillaje de teatro","fr":"fard"}
 {"L":"desmacia","C":["vt"],"en":"remove makeup from","es":"desmaquillar","fr":"démaquiller"}
 {"L":"desmaciante","C":["n"],"en":"cleanser","es":"limpiador facial, desmaquillador","fr":"démaquillant"}
 {"L":"maciste","C":["n"],"en":"makeup artist","es":"maquillador, maquilladora","fr":"maquilleur, maquilleuse"}
-{"T":"r","L":"macina","C":["n","util"],"d":"un aparato, tipal con multe partes, cual usa o aplica potia macinal per un taxe spesifada","da":"maskine","en":"machine, mechanism","es":"máquina","fr":"machine"}
+{"T":"r","L":"macina","C":["n","util"],"d":"un aparato, tipal con multe partes, cual usa o aplica potia macinal per un taxe spesifada","da":"maskine","de":"Maschine","en":"machine, mechanism","es":"máquina","fr":"machine"}
 {"L":"macina de fili","C":["n"],"en":"spinning wheel","es":"rueca"}
 {"L":"macina de soma","C":["n"],"i":"#","en":"adding machine","es":"sumadora"}
 {"L":"macina de tempo","C":["n"],"i":"#","en":"time machine","es":"máquina del tiempo"}
@@ -15177,7 +15177,7 @@
 {"T":"r","L":"madjong","C":["n","spo"],"d":"un jua xines, normal per cuatro persones, con 136 o 144 telias retangulo de cual on atenta colie grupos","i":"#","en":"mahjong (game)"}
 {"T":"r","L":"madona","C":["n","rel"],"d":"la virjin Maria; un imaje de el; un fem virtuosa","i":"#","en":"madonna"}
 {"T":"r","L":"madras","C":["n","vest"],"d":"un stofa de coton, forte ma con trama delicata, con bandetas o cuadros","en":"madras (fabric)"}
-{"T":"r","L":"madre","C":["n","uma"],"d":"un fem o animal fema en relata a un enfante o enfantes ci el ia pari; un fem o animal fema ci cura un enfante o enfantes en la mesma modo","da":"mor","en":"mother","fr":"mère"}
+{"T":"r","L":"madre","C":["n","uma"],"d":"un fem o animal fema en relata a un enfante o enfantes ci el ia pari; un fem o animal fema ci cura un enfante o enfantes en la mesma modo","da":"mor","de":"Mutter","en":"mother","fr":"mère"}
 {"L":"madre de batiza","C":["n"],"en":"godmother","fr":"marraine"}
 {"L":"madre e padre","C":["n"],"en":"mother and father, parents"}
 {"L":"madre futur","C":["a"],"en":"mother-to-be","fr":"future mère"}
@@ -15203,7 +15203,7 @@
 {"T":"r","L":"magma","C":["n","tera"],"d":"materia fluente o partal licuida su o en la crosta de la Tera, de cual lava e otra roca magmal deriva pos fri","en":"magma (geology)"}
 {"L":"magmal","C":["a"],"en":"magmatic, igneous"}
 {"T":"r","L":"magnesio","C":["n","cim"],"d":"la elemento cimical con numero atomal 12, un metal arjentin","s":"Mg","en":"magnesium"}
-{"T":"r","L":"magnete","C":["n","fis"],"d":"un peso de fero cual atrae otra ojetos conteninte fero, e cual alinia se en un campo magnetal esterna","i":"#","da":"magnet","en":"magnet","fr":"aimant"}
+{"T":"r","L":"magnete","C":["n","fis"],"d":"un peso de fero cual atrae otra ojetos conteninte fero, e cual alinia se en un campo magnetal esterna","i":"#","da":"magnet","de":"Magnet","en":"magnet","fr":"aimant"}
 {"L":"magnetal","C":["a"],"en":"magnetic","fr":"magnétique"}
 {"L":"magneti","C":["vnt"],"en":"magnetize|is"}
 {"L":"magneti","C":["vt"],"en":"magnetize|is"}
@@ -15212,7 +15212,7 @@
 {"T":"r","L":"magnetometre","C":["n","util"],"d":"un aparato usada per mesura fortes magnetal, tipal de la Tera","en":"magnetometer"}
 {"L":"magnetometria","C":["n"],"en":"magnetometry"}
 {"T":"r","L":"magnolia","C":["n","pla"],"d":"un arbor o arboreta con flores ros grande","i":"#","t":"Magnolia","en":"magnolia"}
-{"T":"r","L":"magra","C":["a"],"d":"con lados oposada cual es prosima a lunlotra","da":"tynd, slank","en":"thin, slim, slender, svelte, lean, willowy, skinny, narrow, fine, gracile; gaunt, paltry, meager|re","fr":"maigre, mince"}
+{"T":"r","L":"magra","C":["a"],"d":"con lados oposada cual es prosima a lunlotra","da":"tynd, slank","de":"dunn, slank","en":"thin, slim, slender, svelte, lean, willowy, skinny, narrow, fine, gracile; gaunt, paltry, meager|re","fr":"maigre, mince"}
 {"L":"magri","C":["vnt"],"en":"thin, slim, emaciate"}
 {"L":"magri","C":["vt"],"en":"thin, slim, constrict"}
 {"L":"magri","C":["n"],"en":"thinning, emaciation, constriction"}
@@ -15241,7 +15241,7 @@
 {"L":"maioral","C":["a"],"en":"mayoral"}
 {"L":"vismaior","C":["n"],"en":"vice-mayor, alderman"}
 {"T":"r","L":"Maiorca","C":["n","jeo"],"d":"la isola la plu grande de la Isolas Balear","en":"Mallorca, Majorca"}
-{"T":"r","L":"mais","C":["n","pla","cos"],"d":"un planta sereal con granes grande; esta granes, usada per comeda de umanas e bestias","i":"#","t":"Zea mays","da":"majs","en":"corn, maize","fr":"maïs"}
+{"T":"r","L":"mais","C":["n","pla","cos"],"d":"un planta sereal con granes grande; esta granes, usada per comeda de umanas e bestias","i":"#","t":"Zea mays","da":"majs","de":"Mais","en":"corn, maize","fr":"maïs"}
 {"L":"mais moleda","C":["n"],"en":"hominy"}
 {"T":"r","L":"maitili","C":["a","dem"],"d":"pertinente a la popla de Bihar norde e rejiones prosima","en":"Maithil, Maithili (person, language)"}
 {"L":"maitili","C":["n"],"en":"Maithil, Maithili (person, language)"}
@@ -15253,7 +15253,7 @@
 {"L":"majenta","C":["n"],"en":"magenta"}
 {"L":"majenti","C":["vnt"],"en":"turn magenta"}
 {"L":"majenti","C":["vt"],"en":"turn magenta"}
-{"T":"r","L":"majia","C":["n","mit","uma"],"d":"la potia de afeta avenis par metodos supranatural; trucos cual pare nonposible, presentada como un diverti","da":"magisk, overnaturlig","en":"magic, sorcery","fr":"magie"}
+{"T":"r","L":"majia","C":["n","mit","uma"],"d":"la potia de afeta avenis par metodos supranatural; trucos cual pare nonposible, presentada como un diverti","da":"magisk, overnaturlig","de":"Zauberei, Zauberkunst","en":"magic, sorcery","fr":"magie"}
 {"L":"majia de mano","C":["n"],"i":"#","en":"sleight of hand, prestidigitation","fr":"prestigitation"}
 {"L":"majial","C":["a"],"d":"pertinente a majia","en":"magic","fr":"magique"}
 {"L":"majiosa","C":["a"],"d":"plen de majia; funsionante par majia","en":"magic, magical","fr":"magique"}
@@ -15263,10 +15263,10 @@
 {"L":"major","C":["n"],"en":"major (officer)","fr":"commandant (officier)"}
 {"L":"majori","C":["vnt"],"en":"capitalize|is, convert to uppercase"}
 {"L":"majori","C":["vt"],"en":"capitalize|is, convert to uppercase"}
-{"L":"majoria","C":["n"],"da":"majoritet","en":"majority, preponderance","fr":"majorité"}
+{"L":"majoria","C":["n"],"da":"majoritet","de":"Mehrheit","en":"majority, preponderance","fr":"majorité"}
 {"T":"r","L":"majoran","C":["n","pla"],"d":"un planta en familia de menta, usada en cosini","i":"#","t":"Origanum majorana","en":"marjoram (plant)","fr":"origan, marjolaine"}
 {"T":"r","L":"Makasar, Streta","C":["n","jeo"],"d":"un streta entre Borneo e Sulawesi","i":"Streta-Makasar","en":"Makassar Strait"}
-{"T":"r","L":"mal","C":["a","pren"],"d":"con cualia basa; con capasia minima; nonmoral; nonvalida; noncoreta","da":"dårlig, ond","en":"bad, invalid, wrong","fr":"mauvais"}
+{"T":"r","L":"mal","C":["a","pren"],"d":"con cualia basa; con capasia minima; nonmoral; nonvalida; noncoreta","da":"dårlig, ond","de":"schlecht, übel","en":"bad, invalid, wrong","fr":"mauvais"}
 {"L":"mal","C":["av"],"en":"badly, wrongly","fr":"mal"}
 {"L":"mal","C":["n"],"en":"bad thing, evil thing, wicked thing"}
 {"L":"mal-","C":["pf"],"d":"ajuntada a un verbo per formi un verbo per un ata plu mal, tipal spesialida","u":"malodori; maldise","en":"mis-, bad-, ill- (added to verbs: a worse variant of the action, often a specialized sense)"}
@@ -15290,7 +15290,7 @@
 {"L":"maladerior","C":["n"],"en":"infirmary nurse"}
 {"L":"maladi","C":["vnt"],"en":"sicken, become sick, fall ill","fr":"tomber malade"}
 {"L":"maladi","C":["vt"],"en":"make ill","fr":"rendre malade"}
-{"L":"maladia","C":["n"],"da":"sygdom","en":"disease, illness, sickness, ailment, malady","fr":"maladie"}
+{"L":"maladia","C":["n"],"da":"sygdom","de":"Krankheit","en":"disease, illness, sickness, ailment, malady","fr":"maladie"}
 {"L":"maladia de altia","C":["n"],"en":"altitude sickness"}
 {"L":"maladia de ama","C":["n"],"en":"lovesickness"}
 {"L":"maladia de bestias","C":["n"],"en":"murrain"}
@@ -15333,7 +15333,7 @@
 {"T":"r","L":"malva","C":["a","col"],"d":"con color pal purpur","i":"#","en":"mauve (color|ur)","fr":"mauve"}
 {"L":"malva","C":["n","pla"],"d":"un planta erbin con talos pelosa, flores ros o purpur, e frutas discin","i":"malva-planta","t":"Malva","en":"mallow (plant)","fr":"mauve"}
 {"T":"r","L":"mama","C":["n"],"d":"(nonformal) madre","en":"(colloquial) mum, mom, mummy, mommy, mama (mother)"}
-{"T":"r","L":"mamal","C":["n"],"d":"un animal vertebrato, distinguida par ave capeles o pelo e par la secrete de lete par femas per nuri enfantes","t":"Mammalia","da":"pattedyr","en":"mammal","fr":"mammifère"}
+{"T":"r","L":"mamal","C":["n"],"d":"un animal vertebrato, distinguida par ave capeles o pelo e par la secrete de lete par femas per nuri enfantes","t":"Mammalia","da":"pattedyr","de":"Säugetier","en":"mammal","fr":"mammifère"}
 {"T":"r","L":"mambo","C":["n","mus","rel"],"d":"un dansa de America latina, simil a la rumba; un prete fema de vudu","en":"mambo (dance)"}
 {"T":"r","L":"mamela","C":["n","anat"],"d":"la organo cual secrete lete en mamales fea; (nonformal) un seno","i":"#","en":"udder, mammary gland; (colloquial) boob, tit, knocker (breast)","fr":"mammelle"}
 {"L":"a mamela","C":["a"],"en":"suckling"}
@@ -15353,14 +15353,14 @@
 {"L":"manadi","C":["vnt"],"en":"flock","fr":"troupeau, horde"}
 {"L":"manador","C":["n"],"en":"drover, herdsman"}
 {"T":"r","L":"manati","C":["n","mam"],"d":"un mamal de mar con coda plata e ronda, cual abita la estuarios de la Mar Atlantica tropical","i":"#","t":"Trichechus","en":"manatee, sea cow","fr":"lamantin"}
-{"T":"r","L":"manca","C":["vnt"],"d":"(un person o cosa nesesada) es intera o partal asente","u":"me ia trova la rota mancante; un rota manca de la auto","da":"mangle","en":"be missing, be wanting, be lacking, fall short","fr":"manquer"}
+{"T":"r","L":"manca","C":["vnt"],"d":"(un person o cosa nesesada) es intera o partal asente","u":"me ia trova la rota mancante; un rota manca de la auto","da":"mangle","de":"fehlen","en":"be missing, be wanting, be lacking, fall short","fr":"manquer"}
 {"L":"manca","C":["n"],"en":"lack, deficiency, insufficiency, dearth, scarcity, deficit, shortage, shortfall, shortcoming","fr":"manque"}
 {"L":"mancante","C":["a"],"en":"missing, wanting, lacking, scarce, scant, meager|re, sparse","fr":"manquant"}
 {"T":"r","L":"mancala","C":["n","spo"],"d":"un de un grupo de juas en cual on move calculos sirca un table de cavetas per catura los de la otra juor","i":"#","en":"mancala (game)"}
 {"T":"r","L":"mandala","C":["n","rel"],"d":"(en budisme e induisme) un desinia jeometrial cual representa la universo","i":"#","en":"mandala (Buddhism, Hinduism)"}
 {"T":"r","L":"mandarin","C":["n","gov","ist","avia"],"d":"un ofisior de Jonguo antica; un avia peti de Australia, con bandas blanca e negra a la fas","i":"mandarin-jonguo, #","t":"Taeniopygia guttata","en":"mandarin (official); zebra finch (bird)"}
 {"T":"r","L":"mandarino","C":["n","pla"],"d":"un arbor cual produi mandarinas","t":"Citrus reticulata","en":"mandarin tree"}
-{"L":"mandarina","C":["n","pla","cos"],"d":"un fruta sitrica","i":"#","da":"mandarin (frugt)","en":"mandarin, mandarine, clementine"}
+{"L":"mandarina","C":["n","pla","cos"],"d":"un fruta sitrica","i":"#","da":"mandarin (frugt)","de":"Mandarine","en":"mandarin, mandarine, clementine"}
 {"T":"r","L":"Mandeb, Streta","C":["n","jeo"],"d":"un streta a la abri de la Mar Roja","i":"Streta-Mandeb","en":"Mandeb Strait, Bab-el-Mandeb"}
 {"T":"r","L":"mandibula","C":["n","anat"],"d":"la osos de vertebratos cual formi la strutur de la boca","en":"jaw, jawbone, mandible"}
 {"T":"r","L":"mandinca","C":["a","dem"],"d":"pertinente a un popla abitante xef en Senegal, Gambia e Siera Leon, e sua lingua","en":"Mandinka (person, language)"}
@@ -15410,7 +15410,7 @@
 {"L":"-manica","C":["sf","a","uma","med"],"en":"-manic"}
 {"T":"r","L":"maniate","C":["n","gov","mone"],"d":"un person rica e potiosa, spesial un comersior","en":"magnate, tycoon, mogul"}
 {"T":"r","L":"manicin","C":["n","vest"],"d":"un pupa usada per mostra vestes; un person ci porta vestes per mostra los a otras","i":"#","en":"mannequin (dummy, fashion model)"}
-{"T":"r","L":"manico","C":["n","util"],"d":"la parte de un cosa par cual on porta o controla lo","i":"#","da":"håndtag","en":"handle (for holding), hilt (sword, knife), grip; handlebar; handhold","fr":"poignée"}
+{"T":"r","L":"manico","C":["n","util"],"d":"la parte de un cosa par cual on porta o controla lo","i":"#","da":"håndtag","de":"Griff, Henkel, Handkurbel","en":"handle (for holding), hilt (sword, knife), grip; handlebar; handhold","fr":"poignée"}
 {"L":"manico de porte","C":["n"],"en":"door handle, doorknob","fr":"poignée de porte"}
 {"L":"manico de scopa","C":["n"],"en":"broomstick"}
 {"L":"manicos","C":["n","pl"],"en":"handles, handlebars"}
@@ -15429,7 +15429,7 @@
 {"L":"arbor de maniveles","C":["n"],"en":"crankshaft"}
 {"L":"maniveli","C":["vt"],"en":"crank"}
 {"T":"r","L":"Mannar, Golfo","C":["n","jeo"],"d":"un golfo entre Barat e Srilanca","i":"Golfo-Mannar","en":"Gulf of Mannar"}
-{"T":"r","L":"mano","C":["n","anat"],"d":"la parte final de un braso, incluinte la palma e la ditos","i":"#","da":"hånd","en":"hand; handful","fr":"main"}
+{"T":"r","L":"mano","C":["n","anat"],"d":"la parte final de un braso, incluinte la palma e la ditos","i":"#","da":"hånd","de":"Hand","en":"hand; handful","fr":"main"}
 {"L":"mano plen","C":["n"],"en":"handful","fr":"poignée"}
 {"L":"con mano destra","C":["av"],"en":"(done) right-handed","fr":"avec la main droite"}
 {"L":"con mano en mano","C":["a"],"en":"hand in hand","fr":"la main dans la main"}
@@ -15448,13 +15448,13 @@
 {"L":"manobra plu bon ca","C":["v"],"en":"outmaneuver|outmanoeuvre"}
 {"T":"r","L":"manometre","C":["n","util"],"d":"un strumento per mesura la presa sur un colona de licuida","en":"manometer (pressure-measuring tool)"}
 {"T":"r","L":"manoscrito","C":["n","arte","mus"],"d":"un libro, documento o musica, scriveda par mano; un testo cual no es ancora publicida","en":"manuscript, autograph, codex, typescript"}
-{"T":"r","L":"manteni","C":["vt"],"d":"fa ce (un cosa o situa) continua con la mesma cualia, tipal bon; furni la nesesadas per vive o funsiona a (un person o cosa)","da":"holde, beholde","en":"maintain, keep (in the same state), preserve; monitor","fr":"maintenir"}
+{"T":"r","L":"manteni","C":["vt"],"d":"fa ce (un cosa o situa) continua con la mesma cualia, tipal bon; furni la nesesadas per vive o funsiona a (un person o cosa)","da":"holde, beholde","de":"behalten","en":"maintain, keep (in the same state), preserve; monitor","fr":"maintenir"}
 {"L":"manteni","C":["n"],"en":"maintenance, preservation, upkeep","fr":"maintenance"}
 {"L":"mantenida","C":["a"],"en":"maintained, kept"}
 {"L":"mantenor","C":["n"],"en":"janitor, caretaker, maintenance man, maintenance woman","fr":"agent de maintenance"}
 {"L":"mantenor de eglesa","C":["n"],"en":"sexton"}
 {"T":"r","L":"manticor","C":["n","mit"],"d":"un animal mital con corpo de leon, fas de umana, e picador de scorpion","i":"#","en":"manticore (mythology)"}
-{"T":"r","L":"mantis","C":["n","artr"],"d":"un inseto xasante, con brasos pliada como manos preante","i":"#","t":"Mantodea","da":"knæler (insekt)","en":"mantis (insect)","fr":"mante"}
+{"T":"r","L":"mantis","C":["n","artr"],"d":"un inseto xasante, con brasos pliada como manos preante","i":"#","t":"Mantodea","da":"knæler (insekt)","de":"Gottesanbeterin","en":"mantis (insect)","fr":"mante"}
 {"T":"r","L":"mantos","C":["n","ins"],"d":"un inseto sin alas de Africa sude, semblante un mantis","t":"Mantophasmatidae","en":"mantos, mantophasmatidae"}
 {"T":"r","L":"mantra","C":["n","rel"],"d":"un parola o sona repeteda per aida medita, orijinante en induisme e budisme","en":"mantra (meditation)"}
 {"T":"r","L":"manual","C":["n","util"],"d":"un libro de instruis","en":"handbook, manual, reference book, guide, guidebook, vade mecum","fr":"manuel (livre)"}
@@ -15474,13 +15474,13 @@
 {"L":"maoiste","C":["a"],"p":"maoïste","en":"Maoist"}
 {"T":"r","L":"maori","C":["a","dem"],"d":"pertinente a la popla orijinal de Zeland Nova, o a sua lingua polinesian","en":"Maori"}
 {"L":"maori","C":["n"],"en":"Maori"}
-{"T":"r","L":"mapa","C":["vt","util"],"d":"crea un scema bidimensional per representa (un rejion de tera o mar)","i":"#","da":"kort, landkort","en":"map, chart"}
-{"L":"mapa","C":["n"],"en":"map, mapping, chart","fr":"carte"}
+{"T":"r","L":"mapa","C":["vt","util"],"d":"crea un scema bidimensional per representa (un rejion de tera o mar)","i":"#","en":"map, chart"}
+{"L":"mapa","C":["n"],"da":"kort, landkort","de":"Landkarte","en":"map, mapping, chart","fr":"carte"}
 {"L":"mapa de releva","C":["n"],"en":"relief map"}
 {"L":"mapa linial","C":["n"],"en":"linear mapping"}
 {"L":"mapada","C":["a"],"en":"mapped, charted"}
 {"L":"nonmapada","C":["a"],"en":"unmapped, uncharted"}
-{"T":"r","L":"mar","C":["n","tera"],"d":"un corpo grande de acua salin cual covre la plu de la surfas de la Tera","i":"#","da":"hav, ocean","en":"sea, ocean","fr":"mer, océan"}
+{"T":"r","L":"mar","C":["n","tera"],"d":"un corpo grande de acua salin cual covre la plu de la surfas de la Tera","i":"#","da":"hav, ocean","de":"Meer, Ozean","en":"sea, ocean","fr":"mer, océan"}
 {"L":"mar alta","C":["n"],"en":"high seas, open ocean, open sea, main"}
 {"L":"a mar","C":["av"],"en":"at sea, offshore"}
 {"L":"en la mar","C":["av"],"en":"in the sea, overboard"}
@@ -15511,7 +15511,7 @@
 {"L":"marati","C":["n"],"en":"Marathi (person, language)"}
 {"T":"r","L":"maraton","C":["n","spo"],"d":"un corsa de core de 26 milias e 385 iardes (42,195 cilometres); cualce taxe difisil cual ocupa un tempo longa","en":"marathon","fr":"marathon"}
 {"T":"r","L":"marca","C":["vt","ling"],"d":"decora (un cosa o person) con un manxa, figur o simbol per indica sua identia; (un cualia) es tipal de (un cosa o person); (en informatica) usa un mus o teclador per spesifa (alga cosa) como la ojeto de la opera seguente","da":"mærke","en":"mark, stamp, characterize|is, typify; select, flag, highlight (text)","fr":"marquer"}
-{"L":"marca","C":["n"],"d":"un cualia o manxa distinguinte; un nom comersial de un organiza o corpora","i":"#","en":"mark, stamp, brand (commercial), characterization|is, identifier; marking (animals, plants)","fr":"marque"}
+{"L":"marca","C":["n"],"d":"un cualia o manxa distinguinte; un nom comersial de un organiza o corpora","i":"#","de":"Spur","en":"mark, stamp, brand (commercial), characterization|is, identifier; marking (animals, plants)","fr":"marque"}
 {"L":"marca comersial","C":["n"],"en":"trademark"}
 {"L":"marca como paiada","C":["v"],"en":"frank, mark as paid"}
 {"L":"marca de colpa","C":["n"],"en":"weal, wheal, welt"}
@@ -15532,7 +15532,7 @@
 {"L":"marea","C":["vt"],"en":"make dizzy","fr":"donner le mal de mer"}
 {"L":"mareada","C":["a"],"en":"dizzy, giddy, groggy, woozy","fr":"qui a le mal de mer"}
 {"L":"mareante","C":["a"],"en":"dizzying","fr":"qui donne le mal de mer"}
-{"T":"r","L":"marea","C":["n","ast","tera"],"d":"la leva e cade de la mar par la atrae de la Luna e la Sol","da":"tidevand","en":"tide","fr":"marée"}
+{"T":"r","L":"marea","C":["n","ast","tera"],"d":"la leva e cade de la mar par la atrae de la Luna e la Sol","da":"tidevand","de":"Gezeiten","en":"tide","fr":"marée"}
 {"L":"marea alta","C":["n"],"en":"high tide","fr":"marée haute"}
 {"L":"marea basa","C":["n"],"en":"low tide","fr":"marée basse"}
 {"L":"marea forte","C":["n"],"en":"riptide"}
@@ -15579,7 +15579,7 @@
 {"L":"martan","C":["a"],"en":"Martian","fr":"martien"}
 {"L":"martan","C":["n"],"i":"#","en":"Martian"}
 {"T":"r","L":"martedi","C":["n"],"d":"la dia entre lundi e mercurdi en cada semana","en":"Tuesday","eo":"mardo","fr":"mardi"}
-{"T":"r","L":"martel","C":["n","util"],"d":"un util con testa metal pesosa, usada per rompe cosas, colpa clos, etc; un parte de un fusil o otra macina cual colpa un otra per funsiona lo; un oso peti en la orea media cual transmete vibras de la timpan a la inco","i":"#","da":"hammer","en":"hammer, mallet; hammer, dog, cock (gun); malleus","fr":"marteau; chien (d'arme à feu)"}
+{"T":"r","L":"martel","C":["n","util"],"d":"un util con testa metal pesosa, usada per rompe cosas, colpa clos, etc; un parte de un fusil o otra macina cual colpa un otra per funsiona lo; un oso peti en la orea media cual transmete vibras de la timpan a la inco","i":"#","da":"hammer","de":"Hammer","en":"hammer, mallet; hammer, dog, cock (gun); malleus","fr":"marteau; chien (d'arme à feu)"}
 {"L":"martel de aira","C":["n"],"en":"pneumatic drill, jackhammer"}
 {"L":"martel mol","C":["n"],"d":"un spesie de martel, usada con un sisel o per colpa lenio sin marca lo","i":"#","en":"mallet"}
 {"L":"martelable","C":["a"],"en":"malleable"}
@@ -15603,7 +15603,7 @@
 {"L":"marxa","C":["n"],"en":"march"}
 {"L":"marxa funeral","C":["n"],"en":"funeral march"}
 {"T":"r","L":"Maryland","C":["n","jeo"],"d":"un stato en la SUA norde-este, a la Baia Chesapeake","en":"Maryland (US state)"}
-{"T":"r","L":"mas","C":["a","bio","uma"],"d":"de la seso cual produi spermas capas de fertili ovos de un fema matur; (un planta) cual ave androseos ma no ave jineseos fertil","da":"mandlig, maskulin","en":"male"}
+{"T":"r","L":"mas","C":["a","bio","uma"],"d":"de la seso cual produi spermas capas de fertili ovos de un fema matur; (un planta) cual ave androseos ma no ave jineseos fertil","da":"mandlig, maskulin","de":"männlich","en":"male"}
 {"L":"mas","C":["n"],"en":"male"}
 {"L":"desmasi","C":["vnt"],"en":"emasculate"}
 {"L":"desmasi","C":["vt"],"en":"emasculate"}
@@ -15611,7 +15611,7 @@
 {"L":"masia","C":["n"],"en":"maleness, masculinity, machismo"}
 {"L":"masin","C":["a"],"en":"masculine, boyish, butch"}
 {"L":"masiosa","C":["a"],"en":"macho, virile"}
-{"T":"r","L":"masa","C":["n","fis"],"d":"un corpo de materia coerente ma sin forma definida; (en fisica) la cuantia de materia contenida par un corpo, mesurada par sua aselera su un forte spesifada o par la forte aplicada a lo par un campo de gravita","da":"klump, bule","en":"mass, lump, clot, clod, blob (shapeless piece); mass (physics)"}
+{"T":"r","L":"masa","C":["n","fis"],"d":"un corpo de materia coerente ma sin forma definida; (en fisica) la cuantia de materia contenida par un corpo, mesurada par sua aselera su un forte spesifada o par la forte aplicada a lo par un campo de gravita","da":"klump, bule","de":"Klumpen","en":"mass, lump, clot, clod, blob (shapeless piece); mass (physics)"}
 {"L":"maseta","C":["n"],"en":"small mass, lump, clot"}
 {"L":"masi","C":["vnt"],"en":"form lumps, become lumpy, clot up"}
 {"L":"masi","C":["vt"],"en":"make lumpy, clot up"}
@@ -15661,7 +15661,7 @@
 {"T":"r","L":"mastosite","C":["n","bio"],"d":"un selula plenida con granes basofilica cual relasa istamina e otra cimicales en reatas inflamante o alerjica","en":"mast cell, mastocyte (biology)"}
 {"T":"r","L":"masturba","C":["vt","bio","uma"],"d":"stimula la jenitales de (se o un otra) per plaser sesal","en":"masturbate"}
 {"L":"masturba","C":["n"],"en":"masturbation, onanism"}
-{"T":"r","L":"mata","C":["vt","gov","uma"],"d":"causa la mori de (un person, animal o otra organisme)","da":"dræbe","en":"kill, exterminate, execute, slaughter, butcher, slay"}
+{"T":"r","L":"mata","C":["vt","gov","uma"],"d":"causa la mori de (un person, animal o otra organisme)","da":"dræbe","de":"töten","en":"kill, exterminate, execute, slaughter, butcher, slay"}
 {"L":"mata","C":["n"],"en":"killing, extermination, execution, slaughter"}
 {"L":"mata la debiles","C":["v"],"en":"cull"}
 {"L":"mata sin intende","C":["v"],"en":"manslaughter"}
@@ -15685,7 +15685,7 @@
 {"L":"materas de plumas","C":["n"],"en":"feather mattress, featherbed"}
 {"L":"materas inflable","C":["n"],"en":"air mattress, air bed, lilo"}
 {"L":"materasi","C":["vt"],"en":"pad, upholster"}
-{"T":"r","L":"materia","C":["n","fis","cim","fil"],"d":"lo cual esiste en spasio e ave masa, tipal contrastada con enerjia; un cosa de cual otra cosas o organismes es composada, tipal contrastada con mente e spirito","da":"stof, substans, materiale","en":"matter, substance, material, stuff"}
+{"T":"r","L":"materia","C":["n","fis","cim","fil"],"d":"lo cual esiste en spasio e ave masa, tipal contrastada con enerjia; un cosa de cual otra cosas o organismes es composada, tipal contrastada con mente e spirito","da":"stof, substans, materiale","de":"Stoff, Materie","en":"matter, substance, material, stuff"}
 {"L":"materia combustable","C":["n"],"en":"combustable material"}
 {"L":"materia fisionable","C":["n"],"en":"fissionable material"}
 {"L":"materia flamable","C":["n"],"en":"inflammable material"}
@@ -15702,7 +15702,7 @@
 {"L":"materialiste","C":["a","fil"],"en":"materialistic, acquisitive"}
 {"L":"materialiste","C":["n"],"en":"materialist"}
 {"L":"nonmaterial","C":["a"],"en":"immaterial, insubstantial, intangible"}
-{"T":"r","L":"matina","C":["n"],"d":"la periodo entre medianote e mediadia, spesial pos la leva de sol","da":"morgen","en":"morning, morn"}
+{"T":"r","L":"matina","C":["n"],"d":"la periodo entre medianote e mediadia, spesial pos la leva de sol","da":"morgen","de":"Morgen","en":"morning, morn"}
 {"L":"a esta matina","C":["av"],"en":"this morning"}
 {"L":"a matina","C":["av"],"en":"in the morning"}
 {"L":"a matina doman","C":["av"],"en":"tomorrow morning"}
@@ -15718,7 +15718,7 @@
 {"L":"matrilinial","C":["a"],"en":"matrilineal"}
 {"T":"r","L":"matrioxca","C":["n","arte"],"d":"cada de un colie de pupas de lenio vacuida e colorosa pintida, desiniada afin cada pote es caxida en un otra, tipal fabricada en Rusia o otra paises slavica","i":"#","en":"matryoshka (doll)"}
 {"T":"r","L":"matris","C":["n","mat"],"d":"un table de cuantias o espresas en linias e colonas, regardada como un cosa singular","en":"matrix (mathematical), two-dimensional array"}
-{"T":"r","L":"matur","C":["a","bio"],"d":"completa developada; adulte; capas de reprodui; (fruta, gran, ceso, uisce, etc) sufisinte developada per es colieda o comeda","da":"voksen","en":"mature, ripe; adult, grown-up; aged"}
+{"T":"r","L":"matur","C":["a","bio"],"d":"completa developada; adulte; capas de reprodui; (fruta, gran, ceso, uisce, etc) sufisinte developada per es colieda o comeda","da":"voksen","de":"reif","en":"mature, ripe; adult, grown-up; aged"}
 {"L":"maturi","C":["vnt"],"en":"mature, ripen; grow up"}
 {"L":"maturi","C":["vt"],"en":"mature, ripen; grow up"}
 {"L":"maturi sesal","C":["n"],"en":"puberty"}
@@ -15739,7 +15739,7 @@
 {"L":"maurisian","C":["a"],"en":"Mauritian"}
 {"L":"maurisian","C":["n","dem"],"en":"Mauritian"}
 {"T":"r","L":"mausoleo","C":["n","rel","arci"],"d":"un construida, tipal grande, per conteni un tomba o tombas","i":"#","en":"mausoleum"}
-{"T":"r","L":"max","C":["n","spo"],"d":"un concurso de sporte, usual con du juores o ecipos","da":"kamp, match, konkurrence","en":"match, game"}
+{"T":"r","L":"max","C":["n","spo"],"d":"un concurso de sporte, usual con du juores o ecipos","da":"kamp, match, konkurrence","de":"Partie","en":"match, game"}
 {"L":"max desidente","C":["n"],"en":"play-off"}
 {"T":"r","L":"maxa","C":["vt","cos"],"d":"redui (un comeda o otra materia) a un masa uniforma par crase lo","en":"mash, crush, pulp, squash, squish"}
 {"L":"maxador","C":["n"],"en":"masher, crusher, pulper"}
@@ -15751,7 +15751,7 @@
 {"T":"r","L":"mazaua","C":["a","dem"],"d":"pertinente a un popla orijinal de Mexico sentral, o a sua lingua relatada a otomi","en":"Mazahua (person, language)"}
 {"L":"mazaua","C":["n"],"en":"Mazahua (person, language)"}
 {"T":"r","L":"mazurca","C":["n","mus"],"d":"un dansa polsce vivosa en tempo truple; un musica per esta","en":"mazurka (dance, music)"}
-{"T":"r","L":"me","C":["pron"],"d":"usada par un parlor per refere a se","da":"jeg","en":"I; me","fr":"je, me, moi"}
+{"T":"r","L":"me","C":["pron"],"d":"usada par un parlor per refere a se","da":"jeg","de":"ich","en":"I; me","fr":"je, me, moi"}
 {"L":"la plu joven de me","C":["n"],"en":"my younger self"}
 {"L":"la mea","C":["pron"],"en":"mine"}
 {"L":"la otras de me","C":["n"],"en":"my other selves"}
@@ -15772,7 +15772,7 @@
 {"L":"medaliste","C":["n"],"en":"medalist|ll"}
 {"L":"medaliste de oro","C":["n"],"en":"gold medalist|ll"}
 {"T":"r","L":"media","C":["a","mat"],"d":"a distantia egal de ambos estremas; (un membro de un grupo o serie) con la mesma cuantia de otra membros a cada lado","en":"middle, middling, medium, intermediate"}
-{"L":"media","C":["n"],"en":"middle, center|re, median, halfway point, midsection, midst"}
+{"L":"media","C":["n"],"de":"Mitte","en":"middle, center|re, median, halfway point, midsection, midst"}
 {"L":"media-","C":["pf"],"d":"ajuntada a un nom de un periodo o estende per nomi la punto media","u":"mediadia","en":"mid- (added to nouns: midpoint)"}
 {"L":"media de anio","C":["n"],"en":"midyear"}
 {"L":"media de barcon","C":["n"],"en":"midship"}
@@ -15804,7 +15804,7 @@
 {"T":"r","L":"mediocre","C":["a"],"d":"con cualia media o min ca media; no multe bon","en":"mediocre, ordinary, average, middling, uninspired, undistinguished, indifferent, unexceptional, unexciting, unremarkable, run-of-the-mill, pedestrian, prosaic, lackluster|re, forgettable"}
 {"L":"mediocria","C":["n"],"en":"mediocrity"}
 {"L":"obra mediocre","C":["n"],"en":"mediocre work, potboiler"}
-{"T":"r","L":"medisin","C":["n","med"],"d":"un droga usada per trata o preveni maladia","i":"#","da":"medicin","en":"medicine (drugs), medication"}
+{"T":"r","L":"medisin","C":["n","med"],"d":"un droga usada per trata o preveni maladia","i":"#","da":"medicin","de":"Medizin","en":"medicine (drugs), medication"}
 {"L":"medisin de fertilia","C":["n"],"en":"fertility drug"}
 {"L":"medisin enspirable","C":["n"],"en":"inhalant"}
 {"L":"medisin erbal","C":["n"],"en":"herbal medicine"}
@@ -15867,7 +15867,7 @@
 {"L":"melodramosa","C":["a"],"en":"melodramatic"}
 {"L":"melodramosia","C":["n"],"en":"melodramatics, histrionics"}
 {"T":"r","L":"meloido]","C":["n","ins"],"d":"un scarabe capas de secrete un sustantia nosiva","t":"Meloidae","en":"blister beetle"}
-{"T":"r","L":"melon","C":["n","pla","cos"],"d":"un planta en familia de zuca; la fruta grande e ronda de esta","i":"#","t":"Cucumis","da":"melon","en":"melon"}
+{"T":"r","L":"melon","C":["n","pla","cos"],"d":"un planta en familia de zuca; la fruta grande e ronda de esta","i":"#","t":"Cucumis","da":"melon","de":"Kürbis","en":"melon"}
 {"L":"melon acuosa","C":["n","pla"],"i":"#","t":"Citrullus lanatus","en":"watermelon"}
 {"L":"melon de inverno","C":["n","pla"],"en":"honeydew melon"}
 {"T":"r","L":"melonjena","C":["n","pla","cos"],"d":"un planta orijinante en Asia sude e este; la fruta grande de esta, con forma de ovo, tipal oscur purpur","i":"#","t":"Solanum melongena","en":"aubergine, eggplant"}
@@ -15876,7 +15876,7 @@
 {"L":"membrana mucosa","C":["n"],"en":"mucous membrane"}
 {"L":"membranin","C":["a"],"en":"membranous, membranelike"}
 {"L":"membranosa","C":["a"],"en":"membranous, webbed"}
-{"T":"r","L":"membro","C":["n","gov"],"d":"un person, cosa o organiza cual parteni a un grupo; un person ci partisipa en la prosedes de un organiza; un peso de un strutur complicada; un braso o gama","da":"medlem","en":"member (group), fellow (society), affiliate; limb (arm, leg)"}
+{"T":"r","L":"membro","C":["n","gov"],"d":"un person, cosa o organiza cual parteni a un grupo; un person ci partisipa en la prosedes de un organiza; un peso de un strutur complicada; un braso o gama","da":"medlem","de":"Mitglied","en":"member (group), fellow (society), affiliate; limb (arm, leg)"}
 {"L":"desmembri","C":["vt"],"en":"dismember"}
 {"T":"r","L":"memoria","C":["n","uma","info"],"d":"la capasia par cual la mente reteni e recorda informa; la parte de un computador en cual datos o programes es retenida","en":"memory (as a capacity; including computer)"}
 {"L":"memoria de dura corta","C":["n"],"en":"short-term memory, STM"}
@@ -15917,7 +15917,7 @@
 {"T":"r","L":"menora","C":["n","rel"],"d":"un candelabro santa con sete ramos, usada en iudisme","i":"#","en":"menorah (candelabrum)"}
 {"T":"r","L":"Menorca","C":["n","jeo"],"d":"un de la Isolas Balear, a norde-ueste de Maiorca","en":"Menorca, Minorca"}
 {"T":"r","L":"menorea","C":["n","bio"],"d":"la flue de sangue menstrual","en":"menorrhea|oe"}
-{"T":"r","L":"mense","C":["n"],"d":"un de la 12 periodos nomida a cual un anio es divideda; la longia aprosima de un de esta periodos","u":"la mense agosto","da":"måned","en":"month"}
+{"T":"r","L":"mense","C":["n"],"d":"un de la 12 periodos nomida a cual un anio es divideda; la longia aprosima de un de esta periodos","u":"la mense agosto","da":"måned","de":"Monat","en":"month"}
 {"L":"dumensal","C":["a"],"en":"bimonthly (once every two months)"}
 {"L":"mensal","C":["a"],"en":"monthly"}
 {"L":"per mense","C":["av"],"en":"per month, a month"}
@@ -15927,26 +15927,26 @@
 {"L":"menstrui","C":["vt"],"en":"menstruate"}
 {"L":"premenstrual","C":["a"],"en":"premenstrual"}
 {"T":"r","L":"mensula","C":["n","arci"],"d":"un strutur cual protende de un mur per suporta un strutur a supra","i":"#","en":"corbel (architecture)"}
-{"T":"r","L":"menta","C":["n","pla","cos"],"d":"un planta bonodorosa, tipal usada como un spise","i":"#","t":"Mentha","da":"mynte","en":"mint (plant)"}
+{"T":"r","L":"menta","C":["n","pla","cos"],"d":"un planta bonodorosa, tipal usada como un spise","i":"#","t":"Mentha","da":"mynte","de":"Minze","en":"mint (plant)"}
 {"L":"menta fresca","C":["n"],"d":"un menta usada en cosini e como un saborinte per confetos","t":"Mentha spicata","en":"spearmint"}
 {"L":"menta peperin","C":["n"],"en":"peppermint"}
 {"L":"mentin","C":["a"],"en":"minty"}
 {"T":"r","L":"mentalisme","C":["n","fil"],"d":"la teoria ce fenomenos fisical e psicolojial es ultima esplicable sola como efetos de un mente creosa e interpretente; la arte de presenta capasias parente psicica per diverti","en":"mentalism (philosophy, psychic)"}
 {"L":"mentaliste","C":["a"],"en":"mentalistic"}
 {"L":"mentaliste","C":["n"],"en":"mentalist"}
-{"T":"r","L":"mente","C":["n","uma"],"d":"la parte de un person cual permete ce el persepi, pensa e senti","da":"sind, sjæl","en":"mind"}
+{"T":"r","L":"mente","C":["n","uma"],"d":"la parte de un person cual permete ce el persepi, pensa e senti","da":"sind, sjæl","de":"Geist","en":"mind"}
 {"L":"con mente clar","C":["a"],"en":"clear-headed"}
 {"L":"de la mesma mente","C":["a"],"en":"like-minded"}
 {"L":"de mente debil","C":["a"],"en":"weak-minded, feeble-minded"}
 {"L":"de mente simple","C":["a"],"en":"simple-minded"}
 {"L":"mental","C":["a"],"en":"mental"}
-{"T":"r","L":"menti","C":["vt","uma"],"d":"espresa o intende (un declara falsa)","da":"lyve","en":"lie, tell a lie"}
+{"T":"r","L":"menti","C":["vt","uma"],"d":"espresa o intende (un declara falsa)","da":"lyve","de":"lügen","en":"lie, tell a lie"}
 {"L":"menti","C":["n"],"en":"lie; mendacity"}
 {"L":"menti jigante","C":["n"],"en":"whopper"}
 {"L":"menteta","C":["n"],"en":"fib, white lie"}
 {"L":"mentinte","C":["a"],"en":"lying, untruthful, mendacious"}
 {"L":"mentor","C":["n"],"en":"liar"}
-{"T":"r","L":"mento","C":["n","anat"],"d":"la parte de la fas su la boca, formida par la apico de la mandibula","i":"#","da":"hage","en":"chin"}
+{"T":"r","L":"mento","C":["n","anat"],"d":"la parte de la fas su la boca, formida par la apico de la mandibula","i":"#","da":"hage","de":"Kinn","en":"chin"}
 {"T":"r","L":"mentol","C":["n","cim"],"d":"un composada cristal, con sabor e odor fresca e mentin","en":"menthol"}
 {"T":"r","L":"menu","C":["n","cos"],"d":"un lista de comedas otenable a un restorante; (en informatica) un lista de comandas o elejes disponable; (metafor) cualce lista de avenis o elejes","p":"menú","en":"menu; program|programme, agenda"}
 {"L":"menu cadente","C":["n"],"en":"drop-down menu"}
@@ -15955,7 +15955,7 @@
 {"T":"r","L":"mera","C":["a"],"d":"asentuante ce un person o cosa es peti o nonimportante, o ce sua presentia sufisi per influe un situa","u":"nos es mortales mera; la pensa mera de comeda ia repulsa el","en":"mere"}
 {"L":"mera","C":["av"],"d":"no plu ca, o apena plu ca","u":"la sona ia es mera la tona","en":"merely, only, just, simply, purely, not much more than"}
 {"T":"r","L":"merbromina","C":["n","cim","med"],"d":"un composada usada como un antisepsica","en":"merbromin, mercurochrome (antiseptic)"}
-{"T":"r","L":"mercato","C":["n","mone"],"d":"un asembla de persones per compra e vende furnis, bestias e otra benes; la spasio o construida en cual esta aveni","i":"#","da":"marked","en":"market, emporium, mart"}
+{"T":"r","L":"mercato","C":["n","mone"],"d":"un asembla de persones per compra e vende furnis, bestias e otra benes; la spasio o construida en cual esta aveni","i":"#","da":"marked","de":"Markt","en":"market, emporium, mart"}
 {"L":"mercato de pulgas","C":["n"],"en":"flea market"}
 {"L":"mercato emerjinte","C":["n"],"en":"emerging market"}
 {"L":"mercato otimiste","C":["n"],"en":"bull market"}
@@ -15973,7 +15973,7 @@
 {"T":"r","L":"merenge","C":["n","mus"],"d":"un stilo de musica e dansa de la Republica Dominican","en":"meringue (Dominican dance, music)"}
 {"L":"merenge aitian","C":["n","mus"],"en":"méringue (Haitian dance, music)"}
 {"T":"r","L":"meridiano","C":["n","tera"],"d":"un sirculo de lonjitude constante tra la polos norde e sude","en":"meridian"}
-{"T":"r","L":"merita","C":["vt","gov"],"d":"mostra condui o cualias sufisinte per reseta (un premio, recompensa, amira, puni o desonora)","da":"fortjene","en":"deserve, merit, be worthy of, warrant, justify, be due, be owed, be entitled to"}
+{"T":"r","L":"merita","C":["vt","gov"],"d":"mostra condui o cualias sufisinte per reseta (un premio, recompensa, amira, puni o desonora)","da":"fortjene","de":"verdienen","en":"deserve, merit, be worthy of, warrant, justify, be due, be owed, be entitled to"}
 {"L":"merita","C":["n"],"en":"merit, worth; entitlement, desert"}
 {"L":"meritada","C":["a"],"en":"deserved, merited, justified"}
 {"L":"meritante","C":["a"],"en":"deserving, worthy, entitled"}
@@ -15998,7 +15998,7 @@
 {"L":"mervelia","C":["vt"],"en":"astonish, amaze"}
 {"L":"mervelia","C":["n"],"en":"marvel, miracle"}
 {"L":"merveliosa","C":["a"],"en":"marvelous|ll, wonderful, awe-inspiring, awesome, majestic, magnificent, glorious, superb, splendid, sublime"}
-{"T":"r","L":"mesaje","C":["n","info","ling"],"d":"un comunica parlada, scriveda o rejistrada, enviada o lasada per un resetor ci on no pote contata direta","da":"meddelelse","en":"message"}
+{"T":"r","L":"mesaje","C":["n","info","ling"],"d":"un comunica parlada, scriveda o rejistrada, enviada o lasada per un resetor ci on no pote contata direta","da":"meddelelse","de":"Botschaft","en":"message"}
 {"L":"mesaje pronto","C":["n"],"en":"instant message"}
 {"L":"mesajeta","C":["n"],"en":"text message, text, SMS"}
 {"L":"mesaji","C":["vt"],"en":"message, send as a message, text"}
@@ -16010,8 +16010,8 @@
 {"T":"r","L":"mescite","C":["n","pla"],"d":"un arboreta spinosa en familia de piso, trovada en la SUA sude-ueste e Mexico","i":"#","t":"Prosopis","en":"mesquite, mezquite (plant)"}
 {"T":"r","L":"mesensefalo","C":["n","anat"],"d":"un parte de la sistem de nervos, asosiada con vide, oia, controla de move, velia, e regula de temperatur","en":"midbrain, mesencephalon (anatomy)"}
 {"T":"r","L":"mesenterio","C":["n","anat"],"d":"un plia de la peritoneo cual afisa la stomaco, intestin magra, pancreas, spleno e otra organos a la mur posterior de la adomen","en":"mesentery (anatomy)"}
-{"T":"r","L":"mesma","C":["a","pren"],"d":"no diferente; no cambiada","n":"`Mesma` es tipal presededa par `la`, `esta` o `acel`.","da":"samme","en":"same, identical"}
-{"L":"mesma","C":["av"],"d":"no otra ca (la presedente)","n":"La averbo `mesma` asentua forte la nom o pronom cual presede direta lo.","da":"selv","en":"-self (emphasising the preceding noun or pronoun)"}
+{"T":"r","L":"mesma","C":["a","pren"],"d":"no diferente; no cambiada","n":"`Mesma` es tipal presededa par `la`, `esta` o `acel`.","da":"samme","de":"selbe, gleich","en":"same, identical"}
+{"L":"mesma","C":["av"],"d":"no otra ca (la presedente)","n":"La averbo `mesma` asentua forte la nom o pronom cual presede direta lo.","da":"selv","de":"selbst","en":"-self (emphasising the preceding noun or pronoun)"}
 {"L":"el mesma","C":["pron"],"en":"he himself, she herself (non-reflexive)"}
 {"L":"en la mesma modo","C":["av"],"en":"in the same way"}
 {"L":"la re mesma","C":["n"],"en":"the king himself"}
@@ -16047,7 +16047,7 @@
 {"L":"mestri","C":["vt"],"en":"master"}
 {"L":"mestria","C":["n"],"en":"mastery"}
 {"L":"mestrin","C":["a"],"en":"masterful, masterly"}
-{"T":"r","L":"mesura","C":["vt","mat"],"d":"trova la grandia, cuantia o grado de (alga cosa) par usa un strumento o aparato marcada con unias normal o par compara lo con un ojeto de grandia conoseda","da":"måle","en":"measure"}
+{"T":"r","L":"mesura","C":["vt","mat"],"d":"trova la grandia, cuantia o grado de (alga cosa) par usa un strumento o aparato marcada con unias normal o par compara lo con un ojeto de grandia conoseda","da":"måle","de":"messen","en":"measure"}
 {"L":"mesura","C":["n"],"en":"measure, measurement, dimension; bar (music)"}
 {"L":"mesurable","C":["a"],"en":"measurable"}
 {"L":"mesurador","C":["n"],"en":"measuring device, meter"}
@@ -16073,7 +16073,7 @@
 {"T":"r","L":"metafor","C":["a","ling"],"d":"(un parola o espresa) pertinente a un ojeto a cual lo no es leteral aplicable; (un cosa) videda como un representa o simbol de un otra, tipal astrata","en":"metaphorical, metaphoric, figurative"}
 {"L":"metafor","C":["n"],"en":"metaphor, trope"}
 {"T":"r","L":"metal","C":["a","fis"],"d":"(un materia) solida, tipal dur, briliante, martelable, fusable, e formable sin rompe o frati","en":"metal, metallic"}
-{"L":"metal","C":["n"],"da":"metal","en":"metal"}
+{"L":"metal","C":["n"],"da":"metal","de":"Metall","en":"metal"}
 {"L":"metal resiclable","C":["n"],"en":"scrap, scrap metal"}
 {"L":"arte de metal","C":["n"],"en":"metalwork, metalworking"}
 {"L":"metalin","C":["a"],"en":"metallic, metal-like"}
@@ -16100,7 +16100,7 @@
 {"L":"meteorolojial","C":["a"],"en":"meteorological"}
 {"L":"meteorolojiste","C":["n"],"en":"meteorologist"}
 {"T":"r","L":"metil","C":["n"],"d":"la radical {-CH3}, derivada de metano e presente en multe composadas organica","en":"methyl (chemistry)"}
-{"T":"r","L":"metodo","C":["n","fil","rel"],"d":"un modo spesifada per fa alga cosa, tipal sistemosa o bon fundida","da":"metode, måde, teknik","en":"method, manner, way, technique, means, approach"}
+{"T":"r","L":"metodo","C":["n","fil","rel"],"d":"un modo spesifada per fa alga cosa, tipal sistemosa o bon fundida","da":"metode, måde, teknik","de":"Methode","en":"method, manner, way, technique, means, approach"}
 {"L":"metodisme","C":["n"],"en":"Methodism (Christianity)"}
 {"L":"metodiste","C":["a"],"en":"Methodist"}
 {"L":"metodiste","C":["n"],"en":"Methodist"}
@@ -16176,7 +16176,7 @@
 {"L":"Statos Federada de Micronesia","C":["n","pl","jeo"],"c":"Palikir","d":"un pais composada de sentos de isolas en Micronesia","en":"Federated States of Micronesia"}
 {"T":"r","L":"microonda","C":["n","fis"],"d":"un onda eletromagnetal con longia de onda entre 0,001 e 0,3 metres, plu corta ca ondas de radio ma plu longa ca ondas infraroja, usada en comunica e per coce","i":"#","en":"microwave"}
 {"T":"r","L":"microplastica","C":["n","cim"],"d":"pesos pico de plastica dejetada en la ambiente","en":"microplastic"}
-{"T":"r","L":"microscopio","C":["n","util","bio"],"d":"un aparato otical, usada per vide ojetos multe peti, como selulas, tipal grandinte los a alga sentos de veses","i":"#","da":"mikroskop","en":"microscope"}
+{"T":"r","L":"microscopio","C":["n","util","bio"],"d":"un aparato otical, usada per vide ojetos multe peti, como selulas, tipal grandinte los a alga sentos de veses","i":"#","da":"mikroskop","de":"Mikroskop","en":"microscope"}
 {"L":"Microscopio","C":["n","ast"],"d":"un constela minor en la sielo sude","en":"Microscopium (constellation)"}
 {"L":"microscopi","C":["vt"],"en":"examine with a microscope"}
 {"L":"microscopi","C":["n"],"en":"microscopy"}
@@ -16187,7 +16187,7 @@
 {"T":"r","L":"microtelia","C":["n","fis","info"],"d":"un telieta de materia semicondutante, usada per fabrica un sircuito integrada","i":"#","en":"microchip, chip"}
 {"T":"r","L":"microtomo","C":["n","med"],"d":"un strumento per talia sesiones multe magra per esamina su un microscopio","en":"microtome (slicing tool)"}
 {"L":"microtomia","C":["n"],"en":"microtomy"}
-{"T":"r","L":"miel","C":["n","cos"],"d":"un licuida viscosa, dulse e jalin brun, produida par abeas e otra insetos, de netar colieda de flores","i":"#","da":"honning","en":"honey"}
+{"T":"r","L":"miel","C":["n","cos"],"d":"un licuida viscosa, dulse e jalin brun, produida par abeas e otra insetos, de netar colieda de flores","i":"#","da":"honning","de":"Honig","en":"honey"}
 {"L":"mielin","C":["n"],"en":"honey, sweetheart"}
 {"T":"r","L":"mielada","C":["n"],"d":"un sustantia dulse e viscosa escreteda par afidos sur folias e talos","i":"#","en":"honeydew (substance)"}
 {"T":"r","L":"mielifaje","C":["n","avia"],"d":"un avia cantante de Australasia con lingua longa e brosin per come netar","i":"#","t":"Meliphagidae","en":"honeyeater (bird)"}
@@ -16204,7 +16204,7 @@
 {"L":"migrante","C":["n"],"en":"migrant"}
 {"L":"migror","C":["n"],"en":"immigrant, emigrant"}
 {"T":"r","L":"migrania","C":["n","med"],"d":"un dole de testa palpitante e reveninte cual afeta tipal un lado de la testa e es comun acompaniada par nausea e disturbas de vide","en":"migraine"}
-{"T":"r","L":"mil","C":["d","mat"],"d":"1000, {10^3}","da":"tusinde","en":"(a) thousand"}
+{"T":"r","L":"mil","C":["d","mat"],"d":"1000, {10^3}","da":"tusinde","de":"tausend","en":"(a) thousand"}
 {"L":"mil","C":["a"],"en":"thousandth (ordinal)"}
 {"L":"desmili","C":["vnt"],"en":"split into ten thousand"}
 {"L":"desmili","C":["vt"],"en":"split into ten thousand"}
@@ -16224,7 +16224,7 @@
 {"L":"milia maral","C":["n"],"en":"nautical mile"}
 {"L":"milia roman antica","C":["n"],"d":"un unia de 1000 pasos par la pede sinistra, egal a 1,481 km","en":"Roman mile"}
 {"T":"r","L":"milio","C":["n","pla"],"d":"un planta sereal cual crese rapida e es cultivada en paises calda e rejiones con tera povre","t":"Gramineae, {spesial","en":"millet (plant)"}
-{"T":"r","L":"milion","C":["d","mat"],"d":"{1(~)000(~)000}, {10^6}","n":"On dise `du milion`, `des milion`, etc, (no `du miliones`), esata como on dise `du mil`.","da":"million","en":"(a) million"}
+{"T":"r","L":"milion","C":["d","mat"],"d":"{1(~)000(~)000}, {10^6}","n":"On dise `du milion`, `des milion`, etc, (no `du miliones`), esata como on dise `du mil`.","da":"million","de":"Million","en":"(a) million"}
 {"L":"milion","C":["a"],"en":"millionth (ordinal)"}
 {"L":"miliones","C":["n","pl"],"en":"millions"}
 {"L":"du milion","C":["d"],"en":"two million"}
@@ -16233,7 +16233,7 @@
 {"L":"milioni","C":["n"],"en":"millionth (fraction)"}
 {"L":"milionor","C":["n"],"en":"millionaire"}
 {"T":"r","L":"milipede","C":["n","artr"],"d":"un nonvertebrato con corpo longa de multe sesiones, de cual la plu ave du duples de gamas","i":"#","t":"Diplopoda","en":"millipede"}
-{"T":"r","L":"militar","C":["a","gov"],"d":"pertinente a soldatos o fortes armada","da":"militærisk","en":"military, militaristic"}
+{"T":"r","L":"militar","C":["a","gov"],"d":"pertinente a soldatos o fortes armada","da":"militærisk","de":"militärisch","en":"military, militaristic"}
 {"L":"militar","C":["n"],"en":"serviceman, servicewoman; (the) military (organization|is)"}
 {"L":"artes militar","C":["n"],"en":"martial arts"}
 {"L":"desmilitari","C":["vnt"],"en":"demilitarize|is"}
@@ -16257,13 +16257,13 @@
 {"T":"r","L":"mimeograf","C":["n","util"],"d":"un macina istorial cual produi documentos par copia los de un stensil","en":"mimeograph"}
 {"L":"mimeografia","C":["n"],"en":"mimeography"}
 {"T":"r","L":"mimosa","C":["n","pla","cos"],"d":"un planta en la familia _Leguminosae_ cual responde a tocas par curvi sua folias; un arbor acasia con folias delicata e flores jala; un bevida de xampania con jus de orania","i":"#","t":"Mimosa, Acacia dealbata","en":"mimosa (plant)"}
-{"T":"r","L":"min","C":["d"],"d":"con cuantia plu peti; no tan multe","u":"min enerjia; min persones","da":"få, mindre","en":"less, fewer"}
+{"T":"r","L":"min","C":["d"],"d":"con cuantia plu peti; no tan multe","u":"min enerjia; min persones","da":"få, mindre","de":"weniger","en":"less, fewer"}
 {"L":"min","C":["av"],"u":"min alta ca","en":"less"}
 {"L":"min","C":["cj"],"en":"minus (arithmetic)"}
 {"L":"min ... min","C":["esp"],"u":"min lo pluve, min la teto gotea; min bon es la problem, plu bon es la solve; min los ave, plu los vole","en":"the less ... the less","eo":"ju malpli ... des malpli"}
 {"L":"min ca nun","C":["esp"],"en":"second to none"}
 {"L":"min e min","C":["av"],"en":"less and less, ever less"}
-{"L":"a la min","C":["av"],"da":"færrest, mindst, ikke mindre end","en":"at least, as a minimum","gl":"polo menos, cando menos, non menos que, o mínimo"}
+{"L":"a la min","C":["av"],"da":"færrest, mindst, ikke mindre end","de":"zum mindesten, mindeste, am wenigsten","en":"at least, as a minimum","gl":"polo menos, cando menos, non menos que, o mínimo"}
 {"L":"la min","C":["av"],"u":"la lia la min forte","en":"least"}
 {"L":"la min de","C":["esp"],"en":"least, fewest, the minority of"}
 {"T":"r","L":"mina","C":["vt","tera"],"d":"oteni (carbon o otra minerales) par escava","en":"mine"}
@@ -16276,7 +16276,7 @@
 {"T":"r","L":"Mindoro","C":["n","jeo"],"en":"Mindoro"}
 {"L":"Streta Mindoro","C":["n","jeo"],"d":"un streta a ueste de Mindoro","i":"#","en":"Mindoro Strait"}
 {"T":"r","L":"mineral","C":["a","cim"],"d":"(un materia) solida, nonorganica e natural aveninte, tipal otenida par mina","en":"mineral"}
-{"L":"mineral","C":["n"],"da":"mineral","en":"mineral, ore"}
+{"L":"mineral","C":["n"],"da":"mineral","de":"Mineral, Erz","en":"mineral, ore"}
 {"L":"minerali","C":["vnt"],"en":"mineralize|is"}
 {"L":"minerali","C":["vt"],"en":"mineralize|is"}
 {"L":"minerali","C":["n"],"en":"mineralization|is"}
@@ -16310,7 +16310,7 @@
 {"T":"r","L":"ministro","C":["n","gov"],"d":"la xef de un departe de la governa","en":"minister (government)"}
 {"L":"ministro de esternas","C":["n"],"en":"foreign minister, foreign secretary, secretary of state for foreign affairs"}
 {"L":"ministro de internas","C":["n"],"en":"home secretary, secretary of state for internal affairs"}
-{"L":"ministro xef","C":["n"],"da":"statsminister","en":"prime minister, chancellor"}
+{"L":"ministro xef","C":["n"],"da":"statsminister","de":"Ministerpräsident","en":"prime minister, chancellor"}
 {"L":"ministral","C":["a"],"en":"ministerial"}
 {"L":"ministreria","C":["n"],"en":"ministry"}
 {"T":"r","L":"Minnesota","C":["n","jeo"],"d":"un stato en la SUA norde-sentral, bordante Canada","en":"Minnesota (US state)"}
@@ -16318,10 +16318,10 @@
 {"L":"minor","C":["n"],"en":"minor"}
 {"L":"minori","C":["vnt"],"en":"convert to lowercase"}
 {"L":"minori","C":["vt"],"en":"convert to lowercase"}
-{"L":"minoria","C":["n"],"da":"minoritet","en":"minority"}
+{"L":"minoria","C":["n"],"da":"minoritet","de":"Minderheit","en":"minority"}
 {"T":"r","L":"minotauro","C":["n","mit"],"d":"un monstro mital umanin, con testa de bove","i":"#","en":"minotaur"}
 {"T":"r","L":"minueto","C":["n","mus"],"d":"un dansa de bal per du persones, popular en la sentenio 18; un musica en tempo truple per esta","en":"minuet (dance, music)"}
-{"T":"r","L":"minuto","C":["n"],"d":"un periodo de tempo egal a 60 secondos o un sesdesi de un ora; un sesdesi de un grado angulo","da":"minut","en":"minute"}
+{"T":"r","L":"minuto","C":["n"],"d":"un periodo de tempo egal a 60 secondos o un sesdesi de un ora; un sesdesi de un grado angulo","da":"minut","de":"Minute","en":"minute"}
 {"T":"r","L":"mio-","C":["pf","tecn"],"d":"musculos","en":"myo- (muscle)"}
 {"T":"r","L":"miocardial","C":["a","anat"],"d":"pertinente a la texeda musculosa de la cor","en":"myocardial"}
 {"T":"r","L":"miope","C":["a","med"],"d":"no capas de vide clar, estra cuando cosas es prosima a la oios","en":"near-sighted, short-sighted, myopic"}
@@ -16330,7 +16330,7 @@
 {"L":"miosene","C":["n"],"en":"Miocene (geology)"}
 {"T":"r","L":"miosite","C":["n","bio"],"d":"un tipo de selula en texeda musculal","en":"myocyte (biology)"}
 {"T":"r","L":"mira","C":["n","pla"],"d":"un arbor de cual on oteni un resina bonodorosa usada en parfum, insenso e medisin; esta resina","i":"#","t":"Commiphora myrrha","en":"myrrh (tree, resin)"}
-{"T":"r","L":"miracle","C":["n","rel","mit"],"d":"un bon aveni nonesplicable par siensa e donce regardada como un ata divin; un bon aveni nonprobable o estracomun; un produida o ateni stonante bon","da":"mirakel","en":"miracle"}
+{"T":"r","L":"miracle","C":["n","rel","mit"],"d":"un bon aveni nonesplicable par siensa e donce regardada como un ata divin; un bon aveni nonprobable o estracomun; un produida o ateni stonante bon","da":"mirakel","de":"Wunder","en":"miracle"}
 {"L":"miraclor","C":["n"],"en":"miracleworker"}
 {"L":"miraclosa","C":["a"],"en":"miraculous"}
 {"T":"r","L":"miraje","C":["n","fis"],"d":"un ilude de vide causada par la state de la atmosfera, tipal la apare de acua en un deserto o sur un via calda","i":"#","en":"mirage"}
@@ -16338,7 +16338,7 @@
 {"L":"mirandes","C":["n"],"en":"Mirandes (person, language)"}
 {"T":"r","L":"miriapodo","C":["n","artr"],"d":"un artropodo con multe pedes, como la sentopede o milipede","en":"myriapod (arthropod)"}
 {"T":"r","L":"mirica","C":["n","pla"],"d":"un arboreta de America Norde, con folias cuorin e bonodorinte e bacas sirin","i":"#","t":"Myrica gale","en":"bayberry (plant, berry)"}
-{"T":"r","L":"miror","C":["n","util"],"d":"un surfas, tipal vitro combinada con metal, cual refleta un imaje clar","i":"#","da":"spejl","en":"mirror"}
+{"T":"r","L":"miror","C":["n","util"],"d":"un surfas, tipal vitro combinada con metal, cual refleta un imaje clar","i":"#","da":"spejl","de":"Spiegel","en":"mirror"}
 {"L":"miror de retrovista","C":["n"],"en":"rear-view mirror"}
 {"L":"mirori","C":["vt"],"en":"mirror"}
 {"T":"r","L":"mirto","C":["n","pla"],"d":"un arboreta perene con folias briliante e bonodorosa, e flores blanca segueda par bacas oval e purpurin negra","i":"#","t":"Myrtus","en":"myrtle (plant)"}
@@ -16349,7 +16349,7 @@
 {"T":"r","L":"misantrope","C":["a","uma"],"d":"odiante umanas","en":"misanthropic"}
 {"L":"misantrope","C":["n"],"en":"misanthrope, misanthropist"}
 {"L":"misantropia","C":["n"],"en":"misanthropy"}
-{"T":"r","L":"misca","C":["vt"],"d":"combina (cosas) per forma un masa; reordina (cosas) en modo acaso","da":"blande","en":"mix, blend, jumble, scramble, intersperse; mingle; shuffle (reorder)"}
+{"T":"r","L":"misca","C":["vt"],"d":"combina (cosas) per forma un masa; reordina (cosas) en modo acaso","da":"blande","de":"mischen","en":"mix, blend, jumble, scramble, intersperse; mingle; shuffle (reorder)"}
 {"L":"misca","C":["n"],"en":"mixture, miscellany, jumble, admixture, hodgepodge, hotchpotch, medley, melange, potpourri"}
 {"L":"misca de razas","C":["n"],"en":"interbreeding, miscegenation"}
 {"L":"desmisca","C":["vt"],"en":"unmix, unscramble"}
@@ -16387,7 +16387,7 @@
 {"L":"Rio Mississippi","C":["n","jeo"],"d":"un rio major en America Norde, cual comensa en Minnesota, prosima a la borda de Canada, e flue a sude asta la Mar Mexico","i":"#","en":"Mississippi River"}
 {"T":"r","L":"Missouri","C":["n","jeo"],"d":"un stato en la rejion sentral de la SUA","en":"Missouri (US state)"}
 {"L":"Rio Missouri","C":["n","jeo"],"d":"un rio major en America Norde, cual comensa en la Montes Rocosa en Montana e fini en la Rio Mississippi en la SUA sentral","i":"#","en":"Missouri River"}
-{"T":"r","L":"misterio","C":["n","arte"],"d":"cualce cosa difisil o nonposible per esplica o comprende; un novela, presenta o filma sur un crimin confondente","da":"mysterium","en":"mystery, enigma; whodunnit"}
+{"T":"r","L":"misterio","C":["n","arte"],"d":"cualce cosa difisil o nonposible per esplica o comprende; un novela, presenta o filma sur un crimin confondente","da":"mysterium","de":"Mysterium","en":"mystery, enigma; whodunnit"}
 {"L":"desmisteri","C":["vnt"],"en":"demystify"}
 {"L":"desmisteri","C":["vt"],"en":"demystify"}
 {"L":"desmisteri","C":["n"],"en":"demystification"}
@@ -16421,13 +16421,13 @@
 {"T":"r","L":"moa","C":["n","avia"],"d":"un avia grande e nonvolante, orijinal de Zeland Nova ma aora estinguida","i":"#","t":"Dinornithidae","en":"moa (bird)"}
 {"T":"r","L":"mobila","C":["n","arci"],"d":"un cosa alga grande ma movable, como un table, seja o leto, usada per fa ce un casa, ofisia o otra spasio conveni per abita o labora","en":"piece of furniture, item of furniture"}
 {"L":"mobila de vaso de note","C":["n"],"en":"commode"}
-{"L":"mobilas","C":["n","pl"],"i":"#","da":"møbel","en":"furniture, furnishings"}
+{"L":"mobilas","C":["n","pl"],"i":"#","da":"møbel","de":"Möbel","en":"furniture, furnishings"}
 {"L":"mobileta","C":["n"],"d":"un ojeto manipulada par atores en un sena","en":"prop"}
 {"L":"mobili","C":["vt"],"en":"furnish"}
 {"L":"remobili","C":["vt"],"en":"refurnish"}
 {"T":"r","L":"moca","C":["n","cos"],"d":"un cafe refinada o otra bevida simil; la color brun oscur de esta cafe","en":"mocha (coffee)"}
 {"T":"r","L":"mocasin","C":["n","vest"],"d":"un sapato de cuoro suave, sin talon, simple coseda, en un stilo de la americanes orijinal","i":"#","en":"moccasin (shoe)"}
-{"T":"r","L":"moda","C":["n","vest","cos","ling","info"],"d":"un tende popular, spesial en stilo de vestes, decora, capeles o condui; un forma cual indica esce un verbo espresa un fato, comanda, demanda, espera o constrinje; la state de un program cual defini como lo va trata sua enflue; la valua la plu frecuente en un colie de datos","da":"mode, tendens","en":"fashion, style, vogue, trend, fad; mood (grammar); mode (software, statistics)"}
+{"T":"r","L":"moda","C":["n","vest","cos","ling","info"],"d":"un tende popular, spesial en stilo de vestes, decora, capeles o condui; un forma cual indica esce un verbo espresa un fato, comanda, demanda, espera o constrinje; la state de un program cual defini como lo va trata sua enflue; la valua la plu frecuente en un colie de datos","da":"mode, tendens","de":"Mode","en":"fashion, style, vogue, trend, fad; mood (grammar); mode (software, statistics)"}
 {"L":"moda de capeles","C":["n"],"en":"hairstyle"}
 {"L":"moda dependente","C":["n"],"en":"conditional mood, irrealis mood"}
 {"L":"moda indicativa","C":["n"],"en":"indicative mood"}
@@ -16442,7 +16442,7 @@
 {"L":"modosa","C":["a"],"en":"fashionable, stylish, chic, groovy, snazzy"}
 {"L":"nonmodosa","C":["a"],"en":"unfashionable, unstylish, dowdy, frumpy"}
 {"T":"r","L":"model","C":["a","util"],"d":"servinte como un esemplo per imita; representante la plu bon de sua tipo","en":"model, exemplary, archetypal"}
-{"L":"model","C":["n"],"da":"mønster","en":"model, prototype, exemplar, example, archetype, pattern, standard, template, paradigm, mock-up; model (art, fashion)"}
+{"L":"model","C":["n"],"da":"mønster","de":"Muster","en":"model, prototype, exemplar, example, archetype, pattern, standard, template, paradigm, mock-up; model (art, fashion)"}
 {"L":"model proportial","C":["n"],"en":"scale model"}
 {"L":"modeli","C":["vt"],"en":"model (make a model of; display clothes)"}
 {"L":"modeli","C":["n"],"en":"modeling|ll"}
@@ -16495,12 +16495,12 @@
 {"T":"r","L":"moisme","C":["n","fil"],"d":"un filosofia xines developada par la seguores de Mozi","p":"moïsme","en":"Mohism (philosophy)"}
 {"L":"moiste","C":["a"],"p":"moïste","en":"Mohist"}
 {"L":"moiste","C":["n"],"en":"Mohist"}
-{"T":"r","L":"mol","C":["a"],"d":"no dur; fasil moldida, cortida, compresada o pliada","v":"suave","da":"blød, eftergivende","en":"soft (not hard or tough), squishy; tender"}
+{"T":"r","L":"mol","C":["a"],"d":"no dur; fasil moldida, cortida, compresada o pliada","v":"suave","da":"blød, eftergivende","de":"weich, hämmerbar","en":"soft (not hard or tough), squishy; tender"}
 {"L":"moli","C":["vnt"],"en":"soften; relent"}
 {"L":"moli","C":["vt"],"en":"soften; tenderize|is"}
 {"L":"molia","C":["n"],"en":"softness"}
 {"T":"r","L":"mol","C":["n","cim"],"d":"un unia internasional de cuantia de materia, egal a la cuantia conteninte tan multe unias fundal como la cuantia de atomes en 0,012 kg de carbono-12","en":"mole (chemistry)"}
-{"T":"r","L":"mola","C":["n","util"],"d":"un aparato, tipal spiral elica metal, cual reveni rapida a sua forma orijinal pos es presada o tirada","i":"#","da":"fjeder (af metal o.lign.)","en":"spring"}
+{"T":"r","L":"mola","C":["n","util"],"d":"un aparato, tipal spiral elica metal, cual reveni rapida a sua forma orijinal pos es presada o tirada","i":"#","da":"fjeder (af metal o.lign.)","de":"Feder (Technik)","en":"spring"}
 {"L":"cargada par mola","C":["a"],"en":"spring-loaded"}
 {"T":"r","L":"mola","C":["n","pex"],"d":"un pex grande de mares calda, con pinas alta dorsal e anal prosima a sua retro, e con coda multe corta","t":"Mola mola","en":"ocean sunfish, common mola"}
 {"T":"r","L":"molda","C":["n","util","cos"],"d":"un contenador vacua cual es usada per formi un materia fondeda como sira o metal cuando lo fri e duri","i":"#","en":"mold|ul, cast (container)"}
@@ -16519,12 +16519,12 @@
 {"L":"moldurador","C":["n"],"i":"#","en":"router (carpentry tool)","fr":"défonceuse"}
 {"T":"r","L":"mole","C":["vt"],"d":"redui (alga cosa) a polvo o particulas peti par crase","da":"male, kværne","en":"grind, pound, pulverize|is, reduce to powder; gnash (teeth)"}
 {"L":"molador","C":["n"],"en":"grinder"}
-{"T":"r","L":"molecula","C":["n","cim"],"d":"un grupo de atomes liada a lunlotra como la unia la plu fundal de un composada cimical capas de partisipa en reatas cimical","da":"molekyle","en":"molecule"}
+{"T":"r","L":"molecula","C":["n","cim"],"d":"un grupo de atomes liada a lunlotra como la unia la plu fundal de un composada cimical capas de partisipa en reatas cimical","da":"molekyle","de":"Molekül","en":"molecule"}
 {"L":"moleculal","C":["a"],"en":"molecular"}
 {"T":"r","L":"molesta","C":["vt","gov"],"d":"ataca o menasa (algun), tipal en modo violente o persistente","en":"molest, harass, harry, hassle"}
 {"L":"molesta","C":["n"],"en":"molestation, harassment"}
 {"T":"r","L":"molibdeno","C":["n","cim"],"d":"la elemento cimical con numero atomal 42, un metal arjentin gris e frajil","s":"Mo","en":"molybdenum (element)"}
-{"T":"r","L":"molin","C":["n","util","arci","anat"],"d":"un aparato per mole gran o otra cosas; un construida conteninte xef un tal aparato; un parte musculosa de la stomaco de un avia, con mures spesa, per moli comedas","da":"mølle","en":"mill; gizzard"}
+{"T":"r","L":"molin","C":["n","util","arci","anat"],"d":"un aparato per mole gran o otra cosas; un construida conteninte xef un tal aparato; un parte musculosa de la stomaco de un avia, con mures spesa, per moli comedas","da":"mølle","de":"Mühle","en":"mill; gizzard"}
 {"L":"molin de carne","C":["n"],"en":"meat grinder"}
 {"L":"molin de gran","C":["n"],"en":"gristmill"}
 {"L":"molin de mano","C":["n"],"en":"handmill, quern"}
@@ -16538,7 +16538,7 @@
 {"T":"r","L":"molotro","C":["n","avia"],"d":"un avia cantante de la mundo nova, con plumas negra e beco relativa corta, cual pone tipal sua ovos en la nido de un otra avia","i":"#","t":"Molothrus","en":"cowbird"}
 {"T":"r","L":"molusco","C":["n","mol"],"d":"un membro de un filo grande de animales nonvertebrato, incluinte polpos, calamares, limasas e caracoles","t":"Mollusca","en":"mollusk|mollusc, shellfish"}
 {"T":"r","L":"molva","C":["n","pex"],"en":"ling"}
-{"T":"r","L":"momento","C":["n"],"d":"un periodo de tempo estrema corta; un punto esata en tempo; la cuantia de move de un cosa, mesurada como sua masa multiplida par sua rapidia; la enerjia ganiada par un cosa movente","da":"øjeblik","en":"moment, instant, jiffy, juncture; momentum"}
+{"T":"r","L":"momento","C":["n"],"d":"un periodo de tempo estrema corta; un punto esata en tempo; la cuantia de move de un cosa, mesurada como sua masa multiplida par sua rapidia; la enerjia ganiada par un cosa movente","da":"øjeblik","de":"Augenblick","en":"moment, instant, jiffy, juncture; momentum"}
 {"L":"de la momento","C":["a"],"en":"of the moment, du jour"}
 {"L":"momento angulo","C":["n"],"en":"angular momentum"}
 {"L":"momento de torse","C":["n"],"en":"torque"}
@@ -16566,7 +16566,7 @@
 {"L":"monceria","C":["n"],"i":"#","en":"monastery, convent, abbey, cloister, nunnery, priory"}
 {"L":"moncin","C":["a"],"en":"monkish"}
 {"L":"moncisme","C":["n"],"en":"monasticism"}
-{"T":"r","L":"mone","C":["n","mone"],"d":"un media de intercambia cual ave la forma de pesos de metal impresada o paperes prometente de un banco sentral","i":"#","da":"penge","en":"money, cash, currency"}
+{"T":"r","L":"mone","C":["n","mone"],"d":"un media de intercambia cual ave la forma de pesos de metal impresada o paperes prometente de un banco sentral","i":"#","da":"penge","de":"Geld","en":"money, cash, currency"}
 {"L":"mone blancida","C":["n"],"en":"laundered money"}
 {"L":"mone de jua","C":["n"],"en":"play money, monopoly money"}
 {"L":"mone falsa","C":["n"],"en":"counterfeit money"}
@@ -16577,7 +16577,7 @@
 {"L":"con mone","C":["av"],"en":"in cash"}
 {"L":"monal","C":["a"],"en":"monetary"}
 {"L":"moneria","C":["n"],"en":"mint (money)"}
-{"L":"moneta","C":["n"],"i":"#","da":"mønt","en":"coin"}
+{"L":"moneta","C":["n"],"i":"#","da":"mønt","de":"Münze","en":"coin"}
 {"T":"r","L":"monedula","C":["n","avia"],"d":"un corvo peti e gris","i":"#","t":"Coloeus monedula","en":"jackdaw"}
 {"T":"r","L":"Mongol","C":["n","jeo"],"c":"Ulanbatar","d":"un pais en Asia este cual inclui la Deserto Gobi, a sude de Sibir e a norde de Jonguo","i":"#","en":"Mongolia"}
 {"L":"mongol","C":["a"],"en":"Mongolian"}
@@ -16647,7 +16647,7 @@
 {"L":"monstro jigante","C":["n"],"en":"behemoth"}
 {"L":"monstrin","C":["a"],"en":"monstrous"}
 {"L":"monstrinia","C":["n"],"en":"monstrosity"}
-{"T":"r","L":"monta","C":["vt"],"d":"senta sur (un animal, bisicle o otra veculo); senta o sta con un gama a cada lado de; (metafor) estende a cada lado de","i":"#","da":"ride, køre, rejse","en":"mount, ride, sit on, straddle"}
+{"T":"r","L":"monta","C":["vt"],"d":"senta sur (un animal, bisicle o otra veculo); senta o sta con un gama a cada lado de; (metafor) estende a cada lado de","i":"#","da":"ride, køre, rejse","de":"reiten","en":"mount, ride, sit on, straddle"}
 {"L":"monta la dorso","C":["v"],"en":"piggyback"}
 {"L":"desmonta","C":["vt"],"en":"dismount"}
 {"L":"montante","C":["a"],"en":"riding, straddling, astride; horseback, on horseback"}
@@ -16657,7 +16657,7 @@
 {"L":"montanial","C":["a"],"d":"pertinente a la montania","en":"mountain, highland"}
 {"L":"montanior","C":["n"],"en":"mountain dweller, highlander, hillbilly"}
 {"L":"montaniosa","C":["a"],"en":"mountainous"}
-{"T":"r","L":"monte","C":["n","tera"],"d":"un area de tera natural levada a un altia grande","i":"#","da":"bjerg","en":"mount, mountain"}
+{"T":"r","L":"monte","C":["n","tera"],"d":"un area de tera natural levada a un altia grande","i":"#","da":"bjerg","de":"Berg","en":"mount, mountain"}
 {"L":"a monte","C":["av"],"en":"up, uphill, upstream, upward, upwards"}
 {"T":"r","L":"Montenegro","C":["n","jeo"],"d":"un otra nom per Tsernagora","i":"Tsernagora","v":"Tsernagora","en":"Montenegro"}
 {"L":"montenegrin","C":["a"],"en":"Montenegrin"}
@@ -16679,10 +16679,10 @@
 {"T":"r","L":"monumento","C":["n","gov","arte"],"d":"un sculta, construida o otra strutur erijeda per onora un person o aveni; un ojeto o parte de un vista o vila cual es fasil per vide e reconose; (metafor) un paso o aveni importante en la developa de alga cosa","i":"#","en":"monument, memorial, landmark, sight; milestone"}
 {"L":"monumento de rocas","C":["n"],"en":"cairn"}
 {"L":"monumental","C":["a"],"en":"monumental, landmark"}
-{"T":"r","L":"mor","C":["a","bio"],"d":"no vivente","da":"død","en":"dead, deceased"}
+{"T":"r","L":"mor","C":["a","bio"],"d":"no vivente","da":"død","de":"tot","en":"dead, deceased"}
 {"L":"mor","C":["n"],"en":"dead person, deceased, casualty"}
 {"L":"moreria","C":["n"],"en":"morgue, mortuary"}
-{"L":"mori","C":["vnt"],"da":"dø","en":"die, perish, pass away"}
+{"L":"mori","C":["vnt"],"da":"dø","de":"sterben","en":"die, perish, pass away"}
 {"L":"mori","C":["vt"],"en":"deaden"}
 {"L":"mori","C":["n"],"en":"death, dying, decease, demise, fatality, casualty, mortality"}
 {"L":"mori de famia","C":["v"],"en":"starve"}
@@ -16696,7 +16696,7 @@
 {"L":"pos mori","C":["a"],"en":"posthumous"}
 {"L":"Mar Mor","C":["n","jeo"],"d":"un lago salosa, bordada a este par Urdun e a ueste par Israel e Filastin","i":"#","en":"Dead Sea"}
 {"T":"r","L":"mora","C":["n","pla","cos"],"d":"un arboreta en familia de rosa; la baca comable de esta","i":"#","t":"Rubus","en":"blackberry (plant, berry)"}
-{"T":"r","L":"moral","C":["a","fil"],"d":"pertinente a la prinsipes de bon e mal condui, e jeneral a la bonia e malia de umanas","da":"moralsk","en":"moral"}
+{"T":"r","L":"moral","C":["a","fil"],"d":"pertinente a la prinsipes de bon e mal condui, e jeneral a la bonia e malia de umanas","da":"moralsk","de":"moralisch","en":"moral"}
 {"L":"moralia","C":["n"],"en":"morality, morals"}
 {"L":"moralisme","C":["n"],"en":"moralism, moralizing|is, priggery"}
 {"L":"moraliste","C":["a"],"en":"moralistic, sanctimonious, self-righteous, priggish, puritanical"}
@@ -16710,7 +16710,7 @@
 {"T":"r","L":"morbilio","C":["n","med"],"d":"un maladia virusal e comunicable cual causa febre e erutas roja sur la pel, tipal aveninte en enfantia","i":"#","en":"measles"}
 {"T":"r","L":"morbosa","C":["a","med"],"d":"con natur de maladia o indicante maladia; interesada sur temas disturbante e nonplasente, spesial maladia e moria","en":"morbid"}
 {"L":"morbosia","C":["n"],"en":"morbidity"}
-{"T":"r","L":"morde","C":["vt"],"d":"usa la dentes per talia o corti (alga cosa) per feri, mata o come lo","i":"#","da":"bide","en":"bite"}
+{"T":"r","L":"morde","C":["vt"],"d":"usa la dentes per talia o corti (alga cosa) per feri, mata o come lo","i":"#","da":"bide","de":"beissen","en":"bite"}
 {"L":"morde de pulga","C":["n"],"en":"fleabite"}
 {"L":"morde de serpente","C":["n"],"en":"snakebite"}
 {"L":"supramorde","C":["n"],"en":"overbite"}
@@ -16756,13 +16756,13 @@
 {"L":"Streta Mosambic","C":["n","jeo"],"d":"un streta entre Mosambic e Madagasicara","i":"#","en":"Mozambique Channel"}
 {"T":"r","L":"mosarabi","C":["a","dem"],"en":"Mozarabic"}
 {"L":"mosarabi","C":["n"],"en":"Mozarab"}
-{"T":"r","L":"mosca","C":["n","ins"],"d":"un inseto volante de un ordina grande, con du alas diafana e un boca spesialida per suca","i":"#","t":"Brachycera","da":"flue","en":"fly (insect)"}
+{"T":"r","L":"mosca","C":["n","ins"],"d":"un inseto volante de un ordina grande, con du alas diafana e un boca spesialida per suca","i":"#","t":"Brachycera","da":"flue","de":"Fliege","en":"fly (insect)"}
 {"L":"mosca de carne","C":["n","ins"],"en":"blowfly"}
 {"L":"mosca de casa","C":["n","ins"],"en":"housefly"}
 {"L":"mosca scorpionin","C":["n","ins"],"d":"un inseto semblante un mosceta, ma no un mosca vera, de cual la mas ave jenitales cual sembla la picador de un scorpion","i":"#","t":"Mecoptera","en":"scorpion fly"}
 {"L":"mosca serpentin","C":["n","ins"],"d":"un inseto carnivor, ma no un mosca vera, con testa grande e colo curva, semblante un serpente","t":"Raphidioptera","en":"snakefly"}
 {"L":"Mosca","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Musca (constellation)"}
-{"L":"mosceta","C":["n","ins"],"d":"un mosca multe peti, tipal videda en manadas prosima a acua","i":"#","t":"Nematocera","da":"myg","en":"midge, gnat"}
+{"L":"mosceta","C":["n","ins"],"d":"un mosca multe peti, tipal videda en manadas prosima a acua","i":"#","t":"Nematocera","da":"myg","de":"Moskito","en":"midge, gnat"}
 {"T":"r","L":"moscete","C":["n","util"],"d":"un fusil lejera de antecarga, con cano longa e tipal lisa","i":"#","en":"musket (gun)"}
 {"L":"mosceti","C":["vt"],"en":"shoot with a musket"}
 {"L":"mosceti","C":["n"],"en":"musketry"}
@@ -16770,8 +16770,8 @@
 {"T":"r","L":"moscito","C":["n","ins"],"d":"un familia de moscetas de cual multe spesies morde, suca sangue e transmete baterias","i":"#","t":"Culicidae","en":"mosquito, gnat"}
 {"T":"r","L":"moscovio","C":["n","cim"],"d":"la elemento cimical con numero atomal 115","s":"Mc","en":"moscovium (element)"}
 {"T":"r","L":"Moscva","C":["n","jeo"],"d":"la site capital de Rusia","en":"Moscow"}
-{"T":"r","L":"mostarda","C":["n","pla","cos"],"d":"un planta con flores jala; un pasta jala o brun, preparada de la semes craseda de esta planta, usada como un spise","i":"#","t":"Brassica hirta, nigra, juncea","da":"sennep","en":"mustard"}
-{"T":"r","L":"mostra","C":["vt"],"d":"permete o fa ce (alga cosa) es vidable; ofre, esibi, presenta o produi (alga cosa) per oserva o esamina","da":"vise, udstille","en":"show, exhibit, display, reveal, demonstrate, illustrate"}
+{"T":"r","L":"mostarda","C":["n","pla","cos"],"d":"un planta con flores jala; un pasta jala o brun, preparada de la semes craseda de esta planta, usada como un spise","i":"#","t":"Brassica hirta, nigra, juncea","da":"sennep","de":"Senf","en":"mustard"}
+{"T":"r","L":"mostra","C":["vt"],"d":"permete o fa ce (alga cosa) es vidable; ofre, esibi, presenta o produi (alga cosa) per oserva o esamina","da":"vise, udstille","de":"zeigen","en":"show, exhibit, display, reveal, demonstrate, illustrate"}
 {"L":"mostra","C":["n"],"en":"exhibition, illustration, audition, demonstration, demo, sample, manifestation"}
 {"L":"mostra e dise","C":["v"],"en":"show and tell"}
 {"L":"mostra e dise","C":["n"],"en":"show and tell"}
@@ -16803,15 +16803,15 @@
 {"L":"desmotiva","C":["n"],"en":"disincentive"}
 {"L":"motivante","C":["a"],"en":"motivating, motivational"}
 {"T":"r","L":"moto-","C":["pf","tecn"],"d":"motorida, propulsada par motor","en":"motor-"}
-{"T":"r","L":"motor","C":["n","util"],"d":"un macina cual furni la potia per move un veculo o per opera un otra macina con partes movente","i":"#","da":"motor, maskine","en":"motor, engine"}
+{"T":"r","L":"motor","C":["n","util"],"d":"un macina cual furni la potia per move un veculo o per opera un otra macina con partes movente","i":"#","da":"motor, maskine","de":"Motor","en":"motor, engine"}
 {"L":"motor de combusta interna","C":["n"],"en":"internal combustion engine"}
 {"L":"motor esterna","C":["n"],"en":"outboard motor"}
 {"L":"motor interna","C":["n"],"en":"inboard motor"}
 {"L":"motori","C":["vt"],"en":"motorize|is"}
 {"L":"motorisme","C":["n"],"d":"la ativia o pasatempo de dirije un veculo motorida","en":"motoring, driving"}
 {"L":"motoriste","C":["n"],"en":"motorist, driver"}
-{"T":"r","L":"move","C":["vnt"],"d":"vade en un modo o dirije spesifada; cambia sua loca o posa","da":"bevæge, flytte","en":"move, shift, budge"}
-{"L":"move","C":["vt"],"d":"fa ce alga cosa cambia sua loca o posa","en":"move, shift, propel, transfer; shovel (snow, soil, etc.)"}
+{"T":"r","L":"move","C":["vnt"],"d":"vade en un modo o dirije spesifada; cambia sua loca o posa","da":"bevæge, flytte","de":"sich bewegen","en":"move, shift, budge"}
+{"L":"move","C":["vt"],"d":"fa ce alga cosa cambia sua loca o posa","de":"bewegen","en":"move, shift, propel, transfer; shovel (snow, soil, etc.)"}
 {"L":"move","C":["n"],"en":"movement, move, motion, locomotion; movement (music)"}
 {"L":"move ajitada","C":["v"],"en":"fidget"}
 {"L":"move caracolin","C":["v"],"en":"move at a snail's pace, crawl along"}
@@ -16875,8 +16875,8 @@
 {"L":"mulor","C":["n"],"en":"muleteer"}
 {"T":"r","L":"multa","C":["vt","mone","gov"],"d":"puni (algun) par fa ce el paia un cuantia de mone, tipal per un ata criminal","en":"fine, penalize"}
 {"L":"multa","C":["n"],"en":"fine, penalty, ticket, forfeit, forfeiture"}
-{"T":"r","L":"multe","C":["d"],"d":"un cuantia grande de","da":"mange, meget","en":"many, much, numerous, myriad, a host of, a multitude of"}
-{"L":"multe","C":["av"],"d":"a grado forte","da":"meget (grad)","en":"very, really, greatly"}
+{"T":"r","L":"multe","C":["d"],"d":"un cuantia grande de","da":"mange, meget","de":"viel, viele","en":"many, much, numerous, myriad, a host of, a multitude of"}
+{"L":"multe","C":["av"],"d":"a grado forte","da":"meget (grad)","de":"viel, sehr","en":"very, really, greatly"}
 {"L":"multe","C":["pron"],"en":"much, many (singular or plural)"}
 {"L":"multes","C":["pron","pl"],"en":"(people or things, optional plural pronoun)"}
 {"L":"multe min","C":["a"],"en":"many fewer, much less"}
@@ -16913,7 +16913,7 @@
 {"L":"multiple","C":["av"],"en":"multiply"}
 {"L":"multiple","C":["n"],"en":"multiple (number)"}
 {"L":"multipli","C":["vnt"],"en":"become multiple"}
-{"L":"multipli","C":["vt"],"da":"gange, multiplicere","en":"multiply"}
+{"L":"multipli","C":["vt"],"da":"gange, multiplicere","de":"multiplizieren","en":"multiply"}
 {"L":"multipli","C":["n"],"en":"multiplication; product"}
 {"L":"multiplida","C":["n"],"en":"multiplicand"}
 {"L":"multiplida par","C":["prep"],"en":"multiplied by, times"}
@@ -16933,7 +16933,7 @@
 {"T":"r","L":"multivalente","C":["a"],"d":"con multe aplicas, sinifias o valuas","en":"multivalent"}
 {"T":"r","L":"multivariante","C":["a","mat"],"d":"con plu ca un cuantia variable","en":"multivariate, multivariant"}
 {"T":"r","L":"multiverso","C":["n","fis"],"d":"un colie ipotesal de universos posible, incluinte lo cual nos abita","en":"multiverse"}
-{"T":"r","L":"mundo","C":["n"],"d":"la Tera, con tota sua paises, poplas e partes natural; un parte spesifada de esta, como la mundo antica, la mundo de animales, o un mundo de ideas strana; un otra planeta simil a la Tera; la fenomeno de interatas sosial umana","da":"verden","en":"world"}
+{"T":"r","L":"mundo","C":["n"],"d":"la Tera, con tota sua paises, poplas e partes natural; un parte spesifada de esta, como la mundo antica, la mundo de animales, o un mundo de ideas strana; un otra planeta simil a la Tera; la fenomeno de interatas sosial umana","da":"verden","de":"Welt","en":"world"}
 {"L":"mundo consumiste","C":["n"],"en":"material world"}
 {"L":"mundo de sonia","C":["n"],"en":"dream world"}
 {"L":"de la mundo","C":["a"],"en":"cosmopolitan"}
@@ -16947,7 +16947,7 @@
 {"L":"munisipal","C":["n"],"en":"municipal, civic"}
 {"T":"r","L":"munster","C":["n","cos"],"d":"un ceso mol de Frans norde-este","en":"munster, muenster (cheese)"}
 {"T":"r","L":"muon","C":["n","fis"],"d":"un particula suatomal e nonstable en la mesma clase como un eletron, ma con masa plu grande a sirca 200 veses","en":"muon (particle)"}
-{"T":"r","L":"mur","C":["n","arci"],"d":"un lado vertical de un construida o sala; un strutur vertical e continuante de brices o petras cual ensirca o divide un area de tera; alga cosa usada como un parador per proteje o restrinje","i":"#","da":"væg","en":"wall; bulkhead (ship)"}
+{"T":"r","L":"mur","C":["n","arci"],"d":"un lado vertical de un construida o sala; un strutur vertical e continuante de brices o petras cual ensirca o divide un area de tera; alga cosa usada como un parador per proteje o restrinje","i":"#","da":"væg","de":"Wand, Mauer","en":"wall; bulkhead (ship)"}
 {"L":"mur contra esplodes","C":["n"],"en":"blast wall"}
 {"L":"muraliste","C":["n"],"en":"muralist (artist)"}
 {"L":"mureta","C":["n"],"d":"un mur interna e lejera; un surfas vertical sur cual on afisa paperes o scrive","en":"partition; board"}
@@ -16963,7 +16963,7 @@
 {"T":"r","L":"murmura","C":["vnt"],"d":"produi un sona tan cuieta o basa ce lo es cuasi nonoiable","en":"murmur, mumble, burble"}
 {"L":"murmura","C":["vt"],"en":"murmur, mumble, burble"}
 {"L":"murmura","C":["n"],"en":"murmur, mumble, burble"}
-{"T":"r","L":"mus","C":["n","mam","info"],"d":"un rodente peti con beco puntida, oreas e oios grande, e coda longa; un aparato peti cual on manipula per interata con un cursor a la scermo de un computador","i":"#, mus-de-computador","t":"Mus","da":"mus","en":"mouse"}
+{"T":"r","L":"mus","C":["n","mam","info"],"d":"un rodente peti con beco puntida, oreas e oios grande, e coda longa; un aparato peti cual on manipula per interata con un cursor a la scermo de un computador","i":"#, mus-de-computador","t":"Mus","da":"mus","de":"Maus","en":"mouse"}
 {"L":"musin","C":["a"],"en":"mouselike, mousy"}
 {"T":"r","L":"musa","C":["n","mit"],"d":"cualce de nove divas, fias de Zeus e Mnemosine, ci representa la artes e siensas; un person ci inspira un artiste","en":"muse"}
 {"T":"r","L":"musaca","C":["n","cos"],"d":"un plato elinica de melonjena, tomates e oveta axida a picos, fornida o fritada, con salsa de ceso","en":"moussaka (food)"}
@@ -16973,7 +16973,7 @@
 {"T":"r","L":"muscatel","C":["n","pla","cos"],"d":"un varia de uva con odor muscosa; un vino fada de esta","en":"muscat, muscatel (grape, wine)"}
 {"T":"r","L":"musco","C":["n","mam"],"d":"un mamal peti, solitar e servin de Asia, sin cornos, ma con dentones longa; un materia rojin brun con odor forte, secreteda par la musco mas, e usada en crea parfumes; un materia simil de otra animales","i":"#","t":"Moschus","en":"musk deer; musk"}
 {"L":"muscosa","C":["a"],"en":"musky"}
-{"T":"r","L":"musculo","C":["n","anat"],"d":"un banda o faxo de texeda fibrosa en la corpo de un animal, capas de contrae per move o manteni la posa de partes de corpo","da":"muskel","en":"muscle"}
+{"T":"r","L":"musculo","C":["n","anat"],"d":"un banda o faxo de texeda fibrosa en la corpo de un animal, capas de contrae per move o manteni la posa de partes de corpo","da":"muskel","de":"Muskel","en":"muscle"}
 {"L":"musculal","C":["a"],"en":"muscular"}
 {"L":"musculor","C":["n"],"en":"muscleman, strongman, he-man"}
 {"L":"musculos","C":["n","pl"],"en":"muscles, musculature"}
@@ -16983,8 +16983,8 @@
 {"T":"r","L":"muse","C":["n","cos"],"d":"un comeda lejera, preparada de crema e blanca de ovo bateda; cualce cosa con densia simil, tipal usada per lava o per stili capeles","en":"mousse (food)"}
 {"T":"r","L":"muselina","C":["n","vest"],"d":"un stofa de coton multe lejera e simple texeda","en":"muslin (fabric)"}
 {"L":"de muselina","C":["a"],"en":"(made of) muslin"}
-{"T":"r","L":"museo","C":["n","arci"],"d":"un construida en cual on conserva e esibi ojetos de interesa istorial, siensal, artiste o cultural","i":"#","da":"museum","en":"museum"}
-{"T":"r","L":"musica","C":["n","mus"],"d":"sonas de vose o strumentos, combinada en modo bela, armoniosa e emosial espresosa; un pasaje de esta","da":"musik","en":"music"}
+{"T":"r","L":"museo","C":["n","arci"],"d":"un construida en cual on conserva e esibi ojetos de interesa istorial, siensal, artiste o cultural","i":"#","da":"museum","de":"Museum","en":"museum"}
+{"T":"r","L":"musica","C":["n","mus"],"d":"sonas de vose o strumentos, combinada en modo bela, armoniosa e emosial espresosa; un pasaje de esta","da":"musik","de":"Musik","en":"music"}
 {"L":"musica de asendador","C":["n"],"en":"muzak, elevator music, lift music"}
 {"L":"musica de folclor","C":["n"],"en":"folk music"}
 {"L":"musica de salon","C":["n"],"en":"chamber music"}
@@ -17023,7 +17023,7 @@
 {"L":"mutajen","C":["n"],"en":"mutagen"}
 {"T":"r","L":"mutila","C":["vt","uma"],"d":"malformi (un person o cosa) par feri o dana","en":"mutilate, mangle"}
 {"L":"mutila","C":["n"],"en":"mutilation"}
-{"T":"r","L":"mutua","C":["a","uma"],"d":"esperiada o fada par cada de du o plu persones o grupos a lunlotra","da":"gensidig","en":"mutual, reciprocal"}
+{"T":"r","L":"mutua","C":["a","uma"],"d":"esperiada o fada par cada de du o plu persones o grupos a lunlotra","da":"gensidig","de":"gegenseitig","en":"mutual, reciprocal"}
 {"L":"mutua","C":["av"],"en":"mutually, reciprocally, to each other, to one another"}
 {"L":"mutui","C":["vnt"],"en":"mutualize|is"}
 {"L":"mutui","C":["vt"],"en":"mutualize|is"}
