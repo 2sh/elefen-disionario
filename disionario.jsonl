@@ -4482,7 +4482,7 @@
 {"L":"capsuli","C":["n"],"en":"encapsulation","he":"כמיסה, עטיפה, סגירה (בקפסולה); (מחשבים) כימוס"}
 {"T":"r","L":"caputxin","C":["n","mam"],"d":"un simia de America Sude con un xapeta de capeles cual sembla un capeta","i":"#","t":"Cebus","en":"capuchin (monkey)","he":"קפוצ'ין (קוף)"}
 {"T":"r","L":"caputxino","C":["n","cos"],"d":"cafe preparada con lete cual on ia spuma con vapor compresada","en":"cappuccino (coffee)","he":"קפוצ'ינו, קפה הפוך"}
-{"T":"r","L":"car","C":["sj"],"d":"par causa ce","n":"`Car` indica la causa; `afin` indica la intende.","u":"me surie car me es felis","v":"afin","da":"fordi","en":"because, cos, as, since, for","he":"כי, בגלל ש, מכיוון ש, מאחר ש, משום ש"}
+{"T":"r","L":"car","C":["sj"],"d":"par causa ce","n":"`Car` indica la causa; `afin` indica la intende.","u":"me surie car me es felis","v":"afin","da":"fordi","de":"weil","en":"because, cos, as, since, for","he":"כי, בגלל ש, מכיוון ש, מאחר ש, משום ש"}
 {"T":"r","L":"cara","C":["a"],"d":"regardada con ama o aminia; usada en la forma cortes de nomi la lejor a la comensa de un letera; custosa","da":"dyr, kær; kostbar","de":"lieb; teuer, kostspielig","en":"dear, beloved, cherished, darling, cute; expensive, costly, pricey","he":"יקיר, אהוב; יקר"}
 {"L":"cara","C":["n"],"en":"dear, beloved, darling","he":"יקיר, אהוב"}
 {"L":"cari","C":["vnt"],"en":"become endeared","he":"להתחבב"}
@@ -4879,7 +4879,7 @@
 {"L":"causal","C":["a"],"en":"causal","he":"סיבתי"}
 {"L":"causalia","C":["n"],"en":"causality","he":"סיבתיות"}
 {"L":"par causa ce","C":["sj"],"en":"because","he":"כי, בגלל ש, מכיוון ש, מאחר ש, משום ש"}
-{"L":"par causa de","C":["prep"],"en":"because of, due to, owing to, thanks to","he":"בגלל, עקב, בשל, הודות ל"}
+{"L":"par causa de","C":["prep"],"de":"wegen","en":"because of, due to, owing to, thanks to","he":"בגלל, עקב, בשל, הודות ל"}
 {"T":"r","L":"cauta","C":["a"],"d":"atendente problemes o periles posible, per evita los","da":"forsigtighed, påpasselighed","en":"cautious, careful, wary, prudent, heedful, conservative, circumspect","he":"זהיר, שקול"}
 {"L":"cautia","C":["n"],"de":"Vorsicht","en":"caution, carefulness, prudence, discretion, heedfulness","he":"זהירות, שיקול-דעת"}
 {"L":"noncauta","C":["a"],"en":"impulsive, foolhardy, rash, heedless, hare-brained","he":"פזיז, נמהר, אימפולסיבי"}
@@ -5084,7 +5084,7 @@
 {"T":"r","L":"ciropratica","C":["n","med"],"d":"un sistem de medica alternativa cual diagnose malalinias de la juntas, spesial de la spina dorsal, e trata los par manipula","en":"chiropractic, chiropraxis","he":"כירופרקטיקה"}
 {"L":"ciropraticor","C":["n"],"en":"chiropractor","he":"כירופרקט"}
 {"T":"r","L":"cirotero","C":["n","mam"],"d":"un mamal noturna capas de vole, con alas membranosa","i":"#","t":"Chiroptera","en":"bat (animal)","he":"עטלף"}
-{"T":"r","L":"cisa","C":["av"],"d":"espresante ce un declara es nonserta o mera un posible, o ajuntante cortesia a un sujesta o solisita","da":"måske, muligvis","en":"maybe, perhaps, possibly","he":"אולי, יתכן"}
+{"T":"r","L":"cisa","C":["av"],"d":"espresante ce un declara es nonserta o mera un posible, o ajuntante cortesia a un sujesta o solisita","da":"måske, muligvis","de":"vielleicht","en":"maybe, perhaps, possibly","he":"אולי, יתכן"}
 {"T":"r","L":"citina","C":["n","bio"],"d":"un materia fibrosa, composada de polisacaridos, e forminte la composante major de la esosceleto de artropodos e la mures de la selulas de fungos","en":"chitin (substance)","he":"(ביולוגיה) כיטין"}
 {"L":"citinosa","C":["a"],"en":"chitinous","he":"שעשוי מכיטין"}
 {"T":"r","L":"citon","C":["n","ist","vest"],"d":"un camison de lana, usada en Elas antica","en":"chiton (garment)","he":"כיתון (טוניקה יוונית)"}
@@ -7092,7 +7092,7 @@
 {"T":"r","L":"cuadrante","C":["n","mat"],"d":"cada de la cuatro cuatris de un sirculo; cada de la cuatro partes de cualce corpo divideda par du linias o planas a angulos reta; (istorial) un aparato per mesura angulos de altia en astronomia e naviga","en":"quadrant","he":"רביע"}
 {"T":"r","L":"cuadrilia","C":["n","mus"],"d":"un dansa cuadro par cuatro duples, con sinco partes de cual cada es un dansa completa; un musica per esta","en":"quadrille (dance, music)","he":"קוודריל (ריקוד)"}
 {"T":"r","L":"cuadro","C":["a","mat"],"d":"(un forma) con cuatro lados reta de la mesma longia e cuatro angulos reta","en":"square, check","he":"ריבוע, משבצת"}
-{"L":"cuadro","C":["n"],"en":"square, check","he":"ריבוע, משבצת"}
+{"L":"cuadro","C":["n"],"de":"Quadrat, Viereck","en":"square, check","he":"ריבוע, משבצת"}
 {"L":"cuadrador","C":["n"],"en":"set square, carpenter's square","he":"זוויתן נגרים"}
 {"L":"Cuadrador","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Norma (constellation)","he":"סרגל (קבוצת כוכבים)"}
 {"L":"cuadral","C":["a"],"en":"quadratic, square (root)","he":"ריבועי"}
@@ -7709,8 +7709,8 @@
 {"T":"r","L":"demonim","C":["a","uma"],"d":"pertinente a la nom de un popla usada par la popla mesma","en":"demonymic","he":"מתייחס לשם שעם קורא לעצמו"}
 {"L":"demonim","C":["n"],"en":"demonym","he":"השם שעם קורא לעצמו"}
 {"T":"r","L":"demonolojia","C":["n","rel","mit"],"d":"la studia de demones o la crede ce los esiste","en":"demonology","he":"דמונולוגיה"}
-{"T":"r","L":"demostra","C":["vt","fil"],"d":"mostra la veria o esiste de (alga cosa) par atesta o razona","da":"bevise","en":"prove","fr":"démontrer, prouver","he":"להוכיח"}
-{"L":"demostra","C":["n"],"da":"bevis","en":"proof","fr":"démonstration, preuve","he":"הוכחה"}
+{"T":"r","L":"demostra","C":["vt","fil"],"d":"mostra la veria o esiste de (alga cosa) par atesta o razona","da":"bevise","de":"beweisen","en":"prove","fr":"démontrer, prouver","he":"להוכיח"}
+{"L":"demostra","C":["n"],"da":"bevis","de":"Beweis","en":"proof","fr":"démonstration, preuve","he":"הוכחה"}
 {"L":"demostra empirical","C":["n"],"en":"empirical proof","fr":"démonstration empirique","he":"הוכחה אמפירית"}
 {"L":"demostrable","C":["a"],"en":"provable","fr":"démontrable, prouvable","he":"בר הוכחה"}
 {"L":"demostrablia","C":["n"],"en":"provability","he":"היכולת להוכיח"}
@@ -9247,7 +9247,7 @@
 {"T":"r","L":"emprende","C":["vt","mone","gov"],"d":"dedica se a (un taxe o encarga) e comensa lo","en":"undertake, take on, take over"}
 {"L":"emprende","C":["n"],"en":"undertaking, venture, enterprise (project)"}
 {"L":"emprendor","C":["n"],"en":"entrepreneur"}
-{"T":"r","L":"empresta","C":["vt","mone"],"d":"prende e usa (un cosa cual parteni a un otra person) con intende de redona lo a pos; prende e usa (mone) de un person o banco, con acorda ce on va repaia lo","da":"låne (fra)","en":"borrow"}
+{"T":"r","L":"empresta","C":["vt","mone"],"d":"prende e usa (un cosa cual parteni a un otra person) con intende de redona lo a pos; prende e usa (mone) de un person o banco, con acorda ce on va repaia lo","da":"låne (fra)","de":"borgen","en":"borrow"}
 {"L":"emprestor","C":["n"],"en":"borrower"}
 {"T":"r","L":"emu","C":["n","avia"],"d":"un avia grande de Australia, capas de core rapida ma no de vola, simil a un astruzo","i":"#","t":"Dromaius novaehollandiae","en":"emu (bird)"}
 {"T":"r","L":"emulsion","C":["n","cim"],"d":"un sperde de gotas pico de un licuida en un otra en cual lo no es disolvable o miscable","en":"emulsion"}
@@ -10586,7 +10586,7 @@
 {"L":"nonfavorable","C":["a"],"en":"unfavorable|ur"}
 {"L":"nonfavoreda","C":["n"],"en":"underdog"}
 {"L":"nonfavorente","C":["a"],"en":"unflattering (garment)"}
-{"L":"per favore","C":["esc"],"da":"vær så venlig","en":"please","fr":"s'il vous plait"}
+{"L":"per favore","C":["esc"],"da":"vær så venlig","de":"bitte","en":"please","fr":"s'il vous plait"}
 {"T":"r","L":"fax","C":["n","util","info"],"d":"un imaje de un documento creada par scane eletronical e telecomunica","en":"fax","fr":"fax"}
 {"L":"faxador","C":["n"],"en":"fax machine","fr":"télécopieur"}
 {"T":"r","L":"faxa","C":["n","arci"],"d":"un plance orizonal de lenio o otra materia, tipal usada per covre otra partes de un strutur","en":"fascia, planking, plating, horizontal band","fr":"planche, bandeau, placage"}
@@ -12786,7 +12786,7 @@
 {"L":"imobilor","C":["n"],"en":"landowner, property owner"}
 {"T":"r","L":"impala","C":["n","mam"],"d":"un antilope de Africa este e sude, con moves refinada e cornos curva como un lira","i":"#","t":"Aepyceros melampus","en":"impala (antelope)","eo":"impalo"}
 {"T":"r","L":"impasto","C":["n","arte"],"d":"la tecnica de aplica un pinta tan densa ce lo protende de un surfas","en":"impasto (painting technique)"}
-{"T":"r","L":"impedi","C":["vt"],"d":"bloci (un person o cosa) per retarda o para el o lo","en":"impede, hinder, prevent, hamper, deter, preclude, thwart; obstruct, block, congest, be in the way","eo":"malhelpi, obstrukci"}
+{"T":"r","L":"impedi","C":["vt"],"d":"bloci (un person o cosa) per retarda o para el o lo","de":"verhindern","en":"impede, hinder, prevent, hamper, deter, preclude, thwart; obstruct, block, congest, be in the way","eo":"malhelpi, obstrukci"}
 {"L":"impedi","C":["n"],"en":"blockade, obstacle, congestion, obstruction, impediment, hindrance","eo":"malhelpo, obstrukco"}
 {"L":"impedida","C":["a"],"en":"congested","eo":"obstrukcita, ŝtopita"}
 {"L":"impedinte","C":["a"],"en":"impeding, hindering, inimical"}
@@ -14164,7 +14164,7 @@
 {"L":"a lado de via","C":["a"],"en":"roadside, by the roadside"}
 {"L":"a la otra lado","C":["av"],"en":"on the other hand"}
 {"L":"a lado","C":["av"],"en":"at the side, to the side; to one side, aside, sideways"}
-{"L":"a lado de","C":["prep"],"en":"beside, next to, alongside, by"}
+{"L":"a lado de","C":["prep"],"de":"neben, bei","en":"beside, next to, alongside, by"}
 {"L":"a un lado","C":["av"],"en":"on the one hand"}
 {"L":"con lado a lado","C":["av"],"en":"side by side, abreast; neck and neck"}
 {"L":"a lado de lunlotra","C":["av"],"en":"next to each other, side by side"}
@@ -14261,7 +14261,7 @@
 {"T":"r","L":"laparotomio","C":["n","med"],"d":"un talia sirurjial en la mur de la adomen, cual permete diagnose o sirurjia","en":"laparotomy (medical)"}
 {"T":"r","L":"lapidario","C":["a"],"d":"pertinente a la atas de grava, talia o brilia petras o jemes","en":"lapidary"}
 {"L":"lapidario","C":["n"],"en":"lapidary (gem worker)"}
-{"T":"r","L":"lapis","C":["n"],"d":"un strumento de grafito e lenio o metal per scrive o desinia","i":"#","da":"blyant","en":"pencil"}
+{"T":"r","L":"lapis","C":["n"],"d":"un strumento de grafito e lenio o metal per scrive o desinia","i":"#","da":"blyant","de":"Bleistift","en":"pencil"}
 {"L":"lapis colorida","C":["n"],"en":"colored|ur pencil, coloring|ur pencil"}
 {"T":"r","L":"Laptev, Mar","C":["n","jeo"],"d":"un mar a norde de Sibir sentral","i":"Mar-Laptev","en":"Laptev Sea"}
 {"T":"r","L":"lardo","C":["n","cos"],"d":"carne preparada de la dorso o lados de un porco","i":"#","en":"bacon"}
@@ -14873,7 +14873,7 @@
 {"T":"r","L":"litica","C":["a"],"d":"pertinente a petra","en":"lithic"}
 {"L":"-litica","C":["sf"],"d":"pertinente a petra","en":"-lithic"}
 {"T":"r","L":"litiga","C":["vt","gov"],"d":"prende (un alega o disputa) a un corte legal; comensa un prosede legal contra (algun)","en":"litigate, prosecute, sue, take to court, arraign, try, proceed against"}
-{"L":"litiga","C":["n"],"da":"retsag","en":"litigation, suit, lawsuit, trial, prosecution, case (law)","eo":"proceso","es":"proceso (juicio)","pt":"judicial, processo judicial, processo legal, ação"}
+{"L":"litiga","C":["n"],"da":"retsag","de":"Prozess","en":"litigation, suit, lawsuit, trial, prosecution, case (law)","eo":"proceso","es":"proceso (juicio)","pt":"judicial, processo judicial, processo legal, ação"}
 {"L":"litiga falsa","C":["n"],"en":"mock trial"}
 {"L":"litiga nonconcluinte","C":["n"],"en":"mistrial"}
 {"L":"litigable","C":["a"],"en":"accountable, responsible, actionable"}
@@ -17677,7 +17677,7 @@
 {"T":"r","L":"nuga","C":["n","cos"],"d":"un confeto composada de zucar o miel, nozas e blancas de ovos","en":"nougat (confectionery)"}
 {"T":"r","L":"numatico","C":["n","util"],"d":"un covre de cauxo, normal inflada o ensircante un tubo interna inflada, poneda sirca un rota per formi un contata flexable con la via","i":"#","en":"tire|tyre"}
 {"T":"r","L":"numeno","C":["n","fil"],"d":"un cosa mesma, distinguida de se como on conose lo par la sensas","en":"noumenon (philosophy)"}
-{"T":"r","L":"numero","C":["n","mat"],"d":"la valua aritmetical de un parola, simbol o figur, representante un cuantia astrata e usada per calcula, per identifia, o per mostra ordina en un serie; (en gramatica) un parola de esta tipo","n":"No usa `numero` per dise `cuantia`. 40 es un numero, ma 40 persones es un cuantia.","v":"cuantia","da":"nummer","de":"Nummer, Zahl","en":"number (in sequence); numeral (grammar); issue, edition (periodical); item, entry (in list)"}
+{"T":"r","L":"numero","C":["n","mat"],"d":"la valua aritmetical de un parola, simbol o figur, representante un cuantia astrata e usada per calcula, per identifia, o per mostra ordina en un serie; (en gramatica) un parola de esta tipo","n":"No usa `numero` per dise `cuantia`. 40 es un numero, ma 40 persones es un cuantia.","v":"cuantia","da":"nummer","de":"Nummer, Zahl; Ausgabe","en":"number (in sequence); numeral (grammar); issue, edition (periodical); item, entry (in list)"}
 {"L":"numero de sinia","C":["n"],"en":"character number, code position, code point, code number (software)"}
 {"L":"numero duable","C":["n"],"en":"even number"}
 {"L":"numero natural","C":["n"],"en":"natural number, whole number"}
@@ -19409,13 +19409,13 @@
 {"T":"r","L":"pectina","C":["n","cim"],"d":"un polisacarido jelatin, trovada en frutas matur","en":"pectin (substance)"}
 {"T":"r","L":"pedagojia","C":["n"],"d":"la metodo e pratica de ensenia, tipal como un sujeto academial o conseta teorial","en":"pedagogy"}
 {"L":"pedagojial","C":["a"],"en":"pedagogic, pedagogical"}
-{"T":"r","L":"pedal","C":["n","util"],"d":"un lever operada par un pede, usada per controla o propulsa un veculo, aparato o strumento","i":"#","da":"pedal","en":"pedal"}
+{"T":"r","L":"pedal","C":["n","util"],"d":"un lever operada par un pede, usada per controla o propulsa un veculo, aparato o strumento","i":"#","da":"pedal","de":"Pedal","en":"pedal"}
 {"L":"pedali","C":["vt"],"en":"pedal"}
 {"T":"r","L":"pedante","C":["a","uma"],"d":"tro atendente a detalias e regulas minor","en":"pedantic, fussy"}
 {"L":"pedante","C":["n"],"en":"pedant, nitpicker"}
 {"L":"es pedante","C":["v"],"en":"be pedantic, quibble, split hairs, nitpick"}
 {"L":"pedantia","C":["n"],"en":"pedantry, nitpicking, pettifogging"}
-{"T":"r","L":"pede","C":["n","anat"],"d":"la parte la plu basa de la gama, su la talo, sur cual un person sta o pasea; la organo simil en otra animales; la funda simil de un vaso o vitro; la parte simil de un table; un mesura de longia egal a 30,48 cm; un unia de metre en poesia","i":"#","da":"fod","en":"foot, base"}
+{"T":"r","L":"pede","C":["n","anat"],"d":"la parte la plu basa de la gama, su la talo, sur cual un person sta o pasea; la organo simil en otra animales; la funda simil de un vaso o vitro; la parte simil de un table; un mesura de longia egal a 30,48 cm; un unia de metre en poesia","i":"#","da":"fod","de":"Fuss","en":"foot, base"}
 {"L":"pede de monte","C":["n"],"en":"foothill"}
 {"L":"pede de paje","C":["n"],"en":"footer"}
 {"L":"pede fronte","C":["n"],"en":"forefoot"}
@@ -19445,7 +19445,7 @@
 {"L":"pedofilica","C":["n"],"en":"pedophile|paedophile"}
 {"L":"pedofilica omosesal","C":["n"],"en":"pederast|paederast"}
 {"T":"r","L":"Pegaso","C":["n","mit","ast"],"d":"un cavalo mital volante con alas; un constela en la sielo norde","i":"#","en":"Pegasus (mythology, constellation)"}
-{"T":"r","L":"pel","C":["n","anat"],"d":"la strato magra de texeda cual formi la covrente natural esterna de la corpo de un person o animal; esta texeda, tanada o preparada per usa, a veses con pelo o lana ancora afisada","i":"#","da":"skind","en":"skin, hide, pelt, integument"}
+{"T":"r","L":"pel","C":["n","anat"],"d":"la strato magra de texeda cual formi la covrente natural esterna de la corpo de un person o animal; esta texeda, tanada o preparada per usa, a veses con pelo o lana ancora afisada","i":"#","da":"skind","de":"Haut","en":"skin, hide, pelt, integument"}
 {"L":"pel colxada","C":["n"],"en":"cellulite"}
 {"L":"pel cru","C":["n"],"en":"rawhide"}
 {"L":"pel de capra","C":["n"],"en":"goatskin"}
@@ -19457,7 +19457,7 @@
 {"L":"pel mor","C":["n"],"en":"dead skin, slough, eschar"}
 {"L":"despeli","C":["vt"],"en":"skin, flay, excoriate, flense"}
 {"L":"despelida","C":["a"],"en":"skinless, skinned"}
-{"L":"peleta","C":["n"],"da":"film (tynd lag)","en":"film (thin skin)"}
+{"L":"peleta","C":["n"],"da":"film (tynd lag)","de":"Häutchen, Schicht","en":"film (thin skin)"}
 {"L":"peleta aderente","C":["n"],"en":"cling film, cling wrap, Saran wrap"}
 {"L":"su pel","C":["a"],"en":"subcutaneous"}
 {"T":"r","L":"pelagra","C":["n","med"],"d":"un maladia resultante de un nonsufisi de niasina o triptofan, causante dermatite sever, diarea e dementia","en":"pellagra (medical)"}
@@ -19476,7 +19476,7 @@
 {"T":"r","L":"pelvis","C":["n","anat"],"d":"la strutur grande de oso prosima a la funda de la spina a cual la gamas es ajuntada","en":"pelvis"}
 {"L":"pelvisal","C":["a"],"en":"pelvic"}
 {"T":"r","L":"pemfigo","C":["n","med"],"d":"un maladia de la pel marcada par bulas acuosa","en":"pemphigus (medical)"}
-{"T":"r","L":"pen","C":["n","util"],"d":"un strumento de metal, plastica o pluma per scrive o desinia con inca","i":"#","da":"pen","en":"pen"}
+{"T":"r","L":"pen","C":["n","util"],"d":"un strumento de metal, plastica o pluma per scrive o desinia con inca","i":"#","da":"pen","de":"Feder","en":"pen"}
 {"L":"pen de bal","C":["n"],"en":"ballpoint pen, biro"}
 {"L":"pen de beco","C":["n"],"en":"nib pen, dip pen"}
 {"L":"pen de cartux","C":["n"],"en":"cartridge pen"}
@@ -19485,7 +19485,7 @@
 {"L":"pen de pluma","C":["n"],"en":"quill, quill pen"}
 {"T":"r","L":"penal","C":["a"],"d":"pertinente a la puni de prisonidas e criminores en la sistem legal","en":"penal (punishment)"}
 {"T":"r","L":"Penas, Golfo","C":["n","jeo"],"d":"un golfo a ueste de Aisen en Txile","i":"Golfo-Penas","en":"Gulf of Penas"}
-{"T":"r","L":"pende","C":["vnt"],"d":"es suportada de supra, sin toca la tera o solo","da":"hænge, dingle","en":"hang, hang down, sag, droop"}
+{"T":"r","L":"pende","C":["vnt"],"d":"es suportada de supra, sin toca la tera o solo","da":"hænge, dingle","de":"hangen","en":"hang, hang down, sag, droop"}
 {"L":"pende","C":["vt"],"d":"fa ce (un cosa) pende; mata (algun) par suspende el par un corda sirca sua colo","en":"hang, suspend, dangle"}
 {"L":"pendador","C":["n"],"i":"#","en":"hanger; gallows, gibbet"}
 {"L":"pendente","C":["a"],"en":"pendulous, droopy, saggy"}
@@ -19502,14 +19502,14 @@
 {"L":"penetra","C":["n"],"en":"penetration"}
 {"L":"nonpenetrable","C":["a"],"en":"impenetrable, impregnable"}
 {"T":"r","L":"-penia","C":["sf","n","med"],"d":"manca de un cosa esensal","en":"-penia (lack)"}
-{"T":"r","L":"penis","C":["n","anat"],"d":"la organo mas de reprodui en vertebratos alta, cual conteni la duto cual transporta spermas en copula e (en umanas e la plu de otra mamales) es composada de texeda erijable e ance usada per elimina urina; la organo simil en alga nonvertebratos, como gastropodos","i":"#","da":"penis","en":"penis"}
+{"T":"r","L":"penis","C":["n","anat"],"d":"la organo mas de reprodui en vertebratos alta, cual conteni la duto cual transporta spermas en copula e (en umanas e la plu de otra mamales) es composada de texeda erijable e ance usada per elimina urina; la organo simil en alga nonvertebratos, como gastropodos","i":"#","da":"penis","de":"Penis","en":"penis"}
 {"L":"penisal","C":["a"],"en":"penile"}
 {"T":"r","L":"penisilina","C":["n","med"],"d":"un grupo de antimicrobiales natural produida par alga mofos blu, ma aora usual preparada en modo artifis","en":"penicillin"}
 {"T":"r","L":"penisola","C":["n","tera"],"d":"un peso de tera cuasi ensircada par acua, o estendente en la mar o un lago","en":"peninsula"}
 {"L":"penisolal","C":["a"],"en":"peninsular"}
 {"T":"r","L":"Pennsylvania","C":["n","jeo"],"d":"un stato en la SUA norde-este","en":"Pennsylvania (US state)"}
 {"T":"r","L":"penombra","C":["n","fis"],"d":"la area partal ombrida a la borda de un ombra","en":"penumbra (shadow)"}
-{"T":"r","L":"pensa","C":["vt","uma"],"d":"dirije sua mente; usa sua mente per formi (ideas); imajina (un situa real o posible); ave (un opina, crede o idea) sur algun o alga cosa","da":"tænke","en":"think; opine, hold an opinion"}
+{"T":"r","L":"pensa","C":["vt","uma"],"d":"dirije sua mente; usa sua mente per formi (ideas); imajina (un situa real o posible); ave (un opina, crede o idea) sur algun o alga cosa","da":"tænke","de":"denken","en":"think; opine, hold an opinion"}
 {"L":"pensa","C":["n"],"en":"thought, cognition"}
 {"L":"pensa a","C":["v"],"en":"think of (have in mind)"}
 {"L":"pensa ladal","C":["v"],"en":"think laterally, think outside the box"}
@@ -19540,12 +19540,12 @@
 {"L":"peon cultival","C":["n"],"en":"farmhand"}
 {"T":"r","L":"peonia","C":["n","pla"],"d":"un planta de zonas temperada norde, cultivada per sua flores ostentosa","i":"#","t":"Paeonia","en":"peony (plant)"}
 {"T":"r","L":"peote","C":["n","pla","uma"],"d":"un cacto peti, mol, blu-verde e sin spinas, de Mexico e la SUA sude; un droga alusinal preparada de esta, cual conteni mescalina","t":"Lophophora williamsii","en":"peyote (plant, drug)"}
-{"T":"r","L":"peper","C":["n","pla","cos"],"d":"un spise comun de sabor agu e calda; un vite trepante con bacas cual on pote seci per produi esta","i":"#","t":"Piper nigrum","da":"peber","en":"(black, white) pepper (vine, spice)"}
+{"T":"r","L":"peper","C":["n","pla","cos"],"d":"un spise comun de sabor agu e calda; un vite trepante con bacas cual on pote seci per produi esta","i":"#","t":"Piper nigrum","da":"peber","de":"Pfeffer","en":"(black, white) pepper (vine, spice)"}
 {"L":"peperi","C":["vt"],"en":"pepper"}
 {"L":"peperin","C":["a"],"en":"peppery (like pepper)"}
 {"L":"peperosa","C":["a"],"en":"peppery (full of pepper)"}
 {"T":"r","L":"peperomia","C":["n","pla"],"d":"un planta tropical peti, con folias pulposa","i":"#","t":"Peperomia","en":"peperomia (plant)"}
-{"T":"r","L":"peperon","C":["n","pla","cos"],"d":"un planta tropical de America con frutas comable; la frutas diversa de esta, de cual alga ave un sabor calda","i":"#","t":"Capsicum annuum","da":"peberfrugt","en":"(hot, sweet, bell) pepper, capsicum (plant, fruit)"}
+{"T":"r","L":"peperon","C":["n","pla","cos"],"d":"un planta tropical de America con frutas comable; la frutas diversa de esta, de cual alga ave un sabor calda","i":"#","t":"Capsicum annuum","da":"peberfrugt","de":"Paprika","en":"(hot, sweet, bell) pepper, capsicum (plant, fruit)"}
 {"L":"peperon polvida","C":["n"],"en":"cayenne"}
 {"L":"peperon roja","C":["n"],"en":"red pepper"}
 {"L":"peperon verde","C":["n"],"en":"green pepper, bell pepper"}
@@ -19557,8 +19557,8 @@
 {"L":"-pepsica","C":["sf","a","med"],"en":"-peptic"}
 {"T":"r","L":"pepsin","C":["n","bio"],"d":"la enzima xef de dijesta en la stomaco, cual rompe protenas a polipeptidos","en":"pepsin (enzyme)"}
 {"T":"r","L":"peptido","C":["n","cim"],"d":"un composada de du o plu aminoasidas liada en un cadena","en":"peptide (chemistry)"}
-{"T":"r","L":"per","C":["prep"],"d":"con intende de; beneficante","g":"preposadas#per","n":"No confusa `per` e `par`. `Per` introdui un intende; `par` introdui un causa.","u":"nos labora per mone; viaja per vide la mundo; vestida per un sera de dansa; el ia scrive la libro per sua madre","v":"par, tra","da":"for, til","en":"for (an intended reason or beneficiary); in order to, to","eo":"por, pro, en ĉiu"}
-{"T":"s","d":"intercambiada con","u":"tu ia paia tro per acel computador; me ia compra lo per mil euros; grasias per tua mesaje","en":"for, in exchange for, in return for"}
+{"T":"r","L":"per","C":["prep"],"d":"con intende de; beneficante","g":"preposadas#per","n":"No confusa `per` e `par`. `Per` introdui un intende; `par` introdui un causa.","u":"nos labora per mone; viaja per vide la mundo; vestida per un sera de dansa; el ia scrive la libro per sua madre","v":"par, tra","da":"for, til","de":"für","en":"for (an intended reason or beneficiary); in order to, to","eo":"por, pro, en ĉiu"}
+{"T":"s","d":"intercambiada con","u":"tu ia paia tro per acel computador; me ia compra lo per mil euros; grasias per tua mesaje","de":"(in Austausch) für","en":"for, in exchange for, in return for"}
 {"T":"s","d":"(en mesuras de rapidia e simil) en cada (de la unias spesifada)","u":"viaja a sento cilometres per ora","en":"for every, per (in measurements of speed, etc.)"}
 {"T":"s","d":"suportante o representante (un promove)","u":"vota per la proposa; me parla per mea ami","en":"for, on behalf of; pro (in favour of)"}
 {"T":"s","d":"indicante la longia de un periodo de tempo o distantia tra cual on intende pasa","n":"E `per` e `tra` introdui espresas de tempo o distantia: `per` sujesta mera un intende; `tra` sujesta ce la esperia ia aveni vera.","u":"me vade a via per un semana; el va bisicli per tre menses","en":"for (an intended distance or duration)","eo":"-n, por"}
@@ -19570,11 +19570,11 @@
 {"T":"r","L":"per-","C":["pf","tecn"],"d":"tra, tra tota; (en cimica) con la masima de alga elemento en combina","en":"per- (thoroughly)"}
 {"T":"r","L":"perca","C":["n","pex"],"d":"un pex comable de acua dulse, con pina dorsal alta e spinosa, baras vertical oscur sur la corpo, e pinas basa orania","i":"#","t":"Perca","en":"perch"}
 {"T":"r","L":"percal","C":["n","vest"],"d":"un stofa refinada de coton o poliester, tipal usada per telones","en":"percale (fabric)"}
-{"T":"r","L":"perce","C":["av"],"d":"per cual razona o intende; par cual causa","n":"`Perce` es sempre un demanda. No usa lo per dise `car`.","p":"percé","da":"hvorfor","en":"why, for what, wherefore"}
+{"T":"r","L":"perce","C":["av"],"d":"per cual razona o intende; par cual causa","n":"`Perce` es sempre un demanda. No usa lo per dise `car`.","p":"percé","da":"hvorfor","de":"warum","en":"why, for what, wherefore"}
 {"T":"r","L":"percute","C":["vt","mus","med"],"d":"bate (un strumento) per dona un ritmo a musica; (en medica) bateta sur (un parte de corpo) con dito o strumento per diagnose","en":"percuss; tap (medical)"}
 {"L":"percute","C":["n"],"en":"percussion"}
 {"L":"percutiste","C":["n"],"en":"percussionist"}
-{"T":"r","L":"perde","C":["vt"],"d":"sesa ave o reteni (un cosa); deveni privada de (un person o cosa); ariva tro tarda per usa (un veculo)","da":"tabe, miste, forlægge","en":"lose, misplace; miss (bus, connection, etc.)"}
+{"T":"r","L":"perde","C":["vt"],"d":"sesa ave o reteni (un cosa); deveni privada de (un person o cosa); ariva tro tarda per usa (un veculo)","da":"tabe, miste, forlægge","de":"verlieren","en":"lose, misplace; miss (bus, connection, etc.)"}
 {"L":"perde","C":["n"],"en":"loss"}
 {"L":"perde completa","C":["n"],"en":"complete loss, write-off"}
 {"L":"perde de consensia","C":["n"],"en":"blackout, loss of consciousness"}
@@ -19613,7 +19613,7 @@
 {"L":"pergamin de boveta","C":["n"],"en":"vellum"}
 {"L":"enrola de pergamin","C":["n"],"en":"scroll"}
 {"T":"r","L":"pergola","C":["n","arci"],"d":"un arco en un jardin o parce, construida de un sceleto covreda con plantas trepante; un alcova ombrida en un jardin, con lados e teto formida par arbores o plantas trepante sur un sceleto de lenio","i":"#","en":"pergola, arbor|ur"}
-{"T":"r","L":"peri","C":["vt"],"d":"usa o consuma estravagante, sin cura, o sin resulta intendeda; fali usa bon o completa; usa en modo fol; permete ce (un oportun) pasa o es perdeda","da":"spilde, misbruge","en":"waste, misuse, squander"}
+{"T":"r","L":"peri","C":["vt"],"d":"usa o consuma estravagante, sin cura, o sin resulta intendeda; fali usa bon o completa; usa en modo fol; permete ce (un oportun) pasa o es perdeda","da":"spilde, misbruge","de":"verschwenden","en":"waste, misuse, squander"}
 {"L":"peri","C":["n"],"en":"waste"}
 {"L":"nonperosa","C":["a"],"en":"efficient, cost-effective"}
 {"L":"nonperosa de enerjia","C":["a"],"en":"energy-efficient"}
@@ -19630,14 +19630,14 @@
 {"L":"perifrase","C":["n"],"en":"periphrasis, circumlocution, circuitousness"}
 {"L":"perifrasente","C":["a"],"en":"periphrastic, circumlocutory, circuitous"}
 {"T":"r","L":"perijeo","C":["n","ast"],"d":"la punto en la orbita de la Luna o un satelite do lo es la plu prosima a la Tera","en":"perigee (astronomy)"}
-{"T":"r","L":"peril","C":["n"],"d":"la posible de sufri dana o feri; un person o cosa cual pote causa dana o feri; la posible de un aveni nondesirada o nonplasente","da":"fare, trussel","en":"danger, hazard, peril, jeopardy"}
+{"T":"r","L":"peril","C":["n"],"d":"la posible de sufri dana o feri; un person o cosa cual pote causa dana o feri; la posible de un aveni nondesirada o nonplasente","da":"fare, trussel","de":"Gefahr","en":"danger, hazard, peril, jeopardy"}
 {"L":"perili","C":["vt"],"en":"endanger, imperil, jeopardize|is, compromise"}
 {"L":"perilida","C":["a"],"en":"endangered, at risk"}
 {"L":"perilosa","C":["a"],"en":"dangerous, hazardous, perilous, precarious"}
 {"T":"r","L":"perila","C":["n","pla"],"d":"un planta asian en familia de menta, con usas en medica e cosina","i":"#","t":"Perilla","en":"perilla (plant)"}
 {"T":"r","L":"perimetre","C":["n","mat","gov"],"d":"un linia continuante cual formi la borda de un forma jeometrial cluida; la borda de un forma jeometrial sirculo; la distantia sirca alga cosa; la borda de un area o ojeto; la borda defendeda de un base militar","en":"perimeter, circumference, girth"}
 {"T":"r","L":"perineo","C":["n","anat"],"d":"la area de corpo entre la ano e la scroto o vulva","en":"perineum (anatomy)"}
-{"T":"r","L":"periodo","C":["n","tera"],"d":"un sesion de tempo; un parte de la vive de un person, nasion o sivilia, con cualia spesifada; (en jeolojia) un divide major de tempo, plu ca un epoca ma min ca un era","da":"periode, epoke, æra","en":"period, spell"}
+{"T":"r","L":"periodo","C":["n","tera"],"d":"un sesion de tempo; un parte de la vive de un person, nasion o sivilia, con cualia spesifada; (en jeolojia) un divide major de tempo, plu ca un epoca ma min ca un era","da":"periode, epoke, æra","de":"Zeitrechnung, Epoche","en":"period, spell"}
 {"L":"periodo de condena","C":["n"],"en":"sentence (prison)"}
 {"L":"periodo de incuba","C":["n"],"en":"incubation period"}
 {"L":"periodo de ofisia","C":["n"],"en":"term of office, tenure"}
@@ -19665,7 +19665,7 @@
 {"L":"permane","C":["n"],"en":"permanence"}
 {"L":"nonpermanente","C":["a"],"en":"impermanent, short-term"}
 {"L":"nonpermanentia","C":["n"],"en":"impermanence"}
-{"L":"permanente","C":["a"],"da":"permanent","en":"permanent, long-term, indelible"}
+{"L":"permanente","C":["a"],"da":"permanent","de":"dauernd","en":"permanent, long-term, indelible"}
 {"L":"permanentia","C":["n"],"en":"permanence"}
 {"T":"r","L":"permea","C":["vt","cim"],"d":"entra a e estende tra (alga cosa); es presente e evidente tra tota de","en":"permeate, pervade, percolate, suffuse, riddle"}
 {"L":"permea","C":["n"],"en":"permeation, perfusion"}
@@ -19675,7 +19675,7 @@
 {"L":"permeada","C":["n"],"en":"filtrate"}
 {"L":"permeante","C":["a"],"en":"permeating, pervading, pervasive"}
 {"L":"semipermeable","C":["a"],"en":"semipermeable"}
-{"T":"r","L":"permete","C":["vt","gov"],"d":"dona autori o acorda a (algun) per fa alga cosa; no preveni o proibi","u":"me permete ce tu reposa; me permete tu a reposa; me permete un reposa a tu","da":"lade, tillade","en":"permit, allow, let, authorize|is, grant; condone"}
+{"T":"r","L":"permete","C":["vt","gov"],"d":"dona autori o acorda a (algun) per fa alga cosa; no preveni o proibi","u":"me permete ce tu reposa; me permete tu a reposa; me permete un reposa a tu","da":"lade, tillade","de":"erlauben","en":"permit, allow, let, authorize|is, grant; condone"}
 {"L":"permete","C":["n"],"en":"permission, authorization|is, right, license|ce"}
 {"L":"permete a se","C":["v"],"en":"allow oneself (to do), afford (to do)"}
 {"L":"permete entra","C":["v"],"en":"admit, allow entry"}
@@ -19706,7 +19706,7 @@
 {"T":"r","L":"persento","C":["n","mat"],"d":"(en espresas de grado o cuantia) un parte en cada sento","en":"percent, percentage point"}
 {"L":"sincodes persentos","C":["n"],"en":"fifty percent"}
 {"T":"r","L":"Perseo","C":["n","ast","mit"],"d":"(en mitos elinica) la fio de Zeus e Danae, un eroe selebrada per multe atenis; (en astronomia) un constela grande en la emisfera norde cual inclui un parte densa de la Via Lete","i":"#","en":"Perseus (mythology, constellation)"}
-{"T":"r","L":"persepi","C":["vt","bio","uma"],"d":"es consensa de (informa colieda par la sensas)","da":"opfatte","en":"perceive, notice, realize|is, detect, discern"}
+{"T":"r","L":"persepi","C":["vt","bio","uma"],"d":"es consensa de (informa colieda par la sensas)","da":"opfatte","de":"wahrnehmen","en":"perceive, notice, realize|is, detect, discern"}
 {"L":"persepi","C":["n"],"en":"perception; interpretation, point of view"}
 {"L":"persepi estrasensal","C":["n"],"en":"extrasensory perception, ESP"}
 {"L":"apena persepable","C":["a"],"en":"barely perceptible, faint"}
@@ -19728,7 +19728,7 @@
 {"L":"persiste","C":["vt"],"en":"persist, persevere, linger"}
 {"L":"persiste","C":["n"],"en":"persistence, perseverance, tenacity"}
 {"L":"persistente","C":["a"],"en":"persistent, lingering, tenacious"}
-{"T":"r","L":"person","C":["n","fil","uma"],"d":"un umana videda como un individua; un organisme con consensia simil a un umana","da":"person","en":"person"}
+{"T":"r","L":"person","C":["n","fil","uma"],"d":"un umana videda como un individua; un organisme con consensia simil a un umana","da":"person","de":"Person, Mensch","en":"person"}
 {"L":"person comun","C":["n"],"en":"common person, everyman, man in the street"}
 {"L":"person de mundo","C":["n"],"en":"socialite"}
 {"L":"person importante","C":["n"],"en":"important person, personage"}
@@ -19773,10 +19773,10 @@
 {"T":"r","L":"perxa","C":["n","util"],"d":"un cosa sur cual un avia atera o reposa, tipal un ramo de un arbor o un bara en un caje; un loca, tipal alta o perilosa, sur cual un person o cosa sta o senta","en":"perch (support)"}
 {"L":"perxi","C":["vt"],"en":"perch"}
 {"T":"r","L":"pesa","C":["vt","fis"],"d":"ave un masa relativa de (un cuantia spesifada); determina la masa de (un person o cosa)","en":"weigh (have weight, measure weight)"}
-{"L":"pesa","C":["n"],"da":"vægt","en":"weight (measure, object)"}
+{"L":"pesa","C":["n"],"da":"vægt","de":"Gewicht","en":"weight (measure, object)"}
 {"L":"pesador","C":["n"],"en":"scales, weighing machine"}
 {"L":"peseria","C":["n"],"en":"weigh-house"}
-{"L":"pesosa","C":["a"],"da":"tung, tungtvejende","en":"heavy, ponderous, hefty"}
+{"L":"pesosa","C":["a"],"da":"tung, tungtvejende","de":"schwer","en":"heavy, ponderous, hefty"}
 {"L":"tro pesosa","C":["a"],"en":"overweight; burdensome, onerous"}
 {"T":"r","L":"pesah","C":["n","rel"],"d":"la festa iudi major de primavera, recordante la libri de la ivris de sclavia egiptian","en":"Pesach, Passover (Judaism)"}
 {"T":"r","L":"pesca","C":["a","col"],"d":"con color rosin jala","i":"#","en":"peach (color|ur)"}
@@ -19785,7 +19785,7 @@
 {"T":"r","L":"pesimisme","C":["n","uma","fil"],"d":"un tende de vide la aspeta la plu mal de cosas o persones, o de crede ce avenis va es mal","en":"pessimism"}
 {"L":"pesimiste","C":["a"],"en":"pessimistic, downbeat"}
 {"L":"pesimiste","C":["n"],"en":"pessimist"}
-{"T":"r","L":"peso","C":["n","mone"],"d":"un parte de un ojeto o materia produida par talia, lasera o rompe la intera; un de la partes cual ia es juntada per produi alga cosa e a cual lo divide natural; un parte de un colie; un obra de leteratur, musica, o arte; un sesion de un album de musica; un moneta de un valua spesifada; un figur usada en un jua de table; un area de tera, spesial per ajunta un construida; un stofa ajuntada per repara un veste; la unia de mone en Mexico e otras colonias pasada espaniol","da":"stykke, del; lap","en":"piece, fragment, slice, scrap; literary work, play (theatre), musical piece, track; (building) lot, plot (land); patch (repair); peso (currency)"}
+{"T":"r","L":"peso","C":["n","mone"],"d":"un parte de un ojeto o materia produida par talia, lasera o rompe la intera; un de la partes cual ia es juntada per produi alga cosa e a cual lo divide natural; un parte de un colie; un obra de leteratur, musica, o arte; un sesion de un album de musica; un moneta de un valua spesifada; un figur usada en un jua de table; un area de tera, spesial per ajunta un construida; un stofa ajuntada per repara un veste; la unia de mone en Mexico e otras colonias pasada espaniol","da":"stykke, del; lap","de":"Stück; Flicken","en":"piece, fragment, slice, scrap; literary work, play (theatre), musical piece, track; (building) lot, plot (land); patch (repair); peso (currency)"}
 {"L":"peso de xace","C":["n"],"en":"chesspiece"}
 {"L":"peso spesa","C":["n"],"en":"thick piece, slab"}
 {"L":"a pesos","C":["av"],"en":"in pieces, to pieces, apart"}
@@ -19811,19 +19811,19 @@
 {"L":"petalosa","C":["a"],"en":"petaled|ll"}
 {"T":"r","L":"petardo","C":["n"],"d":"un foco artal, forte e esplodente, tipal envolveda en paper e ensendeda con un mexa","i":"#","en":"petard, firecracker, cracker, squib, banger"}
 {"T":"r","L":"petecia","C":["n","med"],"d":"un manxa peti roja o purpur a la pel, causada par un sangui minor","en":"petechia (medical)"}
-{"T":"r","L":"peten","C":["n","util"],"d":"un banda de plastica, metal o lenio con un linia de dentes magra, usada per desmarania o ordina la capeles","i":"#","da":"kam","en":"comb"}
+{"T":"r","L":"peten","C":["n","util"],"d":"un banda de plastica, metal o lenio con un linia de dentes magra, usada per desmarania o ordina la capeles","i":"#","da":"kam","de":"Kamm","en":"comb"}
 {"L":"despeteni","C":["vt"],"en":"dishevel, mess up (hair)"}
 {"L":"despetenida","C":["a"],"en":"dishevelled, uncombed, messy, tangled, unkempt"}
 {"L":"peteni","C":["vt"],"en":"comb"}
 {"L":"retropeteni","C":["vt"],"en":"backcomb"}
 {"T":"r","L":"peten","C":["n","mol"],"d":"un bivalvo comable con conca costelin e forma de vano","i":"peten-molusco","t":"Pectinidae","en":"scallop","fr":"pétoncle"}
-{"T":"r","L":"peti","C":["a"],"d":"min grande ca normal o comun; no multe en cuantia, grado o fortia; joven o plu joven; no completa developada o creseda; no importante, trivial; sin fortia o autofida","da":"lille","en":"small, little, undersized, wee"}
+{"T":"r","L":"peti","C":["a"],"d":"min grande ca normal o comun; no multe en cuantia, grado o fortia; joven o plu joven; no completa developada o creseda; no importante, trivial; sin fortia o autofida","da":"lille","de":"klein","en":"small, little, undersized, wee"}
 {"L":"peti","C":["vnt"],"en":"shrink, reduce in size"}
 {"L":"peti","C":["vt"],"en":"shrink, reduce in size"}
 {"L":"peti","C":["n"],"en":"little thing, little one, runt"}
 {"T":"r","L":"petineo","C":["n","anat","med"],"d":"un musculo liante la pubica e la tibia","en":"petineus"}
 {"T":"r","L":"petirosa","C":["n","avia"],"d":"un avia peti de la mundo vea con dorso brun e peto roja","i":"#","t":"Erithacus rubecula","en":"European robin (bird)"}
-{"T":"r","L":"peto","C":["n","anat"],"d":"la surfas de la fronte de la corpo de un person o animal entre la colo e la adomen","i":"#","da":"bryst","en":"chest (anatomy), breast (whole chest, including poultry); bosom, bust"}
+{"T":"r","L":"peto","C":["n","anat"],"d":"la surfas de la fronte de la corpo de un person o animal entre la colo e la adomen","i":"#","da":"bryst","de":"Brust","en":"chest (anatomy), breast (whole chest, including poultry); bosom, bust"}
 {"L":"con peto nuda","C":["a"],"en":"bare-chested, bare-breasted, topless"}
 {"L":"petal","C":["a"],"en":"pectoral"}
 {"T":"r","L":"petra","C":["n","tera"],"d":"la materia dur, solida e nonmetal de minerales de cual roca es composada, tipal usada per construi; un peso de esta","i":"#","en":"stone"}
@@ -19852,11 +19852,11 @@
 {"T":"r","L":"petrocimical","C":["a","tera"],"d":"pertinente a materias otenida par refina e trata petrolio o gas natural","en":"petrochemical"}
 {"L":"petrocimical","C":["n"],"en":"petrochemical"}
 {"T":"r","L":"petrodolar","C":["n","mone"],"d":"un unia ipotesal de mone cual refere a la profita ganiada par un nasion par la esporta de petrolio","en":"petrodollar"}
-{"T":"r","L":"petrolio","C":["n","tera"],"d":"un licuida de idrocarbonos miscada cual esiste en alga stratos de petra e pote es estraeda e refinada per produi carburantes como gasolina, cerosen e gasolio","da":"olie, disel, petroleum","en":"(crude) oil, petroleum"}
+{"T":"r","L":"petrolio","C":["n","tera"],"d":"un licuida de idrocarbonos miscada cual esiste en alga stratos de petra e pote es estraeda e refinada per produi carburantes como gasolina, cerosen e gasolio","da":"olie, petroleum","de":"Erdöl","en":"(crude) oil, petroleum"}
 {"T":"r","L":"petrolojia","C":["n","tera"],"d":"la ramo de siensa cual studia la orijina, strutur e composa de petras","en":"petrology"}
 {"T":"r","L":"petronia","C":["n","avia"],"d":"un membro de un jenero de pasaros, tipal en Africa","i":"#","t":"Petronia","en":"rock sparrow, petronia (bird)"}
 {"T":"r","L":"petunia","C":["n","pla"],"d":"un planta con flores embutin e briliante colorida, developada como un ibride ornal","i":"#","t":"Petunia","en":"petunia (plant)"}
-{"T":"r","L":"pex","C":["n","cos"],"d":"un vertebrato con brancias e pinas, sin gamas, e abitante sola en acua; la carne de esta animales usada per come","da":"fisk","en":"fish"}
+{"T":"r","L":"pex","C":["n","cos"],"d":"un vertebrato con brancias e pinas, sin gamas, e abitante sola en acua; la carne de esta animales usada per come","da":"fisk","de":"Fisch","en":"fish"}
 {"L":"pex anjelin","C":["n","pex"],"d":"un pex con corpo ronda ma ladal compresada, e pinas triangulo, tipal colorosa o raiosa","i":"#","t":"Pterophyllum","en":"angelfish"}
 {"L":"pex arjenta","C":["n","pex"],"d":"un inseto peti sin alas, notada per sua color arjento","i":"#","t":"Lepisma saccharina","en":"silverfish"}
 {"L":"pex caxin","C":["n","pex"],"d":"un pex de mares tropical con conca de platas ososa e spinosa","i":"#","t":"Ostraciontidae","en":"boxfish"}
@@ -19916,7 +19916,7 @@
 {"T":"r","L":"picatarte","C":["n","avia"],"d":"un avia de la grandia de un corvo, con colo longa e testa calva e briliante colorida, cual nidi en cavas, trovada en la forestas de Africa ueste","i":"#","t":"Picathartesa","en":"rockfowl (bird)"}
 {"T":"r","L":"picnica","C":["vnt","cos"],"d":"come comedas pacida estra casa","en":"picnic"}
 {"L":"picnica","C":["n"],"en":"picnic"}
-{"T":"r","L":"pico","C":["a"],"d":"multe peti","da":"meget lille","en":"tiny, teeny, minute, minuscule, miniscule, puny"}
+{"T":"r","L":"pico","C":["a"],"d":"multe peti","da":"meget lille","de":"winzig","en":"tiny, teeny, minute, minuscule, miniscule, puny"}
 {"L":"pico","C":["av"],"da":"let, lidt, en smule","en":"slightly, a little"}
 {"L":"pico","C":["n"],"en":"bit, dash, pinch, smidgen, soupçon, speck, spot, tad, trace, modicum (tiny amount); trifle, bagatelle"}
 {"L":"pico de pan","C":["n"],"en":"crumb, breadcrumb"}
@@ -19959,7 +19959,7 @@
 {"L":"pil de doman","C":["n"],"en":"morning-after pill"}
 {"L":"pil rombo","C":["n"],"en":"lozenge"}
 {"T":"r","L":"pila","C":["vt"],"d":"colie (cosas) par pone la un sur la otra","en":"pile, heap, stack"}
-{"L":"pila","C":["n"],"i":"#","da":"stak","en":"pile, heap, stack; battery"}
+{"L":"pila","C":["n"],"i":"#","da":"stak","de":"Haufen","en":"pile, heap, stack; battery"}
 {"L":"pila de combustable","C":["n"],"en":"fuel cell"}
 {"L":"pila de lenio","C":["n"],"en":"woodpile"}
 {"T":"r","L":"pilaf","C":["n","cos"],"d":"un plato orijinal de Asia sude e sude-ueste, composada de ris o trigo, con vejetales e spises, e tipal con carne o pex ajuntada","ca":"pilaf","en":"pilaf (food)","es":"pilaf","fr":"pilaf","it":"pilaf","pt":"pilaf"}
@@ -19994,9 +19994,9 @@
 {"T":"r","L":"pinion","C":["n","util"],"d":"un de un grupo de rotas con dentes cual funsiona con lunlotra per cambia la relata entre la rapidia de un aparato propulsante (como un motor) e la rapidia de la partes propulsada (como la rotas)","en":"gear, pinion"}
 {"L":"pinion cono","C":["n"],"en":"bevel gear"}
 {"L":"pinion elica","C":["n"],"en":"helical gear"}
-{"T":"r","L":"pino","C":["n","pla"],"d":"un arbor conifer e perene con grupos de folias formida como agos longa, cultivada per sua lenio mol","i":"#","t":"Pinus","da":"fyrretræ","en":"pine (tree)"}
+{"T":"r","L":"pino","C":["n","pla"],"d":"un arbor conifer e perene con grupos de folias formida como agos longa, cultivada per sua lenio mol","i":"#","t":"Pinus","da":"fyrretræ","de":"Kiefer","en":"pine (tree)"}
 {"T":"r","L":"pinocle","C":["n","spo"],"d":"un jua de cartas per du o plu persones, con 48 cartas (du de cualce entre nove e la as), con gol de crea combinas e gania prendes","en":"pinochle (card game)"}
-{"T":"r","L":"pinse","C":["n","util"],"d":"un util composada de du pesos de metal con mandibulas nonagu e concava, usada per teni e tira cosas; un gara duple simil de alga crustaseos","i":"#","da":"tang","en":"pincers, pliers, tongs"}
+{"T":"r","L":"pinse","C":["n","util"],"d":"un util composada de du pesos de metal con mandibulas nonagu e concava, usada per teni e tira cosas; un gara duple simil de alga crustaseos","i":"#","da":"tang","de":"Zange","en":"pincers, pliers, tongs"}
 {"L":"pinse de cosini","C":["n"],"i":"#","en":"tongs"}
 {"L":"pinse de vestes","C":["n"],"en":"clothespin, clothespeg"}
 {"L":"pinse medical","C":["n"],"i":"#","en":"forceps"}
@@ -20005,7 +20005,7 @@
 {"L":"pinsi","C":["vt"],"en":"pinch, nip, tweeze, tweak"}
 {"L":"pinsi","C":["n"],"en":"pinch, nip, tweeze, tweak"}
 {"T":"r","L":"pinson","C":["n","avia"],"d":"un avia cantante ci come semes e ave tipal un beco spesa e plumas colorosa","i":"#","t":"Fringillidae","en":"finch (bird)"}
-{"T":"r","L":"pinta","C":["n","util"],"d":"un licuida colorida cual es aplicada como strato magra sur un surfas per decora o proteje lo","i":"#","da":"maling","en":"paint"}
+{"T":"r","L":"pinta","C":["n","util"],"d":"un licuida colorida cual es aplicada como strato magra sur un surfas per decora o proteje lo","i":"#","da":"maling","de":"Farbe (Substanz)","en":"paint"}
 {"L":"pinta de acua","C":["n"],"en":"water-based paint"}
 {"L":"pinta de corpo","C":["n"],"en":"body paint, warpaint"}
 {"L":"pinta de emulsion","C":["n"],"en":"emulsion paint"}
@@ -20067,7 +20067,7 @@
 {"T":"r","L":"pisin","C":["a","ling"],"d":"un creol fundida sur engles, usada como un lingua de comersia e governa par plu ca du milion persones en Papua Gine Nova","en":"Tok Pisin (language)"}
 {"L":"pisin","C":["n"],"en":"Tok Pisin (language)"}
 {"T":"r","L":"pisina","C":["n","arci"],"d":"un stange artifis per nada","i":"#","en":"swimming pool"}
-{"T":"r","L":"piso","C":["n","pla","cos"],"d":"un seme sfera e verde, comun comeda como un vejetal; un planta trepante cual produi la cascas cual conteni estas","i":"#","t":"Pisum sativum","da":"ært","en":"pea (plant, seed)"}
+{"T":"r","L":"piso","C":["n","pla","cos"],"d":"un seme sfera e verde, comun comeda como un vejetal; un planta trepante cual produi la cascas cual conteni estas","i":"#","t":"Pisum sativum","da":"ært","de":"Erbse","en":"pea (plant, seed)"}
 {"T":"r","L":"pistaxio","C":["n","pla","cos"],"d":"un noza pal verde comable; un arbor perene de Asia cual produi esta","i":"#","t":"Pistacia vera","en":"pistachio (tree, nut)"}
 {"T":"r","L":"pistil","C":["n","bio"],"d":"la organos fema de un flor","en":"pistil (botany)","fr":"pistil"}
 {"T":"r","L":"pistol","C":["n","util"],"d":"un fusil peti desiniada per es tenida en un mano","i":"#","en":"pistol, handgun"}
@@ -20099,7 +20099,7 @@
 {"L":"pixeli","C":["vnt"],"en":"pixellate"}
 {"L":"pixeli","C":["vt"],"en":"pixellate"}
 {"L":"pixeli","C":["n"],"en":"pixellation"}
-{"T":"r","L":"piza","C":["n","cos"],"d":"un comeda italian, composada de un funda plata e ronda de pan, fornida con salsa de tomate e ceso e tipal alga carnes o vejetales","i":"#","da":"pizza","en":"pizza"}
+{"T":"r","L":"piza","C":["n","cos"],"d":"un comeda italian, composada de un funda plata e ronda de pan, fornida con salsa de tomate e ceso e tipal alga carnes o vejetales","i":"#","da":"pizza","de":"Pizza","en":"pizza"}
 {"L":"pizeria","C":["n"],"en":"pizzeria"}
 {"T":"r","L":"pizicato","C":["n","mus"],"d":"la tecnica musical de toca la cordetas de un violin o strumento simil con la dito","en":"pizzicato"}
 {"T":"r","L":"placa","C":["vt","util"],"d":"covre (un ojeto de metal) con un peleta o strato magra de un otra metal","en":"plate"}
@@ -20113,7 +20113,7 @@
 {"T":"r","L":"plajia","C":["vt","arte"],"d":"prende (un obra o idea de un otra person) e finje ce lo es sua propre","en":"plagiarize|is"}
 {"L":"plajia","C":["n"],"en":"plagiarism"}
 {"L":"plajior","C":["n"],"en":"plagiarist"}
-{"T":"r","L":"plana","C":["a","mat"],"d":"lisa e sin bultos, indentes o inclinas grande; (un area de tera) sin colinas; (un area de acua) calma e sin ondas; no inclinada","v":"plata","en":"flat (not bumpy), plane, planar, level; smooth, even, flush"}
+{"T":"r","L":"plana","C":["a","mat"],"d":"lisa e sin bultos, indentes o inclinas grande; (un area de tera) sin colinas; (un area de acua) calma e sin ondas; no inclinada","v":"plata","de":"eben, waagerecht","en":"flat (not bumpy), plane, planar, level; smooth, even, flush"}
 {"L":"plana","C":["n"],"da":"flade","de":"Ebene, Fläche","en":"plane (surface); counter, worktop (surface)","eo":"ebenaĵo","es":"plano","fr":"plan, plat","it":"piano","nl":"vlak","pt":"plano"}
 {"L":"plana sajital","C":["n"],"en":"sagittal plane (anatomy)"}
 {"L":"nonplana","C":["a"],"en":"uneven, wobbly, bobbly"}
@@ -20198,13 +20198,13 @@
 {"T":"r","L":"-plastia","C":["sf","n","med"],"d":"sirurjia reconstruinte","en":"-plasty (surgery)"}
 {"L":"-plastica","C":["sf","a","med"],"en":"-plastic (surgical)"}
 {"T":"r","L":"plastica","C":["a","cim","util"],"d":"pertinente a o fabricada de un materia artifis preparada de polimer organica, cual on pote moldi a formas diversa","en":"plastic"}
-{"L":"plastica","C":["n"],"da":"plastik","de":"Kunststoff","en":"plastic","eo":"plastiko","es":"plástico","fr":"plastique","it":"plastica","nl":"plastic","pt":"plástico"}
+{"L":"plastica","C":["n"],"da":"plastik","de":"Kunststoff, Plastik","en":"plastic","eo":"plastiko","es":"plástico","fr":"plastique","it":"plastica","nl":"plastic","pt":"plástico"}
 {"L":"plastica abrasante","C":["n"],"en":"shrink wrap"}
 {"L":"plastica de bolas","C":["n"],"en":"bubblewrap"}
 {"L":"plastica de vitro","C":["n"],"en":"glass-reinforced plastic, fiberglass|re"}
 {"L":"plastica polalida","C":["n"],"en":"polaroid"}
 {"T":"r","L":"plasto","C":["n","bio"],"d":"cada de un clase de organetas peti en la sitoplasma de la selulas de plantas, conteninte pigmento o nurinte","en":"plastid (biology)"}
-{"T":"r","L":"plata","C":["a"],"d":"(un cosa) con poca spesia en compara con sua otra du dimensiones","v":"plana","ca":"pla","da":"flad, plan","de":"flach","en":"flat (level and thin), flattened, thin; plain (text file)","es":"llano, plano, chato, aplastado, liso","fr":"plat","it":"piatto","ja":"平たい","nl":"vlak","pt":"plano, chato, liso","ru":"плоский"}
+{"T":"r","L":"plata","C":["a"],"d":"(un cosa) con poca spesia en compara con sua otra du dimensiones","v":"plana","ca":"pla","da":"flad, plan","de":"flach, platt","en":"flat (level and thin), flattened, thin; plain (text file)","es":"llano, plano, chato, aplastado, liso","fr":"plat","it":"piatto","ja":"平たい","nl":"vlak","pt":"plano, chato, liso","ru":"плоский"}
 {"L":"plata","C":["n"],"d":"un peso plata de metal o otra materia, tipal usada per junta o forti, o como un parte de un macina","en":"plate, platen"}
 {"L":"plata de cupre","C":["n"],"en":"copperplate (engraving)"}
 {"L":"plata de forno","C":["n"],"i":"#","en":"sheet pan"}
@@ -20318,8 +20318,8 @@
 {"L":"plu ca sempre","C":["esp"],"en":"more than ever"}
 {"L":"plu e plu","C":["av"],"ca":"més i més","de":"mehr und mehr","en":"more and more, ever more","eo":"pli kaj pli, ĉiam pli","es":"más y más","fr":"de plus en plus","ja":"多くより多く","pt":"mais e mais","ru":"всё больше и больше"}
 {"L":"plu o min","C":["av"],"ca":"més o menys","de":"mehr oder weniger","en":"more or less, approximately","eo":"pli-malpli","es":"más o menos","fr":"plus ou moins","ja":"多いか少いか","pt":"mais ou menos","ru":"более или менее"}
-{"L":"a la plu","C":["av"],"da":"mest, ikke mere end","en":"at most","gl":"todo o máis, cando máis, non máis que, o máximo"}
-{"L":"la plu","C":["av"],"u":"la dia la plu longa; mea ami la plu cara","da":"mest, flest, -este","en":"the most, the maximum"}
+{"L":"a la plu","C":["av"],"da":"mest, ikke mere end","de":"nicht mehr als","en":"at most","gl":"todo o máis, cando máis, non máis que, o máximo"}
+{"L":"la plu","C":["av"],"u":"la dia la plu longa; mea ami la plu cara","da":"mest, flest, -este","de":"meist, -ste","en":"the most, the maximum"}
 {"L":"la plu de","C":["esp"],"u":"la plu de persones","en":"most, the majority of"}
 {"L":"no plu","C":["av"],"en":"no longer, no more, not any more (time)"}
 {"L":"per la plu","C":["av"],"ca":"en la major part","de":"meistens","en":"mostly, for the most part","eo":"plejparte","es":"en su mayor parte","fr":"pour la plupart","ja":"多くは","pt":"na maioria, na maior parte","ru":"большей частью, преимущественно"}
@@ -20519,7 +20519,7 @@
 {"T":"r","L":"pomelo","C":["n","pla","cos"],"d":"un arbor orijinante en Barbados; la fruta sitrica grande, ronda e jala de esta, con pulpa jusosa e asida","i":"#","t":"Citrus × paradisi","en":"grapefruit (fruit, tree)"}
 {"T":"r","L":"pomis","C":["n","tera"],"d":"un roca volcanal porosa e lejera, formida cuando un spuma de lava vitrin solidi rapida","en":"pumice (rock)"}
 {"T":"r","L":"pomo","C":["n","pla"],"d":"un arbor en familia de rosa cual produi pomas","t":"Malus","en":"apple (tree)"}
-{"L":"poma","C":["n","pla","cos"],"d":"un fruta ronda, con pel magra roja o verde e pulpa cracosa","i":"#","da":"æble","en":"apple (fruit)"}
+{"L":"poma","C":["n","pla","cos"],"d":"un fruta ronda, con pel magra roja o verde e pulpa cracosa","i":"#","da":"æble","de":"Apfel","en":"apple (fruit)"}
 {"L":"poma de Adam","C":["n"],"en":"Adam's apple, laryngeal prominence"}
 {"L":"poma savaje","C":["n"],"en":"crab apple"}
 {"L":"pomon","C":["n"],"d":"la parte ronda a la fini de la manico de un spada; la parte alta a la fronte de un sela","en":"pommel (sword, saddle)"}
@@ -20725,7 +20725,7 @@
 {"L":"reposese","C":["vt"],"en":"repossess, foreclose"}
 {"L":"reposese","C":["n"],"en":"foreclosure"}
 {"T":"r","L":"posible","C":["a","fil"],"d":"capas de es fada par algun o alga cosa; capas de aveni; capas de deveni","da":"mulig","de":"möglich","en":"possible, feasible, potential","eo":"ebla","es":"posible, realizable, factible","fr":"possible","it":"possibile","nl":"mogelijk","pt":"posivel, factível"}
-{"L":"posible","C":["av"],"da":"måske, muligvis","en":"possibly, maybe, perhaps"}
+{"L":"posible","C":["av"],"da":"måske, muligvis","de":"vielleicht","en":"possibly, maybe, perhaps"}
 {"L":"posible","C":["n"],"en":"possibility, opportunity (something possible), contingency"}
 {"L":"nonposible","C":["a"],"en":"impossible"}
 {"L":"nonposible","C":["n"],"en":"impossibility (something impossible)"}
@@ -20733,7 +20733,7 @@
 {"L":"otra posible","C":["n"],"en":"alternate, alternative, other possibility"}
 {"L":"posiblia","C":["n"],"en":"possibility (quality)"}
 {"L":"un otra idea posible","C":["a"],"en":"an alternative idea, an alternate idea, another possible idea"}
-{"T":"r","L":"positiva","C":["a"],"d":"distinguida par la presentia de cualias en loca de sua asentia; indicante la presentia de alga cosa; espresante afirma, acorda o permete; con intendes bon o bela; otimiste, fidante, serta; mostrante progresa, profita o boni; sin posible de duta","da":"positiv","de":"Positiv","en":"positive","eo":"pozitiva","es":"positivo","fr":"positif","it":"positivo","nl":"positief","pt":"positivo"}
+{"T":"r","L":"positiva","C":["a"],"d":"distinguida par la presentia de cualias en loca de sua asentia; indicante la presentia de alga cosa; espresante afirma, acorda o permete; con intendes bon o bela; otimiste, fidante, serta; mostrante progresa, profita o boni; sin posible de duta","da":"positiv","de":"positiv","en":"positive","eo":"pozitiva","es":"positivo","fr":"positif","it":"positivo","nl":"positief","pt":"positivo"}
 {"L":"positivia","C":["n"],"en":"positivity"}
 {"L":"positivisme","C":["n","fil"],"en":"positivism"}
 {"L":"positiviste","C":["n"],"en":"positivist"}
@@ -21037,7 +21037,7 @@
 {"T":"r","L":"pro-","C":["pf"],"d":"a ante","en":"pro- (forward)"}
 {"T":"r","L":"proa","C":["n","vec"],"d":"la parte fronte de un barcon, spesial la parte supra la nivel de la acua","i":"proa-2","en":"bow, prow (of ship)"}
 {"T":"r","L":"proa","C":["n","vec"],"d":"un tipo de barcon de vela, orijinante en Malaisia e Indonesia, tipal con un vela grande triangulo e un balansador","i":"#","en":"proa, perahu (sailboat)"}
-{"T":"r","L":"proba","C":["vt","fis","cim","bio"],"d":"esamina, usa o fa (un cosa nova o diferente) per vide esce lo es produosa, conveninte o plasente","v":"atenta","da":"smage; prøve, teste","de":"schmecken","en":"try, try out, try on (clothes), trial, test, check; taste","eo":"probi; gustumi","es":"gustar, probar, saborear, degustar, paladear","fr":"goûter","it":"sentire, gustare","nl":"smaken, proeven","pt":"provar, saborear"}
+{"T":"r","L":"proba","C":["vt","fis","cim","bio"],"d":"esamina, usa o fa (un cosa nova o diferente) per vide esce lo es produosa, conveninte o plasente","v":"atenta","da":"smage; prøve, teste","de":"schmecken; prüfen, probieren","en":"try, try out, try on (clothes), trial, test, check; taste","eo":"probi; gustumi","es":"gustar, probar, saborear, degustar, paladear","fr":"goûter","it":"sentire, gustare","nl":"smaken, proeven","pt":"provar, saborear"}
 {"L":"proba","C":["n"],"en":"try, trial, test, check, screen; taste (action)"}
 {"L":"longa probada","C":["a"],"en":"tried and tested, time-tested"}
 {"L":"nonprobada","C":["a"],"en":"untried, untested; unscreened"}
@@ -21109,7 +21109,7 @@
 {"L":"nonprofitosa","C":["a"],"en":"unprofitable"}
 {"L":"profitosa","C":["a"],"en":"profitable, lucrative"}
 {"T":"r","L":"profiterol","C":["n","cos"],"d":"un bal peti de pasta dulse, plenida con crema e covreda con salsa de xocolada, comeda como un deser","en":"profiterole"}
-{"T":"r","L":"profonda","C":["a"],"d":"estendente a un distantia grande de la culmina o la surfas; (un state, cualia o emosia) multe grande, intensa o sever; (un person o declara) mostrante un comprende o intui grande; (un tema o pensa) esijente multe studia o pensa","da":"dyb","de":"teif","en":"deep, profound, in-depth","es":"profundo, hondo","fr":"profondément","it":"profondo","nl":"diep","pt":"profundo"}
+{"T":"r","L":"profonda","C":["a"],"d":"estendente a un distantia grande de la culmina o la surfas; (un state, cualia o emosia) multe grande, intensa o sever; (un person o declara) mostrante un comprende o intui grande; (un tema o pensa) esijente multe studia o pensa","da":"dyb","de":"tief","en":"deep, profound, in-depth","es":"profundo, hondo","fr":"profondément","it":"profondo","nl":"diep","pt":"profundo"}
 {"L":"profonda","C":["av"],"en":"deeply, profoundly"}
 {"L":"profonda","C":["n"],"en":"deep, depths, chasm"}
 {"L":"nonprofonda","C":["a"],"en":"shallow"}
@@ -21286,7 +21286,7 @@
 {"L":"prosegue","C":["n"],"en":"procession"}
 {"L":"prosegue funeral","C":["n"],"en":"funeral procession, cortège"}
 {"T":"r","L":"prosero","C":["n","anat","med"],"d":"un musculo de la fas, entre la oios","en":"procerus"}
-{"T":"r","L":"prosima","C":["a"],"d":"a un distantia corta; a un tempo no distante en la futur; aprosima; (un ami) multe bon conoseda","da":"nær(t), tæt (på)","de":"nahe","en":"near, nearby, proximal, close (including friend)","eo":"proksima","es":"cerca, proxima (en o a poca distancia)","fr":"près de","it":"vicino","nl":"na","pt":"próximo, cerca"}
+{"T":"r","L":"prosima","C":["a"],"d":"a un distantia corta; a un tempo no distante en la futur; aprosima; (un ami) multe bon conoseda","da":"nær(t), tæt (på)","de":"nah, nahe","en":"near, nearby, proximal, close (including friend)","eo":"proksima","es":"cerca, proxima (en o a poca distancia)","fr":"près de","it":"vicino","nl":"na","pt":"próximo, cerca"}
 {"L":"prosima","C":["av"],"en":"nearby, thereabouts, in the vicinity"}
 {"L":"de prosima","C":["av"],"en":"from close up, point-blank"}
 {"L":"prosimi","C":["vnt"],"en":"near, come near, approach"}
@@ -21521,7 +21521,7 @@
 {"L":"trepunto","C":["n"],"en":"ellipsis, dot-dot-dot"}
 {"T":"r","L":"puntua","C":["vt","ling"],"d":"ajunta marcas como puntos, virgulas e brasetas a (un testo scriveda) per separa frases e sua partes e per clari sinifias","en":"punctuate","es":"puntuar"}
 {"L":"puntua","C":["n"],"en":"punctuation"}
-{"T":"r","L":"puntual","C":["a"],"d":"arivante o comensante a la tempo acordada","ca":"a temps, puntual(ment)","da":"rettidig","de":"pünklich","en":"punctual, prompt, on time, in time","eo":"akurata","es":"a tiempo","fr":"à temps","gl":"oportuno, pronto, puntual, listo, presto, a tempo","ja":"ちょうど","pt":"na hora, em tempo, pontualmente","ru":"вовремя"}
+{"T":"r","L":"puntual","C":["a"],"d":"arivante o comensante a la tempo acordada","ca":"a temps, puntual(ment)","da":"rettidig","de":"pünktlich, zeitig","en":"punctual, prompt, on time, in time","eo":"akurata","es":"a tiempo","fr":"à temps","gl":"oportuno, pronto, puntual, listo, presto, a tempo","ja":"ちょうど","pt":"na hora, em tempo, pontualmente","ru":"вовремя"}
 {"L":"puntualia","C":["n"],"en":"punctuality, promptness"}
 {"T":"r","L":"pupa","C":["n","util","bio"],"d":"un model peti de un umana, tipal usada como un jueta; un model de un person spesifada cual on dana o destrui per protesta o espresa coleria; un inseto en sua forma nonmatur e nonativa, entre larva e adulte","i":"#","da":"dukke","de":"Puppe","en":"doll, effigy; pupa (insect)","eo":"pupo","es":"muñeca, muñeco, muppet, mupet, monito, marioneta","fr":"poupée","it":"bambola","nl":"pop","pt":"boneca"}
 {"L":"pupa de palia","C":["n"],"en":"straw doll, corn dolly, corn mother"}
