@@ -7954,7 +7954,7 @@
 {"L":"detor","C":["n"],"en":"debtor"}
 {"T":"r","L":"detalia","C":["vt"],"d":"descrive (un cosa) en modo completa, incluinte tota fatos, cualias o partes, an si los es peti o minor; identifia esata (un fato o conseta)","en":"detail, itemize|is, elaborate; pinpoint"}
 {"L":"detalia","C":["n"],"d":"un cualia, fato o parte individua, tipal peti o minor","da":"detalje","de":"Detail","en":"detail"}
-{"L":"detaliosa","C":["a"],"en":"detailed, elaborate"}
+{"L":"detaliosa","C":["a"],"en":"detailed, elaborate, intricate"}
 {"T":"r","L":"deteni","C":["vt","gov"],"d":"preveni (algun) de vade puntual, tipal par dona plu taxes a el o per interoga el sur un crimin o situa delicata; confisca e teni (benes)","en":"detain"}
 {"L":"deteni","C":["n"],"en":"detention"}
 {"L":"deteneria","C":["n"],"en":"detention center|re"}
@@ -21835,11 +21835,11 @@
 {"L":"recambia la planta de","C":["v"],"en":"resole (shoe)"}
 {"L":"nonrecambiable","C":["a"],"en":"irreplaceable"}
 {"L":"recambiable","C":["a"],"en":"replaceable"}
-{"T":"r","L":"reclama","C":["vt","gov"],"d":"declara ce alga cosa es vera, tipal sin atestas; declara ce on ia gania o ateni (alga cosa); oteni la redona de (propria o titulo)","da":"påstand","de":"Behauptung","en":"claim, reclaim (property, title); assert","eo":"pretendi, reklamacii","fr":"réclamer","pt":"reclamar"}
-{"L":"reclama","C":["n"],"en":"claim, reclaim; assertion, contention","es":"demanda, reclamación, reclamo, pretensión","fr":"réclamation","it":"asserzione, pretesa","nl":"bewering"}
+{"T":"r","L":"reclama","C":["vt","gov"],"d":"declara ce alga cosa es vera, tipal sin atestas; declara ce on ia gania o ateni (alga cosa); oteni la redona de (propria o titulo)","en":"claim, reclaim (property, title); assert","eo":"pretendi, reklamacii","fr":"réclamer","pt":"reclamar"}
+{"L":"reclama","C":["n"],"da":"påstand","de":"Behauptung","en":"claim, reclaim; assertion, contention","es":"demanda, reclamación, reclamo, pretensión","fr":"réclamation","it":"asserzione, pretesa","nl":"bewering"}
 {"L":"contrareclama","C":["n"],"en":"counterclaim"}
 {"L":"reclamor","C":["n"],"en":"claimant, pretender"}
-{"T":"r","L":"reclina","C":["vnt"],"d":"(un person) reposa en posa orizonal o cuasi orizonal","i":"#","da":"ligge","en":"lie, recline","eo":"kuŝi","fr":"être couché"}
+{"T":"r","L":"reclina","C":["vnt"],"d":"(un person) reposa en posa orizonal o cuasi orizonal","i":"#","da":"ligge","de":"liegen","en":"lie, recline","eo":"kuŝi","fr":"être couché"}
 {"L":"reclina","C":["vt"],"en":"lay, lay down","eo":"kuŝigi","fr":"coucher"}
 {"L":"reclina se","C":["v"],"en":"lie down, lie back","eo":"kuŝigi","fr":"se coucher"}
 {"T":"r","L":"recolie","C":["vt","uma"],"d":"prende e colie (alga cosa) par atas repetente; talia e colie (un cultiva) de un area de tera","i":"#","ca":"recollir","da":"høste","de":"auflesen, pflücken, ernten","en":"pick up, reap, harvest","eo":"repreni; rikolti","es":"cosechar, recolectar, segar, obtener, sacar, levantar cosecha; recoger","fr":"ramasser; récolter","it":"raccolto (general), vendemmia (grapes)","ja":"拾う","nl":"oogsten","pt":"apanhar, pegar; colher, fazer a colheita","ru":"подбирать, поднимать"}
@@ -22319,7 +22319,7 @@
 {"L":"restas","C":["n","pl"],"en":"leftovers, remains, remnants, dregs"}
 {"T":"r","L":"restora","C":["vt","arte","arci","cos"],"d":"fa ce (un person o cosa) move a un state o loca pasada; fa ce (un person o cosa) es o pare nova","en":"restore, refresh, roll back, make like new"}
 {"L":"restora","C":["n"],"en":"restoration, restitution, rollback; refreshment"}
-{"L":"restorada","C":["a"],"da":"forfrisket, udhvilet","de":"erfrishend","en":"refreshed, zesty, perky","es":"renovado, fresco, vibrante","fr":"régénéré","it":"riposato","nl":"fris, verfrist","pt":"restaurado, renovado, refeito"}
+{"L":"restorada","C":["a"],"da":"forfrisket, udhvilet","de":"erfrischt, restauriert","en":"refreshed, zesty, perky","es":"renovado, fresco, vibrante","fr":"régénéré","it":"riposato","nl":"fris, verfrist","pt":"restaurado, renovado, refeito"}
 {"L":"restorante","C":["a"],"en":"refreshing"}
 {"L":"restorante","C":["n"],"i":"#","ca":"restaurant","da":"restaurant","de":"Restaurant","en":"restaurant, diner","eo":"restoracio","es":"restaurante","fr":"restaurant","it":"ristorante","ja":"料理店","nl":"restaurant","pt":"restaurante","ru":"ресторан"}
 {"L":"restorante de comes retirable","C":["n"],"en":"takeaway restaurant, takeout restaurant"}
@@ -22387,7 +22387,7 @@
 {"T":"r","L":"retro","C":["a","anat"],"d":"la parte posterior de alga cosa; la spasio o loca pos la dorso de un person o cosa; la parte posterior de un armada, marina o linia de persones","en":"rear, back","eo":"malantaŭa"}
 {"L":"retro","C":["n"],"da":"bagside","de":"Hinterseite","en":"rear, back part; back cover (book)","eo":"malantaŭo","es":"fondo, cola, trasero, espalda, retaguardia, parte posterior","fr":"arrière","it":"retro, dietro, parte posteriore","nl":"achterkant","pt":"atrás, retaguarda, posterior, traseiro"}
 {"L":"retro-","C":["pf"],"d":"a retro","u":"retrosede","en":"retro-; backwards"}
-{"L":"a retro","C":["av"],"da":"tilbage","en":"back, backwards","gl":"de volta, de regreso, achegándose, regresando"}
+{"L":"a retro","C":["av"],"da":"tilbage","de":"zurück, rückwärts","en":"back, backwards","gl":"de volta, de regreso, achegándose, regresando"}
 {"L":"a retro de","C":["prep"],"en":"at the back of, in back of, behind"}
 {"L":"en retro de","C":["prep"],"en":"inside the back of, into the back of, down the back of"}
 {"T":"r","L":"retroflexe","C":["a","ling"],"d":"(un consonante) pronunsiada con la punto de la lingua curvida a la palato dur","en":"retroflex"}
@@ -22425,7 +22425,7 @@
 {"L":"revisteta","C":["n"],"en":"bulletin"}
 {"L":"revisteta de grupo","C":["n"],"en":"newsletter, circular"}
 {"T":"r","L":"revolta","C":["vnt","gov"],"d":"ata contra un governa o autoria local","en":"revolt, rise up"}
-{"L":"revolta","C":["n"],"da":"uro, optøjer","en":"revolution, revolt, uprising (local rebellion)"}
+{"L":"revolta","C":["n"],"da":"uro, optøjer","de":"Aufruhr","en":"revolution, revolt, uprising (local rebellion)"}
 {"T":"r","L":"revolui","C":["vt","gov"],"d":"aboli, desvalidi o reversa (un sistem presedente); cambia (un cosa) en modo estrema o fundal","en":"revolutionize|is, overturn"}
 {"L":"revolui","C":["n"],"en":"revolution (overthrow of government), insurgence"}
 {"L":"posrevolual","C":["a"],"en":"post-revolutionary"}
