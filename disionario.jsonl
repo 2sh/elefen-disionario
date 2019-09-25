@@ -7931,22 +7931,22 @@
 {"T":"r","L":"despota","C":["n","gov"],"d":"un titulo per alga renores en la Balcanes medieval; (metafor) un tirano con potia asoluta","en":"despot","he":"דספוט (תואר אצולה); רודן, עריץ"}
 {"L":"despotia","C":["n"],"en":"despotate","he":"דספוטט (שטח שנשלט על-ידי דספוט)"}
 {"L":"despotin","C":["a"],"en":"despotic","he":"דספוטי"}
-{"T":"r","L":"destina","C":["vt","rel","mit"],"d":"deside ce (algun) va esperia alga cosa en la futur; dirije (alga cosa) a un loca spesifada","en":"destine"}
-{"L":"destina","C":["n"],"da":"betemmelsessted","de":"Bestimmung","en":"destination; destiny, fate, kismet; addressee"}
-{"L":"destinada","C":["a"],"en":"destined, bound"}
-{"L":"maldestinada","C":["a"],"en":"ill-fated"}
-{"L":"predestina","C":["vt"],"en":"predestine"}
-{"L":"predestina","C":["n"],"en":"predestination"}
-{"T":"r","L":"destra","C":["a"],"d":"a, o pertinente a, la lado cual es a este cuando on fasa la norde","da":"højre (-hånd)","de":"recht","en":"right (not left); starboard"}
-{"L":"destra","C":["n"],"en":"right (not left)"}
-{"L":"a destra","C":["av"],"en":"on the right"}
-{"L":"a destra de","C":["prep"],"en":"on the right of"}
-{"L":"destrisme","C":["n"],"en":"rightism"}
-{"L":"destriste","C":["a"],"en":"right-wing, rightist"}
-{"L":"destriste","C":["n"],"en":"right-winger, rightist"}
-{"L":"destrosa","C":["a"],"en":"handy, dextrous, skillful|skilful, deft"}
-{"L":"destrosia","C":["n"],"en":"dexterity"}
-{"T":"r","L":"destrosa","C":["n","bio"],"d":"la forma la plu comun de glucosa","en":"dextrose (sugar)"}
+{"T":"r","L":"destina","C":["vt","rel","mit"],"d":"deside ce (algun) va esperia alga cosa en la futur; dirije (alga cosa) a un loca spesifada","en":"destine","he":"להועיד, לייעד"}
+{"L":"destina","C":["n"],"da":"betemmelsessted","de":"Bestimmung","en":"destination; destiny, fate, kismet; addressee","he":"יעד; ייעוד, גורל; נמען"}
+{"L":"destinada","C":["a"],"en":"destined, bound","he":"מיועד"}
+{"L":"maldestinada","C":["a"],"en":"ill-fated","he":"שנידון לכישלון, שדינו נחרץ"}
+{"L":"predestina","C":["vt"],"en":"predestine","he":"להועיד מראש, לגזור (גורל)"}
+{"L":"predestina","C":["n"],"en":"predestination","he":"ייעוד מראש, גזירת גורל"}
+{"T":"r","L":"destra","C":["a"],"d":"a, o pertinente a, la lado cual es a este cuando on fasa la norde","da":"højre (-hånd)","de":"recht","en":"right (not left); starboard","he":"ימני"}
+{"L":"destra","C":["n"],"en":"right (not left)","he":"ימין"}
+{"L":"a destra","C":["av"],"en":"on the right","he":"ימינה"}
+{"L":"a destra de","C":["prep"],"en":"on the right of","he":"לימין (של)"}
+{"L":"destrisme","C":["n"],"en":"rightism","he":"(פוליטיקה) ימניות"}
+{"L":"destriste","C":["a"],"en":"right-wing, rightist","he":"(פוליטיקה) ימני"}
+{"L":"destriste","C":["n"],"en":"right-winger, rightist","he":"(פוליטיקה) ימני"}
+{"L":"destrosa","C":["a"],"en":"handy, dextrous, skillful|skilful, deft","he":"מיומן"}
+{"L":"destrosia","C":["n"],"en":"dexterity","he":"מיומנות"}
+{"T":"r","L":"destrosa","C":["n","bio"],"d":"la forma la plu comun de glucosa","en":"dextrose (sugar)","he":"דקסטרוז"}
 {"T":"r","L":"destrui","C":["vt"],"d":"fa ce (un cosa) sesa esiste par dana o ataca lo; ruina emosial o spirital (algun); defeta completa (algun)","da":"ødelægge, destruere","de":"zerstören, vernichten","en":"destroy, demolish, decimate, raze, spoil; blast, zap"}
 {"L":"destrui","C":["n"],"en":"destruction, demolition"}
 {"L":"autodestrui","C":["vt"],"en":"self-destruct"}
@@ -16531,7 +16531,7 @@
 {"T":"r","L":"moisme","C":["n","fil"],"d":"un filosofia xines developada par la seguores de Mozi","p":"moïsme","en":"Mohism (philosophy)"}
 {"L":"moiste","C":["a"],"p":"moïste","en":"Mohist"}
 {"L":"moiste","C":["n"],"en":"Mohist"}
-{"T":"r","L":"mol","C":["a"],"d":"no dur; fasil moldida, cortida, compresada o pliada","v":"suave","da":"blød, eftergivende","de":"weich, hämmerbar","en":"soft (not hard or tough), squishy; tender"}
+{"T":"r","L":"mol","C":["a"],"d":"no dur; fasil moldable, cortable, compresable o pliable","v":"suave","da":"blød, eftergivende","de":"weich, hämmerbar","en":"soft (not hard or tough), squishy; tender"}
 {"L":"moli","C":["vnt"],"en":"soften; relent"}
 {"L":"moli","C":["vt"],"en":"soften; tenderize|is"}
 {"L":"molia","C":["n"],"en":"softness"}
@@ -20842,8 +20842,9 @@
 {"L":"pox de copia","C":["n"],"en":"clipboard, copy buffer (software)"}
 {"L":"poxi","C":["vt"],"en":"pocket"}
 {"T":"r","L":"poxe","C":["vt","cos"],"d":"coce (un ovo) sin sua casca en o supra acua bolinte; coce rapida o corta en un cuantia peti de licuida calda","en":"poach, blanch, parboil (cookery)"}
-{"T":"r","L":"prado","C":["n","tera"],"d":"un area de tera erbosa","i":"#","ca":"prat","de":"Wiese","en":"meadow, meadowland, prairie","eo":"herbkampo","es":"prado","fr":"pré","ja":"牧草地","pt":"prado, pradaria","ru":"луг"}
+{"T":"r","L":"prado","C":["n","tera"],"d":"un area de tera erbosa sin arbores","i":"#","ca":"prat","de":"Wiese","en":"meadow, meadowland, prairie","eo":"herbkampo","es":"prado","fr":"pré","ja":"牧草地","pt":"prado, pradaria","ru":"луг"}
 {"L":"pradeta","C":["n"],"en":"clearing, glade"}
+{"L":"pradin","C":["a"],"en":"meadowlike, open (country)"}
 {"T":"r","L":"pragmatica","C":["n","ling"],"d":"la ramo de linguistica cual studia la rol semantical de contesto","en":"pragmatics (linguistics)","eo":"pragmatiko","fr":"pragmatique"}
 {"T":"r","L":"Praha","C":["n","jeo"],"d":"la site capital de Txesco","en":"Prague"}
 {"T":"r","L":"pralin","C":["n","cos"],"d":"un caramel nozosa","en":"praline (food)"}
@@ -27426,6 +27427,7 @@
 {"L":"turnavise crusin","C":["n","util"],"en":"crosshead screwdriver, Phillips-head screwdriver","fr":"tournevis cruciforme"}
 {"T":"r","L":"turnix","C":["n","avia"],"d":"un avia peti, simil a un coturnix ma en familia de ral, con sola tre ditos a cada pede","i":"#","t":"Turnicidae","en":"button quail (bird)","fr":"Turnix"}
 {"T":"r","L":"turno","C":["n"],"d":"cada de un serie de periodos en cual un grupo nova de laborores continua la mesma labora en modo de rele; (en un jua o simil) cada de un serie de veses per ata cual veni a cada juor, la un pos la otra","en":"shift (work); turn (game)","fr":"(un) tour (au jeu)"}
+{"L":"en turnos","C":["av"],"en":"in turn, taking turns"}
 {"L":"fa sua turno","C":["v"],"en":"do one's shift; take one's turn"}
 {"L":"turnor","C":["n"],"en":"shiftworker","fr":"travailleur en équipe"}
 {"T":"r","L":"turon","C":["n","cos"],"d":"un tipo de confeto espaniol, simil a nuga, preparada de amandas e miel","en":"turron, torrone (confectionery)","fr":"touron"}
