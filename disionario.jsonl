@@ -1,7 +1,7 @@
 {"T":"r","L":"a","C":["sim"],"d":"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major","p":"a","en":"a","es":"a","fr":"la","he":"האות הראשונה באלפבית הלטיני"}
 {"T":"r","L":"a","C":["prep"],"d":"indicante un loca o tempo como un punto simple","g":"preposadas#a","u":"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco","da":"i, ved, på, hos, nær","de":"bei, mit, um","en":"at, in, on (a point in space or time)","eo":"ĉe, en, je","es":"a, en (un punto en el tiempo o en el espacio)","fr":"à","gl":"en (no mesmo lugar que)","he":"ב-, אצל","ru":"в, на, за (сидим за столом)"}
 {"T":"s","d":"indicante la punto de refere en un relata","u":"tu sta tro prosima a la borda; la pen parteni a me; la forma de Italia es simil a un gama; a la min","en":"(in relation) to","eo":"al","es":"a","fr":"à","he":"ל-","ru":"к; дательный падеж; на (в выражениях сравнения)"}
-{"T":"s","d":"indicante la loca, resetor o state cual on ateni o vole ateni par un move o cambia","u":"el desira viaja a la Luna; de ves a ves; me va dona un oso a tua can; la idea pare bon a me; la sorsor ia cambia se a un capra; on va eleje tu a presidente; el ia pinti sua mures a jala; tradui un poesia a elefen","da":"til, mod, hen imod","de":"nach, zu","en":"in the direction of, to, toward, towards, unto","eo":"al, direkte al","es":"a, en dirección, a hacia","fr":"à, vers","gl":"a, ata, cara a, para, rumbo a, para con","he":"ל-; מסמן שינוי למצב חדש (צביעה בלבן, בחירה לנשיא)","ru":"на (как направление); дательный падеж; в (при глаголах превращения в, изменения в)"}
+{"T":"s","d":"indicante la loca, resetor o state cual on ateni o vole ateni par un move o cambia","u":"el desira viaja a la Luna; de ves a ves; me va dona un oso a tua can; la idea pare bon a me; la sorsor ia cambia se a un capra; on va eleje tu a presidente; el ia pinti sua mures a jala; tradui un poesia a elefen","da":"til, mod, hen imod","de":"nach, zu","en":"in the direction of, to, toward, towards, unto","eo":"al, direkte al","es":"a, en dirección, a hacia, hasta, para, rumbo a, para con","fr":"à, vers","gl":"a, ata, cara a, para, rumbo a, para con","he":"ל-; מסמן שינוי למצב חדש (צביעה בלבן, בחירה לנשיא)","ru":"на (как направление); дательный падеж; в (при глаголах превращения в, изменения в)"}
 {"T":"s","d":"indicante un ata cual on asinia a la ojeto presedente","n":"Nota la difere entre `me instrui el a comprende` (cual sinifia `me instrui el afin _el_ comprende`) e `me instrui el per comprende` (cual sinifia `me instrui el afin _me_ comprende`).","u":"el comanda la soldatos a ataca la fortres","en":"(influencing another) to (do something)","es":"con el objeto de, (influir a alguien para que haga algo)","fr":"à","he":"ל-, למען המטרה ..."}
 {"T":"s","d":"clarinte ce un otra preposada, direta seguente, indica un loca cual on ateni o vole ateni","n":"En `me pone la libros en la saco`, la sinifia de `pone` sufisi per clari ce la libros no comensa en la saco. Ma si `me move los en la saco`, cisa los es ja ala e me fa no plu ca un ajusta. `Me move los a en la saco` dise clar ce los vade a la saco.","u":"la gato ia salta a sur la table; me pone la libros (a) en la saco","en":"(clarifying, if necessary, that the following preposition indicates motion towards a location)","eo":"-n (en -n, sur -n)","es":"(clarifica, si es necesario, que la preposición siguiente indica movimiento hacia un punto)","he":"ל-, בכיוון ל-"}
 {"T":"s","d":"cambiante un otra preposada, direta seguente e no segueda par un nom, a un averbo","n":"`A ante` sinifia `ante esta o acel tempo o loca`, dependente de la contesto. `Move a su` sinifia `desende`.","u":"la saco es a supra; me va pone la saco a supra; la gato ia salta a su; el ia resenia la teatral a pos","v":"ante, contra, cuando, do, en, entre, pos, sirca, su, supra, sur","en":"(converting the following preposition into an adverb indicating location or motion)","eo":"-e, -en (poste, supren, malsupren)","es":"(convierte la preposición siguiente en un adverbio indicando localización o movimiento)","he":"הופך מילת יחס לתואר הפועל"}
@@ -12,7 +12,7 @@
 {"T":"r","L":"abaco","C":["n","mat","util","arci"],"d":"un util per calcula con perletas liscable; un bloco plata sur la capital de un colona, cual suporta la arcitrava","i":"#","en":"abacus","eo":"abako","es":"ábaco","fr":"boulier","he":"אבקוס, חשבוניה","ru":"счёты"}
 {"T":"r","L":"abade","C":["n","rel"],"d":"la xef de un grupo de monces mas","en":"abbot","eo":"abato","es":"abad","fr":"abbé","he":"ראש מנזר","ru":"аббат, настоятель, игумен"}
 {"L":"abade xef","C":["n"],"en":"head abbot, archimandrite","es":"archimandrita (en iglesias ortodoxas e iglesias orientales católicas)","he":"ראש מנזר","ru":"архимандрит"}
-{"L":"abadal","C":["a"],"en":"abbatial","es":"abacial","he":"מנזרי, של מנזר","ru":"аббатский"}
+{"L":"abadal","C":["a"],"en":"abbatial","es":"abacial, abadengo","he":"מנזרי, של מנזר","ru":"аббатский"}
 {"L":"abaderia","C":["n"],"en":"abbey","eo":"abatejo","es":"abadía","fr":"abbaye","he":"מנזר","ru":"аббатство"}
 {"L":"abadesa","C":["n"],"d":"la xef de un grupo de monces fema","en":"abbess","eo":"abatino","es":"abadesa","fr":"abbesse","he":"ראש מנזר נשים, נזירה ראשית","ru":"аббатиса, настоятельница"}
 {"L":"abadia","C":["n"],"en":"abbacy (post, period)","es":"abadía","he":"כהונת ראש המנזר","ru":"период игуменства"}
@@ -42,7 +42,7 @@
 {"T":"r","L":"Abisinia","C":["n","jeo","ist"],"d":"un impero istorial, composada de Ertra moderna e la dui norde de Itiopia","en":"Abyssinia, Ethiopian Empire","es":"Abisinia","he":"חבש"}
 {"L":"abisinian","C":["a"],"en":"Abyssinian","es":"abisinio","he":"חבשי"}
 {"L":"abisinian","C":["n","dem"],"en":"Abyssinian","es":"abisinio","he":"חבשי"}
-{"T":"r","L":"abita","C":["vt"],"d":"usa (un loca) como sua casa","n":"La ojeto de `abita` es tipal un spesie de casa. On usa `en` per presenta un loca plu jeneral, como un strada o pais.","u":"el abita un aparte; el abita en Moscva; el abita en la campania; el abita un caseta en la campania","an":"habitar, morar","da":"bo, bebo","de":"wohnen","en":"live in, inhabit, reside in, dwell in, settle in","eo":"loĝi en","es":"habitar, vivir, residir","fr":"habiter dans/à","gl":"habitar, residir, ocupar, vivir en, morar en","he":"לגור, להתגורר, לשכון, להשתקע","mt":"nitkellem, ħajjin"}
+{"T":"r","L":"abita","C":["vt"],"d":"usa (un loca) como sua casa","n":"La ojeto de `abita` es tipal un spesie de casa. On usa `en` per presenta un loca plu jeneral, como un strada o pais.","u":"el abita un aparte; el abita en Moscva; el abita en la campania; el abita un caseta en la campania","an":"habitar, morar","da":"bo, bebo","de":"wohnen","en":"live in, inhabit, reside in, dwell in, settle in","eo":"loĝi en","es":"habitar, vivir, residir, morar en","fr":"habiter dans/à","gl":"habitar, residir, ocupar, vivir en, morar en","he":"לגור, להתגורר, לשכון, להשתקע","mt":"nitkellem, ħajjin"}
 {"L":"abita","C":["n"],"en":"habitation, residency, dwelling (state)","eo":"loĝado","es":"habitación, residencia","he":"התגוררות, איכלוס"}
 {"L":"abitable","C":["a"],"en":"habitable, inhabitable, livable|liveable","eo":"loĝebla","es":"habitable","he":"ראוי למגורים"}
 {"L":"abitablia","C":["n"],"en":"habitability, inhabitability, livability|liveability","eo":"loĝebleco","es":"habitabilidad","he":"היות מבנה או סביבה ראוי למגורים"}
@@ -102,10 +102,10 @@
 {"L":"abrasante","C":["a"],"en":"embracing, hugging; tight, tight-fitting, skintight, close-fitting, form-fitting, figure-hugging","eo":"brakumanta, ĉirkaŭbrakuma, ĉirkaŭpremanta; strikta","es":"ceñido, ajustado, apretado, estricto","he":"מחבק, צמוד"}
 {"T":"r","L":"abri","C":["vnt"],"d":"(un porte o contenador) deveni noncluida, permetente ce on pasa tra lo o asede sua contenidas; (un veste) deveni desfisada o desliada; (un valva o flue eletrical) comensa funsiona","de":"öffnen","en":"open, open up; undo, unfasten, come undone, come unbuttoned, come untied, fall open; turn on, switch on (tap, power)","eo":"malfermiĝi, malligiĝi, malbutoniĝi, ŝaltiĝi","es":"abrirse","fr":"s'ouvrir","he":"להיפתח; להידלק"}
 {"L":"abri","C":["vt"],"de":"Öffnung","en":"open, open up; undo, unfasten, unbutton, untie, open; turn on, switch on","eo":"malfermi; malligi, malbutoni; ŝalti","es":"abrir","gl":"abrir","he":"לפתוח; להדליק"}
-{"L":"abri","C":["n"],"d":"un ata de abri; un spasio o buco do on pote entra","an":"apertura, furacu, aguyeru, buracu, furu","da":"åbning","en":"opening, aperture, orifice (action, result)","eo":"malfermo, malfermaĵo, aperturo","es":"abertura, apertura","fr":"ouverture","gl":"apertura, buraco, orificio","he":"פתיחה; פתח, צוהר"}
+{"L":"abri","C":["n"],"d":"un ata de abri; un spasio o buco do on pote entra","an":"apertura, furacu, aguyeru, buracu, furu","da":"åbning","en":"opening, aperture, orifice (action, result)","eo":"malfermo, malfermaĵo, aperturo","es":"abertura, apertura, agujero, orificio","fr":"ouverture","gl":"apertura, buraco, orificio","he":"פתיחה; פתח, צוהר"}
 {"L":"abri la via de","C":["esp"],"en":"pioneer","eo":"pioniri","es":"liderar, ser el primero","he":"להיות חלוץ, לפרוץ דרך"}
 {"L":"abrable","C":["a"],"en":"openable, foldout","es":"desplegable","he":"שניתן לפתיחה"}
-{"L":"abrida","C":["a"],"da":"åben","de":"geöffnet","en":"open, opened; unabashed","eo":"malfermita","es":"abierto","fr":"ouvert","gl":"aberto, franco, exposto","he":"פתוח"}
+{"L":"abrida","C":["a"],"da":"åben","de":"geöffnet","en":"open, opened; unabashed","eo":"malfermita","es":"abierto, franco, expuesto","fr":"ouvert","gl":"aberto, franco, exposto","he":"פתוח"}
 {"L":"abridia","C":["n"],"en":"openness","es":"espacio, amplitud","he":"פתיחות"}
 {"L":"abrinte","C":["a"],"en":"opening","es":"abierto, de apertura","he":"פתיחה"}
 {"L":"abrinte vias","C":["a"],"en":"pioneering, groundbreaking","es":"pionero, innovador, revolucionario","he":"חלוצי, פורץ דרך"}
@@ -150,7 +150,7 @@
 {"T":"r","L":"acasia","C":["n","pla"],"d":"un arbor o arboreta de climas calda, con flores blanca o jala","i":"#","o":"de elinica akakia","t":"Acacia","en":"acacia, thorntree, wattle","eo":"akacio","he":"שיטה (עץ)"}
 {"T":"r","L":"acaso","C":["a"],"d":"aveninte en modo o ordina nonpredisable","en":"random, arbitrary, erratic, haywire, accidental, incidental, adventitious, fortuitous","eo":"hazarda, arbitra","gl":"seica","he":"אקראי, רנדומלי, שרירותי, מקרי, מזדמן, לא צפוי"}
 {"L":"acaso","C":["av"],"en":"randomly, arbitrarily, by chance, by accident, accidentally, incidentally","eo":"hazarde, arbitre","he":"באופן אקראי, במקרה"}
-{"L":"acaso","C":["n"],"da":"Zufall","en":"chance, luck, accident (event)","eo":"hazardo, hazarda okazo","he":"מקרה, אירוע לא צפוי"}
+{"L":"acaso","C":["n"],"da":"Zufall","en":"chance, luck, accident (event)","eo":"hazardo, hazarda okazo","es":"accidente, infortunio, acaso","he":"מקרה, אירוע לא צפוי"}
 {"L":"acaso locada","C":["a"],"en":"adventitious, placed accidentally","he":"(בוטניקה) אדוונטיבי"}
 {"L":"acasi","C":["vnt"],"en":"randomize|is, jumble, shuffle, mix","eo":"hazardiĝi, arbitriĝi","he":"להתארגן בצורה אקראית"}
 {"L":"acasi","C":["vt"],"en":"randomize|is, jumble, shuffle, mix","eo":"hazardigi, arbitrigi","he":"לארגן בצורה אקראית"}
@@ -164,7 +164,7 @@
 {"T":"r","L":"Acea","C":["n","jeo","ist"],"c":"Patra","d":"un provinse en Elas","en":"Achaea (Greek region)","eo":"Aĥeo","he":"אכאיה (מחוז ביוון)"}
 {"L":"acean","C":["a"],"en":"Achaean","eo":"aĥea","he":"ששייך לאכאיה"}
 {"L":"acean","C":["n","dem"],"d":"un membro de la popla de Acea; (en Homero) un person elinica","en":"Achaean","eo":"aĥeano; aĥajano","he":"תושב אכאיה; (בשירתו של הומרוס) אדם יווני"}
-{"T":"r","L":"acel","C":["d"],"d":"cual nos vide ala; cual nos ia indica ja","g":"determinantes#determinantes_de_mostra","n":"`Acel` es un varia asentuada de `la`. Lo contrasta comun con `esta`, cual indica un person o cosa plu prosima (fisical o metafor).","da":"denne, dette","de":"das","en":"that, those, yonder, yon","eo":"tiu","gl":"ese, esa, aquel, aquela, ese, esa, iso, aquel, aquela, aquilo","he":"ההוא, זה ששם"}
+{"T":"r","L":"acel","C":["d"],"d":"cual nos vide ala; cual nos ia indica ja","g":"determinantes#determinantes_de_mostra","n":"`Acel` es un varia asentuada de `la`. Lo contrasta comun con `esta`, cual indica un person o cosa plu prosima (fisical o metafor).","da":"denne, dette","de":"das","en":"that, those, yonder, yon","eo":"tiu","es":"ese, esa, aquel, aquella, ése, ésa, eso, aquél, aquélla, aquello","gl":"ese, esa, aquel, aquela, ese, esa, iso, aquel, aquela, aquilo","he":"ההוא, זה ששם"}
 {"L":"acel","C":["pron"],"de":"das","en":"that, that one; the former","eo":"tiu","he":"ההוא, זה ששם"}
 {"L":"aceles","C":["pron","pl"],"en":"those, those ones","eo":"tiuj","he":"ההם, אלה ששם"}
 {"L":"par acel","C":["av"],"en":"thereby","he":"על-ידי כך"}
@@ -188,7 +188,7 @@
 {"L":"nonacompaniada","C":["a"],"en":"unaccompanied","eo":"senakompana","he":"ללא ליווי"}
 {"T":"r","L":"Aconcagua, Monte","C":["n","jeo"],"d":"la monte la plu grande estra Asia, en la Andes de Arjentina","en":"Aconcagua","he":"אקונגווה (הר בארגנטינה)"}
 {"T":"r","L":"aconito","C":["n","pla"],"d":"un planta venenosa con flores de forma elmin","i":"#","o":"de elinica akoniton","t":"Aconitum","en":"aconite, monkshood, wolfsbane (plant)","eo":"akonito","he":"אקוניטון (צמח)"}
-{"T":"r","L":"acorda","C":["vt","gov","ling"],"d":"ave la mesma opina (con algun) sur; es coerente (con alga cosa); dise ce on va (fa un ata)","u":"el ia acorda canta","da":"være enig, blive enig","de":"übereinstimmung","en":"agree to, consent, assent, accede, be in agreement (about), concur, accord; agree (grammar); match up, correspond, tally (with); be compatible","eo":"konsenti pri","gl":"acordar, concordar, consentir, estar de acordo, poñerse de acordo","he":"להסכים; להתאים, להלום"}
+{"T":"r","L":"acorda","C":["vt","gov","ling"],"d":"ave la mesma opina (con algun) sur; es coerente (con alga cosa); dise ce on va (fa un ata)","u":"el ia acorda canta","da":"være enig, blive enig","de":"übereinstimmung","en":"agree to, consent, assent, accede, be in agreement (about), concur, accord; agree (grammar); match up, correspond, tally (with); be compatible","eo":"konsenti pri","es":"acordar, concordar, consentir, estar de acuerdo, ponerse de acuerdo","gl":"acordar, concordar, consentir, estar de acordo, poñerse de acordo","he":"להסכים; להתאים, להלום"}
 {"L":"acorda","C":["n","mus","ling"],"d":"armonia de opina; un grupo de notas armoniosa cual sona en junta; un cambia a la infleta de un parola, refletante un otra parola a cual lo relata","en":"agreement, accordance, consent, consensus, concord, congruence, congruity, compatibility; entente; chord (music)","eo":"konsento, konkordo, akordo, interkonsento; akordo","he":"הסכמה, הסכם; התאמה, הלימה"}
 {"L":"acorda con testa","C":["esp"],"en":"nod one's head","eo":"kapjesi","he":"להנהן"}
 {"L":"acorda de coesiste","C":["n"],"en":"modus vivendi, agreement to coexist","he":"מודוס ויוונדי, הסכם בין צדדים חלוקים"}
@@ -222,7 +222,7 @@
 {"T":"r","L":"acrostica","C":["a","ling"],"o":"de elinica akron (fini) + stikhos (linia)","en":"acrostic","he":"אקרוסטיכון"}
 {"L":"acrostica","C":["n"],"d":"un testo en cual la leteras, silabas o parolas prima de cada linia o paragraf formi un mesaje ascondeda","en":"acrostic","he":"אקרוסטיכון"}
 {"T":"r","L":"acrotera","C":["n","arte"],"d":"un sculta suportada par un plataforma a la apico de la fronton de un construida clasica","o":"de elinica akroterion (culmina, estrema)","en":"acroterion, acroterium","he":"אקרוטריון"}
-{"T":"r","L":"acrupi","C":["vnt"],"d":"sta en posa basa con jenos pliada; senta sur sua talones; basi rapida (sua testa o corpo) per evita un colpa o per no es videda par otras","i":"#","da":"sidde på hug","de":"hocken","en":"crouch, squat, hunker, duck","eo":"kaŭri","gl":"anicarse, acazaparse, sentarse en crequenas, agacharse","he":"לכרוע, להשתופף"}
+{"T":"r","L":"acrupi","C":["vnt"],"d":"sta en posa basa con jenos pliada; senta sur sua talones; basi rapida (sua testa o corpo) per evita un colpa o per no es videda par otras","i":"#","da":"sidde på hug","de":"hocken","en":"crouch, squat, hunker, duck","eo":"kaŭri","es":"acuclillarse, agazaparse, sentarse en cuclillas, agacharse","gl":"anicarse, acazaparse, sentarse en crequenas, agacharse","he":"לכרוע, להשתופף"}
 {"L":"acrupi","C":["vt"],"en":"crouch, squat, hunker, duck","eo":"kaŭrigi","he":"לגרום למישהו לכרוע, להשתופף"}
 {"L":"acrupi se","C":["esp"],"en":"crouch down, squat down","eo":"kaŭriĝi","he":"לכרוע, להשתופף"}
 {"L":"acrupi temosa","C":["vnt"],"en":"cower, cringe, shrink","eo":"kaŭri pro timo","he":"להתכווץ מרוב פחד, להירתע בפחד"}
@@ -246,7 +246,7 @@
 {"L":"acual","C":["a"],"en":"aquatic","eo":"akva, akveja","he":"מימי, שקשור למים"}
 {"L":"acueria","C":["n"],"d":"un tance o grupo de tances conteninte animales e plantas acual","i":"#","en":"aquarium","eo":"akvario","he":"אקווריום"}
 {"L":"acui","C":["vt"],"d":"ajunta acua a","en":"water","he":"להשקות, להוסיף מים"}
-{"L":"acuin","C":["a"],"d":"(un sustantia) simil a acua, spesial en relata a sua capasia de flue","da":"tyndtflydende, tynd","de":"wässrig","en":"watery, runny, thin, non-viscous","eo":"akveca, fluema, neviskoza","he":"מימי, נוזלי, דליל"}
+{"L":"acuin","C":["a"],"d":"(un sustantia) simil a acua, spesial en relata a sua capasia de flue","da":"tyndtflydende, tynd","de":"wässrig","en":"watery, runny, thin, non-viscous","eo":"akveca, fluema, neviskoza","es":"aguado, delgado, acuoso (de poca viscosidad)","he":"מימי, נוזלי, דליל"}
 {"L":"acuor","C":["n"],"d":"un person ci trae acua","en":"water carrier, water bearer","eo":"akvisto, akvoportanto","he":"נושא מים"}
 {"L":"Acuor","C":["n","ast"],"d":"un constela grande de la zodiaco, entre la Capra e la Pexes","s":"♒","en":"Aquarius (constellation)","eo":"Akvisto, Amforo","he":"דלי (קבוצת כוכבים)"}
 {"L":"acuosa","C":["a"],"d":"conteninte o empapada con multe acua","en":"watery, aqueous; waterlogged, sodden, soggy","eo":"akvoplena, tramalseka, saturita","he":"מימי, מכיל מים; מוצף, רווי, ספוג"}
@@ -300,12 +300,12 @@
 {"L":"autoaderente","C":["a"],"en":"self-adhesive, self-sticking","eo":"memglua","es":"autoadherente, autoadesivo","he":"דביק מעצמו"}
 {"L":"nonaderente","C":["a"],"d":"(un util de cosini) covreda con un sustantia cual impedi la adere de comedas","en":"non-adhesive, non-stick","eo":"neadhera, kontraŭadhera","es":"antiadherente","he":"מונע הידבקות"}
 {"T":"r","L":"adiabatica","C":["a","fis"],"d":"no permetente ce caldia entra a o sorti de un sistem","o":"de elinica a- (no) + dia (tra) + batos (pasable)","en":"adiabatic (physics)","he":"אדיאבטי"}
-{"T":"r","L":"adio","C":["esc"],"d":"diseda cuando on parti per un tempo longa","an":"adiós","da":"farvel","de":"auf Wiedersehen","en":"goodbye, farewell, adieu","eo":"adiaŭ","gl":"adeus, ata pronto, ata a vista, vémonos, ata logo","he":"שלום, להתראות, ביי"}
+{"T":"r","L":"adio","C":["esc"],"d":"diseda cuando on parti per un tempo longa","an":"adiós","da":"farvel","de":"auf Wiedersehen","en":"goodbye, farewell, adieu","eo":"adiaŭ","es":"adiós, hasta pronto, hasta la vista, nos vemos, hasta luego","gl":"adeus, ata pronto, ata a vista, vémonos, ata logo","he":"שלום, להתראות, ביי"}
 {"L":"adio","C":["n"],"en":"farewell, send-off, valediction","he":"פרידה"}
 {"L":"adial","C":["a"],"en":"valedictory","he":"של פרידה"}
 {"T":"r","L":"adipos","C":["a","anat"],"d":"(texeda) usada per reserva gras","o":"de latina adip- (gras) + -osus (con un cualia spesifada)","en":"adipose","he":"של רקמה שומנית"}
 {"T":"r","L":"adirije","C":["vt"],"en":"address","eo":"adresi","gl":"dirección, domicilio, acenos","he":"לרשום כתובת"}
-{"L":"adirije","C":["n"],"d":"un descrive consisa de la loca de un construida o aparte, tipal incluinte nomes de stradas e areas jeografial; un cadena de sinias cual identifia unica un fix en un computador o rede; un intero cual identifia unica un loca en la memoria de un computador","da":"adresse","de":"Adresse","en":"address; path (of a computer file)","eo":"adreso, vojo, vojnomo","he":"כתובת, מען"}
+{"L":"adirije","C":["n"],"d":"un descrive consisa de la loca de un construida o aparte, tipal incluinte nomes de stradas e areas jeografial; un cadena de sinias cual identifia unica un fix en un computador o rede; un intero cual identifia unica un loca en la memoria de un computador","da":"adresse","de":"Adresse","en":"address; path (of a computer file)","eo":"adreso, vojo, vojnomo","es":"dirección, domicilio, señas (coordenadas postales)","he":"כתובת, מען"}
 {"L":"adirije de eposta","C":["n"],"en":"email address","eo":"retpoŝta adreso, retadreso","he":"כתובת דואר אלקטרוני"}
 {"L":"adirije ueb","C":["n"],"en":"web address, URL","eo":"reteja adreso, URL","he":"כתובת אתר אינטרנט"}
 {"T":"r","L":"adn","C":["c","cim","bio"],"d":"asida desosiribonucleal","en":"DNA","eo":"DNA","fr":"ADN","he":"די-אן-איי, חומצה דאוקסיריבונוקלאית"}
@@ -318,7 +318,7 @@
 {"L":"adolesente","C":["n"],"en":"adolescent, teenager","eo":"adoleskanto","he":"נער, מתבגר"}
 {"L":"preadolesente","C":["a"],"en":"preadolescent, prepubescent","he":"שלפני ההתבגרות"}
 {"L":"preadolesente","C":["n"],"en":"preadolescent, preteen, tween","he":"ילד לפני גיל ההתבגרות"}
-{"T":"r","L":"adomen","C":["n","anat"],"d":"la parte de la corpo cual conteni la organos de dijesta e reprodui","an":"abdome","da":"mave, underliv","de":"Unterleib","en":"abdomen, midriff","eo":"abdomeno","he":"בטן"}
+{"T":"r","L":"adomen","C":["n","anat"],"d":"la parte de la corpo cual conteni la organos de dijesta e reprodui","an":"abdome","da":"mave, underliv","de":"Unterleib","en":"abdomen, midriff","eo":"abdomeno","es":"abdomen","he":"בטן"}
 {"L":"adomenal","C":["a"],"en":"abdominal","eo":"abdomena","he":"בטני, של הבטן"}
 {"T":"r","L":"adonis","C":["n"],"d":"un om joven bela","i":"#","en":"adonis","he":"אדוניס"}
 {"T":"r","L":"-ador","C":["sf","n","util"],"d":"ajuntada per nomi un macina o util (o, en alga casos, un droga) cual fa la ata de un verbo, produi o usa un nom, o aplica la cualia de un ajetivo","u":"computador; cloador; silentador; inibador","en":"-er (tool, machine)","eo":"-ilo","he":"(סיומת) מכשיר או כלי"}
@@ -395,7 +395,7 @@
 {"T":"r","L":"afoca","C":["vnt","med"],"d":"sofoca pos sumerji en licuida","da":"drukne","de":"ertrinken","en":"drown","eo":"droni","he":"לטבוע"}
 {"L":"afoca","C":["vt"],"de":"ertränken","en":"drown","eo":"dronigi","he":"להטביע"}
 {"L":"afoca","C":["n"],"en":"drowning","he":"טביעה"}
-{"T":"r","L":"afonda","C":["vnt"],"d":"sumerji lenta","da":"synke","de":"sinken","en":"sink, scuttle","eo":"sinki","he":"לשקוע"}
+{"T":"r","L":"afonda","C":["vnt"],"d":"sumerji lenta","da":"synke","de":"sinken","en":"sink, scuttle","eo":"sinki","es":"hundir(se), sumergir(se), sumir(se), naufragar, irse a pique, echar a pique","he":"לשקוע"}
 {"L":"afonda","C":["vt"],"en":"sink, scuttle","eo":"sinkigi","he":"לשקע"}
 {"L":"afondada","C":["a"],"en":"sunken","he":"שקוע, משוקע"}
 {"T":"r","L":"afonia","C":["n","med","ling","uma"],"d":"un noncapasia de parla pos dana a la larinje o boca","o":"de elinica a- (sin) + phone (vose)","en":"aphonia (medical)","he":"אובדן הקול"}
@@ -438,7 +438,7 @@
 {"T":"r","L":"agnostica","C":["a","rel"],"d":"credente ce on no pote sabe esce dios esiste","o":"de elinica a- (no) + gnostos (sabe)","en":"agnostic","eo":"agnostika","fr":"agnostique","he":"אגנוסטי"}
 {"L":"agnostica","C":["n"],"en":"agnostic","eo":"agnostikulo","he":"אגנוסטי"}
 {"L":"agnosticisme","C":["n"],"en":"agnosticism","eo":"agnostikismo","fr":"agnosticisme","he":"אגנוטיציזם"}
-{"T":"r","L":"ago","C":["n","util"],"d":"un util de cose, simil a un basteta multe streta, con un punto agu a un fini e un buco per un filo a la otra; la indicador de un orolojo o busola","i":"#","an":"aguya","da":"nål","de":"Nadel","en":"needle, hand (clock, compass)","eo":"kudrilo","fr":"aiguille","gl":"agulla","he":"מחט; מחוג שעון"}
+{"T":"r","L":"ago","C":["n","util"],"d":"un util de cose, simil a un basteta multe streta, con un punto agu a un fini e un buco per un filo a la otra; la indicador de un orolojo o busola","i":"#","an":"aguya","da":"nål","de":"Nadel","en":"needle, hand (clock, compass)","eo":"kudrilo","es":"aguja","fr":"aiguille","gl":"agulla","he":"מחט; מחוג שעון"}
 {"L":"ago de croxe","C":["n"],"en":"crochet needle, crochet hook","fr":"aiguille à crochet","he":"מסרגת קרושה"}
 {"L":"ago de pino","C":["n"],"d":"un folia streta, rijida e agu de un pino","en":"pine needle","eo":"pinpinglo","fr":"aiguille de pin","he":"מחט אורן"}
 {"L":"ago de tricota","C":["n"],"en":"knitting needle","fr":"aiguille à tricoter","he":"מסרגה"}
@@ -463,7 +463,7 @@
 {"T":"r","L":"agronomia","C":["n","cim","bio"],"d":"la siensa de maneja la cualia de tera e produi cultivas","o":"de elinica agros (campo) + nomos (ordina)","en":"agronomy","he":"אגרונומיה"}
 {"L":"agronomial","C":["a"],"en":"agronomic, agronomical","he":"אגרונומי"}
 {"L":"agronomiste","C":["n"],"en":"agronomist","he":"אגרונומיסט"}
-{"T":"r","L":"agu","C":["a"],"d":"con lama o punto capas de talia; (un sensa o mente) cual persepi eselente e rapida","p":"agú","an":"agudu, afiláu, apuntiáu, cortante","da":"skarp, spids","de":"scharf","en":"sharp, pointed, pointy; acute, keen (sense); sharp-tasting, pungent, tangy; acute (angle)","eo":"akra, sagaca","fr":"aigu, aiguisé, pointu","gl":"agudo, afiado, puntiagudo, cortante, penetrante","he":"חד, מחודד; פיקח, נבון, חריף, בעל תפיסה חדה"}
+{"T":"r","L":"agu","C":["a"],"d":"con lama o punto capas de talia; (un sensa o mente) cual persepi eselente e rapida","p":"agú","an":"agudu, afiláu, apuntiáu, cortante","da":"skarp, spids","de":"scharf","en":"sharp, pointed, pointy; acute, keen (sense); sharp-tasting, pungent, tangy; acute (angle)","eo":"akra, sagaca","es":"agudo, afilado, puntiagudo, cortante, penetrante","fr":"aigu, aiguisé, pointu","gl":"agudo, afiado, puntiagudo, cortante, penetrante","he":"חד, מחודד; פיקח, נבון, חריף, בעל תפיסה חדה"}
 {"L":"agi","C":["vnt"],"en":"sharpen, hone, whet","eo":"akriĝi","he":"להתחדד"}
 {"L":"agi","C":["vt"],"en":"sharpen, hone, whet","eo":"akrigi","fr":"aiguiser","he":"לחדד, להשחיז"}
 {"L":"agia","C":["n"],"en":"sharpness, acuteness, acuity, keenness","eo":"akreco","fr":"acuité","he":"חדות, חריפות"}
@@ -479,7 +479,7 @@
 {"T":"r","L":"aiai","C":["n","mam"],"d":"un lemur con dentes rodente e un dito media longa e streta per estrae larvas de arbores","i":"#","o":"de malagasi aiay","t":"Daubentonia madagascariensis","en":"aye-aye (primate)","eo":"fingrobesto, ajajo, daŭbentonio","fr":"aye-aye","he":"איי איי (בעל חיים)"}
 {"T":"r","L":"aiatola","C":["n","rel","gov"],"d":"un autoriosa en islam xia, spesial en Iran","o":"de arabi ayatu (simbol) + allah (dio)","en":"ayatollah","he":"אייתולה"}
 {"T":"r","L":"aicido","C":["n","spo"],"d":"un arte militar o autodefende nion cual redirije la atacas de la oposor","o":"de japanes ai (unida) + ki (spirito) + do (via)","en":"aikido","eo":"aikido, ajkido","fr":"aikido","he":"אייקידו"}
-{"T":"r","L":"aida","C":["vt"],"d":"fasili la taxe de (algun) par partisipa en lo; fa ce (un situa o problem) deveni plu bon","an":"aidar, ayudar, auxiliar","da":"hjælpe, assistere","de":"helfen","en":"help, assist, aid, abet, help out; serve (customer); improve","eo":"helpi","fr":"aider, assister; servir (client)","gl":"axudar, asistir, socorrer, auxiliar","he":"לעזור, לסייע"}
+{"T":"r","L":"aida","C":["vt"],"d":"fasili la taxe de (algun) par partisipa en lo; fa ce (un situa o problem) deveni plu bon","an":"aidar, ayudar, auxiliar","da":"hjælpe, assistere","de":"helfen","en":"help, assist, aid, abet, help out; serve (customer); improve","eo":"helpi","es":"ayudar, asistir, socorrer, auxiliar","fr":"aider, assister; servir (client)","gl":"axudar, asistir, socorrer, auxiliar","he":"לעזור, לסייע"}
 {"L":"aida","C":["esc"],"en":"help, mayday","he":"!הצילו! עזרה"}
 {"L":"aida","C":["n"],"en":"help, assistance, aid, succor|ur","eo":"helpo","he":"עזרה, סיוע"}
 {"L":"aida medical","C":["n","gov"],"d":"un furni organizada de cura medical a individuas o comunias","en":"medical assistance, healthcare","eo":"sanhelpo","he":"עזרה רפואית"}
@@ -487,7 +487,7 @@
 {"L":"aida sosial","C":["n","gov"],"d":"un suporta finansial per boni la state fisical e material de persones povre","en":"welfare, dole","eo":"sociala asignaĵo","he":"רווחה, סעד"}
 {"L":"aidador","C":["n","info"],"d":"un interfas cual presenta un serie de fenetras cual gida la usor tra un taxe","en":"assistant, wizard","eo":"helpilo","he":"(מחשבים) אשף"}
 {"L":"aidador personal","C":["n","info"],"d":"un computador portable, usada per organiza informa personal de la usor","en":"personal digital assistant, PDA, handheld computer, palmtop","eo":"poŝkomputilo","he":"מחשב כף יד"}
-{"L":"aidante","C":["a"],"da":"hjælpe-, reserve-","de":"Hilfs-","en":"helping, auxiliary, ancillary; complicit","eo":"helpa","fr":"auxiliaire","gl":"auxiliar (axudante)","he":"עוזר, מסייע"}
+{"L":"aidante","C":["a"],"da":"hjælpe-, reserve-","de":"Hilfs-","en":"helping, auxiliary, ancillary; complicit","eo":"helpa","es":"ayudante, auxiliar","fr":"auxiliaire","gl":"axudante, auxiliar","he":"עוזר, מסייע"}
 {"L":"aidor","C":["n"],"en":"helper, helpmate, assistant, aide, acolyte, accomplice, sidekick","eo":"helpanto","he":"עוזר, מסייע, סייע, אסיסטנט"}
 {"L":"aidor de xasa","C":["n"],"en":"hunting guide, gillie, ghillie, gilly","he":"מדריך צייד"}
 {"L":"aidor militar","C":["n"],"en":"adjutant","he":"(צבא) שליש"}
@@ -505,7 +505,7 @@
 {"T":"r","L":"aidaservor","C":["n","vn"],"d":"un laboror en un restorante ci prepara e limpi la tables","en":"busboy, busgirl, busser","he":"מפנה שולחנות, פיקולו"}
 {"T":"r","L":"ailanto","C":["n","pla"],"d":"un arbor alta e caduca con folias grande, de Asia e Australia","i":"#","o":"de ambones ailanto (arbor de sielo)","t":"Ailanthus","en":"ailanthus (tree)","fr":"ailanthe","he":"אילנתה בלוטית (עץ)"}
 {"T":"r","L":"ainstainio","C":["n","cim"],"d":"la elemento cimical con numero atomal 99","o":"de Einstein","s":"Es","en":"einsteinium (element)","he":"איינשטיניום (יסוד)"}
-{"T":"r","L":"aira","C":["n","cim"],"d":"la gas nonvidable cual ensirca la Tera, xef composada de nitrojen e osijen; (nonformal) la clima","an":"aire","da":"luft","de":"Luft","en":"air; (colloquial) weather","eo":"aero","fr":"air","gl":"ar","he":"אוויר"}
+{"T":"r","L":"aira","C":["n","cim"],"d":"la gas nonvidable cual ensirca la Tera, xef composada de nitrojen e osijen; (nonformal) la clima","an":"aire","da":"luft","de":"Luft","en":"air; (colloquial) weather","eo":"aero","es":"aire","fr":"air","gl":"ar","he":"אוויר"}
 {"L":"airador","C":["n"],"d":"un tubo tra cual un nador respira su la acua","i":"#","en":"snorkel, breathing mask, aerator","eo":"spirtubo","he":"שנורקל, צנרן"}
 {"L":"airal","C":["a"],"en":"aerial, in the air, of the air; overhead (cable)","eo":"aera","fr":"aérien","he":"אווירי"}
 {"L":"airi","C":["vt"],"d":"refresci (un sala o stofa) par esposa lo a aira fresca","en":"air, aerate","eo":"aerumi","fr":"aérer","he":"לאוורר"}
@@ -583,7 +583,7 @@
 {"L":"ajilia","C":["n"],"en":"agility, nimbleness","eo":"facilmoveco, vigleco","he":"זריזות, מהירות, קלילות תנועה"}
 {"T":"r","L":"ajiografia","C":["n","rel"],"d":"la studia istorial de la vives de la santas","o":"de elinica hagios (santa) + graphe (scrive)","en":"hagiography","eo":"hagiografio","he":"ביוגרפיה של קדושים"}
 {"L":"ajiografiste","C":["n"],"en":"hagiographer","eo":"hagiografo","he":"ביוגרף של קדושים"}
-{"T":"r","L":"ajita","C":["vt"],"d":"fa ce (algun) senti ansia","an":"ximelgar, sacudir, revolver, menear, alborotar","da":"røre","de":"umrühren","en":"agitate, excite, upset, fluster, worry, trouble, perturb","eo":"agiti, ĉagreni, malkvietigi, maltrankviligi","he":"להסעיר, לשלהב, להתסיס, להסית"}
+{"T":"r","L":"ajita","C":["vt"],"d":"fa ce (algun) senti ansia","an":"ximelgar, sacudir, revolver, menear, alborotar","da":"røre","de":"umrühren","en":"agitate, excite, upset, fluster, worry, trouble, perturb","eo":"agiti, ĉagreni, malkvietigi, maltrankviligi","es":"agitar, sacudir, revolver, menear, alborotar","he":"להסעיר, לשלהב, להתסיס, להסית"}
 {"L":"ajita","C":["n"],"en":"agitation, excitement, ado, tizzy, trouble","he":"תסיסה, שלהוב, סערת נפש, התרגשות; הסתה"}
 {"L":"ajitada","C":["a"],"en":"agitated, excited, upset, distraught, restless, restive, fitful, fidgety, squirrelly","eo":"agitita, malkvieta, maltrankvila","he":"נסער, משולהב"}
 {"L":"ajitor","C":["n"],"en":"agitator","he":"משלהב, מתסיס, מסית"}
@@ -625,10 +625,10 @@
 {"L":"reajusta","C":["vt"],"en":"readapt, readjust","he":"לכוונן שוב, לכוונן מחדש"}
 {"T":"r","L":"-al","C":["sf","a"],"d":"ajuntada a un nom per formi un ajetivo descrivente un person o cosa cual pertine jeneral a la nom","u":"siensal","en":"-al, -y (pertaining to)","he":"(-סיומת) קשור ל-, מתייחס ל"}
 {"T":"r","L":"-al","C":["sf","n","cim"],"d":"forminte nomes de alga aldehidos","en":"-al (aldehyde)","he":"(סיומת טכנית) סוג של אלדהיד"}
-{"T":"r","L":"ala","C":["av"],"d":"en acel loca","p":"alá","an":"ellí, allá, ahí","da":"der","de":"da, dort","en":"there, yonder; to there, thither","he":"שם, המקום ההוא"}
+{"T":"r","L":"ala","C":["av"],"d":"en acel loca","p":"alá","an":"ellí, allá, ahí","da":"der","de":"da, dort","en":"there, yonder; to there, thither","es":"allí, allá, ahí","he":"שם, המקום ההוא"}
 {"L":"a ala","C":["av"],"en":"to there, thither","he":"לשם, למקום ההוא"}
 {"L":"de ala","C":["av"],"en":"from there, thence","he":"משם, מהמקום ההוא"}
-{"T":"r","L":"ala","C":["n","bio","anat"],"d":"un parte de corpo cual un animal move per vola; un strutur rijida e orizonal a cada lado de un avion cual suporta lo en la aira; un parte de un construida grande, tipal protendente; la lado de un stadio teatral, nonvidable per la regardores; un peso plata cual pende o covre un abri, liada a sola un lado","i":"#","an":"ala (d'un ave, insectu, etc.)","de":"Flügel","en":"wing; fly, flap","eo":"flugilo; wing; kuliso; klapo","he":"כנף; אגף"}
+{"T":"r","L":"ala","C":["n","bio","anat"],"d":"un parte de corpo cual un animal move per vola; un strutur rijida e orizonal a cada lado de un avion cual suporta lo en la aira; un parte de un construida grande, tipal protendente; la lado de un stadio teatral, nonvidable per la regardores; un peso plata cual pende o covre un abri, liada a sola un lado","i":"#","an":"ala (d'un ave, insectu, etc.)","de":"Flügel","en":"wing; fly, flap","eo":"flugilo; wing; kuliso; klapo","es":"ala (de un ave, insecto, etc.)","he":"כנף; אגף"}
 {"L":"aleta","C":["n"],"d":"un membro larga sin ditos, par cual alga bestias de mar nada; un surfas xarnierida en la lado codal de un ala de avion","i":"#","en":"winglet, flipper; aileron","eo":"naĝilo; alerono","he":"סנפיר; מאזנת (חלק מכנף המטוס)"}
 {"L":"aleta de coda","C":["n"],"d":"cada de la du lobes de la coda de un balena","i":"#","en":"fluke (whale)","he":"סנפיר הזנב"}
 {"L":"aletin","C":["a"],"en":"flipperlike","he":"שדומה לסנפיר"}
@@ -669,7 +669,7 @@
 {"L":"alcalifilica","C":["a"],"en":"alkaliphilic","he":"אלקלופילי"}
 {"L":"alcalifilica","C":["n"],"en":"alkaliphile","he":"אורגניזם אלקלופילי"}
 {"T":"r","L":"alcalin","C":["a","cim"],"d":"(un sustantia) cual blui paper de pH, e neutri asidas o bola cuando on misca lo con los","o":"de arabi al-quali (senes)","da":"alkalisch","en":"alkaline","he":"אלקלי, בסיסי"}
-{"L":"alcalin","C":["n"],"en":"alkali, base","he":"חומר אלקלי, בסיס"}
+{"L":"alcalin","C":["n"],"en":"alkali, base","es":"alcalino","he":"חומר אלקלי, בסיס"}
 {"L":"alcalin corodente","C":["n"],"en":"caustic soda, lye","he":"סודה קאוסטית"}
 {"L":"alcalini","C":["vnt"],"en":"alkalize|is","he":"להפוך לחומר אלקלי"}
 {"L":"alcalini","C":["vt"],"en":"alkalize|is","he":"להפוך לחומר אלקלי"}
@@ -688,7 +688,7 @@
 {"T":"r","L":"alcin","C":["n","cim"],"d":"un idrocarbono nonsaturada con minima un lia truple de carbono","en":"alkyne (chemistry)","he":"(כימיה) אלקין"}
 {"T":"r","L":"alco","C":["n","avia"],"d":"un avia de mar con alas corta, trovada en mares norde, tipal con testa e dorso negra e peto blanca","i":"#","t":"Pinguinus impennis, Alca torda, Alle alle","en":"auk, razorbill, little auk, dovekie (bird)","he":"אלקה (ציפור)"}
 {"L":"alceta","C":["n","ani","avia"],"i":"#","t":"Aethia, Ptychoramphus","en":"auklet (bird)","he":"סוג של אלקה"}
-{"T":"r","L":"alcol","C":["n","cim","cos"],"d":"un licuida volatil, flamable e sin color, cual es la composante enebriante de vino, bir e otra bevidas, ance usada como un disolvente industrial e como un combustable","an":"alcohol","da":"alkohol","de":"Alkohol","en":"alcohol, booze","he":"אלכוהול"}
+{"T":"r","L":"alcol","C":["n","cim","cos"],"d":"un licuida volatil, flamable e sin color, cual es la composante enebriante de vino, bir e otra bevidas, ance usada como un disolvente industrial e como un combustable","an":"alcohol","da":"alkohol","de":"Alkohol","en":"alcohol, booze","es":"alcohol","he":"אלכוהול"}
 {"L":"alcol nonlegal","C":["n"],"en":"bootleg, moonshine","he":"אלכוהול לא חוקי"}
 {"L":"alcoleta","C":["n"],"d":"un bevida saborida con cuantia peti de alcol","en":"alcopop, malternative, spirit cooler"}
 {"L":"alcolosa","C":["a"],"en":"alcoholic (drink, content)","he":"אלכוהולי"}
@@ -735,7 +735,7 @@
 {"T":"r","L":"alexia","C":["n","med"],"d":"un noncapasia de reconose o leje parolas, tipal par causa de dana serebral","o":"de elinica a- (sin) + latina legere (leje)","en":"alexia (medical)","he":"(רפואה) אלקסיה"}
 {"T":"r","L":"alfa","C":["n","ling"],"d":"la letera prima de la alfabeta elinica; la membro dominante de un grupo","s":"Α α","en":"alpha (Greek letter)","he":"אלפא (האות הראשונה באלפבית היווני)"}
 {"L":"alfa mas","C":["n"],"en":"alpha male"}
-{"T":"r","L":"alfabeta","C":["n","ling"],"d":"un serie de leteras o simboles en un ordina fisada, usada per representa la sonas fundal de un lingua, tipal un serie de simboles per e consonantes e vocales","i":"#","o":"de la nomes de la du leteras prima en la alfabeta elinica - alpha + beta","an":"alfabetu","da":"alfabet","de":"Alphabet","en":"alphabet","he":"אלפבית"}
+{"T":"r","L":"alfabeta","C":["n","ling"],"d":"un serie de leteras o simboles en un ordina fisada, usada per representa la sonas fundal de un lingua, tipal un serie de simboles per e consonantes e vocales","i":"#","o":"de la nomes de la du leteras prima en la alfabeta elinica - alpha + beta","an":"alfabetu","da":"alfabet","de":"Alphabet","en":"alphabet","es":"alfabeto, abecedario","he":"אלפבית"}
 {"L":"alfabeta roman","C":["n","ling"],"d":"la serie de leteras de A asta Z, la sistem de scrive la plu comun en la mundo moderna","en":"Roman alphabet, Latin alphabet","he":"האלפבית הלטיני"}
 {"L":"alfabetal","C":["a"],"en":"alphabetic, alphabetical","he":"אלפביתי"}
 {"L":"alfabeti","C":["vt"],"en":"alphabetize|is, sort, put into alphabetical order","he":"לסדר בסדר אלפביתי"}
@@ -745,7 +745,7 @@
 {"L":"nonalfabetiste","C":["a"],"en":"illiterate, preliterate","he":"אנאלפביתי, בור, נבער"}
 {"T":"r","L":"alfalfa","C":["n","pla"],"d":"un legum con flores bluin e folias simil a trefolias, comun cultivada per nuri bestias","i":"#","t":"Medicago sativa","en":"alfalfa","he":"אלפלפה, אספסת"}
 {"T":"r","L":"alfanumeral","C":["a","info"],"d":"composada de sola leteras e dijitos","en":"alphanumeric","he":"אלפאנומרי (שמכיל אותיות וספרות)"}
-{"T":"r","L":"alga","C":["d"],"d":"referente a un person o cosa nonidentifiada, o un cuantia nonesata ma relativa peti","g":"determinantes#determinantes_de_eleje","an":"dalgún","da":"nogen, noget, nogle","de":"einige","en":"some, certain, a certain (unspecified identity); some, several, a few, a little, a small amount of (unspecified quantity); any (in a question or negative statement)","he":"כמה, מספר מסויים, מספר מועט"}
+{"T":"r","L":"alga","C":["d"],"d":"referente a un person o cosa nonidentifiada, o un cuantia nonesata ma relativa peti","g":"determinantes#determinantes_de_eleje","an":"dalgún","da":"nogen, noget, nogle","de":"einige","en":"some, certain, a certain (unspecified identity); some, several, a few, a little, a small amount of (unspecified quantity); any (in a question or negative statement)","es":"algún, alguno, alguna, algunos, algunas","he":"כמה, מספר מסויים, מספר מועט"}
 {"L":"alga","C":["av"],"d":"a alga grado","en":"somewhat, rather, fairly, quite","he":"במקצת, במידת מה, למדי"}
 {"L":"alga","C":["pron"],"n":"La pronom `alga` pote refere a un o a plu. Per claria masima, on pote usa ance la forma plural `algas`.","u":"alga de la pan; alga de la botecas; alga dise","en":"some (singular or plural); several","he":"כמה, מספר מסויים, מספר מועט"}
 {"L":"algas","C":["pron","pl"],"u":"algas dise","en":"some, several, a few (people or things, optional plural pronoun)","he":"אנשים מסויימים, דברים מסויימים"}
@@ -802,7 +802,7 @@
 {"L":"malalinia","C":["n"],"en":"misalignment","he":"יישור לקוי"}
 {"L":"realinia","C":["vnt"],"en":"realign","he":"להתיישר מחדש"}
 {"L":"realinia","C":["vt"],"en":"realign","he":"ליישר מחדש"}
-{"T":"r","L":"alio","C":["n","pla","cos"],"d":"un planta en familia de onion; la bulbo de esta, con odor e sabor multe forte, usada en cosini","i":"#","t":"Allium sativum","an":"ayu","da":"hvidløg","de":"Knoblauch","en":"garlic","he":"שום"}
+{"T":"r","L":"alio","C":["n","pla","cos"],"d":"un planta en familia de onion; la bulbo de esta, con odor e sabor multe forte, usada en cosini","i":"#","t":"Allium sativum","an":"ayu","da":"hvidløg","de":"Knoblauch","en":"garlic","es":"ajo","he":"שום"}
 {"T":"r","L":"alise","C":["n"],"d":"un venta, spesial a mar, cual move constante en dirije a la ecuator, de la norde-este en la emisfera norde e de la sude-este en la emisfera sude","en":"trade wind","he":"רוחות הסחר"}
 {"T":"r","L":"alitose","C":["n","med"],"d":"respira malodorosa","o":"de latina halitus (respira)","en":"halitosis, bad breath","he":"ריח רע מהפה, באשת"}
 {"T":"r","L":"aljebra","C":["n","mat"],"d":"un ramo de matematica cual usa leteras e otra simboles per representa valuas en formulas e egalis","en":"algebra","he":"אלגברה"}
@@ -812,7 +812,7 @@
 {"L":"-aljica","C":["sf","a","med"],"en":"-algic","he":"(סיומת טכנית) שקשור לכאב"}
 {"T":"r","L":"almanaco","C":["n"],"d":"un calendario anial cual inclui datas importante, datos astronomial, tables de mareas, etc","o":"de arabi al-manak (calendario)","en":"almanac","he":"אלמנך"}
 {"T":"r","L":"alno","C":["n","pla"],"d":"un arbor comun en familia de betul, con folias dentosa, amentos mas e conos fema","i":"#","t":"Alnus","en":"alder","he":"אלנוס, אלמון (עץ)"}
-{"T":"r","L":"alo","C":["esc"],"d":"salutante algun o revelante sua presentia","p":"aló","an":"hola, ¿cómo tas?","da":"hallo, hej","de":"hallo","en":"hello, hi, yo (greeting); hey, yoo-hoo (calling)","he":"שלום, היי"}
+{"T":"r","L":"alo","C":["esc"],"d":"salutante algun o revelante sua presentia","p":"aló","an":"hola, ¿cómo tas?","da":"hallo, hej","de":"hallo","en":"hello, hi, yo (greeting); hey, yoo-hoo (calling)","es":"hola, que tal, como estas, saludos","he":"שלום, היי"}
 {"L":"alo ala","C":["esc"],"en":"hello there, hi there, ahoy there","he":"היי לך, שלום לכם"}
 {"T":"r","L":"alo-","C":["pf","tecn"],"d":"otra","en":"allo- (other)","he":"(קידומת טכנית) אחר או נוסף"}
 {"T":"r","L":"aloata","C":["n","mam"],"d":"un simia con coda prensil e un cria forte e ululante, nativa de la tropicos de America","i":"#","t":"Alouatta","en":"howler monkey","he":"שאגן (קוף)"}
@@ -822,7 +822,7 @@
 {"L":"alojen","C":["n"],"en":"halogen","he":"הלוגן"}
 {"T":"r","L":"alopatia","C":["n","med"],"d":"la trata normal de maladias, usante medisines con efetos cual oposa la sintomes","o":"de elenica allos (otra) + patheia (maladia)","en":"allopathy","he":"אלופתיה"}
 {"L":"alopatica","C":["a"],"en":"allopathic","he":"אלופתי"}
-{"T":"r","L":"alora","C":["av"],"d":"a acel ora, a acel tempo, a la tempo pertinente, no aora; donce","n":"No usa `alora` per dise `como la ata seguente`. Usa `a pos` o `pos alora` per esta.","u":"la vive alora ia es plu simple; si tu come tua vejetales, alora tu pote come un torteta","v":"a pos","an":"entós, naquel tiempu, dempués, depués, nel intre","da":"da","de":"dann","en":"then (at that time); therefore, consequently, in that case","he":"אז, בזמן ההוא"}
+{"T":"r","L":"alora","C":["av"],"d":"a acel ora, a acel tempo, a la tempo pertinente, no aora; donce","n":"No usa `alora` per dise `como la ata seguente`. Usa `a pos` o `pos alora` per esta.","u":"la vive alora ia es plu simple; si tu come tua vejetales, alora tu pote come un torteta","v":"a pos","an":"entós, naquel tiempu, dempués, depués, nel intre","da":"da","de":"dann","en":"then (at that time); therefore, consequently, in that case","es":"entonces, en aquel tiempo, después, luego, en seguida","he":"אז, בזמן ההוא"}
 {"L":"alora","C":["cj"],"d":"donce","en":"then, so","he":"אז, ואז, לאחר מכן"}
 {"L":"alora","C":["esc"],"en":"well, now, now then, right, right then, so","he":"טוב, בסדר, ובכן, אז"}
 {"L":"asta alora","C":["esp"],"en":"until then, yet; see you next time, bye for now","he":"עד אז; להתראות"}
@@ -841,7 +841,7 @@
 {"L":"Alpes","C":["n","pl","jeo"],"d":"un cadena de montes en Suiz, Lictenstain, Osteraic, Deutxland sude, Frans este e Italia norde","i":"#","en":"Alps","he":"הרי האלפים"}
 {"T":"r","L":"alsea","C":["n","pla"],"d":"un planta alta eurasian en familia de malva","i":"#","t":"Alcea rosea","en":"hollyhock (plant)","he":"חוטמית (צמח)"}
 {"T":"r","L":"alselafo","C":["n","mam"],"d":"un antilope grande de Africa, en familia de gnu, con testa longa e dorso inclinada","i":"#","t":"Alcelaphus buselaphus","en":"hartebeest (antelope)","he":"בובאל איילי (אנטילופה)"}
-{"T":"r","L":"alta","C":["a"],"d":"con multe estende a supra; situada a un distantia grande supra la tera, la mar, o un otra punto de refere; (un parte) situada supra la loca tipal; con grado o prestijia plu ca la majoria; con custa plu ca normal; (un tono) con frecuentia grande","an":"alto, grande","da":"høj","de":"hoch, lang","en":"high, lofty; upper, higher; tall; majestic, great","he":"גבוה, רם, נישא, עליון"}
+{"T":"r","L":"alta","C":["a"],"d":"con multe estende a supra; situada a un distantia grande supra la tera, la mar, o un otra punto de refere; (un parte) situada supra la loca tipal; con grado o prestijia plu ca la majoria; con custa plu ca normal; (un tono) con frecuentia grande","an":"alto, grande","da":"høj","de":"hoch, lang","en":"high, lofty; upper, higher; tall; majestic, great","es":"alto, grande (de mucha altura)","he":"גבוה, רם, נישא, עליון"}
 {"L":"alta","C":["av"],"en":"highly, greatly","he":"במידה רבה, במידה ניכרת"}
 {"L":"alta","C":["n"],"en":"top, top half, upper part","he":"החלק העליון"}
 {"L":"alta de bicini","C":["n"],"en":"bikini top","he":"החלק העליון של ביקיני"}
@@ -852,7 +852,7 @@
 {"L":"alti","C":["vnt"],"en":"rise, soar","he":"לעלות, להתרומם"}
 {"L":"alti","C":["vt"],"en":"lift, raise, elevate, heighten; exalt; promote","he":"לעלות, לרומם; לקדם"}
 {"L":"alti","C":["n"],"en":"rise; exaltation; promotion","he":"עלייה, התרוממות; התעלות; קידום"}
-{"L":"altia","C":["n"],"an":"altor, altitú","da":"højde","de":"Höhe","en":"height, altitude, elevation; highness, majesty","he":"גובה, פיסגה, צמרת, רום"}
+{"L":"altia","C":["n"],"an":"altor, altitú","da":"højde","de":"Höhe","en":"height, altitude, elevation; highness, majesty","es":"altura, altitud","he":"גובה, פיסגה, צמרת, רום"}
 {"L":"altia","C":["esc"],"en":"your highness, your majesty","he":"הוד מלכותך"}
 {"L":"altia de ex","C":["n","arte"],"en":"x-height (typography)","he":"גובה האות x"}
 {"L":"altia de tono","C":["n","mus"],"en":"pitch","he":"גובה הצליל"}
@@ -875,7 +875,7 @@
 {"L":"alterante","C":["n","mus","ling"],"d":"un simbol musical indicante un parti momental de la armatur; un parola cual restrinje o ajunta a la sinifia de un otra","en":"accidental (music); modifier","he":"(דקדוק) מגדיר"}
 {"L":"nonalterable","C":["a"],"en":"inalterable, unmodifiable, uncustomizable|is, iron-clad","he":"שאינו ניתן לשינוי"}
 {"L":"nonalterada","C":["a"],"en":"unaltered, unmodified","he":"שלא עבר שינוי"}
-{"T":"r","L":"alterna","C":["vnt"],"d":"(du o plu cosas) aveni repeteda, la un pos la otra","an":"alternar, turnar, variar, tomar veces","da":"veksle, skifte","de":"wechseln","en":"alternate, take turns","he":"להתחלף לסירוגין"}
+{"T":"r","L":"alterna","C":["vnt"],"d":"(du o plu cosas) aveni repeteda, la un pos la otra","an":"alternar, turnar, variar, tomar veces","da":"veksle, skifte","de":"wechseln","en":"alternate, take turns","es":"alternar, turnar, variar, tomar turnos (hacer X, luego Y, luego X, etc.)","he":"להתחלף לסירוגין"}
 {"L":"alterna","C":["vt"],"en":"alternate; flip, toggle (setting)","he":"להחליף לסירוגין"}
 {"L":"alterna","C":["n"],"en":"alternation","he":"חילוף לסירוגין"}
 {"L":"alterna de codigo","C":["n"],"en":"code-switching"}
@@ -910,7 +910,7 @@
 {"L":"posalveolal","C":["a"],"en":"postalveolar","he":"עיצור בתר-מכתשי"}
 {"L":"posalveolal","C":["n"],"en":"postalveolar (consonant)","he":"עיצור בתר-מכתשי"}
 {"T":"r","L":"am","C":["c"],"d":"ante mediadia","en":"a.m.","he":"לפני הצהריים"}
-{"T":"r","L":"ama","C":["vt","uma"],"d":"gusta profonda e desira la felisia de (algun, tipal un relatada); es forte atraeda a (algun) en modo romantica o sesal; senti multe zelosa sur (un sujeto o ocupa)","an":"amar, querer, gustar enforma de, gusta-y a unu enforma, encantar a unu enforma","da":"elske","de":"lieben","en":"love, cherish","he":"לאהוב, להוקיר"}
+{"T":"r","L":"ama","C":["vt","uma"],"d":"gusta profonda e desira la felisia de (algun, tipal un relatada); es forte atraeda a (algun) en modo romantica o sesal; senti multe zelosa sur (un sujeto o ocupa)","an":"amar, querer, gustar enforma de, gusta-y a unu enforma, encantar a unu enforma","da":"elske","de":"lieben","en":"love, cherish","es":"amar, querer, gustar mucho de, gustarle a uno mucho, encantarle a uno mucho","he":"לאהוב, להוקיר"}
 {"L":"ama","C":["n"],"en":"love, affection","he":"אהבה, חיבה"}
 {"L":"ama uniladal","C":["n"],"en":"unrequited love","he":"אהבה בלתי-מושגת"}
 {"L":"amable","C":["a"],"en":"lovable|loveable, likable|likeable, kind, nice, endearing, pleasant, affable","he":"נחמד, חביב"}
@@ -943,7 +943,7 @@
 {"T":"r","L":"amaperil","C":["n","vn"],"d":"un person ci gusta fa atas perilosa","en":"daredevil","he":"נמשך לסכנה"}
 {"T":"r","L":"amar","C":["n"],"d":"la desende a mar de un veculo spasial reveninte","en":"splashdown (of spacecraft)","he":"נחיתה בים"}
 {"T":"r","L":"amaranto","C":["n","pla"],"d":"cualce planta de la jenero _Amaranthus_, tipal con flores pico e verde, roja o purpur; un flor mitolojial cual pali nunca","i":"#","o":"de elinica amarantos (no pali)","t":"Amaranthus","en":"amaranth","he":"ירבוז"}
-{"T":"r","L":"amarga","C":["a","bio","cim"],"d":"con un sabor o odor agu, no dulse; (un person) coler, doleda o odiosa par causa de mal esperias o un senti de es nonjusta tratada","an":"amargosu, amarguríu, agriu","da":"bitter","de":"bitter, streng","en":"bitter (taste, emotion), acerbic, acrid; embittered, acrimonious, rancorous","he":"מר, מריר; ממורמר"}
+{"T":"r","L":"amarga","C":["a","bio","cim"],"d":"con un sabor o odor agu, no dulse; (un person) coler, doleda o odiosa par causa de mal esperias o un senti de es nonjusta tratada","an":"amargosu, amarguríu, agriu","da":"bitter","de":"bitter, streng","en":"bitter (taste, emotion), acerbic, acrid; embittered, acrimonious, rancorous","es":"amargo, amargado, agrio","he":"מר, מריר; ממורמר"}
 {"L":"amarga-dulse","C":["a"],"en":"bittersweet","he":"מריר-מתוק"}
 {"L":"amargi","C":["vnt"],"en":"grow bitter","he":"להתמרמר"}
 {"L":"amargi","C":["vt"],"en":"embitter","he":"למרר"}
@@ -963,13 +963,13 @@
 {"L":"ambar","C":["n"],"d":"un resina fosilida, dur, diafana e tipal con esta color, produida par arbores conifer estinguida de la tersiaria","en":"amber (resin)","he":"ענבר"}
 {"T":"r","L":"ambargris","C":["n","bio"],"d":"un materia sirin secreteda en la intestines de la caxalote, cual flota en la mares tropical e es usada en la fabrica de parfum","en":"ambergris (substance)","he":"ענבר אפור"}
 {"T":"r","L":"ambasada","C":["n","gov"],"d":"la casa e ofisias de un ambasador","en":"embassy, consulate","he":"שגרירות, קונסוליה"}
-{"L":"ambasador","C":["n"],"d":"un diplomata ci abita en un pais stranjer per proteje ala la sitadanes e interesas de sua propre governa","an":"embaxador","da":"ambassadør","de":"Botschafter","en":"ambassador, envoy, emissary, high commissioner","he":"שגריר, קונסול"}
+{"L":"ambasador","C":["n"],"d":"un diplomata ci abita en un pais stranjer per proteje ala la sitadanes e interesas de sua propre governa","an":"embaxador","da":"ambassadør","de":"Botschafter","en":"ambassador, envoy, emissary, high commissioner","es":"embajador","he":"שגריר, קונסול"}
 {"T":"r","L":"ambi-","C":["pf","tecn"],"d":"ambos, a ambos lados","o":"de latina ambi- (ambos)","en":"ambi-","he":"(סיומת טכנית) שני הצדדים"}
 {"T":"r","L":"ambidestrosa","C":["a"],"d":"capas de usa ambos sua manos a grado egal bon","o":"de latina ambi- (ambos) + dexter (mano destra)","en":"ambidextrous","he":"שווה ידיים, שמיומן באותה מידה בשתי ידיו"}
 {"T":"r","L":"ambie","C":["vt","bio"],"d":"(un situa natural) ensirca","en":"surround","he":"להקיף, לכתר"}
 {"L":"ambiental","C":["a"],"en":"environmental","he":"סביבתי"}
 {"L":"ambiente","C":["a"],"en":"ambient, surrounding","he":"מקיף"}
-{"L":"ambiente","C":["n"],"an":"ambiente, alredor, contestu, mediu ambiente","da":"miljø, omgivelse","de":"Umwelt, Umgebung","en":"surroundings, environment, context; atmosphere (place, event), ambience, milieu, locale","he":"סביבה; אווירה"}
+{"L":"ambiente","C":["n"],"an":"ambiente, alredor, contestu, mediu ambiente","da":"miljø, omgivelse","de":"Umwelt, Umgebung","en":"surroundings, environment, context; atmosphere (place, event), ambience, milieu, locale","es":"ambiente, alrededor, contexto, medio ambiente","he":"סביבה; אווירה"}
 {"L":"ambientisme","C":["n"],"en":"environmentalism","he":"סביבתנות, דאגה לאיכות הסביבה"}
 {"L":"ambientiste","C":["n"],"en":"environmentalist","he":"פעיל איכות הסביבה"}
 {"T":"r","L":"ambifilia","C":["n","uma"],"d":"un atrae sesal a e omes e femes","o":"de latina ambi- (ambos) + elinica philia (atrae)","en":"ambiphilia","he":"דו-מיניות"}
@@ -1022,13 +1022,13 @@
 {"T":"r","L":"amfibraco","C":["n","ling"],"d":"un metre poesial, composada de un silaba longa o asentuada entre du silabas corta o nonasentuada","o":"de elinica amphi- (ambos) + brakhus (corta)","en":"amphibrach","he":"מקצב בשירה המורכב מרצף של שתי הברות קצרות שביניהן הברה ארוכה"}
 {"T":"r","L":"amfiteatro","C":["n","ist"],"d":"un teatro ronda, comun sin teto, con loca sentral per presenta dramas o sportes","i":"#","o":"de elinica amphi- (sirca) + theatron (loca per regarda)","en":"amphitheater|re","he":"אמפיתיאטרון"}
 {"T":"r","L":"amfora","C":["n","util","ist"],"d":"un jar o carafa alta e antica, elinica o roman, con colo magra e du manicos","en":"amphora","he":"אמפורה (כלי קיבול מחרס ביוון ורומא הקדומות)"}
-{"T":"r","L":"ami","C":["n","uma"],"d":"un person con ci on ave un lia de amosia mutua, tipal nonsesal e estra sua familia","p":"amí","an":"amigu","da":"ven","de":"Freund","en":"friend, mate, pal, chum, buddy, crony","he":"חבר, ידיד, רע"}
+{"T":"r","L":"ami","C":["n","uma"],"d":"un person con ci on ave un lia de amosia mutua, tipal nonsesal e estra sua familia","p":"amí","an":"amigu","da":"ven","de":"Freund","en":"friend, mate, pal, chum, buddy, crony","es":"amigo","he":"חבר, ידיד, רע"}
 {"L":"ami de cor","C":["n"],"en":"girlfriend, boyfriend","he":"חבר, בן-זוג, חברה, בת-זוג"}
 {"L":"ami de jua","C":["n"],"en":"playmate","he":"חבר למשחק"}
 {"L":"ami fema","C":["n"],"en":"female friend, girl friend","he":"ידידה"}
 {"L":"ami mas","C":["n"],"en":"male friend, boy friend","he":"ידיד"}
 {"L":"amia","C":["n"],"en":"friendship, amity, fellowship","he":"ידידות"}
-{"L":"amin","C":["a"],"an":"prestosu, finu, bonu, simpáticu, bondosu, benévolu, atentu, bonable","da":"god, rar, venlig","de":"nett, leutselig","en":"friendly, nice, amiable, amicable, genial, congenial, neighbourly, personable, chummy, pally","he":"ידידותי, נחמד"}
+{"L":"amin","C":["a"],"an":"prestosu, finu, bonu, simpáticu, bondosu, benévolu, atentu, bonable","da":"god, rar, venlig","de":"nett, leutselig","en":"friendly, nice, amiable, amicable, genial, congenial, neighbourly, personable, chummy, pally","es":"agradable, fino, bueno, simpático, bondadoso, benévolo, amable, afable","he":"ידידותי, נחמד"}
 {"L":"amini","C":["vnt"],"en":"become friends","he":"להפוך לידידים"}
 {"L":"amini","C":["vt"],"en":"befriend, make friends with","he":"להתיידד"}
 {"L":"aminia","C":["n"],"en":"friendliness","he":"ידידותיות"}
@@ -1054,7 +1054,7 @@
 {"L":"Amirias Arabi Unida","C":["n","jeo"],"c":"Abu Dhabi","d":"un pais a la costa sude de la Golfo Persian, a ueste de la Golfo Uman","i":"amirias-arabi-unida","en":"United Arab Emirates","he":"האמיריות הערביות המאוחדות"}
 {"L":"amirati","C":["a","dem"],"en":"Emirati","he":"שקשור לאמירויות"}
 {"L":"amirati","C":["n"],"en":"Emirati","he":"תושב האמירויות"}
-{"T":"r","L":"amira","C":["vt"],"d":"regarda (un person, ojeto o cualia) con respeta, aproba o plaser","an":"almirar, envalorar","da":"beundre","de":"bewundern","en":"admire","he":"להעריץ, להתפעל"}
+{"T":"r","L":"amira","C":["vt"],"d":"regarda (un person, ojeto o cualia) con respeta, aproba o plaser","an":"almirar, envalorar","da":"beundre","de":"bewundern","en":"admire","es":"admirar, estimar","he":"להעריץ, להתפעל"}
 {"L":"amira","C":["n"],"en":"admiration","he":"הערצה, התפעלות"}
 {"L":"amirable","C":["a"],"en":"admirable, fine","he":"ראוי להערצה"}
 {"L":"amirante","C":["a"],"en":"admiring","he":"מעריץ, מתפעל"}
