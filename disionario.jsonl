@@ -3955,7 +3955,7 @@
 {"L":"caci","C":["n"],"d":"un stofa con esta color, tipal de coton forte, usada per vestes militar","en":"khaki (fabric)","he":"חאקי (בד)"}
 {"T":"r","L":"caci","C":["n","pla"],"d":"un arbor en familia de ebano; la fruta comable de esta, cual sembla un tomate grande e ave un pulpa multe dulse","i":"caci-planta","t":"Diospyros","en":"persimmon (tree, fruit)","he":"אפרסמון"}
 {"T":"r","L":"cacto","C":["n","pla"],"d":"un planta suculente con tronceta spesa e pulposa cual ave tipal spinas, sin folias ma con flores briliante colorida, nativa de la zonas seca de la mundo nova","i":"#","t":"Cactaceae","en":"cactus","he":"קקטוס, צבר (צמח)"}
-{"T":"r","L":"cada","C":["d"],"d":"tota de un grupo, tratante la membros a modo individua","da":"enhver, hver","de":"jeder","en":"each, every","gl":"cada","he":"כל..."}
+{"T":"r","L":"cada","C":["d"],"d":"tota de un grupo, tratante la membros a modo individua","da":"enhver, hver","de":"jeder","en":"each, every","es":"cada","gl":"cada","he":"כל..."}
 {"L":"cada","C":["pron"],"en":"each, each one, every one","he":"כל (אחד)"}
 {"L":"cada cosa","C":["pron"],"en":"each thing, everything (individually)","he":"כל דבר"}
 {"L":"a cada matina","C":["av"],"en":"every morning","he":"בכל בוקר"}
@@ -3976,7 +3976,7 @@
 {"L":"cade comica","C":["n"],"en":"pratfall","he":"נפילה מביכה"}
 {"L":"cade e pedi","C":["vt"],"en":"dropkick, punt (ball)","he":"לבעוט תוך קפיצה"}
 {"L":"fa ce lo cade","C":["v"],"en":"fell, knock over","he":"לגרום לנפילה"}
-{"T":"r","L":"cadena","C":["n","util"],"d":"un serie de anelos liada, tipal metal, usada per securi, suporta o tira; un linia fisical de cosas de la mesma spesie, como montes; un grupo de botecas o oteles de la mesma compania; (en informatica) un serie de sinias scriveda; la fibres sur un texador su e supra cual on pasa otra fibres per texe stofa","i":"#","da":"kæde","de":"Kette","en":"chain (including shops, hotels); range (mountains); string (characters); pipeline (software); thread (correspondence); warp (textiles)","gl":"cadea","he":"שרשרת; רשת (בתי-עסק); רכס (הרים); (מחשבים) מחרוזת"}
+{"T":"r","L":"cadena","C":["n","util"],"d":"un serie de anelos liada, tipal metal, usada per securi, suporta o tira; un linia fisical de cosas de la mesma spesie, como montes; un grupo de botecas o oteles de la mesma compania; (en informatica) un serie de sinias scriveda; la fibres sur un texador su e supra cual on pasa otra fibres per texe stofa","i":"#","da":"kæde","de":"Kette","en":"chain (including shops, hotels); range (mountains); string (characters); pipeline (software); thread (correspondence); warp (textiles)","es":"cadena","gl":"cadea","he":"שרשרת; רשת (בתי-עסק); רכס (הרים); (מחשבים) מחרוזת"}
 {"L":"cadena de claves","C":["n"],"en":"keychain, key fob","he":"צרור מפתחות"}
 {"L":"cadena de construi","C":["n"],"en":"assembly line","he":"פס ייצור"}
 {"L":"cadena de orolojeta","C":["n"],"en":"watch chain, fob","he":"שרשרת לשעון"}
@@ -3992,7 +3992,7 @@
 {"T":"r","L":"caduca","C":["a","bio","pla"],"d":"(un arbor o arboreta) cual perde sua folias a cada anio","en":"deciduous","he":"(בוטניקה) נשיר"}
 {"T":"r","L":"cadun","C":["pron"],"d":"cada person","en":"everyone, everybody","he":"כל אחד, כל אחת"}
 {"T":"r","L":"caduseo","C":["n"],"d":"(en istoria) un basto de eraldo, tipal con ensircada par du serpentes, como portada par la dio Mercurio","i":"#","en":"caduceus (herald's wand, medical symbol)","he":"מטה הרמס (סמל הרפואה)"}
-{"T":"r","L":"cafe","C":["n","pla","cos"],"d":"un bevida preparada par infusa acua con la semes rostada e moleda de un arboreta tropical; esta planta o sua semes","i":"#","p":"café","t":"Coffea","da":"kaffe","de":"Kaffee","en":"coffee (plant, seed, drink)","gl":"café","he":"קפה (צמח, זרע, משקה)"}
+{"T":"r","L":"cafe","C":["n","pla","cos"],"d":"un bevida preparada par infusa acua con la semes rostada e moleda de un arboreta tropical; esta planta o sua semes","i":"#","p":"café","t":"Coffea","da":"kaffe","de":"Kaffee","en":"coffee (plant, seed, drink)","es":"café, cafeto","gl":"café","he":"קפה (צמח, זרע, משקה)"}
 {"L":"cafe con lete","C":["n"],"en":"coffee with milk, white coffee","he":"קפה עם חלב"}
 {"L":"cafe con lete calda","C":["n"],"en":"coffee with hot milk, café au lait","he":"קפה עם חלב חם"}
 {"L":"cafe pronto","C":["n"],"en":"instant coffee","he":"קפה נמס, נס קפה"}
@@ -4010,7 +4010,7 @@
 {"T":"r","L":"caiman","C":["n","ret"],"d":"un retil semiacual, simil a un aligator ma con scamas cornin a la ventre, nativa de America tropical","i":"#","t":"Caiman","en":"caiman, cayman","he":"קיימן (זוחל)"}
 {"L":"Isolas Caiman","C":["n","pl","jeo"],"d":"un teritorio brites en la ueste de la Mar Caribe, composada de tre isolas","i":"isolas-caiman","en":"Cayman Islands","he":"איי קיימן"}
 {"T":"r","L":"caio","C":["n","tera"],"d":"un isola peti, basa e arenosa sur la surfas de un resife de coral","en":"cay, caye, key"}
-{"T":"r","L":"caje","C":["n","arci"],"d":"un strutur de baras o redes metal per restrinje animales, o persones caturada o prisonida","i":"#","da":"bur","de":"Käfig","en":"cage","gl":"gaiola","he":"כלוב"}
+{"T":"r","L":"caje","C":["n","arci"],"d":"un strutur de baras o redes metal per restrinje animales, o persones caturada o prisonida","i":"#","da":"bur","de":"Käfig","en":"cage","es":"jaula","gl":"gaiola","he":"כלוב"}
 {"L":"caje de avia","C":["n"],"en":"birdcage","he":"כלוב ציפורים"}
 {"L":"caje de coneo","C":["n"],"en":"rabbit hutch","he":"כלוב ארנבות"}
 {"L":"caji","C":["vt"],"en":"cage, encage","he":"לכלוא (בכלוב)"}
@@ -4033,7 +4033,7 @@
 {"L":"descalci","C":["vt"],"en":"decalcify","he":"להסיר משקע סיד"}
 {"T":"r","L":"calcolitica","C":["a","ist","uma"],"d":"pertinente a un periodo en la milenio 4 e 3 aec, xef en Asia sude-ueste e Europa sude-este, cuando alga armas e utiles ia es fabricada de cupre","en":"Chalcolithic, Eneolithic|Aeneolithic, copper age","he":"(ארכיאולוגיה) כלקוליתי"}
 {"L":"calcolitica","C":["n"],"en":"Chalcolithic, Eneolithic|Aeneolithic, copper age","he":"(ארכיאולוגיה) התקופה הכלקוליטית"}
-{"T":"r","L":"calcula","C":["vt"],"d":"trova (la cuantia de alga cosa) par matematica; ateni (un conclui) par razona","da":"regne, beregne","de":"berechnen","en":"calculate, reckon, work out","gl":"calcular, supoñer, xulgar, contar, computar","he":"לחשב"}
+{"T":"r","L":"calcula","C":["vt"],"d":"trova (la cuantia de alga cosa) par matematica; ateni (un conclui) par razona","da":"regne, beregne","de":"berechnen","en":"calculate, reckon, work out","es":"calcular, suponer, juzgar, contar, computar","gl":"calcular, supoñer, xulgar, contar, computar","he":"לחשב"}
 {"L":"calcula","C":["n"],"en":"calculation, reckoning","he":"חישוב"}
 {"L":"calculable","C":["a"],"en":"calculable","he":"שניתן לחישוב"}
 {"L":"calculador","C":["n"],"en":"calculator","he":"מחשבון"}
@@ -4049,7 +4049,7 @@
 {"L":"calculo diferensial","C":["n"],"en":"differential calculus","he":"חשבון דיפרנציאלי"}
 {"L":"calculo integral","C":["n"],"en":"integral calculus","he":"חשבון אינטגרלי"}
 {"L":"calculo vetoral","C":["n"],"en":"vector calculus","he":"אנליזה וקטורית"}
-{"T":"r","L":"calda","C":["a"],"d":"con grado alta de temperatur","da":"varm, hed","de":"hitzig","en":"hot","gl":"quente, cálido, caluroso","he":"חם"}
+{"T":"r","L":"calda","C":["a"],"d":"con grado alta de temperatur","da":"varm, hed","de":"hitzig","en":"hot","es":"caliente, cálido, caluroso","gl":"quente, cálido, caluroso","he":"חם"}
 {"L":"calda e seca","C":["a"],"en":"hot and dry, torrid","he":"חם ויבש"}
 {"L":"alga calda","C":["a"],"en":"warm","he":"חמים"}
 {"L":"caldador","C":["n"],"i":"#","en":"heater","he":"תנור חימום"}
@@ -4057,7 +4057,7 @@
 {"L":"caldi","C":["vt"],"en":"heat, warm","he":"לחמם"}
 {"L":"caldi","C":["n"],"en":"heating, warming","he":"חימום, התחממות"}
 {"L":"caldi global","C":["n"],"en":"global warming","he":"התחממות גלובלית"}
-{"L":"caldia","C":["n"],"da":"hede, varme","de":"Wärme","en":"heat, warmth","gl":"calor","he":"חום, חמימות"}
+{"L":"caldia","C":["n"],"da":"hede, varme","de":"Wärme","en":"heat, warmth","es":"calor, tibieza","gl":"calor","he":"חום, חמימות"}
 {"L":"comfortosa calda","C":["a"],"en":"comfortably hot, toasty","he":"חם ונעים"}
 {"L":"precaldi","C":["vnt"],"en":"preheat","he":"להתחמם מראש"}
 {"L":"precaldi","C":["vt"],"en":"preheat","he":"לחמם מראש"}
@@ -4116,7 +4116,7 @@
 {"T":"r","L":"calsa","C":["n","vest"],"d":"un veste abrasante per femes, tipal de materia diafana, cual covre la pede e la plu de la gama","i":"#","da":"strømpe","de":"Strumpf","en":"stocking","es":"media","he":"גרבון, גרביון"}
 {"L":"calsas","C":["n","pl"],"en":"hosiery, hose","es":"medias","he":"גרבונים, גרביונים"}
 {"L":"calseta","C":["n"],"d":"un veste simil a un calsa, ma plu corta, tipal tricotada, e portada per omes e femes","i":"#","da":"sok","de":"Socke","en":"sock","es":"calcetín, calceta, calcetón, media","gl":"calcetín, peúgo","he":"גרב"}
-{"L":"calson","C":["n"],"d":"un veste abrasante, la uni de du calsas cual estende asta la taie","da":"strømpebukser","en":"tights, pantyhose","es":"medias, mallas, calzas, leotardos","he":"טייטס, צמודונים"}
+{"L":"calson","C":["n"],"d":"un veste abrasante, la uni de du calsas cual estende asta la taie","da":"strømpebukser","en":"tights, pantyhose","es":"panti, pantimedias, mallas, calzas, leotardos","he":"טייטס, צמודונים"}
 {"L":"duicalson","C":["n"],"en":"leggings","es":"mallas, calzas, polainas","he":"טייטס, צמודונים"}
 {"T":"r","L":"calsedonia","C":["n"],"d":"un tipo de cuarzo cual apare en formas diversa como agata e onix","en":"chalcedony (mineral)","he":"כלקדון (מינרל)"}
 {"T":"r","L":"calsio","C":["n","cim"],"d":"la elemento cimical con numero atomal 20","s":"Ca","en":"calcium","he":"סידן, קלציום (יסוד)"}
@@ -4133,7 +4133,7 @@
 {"T":"r","L":"camaleon","C":["n","ret"],"d":"un lezardo peti, capas de cambia color, e lenta movente, con coda prensil, lingua longa, e oios bulbin cual turna individua","i":"#","t":"Chamaeleonidae","en":"chameleon","he":"זיקית"}
 {"L":"Camaleon","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Chamaeleon (constellation)","he":"זיקית (קבוצת כוכבים)"}
 {"T":"r","L":"camamber","C":["n","cos"],"d":"un ceso mol e cremosa, orijinante prosima a Camembert en Normandia","en":"camembert (cheese)","he":"קממבר (גבינה)"}
-{"T":"r","L":"cambia","C":["vnt"],"d":"deveni diferente","da":"skifte, bytte","de":"verändern","en":"change, transform","gl":"cambiarse, alterarse","he":"להשתנות"}
+{"T":"r","L":"cambia","C":["vnt"],"d":"deveni diferente","da":"skifte, bytte","de":"verändern","en":"change, transform","es":"cambiar, variar, alterarse","gl":"cambiarse, alterarse","he":"להשתנות"}
 {"L":"cambia","C":["vt"],"en":"change, transform, amend, convert; replace; cash (a check|cheque), cash in","gl":"cambiar, variar, alterar","he":"לשנות; לפדות (צ'ק)"}
 {"L":"cambia","C":["n"],"en":"change, transformation, transition, amendment","he":"שינוי"}
 {"L":"cambia calda","C":["v"],"en":"hot-swap","he":"(מחשבים) החלפה חמה"}
@@ -4190,19 +4190,19 @@
 {"L":"camerunes","C":["a"],"en":"Cameroonian","he":"קמרוני"}
 {"L":"camerunes","C":["n"],"en":"Cameroonian","he":"קמרוני"}
 {"T":"r","L":"camfor","C":["n","cim"],"d":"un materia blanca, volatil e cristal, con odor bon e sabor amarga, trovada en alga olios esensal","en":"camphor","he":"(כימיה) קמפור"}
-{"T":"r","L":"camion","C":["n","vec"],"d":"un veculo grande con rotas e motor, usada per transporta benes, materias o grupos de soldatos","i":"#","da":"lastbil","de":"Lastwagen","en":"truck, lorry; truckload","gl":"camión","he":"משאית"}
+{"T":"r","L":"camion","C":["n","vec"],"d":"un veculo grande con rotas e motor, usada per transporta benes, materias o grupos de soldatos","i":"#","da":"lastbil","de":"Lastwagen","en":"truck, lorry; truckload","es":"camión","gl":"camión","he":"משאית"}
 {"L":"camion de pompores","C":["n"],"i":"#","en":"fire engine, fire truck","he":"כבאית"}
 {"L":"camion jigante","C":["n"],"en":"juggernaut","he":"משאית ענק"}
 {"L":"camion sesionida","C":["n"],"i":"#","en":"articulated truck, articulated lorry, tractor trailer, semitrailer truck, semi","he":"סמי-טריילר"}
 {"L":"camioneta","C":["n"],"i":"#","en":"small truck, pickup","he":"טנדר, מטענית (רכב)"}
 {"L":"camioni","C":["vt"],"en":"truck (send by truck)","he":"להוביל במשאית"}
 {"L":"camionor","C":["n"],"en":"trucker, truck driver, lorry driver, teamster","he":"נהג משאית"}
-{"T":"r","L":"camisa","C":["n","vest"],"d":"un veste relativa formal per la corpo superior, tipal con colar, mangas, e botones o otra fisadores","i":"#","da":"skjorte","de":"Hemd","en":"shirt","gl":"camisa","he":"חולצה"}
+{"T":"r","L":"camisa","C":["n","vest"],"d":"un veste relativa formal per la corpo superior, tipal con colar, mangas, e botones o otra fisadores","i":"#","da":"skjorte","de":"Hemd","en":"shirt","es":"camisa","gl":"camisa","he":"חולצה"}
 {"L":"camisa de juta","C":["n"],"en":"hairshirt, cilice","he":"אריג שיער"}
 {"L":"camisa de note","C":["n"],"en":"nightshirt","he":"כותונת לילה"}
 {"L":"camisa de polo","C":["n"],"d":"un camisa casual con colar, mangas corta, e alga botones a la colo","en":"polo shirt","he":"חולצת פולו"}
 {"L":"camisa de sera","C":["n"],"d":"un camisa blanca per omes, portada con cravata papilin e jaca de sera a avenis formal","en":"dress shirt","he":"חולצת ערב מכופתרת"}
-{"L":"camisa T","C":["n"],"d":"un camiseta con mangas corta; un vesteta simil","i":"#","en":"tee, T-shirt","he":"חולצת טי"}
+{"L":"camisa T","C":["n"],"d":"un camiseta con mangas corta; un vesteta simil","i":"#","en":"tee, T-shirt","eo":"T-ĉemizo","es":"camiseta, playera","he":"חולצת טי"}
 {"L":"camiseta","C":["n"],"d":"cualce camisa casual e simple, sin colar e botones, e cisa sin mangas; un vesteta simil","i":"#","en":"top, collarless shirt, tee, T-shirt; undershirt","he":"גופייה"}
 {"L":"camiseta corta","C":["n"],"d":"un camiseta tan corta ce lo esposa la taie o ventre","en":"crop top, belly shirt, half-shirt","he":"חולצת בטן"}
 {"L":"camiseta de nuca","C":["n"],"d":"un camiseta per femes, suportada par un banda cual pasa pos la colo","en":"halterneck, haltertop","he":"חולצת קולר"}
@@ -4217,7 +4217,7 @@
 {"L":"camofla","C":["n"],"en":"camouflage","he":"הסוואה"}
 {"T":"r","L":"camomila","C":["n","pla"],"d":"un planta bonodorosa de Europa en familia de margarita, con flores blanca e jala; un infusa de flores secida de esta","i":"#","t":"Chamaemelum","en":"chamomile|camomile","he":"קמומיל, בבונג"}
 {"T":"r","L":"campa","C":["vnt","arci"],"d":"abita per un tempo en un tenda, caravan o otra loca simple, o su sielo","en":"camp, encamp, bivouac","he":"לחנות (להקים מחנה)"}
-{"L":"campa","C":["n"],"da":"lejr","de":"Lager","en":"camping; camp, bivouac, temporary shelter","gl":"campamento, abrigo, resgardo ou refuxio temporal","he":"מחנה; מחנאות"}
+{"L":"campa","C":["n"],"da":"lejr","de":"Lager","en":"camping; camp, bivouac, temporary shelter","es":"campamento, abrigo","gl":"campamento, abrigo","he":"מחנה; מחנאות"}
 {"L":"campa avansada","C":["n"],"en":"advanced camp, outpost","he":"מוצב; מאחז"}
 {"L":"campa de base","C":["n"],"en":"base camp","he":"מחנה בסיס"}
 {"L":"campa de consentra","C":["n"],"en":"concentration camp","he":"מחנה ריכוז"}
@@ -4226,18 +4226,18 @@
 {"L":"campa de prisoni","C":["n"],"en":"prison camp","he":"מחנה מעצר"}
 {"L":"campa isolida","C":["n"],"en":"isolated camp, outpost","he":"מחנה מבודד"}
 {"L":"camperia","C":["n"],"en":"campsite","he":"אתר מחנאות"}
-{"T":"r","L":"campana","C":["n","mus"],"d":"un cosa vacua, tipal metal e con forma de copa inversada, cual sona un nota clar cuando tocada, tipal par un batador cual lo conteni; cualce aparato cual sona en esta modo, usada per siniali o averti","i":"#","da":"klokke, bjælde","de":"Glocke","en":"bell, chime","gl":"campá, timbre, cascabel","he":"פעמון"}
+{"T":"r","L":"campana","C":["n","mus"],"d":"un cosa vacua, tipal metal e con forma de copa inversada, cual sona un nota clar cuando tocada, tipal par un batador cual lo conteni; cualce aparato cual sona en esta modo, usada per siniali o averti","i":"#","da":"klokke, bjælde","de":"Glocke","en":"bell, chime","es":"campana, campañilla, cencerro, esquila, timbre, cascabel","gl":"campá, timbre, cascabel","he":"פעמון"}
 {"L":"campana de bove","C":["n"],"i":"#","en":"cowbell","he":"פעמון פרה"}
 {"L":"campaneria","C":["n"],"i":"#","en":"bell tower, campanile","he":"מגדל פעמונים"}
 {"L":"campaneta","C":["n"],"en":"handbell; doorbell","he":"פעמון יד; פעמון דלת"}
 {"L":"campaneta blu","C":["n","pla"],"en":"bluebell (various plants)","he":"פעמונית (צמח)"}
 {"L":"campanin","C":["a"],"en":"bell-like, bell-shaped","he":"בצורת פעמון"}
-{"T":"r","L":"campania","C":["n"],"d":"un rejion de bosces, prados o cultiverias, estra vilas e sites","da":"landet, landskabet","de":"Land","en":"countryside, rural area, boondocks","gl":"campo, campiña, zona rural, rexión campestre","he":"איזור כפרי"}
+{"T":"r","L":"campania","C":["n"],"d":"un rejion de bosces, prados o cultiverias, estra vilas e sites","da":"landet, landskabet","de":"Land","en":"countryside, rural area, boondocks","es":"campo, campiña, zona rural, región campestre","gl":"campo, campiña, zona rural, rexión campestre","he":"איזור כפרי"}
 {"L":"campanial","C":["a"],"en":"rural, rustic, country, bucolic","he":"כפרי"}
 {"L":"campanian","C":["n"],"en":"rural person, country dweller, peasant, hayseed, bumpkin, yokel, hick, rube","he":"אדם כפרי, איכר, עובד אדמה"}
 {"L":"campanianes","C":["n","pl"],"en":"peasantry","he":"איכרות"}
 {"T":"r","L":"campania","C":["vnt","gov"],"d":"labora en modo organizada en dirije a un gol spesifada, tipal militar, political o sosial","da":"campagne","de":"Feldzug","en":"campaign, canvass","he":"לנהל קמפיין (פרסום, בחירות, הסברה, תעמולה)"}
-{"L":"campania","C":["n"],"en":"campaign","gl":"campaña política","he":"קמפיין, מסע"}
+{"L":"campania","C":["n"],"en":"campaign","es":"campaña política","gl":"campaña política","he":"קמפיין, מסע"}
 {"L":"campanior","C":["n"],"en":"campaigner","he":"קמפיינר, תועמלן"}
 {"T":"r","L":"campaniol","C":["n","mam"],"d":"un rodente peti, musin e tunelinte","i":"#","t":"Arvicolini, Ellobiusini, Lagurini, Myodini, Pliomyini","en":"vole","he":"נברן"}
 {"T":"r","L":"campanula","C":["n","pla"],"d":"un planta en familia de aster, con flores con forma de campana","i":"#","t":"Campanula","en":"bellflower, harebell, Scottish bluebell (plant)","he":"פעמונית (צמח)"}
@@ -4252,7 +4252,7 @@
 {"L":"campioni","C":["vt"],"en":"crown as champion","he":"להעניק אליפות"}
 {"L":"campionida","C":["a"],"en":"prize-winning, award-winning","he":"זוכה פרסים"}
 {"L":"sucampion","C":["n"],"en":"runner-up","he":"הזוכה במקום השני, סגן אלוף (בתחרות)"}
-{"T":"r","L":"campo","C":["n"],"d":"un area de tera, tipal ensircada par sepes o sercas e cultivada o usada como un pasto; un area con erbas corta, o cualce otra spasio definida, usada per un sporte; un ramo spesifada de studia, ativia o interesa","da":"mark","de":"Feld","en":"field (grass, knowledge, activity); discipline; pitch, course (sport)","gl":"campo","he":"שדה; מגרש; תחום, דיסציפלינה"}
+{"T":"r","L":"campo","C":["n"],"d":"un area de tera, tipal ensircada par sepes o sercas e cultivada o usada como un pasto; un area con erbas corta, o cualce otra spasio definida, usada per un sporte; un ramo spesifada de studia, ativia o interesa","da":"mark","de":"Feld","en":"field (grass, knowledge, activity); discipline; pitch, course (sport)","es":"campo","gl":"campo","he":"שדה; מגרש; תחום, דיסציפלינה"}
 {"L":"campo bancal","C":["n"],"en":"banking sector","he":"מגזר בנקאי"}
 {"L":"campo comun","C":["n"],"en":"common (land)","he":"מגרש ציבורי"}
 {"L":"campo de avion","C":["n"],"en":"airfield, aerodrome, airstrip","he":"מסלול המראה"}
@@ -4280,7 +4280,7 @@
 {"T":"r","L":"camusa","C":["n","mam"],"d":"un mamal caprin en familia de capra e ovea, con cornos corta e oncin, trovada en la montanias de Europa; un cuoro suave, orijinal fabricada de pel de camusa, ma aora de pel de ovea, tipal usada per lava vitro o autos","i":"#","t":"Rupicapra rupicapra","en":"chamois (animal); shammy, chamy (leather)","he":"צפיר האלפים (בעל חיים)"}
 {"L":"camusin","C":["a"],"en":"chamois-like","he":"דמוי-עור צפיר"}
 {"L":"camusin","C":["n"],"en":"moleskin","he":"סוג בד כותנה"}
-{"T":"r","L":"can","C":["n","mam"],"d":"un mamal carnivor domada, tipal con beco longa e ole eselente, usada per labora, sportes o como animal de casa","i":"#","t":"Canis familiaris","da":"hund","de":"Hund","en":"dog, pooch, mutt","gl":"can","he":"כלב"}
+{"T":"r","L":"can","C":["n","mam"],"d":"un mamal carnivor domada, tipal con beco longa e ole eselente, usada per labora, sportes o como animal de casa","i":"#","t":"Canis familiaris","da":"hund","de":"Hund","en":"dog, pooch, mutt","es":"perro","gl":"can","he":"כלב"}
 {"L":"can coleriosa","C":["n"],"en":"cur","he":"כלב אכזרי"}
 {"L":"can detetante","C":["n"],"en":"detection dog, sniffer dog"}
 {"L":"can de pastor","C":["n"],"i":"#","en":"sheepdog","he":"כלב רועים"}
@@ -4297,7 +4297,7 @@
 {"L":"canin","C":["a"],"en":"canine, doglike","he":"כלבי"}
 {"T":"r","L":"cana","C":["n","pla"],"d":"un planta alta con folias magra en familia de erba, cual abita acua o pantanes; la tronceta vacua e juntada de esta o un planta simil; un palo simil, usada per pexa, orijinal fabricada de cana","i":"#","t":"Phragmites, Arundo {e multe otra jeneros","en":"reed, cane; rod (fishing)","he":"קנה (צמח); חכה"}
 {"L":"cana de zucar","C":["n","pla"],"t":"Saccharum","en":"sugarcane","fr":"canne à sucre","he":"קנה סוכר"}
-{"T":"r","L":"canaba","C":["n","pla"],"d":"un planta alta con tronceta rijida e vertical e folias divideda e sierin; la fibre de esta, usada per fabrica cordas e stofas; un prepara secida de la flores o otra partes de esta planta, o un estraeda resinosa de esta, usada como un droga","i":"#","t":"Cannabis sativa","da":"hamp, canabis","de":"Hanf","en":"hemp, cannabis, marihuana, marijuana (plant, material, drug)","gl":"marihuana","he":"קנאביס (צמח); מריחואנה, גראס"}
+{"T":"r","L":"canaba","C":["n","pla"],"d":"un planta alta con tronceta rijida e vertical e folias divideda e sierin; la fibre de esta, usada per fabrica cordas e stofas; un prepara secida de la flores o otra partes de esta planta, o un estraeda resinosa de esta, usada como un droga","i":"#","t":"Cannabis sativa","da":"hamp, canabis","de":"Hanf","en":"hemp, cannabis, marihuana, marijuana (plant, material, drug)","es":"cáñamo, mariguana, canabis, sisal","gl":"marihuana","he":"קנאביס (צמח); מריחואנה, גראס"}
 {"L":"canabor","C":["n"],"en":"cannabis user, pothead, stoner","he":"מעשן גראס, \"סטלן\""}
 {"T":"r","L":"canabinoide","C":["n","med"],"d":"cada de un grupo de composadas cual inclui la ingrediente ativa de canaba, usada como un medisin o un droga recreal","en":"cannabinoid (drug)","he":"קנאבינואיד"}
 {"T":"r","L":"canada","C":["a","dem"],"d":"pertinente a un lingua dravidian relatada a telugu, e la popla ci parla lo","en":"Kannada (person, language)","he":"קאנדה (שפה)"}
@@ -4305,7 +4305,7 @@
 {"T":"r","L":"Canada","C":["n","jeo"],"c":"Ottawa","d":"un pais en la norde de America Norde, a norde de la SUA, e la pais du de la plu grandes de mundo","i":"#","en":"Canada","he":"קנדה"}
 {"L":"canadian","C":["a"],"en":"Canadian","he":"קנדי"}
 {"L":"canadian","C":["n"],"en":"Canadian","he":"קנדי"}
-{"T":"r","L":"canal","C":["n"],"d":"un rio artifis, construida per permete ce barcones viaja tra tera o per gida acua per iriga; un duto tubo en un planta o animal, per move o conteni comedas, licuida o aira","i":"#","da":"kanal, grøft","de":"Kanal","en":"canal, channel, ditch, duct, flume; channel (television, etc.)","gl":"canle","he":"תעלה, שוחה, ערוץ, אפיק"}
+{"T":"r","L":"canal","C":["n"],"d":"un rio artifis, construida per permete ce barcones viaja tra tera o per gida acua per iriga; un duto tubo en un planta o animal, per move o conteni comedas, licuida o aira","i":"#","da":"kanal, grøft","de":"Kanal","en":"canal, channel, ditch, duct, flume; channel (television, etc.)","es":"canal, acequia","gl":"canle","he":"תעלה, שוחה, ערוץ, אפיק"}
 {"L":"canal suteran","C":["n"],"en":"underground channel, culvert","he":"תעלה תת-קרקעית"}
 {"L":"canaleta","C":["n"],"en":"gutter (street, roof); sluiceway","he":"מרזב; מזחילה (בכביש)"}
 {"T":"r","L":"Canan","C":["n","ist","jeo"],"d":"un rejion antica de Filastin a ueste de la Rio Urdun, notada en la Biblia","en":"Canaan (biblical region)","he":"כנען"}
@@ -4316,7 +4316,7 @@
 {"L":"Isolas Canario","C":["n","pl","jeo"],"d":"un grupo de isolas e un rejion autonom de Espania, en la Mar Atlantica, a este de Africa","i":"#","en":"Canary Islands","fr":"Îles Canaries","he":"האיים הקנריים"}
 {"T":"r","L":"canasta","C":["n","spo"],"d":"un jua de cartas, con du pacetas e du duples de juores, en cual on atenta colie cartas","en":"canasta (card game)","he":"קנסטה (משחק קלפים)"}
 {"T":"r","L":"cancan","C":["n","mus"],"d":"un dansa vivosa con pedis alta, orijinante en cabares de Paris en la sentenio 19, fada par femes en faldas e faldetas longa","i":"#","en":"cancan (dance)","he":"קאן-קאן (ריקוד)"}
-{"T":"r","L":"candela","C":["n","util","fis"],"d":"un silindre o bloco de sira o sebo con un mexa a la sentro cual produi lus cuando lo arde; la unia internasional per mesura intensia de lus","i":"#","da":"lys, kærte","de":"Kerze","en":"candle; candela, candlepower","gl":"candea","he":"נר; קנדלה"}
+{"T":"r","L":"candela","C":["n","util","fis"],"d":"un silindre o bloco de sira o sebo con un mexa a la sentro cual produi lus cuando lo arde; la unia internasional per mesura intensia de lus","i":"#","da":"lys, kærte","de":"Kerze","en":"candle; candela, candlepower","es":"vela, candela, bujía, cirio","gl":"candea","he":"נר; קנדלה"}
 {"T":"r","L":"candelabro","C":["n","arci"],"d":"un portacandela per un cuantia de candelas o lampas","i":"#","en":"candelabra, chandelier","he":"מנורת קנים"}
 {"T":"r","L":"canela","C":["n","pla"],"d":"un arbor de Asia sude; un spise bonodorosa produida de la cortex de esta","i":"#","t":"Cinnamomum","en":"cinnamon (plant, spice)","he":"קינמון"}
 {"T":"r","L":"caneloni","C":["n","cos"],"d":"un pasta con la forma de tubos peti","en":"cannelloni","he":"קנלוני","it":"cannelloni"}
@@ -4342,7 +4342,7 @@
 {"L":"vade par canoa","C":["v"],"en":"canoe","he":"לשוט בקאנו"}
 {"T":"r","L":"canolo","C":["n","cos"],"d":"un deser sisilian, composada de un tubo fritada de pasta dulse con un pleninte cremosa","i":"#","en":"cannolo (dessert)","he":"קנולו (מאפה)"}
 {"L":"canolos","C":["n","pl"],"en":"cannoli","he":"קנולי"}
-{"T":"r","L":"canon","C":["n","rel","mus"],"d":"un colie de libros santa; un colie de testos asetada como autentica; un musica con un melodia xef cual otra strumentos imita a intervales","da":"kanon","de":"Kanone","en":"canon (literature, music)","he":"(ספרות, מוזיקה) קאנון"}
+{"T":"r","L":"canon","C":["n","rel","mus"],"d":"un colie de libros santa; un colie de testos asetada como autentica; un musica con un melodia xef cual otra strumentos imita a intervales","da":"kanon","de":"Kanone","en":"canon (literature, music)","es":"cañón","he":"(ספרות, מוזיקה) קאנון"}
 {"L":"canonal","C":["a"],"en":"canonical","he":"קאנוני"}
 {"T":"r","L":"canonera","C":["n","vec"],"d":"un barcon peti e rapida con armas fisada, usada en rios e a costas","en":"gunboat","he":"ספינת תותחים"}
 {"T":"r","L":"cansela","C":["vt"],"d":"deside o declara ce (un aveni intendeda) no va aveni; deside o declara ce (un validi o obliga) no continua plu; neutri o nega la forsa o efeto de (un cosa o situa); sutrae o vacui (testo, imajes, marcas o otra materia)","en":"cancel, revoke, abrogate, annul, repeal, belay, nix; erase, rub out, delete, expunge","he":"לבטל"}
@@ -4358,7 +4358,7 @@
 {"L":"canserosia","C":["n"],"en":"malignancy","he":"ממאירות"}
 {"L":"noncanserosa","C":["a"],"en":"non-cancerous, benign","he":"לא סרטני, שפיר"}
 {"L":"precanserosa","C":["a"],"en":"precancerous","he":"קדם-סרטני"}
-{"T":"r","L":"canta","C":["vt","mus"],"d":"crea (sonas musical) con la vose, spesial parolas con un melodia spesifada, a veses per diverti escutores","da":"synge","de":"singen","en":"sing, croon","gl":"cantar","he":"לשיר, לזמר"}
+{"T":"r","L":"canta","C":["vt","mus"],"d":"crea (sonas musical) con la vose, spesial parolas con un melodia spesifada, a veses per diverti escutores","da":"synge","de":"singen","en":"sing, croon","es":"cantar","gl":"cantar","he":"לשיר, לזמר"}
 {"L":"canta","C":["n"],"en":"song","he":"שיר, זֶמר, מזמור"}
 {"L":"canta de avias","C":["n"],"en":"birdsong","he":"שיר הציפור"}
 {"L":"canta de cuna","C":["n"],"en":"lullaby","he":"שיר ערש"}
@@ -4400,14 +4400,14 @@
 {"L":"capi","C":["vt"],"en":"cape, cloak","he":"ללבוש שכמיה"}
 {"T":"r","L":"capa","C":["n","ling"],"d":"la letera des de la alfabeta elinica","s":"Κ κ","en":"kappa (Greek letter)","he":"קפא (אות יוונית)"}
 {"T":"r","L":"capara","C":["n","pla"],"d":"un arboreta de Europa sude, simil a un rubo; la brotos de esta, coceda e vinagrida e usada per sabori comedas","i":"#","t":"Capparis spinosa","en":"caper (plant, bud)","he":"צלף (צמח)"}
-{"T":"r","L":"capas","C":["a"],"d":"con la potia, sabe, metodos o bon momento per fa alga cosa","da":"dygtig, kompetent","de":"fähig","en":"able, capable, skilled, skillful|skilful, proficient, accomplished, adept, adroit, competent, professional, amenable, efficient","he":"מסוגל, כשיר, מיומן"}
+{"T":"r","L":"capas","C":["a"],"d":"con la potia, sabe, metodos o bon momento per fa alga cosa","da":"dygtig, kompetent","de":"fähig","en":"able, capable, skilled, skillful|skilful, proficient, accomplished, adept, adroit, competent, professional, amenable, efficient","es":"capaz, hábil, competente","he":"מסוגל, כשיר, מיומן"}
 {"L":"capas de era","C":["a"],"en":"capable of error, fallible","he":"שעשוי לטעות"}
 {"L":"capas de susede","C":["a"],"en":"capable of success, viable","he":"ישומי, מעשי"}
 {"L":"ave la capasia","C":["v"],"en":"be qualified","he":"להיות מסוגל, להיות מוכשר, להיות מתאים"}
 {"L":"capasi","C":["vnt"],"en":"grow capable","he":"לרכוש מיומנות"}
 {"L":"capasi","C":["vt"],"en":"enable, empower","he":"לאפשר"}
 {"L":"capasi","C":["n"],"en":"enabling, empowerment"}
-{"L":"capasia","C":["n"],"da":"evne, formåen, kapacitet","de":"Fähigkeit","en":"ability, capability, capacity, power, faculty (power); talent, skill, knack, gift; proficiency, competence, prowess, artistry; efficiency, performance","he":"מסוגלות, כושר, יכולת; כישרון, מיומנות, מומחיות"}
+{"L":"capasia","C":["n"],"da":"evne, formåen, kapacitet","de":"Fähigkeit","en":"ability, capability, capacity, power, faculty (power); talent, skill, knack, gift; proficiency, competence, prowess, artistry; efficiency, performance","es":"habilidad, capacidad (para hacer algo)","he":"מסוגלות, כושר, יכולת; כישרון, מיומנות, מומחיות"}
 {"L":"capasia eletrical","C":["n"],"en":"capacitance","he":"(חשמל) קיבול, קיבוליות"}
 {"L":"descapasi","C":["vnt"],"en":"incapacitate, disable, impair, vitiate, cripple","he":"להיפגם, להחליש"}
 {"L":"descapasi","C":["vt"],"en":"incapacitate, disable, impair, vitiate, cripple","he":"לפגום, להחליש; להטיל מום"}
@@ -4421,7 +4421,7 @@
 {"L":"recapasi","C":["vt"],"en":"re-enable, rehabilitate","he":"לאפשר שוב; לשקם"}
 {"L":"recapasi","C":["n"],"en":"rehabilitation","he":"שיקום, השתקמות"}
 {"L":"tro capas","C":["a"],"en":"overqualified, overskilled","he":"בעל כישורים גבוהים מדי"}
-{"T":"r","L":"capel","C":["n","bio"],"d":"cada de la filos magra cual crese de la scalpo de umanas","da":"hår","de":"Haar","en":"hair (of the scalp, one strand)","he":"שערה"}
+{"T":"r","L":"capel","C":["n","bio"],"d":"cada de la filos magra cual crese de la scalpo de umanas","da":"hår","de":"Haar","en":"hair (of the scalp, one strand)","es":"cabello, pelo","he":"שערה"}
 {"L":"capeleria","C":["n"],"en":"barbershop, hair salon","he":"מספרה"}
 {"L":"capeles","C":["n","pl"],"i":"#","de":"Haare, Haar","en":"hairs, hair (collectively)","he":"שיער, שערות"}
 {"L":"capeles brosin","C":["n","pl"],"i":"#","en":"flat-top","he":"תספורת קצוצה"}
@@ -4455,14 +4455,14 @@
 {"L":"capitalisme","C":["n"],"en":"capitalism","he":"קפיטליזם"}
 {"L":"capitaliste","C":["n"],"en":"capitalist","he":"קפיטליסט"}
 {"T":"r","L":"capitan","C":["n","gov"],"d":"un person comandante en un barcon o avion; la xef de un distrito de polisia o pompores; la xef de un ecipo, spesial en sportes","en":"captain, leader","he":"קפטן; קברניט"}
-{"T":"r","L":"capitol","C":["n","arte"],"d":"un divide major de un libro, tipal numerida o titulida","da":"kapitel","de":"Kapitel","en":"chapter","he":"פרק"}
+{"T":"r","L":"capitol","C":["n","arte"],"d":"un divide major de un libro, tipal numerida o titulida","da":"kapitel","de":"Kapitel","en":"chapter","es":"capítulo","he":"פרק"}
 {"T":"r","L":"capitolio","C":["n","gov"],"d":"un construida per consentas de legores nasional","en":"capitol (building)","he":"קפיטול (בניין הקונגרס)"}
 {"T":"r","L":"capo","C":["n","tera"],"d":"un peso de tera, tipal magra e alta, cual protende de un costa a la mar","en":"headland, cape, promontory","he":"כֵּף, לשון יבשה"}
 {"L":"Capo Verde","C":["n","jeo"],"c":"Praia","d":"un pais en Africa cual es un grupo de isolas en la Mar Atlantica, a ueste de Senegal","i":"capo-verde","en":"Cape Verde","fr":"Cap-Vert","he":"כף ורדה, קאבו ורדה"}
 {"L":"capoverdean","C":["a"],"en":"Cape Verdean","he":"שקשור לכף ורדה"}
 {"L":"capoverdean","C":["n"],"en":"Cape Verdean","he":"תושב כף ורדה"}
 {"T":"r","L":"caporal","C":["n","gov"],"d":"un ofisior nonencargada de grado basa en la militar, tipal su un sarjento","en":"corporal (officer)","he":"רב-טוראי"}
-{"T":"r","L":"capra","C":["n","mam"],"d":"un mamal remasticante domada, con cornos curvinte a retro, usada per sua lete e carne","i":"#","t":"Capra","da":"ged","de":"Ziege","en":"goat","he":"עֵז, תיש"}
+{"T":"r","L":"capra","C":["n","mam"],"d":"un mamal remasticante domada, con cornos curvinte a retro, usada per sua lete e carne","i":"#","t":"Capra","da":"ged","de":"Ziege","en":"goat","es":"cabra","he":"עֵז, תיש"}
 {"L":"Capra","C":["n","ast"],"d":"un constela de la zodiaco","s":"♑","en":"Capricornus, Capricorn (constellation)","he":"גדי (מזל, קבוצת כוכבים)"}
 {"L":"capreta","C":["n"],"en":"kid (young goat)","he":"גדי"}
 {"L":"caprin","C":["a"],"en":"goatlike; capricious","he":"דמוי-עז; קפריזי, גחמני"}
@@ -4472,7 +4472,7 @@
 {"T":"r","L":"caprimuljo","C":["n","avia"],"d":"un avia noturna e insetivor con plumas grisin brun, oios e boca grande, e vose distinguinte","i":"#","t":"Caprimulgidae","en":"goatsucker, nightjar, nighthawk","he":"תחמס (ציפור)"}
 {"T":"r","L":"capriol","C":["n","mam"],"d":"un servo peti de Eurasia","i":"#","t":"Capreolus","en":"roe deer","he":"אייל הכרמל"}
 {"L":"capriol mas","C":["n"],"en":"roebuck","he":"אייל הכרמל (זכר)"}
-{"T":"r","L":"capris","C":["n","uma"],"d":"un cambia subita o nonpredisable de umor o condui","da":"lune, indfald","de":"Laune, Grille","en":"caprice, whim, whimsy","he":"קפריזה, גחמה"}
+{"T":"r","L":"capris","C":["n","uma"],"d":"un cambia subita o nonpredisable de umor o condui","da":"lune, indfald","de":"Laune, Grille","en":"caprice, whim, whimsy","es":"capricho, antojo","he":"קפריזה, גחמה"}
 {"L":"caprisal","C":["a"],"en":"arbitrary","he":"שרירותי"}
 {"L":"caprisia","C":["n"],"en":"capriciousness, whimsy","he":"קפריזיות, גחמנות"}
 {"L":"caprisosa","C":["a"],"en":"capricious, whimsical","he":"קפריזי, גחמני"}
@@ -4486,7 +4486,7 @@
 {"T":"r","L":"caputxin","C":["n","mam"],"d":"un simia de America Sude con un xapeta de capeles cual sembla un capeta","i":"#","t":"Cebus","en":"capuchin (monkey)","he":"קפוצ'ין (קוף)"}
 {"T":"r","L":"caputxino","C":["n","cos"],"d":"cafe preparada con lete cual on ia spuma con vapor compresada","en":"cappuccino (coffee)","he":"קפוצ'ינו, קפה הפוך"}
 {"T":"r","L":"car","C":["sj"],"d":"par causa ce","n":"`Car` indica la causa; `afin` indica la intende.","u":"me surie car me es felis","v":"afin","da":"fordi","de":"weil","en":"because, cos, as, since, for","he":"כי, בגלל ש, מכיוון ש, מאחר ש, משום ש"}
-{"T":"r","L":"cara","C":["a"],"d":"regardada con ama o aminia; usada en la forma cortes de nomi la lejor a la comensa de un letera; custosa","da":"dyr, kær; kostbar","de":"lieb; teuer, kostspielig","en":"dear, beloved, cherished, darling, cute; expensive, costly, pricey","he":"יקיר, אהוב; יקר"}
+{"T":"r","L":"cara","C":["a"],"d":"regardada con ama o aminia; usada en la forma cortes de nomi la lejor a la comensa de un letera; custosa","da":"dyr, kær; kostbar","de":"lieb; teuer, kostspielig","en":"dear, beloved, cherished, darling, cute; expensive, costly, pricey","es":"querido, apreciado, estimado, amado, precioso; caro, costoso","he":"יקיר, אהוב; יקר"}
 {"L":"cara","C":["n"],"en":"dear, beloved, darling","he":"יקיר, אהוב"}
 {"L":"cari","C":["vnt"],"en":"become endeared","he":"להתחבב"}
 {"L":"cari","C":["vt"],"en":"endear","he":"לעורר חיבה"}
@@ -4512,13 +4512,13 @@
 {"T":"r","L":"caraoce","C":["n","mus"],"d":"un forma de diverti, tipal en bares e clubes, en cual persones alterna en presenta cantas popular con musica rejistrada","en":"karaoke","he":"קריוקי"}
 {"T":"r","L":"carate","C":["n","spo"],"d":"un sistem de combate sin armas de Asia, en cual on usa la manos e pedes per colpa, tipal praticada como un sporte","i":"#","en":"karate","he":"קראטה"}
 {"L":"carator","C":["n"],"en":"karateka, karate expert","he":"לוחם קראטה"}
-{"T":"r","L":"carater","C":["n","uma"],"d":"la cualias mental cual distingui un individua de otras; un person en un novela, filma o presenta teatral; un rol realida par un ator","da":"karakter","de":"Charakter","en":"character (including in fiction), personality","he":"אופי, צביון, אישיות; דמות"}
+{"T":"r","L":"carater","C":["n","uma"],"d":"la cualias mental cual distingui un individua de otras; un person en un novela, filma o presenta teatral; un rol realida par un ator","da":"karakter","de":"Charakter","en":"character (including in fiction), personality","es":"carácter, personaje, personalidad","he":"אופי, צביון, אישיות; דמות"}
 {"T":"r","L":"carato","C":["n","vest"],"d":"un unia per mesura la puria de oro, en cual oro pur ave 24 caratos; un unia de pesa per jemes e perlas, egal a 200 mg","en":"carat, karat","he":"קרט"}
 {"T":"r","L":"caravan","C":["n","vec"],"d":"un veculo en cual on pote abita, tipal tirada par un auto e usada per vacanse; un veculo simil tirada par cavalos; (istorial) un grupo de persones viajante tra un deserto en Asia o Africa norde; un grupo grande de persones, tipal con veculos o animales, viajante la un pos la otra","i":"#","en":"caravan (towed vehicle, travellers); trailer, camper","he":"קראוון, מעונוע; שיירת"}
 {"T":"r","L":"caravela","C":["n","vec"],"d":"un barcon peti e rapida, usada par espanioles e portugeses entre la sentenios 15 e 17","i":"#","en":"caravel (ship)","he":"קרוולה (ספינה)"}
 {"T":"r","L":"carbido","C":["n","cim"],"d":"un composada binaria de carbono con un elemento min eletronegativa","en":"carbide (chemistry)","he":"(כימיה) קרביד"}
 {"T":"r","L":"carboidrato","C":["n","cim","bio"],"d":"cada de un grupo grande de composadas organica trovada en comedas e texedas vivente, incluinte zucares, amidones e selulosa","p":"carboïdrato","en":"carbohydrate, carb","he":"פחמימה"}
-{"T":"r","L":"carbon","C":["n","tera"],"d":"un roca negra o oscur brun, xef composada de materia carbonida de plantas, trovada en deponedas suteran e tipal usada como un combustable","da":"kul","de":"Kohle","en":"coal","he":"פחם"}
+{"T":"r","L":"carbon","C":["n","tera"],"d":"un roca negra o oscur brun, xef composada de materia carbonida de plantas, trovada en deponedas suteran e tipal usada como un combustable","da":"kul","de":"Kohle","en":"coal","es":"carbón","he":"פחם"}
 {"L":"carbon bitumosa","C":["n"],"en":"bituminous coal","he":"פחם ביטומני"}
 {"L":"carbon de lenio","C":["n"],"en":"charcoal","he":"פחם עץ"}
 {"T":"r","L":"carbonato","C":["n","cim"],"d":"un sal tipal formida par la reata de diosido de carbono con un base","en":"carbonate","he":"פחמה, קרבונט"}
@@ -4527,7 +4527,7 @@
 {"T":"r","L":"carboniferosa","C":["a","tera"],"d":"pertinente a la periodo sinco de la paleozoica, entre la devonian e permian","en":"Carboniferous (geology)","he":"(גיאולוגיה) שקשור לעידן הקרבון"}
 {"L":"carboniferosa","C":["n"],"en":"Carboniferous (geology)","he":"(גיאולוגיה) עידן הקרבון"}
 {"T":"r","L":"carbonil","C":["n","cim"],"d":"la radis divalente {=C=O}, presente en composadas organica como aldehidos, cetonas, amidas e esteres, e en asidas organica como parte de la grupo de carbosil","en":"carbonyl (chemistry)","he":"(כימיה) קרבוניל"}
-{"T":"r","L":"carbono","C":["n","cim"],"d":"la elemento cimical con numero atomal 6, trovada en la forma de diamantes e grafito, e un parte esensal de organismes","s":"C","da":"kulstof, carbon","de":"Kohlenstoff","en":"carbon","he":"פחמן (יסוד)"}
+{"T":"r","L":"carbono","C":["n","cim"],"d":"la elemento cimical con numero atomal 6, trovada en la forma de diamantes e grafito, e un parte esensal de organismes","s":"C","da":"kulstof, carbon","de":"Kohlenstoff","en":"carbon","es":"carbono","he":"פחמן (יסוד)"}
 {"L":"carboni","C":["vnt"],"en":"carbonize|is, char","he":"להתפחם"}
 {"L":"carboni","C":["vt"],"en":"carbonize|is, char","he":"לפחם"}
 {"T":"r","L":"carbosil","C":["n","cim"],"d":"la radis asida {-COOH}, presente en la plu de asidas organica","en":"carboxyl (chemistry)","he":"(כימיה) קרבוקסיל"}
@@ -4566,7 +4566,7 @@
 {"L":"careral","C":["a"],"en":"career-related","he":"שקשור בקריירה"}
 {"L":"careror","C":["n"],"en":"career man, career woman","he":"קרייריסט"}
 {"T":"r","L":"caresa","C":["vt"],"d":"toca o frota lejera e amante","en":"caress, stroke, fondle, pet","he":"ללטף"}
-{"T":"r","L":"carga","C":["vt","vec"],"d":"pone cosas sur o en (un contenador o veculo); pone alga cosa en (un aparato) afin lo pote funsiona; furni enerjia eletrical a un pila o aparato con pila; (en informatica) move (un program o datos) a memoria plu fasil per asede","da":"byrde, ladning","de":"Ladung","en":"load, stow, ship; upload; charge (electrically); burden, afflict, subject, encumber, foist","he":"להעמיס; (מחשבים) להעלות; להטעין, לטעון; להכביד"}
+{"T":"r","L":"carga","C":["vt","vec"],"d":"pone cosas sur o en (un contenador o veculo); pone alga cosa en (un aparato) afin lo pote funsiona; furni enerjia eletrical a un pila o aparato con pila; (en informatica) move (un program o datos) a memoria plu fasil per asede","da":"byrde, ladning","de":"Ladung","en":"load, stow, ship; upload; charge (electrically); burden, afflict, subject, encumber, foist","es":"carga, peso, cargamento, impedimenta","he":"להעמיס; (מחשבים) להעלות; להטעין, לטעון; להכביד"}
 {"L":"carga","C":["n"],"en":"load, burden, cargo, freight, shipment; upload; charge (electric)","he":"העמסה, הטענה, טעינה; (מחשבים) העלאה; משא, עומס, מִטען (גם חשמלי); הכבדה"}
 {"L":"carga de labora","C":["n"],"en":"workload","he":"עומס עבודה"}
 {"L":"carga profitosa","C":["n"],"en":"payload","he":"מִטען יעודי, מטעד"}
@@ -4603,7 +4603,7 @@
 {"L":"carmesi","C":["n"],"en":"crimson","he":"ארגמן"}
 {"T":"r","L":"carnaval","C":["n"],"d":"un periodo de selebra publica cual aveni a cada anio, spesial en la semana ante cuaresma, cual inclui parades, musica, dansa e mascas; un festa o selebra simil, an cuando sin pertine a cristianisme","en":"carnival, festival, fiesta","es":"carnaval","he":"קרנבל, פסטיבל"}
 {"L":"carnavalor","C":["n"],"en":"carnival worker, carny","he":"עובד קרנבל"}
-{"T":"r","L":"carne","C":["n","bio","cos"],"d":"la materia mol, composada de musculos e gras, entre la pel e osos de un person o animal; esta materia usada per comeda","da":"kød, flæsk","de":"Fleisch","en":"flesh, meat","he":"בשר"}
+{"T":"r","L":"carne","C":["n","bio","cos"],"d":"la materia mol, composada de musculos e gras, entre la pel e osos de un person o animal; esta materia usada per comeda","da":"kød, flæsk","de":"Fleisch","en":"flesh, meat","es":"carne","he":"בשר"}
 {"L":"carne axida a picos","C":["n"],"en":"minced meat","he":"בשר קצוץ"}
 {"L":"carne de avia","C":["n"],"en":"fowl, poultry (meat)","he":"בשר עוף"}
 {"L":"carne de bove","C":["n"],"da":"bøf, oksekød","de":"Rindfleisch","en":"beef","he":"בשר בקר"}
@@ -4628,7 +4628,7 @@
 {"L":"descarni","C":["vt"],"en":"remove flesh from, flesh, pick clean","he":"להסיר בשר מעצמות"}
 {"T":"r","L":"carnivor","C":["a","bio"],"d":"(un organisme) cual come xef animales","en":"carnivorous","he":"שאוכל בשר"}
 {"L":"carnivor","C":["n"],"en":"carnivore","he":"טורף, קרניבור, אוכל בשר"}
-{"T":"r","L":"caro","C":["n","vec"],"d":"un veculo con rotas ma sin motor, tipal tirada par cavalos, usada per transporta persones o cargas lejera; un parte de un macina cual porta otra partes a la loca nesesada","i":"#","da":"vogn, køretøj","de":"Karren","en":"coach, carriage, buggy, wagon, trolley, cart; carriage (typewriter)","he":"עגלה, כרכרה, קרון, גרר"}
+{"T":"r","L":"caro","C":["n","vec"],"d":"un veculo con rotas ma sin motor, tipal tirada par cavalos, usada per transporta persones o cargas lejera; un parte de un macina cual porta otra partes a la loca nesesada","i":"#","da":"vogn, køretøj","de":"Karren","en":"coach, carriage, buggy, wagon, trolley, cart; carriage (typewriter)","es":"carro, carreta, carretón, carruaje, coche (de caballos), vagón (vehículo de ruedas sin motor)","he":"עגלה, כרכרה, קרון, גרר"}
 {"L":"caro de bebe","C":["n"],"i":"#","en":"baby carriage, pram","he":"עגלת תינוק"}
 {"L":"caro de bove","C":["n"],"i":"#","en":"oxcart","he":"עגלה רתומה"}
 {"L":"caro de canon","C":["n"],"en":"gun carriage","es":"afuste","fr":"affût, affut","he":"עגלת תותח"}
@@ -4655,7 +4655,7 @@
 {"L":"Carolina Sude","C":["n","jeo"],"d":"un stato en la SUA este, bordante la Mar Atlantica","en":"South Carolina (US state)","he":"דרום קרוליינה"}
 {"T":"r","L":"caron","C":["n","ling"],"d":"un sinieta simil a un V, scriveda supra un letera per indica un varia de sona en la linguas slavica e otras","s":"ˇ","en":"caron, haček, wedge (diacritic)","he":"(בלשנות) וי קטן"}
 {"T":"r","L":"caronia","C":["n","bio"],"d":"la carne putrida de animales mor, comeda par alga animales","en":"carrion","he":"פגר, נבלה"}
-{"T":"r","L":"carota","C":["n","pla","cos"],"d":"un planta en familia de persil, o sua radis orania e comable","i":"#","t":"Daucus carota","da":"gulerod","de":"Karotte","en":"carrot (plant, root)","he":"גֶּזר"}
+{"T":"r","L":"carota","C":["n","pla","cos"],"d":"un planta en familia de persil, o sua radis orania e comable","i":"#","t":"Daucus carota","da":"gulerod","de":"Karotte","en":"carrot (plant, root)","es":"zanahoria","he":"גֶּזר"}
 {"T":"r","L":"carotenoide","C":["n","bio"],"d":"un pigmento organica, comun orania","en":"carotenoid","he":"קרוטנואיד"}
 {"T":"r","L":"carotide","C":["a","anat"],"d":"pertinente a la du arterias xef cual porta sangue a la testa e colo, e sua du ramos xef","en":"carotid","he":"עורק תרדמני"}
 {"T":"r","L":"carpa","C":["n","pex"],"d":"un pex de acua dulse, tipal con barbos sirca sua boca, elevada per comeda en alga partes de la mundo, e usada en stanges ornal","i":"#","t":"Cyprininae","en":"carp","he":"קרפיון"}
@@ -4677,7 +4677,7 @@
 {"L":"carsinojen","C":["n"],"en":"carcinogen","he":"גורם מסרטן"}
 {"T":"r","L":"carsinojenese","C":["n"],"d":"la inisia de formi de canser","en":"carcinogenesis","he":"סרטוּן"}
 {"T":"r","L":"carsinoma","C":["n","med"],"d":"un canser de la texeda epitelial de la pel o de la fore de la organos interna","en":"carcinoma","he":"קרצינומה"}
-{"T":"r","L":"carta","C":["n"],"d":"un paper rijida e retangulo, tipal usada per envia un mesaje o saluta, per porta detalias de identia, o en juas de cartas; un table de informa; un peso peti de plastica conteninte informa lejable par macina, usada per paia per benes o per entra a salas restrinjeda; un sircuito primida e ajuntable a un computador","da":"kort","de":"Karte","en":"card","he":"כרטיס; קלף"}
+{"T":"r","L":"carta","C":["n"],"d":"un paper rijida e retangulo, tipal usada per envia un mesaje o saluta, per porta detalias de identia, o en juas de cartas; un table de informa; un peso peti de plastica conteninte informa lejable par macina, usada per paia per benes o per entra a salas restrinjeda; un sircuito primida e ajuntable a un computador","da":"kort","de":"Karte","en":"card","es":"tarjeta, carta, naipe","he":"כרטיס; קלף"}
 {"L":"carta blanca","C":["n","mone"],"en":"carte blanche","he":"יד חופשית, חופש פעולה"}
 {"L":"carta de banca","C":["n","mone"],"en":"bank card","he":"כרטיס בנקאי, כרטיס בנקט"}
 {"L":"carta de credito","C":["n","mone"],"en":"credit card","he":"כרטיס אשראי"}
@@ -4697,7 +4697,7 @@
 {"L":"carton","C":["n"],"en":"cardboard, posterboard; placard","he":"קרטון"}
 {"L":"carton ondin","C":["n"],"en":"corrugated cardboard","he":"קרטון גלי"}
 {"T":"r","L":"Cartago","C":["n","jeo"],"d":"un site antica a la costa de Africa norde, prosima a la site moderna Tunis, colonida par la fenisias en 814 aec e ultima destruida par la romanes en 146 aec","i":"#","en":"Carthage","he":"קרתגו"}
-{"T":"r","L":"cartamo","C":["n","pla","cos"],"d":"un planta eurasian con flores orania, semes cual dona olio comable, e petales istorial usada per produi un tinje roja o jala","i":"#","t":"Carthamus tinctorius","da":"saflor","de":"Färbersaflor, Färberdistel, Florsafran","en":"safflower","he":"חריע (צמח)"}
+{"T":"r","L":"cartamo","C":["n","pla","cos"],"d":"un planta eurasian con flores orania, semes cual dona olio comable, e petales istorial usada per produi un tinje roja o jala","i":"#","t":"Carthamus tinctorius","da":"saflor","de":"Färbersaflor, Färberdistel, Florsafran","en":"safflower","es":"cártamo, sésamo, alazor","he":"חריע (צמח)"}
 {"T":"r","L":"carte","C":["n","vec"],"d":"un veculo peti de corsa sin molas, con cuatro rotas e un motor retro","en":"kart, go-kart","he":"קארט (מכונית)"}
 {"L":"corsa de cartes","C":["n"],"en":"karting","he":"מרוץ קארטינג"}
 {"T":"r","L":"cartel","C":["n","gov"],"d":"un asosia de produores o furnores ci intende manteni custas a nivel alta per restrinje competores","en":"cartel","he":"קרטל"}
@@ -4719,7 +4719,7 @@
 {"T":"r","L":"caruncula","C":["n","bio","anat"],"d":"un lobe carnosa e colorida, pendente de la testa o colo de un avia, como en gales e pavos; un plia de pel cual pende laxe de la colo de un animal, como en alga boves","i":"#","en":"caruncle, wattle, dewlap; jowl","he":"(בעלי חיים) דלדול בשרי בצוואר"}
 {"T":"r","L":"carusel","C":["n","spo"],"d":"un macina jirante con animales de lenio cual on monta per diverti; un disco grande e jirante en un jueria de enfantes; un banda rolante cual porta cosas en airoportos o fabricerias","i":"#","en":"merry-go-round, roundabout, carousel (entertainment, conveyor belt)","he":"קרוסלה, סחרחרה"}
 {"T":"r","L":"carvi","C":["n","pla","cos"],"d":"un planta mediteranean con flores blanca, en familia de persil; la semes de esta, usada per sabori e per sua olio","i":"#","t":"Carum carvi","en":"caraway (plant)","he":"כרוויה, קימל (צמח)"}
-{"T":"r","L":"casa","C":["n","arci"],"d":"un construida per abita umana, tipal par un familia o grupo peti de persones; la persones ci vive en un de estas","i":"#","da":"hus, hjem","de":"Haus, Heim","en":"house, home, household, menage","he":"בית"}
+{"T":"r","L":"casa","C":["n","arci"],"d":"un construida per abita umana, tipal par un familia o grupo peti de persones; la persones ci vive en un de estas","i":"#","da":"hus, hjem","de":"Haus, Heim","en":"house, home, household, menage","es":"casa, hogar, domicilio, habitación","he":"בית"}
 {"L":"casa campanian","C":["n"],"en":"country house, villa","he":"בית בכפר, בית נופש"}
 {"L":"casa de avia","C":["n"],"i":"#","en":"nest box, birdhouse","he":"מחסה לציפורים"}
 {"L":"casa de club","C":["n"],"en":"clubhouse","he":"מועדון"}
@@ -4763,7 +4763,7 @@
 {"L":"cascade","C":["n"],"en":"cascade, waterfall, cataract","he":"מפל מים"}
 {"L":"cascade jelada","C":["n"],"i":"#","en":"frozen waterfall, icefall","he":"מפל קפוא"}
 {"L":"cascades","C":["n","pl"],"en":"cascades, waterfalls, falls","he":"מפלי מים"}
-{"T":"r","L":"casco","C":["n","vec"],"d":"la strutur xef de un barco o avion","da":"skrog","en":"hull","he":"גוף (של אונייה או מטוס)"}
+{"T":"r","L":"casco","C":["n","vec"],"d":"la strutur xef de un barco o avion","da":"skrog","en":"hull","es":"vaina","he":"גוף (של אונייה או מטוס)"}
 {"T":"r","L":"casena","C":["n","cim","bio"],"d":"la protena major de lete e ceso","en":"casein (protein)","he":"קזאין (חלבון)"}
 {"T":"r","L":"caserna","C":["n","arci"],"d":"un construida per casi soldatos, laborores o prisonidas","i":"#","en":"barracks","he":"קסרקטין, מגורי חיילים"}
 {"T":"r","L":"casia","C":["n","pla"],"d":"un planta, arboreta o arbor en familia de piso, usada como lenio, medisin, comeda de bestias, o per orna","i":"#","t":"Cassia","en":"cassia (plant)","he":"קציעה (צמח)"}
@@ -4843,7 +4843,7 @@
 {"T":"r","L":"catecese","C":["n","rel"],"d":"un educa relijial, donada con un catecisme, en prepara per batiza o confirma cristian","en":"catechesis"}
 {"T":"r","L":"catecisme","C":["n","rel"],"d":"un resoma de la prinsipes de cristianisme, con forma de demandas e respondes, usada per instrui","en":"catechism (Christianity)","es":"catecismo","he":"(נצרות) קטכיזם"}
 {"T":"r","L":"catedral","C":["n","arci","rel"],"d":"la eglesa xef de un bispia, tipal plu grande ca un eglesa comun","i":"#","en":"cathedral","he":"קתדרלה"}
-{"T":"r","L":"categoria","C":["n"],"d":"un clase o divide de persones o cosas par sua cualias comun; (en filosofia) cada de un grupo de clases entre cual on pote cisa distribui tota cosas","da":"kategori, klassifikation","de":"Kategorie","en":"category, class","he":"קטגוריה"}
+{"T":"r","L":"categoria","C":["n"],"d":"un clase o divide de persones o cosas par sua cualias comun; (en filosofia) cada de un grupo de clases entre cual on pote cisa distribui tota cosas","da":"kategori, klassifikation","de":"Kategorie","en":"category, class","es":"categoría, clasificación","he":"קטגוריה"}
 {"L":"categoria sintatical","C":["n","ling"],"en":"lexical category, syntactic category, part of speech","he":"קטגוריה לקסיקלית, חלק דיבר"}
 {"L":"categorial","C":["a"],"en":"categorial (relating to a category)"}
 {"L":"categori","C":["vt"],"en":"categorize|is, classify","he":"לסווג"}
@@ -4860,7 +4860,7 @@
 {"T":"r","L":"catolica","C":["a","rel"],"d":"parteninte a la forma de cristianisme cual aseta la pape como sua xef","en":"Catholic, Roman Catholic","es":"católico","he":"קתולי"}
 {"L":"catolica","C":["n"],"en":"Catholic, Roman Catholic","es":"católico","he":"קתולי"}
 {"L":"catolicisme","C":["n"],"en":"Catholicism, Roman Catholicism","es":"catolicismo","he":"קתוליות"}
-{"T":"r","L":"catran","C":["n","cim"],"d":"un licuida oscur, densa e flamable, distilada de lenio o carbon, usada per crea la surfas de stradas; un materia resinosa, formida par arde tabaco o otra materia","da":"tjære","de":"Teer","en":"tar","he":"זפת, עטרן"}
+{"T":"r","L":"catran","C":["n","cim"],"d":"un licuida oscur, densa e flamable, distilada de lenio o carbon, usada per crea la surfas de stradas; un materia resinosa, formida par arde tabaco o otra materia","da":"tjære","de":"Teer","en":"tar","es":"chapopote, alquitrán, brea, pez (para calafatear barcos)","he":"זפת, עטרן"}
 {"L":"catran de tabaco","C":["n"],"en":"tar","he":"עטרן טבק"}
 {"L":"catrani","C":["vt"],"en":"tar","he":"לזפת"}
 {"T":"r","L":"catura","C":["vt"],"d":"saisi la posese o controla de (un person o cosa) par forsa","en":"capture, catch, apprehend, nab","he":"ללכוד, לתפוס, לשבות"}
@@ -4877,32 +4877,32 @@
 {"L":"Montes Caucaso","C":["n","pl","jeo"],"d":"du cadenas de montes en Caucaso","en":"Caucasus Mountains","he":"הרי הקווקז"}
 {"T":"r","L":"caucasoide","C":["a"],"d":"(ofendente e no plu usada) de la raza de Europa, Asia ueste e Africa norde","en":"Caucasoid","he":"(גזע) לבן"}
 {"T":"r","L":"cauri","C":["n","mol"],"d":"un molusco de mar con conca lisa, briliante e cupolin, con abri longa e magra","i":"#","t":"Cypraeidae","en":"cowrie (shell, mollusc)","he":"חילזון ימי"}
-{"T":"r","L":"causa","C":["vt"],"d":"fa ce (alga cosa) aveni","da":"forårsage, bevirke","de":"verursachen","en":"cause, entrain, wreak, underlie, result in","he":"לגרום"}
+{"T":"r","L":"causa","C":["vt"],"d":"fa ce (alga cosa) aveni","da":"forårsage, bevirke","de":"verursachen","en":"cause, entrain, wreak, underlie, result in","es":"causar, originar","he":"לגרום"}
 {"L":"causa","C":["n"],"en":"cause, grounds; causation","he":"גורם, סיבה"}
 {"L":"causal","C":["a"],"en":"causal","he":"סיבתי"}
 {"L":"causalia","C":["n"],"en":"causality","he":"סיבתיות"}
 {"L":"par causa ce","C":["sj"],"en":"because","he":"כי, בגלל ש, מכיוון ש, מאחר ש, משום ש"}
 {"L":"par causa de","C":["prep"],"de":"wegen","en":"because of, due to, owing to, thanks to","he":"בגלל, עקב, בשל, הודות ל"}
 {"T":"r","L":"cauta","C":["a"],"d":"atendente problemes o periles posible, per evita los","da":"forsigtighed, påpasselighed","en":"cautious, careful, wary, prudent, heedful, conservative, circumspect","he":"זהיר, שקול"}
-{"L":"cautia","C":["n"],"de":"Vorsicht","en":"caution, carefulness, prudence, discretion, heedfulness","he":"זהירות, שיקול-דעת"}
+{"L":"cautia","C":["n"],"de":"Vorsicht","en":"caution, carefulness, prudence, discretion, heedfulness","es":"precaución, prudencia, cautela","he":"זהירות, שיקול-דעת"}
 {"L":"noncauta","C":["a"],"en":"impulsive, foolhardy, rash, heedless, hare-brained","he":"פזיז, נמהר, אימפולסיבי"}
 {"L":"noncautia","C":["n"],"en":"impulsiveness, temerity","he":"פזיזות, אימפולסיביות"}
 {"T":"r","L":"cauteri","C":["vt","med"],"d":"arde la pel o carne de (un feri) con un strumento calda o materia corodente, tipal per para sangui o preveni infeta","en":"cauterize|is","he":"(רפואה) לצרוב, לחרוך"}
 {"L":"cauteri","C":["n"],"en":"cauterization|is","he":"(רפואה) צריבה, חריכה"}
 {"L":"cauterador","C":["n"],"en":"cautery","he":"(רפואה) צורב"}
-{"T":"r","L":"cauxo","C":["n","cim"],"d":"un materia dur e elastica, composada de la latex de un planta tropical o par sintese","da":"gummi","de":"Gummi","en":"rubber","he":"גומי"}
+{"T":"r","L":"cauxo","C":["n","cim"],"d":"un materia dur e elastica, composada de la latex de un planta tropical o par sintese","da":"gummi","de":"Gummi","en":"rubber","es":"hule, caucho, goma","he":"גומי"}
 {"L":"cauxi","C":["vt"],"en":"rubberize|is","he":"לצפות בגומי"}
 {"L":"cauxi","C":["n"],"en":"rubberization|is","he":"ציפוי בגומי"}
-{"T":"r","L":"cava","C":["n","tera","anat"],"d":"un cambra grande, tipal de orijina natural, en la lado de un colina o un falesa, tipal estende su la tera; un strutur artifis cual sembla esta","da":"hule","de":"Höhle","en":"cave, grotto","he":"מערה"}
+{"T":"r","L":"cava","C":["n","tera","anat"],"d":"un cambra grande, tipal de orijina natural, en la lado de un colina o un falesa, tipal estende su la tera; un strutur artifis cual sembla esta","da":"hule","de":"Höhle","en":"cave, grotto","es":"cueva","he":"מערה"}
 {"L":"cava de bir","C":["n"],"en":"beer cellar, rathskeller","he":"מרתף בירה"}
 {"L":"cava de vino","C":["n"],"i":"#","en":"wine cellar","he":"מרתף יין"}
 {"L":"caveta","C":["n"],"da":"hul","de":"hohl","en":"cavity, hollow, pit; socket (joint)","he":"מחילה, בקיע, בור; מגרעת, שקע, גומחה"}
 {"L":"caveta nasal","C":["n"],"en":"nasal cavity","he":"חלל האף, מערות האף"}
-{"L":"cavetin","C":["a"],"en":"hollow","he":"חלול"}
+{"L":"cavetin","C":["a"],"en":"hollow","es":"hueco, vacío, concavo","he":"חלול"}
 {"L":"cavon","C":["n"],"d":"un cava vasta","i":"#","en":"cavern","he":"מערה גדולה"}
 {"L":"cavor","C":["n"],"en":"caver, potholer, spelunker","he":"טייל מערות"}
 {"T":"r","L":"cava","C":["n","pla","cos"],"d":"un arboreta polinesian en familia de peper; un bevida calminte, produida de la radis de esta","i":"cava-planta","t":"Piper methysticum","en":"kava (plant)","he":"קאבה (צמח)"}
-{"T":"r","L":"cavalo","C":["n","mam"],"d":"un mamal erbivor grande, domada per monta, corsa e tira carga; un peso de xace cual sembla la testa de esta; un unia de potia, tipal usada per descrive motores","i":"#","t":"Equus caballus","da":"hest","de":"Pferd","en":"horse, steed; knight (chess); horsepower (measurement)","he":"סוס; כוח סוס; (שחמט) פרש"}
+{"T":"r","L":"cavalo","C":["n","mam"],"d":"un mamal erbivor grande, domada per monta, corsa e tira carga; un peso de xace cual sembla la testa de esta; un unia de potia, tipal usada per descrive motores","i":"#","t":"Equus caballus","da":"hest","de":"Pferd","en":"horse, steed; knight (chess); horsepower (measurement)","es":"caballo","he":"סוס; כוח סוס; (שחמט) פרש"}
 {"L":"cavalo de corsa","C":["n"],"en":"racehorse","he":"סוס מרוץ"}
 {"L":"cavalo de gera","C":["n"],"en":"warhorse","he":"סוס מלחמה; שועל קרבות"}
 {"L":"cavalo-de-mar","C":["n","ani","pex"],"d":"un pex peti con armur sesionida, beco tubo, coda risa e prensil, posa vertical, e testa e colo semblante los de un cavalo","i":"#","t":"Hippocampus","en":"seahorse","he":"סוסון ים"}
@@ -4925,7 +4925,7 @@
 {"T":"r","L":"caviar","C":["n","cos"],"d":"la ovos de la sturion o otra pex grande, comeda como un deleta","i":"#","en":"caviar","he":"קוויאר"}
 {"T":"r","L":"cavil","C":["n","arci","util"],"d":"un peso silindre de lenio o otra materia, usada per fisa, marca o pende","en":"peg, dowel","he":"יתד, פין"}
 {"L":"cavil de rota","C":["n"],"en":"linchpin","he":"פין גלגל"}
-{"T":"r","L":"caxa","C":["n","util"],"d":"un contenador con funda e lados plana, tipal retangulo e cluable; un strutur simil per proteje alga cosa","da":"æske, kasse, boks","de":"Kasten, Schachtel, Karton","en":"box, coffer; case, casing, housing","he":"קופסה, תיבה, ארגז"}
+{"T":"r","L":"caxa","C":["n","util"],"d":"un contenador con funda e lados plana, tipal retangulo e cluable; un strutur simil per proteje alga cosa","da":"æske, kasse, boks","de":"Kasten, Schachtel, Karton","en":"box, coffer; case, casing, housing","es":"caja","he":"קופסה, תיבה, ארגז"}
 {"L":"caxa de arena","C":["n"],"i":"#","en":"sandbox, sandpit","he":"ארגז חול"}
 {"L":"caxa de carton","C":["n"],"i":"#","en":"cardboard box, carton","he":"קופסת קרטון"}
 {"L":"caxa de come","C":["n"],"i":"#","en":"lunch box","he":"תיק אוכל"}
@@ -4962,7 +4962,7 @@
 {"L":"cazac","C":["n","dem"],"en":"Kazakh, Kazakhstani (person, language)","he":"קזחי, קזחית (שפה)"}
 {"T":"r","L":"cazu","C":["n","mus"],"d":"un strumento musical peti e simple, composada de un tubo con un fora con un covrente cual vibra cuando on canta o zumbi en la tubo","i":"#","p":"cazú","en":"kazoo, mirliton (musical instrument)","he":"קאזו, ציקוצית (כלי נגינה)"}
 {"T":"r","L":"cd","C":["c","info"],"d":"disco compata","en":"CD","he":"תקליטור, דיסק"}
-{"T":"r","L":"ce","C":["sj"],"d":"usada per introdui un proposa suordinada cual espresa un declara o ipotese","n":"No confusa `ce` e `cual`. `Ce` no sinifia `cual cosa?`. Lo introdui sempre un suproposa cual presenta tipal la contenida de un dise o pensa o simil. E en la frase presedente, nota la usa de `cual`, no `ce`, en `un suproposa cual presenta`.","u":"me vide ce tu es triste; los insiste ce nos parti","da":"at","de":"dass","en":"that","he":"ש-, אשר"}
+{"T":"r","L":"ce","C":["sj"],"d":"usada per introdui un proposa suordinada cual espresa un declara o ipotese","n":"No confusa `ce` e `cual`. `Ce` no sinifia `cual cosa?`. Lo introdui sempre un suproposa cual presenta tipal la contenida de un dise o pensa o simil. E en la frase presedente, nota la usa de `cual`, no `ce`, en `un suproposa cual presenta`.","u":"me vide ce tu es triste; los insiste ce nos parti","da":"at","de":"dass","en":"that","es":"que","he":"ש-, אשר"}
 {"T":"r","L":"cea","C":["n","avia"],"d":"un papagaio de montania de Zeland Nova con beco longa e streta e plumas xef oliva, cual come caronia a veses","i":"#","t":"Nestor notabilis","en":"kea (bird)","he":"קיאה (ציפור)"}
 {"T":"r","L":"cebab","C":["n","cos"],"d":"un plato de carne e vejetales coceda e servida sur lansietas","i":"#","en":"kebab, kabob, shish kebab","eo":"ŝaŝliko, rostostanga kebabo","he":"קבב"}
 {"T":"r","L":"cela","C":["vnt","cim"],"d":"formi un composada en cual un liante (tipal organica) es liada a un atom metal a du o plu puntos","en":"chelate (chemistry)","he":"(כימיה) לצבת"}
@@ -4995,7 +4995,7 @@
 {"L":"cerubines","C":["n","pl"],"en":"cherubs, cherubim","he":"כרובים (מלאכים)"}
 {"T":"r","L":"cesadilia","C":["n","cos"],"d":"un tortilia plenida con ceso e caldida","i":"#","en":"quesadilla (tortilla)","he":"קסדייה"}
 {"T":"r","L":"cesar","C":["n","gov","ist"],"d":"un titulo de imperores roman","en":"Caesar (emperor)","he":"קיסר"}
-{"T":"r","L":"ceso","C":["n","cos"],"d":"un comeda fabricada par presa caliadas de lete; un masa moldida de esta","i":"#","da":"ost","de":"Käse","en":"cheese","he":"גבינה"}
+{"T":"r","L":"ceso","C":["n","cos"],"d":"un comeda fabricada par presa caliadas de lete; un masa moldida de esta","i":"#","da":"ost","de":"Käse","en":"cheese","es":"queso","he":"גבינה"}
 {"L":"ceso blanca","C":["n"],"en":"cottage cheese, farmer cheese, junket, quark, queso fresco, queijo fresco, fromage frais, fromage blanc","he":"גבינת קוטג'"}
 {"L":"ceso cremosa","C":["n"],"en":"cream cheese","he":"גבינת שמנת"}
 {"L":"ceso-de-testa","C":["n"],"en":"headcheese, brawn (jellied meat)","he":"בשר ראש וג'לטין"}
@@ -5016,7 +5016,7 @@
 {"T":"r","L":"Chihuahua","C":["n","jeo"],"d":"un stato de Mexico norde","p":"txiwawa","en":"Chihuahua (Mexican state)","fr":"Chihuahua","he":"צ'יוואווה (מדינה במקסיקו)"}
 {"L":"chihuahua","C":["n","mam"],"d":"un can multe peti con pelo lisa e oios grande, orijinante en Mexico","en":"chihuahua (dog)","he":"צ'יוואווה (כלב)"}
 {"L":"Deserto Chihuahua","C":["n","jeo"],"d":"un deserto de Mexico norde-sentral e la SUA sude-sentral","i":"#","en":"Chihuahuan Desert","fr":"Désert de Chihuahua","he":"מדבר צ'יוואווה"}
-{"T":"r","L":"ci","C":["pron"],"d":"(demandante) cual person; (suordinante) introduinte un suproposa ajetivin cual dona plu informa sur un person o persones (o animales personin) cual on ia indica direta a ante","n":"","u":"ci es tu?; el ia demanda ci me ia vide; la om ci senta en la auto es mea avo; me conose la fem con ci tu ia parla","da":"hvem","de":"wer; der, die (relativ)","en":"who, whom (interrogative, relative)","he":"ש-, אשר (לבני-אדם וחיות מחמד); מי, את מי"}
+{"T":"r","L":"ci","C":["pron"],"d":"(demandante) cual person; (suordinante) introduinte un suproposa ajetivin cual dona plu informa sur un person o persones (o animales personin) cual on ia indica direta a ante","n":"","u":"ci es tu?; el ia demanda ci me ia vide; la om ci senta en la auto es mea avo; me conose la fem con ci tu ia parla","da":"hvem","de":"wer; der, die (relativ)","en":"who, whom (interrogative, relative)","es":"quien, quienes, el que, la que, los que, las que","he":"ש-, אשר (לבני-אדם וחיות מחמד); מי, את מי"}
 {"L":"de ci ... sua","C":["esp"],"u":"la fem de ci tu ia trova sua clave es mea fia","en":"whose","he":"של מי"}
 {"T":"r","L":"ci","C":["n","ling"],"d":"la letera 22 de la alfabeta elinica","s":"Χ χ","en":"chi (Greek letter)","he":"כי (האות העשרים ושתיים באלפבית היווני)"}
 {"T":"r","L":"cianti","C":["n","cos"],"d":"un vino seca e roja, produida en Toscana en Italia","en":"chianti (wine)","he":"קיאנטי (יין)"}
@@ -5034,11 +5034,11 @@
 {"T":"r","L":"cilovate-ora","C":["n","fis"],"d":"un unia de enerjia eletrical, egal a la consuma de mil vates per ora","en":"kilowatt-hour","he":"קילוואט-שעה"}
 {"T":"r","L":"cilt","C":["n","vest"],"d":"un falda de texeda scotes cual estende asta la jenos, tradisional portada par omes de Scotland","i":"#","en":"kilt","he":"קילט (לבוש סקוטי מסורתי)"}
 {"T":"r","L":"cimera","C":["n","mit"],"d":"(en mitos) un monstro con tre testas, e con gamas anterior de leon, gamas posterior de capra, e coda longa de serpente; cualce monstro de partes diversa","en":"chimera (mythology)","he":"(מיתולוגיה) כימרה"}
-{"T":"r","L":"cimica","C":["n","cim"],"d":"la siensa cual studia la sustantias de cual materia es composada, la investiga de sua cualias e interatas, e la usa de estas per formi materias nova","da":"kemi","de":"Chemie","en":"chemistry","he":"כימיה"}
+{"T":"r","L":"cimica","C":["n","cim"],"d":"la siensa cual studia la sustantias de cual materia es composada, la investiga de sua cualias e interatas, e la usa de estas per formi materias nova","da":"kemi","de":"Chemie","en":"chemistry","es":"química","he":"כימיה"}
 {"L":"cimica matematical","C":["n"],"en":"mathematical chemistry","he":"כימיה חישובית"}
 {"L":"cimica teorial","C":["n"],"en":"theoretical chemistry","he":"כימיה תאורטית"}
 {"L":"cimical","C":["a"],"en":"chemical","he":"כימי"}
-{"L":"cimical","C":["n"],"en":"chemical","he":"כימיקל"}
+{"L":"cimical","C":["n"],"en":"chemical","es":"químico, producto químico","he":"כימיקל"}
 {"L":"cimiciste","C":["n"],"en":"chemist","he":"כימאי"}
 {"T":"r","L":"cimo","C":["n","bio"],"d":"la licuida asida e pulposa cual pasa de la stomaco a la intestin magra, composada de juses gastral e comedas partal dijestada","en":"chyme (substance)","he":"(ביולוגיה) עיסה"}
 {"T":"r","L":"cimono","C":["n","vest"],"d":"un roba longa e laxe, con mangas larga, liada con un banda, orijinante en Nion","i":"#","en":"kimono","he":"קימונו"}
@@ -5100,7 +5100,7 @@
 {"L":"clacor","C":["n"],"en":"tap dancer","he":"רקדן סטפס"}
 {"T":"r","L":"claceta","C":["n","arte"],"d":"un aparato de du tabletas xarnierida cual on colpa contra lunlotra a la comensa de filma un sena, per aida sincroni la imaje e la sona","en":"clapperboard","he":"קלאפר, נקש"}
 {"T":"r","L":"clado","C":["n","bio"],"d":"un grupo de organismes sur cual on crede ce los ia evolui de un asendente comun","en":"clade (biology)","he":"(ביולוגיה) ענף, קלייד"}
-{"T":"r","L":"clama","C":["vt"],"d":"cria a (algun) per atrae sua atende; comanda ce (algun) atende o veni per aida; (un animal) fa sua cria distinguinte","n":"","da":"kalde, tilkalde","de":"rufen","en":"call, summon, summons, invoke, draft","he":"לקרוא (למישהו), לזמן; (בעל חיים) לקרוא, להשמיע קריאה"}
+{"T":"r","L":"clama","C":["vt"],"d":"cria a (algun) per atrae sua atende; comanda ce (algun) atende o veni per aida; (un animal) fa sua cria distinguinte","n":"","da":"kalde, tilkalde","de":"rufen","en":"call, summon, summons, invoke, draft","es":"llamar, citar, convocar","he":"לקרוא (למישהו), לזמן; (בעל חיים) לקרוא, להשמיע קריאה"}
 {"L":"clama","C":["n"],"en":"call, summons, invocation","he":"קריאה, זימון"}
 {"L":"clama a servi militar","C":["v"],"en":"draft, call to military service","he":"לזמן לשירות צבאי"}
 {"L":"clama a servi militar","C":["n"],"en":"draft, call to military service","he":"זימון לשירות צבאי"}
@@ -5111,7 +5111,7 @@
 {"L":"clamada","C":["n"],"en":"callee, draftee","he":"קרוא, מוזמן"}
 {"T":"r","L":"clan","C":["n","uma"],"d":"un grupo de familias interelatada","en":"clan","he":"חמולה"}
 {"L":"claneta","C":["n"],"en":"subclan, sept","he":"קרובי משפחה (באירלנד ובסקוטלנד)"}
-{"T":"r","L":"clar","C":["a"],"d":"fasil per persepi, comprende o interprete; no ambigua; sin duta; transparente; sin manxas; sin nubes o pluve; sin ostaculos, impedis o otra cosas nondesirable o nonplasente","da":"klar, enkel","de":"klar","en":"clear, unblocked, unstained; transparent, see-through, limpid, pellucid; plain (to see or understand), explicit, lucid, perspicuous; blatant","he":"בהיר, צח, צלול; ברור, נהיר, מובן"}
+{"T":"r","L":"clar","C":["a"],"d":"fasil per persepi, comprende o interprete; no ambigua; sin duta; transparente; sin manxas; sin nubes o pluve; sin ostaculos, impedis o otra cosas nondesirable o nonplasente","da":"klar, enkel","de":"klar","en":"clear, unblocked, unstained; transparent, see-through, limpid, pellucid; plain (to see or understand), explicit, lucid, perspicuous; blatant","es":"claro, simple, manifiesto, patente, sencillo, franco, evidente","he":"בהיר, צח, צלול; ברור, נהיר, מובן"}
 {"L":"clar","C":["av"],"en":"clearly, explicitly, expressly; by far, far and away, easily","he":"בברור"}
 {"L":"clari","C":["vnt"],"en":"become clear","he":"להתבהר, להתברר"}
 {"L":"clari","C":["vt"],"en":"clarify, elucidate, enunciate","he":"להבהיר, להסביר"}
@@ -5152,7 +5152,7 @@
 {"T":"r","L":"claustrofobia","C":["n","uma"],"d":"un teme estrema o nonrazonada de locas restrinjente","en":"claustrophobia","he":"קלאוסטרופוביה, בעת סגר"}
 {"L":"claustrofobica","C":["a"],"en":"claustrophobic","he":"קלאוסטרופובי"}
 {"L":"claustrofobica","C":["n"],"en":"claustrophobe","he":"קלאוסטרופוב"}
-{"T":"r","L":"clave","C":["n","util"],"d":"un peso peti de metal formida e taliada, cual pote abri un securador o comuta un inisiador; un parola o espresa secreta cual permete entra; un util usada per teni e turna torcas e bulones","i":"#, clave-util","da":"nøgle; skruenøgle","de":"Schlüssel; Schraubenschlüssel","en":"key (lock); wrench, spanner; password","he":"מפתח; מפתח ברגים; סיסמה"}
+{"T":"r","L":"clave","C":["n","util"],"d":"un peso peti de metal formida e taliada, cual pote abri un securador o comuta un inisiador; un parola o espresa secreta cual permete entra; un util usada per teni e turna torcas e bulones","i":"#, clave-util","da":"nøgle; skruenøgle","de":"Schlüssel; Schraubenschlüssel","en":"key (lock); wrench, spanner; password","es":"llave; llave de tuercas","he":"מפתח; מפתח ברגים; סיסמה"}
 {"L":"clave ajustable","C":["n"],"i":"#","en":"adjustable wrench, adjustable spanner","he":"מפתח שוודי"}
 {"L":"clave alta","C":["n"],"i":"#","en":"treble clef","he":"מפתח סול"}
 {"L":"clave basa","C":["n"],"i":"#","en":"bass clef","he":"מפתח פה"}
@@ -5217,11 +5217,11 @@
 {"L":"clitorisal","C":["a"],"en":"clitoral","he":"דגדגני"}
 {"T":"r","L":"clixe","C":["a","arte"],"d":"(un espresa o opina) tro multe usada e sujestante un manca de pensa orijinal; (un person o cosa) multe predisable o nonorijinal","en":"clichéd, hackneyed","he":"קלישאתי"}
 {"L":"clixe","C":["n"],"en":"cliché, platitude","he":"קלישאה"}
-{"T":"r","L":"clo","C":["n","util"],"d":"un spina metal peti con un fini plata e larga, tipal martelida en lenio per junta cosas o funsiona como un cavil","i":"#","da":"søm","de":"Nagel","en":"nail","he":"מסמר"}
-{"L":"cloador","C":["n"],"en":"nail gun","he":"אקדח מסמרים"}
-{"L":"cloeta","C":["n"],"en":"tack","he":"נעץ"}
-{"L":"cloi","C":["vt"],"p":"cloï","en":"nail","he":"למסמר"}
-{"T":"r","L":"cloaca","C":["n","bio"],"d":"un canal o tubo cual condui licuidas a via, tipal pluve o acua usada; la caveta a la fini de la duto de dijesta de la plu de vertebratos, per relasa feces e spermas o ovos","en":"drain, sewer; cloaca (anatomy)","he":"ביוב; (אנטומיה) פתח הביב, קלואקה"}
+{"T":"r","L":"clo","C":["n","util"],"d":"un spina metal peti con un fini plata e larga, tipal martelida en lenio per junta cosas o funsiona como un cavil","i":"#","da":"søm","de":"Nagel","en":"nail","es":"clavo","he":"מסמר"}
+{"L":"cloador","C":["n"],"en":"nail gun","es":"pistola de clavos","he":"אקדח מסמרים"}
+{"L":"cloeta","C":["n"],"en":"tack","es":"chincheta","he":"נעץ"}
+{"L":"cloi","C":["vt"],"p":"cloï","en":"nail","es":"clavar","he":"למסמר"}
+{"T":"r","L":"cloaca","C":["n","bio"],"d":"un canal o tubo cual condui licuidas a via, tipal pluve o acua usada; la caveta a la fini de la duto de dijesta de la plu de vertebratos, per relasa feces e spermas o ovos","en":"drain, sewer; cloaca (anatomy)","es":"alcantarilla, desagüe, cloaca (anatomía)","he":"ביוב; (אנטומיה) פתח הביב, קלואקה"}
 {"T":"r","L":"clone","C":["vt","med"],"d":"produi nonsesal un organisme, selula o grupo de selulas de (un asendente) a cual los es jenetical identica; desinia un computador cual pote simili esata la funsiona de (un otra)","en":"clone","he":"לשבט; לשכפל, לשעתק"}
 {"L":"clone","C":["n"],"en":"cloning (action); clone (product)","he":"שיבוט; שכפול, שעתוק"}
 {"T":"r","L":"clorantasea","C":["n","pla"],"d":"un planta tropical con folias perene verde con bacas roja ma sin flores","t":"Chloranthaceae","en":"chloranthaceae","he":"צמח ממשפחת הכלורנתיים"}
@@ -5242,13 +5242,13 @@
 {"T":"r","L":"clozapina","C":["n","cim","med"],"d":"un droga antipsicosica, xef usada per trata scizofrenia cuando otra medisines no pote aida","en":"clozapine"}
 {"T":"r","L":"club","C":["n"],"d":"un asosia dedicada a un interesa o ativia spesifada","de":"Klub","en":"club","he":"מועדון"}
 {"L":"clubor","C":["n"],"en":"club member","he":"חבר מועדון"}
-{"T":"r","L":"clui","C":["vnt"],"d":"(un abri o porte) deveni blocida o covreda; (acua o eletrica) deveni prevenida de move par un valva o comutador","da":"lukke","de":"schliessen","en":"close, shut; turn off, switch off (tap, power)","he":"להיסגר; להתכבות"}
+{"T":"r","L":"clui","C":["vnt"],"d":"(un abri o porte) deveni blocida o covreda; (acua o eletrica) deveni prevenida de move par un valva o comutador","da":"lukke","de":"schliessen","en":"close, shut; turn off, switch off (tap, power)","es":"cerrar(se), concluir(se), terminar(se)","he":"להיסגר; להתכבות"}
 {"L":"clui","C":["vt"],"en":"close, shut; turn off, switch off (tap, power)","he":"לסגור, להגיף; לכבות"}
 {"L":"clui","C":["n"],"en":"closure, shutoff","he":"סגירה, הגפה; כיבוי"}
 {"L":"clui la boca","C":["esc"],"en":"shut up","he":"שתוק, סתום את הפה"}
 {"L":"cluable","C":["a"],"en":"shuttable, fastenable","he":"שניתן לסגירה"}
 {"L":"cluador","C":["n"],"en":"shutter (camera)","he":"צמצם"}
-{"L":"cluida","C":["a"],"da":"lukket","de":"verschliessen","en":"closed; shut","he":"סגור, מוגף; כבוי, מכובה"}
+{"L":"cluida","C":["a"],"da":"lukket","de":"verschliessen","en":"closed; shut","es":"cerrado, obstruido, terminado, concluido","he":"סגור, מוגף; כבוי, מכובה"}
 {"T":"r","L":"cluisita","C":["n","vn"],"d":"un sinia de puntua a la fini de un parola o frase sitada","s":"” ’","en":"closing quotation mark, unquote","he":"מרכא סוגר"}
 {"T":"r","L":"clusa","C":["n","vec"],"d":"un parte corta e restrinjeda de un canal o otra via de acua en cual on pote cambia la nivel de acua par usa portones e canaletas, usada per leva e basi barcos entre la du portones","i":"#","en":"lock (waterway)","he":"תא שיט"}
 {"L":"clusa de aira","C":["n"],"en":"airlock","he":"מנעול אוויר"}
@@ -5281,7 +5281,7 @@
 {"T":"r","L":"coca","C":["n","pla"],"d":"un arboreta de la tropicos american, cultivada per sua folias cual es la fonte de cocaina","i":"#","t":"Erythroxylaceae","en":"coca (plant)","he":"קוקה (צמח)"}
 {"T":"r","L":"cocaina","C":["n","med"],"d":"un droga abituante derivada de coca o sinteseda, usada como un stimulante nonlegal o un anestesente","en":"cocaine","he":"קוקאין"}
 {"T":"r","L":"coc-coc-coc","C":["esc","onom"],"d":"la sonas corta e basa fada par un gal","en":"cluck","he":"צליל קרקור"}
-{"T":"r","L":"coce","C":["vnt","cos"],"d":"(un comeda) es caldida per ateni la forma comable","da":"koge","de":"kochen","en":"cook","he":"להתבשל"}
+{"T":"r","L":"coce","C":["vnt","cos"],"d":"(un comeda) es caldida per ateni la forma comable","da":"koge","de":"kochen","en":"cook","es":"cocer, cocinar","he":"להתבשל"}
 {"L":"coce","C":["vt"],"d":"prepara (un comeda) par combina e caldi la ingredientes en modos diversa; caldi o seci (seramica o brices) en un forno","en":"cook; fire (pottery)","he":"לבשל; לשרוף (חרס)"}
 {"L":"coce lenta","C":["vnt"],"en":"stew, braise","he":"להתבשל לאט"}
 {"L":"coce lenta","C":["vt"],"en":"stew, braise","fr":"mijoter","he":"לבשל לאט"}
@@ -5300,7 +5300,7 @@
 {"T":"r","L":"coco","C":["n","pla","cos"],"d":"un seme grande, oval e brun de un palma tropical, con un casca dur cual es foreda con un pulpa blanca e comable e cual conteni un licuida clar; un arbor cual produi esta","i":"#","t":"Cocos nucifera","en":"coconut (plant, fruit)","he":"קוקוס"}
 {"T":"r","L":"cocon","C":["n","bio"],"d":"un caxa de seda cual proteje la pupa de alga papilios","i":"#","en":"cocoon","fr":"cocon","he":"פקעת"}
 {"T":"r","L":"coctel","C":["n","cos"],"d":"un bevida alcolosa, composada de un o plu distiladas miscada con otra ingredientes, como jus de fruta, limonada o crema","en":"cocktail","he":"קוקטייל, ממזג"}
-{"T":"r","L":"coda","C":["n","anat","bio"],"d":"la parte la plu posterior de un animal, tipal estendente ultra la resta de la corpo; un parte simil de cualce cosa; un morfem infletante ajuntada a la fini de un parola","i":"#","da":"hale","de":"Schwanz","en":"tail; coda; ending (grammar)","he":"זנב; (ספרות, מוזיקה) קודה"}
+{"T":"r","L":"coda","C":["n","anat","bio"],"d":"la parte la plu posterior de un animal, tipal estendente ultra la resta de la corpo; un parte simil de cualce cosa; un morfem infletante ajuntada a la fini de un parola","i":"#","da":"hale","de":"Schwanz","en":"tail; coda; ending (grammar)","es":"cola","he":"זנב; (ספרות, מוזיקה) קודה"}
 {"L":"coda anelida","C":["n"],"en":"ringtail","he":"זנב טבעת"}
 {"L":"coda de camisa","C":["n"],"en":"shirttail","he":"שולי החולצה"}
 {"L":"coda de cavalo","C":["n"],"i":"#","en":"horse's tail; ponytail (hairstyle)","he":"זנב הסוס; קוקו (תסרוקת)"}
@@ -5344,7 +5344,7 @@
 {"T":"r","L":"coipu","C":["n","mam"],"d":"un rodente grande e semiacual de America Sude, simil a un castor","i":"#","t":"Myocastor coypus","en":"coypu, nutria, river rat","he":"נוטריה (מכרסם)"}
 {"T":"r","L":"coisan","C":["a","dem"],"d":"pertinente a du poplas de Africa sude, e sua linguas unica","en":"Khoisan (person, language)","he":"קויסן (אדם, שפה)"}
 {"L":"coisan","C":["n"],"en":"Khoisan (person, language)","he":"קויסן (אדם, שפה)"}
-{"T":"r","L":"col","C":["n","pla","cos"],"d":"un planta cultivada, con folias grande verde o purpur cual enclui un cor sferin","i":"#","t":"Brassica oleracea","da":"kål","de":"Kohl","en":"cabbage (plant, leaves), brassica","he":"כרוב"}
+{"T":"r","L":"col","C":["n","pla","cos"],"d":"un planta cultivada, con folias grande verde o purpur cual enclui un cor sferin","i":"#","t":"Brassica oleracea","da":"kål","de":"Kohl","en":"cabbage (plant, leaves), brassica","es":"col, repollo, berza","he":"כרוב"}
 {"L":"col de Bruxelles","C":["n"],"i":"#","p":"bruxeles","en":"Brussels sprout","he":"כרוב ניצנים"}
 {"L":"col risa","C":["n"],"i":"#","en":"kale","he":"כרוב עלים, קייל"}
 {"L":"folia de col","C":["n"],"en":"collard greens, borekale","he":"עלי קולרד (כרוב)"}
@@ -5355,13 +5355,13 @@
 {"L":"supracola","C":["n"],"en":"superglue","he":"דבק מהיר"}
 {"T":"r","L":"cola","C":["n","pla","cos"],"d":"un planta peti e perene de Africa tropical, cultivada per sua nozas; un noza de esta; un bevida brun e gasosa, con sabor de esta noza","i":"#","t":"Cola","en":"cola, kola (plant, nut, drink)","he":"קולה (צמח, משקה)"}
 {"T":"r","L":"Cola, Penisola","C":["n","jeo"],"d":"un penisola en la norde-ueste de Rusia","en":"Kola Peninsula","he":"חצי האי קולה"}
-{"T":"r","L":"colabora","C":["vnt"],"d":"labora con lunlotra, con la mesma intende; aida lunlotra","da":"samarbejde","de":"zusammenarbeiten, mitwirken","en":"collaborate, cooperate, liaise","he":"לשתף פעולה"}
+{"T":"r","L":"colabora","C":["vnt"],"d":"labora con lunlotra, con la mesma intende; aida lunlotra","da":"samarbejde","de":"zusammenarbeiten, mitwirken","en":"collaborate, cooperate, liaise","es":"colaborar, cooperar","he":"לשתף פעולה"}
 {"L":"colabora","C":["n"],"en":"collaboration, cooperation","he":"שיתןף פעולה"}
 {"L":"colaborante","C":["a"],"en":"collaborating, collaborative","he":"שיתופי"}
 {"L":"colaboror","C":["n"],"en":"collaborator, colleague, co-worker, fellow worker","he":"משתף פעולה, עמית, קולגה"}
 {"T":"r","L":"coladal","C":["a"],"d":"situada a lado de lunlotra; ajuntada, ma min importante; desendente de la mesma asendente ma par un otra serie de asendentes media","en":"collateral","he":"מקביל; נוסף"}
 {"T":"r","L":"colajen","C":["n","bio"],"d":"la protena strutural xef en la texeda juntante de animales, de cual on fabrica jelatin par boli","en":"collagen","he":"קולגן"}
-{"T":"r","L":"colar","C":["n","vest"],"d":"la banda de materia sirca la colo de un camisa, roba, jaca o otra veste","i":"#","de":"Kragen","en":"collar","he":"צווארון"}
+{"T":"r","L":"colar","C":["n","vest"],"d":"la banda de materia sirca la colo de un camisa, roba, jaca o otra veste","i":"#","de":"Kragen","en":"collar","es":"collar, cuello (de vestido, camisa, etc.), collera (para caballos o mulas de tiro)","he":"צווארון"}
 {"L":"colar aletin","C":["n"],"en":"wing collar","he":"צווארון כנף"}
 {"L":"colar fronsosa","C":["n"],"en":"ruff","he":"צווארון מסולסל"}
 {"L":"colar enrolada","C":["n"],"en":"turtleneck","he":"צווארון גולף"}
@@ -5373,7 +5373,7 @@
 {"L":"colasable","C":["a"],"en":"collapsible","he":"פריק, מתקפל"}
 {"T":"r","L":"colbasa","C":["n","cos"],"d":"un tipo de salsix spisida e fumida, orijinante en Polsca","i":"#","en":"kielbasa, kubasa, kolbassa (sausage)","he":"קילבסה (נקניק)"}
 {"T":"r","L":"coleo","C":["n"],"d":"un planta tropical de Asia sude-este en familia de menta, con folias briliante multicolorosa, popular en casas","i":"#","t":"Solenostemon","en":"coleus (plant)","he":"נדנונית, קוליאוס (צמח)"}
-{"T":"r","L":"coler","C":["a","uma"],"d":"sentinte un irita, odia o enemia forte","da":"vred","de":"zornig","en":"angry, mad, irate, indignant","he":"עצבני, כועס, כעוס, זועם, נרגז, רוגז"}
+{"T":"r","L":"coler","C":["a","uma"],"d":"sentinte un irita, odia o enemia forte","da":"vred","de":"zornig","en":"angry, mad, irate, indignant","es":"enojado, colérico, airado, furioso","he":"עצבני, כועס, כעוס, זועם, נרגז, רוגז"}
 {"L":"coler","C":["n"],"en":"hothead, spitfire","he":"חמום-מוח"}
 {"L":"coleri","C":["vnt"],"en":"turn angry, rage","he":"להתעצבן, להתרגז, לכעוס, לזעום"}
 {"L":"coleri","C":["vt"],"en":"anger, madden, outrage, enrage","he":"לעצבן, להרגיז, להכעיס"}
@@ -5393,7 +5393,7 @@
 {"L":"colide","C":["n"],"en":"collision, crash, impact","he":"התנגשות"}
 {"L":"colide multiple","C":["n"],"en":"multiple collision, pile-up","he":"תאונת שרשרת"}
 {"L":"colidador","C":["n"],"en":"collider","he":"מאיץ חלקיקים"}
-{"T":"r","L":"colie","C":["vt"],"d":"pone (cosas) con lunlotra; cumula (cosas sperdeda); xerca e oteni (cosas), tipal como un pasatempo; prende (un flor, fruta o vejetal) de sua loca de crese","da":"samle","de":"einsammeln","en":"collect, gather, accumulate; pick, garner","he":"לאסוף, ללקט, לקבץ; לקטוף"}
+{"T":"r","L":"colie","C":["vt"],"d":"pone (cosas) con lunlotra; cumula (cosas sperdeda); xerca e oteni (cosas), tipal como un pasatempo; prende (un flor, fruta o vejetal) de sua loca de crese","da":"samle","de":"einsammeln","en":"collect, gather, accumulate; pick, garner","es":"colección, conjunto, juego; juntar, recolectar, reunir, recoger","he":"לאסוף, ללקט, לקבץ; לקטוף"}
 {"L":"colie","C":["n"],"da":"sæt","de":"Satz, Garnitur","en":"collection, set, accumulation, repertoire, repertory; medley, omnibus","he":"אוסף, אסופה, לקט, צבר, ערכה, קבוצה, רפרטואר; איסוף, ליקוט, צבירה; מחרוזת (שירים)"}
 {"L":"colie caxida","C":["n"],"en":"box set","he":"מארז"}
 {"L":"colie de armas","C":["n"],"en":"arsenal","he":"ארסנל, מחסן נשק"}
@@ -5410,7 +5410,7 @@
 {"L":"sucolie","C":["n"],"en":"subset","he":"תת-קבוצה"}
 {"T":"r","L":"coliebal","C":["n","vn"],"d":"un person joven ci retrae bales cual sorti de la campo en tenis o futbal","en":"ballboy, ballgirl","he":"בול בוי (טניס)"}
 {"T":"r","L":"coliflor","C":["n","pla","cos"],"d":"un varia de col con un masa grande de brotos blanca","i":"#","t":"Brassica oleracea","en":"cauliflower (plant, vegetable)","he":"כרובית"}
-{"T":"r","L":"colina","C":["n","tera"],"d":"un area de tera natural levada, no tan alta o rocosa como un monte; un area simil, construida como un tomba","da":"bakke","de":"Hügel","en":"hill, butte, mesa","he":"גבעה"}
+{"T":"r","L":"colina","C":["n","tera"],"d":"un area de tera natural levada, no tan alta o rocosa como un monte; un area simil, construida como un tomba","da":"bakke","de":"Hügel","en":"hill, butte, mesa","es":"colina, collado, cerro, loma","he":"גבעה"}
 {"L":"colineta","C":["n"],"en":"hillock, mound, bank, hummock, knoll; tumulus, barrow","he":"תל, תלולית, גבעונת"}
 {"L":"colinosa","C":["a"],"en":"hilly","he":"גבעי (שיש בו גבעות)"}
 {"T":"r","L":"colina","C":["n","bio"],"d":"un composada forte alcalin, importante en la sintese e transporta de lipidos en la corpo","en":"choline (substance)","he":"(ביולוגיה) כולין"}
