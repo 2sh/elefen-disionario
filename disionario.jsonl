@@ -5421,7 +5421,7 @@
 {"T":"r","L":"colio","C":["n","avia"],"d":"un avia peti e sosial de Africa, con cresta, plumas blanda e coda longa","i":"#","t":"Coliidae","en":"mousebird","he":"קוליוס (ציפור)"}
 {"T":"r","L":"colirabano","C":["n","pla","cos"],"d":"un varia de col, con talo spesa e comable","i":"#","t":"Brassica oleracea","en":"kohlrabi (plant, vegetable)","he":"קולרבי, כרוב הקלח"}
 {"T":"r","L":"colite","C":["n","med"],"d":"un inflama de la fore de la colon","en":"colitis (medical)","he":"דלקת המעי הגס"}
-{"T":"r","L":"colo","C":["n","anat"],"d":"la parte de la corpo de un person o animal cual junta la testa a la spala e peto; la parte de un camisa, roba o otra veste sirca o prosima a esta","i":"#","da":"hals","de":"Hals","en":"neck","he":"צוואר"}
+{"T":"r","L":"colo","C":["n","anat"],"d":"la parte de la corpo de un person o animal cual junta la testa a la spala e peto; la parte de un camisa, roba o otra veste sirca o prosima a esta","i":"#","da":"hals","de":"Hals","en":"neck","es":"cuello","he":"צוואר"}
 {"L":"colo de botela","C":["n"],"en":"bottleneck","he":"צוואר בקבוק"}
 {"L":"colo de monte","C":["n"],"en":"mountain pass","he":"מעבר הרים"}
 {"L":"colo de utero","C":["n"],"en":"cervix","he":"צוואר הרחם"}
@@ -5452,7 +5452,7 @@
 {"L":"colonialiste","C":["n"],"en":"colonialist","he":"קולוניאליסט"}
 {"L":"coloniste","C":["n"],"en":"colonist, colonial, settler","he":"מתיישב, מתנחל"}
 {"L":"coloniste prima","C":["n"],"en":"pioneer","he":"חלוץ"}
-{"T":"r","L":"color","C":["n","col"],"d":"la cualia de un cosa cual produi un sensa a la oio par la modo en cual lo refleta o emete lus; la pigmento de la pel, spesial como un indica de sua raza","da":"farve, kulør","de":"Farbe","en":"color|ur, complexion","he":"צבע, גוון"}
+{"T":"r","L":"color","C":["n","col"],"d":"la cualia de un cosa cual produi un sensa a la oio par la modo en cual lo refleta o emete lus; la pigmento de la pel, spesial como un indica de sua raza","da":"farve, kulør","de":"Farbe","en":"color|ur, complexion","es":"color","he":"צבע, גוון"}
 {"L":"colori","C":["vt"],"en":"color|ur","he":"לצבוע (להוסיף צבע)"}
 {"L":"colorida","C":["a"],"en":"color|ur","he":"צבוע (שהוסיפו לו צבע)"}
 {"L":"colorosa","C":["a"],"en":"colorful|ur, technicolor, color|ur","he":"צבעוני"}
@@ -5466,8 +5466,8 @@
 {"T":"r","L":"coloseo","C":["n","arci"],"d":"un amfiteatro grande en Roma, construida en 75 ec; cualce teatro o stadion simil","i":"#","en":"colosseum, coliseum","he":"קולוסיאום"}
 {"T":"r","L":"colostomia","C":["n","med"],"d":"un opera sirurjial cual diverje un parte de la colon a un abri artifis en la mur adomenal per evita un parte danada","en":"colostomy","he":"קולוסטומיה"}
 {"T":"r","L":"colostro","C":["n","bio"],"d":"la secrete prima de la senos o mamelas pos pari, rica de anticorpos","en":"colostrum (biology)","he":"(ביולוגיה) קולוסטרום"}
-{"T":"r","L":"colpa","C":["vt"],"d":"contata rapida e fortiosa (un person o cosa), tipal causante dana o feri","da":"sparke, slå, stikke","de":"schlagen, stossen, treten, stechen","en":"hit, strike, knock, blow, bump, jolt, impact, butt, whack, bonk, thump, pelt, smite, bat, blast","he":"להכות, לחבוט, להלום"}
-{"L":"colpa","C":["n"],"da":"slag","de":"Schlag","en":"hit, strike, stroke, knock, jab, blast, blow, bump, jolt, impact, bonk, thump, thud; coup","he":"מכה, חבטה, פגיעה, מהלומה"}
+{"T":"r","L":"colpa","C":["vt"],"d":"contata rapida e fortiosa (un person o cosa), tipal causante dana o feri","da":"sparke, slå, stikke","de":"schlagen, stossen, treten, stechen","en":"hit, strike, knock, blow, bump, jolt, impact, butt, whack, bonk, thump, pelt, smite, bat, blast","es":"golpear, pegar, chocar, dar un golpe","he":"להכות, לחבוט, להלום"}
+{"L":"colpa","C":["n"],"da":"slag","de":"Schlag","en":"hit, strike, stroke, knock, jab, blast, blow, bump, jolt, impact, bonk, thump, thud; coup","es":"golpe, choque, sacudida, trancazo, porrazo","he":"מכה, חבטה, פגיעה, מהלומה"}
 {"L":"colpa a lado","C":["n"],"en":"sideswipe","he":"מכת צד"}
 {"L":"colpa a supra","C":["n"],"en":"uppercut","he":"סנוקרת"}
 {"L":"colpa a tera","C":["vt"],"en":"knock down, knock over, fell","he":"להפיל במכה"}
@@ -5477,6 +5477,8 @@
 {"L":"colpa con palma","C":["n"],"en":"slap, smack, spank","he":"סטירה"}
 {"L":"colpa con pede","C":["v"],"en":"kick","he":"לבעוט"}
 {"L":"colpa con pede","C":["n"],"en":"kick","he":"בעיטה"}
+{"L":"colpa con punio","C":["v"],"en":"punch","es":"dar puñetazo, dar puñada"}
+{"L":"colpa con punio","C":["n"],"en":"punch"}
 {"L":"colpa con testa","C":["v"],"en":"headbutt; head (football)","he":"לנגוח"}
 {"L":"colpa con testa","C":["n"],"en":"headbutt; header (football)","he":"נגיחה"}
 {"L":"colpa de cavalo","C":["v"],"en":"unhorse, unseat","he":"להפיל מסוס"}
@@ -5507,7 +5509,7 @@
 {"T":"r","L":"comadre","C":["n","med"],"d":"un person (tipal un fem) instruida per aida femes en pari","en":"midwife","he":"מיילדת"}
 {"L":"comadria","C":["n","med"],"en":"midwifery","he":"מיילדות"}
 {"T":"r","L":"comanda","C":["vt"],"d":"demanda ce (algun) fabrica, furni o servi alga cosa; demanda autoriosa ce (algun) fa un taxe; ave autoria sur (un grupo de persones)","u":"comanda alga cosa a/de algun; comanda ce algun fa alga cosa","da":"order, kommando, direktiv","en":"command, order, dictate, ordain; order (food, goods)","he":"לפקד; לצוות, להורות, להכתיב; להזמין (מוצרים)"}
-{"L":"comanda","C":["n"],"da":"Befehl","en":"command, order, directive, decree, fiat, commission, warrant, writ, behest","he":"פקודה, הוראה, צו, הכתבה; הזמנה"}
+{"L":"comanda","C":["n"],"da":"Befehl","en":"command, order, directive, decree, fiat, commission, warrant, writ, behest","es":"comando, orden, directiva, mando, mandato, mandamiento","he":"פקודה, הוראה, צו, הכתבה; הזמנה"}
 {"L":"comanda per apare","C":["v"],"en":"summons, subpoena","he":"לזמן"}
 {"L":"comanda per apare","C":["n"],"en":"summons, subpoena","he":"זימון"}
 {"L":"comanda temprana","C":["v"],"en":"preorder","he":"להזמין מוקדם"}
@@ -5521,7 +5523,7 @@
 {"L":"precomanda","C":["n"],"en":"preorder","he":"הזמנה מוקדמת"}
 {"L":"viscomandor","C":["n"],"en":"vice-commander, second-in-command","he":"סגן מפקד"}
 {"T":"r","L":"comando","C":["n"],"d":"un soldato instruida per ataca rapida","en":"commando","he":"קומנדו"}
-{"T":"r","L":"combate","C":["vt"],"d":"partisipa contra (un person o cosa) en un gera, batalia o otra encontra, usante colpas fisical o armas","da":"slås, kæmpe","de":"Kampf","en":"fight, combat, brawl","he":"להילחם, להיאבק"}
+{"T":"r","L":"combate","C":["vt"],"d":"partisipa contra (un person o cosa) en un gera, batalia o otra encontra, usante colpas fisical o armas","da":"slås, kæmpe","de":"Kampf","en":"fight, combat, brawl","es":"luchar, combatir, pelear, reñir","he":"להילחם, להיאבק"}
 {"L":"combate","C":["n"],"en":"fight, combat, brawl, bout","he":"לחימה, קרב, מאבק"}
 {"L":"combate airal","C":["n"],"en":"aerial combat, dogfight","he":"קרב אווירי"}
 {"L":"combate de bove","C":["n"],"en":"bullfight","he":"מלחמת שוורים"}
@@ -5541,24 +5543,24 @@
 {"T":"r","L":"combusta","C":["vnt","util"],"d":"deveni consumada par foco","da":"brændstof","en":"combust","he":"לבעור, להישרף"}
 {"L":"combusta","C":["n"],"en":"combustion","he":"בעירה, שריפה"}
 {"L":"combustable","C":["a"],"de":"Brennmaterial","en":"combustible","he":"דליק, בעיר"}
-{"L":"combustable","C":["n"],"en":"combustible, fuel","he":"חומר דליק"}
+{"L":"combustable","C":["n"],"en":"combustible, fuel","es":"combustible","he":"חומר דליק"}
 {"L":"combustable de fosil","C":["n"],"en":"fossil fuel","he":"דלק מאובנים"}
 {"L":"combustablia","C":["n"],"en":"combustibility","he":"מידת דליקות"}
 {"L":"malcombusta","C":["vnt"],"en":"backfire (engine)","he":"(מנוע) לבעור מוקדם"}
-{"T":"r","L":"come","C":["vt","cos"],"d":"pone (comeda) en la boca, mastica lo e engoli lo; comparti esta ata con otras, tipal a un ora tradisional","da":"spise, æde","de":"essen","en":"eat, dine, ingest, sup","he":"לאכול, לסעוד"}
-{"L":"come","C":["n"],"da":"måltid","de":"Mahlzeit, Essen","en":"meal, dinner, supper, repast","he":"ארוחה"}
+{"T":"r","L":"come","C":["vt","cos"],"d":"pone (comeda) en la boca, mastica lo e engoli lo; comparti esta ata con otras, tipal a un ora tradisional","da":"spise, æde","de":"essen","en":"eat, dine, ingest, sup","es":"comer","he":"לאכול, לסעוד"}
+{"L":"come","C":["n"],"da":"måltid","de":"Mahlzeit, Essen","en":"meal, dinner, supper, repast","es":"comida (ocasión para comer)","he":"ארוחה"}
 {"L":"come con sua oios","C":["v"],"en":"ogle, leer at","he":"לנעוץ עיניים"}
-{"L":"come de matina","C":["n"],"da":"morgenmad","de":"Frühstück","en":"breakfast","he":"ארוחת בוקר"}
+{"L":"come de matina","C":["n"],"da":"morgenmad","de":"Frühstück","en":"breakfast","es":"desayuno","he":"ארוחת בוקר"}
 {"L":"come de matina tarda","C":["n"],"en":"brunch","he":"בראנץ', בוהוריים"}
 {"L":"come de negosia","C":["n"],"en":"business lunch","he":"ארוחה עסקית"}
-{"L":"come de sera","C":["n"],"da":"aftensmad","de":"Abendessen","en":"supper, dinner, evening meal","he":"ארוחת ערב"}
+{"L":"come de sera","C":["n"],"da":"aftensmad","de":"Abendessen","en":"supper, dinner, evening meal","es":"cena","he":"ארוחת ערב"}
 {"L":"come en un restorante","C":["vt"],"en":"eat out","he":"לאכול בחוץ, לאכול במסעדה"}
-{"L":"come media","C":["n"],"da":"frokost","de":"Mittagessen","en":"lunch, luncheon","he":"ארוחת צהריים"}
+{"L":"come media","C":["n"],"da":"frokost","de":"Mittagessen","en":"lunch, luncheon","es":"almuerzo, merienda","he":"ארוחת צהריים"}
 {"L":"come retirable","C":["n"],"en":"takeaway, takeout","he":"ארוחה לקחת, טייק אווי"}
 {"L":"come tro multe","C":["v"],"en":"eat too much, overeat","he":"לאכול יתר על המידה"}
 {"L":"comable","C":["a"],"en":"edible","he":"אכיל"}
 {"L":"comable","C":["n"],"en":"food, foodstuff","he":"אוכל, מזון"}
-{"L":"comeda","C":["n"],"da":"mad","de":"Essen","en":"food, grub, nosh, victual","he":"מצרך (מזון)"}
+{"L":"comeda","C":["n"],"da":"mad","de":"Essen","en":"food, grub, nosh, victual","es":"alimento, comida","he":"מצרך (מזון)"}
 {"L":"comeda de bestias","C":["n"],"en":"fodder","he":"מספוא, חציר"}
 {"L":"comeda de mar","C":["n"],"en":"seafood","he":"מאכל ים"}
 {"L":"comeda favoreda","C":["n"],"en":"favorite|ur food, delicacy","he":"מאכל מועדף"}
@@ -5585,7 +5587,7 @@
 {"L":"comediste","C":["n"],"en":"comedian","he":"קומיקאי"}
 {"T":"r","L":"comefoco","C":["n","vn"],"d":"un divertor ci pare come foco","en":"fire eater","he":"אוכל אש, בולע אש"}
 {"T":"r","L":"comensa","C":["vnt"],"d":"deveni esistente, aveninte, funsionante o movente","u":"la corsa comensa","da":"begynde, starte","de":"anfangen, beginnen","en":"commence, begin, start; set off (on journey); kick off; proceed with","he":"להתחיל"}
-{"L":"comensa","C":["vt"],"d":"fa ce (alga cosa) comensa; fa o esperia la parte prima de (un ata)","u":"on comensa dansa; nos comensa la viaja","en":"commence, begin, start, take up; establish, set up","he":"להתחיל"}
+{"L":"comensa","C":["vt"],"d":"fa ce (alga cosa) comensa; fa o esperia la parte prima de (un ata)","u":"on comensa dansa; nos comensa la viaja","en":"commence, begin, start, take up; establish, set up","es":"iniciar, comenzar, principiar, arrancar (el motor), poner(se) en marcha","he":"להתחיל"}
 {"L":"comensa","C":["n"],"en":"commencement, beginning, start, inception, onset, novitiate; preliminary (attempt, round of competition); kickoff, faceoff (sport)","he":"התחלה, ראשית, פתיחה"}
 {"L":"comensa en via","C":["v"],"en":"set off","he":"לצאת לדרך"}
 {"L":"comensa riscosa","C":["n"],"en":"risky start, gambit","he":"פתיחה מסוכנת"}
@@ -5625,27 +5627,27 @@
 {"L":"noncomesurable","C":["a"],"en":"incommensurable","he":"שאינו משותף-מידה"}
 {"T":"r","L":"cometa","C":["n","ast","spo"],"d":"un ojeto sielal, composada de un nucleo de jelo e polvo e, cuando prosima a la Sol, un coda de particulas; un sceleto lejera covreda con un materia magra, cual on vola en la venta a la fini de un filo longa","i":"#","en":"comet (astronomy); kite (toy)","he":"כוכב שביט; עפיפון"}
 {"T":"r","L":"comforta","C":["vt"],"d":"aida (algun) a reposa, o a senti plu felis o destensada","en":"comfort, make comfortable","he":"לעשות שיהיה נוח"}
-{"L":"comforta","C":["n"],"da":"bekvemmelighed, velvære","de":"Behaglichkeit","en":"comfort","he":"נוחות"}
+{"L":"comforta","C":["n"],"da":"bekvemmelighed, velvære","de":"Behaglichkeit","en":"comfort","es":"comodidad, bienestar, alivio, consuelo","he":"נוחות"}
 {"L":"comfortada","C":["a"],"en":"comforted","he":"מנוחם"}
 {"L":"comfortante","C":["a"],"en":"comforting, pleasant","he":"מנחם, עושה נעים"}
 {"L":"comfortosa","C":["a"],"en":"comfortable, comfy; well off","he":"נוח"}
 {"L":"descomforta","C":["n"],"en":"malaise, discomfort","he":"אי-נוחות"}
 {"L":"es comfortada par","C":["v"],"en":"be comforted by, take comfort in","he":"להתנחם ב"}
 {"L":"noncomfortosa","C":["a"],"en":"uncomfortable","he":"לא נוח"}
-{"T":"r","L":"comica","C":["a","arte"],"d":"causante rie o diverti","da":"morsom, komisk","de":"komisch","en":"comical, funny, humorous, risible, wacky, zany","he":"קומי, מצחיק, הומוריסטי"}
+{"T":"r","L":"comica","C":["a","arte"],"d":"causante rie o diverti","da":"morsom, komisk","de":"komisch","en":"comical, funny, humorous, risible, wacky, zany","es":"divertido, cómico, gracioso, divertido, chistoso","he":"קומי, מצחיק, הומוריסטי"}
 {"T":"r","L":"comision","C":["n","gov"],"d":"un grupo de persones ci es ofisial encargada con un funsiona spesifada; un paia, tipal un proportio fisada de la valua pertinente, donada a un ajente en un intercambia comersial","en":"commission (committee, payment)","he":"ועדה, משלחת; עמלה, קומיסיון"}
 {"L":"comisionor","C":["n"],"en":"commissioner","he":"חבר ועדה; נציב, ממונה"}
-{"T":"r","L":"comite","C":["n","gov"],"d":"un grupo de persones asiniada a un funsiona spesifada, tipal composada de membros de un grupo plu grande","da":"komite, udvalg","de":"Ausschuss","en":"board, committee; panel (experts)","he":"ועדה, מועצה; פאנל"}
+{"T":"r","L":"comite","C":["n","gov"],"d":"un grupo de persones asiniada a un funsiona spesifada, tipal composada de membros de un grupo plu grande","da":"komite, udvalg","de":"Ausschuss","en":"board, committee; panel (experts)","es":"comité","he":"ועדה, מועצה; פאנל"}
 {"L":"comite de vila","C":["n"],"en":"town council","he":"מועצת העיר"}
 {"L":"comite dirijente","C":["n"],"en":"board (trustees)","he":"מועצת מנהלים, חבר נאמנים, דירקטוריון"}
 {"L":"comite local","C":["n"],"en":"local council","he":"מועצה מקומית"}
 {"L":"comiteria","C":["n"],"en":"board room, committee room","he":"חדר ישיבות"}
 {"L":"comitor","C":["n"],"en":"committee member, commissioner","he":"חבר ועדה, דירקטור"}
 {"L":"sucomite","C":["n"],"en":"subcommittee","he":"ועדת משנה"}
-{"T":"r","L":"como","C":["av"],"d":"(demandante) en cual modo, par cual metodo; (ante un ajetivo o averbo) a cual grado; (metafor) a cual grado de sania o felisia","u":"como on abri esta caxa?; como longa es la viaja?","da":"hvordan, hvorledes","de":"wie","en":"(interrogative) how","he":"איך","ru":"как"}
+{"T":"r","L":"como","C":["av"],"d":"(demandante) en cual modo, par cual metodo; (ante un ajetivo o averbo) a cual grado; (metafor) a cual grado de sania o felisia","u":"como on abri esta caxa?; como longa es la viaja?","da":"hvordan, hvorledes","de":"wie","en":"(interrogative) how","es":"como, cómo","he":"איך","ru":"как"}
 {"L":"como","C":["esc"],"en":"what, huh, eh? (confusion)","he":"איך? מה אמרת?"}
-{"L":"como","C":["sj"],"d":"en la modo en cual, par la metodo par cual; a la grado a cual","u":"acel es como on debe condui; salta tan alta como tu pote","da":"som, ligesom","de":"wie","en":"as, like, in the way that","he":"כמו ש","ru":"как, словно, будто, как будто"}
-{"L":"como","C":["prep"],"d":"simil a","g":"preposadas#como","u":"el rie como un iena; tan alta como me","da":"lig med","de":"als, (so ...) wie","en":"like, similarly to, qua","eo":"kiel, simile al","he":"כ-, כמו, בדומה ל","ru":"как"}
+{"L":"como","C":["sj"],"d":"en la modo en cual, par la metodo par cual; a la grado a cual","u":"acel es como on debe condui; salta tan alta como tu pote","da":"som, ligesom","de":"wie","en":"as, like, in the way that","es":"como, mientras, a medida que, según","he":"כמו ש","ru":"как, словно, будто, как будто"}
+{"L":"como","C":["prep"],"d":"simil a","g":"preposadas#como","u":"el rie como un iena; tan alta como me","da":"lig med","de":"als, (so ...) wie","en":"like, similarly to, qua","eo":"kiel, simile al","es":"como, similar a, semejante a, del mismo modo que","he":"כ-, כמו, בדומה ל","ru":"как"}
 {"L":"como poca","C":["d"],"en":"how few, how little","he":"כמה מעט"}
 {"L":"como poca","C":["av"],"en":"how few, how little","he":"כמה מעט"}
 {"L":"como si","C":["sj"],"en":"as if, as though, like","he":"כאילו ש","ru":"как если бы"}
@@ -5660,11 +5662,11 @@
 {"T":"r","L":"Comori","C":["n","jeo"],"c":"Moroni","d":"un pais en Africa, composada de un grupo de isolas en la Mar Indian, a norde de Madagasicara","i":"#","en":"Comoros","he":"קומורו (מדינה)"}
 {"L":"comori","C":["a"],"en":"Comorian","he":"קומורי"}
 {"L":"comori","C":["n"],"en":"Comorian","he":"קומורי"}
-{"T":"r","L":"compania","C":["n","mone"],"d":"un instituida de comersia","da":"selskab, kompangni, firma","de":"Gesellschaft","en":"company, firm, business; troupe","he":"חברה, פירמה, עסק; הרכב"}
+{"T":"r","L":"compania","C":["n","mone"],"d":"un instituida de comersia","da":"selskab, kompangni, firma","de":"Gesellschaft","en":"company, firm, business; troupe","es":"compañía, firma","he":"חברה, פירמה, עסק; הרכב"}
 {"L":"compania asecurinte","C":["n"],"en":"underwriter","he":"חתם (ביטוח)"}
 {"L":"compania nova","C":["n"],"en":"startup","he":"סטארט אפ, חברת הזנק"}
 {"L":"sucompania","C":["n"],"en":"subsidiary","he":"חברה בת, חברת בת"}
-{"T":"r","L":"compara","C":["vt"],"d":"mesura o descrive la similes o diferes entre; sujesta ce (un cosa) es simil (a un otra)","u":"compara custas; compara la filma con la libro; compara vives a naras","da":"sammenligne","de":"vergleichen","en":"compare, liken","he":"להשוות"}
+{"T":"r","L":"compara","C":["vt"],"d":"mesura o descrive la similes o diferes entre; sujesta ce (un cosa) es simil (a un otra)","u":"compara custas; compara la filma con la libro; compara vives a naras","da":"sammenligne","de":"vergleichen","en":"compare, liken","es":"comparar, cotejar, contrastar, confrontar","he":"להשוות"}
 {"L":"compara","C":["n"],"en":"comparison; simile","he":"השוואה"}
 {"L":"compara con realia","C":["v"],"en":"compare with reality","he":"לחזור למציאות, לרדת לקרקע"}
 {"L":"compara con realia","C":["n"],"en":"reality check","he":"חזרה למציאות, ירידה לקרקע"}
@@ -5690,8 +5692,8 @@
 {"L":"compatador","C":["n"],"i":"#","en":"compactor, steamroller","he":"דחסן, דחסנית"}
 {"L":"compati","C":["vnt"],"en":"compact, compress","he":"להדחס"}
 {"L":"compati","C":["vt"],"en":"compact, compress","he":"לדחוס"}
-{"T":"r","L":"compatia","C":["vt","uma"],"d":"senti triste par causa de la sufri de (un otra person)","da":"føle medlidenhed med","de":"bemitleiden","en":"pity, feel sorry for, feel compassion for, sympathize|is with, commiserate with","he":"לרחם, לחמול, לחוש סימפטיה"}
-{"L":"compatia","C":["n"],"da":"bamhjertighed, nåde","de":"Gnade, Barmherzigkeit","en":"pity, compassion, kindness, consideration, sympathy, condolence, heartstrings, pathos","he":"רחמים, תנחומים, חמלה, סימפטיה"}
+{"T":"r","L":"compatia","C":["vt","uma"],"d":"senti triste par causa de la sufri de (un otra person)","da":"føle medlidenhed med","de":"bemitleiden","en":"pity, feel sorry for, feel compassion for, sympathize|is with, commiserate with","es":"compadecerse de, sentir lástima por, apiadarse de, tener piedad de, sentir tristeza por","he":"לרחם, לחמול, לחוש סימפטיה"}
+{"L":"compatia","C":["n"],"da":"bamhjertighed, nåde","de":"Gnade, Barmherzigkeit","en":"pity, compassion, kindness, consideration, sympathy, condolence, heartstrings, pathos","es":"misericordia, piedad, compasión","he":"רחמים, תנחומים, חמלה, סימפטיה"}
 {"L":"autocompatia","C":["n"],"en":"self-pity","he":"רחמים עצמיים"}
 {"L":"compatiable","C":["a"],"en":"pitiable, worthy of compassion","he":"מעורר רחמים, מעורר חמלה"}
 {"L":"compatiosa","C":["a"],"en":"compassionate, humane, kind, kind-hearted, soft-hearted, warm-hearted, considerate, tender, sympathetic, selfless","he":"רחום, נדיב, אנושי, מתחשב, סימפטי"}
@@ -5702,7 +5704,7 @@
 {"T":"r","L":"compensa","C":["vt","mone"],"d":"dona alga cosa, tipal mone, a (algun) par causa de sua perde, sufri o feri","en":"compensate, make amends for","he":"לפצות, לשפות"}
 {"L":"compensa","C":["n"],"en":"compensation, damages, indemnity, reparation, restitution","he":"פיצוי, שיפוי, שילום"}
 {"L":"compensa tro multe","C":["v"],"en":"overcompensate","he":"לפצות יתר על המידה"}
-{"T":"r","L":"compete","C":["vnt"],"d":"atenta vinse, o gania supremia supra, otras ci atenta la mesma","da":"konkurrere","de":"konkurrieren","en":"compete, contest, strive, vie","he":"להתחרות, להתמודד"}
+{"T":"r","L":"compete","C":["vnt"],"d":"atenta vinse, o gania supremia supra, otras ci atenta la mesma","da":"konkurrere","de":"konkurrieren","en":"compete, contest, strive, vie","es":"competir, esforzarse, luchar por, intentar alcanzar, hacer lo posible por, forcejear","he":"להתחרות, להתמודד"}
 {"L":"compete","C":["n"],"en":"competition (action), contest, rivalry, fray","he":"תחרות, התחרות, התמודדות, יריבות"}
 {"L":"competor","C":["n"],"en":"competitor, contestant, contender, rival","he":"מתחרה, מתמודד, יריב"}
 {"L":"competor favoreda","C":["n"],"en":"frontrunner","he":"מתמודד מוביל"}
@@ -5713,7 +5715,7 @@
 {"T":"r","L":"compleso","C":["n","arci","info","uma"],"d":"un grupo de construidas relatada en la mesma area; un grupo o sistem de cosas diferente, liada en un rede; (en psicoanalise) un grupo relatada de ideas emosial e importante cual es intera o partal represada, causa desacorda mental, e gida a conduis o states nonormal de mente","en":"complex; compound, plant, facility, campus; yard (industrial); complex (psychological)","he":"קומפלקס, מתחם; תסביך"}
 {"L":"compleso de casas","C":["n","arci","uma"],"en":"housing estate","he":"מתחם מגורים"}
 {"L":"compleso de datos","C":["n","info"],"en":"data center|re","he":"מרכז נתונים"}
-{"T":"r","L":"completa","C":["a"],"d":"con tota partes nesesada o conveninte; intera; finida","da":"hel, komplet","de":"ganz","en":"complete, comprehensive, exhaustive, thorough, utter, outright, plenary","he":"שלם, מלא, גמור, מושלם, מוחלט, מקיף, כולל, ממצה, מעמיק, טוטאלי, יסודי"}
+{"T":"r","L":"completa","C":["a"],"d":"con tota partes nesesada o conveninte; intera; finida","da":"hel, komplet","de":"ganz","en":"complete, comprehensive, exhaustive, thorough, utter, outright, plenary","es":"completo, entero, íntegro","he":"שלם, מלא, גמור, מושלם, מוחלט, מקיף, כולל, ממצה, מעמיק, טוטאלי, יסודי"}
 {"L":"completa","C":["av"],"da":"helt, fuldt, fuldstændig","en":"completely, comprehensively, exhaustively, thoroughly, utterly, altogether","he":"לגמרי, לחלוטין, כליל, באופן כולל, באופן מקיף, במלואו, בשלמותו, ביסודיות"}
 {"L":"completa","C":["n"],"d":"un cosa completa; un colie de vestes de la mesma stofa, desiniada per es portada en junta","en":"whole; suit, outfit (clothes)","he":"מכלול; חליפה"}
 {"L":"completa con pantalon","C":["n"],"en":"pantsuit, trouser suit","he":"חליפת מכנסיים"}
@@ -5733,7 +5735,7 @@
 {"L":"noncompletida","C":["a"],"en":"uncompleted","he":"לא הושלם"}
 {"T":"r","L":"complica","C":["vt"],"d":"fa ce (un cosa) deveni plu difisil o confusante par introdui plu aspetas o relatas","en":"complicate","he":"לסבך"}
 {"L":"complica","C":["n"],"en":"complication, complicating factor","he":"סיבוך"}
-{"L":"complicada","C":["a"],"da":"kompleks","de":"kompliziert","en":"complicated, complex, intricate, involute","he":"מסובך, מורכב"}
+{"L":"complicada","C":["a"],"da":"kompleks","de":"kompliziert","en":"complicated, complex, intricate, involute","es":"complejo, complicado, compuesto, no simple","he":"מסובך, מורכב"}
 {"L":"complicadia","C":["n"],"en":"complexity, intricacy","he":"סיבוכיות, מורכבות"}
 {"L":"complicosa","C":["a"],"d":"(un sistem) tan complicada ce on no pote predise sua funsiona","en":"complex (system)","he":"(מערכת) מורכבת"}
 {"T":"r","L":"composa","C":["vt"],"d":"scrive o crea (un obra de arte, spesial musica o poesia); scrive (un mesaje) con atende e pensa; (partes) formi un intera","en":"compose","he":"לחבר, להלחין (יצירה); לכתוב (מכתב); להרכיב (מחלקים נפרדים)"}
@@ -5750,7 +5752,7 @@
 {"L":"descomposada","C":["n"],"en":"compost","he":"קומפוסט, דשונת"}
 {"L":"es composada de","C":["v"],"da":"bestå af, være sammensat af","de":"bestehen aus","en":"be composed of, consist of, comprise","he":"להיות מורכב מ, להכיל"}
 {"L":"noncomposada","C":["a"],"en":"uncompounded, simplex","he":"שאינו מורכב (מחלקים נפרדים)"}
-{"T":"r","L":"compra","C":["vt","mone"],"d":"oteni (un cosa) par paia per lo","da":"købe","de":"kaufen","en":"buy, purchase, shop","he":"לקנות, לרכוש"}
+{"T":"r","L":"compra","C":["vt","mone"],"d":"oteni (un cosa) par paia per lo","da":"købe","de":"kaufen","en":"buy, purchase, shop","es":"comprar, adquirir, mercar","he":"לקנות, לרכוש"}
 {"L":"compra","C":["n"],"en":"purchase (action)","he":"קנייה, רכישה (פעולה)"}
 {"L":"compra manica","C":["n"],"en":"shopping spree","he":"מסע קניות"}
 {"L":"comprable","C":["a"],"en":"buyable, available to buy, purchasable, for sale","he":"למכירה"}
@@ -5759,7 +5761,7 @@
 {"L":"pote compra","C":["v"],"en":"afford (to buy)","he":"לעמוד במחיר"}
 {"T":"r","L":"compramania","C":["n"],"d":"un spende estravagante de mone","en":"spending spree, splurge","he":"בזבוז כסף"}
 {"L":"compramanica","C":["n"],"en":"spendthrift","he":"בזבזן, פזרן"}
-{"T":"r","L":"comprende","C":["vt"],"d":"persepi la sinifia intendeda de (un testo o person); persepi la sinifia, esplica o causa de (un cosa)","da":"forstå, opfatte","de":"verstehen","en":"understand, comprehend","he":"להבין"}
+{"T":"r","L":"comprende","C":["vt"],"d":"persepi la sinifia intendeda de (un testo o person); persepi la sinifia, esplica o causa de (un cosa)","da":"forstå, opfatte","de":"verstehen","en":"understand, comprehend","es":"entender, comprender","he":"להבין"}
 {"L":"comprende","C":["n"],"en":"understanding, interpretation, comprehension, insight","he":"הבנה"}
 {"L":"comprendable","C":["a"],"en":"understandable, intelligible, comprehensible","he":"מובן, ברור"}
 {"L":"malcomprende","C":["vt"],"en":"misunderstand, misapprehend","he":"להבין שלא כהלכה"}
@@ -5772,13 +5774,13 @@
 {"L":"descompresa","C":["vt"],"en":"decompress","he":"להפחית את הלחץ"}
 {"L":"descompresa","C":["n"],"en":"decompression","he":"הפחתת לחץ"}
 {"T":"r","L":"compromete","C":["vnt","gov"],"d":"solve un disputa par aseta mutua de alga sedes","en":"compromise, make concessions, accommodate","he":"להתפשר"}
-{"L":"compromete","C":["n"],"da":"kompromis","de":"Kompromiss","en":"compromise, concession, trade-off","he":"פשרה"}
+{"L":"compromete","C":["n"],"da":"kompromis","de":"Kompromiss","en":"compromise, concession, trade-off","es":"compromiso, arreglo, acuerdo, aveniencia, termino medio entre extremos","he":"פשרה"}
 {"T":"r","L":"compulsa","C":["vt"],"d":"(un comanda legal o un senti interna) obliga o forsa (un person) a fa alga cosa","en":"compel","he":"לחייב, לאלץ"}
 {"L":"compulsa","C":["n"],"en":"compulsion","he":"חיוב, אילוץ, כורח"}
 {"T":"r","L":"computa","C":["vt","info"],"d":"calcula (un cuantia); solve (un problem) par usa un computador","en":"compute","he":"לחשב (באמצעות מחשב)"}
 {"L":"computa","C":["n"],"en":"computation, computing","he":"חישוב, מחשוב"}
 {"L":"computa distribuida","C":["n"],"en":"grid computing","he":"מחשוב סריגי"}
-{"L":"computador","C":["n"],"da":"computer","de":"Computer","en":"computer; central processing unit, CPU","he":"מחשב"}
+{"L":"computador","C":["n"],"da":"computer","de":"Computer","en":"computer; central processing unit, CPU","es":"computadora, computador, ordenador, calculadora programable","he":"מחשב"}
 {"L":"computador de mano","C":["n"],"en":"handheld computer","he":"מחשב יד, מסופון"}
 {"L":"computador de table","C":["n"],"i":"#","en":"desktop computer","he":"מחשב שולחני"}
 {"L":"computador personal","C":["n"],"en":"personal computer","he":"מחשב אישי"}
@@ -5787,18 +5789,18 @@
 {"L":"computador sentral","C":["n"],"i":"#","en":"mainframe computer","he":"מחשב מרכזי"}
 {"L":"computador tabletin","C":["n"],"en":"tablet computer","he":"מחשב לוח, טאבלט"}
 {"L":"supracomputador","C":["n"],"en":"supercomputer","he":"מחשב-על"}
-{"T":"r","L":"comun","C":["a"],"d":"no rara; aveninte, trovada o fada a multe veses o tra un area grande; de spesie la plu bon conoseda; compartida, pertinente a plu ca un person o cosa; poseseda par, asedable per, o afetante la intera de un comunia","da":"fælles, almindelig, generel","de":"allgemein, gemeinsam","en":"common, general, ordinary, plain, banal, prevalent, mundane, commonplace; frequent, rife; shared, in common","he":"שכיח, מצוי, רווח, נפוץ; משותף, ציבורי, כללי"}
+{"T":"r","L":"comun","C":["a"],"d":"no rara; aveninte, trovada o fada a multe veses o tra un area grande; de spesie la plu bon conoseda; compartida, pertinente a plu ca un person o cosa; poseseda par, asedable per, o afetante la intera de un comunia","da":"fælles, almindelig, generel","de":"allgemein, gemeinsam","en":"common, general, ordinary, plain, banal, prevalent, mundane, commonplace; frequent, rife; shared, in common","es":"común, general, ordinario, vulgar, público","he":"שכיח, מצוי, רווח, נפוץ; משותף, ציבורי, כללי"}
 {"L":"comun","C":["av"],"en":"commonly, generally, widely; often, oftentimes, frequently; in common","he":"באופן כללי; בדרך כלל, על פי רוב; לעיתים קרובות, לעיתים תכופות, תדיר; במשותף"}
 {"L":"comunisme","C":["n"],"en":"communism","he":"קומוניזם"}
 {"L":"comuniste","C":["n"],"en":"communist","he":"קומוניסט"}
 {"L":"noncomun","C":["a"],"en":"uncommon, unusual, infrequent, eccentric, offbeat; original (idea)","he":"בלתי רגיל, לא שגרתי; נדיר; אקסצנטרי, חריג"}
 {"L":"noncomun","C":["av"],"en":"uncommonly, unusually","he":"באופן בלתי רגיל, באופן חריג"}
 {"L":"noncomunia","C":["n"],"en":"unusualness, eccentricity","he":"אקסצנטריות, חריגות"}
-{"T":"r","L":"comunia","C":["n","gov"],"d":"un grupo peti o grande de persones ci comparti un cualia sosial","da":"samfund","de":"Gemeindshaft, Gemeinde","en":"community, commonwealth; communion","he":"קהילה, קהילייה; תחושת שיתוף וקרבה"}
+{"T":"r","L":"comunia","C":["n","gov"],"d":"un grupo peti o grande de persones ci comparti un cualia sosial","da":"samfund","de":"Gemeindshaft, Gemeinde","en":"community, commonwealth; communion","es":"comunidad","he":"קהילה, קהילייה; תחושת שיתוף וקרבה"}
 {"L":"comunia legal","C":["n"],"en":"commune, municipality","he":"קומונה, משתף"}
 {"L":"comunial","C":["a"],"en":"communal","he":"שיתופי; קהילתי"}
 {"T":"r","L":"comunica","C":["vt","info"],"d":"comparti o intercambia (informa, novas, ideas o maladias)","en":"communicate; pass on (illness)","he":"לתקשר; להעביר (מחלות)"}
-{"L":"comunica","C":["n"],"da":"kommunikation","de":"Nachrichtenwesen","en":"communication","he":"תקשורת"}
+{"L":"comunica","C":["n"],"da":"kommunikation","de":"Nachrichtenwesen","en":"communication","es":"comunicación","he":"תקשורת"}
 {"L":"comunicable","C":["a"],"en":"communicable, contagious, infectious","he":"שניתן לתקשר איתו; מדבק"}
 {"L":"comunicada","C":["a"],"en":"communicated","he":"מתוקשר; (מחלה) מועבר"}
 {"L":"comunicador","C":["n"],"en":"communicator, intercom","he":"מכשיר תקשורת, מקשר, אינטרקום"}
@@ -5808,7 +5810,7 @@
 {"L":"sin comunica","C":["n"],"en":"without communication, incommunicado","he":"ללא תקשורת, מנותק"}
 {"T":"r","L":"comuta","C":["vnt","util"],"d":"(un macina o aparato eletrical) comensa funsiona","en":"switch on, turn on, come on, connect, go live (machine); enable (software feature)","he":"להידלק, להתחבר (לחשמל)"}
 {"L":"comuta","C":["vt"],"en":"switch on, turn on, come on, connect, go live (machine); enable (software feature)","he":"להדליק, להפעיל, לחבר (לחשמל)"}
-{"L":"comuta","C":["n"],"da":"forbindelse, led","de":"Verbindung, Verknüpfung","en":"connection, joint, junction","he":"הדלקה, הפעלה, חיבור"}
+{"L":"comuta","C":["n"],"da":"forbindelse, led","de":"Verbindung, Verknüpfung","en":"connection, joint, junction","es":"conexión, junta, unión, enlace","he":"הדלקה, הפעלה, חיבור"}
 {"L":"boton de comuta","C":["n"],"en":"power button, power switch, on/off switch","he":"כפתור הפעלה"}
 {"L":"comutada","C":["a"],"en":"on, switched on, turned on, live; connected, online; enabled","he":"דולק, מופעל, מחובר"}
 {"L":"comutador","C":["n"],"en":"switch (electric), toggle","he":"מתג, מפסק"}
@@ -5817,9 +5819,9 @@
 {"L":"descomuta","C":["n"],"en":"shutoff, disconnection","he":"כיבוי, הפסקה, עצירה, ניתוק, השבתה (של מכונה)"}
 {"L":"descomutada","C":["a"],"en":"off, switched off, turned off; disconnected, offline; disabled","he":"כבוי, מכובה, מופסק, מנותק, מושבת"}
 {"L":"recomuta","C":["vt"],"en":"reconnect, switch back on","he":"לחבר שוב, להדליק שוב"}
-{"T":"r","L":"con","C":["prep"],"d":"acompaniada par (un otra person o cosa)","g":"preposadas#con","u":"me jua tenis con mea sore; el nada con la flue","da":"med, sammen med","de":"mit","en":"with, in the company of, going along with","eo":"kun","he":"עם"}
+{"T":"r","L":"con","C":["prep"],"d":"acompaniada par (un otra person o cosa)","g":"preposadas#con","u":"me jua tenis con mea sore; el nada con la flue","da":"med, sammen med","de":"mit","en":"with, in the company of, going along with","eo":"kun","es":"con, en compañia de, acompañado por","he":"עם"}
 {"T":"s","d":"posesente o incluinte (un cosa o cualia)","u":"cafe con lete; un can con oreas longa; tu roji con embarasa","en":"with (having or including)","eo":"kun","he":"עם"}
-{"T":"s","d":"fada par usa (un ojeto, tipal un strumento)","u":"me scrive con un lapis; compra bonbones con monetas","da":"per, via, ved hjælp af","de":"mit, mittels","en":"with, by means of, using (a tool)","eo":"per","he":"עם, באמצעות"}
+{"T":"s","d":"fada par usa (un ojeto, tipal un strumento)","u":"me scrive con un lapis; compra bonbones con monetas","da":"per, via, ved hjælp af","de":"mit, mittels","en":"with, by means of, using (a tool)","eo":"per","es":"por medio de, por, con, usando","he":"עם, באמצעות"}
 {"L":"con ce","C":["sj"],"d":"a la mesma tempo cuando; acompaniada par un situa en cual","u":"los pasea con ce la pluve cade","en":"at the same time as, accompanied by a situation in which, given that, with it being the case that","he":"באותו זמן ש"}
 {"L":"an con ce","C":["sj"],"en":"although, even though, even given that, despite the fact that, in spite of the fact that, notwithstanding that, while, whilst"}
 {"T":"r","L":"conaseda","C":["a","bio","ling"],"d":"con la mesma jenitores; (un parola) con la mesma radis orijinal como un otra","en":"cognate","he":"אחאי, מאותו הורה; מאותו שורש"}
@@ -5827,7 +5829,7 @@
 {"L":"conasedia","C":["n"],"en":"siblinghood, cognacy","he":"אחאות"}
 {"L":"estraconaseda","C":["n"],"en":"stepsibling","he":"אח/אחות חורגים"}
 {"T":"r","L":"con-","C":["pf","tecn"],"d":"con, en junta, mutua","en":"con- (with, together)","he":"(קידומת טכנית) עם, ביחד, הדדי"}
-{"T":"r","L":"conca","C":["n","bio"],"d":"la caxa esterna, dur e protejente de un molusco o crustaseo","i":"#","da":"skal","de":"Schale","en":"shell, seashell","he":"קונכייה"}
+{"T":"r","L":"conca","C":["n","bio"],"d":"la caxa esterna, dur e protejente de un molusco o crustaseo","i":"#","da":"skal","de":"Schale","en":"shell, seashell","es":"concha, cáscara, vaina, casco, armazón, cápsula","he":"קונכייה"}
 {"L":"conca de bivalvo","C":["n"],"en":"clamshell","he":"קונכיית צדפה"}
 {"L":"conca de cardio","C":["n"],"en":"cockleshell","he":"קונכיית צדפה"}
 {"L":"conca de strombo","C":["n"],"en":"conch shell, conch","he":"קונכייה ספירלית"}
@@ -5843,7 +5845,7 @@
 {"L":"conclui","C":["n"],"en":"conclusion (ending, decision); coda, denouement","he":"מסקנה; סיום"}
 {"L":"concluinte","C":["a"],"en":"conclusive","he":"מכריע, סופי, פסקני"}
 {"L":"nonconcluinte","C":["a"],"en":"inconclusive","he":"לא מכריע, שאינו חד-משמעי"}
-{"T":"r","L":"concombre","C":["n","pla","cos"],"d":"un planta trepante en familia de zuca; la fruta longa e verde de esta, con pulpa acuosa, usada como un comeda cru en saladas, o vinagrida","i":"#","t":"Cucumis sativus","da":"agurk","de":"Gurke","en":"cucumber","he":"מלפפון"}
+{"T":"r","L":"concombre","C":["n","pla","cos"],"d":"un planta trepante en familia de zuca; la fruta longa e verde de esta, con pulpa acuosa, usada como un comeda cru en saladas, o vinagrida","i":"#","t":"Cucumis sativus","da":"agurk","de":"Gurke","en":"cucumber","es":"pepino","he":"מלפפון"}
 {"L":"concombre-de-mar","C":["n","ani"],"d":"un ecinodermato con corpo spesa e vermin e tentaculos sirca sua boca","i":"#","t":"Holothuroidea","en":"sea cucumber","he":"מלפפון ים"}
 {"L":"concombre vinagrida","C":["n"],"en":"pickle, gherkin","he":"מלפפון חמוץ"}
 {"T":"r","L":"concreta","C":["a"],"d":"material o fisical esistente; real o solida; no astrata","en":"concrete, tangible","he":"קונקרטי, מוחשי, ממשי"}
@@ -5872,8 +5874,8 @@
 {"T":"r","L":"condom","C":["n","med"],"d":"un gaina magra de latex o otra materia, portada sur la penis de un om copulante per proteje contra consepi o infeta","i":"#","en":"condom","he":"קונדום, כובעון"}
 {"T":"r","L":"condor","C":["n","avia"],"d":"un vultur grande de la mundo nova, con testa calva e plumas negra, ci vive en montanias e vola tipal alta","i":"#","t":"Cathartidae","en":"condor, New World vulture","he":"קונדור (ציפור)"}
 {"T":"r","L":"condromalasia","C":["n","med"],"d":"un moli de la cartilaje de un junta","en":"chondromalacia","es":"condromalacia"}
-{"T":"r","L":"condui","C":["vnt"],"d":"ata en un modo spesifada, tipal en relata sosial con otra persones","n":"No usa `condui` per dise `gida` o `porta`.","v":"gida","en":"behave, conduct (oneself), comport","he":"להתנהג"}
-{"L":"condui","C":["n"],"da":"opførsel, adfærd","de":"Benehmen","en":"behavior|ur, demeanor|ur, comportment, conduct","he":"התנהגות"}
+{"T":"r","L":"condui","C":["vnt"],"d":"ata en un modo spesifada, tipal en relata sosial con otra persones","n":"No usa `condui` per dise `gida` o `porta`.","v":"gida","en":"behave, conduct (oneself), comport","es":"guiar, conducir, dirigir, llevar","he":"להתנהג"}
+{"L":"condui","C":["n"],"da":"opførsel, adfærd","de":"Benehmen","en":"behavior|ur, demeanor|ur, comportment, conduct","es":"comportamiento, conducta, proceder, funcionamiento","he":"התנהגות"}
 {"L":"conduisme","C":["n"],"en":"behaviorism|ur","he":"ביהביוריזם"}
 {"L":"conduiste","C":["n"],"en":"behaviorist|ur","he":"ביהביוריסט"}
 {"L":"malcondui","C":["vnt"],"en":"misbehave","he":"להתנהג בצורה בלתי הולמת"}
@@ -5883,7 +5885,7 @@
 {"L":"condutador","C":["n","util"],"d":"un materia o aparato cual conduta","en":"conductor (energy)","fr":"conducteur (d'énergie)","he":"חומר מוליך"}
 {"L":"condutante","C":["a"],"en":"conducting, conductive","he":"מוליך"}
 {"L":"supracondutador","C":["n"],"en":"superconductor","he":"מוליך-על"}
-{"T":"r","L":"coneo","C":["n","mam"],"d":"un mamal sosial e erbivor, con oreas longa, gamas anterior longa, e coda corta","i":"#","t":"Leporidae","da":"kanin","de":"Kaninchen","en":"rabbit","he":"ארנב"}
+{"T":"r","L":"coneo","C":["n","mam"],"d":"un mamal sosial e erbivor, con oreas longa, gamas anterior longa, e coda corta","i":"#","t":"Leporidae","da":"kanin","de":"Kaninchen","en":"rabbit","es":"conejo","he":"ארנב"}
 {"L":"coneria","C":["n"],"en":"warren","he":"ארנביה"}
 {"L":"coneta","C":["n"],"en":"baby rabbit, bunny","he":"ארנבון"}
 {"T":"r","L":"confedera","C":["vnt","gov"],"d":"(un cuantia de statos o organizas) formi un unia ma reteni multe autonomia interna","v":"federa","en":"confederate"}
@@ -5894,7 +5896,7 @@
 {"L":"confere de xefes","C":["n"],"en":"summit (meeting)","he":"ועידת פסגה"}
 {"L":"confere jornaliste","C":["n"],"en":"press conference","he":"מסיבת עיתונאים"}
 {"L":"confere video","C":["n"],"en":"video conference","he":"שיחת ועידה בוידאו"}
-{"T":"r","L":"confesa","C":["vt","gov","rel"],"d":"declara ce on ia fa (un crimin o peca) o ce on es culpable en alga modo; declara (alga cosa) en modo vergoniosa o embarasada","da":"indrømme, bekende","de":"eingestehen, zugeben","en":"confess, admit, avow","he":"להודות, להתוודות"}
+{"T":"r","L":"confesa","C":["vt","gov","rel"],"d":"declara ce on ia fa (un crimin o peca) o ce on es culpable en alga modo; declara (alga cosa) en modo vergoniosa o embarasada","da":"indrømme, bekende","de":"eingestehen, zugeben","en":"confess, admit, avow","es":"admitir, confesar, aceptar, reconocer","he":"להודות, להתוודות"}
 {"L":"confesa","C":["n"],"en":"confession, admission","he":"וידוי, הודאה"}
 {"L":"confeseria","C":["n"],"en":"confessional","he":"תא וידוי"}
 {"T":"r","L":"confeto","C":["n","cos"],"d":"un comeda dulse, composada de zucar o xirope con frutas, nozas o xocolada","i":"#","en":"sweet, confection","he":"ממתק, סוכרייה"}
@@ -5905,7 +5907,7 @@
 {"L":"confeti","C":["vt"],"en":"candy","he":"לרקוח (ממתקים)"}
 {"L":"confetor","C":["n"],"en":"confectioner","he":"אמן ממתקים"}
 {"L":"confetos","C":["n","pl"],"en":"sweets, candy, confectionery","he":"דברי מתיקה"}
-{"T":"r","L":"confida","C":["vt"],"d":"dona (un ojeto) a algun e fida ce el va proteje lo; dise (un secreta) a algun e fida ce el no va repete lo a otra persones","u":"el ia confida a me ce la compania es cuasi bancarota","da":"stole på","de":"trauen","en":"confide, entrust (valuables, secret)","he":"לספר, לשתף (סוד); להפקיד (למשמרת)"}
+{"T":"r","L":"confida","C":["vt"],"d":"dona (un ojeto) a algun e fida ce el va proteje lo; dise (un secreta) a algun e fida ce el no va repete lo a otra persones","u":"el ia confida a me ce la compania es cuasi bancarota","da":"stole på","de":"trauen","en":"confide, entrust (valuables, secret)","es":"confiar, fiarse de, tener confianza en, esperar, dar crédito a","he":"לספר, לשתף (סוד); להפקיד (למשמרת)"}
 {"L":"confida","C":["n"],"en":"confiding","he":"שיתוף (סוד)"}
 {"L":"confidada","C":["a"],"en":"confided, confidential (secret)","he":"סודי, חסוי; מופקד (למשמרת)"}
 {"L":"confidada","C":["n"],"en":"confidant, confidante","he":"איש סוד"}
@@ -5978,12 +5980,12 @@
 {"T":"r","L":"conjuntivite","C":["n","med"],"d":"un inflama de la conjuntiva","i":"#","en":"conjunctivitis, pinkeye","he":"דלקת הלחמית"}
 {"T":"r","L":"Connecticut","C":["n","jeo"],"d":"un stato en la SUA norde-este","p":"canéticat","en":"Connecticut (US state)","he":"קונטיקט"}
 {"T":"r","L":"cono","C":["a","mat"],"d":"(un cosa tridimensional) con un forma cual diminui de un funda sirculo asta un punto","i":"#","en":"conic, conical","he":"חרוטי, קוני"}
-{"L":"cono","C":["n"],"da":"kegle","de":"Kegel, Konus","en":"cone","he":"חרוט, קונוס"}
+{"L":"cono","C":["n"],"da":"kegle","de":"Kegel, Konus","en":"cone","es":"cono","he":"חרוט, קונוס"}
 {"L":"cono de pino","C":["n"],"i":"#","en":"pinecone","he":"איצטרובל"}
 {"T":"r","L":"conom","C":["n","ist"],"d":"(en Roma antica) un nom personal, tipal pasada a desendentes","en":"cognomen","he":"(רומא העתיקה) שם שעובר בירושה"}
 {"T":"r","L":"conopofaje","C":["n","avia"],"d":"un avia peti de America Sentral e Sude, con coda corta e gamas longa, notada per come moscetas e otra insetos peti","i":"#","t":"Conopophagidae","en":"gnateater (bird)","he":"ציפור ממשפחת היורקניים"}
-{"T":"r","L":"conose","C":["vt"],"d":"sabe ce on ia esperia ja (un cosa o loca); es consensa de (algun) pos interelata con el","u":"me conose tua sore; tu conose Roma?; el conose la problem ma no sabe la detalias","v":"sabe","da":"kennen","en":"know (person, place, etc.), be acquainted with, be familiar with (by experience rather than learning), cognize","he":"להכיר"}
-{"L":"conose","C":["n"],"en":"knowledge (of person, place, etc.), acquaintance (with), familiarity","he":"היכרות"}
+{"T":"r","L":"conose","C":["vt"],"d":"sabe ce on ia esperia ja (un cosa o loca); es consensa de (algun) pos interelata con el","u":"me conose tua sore; tu conose Roma?; el conose la problem ma no sabe la detalias","v":"sabe","da":"kennen","en":"know (person, place, etc.), be acquainted with, be familiar with (by experience rather than learning), cognize","es":"saber, conocer, reconocer, distinguir","he":"להכיר"}
+{"L":"conose","C":["n"],"en":"knowledge (of person, place, etc.), acquaintance (with), familiarity","es":"conocimiento, saber, sabiduría, pericia","he":"היכרות"}
 {"L":"comensa conose","C":["v"],"en":"get to know, become acquainted with, familiarize|is oneself with","he":"להכיר, להתוודע"}
 {"L":"conosal","C":["a"],"en":"cognitive","he":"קוגניטיבי, הכרני"}
 {"L":"conoseda","C":["a"],"en":"known, familiar","he":"מוכר"}
@@ -6002,12 +6004,12 @@
 {"T":"r","L":"conota","C":["vt","ling"],"d":"(un parola) sujesta o implica (un idea o senti) en ajunta a sua sinifia prima o leteral","en":"connote","he":"לרמוז על, להצביע על"}
 {"L":"conota","C":["n"],"en":"connotation","he":"קונוטציה, משמעות לוואי"}
 {"T":"r","L":"consela","C":["vt","uma"],"d":"ofre sujestas a (algun) sur la modo la plu bon de ata; sujesta ce (algun) fa alga cosa","en":"counsel, advise","he":"לייעץ; להמליץ"}
-{"L":"consela","C":["n"],"da":"råd","de":"Rat","en":"counsel, advice","he":"עצה; המלצה"}
+{"L":"consela","C":["n"],"da":"råd","de":"Rat","en":"counsel, advice","es":"consejo, aviso, advertencia, noticia","he":"עצה; המלצה"}
 {"L":"conselor","C":["n"],"en":"counselor, advisor, adviser, consultant","he":"יועץ"}
 {"L":"conselor privata","C":["n"],"en":"confidant, confidante, confessor","he":"איש סוד"}
 {"L":"malconsela","C":["vt"],"en":"misadvise","he":"לתת עצה מזיקה"}
 {"L":"malconselada","C":["a"],"en":"ill-advised, inadvisable","he":"לא מומלץ, לא רצוי, לא כדאי"}
-{"T":"r","L":"consensa","C":["a","med"],"d":"veliada e respondente a la ambiente; persepinte un situa o sabente un fato","da":"bevist, vågen","de":"bewusst","en":"conscious, aware, mindful, lucid, cognizant","he":"הכרתי, בהכרה, מודע"}
+{"T":"r","L":"consensa","C":["a","med"],"d":"veliada e respondente a la ambiente; persepinte un situa o sabente un fato","da":"bevist, vågen","de":"bewusst","en":"conscious, aware, mindful, lucid, cognizant","es":"consciente, enterado, sabedor, sobre aviso, cauto","he":"הכרתי, בהכרה, מודע"}
 {"L":"autoconsensa","C":["a"],"en":"self-conscious, self-aware","he":"בעל מודעות עצמית"}
 {"L":"autoconsensia","C":["n"],"en":"self-consciousness, self-awareness"}
 {"L":"consensi","C":["vnt"],"en":"become conscious, become aware","he":"להפוך למודע, לחזור להכרה"}
@@ -6040,7 +6042,7 @@
 {"L":"conserta de avias","C":["n"],"en":"dawn chorus","he":"ציוצי ציפורים בבוקר"}
 {"T":"r","L":"consertina","C":["n","mus"],"d":"un strumento peti, juada par estende e compresa un soflador entre la manos per puia aira supra anxas, sonante la notas par presa botones","i":"#","en":"concertina","he":"קונצרטינה, מפוחית יד"}
 {"T":"r","L":"conserto","C":["n","mus"],"d":"un obra per tipal un strumento acompaniada par un orcestra","en":"concerto","he":"קונצ'רטו"}
-{"T":"r","L":"conserva","C":["vt","bio","cos"],"d":"manteni (un cosa) en sua state esistente o orijinal; proteje (un cosa, tipal un recurso o loca importante a la ecolojia o cultur) contra dana o peri o destrui","da":"holde, vedligeholde, beskytte","de":"konservieren","en":"conserve, preserve, store, enshrine","he":"לשמר"}
+{"T":"r","L":"conserva","C":["vt","bio","cos"],"d":"manteni (un cosa) en sua state esistente o orijinal; proteje (un cosa, tipal un recurso o loca importante a la ecolojia o cultur) contra dana o peri o destrui","da":"holde, vedligeholde, beskytte","de":"konservieren","en":"conserve, preserve, store, enshrine","es":"preservar, mantener, conservar","he":"לשמר"}
 {"L":"conserva","C":["n"],"en":"conservation, preservation","he":"שימור"}
 {"L":"autoconserva","C":["n"],"en":"self-preservation"}
 {"L":"conserva de fruta","C":["n"],"en":"preserve (marmalade)","he":"שימורי פירות"}
@@ -6095,7 +6097,7 @@
 {"L":"nonconsolable","C":["a"],"en":"inconsolable","he":"שלא ניתן לנחם אותו"}
 {"T":"r","L":"consolida","C":["n","pla"],"d":"un planta anial en familia de ranunculo, con spigas de flores con sperones","i":"#","t":"Consolida","en":"larkspur (plant)","eo":"konsolido","he":"דורבנית (צמח)"}
 {"T":"r","L":"consonante","C":["a","ling"],"d":"(un sona de parla) en cual la respira es partal o intera impedida, e cual pote combina con un vocal per formi un silaba; (notas musical) produinte un acorda o interval armoniosa","en":"consonant (language, music)","he":"עיצורי; (מוזיקה) נמזג, מזיגי"}
-{"L":"consonante","C":["n"],"da":"konsonant","de":"Mitlaut","en":"consonant","he":"עיצור"}
+{"L":"consonante","C":["n"],"da":"konsonant","de":"Mitlaut","en":"consonant","es":"consonante","he":"עיצור"}
 {"L":"consonante con vose","C":["a"],"en":"voiced consonant","he":"עיצור קולי"}
 {"L":"consonante sin vose","C":["a"],"en":"voiceless consonant","he":"עיצור אטום"}
 {"T":"r","L":"conspira","C":["vnt","gov"],"d":"prepara un scema secreta per fa un ata nonlegal o ferinte","en":"conspire, plot, scheme, collude, connive","he":"לזמום, לקשור, לחתור, לתחבל"}
@@ -6112,7 +6114,7 @@
 {"L":"constipa","C":["n"],"en":"constipation","he":"עצירות"}
 {"L":"constipada","C":["a"],"en":"constipated","he":"סובל מעצירות"}
 {"T":"r","L":"constitui","C":["vt","gov"],"d":"crea (un instituida) par un documento legal","en":"constitute, establish","he":"לכונן, לייסד, להקים (בעזרת מסמך מייסד)"}
-{"L":"constitui","C":["n"],"da":"forfatning","de":"Verfassung","en":"constitution, charter (organization|is)","he":"חוקה, אמנה"}
+{"L":"constitui","C":["n"],"da":"forfatning","de":"Verfassung","en":"constitution, charter (organization|is)","es":"constitución, estatutos, carta constitutiva, código, título, carta de privilegio","he":"חוקה, אמנה"}
 {"L":"constitual","C":["a"],"en":"constitutional","he":"חוקתי"}
 {"L":"nonconstitual","C":["a"],"en":"unconstitutional","he":"שמנוגד לחוקה"}
 {"L":"reconstitui","C":["vt"],"en":"reconstitute","he":"להקים מחדש"}
@@ -6123,11 +6125,11 @@
 {"L":"constrinjente","C":["a"],"en":"constraining, constricting","he":"מגביל, מצר, מרסן, מדכא; מאלץ"}
 {"L":"constrinjente","C":["n"],"en":"obstruent (consonant)","he":"(עיצור) סותם, פוצץ"}
 {"L":"constrinjente de pompas de protones","C":["n","med"],"d":"un medisin cual redui la produi de asida gastral","en":"proton-pump inhibitor","he":"מעכב משאבות פרוטונים (תרופה)"}
-{"T":"r","L":"construi","C":["vt","arci"],"d":"crea (un cosa fisical, como un casa, via o macina) par combina sua partes; formi (un idea o teoria) par asembla elementos consetal diversa; formi (un frase) seguente la regulas gramatical","da":"bygge, konstruere","de":"bauen","en":"build, construct","he":"לבנות"}
+{"T":"r","L":"construi","C":["vt","arci"],"d":"crea (un cosa fisical, como un casa, via o macina) par combina sua partes; formi (un idea o teoria) par asembla elementos consetal diversa; formi (un frase) seguente la regulas gramatical","da":"bygge, konstruere","de":"bauen","en":"build, construct","es":"construir, fabricar, edificar, erigir","he":"לבנות"}
 {"L":"construi","C":["n"],"en":"construction; construct (psychology)","he":"בנייה"}
 {"L":"construi de petra","C":["n"],"en":"stonework, masonry","he":"בנייה באבן"}
 {"L":"construeria","C":["n"],"en":"building site, construction site","he":"אתר בנייה"}
-{"L":"construida","C":["n"],"da":"bygning","de":"Gebäude","en":"building, edifice","he":"מבנה, בניין"}
+{"L":"construida","C":["n"],"da":"bygning","de":"Gebäude","en":"building, edifice","es":"construcción, edificio","he":"מבנה, בניין"}
 {"L":"construinte","C":["a"],"en":"building, constructing, constructive","he":"בונה"}
 {"L":"construor","C":["n"],"en":"builder, constructor","he":"בנאי"}
 {"L":"desconstrui","C":["vt"],"d":"destrui (un construida) no plu nesesada; analise (un testo o teoria) par esposa la suposas e prejudis ascondeda","en":"demolish, knock down (building, wall); deconstruct (philosophy)","he":"להרוס, למוטט (מבנה)"}
@@ -6143,7 +6145,7 @@
 {"L":"consuleria","C":["n"],"en":"consulate","he":"קונסוליה"}
 {"T":"r","L":"consulta","C":["vt","gov"],"d":"xerca informa o consela de (un esperta o libro); discute con (algun) ante ata","en":"consult","he":"להתייעץ, להיוועץ"}
 {"L":"consulta","C":["n"],"en":"consultation","he":"ייעוץ, התייעצות"}
-{"T":"r","L":"consuma","C":["vt","cos","mone"],"d":"come o bevi (un comeda o bevida); compra (un ben o servi); usa completa (un recurso); asorbe tota la atende e enerjia de (algun)","da":"forbruge, bruge","de":"verbrauchen","en":"consume, deplete, expend, exhaust, use up, spend, ingest","he":"לצרוך, לכלות, למצות"}
+{"T":"r","L":"consuma","C":["vt","cos","mone"],"d":"come o bevi (un comeda o bevida); compra (un ben o servi); usa completa (un recurso); asorbe tota la atende e enerjia de (algun)","da":"forbruge, bruge","de":"verbrauchen","en":"consume, deplete, expend, exhaust, use up, spend, ingest","es":"consumir, gastar, agotar, vaciar, usar por completo, acabar con","he":"לצרוך, לכלות, למצות"}
 {"L":"consuma","C":["n"],"en":"consumption, depletion; footprint (software)","he":"צריכה, מיצוי"}
 {"L":"consumante","C":["a"],"en":"consuming","he":"צורך, מכלה"}
 {"L":"consumante de tempo","C":["a"],"en":"time-consuming","he":"שצורך זמן"}
@@ -6152,8 +6154,8 @@
 {"L":"consumiste","C":["n"],"en":"materialist, consumerist","he":"חומרני, מטריאליסטי"}
 {"L":"consumor","C":["n"],"en":"consumer","he":"צרכן"}
 {"L":"nonconsumable","C":["a"],"en":"inexhaustible","he":"בלתי נדלה"}
-{"T":"r","L":"conta","C":["vt"],"d":"determina la cuantia de (un colie de cosas) par dise numeros en serie","da":"tælle, nummerere","de":"zählen","en":"count, enumerate","he":"לספור, למנות"}
-{"L":"conta","C":["n"],"d":"un ata de conta; un cuantia contada; un arcivo o rejistra de resetas o spendes per un periodo spesifada; un acorda par cual un instituida teni mone per un cliente, o furni benes o servis a la cliente par credito; un sistem par cual un usor individua asede un computador o loca de rede, tipal con parola secreta","da":"konto, regning, faktura","de":"Konto, Rechnung","en":"count (action, amount), quantity, tally; account (bank, online, etc.)","he":"ספירה, מנייה; כמות, סכום, סיכום; חשבון"}
+{"T":"r","L":"conta","C":["vt"],"d":"determina la cuantia de (un colie de cosas) par dise numeros en serie","da":"tælle, nummerere","de":"zählen","en":"count, enumerate","es":"contar, enumerar","he":"לספור, למנות"}
+{"L":"conta","C":["n"],"d":"un ata de conta; un cuantia contada; un arcivo o rejistra de resetas o spendes per un periodo spesifada; un acorda par cual un instituida teni mone per un cliente, o furni benes o servis a la cliente par credito; un sistem par cual un usor individua asede un computador o loca de rede, tipal con parola secreta","da":"konto, regning, faktura","de":"Konto, Rechnung","en":"count (action, amount), quantity, tally; account (bank, online, etc.)","es":"cuenta, cálculo, total, acumulado (registro de dinero recibido/pagado/debido), factura, nota, importe (estado de cuenta de dinero debido)","he":"ספירה, מנייה; כמות, סכום, סיכום; חשבון"}
 {"L":"conta de abitores","C":["n"],"en":"census","he":"מפקד אוכלוסין"}
 {"L":"conta desendente","C":["v"],"en":"count down","he":"לספור לאחור"}
 {"L":"conta desendente","C":["n"],"en":"countdown","he":"ספירה לאחור"}
@@ -6173,7 +6175,7 @@
 {"L":"ultra conta","C":["a"],"en":"beyond count, countless, innumerable","he":"לא ספיר, עצום, (מספר) אסטרונומי"}
 {"T":"r","L":"contagota","C":["n","vn","med"],"d":"un tubo corta de vitro, con un bulbo de cauxo a un fini e un buco pico a la otra, usada per mesura gotas de medisin o otra licuidas","en":"eyedropper","he":"טפטפת (לעיניים)"}
 {"T":"r","L":"contajira","C":["n","vn","util"],"d":"un strumento cual mesura la rapidia de un motor, tipal como un cuantia de jiras per minuto","en":"tachometer","he":"טכומטר"}
-{"T":"r","L":"contamina","C":["vt","med"],"d":"fa ce (un person, cosa, loca, etc) deveni nonpur o susia par esposa lo a un materia venenosa o nosiva","da":"forurene","de":"beschmutzen","en":"contaminate, pollute","he":"לזהם; להדביק"}
+{"T":"r","L":"contamina","C":["vt","med"],"d":"fa ce (un person, cosa, loca, etc) deveni nonpur o susia par esposa lo a un materia venenosa o nosiva","da":"forurene","de":"beschmutzen","en":"contaminate, pollute","es":"contaminar(se), ensuciar(se), viciar","he":"לזהם; להדביק"}
 {"L":"contamina","C":["n"],"en":"contamination, pollution","he":"זיהום; הידבקות"}
 {"L":"contaminada","C":["a"],"en":"contaminated, polluted","he":"מזוהם; נגוע"}
 {"L":"contaminante","C":["n"],"en":"contaminant, pollutant","he":"(חומר) מזהם"}
@@ -6194,8 +6196,8 @@
 {"L":"contemplante","C":["a"],"en":"contemplating, contemplative","he":"מהורהר; הגותי"}
 {"T":"r","L":"contempora","C":["a"],"d":"aveninte o vivente a la mesma tempo; moderna","en":"contemporary","he":"בן-זמננו, עכשווי, מודרני"}
 {"L":"contempora","C":["n"],"en":"contemporary","he":"בן-גילו, בן-זמנו"}
-{"T":"r","L":"conteni","C":["vt","util"],"d":"ave o teni (un person o cosa) en se","da":"indeholde","de":"enthalten","en":"contain","he":"להכיל"}
-{"L":"contenador","C":["n"],"da":"beholder","de":"Behälter","en":"container, holder, receptacle, caddy","he":"מכל, מיכל, כלי קיבול"}
+{"T":"r","L":"conteni","C":["vt","util"],"d":"ave o teni (un person o cosa) en se","da":"indeholde","de":"enthalten","en":"contain","es":"contener, reprimir, refrenar, encerrar","he":"להכיל"}
+{"L":"contenador","C":["n"],"da":"beholder","de":"Behälter","en":"container, holder, receptacle, caddy","es":"envase, caja, recipiente","he":"מכל, מיכל, כלי קיבול"}
 {"L":"contenador secinte","C":["n"],"en":"desiccator","he":"דסיקטור, מתקן ייבוש"}
 {"L":"contenida","C":["n"],"en":"content","he":"תוכן"}
 {"L":"contenidas","C":["n","pl"],"en":"contents","he":"תכולה"}
@@ -6213,7 +6215,7 @@
 {"L":"intercontinental","C":["a","tera"],"en":"intercontinental","he":"בין-יבשתי"}
 {"L":"sucontinente","C":["n"],"en":"subcontinent","he":"תת-יבשת"}
 {"L":"transcontinental","C":["a"],"en":"transcontinental","he":"טרנסקונטיננטלי, עבר-יבשתי, חוצה-יבשת"}
-{"T":"r","L":"continua","C":["vnt"],"d":"(un ativia o prosede) no sesa o pausa; resta esistente o funsionante, o en un loca o state spesifada; no sesa viaja en la mesma dirije; estende plu en la mesma dirije","u":"la labora continua","da":"fortsætte, vedblive","de":"fortfahren (mit, zu)","en":"continue","he":"להמשיך"}
+{"T":"r","L":"continua","C":["vnt"],"d":"(un ativia o prosede) no sesa o pausa; resta esistente o funsionante, o en un loca o state spesifada; no sesa viaja en la mesma dirije; estende plu en la mesma dirije","u":"la labora continua","da":"fortsætte, vedblive","de":"fortfahren (mit, zu)","en":"continue","es":"continuar, seguir haciendo, seguir siendo","he":"להמשיך"}
 {"L":"continua","C":["vt"],"u":"el continua labora; el continua la labora","en":"continue, perpetuate, carry on (doing), keep (doing), still be (doing)","he":"להמשיך"}
 {"L":"continua","C":["n"],"en":"continuity, continuum, continuation","he":"המשכיות, רצף"}
 {"L":"continuante","C":["a"],"en":"continuing, continuous, continual, contiguous","he":"מתמשך, המשכי, רצוף, רציף"}
@@ -6228,7 +6230,7 @@
 {"L":"contorse","C":["n"],"en":"contortion, distortion","he":"עיוות; סילוף"}
 {"L":"contorseda","C":["a"],"en":"distorted, warped, crooked","he":"מעוות; מסולף"}
 {"L":"contorsor","C":["n"],"i":"#","en":"contortionist","he":"נער/ת גומי"}
-{"T":"r","L":"contra","C":["prep"],"d":"oposante (un enemi fisical o metafor); contrastada con","g":"preposadas#contra","u":"batalia contra un enemi; tu ata contra mea desiras; secur contra acua","da":"imod","de":"gegen","en":"against, versus, opposing, opposed to (something undesirable)","eo":"kontraŭ","he":"נגד"}
+{"T":"r","L":"contra","C":["prep"],"d":"oposante (un enemi fisical o metafor); contrastada con","g":"preposadas#contra","u":"batalia contra un enemi; tu ata contra mea desiras; secur contra acua","da":"imod","de":"gegen","en":"against, versus, opposing, opposed to (something undesirable)","eo":"kontraŭ","es":"contra, frente a, en contraste con, en contra de","he":"נגד"}
 {"T":"s","d":"suportada par o colpante (un surfas vertical)","u":"la scala sta contra la mur; la bisicliste ia cade contra la serca","en":"against (a vertical surface)","eo":"kontraŭ","he":"כנגד"}
 {"L":"contra-","C":["pf","tecn"],"d":"contra","en":"contra-","he":"(קידומת טכנית) נגד"}
 {"L":"contra ce","C":["sj"],"en":"although, while (contrast), whilst, whereas, despite the fact that","he":"למרות ש, אף-על-פי ש"}
@@ -6285,7 +6287,7 @@
 {"L":"par contrasta","C":["av"],"en":"by contrast, however, nevertheless, nonetheless","he":"לעומת זאת, כנגד זה, בניגוד לכך"}
 {"T":"r","L":"contrata","C":["vnt","gov"],"d":"acorda en modo formal e legal obligante","en":"(enter into) contract","he":"לחתום על חוזה"}
 {"L":"contrata","C":["vt"],"en":"contract (someone to do something)","he":"להחתים על חוזה"}
-{"L":"contrata","C":["n"],"da":"kontrakt, aftale","de":"Vertrag","en":"contract, legal document; covenant","he":"חוזה"}
+{"L":"contrata","C":["n"],"da":"kontrakt, aftale","de":"Vertrag","en":"contract, legal document; covenant","es":"contrato (documento de común acuerdo)","he":"חוזה"}
 {"L":"contrata de asecura","C":["n"],"en":"insurance policy","he":"פוליסת ביטוח"}
 {"L":"contrata de lua","C":["n"],"en":"lease","he":"חוזה שכירות"}
 {"L":"contrata de paia","C":["n"],"en":"payment schedule","he":"הסדר תשלומים"}
@@ -6304,7 +6306,7 @@
 {"T":"r","L":"contribui","C":["vt","mone"],"d":"dona (alga cosa, tipal mone) per aida ateni o furni alga cosa","en":"contribute","he":"לתרום"}
 {"L":"contribui","C":["n"],"en":"contribution; allowance, stipend","he":"תרומה; קצבה, הקצבה"}
 {"L":"contribuor","C":["n"],"en":"contributor; taxpayer","he":"תורם"}
-{"T":"r","L":"controla","C":["vt"],"d":"limita la nivel, intensia o cuantia de; maneja o supravide la condui o funsiona de; manteni influe o autoria supra","da":"kontrollere","de":"regeln, beherrschen","en":"control","he":"לשלוט; לרסן"}
+{"T":"r","L":"controla","C":["vt"],"d":"limita la nivel, intensia o cuantia de; maneja o supravide la condui o funsiona de; manteni influe o autoria supra","da":"kontrollere","de":"regeln, beherrschen","en":"control","es":"controlar, supervisar, mandar, dirigir, frenar, regular, restringir, gobernar, contener, reprimir","he":"לשלוט; לרסן"}
 {"L":"controla","C":["n"],"en":"control, thrall","he":"שליטה; ריסון"}
 {"L":"controla de trafica airal","C":["n"],"en":"air traffic control","he":"פיקוח טיסה"}
 {"L":"controlable","C":["a"],"en":"controllable","he":"בר-שליטה"}
@@ -6328,7 +6330,7 @@
 {"L":"contusa serebral","C":["n"],"en":"concussion","he":"זעזוע מוח"}
 {"T":"r","L":"conveni","C":["vnt"],"d":"es asetable per un person, situa o intende spesifada; (un aparato) funsiona armoniosa con un otra","en":"suit, be suitable, be appropriate; be compatible","he":"להתאים, להלום"}
 {"L":"conveni","C":["n"],"en":"suitability, appropriateness; compatibility","he":"התאמה, תאימות, הלימה"}
-{"L":"conveninte","C":["a"],"da":"passende","de":"geeignet","en":"suitable, suited, proper, fit, appropriate, commensurate, expedient; compatible","he":"מתאים, תואם, הולם; ראוי, נאות, יאה"}
+{"L":"conveninte","C":["a"],"da":"passende","de":"geeignet","en":"suitable, suited, proper, fit, appropriate, commensurate, expedient; compatible","es":"conveniente, adecuado, apropiado, a la medida, debido, a propósito, justo, correcto","he":"מתאים, תואם, הולם; ראוי, נאות, יאה"}
 {"L":"conveninte","C":["av"],"en":"suitably, appropriately, duly","he":"בצורה הולמת, בצורה נאותה, כראוי, כהלכה, כשורה, כיאה"}
 {"L":"conveninte per primi","C":["a"],"en":"suitable for printing, printer-friendly","he":"גרסה להדפסה"}
 {"L":"nonconveni","C":["n"],"en":"unsuitability; incompatibility","he":"אי-התאמה, אי-תאימות"}
@@ -6368,7 +6370,7 @@
 {"L":"anticonvulsante","C":["n","med"],"d":"un medisin per preveni o redui convulsas","en":"anticonvulsant","he":"(סם) מונע פרכוסים"}
 {"L":"convulsante","C":["a"],"en":"convulsive, jerky","he":"עוויתי; מטלטל"}
 {"T":"r","L":"Cook, Isolas","C":["n","pl","jeo"],"c":"Avarua","d":"un grupo de 15 isolas en la Mar Pasifica, forminte un teritorio autonom en asosia libre con Zeland Nova","i":"isolas-cook","en":"Cook Islands","he":"איי קוק"}
-{"T":"r","L":"coopera","C":["vnt"],"d":"(persones o organizas) ata o labora en junta, en dirije a la mesma gol","da":"samarbejde","en":"cooperate, liaise","he":"לשתף פעולה"}
+{"T":"r","L":"coopera","C":["vnt"],"d":"(persones o organizas) ata o labora en junta, en dirije a la mesma gol","da":"samarbejde","en":"cooperate, liaise","es":"cooperar, colaborar","he":"לשתף פעולה"}
 {"L":"coopera","C":["n"],"en":"cooperation, teamwork","he":"שיתוף פעולה, עבודת צוות"}
 {"L":"cooperante","C":["a"],"en":"cooperating, cooperative","he":"משתף פעולה"}
 {"T":"r","L":"coordina","C":["vt"],"d":"maneja la elementos diversa de (un cosa complicada) per crea un armonia produosa entre los; (un conjunta) junta parolas, espresas o frases cual ave la mesma importa como lunlotra","en":"coordinate","he":"לתאם"}
@@ -6386,7 +6388,7 @@
 {"T":"r","L":"copec","C":["n","mone"],"d":"un unia de mone de Rusia e alga otra nasiones de la Uni Soviet pasada, egal a un senti de un rublo","en":"kopek (currency)","he":"קופייקה (מטבע)"}
 {"T":"r","L":"copernisio","C":["n","cim"],"d":"la elemento cimical con numero atomal 112","s":"Cn","en":"copernicium (element)","he":"קופרניקיום (יסוד)"}
 {"T":"r","L":"copia","C":["vt"],"d":"crea o fabrica un varia la mesma como, o simil a, (un orijinal)","en":"copy, replicate, transfer","he":"להעתיק, לשכפל, לשעתק"}
-{"L":"copia","C":["n"],"da":"kopi","de":"Nachbildung, Duplikat","en":"copy, replica","he":"העתקה, שכפול, שעתוק; עותק, העתק"}
+{"L":"copia","C":["n"],"da":"kopi","de":"Nachbildung, Duplikat","en":"copy, replica","es":"copia","he":"העתקה, שכפול, שעתוק; עותק, העתק"}
 {"L":"copia de securia","C":["n"],"en":"backup copy","he":"גיבוי"}
 {"L":"copia e coli","C":["v"],"en":"copy and paste, cut and paste","he":"להעתיק ולהדביק"}
 {"L":"copia e coli","C":["n"],"en":"copy and paste, cut and paste","he":"העתק הדבק"}
@@ -6402,13 +6404,13 @@
 {"T":"r","L":"coprolito","C":["n"],"d":"un fece petrida","en":"coprolith, coprolite","he":"צואה מאובנת"}
 {"T":"r","L":"copta","C":["a","rel","dem"],"d":"pertinente a un seta de cristianisme en Misre, a sua membros, o a sua lingua, la sola desendente de egiptian antica","en":"Coptic (Christianity)","es":"copto","he":"קופטי"}
 {"L":"copta","C":["n"],"en":"Copt","es":"copto","he":"קופטי"}
-{"T":"r","L":"copula","C":["vnt","bio"],"d":"(du persones) contata sesal, incluinte la penetra de la vajina par la penis; (du animales mas e fema) contata sesal en modo simil","da":"parre sig, elske","de":"sich paaren","en":"copulate, mate, have sex","he":"להזדווג, להתעלס, לקיים יחסי-מין, לתנות אהבים"}
+{"T":"r","L":"copula","C":["vnt","bio"],"d":"(du persones) contata sesal, incluinte la penetra de la vajina par la penis; (du animales mas e fema) contata sesal en modo simil","da":"parre sig, elske","de":"sich paaren","en":"copulate, mate, have sex","es":"copular, tener sexo","he":"להזדווג, להתעלס, לקיים יחסי-מין, לתנות אהבים"}
 {"L":"copula","C":["n"],"en":"copulation, coitus, mating, lovemaking, sex","he":"הזדווגות, התעלסות, קיום יחסי-מין, תינוי אהבים"}
 {"L":"poscopulal","C":["a"],"en":"postcoital","he":"שלאחר הסקס"}
 {"L":"precopula","C":["vnt"],"en":"foreplay","he":"להתמזמז"}
 {"L":"precopula","C":["n"],"en":"foreplay","he":"משחק מקדים, מזמוז"}
 {"L":"precopulal","C":["a"],"en":"precoital","he":"שלפני הסקס"}
-{"T":"r","L":"cor","C":["n","anat"],"d":"la organo cual pompi sangue tra la sistem de sirculo; la parte sentral o la plu interna de alga cosa; la parte esensal de alga cosa; la parte interna de un noza o seme, plu mol e tipal comable; un de la cuatro familias de cartas de jua, representada par un imaje tradisional de un cor","i":"#","s":"♥","da":"hjerte","de":"Herz","en":"heart (including cards), core, kernel; crux","he":"לב; ליבה"}
+{"T":"r","L":"cor","C":["n","anat"],"d":"la organo cual pompi sangue tra la sistem de sirculo; la parte sentral o la plu interna de alga cosa; la parte esensal de alga cosa; la parte interna de un noza o seme, plu mol e tipal comable; un de la cuatro familias de cartas de jua, representada par un imaje tradisional de un cor","i":"#","s":"♥","da":"hjerte","de":"Herz","en":"heart (including cards), core, kernel; crux","es":"corazón","he":"לב; ליבה"}
 {"L":"cor de pais","C":["n"],"en":"heartland","he":"ארץ ליבה"}
 {"L":"corin","C":["a"],"en":"heartlike, heart-shaped, cordate","he":"דמוי לב"}
 {"L":"descorador","C":["n"],"en":"decorer, corer","he":"מוציא ליבה (של פירות או ירקות)"}
@@ -6416,7 +6418,7 @@
 {"L":"sin cor","C":["a"],"en":"heartless","he":"חסר לב"}
 {"T":"r","L":"coraco-","C":["pf","tecn","anat","med"],"d":"oncin, con forma de beco de corvo","en":"coraco-, hook-like","he":"(קידומת טכנית) דמוי קרס"}
 {"T":"r","L":"coracoide","C":["n","anat"],"d":"un parte de la spala de multe vertebratos (estra la plu de mamales)","en":"coracoid","he":"(אנטומיה) קורקואיד"}
-{"T":"r","L":"coraje","C":["n","uma"],"d":"la capasia de fa alga cosa cual on teme; fortia cuando on sufri dole o lamenta","da":"mod","de":"Mut","en":"courage, bravery, valor|ur, nerve","he":"אומץ, גבורה, נועזות"}
+{"T":"r","L":"coraje","C":["n","uma"],"d":"la capasia de fa alga cosa cual on teme; fortia cuando on sufri dole o lamenta","da":"mod","de":"Mut","en":"courage, bravery, valor|ur, nerve","es":"valor, coraje, bravura, ánimo","he":"אומץ, גבורה, נועזות"}
 {"L":"corajosa","C":["a"],"en":"brave, courageous, valorous, valiant, bold, plucky, feisty, gutsy, stout-hearted","he":"אמיץ, נועז"}
 {"L":"noncorajosa","C":["a"],"en":"faint-hearted, timid","he":"רך לבב, פחדני, חלש אופי"}
 {"L":"sin coraje","C":["a"],"en":"cowardly, gutless, spineless","he":"פחדני, חסר עמוד-שדרה"}
@@ -6432,7 +6434,7 @@
 {"L":"corasida","C":["n"],"i":"#","en":"battleship, dreadnought (warship)","he":"ספינת קרב, אונית מערכה"}
 {"T":"r","L":"Corcovado","C":["n","jeo"],"en":"Corcovado","he":"קורקובדו"}
 {"L":"Golfo Corcovado","C":["n","jeo"],"d":"un golfo a ueste de Los Lagos, Txile","i":"#","en":"Corcovado Gulf","he":"מפרץ קורקובדו"}
-{"T":"r","L":"corda","C":["n","util"],"d":"un peso longa de un materia fabricada par torse colies de fibres; (en matematica) un linia reta cual lia du finis de un arco","da":"kabel, reb, snor","de":"Seil, Sehne","en":"cord, rope, lanyard; chord (geometry)","he":"חבל, מיתר, כבל"}
+{"T":"r","L":"corda","C":["n","util"],"d":"un peso longa de un materia fabricada par torse colies de fibres; (en matematica) un linia reta cual lia du finis de un arco","da":"kabel, reb, snor","de":"Seil, Sehne","en":"cord, rope, lanyard; chord (geometry)","es":"cuerda, cordón, cordel, cable, amarra, soga, reata, lazo, cinta, fibra","he":"חבל, מיתר, כבל"}
 {"L":"corda de abri","C":["n"],"en":"ripcord","he":"חבל התרה"}
 {"L":"corda de campana","C":["n"],"en":"bell pull, bell rope","he":"חוט צלצול"}
 {"L":"corda de salva","C":["n"],"en":"lifeline","he":"חבל הצלה"}
@@ -6450,7 +6452,7 @@
 {"L":"sin corda","C":["a"],"en":"cordless","he":"אלחוטי"}
 {"T":"r","L":"cordato","C":["n","bio"],"d":"un membro de un filo de animales cual ave un notocorda, ranures farinjal, un endostilo, e un coda posanal a la min per parte de sua sicle de vive","t":"Chordata","en":"chordate (organism)","he":"(ביולוגיה) מיתרני"}
 {"T":"r","L":"cordita","C":["n","util"],"d":"un esplodente nonfuminte, usada en muni","en":"cordite","he":"קורדיט (אבק שריפה)"}
-{"T":"r","L":"core","C":["vnt"],"d":"move rapida par usa sua pedes; (un licuida, gas o eletrica) flue","i":"#","da":"løbe","de":"laufen","en":"run, flow","he":"לרוץ"}
+{"T":"r","L":"core","C":["vnt"],"d":"move rapida par usa sua pedes; (un licuida, gas o eletrica) flue","i":"#","da":"løbe","de":"laufen","en":"run, flow","es":"correr, andar, marchar, funcionar, fluir, chorrear, dirigir, manejar, extenderse","he":"לרוץ"}
 {"L":"core","C":["n"],"en":"run (including cricket), running","he":"ריצה"}
 {"L":"core de distantia longa","C":["v"],"en":"run long-distance","he":"לרוץ למרחקים ארוכים"}
 {"L":"core de distantia longa","C":["n"],"en":"long-distance running, endurance running","he":"ריצה למרחקים ארוכים"}
@@ -6501,7 +6503,7 @@
 {"L":"corespondente","C":["n"],"en":"correspondent (letter writer, reporter); counterpart, equivalent, answer (to)","he":"מתאים, תואם, מקביל; כתב"}
 {"L":"noncoresponde","C":["vnt"],"en":"mismatch","he":"לא להתאים"}
 {"L":"noncoresponde","C":["n"],"en":"mismatch","he":"אי-התאמה, אי-תיאום"}
-{"T":"r","L":"coreta","C":["a"],"d":"no erante; acordante con fatos o veria; conformante a la normas sosial","da":"rigtig, korrekt","de":"richtig","en":"correct, right; appropriate, proper, impeccable","he":"נכון; תקין"}
+{"T":"r","L":"coreta","C":["a"],"d":"no erante; acordante con fatos o veria; conformante a la normas sosial","da":"rigtig, korrekt","de":"richtig","en":"correct, right; appropriate, proper, impeccable","es":"correcto, apropiado, adecuado, recto, justo, derecho","he":"נכון; תקין"}
 {"L":"autocoreti","C":["vnt"],"en":"self-correct","he":"לתקן את עצמו (משגיאה)"}
 {"L":"autocoretinte","C":["a"],"en":"self-correcting","he":"מתקן את עצמו (משגיאה)"}
 {"L":"coretable","C":["a"],"en":"correctable, corrigible","he":"בר-תקנה"}
@@ -6534,7 +6536,7 @@
 {"T":"r","L":"cornisa","C":["n","arci"],"d":"un surfas magra e orizonal protendente de un mur, falesa o otra surfas; un surfas simil a basa de un fenetra o porte; la parte la plu alta de un entablamento","en":"ledge, sill, cornice","he":"אדן; קרניז, כרכוב"}
 {"L":"cornisa de fenetra","C":["n"],"en":"windowsill","he":"אדן החלון"}
 {"L":"cornisa de foco","C":["n"],"en":"hob (surface beside a fire)","he":"משטח חם של תנור או אח"}
-{"T":"r","L":"corno","C":["n","bio"],"d":"un crese dur trovada en duples, curva e puntida, sur la testas de boves, oveas, capras, jirafas etc; un crese dur e ramida, trovada sur la testas de servos; un strumento musical, cono o spiral, juada par vibra la labios","i":"#","da":"horn","de":"Horn","en":"horn (animal, music), antler","he":"קרן (של בעל-חיים); שופר"}
+{"T":"r","L":"corno","C":["n","bio"],"d":"un crese dur trovada en duples, curva e puntida, sur la testas de boves, oveas, capras, jirafas etc; un crese dur e ramida, trovada sur la testas de servos; un strumento musical, cono o spiral, juada par vibra la labios","i":"#","da":"horn","de":"Horn","en":"horn (animal, music), antler","es":"cuerno","he":"קרן (של בעל-חיים); שופר"}
 {"L":"corno alpan","C":["n"],"d":"un strumento de venta de lenio, multe longa e sin valvas, usada per siniali en la Alpes","i":"#","en":"Alphorn, Alpenhorn","he":"קרן אלפים"}
 {"L":"corno de abunda","C":["n"],"i":"#","en":"cornucopia, horn of plenty","he":"קרן השפע"}
 {"L":"corno de servo","C":["n"],"i":"#","en":"antler","he":"קרן אייל"}
@@ -6559,7 +6561,7 @@
 {"L":"coronin","C":["a"],"en":"crownlike, crown-shaped","he":"כתרי, דמוי-כתר"}
 {"L":"descoroni","C":["vt"],"en":"uncrown","he":"להדיח מלך/מלכה"}
 {"T":"r","L":"coronel","C":["n","gov"],"d":"un ofisior militar de grado alta, supra un teninte e su un jeneral","en":"colonel","he":"קולונל"}
-{"T":"r","L":"corpo","C":["n","anat"],"d":"la strutur fisical de un person o animal, incluinte la osos, carne e organos; la casco de un veculo; la sudivide major de un forte militar ativa; un colie de testos, spesial la obras completa de un autor spesifada o sur un sujeto spesifada","da":"krop, legeme","de":"Körper","en":"body (person, animal, vehicle); corps (military); corpus (texts)","he":"גוף; גיס, חיל; קורפוס"}
+{"T":"r","L":"corpo","C":["n","anat"],"d":"la strutur fisical de un person o animal, incluinte la osos, carne e organos; la casco de un veculo; la sudivide major de un forte militar ativa; un colie de testos, spesial la obras completa de un autor spesifada o sur un sujeto spesifada","da":"krop, legeme","de":"Körper","en":"body (person, animal, vehicle); corps (military); corpus (texts)","es":"cuerpo","he":"גוף; גיס, חיל; קורפוס"}
 {"L":"corpo de comunica","C":["n"],"en":"signals corps","he":"חיל הקשר"}
 {"L":"corpo mamelin","C":["n"],"en":"mammillary body","he":"(אנטומיה) גוף דדי"}
 {"L":"corpo mor","C":["n"],"en":"dead body, corpse, cadaver, carcass","he":"גופה, גוויה; נבלה, פגר"}
@@ -6593,11 +6595,11 @@
 {"L":"corsu","C":["n","dem"],"en":"Corsican (person, language)","he":"קורסיקאי, קורסיקאית (שפה)"}
 {"T":"r","L":"corseto","C":["n","vest"],"d":"un veste streta cual suporta la dorso o magri la taie","i":"#","en":"corset, girdle, bodice","he":"מחוך"}
 {"L":"corsetor","C":["n"],"en":"corsetiere","he":"יצרן מחוכים"}
-{"T":"r","L":"corta","C":["a"],"d":"(un person, cosa o tempo) no longa, con poca distantia de un fini a la otra","da":"kort, kortfattet","de":"kurz","en":"short, brief, stubby","he":"קצר"}
+{"T":"r","L":"corta","C":["a"],"d":"(un person, cosa o tempo) no longa, con poca distantia de un fini a la otra","da":"kort, kortfattet","de":"kurz","en":"short, brief, stubby","es":"corto, breve, escaso, conciso","he":"קצר"}
 {"L":"corta pos","C":["prep"],"en":"shortly after","he":"זמן קצר לאחר-מכן"}
 {"L":"cortador","C":["n"],"i":"#","en":"clippers (electric)","he":"מכונת תספורת"}
 {"L":"corti","C":["vnt"],"en":"shorten","he":"להתקצר"}
-{"L":"corti","C":["vt"],"da":"forkorte","de":"verkürzen","en":"shorten, cut short, trim, prune, crop, lop, abbreviate, abridge, curtail","he":"לקצר, לקצוץ, לגזום, לכסח"}
+{"L":"corti","C":["vt"],"da":"forkorte","de":"verkürzen","en":"shorten, cut short, trim, prune, crop, lop, abbreviate, abridge, curtail","es":"cortar, tajar, truncar, recortar, segar","he":"לקצר, לקצוץ, לגזום, לכסח"}
 {"L":"corti","C":["n"],"en":"trim, abbreviation (action, result)","he":"התקצרות, קיצור, קיצוץ, גיזום"}
 {"L":"corti de capeles","C":["n"],"en":"haircut","he":"תספורת"}
 {"L":"corti de perspetiva","C":["n"],"en":"foreshortening","he":"קיצור פרספקטיבה"}
@@ -6606,7 +6608,7 @@
 {"L":"cortia","C":["n"],"en":"brevity","he":"קיצור, תמציתיות"}
 {"L":"cortor","C":["n"],"en":"cutter, mower (person)","he":"(אדם) חותך, קוצץ, גוזם, מכסח"}
 {"L":"pos corta","C":["av"],"en":"soon, shortly","he":"בקרוב, במהרה, עוד מעט, לאחר זמן קצר"}
-{"T":"r","L":"corte","C":["n","gov"],"d":"un asembla governada par un o plu judores per gida litigas; la construida o salon per esta; un renor e sua consiliores e otra persones; la abiteria de un renor","da":"domstol, ret","de":"Gericht","en":"court (law, royal); courthouse, courtroom","he":"בית משפט, בית דין; חצר (המלך)"}
+{"T":"r","L":"corte","C":["n","gov"],"d":"un asembla governada par un o plu judores per gida litigas; la construida o salon per esta; un renor e sua consiliores e otra persones; la abiteria de un renor","da":"domstol, ret","de":"Gericht","en":"court (law, royal); courthouse, courtroom","es":"corte, juzgado, tribunal de justicia","he":"בית משפט, בית דין; חצר (המלך)"}
 {"L":"corte de apela","C":["n"],"en":"court of appeal, appellate court","he":"בית משפט לערעורים"}
 {"L":"corte militar","C":["n"],"en":"court martial, military court","he":"בית משפט צבאי"}
 {"L":"corte suprema","C":["n"],"en":"supreme court","he":"בית משפט עליון"}
@@ -6633,7 +6635,7 @@
 {"L":"corticosteroide","C":["n","bio","med"],"en":"corticosteroid","he":"קורטיקוסטרואיד"}
 {"T":"r","L":"cortierba","C":["n","vn"],"d":"un macina per corti la erba en un jardin o parce","i":"#","en":"lawnmower, mower","he":"מכסחת דשא"}
 {"L":"cortierba puiable","C":["n"],"i":"#","en":"push mower, unmotorized|is lawnmower","he":"מכסחת דשא ידנית"}
-{"T":"r","L":"cortina","C":["n","arci"],"d":"un stofa pendente cual covre o scermi, tipal un de du ante un fenetra","i":"#","da":"gardin","de":"Vorhang, Gardine","en":"curtain, drape","he":"וילון"}
+{"T":"r","L":"cortina","C":["n","arci"],"d":"un stofa pendente cual covre o scermi, tipal un de du ante un fenetra","i":"#","da":"gardin","de":"Vorhang, Gardine","en":"curtain, drape","es":"cortina, telón","he":"וילון"}
 {"L":"cortina alta","C":["n"],"i":"#","en":"valance","he":"וילון קצר"}
 {"L":"cortina enrolante","C":["n"],"en":"window blind, window shade","he":"תריס גלילה"}
 {"L":"cortina venezian","C":["n"],"en":"venetian blind, jalousie","he":"תריס ונציאני"}
@@ -6656,7 +6658,7 @@
 {"L":"Corvo","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Corvus (constellation)","he":"עורב (קבוצת כוכבים)"}
 {"L":"corvo pexante","C":["n","ani","avia"],"i":"#","t":"Corvus ossifragus","en":"fish crow","he":"עורב הדגים"}
 {"L":"corvon","C":["n","ani","avia"],"i":"#","t":"Corvus albicollis, Corvus corax, Corvus crassirostris, Corvus ruficollis, {etc","en":"raven","he":"עורב שחור"}
-{"T":"r","L":"cosa","C":["n"],"d":"cualce ojeto o conseta cual esiste o pote es pensada","da":"ting","de":"Ding","en":"thing, affair, matter, entity","he":"דבר, חפץ, עניין"}
+{"T":"r","L":"cosa","C":["n"],"d":"cualce ojeto o conseta cual esiste o pote es pensada","da":"ting","de":"Ding","en":"thing, affair, matter, entity","es":"cosa","he":"דבר, חפץ, עניין"}
 {"L":"no cosa","C":["n"],"en":"nothing","he":"כלום, שום דבר"}
 {"L":"no cosa plu ca","C":["esp"],"en":"nothing more than, merely, simply, just","he":"לא יותר מ, אך ורק, בלבד"}
 {"L":"noncosia","C":["n"],"en":"nothingness","he":"איין, אפסיות, כלומיות"}
@@ -6664,7 +6666,7 @@
 {"L":"cosa","C":["n"],"en":"Xhosa (person, language)","he":"קוסה (עם, שפה)"}
 {"T":"r","L":"coscrive","C":["vt","arte"],"d":"scrive (alga cosa) con un otra person","en":"co-write, coauthor","he":"לכתוב במשותף"}
 {"L":"coscrivor","C":["n"],"en":"co-writer, coauthor","he":"מחבר שותף"}
-{"T":"r","L":"cose","C":["vt","vest"],"d":"junta o repara (alga cosa) con filo, usante un ago o un macina spesial","da":"sy","de":"nähen","en":"sew, stitch","he":"לתפור"}
+{"T":"r","L":"cose","C":["vt","vest"],"d":"junta o repara (alga cosa) con filo, usante un ago o un macina spesial","da":"sy","de":"nähen","en":"sew, stitch","es":"coser","he":"לתפור"}
 {"L":"cose","C":["n"],"en":"sewing, stitching, needlework","he":"תפירה"}
 {"L":"cose de orlo","C":["n"],"en":"hemstitch","he":"תפר מכפלת"}
 {"L":"cose laxe","C":["vt"],"en":"baste","he":"להכליב"}
@@ -6713,7 +6715,7 @@
 {"L":"costelin","C":["n"],"en":"rib, ridge, wale (fabric)","he":"ריב (סריג)"}
 {"T":"r","L":"costela","C":["n","arte"],"d":"un ator major ci presenta con un otra ator egal importante","en":"co-star","he":"כוכב משנה"}
 {"T":"r","L":"costudiante","C":["n"],"d":"un de la otra persones ci studia en la mesma curso o loca","en":"fellow student","eo":"kunstudento","he":"שותף ללימודים"}
-{"T":"r","L":"costum","C":["n","uma"],"d":"un modo de condui tradisional, normal e asetada en un sosia, loca o tempo spesifada","da":"vane, sædvane","de":"Gewohnheit","en":"custom, routine, usage, social convention","he":"מנהג, נוהג"}
+{"T":"r","L":"costum","C":["n","uma"],"d":"un modo de condui tradisional, normal e asetada en un sosia, loca o tempo spesifada","da":"vane, sædvane","de":"Gewohnheit","en":"custom, routine, usage, social convention","es":"hábito, costumbre, práctica rutinaria","he":"מנהג, נוהג"}
 {"L":"costumal","C":["a"],"en":"customary, default, pro forma","he":"נהוג, מקובל"}
 {"L":"costumal","C":["av"],"en":"customarily","he":"כנהוג, כמקובל"}
 {"L":"noncostumal","C":["a"],"en":"uncustomary","he":"לא נהוג, לא מקובל"}
@@ -6723,7 +6725,7 @@
 {"T":"r","L":"cosuscrive","C":["vt"],"d":"suscrive (alga cosa) con un otra person","en":"cosign","he":"לחתום עם עוד אנשים"}
 {"L":"cosuscrivor","C":["n"],"en":"cosigner, cosignatory","he":"חותם עם עוד אנשים"}
 {"T":"r","L":"cotanjente","C":["n","mat"],"d":"un funsiona trigonometrial, egal (en un triangulo reta) a la longia de la lado tocada par la angulo agu pertinente, divideda par la longia de la lado oposante esta angulo","en":"cotangent","he":"קוטנגנס"}
-{"T":"r","L":"cotel","C":["n","util"],"d":"un strumento composada de un lamina fisada a un manico, usada per talia o corti, o como un arma","da":"kniv","de":"Messer","en":"knife, shiv","he":"סכין"}
+{"T":"r","L":"cotel","C":["n","util"],"d":"un strumento composada de un lamina fisada a un manico, usada per talia o corti, o como un arma","da":"kniv","de":"Messer","en":"knife, shiv","es":"cuchillo, cuchilla, trinchante, cortaplumas, navaja","he":"סכין"}
 {"L":"cotel composada","C":["n"],"i":"#","en":"Swiss army knife","he":"אולר שוויצרי"}
 {"L":"cotel de pox","C":["n"],"en":"pocket knife, folding knife, jackknife, penknife","he":"אולר"}
 {"L":"cotel de xef","C":["n"],"i":"#","en":"chef's knife","he":"סכין שף"}
@@ -6731,19 +6733,19 @@
 {"L":"cotel osilante","C":["n"],"i":"#","en":"herb chopper, mezzaluna, hachoir","he":"מזלונה (סכין)"}
 {"L":"colpa con cotel","C":["v"],"en":"stab, jab","he":"לדקור (עם סכין)"}
 {"L":"colpa con cotel","C":["n"],"en":"stab, jab","he":"דקירה (עם סכין)"}
-{"L":"coteli","C":["vt"],"en":"cut, stab (with knife)","he":"לחתוך (עם סכין)"}
+{"L":"coteli","C":["vt"],"en":"cut, stab (with knife)","es":"apuñalar, acuchillar, pinchar, picar, perforar","he":"לחתוך (עם סכין)"}
 {"T":"r","L":"cotiledon","C":["n","bio"],"d":"un folia embrial de un planta de semes","en":"cotyledon (botany)","he":"(בוטניקה) פסיג"}
 {"T":"r","L":"cotinga","C":["n","avia"],"d":"un avia trovada en la forestas de America Sentral e Sude, de cual la mas es tipal briliante colorida","i":"#","t":"Cotingidae","en":"cotinga (bird)","he":"קוטינגה (ציפור)"}
 {"T":"r","L":"cotino","C":["n","pla"],"d":"un arboreta o arbor peti en familia de anacardio, cual produi plumas longa de flores","i":"#","t":"Cotinus","en":"smoke tree","he":"קוטינוס (צמח)"}
 {"T":"r","L":"coto","C":["n","mus"],"d":"un sitra longa, orijinante en Nion, con des-tre filos de seda cual pasa sur pontes peti e movable","i":"#","en":"koto (musical instrument)","he":"קוטו (כלי נגינה)"}
-{"T":"r","L":"coton","C":["n","pla","vest"],"d":"un planta usada xef per fibre e stofa; un materia mol, blanca e fibrosa cual ensirca la semes de esta","i":"#","t":"Gossypium","da":"bomuld","de":"Watte","en":"cotton (plant, fiber|re)","he":"כותנה"}
+{"T":"r","L":"coton","C":["n","pla","vest"],"d":"un planta usada xef per fibre e stofa; un materia mol, blanca e fibrosa cual ensirca la semes de esta","i":"#","t":"Gossypium","da":"bomuld","de":"Watte","en":"cotton (plant, fiber|re)","es":"algodón","he":"כותנה"}
 {"L":"coton asorbente","C":["n"],"en":"cotton wool","he":"צמר גפן"}
 {"L":"coton de zucar","C":["n"],"en":"cotton candy, candyfloss","he":"צמר גפן מתוק"}
 {"L":"de coton","C":["a"],"en":"(made of) cotton","he":"עשוי כותנה"}
 {"T":"r","L":"coturnix","C":["n","avia"],"d":"un avia peti de la mundo vea, semblante un perdis peti, con coda corta e tipal plumas brun camoflante","i":"#","t":"Coturnix","en":"quail (bird)","he":"שלו (ציפור)"}
 {"T":"r","L":"covalente","C":["a"],"d":"pertinente a lias cimical formida par la comparti de eletrones par atomes","en":"covalent","he":"(כימיה) קוולנטי"}
-{"T":"r","L":"covre","C":["vt"],"d":"pone alga cosa sur (un person o cosa) per proteje o asconde el o lo","da":"dække","en":"cover, coat","he":"לכסות, לסוכך"}
-{"L":"covre","C":["n"],"da":"låg","en":"coverage, coat, coating","he":"כיסוי"}
+{"T":"r","L":"covre","C":["vt"],"d":"pone alga cosa sur (un person o cosa) per proteje o asconde el o lo","da":"dække","en":"cover, coat","es":"cubrir","he":"לכסות, לסוכך"}
+{"L":"covre","C":["n"],"da":"låg","en":"coverage, coat, coating","es":"cubierta, tapa, tapadera, cobija, cobertor, envoltura, funda, abrigo","he":"כיסוי"}
 {"L":"covre completa","C":["n"],"en":"full coverage","he":"כיסוי מלא"}
 {"L":"covre partal","C":["v"],"en":"overlap","he":"לכסות חלקית, לחפוף"}
 {"L":"a covre de","C":["prep"],"en":"covering, coating, all over","he":"(מילת יחס) מכסה"}
@@ -6768,7 +6770,7 @@
 {"T":"r","L":"covrefenetra","C":["n","vn"],"d":"cada de du paneles xarnierida a un fenetra, cluable per securia o privatia o per redui la lus entrante","en":"shutter","he":"תריס"}
 {"T":"r","L":"covregama","C":["n","vn","vest"],"d":"un veste forte per proteje un gama","en":"legging (protective)","he":"טייטס מגן"}
 {"T":"r","L":"covrejeno","C":["n","vn","vest"],"d":"un covrente per proteje un jeno, usada par sportores","en":"kneepad","he":"מגן ברך"}
-{"T":"r","L":"covreleto","C":["n","vn"],"d":"un peso grande de materia spesa o plenida, su cual on dormi sur un leto","da":"tæppe","de":"Wolldecke","en":"blanket, quilt, duvet","he":"שמיכה"}
+{"T":"r","L":"covreleto","C":["n","vn"],"d":"un peso grande de materia spesa o plenida, su cual on dormi sur un leto","da":"tæppe","de":"Wolldecke","en":"blanket, quilt, duvet","es":"manta, frazada, cobertor, cobija","he":"שמיכה"}
 {"T":"r","L":"covrelibro","C":["n","vn"],"d":"un covrente de paper desfisable cual proteje un libro reliada","en":"dust jacket","he":"עטיפת ספר (בכריכה קשה)"}
 {"T":"r","L":"covreoio","C":["n","vn"],"d":"un peso de materia portada per proteje un oio ferida","en":"eyepatch","he":"רטייה"}
 {"T":"r","L":"covreorea","C":["n","vn","vest"],"d":"un duple de covrentes, liada par un banda supra la testa, portada sur la oreas per proteje los contra fria o ruido","en":"earmuff, earmuffs","he":"אוזניות מגן; מחממי אוזניים"}
@@ -6809,7 +6811,7 @@
 {"T":"r","L":"crampon","C":["n","util"],"d":"un protende o spina peti, fisada a la planta de un sapato o bota per redui la risca de lisca","en":"crampon, stud (boot)","he":"קרמפון, זיז סוליה"}
 {"T":"r","L":"cranio","C":["n","anat"],"d":"la strutur de oso o cartilaje cual enclui la serebro de un vertebrato","i":"#","en":"skull, cranium","he":"גולגולת"}
 {"L":"cranial","C":["a"],"en":"cranial","he":"גולגולתי"}
-{"T":"r","L":"crase","C":["vt"],"d":"compresa forte (alga cosa) per desformi lo, polvi lo o forsa lo a en se","da":"knuse, mase","de":"quetschen","en":"crush, squash, mash, crumple, flatten, smash, run over","he":"למחוץ, למעוך, לרסק"}
+{"T":"r","L":"crase","C":["vt"],"d":"compresa forte (alga cosa) per desformi lo, polvi lo o forsa lo a en se","da":"knuse, mase","de":"quetschen","en":"crush, squash, mash, crumple, flatten, smash, run over","es":"estrujar, aplastar, deformar","he":"למחוץ, למעוך, לרסק"}
 {"L":"crase","C":["n"],"en":"crushing, squashing","he":"מחיצה, מעיכה, ריסוק"}
 {"L":"crase su pede","C":["v"],"en":"crush under foot, trample, tread on","he":"לרמוס"}
 {"T":"r","L":"crasenoza","C":["n","vn","util","avia"],"d":"un util per abri nozas; un avia en familia de corvo, ci come la nozas de coniferes","i":"#, crasenoza-avia","t":"Nucifraga","en":"nutcracker","he":"מפצח אגוזים"}
@@ -6817,9 +6819,9 @@
 {"T":"r","L":"crater","C":["n","tera"],"d":"un caveta grande, con forma de bol, en la surfas de un planeta o luna, tipal causada par un esplode o un colpa par un meteorite o otra ojeto sielal; un cava grande cual formi la boca de un volcan","i":"#","en":"crater","he":"מכתש"}
 {"L":"crater volcanal","C":["n"],"en":"caldera","he":"קלדרה, לוע (הר געש)"}
 {"T":"r","L":"craton","C":["n","tera"],"d":"un bloco grande e stable de la crosta de la Tera, forminte la nucleo de un continente","en":"craton (geology)","he":"(גאולוגיה) קראטון"}
-{"T":"r","L":"cravata","C":["n","vest"],"d":"un banda de stofa portada sirca la colo e nodada a la fronte con sua finis pendente, un parte tipal de un veston de om","i":"#","da":"slips","de":"Krawatte","en":"necktie, tie","he":"עניבה"}
+{"T":"r","L":"cravata","C":["n","vest"],"d":"un banda de stofa portada sirca la colo e nodada a la fronte con sua finis pendente, un parte tipal de un veston de om","i":"#","da":"slips","de":"Krawatte","en":"necktie, tie","es":"corbata","he":"עניבה"}
 {"L":"cravata papilin","C":["n"],"i":"#","en":"bow tie","he":"עניבת פרפר"}
-{"T":"r","L":"crea","C":["vt"],"d":"fa ce (un cosa) esiste o (un situa) aveni; fabrica (un ojeto o sustantia)","da":"skabe, lave","de":"schaffen","en":"create, make, craft, cause to exist","he":"ליצור, לברוא"}
+{"T":"r","L":"crea","C":["vt"],"d":"fa ce (un cosa) esiste o (un situa) aveni; fabrica (un ojeto o sustantia)","da":"skabe, lave","de":"schaffen","en":"create, make, craft, cause to exist","es":"crear, hacer, fabricar, formar","he":"ליצור, לברוא"}
 {"L":"crea","C":["n"],"en":"creation (action); genesis","he":"יצירה, בריאה"}
 {"L":"crea corente","C":["n"],"en":"improvisation","he":"אלתור"}
 {"L":"autocreada","C":["a"],"en":"self-made","he":"בזכות עצמו, בכוחותיו הוא"}
@@ -6838,7 +6840,7 @@
 {"L":"recreal","C":["a"],"en":"recreational","he":"שקשור לבילוי"}
 {"T":"r","L":"creatina","C":["n","cim","bio"],"d":"un composada formida en la metaboli de protenas e presente en multe texedas vivente, cual furni enerjia per la contrae de musculos","en":"creatine","he":"קריאטין"}
 {"T":"r","L":"creatinina","C":["n","cim","bio"],"d":"un composada cual es produida par la metaboli de creatina e escreteda en la urina","en":"creatinine","he":"קריאטינין"}
-{"T":"r","L":"crede","C":["vt","rel"],"d":"aseta ce (alga cosa) es vera, tipal sin atesta demostrante; es serta sur la veria de (alga cosa)","da":"tro","de":"glauben","en":"believe","he":"להאמין"}
+{"T":"r","L":"crede","C":["vt","rel"],"d":"aseta ce (alga cosa) es vera, tipal sin atesta demostrante; es serta sur la veria de (alga cosa)","da":"tro","de":"glauben","en":"believe","es":"creer, creer en, pensar que, tener fe en, confiar en","he":"להאמין"}
 {"L":"crede","C":["n"],"en":"belief, creed, credo, doctrine, conviction","he":"אמונה"}
 {"L":"credable","C":["a"],"en":"believable, credible, plausible","he":"אמין, מהימן, מתקבל על הדעת"}
 {"L":"credablia","C":["n"],"en":"credibility","he":"אמינות"}
@@ -6854,11 +6856,11 @@
 {"L":"noncrede","C":["n"],"en":"disbelief, incredulity","he":"אי אמונה, ספקנות, כפירה"}
 {"L":"noncredente","C":["a"],"en":"disbelieving, incredulous","he":"חסר אמונה, ספקני"}
 {"L":"noncredor","C":["n"],"en":"non-believer, infidel","he":"חסר אמונה, ספקן, כופר"}
-{"T":"r","L":"credito","C":["n","mone"],"d":"la capasia de un person per oteni benes o servis ante paia, fundida sur la fida ce el va paia en la futur; la mone prestada en un tal acorda","da":"kredit","de":"Kredit","en":"credit (money)","he":"אשראי, קרדיט"}
+{"T":"r","L":"credito","C":["n","mone"],"d":"la capasia de un person per oteni benes o servis ante paia, fundida sur la fida ce el va paia en la futur; la mone prestada en un tal acorda","da":"kredit","de":"Kredit","en":"credit (money)","es":"crédito","he":"אשראי, קרדיט"}
 {"L":"creditor","C":["n"],"en":"creditor","he":"נושה, מלווה"}
 {"L":"par credito","C":["av"],"en":"on credit","he":"באשראי, בקרדיט"}
 {"T":"r","L":"crema","C":["a","col","cos"],"d":"jala ma multe pal","i":"#","en":"cream (color|ur)","he":"קרם (צבע)"}
-{"L":"crema","C":["n"],"d":"un licuida densa, grasosa e tipal con esta color, cual asende a la surfas de lete nondisturbada, comeda con deseres o usada en cosini; cualce sustantia de trama simil, usada como un comeda o bevida, o sur la pel como un medisin o un cosmetica","da":"fløde, creme","de":"Sahne","en":"cream, lotion","he":"קרם, משחה; שמנת"}
+{"L":"crema","C":["n"],"d":"un licuida densa, grasosa e tipal con esta color, cual asende a la surfas de lete nondisturbada, comeda con deseres o usada en cosini; cualce sustantia de trama simil, usada como un comeda o bevida, o sur la pel como un medisin o un cosmetica","da":"fløde, creme","de":"Sahne","en":"cream, lotion","es":"crema","he":"קרם, משחה; שמנת"}
 {"L":"crema ardeda","C":["n"],"en":"crème brûlée, burnt cream, Trinity cream","he":"קרם ברולה"}
 {"L":"crema asida","C":["n"],"en":"sour cream, smetana","he":"שמנת חמוצה"}
 {"L":"crema bateda","C":["n"],"i":"#","en":"whipped cream","he":"קצפת"}
@@ -6895,7 +6897,7 @@
 {"T":"r","L":"crepita","C":["vnt","cos"],"d":"produi un susede rapida de cracis peti, como de crase o frita","en":"crackle, sizzle","he":"להשמיע צליל פצפוץ"}
 {"L":"crepita","C":["n"],"en":"crackle, sizzle","he":"צליל פצפוץ"}
 {"L":"crepitante","C":["a"],"en":"crackling, crackly (including recording)","he":"משמיע צליל פצפוץ (גם בהקלטה)"}
-{"T":"r","L":"crese","C":["vnt","bio"],"d":"developa natural par deveni plu grande e cambia fisical; progresa a maturia; deveni plu grande","da":"vokse, gro","de":"ausbreiten, wachsen","en":"grow, develop, expand, increase","he":"לצמוח, לגדול, להתפתח"}
+{"T":"r","L":"crese","C":["vnt","bio"],"d":"developa natural par deveni plu grande e cambia fisical; progresa a maturia; deveni plu grande","da":"vokse, gro","de":"ausbreiten, wachsen","en":"grow, develop, expand, increase","es":"crecer, expandir, aumentar","he":"לצמוח, לגדול, להתפתח"}
 {"L":"crese","C":["vt"],"en":"grow, develop, expand, increase","he":"להצמיח, לגדל, להגדיל"}
 {"L":"crese","C":["n"],"en":"growth, development, expansion; growth (thing that has naturally grown), excrescence","he":"צמיחה, גדילה, התפתחות"}
 {"L":"crese dentes","C":["v"],"en":"teethe","he":"להצמיח שיניים"}
@@ -6921,7 +6923,7 @@
 {"L":"cresta sajital","C":["n"],"en":"sagittal crest","he":"(אנטומיה) רכס סגיטלי"}
 {"L":"cresta spumosa","C":["n"],"en":"whitecap","he":"גל מקציף"}
 {"L":"cresti","C":["vnt"],"en":"crest (wave)","he":"(גל) להגיע לשיא, להגיע לפסגה"}
-{"T":"r","L":"creta","C":["n","util"],"d":"un calcario blanca e mol, derivada de sceletos de organismes de mar; un materia simil, usada per scrive o desinia sur un mureta negra","da":"kridt","de":"Kreide","en":"chalk","he":"גיר"}
+{"T":"r","L":"creta","C":["n","util"],"d":"un calcario blanca e mol, derivada de sceletos de organismes de mar; un materia simil, usada per scrive o desinia sur un mureta negra","da":"kridt","de":"Kreide","en":"chalk","es":"tiza, yeso, gis","he":"גיר"}
 {"L":"creti","C":["vt"],"en":"chalk (up)","he":"לכתוב בגיר"}
 {"T":"r","L":"cretasica","C":["a","tera"],"d":"pertinente a la periodo final de la eda mesozoica, entre la jurasica e tersiaria","en":"Cretaceous (geology)","he":"(גאולוגיה) קרטיקון"}
 {"L":"cretasica","C":["n"],"en":"Cretaceous (geology)","he":"(גאולוגיה) קרטיקון"}
@@ -6935,7 +6937,7 @@
 {"T":"r","L":"crevecor","C":["n","vn"],"d":"un person atraosa ma nonfidable en relatas emosial; un nara, canta o aveni tristinte o angusante","en":"heartbreaker; tearjerker","he":"שובר לבבות; (סרט, שיר) סוחט דמעות"}
 {"T":"r","L":"cri","C":["a","dem"],"d":"pertinente a la americanes orijinal en un rejion grande de Canada sentral, o a sua lingua algoncian","en":"Cree (person, language)","he":"קרי (אדם, שפה)"}
 {"L":"cri","C":["n"],"en":"Cree (person, language)","he":"קרי (אדם, שפה)"}
-{"T":"r","L":"cria","C":["vt"],"d":"espresa (sua teme, dole, lamenta, coleria, o un mesaje a un person distante) par un sona vosal multe forte","da":"råbe, skrige op","de":"schreien","en":"cry, shout, scream, yell, yelp, bawl, outcry","he":"לצעוק, לצרוח"}
+{"T":"r","L":"cria","C":["vt"],"d":"espresa (sua teme, dole, lamenta, coleria, o un mesaje a un person distante) par un sona vosal multe forte","da":"råbe, skrige op","de":"schreien","en":"cry, shout, scream, yell, yelp, bawl, outcry","es":"gritar, llorar, clamar, exclamar, vocear, dar gritos, vociferar","he":"לצעוק, לצרוח"}
 {"L":"cria","C":["n"],"en":"cry, shout, scream, yell, yelp, bawl, outcry","he":"צעקה, צרחה"}
 {"L":"cria burlante","C":["n"],"en":"jeer, catcall","he":"יללת בוז"}
 {"L":"crieta","C":["vt"],"en":"whimper","he":"לילל, ליבב"}
@@ -6952,7 +6954,7 @@
 {"T":"r","L":"Crim","C":["n","jeo"],"d":"un penisola a sude de Ucraina entre la Mar Azov e la Mar Negra","i":"#","en":"Crimea","he":"חצי האי קרים"}
 {"L":"crimsce","C":["a"],"en":"Crimean","he":"שקשור לקרים"}
 {"L":"crimsce","C":["n","dem"],"en":"Crimean","he":"תושב קרים"}
-{"T":"r","L":"crimin","C":["n","gov"],"d":"un ata o omete cual merita es prosededa par la stato e es punable par lege; un ata cual, an si legal, es regardada como mal","da":"forbrydelse","de":"Verbrechen","en":"crime, offense|ce","he":"פשע, עבירה"}
+{"T":"r","L":"crimin","C":["n","gov"],"d":"un ata o omete cual merita es prosededa par la stato e es punable par lege; un ata cual, an si legal, es regardada como mal","da":"forbrydelse","de":"Verbrechen","en":"crime, offense|ce","es":"crimen","he":"פשע, עבירה"}
 {"L":"crimin de gera","C":["n"],"en":"war crime","he":"פשע מלחמה"}
 {"L":"crimin de odia","C":["n"],"en":"hate crime","he":"פשע שנאה"}
 {"L":"crimin major","C":["n"],"en":"felony","he":"פשע חמור"}
@@ -6994,8 +6996,8 @@
 {"L":"crise mental","C":["n"],"en":"mental breakdown, nervous breakdown","he":"התמוטטות עצבים"}
 {"T":"r","L":"crisol","C":["n","util"],"d":"un contenador seramica o metal, en cual on pote fonde metales o otra materias o esposa los a caldia estrema; (metafor) un situa en cual elementos diversa interata e produi un cosa nova, tipal con alga turbas","en":"crucible, melting pot","he":"כור היתוך"}
 {"T":"r","L":"crisopa","C":["n","ins"],"d":"un inseto magra e delicata con alas grande de membrana clar","i":"#","t":"Chrysopidae","en":"lacewing (insect)","he":"עינפז (חרק)"}
-{"T":"r","L":"cristal","C":["a","cim"],"d":"composada de un agrega de atomes o moleculas simetre ordinada en tre dimensiones; (vitro) clar e refratante","da":"krystal","de":"Kristall","en":"crystalline","he":"גבישי, קריסטלי"}
-{"L":"cristal","C":["n"],"en":"crystal","he":"גביש, קריסטל"}
+{"T":"r","L":"cristal","C":["a","cim"],"d":"composada de un agrega de atomes o moleculas simetre ordinada en tre dimensiones; (vitro) clar e refratante","en":"crystalline","he":"גבישי, קריסטלי"}
+{"L":"cristal","C":["n"],"da":"krystal","de":"Kristall","en":"crystal","es":"cristal","he":"גביש, קריסטל"}
 {"L":"cristal licuida","C":["n"],"en":"liquid crystal","he":"גביש נוזלי"}
 {"L":"cristali","C":["vnt"],"en":"crystallize|is, effloresce","he":"להתגבש (להפוך לגביש)"}
 {"L":"cristali","C":["vt"],"en":"crystallize|is, effloresce","he":"לגבש (ליצור גביש)"}
@@ -7015,7 +7017,7 @@
 {"T":"r","L":"Criti","C":["n","jeo"],"d":"un isola elinica en la Mar Mediteraneo este, e la loca de la sivilia Minoan de la milenio du aec","i":"#","en":"Crete","es":"Creta","he":"כרתים"}
 {"L":"critica","C":["a"],"en":"Cretan","es":"cretense","he":"שקשור לכרתים"}
 {"L":"critica","C":["n"],"en":"Cretan","es":"cretense","he":"תושב כרתים"}
-{"T":"r","L":"critica","C":["vt","fil"],"d":"indica la falis de (un person o cosa) en un modo desaprobante; formi e espresa un judi sofistica de (un obra de arte)","da":"kritisere","de":"kritisieren","en":"criticize|is, reproach, lambast, tell off, henpeck; critique","he":"לבקר (למתוח ביקורת)"}
+{"T":"r","L":"critica","C":["vt","fil"],"d":"indica la falis de (un person o cosa) en un modo desaprobante; formi e espresa un judi sofistica de (un obra de arte)","da":"kritisere","de":"kritisieren","en":"criticize|is, reproach, lambast, tell off, henpeck; critique","es":"criticar, censurar","he":"לבקר (למתוח ביקורת)"}
 {"L":"critica","C":["n"],"en":"criticism, reproach, sideswipe; critique","he":"ביקורת"}
 {"L":"criticante","C":["a"],"en":"critical, mordant, trenchant","he":"ביקורתי"}
 {"L":"criticiste","C":["n"],"en":"critic (art)","he":"מבקר (אמנות)"}
@@ -7059,7 +7061,7 @@
 {"T":"r","L":"crotal","C":["n","ret"],"d":"un vipera grande american con un serie de anelos cornin a sua coda cual vibra e crea clicas avertinte","i":"#","t":"Crotalus, Sistrurus","en":"rattlesnake, rattler","he":"עכסן (נחש)"}
 {"T":"r","L":"croxe","C":["vt","vest"],"d":"fabrica (un stofa o veste) par aneli filo de lana con un ago oncin","en":"crochet","he":"לסרוג בשיטת קרושה"}
 {"T":"r","L":"cru","C":["a","cos"],"d":"(un comeda) no coceda; (un materia) en sua forma natural, ancora no preparada o purida; (un informa) no analiseda, evaluada o preparada per usa","en":"raw, uncooked, crude, gross","he":"נא; גס, לא מעובד"}
-{"T":"r","L":"cruel","C":["a","uma"],"d":"causante dole o sufri a otras, con intende o sin cura","da":"grusom","de":"grausam","en":"cruel, ruthless, dastardly, vicious, cut-throat","he":"אכזרי, מרושע, חסר רחמים"}
+{"T":"r","L":"cruel","C":["a","uma"],"d":"causante dole o sufri a otras, con intende o sin cura","da":"grusom","de":"grausam","en":"cruel, ruthless, dastardly, vicious, cut-throat","es":"cruel","he":"אכזרי, מרושע, חסר רחמים"}
 {"L":"cruelia","C":["n"],"en":"cruelty, ruthlessness, viciousness","he":"אכזריות, רשעות, חוסר רחמים"}
 {"T":"r","L":"cruji","C":["vnt"],"d":"(un ojeto, tipal de lenio) fa un sona basa cuando on move o presa lo","en":"creak (low-pitched), groan","he":"לחרוק"}
 {"L":"cruji","C":["vt"],"en":"creak (low-pitched), groan","he":"לחרוק"}
@@ -7068,7 +7070,7 @@
 {"T":"r","L":"crumpeta","C":["n"],"d":"un torteta engles, plana, spesa e mol, tipal tostada e burida","en":"crumpet (cake)","he":"קראמפט (לחמניה)"}
 {"T":"r","L":"crup","C":["n","med"],"d":"un inflama de la larinje e tracea en enfantes, asosiada con infeta e causante respira difisil","en":"croup (medical)","he":"אסכרה, דלקת דרכי הנשימה"}
 {"T":"r","L":"crure","C":["n","anat","med"],"d":"un parte longa en un strutur anatomial, spesial un cual parteni a un duple","en":"crus (anatomy)","he":"(אנטומיה) מבנה ארוך, בדרך-כלל חלק מזוג"}
-{"T":"r","L":"crus","C":["n","util","rel"],"d":"un marca o ojeto formida par du linias reta cual comparti un punto comun; un palo vertical con bara traversante, usada en edas pasada per mata criminales e otras; un simbol de cristianisme; la area entre la colo e la spalas de un cavalo o otra bestias, a cual la altia de la animal es mesurada","i":"#","da":"kryds","de":"Kreuz","en":"cross; crucifix; withers (horse)","he":"צלב"}
+{"T":"r","L":"crus","C":["n","util","rel"],"d":"un marca o ojeto formida par du linias reta cual comparti un punto comun; un palo vertical con bara traversante, usada en edas pasada per mata criminales e otras; un simbol de cristianisme; la area entre la colo e la spalas de un cavalo o otra bestias, a cual la altia de la animal es mesurada","i":"#","da":"kryds","de":"Kreuz","en":"cross; crucifix; withers (horse)","es":"cruz, cruce","he":"צלב"}
 {"L":"crus de vias","C":["n"],"en":"crossroads","he":"צומת, הצטלבות"}
 {"L":"Crus","C":["n","ast"],"d":"un constela fasil per vide en la sielo sude","en":"Crux (constellation)","he":"הצלב הדרומי (קבוצת כוכבים)"}
 {"L":"Crus Roja","C":["n"],"en":"Red Cross","he":"הצלב האדום"}
@@ -7112,9 +7114,9 @@
 {"T":"r","L":"Cuait","C":["n","jeo"],"c":"la Site Cuait","d":"un pais a la costa norde-ueste de la Golfo Persian","i":"#","p":"cüait","en":"Kuwait","he":"כווית"}
 {"L":"cuaiti","C":["a"],"p":"cüaiti","en":"Kuwaiti","he":"כוויתי"}
 {"L":"cuaiti","C":["n"],"en":"Kuwaiti","he":"כוויתי"}
-{"T":"r","L":"cual","C":["d"],"d":"demandante sur la identia de un cosa","da":"hvilken","de":"welche","en":"(interrogative) what, which","he":"מה, איזה, איזו"}
-{"L":"cual","C":["pron"],"d":"demandante sur la identia de un cosa; (suordinante) introduinte un suproposa ajetivin cual dona plu informa sur un cosa cual on ia indica direta a ante","u":"un ata cual merita es lodada; la vino cual tu bevi es multe vea","da":"hvad","de":"der, die, das (relativ)","en":"(interrogative) what, which, which one; (relative) which, that (cannot be omitted)","he":"ש-, אשר"}
-{"L":"cual cosa?","C":["pron"],"da":"was?","en":"what, which thing?","he":"איזה? איזה דבר?"}
+{"T":"r","L":"cual","C":["d"],"d":"demandante sur la identia de un cosa","da":"hvilken","de":"welche","en":"(interrogative) what, which","es":"cuál","he":"מה, איזה, איזו"}
+{"L":"cual","C":["pron"],"d":"demandante sur la identia de un cosa; (suordinante) introduinte un suproposa ajetivin cual dona plu informa sur un cosa cual on ia indica direta a ante","u":"un ata cual merita es lodada; la vino cual tu bevi es multe vea","da":"hvad","de":"der, die, das (relativ)","en":"(interrogative) what, which, which one; (relative) which, that (cannot be omitted)","es":"cuál, que cosa","he":"ש-, אשר"}
+{"L":"cual cosa?","C":["pron"],"da":"was?","en":"what, which thing?","es":"que?, que cosa?, cuál?","he":"איזה? איזה דבר?"}
 {"L":"cual de enferno?","C":["esp"],"en":"what the hell?","he":"מה לעזאזל?"}
 {"L":"cual de mundo?","C":["esp"],"en":"what on earth?","he":"מה לכל הרוחות?"}
 {"L":"cual es la data?","C":["esp"],"en":"what is the date?","he":"מה התאריך?"}
@@ -7146,7 +7148,7 @@
 {"L":"descuali","C":["vt"],"en":"disqualify (someone)","he":"לפסול, לשלול (מישהו)"}
 {"L":"descuali","C":["n"],"en":"disqualification","he":"פסילה, שלילה"}
 {"L":"noncualinte","C":["a"],"en":"ineligible","he":"פסול, לא כשיר, לא מתאים"}
-{"T":"r","L":"cualia","C":["n","fil","uma"],"d":"un atribuida distinguinte de un person o cosa; la grado de bonia de un situa","da":"kvalitet, træk, karakteristik","de":"Charakterzug","en":"quality, feature, trait, attribute, property, characteristic, aura","he":"איכות, טיב; תכונה, מאפיין, סגולה"}
+{"T":"r","L":"cualia","C":["n","fil","uma"],"d":"un atribuida distinguinte de un person o cosa; la grado de bonia de un situa","da":"kvalitet, træk, karakteristik","de":"Charakterzug","en":"quality, feature, trait, attribute, property, characteristic, aura","es":"cualidad, calidad, característica, atributo, razgo, propiedad","he":"איכות, טיב; תכונה, מאפיין, סגולה"}
 {"L":"cualia de labora","C":["n"],"en":"quality of work, workmanship","he":"דרגת מיומנות"}
 {"L":"cualia de parla","C":["n"],"en":"quality of speech, diction","he":"הגייה, דיקציה"}
 {"L":"cualia de vive","C":["n"],"en":"quality of life, well-being, welfare","he":"איכות חיים"}
@@ -7156,8 +7158,8 @@
 {"L":"cualias nesesada","C":["n","pl"],"en":"necessary qualities, right stuff","he":"תכונות נדרשות"}
 {"L":"de cualia alta","C":["a"],"en":"high-quality, vintage","he":"איכותי"}
 {"L":"sin cualias","C":["a"],"en":"featureless","he":"חסר מאפיינים מיוחדים"}
-{"T":"r","L":"cuando","C":["av"],"d":"(demandante o introduinte un suproposa ajetivin) a cual tempo","u":"cuando nos va parti?; me no sabe cuando me va reveni; febrero, cuando la aira es fria","da":"hvornår","de":"als, wenn","en":"(interrogative) when; (relative) at which time","he":"מתי; כש-"}
-{"L":"cuando","C":["sj"],"d":"(introduinte un suproposa averbin) a la tempo a cual, o (pos un preposada) la tempo a cual","u":"nos va parti cuando la sol reposa; me ia come ante cuando vos ia ariva","en":"when","he":"בזמן ש, כש-"}
+{"T":"r","L":"cuando","C":["av"],"d":"(demandante o introduinte un suproposa ajetivin) a cual tempo","u":"cuando nos va parti?; me no sabe cuando me va reveni; febrero, cuando la aira es fria","da":"hvornår","de":"als, wenn","en":"(interrogative) when; (relative) at which time","es":"cuándo","he":"מתי; כש-"}
+{"L":"cuando","C":["sj"],"d":"(introduinte un suproposa averbin) a la tempo a cual, o (pos un preposada) la tempo a cual","u":"nos va parti cuando la sol reposa; me ia come ante cuando vos ia ariva","en":"when","es":"cuando","he":"בזמן ש, כש-"}
 {"L":"a cuando","C":["sj"],"d":"a la momento cuando (alga cosa aveni)","en":"as (at the moment when)","fr":"au moment où","he":"בזמן ש, ברגע ש","ru":"когда, в тот момент когда"}
 {"L":"ante cuando","C":["sj"],"de":"bevor","en":"before (the time when)","eo":"antaŭ ol","he":"לפני ש"}
 {"L":"asta cuando","C":["sj"],"en":"until, till (the time when)","es":"hasta que","he":"עד ש"}
@@ -7166,7 +7168,7 @@
 {"L":"estra cuando","C":["sj"],"en":"except when, unless","he":"חוץ מ (הזמן ש)"}
 {"L":"pos cuando","C":["sj"],"ca":"després que","de":"nachdem","en":"after (the time when)","eo":"post kiam","es":"después que","fr":"après que","he":"לאחר, אחרי ש","ja":"後に","pt":"pois que, depois","ru":"после"}
 {"L":"sempre cuando","C":["sj"],"en":"whenever","he":"בכל פעם ש, בכל שעה ש, כל אימת ש"}
-{"T":"r","L":"cuantia","C":["n"],"d":"un mesura de cuanto, usada egal per cosas individua contable o noncontable, tipal espresada con numeros","da":"kvantitet","de":"Menge, Quantität","en":"quantity, amount, magnitude; number (quantity, not position in sequence)","he":"כמות, מידה, שיעור"}
+{"T":"r","L":"cuantia","C":["n"],"d":"un mesura de cuanto, usada egal per cosas individua contable o noncontable, tipal espresada con numeros","da":"kvantitet","de":"Menge, Quantität","en":"quantity, amount, magnitude; number (quantity, not position in sequence)","es":"cantidad, magnitud, suma, valor","he":"כמות, מידה, שיעור"}
 {"L":"cuantia de abitores","C":["n"],"en":"population (figure)","fr":"population","he":"שיעור האוכלוסייה"}
 {"L":"cuantia de mores","C":["n"],"en":"death toll","he":"מחיר דמים, מספר הרוגים"}
 {"L":"cuantia de regardores","C":["n"],"en":"audience size, ratings, viewing figures","he":"שיעור צפייה"}
@@ -7190,16 +7192,16 @@
 {"L":"cuarc strana","C":["n"],"en":"strange quark","he":"קווארק מוזר"}
 {"T":"r","L":"cuaresma","C":["n","rel"],"d":"la periodo de cuatrodes dias ante pascua en cristianisme, tradisional un periodo de juna, asteni e repenti","en":"lent (Christianity)","he":"(נצרות) תענית"}
 {"L":"cuaresmal","C":["a"],"en":"lenten","he":"(נצרות) שקשור בתענית"}
-{"T":"r","L":"cuarzo","C":["n","tera"],"d":"un mineral dur e blanca o sin color, composada de silica","da":"kvarts","de":"Quarz","en":"quartz","he":"קוורץ"}
+{"T":"r","L":"cuarzo","C":["n","tera"],"d":"un mineral dur e blanca o sin color, composada de silica","da":"kvarts","de":"Quarz","en":"quartz","es":"cuarzo","he":"קוורץ"}
 {"T":"r","L":"cuasar","C":["n","ast"],"d":"un ojeto sielal multe masosa e distante cual emete cuantias enorme de enerjia","en":"quasar","he":"קוואזר"}
-{"T":"r","L":"cuasi","C":["av"],"d":"no multe min ca; a grado noncompleta ma sin multe mancas; nonesata ma sin difere major","da":"næsten, nærmest","de":"fast","en":"almost, nearly, virtually, practically, not quite, just less than","he":"כמעט, בקירוב"}
+{"T":"r","L":"cuasi","C":["av"],"d":"no multe min ca; a grado noncompleta ma sin multe mancas; nonesata ma sin difere major","da":"næsten, nærmest","de":"fast","en":"almost, nearly, virtually, practically, not quite, just less than","es":"casi, cerca de, aproximadamente","he":"כמעט, בקירוב"}
 {"L":"cuasi-","C":["pf","tecn"],"d":"cuasi, multe prosima a","en":"quasi-","he":"(קידומת טכנית) קרוב ל"}
 {"L":"cuasi cadun","C":["pron"],"en":"almost everyone","he":"כמעט כולם"}
 {"T":"r","L":"cuatrigalon","C":["n"],"d":"un cuatri de un galon","en":"quart","he":"רבע גלון"}
 {"T":"r","L":"cuatrim","C":["n","mone"],"d":"un moneta con valua de 25 sentimes","en":"25-cent piece, quarter, farthing (coin)","he":"רבע דולר"}
 {"T":"r","L":"cuatrinegra","C":["a","ist"],"en":"quadroon","he":"(מוצא) רבע אפריקאי"}
 {"L":"cuatrinegra","C":["n"],"d":"(istorial) un person ci ave un avo o ava de la raza negra","en":"quadroon","he":"(אדם ממוצא) רבע אפריקאי"}
-{"T":"r","L":"cuatro","C":["d","mat"],"d":"2 multiplida par 2; la numero entre tre e sinco","da":"fire","de":"vier","en":"four","he":"ארבע, ארבעה"}
+{"T":"r","L":"cuatro","C":["d","mat"],"d":"2 multiplida par 2; la numero entre tre e sinco","da":"fire","de":"vier","en":"four","es":"cuatro","he":"ארבע, ארבעה"}
 {"L":"cuatro","C":["a"],"en":"fourth (ordinal)","he":"רביעי, רביעית"}
 {"L":"cuatro-","C":["pf","tecn"],"d":"cuatro","en":"quadr-, quadri-","he":"(קידומת טכנית) ארבע"}
 {"L":"cuatri","C":["vnt"],"en":"quarter","he":"להתחלק לארבע"}
@@ -7226,12 +7228,12 @@
 {"L":"cubiste","C":["a"],"en":"cubist","he":"קוביסטי"}
 {"L":"cubiste","C":["n"],"en":"cubist","he":"קוביסט"}
 {"T":"r","L":"cubo","C":["a","mat"],"d":"(un cosa tridimensional) con un forma solida o vacua cual es contenida par ses cuadros egal","i":"#","en":"cubic, cubical","he":"קובייתי; מעוקב"}
-{"L":"cubo","C":["n"],"da":"terning","de":"Würfel","en":"cube","he":"קובייה"}
+{"L":"cubo","C":["n"],"da":"terning","de":"Würfel","en":"cube","es":"cubo","he":"קובייה"}
 {"L":"cubi","C":["vnt"],"en":"become a cube","he":"לעלות בחזקת שלוש"}
 {"L":"cubi","C":["vt"],"en":"cube","he":"להעלות בחזקת שלוש"}
 {"L":"cubida","C":["a"],"en":"cubed, to the third power","he":"בחזקת שלוש"}
 {"T":"r","L":"cucabura","C":["n","avia"],"d":"un avia pexor de Australia e Gine Nova, notada per sua clama multe forte","i":"#","t":"Dacelo","en":"kookaburra","he":"קוקברה (ציפור)"}
-{"T":"r","L":"cucaraxa","C":["n","artr"],"d":"un inseto simil a un scarabe con antenas e gamas longa, tipal regardada como pestes en cosinas e otra locas","i":"#","t":"Blattaria","da":"kakerlak","de":"Schabe","en":"cockroach, roach","he":"תיקן, מקק, ג'וק"}
+{"T":"r","L":"cucaraxa","C":["n","artr"],"d":"un inseto simil a un scarabe con antenas e gamas longa, tipal regardada como pestes en cosinas e otra locas","i":"#","t":"Blattaria","da":"kakerlak","de":"Schabe","en":"cockroach, roach","es":"cucaracha","he":"תיקן, מקק, ג'וק"}
 {"T":"r","L":"cuci","C":["n","info"],"d":"un dato enviada par un servador a un surfador, reenviada sempre cuando la surfador reasede la mesma servador, e usada per identifia la usor","en":"cookie (web)","he":"(מחשבים) קוקית"}
 {"T":"r","L":"cucu","C":["n","avia"],"d":"un avia de grandia media, con coda longa e dorso gris o brun, de cual alga pone sua ovos en la nidos de avias cantante peti","i":"#","t":"Cuculidae","en":"cuckoo","he":"קוקייה (ציפור)"}
 {"T":"r","L":"cucui","C":["n","pla"],"d":"un arbor perene en familia de euforbia, con semes grande de cual on oteni un olio usada en lampas, nativa de Asia sude-este e la isolas de la Mar Pasifica sude","i":"#","t":"Aleurites moluccana","en":"candlenut, candleberry (tree)","he":"קוקוי (עץ)"}
@@ -7241,13 +7243,13 @@
 {"L":"cuecer","C":["n"],"en":"Quaker","he":"קוויקר"}
 {"L":"cuecerisme","C":["n"],"en":"Quakerism (Christianity)","he":"(נצרות) קוויקרים, קוויקריזם"}
 {"T":"r","L":"cuer","C":["a","uma"],"d":"parteninte a un minoria noneterosesal o nonsisjenero","en":"queer (non-conforming)","he":"קוויר"}
-{"T":"r","L":"cuerco","C":["n","pla"],"d":"un arbor cual produi un noza oval e lisa en un funda tasin, e cual es un fonte importante de lenio dur","i":"#","t":"Quercus","da":"eg","de":"Eiche","en":"oak","he":"אלון (עץ)"}
+{"T":"r","L":"cuerco","C":["n","pla"],"d":"un arbor cual produi un noza oval e lisa en un funda tasin, e cual es un fonte importante de lenio dur","i":"#","t":"Quercus","da":"eg","de":"Eiche","en":"oak","es":"roble, encino","he":"אלון (עץ)"}
 {"L":"cuerco sempreverde","C":["n","pla"],"i":"#","t":"Quercus virginianus","en":"evergreen oak, live oak","he":"אלון ירוק-עד"}
 {"L":"cuerco de suber","C":["n","pla"],"i":"#","t":"Quercus suber","en":"cork oak","he":"אלון השעם"}
 {"L":"cuerca","C":["n"],"d":"la fruta de la cuerco","en":"acorn","he":"בלוט"}
 {"L":"de cuerco","C":["a"],"en":"oak, oaken","he":"מעץ אלון"}
 {"T":"r","L":"cuicstep","C":["n","mus"],"d":"un dansa simil a un fostrot rapida","en":"quickstep (dance)","he":"קוויקסטפ (ריקוד)"}
-{"T":"r","L":"cuieta","C":["a"],"d":"produinte poca o no sona","da":"stille, sagte, lydløs","de":"ruhig","en":"quiet, calm, soft, faint, stealthy","he":"שקט, עמום"}
+{"T":"r","L":"cuieta","C":["a"],"d":"produinte poca o no sona","da":"stille, sagte, lydløs","de":"ruhig","en":"quiet, calm, soft, faint, stealthy","es":"silencioso, callado, suave, leve, quieto, tranquilo","he":"שקט, עמום"}
 {"L":"cuieta","C":["av"],"en":"quietly, calmly, softly, faintly, stealthily; pianissimo","he":"בשקט"}
 {"L":"cuieti","C":["vnt"],"en":"quieten, calm, calm down","he":"לשקוט"}
 {"L":"cuieti","C":["vt"],"en":"quieten, calm, calm down","he":"להשקיט"}
@@ -7257,13 +7259,13 @@
 {"L":"noncuieta","C":["a"],"en":"uneasy","he":"לא שקט"}
 {"T":"r","L":"cuiscal","C":["n","avia"],"d":"un avia negra e larga de America Norde e Sude","i":"#","t":"Quiscalus","en":"grackle (bird)","he":"סוג ציפור"}
 {"T":"r","L":"cuiz","C":["n","spo"],"d":"un concurso simil a un esamina de sabes","en":"quiz","he":"בוחן, חידון"}
-{"T":"r","L":"culier","C":["n","util"],"d":"un util composada de un bol peti, tipal ronda o oval, con manico longa, usada per come, misca e servi comedas; un util simil ma plu grande, usada per prende cosas polvin o semisolida de un contenador; un parte simil de alga macinas per escava","i":"#","da":"ske","de":"Löffel","en":"spoon, scoop","fr":"cuiller, cuillère","he":"כף"}
+{"T":"r","L":"culier","C":["n","util"],"d":"un util composada de un bol peti, tipal ronda o oval, con manico longa, usada per come, misca e servi comedas; un util simil ma plu grande, usada per prende cosas polvin o semisolida de un contenador; un parte simil de alga macinas per escava","i":"#","da":"ske","de":"Löffel","en":"spoon, scoop","es":"cuchara","fr":"cuiller, cuillère","he":"כף"}
 {"L":"culier de table","C":["n"],"en":"tablespoon (spoon, measurement)","fr":"cuiller à soupe","he":"כף"}
 {"L":"culier de te","C":["n"],"en":"teaspoon (spoon, measurement)","fr":"petite cuillère, cuiller à café","he":"כפית"}
 {"L":"culieri","C":["vt"],"en":"(transfer by) spoon","he":"להשתמש בכף"}
 {"L":"culierin","C":["a"],"en":"spoonlike, spoon-shaped","he":"בצורת כף, כפית"}
 {"L":"culieron","C":["n"],"i":"#","en":"ladle","fr":"louche","he":"תרווד, מצקת"}
-{"T":"r","L":"culmina","C":["vnt"],"d":"ateni la punto la plu alta, fisical o metafor","en":"culminate, climax, peak, crest","fr":"culminer","he":"להגיע לפסגה, להגיע לשיא"}
+{"T":"r","L":"culmina","C":["vnt"],"d":"ateni la punto la plu alta, fisical o metafor","en":"culminate, climax, peak, crest","es":"cumbre, pico, tope, culmen, cima, acme","fr":"culminer","he":"להגיע לפסגה, להגיע לשיא"}
 {"L":"culmina","C":["n"],"da":"top, tinde","de":"Oberteil, Wipfel","en":"culmination, climax, peak, summit, top, crest; paragon; punchline","fr":"point culminant, sommet","he":"פסגה, שיא, צמרת"}
 {"L":"culmina con","C":["v"],"en":"culminate with, be surmounted with, be topped with","he":"לסיים עם"}
 {"L":"culmina de arbor","C":["n"],"en":"treetop","he":"צמרת עץ"}
@@ -7274,9 +7276,9 @@
 {"L":"culeta","C":["n"],"d":"(nonformal) un gluteo","en":"(colloquial) bun, butt cheek (buttock)","fr":"fesse","he":"אחד מצדדי הישבן"}
 {"T":"r","L":"culom","C":["n","fis"],"d":"la mesura internasional de carga eletrical","en":"coulomb (unit of charge)","fr":"coulomb","he":"(פיזיקה) קולון"}
 {"T":"r","L":"culote","C":["n","vest"],"d":"un pantaleta fema con forma de pantala laxe","en":"French knickers, tap pants","fr":"culotte-short","he":"מכנס קצר לנשים"}
-{"T":"r","L":"culpa","C":["vt","gov"],"d":"senti o declara ce (un person o cosa) ia causa un fali o rompe spesifada","da":"bebrejde","de":"die Schuld geben","en":"blame","fr":"blâmer","he":"להאשים"}
+{"T":"r","L":"culpa","C":["vt","gov"],"d":"senti o declara ce (un person o cosa) ia causa un fali o rompe spesifada","da":"bebrejde","de":"die Schuld geben","en":"blame","es":"culpar, hechar la culpa a","fr":"blâmer","he":"להאשים"}
 {"L":"culpa","C":["n"],"en":"blame","fr":"reproches, blâme","he":"האשמה"}
-{"L":"culpable","C":["a"],"da":"skyldig","de":"schuldig","en":"guilty, blameworthy, culpable, responsible, liable","fr":"coupable, blâmable","he":"אשם"}
+{"L":"culpable","C":["a"],"da":"skyldig","de":"schuldig","en":"guilty, blameworthy, culpable, responsible, liable","es":"culpable, reo, delincuente","fr":"coupable, blâmable","he":"אשם"}
 {"L":"culpablia","C":["n"],"en":"guilt, responsibility, liability","fr":"culpabilité","he":"אשמה"}
 {"L":"desculpa","C":["vt"],"en":"exculpate, exonerate, vindicate, acquit","fr":"disculper","he":"לזכות"}
 {"L":"desculpa","C":["n"],"en":"exoneration, vindication, acquittal","he":"זיכוי (מאשמה)"}
@@ -7303,7 +7305,7 @@
 {"T":"r","L":"culto","C":["n","rel"],"d":"un sistem de adora relijiosa, dirijeda a un person o cosa spesifada; un grupo relativa peti de persones con credes o rituos cual otra persones regarda como strana o mal; un amira tro grande o nonmeritada per un person o cosa spesifada","en":"cult","fr":"culte","he":"כת"}
 {"L":"culto de personalia","C":["n"],"en":"personality cult","fr":"culte de la personnalié","he":"פולחן אישיות"}
 {"L":"cultiste","C":["n"],"en":"cultist","he":"חבר בכת"}
-{"T":"r","L":"cultur","C":["n","uma"],"d":"la abituas, rituos, artes, instituidas sosial e atenis de un nasion, popla o otra grupo sosial; la credes e desiras tipal de un sosia, comunia o eda; la modo en cual un person o grupo gida sua vive","da":"kultur","de":"Kultur","en":"culture, lifestyle, ethos","fr":"culture, style de vie, mode de vie","he":"תרבות, אורח חיים, אתוס"}
+{"T":"r","L":"cultur","C":["n","uma"],"d":"la abituas, rituos, artes, instituidas sosial e atenis de un nasion, popla o otra grupo sosial; la credes e desiras tipal de un sosia, comunia o eda; la modo en cual un person o grupo gida sua vive","da":"kultur","de":"Kultur","en":"culture, lifestyle, ethos","es":"cultura","fr":"culture, style de vie, mode de vie","he":"תרבות, אורח חיים, אתוס"}
 {"L":"cultural","C":["a"],"en":"cultural","fr":"culturel","he":"תרבותי"}
 {"L":"intercultural","C":["a"],"en":"intercultural, cross-cultural, cross-culture","fr":"interculturel","he":"בין-תרבותי"}
 {"L":"sucultur","C":["n"],"d":"un grupo distinguida en un cultur plu grande","en":"subculture","he":"תת-תרבות"}
@@ -7328,14 +7330,14 @@
 {"L":"cuna texeda","C":["n"],"en":"cat's cradle","he":"סבתא סורגת (משחק)"}
 {"T":"r","L":"cuneforma","C":["a","ling"],"d":"pertinente a la sinias formida como cuneos, usada en la sistemes antica de scrive de Mesopotamia, Persia e la site Ugart, cual survive xef como impresas sur tabletas de arjila","i":"#","en":"cuneiform","fr":"cunéiforme","he":"שקשור לכתב יתדות"}
 {"L":"cuneforma","C":["n"],"en":"cuneiform","he":"כתב יתדות"}
-{"T":"r","L":"cuneo","C":["n","util"],"d":"un peso de lenio, metal o otra materia con un fini spesa cual diminui a un borda magra, tipal martelida entre du ojetos per fisa o separa los","da":"kile","de":"Keil","en":"wedge, chock, shim; wedge (golf club)","fr":"coin (pour fendre le bois)","he":"טריז"}
+{"T":"r","L":"cuneo","C":["n","util"],"d":"un peso de lenio, metal o otra materia con un fini spesa cual diminui a un borda magra, tipal martelida entre du ojetos per fisa o separa los","da":"kile","de":"Keil","en":"wedge, chock, shim; wedge (golf club)","es":"cuña","fr":"coin (pour fendre le bois)","he":"טריז"}
 {"T":"r","L":"cungfu","C":["n","spo"],"d":"un arte militar de Jonguo, simil a carate","en":"kung fu","he":"קונג פו"}
 {"T":"r","L":"cunilingo","C":["n","uma"],"d":"la ata de stimula la jenitales de un fem con lingua o labios","en":"cunnilingus","he":"מין אוראלי באישה"}
 {"L":"fa cunilingo","C":["v"],"en":"perform cunnilingus","he":"לבצע מין אוראלי באישה"}
 {"T":"r","L":"cuno","C":["n","anat"],"d":"(nonformal) la vulva o vajina","en":"(colloquial) pussy, fanny (UK), cunt (vagina)","eo":"piĉo","fr":"con, chatte","he":"(סלנג) כוס (פות)"}
 {"L":"leca la cuno","C":["v"],"en":"(colloquial) eat out, go down on (cunnilingus)","eo":"frandzi","he":"(סלנג) לרדת לבחורה"}
 {"T":"r","L":"cuol","C":["n","mam"],"d":"un marsupio carnivor ci sembla un gato, con gamas corta e pelo con marcas blanca, abitante la forestas de Australia e Gine Nova","i":"#","t":"Dasyurus","en":"quoll (animal)","fr":"dasyure, chat marsupial","he":"נמיית כיס"}
-{"T":"r","L":"cuoro","C":["n","util"],"d":"un materia fabricada de la pel de un animal par tana o simil","da":"læder","de":"Leder","en":"leather","fr":"cuir","he":"עור (מעובד)"}
+{"T":"r","L":"cuoro","C":["n","util"],"d":"un materia fabricada de la pel de un animal par tana o simil","da":"læder","de":"Leder","en":"leather","es":"cuero","fr":"cuir","he":"עור (מעובד)"}
 {"L":"cuoro suave","C":["n"],"en":"suede","fr":"daim, cuir suédé","he":"זמש"}
 {"L":"cuoro vernisida","C":["n"],"en":"patent leather","fr":"cuir vernis","he":"עור מבריק"}
 {"L":"cuorin","C":["a"],"en":"leathery","he":"כמו עור (מעובד)"}
@@ -7344,18 +7346,18 @@
 {"T":"r","L":"cuota","C":["n","gov"],"d":"un limita a la cuantia de un produida cual on pote crea, esporta o emporta; un cuantia fisada de un cosa cual un person o grupo pote reseta o debe contribui","en":"quota, allowance","he":"מכסה"}
 {"T":"r","L":"cupe","C":["n","vec"],"d":"un auto con teto fisada, du portes e un retro inclinada","en":"coupé (car)","he":"קופה (מכונית)"}
 {"T":"r","L":"Cupido","C":["n","mit"],"d":"(en mitos roman) la dio de ama, tipal representada par un enfante nuda con alas e un arco con flexas","i":"#","en":"Cupid","he":"קופידון"}
-{"T":"r","L":"cupola","C":["n","arci"],"d":"un teto formida de voltas, tipal con funda ronda","i":"#","da":"kuppel","de":"Kuppel","en":"dome, cupola","fr":"dôme, coupole","he":"כיפה (גג)"}
+{"T":"r","L":"cupola","C":["n","arci"],"d":"un teto formida de voltas, tipal con funda ronda","i":"#","da":"kuppel","de":"Kuppel","en":"dome, cupola","es":"bóveda, domo, cúpula","fr":"dôme, coupole","he":"כיפה (גג)"}
 {"L":"cupola jeodesial","C":["n"],"i":"#","en":"geodesic dome","fr":"géode","he":"כיפה גאודזית"}
 {"L":"cupola onionin","C":["n"],"i":"#","en":"onion dome","he":"כיפת בצל"}
 {"L":"cupolin","C":["a"],"en":"domelike, dome-shaped","he":"(גג) בצורת כיפה"}
-{"T":"r","L":"cupre","C":["n","cim"],"d":"la elemento cimical con numero atomal 29, un metal rojin brun","s":"Cu","da":"kobber","de":"Kupfer","en":"copper","fr":"cuivre","he":"נחושת"}
+{"T":"r","L":"cupre","C":["n","cim"],"d":"la elemento cimical con numero atomal 29, un metal rojin brun","s":"Cu","da":"kobber","de":"Kupfer","en":"copper","es":"cobre","fr":"cuivre","he":"נחושת"}
 {"L":"cupri","C":["vt"],"en":"copper","fr":"cuivrer","he":"לצפות בנחושת"}
 {"L":"cupror","C":["n"],"en":"coppersmith","he":"חרש נחושת"}
 {"L":"de cupre","C":["a"],"en":"(made of) copper","he":"עשוי מנחושת"}
 {"T":"r","L":"cuprica","C":["a","cim"],"d":"pertinente a cupre con valentia du","en":"cupric","he":"נחושתי (דרגת חמצון 2)"}
 {"T":"r","L":"cuprita","C":["n","tera"],"d":"un mineral roja oscur o negra brunin, composada de osido cuprosa","en":"cuprite","he":"קופריט (מינרל)"}
 {"T":"r","L":"cuprosa","C":["a","cim"],"d":"pertinente a cupre con valentia un","en":"cuprous","he":"נחושתי (דרגת חמצון 1)"}
-{"T":"r","L":"cura","C":["vt","uma"],"d":"atende e aida la manteni de (un person o cosa), tipal con compatia; regarda (un person o cosa) como meritante atende","v":"atende","en":"care, care for, take care of, nurse, nurture, look after, minister to","fr":"soigner, prendre soin de","he":"לטפל, לסעוד, לטפח"}
+{"T":"r","L":"cura","C":["vt","uma"],"d":"atende e aida la manteni de (un person o cosa), tipal con compatia; regarda (un person o cosa) como meritante atende","v":"atende","en":"care, care for, take care of, nurse, nurture, look after, minister to","es":"cuidado, esmero, preocupación","fr":"soigner, prendre soin de","he":"לטפל, לסעוד, לטפח"}
 {"L":"cura","C":["n"],"da":"pasning, pleje, bekymring","de":"Sorge, Kummer","en":"care, concern, nurture; care (means of treatment); custody","fr":"soin, soins","he":"טיפול, סיעוד, טיפוח; אפוטרופסיות"}
 {"L":"cura personal","C":["n"],"en":"grooming, personal hygiene","he":"טיפוח אישי"}
 {"L":"cura prima","C":["n"],"en":"primary care","fr":"premiers soins","he":"רפואה ראשונית"}
@@ -7409,7 +7411,7 @@
 {"L":"estra cursos","C":["a"],"en":"extracurricular","he":"שמחוץ לתוכנית הלימודים"}
 {"T":"r","L":"cursor","C":["n","info"],"d":"un indicador movable sur un scermo de un computador, indicante la loca cual ta es afetada si la usor tape o clica","i":"indicador","en":"cursor (software)","he":"(מחשבים) סמן"}
 {"T":"r","L":"cursor","C":["n","avia"],"d":"un avia simil a un pluvial, capas de core rapida","i":"#","t":"Cursorius, Rhinoptilus","en":"courser (bird)","he":"רץ מדבר (ציפור)"}
-{"T":"r","L":"curva","C":["a","mat"],"d":"con forma cual devia gradal de retia","da":"bøjet","de":"gebeugt","en":"curved, bent (naturally)","es":"curva","fr":"courbe","he":"מעוקם, מעוקל (באופן טבעי)"}
+{"T":"r","L":"curva","C":["a","mat"],"d":"con forma cual devia gradal de retia","da":"bøjet","de":"gebeugt","en":"curved, bent (naturally)","es":"doblado, torcido, curvo, curvado, chueco, encorvado, inclinado","fr":"courbe","he":"מעוקם, מעוקל (באופן טבעי)"}
 {"L":"curva","C":["n"],"da":"kurve","de":"Kurve","en":"curve, bend, bight","es":"curva","fr":"courbe","he":"עקומה, עקום, עיקול"}
 {"L":"curva ornosa","C":["n"],"en":"flourish, ornate curve","es":"floritura, adorno","fr":"fioriture","he":"עיטור מעוקל"}
 {"L":"curvable","C":["a"],"da":"fleksibel","de":"biegsam","en":"bendable","es":"borneadizo, flexible, maleable","fr":"malléable","he":"שניתן לעיקום"}
@@ -21527,8 +21529,6 @@
 {"L":"puninte","C":["a"],"en":"punishing, punitive"}
 {"T":"r","L":"punica","C":["a","dem","ist"],"d":"pertinente a Cartago antica","en":"Punic, Carthaginian"}
 {"T":"r","L":"punio","C":["n","anat"],"d":"la mano de un person cuando la ditos es curvida e tensada a la palma e forte tenida ala, tipal per colpa algun o teni alga cosa","i":"#","da":"næve","de":"Faust","en":"fist","eo":"pugno","es":"puño","fr":"poing","it":"pugno","nl":"vuist","pt":"punho"}
-{"L":"colpa con punio","C":["v"],"en":"punch"}
-{"L":"colpa con punio","C":["n"],"en":"punch"}
 {"L":"punio ferin","C":["n"],"en":"iron fist"}
 {"T":"r","L":"punta","C":["vnt"],"d":"(un arma o camera) es dirijeda a un ojeto","da":"sigte (pege mod noget)","de":"zielen","en":"point, be aimed","eo":"celi","es":"apuntar, asestar, dirigir, aspirar","fr":"viser","it":"puntare","nl":"mikken","pt":"apontar, aspirar"}
 {"L":"punta","C":["vt"],"en":"point, aim, bring to bear"}
