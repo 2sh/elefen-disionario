@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '2 otobre 2019';
+﻿var dataDeDatos = '3 otobre 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",da:"i, ved, på, hos, nær",de:"bei, mit, um",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",gl:"en (no mesmo lugar que)",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -7638,14 +7638,14 @@ var disionario = [
 {L:"redefini",C:["vt"],en:"redefine",he:"להגדיר מחדש"},
 {T:"r",L:"defla",C:["vnt"],d:"(un cosa inflada) relasa la aira o gas contenida",en:"deflate",he:"להוציא אוויר או גז",ru:"сдуть, выкачивать (например воздух), дефлировать"},
 {L:"defla",C:["n"],en:"deflation",he:"הוצאת אוויר או גז, דפלציה",ru:"выкачиание, сдутие, дефляция"},
-{T:"r",L:"degrada",C:["vnt"],d:"(un cualia antropolojial) deveni plu basa",en:"degrade",fr:"(se) dégrader",he:"להיות מושפל, להתבזות; (כימיה) להתפרק, להתכלות",ru:"деградировать, ухудшаться, снижаться, разрушаться, ветшать; унижать своё достоинство, позорить (себя)"},
-{L:"degrada",C:["vt"],d:"basi la cualia de; trata o regarda (algun) con despeta o desrespeta",en:"degrade, cheapen, demean",fr:"dégrader",he:"להשפיל, לבזות; (כימיה) לפרק, להגריע",ru:"ухудшать, разрушать, снижать, приводить (к износу); размывать (о воде) ; разжаловать (в чине)"},
-{L:"degrada",C:["n"],en:"degradation",fr:"dégradation",he:"השפלה, ביזוי; (כימיה) פירוק, הגרעה",ru:"деградация, ухудшение, износ, разрушение, обветшание; разжалование (в чине); унижение, позор"},
-{L:"degradante",C:["a"],en:"degradable",he:"מתכלה"},
-{L:"degradante",C:["a"],en:"degrading, derogatory",fr:"dégradant",he:"משפיל, מבזה, מביש, מעליב",ru:"деградирующий, разрушающийся, ухудшающийся, изнашивающийся; унизительный, позорный"},
-{T:"r",L:"deisme",C:["n"],d:"un crede a la esiste de un esente suprema, tipal un creor ci no interveni en la mundo",en:"deism",he:"דאיזם"},
-{L:"deiste",C:["a"],en:"deistic, deist",he:"דאיסטי"},
-{L:"deiste",C:["n"],en:"deist",he:"דאיסט"},
+{T:"r",L:"degrada",C:["vnt"],d:"(un cualia antropolojial) deveni plu basa",en:"degrade",es:"degradarse",fr:"(se) dégrader",he:"להיות מושפל, להתבזות; (כימיה) להתפרק, להתכלות",ru:"деградировать, ухудшаться, снижаться, разрушаться, ветшать; унижать своё достоинство, позорить (себя)"},
+{L:"degrada",C:["vt"],d:"basi la cualia de; trata o regarda (algun) con despeta o desrespeta",en:"degrade, cheapen, demean",es:"degradar",fr:"dégrader",he:"להשפיל, לבזות; (כימיה) לפרק, להגריע",ru:"ухудшать, разрушать, снижать, приводить (к износу); размывать (о воде) ; разжаловать (в чине)"},
+{L:"degrada",C:["n"],en:"degradation",es:"degradación, deterioro",fr:"dégradation",he:"השפלה, ביזוי; (כימיה) פירוק, הגרעה",ru:"деградация, ухудшение, износ, разрушение, обветшание; разжалование (в чине); унижение, позор"},
+{L:"degradante",C:["a"],en:"degradable",es:"degradable",fr:"dégradable",he:"מתכלה"},
+{L:"degradante",C:["a"],en:"degrading, derogatory",es:"degradante, despectivo, despreciativo",fr:"dégradant",he:"משפיל, מבזה, מביש, מעליב",ru:"деградирующий, разрушающийся, ухудшающийся, изнашивающийся; унизительный, позорный"},
+{T:"r",L:"deisme",C:["n"],d:"un crede a la esiste de un esente suprema, tipal un creor ci no interveni en la mundo",en:"deism",es:"deísmo",he:"דאיזם"},
+{L:"deiste",C:["a"],en:"deistic, deist",es:"deísta",he:"דאיסטי"},
+{L:"deiste",C:["n"],en:"deist",es:"deísta",he:"דאיסט"},
 {T:"r",L:"dejenera",C:["vnt","med"],d:"perde sua bon state o cualias normal; diminui fisical, mental o moral",en:"degenerate, deteriorate, run down, decay",fr:"dégénérer",he:"להידרדר, להתנוון; להתבלות",ru:"вырождаться, опускаться; переходить, перерождаться (во что-либо)"},
 {L:"dejenera",C:["n"],en:"degeneration, decay, decadence",fr:"dégénération, dégénérescence",he:"הידרדרות, דרדור, התנוונות, דקדנס, ניוון; התבלות, בליה",ru:"вырождение, упадок; перерождение (мед)"},
 {L:"dejenerada",C:["a"],en:"degenerated, degenerate, decadent",he:"מנוון, דקדנטי; בלוי"},
