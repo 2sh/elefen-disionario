@@ -7949,30 +7949,30 @@
 {"L":"destrosa","C":["a"],"en":"handy, dextrous, skillful|skilful, deft","he":"מיומן"}
 {"L":"destrosia","C":["n"],"en":"dexterity","he":"מיומנות"}
 {"T":"r","L":"destrosa","C":["n","bio"],"d":"la forma la plu comun de glucosa","en":"dextrose (sugar)","he":"דקסטרוז"}
-{"T":"r","L":"destrui","C":["vt"],"d":"fa ce (un cosa) sesa esiste par dana o ataca lo; ruina emosial o spirital (algun); defeta completa (algun)","da":"ødelægge, destruere","de":"zerstören, vernichten","en":"destroy, demolish, decimate, raze, spoil; blast, zap","es":"destruir"}
-{"L":"destrui","C":["n"],"en":"destruction, demolition"}
-{"L":"autodestrui","C":["vt"],"en":"self-destruct"}
-{"L":"autodestruinte","C":["a"],"en":"self-destructive"}
-{"L":"destruinte","C":["a"],"en":"destructive, ruinous"}
-{"L":"destruor","C":["n"],"en":"destroyer, demolisher"}
-{"L":"nondestruable","C":["a"],"en":"indestructible"}
-{"L":"supradestrui","C":["vt"],"en":"overkill"}
-{"L":"supradestrui","C":["n"],"en":"overkill"}
-{"T":"r","L":"deta","C":["n","mone"],"d":"un cosa, tipal mone, cual on debe repaia","da":"gæld, skyld","de":"Schuld","en":"debt, debit, arrears","es":"deuda, obligación de pago"}
-{"L":"deta de jua","C":["n"],"en":"gambling debt"}
-{"L":"detor","C":["n"],"en":"debtor"}
-{"T":"r","L":"detalia","C":["vt"],"d":"descrive (un cosa) en modo completa, incluinte tota fatos, cualias o partes, an si los es peti o minor; identifia esata (un fato o conseta)","en":"detail, itemize|is, elaborate; pinpoint"}
-{"L":"detalia","C":["n"],"d":"un cualia, fato o parte individua, tipal peti o minor","da":"detalje","de":"Detail","en":"detail","es":"detalle, pormenor, punto de interés"}
-{"L":"detaliosa","C":["a"],"en":"detailed, elaborate, intricate"}
-{"T":"r","L":"deteni","C":["vt","gov"],"d":"preveni (algun) de vade puntual, tipal par dona plu taxes a el o per interoga el sur un crimin o situa delicata; confisca e teni (benes)","en":"detain"}
-{"L":"deteni","C":["n"],"en":"detention"}
-{"L":"deteneria","C":["n"],"en":"detention center|re"}
-{"T":"r","L":"deterjente","C":["n","cim","vest"],"d":"un licuida cual limpi ojetos par combina con sustantias susia e fa ce estas deveni plu disolvable","en":"detergent, cleanser"}
-{"L":"deterjente de platos","C":["n"],"en":"dishwashing liquid, washing-up liquid"}
-{"T":"r","L":"determina","C":["vt","fil"],"d":"fa ce (un cosa) aveni en modo spesifada; deside firma ce (un cosa) va aveni; descovre (alga cosa) par calcula o rexerca","en":"determine, dictate"}
-{"L":"determina","C":["n"],"en":"determination"}
-{"L":"autodetermina","C":["vt"],"en":"self-determine, self-direct"}
-{"L":"autodetermina","C":["n"],"en":"self-determination"}
+{"T":"r","L":"destrui","C":["vt"],"d":"fa ce (un cosa) sesa esiste par dana o ataca lo; ruina emosial o spirital (algun); defeta completa (algun)","da":"ødelægge, destruere","de":"zerstören, vernichten","en":"destroy, demolish, decimate, raze, spoil; blast, zap","es":"destruir","he":"להרוס, למוטט, להשמיד"}
+{"L":"destrui","C":["n"],"en":"destruction, demolition","he":"הרס, חורבן, השמדה, הריסה"}
+{"L":"autodestrui","C":["vt"],"en":"self-destruct","he":"להשמיד את עצמו"}
+{"L":"autodestruinte","C":["a"],"en":"self-destructive","he":"שנוטה להרס עצמי"}
+{"L":"destruinte","C":["a"],"en":"destructive, ruinous","he":"הרסני"}
+{"L":"destruor","C":["n"],"en":"destroyer, demolisher","he":"גורם הרסני (אדם)"}
+{"L":"nondestruable","C":["a"],"en":"indestructible","he":"בלתי ניתן להריסה"}
+{"L":"supradestrui","C":["vt"],"en":"overkill","he":"להרוס מעבר לצורך; להגזים, לעשות שימוש יתר"}
+{"L":"supradestrui","C":["n"],"en":"overkill","he":"הריסה מוגזמת; הגזמה, שימוש יתר"}
+{"T":"r","L":"deta","C":["n","mone"],"d":"un cosa, tipal mone, cual on debe repaia","da":"gæld, skyld","de":"Schuld","en":"debt, debit, arrears","es":"deuda, obligación de pago","he":"חוב"}
+{"L":"deta de jua","C":["n"],"en":"gambling debt","he":"חוב הימורים"}
+{"L":"detor","C":["n"],"en":"debtor","he":"בעל חוב, לווה"}
+{"T":"r","L":"detalia","C":["vt"],"d":"descrive (un cosa) en modo completa, incluinte tota fatos, cualias o partes, an si los es peti o minor; identifia esata (un fato o conseta)","en":"detail, itemize|is, elaborate; pinpoint","he":"לפרט; לזהות, לאתר (במדויק)"}
+{"L":"detalia","C":["n"],"d":"un cualia, fato o parte individua, tipal peti o minor","da":"detalje","de":"Detail","en":"detail","es":"detalle, pormenor, punto de interés","he":"פרט; פירוט"}
+{"L":"detaliosa","C":["a"],"en":"detailed, elaborate, intricate","he":"מפורט, פרטני"}
+{"T":"r","L":"deteni","C":["vt","gov"],"d":"preveni (algun) de vade puntual, tipal par dona plu taxes a el o per interoga el sur un crimin o situa delicata; confisca e teni (benes)","en":"detain","he":"לעכב; לעצור (לחקירה)"}
+{"L":"deteni","C":["n"],"en":"detention","he":"עיכוב; ריתוק; מעצר"}
+{"L":"deteneria","C":["n"],"en":"detention center|re","he":"בית מעצר"}
+{"T":"r","L":"deterjente","C":["n","cim","vest"],"d":"un licuida cual limpi ojetos par combina con sustantias susia e fa ce estas deveni plu disolvable","en":"detergent, cleanser","he":"חומר ניקוי, דטרגנט"}
+{"L":"deterjente de platos","C":["n"],"en":"dishwashing liquid, washing-up liquid","he":"סבון כלים, נוזל כלים"}
+{"T":"r","L":"determina","C":["vt","fil"],"d":"fa ce (un cosa) aveni en modo spesifada; deside firma ce (un cosa) va aveni; descovre (alga cosa) par calcula o rexerca","en":"determine, dictate","he":"להגדיר, לקבוע, להחליט, להכתיב"}
+{"L":"determina","C":["n"],"en":"determination","he":"הגדרה, קביעה, החלטה"}
+{"L":"autodetermina","C":["vt"],"en":"self-determine, self-direct","he":"להגדיר בעצמו"}
+{"L":"autodetermina","C":["n"],"en":"self-determination","he":"הגדרה עצמית"}
 {"L":"determinada","C":["a"],"en":"determined; purposeful, resolute"}
 {"L":"determinante","C":["n","ling"],"d":"un parola alterante cual indica la tipo de refere de un nom o formula nomin","en":"determiner, determinative (grammar)"}
 {"L":"determinante de demanda","C":["n","ling"],"en":"interrogative determiner (grammar)"}
@@ -14188,7 +14188,7 @@
 {"T":"r","L":"lacros","C":["n","spo"],"d":"un jua de ecipos en cual un bal es lansada, portada e caturada con un basto de manico longa con un rede a la fini","en":"lacrosse (sport)"}
 {"T":"r","L":"ladin","C":["a","ling"],"d":"un lingua de la familia reto-romanica, parlada en partes de Italia norde-este","en":"Ladin (language)"}
 {"L":"ladin","C":["n"],"en":"Ladin (language)"}
-{"T":"r","L":"lado","C":["n"],"d":"un loca a sinistra o destra de alga cosa; la parte sinistra o destra de alga cosa; cada de la du duis de un cosa, surfas o loca; un surfas vertical de un cosa o strutur cual no es fronte o retro; un area prosima a la borda e distante de la media; un person o grupo oposante otras en un concurso, debate o disputa","da":"side","de":"Seite","en":"side, flank"}
+{"T":"r","L":"lado","C":["n"],"d":"un loca a sinistra o destra de alga cosa; la parte sinistra o destra de alga cosa; cada de la du duis de un cosa, surfas o loca; un surfas vertical de un cosa o strutur cual no es fronte o retro; un area prosima a la borda e distante de la media; un person o grupo oposante otras en un concurso, debate o disputa","da":"side","de":"Seite","en":"side, flank","es":"lado, flanco, lateral, costado"}
 {"L":"lado de monte","C":["n"],"en":"mountainside"}
 {"L":"lado de via","C":["n"],"en":"roadside, wayside, hard shoulder"}
 {"L":"a lado de via","C":["a"],"en":"roadside, by the roadside"}
@@ -14201,7 +14201,7 @@
 {"L":"ladal","C":["a"],"en":"lateral, side; sideways"}
 {"L":"ladal","C":["n"],"en":"lateral (consonant)"}
 {"L":"ladal fasante","C":["a"],"en":"sideways, sideways on"}
-{"T":"r","L":"lago","C":["n","tera"],"d":"un area grande de acua ensircada par tera","i":"#","da":"sø","de":"See","en":"lake"}
+{"T":"r","L":"lago","C":["n","tera"],"d":"un area grande de acua ensircada par tera","i":"#","da":"sø","de":"See","en":"lake","es":"lago"}
 {"L":"lago de reserva","C":["n"],"en":"reservoir"}
 {"L":"lageta","C":["n"],"i":"#","en":"pond, tarn, small lake"}
 {"L":"lagon","C":["n"],"i":"#","en":"lagoon"}
@@ -14209,7 +14209,7 @@
 {"L":"laica","C":["n"],"de":"Laie","en":"layperson, layman, laywoman","es":"lego, laico, seglar","fr":"laïc, laïque","it":"laico","pt":"leigo, laico"}
 {"L":"laicas","C":["n","pl"],"de":"Laien, Laie","en":"laity, lay people","es":"laicos, legos","fr":"laïcs","it":"laicato, laici","pt":"leigo"}
 {"T":"r","L":"Lakshadib, Mar","C":["n","jeo"],"d":"un mar a ueste de Srilanca","i":"Mar-Lakshadib","en":"Lakshadweeb Sea, Laccadive Sea"}
-{"T":"r","L":"lama","C":["n","util"],"d":"la borda agu de un cotel, siera, spada, patin o otra util o arma; la parte plata e larga de un aparato como un remo o elica; un peso plata de metal con borda agu; un strumento con borda agu, usada per sutrae capeles de la fas o corpo","i":"#","da":"blad","de":"Klinge","en":"blade, razor blade, razor"}
+{"T":"r","L":"lama","C":["n","util"],"d":"la borda agu de un cotel, siera, spada, patin o otra util o arma; la parte plata e larga de un aparato como un remo o elica; un peso plata de metal con borda agu; un strumento con borda agu, usada per sutrae capeles de la fas o corpo","i":"#","da":"blad","de":"Klinge","en":"blade, razor blade, razor","es":"lámina, hoja de cuchillo, hoja de hierba, espada, aspa de hélice, pala de remo"}
 {"L":"lama de arado","C":["n"],"en":"plowshare|ploughshare"}
 {"T":"r","L":"lama","C":["n","rel"],"d":"un titulo onorosa, donada a un monce xef en budisme bod","en":"lama (Buddhism)"}
 {"T":"r","L":"lamarcisme","C":["n","bio"],"d":"un teoria de la orijina de spesies, proposada par Jean-Baptiste de Lamarck, un naturiste franses.","en":"Lamarckism"}
@@ -14226,7 +14226,7 @@
 {"T":"r","L":"lamina","C":["n","tera"],"d":"un strato magra de roca, texeda o otra materia; un materia composada de stratos magra, fisada sur lunlotra; cada de un serie de bandas magra, fisada a intervales en un porte o scermo per permete la pasa de aira o lus; cada de la platas vertical e radial ordinada a la fondo de un xampinion","i":"#","en":"lamina, laminate, plate; louver|re, slat; lamella, gill (mushroom)"}
 {"L":"lamini","C":["vt"],"en":"laminate"}
 {"L":"lamini","C":["n"],"en":"lamination"}
-{"T":"r","L":"lampa","C":["n","util"],"d":"un aparato per lumina","i":"#","da":"lampe","de":"Lampe","en":"lamp, light, lantern"}
+{"T":"r","L":"lampa","C":["n","util"],"d":"un aparato per lumina","i":"#","da":"lampe","de":"Lampe","en":"lamp, light, lantern","es":"lámpara, linterna, farol"}
 {"L":"lampa alojen","C":["n"],"en":"halogen lamp"}
 {"L":"lampa de calce","C":["n"],"en":"limelight (literal)"}
 {"L":"lampa de gas","C":["n"],"en":"gaslight"}
@@ -14239,24 +14239,24 @@
 {"L":"lampa solin","C":["n"],"en":"sunlamp"}
 {"L":"lampa ultravioleta","C":["n"],"en":"ultraviolet lamp, sunlamp"}
 {"T":"r","L":"lampeta","C":["n","artr"],"d":"un scarabe notada per sua organos luminosa, produida per atrae la seso oposante","i":"#","t":"Lampyridaeo","en":"firefly, glow-worm, lightning bug"}
-{"T":"r","L":"lampo","C":["n","tera"],"d":"un descarga natural de eletrica entre du nubes o entre un nube e la tera","i":"#","da":"lyn","de":"Blitz","en":"lightning, thunderbolt"}
+{"T":"r","L":"lampo","C":["n","tera"],"d":"un descarga natural de eletrica entre du nubes o entre un nube e la tera","i":"#","da":"lyn","de":"Blitz","en":"lightning, thunderbolt","es":"relámpago, relampagueo"}
 {"L":"lampi","C":["vnt"],"en":"flash"}
 {"L":"lampi","C":["vt"],"en":"flash"}
 {"L":"lampin","C":["a"],"en":"like lightning, breakneck"}
 {"L":"lamposa","C":["a"],"en":"full of lightning"}
 {"T":"r","L":"lamprea","C":["n","pex"],"d":"un vertebrato acual, simil a un angila, con boca ventosin, dentes e lingua raspante, cual junta se a otra pexes per suca sua sangue","i":"#","t":"Petromyzonidae","en":"lamprey (animal)"}
-{"T":"r","L":"lana","C":["n","vest"],"d":"la capeles risa e suave de la pelo de un capra, ovea o animal simil, spesial cuando preparada per usa en la fabrica de stofa; la stofa produida con estas","i":"#","da":"uld","de":"Wolle","en":"wool, fleece"}
+{"T":"r","L":"lana","C":["n","vest"],"d":"la capeles risa e suave de la pelo de un capra, ovea o animal simil, spesial cuando preparada per usa en la fabrica de stofa; la stofa produida con estas","i":"#","da":"uld","de":"Wolle","en":"wool, fleece","es":"lana"}
 {"L":"lana petenida","C":["n"],"en":"worsted (yarn, fabric)"}
 {"L":"de lana","C":["a"],"en":"wool, woollen, woolly"}
 {"L":"lanosa","C":["a"],"en":"wool-covered, woolly"}
 {"T":"r","L":"landsat","C":["n","util"],"d":"un serie de satelites cual monitori la recursos de la Tera par fotografi la surfas a longias diversa de onda","en":"landsat (satellite network)"}
 {"T":"r","L":"langobarda","C":["a","dem"],"d":"pertinente a la popla o lingua de un tribu germanica ci ia invade Italia en la sentenio 6","en":"Langobardic, Lombardic (person, language)"}
 {"L":"langobarda","C":["n"],"en":"Langobard, Lombard"}
-{"T":"r","L":"langosta","C":["n","artr"],"d":"un crustaseo grande e comable con casca spinosa e antenas longa e pesosa, ma sin la garas grande de omaros","i":"#","t":"Palinuridae","da":"hummer","de":"Hummer","en":"spiny lobster, rock lobster, crawfish"}
+{"T":"r","L":"langosta","C":["n","artr"],"d":"un crustaseo grande e comable con casca spinosa e antenas longa e pesosa, ma sin la garas grande de omaros","i":"#","t":"Palinuridae","da":"hummer","de":"Hummer","en":"spiny lobster, rock lobster, crawfish","es":"langosta"}
 {"T":"r","L":"langur","C":["n","mam"],"d":"un simia de Asia con coda longa e vose multe forte","i":"#","t":"Colobinae","en":"langur, leaf monkey"}
 {"T":"r","L":"lanio","C":["n","avia"],"d":"un avia cantante con beco oncin e forte","i":"#","t":"Laniidae","en":"shrike (bird)"}
 {"T":"r","L":"lanolin","C":["n","bio"],"d":"un sustantia grasosa trovada sur la lana de oveas","en":"lanolin (substance)"}
-{"T":"r","L":"lansa","C":["vt"],"d":"propulsa (alga cosa) con forsa tra la aira par un move de la braso e mano; fa ce (un imaje de lus) cade sur un surfas; fa ce (sua vose) es oiable a distantia","da":"kaste, smide","de":"werfen","en":"throw, toss, fling, sling, hurl, chuck, launch, cast, bowl, blast off; project (image, voice)"}
+{"T":"r","L":"lansa","C":["vt"],"d":"propulsa (alga cosa) con forsa tra la aira par un move de la braso e mano; fa ce (un imaje de lus) cade sur un surfas; fa ce (sua vose) es oiable a distantia","da":"kaste, smide","de":"werfen","en":"throw, toss, fling, sling, hurl, chuck, launch, cast, bowl, blast off; project (image, voice)","es":"tirar, arrojar, lanzar, echar, desechar, aventar"}
 {"L":"lansa","C":["n"],"en":"throw, throwing, toss, launch, cast, blast-off, lift-off; projection"}
 {"L":"lansa a mercato","C":["v"],"en":"launch onto the market, release, ship"}
 {"L":"lansa alta","C":["v"],"en":"lob"}
@@ -14278,7 +14278,7 @@
 {"T":"r","L":"lansapetra","C":["n","vn","util"],"d":"un macina militar istorial per xuta petras grande","i":"#","en":"catapult"}
 {"L":"lansapetri","C":["vt"],"en":"catapult"}
 {"T":"r","L":"lansaroceto","C":["n","vn","util"],"d":"un tubo fisada a un arma per xuta rocetos","en":"rocket launcher"}
-{"T":"r","L":"lansia","C":["n","util"],"d":"un arma con ase longa e apico puntida, usada per lansa o puxa","i":"#","da":"spyd, lanse","de":"Speer","en":"spear, lance, javelin"}
+{"T":"r","L":"lansia","C":["n","util"],"d":"un arma con ase longa e apico puntida, usada per lansa o puxa","i":"#","da":"spyd, lanse","de":"Speer","en":"spear, lance, javelin","es":"lanza, harpón"}
 {"L":"lansi","C":["vt"],"en":"spear, lance, skewer, impale, gore"}
 {"L":"lansieta","C":["n"],"en":"skewer"}
 {"T":"r","L":"lantanido","C":["n","cim"],"d":"cada de la serie de 15 elementos metal de lantano a lutesio en la table periodal","en":"lanthanide (chemistry)"}
@@ -14295,10 +14295,10 @@
 {"L":"lapis colorida","C":["n"],"en":"colored|ur pencil, coloring|ur pencil"}
 {"T":"r","L":"Laptev, Mar","C":["n","jeo"],"d":"un mar a norde de Sibir sentral","i":"Mar-Laptev","en":"Laptev Sea"}
 {"T":"r","L":"lardo","C":["n","cos"],"d":"carne preparada de la dorso o lados de un porco","i":"#","en":"bacon"}
-{"T":"r","L":"larga","C":["a"],"d":"con distantia grande de un lado a la otra","da":"vid, bred","de":"werfen","en":"wide, broad"}
+{"T":"r","L":"larga","C":["a"],"d":"con distantia grande de un lado a la otra","da":"vid, bred","de":"werfen","en":"wide, broad","es":"amplio, ancho, extenso, vasto"}
 {"L":"largi","C":["vnt"],"en":"widen, broaden"}
 {"L":"largi","C":["vt"],"en":"widen, broaden, ream"}
-{"L":"largia","C":["n"],"da":"vidde","de":"Breite","en":"width"}
+{"L":"largia","C":["n"],"da":"vidde","de":"Breite","en":"width","es":"anchura, ancho"}
 {"L":"largia de banda","C":["n"],"en":"bandwidth"}
 {"T":"r","L":"larinje","C":["n","anat"],"d":"un organo musculosa e vacua cual formi un duto de aira a la pulmones e cual teni la cordas vosal en umanas e otra mamales","en":"larynx"}
 {"L":"larinjal","C":["a"],"en":"laryngeal, guttural"}
@@ -14306,7 +14306,7 @@
 {"T":"r","L":"larinjite","C":["n","med"],"d":"un inflama de la larinje, tipal causante un vose ru o asente, respira ru e tose dolosa","en":"laryngitis"}
 {"T":"r","L":"larix","C":["n","pla"],"d":"un arbor conifer con grupos de agos briliante verde e caduca","i":"#","t":"Larix","en":"larch (tree)"}
 {"T":"r","L":"larma","C":["vt","bio"],"d":"secrete un gota de licuida clar e salosa de glandes en la oios cuando on plora o cuando la oios es iritada","en":"weep, shed tears, tear"}
-{"L":"larma","C":["n"],"i":"#","da":"tåre","de":"Träne","en":"tear, teardrop"}
+{"L":"larma","C":["n"],"i":"#","da":"tåre","de":"Träne","en":"tear, teardrop","es":"lágrima"}
 {"L":"larmosa","C":["a"],"en":"tearful, teary, weepy, maudlin"}
 {"T":"r","L":"larva","C":["n","bio"],"d":"la forma ativa ma nonmatur de un inseto, entre un ovo e un pupa","i":"#","en":"larva, grub (insect)"}
 {"L":"larva de mosca","C":["n"],"i":"#","en":"maggot"}
@@ -14318,7 +14318,7 @@
 {"T":"r","L":"lasanie","C":["n","cos"],"d":"pasta con forma de bandas larga; un plato italian fornida de esta e stratida con carne o vejetales, ceso e salsa de tomates","i":"#","en":"lasagne"}
 {"T":"r","L":"laser","C":["n","util"],"d":"un aparato cual jenera un raio intensa de lus coerente e monocromata","i":"#","en":"laser"}
 {"L":"laseri","C":["vt"],"en":"laser"}
-{"T":"r","L":"lasera","C":["vt"],"d":"tira fortiosa (un cosa) a pesos; crea un buco o fende en (un cosa) par tira o perfora, tipal sin intende","da":"rive","de":"zerreissen","en":"tear, rend, rip, lacerate, maul"}
+{"T":"r","L":"lasera","C":["vt"],"d":"tira fortiosa (un cosa) a pesos; crea un buco o fende en (un cosa) par tira o perfora, tipal sin intende","da":"rive","de":"zerreissen","en":"tear, rend, rip, lacerate, maul","es":"rasgarse, romperse, desgarrarse, arrancarse, desgastarse"}
 {"L":"lasera","C":["n"],"en":"tear, laceration"}
 {"L":"laserada","C":["a"],"en":"torn, ripped, ragged, tattered"}
 {"T":"r","L":"lasiva","C":["a","uma"],"d":"sentinte o mostrante un desira sesal en modo ofendente","en":"lascivious, lecherous, lewd, lustful, licentious, lubricious, salacious, prurient, dissolute; obscene, crude, coarse, dirty, filthy, mucky, naughty, smutty, raunchy"}
@@ -14327,7 +14327,7 @@
 {"T":"r","L":"laso","C":["n","util"],"d":"un anelo de corda con noda liscante cual streti cuando la corda es tirada, usada per catura animales o pende persones","i":"#","en":"lasso, noose, lariat"}
 {"L":"lasi","C":["vt"],"en":"lasso"}
 {"T":"r","L":"lata","C":["n","util"],"d":"aser o fero en forma de plato stratida con stanio","en":"tinplate, sheet steel"}
-{"L":"laton","C":["n"],"d":"un aliada jala de cupre e zinco","da":"messing","de":"Messing","en":"brass"}
+{"L":"laton","C":["n"],"d":"un aliada jala de cupre e zinco","da":"messing","de":"Messing","en":"brass","es":"latón, bronce"}
 {"L":"lator","C":["n"],"en":"tinsmith"}
 {"T":"r","L":"latase","C":["n","bio","cim"],"d":"un enzima cual catalise la idrolise de latosa a glucosa e galatosa","en":"lactase"}
 {"T":"r","L":"latce","C":["n","cos"],"d":"(en cosini iudi) un crepe, tipal de patatas raspada","i":"#","en":"latke (pancake)"}
@@ -14358,7 +14358,7 @@
 {"T":"r","L":"lauro","C":["n","pla"],"d":"un planta o arboreta con folias briliante verde","i":"#","t":"Lauraceae","en":"laurel"}
 {"L":"lauro nobil","C":["n","pla"],"i":"#","t":"Laurus nobilis","en":"bay laurel"}
 {"L":"folia de lauro","C":["n"],"en":"bay leaf"}
-{"T":"r","L":"lava","C":["vt"],"d":"limpi (un person o cosa) con acua e tipal sapon o deterjente","da":"vaske","de":"waschen","en":"wash, launder"}
+{"T":"r","L":"lava","C":["vt"],"d":"limpi (un person o cosa) con acua e tipal sapon o deterjente","da":"vaske","de":"waschen","en":"wash, launder","es":"lavar"}
 {"L":"lava","C":["n"],"en":"washing (action), ablution"}
 {"L":"lava de serebro","C":["n"],"en":"brainwashing"}
 {"L":"lava interna","C":["n"],"en":"lavage, washing out"}
@@ -14378,7 +14378,7 @@
 {"T":"r","L":"lavaoio","C":["n","med"],"d":"un disolve usada per limpi la oios","en":"eyewash"}
 {"T":"r","L":"lavaplato","C":["n","vn","util"],"d":"un macina o person cual lava platos","i":"#","en":"dishwasher"}
 {"T":"r","L":"lavaveste","C":["n","vn","util"],"d":"un macina o person cual lava vestes o otra stofas","en":"washing machine; washerman, washerwoman"}
-{"T":"r","L":"laxe","C":["a","vest"],"d":"no firma fisada; no tensada; (un veste) spasiosa e no streta","da":"løs, vid, slap","de":"locker, schlaff","en":"loose, slack, baggy, lax, sloppy"}
+{"T":"r","L":"laxe","C":["a","vest"],"d":"no firma fisada; no tensada; (un veste) spasiosa e no streta","da":"løs, vid, slap","de":"locker, schlaff","en":"loose, slack, baggy, lax, sloppy","es":"suelto, laxo, abolsado, amplio"}
 {"L":"laxi","C":["vnt"],"en":"loosen"}
 {"L":"laxi","C":["vt"],"en":"loosen"}
 {"L":"laxia","C":["n"],"en":"looseness, slackness, bagginess; slack, give (in a rope); play, backlash (in a mechanism)"}
@@ -14392,7 +14392,7 @@
 {"T":"r","L":"lega","C":["vt","mone"],"d":"lasa (sua imobila personal o sua corpo) a un person o otra beneficada par un atesta final","en":"bequeath"}
 {"L":"lega","C":["n"],"en":"legacy, bequest"}
 {"T":"r","L":"lega","C":["n","mat"],"d":"un mesura antica de distantia, tipal sirca tre milias","en":"league (unit of length)"}
-{"T":"r","L":"lege","C":["n","gov"],"d":"un sistem de regulas reconoseda par un nasion o comunia per regula la atas de sua membros, e cual permete la asinia de multas o punis; cada de la regulas en un tal sistem; un declara, deduida de oserva, ce un fenomeno natural o siensal aveni sempre en alga situa spesifada; un corpo de comandas divin, espresada en un testo relijiosa","da":"lov","de":"Gesetz","en":"law, statute"}
+{"T":"r","L":"lege","C":["n","gov"],"d":"un sistem de regulas reconoseda par un nasion o comunia per regula la atas de sua membros, e cual permete la asinia de multas o punis; cada de la regulas en un tal sistem; un declara, deduida de oserva, ce un fenomeno natural o siensal aveni sempre en alga situa spesifada; un corpo de comandas divin, espresada en un testo relijiosa","da":"lov","de":"Gesetz","en":"law, statute","es":"ley"}
 {"L":"legal","C":["a"],"d":"pertinente a la lege; elejeda o asiniada par la lege; permeteda par la lege","en":"legal, valid, lawful, legitimate; forensic"}
 {"L":"deslegali","C":["vnt"],"en":"illegalize|is, delegitimize|is, outlaw"}
 {"L":"deslegali","C":["vt"],"en":"illegalize|is, delegitimize|is, outlaw"}
@@ -14417,8 +14417,8 @@
 {"L":"nonlegalia","C":["n"],"en":"illegality, illegitimacy"}
 {"L":"par lege","C":["a"],"en":"by law; de jure, by right"}
 {"L":"sin lege","C":["a"],"en":"lawless"}
-{"T":"r","L":"legum","C":["n","pla","cos"],"d":"cualce planta en familia de piso; la seme o otra parte comable de un de esta plantas","t":"Fabaceae","da":"grøntsag","de":"Gemüse","en":"legume"}
-{"T":"r","L":"leje","C":["vt"],"d":"regarda, comprende e cisa vosi (cosas scriveda o primida) par interprete la simboles usada per composa los; vosi","i":"#","da":"læse","de":"lesen","en":"read, peruse"}
+{"T":"r","L":"legum","C":["n","pla","cos"],"d":"cualce planta en familia de piso; la seme o otra parte comable de un de esta plantas","t":"Fabaceae","da":"grøntsag","de":"Gemüse","en":"legume","es":"vegetal, legumbre, verdura, hortaliza"}
+{"T":"r","L":"leje","C":["vt"],"d":"regarda, comprende e cisa vosi (cosas scriveda o primida) par interprete la simboles usada per composa los; vosi","i":"#","da":"læse","de":"lesen","en":"read, peruse","es":"leer"}
 {"L":"leje","C":["n"],"en":"reading (action, interpretation, measurement)"}
 {"L":"leje de labios","C":["n"],"en":"lip-reading"}
 {"L":"leje rapida","C":["vt"],"en":"skim"}
@@ -14436,7 +14436,7 @@
 {"T":"r","L":"lejemente","C":["n","vn"],"d":"un person ci pare capas de sabe la pensas de un otra","en":"mind reader, mentalist"}
 {"T":"r","L":"lejenda","C":["n","mit"],"d":"un nara tradisional, videda como istorial ma tipal no autenticida","en":"legend"}
 {"L":"lejendal","C":["a"],"en":"legendary"}
-{"T":"r","L":"lejera","C":["a"],"d":"con poca o no pesa; no pesosa; fasil levada; de cuantia o intensia basa","da":"let (vægt)","de":"leicht","en":"light, lightweight, weightless"}
+{"T":"r","L":"lejera","C":["a"],"d":"con poca o no pesa; no pesosa; fasil levada; de cuantia o intensia basa","da":"let (vægt)","de":"leicht","en":"light, lightweight, weightless","es":"ligero"}
 {"L":"lejeri","C":["vnt"],"en":"lighten, become lighter"}
 {"L":"lejeri","C":["vt"],"en":"alleviate, relieve, soothe, mitigate"}
 {"L":"lejeri","C":["n"],"en":"relief"}
@@ -14449,7 +14449,7 @@
 {"T":"r","L":"lema","C":["n","mat","fil"],"d":"un teorem media en un demostra matematical o filosofial; un titulo indicante un tema; un parola definida en un disionario","en":"lemma (mathematics, philosophy); headword (dictionary)"}
 {"T":"r","L":"leming","C":["n","mam"],"d":"un rodente peti en familia de campaniol, trovada en la tundra artica","i":"#","t":"Lemmini","en":"lemming (rodent)"}
 {"T":"r","L":"lemur","C":["n","mam"],"d":"un primate arboral con beco puntida e coda longa, trovada en Madagasicara","i":"#","t":"Lemur","en":"lemur (primate)"}
-{"T":"r","L":"lenio","C":["n","arci","bio"],"d":"la materia dur e fibrosa de la tronco e ramos de un arbor o arboreta; esta preparada per usa en construi","i":"#","da":"træ","de":"Holz","en":"wood, timber, lumber"}
+{"T":"r","L":"lenio","C":["n","arci","bio"],"d":"la materia dur e fibrosa de la tronco e ramos de un arbor o arboreta; esta preparada per usa en construi","i":"#","da":"træ","de":"Holz","en":"wood, timber, lumber","es":"madera, leña, palo"}
 {"L":"lenio de foco","C":["n"],"i":"#","en":"firewood"}
 {"L":"lenio dur","C":["n"],"en":"hardwood"}
 {"L":"lenio esterna","C":["n"],"en":"sapwood, alburnum"}
@@ -14463,12 +14463,12 @@
 {"L":"lenieria","C":["n"],"i":"#","en":"woodyard, timberyard"}
 {"L":"lenior","C":["n"],"en":"woodcutter, lumberjack"}
 {"L":"leniosa","C":["a"],"en":"woody"}
-{"T":"r","L":"lenta","C":["a"],"d":"no rapida","da":"langsom","de":"langsam","en":"slow; lingering"}
+{"T":"r","L":"lenta","C":["a"],"d":"no rapida","da":"langsom","de":"langsam","en":"slow; lingering","es":"lento, tardo, atrasado, lerdo, torpe"}
 {"L":"lenta","C":["n"],"en":"slowcoach, slowpoke, laggard, sluggard"}
 {"L":"lenti","C":["vnt"],"en":"slow, slow down, decelerate"}
 {"L":"lenti","C":["vt"],"en":"slow, slow down, decelerate"}
 {"L":"lenti","C":["n"],"en":"deceleration, slowdown"}
-{"T":"r","L":"lente","C":["n","util"],"d":"un peso de vitro o otra materia transparente con lados curva per consentra o sperde lus, usada en telescopios, microscopios, cameras e oculos","i":"#","da":"linse","de":"Linse","en":"lens"}
+{"T":"r","L":"lente","C":["n","util"],"d":"un peso de vitro o otra materia transparente con lados curva per consentra o sperde lus, usada en telescopios, microscopios, cameras e oculos","i":"#","da":"linse","de":"Linse","en":"lens","es":"lente (de cristal o similar), cristalino (de ojo)"}
 {"L":"lente de angulo larga","C":["n"],"en":"wide-angle lens"}
 {"L":"lente de grandi","C":["n"],"en":"magnifier, magnifying glass"}
 {"L":"lente de ojeto","C":["n"],"en":"object lens, objective lens"}
@@ -14478,10 +14478,10 @@
 {"L":"lente macro de zuma","C":["n"],"en":"macro zoom lens"}
 {"L":"lenteta","C":["n"],"en":"contact lens"}
 {"L":"lentin","C":["a"],"en":"lenslike, lens-shaped, lenticular"}
-{"T":"r","L":"lentil","C":["n","pla","cos"],"d":"un planta en familia de legum, con semes lentin e comable; un seme de esta","i":"#","t":"Lens culinaris","da":"linse (fra plante)","de":"Linse (aus Pflanze)","en":"lentil"}
+{"T":"r","L":"lentil","C":["n","pla","cos"],"d":"un planta en familia de legum, con semes lentin e comable; un seme de esta","i":"#","t":"Lens culinaris","da":"linse (fra plante)","de":"Linse (aus Pflanze)","en":"lentil","es":"lenteja"}
 {"L":"lentil brun","C":["n"],"en":"brown lentil"}
 {"L":"lentil roja","C":["n"],"en":"red lentil"}
-{"T":"r","L":"leon","C":["n","mam"],"d":"un gato grande e pal brun, trovada en Africa e Barat norde-ueste","i":"#","t":"Panthera leo","da":"løve","de":"Löwe","en":"lion"}
+{"T":"r","L":"leon","C":["n","mam"],"d":"un gato grande e pal brun, trovada en Africa e Barat norde-ueste","i":"#","t":"Panthera leo","da":"løve","de":"Löwe","en":"lion","es":"león"}
 {"L":"leon-de-mar","C":["n","mam"],"d":"un otario abitante la costas de la Mar Pasifica, de cual la mas ave un crinera sur sua colo e spadas","i":"#","t":"Otariidae","en":"sea lion"}
 {"L":"leon fema","C":["n"],"en":"lioness"}
 {"L":"Leon","C":["n","ast"],"d":"un constela de la zodiaco","s":"♌","en":"Leo (constellation)"}
@@ -14526,7 +14526,7 @@
 {"L":"lesoto","C":["n"],"en":"Lesothan"}
 {"T":"r","L":"letarjia","C":["n","med"],"d":"sin enerjia e zelo; multe dormosa e nonativa","en":"lethargy, sluggishness, torpor, torpidity, listlessness, languor"}
 {"L":"letarjiosa","C":["a"],"en":"lethargic, sluggish, listless, languorous"}
-{"T":"r","L":"lete","C":["n","bio","cos"],"d":"un licuida blanca, plen de gras e protena, secreteda par mamales fema per nuri sua enfantes; esta licuida de boves, capras o oveas, bevida par umanas; (metafor) cualce licuida blanca e cremosa, como la jus de alga plantas","i":"#","da":"mælk","de":"Milch","en":"milk"}
+{"T":"r","L":"lete","C":["n","bio","cos"],"d":"un licuida blanca, plen de gras e protena, secreteda par mamales fema per nuri sua enfantes; esta licuida de boves, capras o oveas, bevida par umanas; (metafor) cualce licuida blanca e cremosa, como la jus de alga plantas","i":"#","da":"mælk","de":"Milch","en":"milk","es":"leche"}
 {"L":"lete bateda","C":["n"],"en":"milkshake"}
 {"L":"lete densida","C":["n"],"en":"condensed milk"}
 {"L":"lete de gal","C":["n"],"en":"eggnog"}
@@ -14539,7 +14539,7 @@
 {"L":"letor","C":["n"],"en":"milkman"}
 {"L":"prende lete","C":["v"],"en":"nurse"}
 {"L":"prende lete de","C":["v"],"en":"milk (animal)"}
-{"T":"r","L":"letera","C":["n","ling"],"d":"un sinia cual representa un o plu de la sonas usada per parla; un de la simboles de un alfabeta; un comunica scriveda, tapeda o primida, tipal contenida en un envelopa e enviada par posta o mesajor","da":"brev","de":"Brief","en":"letter (alphabet, postal), epistle, missive"}
+{"T":"r","L":"letera","C":["n","ling"],"d":"un sinia cual representa un o plu de la sonas usada per parla; un de la simboles de un alfabeta; un comunica scriveda, tapeda o primida, tipal contenida en un envelopa e enviada par posta o mesajor","da":"brev","de":"Brief","en":"letter (alphabet, postal), epistle, missive","es":"carta, misiva"}
 {"L":"letera major","C":["n"],"en":"uppercase letter, capital letter, majuscule"}
 {"L":"letera minor","C":["n"],"en":"lowercase letter, small letter, minuscule"}
 {"L":"leteras major o minor","C":["n"],"en":"case"}
@@ -14552,7 +14552,7 @@
 {"T":"r","L":"leteratur","C":["n","arte"],"d":"obras scriveda, tipal regardada como arte valuada; libros publicida sur un tema tecnical","en":"literature"}
 {"L":"leteratur parlada","C":["n"],"en":"oral literature"}
 {"L":"leteratural","C":["a"],"en":"literary"}
-{"T":"r","L":"leto","C":["n","arci"],"d":"un mobila o otra surfas usada per dormi o reposa, tipal un strutur con materas e covrentes","i":"#","da":"bed","de":"Bett","en":"bed"}
+{"T":"r","L":"leto","C":["n","arci"],"d":"un mobila o otra surfas usada per dormi o reposa, tipal un strutur con materas e covrentes","i":"#","da":"bed","de":"Bett","en":"bed","es":"cama, lecho"}
 {"L":"leto ascondeda","C":["n"],"en":"wall bed, murphy bed, trundle bed"}
 {"L":"leto castelin","C":["n"],"i":"#","en":"bunk bed"}
 {"L":"leto de acua","C":["n"],"en":"waterbed"}
@@ -14571,7 +14571,7 @@
 {"L":"ordina la leto","C":["v"],"en":"make the bed"}
 {"T":"r","L":"letseburges","C":["a","dem"],"d":"pertinente a un lingua parlada par multe persones luxemburges","en":"Luxemburgish, Luxembourgeois"}
 {"L":"letseburges","C":["n"],"en":"Luxemburgish, Luxembourgeois"}
-{"T":"r","L":"letuga","C":["n","pla","cos"],"d":"un planta cultivada en familia de margarita, con folias comable; esta folias usada en saladas","i":"#","t":"Lactuca","da":"salat, salathoved","de":"Salat","en":"lettuce"}
+{"T":"r","L":"letuga","C":["n","pla","cos"],"d":"un planta cultivada en familia de margarita, con folias comable; esta folias usada en saladas","i":"#","t":"Lactuca","da":"salat, salathoved","de":"Salat","en":"lettuce","es":"lechuga"}
 {"L":"letuga roman","C":["n"],"en":"romaine lettuce, cos lettuce"}
 {"T":"r","L":"leucemia","C":["n","med"],"d":"un maladia en cual la medula de osos e otra organos cual formi sangue produi tro multe leucosites nonmatur o nonormal","en":"leukemia|ae"}
 {"T":"r","L":"leuco-","C":["pf","tecn"],"d":"blanca","en":"leuco-"}
@@ -14599,7 +14599,7 @@
 {"T":"r","L":"levacarga","C":["n","vn","vec"],"d":"un veculo usada per leva cargas pesosa","i":"#","en":"lift truck, forklift truck, sideloader, stacker truck"}
 {"T":"r","L":"Levante","C":["n","jeo"],"d":"la rejion de Asia sude-ueste bordante la Mar Mediteraneo, tipal incluinte Suria, Lubnan, Israel, Filastin, Urdun e Cipros, e en alga casos ance Turcia e la penisola Sina","en":"Levant (Mediterranean region)"}
 {"L":"Mar Levante","C":["n","jeo"],"d":"la parte de la Mediteraneo este la plu prosima a la Levante","i":"#","en":"Levantine Sea"}
-{"T":"r","L":"lever","C":["n","util"],"d":"un bara cual reposa sur un fulcro, usada per aida move cargas pesosa a un fini cuando on aplica presa a la otra fini","da":"løftestang","de":"Hebel","en":"lever"}
+{"T":"r","L":"lever","C":["n","util"],"d":"un bara cual reposa sur un fulcro, usada per aida move cargas pesosa a un fini cuando on aplica presa a la otra fini","da":"løftestang","de":"Hebel","en":"lever","es":"palanca"}
 {"L":"lever de engrana","C":["n"],"en":"gearstick, gearshift"}
 {"L":"leveri","C":["vt"],"en":"lever, pry, prise"}
 {"L":"leveri","C":["n"],"en":"leverage"}
@@ -14611,10 +14611,10 @@
 {"T":"r","L":"lexicolojia","C":["n","ling"],"d":"la studia de la formas, sinifias e conduis de parolas","en":"lexicology"}
 {"L":"lexicolojial","C":["a"],"en":"lexicological"}
 {"L":"lexicolojiste","C":["n"],"en":"lexicologist"}
-{"T":"r","L":"lezardo","C":["n","ret"],"d":"un retil ma no un serpente, tipal con corpo e coda longa e pel ru, scamosa o spinosa","t":"Lacertilia, {ma no serpentes","da":"firben","de":"Eidechse","en":"lizard"}
+{"T":"r","L":"lezardo","C":["n","ret"],"d":"un retil ma no un serpente, tipal con corpo e coda longa e pel ru, scamosa o spinosa","t":"Lacertilia, {ma no serpentes","da":"firben","de":"Eidechse","en":"lizard","es":"lagarto"}
 {"L":"Lezardo","C":["n","ast"],"d":"un constela de la sielo norde","en":"Lacerta (constellation)"}
 {"T":"r","L":"lfn","C":["c"],"d":"Lingua Franca Nova","n":"Esta lingua ia es orijinal conoseda como `LFN`, ma oji la spele `elefen` es prefereda.","en":"Elefen, LFN"}
-{"T":"r","L":"lia","C":["vt"],"d":"fisa (un person o cosa) con corda o banda a alga cosa; formi (un noda); crea un junta o relata entre (persones o cosas); junta (cosas) per transmete enerjia, informa, etc","da":"binde","de":"binden, verbinden","en":"tie, bind, strap, tether, moor; connect, link, plug in; liaise; associate (mentally)"}
+{"T":"r","L":"lia","C":["vt"],"d":"fisa (un person o cosa) con corda o banda a alga cosa; formi (un noda); crea un junta o relata entre (persones o cosas); junta (cosas) per transmete enerjia, informa, etc","da":"binde","de":"binden, verbinden","en":"tie, bind, strap, tether, moor; connect, link, plug in; liaise; associate (mentally)","es":"atar, amarrar, liar, ligar, enlazar, vincular, unir, juntar, vendar, ceñir"}
 {"L":"lia","C":["n"],"d":"un ata de lia; un cosa liante; un bretela per teni un calsa o calseta","en":"link, bond, connection, ligation, linkage; liaison; covenant; suspender (UK), garter (US); association (mental)"}
 {"L":"lia a tera","C":["v"],"en":"ground, earth (an electrical device)"}
 {"L":"lia con filo","C":["n"],"en":"wired connection"}
@@ -14656,7 +14656,7 @@
 {"L":"sin libido","C":["a"],"en":"frigid"}
 {"L":"tro libidosa","C":["a"],"en":"oversexed"}
 {"T":"r","L":"libra","C":["n","fis"],"d":"un unia de pesa usada en alga paises, egal a 0,4536 kg","en":"pound (weight)"}
-{"T":"r","L":"libre","C":["a","gov"],"d":"no controlada par un otra; capas de ata como on desira","da":"fri","de":"frei","en":"free, at liberty, at large; freelance"}
+{"T":"r","L":"libre","C":["a","gov"],"d":"no controlada par un otra; capas de ata como on desira","da":"fri","de":"frei","en":"free, at liberty, at large; freelance","es":"libre"}
 {"L":"libralisme","C":["n"],"en":"liberalism"}
 {"L":"libraliste","C":["a"],"en":"liberal, laissez-faire"}
 {"L":"libraliste","C":["n"],"en":"liberal"}
@@ -14673,7 +14673,7 @@
 {"L":"libror","C":["n"],"en":"liberator"}
 {"L":"nonlibre","C":["a"],"en":"unfree, restricted, captive"}
 {"L":"nonlibria","C":["n"],"en":"captivity"}
-{"T":"r","L":"libro","C":["n"],"d":"un obra scriveda o primida, composada de pajes colida o coseda a lunlotra a un lado e reliada","i":"#","da":"bog","de":"Buch","en":"book"}
+{"T":"r","L":"libro","C":["n"],"d":"un obra scriveda o primida, composada de pajes colida o coseda a lunlotra a un lado e reliada","i":"#","da":"bog","de":"Buch","en":"book","es":"libro"}
 {"L":"libro anial","C":["n"],"en":"yearbook, annual"}
 {"L":"libro de aprende","C":["n"],"en":"textbook"}
 {"L":"libro de cantas","C":["n"],"en":"songbook"}
@@ -14712,7 +14712,7 @@
 {"T":"r","L":"Lictenstain","C":["n","jeo"],"c":"Vaduz","d":"un pais peti en la Alpes, entre Suiz e Osteraic","i":"#","en":"Liechtenstein"}
 {"L":"lictenstaines","C":["a"],"en":"Liechtenstein"}
 {"L":"lictenstaines","C":["n","dem"],"en":"Liechtensteiner"}
-{"T":"r","L":"licuida","C":["a","fis"],"d":"con un coere como acua o olio, libre corente ma con volum constante; (metafor) cualce cosa cual move libre","da":"væske","en":"liquid (including assets), fluid"}
+{"T":"r","L":"licuida","C":["a","fis"],"d":"con un coere como acua o olio, libre corente ma con volum constante; (metafor) cualce cosa cual move libre","da":"væske","en":"liquid (including assets), fluid","es":"líquido"}
 {"L":"licuida","C":["n"],"de":"Flüssigkeit","en":"liquid, fluid"}
 {"L":"licuida de coreti","C":["n"],"en":"correction fluid, whiteout"}
 {"L":"licuidador","C":["n"],"en":"liquidizer|is, blender"}
@@ -14744,7 +14744,7 @@
 {"L":"limon","C":["n","pla","cos"],"i":"#","t":"Citrus × limon","en":"lemon"}
 {"L":"limonin","C":["a"],"en":"lemony, lemonlike"}
 {"L":"limonosa","C":["a"],"en":"lemony"}
-{"T":"r","L":"lima","C":["n","util"],"d":"un util con surfas ru, comun de aser, usada per lisa o formi un materia dur","i":"#","da":"fil (redskab)","de":"Feile","en":"file (tool)"}
+{"T":"r","L":"lima","C":["n","util"],"d":"un util con surfas ru, comun de aser, usada per lisa o formi un materia dur","i":"#","da":"fil (redskab)","de":"Feile","en":"file (tool)","es":"lima"}
 {"L":"lima de emeri","C":["n"],"i":"#","en":"emery board"}
 {"L":"lima de ungia","C":["n"],"en":"nail file"}
 {"L":"limi","C":["vt"],"en":"file (smoothe)"}
@@ -14771,7 +14771,7 @@
 {"T":"r","L":"limina","C":["n"],"d":"la punto de entra a un casa o sala; un grandia o intensia cual produi un reata o alga otra aveni cuando on esede lo","en":"threshold"}
 {"L":"suliminal","C":["a"],"en":"subliminal"}
 {"T":"r","L":"limita","C":["vt"],"d":"no permete ce (un person o cosa) estende ultra un punto, nivel, cuantia o grandia spesifada","en":"limit, delimit; cap (price)"}
-{"L":"limita","C":["n"],"da":"grænse, begrænsning","de":"Grenze","en":"limit, boundary, bound, frontier, delimitation, threshold, cut-off, limitation"}
+{"L":"limita","C":["n"],"da":"grænse, begrænsning","de":"Grenze","en":"limit, boundary, bound, frontier, delimitation, threshold, cut-off, limitation","es":"límite, frontera, borde"}
 {"L":"limita de tempo","C":["n"],"en":"deadline, time limit"}
 {"L":"limita masima","C":["n"],"en":"upper limit, cap, ceiling"}
 {"L":"limitada","C":["a"],"en":"limited, finite, bounded"}
@@ -14781,7 +14781,7 @@
 {"L":"pone un limita","C":["v"],"en":"impose a limit, draw the line"}
 {"L":"sin limita","C":["a"],"en":"unlimited, limitless, infinite, boundless, unbounded, countless, innumerable"}
 {"T":"r","L":"limonada","C":["n","cos"],"d":"un bevida preparada de jus de limon, acua e zucar","i":"#","en":"lemonade"}
-{"T":"r","L":"limpa","C":["a"],"d":"sin susia o manxas; lavada; con bon ijenia; sin contaminantes","da":"ren (ikke beskidt)","de":"sauber","en":"clean"}
+{"T":"r","L":"limpa","C":["a"],"d":"sin susia o manxas; lavada; con bon ijenia; sin contaminantes","da":"ren (ikke beskidt)","de":"sauber","en":"clean","es":"limpio, aseado"}
 {"L":"limpi","C":["vnt"],"en":"become clean, clean up"}
 {"L":"limpi","C":["vt"],"en":"clean, clean up, wipe; mop; sweep (chimney)"}
 {"L":"limpi etnical","C":["n"],"en":"ethnic cleansing"}
@@ -14797,7 +14797,7 @@
 {"L":"lince rojin","C":["n","mam"],"i":"#","t":"Lynx rufus","en":"bobcat"}
 {"T":"r","L":"lineta","C":["n","avia"],"d":"un pinson brun e gris con fronte e peto rojin","i":"#","t":"Linaria","en":"linnet, twite (bird)"}
 {"T":"r","L":"linga","C":["n","rel"],"d":"(en induisme) un simbol de enerjia divin, tipal en la forma de un falo, adorada como un simbol de Xiva","en":"linga, lingam (Hinduism)"}
-{"T":"r","L":"lingua","C":["n","anat","ling"],"d":"la organo musculosa en la boca de un mamal, usada per proba, leca, engoli e (en umanas) parla; la organo corespondente en otra vertebratos; la organo corespondente en insetos; la metodo de comunica umana, parlada o scriveda, composada de la usa de parolas en un modo struturida e costumal","i":"#","da":"tunge; sprog","de":"Zunge; Sprache","en":"tongue; language; speech (ability)"}
+{"T":"r","L":"lingua","C":["n","anat","ling"],"d":"la organo musculosa en la boca de un mamal, usada per proba, leca, engoli e (en umanas) parla; la organo corespondente en otra vertebratos; la organo corespondente en insetos; la metodo de comunica umana, parlada o scriveda, composada de la usa de parolas en un modo struturida e costumal","i":"#","da":"tunge; sprog","de":"Zunge; Sprache","en":"tongue; language; speech (ability)","es":"lengua; lenguaje, idioma"}
 {"L":"lingua aidante","C":["n"],"en":"auxiliary language"}
 {"L":"lingua construida","C":["n"],"en":"constructed language, conlang, artificial language"}
 {"L":"lingua de asembla","C":["n"],"en":"assembly language"}
@@ -14815,7 +14815,7 @@
 {"T":"r","L":"linguistica","C":["n","ling"],"d":"la siensa de linguas e sua strutur, incluinte la studia de morfolojia, sintatica, fonetica e semantica","en":"linguistics"}
 {"L":"linguistica computal","C":["n","ling"],"en":"computational linguistics"}
 {"L":"interlinguistica","C":["n","ling"],"d":"la studia de aspetas diversa de comunica lingual entre persones ci no pote comprende lunlotra en sua propre linguas","en":"interlinguistics","eo":"interlingvistiko"}
-{"T":"r","L":"linia","C":["n"],"d":"un marca o banda longa e streta; (en matematica) un estende continuante de longia sin largia; un cuantia de persones o cosas en un tal forma","da":"linie","de":"Linie","en":"line, row; rank (chess)"}
+{"T":"r","L":"linia","C":["n"],"d":"un marca o banda longa e streta; (en matematica) un estende continuante de longia sin largia; un cuantia de persones o cosas en un tal forma","da":"linie","de":"Linie","en":"line, row; rank (chess)","es":"línea"}
 {"L":"duilinia","C":["n"],"d":"un dui de un linia de poesia, segueda par un pausa corta","en":"hemistich"}
 {"L":"linia de arbores","C":["n"],"en":"treeline"}
 {"L":"linia de comandas","C":["n","info"],"en":"command line (software)"}
@@ -14835,7 +14835,7 @@
 {"L":"sulinia","C":["n"],"en":"underline, underscore (character)"}
 {"L":"vade en linia reta a","C":["v"],"en":"make a beeline for"}
 {"T":"r","L":"linioio","C":["n","vest"],"d":"un macia aplicada como un linia sirca la oios afin los pare plu grande o notable","i":"#","en":"eyeliner"}
-{"T":"r","L":"lino","C":["n","pla","util","vest"],"d":"un planta con flores blu, cultivada per sua semes e per la fibre de stofa cual on prepara de sua troncetas; un seme de esta, usada per fabrica olio o pasta","i":"#","t":"Linum usitatissimum","da":"hør","de":"Lein","en":"flax, linseed (plant)"}
+{"T":"r","L":"lino","C":["n","pla","util","vest"],"d":"un planta con flores blu, cultivada per sua semes e per la fibre de stofa cual on prepara de sua troncetas; un seme de esta, usada per fabrica olio o pasta","i":"#","t":"Linum usitatissimum","da":"hør","de":"Lein","en":"flax, linseed (plant)","es":"lino"}
 {"L":"linosa","C":["a"],"en":"treated with linseed"}
 {"L":"olio de lino","C":["n"],"en":"linseed oil"}
 {"L":"pasta de lino","C":["n"],"en":"putty"}
@@ -14857,14 +14857,14 @@
 {"T":"r","L":"lirica","C":["a","arte"],"d":"(leteratur, arte o musica) espresante la emosias de la creor en modo bela e imajinosa","en":"lyrical, lyric"}
 {"T":"r","L":"liriodendro","C":["n","pla"],"d":"un arbor de America Norde, con folias grande e lobosa e flores grande con forma de tulpas","i":"#","t":"Liriodendron","en":"tulip tree"}
 {"T":"r","L":"liron","C":["n","mam"],"d":"un rodente musin, con coda pelosa o brosin, de cual alga spesies es notada per sua invernis estendeda","i":"#","t":"Gliridae","en":"dormouse"}
-{"T":"r","L":"lisa","C":["a"],"d":"con surfas o coere sin bultos o indentes persepable","da":"glat, blød","de":"glatt","en":"smooth, sleek; crisp (cloth, paper)"}
+{"T":"r","L":"lisa","C":["a"],"d":"con surfas o coere sin bultos o indentes persepable","da":"glat, blød","de":"glatt","en":"smooth, sleek; crisp (cloth, paper)","es":"liso, terzo, igual, parejo, llano"}
 {"L":"lisador","C":["n","util"],"i":"#","en":"smoother, sander"}
 {"L":"lisador de banda","C":["n","util"],"en":"belt sander"}
 {"L":"lisi","C":["vnt"],"en":"smoothe, streamline; sand (wood)"}
 {"L":"lisi","C":["vt"],"en":"smoothe, streamline; sand (wood)"}
 {"L":"lisia","C":["n"],"en":"smoothness"}
 {"T":"r","L":"Lisboa","C":["n","jeo"],"d":"la site capital de Portugal","en":"Lisbon"}
-{"T":"r","L":"lisca","C":["vnt"],"d":"move nonimpedida longo un surfas lisa","da":"glide, skride","de":"gleiten","en":"slide, slip, glide, coast, swipe"}
+{"T":"r","L":"lisca","C":["vnt"],"d":"move nonimpedida longo un surfas lisa","da":"glide, skride","de":"gleiten","en":"slide, slip, glide, coast, swipe","es":"deslizar, resbalar, deslizarse, resbalarse, patinar"}
 {"L":"lisca","C":["vt"],"en":"slide, slip, push"}
 {"L":"lisca","C":["n"],"en":"slip, glide"}
 {"L":"lisca de tera","C":["n"],"en":"landslide, landslip"}
@@ -14890,8 +14890,8 @@
 {"L":"nonlisensada","C":["a"],"en":"unlicensed"}
 {"T":"r","L":"liseo","C":["n","gov"],"d":"un scola per adolesentes con edas cual depende de la nasion, ma tipal completida a 18 anios","en":"high school, secondary school, lycee, lyceum"}
 {"T":"r","L":"lisosoma","C":["n","bio"],"d":"un organeta en la sitoplasma de selulas eucariotal cual conteni enzimas degradante encluida par un membrana","en":"lysosome (biology)"}
-{"T":"r","L":"lista","C":["vt"],"d":"scrive o dise (un cuantia de nomes o otra cosas) en serie","da":"liste","de":"Verzeichnis","en":"list, itemize|is"}
-{"L":"lista","C":["n"],"en":"list"}
+{"T":"r","L":"lista","C":["vt"],"d":"scrive o dise (un cuantia de nomes o otra cosas) en serie","en":"list, itemize|is"}
+{"L":"lista","C":["n"],"da":"liste","de":"Verzeichnis","en":"list","es":"lista"}
 {"L":"lista cadente","C":["n"],"en":"drop-down list"}
 {"L":"lista de benes","C":["n"],"en":"inventory"}
 {"L":"lista de contenidas","C":["n"],"en":"packing slip, (ship's) manifest"}
@@ -14952,7 +14952,7 @@
 {"L":"lobosa","C":["a"],"en":"lobed"}
 {"T":"r","L":"lobotomia","C":["n"],"d":"un talia sirurjial de la lobe fronte de la serebro, istorial usada per trata alga maladias mental","en":"lobotomy"}
 {"T":"r","L":"loca","C":["vt"],"d":"pone (un person o cosa) en un area, ordina, situa o contesto spesifada","en":"locate, place, site, position"}
-{"L":"loca","C":["n"],"da":"sted, lokalitet","de":"Lage","en":"place, location, position, spot, site, locale"}
+{"L":"loca","C":["n"],"da":"sted, lokalitet","de":"Lage","en":"place, location, position, spot, site, locale","es":"lugar, localidad, sitio"}
 {"L":"loca bela","C":["n"],"en":"beauty spot (place with beautiful scenery)"}
 {"L":"loca de nase","C":["n"],"en":"birthplace"}
 {"L":"loca de note","C":["n"],"en":"nightclub, night spot"}
@@ -14968,9 +14968,9 @@
 {"L":"desloca de vocales","C":["n"],"en":"vowel shift"}
 {"L":"desloca roja","C":["n"],"en":"red shift"}
 {"L":"deslocada","C":["a"],"en":"dislocated, displaced, askew, awry"}
-{"L":"en loca de","C":["prep"],"da":"i stedet for, hellere end","de":"dafür, anstatt","en":"instead of, in place of, rather than"}
+{"L":"en loca de","C":["prep"],"da":"i stedet for, hellere end","de":"dafür, anstatt","en":"instead of, in place of, rather than","es":"en lugar de, por, más bien que"}
 {"L":"en loca","C":["av"],"en":"instead"}
-{"L":"local","C":["a"],"da":"lokal","de":"örtlich, Lokal-","en":"local"}
+{"L":"local","C":["a"],"da":"lokal","de":"örtlich, Lokal-","en":"local","es":"local"}
 {"L":"locali","C":["vnt"],"en":"localize"}
 {"L":"locali","C":["vt"],"en":"trace, track, pinpoint"}
 {"L":"locali","C":["n"],"en":"localization|is"}
@@ -14992,7 +14992,7 @@
 {"T":"r","L":"locusta","C":["n","artr"],"d":"un inseto grande de la tropicos, con la capasia forte de vola","i":"#","t":"Caelifera","da":"græshoppe","en":"locust, grasshopper"}
 {"L":"locusta solitar","C":["n"],"en":"grasshopper (when not swarming)"}
 {"L":"locusta xamante","C":["n","artr"],"t":"Acridoidea","en":"locust"}
-{"T":"r","L":"loda","C":["vt","rel","uma"],"d":"espresa amira o aproba de; espresa bon desiras a (un person) pos un aveni spesial; espresa respeta e grasia a (un dio o diva)","da":"rose, prise","de":"loben","en":"praise, laud, glorify, exalt, commend, extol, eulogize|is; compliment, congratulate, flatter"}
+{"T":"r","L":"loda","C":["vt","rel","uma"],"d":"espresa amira o aproba de; espresa bon desiras a (un person) pos un aveni spesial; espresa respeta e grasia a (un dio o diva)","da":"rose, prise","de":"loben","en":"praise, laud, glorify, exalt, commend, extol, eulogize|is; compliment, congratulate, flatter","es":"alabar, elogiar, encomiar, cumplimentar, lisonjear"}
 {"L":"loda","C":["n"],"en":"praise, kudos, compliment, congratulation, glory, exaltation, eulogy, panegyric, encomium, citation, commendation"}
 {"L":"loda duple","C":["vt"],"en":"praise twice, give two thumbs up to"}
 {"L":"loda falsa","C":["n"],"en":"false praise, hype, puffery"}
@@ -15023,7 +15023,7 @@
 {"L":"lojia de atestor","C":["n"],"i":"#","en":"witness stand, witness box"}
 {"L":"lojia de juria","C":["n"],"en":"jury box"}
 {"T":"r","L":"-lojia","C":["sf","n"],"d":"studia, siensa","en":"-logy (study)"}
-{"T":"r","L":"lojica","C":["n","fil"],"d":"un modo de razona cual segue prinsipes sever de validia; un sistem de prinsipes simil a aritmetica, usada per calcula con bitios en computadores","da":"logik","de":"Logik","en":"logic"}
+{"T":"r","L":"lojica","C":["n","fil"],"d":"un modo de razona cual segue prinsipes sever de validia; un sistem de prinsipes simil a aritmetica, usada per calcula con bitios en computadores","da":"logik","de":"Logik","en":"logic","es":"lógica"}
 {"L":"es lojical","C":["v"],"en":"make sense"}
 {"L":"lojical","C":["a"],"en":"logical; Boolean"}
 {"L":"lojicalia","C":["n"],"en":"logicality"}
@@ -15045,13 +15045,13 @@
 {"L":"lona catranida","C":["n"],"en":"tarpaulin, tarp"}
 {"L":"lona de polietilen","C":["n"],"en":"polythene tarpaulin, polytarp"}
 {"L":"de lona","C":["a"],"en":"canvas"}
-{"T":"r","L":"longa","C":["a"],"d":"con estende grande en spasio o tempo","da":"lang","de":"lang","en":"long"}
+{"T":"r","L":"longa","C":["a"],"d":"con estende grande en spasio o tempo","da":"lang","de":"lang","en":"long","es":"largo, extenso, tardo"}
 {"L":"longa","C":["av"],"en":"long, for a long time, for a long way"}
 {"L":"como longa","C":["esp"],"en":"how long"}
 {"L":"longi","C":["vnt"],"en":"lengthen, elongate, prolong, protract"}
 {"L":"longi","C":["vt"],"en":"lengthen, elongate, prolong, protract"}
 {"L":"longi","C":["n"],"en":"elongation, prolongation"}
-{"L":"longia","C":["n"],"da":"længde","de":"Länge","en":"length, duration"}
+{"L":"longia","C":["n"],"da":"længde","de":"Länge","en":"length, duration","es":"longitud, largura"}
 {"L":"longia de onda","C":["n"],"en":"wavelength"}
 {"L":"longida","C":["a"],"en":"elongated, prolate"}
 {"L":"par longia","C":["n"],"en":"lengthwise, lengthways"}
@@ -15066,7 +15066,7 @@
 {"T":"r","L":"lori","C":["n","avia"],"d":"un papagaio peti de Australasia e Asia sude-ueste, con un lingua con mexa per come netar e polen","i":"#","t":"Loriinae","en":"lory, lorikeet (bird)"}
 {"T":"r","L":"loris","C":["n","mam"],"d":"un primate peti e noturna, con coda corta o mancante, ci move lenta tra la foresta densa de Asia sude","i":"#","t":"Lorisinae","en":"loris (primate)"}
 {"T":"r","L":"lorisifero","C":["n"],"d":"un membro de un filo de animales de mar multe peti, tipal abitante en deponeda","i":"#","t":"Loricifera","en":"loricifer (organism)"}
-{"T":"r","L":"los","C":["pron"],"d":"representante du o plu persones o cosas","da":"de","de":"sie (ihnen)","en":"they; them"}
+{"T":"r","L":"los","C":["pron"],"d":"representante du o plu persones o cosas","da":"de","de":"sie (ihnen)","en":"they; them","es":"ellos, ellas"}
 {"L":"los ci","C":["esp"],"u":"los ci osa gania","en":"they who"}
 {"T":"r","L":"losa","C":["n","util"],"d":"un seramica composada de arjila e coceda a un state porosa, cual on pote vernisi per securi lo contra acua","en":"earthenware"}
 {"L":"de losa","C":["a"],"en":"earthenware"}
@@ -15107,7 +15107,7 @@
 {"L":"Luminadas","C":["n","pl"],"en":"Illuminati"}
 {"L":"luminosa","C":["a"],"en":"luminous, lucid"}
 {"L":"nonluminada","C":["a"],"en":"unilluminated; unenlightened, benighted"}
-{"T":"r","L":"luna","C":["n","ast"],"d":"la satelite natural de la Tera, vidable par la lus refletada de la Sol; un satelite natural de un otra planeta","i":"#","n":"`Luna` ave un letera major en contestos astronomial, ma no cuando lo refere a un satelite de un otra planeta, o a un fase de nosa satelite.","da":"måne","de":"Mond","en":"moon"}
+{"T":"r","L":"luna","C":["n","ast"],"d":"la satelite natural de la Tera, vidable par la lus refletada de la Sol; un satelite natural de un otra planeta","i":"#","n":"`Luna` ave un letera major en contestos astronomial, ma no cuando lo refere a un satelite de un otra planeta, o a un fase de nosa satelite.","da":"måne","de":"Mond","en":"moon","es":"luna"}
 {"L":"luna de miel","C":["n"],"en":"honeymoon"}
 {"L":"luna oscur","C":["n"],"en":"new moon"}
 {"L":"luna plen","C":["n"],"en":"full moon"}
@@ -15121,11 +15121,11 @@
 {"L":"pos lunlotra","C":["av"],"en":"one after another, one by one"}
 {"T":"r","L":"lupa","C":["n","util"],"d":"un lente cual produi un imaje grandida, tipal en un montur con manico o direta tenida par un oio","i":"#","en":"magnifying glass, magnifier, loupe"}
 {"T":"r","L":"lupin","C":["n","pla"],"d":"un planta en familia de piso, con spigas alta de flores colorosa","i":"#","t":"Lupinus","en":"lupin (plant)"}
-{"T":"r","L":"lupo","C":["n","mam"],"d":"un carnivor savaje en familia de can","i":"#","t":"Canis lupus","da":"ulv","de":"Wolf","en":"wolf"}
+{"T":"r","L":"lupo","C":["n","mam"],"d":"un carnivor savaje en familia de can","i":"#","t":"Canis lupus","da":"ulv","de":"Wolf","en":"wolf","es":"lobo"}
 {"L":"Lupo","C":["n","ast"],"d":"un constela en la sielo sude","en":"Lupus (constellation)"}
 {"T":"r","L":"lupulo","C":["n","pla","cos"],"d":"un planta trepante, cultivada per sua flores cono, usada per produi bir","i":"#","t":"Humulus lupulus","en":"hop (plant)"}
 {"T":"r","L":"lupus","C":["n","med"],"d":"un de alga maladias marcada par inflama de la pel","en":"lupus (medical)"}
-{"T":"r","L":"lus","C":["n","fis"],"d":"la enerjia natural cual stimula la vide e fa ce cosas deveni vidable, composada de radia eletromagnetal con ondas entre sirca 390 e 740 nanometres","n":"No usa `lus` per dise `lampa`.","da":"lys","de":"Licht","en":"light (illumination)"}
+{"T":"r","L":"lus","C":["n","fis"],"d":"la enerjia natural cual stimula la vide e fa ce cosas deveni vidable, composada de radia eletromagnetal con ondas entre sirca 390 e 740 nanometres","n":"No usa `lus` per dise `lampa`.","da":"lys","de":"Licht","en":"light (illumination)","es":"luz"}
 {"L":"lus clar de dia","C":["n"],"en":"clear light of day, broad daylight"}
 {"L":"lus de dia","C":["n"],"en":"daylight; daytime, day"}
 {"L":"lus de lampa","C":["n"],"en":"lamplight"}
@@ -15141,7 +15141,7 @@
 {"L":"estrema lusosa","C":["a"],"en":"high-end"}
 {"L":"lusosa","C":["a"],"en":"luxurious, luxuriant, opulent, lavish, sumptuous, sensuous, rich, deluxe, lush, posh, ritzy, swanky"}
 {"L":"lusosia","C":["n"],"d":"un stato de ricia e comforta grande","en":"luxury (state)"}
-{"T":"r","L":"luta","C":["vnt","spo"],"d":"combate sin armas, con gol de forsa sua oposor a la tera, acaso o como un sporte","i":"#","da":"kæmpe","de":"ringen","en":"wrestle, rassle, grapple, struggle, contend; falter"}
+{"T":"r","L":"luta","C":["vnt","spo"],"d":"combate sin armas, con gol de forsa sua oposor a la tera, acaso o como un sporte","i":"#","da":"kæmpe","de":"ringen","en":"wrestle, rassle, grapple, struggle, contend; falter","es":"luchar"}
 {"L":"luta","C":["vt"],"en":"cause to struggle"}
 {"L":"luta","C":["n"],"da":"brydekamp","en":"wrestling, struggle, altercation, contention"}
 {"L":"lutor","C":["n"],"en":"wrestler, fighter"}
