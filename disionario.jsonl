@@ -17507,13 +17507,12 @@
 {"L":"nobili","C":["vt"],"en":"ennoble"}
 {"L":"nobilia","C":["n"],"en":"nobility"}
 {"T":"r","L":"noca","C":["n","anat"],"d":"un parte de la dito a la junta do la oso es prosima a la surfas, spesial do la dito es juntada a la mano; un protende de la junta carpal o tarsal de un animal","i":"#","en":"knuckle; fetlock"}
-{"T":"r","L":"noda","C":["vt","util"],"d":"torse (un corda o sinta) a sirca e streti lo per fisa lo a un otra ojeto, o a la corda mesma","en":"knot, burl"}
-{"L":"noda","C":["n"],"i":"#","en":"knot, node"}
+{"T":"r","L":"noda","C":["vt","util"],"d":"torse (un corda o sinta) a sirca e streti lo per fisa lo a un otra ojeto, o a la corda mesma","en":"knot, tie a knot in"}
+{"L":"noda","C":["n"],"i":"#","en":"knot, node, burl"}
 {"L":"noda de capeles","C":["n"],"i":"#","en":"topknot"}
 {"L":"noda limfal","C":["n"],"en":"lymph node"}
 {"L":"noda liscante","C":["n"],"en":"slipknot"}
 {"L":"noda papilin","C":["n"],"en":"bow"}
-{"L":"nodi","C":["v"],"en":"knot, tie a knot"}
 {"L":"nodosa","C":["a"],"en":"knotty, gnarled, gnarly, nodose"}
 {"T":"r","L":"nodulo","C":["n","bio"],"d":"un infla peti o un agrega de selulas en la corpo, tipal nonormal; un bulto peti e ronda de materia distinguida de sua ambiente; un infla sur la radis de un legum, conteninte baterias cual asorbe nitrojen","en":"nodule"}
 {"L":"nodulal","C":["a"],"en":"nodular"}
@@ -19689,7 +19688,7 @@
 {"L":"periodo de incuba","C":["n"],"en":"incubation period"}
 {"L":"periodo de ofisia","C":["n"],"en":"term of office, tenure"}
 {"L":"nonperiodal","C":["a"],"da":"uregelmæssig, sporadisk","en":"irregular, sporadic, intermittent, infrequent"}
-{"L":"periodal","C":["a"],"da":"regelmæssig, periodisk","en":"periodic, regular"}
+{"L":"periodal","C":["a"],"da":"periodisk, regelmæssig","en":"periodic, regular","es":"periódico, regular"}
 {"T":"r","L":"periodontia","C":["n","med"],"d":"la ramo de odontia cual studia la strutures ensircante e suportante la dentes","en":"periodontology, periodontics"}
 {"L":"periodontiste","C":["n"],"en":"periodontist"}
 {"T":"r","L":"periorbita","C":["n","anat"],"d":"la area sirca la oio e la orbita","en":"periorbita (anatomy)"}
@@ -21791,7 +21790,7 @@
 {"L":"nonrasada","C":["a"],"en":"unshaven, unshorn"}
 {"L":"rasador","C":["n"],"i":"#","da":"barbermaskine","de":"Rasiermesser","en":"razor, shaver","eo":"razilo","es":"navaja de afeitar, hoja de afeitar, maquinilla de afeitar, rasuradora","fr":"rasoir","it":"rasoio","nl":"scheermes","pt":"navalha de barbear, lâmina de barbear, gilete"}
 {"T":"r","L":"rasca","C":["vt","tera","bio"],"d":"marca la surfas de (alga cosa) con un cosa agu o puntida; causa un feri longa o magra en la pel de; frota (un parte de corpo) con sua ungias de dito o con un cosa ru per lejeri un pruri; (un avia o animal, tipal un gal) usa sua beco o talones a (un surfas) per trova comedas","da":"ridse","en":"scratch, scrabble","fr":"rayer, érafler, égratigner"}
-{"L":"rasca","C":["n"],"da":"skramme","en":"scratch"}
+{"L":"rasca","C":["n"],"da":"skramme","en":"scratch","es":"rasguño, arañazo, araño, raya, marca"}
 {"L":"rasca glasial","C":["n"],"en":"glacial striation"}
 {"L":"antirascal","C":["a"],"en":"anti-scratch, scratch-resistant"}
 {"T":"r","L":"rascasielo","C":["n","vn"],"d":"un construida multe alta","i":"#","en":"skyscraper"}
@@ -22470,7 +22469,7 @@
 {"L":"nonreversable","C":["a"],"en":"irreversible"}
 {"L":"reversable","C":["a"],"en":"reversible"}
 {"L":"reversada","C":["a"],"en":"reversed"}
-{"L":"reversada","C":["av"],"da":"tilbage, omvendt","en":"in reverse, vice versa, conversely"}
+{"L":"reversada","C":["av"],"da":"tilbage, omvendt","en":"in reverse, vice versa, conversely","es":"al revés, en reversa, invertido, volteado"}
 {"T":"r","L":"revisa","C":["vt","fil"],"d":"reesamina e cambia (un cosa) pos plu atesta; rescrive (un documento) pos reesamina","en":"revise, redact"}
 {"L":"revisa","C":["n"],"en":"revision, version (including of text, product)"}
 {"L":"corevisor","C":["n"],"en":"coeditor"}
@@ -22480,7 +22479,7 @@
 {"L":"revisteta","C":["n"],"en":"bulletin"}
 {"L":"revisteta de grupo","C":["n"],"en":"newsletter, circular"}
 {"T":"r","L":"revolta","C":["vnt","gov"],"d":"ata contra un governa o autoria local","en":"revolt, rise up"}
-{"L":"revolta","C":["n"],"da":"uro, optøjer","de":"Aufruhr","en":"revolution, revolt, uprising (local rebellion)"}
+{"L":"revolta","C":["n"],"da":"uro, optøjer","de":"Aufruhr","en":"revolution, revolt, uprising (local rebellion)","es":"alboroto, revuelta, motín, desorden, tumulto"}
 {"T":"r","L":"revolui","C":["vt","gov"],"d":"aboli, desvalidi o reversa (un sistem presedente); cambia (un cosa) en modo estrema o fundal","en":"revolutionize|is, overturn"}
 {"L":"revolui","C":["n"],"en":"revolution (overthrow of government), insurgence"}
 {"L":"posrevolual","C":["a"],"en":"post-revolutionary"}
@@ -22504,8 +22503,8 @@
 {"T":"r","L":"ribosa","C":["n","bio","cim"],"d":"un zucar cual es un parte de nucleotidos e alga vitaminas e enzimas","en":"ribose (sugar)"}
 {"T":"r","L":"ribosoma","C":["n","bio"],"d":"un particula pico, composada de asida ribonucleal e protenas asosiada, trovada en cuantias grande en la sitoplasma de selulas vivente","en":"ribosome (biology)"}
 {"L":"ribosomal","C":["a"],"en":"ribosomal"}
-{"T":"r","L":"rica","C":["a","mone"],"d":"posesente un cuantia grande de mone, recursos o ativas; (un nasion o pais) posesente recursos natural valuosa o un economia susedente","i":"#","da":"rig, formuende","de":"reich","en":"rich, wealthy, prosperous, affluent, monied, well off","eo":"riĉa","es":"rico, acaudalado, costoso, suntuoso, sabroso","fr":"riche, prospère","it":"ricco","nl":"rijk","pt":"rico, saudável, gosotoso"}
-{"L":"rica con fero","C":["a"],"en":"rich in iron"}
+{"T":"r","L":"rica","C":["a","mone"],"d":"posesente un cuantia grande de mone, recursos o ativas; (un nasion o pais) posesente recursos natural valuosa o un economia susedente","i":"#","da":"rig, formuende","de":"reich","en":"rich, wealthy, prosperous, affluent, monied, well off","eo":"riĉa","es":"rico, acaudalado, suntuoso","fr":"riche, prospère","it":"ricco","nl":"rijk","pt":"rico, saudável, gosotoso"}
+{"L":"rica con fero","C":["a"],"en":"rich in iron","es":"rico en hierro"}
 {"L":"nova rica","C":["a"],"en":"newly rich, nouveau riche","fr":"nouveau riche"}
 {"L":"rici","C":["vnt"],"en":"prosper","fr":"s'enrichir, prospérer"}
 {"L":"rici","C":["vt"],"en":"enrich","fr":"enrichir"}
@@ -22513,7 +22512,7 @@
 {"T":"r","L":"ricetsia","C":["n","bio"],"d":"cualce de un grupo de baterias pico cual inclui la causas de tifo e otra maladias febrosa en umanas","en":"rickettsia (bacterium)"}
 {"T":"r","L":"ricota","C":["n","cos"],"d":"un ceso mol e blanca de Italia","en":"ricotta (cheese)"}
 {"T":"r","L":"ricxa","C":["n","vec"],"d":"un veculo con du rotas e un covrente, tirada par un o plu persones; un veculo simil a un bisicle con tre rotas, con un seja per pasajores pos la gidor","i":"#","en":"rickshaw, pedicab (drawn by hand or bicycle)"}
-{"T":"r","L":"rie","C":["vt","uma"],"d":"fa sonas e moves de la fas cual es espresas instintosa de diverti e, a veses, de despeta","i":"#","da":"le","de":"lachen","en":"laugh","eo":"ridi","fr":"rire","it":"ridere","nl":"lachen","pt":"rir"}
+{"T":"r","L":"rie","C":["vt","uma"],"d":"fa sonas e moves de la fas cual es espresas instintosa de diverti e, a veses, de despeta","i":"#","da":"le","de":"lachen","en":"laugh","eo":"ridi","es":"reir","fr":"rire","it":"ridere","nl":"lachen","pt":"rir"}
 {"L":"rie","C":["n"],"en":"laugh, laughter","fr":"rire"}
 {"L":"rie tra sua dentes","C":["esp"],"en":"snicker, snigger"}
 {"L":"riable","C":["a"],"en":"laughable, risible, ridiculous, ludicrous","fr":"ridicule"}
