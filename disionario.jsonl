@@ -1098,7 +1098,7 @@
 {"L":"an pos tota","C":["av"],"en":"after all, despite everything","he":"בסופו של דבר, אחרי ככלות הכל, למרות הכל"}
 {"L":"an si","C":["sj"],"an":"sicasí, anque, a pesar de, magar, inda cuando","da":"alligevel, skønt, selv om","de":"obwohl","en":"even if, though, although, even though, albeit, despite the fact that, in spite of the fact that, notwithstanding that, while, whilst","es":"sin embargo, aunque, a pesar de, si bien, aun cuando","he":"-אפילו ש-, אף על פי ש"}
 {"L":"an sin","C":["prep"],"en":"even without, despite the lack of","he":"אפילו בלי"}
-{"L":"an tal","C":["av"],"en":"even thus, even so, nevertheless, nonetheless, however, anyway, anyhow, yet, still, be that as it may, despite that, having said that, all the same, at least, if nothing else","he":"למרות זאת, בכל זאת, אף-על-פי-כן"}
+{"L":"an tal","C":["av"],"en":"even thus, even so, nevertheless, nonetheless, however, anyway, anyhow, yet, still, be that as it may, despite that, having said that, all the same, at least, if nothing else","es":"no obstante, sin embargo","he":"למרות זאת, בכל זאת, אף-על-פי-כן"}
 {"T":"r","L":"-an","C":["sf","a"],"d":"ajuntada a un nom jeografial per formi un ajetivo pertinente a la loca, o a alga otra nomes per formi ajetivos pertinente a locas o edas","u":"italian; suburban; victorian","v":"-es, -i, -ica, -sce","en":"-an, -ian (pertaining to a region or period)","he":"(סיומת) ששייך למקום או לעם"}
 {"L":"-an","C":["sf","n"],"d":"nominte un abitor o lingua de un rejion spesifada","en":"-an, -ian (pertaining to a region or period)","he":"(סיומת) אדם ששייך לעם או דובר השפה, ששייך למקום או תקופת זמן"}
 {"T":"r","L":"-an","C":["sf","n","cim"],"d":"idrocarbono saturada","en":"-an (saturated hydrocarbon)","he":"(סיומת טכנית) פחמימה רוויה"}
@@ -5340,7 +5340,7 @@
 {"L":"cognisial","C":["a"],"en":"cognitive","he":"קוגניטיבי, הכרני"}
 {"T":"r","L":"coicoi","C":["a"],"d":"pertinente a un grupo de poplas orijinal de Sudafrica e Namibia, tradisional xasores-coliores nomada","en":"Khoikhoi, Khoi, Hottentot (person, language)","he":"קויקוי (אדם, שפה)"}
 {"L":"coicoi","C":["n","dem"],"en":"Khoikhoi, Khoi, Hottentot (person, language)","he":"קויקוי (אדם, שפה)"}
-{"T":"r","L":"coion","C":["n","anat"],"d":"(nonformal) testiculo","en":"(colloquial) ball, nut, bollock (testicle)","he":"(סלנג) ביצה (אשך)"}
+{"T":"r","L":"coion","C":["n","anat"],"d":"(nonformal) testiculo","en":"(colloquial) ball, nut, bollock (testicle)","es":"cojón, huevo","he":"(סלנג) ביצה (אשך)"}
 {"T":"r","L":"coiote","C":["n","mam"],"d":"un can savaje, nativa de America Norde","i":"#","t":"Canis latrans","en":"coyote","he":"קויוט, זאב ערבות"}
 {"T":"r","L":"coipu","C":["n","mam"],"d":"un rodente grande e semiacual de America Sude, simil a un castor","i":"#","t":"Myocastor coypus","en":"coypu, nutria, river rat","he":"נוטריה (מכרסם)"}
 {"T":"r","L":"coisan","C":["a","dem"],"d":"pertinente a du poplas de Africa sude, e sua linguas unica","en":"Khoisan (person, language)","he":"קויסן (אדם, שפה)"}
@@ -13946,8 +13946,8 @@
 {"T":"r","L":"jino-","C":["pf","tecn"],"d":"fema, fem","en":"gyno- (female)"}
 {"T":"r","L":"jinsen","C":["n","pla"],"d":"un planta nativa de Asia este e America Norde; un tuber de esta planta, sur cual alga tradisiones crede ce lo aida contra maladias","i":"#","t":"Panax","da":"ginseng","de":"Ginseng","en":"ginseng (plant, root)","es":"ginseng","fr":"ginseng"}
 {"T":"r","L":"jip","C":["n","vec"],"d":"un auto forte e durante, engranada a cuatro rotas, orijinal fabricada per usas militar","i":"#","en":"jeep"}
-{"T":"r","L":"jira","C":["vnt"],"d":"move en sirculos repeteda sur un ase sentral","i":"#","u":"rotas jira; la Tera jira dial","v":"turna","en":"turn (in repeated circles), rotate, revolve, spin, whirl, twirl, swirl, gyrate, gyre, stir, pivot, swivel, swill","fr":"tourner sur soi-même"}
-{"L":"jira","C":["vt"],"d":"fa ce (alga cosa) jira; (nonformal) turi en (un auto, comun furada) per plaser","en":"rotate, spin, stir; (colloquial) joyride, take (a stolen car) for a spin"}
+{"T":"r","L":"jira","C":["vnt"],"d":"move en sirculos repeteda sur un ase sentral","i":"#","u":"rotas jira; la Tera jira dial","v":"turna","en":"turn (in repeated circles), rotate, revolve, spin, whirl, twirl, swirl, gyrate, gyre, stir, pivot, swivel, swill","es":"girarse, rotarse","fr":"tourner sur soi-même"}
+{"L":"jira","C":["vt"],"d":"fa ce (alga cosa) jira; (nonformal) turi en (un auto, comun furada) per plaser","en":"rotate, spin, stir; (colloquial) joyride, take (a stolen car) for a spin","es":"girar, rotar"}
 {"L":"jira","C":["n"],"en":"spin, gyration","fr":"rotation"}
 {"L":"jira minima","C":["v"],"en":"idle (engine)","fr":"tourner au ralenti (moteur)"}
 {"L":"jirante","C":["a"],"en":"rotating, rotary"}
@@ -19501,7 +19501,7 @@
 {"L":"pel de urso","C":["n"],"en":"bearskin"}
 {"L":"pel de vino","C":["n"],"i":"#","en":"wineskin"}
 {"L":"pel mor","C":["n"],"en":"dead skin, slough, eschar"}
-{"L":"despeli","C":["vt"],"en":"skin, flay, excoriate, flense"}
+{"L":"despeli","C":["vt"],"en":"skin, flay, excoriate, flense, flake"}
 {"L":"despelida","C":["a"],"en":"skinless, skinned"}
 {"L":"peleta","C":["n"],"da":"film (tynd lag)","de":"Häutchen, Schicht","en":"film (thin skin)","es":"película, membrana, tela, filme"}
 {"L":"peleta aderente","C":["n"],"en":"cling film, cling wrap, Saran wrap"}
@@ -26275,12 +26275,12 @@
 {"T":"r","L":"televide","C":["vt"],"d":"regarda (alga cosa) a la televisador","en":"view television, watch television"}
 {"L":"televidor","C":["n"],"en":"television viewer"}
 {"T":"r","L":"televisa","C":["vt"],"d":"transmete imajes e sonas par converti los a siniales eletrical e alora reconverti los a imajes e sonas en televisadores","en":"televise, show on television"}
-{"L":"televisa","C":["n"],"da":"fjernsyn, TV","en":"television (phenomenon)"}
+{"L":"televisa","C":["n"],"da":"fjernsyn, TV","en":"television (medium)","es":"televisión"}
 {"L":"televisa colorosa","C":["n"],"en":"color|ur television"}
 {"L":"televisa de vijila","C":["n"],"en":"closed-circuit television, CCTV"}
 {"L":"televisa par paia","C":["n"],"en":"pay TV"}
 {"L":"televisada","C":["a"],"en":"on television, televised"}
-{"L":"televisador","C":["n"],"i":"#","da":"TV, fjernsyn","de":"Fernsehapparat","en":"television set","es":"televisión","fr":"télévision","it":"televisore","nl":"televisie","pt":"televisão"}
+{"L":"televisador","C":["n"],"i":"#","da":"TV, fjernsyn","de":"Fernsehapparat","en":"television set","es":"televisor","fr":"télévision","it":"televisore","nl":"televisie","pt":"televisão"}
 {"T":"r","L":"telia","C":["n"],"d":"un peso magra e retangulo de arjila fornida, beton, seramica, suber, linolio, lenio, metal, ardosia o otra materia, usada per covre tetos, mures, solos, etc","i":"#","en":"tile, shingle","fr":"tuile"}
 {"L":"teli","C":["vt"],"en":"tile"}
 {"L":"telieta","C":["n"],"en":"wafer (electronics)"}
@@ -26347,7 +26347,7 @@
 {"T":"r","L":"tempura","C":["n"],"d":"un plato nion de pex, molusco, crustaseo o vejetales, fritada en pasta","en":"tempura (food)"}
 {"T":"r","L":"tenda","C":["n","arci"],"d":"un construida lejera fabricada de stofa, suportada par un o plu palos, e tensada par cordas o anelos liada a caviles martelida en la tera","i":"#","en":"tent, marquee","fr":"tente"}
 {"L":"tendor","C":["n"],"en":"camper","fr":"campeur, campeuse"}
-{"T":"r","L":"tende","C":["vt"],"d":"condui comun en un modo spesifada","en":"tend, be inclined","fr":"avoir tendance"}
+{"T":"r","L":"tende","C":["vt"],"d":"condui comun en un modo spesifada","en":"tend, be inclined","es":"alcanzar, llegar a, tender, extenderse tanto como pueda","fr":"avoir tendance"}
 {"L":"tende","C":["n"],"da":"tendens","de":"Tendenz","en":"tendency, propensity, proclivity, inclination, penchant, trend","es":"tendencia, propensión, inclinación","fr":"tendance","it":"tendenza","nl":"neiging","pt":"tendência, porpensão, inclinação"}
 {"T":"r","L":"tendon","C":["n","anat"],"d":"un corda flexable ma no elastica, composada de colajen fibrosa forte cual lia un musculo a un oso","en":"tendon, sinew"}
 {"L":"tendon pos la jeno","C":["n"],"en":"hamstring"}
@@ -26532,9 +26532,9 @@
 {"L":"testeta","C":["n"],"en":"head (camera, recording device)"}
 {"L":"testi","C":["vt"],"i":"#","en":"head; headbutt"}
 {"L":"testi","C":["n"],"en":"header (soccer)"}
-{"T":"r","L":"testiculo","C":["n","anat"],"d":"un de la du organos oval cual produi spermas en omes e otra mamales mas, encluida en la scroto","da":"testikel","de":"Hode","en":"testicle, testis (anatomy)","es":"testículo, huevo.","fr":"testicule","it":"testicolo","nl":"teelbal, bal","pt":"testículo, escroto, colhão"}
+{"T":"r","L":"testiculo","C":["n","anat"],"d":"un de la du organos oval cual produi spermas en omes e otra mamales mas, encluida en la scroto","da":"testikel","de":"Hode","en":"testicle, testis (anatomy)","es":"testículo","fr":"testicule","it":"testicolo","nl":"teelbal, bal","pt":"testículo, escroto, colhão"}
 {"L":"testiculal","C":["a"],"en":"testicular"}
-{"T":"r","L":"testo","C":["n","ling"],"d":"parolas scriveda o primida, tipal composante un obra completa; un de estas cual furni informas o atestas o servi como un arcivo ofisial; la parolas de un canta","da":"tekst, dokument","de":"Text","en":"text, document, lyrics","fr":"texte, document"}
+{"T":"r","L":"testo","C":["n","ling"],"d":"parolas scriveda o primida, tipal composante un obra completa; un de estas cual furni informas o atestas o servi como un arcivo ofisial; la parolas de un canta","da":"tekst, dokument","de":"Text","en":"text, document; lyrics","es":"texto, documento; letra (canción)","fr":"texte, document"}
 {"L":"testo de fonte","C":["n"],"en":"source code, source text"}
 {"L":"testo ru","C":["n"],"en":"draft, rough draft"}
 {"L":"intertestal","C":["a"],"en":"intertextual"}
@@ -26556,7 +26556,7 @@
 {"L":"teto dur","C":["n"],"en":"hardtop (car)"}
 {"L":"teto solal","C":["n"],"en":"sunroof"}
 {"L":"sin teto","C":["n"],"en":"roofless, topless"}
-{"L":"suteto","C":["n"],"d":"un sala o spasio en la teto de un construida","i":"#","da":"loft, loftsrum","de":"Dachboden","en":"attic, loft, garret","eo":"subtegmento","fr":"comble, mansarde"}
+{"L":"suteto","C":["n"],"d":"un sala o spasio en la teto de un construida","i":"#","da":"loft, loftsrum","de":"Dachboden","en":"attic, loft, garret","eo":"subtegmento","es":"ático, desván, buhardilla","fr":"comble, mansarde"}
 {"L":"tetor","C":["n"],"d":"un person ci construi o repara tetos","en":"roofer"}
 {"T":"r","L":"tetonica","C":["n","tera"],"d":"la ramo de jeolojia cual studia la prosedes grande cual afeta la strutur de la crosta de la Tera; esta prosedes mesma","en":"tectonics"}
 {"L":"tetonical","C":["a"],"en":"tectonic"}
@@ -26840,8 +26840,8 @@
 {"L":"torpinte","C":["a"],"en":"fiddly, awkward (task)"}
 {"T":"r","L":"torpedo","C":["n","util"],"d":"un misil autopropulsada, desiniada per move tra acua a sua ojeto","i":"#","en":"torpedo"}
 {"T":"r","L":"Torres, Streta","C":["n","jeo"],"d":"un streta entre Australia e Papua Gine Nova","i":"Streta-Torres","en":"Strait of Torres"}
-{"T":"r","L":"torse","C":["vnt"],"d":"deveni curva, risa o contorseda","en":"twist, tweak"}
-{"L":"torse","C":["vt"],"d":"curvi, risi o contorse (un person o cosa); presa e malformi (un cosa)","da":"dreje, vride","de":"drehen, verbiegen","en":"twist, wring","fr":"se tordre"}
+{"T":"r","L":"torse","C":["vnt"],"d":"deveni curva, risa o contorseda","en":"twist, tweak","es":"torcerse, retorcerse"}
+{"L":"torse","C":["vt"],"d":"curvi, risi o contorse (un person o cosa); presa e malformi (un cosa)","da":"dreje, vride","de":"drehen, verbiegen","en":"twist, wring","es":"torcer","fr":"se tordre"}
 {"L":"torse","C":["n"],"en":"twist, torsion, contorsion, kink","fr":"torsion"}
 {"L":"torse sua colo","C":["v"],"en":"crane one's neck, rubberneck"}
 {"L":"destorse","C":["vnt"],"en":"untwist"}
@@ -26880,7 +26880,7 @@
 {"L":"tostada","C":["n"],"i":"#","en":"toast (bread)","fr":"toast, pain grillé"}
 {"L":"tostador","C":["n"],"i":"#","en":"toaster","fr":"grille-pain"}
 {"T":"r","L":"tota","C":["d"],"d":"referente a la cuantia o estende intera de un grupo o cosa","u":"tota la libros; tota la pan; tra tota la note","da":"alle","de":"all","en":"all (quantity), the whole of","es":"todo, la totalidad de, la suma completa de","fr":"tous, tout le, tous les","gl":"todo, todos os, todas as","it":"tutto","nl":"al, alle","pt":"tudo"}
-{"L":"tota","C":["av"],"de":"ganz","en":"all"}
+{"L":"tota","C":["av"],"de":"ganz","en":"all","eo":"tute","es":"del todo, enteramente, completamente"}
 {"L":"tota","C":["pron"],"n":"No dise `nos tota`.","u":"tota de nos","en":"all (singular or plural)","fr":"tout"}
 {"L":"totas","C":["pron","pl"],"en":"all (people or things, optional plural pronoun)"}
 {"L":"tota cosas","C":["esp"],"en":"all things, everything (collectively)"}
@@ -27100,7 +27100,7 @@
 {"L":"tremeta","C":["n"],"en":"quiver, wobble, jiggle"}
 {"T":"r","L":"trematera","C":["n","vn","tera"],"d":"un secute subita e violente de la tera, causada par moves en la crosta o ativia volcanal","da":"jordskælv","de":"Erdbeben","en":"earthquake","es":"terremoto","fr":"tremblement de terre, séisme","it":"terremoto","nl":"aardbeving","pt":"terremoto"}
 {"T":"r","L":"trematodo","C":["n"],"d":"un verme plata e parasital con oncas o ventosas","i":"#","t":"Trematoda","en":"trematode, fluke (worm)","fr":"trematode, douve du foie"}
-{"T":"r","L":"tren","C":["n","vec"],"d":"un serie de vagones tirada como un unia par un locomotiva o par motores integrada; un serie de animales o veculos viajante en la mesma dirije","i":"#","ca":"tren","da":"tog","de":"Zug","en":"train","eo":"trajno, vagonaro","es":"tren","fr":"train","it":"treno","ja":"電車","nl":"trein","pt":"trem, comboio","ru":"поезд"}
+{"T":"r","L":"tren","C":["n","vec"],"d":"un serie de vagones tirada como un unia par un locomotiva o par motores integrada; un serie de animales o veculos viajante en la mesma dirije","i":"#","ca":"tren","da":"tog","de":"Zug","en":"train","eo":"trajno, vagonaro","es":"tren (ferrocarril)","fr":"train","it":"treno","ja":"電車","nl":"trein","pt":"trem, comboio","ru":"поезд"}
 {"L":"tren lenta","C":["n"],"en":"slow train, local train"}
 {"L":"tren rapida","C":["n"],"en":"fast train, express train, express"}
 {"L":"treni","C":["vt"],"en":"ship (transport by train)","fr":"transporter par train"}
@@ -27216,11 +27216,11 @@
 {"L":"trivial","C":["a"],"en":"trivial, trifling, petty, paltry","fr":"trivial"}
 {"L":"trivial","C":["n"],"en":"triviality, trifle (something trivial)"}
 {"L":"trivialia","C":["n"],"en":"triviality (quality)"}
-{"T":"r","L":"tro","C":["av"],"d":"a grado plu grande ca desirada, permeteda o posible","da":"for, for meget","en":"too, too much, excessively","fr":"trop"}
-{"L":"tro multe","C":["d"],"ca":"massa","da":"for meget","de":"zu viel, zu sehr","en":"too many, too much, excessive, inordinate","es":"demasiado","fr":"trop de","it":"troppo","ja":"たいへん","nl":"te veel","pt":"demais, demasiado","ru":"слишком, чересчур"}
+{"T":"r","L":"tro","C":["av"],"d":"a grado plu grande ca desirada, permeteda o posible","da":"for, for meget","en":"too, too much, excessively","es":"demasiado, excesivamente","fr":"trop"}
+{"L":"tro multe","C":["d"],"ca":"massa","da":"for meget","de":"zu viel, zu sehr","en":"too many, too much, excessive, inordinate","es":"demasiado, demasiados","fr":"trop de","it":"troppo","ja":"たいへん","nl":"te veel","pt":"demais, demasiado","ru":"слишком, чересчур"}
 {"L":"tro multe","C":["av"],"en":"too much, excessively","fr":"trop"}
 {"L":"tro poca","C":["d"],"da":"utilstrækkelig, for lidt","de":"zu wenig","en":"too few, too little, insufficient","es":"muy poco, insuficiente, demasiado poco","fr":"trop peu de","it":"troppo poco","nl":"te weinig","pt":"muito pouco, insuficiente"}
-{"L":"tro poca","C":["av"],"en":"too little, insufficiently","fr":"trop peu"}
+{"L":"tro poca","C":["av"],"en":"too little, insufficiently","es":"insuficientemente","fr":"trop peu"}
 {"T":"r","L":"troca","C":["vt","mone"],"d":"intercambia (benes o servis) per otras sin usa mone","i":"#","en":"barter, trade","fr":"troquer"}
 {"L":"troca","C":["n"],"en":"barter, trade"}
 {"L":"trocor","C":["n"],"en":"barterer"}
