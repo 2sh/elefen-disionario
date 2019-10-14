@@ -7365,6 +7365,7 @@
 {"L":"autocura","C":["n"],"en":"self-care","he":"טיפוח עצמי"}
 {"L":"ci cura?","C":["esc"],"en":"who cares? (disinterest)","he":"למי אכפת?"}
 {"L":"curante","C":["a"],"en":"careful, deliberate; custodial","he":"זהיר; אפוטרופסי"}
+{"L":"cureria","C":["n"],"en":"care home, nursing home"}
 {"L":"curor","C":["n"],"en":"carer, nurse","fr":"infirmier, infirmière","he":"מטפל, אח/אחות"}
 {"L":"curoria","C":["n"],"en":"nursing (profession)","he":"סיעוד"}
 {"L":"descura","C":["vt"],"en":"neglect","fr":"négliger","he":"להזניח"}
@@ -8030,70 +8031,70 @@
 {"L":"devonian","C":["n"],"en":"Devonian (geology)","he":"(גאולוגיה) דבון"}
 {"T":"r","L":"devora","C":["vt"],"d":"come (alga cosa) en modo rapida o multe fama","en":"devour, gobble, scoff","he":"לזלול, לטרוף"}
 {"L":"devorante","C":["a"],"en":"voracious, ravenous, ravening","he":"זוללני, רעבתני"}
-{"T":"r","L":"di-","C":["pf","tecn"],"d":"du","en":"di- (two)"}
-{"T":"r","L":"dia","C":["n"],"d":"cada de la periodos de 24 oras a cual on divide semanas, menses e anios, corespondente a un jira de la Tera; la parte de esta entre la leva e reposa de sol","da":"dag","de":"Tag","en":"day; daytime","es":"día"}
-{"L":"dia completa","C":["n"],"da":"døgn, dag (24 timer)","en":"day (24-hour period)"}
-{"L":"Dia D","C":["n"],"en":"D-day"}
-{"L":"dia de comersia","C":["n"],"en":"business day"}
-{"L":"dia de labora","C":["n"],"en":"working day, workday, weekday, business day"}
-{"L":"dia de lava","C":["n"],"en":"washday"}
-{"L":"Dia de Memoria","C":["n"],"en":"Remembrance Day"}
-{"L":"dia de paia","C":["n"],"en":"payday"}
-{"L":"dia de semana","C":["n"],"en":"day of the week, weekday"}
-{"L":"dia santa","C":["n"],"da":"jødisk lørdag","de":"Sabbat","en":"holy day, sabbath","es":"sábado judío, domíngo cristiano, viernes musulmán"}
-{"L":"a cada dia","C":["av"],"en":"every day"}
-{"L":"a la otra dia","C":["av"],"en":"the other day"}
-{"L":"de la dia","C":["a"],"en":"of the day, du jour"}
-{"L":"dial","C":["a"],"en":"daily, diurnal (once a day); everyday, quotidian"}
-{"L":"mediadia","C":["n"],"p":"mediadía","da":"middag","de":"Mittag","en":"midday, noon, noontime","es":"mediodía"}
-{"T":"r","L":"dia-","C":["pf","tecn"],"d":"tra, ultra","en":"dia-"}
-{"T":"r","L":"diabete","C":["n","med"],"d":"un maladia de metaboli en cual la capasia de la corpo per produi insulina es diminuida o asente, causante un diminui de la cuantia de glucosa en la sangue","en":"diabetes"}
-{"L":"antidiabetica","C":["n","med"],"d":"un medisin per combate diabete","en":"antidiabetic"}
-{"L":"diabetica","C":["a"],"en":"diabetic"}
-{"T":"r","L":"diablo","C":["n","mit","rel"],"d":"(en alga relijios e credes) un demon, spesial la spirito xef de malia, Satan","i":"#","en":"devil, Satan, Lucifer"}
-{"L":"diablo caxida","C":["n"],"i":"#","en":"jack-in-the-box"}
-{"L":"diablin","C":["a"],"en":"devilish"}
-{"L":"diablosa","C":["a"],"en":"diabolic, diabolical"}
-{"L":"diablo tasmanian","C":["n","mam"],"d":"un marsupial potiosa con testa grande, mandibulas forte, e pelo xef negra, trovada sola en Tasmania","i":"#","t":"Sarcophilus harrisii","en":"Tasmanian devil"}
-{"T":"r","L":"diacon","C":["n","rel"],"d":"un eglesor ordinada de nivel plu basa ca un prete; un ofisior de un eglesa ci aida un eglesor, tipal en cosas secular","en":"deacon, provost"}
-{"T":"r","L":"diacrona","C":["a","ling"],"d":"pertinente a la modo en cual cosas, spesial linguas, ia developa e evolui tra tempo","en":"diachronic"}
-{"T":"r","L":"diafana","C":["a","vest","arci"],"d":"(un materia) permetente ce lus, ma no detalias de forma, pasa tra lo; semitransparente","en":"translucent, diaphanous, semitransparent, sheer, gauzy, filmy, frosted"}
-{"L":"diafania","C":["n"],"en":"translucency"}
-{"T":"r","L":"diafonia","C":["n","info"],"d":"la pasa nondesirada de un sinial a un otra canal de telecomunica","en":"crosstalk"}
-{"T":"r","L":"diaframa","C":["n","anat","med"],"d":"un separa musculal entre la torax e la adomen en mamales; un membrana tensa e flexable, usada per separa du areas","en":"diaphragm"}
-{"L":"diaframa contraconsepinte","C":["n"],"en":"contraceptive diaphragm"}
-{"T":"r","L":"diagnose","C":["vt","med","info"],"d":"identifia la natur de (un maladia o otra disturba) par esamina sintomes","en":"diagnose; troubleshoot"}
-{"L":"diagnose","C":["n"],"en":"diagnosis, diagnostics"}
-{"L":"diagnosiste","C":["n"],"en":"diagnostician"}
-{"L":"maldiagnose","C":["vt"],"en":"misdiagnose"}
-{"L":"maldiagnose","C":["n"],"en":"misdiagnosis"}
-{"L":"nondiagnoseda","C":["a"],"en":"undiagnosed"}
-{"L":"programes de diagnose","C":["n"],"en":"diagnostic tools (software)"}
-{"T":"r","L":"diagonal","C":["a","mat"],"d":"(un linia) reta e apoiada, tipal juntante du angulos oposada de un retangulo","da":"diagonal","de":"diagonal","en":"diagonal, slanted","es":"diagonal, inclinado"}
-{"T":"r","L":"dialetica","C":["n","fil"],"d":"la arte de investiga o discute la veria de opinas; la investiga de contradises en metafisica e sua solves; la esiste e ata de fortes sosial oposante","en":"dialectic"}
-{"L":"dialeticiste","C":["n"],"en":"dialectician"}
-{"T":"r","L":"dialeto","C":["n","ling"],"d":"un varia de un lingua, tipal rejional e no la varia normal","en":"dialect, patois","eo":"dialekto"}
-{"L":"dialeto fonetical","C":["n"],"d":"un manera de pronunsia usada par un parlor individua o par parlores en un rejion o clase sosial","en":"accent","eo":"akĉento"}
-{"T":"r","L":"dialise","C":["n","med","cim"],"d":"la separa de particulas en un licuida par la diferes de sua capasia de pasa tra un membrana; (en medica) la puri de sangue par esta metodo, como un sustitua per la funsiona normal de un ren","en":"dialysis, hemodialysis|ae"}
-{"T":"r","L":"dialogo","C":["n","arte"],"d":"un conversa entre du o plu persones en un libro, teatral o filma; un discute entre du o plu grupos per esplora e solve un problem; (en informatica) un fenetra peti cual furni informa a la usor e solisita un eleje o responde","en":"dialog|ue; dialog|ue box (software)"}
-{"T":"r","L":"diamante","C":["n","tera","spo","vest"],"d":"un jem valuosa, composada de un forma de carbono cristalida, tipal clar e sin color; un rombo cual sta sur un de sua angulos; un de la cuatro familias de cartas de jua, representada par un tal rombo","i":"#","s":"♦","en":"diamond (including cards)"}
-{"L":"diamante bruta","C":["n"],"en":"uncut diamond; diamond in the rough"}
-{"L":"diamante falsa","C":["n"],"en":"false diamond, rhinestone"}
-{"L":"diamantin","C":["a"],"en":"diamondlike, diamond-shaped"}
-{"T":"r","L":"diametre","C":["n","mat"],"d":"un linia reta cual pasa de un lado a la otra e tra la sentro de un corpo o forma, spesial un sirculo o sfera; la longia de esta","en":"diameter"}
-{"T":"r","L":"dianto","C":["n","pla"],"d":"un planta erbin de Eurasia, con flores rosa o blanca e bonodorosa, e folias magra e tipal grisin verde","i":"#","t":"Dianthus","en":"pink (plant)"}
-{"T":"r","L":"diapositiva","C":["n","arte"],"d":"un foto transparente en un montur, tipal capas de es projetada a un scermo","en":"slide (photography)"}
-{"T":"r","L":"diarca","C":["n","ist","gov"],"d":"un de la du renores en un diarcia","en":"diarch (governor)"}
-{"L":"diarcia","C":["n"],"d":"un governa con du renores autonom","en":"diarchy, dyarchy"}
-{"T":"r","L":"diarea","C":["n","med"],"d":"un maladia en cual fece licuida es frecuente descargada","en":"diarrhea|oe"}
-{"T":"r","L":"diaspora","C":["n","uma"],"d":"un sperde de un popla de sua loca orijinal a tra la mundo","en":"diaspora"}
-{"T":"r","L":"diastole","C":["n","bio"],"d":"la fase en la bateta de cor cuando la musculo reposa e permete ce la cameras pleni con sangue","en":"diastole (biology)"}
-{"L":"diastolal","C":["a"],"en":"diastolic"}
-{"T":"r","L":"diatomea","C":["n","bio"],"d":"un alge uniselulal, con mur de silica","i":"#","t":"Bacillariophyceae","en":"diatom (organism)"}
-{"T":"r","L":"diatonica","C":["a","mus"],"d":"usante notas de un sola tonalia sin cambias cromatica","en":"diatonic"}
-{"T":"r","L":"diazepam","C":["n","med"],"d":"un medisin per destensa la musculos e calmi ansia","en":"diazepam, valium"}
-{"T":"r","L":"dicdic","C":["n"],"d":"un antilope nano de la savana seca de Africa","i":"#","t":"Madoqua","en":"dik-dik (antelope)"}
-{"T":"r","L":"dicoco","C":["a"],"d":"(un spesie de trigo) en cual cada spigeta conteni du granes","en":"emmer"}
+{"T":"r","L":"di-","C":["pf","tecn"],"d":"du","en":"di- (two)","he":"(קידומת טכנית) שניים"}
+{"T":"r","L":"dia","C":["n"],"d":"cada de la periodos de 24 oras a cual on divide semanas, menses e anios, corespondente a un jira de la Tera; la parte de esta entre la leva e reposa de sol","da":"dag","de":"Tag","en":"day; daytime","es":"día","he":"יום"}
+{"L":"dia completa","C":["n"],"da":"døgn, dag (24 timer)","en":"day (24-hour period)","he":"יממה"}
+{"L":"Dia D","C":["n"],"en":"D-day","he":"יום תחילת מבצע; יום הפלישה לנורמנדי"}
+{"L":"dia de comersia","C":["n"],"en":"business day","he":"יום עסקים"}
+{"L":"dia de labora","C":["n"],"en":"working day, workday, weekday, business day","he":"יום חול"}
+{"L":"dia de lava","C":["n"],"en":"washday","he":"יום כביסה"}
+{"L":"Dia de Memoria","C":["n"],"en":"Remembrance Day","he":"יום זיכרון"}
+{"L":"dia de paia","C":["n"],"en":"payday","he":"יום התשלום"}
+{"L":"dia de semana","C":["n"],"en":"day of the week, weekday","he":"יום בשבוע"}
+{"L":"dia santa","C":["n"],"da":"jødisk lørdag","de":"Sabbat","en":"holy day, sabbath","es":"sábado judío, domíngo cristiano, viernes musulmán","he":"יום קדוש"}
+{"L":"a cada dia","C":["av"],"en":"every day","he":"כל יום, בכל יום"}
+{"L":"a la otra dia","C":["av"],"en":"the other day","he":"לפני כמה ימים"}
+{"L":"de la dia","C":["a"],"en":"of the day, du jour","he":"של הזמן הזה, דהיום"}
+{"L":"dial","C":["a"],"en":"daily, diurnal (once a day); everyday, quotidian","he":"יומי; כל יום"}
+{"L":"mediadia","C":["n"],"p":"mediadía","da":"middag","de":"Mittag","en":"midday, noon, noontime","es":"mediodía","he":"צהריים, אמצע היום"}
+{"T":"r","L":"dia-","C":["pf","tecn"],"d":"tra, ultra","en":"dia-","he":"(קידומת טכנית) דרך, מבעד"}
+{"T":"r","L":"diabete","C":["n","med"],"d":"un maladia de metaboli en cual la capasia de la corpo per produi insulina es diminuida o asente, causante un diminui de la cuantia de glucosa en la sangue","en":"diabetes","he":"סוכרת"}
+{"L":"antidiabetica","C":["n","med"],"d":"un medisin per combate diabete","en":"antidiabetic","he":"תרופה לטיפול בסוכרת"}
+{"L":"diabetica","C":["a"],"en":"diabetic","he":"סוכרתי"}
+{"T":"r","L":"diablo","C":["n","mit","rel"],"d":"(en alga relijios e credes) un demon, spesial la spirito xef de malia, Satan","i":"#","en":"devil, Satan, Lucifer","he":"שד, דמון, שטן"}
+{"L":"diablo caxida","C":["n"],"i":"#","en":"jack-in-the-box","he":"ג'ק בקופסא (צעצוע)"}
+{"L":"diablin","C":["a"],"en":"devilish","he":"דמוי שד"}
+{"L":"diablosa","C":["a"],"en":"diabolic, diabolical","he":"שטני, מרושע"}
+{"L":"diablo tasmanian","C":["n","mam"],"d":"un marsupial potiosa con testa grande, mandibulas forte, e pelo xef negra, trovada sola en Tasmania","i":"#","t":"Sarcophilus harrisii","en":"Tasmanian devil","he":"שד טסמני (בעל חיים)"}
+{"T":"r","L":"diacon","C":["n","rel"],"d":"un eglesor ordinada de nivel plu basa ca un prete; un ofisior de un eglesa ci aida un eglesor, tipal en cosas secular","en":"deacon, provost","he":"(נצרות) דיאקון"}
+{"T":"r","L":"diacrona","C":["a","ling"],"d":"pertinente a la modo en cual cosas, spesial linguas, ia developa e evolui tra tempo","en":"diachronic","he":"דיאכרוני"}
+{"T":"r","L":"diafana","C":["a","vest","arci"],"d":"(un materia) permetente ce lus, ma no detalias de forma, pasa tra lo; semitransparente","en":"translucent, diaphanous, semitransparent, sheer, gauzy, filmy, frosted","he":"שקוף למחצה, (זכוכית) מזוגג"}
+{"L":"diafania","C":["n"],"en":"translucency","he":"שקיפות חלקית"}
+{"T":"r","L":"diafonia","C":["n","info"],"d":"la pasa nondesirada de un sinial a un otra canal de telecomunica","en":"crosstalk","he":"ערב דיבור, זליגת אותות"}
+{"T":"r","L":"diaframa","C":["n","anat","med"],"d":"un separa musculal entre la torax e la adomen en mamales; un membrana tensa e flexable, usada per separa du areas","en":"diaphragm","he":"סרעפת, דיאפרגמה"}
+{"L":"diaframa contraconsepinte","C":["n"],"en":"contraceptive diaphragm","he":"דיאפרגמה (אמצעי מניעה)"}
+{"T":"r","L":"diagnose","C":["vt","med","info"],"d":"identifia la natur de (un maladia o otra disturba) par esamina sintomes","en":"diagnose; troubleshoot","he":"לאבחן"}
+{"L":"diagnose","C":["n"],"en":"diagnosis, diagnostics","he":"אבחנה, אבחון, דיאגנוזה"}
+{"L":"diagnosiste","C":["n"],"en":"diagnostician","he":"מאבחן"}
+{"L":"maldiagnose","C":["vt"],"en":"misdiagnose","he":"לאבחן בצורה שגויה"}
+{"L":"maldiagnose","C":["n"],"en":"misdiagnosis","he":"אבחון שגוי"}
+{"L":"nondiagnoseda","C":["a"],"en":"undiagnosed","he":"שלא אובחן"}
+{"L":"programes de diagnose","C":["n"],"en":"diagnostic tools (software)","he":"כלי אבחון (תוכנה)"}
+{"T":"r","L":"diagonal","C":["a","mat"],"d":"(un linia) reta e apoiada, tipal juntante du angulos oposada de un retangulo","da":"diagonal","de":"diagonal","en":"diagonal, slanted","es":"diagonal, inclinado","he":"אלכסוני"}
+{"T":"r","L":"dialetica","C":["n","fil"],"d":"la arte de investiga o discute la veria de opinas; la investiga de contradises en metafisica e sua solves; la esiste e ata de fortes sosial oposante","en":"dialectic","he":"דיאלקטיקה"}
+{"L":"dialeticiste","C":["n"],"en":"dialectician","he":"דיאלקטיקאי"}
+{"T":"r","L":"dialeto","C":["n","ling"],"d":"un varia de un lingua, tipal rejional e no la varia normal","en":"dialect, patois","eo":"dialekto","he":"ניב, דיאלקט"}
+{"L":"dialeto fonetical","C":["n"],"d":"un manera de pronunsia usada par un parlor individua o par parlores en un rejion o clase sosial","en":"accent","eo":"akĉento","he":"מבטא"}
+{"T":"r","L":"dialise","C":["n","med","cim"],"d":"la separa de particulas en un licuida par la diferes de sua capasia de pasa tra un membrana; (en medica) la puri de sangue par esta metodo, como un sustitua per la funsiona normal de un ren","en":"dialysis, hemodialysis|ae","he":"דיאליזה"}
+{"T":"r","L":"dialogo","C":["n","arte"],"d":"un conversa entre du o plu persones en un libro, teatral o filma; un discute entre du o plu grupos per esplora e solve un problem; (en informatica) un fenetra peti cual furni informa a la usor e solisita un eleje o responde","en":"dialog|ue; dialog|ue box (software)","he":"דו-שיח, דיאלוג; (מחשבים) תיבת דו-שיח"}
+{"T":"r","L":"diamante","C":["n","tera","spo","vest"],"d":"un jem valuosa, composada de un forma de carbono cristalida, tipal clar e sin color; un rombo cual sta sur un de sua angulos; un de la cuatro familias de cartas de jua, representada par un tal rombo","i":"#","s":"♦","en":"diamond (including cards)","he":"יהלום"}
+{"L":"diamante bruta","C":["n"],"en":"uncut diamond; diamond in the rough","he":"יהלום גולמי"}
+{"L":"diamante falsa","C":["n"],"en":"false diamond, rhinestone","he":"יהלום מזויף"}
+{"L":"diamantin","C":["a"],"en":"diamondlike, diamond-shaped","he":"דמוי יהלום"}
+{"T":"r","L":"diametre","C":["n","mat"],"d":"un linia reta cual pasa de un lado a la otra e tra la sentro de un corpo o forma, spesial un sirculo o sfera; la longia de esta","en":"diameter","he":"קוטר"}
+{"T":"r","L":"dianto","C":["n","pla"],"d":"un planta erbin de Eurasia, con flores rosa o blanca e bonodorosa, e folias magra e tipal grisin verde","i":"#","t":"Dianthus","en":"pink (plant)","he":"ציפורן (צמח)"}
+{"T":"r","L":"diapositiva","C":["n","arte"],"d":"un foto transparente en un montur, tipal capas de es projetada a un scermo","en":"slide (photography)","he":"שקופית"}
+{"T":"r","L":"diarca","C":["n","ist","gov"],"d":"un de la du renores en un diarcia","en":"diarch (governor)","he":"שליט בדיארכיה"}
+{"L":"diarcia","C":["n"],"d":"un governa con du renores autonom","en":"diarchy, dyarchy","he":"דיארכיה"}
+{"T":"r","L":"diarea","C":["n","med"],"d":"un maladia en cual fece licuida es frecuente descargada","en":"diarrhea|oe","he":"(רפואה) שלשול"}
+{"T":"r","L":"diaspora","C":["n","uma"],"d":"un sperde de un popla de sua loca orijinal a tra la mundo","en":"diaspora","he":"פזורה, גולה, תפוצה"}
+{"T":"r","L":"diastole","C":["n","bio"],"d":"la fase en la bateta de cor cuando la musculo reposa e permete ce la cameras pleni con sangue","en":"diastole (biology)","he":"דיאסטולה"}
+{"L":"diastolal","C":["a"],"en":"diastolic","he":"דיאסטולי"}
+{"T":"r","L":"diatomea","C":["n","bio"],"d":"un alge uniselulal, con mur de silica","i":"#","t":"Bacillariophyceae","en":"diatom (organism)","he":"אצה צורנית"}
+{"T":"r","L":"diatonica","C":["a","mus"],"d":"usante notas de un sola tonalia sin cambias cromatica","en":"diatonic","he":"דיאטוני"}
+{"T":"r","L":"diazepam","C":["n","med"],"d":"un medisin per destensa la musculos e calmi ansia","en":"diazepam, valium","he":"דיאזפאם, ואליום (תרופה)"}
+{"T":"r","L":"dicdic","C":["n"],"d":"un antilope nano de la savana seca de Africa","i":"#","t":"Madoqua","en":"dik-dik (antelope)","he":"דיקדיק (אנטילופה)"}
+{"T":"r","L":"dicoco","C":["a"],"d":"(un spesie de trigo) en cual cada spigeta conteni du granes","en":"emmer","he":"אמר (חיטה)"}
 {"T":"r","L":"dicotiledon","C":["n","bio"],"d":"un planta florinte con un embrio cual produi du cotiledones","en":"dicotyledon, dicot (botany)"}
 {"T":"r","L":"dicotomia","C":["n","fil"],"d":"un divide o contrasta entre du cosas oposada o diferente; (en botanica) un rami repetente a du partes egal","en":"dichotomy"}
 {"L":"dicotomial","C":["a"],"en":"dichotomous"}
@@ -8756,7 +8757,7 @@
 {"T":"r","L":"duto","C":["n","util"],"d":"un tubo o canal per gida la move de licuida, aira, cordones, etc; (en la corpo) un tubo o canal per la move de limfa o secretes de glandes; (en plantas) un tubo o canal per la move de acua, sava o aira","i":"#","en":"duct, shaft (tunnel); tract, vessel"}
 {"L":"duto de caldi","C":["n","util"],"en":"heating duct, flue"}
 {"L":"duto de fuma","C":["n","util"],"en":"flue"}
-{"L":"duto sangual","C":["n","anat"],"en":"blood vessel"}
+{"L":"duto sangual","C":["n","anat"],"en":"blood vessel","es":"vaso sanguíneo"}
 {"T":"r","L":"dux","C":["n","util"],"d":"un aparato cual jeta acua per lava; un saleta en cual un person pote sta su esta per lava se","i":"#","da":"bruser, sprinkler","de":"Schauer, Dusche","en":"shower, sprinkler; shower stall, shower cubicle","es":"ducha, regadera, rocio, llovizna, lluvia, aguacero, chubasco"}
 {"L":"dux vajinal","C":["n"],"en":"vaginal douche"}
 {"L":"duxi","C":["vt"],"en":"shower, sprinkle; water (flowers)"}
@@ -10411,7 +10412,7 @@
 {"L":"falda scotes","C":["n"],"i":"#","en":"kilt","fr":"kilt"}
 {"L":"faldeta","C":["n"],"en":"petticoat, half-slip, underskirt","fr":"jupon"}
 {"L":"faldon","C":["n"],"i":"#","da":"forklæde","de":"Schürze","en":"apron; tail (coat)","es":"delantal","fr":"tablier"}
-{"T":"r","L":"falesa","C":["n","tera"],"d":"un fas presipe de roca, tipal a borda de mar","i":"#","da":"klint","de":"Klippe","en":"cliff","fr":"falaise"}
+{"T":"r","L":"falesa","C":["n","tera"],"d":"un fas presipe de roca, tipal a borda de mar","i":"#","da":"klint","de":"Klippe","en":"cliff","es":"acantilado, risco, precipicio, peñasco, escarpa","fr":"falaise"}
 {"T":"r","L":"fali","C":["vt","uma"],"d":"no susede ateni (un resulta desirada); es rejetada par (un proba o intervisa)","u":"el ia fali sua esaminas; tu fali comprende la problem","da":"fejle, ramme forbi","de":"versagen, fehlen","en":"fail (not succeed), fail to, flunk; fault (tennis)","es":"fallar, fracasar, no tener éxito, reprobar examen, faltar, necesitar, quebrar(se), faltar, errar, hechar de menos","fr":"rater, louper, manquer, faillir"}
 {"L":"fali","C":["n"],"en":"failure, fault, flaw, failing, lapse; miss; (surfing) wipeout","fr":"ratage, manque, défaut"}
 {"L":"fali de judi","C":["n"],"en":"lapse of judgement"}
@@ -27522,7 +27523,7 @@
 {"T":"r","L":"ueb","C":["a","info"],"d":"pertinente a la ipertesto de documentos e otra recursos en la interede","en":"web (internet)","es":"web"}
 {"L":"ueb","C":["n"],"en":"web (internet)","es":"web"}
 {"T":"r","L":"uergeld","C":["n","ist","uma"],"d":"la valua de alga cosa en la leges de la germanicas antica, spesial la valua de un person, cual debe es paiada a la proprior o a la familia de la vitim como compensa","en":"wergeld, weregild (payment system)","es":"wergeld (sistema de pago)"}
-{"T":"r","L":"ueste","C":["a","tera"],"d":"(un loca o parte de loca) situada en dirije a la punto do la Sol reposa a la ecuinotes; (un person, venta) veninte de esta dirije","en":"west, western, occidental","es":"oeste, occidental"}
+{"T":"r","L":"ueste","C":["a","tera"],"d":"(un loca o parte de loca) situada en dirije a la punto do la Sol reposa a la ecuinotes; (un person, venta) veninte de esta dirije","en":"west, western, occidental","es":"oeste, poniente, occidental"}
 {"L":"ueste","C":["n"],"da":"vest","de":"West","en":"west, occident","eo":"okcidento","es":"oeste, poniente","fr":"ouest","it":"ovest","nl":"westen","pt":"oeste, oriente, poente"}
 {"L":"ueste-norde-ueste","C":["a"],"en":"west-northwest"}
 {"L":"ueste-sentral","C":["a"],"en":"central west"}
@@ -27831,7 +27832,7 @@
 {"L":"futuna","C":["n"],"en":"Futunan"}
 {"L":"uvea","C":["a"],"en":"Wallisian"}
 {"L":"uvea","C":["n"],"en":"Wallisian"}
-{"T":"r","L":"uvo","C":["n","pla"],"d":"un planta cual produi uvas","t":"Vitis","en":"grape vine"}
+{"T":"r","L":"uvo","C":["n","pla"],"d":"un planta cual produi uvas","t":"Vitis","en":"grape vine","es":"parra"}
 {"L":"uva","C":["n","bio"],"d":"un baca, tipal verde, purpur, roja o negra, cresente en drupas de vites, comeda como un fruta o usada per fabrica vino","i":"#","da":"drue","de":"Weintraube","en":"grape","eo":"vinbero","es":"uva","fr":"raisin","it":"uva","nl":"druif","pt":"uva"}
 {"L":"uva seca","C":["n"],"en":"raisin, currant"}
 {"T":"r","L":"uvula","C":["n","anat"],"d":"un protende de carne a retro de la velo, pendente supra la garga","en":"uvula"}
@@ -27947,7 +27948,7 @@
 {"L":"valuadas","C":["n","pl"],"en":"valuables, riches","fr":"richesses"}
 {"L":"valuosa","C":["a"],"en":"valuable, precious","fr":"précieux"}
 {"L":"valuosas","C":["n","pl"],"en":"valuables, riches","fr":"richesses"}
-{"T":"r","L":"valva","C":["n","util"],"d":"un aparato per controla la flue de un licuida tra un tubo o duto; un parte de un strumento de venta cual on depresa o turna per entra aira a tubos diversa per cambia la notas disponable","i":"#","da":"ventil; vandhane","de":"Klappe, Ventil","en":"valve; tap, faucet, spigot","fr":"valve, robinet"}
+{"T":"r","L":"valva","C":["n","util"],"d":"un aparato per controla la flue de un licuida tra un tubo o duto; un parte de un strumento de venta cual on depresa o turna per entra aira a tubos diversa per cambia la notas disponable","i":"#","da":"ventil; vandhane","de":"Klappe, Ventil","en":"valve; tap, faucet, spigot","es":"válvula","fr":"valve, robinet"}
 {"L":"valva de banio","C":["n"],"en":"bath tap, bath faucet"}
 {"L":"valva de securia","C":["n"],"en":"safety valve"}
 {"T":"r","L":"vampir","C":["n","mit"],"d":"un umana mital cual bevi sangue umana, vive sola a note, e pote cambia se a un cirotero","i":"#","en":"vampire","fr":"vampire"}
@@ -28235,7 +28236,7 @@
 {"L":"preverbal","C":["n"],"en":"preverbal (grammar)"}
 {"L":"verbal","C":["a"],"d":"pertinente a o derivada de un verbo","en":"verbal"}
 {"L":"verbin","C":["a"],"d":"usada en un modo simil a un verbo","en":"verbal"}
-{"T":"r","L":"verde","C":["a","col"],"d":"con color entre blu e jala en la spetro","i":"#","da":"grøn","de":"grün","en":"green; verdant","fr":"vert","it":"verde","nl":"groen","pt":"verde"}
+{"T":"r","L":"verde","C":["a","col"],"d":"con color entre blu e jala en la spetro","i":"#","da":"grøn","de":"grün","en":"green; verdant","es":"verde","fr":"vert","it":"verde","nl":"groen","pt":"verde"}
 {"L":"verde","C":["n"],"en":"green; greenery, verdure; green (golf)"}
 {"L":"verde de cupre","C":["n"],"en":"verdigris","fr":"verdegris"}
 {"L":"verdi","C":["vnt"],"en":"turn green","fr":"devenir vert"}
@@ -28250,7 +28251,7 @@
 {"L":"sin vergonia","C":["a"],"en":"shameless, brazen, impenitent, unashamed","fr":"sans vergogne"}
 {"L":"vergoniante","C":["a"],"en":"ashamed"}
 {"L":"vergoniosa","C":["a"],"en":"shameful","fr":"honteux"}
-{"T":"r","L":"verje","C":["vnt"],"d":"(un ojeto movente) cambia sua dirije","u":"acel auto no ia indica ce lo va verje a destra","v":"turna","da":"dreje","de":"abbiegen, wenden, kehren","en":"turn, verge, veer, swerve, yaw (change direction while moving)","fr":"tourner, virer"}
+{"T":"r","L":"verje","C":["vnt"],"d":"(un ojeto movente) cambia sua dirije","u":"acel auto no ia indica ce lo va verje a destra","v":"turna","da":"dreje","de":"abbiegen, wenden, kehren","en":"turn, verge, veer, swerve, yaw (change direction while moving)","es":"virarse, tornarse","fr":"virer, tourner"}
 {"L":"verje","C":["vt"],"en":"turn, swerve"}
 {"L":"verje","C":["n"],"en":"turn, swerve"}
 {"L":"verje contra la venta","C":["v"],"en":"tack"}
@@ -28274,7 +28275,7 @@
 {"L":"vernisi","C":["vt"],"en":"varnish; glaze","fr":"vernir; vernisser"}
 {"T":"r","L":"versa","C":["vnt"],"d":"(un licuida) flue rapida e continuante, tipal de un contenador; move rapida de vertical a un angulo plu orizonal","i":"#","da":"hælde (vand)","de":"giessen","en":"pour, tip","eo":"verŝi","es":"vertir, vaciar, servir, hacer fluir","fr":"verser","it":"versare","nl":"gieten","pt":"verter, derramar"}
 {"L":"versa","C":["vt"],"en":"pour, tip"}
-{"L":"malversa","C":["vnt"],"en":"spill, upset, tip over","fr":"renverser"}
+{"L":"malversa","C":["vnt"],"en":"spill, upset, tip over","es":"derramarse, verterse, desparramarse, volcarse","fr":"renverser"}
 {"L":"malversa","C":["vt"],"en":"spill, upset, tip over"}
 {"T":"r","L":"vertebra","C":["n","anat"],"d":"cada de la osos serial cual forma la spina dorsal e tra cual la medula spinal pasa","i":"#","en":"vertebra","fr":"vertèbre"}
 {"L":"vertebral","C":["a"],"en":"vertebral","fr":"vertébral"}
@@ -28365,7 +28366,7 @@
 {"L":"via rapida","C":["n"],"en":"quick route, shortcut","fr":"raccourci"}
 {"L":"via reta","C":["n"],"en":"straight, straightaway"}
 {"L":"via xef","C":["n"],"i":"#","en":"main road, highway, freeway, throughway, thruway","fr":"voie principale"}
-{"L":"a via","C":["av"],"da":"væk, bort","de":"weg, fort","en":"(go, throw, put) away, (saw) off, (throw) out","fr":"au loin"}
+{"L":"a via","C":["av"],"da":"væk, bort","de":"weg, fort","en":"(go, throw, put) away, (saw) off, (throw) out","es":"alejándose","fr":"au loin"}
 {"L":"a via de","C":["prep"],"en":"away from","eo":"for de"}
 {"L":"a via de vias","C":["a"],"en":"in the middle of nowhere, in the back of beyond","eo":"meze de nenie"}
 {"L":"a via de vias comun","C":["a"],"en":"off the beaten track"}
@@ -28470,7 +28471,7 @@
 {"T":"r","L":"vil","C":["a","gov","uma"],"d":"(un person) multe nonplasente, sin prinsipes moral","en":"vile, loathsome, depraved, ignoble, fiendish"}
 {"L":"vil","C":["n"],"en":"villain, scoundrel, crook, con man, miscreant, evildoer, malfeasant, culprit, wrongdoer, reprobate, rogue, scoundrel, fiend"}
 {"L":"vilia","C":["n"],"en":"vice, villainy, depravity"}
-{"T":"r","L":"vila","C":["n","arci"],"d":"un urbe con nom, bordas definida e governa local, min grande ca un site","da":"by","en":"town","eo":"urbo","fr":"ville"}
+{"T":"r","L":"vila","C":["n","arci"],"d":"un urbe con nom, bordas definida e governa local, min grande ca un site","da":"by","en":"town","eo":"urbo","es":"pueblo","fr":"ville"}
 {"L":"vila bumante","C":["n"],"en":"boomtown"}
 {"L":"vila de nase","C":["n"],"en":"birthtown, hometown"}
 {"L":"vila de universia","C":["n"],"en":"campus"}
@@ -28625,7 +28626,7 @@
 {"L":"vitimisme","C":["n"],"d":"un cualia de personalia en cual un person regarda se como la vitim de atas negativa de otra persones","en":"victimism"}
 {"T":"r","L":"vitriol","C":["n","uma"],"d":"critica cruel e amarga","en":"vitriol"}
 {"L":"vitriolosa","C":["a"],"en":"vitriolic"}
-{"T":"r","L":"vitro","C":["n","cim","util"],"d":"un materia dur e frajil, tipal transparente o diafana, creada par fusa arena con carbonato de sodio e calce e fresci rapida; un contenador de esta materia, usada per bevi; un plata peti de esta materia, usada per porta cosas cual on regarda con microscopio","i":"#","ca":"got, vas","da":"glas","de":"Glas","en":"glass (substance, container); slide (microscope)","es":"cristal, vidrio, vaso","fr":"verre","it":"vetro","ja":"グラス","nl":"glas","pt":"vidro, copo","ru":"бокал, стакан"}
+{"T":"r","L":"vitro","C":["n","cim","util"],"d":"un materia dur e frajil, tipal transparente o diafana, creada par fusa arena con carbonato de sodio e calce e fresci rapida; un contenador de esta materia, usada per bevi; un plata peti de esta materia, usada per porta cosas cual on regarda con microscopio","i":"#","ca":"got, vas","da":"glas","de":"Glas","en":"glass (substance, container); slide (microscope)","es":"cristal, vidrio; vaso, copa","fr":"verre","it":"vetro","ja":"グラス","nl":"glas","pt":"vidro, copo","ru":"бокал, стакан"}
 {"L":"vitro acrilica","C":["n"],"en":"perspex, plexiglass, lucite, polymethyl methacrylate, poly"}
 {"L":"vitro colorida","C":["n"],"i":"#","en":"stained glass"}
 {"L":"vitro de coniac","C":["n"],"i":"#","en":"brandy glass, snifter"}
@@ -28903,7 +28904,7 @@
 {"L":"xecerisme","C":["n"],"d":"un varia de cuecerisme fundida en 1747","en":"Shakerism (Christianity)","eo":"ŝejkerismo"}
 {"T":"r","L":"xef","C":["a","gov","uma"],"d":"la plu importante; con grado la plu alta o estende la plu grande","da":"vigtig, primær, principiel","de":"Haupt-, Ober-, primär","en":"chief, main, primary, principal, foremost, premier, prime, key","eo":"ĉefa, precipa","es":"jefe, primario, principal, mayor, el más importante","fr":"principal, en chef","it":"principale","nl":"voornaamste, hoofd-"}
 {"L":"xef","C":["av"],"d":"plu ca tota otra posibles; como sua parte o cualia la plu grande o importante","u":"el bevi xef cafe; aira es xef composada de nitrojen","ca":"principalment","de":"hauptsächlich","en":"chiefly, mainly, mostly, primarily, principally, most importantly","eo":"ĉefe, precipe, plejparte","es":"sin falta","fr":"principalement","ja":"第一義に","pt":"principalmente","ru":"в принципе; в основном"}
-{"L":"xef","C":["n"],"ca":"xef","da":"chef, leder","de":"Chef, Führer","en":"chief, leader, head, headman, chieftain, overlord, sachem","eo":"ĉefo","es":"jefe, lider, caudillo, cacique; chef","fr":"chef","it":"capo","ja":"シェフ","nl":"chef, hoofdman","pt":"chefe, diretor, comandante, lider","ru":"шеф-повар"}
+{"L":"xef","C":["n"],"ca":"xef","da":"chef, leder","de":"Chef, Führer","en":"chief, leader, head, headman, chieftain, overlord, sachem","eo":"ĉefo","es":"jefe, líder, caudillo, cacique; chef","fr":"chef","it":"capo","ja":"シェフ","nl":"chef, hoofdman","pt":"chefe, diretor, comandante, lider","ru":"шеф-повар"}
 {"L":"xef de cosina","C":["n","cos"],"i":"#","en":"chef","eo":"ĉefkuiristo","fr":"chef (cuisinier)"}
 {"L":"xef de gang","C":["n"],"en":"ringleader"}
 {"L":"xef de gera","C":["n"],"en":"war chief, warlord"}
@@ -29059,11 +29060,11 @@
 {"L":"xutador xef","C":["n","spo"],"en":"driver (golf club)"}
 {"L":"xutor","C":["n"],"en":"shooter, sniper","eo":"pafisto","fr":"tireur"}
 {"T":"r","L":"xux","C":["esc"],"d":"demandante per silentia","en":"sh","eo":"ŝŝ, ĉit"}
-{"T":"r","L":"xuxa","C":["vt","ling"],"d":"dise cuieta, sin usa sua plias vosal; (stofas o folias movente) fa un sona simil; furni (un replica oblidada) a un ator","i":"#","en":"whisper; prompt; rustle","eo":"flustri; suflori; susuri","fr":"chuchoter; souffler;froufrouter"}
+{"T":"r","L":"xuxa","C":["vt","ling"],"d":"dise cuieta, sin usa sua plias vosal; (stofas o folias movente) fa un sona simil; furni (un replica oblidada) a un ator","i":"#","en":"whisper; prompt; rustle","eo":"flustri; suflori; susuri","es":"susurrar","fr":"chuchoter; souffler;froufrouter"}
 {"L":"xuxa","C":["n"],"en":"whisper; prompt; rustle, rustling, froufrou","eo":"flustro; sufloro; susuro","fr":"chuchotement"}
 {"L":"xuxor","C":["n"],"en":"whisperer; prompter"}
 {"T":"r","L":"xva","C":["n","ling"],"d":"un vocal media e sentral; (en scrive ivri) un sinia vocal cual sembla un dupunto scriveda su un letera","s":"ə","en":"schwa (vowel); shva, shewa' (Hebrew vowel sign)","eo":"ŝvao","fr":"schwa, chva"}
-{"T":"r","L":"Xvaben","C":["n","jeo"],"d":"un rejion de Deutxland sude-ueste","i":"#","de":"Schwaben","en":"Swabia (German region)"}
+{"T":"r","L":"Xvaben","C":["n","jeo"],"d":"un rejion de Deutxland sude-ueste","i":"#","de":"Schwaben","en":"Swabia (German region)","es":"Suabia"}
 {"L":"xvabes","C":["a"],"en":"Swabian"}
 {"T":"r","L":"y","C":["sim"],"d":"la letera 25 de la alfabeta roman","p":"ya","en":"y","es":"y"}
 {"T":"r","L":"York Nova","C":["n","jeo"],"d":"un stato en la SUA norde-este, con bordas a la Mar Atlantica e la Lago Ontario","en":"New York State (US state)","es":"Estado de Nueva York"}
@@ -29071,24 +29072,24 @@
 {"L":"Penisola Yucatan","C":["n","jeo"],"en":"Yucatán Peninsula","es":"Península de Yucatán"}
 {"T":"r","L":"Yukon","C":["n","jeo"],"d":"un teritorio de Canada norde-ueste, bordante Alaska","en":"Yukon (Canadian territory)","es":"Yukón (territorio canadiense)"}
 {"T":"r","L":"z","C":["sim"],"d":"la letera 26 e final de la alfabeta roman","p":"ze","en":"z"}
-{"T":"r","L":"zabalion","C":["n","cos"],"d":"un deser italian con jala de ovo, zucar e vino dulse","en":"zabaglione, zabaione (dessert)","eo":"zabajono","fr":"sabayon"}
-{"T":"r","L":"zada","C":["n","util"],"d":"un util con manico longa e lama inclinada, usada per turba la tera","i":"#","en":"hoe","eo":"rastro","fr":"houe"}
+{"T":"r","L":"zabalion","C":["n","cos"],"d":"un deser italian con jala de ovo, zucar e vino dulse","en":"zabaglione, zabaione (dessert)","eo":"zabajono","es":"sabayón, sambayón","fr":"sabayon"}
+{"T":"r","L":"zada","C":["n","util"],"d":"un util con manico longa e lama inclinada, usada per turba la tera","i":"#","en":"hoe","eo":"rastro","es":"azada","fr":"houe"}
 {"L":"zadi","C":["vt"],"en":"hoe","eo":"rastri","fr":"biner, sarcler"}
-{"T":"r","L":"zafran","C":["n","pla","cos"],"d":"un spise orania jala veninte de un croco; esta planta","i":"#","t":"Crocus sativus","en":"saffron (plant, spice)","eo":"safrano","fr":"safran"}
-{"T":"r","L":"zagaia","C":["n"],"d":"un lansia magra de lenio dur, con punto de fero, tipal usada en Africa sude","i":"#","en":"assegai (spear)"}
+{"T":"r","L":"zafran","C":["n","pla","cos"],"d":"un spise orania jala veninte de un croco; esta planta","i":"#","t":"Crocus sativus","en":"saffron (plant, spice)","eo":"safrano","es":"azafrán","fr":"safran"}
+{"T":"r","L":"zagaia","C":["n"],"d":"un lansia magra de lenio dur, con punto de fero, tipal usada en Africa sude","i":"#","en":"assegai (spear)","es":"azagaya"}
 {"T":"r","L":"zagruta","C":["vt"],"en":"zaghrouta, zaghareet (celebratory ululation)"}
 {"L":"zagruta","C":["n"],"d":"un tono longa, alta e vibrante, como produida par alga femes arabi en selebra","en":"zaghrouta, zaghareet (celebratory ululation)","fr":"youyou"}
 {"T":"r","L":"zaideco","C":["n","mus"],"d":"un spesie de musica per dansa, orijinante en la sude de Louisiana, tipal con acordion e gitar","en":"zydeco"}
-{"T":"r","L":"Zair","C":["n","jeo"],"d":"un nom vea de la Republica Democrata de Congo","i":"Republica-Democrata-de-Congo","v":"Republica Democrata de Congo","en":"Zaire","eo":"Zairio","fr":"Zaïre"}
-{"T":"r","L":"Zambia","C":["n","jeo"],"c":"Lusaka","d":"un pais en Africa sude","i":"#","en":"Zambia","fr":"Zambie"}
+{"T":"r","L":"Zair","C":["n","jeo"],"d":"un nom vea de la Republica Democrata de Congo","i":"Republica-Democrata-de-Congo","v":"Republica Democrata de Congo","en":"Zaire","eo":"Zairio","es":"Zaire","fr":"Zaïre"}
+{"T":"r","L":"Zambia","C":["n","jeo"],"c":"Lusaka","d":"un pais en Africa sude","i":"#","en":"Zambia","es":"Zambia","fr":"Zambie"}
 {"L":"zambian","C":["a"],"en":"Zambian","fr":"zambien"}
 {"L":"zambian","C":["n"],"en":"Zambian","eo":"zambia","fr":"Zambien"}
-{"T":"r","L":"Zanzibar","C":["n","jeo"],"d":"un isola a costa de Africa este e un parte de Tanzania","i":"#","en":"Zanzibar"}
-{"T":"r","L":"zazen","C":["n","rel"],"d":"(en zen) un forma de medita sentante","i":"#","en":"zazen (meditation)"}
-{"T":"r","L":"zebra","C":["n","mam"],"d":"un cavalo savaje african con raios negra e blanca","i":"#","t":"Equus zebra, Equus quagga, Equus grevyi","en":"zebra","eo":"zebro","fr":"zèbre"}
-{"T":"r","L":"zebu","C":["n","mam"],"d":"un bove jibosa barati","i":"#","t":"Bos primigenius indicus","en":"zebu, humped cattle","fr":"zébu"}
-{"T":"r","L":"Zeland","C":["n","jeo"],"d":"la provinse la plu ueste en Nederland","en":"Zeeland","eo":"Zelando","fr":"Zélande"}
-{"L":"Zeland Nova","C":["n","jeo"],"c":"Wellington","d":"un pais isolida en la Mar Pasifica","i":"zeland-nova","en":"New Zealand","eo":"Nov-Zelando","fr":"Nouvelle-Zélande"}
+{"T":"r","L":"Zanzibar","C":["n","jeo"],"d":"un isola a costa de Africa este e un parte de Tanzania","i":"#","en":"Zanzibar","es":"Zanzíbar"}
+{"T":"r","L":"zazen","C":["n","rel"],"d":"(en zen) un forma de medita sentante","i":"#","en":"zazen (meditation)","es":"zazen"}
+{"T":"r","L":"zebra","C":["n","mam"],"d":"un cavalo savaje african con raios negra e blanca","i":"#","t":"Equus zebra, Equus quagga, Equus grevyi","en":"zebra","eo":"zebro","es":"cebra","fr":"zèbre"}
+{"T":"r","L":"zebu","C":["n","mam"],"d":"un bove jibosa barati","i":"#","t":"Bos primigenius indicus","en":"zebu, humped cattle","es":"cebú","fr":"zébu"}
+{"T":"r","L":"Zeland","C":["n","jeo"],"d":"la provinse la plu ueste en Nederland","en":"Zeeland","eo":"Zelando","es":"Zelanda","fr":"Zélande"}
+{"L":"Zeland Nova","C":["n","jeo"],"c":"Wellington","d":"un pais isolida en la Mar Pasifica","i":"zeland-nova","en":"New Zealand","eo":"Nov-Zelando","es":"Nueva Zelanda","fr":"Nouvelle-Zélande"}
 {"L":"zelandes","C":["a"],"en":"New Zealand","eo":"novzelanda","fr":"néo-zélandais"}
 {"L":"zelandes","C":["n"],"en":"New Zealander, Kiwi","eo":"novzelandano","fr":"Néo-Zélandais"}
 {"T":"r","L":"zelo","C":["n","uma"],"d":"un emosia intensa de aproba o interesa","da":"begejstring","de":"Begeisterung","en":"zeal, enthusiasm, avidity, alacrity, ardor|ur, fervor|ur, keenness, brio, gusto, panache, zest","eo":"entuziasmo, fervoro, avideco","es":"entusiasmo, celo, fervor, ardor","fr":"zèle, enthousiasme, ardeur","it":"entusiasmo","nl":"ijver, enthousiasme","pt":"zelo, cuidado"}
@@ -29105,58 +29106,58 @@
 {"L":"zero","C":["a"],"d":"prima en un serie tecnical de cual sua indises comensa con zero","u":"la elemento zero de un vetor","en":"zeroth","eo":"nula","fr":"zéro"}
 {"L":"zero","C":["n"],"d":"la dijito 0; la punto zero en un scala","de":"Null","en":"zero, zero point, nought, naught, nil","eo":"nulo, nulpunkto","fr":"zéro"}
 {"L":"zero","C":["pron"],"u":"zero de la pacetas ia ariva","en":"none, not any, nil","eo":"neniu, neniom (da)","fr":"aucun, zéro"}
-{"T":"r","L":"zeta","C":["n"],"d":"la letera 6 de la alfabeta elinica","s":"Ζ ζ","en":"zeta (Greek letter)","eo":"zeta","fr":"zêta"}
+{"T":"r","L":"zeta","C":["n"],"d":"la letera 6 de la alfabeta elinica","s":"Ζ ζ","en":"zeta (Greek letter)","eo":"zeta","es":"zeta","fr":"zêta"}
 {"T":"r","L":"zeta-","C":["pf","tecn"],"d":"{10^21}","en":"zeta-"}
-{"T":"r","L":"Zeus","C":["n","mit"],"d":"la dio suprema en la relijio de Elas antica","i":"#","en":"Zeus"}
-{"T":"r","L":"zezea","C":["vt","ling"],"d":"pronunsia (un consonante sisante) en modo interdental","en":"lisp","eo":"lispi","fr":"zézayer"}
+{"T":"r","L":"Zeus","C":["n","mit"],"d":"la dio suprema en la relijio de Elas antica","i":"#","en":"Zeus","es":"Zeus"}
+{"T":"r","L":"zezea","C":["vt","ling"],"d":"pronunsia (un consonante sisante) en modo interdental","en":"lisp","eo":"lispi","es":"cecear","fr":"zézayer"}
 {"L":"zezea","C":["n"],"en":"lisp","eo":"lispo","fr":"zézaiement"}
-{"T":"r","L":"zibelina","C":["n","mam"],"d":"un martes nion o sibirsce","i":"#","t":"Martes zibellina","en":"sable (animal)","eo":"zibelo","fr":"zibeline"}
-{"T":"r","L":"Zica","C":["n","jeo"],"d":"un foresta en Uganda, en cual un maladia ia es prima oservada","en":"Zika"}
-{"L":"febre de Zica","C":["n"],"en":"Zika fever"}
+{"T":"r","L":"zibelina","C":["n","mam"],"d":"un martes nion o sibirsce","i":"#","t":"Martes zibellina","en":"sable (animal)","eo":"zibelo","es":"marta cibelina","fr":"zibeline"}
+{"T":"r","L":"Zica","C":["n","jeo"],"d":"un foresta en Uganda, en cual un maladia ia es prima oservada","en":"Zika","es":"Zika"}
+{"L":"febre de Zica","C":["n"],"en":"Zika fever","es":"fiebre del Zika"}
 {"L":"virus de Zica","C":["n"],"en":"Zika virus"}
-{"T":"r","L":"zigoma","C":["n","anat"],"d":"la arco ososa de la jena","en":"zygoma, cheekbone","fr":"zygoma, os zygomatique"}
+{"T":"r","L":"zigoma","C":["n","anat"],"d":"la arco ososa de la jena","en":"zygoma, cheekbone","es":"cigoma","fr":"zygoma, os zygomatique"}
 {"T":"r","L":"zigoto","C":["n","bio"],"d":"un selula produida par la fusa de du gametas","en":"zygote (biology)","eo":"zigoto","fr":"zygote"}
-{"T":"r","L":"zigurat","C":["n","arci","ist"],"d":"un piramide terazida, tipal de Mesopotamia antica","i":"#","en":"ziggurat (pyramid)","eo":"zigurato","fr":"ziggourat"}
+{"T":"r","L":"zigurat","C":["n","arci","ist"],"d":"un piramide terazida, tipal de Mesopotamia antica","i":"#","en":"ziggurat (pyramid)","eo":"zigurato","es":"zigurat","fr":"ziggourat"}
 {"T":"r","L":"zigzaga","C":["vnt","arte"],"d":"move tal ce on fa verjes angulo subita en dirijes alternante","i":"#","en":"zigzag","eo":"zigzagi","fr":"zigzaguer"}
-{"L":"zigzaga","C":["n"],"en":"zigzag","eo":"zigzago","fr":"zigzag"}
-{"T":"r","L":"Zimbabue","C":["n","jeo"],"c":"Harare","d":"un pais en Africa sude","i":"#","en":"Zimbabwe","eo":"Zimbabvo","fr":"Zimbabwe"}
+{"L":"zigzaga","C":["n"],"en":"zigzag","eo":"zigzago","es":"zigzag","fr":"zigzag"}
+{"T":"r","L":"Zimbabue","C":["n","jeo"],"c":"Harare","d":"un pais en Africa sude","i":"#","en":"Zimbabwe","eo":"Zimbabvo","es":"Zimbabue","fr":"Zimbabwe"}
 {"L":"zimbabuean","C":["a"],"en":"Zimbabwean","eo":"zimbabva","fr":"zimbabwéen"}
 {"L":"zimbabuean","C":["n"],"en":"Zimbabwean","eo":"zimbabvano","fr":"Zimbabwéen"}
-{"T":"r","L":"zinco","C":["n","cim"],"d":"la elemento cimical con numero atomal 30, un metal","s":"Zn","en":"zinc","eo":"zinko","fr":"zinc"}
+{"T":"r","L":"zinco","C":["n","cim"],"d":"la elemento cimical con numero atomal 30, un metal","s":"Zn","en":"zinc","eo":"zinko","es":"zinc","fr":"zinc"}
 {"L":"zinci","C":["vt"],"d":"covre (aser o fero) con un strato protejente de zinco","en":"zinc, galvanize|is"}
-{"T":"r","L":"zinia","C":["n","pla"],"d":"un planta american con flores solitar e briliante","i":"#","t":"Zinnia","en":"zinnia (plant)","eo":"zinio","fr":"zinnia"}
-{"T":"r","L":"zipe","C":["n","util"],"d":"un fisador per stofas, en cual du bandas es entretexeda par un liscador; un abri cluable par un zipe","i":"#","en":"zip, zipper; fly, flies","eo":"zipo, fulmofermilo; pantalonfendo","fr":"fermeture éclair; braguette"}
+{"T":"r","L":"zinia","C":["n","pla"],"d":"un planta american con flores solitar e briliante","i":"#","t":"Zinnia","en":"zinnia (plant)","eo":"zinio","es":"cinia","fr":"zinnia"}
+{"T":"r","L":"zipe","C":["n","util"],"d":"un fisador per stofas, en cual du bandas es entretexeda par un liscador; un abri cluable par un zipe","i":"#","en":"zip, zipper; fly, flies","eo":"zipo, fulmofermilo; pantalonfendo","es":"cremallera","fr":"fermeture éclair; braguette"}
 {"L":"dezipi","C":["vt"],"en":"unzip","eo":"malzipi"}
 {"L":"zipi","C":["vt"],"en":"zip","eo":"zipi","fr":"fermer (avec une fermeture Éclair)"}
-{"T":"r","L":"zircon","C":["n","tera"],"d":"un mineral cristal composada de silicato de zirconio","en":"zircon (mineral)","eo":"zirkono","fr":"zircon"}
-{"T":"r","L":"zirconio","C":["n","cim"],"d":"la elemento cimical con numero atomal 40, un metal","s":"Zr","en":"zirconium (element)","eo":"zirkonio","fr":"zirconium"}
+{"T":"r","L":"zircon","C":["n","tera"],"d":"un mineral cristal composada de silicato de zirconio","en":"zircon (mineral)","eo":"zirkono","es":"zircón, circón","fr":"zircon"}
+{"T":"r","L":"zirconio","C":["n","cim"],"d":"la elemento cimical con numero atomal 40, un metal","s":"Zr","en":"zirconium (element)","eo":"zirkonio","es":"zirconio, circonio","fr":"zirconium"}
 {"T":"r","L":"zizania","C":["n","pla","cos"],"d":"un erba acual alta, relatada a ris, con granes comable","t":"Zizania","en":"wild rice, Canada rice, Indian rice, Mongolian rice, water oats"}
-{"T":"r","L":"zloti","C":["n","mone"],"d":"la unia de mone en Polsca","en":"złoty (currency)","eo":"zloto","fr":"zloty"}
-{"T":"r","L":"zo","C":["n","arci"],"d":"un parce do on esibi animales savaje en ensircas","i":"#","en":"zoo, menagerie","eo":"bestoĝardeno, bestejo, menaĝerio","fr":"zoo"}
-{"T":"r","L":"zo-","C":["pf","tecn"],"d":"animales","en":"zoo- (animal)"}
-{"T":"r","L":"zoco","C":["n","vest"],"d":"un sapato con un planta de lenio, o intera de lenio","i":"#","en":"clog, sabot, wooden shoe","eo":"lignoŝuo","fr":"sabot"}
+{"T":"r","L":"zloti","C":["n","mone"],"d":"la unia de mone en Polsca","en":"złoty (currency)","eo":"zloto","es":"esloti","fr":"zloty"}
+{"T":"r","L":"zo","C":["n","arci"],"d":"un parce do on esibi animales savaje en ensircas","i":"#","en":"zoo, menagerie","eo":"bestoĝardeno, bestejo, menaĝerio","es":"zoo","fr":"zoo"}
+{"T":"r","L":"zo-","C":["pf","tecn"],"d":"animales","en":"zoo- (animal)","es":"zoo-"}
+{"T":"r","L":"zoco","C":["n","vest"],"d":"un sapato con un planta de lenio, o intera de lenio","i":"#","en":"clog, sabot, wooden shoe","eo":"lignoŝuo","es":"zueco","fr":"sabot"}
 {"L":"zocor","C":["n"],"en":"clogmaker","eo":"lignoŝuisto","fr":"sabotier"}
-{"T":"r","L":"zodiaco","C":["n","ast","mit"],"d":"la zona de la sielo tra cual la Sol, Luna e planetas pare move en cada anio","en":"zodiac","eo":"zodiako","fr":"zodiaque"}
+{"T":"r","L":"zodiaco","C":["n","ast","mit"],"d":"la zona de la sielo tra cual la Sol, Luna e planetas pare move en cada anio","en":"zodiac","eo":"zodiako","es":"zodiaco, zodíaco","fr":"zodiaque"}
 {"L":"zodiacal","C":["a"],"en":"zodiacal","eo":"zodiaka","fr":"zodiacal"}
-{"T":"r","L":"zofilia","C":["n","uma"],"d":"(en un person) un atrae sesal a animales","en":"zoophilia, bestophilia, bestiality"}
+{"T":"r","L":"zofilia","C":["n","uma"],"d":"(en un person) un atrae sesal a animales","en":"zoophilia, bestophilia, bestiality","es":"zoofilia"}
 {"L":"zofilica","C":["a"],"en":"zoophilic, zoophiliac"}
 {"L":"zofilica","C":["n"],"en":"zoophile, zoophiliac"}
-{"T":"r","L":"zofite","C":["n","bio"],"d":"un animal simil a un planta, como un coral, sponja o anemone-de-mar","en":"zoophyte"}
-{"T":"r","L":"zojeografia","C":["n","bio"],"d":"la ramo de jeografia cual studia la distribui e moves de animales","en":"zoogeography"}
+{"T":"r","L":"zofite","C":["n","bio"],"d":"un animal simil a un planta, como un coral, sponja o anemone-de-mar","en":"zoophyte","es":"zoófito, zoofito"}
+{"T":"r","L":"zojeografia","C":["n","bio"],"d":"la ramo de jeografia cual studia la distribui e moves de animales","en":"zoogeography","es":"zoogeografía"}
 {"L":"zojeografial","C":["a"],"en":"zoogeographical"}
 {"L":"zojeografiste","C":["n"],"en":"zoogeographer"}
-{"T":"r","L":"zolojia","C":["n","bio"],"d":"la siensa cual studia animales","en":"zoology","eo":"zoologio","fr":"zoologie"}
+{"T":"r","L":"zolojia","C":["n","bio"],"d":"la siensa cual studia animales","en":"zoology","eo":"zoologio","es":"zoología","fr":"zoologie"}
 {"L":"zolojial","C":["a"],"en":"zoological","eo":"zoologia","fr":"zoologique"}
 {"L":"zolojiste","C":["n"],"en":"zoologist","eo":"zoologisto","fr":"zoologiste"}
-{"T":"r","L":"zombi","C":["n","mit"],"d":"un corpo mor, reviveda par sorsoria; un person nonconsensa ma capas de responde a stimulas","en":"zombie","eo":"zombio, sorĉkadavro","fr":"zombi"}
-{"T":"r","L":"zona","C":["n","tera"],"d":"un rejion de un site o planeta con un cualia o usa distinguinte","en":"zone","eo":"zono (regiono)","fr":"zone"}
+{"T":"r","L":"zombi","C":["n","mit"],"d":"un corpo mor, reviveda par sorsoria; un person nonconsensa ma capas de responde a stimulas","en":"zombie","eo":"zombio, sorĉkadavro","es":"zombi","fr":"zombi"}
+{"T":"r","L":"zona","C":["n","tera"],"d":"un rejion de un site o planeta con un cualia o usa distinguinte","en":"zone","eo":"zono (regiono)","es":"zona","fr":"zone"}
 {"L":"zona de ora","C":["n"],"d":"un area en cual la ora es la mesma per tota locas","en":"time zone","eo":"horzono","fr":"fuseau horaire"}
 {"L":"zona de presa alta","C":["n"],"en":"high-pressure area"}
 {"L":"zona de presa basa","C":["n"],"en":"low-pressure area"}
 {"L":"zonal","C":["a"],"en":"zonal"}
 {"T":"r","L":"zoratero","C":["n","bio"],"d":"un inseto peti, tipal trovada su folias seca e otra detrito de arbores, cual lo come","t":"Zoraptera","en":"angel insect"}
 {"T":"r","L":"Zoroastra","C":["n","rel"],"d":"un profeta persian de la sentenio 6 aec e la fundor de zoroastrisme","en":"Zoroaster, Zarathustra"}
-{"L":"zoroastrisme","C":["n"],"d":"un relijio monoteiste de Persia antica","en":"Zoroastrianism, Mazdaism (religion)","eo":"zoroastrismo, zaratuŝtrismo, mazdaism","fr":"zoroastrisme"}
+{"L":"zoroastrisme","C":["n"],"d":"un relijio monoteiste de Persia antica","en":"Zoroastrianism, Mazdaism (religion)","eo":"zoroastrismo, zaratuŝtrismo, mazdaism","es":"zoroastrismo","fr":"zoroastrisme"}
 {"L":"zoroastriste","C":["a"],"d":"pertinente a zoroastrisme","en":"Zoroastrian","eo":"zoroastrisma"}
 {"L":"zoroastriste","C":["n"],"d":"un credor de zoroastrisme","en":"Zoroastrian","eo":"zoroastristo","fr":"zoroastrien"}
 {"T":"r","L":"zoster","C":["n","med"],"d":"un inflama acuta e dolente de la nervos","en":"shingles, herpes zoster, zoster"}
@@ -29166,13 +29167,13 @@
 {"L":"zucar de orzo","C":["n"],"d":"un confeto jala o orania de zucar bolida","en":"barley sugar","fr":"sucre d'orge"}
 {"L":"zucari","C":["vt"],"en":"sugar, sugarcoat, add sugar to","eo":"sukeri","fr":"sucrer"}
 {"L":"zucarosa","C":["a"],"en":"sugary, saccharine, sappy","eo":"sukera","fr":"sucré"}
-{"T":"r","L":"zulu","C":["a","dem"],"d":"pertinente a un popla de Sudafrica ci abita tradisional en la provinse KwaZulu-Natal, o a sua lingua","en":"Zulu (person, language)","eo":"zulua","fr":"zoulou"}
+{"T":"r","L":"zulu","C":["a","dem"],"d":"pertinente a un popla de Sudafrica ci abita tradisional en la provinse KwaZulu-Natal, o a sua lingua","en":"Zulu (person, language)","eo":"zulua","es":"zulú","fr":"zoulou"}
 {"L":"zulu","C":["n"],"en":"Zulu (person, language)","eo":"zuluo; la zulua","fr":"Zoulou"}
-{"T":"r","L":"zuma","C":["vnt","util"],"d":"(un camera o imaje) cambia lisa de un plana distante a un plana plu prosima","en":"zoom, zoom in","eo":"zomi","fr":"zoomer"}
-{"L":"zuma","C":["n"],"en":"zoom, zooming","eo":"zomo","fr":"zoom"}
+{"T":"r","L":"zuma","C":["vnt","util"],"d":"(un camera o imaje) cambia lisa de un plana distante a un plana plu prosima","en":"zoom, zoom in","eo":"zomi","es":"hacer un zoom","fr":"zoomer"}
+{"L":"zuma","C":["n"],"en":"zoom, zooming","eo":"zomo","es":"zoom","fr":"zoom"}
 {"L":"dezuma","C":["vnt"],"en":"zoom out","eo":"malzomi","fr":"dézoomer"}
 {"L":"zuma rapida","C":["n"],"en":"crash zoom"}
-{"T":"r","L":"zumbi","C":["vt"],"d":"fa un sona basa e continuante como un abea, per esemplo par canta sin move sua labios; move rapida tra la aira con sona simil","en":"hum, croon; buzz, whir, whirr, drone; whizz, whoosh","eo":"zumi; sibli","fr":"bourdonner, vrombir; fendre l'air en sifflant"}
+{"T":"r","L":"zumbi","C":["vt"],"d":"fa un sona basa e continuante como un abea, per esemplo par canta sin move sua labios; move rapida tra la aira con sona simil","en":"hum, croon; buzz, whir, whirr, drone; whizz, whoosh","eo":"zumi; sibli","es":"zumbar","fr":"bourdonner, vrombir; fendre l'air en sifflant"}
 {"L":"zumbi","C":["n"],"en":"hum, croon; buzz, whir, whirr, drone; whizz, whoosh","eo":"zumo"}
 {"L":"zumbador","C":["n"],"en":"buzzer","eo":"zumilo","fr":"vibreur"}
 {"L":"zumbinte","C":["a"],"en":"buzzing, abuzz"}
