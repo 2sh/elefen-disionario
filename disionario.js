@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '14 otobre 2019';
+﻿var dataDeDatos = '15 otobre 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"la",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",da:"i, ved, på, hos, nær",de:"bei, mit, um",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",gl:"en (no mesmo lugar que)",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -18500,8 +18500,8 @@ var disionario = [
 {T:"r",L:"ositosina",C:["n","bio"],d:"un ormon relasada par la ipofise cual aumenta la contraes de la utero en pari e stimula la secrete de lete en la dutos de seno",en:"oxytocin (hormone)"},
 {T:"r",L:"osiuro",C:["n"],d:"un nematodo peti cual es un parasito interna de vertebratos",t:"Enterobius vermicularis",en:"pinworm"},
 {T:"r",L:"osiurose",C:["n","med"],d:"un infeta par osiuro",en:"pinworm infection, enterobiasis"},
-{T:"r",L:"osmanian",C:["a","ist"],d:"pertinente a la dinastia turces de Osman 1, o a sua ramo de la turceses, o a la impero de sua seguores",i:"#",en:"Ottoman, Osmanian, Osmanli (empire)"},
-{L:"osmanian",C:["n"],en:"Ottoman, Osmanian, Osmanli (empire)"},
+{T:"r",L:"osmanan",C:["a","ist"],d:"pertinente a la dinastia turces de Osman 1, o a sua ramo de la turceses, o a la impero de sua seguores",i:"#",en:"Ottoman, Osmanian, Osmanli (empire)"},
+{L:"osmanan",C:["n"],en:"Ottoman, Osmanian, Osmanli (empire)"},
 {T:"r",L:"osmio",C:["n","cim"],d:"la elemento cimical con numero atomal 76",s:"Os",en:"osmium (element)"},
 {T:"r",L:"osmol",C:["n","cim"],d:"un unia de presa osmosal",en:"osmole"},
 {T:"r",L:"osmolalia",C:["n","cim"],d:"la consentra de un disolve, espresada como la cuantia de particulas de la disolveda per cilogram de la disolvente",en:"osmolality"},
