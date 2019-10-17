@@ -8110,19 +8110,19 @@
 {"L":"dietal","C":["a"],"en":"dietary","he":"דיאטי"}
 {"L":"dietiste","C":["n"],"en":"dietician","he":"דיאטן, תזונאי"}
 {"L":"dietor","C":["n"],"en":"dieter","he":"(אדם ש) שומר על דיאטה"}
-{"T":"r","L":"difere","C":["vnt"],"d":"no es la mesma; no es simil","en":"differ","es":"disentir, diferir, no estar de acuerdo con, no convenir con"}
-{"L":"difere","C":["n"],"da":"forskel","de":"sich unterscheiden","en":"difference"}
-{"L":"diferente","C":["a"],"u":"el es multe diferente de sua frate","da":"forskellig","de":"verschieden","en":"different, disparate, unlike","es":"diferente, distinto"}
-{"T":"r","L":"diferensia","C":["vt","mat"],"d":"cambia (un funsiona) a sua derivada","en":"differentiate (mathematics)"}
-{"L":"diferensia","C":["n"],"en":"differentiation"}
-{"L":"diferensial","C":["a"],"en":"differential"}
-{"L":"diferensial","C":["n"],"d":"un difere infinita peti entre valuas seguente de un variable","en":"differential"}
-{"T":"r","L":"difisil","C":["a"],"d":"no fasil; nesesante multe labora o capasia per es atenida, fada o comprendeda","da":"svær, vanskelig, hård","de":"schwierig","en":"difficult, hard, awkward; abstruse","es":"difícil, duro, dificultoso, trabajoso, penoso, arduo"}
-{"L":"difisil","C":["av"],"en":"awkwardly, with difficulty"}
-{"L":"difisil","C":["n"],"en":"difficulty, issue"}
-{"L":"difisili","C":["vnt"],"en":"become difficult, get harder"}
-{"L":"difisili","C":["vt"],"en":"make difficult, make harder"}
-{"L":"difisilia","C":["n"],"en":"difficulty (state), awkwardness"}
+{"T":"r","L":"difere","C":["vnt"],"d":"no es la mesma; no es simil","en":"differ","es":"disentir, diferir, no estar de acuerdo con, no convenir con","he":"להיבדל, להיות שונה"}
+{"L":"difere","C":["n"],"da":"forskel","de":"sich unterscheiden","en":"difference","he":"הבדל, שוני"}
+{"L":"diferente","C":["a"],"u":"el es multe diferente de sua frate","da":"forskellig","de":"verschieden","en":"different, disparate, unlike","es":"diferente, distinto","he":"שונה, מובדל, נבדל"}
+{"T":"r","L":"diferensia","C":["vt","mat"],"d":"cambia (un funsiona) a sua derivada","en":"differentiate (mathematics)","he":"(מתמטיקה) לגזור"}
+{"L":"diferensia","C":["n"],"en":"differentiation","he":"(מתמטיקה) גזירה"}
+{"L":"diferensial","C":["a"],"en":"differential","he":"דיפרנציאלי"}
+{"L":"diferensial","C":["n"],"d":"un difere infinita peti entre valuas seguente de un variable","en":"differential","he":"דיפרנציאל"}
+{"T":"r","L":"difisil","C":["a"],"d":"no fasil; nesesante multe labora o capasia per es atenida, fada o comprendeda","da":"svær, vanskelig, hård","de":"schwierig","en":"difficult, hard, awkward; abstruse","es":"difícil, duro, dificultoso, trabajoso, penoso, arduo","he":"קשה (לא קל)"}
+{"L":"difisil","C":["av"],"en":"awkwardly, with difficulty","he":"בקושי, עם מאמץ"}
+{"L":"difisil","C":["n"],"en":"difficulty, issue","he":"קושי (בעיה)"}
+{"L":"difisili","C":["vnt"],"en":"become difficult, get harder","he":"להפוך לקשה"}
+{"L":"difisili","C":["vt"],"en":"make difficult, make harder","he":"להקשות"}
+{"L":"difisilia","C":["n"],"en":"difficulty (state), awkwardness","he":"קושי"}
 {"T":"r","L":"difrata","C":["vnt","fis"],"d":"(un raio de lus o otra sistem de ondas) sperde par pasa tra un abri magra o longo un borda","en":"diffract"}
 {"L":"difrata","C":["n"],"en":"diffraction"}
 {"T":"r","L":"difteria","C":["n","med"],"d":"un maladia baterial multe comunicable cual inflama la membranas mucosa","en":"diphtheria"}
