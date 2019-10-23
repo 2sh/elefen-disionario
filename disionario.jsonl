@@ -8255,28 +8255,28 @@
 {"L":"redirije","C":["n"],"en":"redirection, deflection","he":"שינוי כיוון, הסטה"}
 {"L":"sudirijor","C":["n"],"en":"subdirector, subordinate director","he":"מנהל משנה"}
 {"T":"r","L":"dirndl","C":["n","vest"],"d":"un completa de vestes per femes en stilo tradisional alpan, composada de un roba, blusa e faldon","en":"dirndl (costume)","he":"דירנדל (לבוש)"}
-{"T":"r","L":"dis-","C":["pf","tecn"],"d":"mal, nonormal","en":"dys- (bad, abnormal)"}
-{"T":"r","L":"disacarido","C":["n","cim","cos"],"d":"cada de un clase de zucares de cual sua moleculas conteni restas de monosacaridos","en":"disaccharide"}
-{"T":"r","L":"discalculia","C":["n","uma"],"d":"un descapasia cual difisili la aprende de aritmetica e la manipula de numeros","en":"dyscalculia"}
-{"L":"discalculica","C":["a"],"en":"dyscalculic"}
-{"T":"r","L":"disco","C":["n","mus","info"],"d":"un ojeto ronda, plata e magra; un reserva de musica, imajes, filma o informa dijital en un tal ojeto; un disco con bucos numerida sur un telefon vea; un boton liada a un indicador a la fas de un radio cual permete ce on cambia la stasion; un tipo de musica de la desenio de 1970, intendeda per dansa","da":"skive","de":"Scheibe, Platte","en":"disc, discus, roundel; disk, record, CD, DVD; dial (telephone, radio, etc.); disco (music)","es":"disco"}
-{"L":"disco compata","C":["n"],"d":"un disco peti de plastica sur cual musica o informa dijital es arcivida","en":"compact disc, CD"}
-{"L":"disco de hoci","C":["n"],"en":"hockey puck"}
-{"L":"disco de inisia","C":["n"],"en":"startup disk"}
-{"L":"disco de vinil","C":["n"],"en":"record (vinyl)"}
-{"L":"disco dur","C":["n"],"en":"hard disk, hard drive"}
-{"L":"disco mol","C":["n"],"en":"floppy disk"}
-{"L":"disco video","C":["n"],"en":"video disc, DVD"}
-{"L":"discador","C":["n"],"en":"CD drive, CD player; DVD drive, DVD player, DVD recorder"}
-{"L":"disci","C":["vt"],"en":"dial (phone number)"}
-{"L":"discin","C":["a"],"en":"disclike, disc-shaped"}
-{"T":"r","L":"discografia","C":["n","mus"],"d":"un lista de obras musical o otra rejistras","en":"discography"}
-{"T":"r","L":"discoteca","C":["n","mus"],"d":"un loca do on dansa a musica pop","i":"disco","en":"disco, discotheque"}
-{"T":"r","L":"discreta","C":["a"],"d":"parlante o atante cauta e atendente, tipal per evita ofende o gania vantaje","en":"discreet"}
-{"L":"nondiscreta","C":["a"],"en":"indiscreet"}
-{"L":"nondiscreta","C":["n"],"en":"indiscreet person, bigmouth"}
-{"T":"r","L":"discrimina","C":["vnt"],"d":"distingui nonjusta o prejudinte en la trata de categorias diferente de persones, spesial per sua raza, jenero, o eda","en":"discriminate"}
-{"L":"discrimina","C":["n"],"en":"discrimination"}
+{"T":"r","L":"dis-","C":["pf","tecn"],"d":"mal, nonormal","en":"dys- (bad, abnormal)","he":"(קידומת טכנית) רע, לא תקין"}
+{"T":"r","L":"disacarido","C":["n","cim","cos"],"d":"cada de un clase de zucares de cual sua moleculas conteni restas de monosacaridos","en":"disaccharide","he":"דו-סוכר"}
+{"T":"r","L":"discalculia","C":["n","uma"],"d":"un descapasia cual difisili la aprende de aritmetica e la manipula de numeros","en":"dyscalculia","he":"דיסקלקוליה, הפרעת חישוב"}
+{"L":"discalculica","C":["a"],"en":"dyscalculic","he":"דיסקלקולי"}
+{"T":"r","L":"disco","C":["n","mus","info"],"d":"un ojeto ronda, plata e magra; un reserva de musica, imajes, filma o informa dijital en un tal ojeto; un disco con bucos numerida sur un telefon vea; un boton liada a un indicador a la fas de un radio cual permete ce on cambia la stasion; un tipo de musica de la desenio de 1970, intendeda per dansa","da":"skive","de":"Scheibe, Platte","en":"disc, discus, roundel; disk, record, CD, DVD; dial (telephone, radio, etc.); disco (music)","es":"disco","he":"דיסק, דיסקה, דיסקית; דיסקוס; תקליט, תקליטור; חוגה; (מוזיקה) דיסקו"}
+{"L":"disco compata","C":["n"],"d":"un disco peti de plastica sur cual musica o informa dijital es arcivida","en":"compact disc, CD","he":"תקליטור"}
+{"L":"disco de hoci","C":["n"],"en":"hockey puck","he":"דיסקית הוקי"}
+{"L":"disco de inisia","C":["n"],"en":"startup disk","he":"תקליטור אתחול"}
+{"L":"disco de vinil","C":["n"],"en":"record (vinyl)","he":"תקליט"}
+{"L":"disco dur","C":["n"],"en":"hard disk, hard drive","he":"כונן קשיח"}
+{"L":"disco mol","C":["n"],"en":"floppy disk","he":"דיסקט"}
+{"L":"disco video","C":["n"],"en":"video disc, DVD","he":"תקליטור וידאו, די.וי.די"}
+{"L":"discador","C":["n"],"en":"CD drive, CD player; DVD drive, DVD player, DVD recorder","he":"כונן תקליטורים, נגן תקליטורים; כונן די.וי.די, נגן די.וי.די"}
+{"L":"disci","C":["vt"],"en":"dial (phone number)","he":"לחייג"}
+{"L":"discin","C":["a"],"en":"disclike, disc-shaped","he":"דמוי דיסק"}
+{"T":"r","L":"discografia","C":["n","mus"],"d":"un lista de obras musical o otra rejistras","en":"discography","he":"דיסקוגרפיה"}
+{"T":"r","L":"discoteca","C":["n","mus"],"d":"un loca do on dansa a musica pop","i":"disco","en":"disco, discotheque","he":"דיסקוטק, מועדון לילה"}
+{"T":"r","L":"discreta","C":["a"],"d":"parlante o atante cauta e atendente, tipal per evita ofende o gania vantaje","en":"discreet","he":"דיסקרטי, מוצנע, זהיר"}
+{"L":"nondiscreta","C":["a"],"en":"indiscreet","he":"לא דיסקרטי, חסר טקט"}
+{"L":"nondiscreta","C":["n"],"en":"indiscreet person, bigmouth","he":"(אדם) לא דיסקרטי, חסר טקט, פטפטן"}
+{"T":"r","L":"discrimina","C":["vnt"],"d":"distingui nonjusta o prejudinte en la trata de categorias diferente de persones, spesial per sua raza, jenero, o eda","en":"discriminate","he":"להפלות"}
+{"L":"discrimina","C":["n"],"en":"discrimination","he":"אפליה"}
 {"T":"r","L":"discute","C":["vt"],"d":"parla sur (un sujeto) con un otra person o un grupo de persones; parla o scrive detaliosa sur (un sujeto), considerante opinas e ideas diversa","da":"diskutere, tale om","de":"besprechen","en":"discuss, talk about, deliberate","es":"discutir, hablar sobre"}
 {"L":"discute","C":["n"],"en":"discussion, deliberation, discourse"}
 {"L":"discutable","C":["a"],"en":"debatable, up for discussion, moot"}
