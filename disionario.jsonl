@@ -715,6 +715,7 @@
 {"T":"r","L":"aleluia","C":["esc","rel"],"d":"espresante adora de o grasia a Dio","en":"hallelujah, alleluia","he":"הללויה"}
 {"T":"r","L":"alemande","C":["n","mus"],"d":"un dansa deutx; un musica per esta, spesial como un move en un suite; un turna con brasos o manos liada","o":"de franses allemande (deutx)","en":"allemande (dance, music)","he":"אלמנדה (ריקוד)"}
 {"T":"r","L":"alena","C":["n","util"],"d":"un util peti e puntida per perfora un materia como cuoro o lenio","i":"#","en":"awl, bradawl","he":"מרצע, דוקרן"}
+{"T":"r","L":"alerce","C":["n","pla"],"d":"un arbor sempreverde de la jenero Fitzroya, en familia de sipres","t":"Fitzroya","en":"fitzroya"}
 {"T":"r","L":"alerjen","C":["a","med"],"d":"(un sustantia) causante un alerjia","o":"de elinica allos (otra) + latina generare (crea)","en":"allergenic","he":"אלרגני"}
 {"L":"alerjen","C":["n"],"en":"allergen","he":"אלרגן"}
 {"T":"r","L":"alerjia","C":["n","med"],"d":"un reata danante en la sistem imunial a un sustantia vera nonosiva, tipal un comeda o polvo","o":"de elinica allos (otra)","en":"allergy","he":"אלרגיה, רגשת"}
@@ -8277,38 +8278,38 @@
 {"L":"nondiscreta","C":["n"],"en":"indiscreet person, bigmouth","he":"(אדם) לא דיסקרטי, חסר טקט, פטפטן"}
 {"T":"r","L":"discrimina","C":["vnt"],"d":"distingui nonjusta o prejudinte en la trata de categorias diferente de persones, spesial per sua raza, jenero, o eda","en":"discriminate","he":"להפלות"}
 {"L":"discrimina","C":["n"],"en":"discrimination","he":"אפליה"}
-{"T":"r","L":"discute","C":["vt"],"d":"parla sur (un sujeto) con un otra person o un grupo de persones; parla o scrive detaliosa sur (un sujeto), considerante opinas e ideas diversa","da":"diskutere, tale om","de":"besprechen","en":"discuss, talk about, deliberate","es":"discutir, hablar sobre"}
-{"L":"discute","C":["n"],"en":"discussion, deliberation, discourse"}
-{"L":"discutable","C":["a"],"en":"debatable, up for discussion, moot"}
-{"L":"rediscute","C":["vt"],"en":"rediscuss, rehash"}
-{"T":"r","L":"dise","C":["vt"],"d":"espresa (informas, opinas, sentis, intendes o instruis) par parla o (metafor) par scrive","da":"sige, fortælle","de":"sagen","en":"say, state, tell, utter","es":"decir, platicar, contar"}
-{"L":"dise","C":["n"],"en":"utterance"}
-{"L":"dise coreta","C":["a"],"en":"be correct, be right (in what one says)"}
-{"L":"dise forte","C":["v"],"en":"assert"}
-{"L":"dise forte","C":["n"],"en":"assertion"}
-{"L":"bondise","C":["vt"],"da":"velsigne","de":"segnen","en":"bless","es":"bendecir"}
-{"L":"bondise","C":["n"],"en":"blessing, benediction, beatitude"}
-{"L":"bondises","C":["n","pl"],"en":"blessings"}
-{"L":"como diseda par","C":["prep"],"en":"according to, as said by"}
-{"L":"diseda","C":["a"],"en":"said"}
-{"L":"diseda","C":["n"],"en":"saying, maxim, adage, proverb"}
-{"L":"diseda saja","C":["n"],"en":"wise saying, word of wisdom, aphorism"}
-{"L":"maldisable","C":["a"],"en":"abominable"}
-{"L":"maldise","C":["vt"],"da":"forbande","de":"verfluchen","en":"curse, damn, anathematize|is, badmouth, jinx; blaspheme","es":"maldecir, condenar"}
-{"L":"maldise","C":["n"],"en":"curse, jinx, malediction; blasphemy, profanity"}
-{"L":"maldiseda","C":["a"],"en":"accursed, abominable"}
-{"L":"nondiseda","C":["a"],"en":"unsaid, unspoken, unstated, unvoiced"}
-{"L":"nonpredisable","C":["a"],"en":"unpredictable"}
-{"L":"on dise ce","C":["esp"],"en":"they say that, it is said that, it is rumoured that"}
-{"L":"on ta dise","C":["esp"],"en":"one might say, you could say, as it were"}
+{"T":"r","L":"discute","C":["vt"],"d":"parla sur (un sujeto) con un otra person o un grupo de persones; parla o scrive detaliosa sur (un sujeto), considerante opinas e ideas diversa","da":"diskutere, tale om","de":"besprechen","en":"discuss, talk about, deliberate","es":"discutir, hablar sobre","he":"לדון (לקיים דיון)"}
+{"L":"discute","C":["n"],"en":"discussion, deliberation, discourse","he":"דיון"}
+{"L":"discutable","C":["a"],"en":"debatable, up for discussion, moot","he":"נתון לוויכוח, דורש דיון"}
+{"L":"rediscute","C":["vt"],"en":"rediscuss, rehash","he":"לדון מחדש"}
+{"T":"r","L":"dise","C":["vt"],"d":"espresa (informas, opinas, sentis, intendes o instruis) par parla o (metafor) par scrive","da":"sige, fortælle","de":"sagen","en":"say, state, tell, utter","es":"decir, platicar, contar","he":"לומר, להגיד, להביע"}
+{"L":"dise","C":["n"],"en":"utterance","he":"אמירה, מבע"}
+{"L":"dise coreta","C":["a"],"en":"be correct, be right (in what one says)","he":"צודק (בדבריו)"}
+{"L":"dise forte","C":["v"],"en":"assert","he":"לקבוע, להכריז, לטעון"}
+{"L":"dise forte","C":["n"],"en":"assertion","he":"קביעה, הכרזה, טענה"}
+{"L":"bondise","C":["vt"],"da":"velsigne","de":"segnen","en":"bless","es":"bendecir","he":"לברך"}
+{"L":"bondise","C":["n"],"en":"blessing, benediction, beatitude","he":"ברכה"}
+{"L":"bondises","C":["n","pl"],"en":"blessings","he":"ברכות"}
+{"L":"como diseda par","C":["prep"],"en":"according to, as said by","he":"לפי (אדם מסוים), כפי שנאמר על-ידי"}
+{"L":"diseda","C":["a"],"en":"said","he":"נאמר"}
+{"L":"diseda","C":["n"],"en":"saying, maxim, adage, proverb","he":"מימרה, אמרה, פתגם"}
+{"L":"diseda saja","C":["n"],"en":"wise saying, word of wisdom, aphorism","he":"פתגם, מילות חוכמה, אפוריזם"}
+{"L":"maldisable","C":["a"],"en":"abominable","he":"מתועב, נורא, דוחה"}
+{"L":"maldise","C":["vt"],"da":"forbande","de":"verfluchen","en":"curse, damn, anathematize|is, badmouth, jinx; blaspheme","es":"maldecir, condenar","he":"להשמיץ, להלעיז, להכפיש, לנאץ, לגדף, לחרף, לקלל"}
+{"L":"maldise","C":["n"],"en":"curse, jinx, malediction; blasphemy, profanity","he":"השמצה, הלעזה, הכפשה, נאצה, גידוף, חירוף, קללה"}
+{"L":"maldiseda","C":["a"],"en":"accursed, abominable","he":"מושמץ, מולעז, מוכפש, מנואץ, מגודף, מקולל, ארור"}
+{"L":"nondiseda","C":["a"],"en":"unsaid, unspoken, unstated, unvoiced","he":"שאינו נאמר"}
+{"L":"nonpredisable","C":["a"],"en":"unpredictable","he":"לא צפוי"}
+{"L":"on dise ce","C":["esp"],"en":"they say that, it is said that, it is rumoured that","he":"אומרים ש"}
+{"L":"on ta dise","C":["esp"],"en":"one might say, you could say, as it were","he":"אפשר לומר ש"}
 {"L":"per dise","C":["esp"],"s":"pd","en":"namely, that is to say, in other words, to wit, i.e.","eo":"nome, tio estas, t.e.","he":"כלומר, במילים אחרות"}
-{"L":"per dise esata","C":["esp"],"en":"strictly speaking"}
-{"L":"predisable","C":["a"],"en":"predictable"}
-{"L":"predise","C":["vt"],"en":"predict, forecast, prophesy, foretell, prognosticate"}
-{"L":"predise","C":["n"],"en":"prediction, forecast, prognosis, prophecy"}
-{"L":"predisente","C":["a"],"en":"predicting, prophetic"}
-{"L":"predisor","C":["n"],"en":"predictor, forecaster, prognosticator, prophet"}
-{"L":"redise","C":["vt"],"en":"say again, reiterate; rephrase"}
+{"L":"per dise esata","C":["esp"],"en":"strictly speaking","he":"למען הדיוק"}
+{"L":"predisable","C":["a"],"en":"predictable","he":"צפוי, חזוי"}
+{"L":"predise","C":["vt"],"en":"predict, forecast, prophesy, foretell, prognosticate","he":"לצפות, לחזות, לנבא"}
+{"L":"predise","C":["n"],"en":"prediction, forecast, prognosis, prophecy","he":"ניבוי, נבואה; חיזוי; צפי, תחזית, פרוגנוזה"}
+{"L":"predisente","C":["a"],"en":"predicting, prophetic","he":"נבואי"}
+{"L":"predisor","C":["n"],"en":"predictor, forecaster, prognosticator, prophet","he":"חוזה, חזאי; מנבא, נביא"}
+{"L":"redise","C":["vt"],"en":"say again, reiterate; rephrase","he":"לחזור על הדברים; לנסח מחדש"}
 {"T":"r","L":"diseno","C":["n","vn"],"d":"un person ci espresa abitual opinas negativa o pesimiste","p":"disenó","en":"naysayer"}
 {"T":"r","L":"disenteria","C":["n","med"],"d":"un infeta de la intestines cual causa diarea grave, tipal con sangue e muco en la fece","en":"dysentery"}
 {"T":"r","L":"disenti","C":["vnt","gov"],"d":"ave o espresa opinas o prinsipes cual difere de los cual es comun, ofisial o espresada a ante; separa de un eglesa instituida o ortodox par causa de un nonacorda sur prinsipes","en":"dissent"}
@@ -13083,7 +13084,7 @@
 {"L":"inflama","C":["n","med"],"en":"inflammation"}
 {"L":"antiinflamante","C":["a","med"],"en":"anti-inflammatory"}
 {"L":"antiinflamante","C":["n","med"],"en":"anti-inflammatory"}
-{"L":"antiinflamante nonsteroidal","C":["n","med"],"en":"NSAID, non-steroidal anti-inflammatory drug"}
+{"L":"antiinflamante nonsteroide","C":["n","med"],"en":"NSAID, non-steroidal anti-inflammatory drug"}
 {"L":"inflamante","C":["a","med"],"en":"inflammatory"}
 {"T":"r","L":"infleta","C":["vt","ling"],"d":"cambia la tono de vose per espresa umor o emosia; (en gramatica) cambia la forma de un parola per espresa un rol o cualia gramatical, tipal tempo, modo, person, cuantia, caso o seso","en":"inflect"}
 {"L":"infleta","C":["n"],"en":"inflection"}
@@ -14275,6 +14276,7 @@
 {"L":"lansada par roceto","C":["a"],"en":"rocket-propelled"}
 {"L":"lansador","C":["n"],"en":"launcher"}
 {"L":"lanseria","C":["n"],"en":"launchpad"}
+{"L":"lansin","C":["a"],"en":"lance-like"}
 {"L":"lansor","C":["n"],"en":"thrower, bowler, hurler, pitcher"}
 {"L":"relansa","C":["vt"],"en":"throw back, throw again"}
 {"T":"r","L":"lansadardo","C":["n","vn","util"],"d":"un aparato per lansa un dardo o lansia, composada de un basto con un protende retro cual teni la misil","en":"spear thrower, atlatl, woomera"}
@@ -25393,6 +25395,7 @@
 {"T":"r","L":"sterno","C":["n","cim"],"d":"un jelatin flamable de idrocarbono, furnida en botes per usa como un combustable per stufas o casolones per caldi","en":"Sterno (fuel)"}
 {"T":"r","L":"steroide","C":["a","cim"],"d":"parteninte a un grupo grande de composadas organica con cuatro anelos de atomes de carbono, incluinte multe ormones, alcaloides e vitaminas","en":"steroid, steroidal"}
 {"L":"steroide","C":["n","cim"],"en":"steroid"}
+{"L":"nonsteroide","C":["a","cim"],"en":"nonsteroidal"}
 {"T":"r","L":"sterol","C":["n","cim"],"d":"cada de un grupo natural de alcoles steroide nonsaturada, tipal en forma de solidas sirin","en":"sterol (chemistry)"}
 {"T":"r","L":"stetoscopio","C":["n","med"],"d":"un aparato medical per escuta la cor o pulmones, tipal con un resonador peti, formida como un disco e du tubos juntada a escutadores","i":"#","en":"stethoscope"}
 {"L":"stetoscopi","C":["vt"],"en":"auscultate"}
@@ -25660,6 +25663,7 @@
 {"T":"r","L":"sufri","C":["vt","uma"],"d":"esperia (un cosa dolosa o triste)","u":"sufri de depresa; sufri un crise mental","da":"lide","de":"leiden; ertragen","en":"suffer, undergo","eo":"suferi","es":"sufrir, padecer, soportar","fr":"sufrir","it":"soffrire","nl":"lijden","pt":"sofrer, padecer"}
 {"L":"sufri","C":["n"],"en":"suffering, affliction, hardship, tribulation"}
 {"L":"sufror","C":["n"],"en":"sufferer"}
+{"T":"r","L":"sugo","C":["n","pla"],"d":"un arbor conifer de la jenero Cryptomeria, en familia de sipres","t":"Cryptomeria","en":"cryptomeria"}
 {"T":"r","L":"suhur","C":["n","rel"],"d":"(en islam) un come temprana en ramadan","en":"suhur, sahur, sehri (Islam)"}
 {"T":"r","L":"suing","C":["a","mus"],"d":"pertinente a un moda de musica e dansa derivada de jaz, con un ritmo forte ma suave","i":"#","p":"swing","en":"swing, jive, jitterbug, lindy (dance, music)"}
 {"L":"suing","C":["n"],"en":"swing, jive, jitterbug, lindy (dance, music)"}
