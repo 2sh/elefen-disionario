@@ -8310,155 +8310,156 @@
 {"L":"predisente","C":["a"],"en":"predicting, prophetic","he":"נבואי"}
 {"L":"predisor","C":["n"],"en":"predictor, forecaster, prognosticator, prophet","he":"חוזה, חזאי; מנבא, נביא"}
 {"L":"redise","C":["vt"],"en":"say again, reiterate; rephrase","he":"לחזור על הדברים; לנסח מחדש"}
-{"T":"r","L":"diseno","C":["n","vn"],"d":"un person ci espresa abitual opinas negativa o pesimiste","p":"disenó","en":"naysayer"}
-{"T":"r","L":"disenteria","C":["n","med"],"d":"un infeta de la intestines cual causa diarea grave, tipal con sangue e muco en la fece","en":"dysentery"}
-{"T":"r","L":"disenti","C":["vnt","gov"],"d":"ave o espresa opinas o prinsipes cual difere de los cual es comun, ofisial o espresada a ante; separa de un eglesa instituida o ortodox par causa de un nonacorda sur prinsipes","en":"dissent"}
-{"L":"disenti","C":["n"],"en":"dissention"}
-{"L":"disentor","C":["n"],"en":"dissenter, apostate, non-conformist"}
-{"T":"r","L":"disesi","C":["n","vn"],"d":"un person ci acorda sempre con sua xef; un person ci espresa abitual opinas positiva o otimiste","p":"disesí","en":"yesman"}
-{"T":"r","L":"disesioni","C":["vt","bio"],"en":"dissect"}
-{"L":"disesioni","C":["n"],"en":"dissection"}
-{"T":"r","L":"disfajia","C":["n","med"],"d":"engoli difisil o noncomfortosa, como un indica de maladia","en":"dysphagia (medical)"}
-{"T":"r","L":"disfasia","C":["n","med"],"d":"un desordina de lingua, marcada par problemes de parla o comprende, causada par maladia o dana de la serebro","en":"dysphasia (medical)"}
-{"T":"r","L":"disforia","C":["n","med","uma"],"d":"un state de ansia o nonsasia jeneral de sua propre vive","en":"dysphoria (medical)"}
-{"T":"r","L":"disi","C":["n","avia"],"d":"un avia cantante peti, con beco e coda corta, cual come xef insetos en flores e es trovada en Australasia e Asia sude-este","i":"#","t":"Dicaeidae","en":"flowerpecker (bird)"}
-{"T":"r","L":"disionario","C":["n","ling"],"d":"un testo cual lista la parolas de un lingua en ordina alfabetal, mostrante per cada parola o un defini de sua sinifia o sua traduis en un otra lingua; un libro de consulta sur cualce sujeto, con articles ordinada en modo simil","da":"ordbog","de":"Wörterbuch","en":"dictionary","es":"diccionario"}
-{"L":"disionario de sinonimes","C":["n"],"en":"synonym dictionary, thesaurus"}
-{"T":"r","L":"disipa","C":["vnt","fis"],"d":"sperde o desapare gradal","en":"dissipate"}
-{"L":"disipador","C":["n"],"en":"dissipator"}
-{"L":"disipador de caldia","C":["n"],"en":"heat sink"}
-{"T":"r","L":"disiplina","C":["vt","uma"],"d":"instrui (algun) afin el obedi regulas o un codigo de condui, usante punis per coreti desobedis","en":"discipline, chasten"}
-{"L":"disiplina","C":["n"],"en":"discipline"}
-{"L":"autodisiplina","C":["n"],"en":"self-discipline"}
-{"L":"disiplinor","C":["n"],"en":"disciplinarian, martinet"}
-{"T":"r","L":"disiplo","C":["n","rel","fil"],"d":"un seguor o studiante de un instruor, xef o filosofiste; un person ci es gidada e suportada o influeda par un person plu vea o esperiosa","en":"disciple, protégé"}
-{"T":"r","L":"dislexia","C":["n","uma"],"d":"un descapasia cual difisili la aprende de leje e spele fluente","en":"dyslexia"}
-{"L":"dislexica","C":["a"],"en":"dyslexic"}
-{"T":"r","L":"disolve","C":["vnt","cim"],"d":"(un solida) misca con un licuida e deveni un parte de lo; (metafor) fonde o desintegra","da":"opløse","de":"auflösen","en":"dissolve","es":"disolver"}
-{"L":"disolve","C":["n"],"en":"dissolution; solution (liquid mixture)"}
-{"L":"disolvable","C":["a"],"en":"dissolvable, soluble"}
-{"L":"disolveda","C":["a"],"en":"dissolved"}
-{"L":"disolveda","C":["n"],"en":"solute"}
-{"L":"disolvente","C":["a"],"en":"dissolving"}
-{"L":"disolvente","C":["n"],"en":"solvent"}
-{"L":"nondisolvable","C":["a"],"en":"undissolvable, insoluble"}
-{"T":"r","L":"dispepsia","C":["n","med"],"d":"un dole o noncomforta en la stomaco, asosiada con un difisilia de dijesta de alga comedas","en":"dyspepsia, dyspepsy, indigestion"}
-{"L":"dispepsica","C":["a"],"en":"dyspeptic"}
-{"T":"r","L":"displasia","C":["n","med"],"d":"un grandi de un organo o texeda causada par la sperde de selulas nonormal, per esemplo en un desordina de developa o un grado temprana de canser","en":"dysplasia (medical)"}
-{"T":"r","L":"dispnea","C":["n","med"],"d":"respira difisil o laborosa","en":"dyspnea|oe (medical)"}
-{"T":"r","L":"dispone","C":["vt"],"d":"pote asede, oteni o usa (alga cosa)","u":"nos no dispone un lavabo","en":"have available, have at one's disposal"}
-{"L":"disponable","C":["a"],"en":"available"}
-{"L":"disponablia","C":["n"],"en":"availability"}
-{"L":"nondisponable","C":["a"],"en":"unavailable"}
-{"L":"nondisponablia","C":["n"],"en":"unavailability"}
-{"T":"r","L":"disposa","C":["vt","uma"],"d":"fa ce (algun) tende a un condui o state spesifada","en":"dispose (someone to), predispose, incline"}
-{"L":"disposa","C":["n"],"en":"disposition, predisposition, attitude, approach, stance"}
-{"L":"disposa mental","C":["n"],"en":"mental attitude, mindset, mentality"}
-{"L":"disposada","C":["a"],"en":"inclined, disposed, predisposed"}
-{"T":"r","L":"disprosio","C":["n","cim"],"d":"la elemento cimical con numero atomal 66","s":"Dy (dysprosium)","en":"dysprosium (element)"}
-{"T":"r","L":"disputa","C":["vt","fil"],"d":"discute (alga cosa) sur cual on no acorda, tipal en modo emosial","en":"dispute, quarrel over, argue about, contest, row, impugn"}
-{"L":"disputa","C":["n"],"da":"argument","de":"Streit","en":"dispute, quarrel, argument, debate, conflict, strife, row, feud, dust-up, fracas, wrangle","es":"discusión, disputa, polémica"}
-{"L":"disputable","C":["a"],"en":"arguable, controversial"}
-{"L":"disputada","C":["a"],"en":"disputed, controversial"}
-{"L":"disputeta","C":["n"],"en":"spat, minor quarrel"}
-{"L":"disputosa","C":["a"],"en":"quarrelsome, argumentative, tetchy, irritable, bad-tempered, ill-tempered, hot-tempered, quick-tempered, irascible, cross, surly, choleric, grouchy, grumpy, peevish, prickly, bolshy, crabby, cantankerous, fractious, pugnacious, scrappy, truculent"}
-{"L":"disputosa","C":["n"],"en":"curmudgeon, hothead"}
-{"L":"nondisputable","C":["a"],"en":"indisputable, incontrovertible, unimpeachable"}
-{"L":"nondisputada","C":["a"],"en":"undisputed"}
-{"T":"r","L":"distante","C":["a"],"d":"a un loca nonprosima; nonamin o nonfranca; noninteresada o nonpartisipante","da":"fjern","de":"fern, entfernt","en":"distant, remote, distal, far, far away, far out, afar, outlying; aloof","es":"lejos, distante, a distancia, en lejanía, a lo lejos"}
-{"L":"distante","C":["av"],"en":"far away, in the distance, distantly"}
-{"L":"a distantia","C":["a"],"en":"remote, (operating) from a distance"}
-{"L":"distanti","C":["vnt"],"en":"distance, move away, grow distant"}
-{"L":"distanti","C":["vt"],"en":"make distant, take far away"}
-{"L":"distantia","C":["n"],"da":"afstand, distance","de":"Entfernung, Ferne","en":"distance","es":"distancia, separación, espacio"}
-{"L":"distantia focal","C":["n"],"en":"focal length"}
-{"L":"plu distante ca","C":["prep"],"en":"farther than, beyond"}
-{"T":"r","L":"distila","C":["vt","cim","cos"],"d":"puri (un licuida) par vapori lo, condensa lo, e colie la licuida resultante; produi (alga cosa, spesial un bevida alcolosa) par esta metodo","en":"distill|distil"}
-{"L":"distila","C":["n"],"en":"distillation"}
-{"L":"distilada","C":["a"],"en":"distilled"}
-{"L":"distilada","C":["n"],"en":"distillate, liquor, spirit, booze (distilled beverage)"}
-{"L":"distilador","C":["n"],"i":"#","en":"still, alembic"}
-{"L":"distileria","C":["n"],"en":"distillery"}
-{"T":"r","L":"distingui","C":["vt","uma"],"d":"reconose o trata (un person o cosa) como diferente","da":"skelne","de":"unterscheiden","en":"distinguish, differentiate, discriminate, tell apart, characterize|is","es":"distinguir, diferenciar, discernir"}
-{"L":"distingui","C":["n"],"en":"distinction, differentiation, discrimination, characterization|is"}
-{"L":"distinguable","C":["a"],"en":"distinguishable, distinct"}
-{"L":"distinguida","C":["a"],"en":"distinct, distinctive"}
-{"L":"distinguinte","C":["a"],"en":"selective, discriminating"}
-{"L":"distinguinte","C":["n"],"en":"distinguishing feature, idiosyncrasy"}
-{"L":"distinguinte leteras major","C":["a"],"en":"case-sensitive"}
-{"L":"nondistinguinte","C":["a"],"en":"indiscriminate, undifferentiated"}
-{"L":"sin distingui","C":["a"],"en":"indiscriminate, undifferentiated"}
-{"T":"r","L":"distonia","C":["n","med"],"d":"un state nonormal de la tono de musculos cual causa spasmas e un posa nonormal, tipal causada par un maladia de nervos o un efeto ladal de terapia per la usa abitual de drogas","en":"dystonia (medical)"}
-{"T":"r","L":"distrae","C":["vt"],"d":"preveni (algun) de consentra a alga cosa, tipal un taxe","en":"distract"}
-{"L":"distrae","C":["n"],"en":"distraction"}
-{"L":"distraeda","C":["a"],"en":"distracted, absent-minded"}
-{"T":"r","L":"distribui","C":["vt","mone"],"d":"dona compartis de (alga cosa) a resetores; furni (benes) a botecas per vende a consumores","en":"distribute, dispense, serve out, hand out, hand round; deal (cards)"}
-{"L":"distribui","C":["n"],"en":"distribution"}
-{"L":"distribui proportial","C":["vt"],"en":"distribute proportionally, prorate"}
-{"L":"distribuador","C":["n"],"d":"un aparato per distribui eletrica a la bujias de un motor","en":"distributor"}
-{"L":"distribuor","C":["n"],"d":"un ajente ci furni benes a botecas","en":"distributor"}
-{"L":"maldistribui","C":["vt"],"en":"misdistribute, misdeal"}
-{"L":"redistribui","C":["vt"],"en":"redistribute"}
-{"T":"r","L":"distrito","C":["n","gov"],"d":"un area de un pais o site, spesial si lo ave un cualia o usa distinguinte; un rejion ofisial","en":"district, precinct, borough, township"}
-{"L":"distrital","C":["a"],"en":"district, regional"}
-{"L":"distriti","C":["vt"],"en":"district, divide into districts"}
-{"L":"redistriti","C":["vt"],"en":"redistrict"}
-{"T":"r","L":"distrofia","C":["n","med"],"d":"un maladia en cual un organo o texeda gasta; la malnuri de un parte de la corpo","en":"dystrophy (medical)"}
-{"L":"distrofica","C":["a"],"en":"dystrophic"}
-{"T":"r","L":"disturba","C":["vt"],"d":"interfere con la ordina o funsiona normal de (un person o cosa); interompe (algun) de lo cual ocupa el","n":"`Disturba` sujesta un interompe minor; `turba` sujesta un efeto plu desordinada.","en":"disturb, perturb, disrupt, interfere (with normal functioning); interrupt, intrude on, impose on, put out, disconcert, unsettle, bother"}
-{"L":"disturba","C":["n"],"en":"disturbance, perturbation, disruption, commotion, imposition, ruckus, rumpus; disorder, condition (medical)"}
-{"L":"disturba medical","C":["n"],"en":"medical condition, medical problem"}
-{"L":"disturba se (per)","C":["v"],"en":"be bothered (with), go to the trouble (of), make the effort (of)"}
-{"L":"disturbable","C":["a"],"en":"disturbable"}
-{"L":"disturbada","C":["a"],"en":"disturbed"}
-{"L":"disturbante","C":["a"],"en":"disturbing, uncanny"}
-{"L":"es disturbada par","C":["v"],"en":"be bothered by, mind"}
-{"L":"nondisturbada","C":["a"],"en":"undisturbed, unfazed"}
-{"T":"r","L":"disuria","C":["n","med"],"d":"un disturba medical de urini dolosa o difisil","en":"dysuria (medical)"}
-{"T":"r","L":"dita","C":["vt"],"d":"dise (parolas) cual un otra person va tape o scrive","en":"dictate"}
-{"L":"dita","C":["n"],"en":"dictation"}
-{"L":"ditador","C":["n"],"en":"dictaphone"}
-{"T":"r","L":"ditero","C":["n","ins"],"d":"cualce inseto con du alas per vola e du plu alas spesialida per ecuilibra","t":"Diptera","en":"fly (general)"}
-{"T":"r","L":"dito","C":["n","anat"],"d":"cada de la cuatro partes (o sinco, si on inclui la diton) magra, longa e sesionida cual es juntada a la mano; un parte de un ganto intendeda per covre un de estas","i":"#","da":"finger","de":"Finger","en":"finger; digit","es":"dedo"}
-{"L":"dito de anelo","C":["n"],"en":"ring finger, fourth finger"}
-{"L":"dito de pede","C":["n"],"v":"orteo","da":"tå","de":"Zehe","en":"toe","es":"dedo del pie"}
-{"L":"dito indicante","C":["n"],"en":"index finger, forefinger"}
-{"L":"dito martelin","C":["n"],"en":"hammertoe"}
-{"L":"dito media","C":["n"],"en":"middle finger"}
-{"L":"dito peti","C":["n"],"en":"little finger, pinky, pinkie"}
-{"L":"dital","C":["n"],"en":"thimble"}
-{"L":"diti","C":["vt"],"d":"toca con un o plu ditos","en":"finger"}
-{"L":"diti se","C":["vt"],"d":"(nonformal) masturba","en":"(colloquial) touch oneself, wank (masturbate)"}
-{"L":"ditin","C":["a"],"en":"fingerlike"}
-{"L":"diton","C":["n"],"d":"la dito prima de la mano, corta e spesa, locada plu basa e separada de la otra cuatro e fasante los; un mesura de longia egal a un des-dui de un pede","da":"tommel","de":"Daumen","en":"thumb; inch (unit of length)","es":"pulgar"}
-{"L":"diton de pede","C":["n"],"en":"big toe"}
-{"L":"sur ditos de pedes","C":["av"],"en":"on tiptoe"}
-{"T":"r","L":"ditransitiva","C":["a","ling"],"d":"(un verbo) asetante du ojetos","en":"ditransitive, divalent (grammar)"}
-{"T":"r","L":"diurese","C":["n","med"],"d":"la produi de plu o tro multe urina","en":"diuresis (medical)"}
-{"L":"diuresica","C":["n","med"],"d":"un droga cual crese la produi de urina","en":"diuretic"}
-{"T":"r","L":"diurna","C":["a","bio"],"d":"pertinente a o aveninte en la dia, no la note; (un animal) ativa en la dia; (un flor) abrida sola en la dia","en":"daytime, diurnal"}
-{"T":"r","L":"diva","C":["n","rel","mit"],"d":"(en alga relijios) un dio fema","i":"#","en":"goddess; diva"}
-{"L":"divin","C":["a"],"en":"divine, godlike"}
-{"L":"divin","C":["n"],"en":"deity, godhead, deva"}
-{"L":"divini","C":["vnt"],"en":"become divine"}
-{"L":"divini","C":["vt"],"en":"deify, apotheosize|is"}
-{"L":"divini","C":["n"],"en":"deification, apotheosis"}
-{"L":"divinia","C":["n"],"en":"divinity"}
-{"L":"semidivin","C":["a"],"en":"semidivine"}
-{"T":"r","L":"divalente","C":["a","cim"],"d":"(un elemento o molecula) con valentia du","en":"divalent"}
-{"T":"r","L":"divali","C":["n"],"d":"un festa indu con lampas, selebrada en otobre o novembre","en":"Diwali, Deepavali (Hindu festival)"}
-{"T":"r","L":"Divehi","C":["n","jeo"],"c":"Male","d":"un pais composada de un cadena de isolas de coral en la Mar Indian, a sude-ueste de Srilanca","i":"#","v":"Maldives","en":"Maldives"}
-{"L":"divehi","C":["a"],"en":"Maldivian"}
-{"L":"divehi","C":["n","dem"],"en":"Maldivian"}
-{"T":"r","L":"diverje","C":["vnt"],"d":"(un via) separa de un otra e vade en un dirije diferente","da":"afbøje","en":"divert, diverge, shunt, sidetrack, turn in another direction"}
-{"L":"diverje","C":["n"],"en":"divergence"}
-{"L":"diverjador","C":["n"],"en":"overflow, spillway"}
-{"L":"diverjente","C":["a"],"en":"divergent"}
-{"T":"r","L":"diversa","C":["a"],"d":"de spesies o fontes variosa o acaso","en":"diverse, motley, various, miscellaneous, several, assorted, numerous, ragtag, sundry, a range of"}
-{"L":"cosas diversa","C":["n"],"en":"various things, several things"}
-{"L":"diversi","C":["vnt"],"en":"diversify"}
-{"L":"diversi","C":["vt"],"en":"diversify"}
-{"L":"diversia","C":["n"],"en":"diversity, variety"}
+{"T":"r","L":"diseno","C":["n","vn"],"d":"un person ci espresa abitual opinas negativa o pesimiste","p":"disenó","en":"naysayer","he":"מתנגד, שולל"}
+{"T":"r","L":"disenteria","C":["n","med"],"d":"un infeta de la intestines cual causa diarea grave, tipal con sangue e muco en la fece","en":"dysentery","he":"דיזנטריה"}
+{"T":"r","L":"disenti","C":["vnt","gov"],"d":"ave o espresa opinas o prinsipes cual difere de los cual es comun, ofisial o espresada a ante; separa de un eglesa instituida o ortodox par causa de un nonacorda sur prinsipes","en":"dissent","he":"לחלוק על, להתנגד ל, לכפור ב"}
+{"L":"disenti","C":["n"],"en":"dissention","he":"מחלוקת, חילוקי דעות, עימות; כפירה"}
+{"L":"disentor","C":["n"],"en":"dissenter, apostate, non-conformist","he":"פורש, בדלן, כופר"}
+{"T":"r","L":"disesi","C":["n","vn"],"d":"un person ci acorda sempre con sua xef; un person ci espresa abitual opinas positiva o otimiste","p":"disesí","en":"yesman","he":"אומר הן, יסמן"}
+{"T":"r","L":"disesioni","C":["vt","bio"],"en":"dissect","he":"לבתר, לחתוך (בניתוח)"}
+{"L":"disesioni","C":["n"],"en":"dissection","he":"ביתור, חיתוך (בניתוח)"}
+{"T":"r","L":"disfajia","C":["n","med"],"d":"engoli difisil o noncomfortosa, como un indica de maladia","en":"dysphagia (medical)","he":"קושי בליעה, דיספאגיה"}
+{"T":"r","L":"disfasia","C":["n","med"],"d":"un desordina de lingua, marcada par problemes de parla o comprende, causada par maladia o dana de la serebro","en":"dysphasia (medical)","he":"הפרעת שפה, דיספאזיה"}
+{"T":"r","L":"disforia","C":["n","med","uma"],"d":"un state de ansia o nonsasia jeneral de sua propre vive","en":"dysphoria (medical)","he":"דיספוריה"}
+{"T":"r","L":"disi","C":["n","avia"],"d":"un avia cantante peti, con beco e coda corta, cual come xef insetos en flores e es trovada en Australasia e Asia sude-este","i":"#","t":"Dicaeidae","en":"flowerpecker (bird)","he":"נקר פרחים (ציפור)"}
+{"T":"r","L":"disionario","C":["n","ling"],"d":"un testo cual lista la parolas de un lingua en ordina alfabetal, mostrante per cada parola o un defini de sua sinifia o sua traduis en un otra lingua; un libro de consulta sur cualce sujeto, con articles ordinada en modo simil","da":"ordbog","de":"Wörterbuch","en":"dictionary","es":"diccionario","he":"מילון"}
+{"L":"disionario de sinonimes","C":["n"],"en":"synonym dictionary, thesaurus","he":"אגרון, תזאורוס"}
+{"T":"r","L":"disipa","C":["vnt","fis"],"d":"sperde o desapare gradal","en":"dissipate","he":"להתפזר, להתפוגג"}
+{"L":"disipador","C":["n"],"en":"dissipator","he":"מפזר אנרגיה (חום, רעידות)"}
+{"L":"disipador de caldia","C":["n"],"en":"heat sink","he":"צלעות קירור"}
+{"T":"r","L":"disiplina","C":["vt","uma"],"d":"instrui (algun) afin el obedi regulas o un codigo de condui, usante punis per coreti desobedis","en":"discipline, chasten","he":"להשליט משמעת"}
+{"L":"disiplina","C":["n"],"en":"discipline","he":"משמעת"}
+{"L":"autodisiplina","C":["n"],"en":"self-discipline","he":"משמעת עצמית"}
+{"L":"disiplinal","C":["a"],"en":"disciplinary","he":"משמעתי"}
+{"L":"disiplinor","C":["n"],"en":"disciplinarian, martinet","he":"משליט משמעת"}
+{"T":"r","L":"disiplo","C":["n","rel","fil"],"d":"un seguor o studiante de un instruor, xef o filosofiste; un person ci es gidada e suportada o influeda par un person plu vea o esperiosa","en":"disciple, protégé","he":"חסיד, תלמיד, בן-חסות, בן-טיפוחים"}
+{"T":"r","L":"dislexia","C":["n","uma"],"d":"un descapasia cual difisili la aprende de leje e spele fluente","en":"dyslexia","he":"הפרעת קריאה, דיסלקסיה"}
+{"L":"dislexica","C":["a"],"en":"dyslexic","he":"דיסלקטי"}
+{"T":"r","L":"disolve","C":["vnt","cim"],"d":"(un solida) misca con un licuida e deveni un parte de lo; (metafor) fonde o desintegra","da":"opløse","de":"auflösen","en":"dissolve","es":"disolver","he":"להתמוסס; להתפזר"}
+{"L":"disolve","C":["n"],"en":"dissolution; solution (liquid mixture)","he":"התמוססות; התפזרות, פיזור; תמיסה"}
+{"L":"disolvable","C":["a"],"en":"dissolvable, soluble","he":"מסיס"}
+{"L":"disolveda","C":["a"],"en":"dissolved","he":"התמוסס, נמס, מומס; התפזר, פוזר"}
+{"L":"disolveda","C":["n"],"en":"solute","he":"(חומר) מומס"}
+{"L":"disolvente","C":["a"],"en":"dissolving","he":"ממיס"}
+{"L":"disolvente","C":["n"],"en":"solvent","he":"ממס"}
+{"L":"nondisolvable","C":["a"],"en":"undissolvable, insoluble","he":"לא מסיס"}
+{"T":"r","L":"dispepsia","C":["n","med"],"d":"un dole o noncomforta en la stomaco, asosiada con un difisilia de dijesta de alga comedas","en":"dyspepsia, dyspepsy, indigestion","he":"קושי עיכול, פרע עיכול, דיספפסיה"}
+{"L":"dispepsica","C":["a"],"en":"dyspeptic","he":"דיספפטי"}
+{"T":"r","L":"displasia","C":["n","med"],"d":"un grandi de un organo o texeda causada par la sperde de selulas nonormal, per esemplo en un desordina de developa o un grado temprana de canser","en":"dysplasia (medical)","he":"פרע התפתחות, דיספלזיה"}
+{"T":"r","L":"dispnea","C":["n","med"],"d":"respira difisil o laborosa","en":"dyspnea|oe (medical)","he":"קוצר נשימה, דיספניאה"}
+{"T":"r","L":"dispone","C":["vt"],"d":"pote asede, oteni o usa (alga cosa)","u":"nos no dispone un lavabo","en":"have available, have at one's disposal","he":"להיות זמין (לשימוש)"}
+{"L":"disponable","C":["a"],"en":"available","he":"זמין"}
+{"L":"disponablia","C":["n"],"en":"availability","he":"זמינות"}
+{"L":"nondisponable","C":["a"],"en":"unavailable","he":"לא זמין"}
+{"L":"nondisponablia","C":["n"],"en":"unavailability","he":"חוסר זמינות"}
+{"T":"r","L":"disposa","C":["vt","uma"],"d":"fa ce (algun) tende a un condui o state spesifada","en":"dispose (someone to), predispose, incline","he":"להטות, להשפיע (על מישהו)"}
+{"L":"disposa","C":["n"],"en":"disposition, predisposition, attitude, approach, stance","he":"נטייה, גישה, עמדה, השקפה"}
+{"L":"disposa mental","C":["n"],"en":"mental attitude, mindset, mentality","he":"דפוס חשיבה, מנטליות, אופי, מזג"}
+{"L":"disposada","C":["a"],"en":"inclined, disposed, predisposed","he":"נוטה (למחשבה או מעשה מסוימים)"}
+{"T":"r","L":"disprosio","C":["n","cim"],"d":"la elemento cimical con numero atomal 66","s":"Dy (dysprosium)","en":"dysprosium (element)","he":"דיספרוסיום (יסוד)"}
+{"T":"r","L":"disputa","C":["vt","fil"],"d":"discute (alga cosa) sur cual on no acorda, tipal en modo emosial","en":"dispute, quarrel over, argue about, contest, row, impugn","he":"להתווכח, לחלוק על"}
+{"L":"disputa","C":["n"],"da":"argument","de":"Streit","en":"dispute, quarrel, argument, debate, conflict, strife, row, feud, dust-up, fracas, wrangle","es":"discusión, disputa, polémica","he":"ויכוח, סכסוך, מחלוקת, עימות, קונפליקט, ריב, מריבה, התנצחות"}
+{"L":"disputable","C":["a"],"en":"arguable, controversial","he":"נתון לוויכוח, שנוי במחלוקת"}
+{"L":"disputada","C":["a"],"en":"disputed, controversial","he":"בסכסוך, במחלוקת"}
+{"L":"disputeta","C":["n"],"en":"spat, minor quarrel","he":"מחלוקת קלה"}
+{"L":"disputosa","C":["a"],"en":"quarrelsome, argumentative, tetchy, irritable, bad-tempered, ill-tempered, hot-tempered, quick-tempered, irascible, cross, surly, choleric, grouchy, grumpy, peevish, prickly, bolshy, crabby, cantankerous, fractious, pugnacious, scrappy, truculent","he":"וכחני, רגזני, רוגז, זעפני, זועף"}
+{"L":"disputosa","C":["n"],"en":"curmudgeon, hothead","he":"וכחן, רגזן, זעפן"}
+{"L":"nondisputable","C":["a"],"en":"indisputable, incontrovertible, unimpeachable","he":"שאינו ניתן לוויכוח"}
+{"L":"nondisputada","C":["a"],"en":"undisputed","he":"מוסכם, שאין עליו עוררין"}
+{"T":"r","L":"distante","C":["a"],"d":"a un loca nonprosima; nonamin o nonfranca; noninteresada o nonpartisipante","da":"fjern","de":"fern, entfernt","en":"distant, remote, distal, far, far away, far out, afar, outlying; aloof","es":"lejos, distante, a distancia, en lejanía, a lo lejos","he":"רחוק, מרוחק"}
+{"L":"distante","C":["av"],"en":"far away, in the distance, distantly","he":"הרחק"}
+{"L":"a distantia","C":["a"],"en":"remote, (operating) from a distance","he":"מרחוק"}
+{"L":"distanti","C":["vnt"],"en":"distance, move away, grow distant","he":"להתרחק"}
+{"L":"distanti","C":["vt"],"en":"make distant, take far away","he":"להרחיק"}
+{"L":"distantia","C":["n"],"da":"afstand, distance","de":"Entfernung, Ferne","en":"distance","es":"distancia, separación, espacio","he":"מרחק"}
+{"L":"distantia focal","C":["n"],"en":"focal length","he":"רוחק המוקד"}
+{"L":"plu distante ca","C":["prep"],"en":"farther than, beyond","he":"רחוק יותר מ, מעבר ל"}
+{"T":"r","L":"distila","C":["vt","cim","cos"],"d":"puri (un licuida) par vapori lo, condensa lo, e colie la licuida resultante; produi (alga cosa, spesial un bevida alcolosa) par esta metodo","en":"distill|distil","he":"לזקק"}
+{"L":"distila","C":["n"],"en":"distillation","he":"זיקוק"}
+{"L":"distilada","C":["a"],"en":"distilled","he":"מזוקק"}
+{"L":"distilada","C":["n"],"en":"distillate, liquor, spirit, booze (distilled beverage)","he":"תזקיק"}
+{"L":"distilador","C":["n"],"i":"#","en":"still, alembic","he":"מזקק"}
+{"L":"distileria","C":["n"],"en":"distillery","he":"מזקקה"}
+{"T":"r","L":"distingui","C":["vt","uma"],"d":"reconose o trata (un person o cosa) como diferente","da":"skelne","de":"unterscheiden","en":"distinguish, differentiate, discriminate, tell apart, characterize|is","es":"distinguir, diferenciar, discernir","he":"להבדיל, להבחין"}
+{"L":"distingui","C":["n"],"en":"distinction, differentiation, discrimination, characterization|is","he":"הבדלה, הבחנה, בידול; הבדל, שוני, שונות"}
+{"L":"distinguable","C":["a"],"en":"distinguishable, distinct","he":"בר-הבחנה, בולט"}
+{"L":"distinguida","C":["a"],"en":"distinct, distinctive","he":"מובדל, מובחן, ייחודי"}
+{"L":"distinguinte","C":["a"],"en":"selective, discriminating","he":"בררני, סלקטיבי, מייחד, מבדיל"}
+{"L":"distinguinte","C":["n"],"en":"distinguishing feature, idiosyncrasy","he":"תכונה מבדילה"}
+{"L":"distinguinte leteras major","C":["a"],"en":"case-sensitive","he":"מבדיל בין אותיות קטנות לגדולות"}
+{"L":"nondistinguinte","C":["a"],"en":"indiscriminate, undifferentiated","he":"חסר הבחנה, חסר ייחוד"}
+{"L":"sin distingui","C":["a"],"en":"indiscriminate, undifferentiated","he":"חסר הבחנה, חסר ייחוד"}
+{"T":"r","L":"distonia","C":["n","med"],"d":"un state nonormal de la tono de musculos cual causa spasmas e un posa nonormal, tipal causada par un maladia de nervos o un efeto ladal de terapia per la usa abitual de drogas","en":"dystonia (medical)","he":"הפרעת מתח שרירים, דיסטוניה"}
+{"T":"r","L":"distrae","C":["vt"],"d":"preveni (algun) de consentra a alga cosa, tipal un taxe","en":"distract","he":"להסיח (את הדעת)"}
+{"L":"distrae","C":["n"],"en":"distraction","he":"הסחת דעת"}
+{"L":"distraeda","C":["a"],"en":"distracted, absent-minded","he":"שדעתו מוסחת, פזור דעת"}
+{"T":"r","L":"distribui","C":["vt","mone"],"d":"dona compartis de (alga cosa) a resetores; furni (benes) a botecas per vende a consumores","en":"distribute, dispense, serve out, hand out, hand round; deal (cards)","he":"להפיץ, לחלק"}
+{"L":"distribui","C":["n"],"en":"distribution","he":"הפצה, חלוקה; תפוצה; התפלגות"}
+{"L":"distribui proportial","C":["vt"],"en":"distribute proportionally, prorate","he":"להקצות יחסית"}
+{"L":"distribuador","C":["n"],"d":"un aparato per distribui eletrica a la bujias de un motor","en":"distributor","he":"מפלג"}
+{"L":"distribuor","C":["n"],"d":"un ajente ci furni benes a botecas","en":"distributor","he":"מפיץ, מחלק"}
+{"L":"maldistribui","C":["vt"],"en":"misdistribute, misdeal","he":"לחלק שלא בצורה נכונה"}
+{"L":"redistribui","C":["vt"],"en":"redistribute","he":"לחלק מחדש"}
+{"T":"r","L":"distrito","C":["n","gov"],"d":"un area de un pais o site, spesial si lo ave un cualia o usa distinguinte; un rejion ofisial","en":"district, precinct, borough, township","he":"מחוז, רובע"}
+{"L":"distrital","C":["a"],"en":"district, regional","he":"מחוזי"}
+{"L":"distriti","C":["vt"],"en":"district, divide into districts","he":"לחלק למחוזות"}
+{"L":"redistriti","C":["vt"],"en":"redistrict","he":"לחלק מחדש למחוזות"}
+{"T":"r","L":"distrofia","C":["n","med"],"d":"un maladia en cual un organo o texeda gasta; la malnuri de un parte de la corpo","en":"dystrophy (medical)","he":"דיסטרופיה"}
+{"L":"distrofica","C":["a"],"en":"dystrophic","he":"דיסטרופי"}
+{"T":"r","L":"disturba","C":["vt"],"d":"interfere con la ordina o funsiona normal de (un person o cosa); interompe (algun) de lo cual ocupa el","n":"`Disturba` sujesta un interompe minor; `turba` sujesta un efeto plu desordinada.","en":"disturb, perturb, disrupt, interfere (with normal functioning); interrupt, intrude on, impose on, put out, disconcert, unsettle, bother","he":"להפריע, להטריד; לשבש, לערער"}
+{"L":"disturba","C":["n"],"en":"disturbance, perturbation, disruption, commotion, imposition, ruckus, rumpus; disorder, condition (medical)","he":"הפרעה, הטרדה; מהומה, המולה; שיבוש, ערעור"}
+{"L":"disturba medical","C":["n"],"en":"medical condition, medical problem","he":"בעיה רפואית"}
+{"L":"disturba se (per)","C":["v"],"en":"be bothered (with), go to the trouble (of), make the effort (of)","he":"להטריד את עצמו, לטרוח"}
+{"L":"disturbable","C":["a"],"en":"disturbable","he":"שניתן להפרעה, שניתן לשיבוש"}
+{"L":"disturbada","C":["a"],"en":"disturbed","he":"מוטרד; מופרע, מעורער"}
+{"L":"disturbante","C":["a"],"en":"disturbing, uncanny","he":"מפריע; מטריד, מדאיג"}
+{"L":"es disturbada par","C":["v"],"en":"be bothered by, mind","he":"להיות מוטרד מ"}
+{"L":"nondisturbada","C":["a"],"en":"undisturbed, unfazed","he":"לא מוטרד, לא מודאג"}
+{"T":"r","L":"disuria","C":["n","med"],"d":"un disturba medical de urini dolosa o difisil","en":"dysuria (medical)","he":"צריבה בהשתנה"}
+{"T":"r","L":"dita","C":["vt"],"d":"dise (parolas) cual un otra person va tape o scrive","en":"dictate","he":"להכתיב"}
+{"L":"dita","C":["n"],"en":"dictation","he":"הכתבה"}
+{"L":"ditador","C":["n"],"en":"dictaphone","he":"דיקטפון"}
+{"T":"r","L":"ditero","C":["n","ins"],"d":"cualce inseto con du alas per vola e du plu alas spesialida per ecuilibra","t":"Diptera","en":"fly (general)","he":"זבובאי"}
+{"T":"r","L":"dito","C":["n","anat"],"d":"cada de la cuatro partes (o sinco, si on inclui la diton) magra, longa e sesionida cual es juntada a la mano; un parte de un ganto intendeda per covre un de estas","i":"#","da":"finger","de":"Finger","en":"finger; digit","es":"dedo","he":"אצבע"}
+{"L":"dito de anelo","C":["n"],"en":"ring finger, fourth finger","he":"קמיצה"}
+{"L":"dito de pede","C":["n"],"v":"orteo","da":"tå","de":"Zehe","en":"toe","es":"dedo del pie","he":"אצבע כף רגל"}
+{"L":"dito indicante","C":["n"],"en":"index finger, forefinger","he":"אצבע מורה"}
+{"L":"dito martelin","C":["n"],"en":"hammertoe","he":"אצבע פטישנית"}
+{"L":"dito media","C":["n"],"en":"middle finger","he":"אמה (אצבע)"}
+{"L":"dito peti","C":["n"],"en":"little finger, pinky, pinkie","he":"זרת"}
+{"L":"dital","C":["n"],"en":"thimble","he":"אצבעון"}
+{"L":"diti","C":["vt"],"d":"toca con un o plu ditos","en":"finger","he":"לגעת עם האצבעות"}
+{"L":"diti se","C":["vt"],"d":"(nonformal) masturba","en":"(colloquial) touch oneself, wank (masturbate)","he":"(סלנג) לאונן"}
+{"L":"ditin","C":["a"],"en":"fingerlike","he":"דמוי אצבע"}
+{"L":"diton","C":["n"],"d":"la dito prima de la mano, corta e spesa, locada plu basa e separada de la otra cuatro e fasante los; un mesura de longia egal a un des-dui de un pede","da":"tommel","de":"Daumen","en":"thumb; inch (unit of length)","es":"pulgar","he":"אגודל; אינטש"}
+{"L":"diton de pede","C":["n"],"en":"big toe","he":"בוהן"}
+{"L":"sur ditos de pedes","C":["av"],"en":"on tiptoe","he":"על קצות האצבעות"}
+{"T":"r","L":"ditransitiva","C":["a","ling"],"d":"(un verbo) asetante du ojetos","en":"ditransitive, divalent (grammar)","he":"(דקדוק) דיטרנזיטיבי"}
+{"T":"r","L":"diurese","C":["n","med"],"d":"la produi de plu o tro multe urina","en":"diuresis (medical)","he":"שתינה, שיתון, דיאורזיס"}
+{"L":"diuresica","C":["n","med"],"d":"un droga cual crese la produi de urina","en":"diuretic","he":"משתן"}
+{"T":"r","L":"diurna","C":["a","bio"],"d":"pertinente a o aveninte en la dia, no la note; (un animal) ativa en la dia; (un flor) abrida sola en la dia","en":"daytime, diurnal","he":"פעיל יום"}
+{"T":"r","L":"diva","C":["n","rel","mit"],"d":"(en alga relijios) un dio fema","i":"#","en":"goddess; diva","he":"אלה, אלילה; דיווה"}
+{"L":"divin","C":["a"],"en":"divine, godlike","he":"דמוי אל"}
+{"L":"divin","C":["n"],"en":"deity, godhead, deva","he":"יישות אלוהית"}
+{"L":"divini","C":["vnt"],"en":"become divine","he":"להפוך לאל"}
+{"L":"divini","C":["vt"],"en":"deify, apotheosize|is","he":"לייחס מעמד אלוהי"}
+{"L":"divini","C":["n"],"en":"deification, apotheosis","he":"האלהה"}
+{"L":"divinia","C":["n"],"en":"divinity","he":"אלוהות"}
+{"L":"semidivin","C":["a"],"en":"semidivine","he":"חצי אלוהי"}
+{"T":"r","L":"divalente","C":["a","cim"],"d":"(un elemento o molecula) con valentia du","en":"divalent","he":"(כימיה) דו-ערכי"}
+{"T":"r","L":"divali","C":["n"],"d":"un festa indu con lampas, selebrada en otobre o novembre","en":"Diwali, Deepavali (Hindu festival)","he":"דיוואלי (חג)"}
+{"T":"r","L":"Divehi","C":["n","jeo"],"c":"Male","d":"un pais composada de un cadena de isolas de coral en la Mar Indian, a sude-ueste de Srilanca","i":"#","v":"Maldives","en":"Maldives","he":"האיים המלדיביים"}
+{"L":"divehi","C":["a"],"en":"Maldivian","he":"מלדיבי"}
+{"L":"divehi","C":["n","dem"],"en":"Maldivian","he":"מלדיבי"}
+{"T":"r","L":"diverje","C":["vnt"],"d":"(un via) separa de un otra e vade en un dirije diferente","da":"afbøje","en":"divert, diverge, shunt, sidetrack, turn in another direction","he":"לסטות, להסתעף, להתפצל"}
+{"L":"diverje","C":["n"],"en":"divergence","he":"סטייה, הטייה, עיתוק, הסתעפות, התפצלות, פיצול"}
+{"L":"diverjador","C":["n"],"en":"overflow, spillway","he":"מברץ"}
+{"L":"diverjente","C":["a"],"en":"divergent","he":"שנוטה לכיוון אחר"}
+{"T":"r","L":"diversa","C":["a"],"d":"de spesies o fontes variosa o acaso","en":"diverse, motley, various, miscellaneous, several, assorted, numerous, ragtag, sundry, a range of","he":"מגוון, רבגוני"}
+{"L":"cosas diversa","C":["n"],"en":"various things, several things","he":"דברים שונים"}
+{"L":"diversi","C":["vnt"],"en":"diversify","he":"להפוך מגוון"}
+{"L":"diversi","C":["vt"],"en":"diversify","he":"לגוון"}
+{"L":"diversia","C":["n"],"en":"diversity, variety","he":"גיוון, מגוון, רבגוניות, מבחר"}
 {"T":"r","L":"diverti","C":["vnt","spo"],"d":"esperia plaser par alga cosa o ata","en":"have fun, enjoy oneself"}
 {"L":"diverti","C":["vt"],"en":"amuse, entertain, divert, regale"}
 {"L":"diverti","C":["n"],"da":"underholdning","de":"Unterhaltung","en":"amusement, entertainment, diversion, fun, frivolity","es":"diversión, entretenimiento, pasatiempo, fiesta"}
@@ -20219,7 +20220,7 @@
 {"L":"planta infestante","C":["n"],"en":"weed"}
 {"L":"plantal","C":["a"],"en":"plant-related, vegetational"}
 {"L":"plantas","C":["n","pl"],"en":"plants, vegetation, flora, greenery"}
-{"L":"plantosa","C":["a"],"en":"verdant"}
+{"L":"plantosa","C":["a"],"en":"verdant, lush"}
 {"L":"plantosia","C":["n"],"en":"verdure"}
 {"T":"r","L":"planta","C":["n","anat"],"d":"la fondo de la pede","i":"#","en":"sole (foot)"}
 {"L":"planta de sapato","C":["n"],"en":"sole (shoe)"}
