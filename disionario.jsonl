@@ -601,6 +601,7 @@
 {"L":"ajusta","C":["vt"],"en":"adjust, adapt, fit, tune, configure, calibrate; tune up (music)","he":"להתאים, לכוונן, לקבוע תצורה, לכייל"}
 {"L":"ajusta","C":["n"],"en":"adaptation, adaption, adjustment, calibration; tune-up; (software) setting, configuration (action, result)","he":"אדפטציה, הסתגלות, סיגול, כוונון, כיול; תצורה"}
 {"L":"ajusta a","C":["esp"],"en":"adjust to, adapt to, accommodate (change)","he":"-להתרגל ל-, להסתגל ל"}
+{"L":"ajusta ladal","C":["n","bio"],"en":"exaptation"}
 {"L":"ajustable","C":["a"],"en":"adaptable, adjustable, tunable, configurable, flexible","he":"סתגלני, שניתן לשינוי, מתכוונן"}
 {"L":"ajustablia","C":["n"],"en":"adaptability, adjustability","he":"יכולת הסתגלות, יכולת התכווננות"}
 {"L":"ajustada","C":["a"],"en":"adapted, adjusted, fitted, tuned, configured","he":"מותאם, מכוּון, מכוּונן, מכויל"}
@@ -7751,6 +7752,7 @@
 {"L":"dente canin","C":["n"],"en":"canine tooth","fr":"canine","he":"ניב (שן)"}
 {"L":"dente canin superior","C":["n"],"en":"eyetooth","he":"ניב עליון"}
 {"L":"dente conein","C":["n"],"en":"bucktooth","he":"שן שפן"}
+{"L":"dente de sajia","C":["n"],"en":"wisdom tooth"}
 {"L":"dente molente","C":["n"],"en":"molar","fr":"molaire","he":"שן טוחנת"}
 {"L":"dente sisorante","C":["n"],"en":"incisor","fr":"incisive","he":"שן חותכת"}
 {"L":"dental","C":["a"],"en":"dental","fr":"dentaire","he":"שיני, דנטלי"}
@@ -8460,32 +8462,32 @@
 {"L":"diversi","C":["vnt"],"en":"diversify","he":"להפוך מגוון"}
 {"L":"diversi","C":["vt"],"en":"diversify","he":"לגוון"}
 {"L":"diversia","C":["n"],"en":"diversity, variety","he":"גיוון, מגוון, רבגוניות, מבחר"}
-{"T":"r","L":"diverti","C":["vnt","spo"],"d":"esperia plaser par alga cosa o ata","en":"have fun, enjoy oneself"}
-{"L":"diverti","C":["vt"],"en":"amuse, entertain, divert, regale"}
-{"L":"diverti","C":["n"],"da":"underholdning","de":"Unterhaltung","en":"amusement, entertainment, diversion, fun, frivolity","es":"diversión, entretenimiento, pasatiempo, fiesta"}
-{"L":"diverti bon","C":["v"],"en":"have fun, have a good time"}
-{"L":"divertida","C":["a"],"en":"amused, entertained"}
-{"L":"divertinte","C":["a"],"en":"amusing, entertaining, fun, light-hearted"}
-{"L":"divertor","C":["n"],"en":"entertainer"}
-{"T":"r","L":"diverticulite","C":["n","med"],"d":"un inflama de la diverticulos, tipal en la colon, causante dole e malfunsiona de la intestines","en":"diverticulitis (medical)"}
-{"T":"r","L":"diverticulo","C":["n","med"],"d":"un tubo cual diverje de un caveta o pasaje; un saco o caveta nonormal, formida a un punto debil en la mur de la intestines","en":"diverticulum (anatomy, medical)"}
-{"T":"r","L":"diverticulose","C":["n","med"],"d":"un disturba medical en cual diverticulos es presente en la intestines sin indicas de inflama","en":"diverticulosis (medical)"}
-{"T":"r","L":"divide","C":["vnt","mat"],"d":"deveni separada a partes","da":"dele, dividere","de":"teilen","en":"divide, part, split, fork, partition, sever","es":"dividirse, repartirse, fraccionarse"}
-{"L":"divide","C":["vt"],"d":"separa (alga cosa) a partes, tipal per distribui e comparti lo","en":"divide, part, split, fork, partition; ration, hand over part of, share out","es":"dividir, repartir, fraccionar"}
-{"L":"divide","C":["n"],"en":"division, parting, splitting, split, partitioning; rationing; septum (anatomy)"}
-{"L":"divide de comeda","C":["n"],"en":"food rationing"}
-{"L":"dividable","C":["a"],"en":"divisible, capable of being divided"}
-{"L":"divideda","C":["a"],"en":"divided, split, forked, cloven, cleft"}
-{"L":"divideda","C":["n"],"en":"numerator"}
-{"L":"divideda entre","C":["prep"],"en":"divided by"}
-{"L":"dividente","C":["a"],"en":"dividing, divisive"}
-{"L":"dividente","C":["n"],"en":"divisor, denominator"}
-{"L":"nondividable","C":["a"],"en":"indivisible"}
-{"L":"nondivideda","C":["a"],"en":"undivided"}
-{"L":"sudivide","C":["vnt"],"en":"subdivide"}
-{"L":"sudivide","C":["vt"],"en":"subdivide"}
-{"L":"sudivide","C":["n"],"en":"subdivision"}
-{"T":"r","L":"dividendo","C":["n","mone"],"d":"la cuantia de sua profitas o reservas cual un compania paia periodal (tipal a un ves per anio) a sua asionores","en":"dividend"}
+{"T":"r","L":"diverti","C":["vnt","spo"],"d":"esperia plaser par alga cosa o ata","en":"have fun, enjoy oneself","he":"להשתעשע"}
+{"L":"diverti","C":["vt"],"en":"amuse, entertain, divert, regale","he":"לשעשע, לבדר"}
+{"L":"diverti","C":["n"],"da":"underholdning","de":"Unterhaltung","en":"amusement, entertainment, diversion, fun, frivolity","es":"diversión, entretenimiento, pasatiempo, fiesta","he":"שעשוע, בידור, בילוי"}
+{"L":"diverti bon","C":["v"],"en":"have fun, have a good time","he":"לבלות, לעשות חיים"}
+{"L":"divertida","C":["a"],"en":"amused, entertained","he":"משועשע, מבודר"}
+{"L":"divertinte","C":["a"],"en":"amusing, entertaining, fun, light-hearted","he":"משעשע, מבדר"}
+{"L":"divertor","C":["n"],"en":"entertainer","he":"בדרן"}
+{"T":"r","L":"diverticulite","C":["n","med"],"d":"un inflama de la diverticulos, tipal en la colon, causante dole e malfunsiona de la intestines","en":"diverticulitis (medical)","he":"(רפואה) דיברטיקוליטיס, סעפת, מחלת סעיף"}
+{"T":"r","L":"diverticulo","C":["n","med"],"d":"un tubo cual diverje de un caveta o pasaje; un saco o caveta nonormal, formida a un punto debil en la mur de la intestines","en":"diverticulum (anatomy, medical)","he":"(רפואה) דיברטיקולום, סעיף"}
+{"T":"r","L":"diverticulose","C":["n","med"],"d":"un disturba medical en cual diverticulos es presente en la intestines sin indicas de inflama","en":"diverticulosis (medical)","he":"(רפואה) דיברטיקולוזיס, סעיפות"}
+{"T":"r","L":"divide","C":["vnt","mat"],"d":"deveni separada a partes","da":"dele, dividere","de":"teilen","en":"divide, part, split, fork, partition, sever","es":"dividirse, repartirse, fraccionarse","he":"להתחלק, להתפצל"}
+{"L":"divide","C":["vt"],"d":"separa (alga cosa) a partes, tipal per distribui e comparti lo","en":"divide, part, split, fork, partition; ration, hand over part of, share out","es":"dividir, repartir, fraccionar","he":"לחלק, לפצל; לחצוץ; להקציב"}
+{"L":"divide","C":["n"],"en":"division, parting, splitting, split, partitioning; rationing; septum (anatomy)","he":"חלוקה, חילוק, התפצלות, פיצול; חציצה, מחיצה, חיץ; הקצבה"}
+{"L":"divide de comeda","C":["n"],"en":"food rationing","he":"הקצבת מזון"}
+{"L":"dividable","C":["a"],"en":"divisible, capable of being divided","he":"שניתן לחילוק"}
+{"L":"divideda","C":["a"],"en":"divided, split, forked, cloven, cleft","he":"מחולק, מפוצל"}
+{"L":"divideda","C":["n"],"en":"numerator","he":"(מתמטיקה) מונה"}
+{"L":"divideda entre","C":["prep"],"en":"divided by","he":"מחולק על-ידי"}
+{"L":"dividente","C":["a"],"en":"dividing, divisive","he":"מעורר מחלוקת, מפלג"}
+{"L":"dividente","C":["n"],"en":"divisor, denominator","he":"(מתמטיקה) מחלק"}
+{"L":"nondividable","C":["a"],"en":"indivisible","he":"שלא ניתן לחילוק"}
+{"L":"nondivideda","C":["a"],"en":"undivided","he":"לא מפולג, מוחלט"}
+{"L":"sudivide","C":["vnt"],"en":"subdivide","he":"להתחלק לחלוקת משנה"}
+{"L":"sudivide","C":["vt"],"en":"subdivide","he":"לחלק לחלוקת משנה"}
+{"L":"sudivide","C":["n"],"en":"subdivision","he":"חלוקת משנה"}
+{"T":"r","L":"dividendo","C":["n","mone"],"d":"la cuantia de sua profitas o reservas cual un compania paia periodal (tipal a un ves per anio) a sua asionores","en":"dividend","he":"דיבידנד"}
 {"T":"r","L":"divina","C":["vt","rel","mit"],"d":"estima o suposa (alga cosa) sin informa sufisinte per es serta","da":"gætte","de":"vermuten","en":"guess, conjecture, speculate","es":"conjeturar, adivinar, suponer, creer"}
 {"L":"divina","C":["n"],"en":"guess, speculation, guesswork"}
 {"L":"divina informada","C":["n"],"en":"educated guess"}
@@ -19503,6 +19505,7 @@
 {"L":"pel colxada","C":["n"],"en":"cellulite"}
 {"L":"pel cru","C":["n"],"en":"rawhide"}
 {"L":"pel de capra","C":["n"],"en":"goatskin"}
+{"L":"pel de gal","C":["n"],"en":"goose bumps, goose flesh"}
 {"L":"pel de ovea","C":["n"],"en":"sheepskin"}
 {"L":"pel de porco","C":["n"],"en":"pigskin"}
 {"L":"pel de servo","C":["n"],"en":"buckskin"}
@@ -21137,13 +21140,14 @@
 {"L":"nonproduosa","C":["a"],"en":"unproductive, ineffective, ineffectual, inefficacious"}
 {"L":"nonproduosia","C":["n"],"en":"unproductiveness, ineffectiveness, ineffectuality, inefficacy"}
 {"L":"produida","C":["n"],"en":"product, handiwork"}
+{"L":"produida ladal","C":["n"],"en":"by-product, byproduct"}
 {"L":"produidas","C":["n","pl"],"en":"products, produce"}
 {"L":"produor","C":["n"],"en":"producer"}
 {"L":"produor dirijal","C":["n"],"en":"executive producer"}
 {"L":"produor-dirijor","C":["n","nn"],"en":"producer-director"}
 {"L":"produosa","C":["a"],"en":"productive, prolific, bountiful, effective, effectual, efficacious"}
 {"L":"produosia","C":["n"],"en":"productiveness, productivity, effectiveness, effectuality, efficacy"}
-{"L":"suproduida","C":["n"],"en":"by-product"}
+{"L":"suproduida","C":["n"],"en":"by-product, byproduct"}
 {"T":"r","L":"profase","C":["n","bio"],"d":"la fase prima de la divide de selulas","en":"prophase"}
 {"T":"r","L":"profesa","C":["n","gov"],"d":"un carera cual nesesa un instrui estendeda e un documento ofisial de serti","en":"profession"}
 {"L":"nonprofesal","C":["a"],"en":"unprofessional"}
@@ -22358,6 +22362,7 @@
 {"L":"respira ruidosa","C":["v"],"en":"wheeze"}
 {"L":"respira ruidosa","C":["n"],"en":"wheeze"}
 {"L":"autorespirador","C":["n"],"i":"#","en":"scuba, aqualung"}
+{"L":"respirable","C":["a"],"en":"breathable"}
 {"L":"respirador","C":["n"],"i":"#","en":"respirator"}
 {"L":"respiral","C":["a"],"en":"respiratory"}
 {"L":"respirante","C":["a"],"en":"breathing"}
