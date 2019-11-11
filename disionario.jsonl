@@ -164,7 +164,7 @@
 {"T":"r","L":"Acea","C":["n","jeo","ist"],"c":"Patra","d":"un provinse en Elas","en":"Achaea (Greek region)","eo":"Aĥeo","he":"אכאיה (מחוז ביוון)"}
 {"L":"acean","C":["a"],"en":"Achaean","eo":"aĥea","he":"ששייך לאכאיה"}
 {"L":"acean","C":["n","dem"],"d":"un membro de la popla de Acea; (en Homero) un person elinica","en":"Achaean","eo":"aĥeano; aĥajano","he":"תושב אכאיה; (בשירתו של הומרוס) אדם יווני"}
-{"T":"r","L":"acel","C":["d"],"d":"cual nos vide ala; cual nos ia indica ja","g":"determinantes#determinantes_de_mostra","n":"`Acel` es un varia asentuada de `la`. Lo contrasta comun con `esta`, cual indica un person o cosa plu prosima (fisical o metafor).","da":"denne, dette","de":"das","en":"that, those, yonder, yon","eo":"tiu","es":"ese, esa, aquel, aquella, ése, ésa, eso, aquél, aquélla, aquello","fr":"ce, cet, cette","gl":"ese, esa, aquel, aquela, ese, esa, iso, aquel, aquela, aquilo","he":"ההוא, זה ששם"}
+{"T":"r","L":"acel","C":["d"],"d":"cual nos vide ala; cual nos ia indica ja","g":"determinantes#determinantes_de_mostra","n":"`Acel` es un varia asentuada de `la`. Lo contrasta comun con `esta`, cual indica un person o cosa plu prosima (fisical o metafor).","da":"denne, dette","de":"das","en":"that, those, yonder, yon","eo":"tiu","es":"ese, esa, aquel, aquella, ése, ésa, eso, aquél, aquélla, aquello","fr":"ce, cet, cette (-là)","gl":"ese, esa, aquel, aquela, ese, esa, iso, aquel, aquela, aquilo","he":"ההוא, זה ששם"}
 {"L":"acel","C":["pron"],"de":"das","en":"that, that one; the former","eo":"tiu","fr":"celui-là, celle-là, cela, ça","he":"ההוא, זה ששם"}
 {"L":"aceles","C":["pron","pl"],"en":"those, those ones","eo":"tiuj","he":"ההם, אלה ששם"}
 {"L":"par acel","C":["av"],"en":"thereby","he":"על-ידי כך"}
@@ -3632,7 +3632,7 @@
 {"T":"r","L":"braman","C":["n","rel"],"d":"(en induisme) un person de la casta la plu alta; (metafor) un person de la clase la plu alta","en":"brahmin, brahman","he":"ברהמין"}
 {"T":"r","L":"brancia","C":["n","anat","bio"],"d":"un organo respiral de pexes e alga amfibios, cual estrae osijen de acua e escrete diosido de carbono","i":"#","en":"gill","fr":"branchie, ouie","he":"זים"}
 {"L":"brancial","C":["a"],"en":"branchial","he":"זימי"}
-{"T":"r","L":"brandi","C":["vt"],"d":"move (un cosa tenida en la mano, como un bandera, spada o torxa) en ondas de asi a ala","en":"brandish, flourish, wield, wave; swing (club)","fr":"brandir","he":"לנופף (דגל, חרב, לפיד)"}
+{"T":"r","L":"brandi","C":["vt"],"d":"move (sua braso, o un cosa tenida en la mano, como un bandera, spada o torxa) en ondas de asi a ala","en":"wave (arm, flag, etc), brandish, flourish, wield; swing (club)","fr":"brandir","he":"לנופף (דגל, חרב, לפיד)"}
 {"L":"brandi per colpa","C":["v"],"en":"swing at","he":"לנופף (נשק) באיום"}
 {"T":"r","L":"brasa","C":["n"],"d":"un peso peti de carbon o lenio ancora ardente en un foco morinte","en":"ember","es":"brasa","fr":"braise","he":"גחל"}
 {"L":"brasador","C":["n"],"i":"#","en":"brazier, hibachi","fr":"brasero","he":"מחתה, כלי לגחלים","ja":"火鉢, 七輪"}
@@ -5755,7 +5755,7 @@
 {"L":"descomposa","C":["vt"],"en":"decompose, break down","he":"לפרק"}
 {"L":"descomposada","C":["a"],"en":"decomposed, rotten","he":"מפורק; רקוב"}
 {"L":"descomposada","C":["n"],"en":"compost","he":"קומפוסט, דשונת"}
-{"L":"es composada de","C":["v"],"da":"bestå af, være sammensat af","de":"bestehen aus","en":"be composed of, consist of, comprise","es":"consistir en, estar compuesto de, estar hecho de","he":"להיות מורכב מ, להכיל"}
+{"L":"es composada de","C":["v"],"da":"bestå af, være sammensat af","de":"bestehen aus","en":"be composed of, consist of, comprise","es":"consistir en, estar compuesto de, estar hecho de","fr":"consister en","he":"להיות מורכב מ, להכיל"}
 {"L":"noncomposada","C":["a"],"en":"uncompounded, simplex","he":"שאינו מורכב (מחלקים נפרדים)"}
 {"T":"r","L":"compra","C":["vt","mone"],"d":"oteni (un cosa) par paia per lo","da":"købe","de":"kaufen","en":"buy, purchase, shop","es":"comprar, adquirir, mercar","fr":"acheter","he":"לקנות, לרכוש"}
 {"L":"compra","C":["n"],"en":"purchase (action)","he":"קנייה, רכישה (פעולה)"}
@@ -6997,7 +6997,7 @@
 {"T":"r","L":"cris","C":["n","util"],"d":"un daga de Malaisia o Indonesia con lamina ondin","i":"#","en":"kris (dagger)","he":"קריס (פגיון)"}
 {"T":"r","L":"crisalida","C":["n","bio"],"d":"un inseto en sua forma nonativa e nonmatur, entre larva e adulte","i":"#","en":"chrysalis, pupa","he":"גולם"}
 {"T":"r","L":"crisantemo","C":["n","pla"],"d":"un planta en familia de margarita, con flores briliante colorida","i":"#","t":"Chrysanthemum","en":"chrysanthemum","he":"חרצית (צמח)"}
-{"T":"r","L":"crise","C":["n","uma"],"d":"un tempo de difisilia, turba o peril intensa; un tempo cuando on debe fa un deside difisil o importante","en":"crisis, emergency","he":"משבר, מצב חירום"}
+{"T":"r","L":"crise","C":["n","uma"],"d":"un tempo de difisilia, turba o peril intensa; un tempo cuando on debe fa un deside difisil o importante","en":"crisis, emergency","fr":"crise, urgence","he":"משבר, מצב חירום"}
 {"L":"crise coler","C":["n"],"en":"temper tantrum","he":"התפרצות זעם"}
 {"L":"crise mental","C":["n"],"en":"mental breakdown, nervous breakdown","he":"התמוטטות עצבים"}
 {"T":"r","L":"crisol","C":["n","util"],"d":"un contenador seramica o metal, en cual on pote fonde metales o otra materias o esposa los a caldia estrema; (metafor) un situa en cual elementos diversa interata e produi un cosa nova, tipal con alga turbas","en":"crucible, melting pot","he":"כור היתוך"}
@@ -7170,7 +7170,7 @@
 {"L":"ante cuando","C":["sj"],"de":"bevor","en":"before (the time when)","eo":"antaŭ ol","he":"לפני ש"}
 {"L":"asta cuando","C":["sj"],"en":"until, till (the time when)","es":"hasta que","he":"עד ש"}
 {"L":"de cuando","C":["sj"],"en":"since the time when, ever since","fr":"depuis que","he":"מאז ש","ru":"с той поры как, с тех пор как, как только"}
-{"L":"en cuando","C":["sj"],"d":"en un parte de, o tota de, la tempo cuando (alga cosa aveni)","da":"mens, medens","de":"während","en":"while, whilst, as, during the time when","es":"mientras, mientras que","he":"בזמן ש, בעוד ש"}
+{"L":"en cuando","C":["sj"],"d":"en un parte de, o tota de, la tempo cuando (alga cosa aveni)","da":"mens, medens","de":"während","en":"while, whilst, as, during the time when","es":"mientras, mientras que","fr":"pendant (que)","he":"בזמן ש, בעוד ש"}
 {"L":"estra cuando","C":["sj"],"en":"except when, unless","he":"חוץ מ (הזמן ש)"}
 {"L":"pos cuando","C":["sj"],"ca":"després que","de":"nachdem","en":"after (the time when)","eo":"post kiam","es":"después que","fr":"après que","he":"לאחר, אחרי ש","ja":"後に","pt":"pois que, depois","ru":"после"}
 {"L":"sempre cuando","C":["sj"],"en":"whenever","he":"בכל פעם ש, בכל שעה ש, כל אימת ש"}
@@ -8778,15 +8778,15 @@
 {"T":"r","L":"duxierba","C":["n","vn"],"d":"un aparato de jeta, usada per acui jardines","en":"garden sprinkler"}
 {"T":"r","L":"dvd","C":["c","mus","info"],"d":"disco video dijital","en":"DVD"}
 {"T":"r","L":"e","C":["sim"],"d":"la letera sinco de la alfabeta roman, e sua nom; la nota tre de la scala diatonica de C major","p":"e","en":"e","es":"e"}
-{"T":"r","L":"e","C":["cj"],"d":"ance, en ajunta (juntante du espresas o frases cual es membros egal de un lista o grupo)","da":"og, plus","de":"und","en":"and","es":"y, e"}
+{"T":"r","L":"e","C":["cj"],"d":"ance, en ajunta (juntante du espresas o frases cual es membros egal de un lista o grupo)","da":"og, plus","de":"und","en":"and","es":"y, e","fr":"et"}
 {"L":"e ... e","C":["esp"],"u":"e esta e acel","en":"both ... and"}
 {"L":"e/o","C":["cj"],"en":"and/or","es":"y/o"}
 {"T":"r","L":"e-","C":["pf"],"en":"e- (electronic)","es":"e- (electrónico)"}
-{"T":"r","L":"ebano","C":["n","pla"],"d":"un lenio negra o brun oscur; la arbor tropical cual produi esta","i":"#","t":"Ebenaceae","en":"ebony","es":"ébano"}
+{"T":"r","L":"ebano","C":["n","pla"],"d":"un lenio negra o brun oscur; la arbor tropical cual produi esta","i":"#","t":"Ebenaceae","en":"ebony","es":"ébano","fr":"ébène"}
 {"T":"r","L":"ebefrenia","C":["n","uma","med"],"d":"un varia cronica de scizofrenia, marcada par rie e condui enfantin","en":"hebephrenia (medical)","es":"hebefrenia, esquizofrenia desorganizada"}
 {"L":"ebefrenica","C":["a"],"en":"hebephrenic","es":"hebefrénica"}
 {"T":"r","L":"ebonita","C":["n","tera"],"d":"cauxo vulcanida, cual deveni dur e negra","en":"ebonite (rubber)","es":"ebonita (caucho)"}
-{"T":"r","L":"ec","C":["c"],"d":"de la eda comun","en":"CE, AD, anno domini","es":"EC, d.C."}
+{"T":"r","L":"ec","C":["c"],"d":"de la eda comun","en":"CE, AD, anno domini","es":"EC, d.C.","fr":"après JC"}
 {"T":"r","L":"ecdisozon","C":["n"],"d":"un clado o suprafilo de animales cual inclui artropodos, nematodos e otras cual perde sua esosceleto","t":"Ecdysozoa","en":"ecdysozoon (pl. ecdysozoa) (organism)","es":"ecdisozoo (pl. ecdisozoos) (organismo)"}
 {"T":"r","L":"ecg","C":["c","util","med"],"d":"eletrocardiograf","en":"ECG, EKG","es":"ECG, EKG"}
 {"T":"r","L":"ecidna","C":["n","mam"],"d":"un mamal spinosa e insetivor de Australia e Gine Nova, con beco e garas longa, cual produi ovos e come formicas","i":"#","t":"Tachyglossidae","en":"echidna, spiny anteater","es":"equidna, taquiglósido"}
@@ -8799,31 +8799,31 @@
 {"T":"r","L":"eclampsia","C":["n","med"],"d":"un maladia en cual convulsas aveni en un fem ensinta ci sufri de presa sangual alta, comun segueda par coma, e cual menasa la sania de la madre e la bebe","en":"eclampsia (medical)"}
 {"L":"preeclampsia","C":["n","med"],"en":"pre-eclampsia (medical)"}
 {"T":"r","L":"ecler","C":["n","cos"],"d":"un pasta dulse, peti e mol, plenida con crema","i":"#","en":"éclair (cake)"}
-{"T":"r","L":"ecletica","C":["a","fil"],"d":"derivante ideas o stilo de fontes diversa e vasta; (en filosofia) pertinente a un grupo de filosofistes antica ci ia eleje ideas de fontes diversa en loca de segue un scola","en":"eclectic, catholic"}
+{"T":"r","L":"ecletica","C":["a","fil"],"d":"derivante ideas o stilo de fontes diversa e vasta; (en filosofia) pertinente a un grupo de filosofistes antica ci ia eleje ideas de fontes diversa en loca de segue un scola","en":"eclectic, catholic","fr":"éclectique"}
 {"L":"ecleticisme","C":["n"],"en":"eclecticism"}
-{"T":"r","L":"eclis","C":["n","ast"],"d":"un oscuri de la lus de un ojeto sielal par la pasa de un otra entre lo e la oservor, o entre lo e sua fonte de lumina","i":"#","da":"formørkelse","de":"Verfinsterung","en":"eclipse","es":"eclipse"}
+{"T":"r","L":"eclis","C":["n","ast"],"d":"un oscuri de la lus de un ojeto sielal par la pasa de un otra entre lo e la oservor, o entre lo e sua fonte de lumina","i":"#","da":"formørkelse","de":"Verfinsterung","en":"eclipse","es":"eclipse","fr":"éclipse"}
 {"L":"eclis anelo","C":["n"],"en":"annular eclipse"}
 {"L":"eclisal","C":["a"],"en":"ecliptic"}
 {"L":"eclisal","C":["n"],"en":"ecliptic"}
 {"L":"eclisi","C":["vnt"],"en":"eclipse"}
 {"L":"eclisi","C":["vt"],"en":"eclipse"}
-{"T":"r","L":"eco","C":["n","fis"],"d":"un sona, o serie de sonas, causada par la refleta de ondas de sona de un surfas a la escutor; un refleta simil de un raio de ondas, como de radio o radar","en":"echo"}
+{"T":"r","L":"eco","C":["n","fis"],"d":"un sona, o serie de sonas, causada par la refleta de ondas de sona de un surfas a la escutor; un refleta simil de un raio de ondas, como de radio o radar","en":"echo","fr":"écho"}
 {"L":"ecosa","C":["a"],"en":"echoic"}
 {"L":"fa un eco","C":["v"],"en":"echo"}
 {"T":"r","L":"eco-","C":["pf","tecn"],"d":"pertinente a ecolojia","en":"eco-"}
 {"T":"r","L":"ecograf","C":["n","med","util"],"d":"un aparato cual analise sona refletada e produi un representa grafica, tipal usada en medica, per esemplo per oserva la crese de un embrio","en":"echograph, sonograph, ultrasonograph"}
 {"L":"ecografi","C":["vt"],"en":"echograph, sonograph, ultrasonograph"}
-{"L":"ecografia","C":["n"],"en":"echography, sonography, ultrasonography"}
+{"L":"ecografia","C":["n"],"en":"echography, sonography, ultrasonography","fr":"échographie"}
 {"T":"r","L":"ecogram","C":["n","med","util"],"d":"un imaje o graf produida par un ecograf","en":"echogram, sonogram, ultrasonogram"}
 {"T":"r","L":"ecolalia","C":["n","med"],"d":"un maladia de mente en cual on repete automata lo cual otras dise","en":"echolalia (medical)"}
 {"T":"r","L":"ecoloca","C":["vt"],"d":"descovre la loca de (un cosa) par deteta sonas refletada, como fada par delfines, ciroteros, etc","en":"echolocate"}
 {"L":"ecoloca","C":["n"],"en":"echolocation"}
-{"T":"r","L":"ecolojia","C":["n","bio"],"d":"la ramo de biolojia cual studia la relatas entre organismes e entre los e sua ambiente fisical","da":"økologi","de":"Ökologie","en":"ecology","es":"ecología","it":"ecologia"}
+{"T":"r","L":"ecolojia","C":["n","bio"],"d":"la ramo de biolojia cual studia la relatas entre organismes e entre los e sua ambiente fisical","da":"økologi","de":"Ökologie","en":"ecology","es":"ecología","fr":"écologie","it":"ecologia"}
 {"L":"ecolojial","C":["a"],"en":"ecological"}
 {"L":"ecolojial sana","C":["a"],"en":"environmentally friendly, eco-friendly"}
 {"L":"ecolojiste","C":["n"],"en":"ecologist"}
 {"T":"r","L":"econometria","C":["n","mone"],"d":"la ramo de economia cual aplica metodos statistical a la studia empirical de teorias e relatas economial","de":"Ökonometrie","en":"econometrics","es":"econometría","fr":"économétrie"}
-{"T":"r","L":"economia","C":["n","mone","gov"],"d":"la ricia e recursos de un nasion o rejion, spesial notante la produi e consuma de benes e servis; la siensa e studia de esta","da":"økonomi","de":"Wirtschaft","en":"economy; economics","es":"economía"}
+{"T":"r","L":"economia","C":["n","mone","gov"],"d":"la ricia e recursos de un nasion o rejion, spesial notante la produi e consuma de benes e servis; la siensa e studia de esta","da":"økonomi","de":"Wirtschaft","en":"economy; economics","es":"economía","fr":"économie"}
 {"L":"economia de mercato","C":["n"],"d":"un sistem de economia cual depende de la interata de demanda e ofre","en":"market economy"}
 {"L":"economia libraliste","C":["n"],"en":"liberal economy, laissez-faire economy"}
 {"L":"economia matematical","C":["n"],"en":"mathematical economy"}
@@ -8833,7 +8833,7 @@
 {"L":"ecoside","C":["n"],"en":"ecocide"}
 {"T":"r","L":"ecosistem","C":["n","bio"],"d":"un comunia biolojial de organismes interatante e sua ambiente fisical","en":"ecosystem"}
 {"T":"r","L":"ecotono","C":["n","bio"],"d":"un zona de cambia entre du comunias biolojial","en":"ecotone (biology)"}
-{"T":"r","L":"ectare","C":["n","mat"],"d":"un unia metral per mesura area, egal a 100 ares","en":"hectare (unit of area)"}
+{"T":"r","L":"ectare","C":["n","mat"],"d":"un unia metral per mesura area, egal a 100 ares","en":"hectare (unit of area)","fr":"hectare"}
 {"T":"r","L":"ecto-","C":["pf","tecn"],"d":"(un mesura) multiplida par 100","en":"hecto- (hundred)"}
 {"T":"r","L":"ecto-","C":["pf","tecn"],"d":"estra, esterna","en":"ecto- (outside)"}
 {"T":"r","L":"ectoderma","C":["n","bio"],"d":"la strato de selulas la plu esterna, spesial en embrios temprana","en":"ectoderm (anatomy)"}
@@ -8841,30 +8841,30 @@
 {"T":"r","L":"ectopia","C":["n","med"],"d":"un loca o posa nonormal de un organo","en":"ectopia (medical)"}
 {"L":"ectopica","C":["a","med"],"en":"ectopic"}
 {"T":"r","L":"ectoplasma","C":["n","bio"],"d":"la strato esterna, clar e la plu viscosa de sitoplasma en selulas amebin","en":"ectoplasm"}
-{"T":"r","L":"Ecuador","C":["n","jeo"],"c":"Quito","d":"un pais en America Sude norde-ueste, con costa a la Mar Pasifica","i":"#","en":"Ecuador"}
+{"T":"r","L":"Ecuador","C":["n","jeo"],"c":"Quito","d":"un pais en America Sude norde-ueste, con costa a la Mar Pasifica","i":"#","en":"Ecuador","fr":"Equateur (pays)"}
 {"L":"ecuadoran","C":["a"],"en":"Ecuadoran"}
 {"L":"ecuadoran","C":["n"],"en":"Ecuadoran"}
-{"T":"r","L":"ecuator","C":["n","tera","ast"],"d":"un linia imajinada sirca la Tera, a distantia egal de ambos polos, cual divide la Tera entre la emisferas norde e sude; un linia simil sur un otra ojeto sielal","en":"equator","eo":"ekvatoro"}
+{"T":"r","L":"ecuator","C":["n","tera","ast"],"d":"un linia imajinada sirca la Tera, a distantia egal de ambos polos, cual divide la Tera entre la emisferas norde e sude; un linia simil sur un otra ojeto sielal","en":"equator","eo":"ekvatoro","fr":"équateur"}
 {"L":"ecuatoral","C":["a"],"en":"equatorial","eo":"ekvatora"}
 {"T":"r","L":"ecui-","C":["pf","tecn"],"d":"egal","en":"equi-"}
 {"T":"r","L":"ecuidistante","C":["a"],"d":"(du o plu locas) a distantias egal de un otra","en":"equidistant"}
 {"T":"r","L":"ecuiladal","C":["a","mat"],"d":"(un triangulo) con la mesma longia a cada lado","en":"equilateral"}
-{"T":"r","L":"ecuilibra","C":["vnt","fis","cim"],"d":"(un person o cosa) ave un distribui egal de pesa cual permete ce lo resta stable; (un state) conteni elementos diversa en proportios egal o coreta","en":"balance, poise"}
+{"T":"r","L":"ecuilibra","C":["vnt","fis","cim"],"d":"(un person o cosa) ave un distribui egal de pesa cual permete ce lo resta stable; (un state) conteni elementos diversa en proportios egal o coreta","en":"balance, poise","fr":"équilibrer"}
 {"L":"ecuilibra","C":["vt"],"en":"balance, poise"}
 {"L":"ecuilibra","C":["n"],"da":"balance, ligevægt","de":"Gleichgewicht","en":"balance, equilibrium, kilter","es":"equilibrio","gl":"equilibrio"}
 {"L":"ecuilibra idrostatical","C":["n"],"en":"hydrostatic balance, hydrostatic equilibrium"}
 {"L":"desecuilibra","C":["vnt"],"en":"imbalance, unbalance, throw off balance, tip over, topple, knock over, overbalance"}
 {"L":"desecuilibra","C":["vt"],"en":"imbalance, unbalance, throw off balance, tip over, topple, knock over, overbalance"}
 {"L":"nonecuilibra","C":["n"],"en":"imbalance"}
-{"T":"r","L":"ecuinote","C":["n","ast"],"d":"la tempo o data (a du veses en cada anio, sirca 22 setembre e 20 marto) cuando la Sol traversa la ecuator de sielo, cuando la dia e la note es de longia egal","en":"equinox"}
+{"T":"r","L":"ecuinote","C":["n","ast"],"d":"la tempo o data (a du veses en cada anio, sirca 22 setembre e 20 marto) cuando la Sol traversa la ecuator de sielo, cuando la dia e la note es de longia egal","en":"equinox","fr":"équinoxe"}
 {"L":"ecuinote de autono","C":["n"],"en":"autumnal equinox"}
 {"L":"ecuinote de primavera","C":["n"],"en":"vernal equinox"}
 {"T":"r","L":"ecuisito","C":["n","pla"],"d":"un planta sin flores, con tronceta vacua e sesionida, cual porta spirales de folias magra e produi sporas en conos a la estremas de la rametas","i":"#","t":"Equisetum","en":"horsetail (plant)"}
 {"T":"r","L":"ecumenisme","C":["n","rel"],"d":"la promove de unia entre la ramos de cristiania en la mundo","en":"ecumenism"}
 {"L":"ecumeniste","C":["a"],"en":"ecumenical"}
-{"T":"r","L":"eczema","C":["n","med"],"d":"un maladia en cual pesos de pel deveni ru e inflamada, con bulas cual causa pruri e sangui","en":"eczema (medical)"}
+{"T":"r","L":"eczema","C":["n","med"],"d":"un maladia en cual pesos de pel deveni ru e inflamada, con bulas cual causa pruri e sangui","en":"eczema (medical)","fr":"eczéma"}
 {"T":"r","L":"ed","C":["n"],"d":"un letera anglosason e islansce, representante un fricante dental","s":"Ð ð","en":"eth, edh (letter)"}
-{"T":"r","L":"eda","C":["n","tera","ist","uma"],"d":"la cuantia de tempo tra cual un person o organisme ia vive o un cosa ia esiste; un periodo spesifada de istoria; (en jeolojia) un divide major de tempo, min ca un epoca","da":"alder","de":"Alter","en":"age (measure of years); age, era","es":"edad"}
+{"T":"r","L":"eda","C":["n","tera","ist","uma"],"d":"la cuantia de tempo tra cual un person o organisme ia vive o un cosa ia esiste; un periodo spesifada de istoria; (en jeolojia) un divide major de tempo, min ca un epoca","da":"alder","de":"Alter","en":"age (measure of years); age, era","es":"edad","fr":"âge"}
 {"L":"eda comun","C":["n"],"en":"common era"}
 {"L":"eda de bronze","C":["n"],"en":"bronze age"}
 {"L":"eda de fero","C":["n"],"en":"iron age"}
@@ -8880,14 +8880,14 @@
 {"L":"edisme","C":["n"],"en":"agism|ageism"}
 {"L":"ediste","C":["a"],"en":"agist|ageist"}
 {"T":"r","L":"edeago","C":["n","bio"],"d":"un organo per copula, trovada en insetos mas","en":"edeagus|aedeagus"}
-{"T":"r","L":"edema","C":["n","med"],"d":"un maladia marcada par la colie de tro multe licuida acuin en la cavetas o texedas de corpo","en":"edema|oedema (medical)"}
+{"T":"r","L":"edema","C":["n","med"],"d":"un maladia marcada par la colie de tro multe licuida acuin en la cavetas o texedas de corpo","en":"edema|oedema (medical)","fr":"oedème"}
 {"T":"r","L":"Eden","C":["n","rel","mit"],"d":"(en alga relijios) la loca do la umanas prima ia abita; (metafor) un loca o state de felisia grande, como un paradiso","en":"Eden"}
 {"T":"r","L":"eder","C":["n","avia"],"d":"un pato de mares norde","i":"#","t":"Somateria","en":"eider, eider duck"}
-{"T":"r","L":"edera","C":["n","pla"],"d":"un planta trepante e perene, tipal con folias verde oscur con sinco puntos","i":"#","t":"Hedera","en":"ivy"}
-{"T":"r","L":"ederdon","C":["n","vest"],"d":"la plumas peti e suave de la peto de un eder fema, usada per pleni covreletos","en":"eiderdown"}
+{"T":"r","L":"edera","C":["n","pla"],"d":"un planta trepante e perene, tipal con folias verde oscur con sinco puntos","i":"#","t":"Hedera","en":"ivy","fr":"lierre"}
+{"T":"r","L":"ederdon","C":["n","vest"],"d":"la plumas peti e suave de la peto de un eder fema, usada per pleni covreletos","en":"eiderdown","fr":"édredon"}
 {"T":"r","L":"Edipo","C":["n","mit"],"d":"un re elinica mital ci ia reali nonintendente un predise ce el va mata sua padre e sposi sua madre","i":"#","en":"Oedipus"}
 {"L":"edipal","C":["a"],"en":"Oedipal"}
-{"T":"r","L":"edita","C":["vt","arte","info"],"d":"prepara (scrivedas) per publici, par coreti, condensa o organiza los; eleje elementos per (un filma o simil) e organiza los a un unia coerente; cambia (un testo) a un computador","en":"edit"}
+{"T":"r","L":"edita","C":["vt","arte","info"],"d":"prepara (scrivedas) per publici, par coreti, condensa o organiza los; eleje elementos per (un filma o simil) e organiza los a un unia coerente; cambia (un testo) a un computador","en":"edit","fr":"éditer"}
 {"L":"edita","C":["n"],"en":"editing; edit, edition"}
 {"L":"coedita","C":["vt"],"en":"coedit"}
 {"L":"coeditor","C":["n"],"en":"coeditor"}
@@ -8920,7 +8920,7 @@
 {"T":"r","L":"efemera","C":["a"],"d":"esistente o usada per un periodo multe corta","en":"ephemeral"}
 {"L":"efemera","C":["n","artr"],"d":"un inseto magra, con alas diafana e du o tre filetas longa a la coda, notada per sua vive multe corta","i":"#","t":"Ephemeroptera","en":"mayfly"}
 {"L":"efemeras","C":["n","pl"],"en":"ephemera"}
-{"T":"r","L":"efeto","C":["n"],"d":"un cambia cual resulta de un ata o otra causa; un usa de sona o lumina per forti la ilude de un teatral o filma","da":"effekt","de":"Wirkung, Effekt","en":"effect; consequence, impact, footprint","es":"efecto"}
+{"T":"r","L":"efeto","C":["n"],"d":"un cambia cual resulta de un ata o otra causa; un usa de sona o lumina per forti la ilude de un teatral o filma","da":"effekt","de":"Wirkung, Effekt","en":"effect; consequence, impact, footprint","es":"efecto","fr":"effet"}
 {"L":"efeto de Doppler","C":["n"],"d":"un cambia en frecuentia de sona, lus o otra ondas cuando la fonte e la oservor move a via de lunlotra","en":"Doppler effect"}
 {"L":"efeto de moda","C":["n"],"en":"bandwagon effect"}
 {"L":"efeto invernerial","C":["n"],"en":"greenhouse effect"}
@@ -8934,12 +8934,12 @@
 {"T":"r","L":"efrata","C":["vt","gov"],"d":"entra a (un construida) nonlegal con intende crimin, spesial de fura","en":"burglarize|burgle"}
 {"L":"efrata","C":["n"],"en":"burglary"}
 {"L":"efrator","C":["n"],"en":"burglar"}
-{"T":"r","L":"egal","C":["a","mat"],"d":"con la mesma cuantia, grandia, grado o valua; (un max) en cual la ecipos fini con un cuantia egal de puntos","da":"lige (ligeberettiget)","de":"gleich","en":"equal, equivalent, tantamount; tied, drawn","es":"igual"}
+{"T":"r","L":"egal","C":["a","mat"],"d":"con la mesma cuantia, grandia, grado o valua; (un max) en cual la ecipos fini con un cuantia egal de puntos","da":"lige (ligeberettiget)","de":"gleich","en":"equal, equivalent, tantamount; tied, drawn","es":"igual","fr":"égal"}
 {"L":"egal","C":["n"],"en":"tie, draw (match result); deuce (tennis); toss-up"}
 {"L":"atenta egali","C":["v"],"en":"try to catch up, play catch-up"}
 {"L":"egalador","C":["n"],"en":"equalizer|is (filter)"}
-{"L":"egali","C":["vnt"],"en":"equalize|is, become equal, catch up"}
-{"L":"egali","C":["vt"],"en":"equalize|is, make equal, match, rival, equate to, catch up with"}
+{"L":"egali","C":["vnt"],"en":"equalize|is, become equal, catch up","fr":"s'égaliser"}
+{"L":"egali","C":["vt"],"en":"equalize|is, make equal, match, rival, equate to, catch up with","fr":"égaliser"}
 {"L":"egali","C":["n"],"en":"equation"}
 {"L":"egali cuadral","C":["n"],"v":"egali de grado du","en":"quadratic equation"}
 {"L":"egali cubo","C":["n"],"v":"egali de grado tre","en":"cubic equation"}
@@ -8965,20 +8965,20 @@
 {"L":"egiptian","C":["n"],"en":"Egyptian"}
 {"T":"r","L":"egiptolojia","C":["n","uma","ist"],"d":"la studia de la lingua, istoria e sivilia de Egipte antica","en":"Egyptology"}
 {"L":"egiptolojiste","C":["n"],"en":"Egyptologist"}
-{"T":"r","L":"eglefin","C":["n","pex"],"d":"un pex arjentin gris de la Mar Atlantica norde, relatada a la gado","i":"#","t":"Melanogrammus aeglefinus","en":"haddock"}
-{"T":"r","L":"eglesa","C":["n","rel","arci"],"d":"un construida usada par cristianes per adora publica; un organiza cristian spesifada; relijio organizada, regardada como un forsa political o sosial","i":"#","da":"kirke","de":"Kirche","en":"church (building, organization|is)","es":"iglesia"}
+{"T":"r","L":"eglefin","C":["n","pex"],"d":"un pex arjentin gris de la Mar Atlantica norde, relatada a la gado","i":"#","t":"Melanogrammus aeglefinus","en":"haddock","fr":"églefin"}
+{"T":"r","L":"eglesa","C":["n","rel","arci"],"d":"un construida usada par cristianes per adora publica; un organiza cristian spesifada; relijio organizada, regardada como un forsa political o sosial","i":"#","da":"kirke","de":"Kirche","en":"church (building, organization|is)","es":"iglesia","fr":"église"}
 {"L":"eglesal","C":["a"],"en":"ecclesiastic, ecclesiastical"}
-{"L":"egleseta","C":["n"],"en":"chapel"}
+{"L":"egleseta","C":["n"],"en":"chapel","fr":"chapelle"}
 {"L":"eglesor","C":["n"],"en":"member of the clergy, clergyman, clergywoman, cleric, parson, pastor, minister, chaplain"}
 {"L":"eglesor alta","C":["n"],"en":"prelate"}
 {"L":"eglesor fema","C":["n"],"en":"clergywoman"}
 {"L":"eglesor mas","C":["n"],"en":"clergyman"}
 {"L":"eglesores","C":["n","pl"],"en":"clergy"}
 {"T":"r","L":"ego","C":["n","uma","fil"],"d":"la senti de respeta o importa cual un person ave en relata a se; (en psicoanalise) la parte de la mente cual razona e deside; (en filosofia) un sujeto consensa e pensante","en":"ego, self"}
-{"L":"egoisme","C":["n"],"p":"egoïsme","en":"selfishness"}
-{"L":"egoiste","C":["a"],"p":"egoïste","en":"selfish, egotistical"}
+{"L":"egoisme","C":["n"],"p":"egoïsme","en":"selfishness","fr":"égoïsme"}
+{"L":"egoiste","C":["a"],"p":"egoïste","en":"selfish, egotistical","fr":"égoïste"}
 {"L":"egoiste","C":["n"],"en":"egoist"}
-{"L":"egosa","C":["a"],"en":"egotistical, arrogant, insolent, haughty, conceited, vainglorious, overweening, puffed-up, overbearing, pretentious, affected, ostentatious, full of oneself, conceited, stuck-up, bold, brash, high-handed, snippy, snotty, supercilious, uppity"}
+{"L":"egosa","C":["a"],"en":"egotistical, arrogant, insolent, haughty, conceited, vainglorious, overweening, puffed-up, overbearing, pretentious, affected, ostentatious, full of oneself, conceited, stuck-up, bold, brash, high-handed, snippy, snotty, supercilious, uppity","fr":"insolent, arrogant"}
 {"L":"egosia","C":["n"],"en":"egotism, arrogance, insolence, conceit"}
 {"L":"nonegosa","C":["a"],"en":"unselfish"}
 {"L":"otra ego","C":["n"],"en":"alter ego"}
@@ -8986,20 +8986,20 @@
 {"L":"supraego","C":["n"],"en":"superego (psychology)"}
 {"T":"r","L":"egomania","C":["n","uma"],"d":"un egosia osesente","en":"egomania"}
 {"L":"egomanica","C":["a"],"en":"egomaniac, egomaniacal"}
-{"T":"r","L":"egosentral","C":["a","uma"],"d":"pensante sola a se, sin regarda la emosias o desiras de otras; focada a o veninte de la perspetiva de un person","en":"egocentric"}
+{"T":"r","L":"egosentral","C":["a","uma"],"d":"pensante sola a se, sin regarda la emosias o desiras de otras; focada a o veninte de la perspetiva de un person","en":"egocentric","fr":"égocentrique"}
 {"T":"r","L":"egreta","C":["n","avia"],"d":"un tipo de eron, tipal con plumas blanca","i":"#","t":"Egretta","en":"egret (bird)"}
-{"T":"r","L":"ejacula","C":["vt","bio"],"d":"ejeta (semin) de la corpo a la momento de culmina sesal","en":"ejaculate"}
+{"T":"r","L":"ejacula","C":["vt","bio"],"d":"ejeta (semin) de la corpo a la momento de culmina sesal","en":"ejaculate","fr":"éjaculer"}
 {"L":"ejacula","C":["n"],"en":"ejaculation"}
 {"T":"r","L":"ejemonia","C":["n","gov"],"d":"gida o domina, spesial par un stato o grupo sosial","en":"hegemony"}
 {"T":"r","L":"Ejeo","C":["n","jeo"],"d":"la rejion de la Mar Ejeo e la paises bordante","en":"Aegean (region)"}
 {"L":"Mar Ejeo","C":["n","jeo"],"d":"un parte de la Mar Mediteraneo entre Elas e Turcia","i":"#","en":"Aegean Sea"}
 {"L":"ejean","C":["a","jeo"],"d":"de o pertinente a la rejion de la Mar Ejeo e sua costas e isolas","en":"Aegean"}
-{"T":"r","L":"ejeta","C":["vt"],"d":"forsa o lansa (un cosa) a estra, tipal en modo subita o forte","en":"eject, jettison"}
+{"T":"r","L":"ejeta","C":["vt"],"d":"forsa o lansa (un cosa) a estra, tipal en modo subita o forte","en":"eject, jettison","fr":"éjecter"}
 {"L":"ejeta","C":["n"],"en":"ejection, ouster"}
 {"L":"ejetada","C":["a"],"en":"ejective"}
 {"L":"ejetada","C":["n"],"en":"ejective (consonant)"}
 {"T":"r","L":"ejitalido","C":["n","avia"],"d":"un avia peti e pasarin de Eurasia, con color blanda e coda relativa longa","i":"#","t":"Aegithalidae","en":"bushtit, long-tailed tit (bird)"}
-{"T":"r","L":"el","C":["pron"],"d":"representante un person, un animal personin, o un cosa personin como un robot","da":"han, hun","de":"er, sie","en":"he, she; him, her; it (animal or personified thing)","es":"él, ella"}
+{"T":"r","L":"el","C":["pron"],"d":"representante un person, un animal personin, o un cosa personin como un robot","da":"han, hun","de":"er, sie","en":"he, she; him, her; it (animal or personified thing)","es":"él, ella","fr":"il, elle, le, la"}
 {"L":"el ci","C":["esp"],"u":"el ci osa gania","en":"he who, she who, the one who"}
 {"L":"elisme","C":["n"],"d":"la abitua de refere a se par sua nom o como `el`","en":"illeism (referring to oneself in the third person)"}
 {"T":"r","L":"ela","C":["pron"],"d":"representante un person o animal fema","n":"On usa normal `el`, egal per un fema o un mas. `Ela` es multe rara, ma on pote usa lo per claria e stilo si, per esemplo, on nara un conversa entre un fem (`ela`) e un om (`elo`).","en":"she, her"}
@@ -9012,24 +9012,24 @@
 {"L":"elinici","C":["vnt"],"d":"(istorial) (un otra popla) segue la cultur elinica antica","en":"hellenize|is"}
 {"L":"elinici","C":["vt"],"en":"hellenize|is"}
 {"L":"elinici","C":["n"],"ca":"hel·lenització","de":"Hellenisierung","en":"hellenization|is","es":"helenización","it":"ellenizzazione","pt":"helenização"}
-{"T":"r","L":"elastan","C":["n","vest"],"d":"un stofa elastica de poliuretan, tipal usada per calsas, vestetas e otra vestes abrasante","en":"elastane, lycra, spandex"}
+{"T":"r","L":"elastan","C":["n","vest"],"d":"un stofa elastica de poliuretan, tipal usada per calsas, vestetas e otra vestes abrasante","en":"elastane, lycra, spandex","fr":"élasthanne"}
 {"L":"de elastan","C":["a"],"en":"(made of) elastane, lycra, spandex"}
-{"T":"r","L":"elastica","C":["a"],"d":"(un ojeto o materia) capas de reveni spontan a sua forma normal pos contrae, dilata o contorse","da":"elastisk","de":"elastisch, spannkräftig","en":"elastic, stretchy, stretch","es":"elástico"}
+{"T":"r","L":"elastica","C":["a"],"d":"(un ojeto o materia) capas de reveni spontan a sua forma normal pos contrae, dilata o contorse","da":"elastisk","de":"elastisch, spannkräftig","en":"elastic, stretchy, stretch","es":"elástico","fr":"élastique"}
 {"L":"elastica","C":["n"],"en":"elastic"}
 {"L":"elasticia","C":["n"],"en":"elasticity"}
 {"L":"nonelastica","C":["a"],"en":"inelastic"}
 {"L":"nonelasticia","C":["n"],"en":"inelasticity"}
-{"T":"r","L":"elefante","C":["n","mam"],"d":"un mamal grande, pesosa e erbivor, con trompa prensil e dentones longa de ivor, nativa de Africa e Asia sude","i":"#","t":"Elephantidae","en":"elephant","eo":"elefanto"}
+{"T":"r","L":"elefante","C":["n","mam"],"d":"un mamal grande, pesosa e erbivor, con trompa prensil e dentones longa de ivor, nativa de Africa e Asia sude","i":"#","t":"Elephantidae","en":"elephant","eo":"elefanto","fr":"éléphant"}
 {"L":"elefante-de-mar","C":["n","mam"],"d":"un foca grande, cual reprodui a la costa ueste de America Norde e la isolas sirca Antartica, de cual la mas es multe plu grande ca la fema e ave un colo spesa e un beco inflable cual sembla la trompa de un elefante","i":"#","t":"Mirounga","en":"elephant seal, sea elephant","eo":"marelefanto"}
 {"L":"elefantin","C":["a"],"en":"elephantine","eo":"elefanteca"}
 {"T":"r","L":"elefantiase","C":["n","med"],"d":"un maladia en cual un membro o otra parte de corpo deveni multe grande par causa de la impedi de la dutos limfal, tipal par un nematodo parasital","en":"elephantiasis"}
-{"T":"r","L":"elefen","C":["a","ling"],"d":"pertinente a lingua franca nova","en":"Elefen, Lingua Franca Nova"}
+{"T":"r","L":"elefen","C":["a","ling"],"d":"pertinente a lingua franca nova","en":"Elefen, Lingua Franca Nova","fr":"elefen, Lingua Franca Nova"}
 {"L":"elefen","C":["n"],"en":"Elefen, Lingua Franca Nova"}
 {"L":"elefeni","C":["vnt"],"en":"Elefenize|is, translate into Elefen"}
-{"L":"elefeni","C":["vt"],"en":"Elefenize|is, translate into Elefen"}
-{"L":"elefeniste","C":["n"],"en":"Elefenist, Elefen speaker, Elefen advocate"}
-{"T":"r","L":"eleje","C":["vt","gov"],"d":"deside ci o cual de du o plu alternativas es la plu bon o la plu conveninte","da":"vælge, udvælge","de":"wählen","en":"choose, select, pick, elect, opt; sample","es":"elegir, escoger, seleccionar"}
-{"L":"eleje","C":["n"],"da":"valg, valgmulighed","de":"Auswahl, Wahl","en":"choice, election, selection","es":"selección, preferencia, opción, alternativa, favorito"}
+{"L":"elefeni","C":["vt"],"en":"Elefenize|is, translate into Elefen","fr":"traduire en elefen"}
+{"L":"elefeniste","C":["n"],"en":"Elefenist, Elefen speaker, Elefen advocate","fr":"locuteur de l'elefen"}
+{"T":"r","L":"eleje","C":["vt","gov"],"d":"deside ci o cual de du o plu alternativas es la plu bon o la plu conveninte","da":"vælge, udvælge","de":"wählen","en":"choose, select, pick, elect, opt; sample","es":"elegir, escoger, seleccionar","fr":"choisir, sélectionner, élire"}
+{"L":"eleje","C":["n"],"da":"valg, valgmulighed","de":"Auswahl, Wahl","en":"choice, election, selection","es":"selección, preferencia, opción, alternativa, favorito","fr":"choix"}
 {"L":"eleje acaso","C":["n"],"en":"random sampling"}
 {"L":"eleje partisipa","C":["v"],"en":"opt in, join in"}
 {"L":"eleje natural","C":["n"],"en":"natural selection"}
@@ -9050,10 +9050,10 @@
 {"L":"reeleje","C":["vt"],"en":"re-elect"}
 {"T":"r","L":"elejia","C":["n","arte"],"d":"un poesia de refleta seria, tipal un lamenta pos un mori; un poesia elinica o latina, scriveda en duples elejial","en":"elegy"}
 {"L":"elejial","C":["a"],"en":"elegiac"}
-{"T":"r","L":"elemento","C":["n","cim"],"d":"un parte o aspeta fundal de alga cosa, spesial si esensal o tipal; cada de plu ca 100 materias cimical cual no pote es simplida e cual es la partes fundal de tota materias","da":"element","de":"Urstoff","en":"element (basic part, including chemical); factor","es":"elemento"}
-{"T":"r","L":"eletrica","C":["n","fis"],"d":"un forma de enerjia cual resulta de la presentia de particulas cargada, como un cumula statical de carga o como un corente dinamical","da":"elektricitet","de":"Elektrizität","en":"electricity","es":"electricidad"}
+{"T":"r","L":"elemento","C":["n","cim"],"d":"un parte o aspeta fundal de alga cosa, spesial si esensal o tipal; cada de plu ca 100 materias cimical cual no pote es simplida e cual es la partes fundal de tota materias","da":"element","de":"Urstoff","en":"element (basic part, including chemical); factor","es":"elemento","fr":"élément"}
+{"T":"r","L":"eletrica","C":["n","fis"],"d":"un forma de enerjia cual resulta de la presentia de particulas cargada, como un cumula statical de carga o como un corente dinamical","da":"elektricitet","de":"Elektrizität","en":"electricity","es":"electricidad","fr":"électricité"}
 {"L":"eletrical","C":["a"],"en":"electrical, electric"}
-{"L":"eletrici","C":["vt"],"en":"electrify"}
+{"L":"eletrici","C":["vt"],"en":"electrify","fr":"électrifier"}
 {"L":"eletrici","C":["n"],"en":"electrification"}
 {"L":"eletricida","C":["a"],"en":"electrified, electric"}
 {"L":"eletricinte","C":["a"],"en":"electrifying"}
@@ -9061,30 +9061,30 @@
 {"T":"r","L":"eletrocardiograf","C":["n","med"],"d":"un aparato per mesura e rejistra la ativia eletrical en la cor","en":"electrocardiograph, ECG scanner, EKG scanner"}
 {"L":"eletrocardiografia","C":["n"],"en":"electrocardiography"}
 {"T":"r","L":"eletrocardiogram","C":["n","med"],"d":"un rejistra creada par un eletrocardiograf","en":"electrocardiogram, ECG scan, EKG scan"}
-{"T":"r","L":"eletrocuta","C":["vt","gov"],"d":"feri o mata (algun) par xoca eletrical","en":"electrocute"}
+{"T":"r","L":"eletrocuta","C":["vt","gov"],"d":"feri o mata (algun) par xoca eletrical","en":"electrocute","fr":"électrocuter"}
 {"L":"eletrocuta","C":["n"],"en":"electrocution"}
 {"T":"r","L":"eletrodinamica","C":["n","fis"],"d":"la ramo de mecanica cual studia la interata de corentes eletrical con campos magnetal o con otra corentes eletrical","en":"electrodynamics"}
 {"L":"eletrodinamical","C":["a"],"en":"electrodynamic"}
-{"T":"r","L":"eletrodo","C":["n","fis"],"d":"un condutador tra cual eletrica entra a o sorti de un ojeto, materia o area","en":"electrode"}
+{"T":"r","L":"eletrodo","C":["n","fis"],"d":"un condutador tra cual eletrica entra a o sorti de un ojeto, materia o area","en":"electrode","fr":"électrode"}
 {"T":"r","L":"eletroensefalograf","C":["n","med"],"d":"un aparato per rejistra la ativia eletrical de la serebro","en":"electroencephalograph"}
 {"L":"eletroensefalografia","C":["n"],"en":"electroencephalography"}
 {"T":"r","L":"eletroensefalogram","C":["n","med"],"d":"un rejistra creada par un eletroensefalograf","en":"electroencephalogram"}
 {"T":"r","L":"eletrofisiolojia","C":["n","bio"],"d":"la ramo de fisiolojia cual studia la fenomenos eletrical asosiada con la funsiona de la nervos e corpo","en":"electrophysiology"}
 {"T":"r","L":"eletroforese","C":["n","cim"],"d":"la move de particulas cargada en un licuida o jelatin su influe de un campo eletrica","en":"electrophoresis"}
-{"T":"r","L":"eletrolise","C":["vt","cim"],"d":"envia un corente eletrical tra (un licuida o disolve) cual conteni iones","en":"electrolyze|ys"}
+{"T":"r","L":"eletrolise","C":["vt","cim"],"d":"envia un corente eletrical tra (un licuida o disolve) cual conteni iones","en":"electrolyze|ys","fr":"électrolyser"}
 {"L":"eletrolise","C":["n"],"en":"electrolysis"}
 {"L":"eletrolisal","C":["a"],"en":"electrolytic"}
 {"T":"r","L":"eletrolito","C":["n","cim"],"d":"un licuida o jelatin cual conteni iones e cual pote es descomposada par eletrolise","en":"electrolyte"}
-{"T":"r","L":"eletromagnete","C":["n","fis"],"d":"un cor de metal mol, convertida a un magnete par la pasa de un corente eletrical tra un enrolada cual ensirca lo","en":"electromagnet"}
+{"T":"r","L":"eletromagnete","C":["n","fis"],"d":"un cor de metal mol, convertida a un magnete par la pasa de un corente eletrical tra un enrolada cual ensirca lo","en":"electromagnet","fr":"électroaimant"}
 {"L":"eletromagnetal","C":["a"],"en":"electromagnetic"}
-{"L":"eletromagnetia","C":["n"],"en":"electromagnetism"}
+{"L":"eletromagnetia","C":["n"],"en":"electromagnetism","fr":"électromagnétique"}
 {"T":"r","L":"eletromecanica","C":["n","fis"],"d":"la siensa de aparatos macinal cual usa eletrica","en":"electromechanics"}
 {"L":"eletromecanical","C":["a"],"en":"electromechanical"}
 {"T":"r","L":"eletromotiva","C":["a","fis"],"d":"produinte un corente eletrical","en":"electromotive"}
-{"T":"r","L":"eletron","C":["n","fis"],"d":"un particula suatomal e stable, con carga eletrical negativa, trovada en tota atomes e funsionante como la portante xef de eletrica en solidas","en":"electron"}
+{"T":"r","L":"eletron","C":["n","fis"],"d":"un particula suatomal e stable, con carga eletrical negativa, trovada en tota atomes e funsionante como la portante xef de eletrica en solidas","en":"electron","fr":"électron"}
 {"T":"r","L":"eletronegativa","C":["a","fis","cim"],"d":"eletrical negativa; (un elemento) tendente gania eletrones e formi iones negativa","en":"electronegative"}
-{"T":"r","L":"eletronica","C":["n","fis","util"],"d":"la ramo de fisica e tecnolojia cual pertine a la desinia de sircuitos con transistores e microtelias, e a la condui e move de eletrones en condutadores, semicondutadores, gases o un vacua","en":"electronics (science)"}
-{"L":"eletronical","C":["a"],"en":"electronic"}
+{"T":"r","L":"eletronica","C":["n","fis","util"],"d":"la ramo de fisica e tecnolojia cual pertine a la desinia de sircuitos con transistores e microtelias, e a la condui e move de eletrones en condutadores, semicondutadores, gases o un vacua","en":"electronics (science)","fr":"électronique"}
+{"L":"eletronical","C":["a"],"en":"electronic","fr":"électronique"}
 {"L":"eletronicales","C":["n","pl"],"en":"electronics (components)"}
 {"T":"r","L":"eletroplaca","C":["vt","cim"],"d":"placa (un cosa metal) par eletrolise","en":"electroplate"}
 {"L":"eletroplaca","C":["n"],"en":"electroplating"}
@@ -9092,7 +9092,7 @@
 {"T":"r","L":"eletrosirurjia","C":["n","med"],"d":"sirurjia cual usa un corente eletrical de frecuentia alta per caldi e talia texedas con multe esatia","en":"electrosurgery"}
 {"T":"r","L":"eletrostatica","C":["n","fis"],"d":"la studia de cargas o campos eletrical statical, contrastada con corentes eletrical","en":"electrostatics"}
 {"L":"eletrostatical","C":["a"],"en":"electrostatic"}
-{"T":"r","L":"eleva","C":["vt","bio","uma"],"d":"cura (un enfante) asta cuando el es matur; cura animales, spesial sua reprodui","en":"bring up, raise, rear, nurture; breed (raise animals)"}
+{"T":"r","L":"eleva","C":["vt","bio","uma"],"d":"cura (un enfante) asta cuando el es matur; cura animales, spesial sua reprodui","en":"bring up, raise, rear, nurture; breed (raise animals)","fr":"élever (tous sens)"}
 {"L":"eleva","C":["n"],"en":"upbringing, nurture; breeding, husbandry"}
 {"L":"eleva de abeas","C":["n"],"en":"apiculture, beekeeping"}
 {"L":"eleva de animales","C":["n"],"en":"raising animals, breeding animals, animal husbandry"}
@@ -9102,23 +9102,23 @@
 {"L":"elevor","C":["n"],"en":"breeder (animals)"}
 {"T":"r","L":"elfo","C":["n","mit"],"d":"un organisme mital con forma umana, comun peti, con oreas puntida e potias majiosa","i":"#","en":"elf, pixie, pixy, sprite, hobgoblin"}
 {"L":"elfin","C":["a"],"en":"elfin, elfish, pixieish"}
-{"T":"r","L":"elianto","C":["n","pla"],"d":"un planta alta de America Norde en familia de margarita, con flores jala grande","i":"#","t":"Helianthus annuus","da":"solsikke","de":"Sonnenblume","en":"sunflower (plant, bloom)","es":"girasol"}
+{"T":"r","L":"elianto","C":["n","pla"],"d":"un planta alta de America Norde en familia de margarita, con flores jala grande","i":"#","t":"Helianthus annuus","da":"solsikke","de":"Sonnenblume","en":"sunflower (plant, bloom)","es":"girasol","fr":"tournesol"}
 {"T":"r","L":"elica","C":["a","mat","util"],"d":"con forma enrolada o spiral; (un ase) portante du o plu lamas larga e angulida, como en un ventador","i":"#","de":"korkenzieherförmig","en":"helical, helicoid"}
-{"L":"elica","C":["n"],"en":"helix; propeller"}
+{"L":"elica","C":["n"],"en":"helix; propeller","fr":"hélice"}
 {"L":"elicador","C":["n"],"i":"#","en":"auger"}
 {"L":"elicador de Arcimede","C":["n"],"en":"Archimedes' screw"}
 {"L":"eliceta","C":["n"],"en":"twiddly bit (curly decorative feature)"}
-{"T":"r","L":"elicotor","C":["n","vec"],"d":"un tipo de volador cual usa du o plu rotores per asende e propulsa se","i":"#","en":"helicopter"}
+{"T":"r","L":"elicotor","C":["n","vec"],"d":"un tipo de volador cual usa du o plu rotores per asende e propulsa se","i":"#","en":"helicopter","fr":"hélicopter"}
 {"L":"elicotor de ataca","C":["n"],"en":"helicopter gunship"}
 {"L":"elicotori","C":["vt"],"en":"(transport by) helicopter"}
-{"T":"r","L":"elidi","C":["vt","ling"],"d":"omete (un sona o silaba) cuando on parla","en":"elide"}
+{"T":"r","L":"elidi","C":["vt","ling"],"d":"omete (un sona o silaba) cuando on parla","en":"elide","fr":"élider"}
 {"L":"elidi","C":["n"],"en":"elision"}
-{"T":"r","L":"elimina","C":["vt"],"d":"sutrae o esclui completa","en":"eliminate, annihilate, obliterate, eradicate, exterminate, extirpate, purge, expunge; knock out (from contest)"}
+{"T":"r","L":"elimina","C":["vt"],"d":"sutrae o esclui completa","en":"eliminate, annihilate, obliterate, eradicate, exterminate, extirpate, purge, expunge; knock out (from contest)","fr":"éliminer"}
 {"L":"elimina","C":["n"],"en":"elimination, annihilation, obliteration, eradication, extermination, extirpation, purge"}
 {"T":"r","L":"elinisme","C":["n","uma","ist"],"d":"la cultur de Elas antica entre la mori de Alexandro la Grande e la batalia de Action, o a la studia o imita de esta","en":"Hellenism"}
 {"L":"eliniste","C":["a"],"en":"Hellenistic"}
 {"L":"eliniste","C":["n"],"en":"Hellenist"}
-{"T":"r","L":"elio","C":["n","cim"],"d":"la elemento cimical con numero atomal 2, un gas inerte","s":"He (helium)","en":"helium"}
+{"T":"r","L":"elio","C":["n","cim"],"d":"la elemento cimical con numero atomal 2, un gas inerte","s":"He (helium)","en":"helium","fr":"hélium"}
 {"T":"r","L":"eliofilia","C":["n","bio"],"d":"un atrae a lus de sol","en":"heliophilia (biology)"}
 {"L":"eliofilica","C":["a"],"en":"heliophilic"}
 {"L":"eliofilica","C":["n"],"en":"heliophile"}
@@ -9126,8 +9126,8 @@
 {"T":"r","L":"eliotropo","C":["a"],"d":"un purpur pal","en":"heliotrope (color|ur)"}
 {"L":"eliotropo","C":["n","pla"],"d":"un planta en familia de boraja, cultivada per sua flores blu o purpur cual es usada en parfum","en":"heliotrope (plant)"}
 {"T":"r","L":"eliporto","C":["n"],"d":"un airoporto per elicotores","en":"heliport"}
-{"T":"r","L":"elise","C":["a","mat"],"d":"con forma de un sirculo platida, la resulta de talia un cono par un plano inclinada cual no crusa la funda","i":"#","en":"elliptic, elliptical"}
-{"L":"elise","C":["n"],"en":"ellipse","es":"hélice, tirabuzón"}
+{"T":"r","L":"elise","C":["a","mat"],"d":"con forma de un sirculo platida, la resulta de talia un cono par un plano inclinada cual no crusa la funda","i":"#","en":"elliptic, elliptical","fr":"elliptique"}
+{"L":"elise","C":["n"],"en":"ellipse","es":"hélice, tirabuzón","fr":"ellipse"}
 {"T":"r","L":"elisoide","C":["a","mat"],"en":"ellipsoid, ellipsoidal"}
 {"L":"elisoide","C":["n"],"d":"un forma tridimensional simetre a tre ases perpendicular, de cual sua talia traversal a un ase es un sirculo e tota otra talias es elises","en":"ellipsoid"}
 {"T":"r","L":"elisurfas","C":["n"],"d":"un atereria per elicotores","en":"helipad"}
@@ -9139,7 +9139,7 @@
 {"L":"antielmintal","C":["n","med"],"d":"un medisin per elimina elmintos","en":"anthelmintic, antihelminthic, vermifuge, vermicide, wormer, dewormer, drench (medicine)"}
 {"L":"deselminti","C":["vt"],"en":"deworm, worm, drench"}
 {"L":"elmintose","C":["n"],"en":"helminthiasis, helmintosis, worms"}
-{"T":"r","L":"elmo","C":["n","vest"],"d":"un xapo dur, portada par soldatos, polisiores, sportores, etc per proteje sua testa","i":"#","da":"hjelm","de":"Helm","en":"helmet, hard hat","es":"casco, yelmo"}
+{"T":"r","L":"elmo","C":["n","vest"],"d":"un xapo dur, portada par soldatos, polisiores, sportores, etc per proteje sua testa","i":"#","da":"hjelm","de":"Helm","en":"helmet, hard hat","es":"casco, yelmo","fr":"casque"}
 {"L":"elmin","C":["a"],"en":"helmetlike, helmet-shaped"}
 {"T":"r","L":"elo","C":["pron"],"d":"representante un person o animal mas","n":"On usa normal `el`, egal per un mas o un fema. `Elo` es multe rara, ma on pote usa lo per claria e stilo si, per esemplo, on nara un conversa entre un om (`elo`) e un fem (`ela`).","en":"he, him"}
 {"T":"r","L":"em","C":["esc"],"d":"espresante esita","en":"um, uh, er, erm (hesitation)"}
@@ -9147,7 +9147,7 @@
 {"T":"r","L":"ematita","C":["n","tera"],"d":"un mineral negra rojin, composada de osido ferica","en":"hematite|haematite (mineral)"}
 {"T":"r","L":"emato-","C":["pf","tecn","med"],"d":"sangue","en":"hemato-|ae (blood)"}
 {"T":"r","L":"ematolojia","C":["n","med"],"d":"la studia de la fisiolojia de sangue","en":"hematology|ae"}
-{"T":"r","L":"ematoma","C":["n","med"],"d":"un infla solida de sangue coagulada en la texedas; dana cual apare como un area de pel malcolorida, causada par la rompe de dutos sangual","en":"hematoma|ae, bruising"}
+{"T":"r","L":"ematoma","C":["n","med"],"d":"un infla solida de sangue coagulada en la texedas; dana cual apare como un area de pel malcolorida, causada par la rompe de dutos sangual","en":"hematoma|ae, bruising","fr":"hématome"}
 {"L":"ematoma periorbital","C":["n","med"],"en":"periorbital hematoma|ae, black eye"}
 {"T":"r","L":"ematopoiese","C":["n","bio"],"d":"la produi de selulas de sangue e trombosites, cual aveni en la medulas de la osos","en":"hematopoiesis|haematopoiesis, hemopoiesis|haemopoiesis (biology)"}
 {"L":"ematopoiesal","C":["a"],"en":"hematopoietic|haematopoietic, hemopoietic|haemopoietic"}
@@ -9155,7 +9155,7 @@
 {"L":"ematoxilo de Campetxe","C":["n","pla"],"t":"Haematoxylum campechianum","en":"logwood, bluewood, blackwood, campeachy wood"}
 {"T":"r","L":"ematozon","C":["n"],"d":"un parasito cual vive en sangue","en":"hematozoon|ae (pl. hematozoa|ae) (organism)"}
 {"T":"r","L":"ematuria","C":["n","med"],"d":"la presentia de sangue en urina","en":"hematuria|ae (medical)"}
-{"T":"r","L":"embarasa","C":["vt","uma"],"d":"fa ce (algun) senti torpe, autoconsensa o vergoniosa","en":"embarrass, mortify"}
+{"T":"r","L":"embarasa","C":["vt","uma"],"d":"fa ce (algun) senti torpe, autoconsensa o vergoniosa","en":"embarrass, mortify","fr":"embarrasser"}
 {"L":"embarasa","C":["n"],"da":"forlegenhed","de":"Verlegenheit","en":"embarrassment, chagrin","es":"verguenza, desconcierto, turbación, embarazo, apuro, aprieto"}
 {"L":"embarasada","C":["a"],"en":"embarrassed, sheepish"}
 {"L":"embarasante","C":["a"],"en":"embarrassing"}
@@ -9166,32 +9166,32 @@
 {"T":"r","L":"embiotero","C":["n","ins"],"d":"un inseto tropical o sutropical, capas de produi seda de sua gamas fronte per crea un pox per abita","t":"Embioptera","en":"webspinner"}
 {"T":"r","L":"embolo","C":["n","med"],"d":"un trombo, bola de aira o simil cual bloci un arteria","en":"embolus (medical)"}
 {"L":"embolia","C":["n","med"],"d":"un bloci de un arteria par un embolo","en":"embolism"}
-{"T":"r","L":"embosce","C":["vt","gov"],"d":"espeta ascondeda e ataca surprendente","en":"ambush, waylay"}
+{"T":"r","L":"embosce","C":["vt","gov"],"d":"espeta ascondeda e ataca surprendente","en":"ambush, waylay","fr":"être en embuscade"}
 {"L":"embosce","C":["n"],"en":"ambush"}
 {"L":"embosceda","C":["a"],"en":"ambushed, waylaid"}
-{"T":"r","L":"embraje","C":["n","util","vec"],"d":"un aparato per lia e deslia un motor e un engranador","en":"clutch (mechanism)"}
+{"T":"r","L":"embraje","C":["n","util","vec"],"d":"un aparato per lia e deslia un motor e un engranador","en":"clutch (mechanism)","fr":"embrayage"}
 {"L":"desembraji","C":["vt"],"en":"declutch"}
-{"L":"embraji","C":["vt"],"en":"apply the clutch (to)"}
-{"T":"r","L":"embrio","C":["n","bio"],"d":"un enfante developante de cualce spesie, ante sua nase o emerji de ovo; un bebe umana ante sua nase, spesial en la oto semanas prima pos consepi, ante cuando tota organos developa; (en botanica) la parte de un seme cual va deveni un planta","i":"#","en":"embryo"}
+{"L":"embraji","C":["vt"],"en":"apply the clutch (to)","fr":"embrayer"}
+{"T":"r","L":"embrio","C":["n","bio"],"d":"un enfante developante de cualce spesie, ante sua nase o emerji de ovo; un bebe umana ante sua nase, spesial en la oto semanas prima pos consepi, ante cuando tota organos developa; (en botanica) la parte de un seme cual va deveni un planta","i":"#","en":"embryo","fr":"embryon"}
 {"L":"embrial","C":["a"],"en":"embryonic, embryonal"}
 {"T":"r","L":"embriolojia","C":["n","bio"],"d":"la ramo de biolojia e medica cual studia embrios e sua developa","en":"embryology"}
 {"L":"embriolojial","C":["a"],"en":"embryological"}
 {"L":"embriolojiste","C":["n"],"en":"embryologist"}
-{"T":"r","L":"embuto","C":["n","util"],"d":"un tubo cual es larga a supra e magra a su, usada per gida licuidas o polvos tra un abri peti; cualce strutur o caveta con forma embutin","i":"#","en":"funnel (for pouring); infundibulum"}
-{"L":"embuti","C":["vt"],"en":"funnel"}
+{"T":"r","L":"embuto","C":["n","util"],"d":"un tubo cual es larga a supra e magra a su, usada per gida licuidas o polvos tra un abri peti; cualce strutur o caveta con forma embutin","i":"#","en":"funnel (for pouring); infundibulum","fr":"entonnoir"}
+{"L":"embuti","C":["vt"],"en":"funnel","fr":"verser dans un entonnoir"}
 {"L":"embutin","C":["a"],"en":"funnel-like"}
 {"T":"r","L":"Emelia","C":["n","jeo","ist"],"d":"un rejion istorial de Italia norde, aora un parte de Emelia-Romagna","i":"#","en":"Emilia (Italian region)"}
 {"L":"emelian","C":["a","dem"],"en":"Emilian"}
 {"L":"emelian","C":["n"],"en":"Emilian"}
 {"T":"r","L":"emeri","C":["n","cim"],"d":"un spesie grisin negra de corindon conteninte osido de fero, tipal usada en forma moleda como un sustantia raspante","en":"emery"}
-{"T":"r","L":"emerji","C":["vnt"],"d":"deveni vidable par move a estra o a via de alga cosa; (un animal) sorti de un ovo, cocon o crisalida; (metafor) deveni evidente, importante o conoseda","en":"emerge, emanate, issue; surface; loom up; hatch"}
+{"T":"r","L":"emerji","C":["vnt"],"d":"deveni vidable par move a estra o a via de alga cosa; (un animal) sorti de un ovo, cocon o crisalida; (metafor) deveni evidente, importante o conoseda","en":"emerge, emanate, issue; surface; loom up; hatch","fr":"apparaitre, surgir"}
 {"L":"emerji","C":["vnt"],"en":"cause to emerge; bring to the surface; hatch"}
 {"L":"emerji","C":["n"],"en":"emergence, emanation"}
 {"L":"emerjinte","C":["a"],"en":"emerging, emergent"}
 {"L":"nova emerjinte","C":["a"],"en":"newly emergent, up-and-coming"}
 {"L":"reemerji","C":["vt"],"en":"re-emerge"}
 {"T":"r","L":"-emese","C":["sf","n","med"],"d":"vomiti","en":"-emesis (vomiting)"}
-{"T":"r","L":"emete","C":["vt","fis","cim"],"d":"produi e descarga (alga cosa, spesial gas o radioativia)","en":"emit, effuse, give off"}
+{"T":"r","L":"emete","C":["vt","fis","cim"],"d":"produi e descarga (alga cosa, spesial gas o radioativia)","en":"emit, effuse, give off","fr":"émettre"}
 {"L":"emete","C":["n"],"en":"emission, emanation"}
 {"L":"emetador","C":["n"],"en":"emitter; exhaust (system)"}
 {"T":"r","L":"emfisema","C":["n","med"],"d":"un maladia en cual la alveolos de la pulmones es danada e grandida, causante respira difisil","en":"emphysema (medical)"}
@@ -9200,7 +9200,7 @@
 {"L":"-emica","C":["sf","a","med"],"en":"-emic|ae"}
 {"T":"r","L":"emiplejia","C":["a"],"d":"un paralise de un lado de la corpo","en":"hemiplegia"}
 {"L":"emiplejica","C":["a"],"en":"hemiplegic"}
-{"T":"r","L":"emisfera","C":["n","mat","tera"],"d":"un dui de un sfera; un dui de la Tera, tipal o la parte norde e la parte sude como divideda par la ecuator, o la parte este o la parte ueste divideda par cualce linia entre la polos (per esemplo la mundos vea e nova); cada de la du partes, destra e sinistra, de la serebro","en":"hemisphere"}
+{"T":"r","L":"emisfera","C":["n","mat","tera"],"d":"un dui de un sfera; un dui de la Tera, tipal o la parte norde e la parte sude como divideda par la ecuator, o la parte este o la parte ueste divideda par cualce linia entre la polos (per esemplo la mundos vea e nova); cada de la du partes, destra e sinistra, de la serebro","en":"hemisphere","fr":"hémisphère"}
 {"T":"r","L":"emo","C":["c"],"d":"en mea opina","en":"IMO, IMHO"}
 {"T":"r","L":"emo-","C":["pf","tecn","med","bio"],"d":"sangue","en":"hemo-|ae (blood)"}
 {"T":"r","L":"emofilia","C":["n","med"],"d":"un state en cual la sangue no coagula bon, tal ce la sufror sangui grave an pos un feri minor","en":"hemophilia|ae"}
@@ -9212,10 +9212,10 @@
 {"T":"r","L":"emopatolojia","C":["n","med"],"d":"la studia e trata de la selulas ematopoiesal","en":"hemopathology|ae"}
 {"L":"emopatolojial","C":["a"],"en":"hemopathological|ae"}
 {"T":"r","L":"emoraje","C":["vt","med"],"d":"un perde de sangue de un duto sangual rompeda, spesial cuando grave","en":"hemorrhage|haemorrhage"}
-{"L":"emoraje","C":["n"],"en":"hemorrhage|haemorrhage"}
+{"L":"emoraje","C":["n"],"en":"hemorrhage|haemorrhage","fr":"hémorragie"}
 {"L":"emorajal","C":["a"],"en":"hemorrhagic|ae"}
-{"T":"r","L":"emoroide","C":["n","med"],"d":"un vena o grupo de venas inflada en la area anal","en":"hemorrhoid|ae"}
-{"T":"r","L":"emosia","C":["vt","uma"],"d":"afeta la sentis de (algun) par felisi, tristi, coleri, asusta, etc","en":"affect, move (emotionally)"}
+{"T":"r","L":"emoroide","C":["n","med"],"d":"un vena o grupo de venas inflada en la area anal","en":"hemorrhoid|ae","fr":"hémorroïde"}
+{"T":"r","L":"emosia","C":["vt","uma"],"d":"afeta la sentis de (algun) par felisi, tristi, coleri, asusta, etc","en":"affect, move (emotionally)","fr":"émouvoir"}
 {"L":"emosia","C":["n"],"en":"emotion, sentiment, emotiveness, emotivity"}
 {"L":"emosial","C":["a"],"en":"emotional"}
 {"L":"emosiante","C":["a"],"en":"moving, emotive"}
@@ -9230,7 +9230,7 @@
 {"L":"emostasal","C":["a"],"en":"hemostatic|ae"}
 {"T":"r","L":"emostasiolojia","C":["n","med"],"en":"hemostasiology|ae"}
 {"T":"r","L":"emotoxina","C":["n","bio"],"d":"un toxina cual afeta la sangue","en":"hemotoxin|ae"}
-{"T":"r","L":"empapa","C":["vt"],"d":"pone (un cosa) en un licuida cual lo va asorbe partal; (metafor) ensenia un dogma a (algun)","en":"soak, drench, waterlog, macerate; indoctrinate"}
+{"T":"r","L":"empapa","C":["vt"],"d":"pone (un cosa) en un licuida cual lo va asorbe partal; (metafor) ensenia un dogma a (algun)","en":"soak, drench, waterlog, macerate; indoctrinate","fr":"tremper, macérer"}
 {"L":"empapa","C":["n"],"en":"soaking, drenching, maceration; indoctrination"}
 {"L":"empapada","C":["a"],"en":"soaked, drenched, sodden, soggy"}
 {"T":"r","L":"empatia","C":["vt","uma"],"d":"comprende e comparti la emosias de (un otra person)","en":"empathize|is with"}
@@ -9243,7 +9243,7 @@
 {"L":"empiricalia","C":["n"],"en":"objectivity"}
 {"L":"empiricalisme","C":["n"],"en":"empiricism"}
 {"L":"empiricaliste","C":["n"],"en":"empiricist"}
-{"T":"r","L":"emplea","C":["vt","mone"],"d":"furni labora a (algun) e paia a el per lo","en":"employ (person), hire"}
+{"T":"r","L":"emplea","C":["vt","mone"],"d":"furni labora a (algun) e paia a el per lo","en":"employ (person), hire","fr":"employer (une personne)"}
 {"L":"emplea","C":["n"],"da":"arbejde, stilling, job, beskæftigelse","de":"Job","en":"employment, job","es":"trabajo, tarea, faena, empleo, ocupación"}
 {"L":"emplea a stranjer","C":["v"],"en":"outsource"}
 {"L":"emplea a stranjer","C":["n"],"en":"outsourcing"}
@@ -9256,28 +9256,28 @@
 {"L":"empleable","C":["a"],"en":"employable"}
 {"L":"empleablia","C":["n"],"en":"employability"}
 {"L":"empleada","C":["a"],"en":"employed"}
-{"L":"empleada","C":["n"],"en":"employee, hireling, staffer"}
+{"L":"empleada","C":["n"],"en":"employee, hireling, staffer","fr":"employé"}
 {"L":"empleada tempora","C":["n"],"en":"temporary employee, temp"}
 {"L":"empleadas","C":["n","pl"],"en":"employees, staff, personnel"}
-{"L":"empleor","C":["n"],"en":"employer, boss"}
+{"L":"empleor","C":["n"],"en":"employer, boss","fr":"employé"}
 {"L":"nonemplea","C":["n"],"en":"unemployment"}
 {"L":"nonempleada","C":["a"],"en":"unemployed, jobless"}
-{"T":"r","L":"emporta","C":["vt","mone","gov"],"d":"(un nasion) trae (un ben o servi) de un otra nasion per vende interna; introdui (un idea) de un loca o contesto diferente; (en informatica) usa (datos) produida par un otra program","en":"import"}
+{"T":"r","L":"emporta","C":["vt","mone","gov"],"d":"(un nasion) trae (un ben o servi) de un otra nasion per vende interna; introdui (un idea) de un loca o contesto diferente; (en informatica) usa (datos) produida par un otra program","en":"import","fr":"importer"}
 {"L":"emporta","C":["n"],"en":"importation"}
 {"L":"emporta nonlegal","C":["v"],"en":"import illegally, bootleg"}
 {"L":"emportor","C":["n"],"en":"importer"}
-{"T":"r","L":"emprende","C":["vt","mone","gov"],"d":"dedica se a (un taxe o encarga) e comensa lo","en":"undertake, take on, take over"}
+{"T":"r","L":"emprende","C":["vt","mone","gov"],"d":"dedica se a (un taxe o encarga) e comensa lo","en":"undertake, take on, take over","fr":"entreprendre"}
 {"L":"emprende","C":["n"],"en":"undertaking, venture, enterprise (project)"}
-{"L":"emprendor","C":["n"],"en":"entrepreneur"}
-{"T":"r","L":"empresta","C":["vt","mone"],"d":"prende e usa (un cosa cual parteni a un otra person) con intende de redona lo a pos; prende e usa (mone) de un person o banco, con acorda ce on va repaia lo","da":"låne (fra)","de":"borgen","en":"borrow","es":"pedir prestado, tomar prestado, solicitar en prestamo"}
+{"L":"emprendor","C":["n"],"en":"entrepreneur","fr":"entrepreneur"}
+{"T":"r","L":"empresta","C":["vt","mone"],"d":"prende e usa (un cosa cual parteni a un otra person) con intende de redona lo a pos; prende e usa (mone) de un person o banco, con acorda ce on va repaia lo","da":"låne (fra)","de":"borgen","en":"borrow","es":"pedir prestado, tomar prestado, solicitar en prestamo","fr":"emprunter"}
 {"L":"emprestor","C":["n"],"en":"borrower"}
-{"T":"r","L":"emu","C":["n","avia"],"d":"un avia grande de Australia, capas de core rapida ma no de vola, simil a un astruzo","i":"#","t":"Dromaius novaehollandiae","en":"emu (bird)"}
-{"T":"r","L":"emulsion","C":["n","cim"],"d":"un sperde de gotas pico de un licuida en un otra en cual lo no es disolvable o miscable","en":"emulsion"}
+{"T":"r","L":"emu","C":["n","avia"],"d":"un avia grande de Australia, capas de core rapida ma no de vola, simil a un astruzo","i":"#","t":"Dromaius novaehollandiae","en":"emu (bird)","fr":"émeu"}
+{"T":"r","L":"emulsion","C":["n","cim"],"d":"un sperde de gotas pico de un licuida en un otra en cual lo no es disolvable o miscable","en":"emulsion","fr":"émulsion"}
 {"L":"emulsioni","C":["vnt"],"en":"emulsify"}
-{"L":"emulsioni","C":["vt"],"en":"emulsify"}
-{"T":"r","L":"en","C":["prep"],"d":"a interna de; esente (o parente es) encluida o ensircada par","g":"preposadas#en","u":"mea cor es en mea peto; ideas en la mente; nos es en peril; nos es en acorda; vive en felisia; los senta en un sirculo","da":"ind, inde, inden for","de":"in","en":"in (a place or condition), inside, within","eo":"en","es":"en, dentro de"}
+{"L":"emulsioni","C":["vt"],"en":"emulsify","fr":"émulsionner"}
+{"T":"r","L":"en","C":["prep"],"d":"a interna de; esente (o parente es) encluida o ensircada par","g":"preposadas#en","u":"mea cor es en mea peto; ideas en la mente; nos es en peril; nos es en acorda; vive en felisia; los senta en un sirculo","da":"ind, inde, inden for","de":"in","en":"in (a place or condition), inside, within","eo":"en","es":"en, dentro de","fr":"dans"}
 {"T":"s","d":"entrante a","u":"el ia cade en la rio","en":"(moving) into","eo":"en -n"}
-{"T":"s","d":"pos la comensa e ante la fini de (un aveni o situa)","u":"en la note; en febrero; en 1770; el ia scrive la libro en sola tre semanas; el ia spende du anios en scrive la prefas","v":"cuando","da":"mens, medens, under","de":"in, während","en":"in, during (a period of time)","eo":"dum","es":"en, durante"}
+{"T":"s","d":"pos la comensa e ante la fini de (un aveni o situa)","u":"en la note; en febrero; en 1770; el ia scrive la libro en sola tre semanas; el ia spende du anios en scrive la prefas","v":"cuando","da":"mens, medens, under","de":"in, während","en":"in, during (a period of time)","eo":"dum","es":"en, durante","fr":"en, pendant"}
 {"T":"s","d":"espresada o fada par usa (un lingua, media o modo)","u":"un jornal en franses; parla en modo aidosa","en":"in (a language, medium or manner)","eo":"en, per"}
 {"L":"a en","C":["prep"],"en":"into"}
 {"L":"a en","C":["av"],"en":"within, inside, herein"}
@@ -9288,7 +9288,7 @@
 {"T":"r","L":"-en","C":["sf","n","cim"],"d":"idrocarbono nonsaturada","en":"-ene (chemistry)"}
 {"T":"r","L":"enaira","C":["vnt","vec"],"d":"comensa vola","en":"take off, lift off, blast off"}
 {"L":"enaira","C":["n"],"en":"take-off, lift-off, blast-off"}
-{"T":"r","L":"enama","C":["vt","uma"],"d":"(un person) fa ce (algun) comensa ama el","en":"enamor|ur, infatuate, win the love of, cause to fall in love"}
+{"T":"r","L":"enama","C":["vt","uma"],"d":"(un person) fa ce (algun) comensa ama el","en":"enamor|ur, infatuate, win the love of, cause to fall in love","fr":"rendre amoureux, charmer"}
 {"L":"enama","C":["n"],"en":"infatuation"}
 {"L":"desenama","C":["vt"],"en":"disenamor|ur, cause to fall out of love"}
 {"L":"desenamada","C":["a"],"en":"disenamored|ur"}
@@ -9296,10 +9296,10 @@
 {"L":"deveni enamada par","C":["v"],"en":"fall in love with"}
 {"L":"enamada","C":["a"],"en":"enamored|ur, infatuated, in love, moonstruck, smitten"}
 {"L":"es desenamada par","C":["v"],"en":"be disenamored|ur with"}
-{"L":"es enamada par","C":["v"],"en":"be enamored|ur with"}
+{"L":"es enamada par","C":["v"],"en":"be enamored|ur with","fr":"être amoureux de"}
 {"T":"r","L":"encalia","C":["vnt","vec"],"d":"(un barco, viajor o animal) deveni trapida a un plaia sin modo de sorti","en":"wash up, run aground, become beached, become stranded, become marooned"}
 {"L":"encalia","C":["vt"],"en":"beach, strand, maroon"}
-{"T":"r","L":"encanta","C":["vt","mit"],"d":"deleta forte (algun); influe o controla (algun) par deleta el","en":"enchant, bewitch, beguile, cast a spell, captivate, charm, enrapture, ravish, jinx, transfix"}
+{"T":"r","L":"encanta","C":["vt","mit"],"d":"deleta forte (algun); influe o controla (algun) par deleta el","en":"enchant, bewitch, beguile, cast a spell, captivate, charm, enrapture, ravish, jinx, transfix","fr":"enchanter, jeter un sort"}
 {"L":"encanta","C":["n"],"en":"spell, incantation, enchantment, charm, jinx, juju"}
 {"L":"desencanta","C":["vt"],"en":"disenchant"}
 {"L":"desencanta","C":["n"],"en":"disenchantment"}
@@ -9307,7 +9307,7 @@
 {"L":"encantada","C":["esc"],"en":"pleased to meet you"}
 {"L":"encantante","C":["a"],"en":"charming, engaging; gorgeous, breathtaking, ravishing"}
 {"L":"encantor","C":["n"],"en":"charmer, enchanter, enchantress"}
-{"T":"r","L":"encarga","C":["vt","gov"],"d":"demanda o comanda ce (algun) emprende un rol o taxe per cual el va es culpable si el fali","u":"encarga algun a/con solve la problem","en":"commission, order, entrust, charge, deputize|is"}
+{"T":"r","L":"encarga","C":["vt","gov"],"d":"demanda o comanda ce (algun) emprende un rol o taxe per cual el va es culpable si el fali","u":"encarga algun a/con solve la problem","en":"commission, order, entrust, charge, deputize|is","fr":"charger (quelqu'un d'une tâche), commissionner"}
 {"L":"encarga","C":["n"],"da":"ansvar","de":"Verantwortung","en":"commission, order, responsibility, onus","es":"responsabilidad, obligación, deuda, deber"}
 {"L":"coencargada","C":["a"],"en":"collegial, with shared responsibility"}
 {"L":"encargable","C":["a"],"en":"responsible (trustworthy)"}
@@ -9315,9 +9315,9 @@
 {"L":"encargada","C":["a"],"en":"entrusted, responsible, accountable, answerable, in charge"}
 {"L":"encargada","C":["n"],"en":"commission (authorized|is group); deputy"}
 {"T":"r","L":"encefalina","C":["n","bio","cim"],"d":"cada de du composadas cual esiste natural en la serebro, relatada a la endorfinas con efetos simil","en":"enkephalin (biology)"}
-{"T":"r","L":"enclave","C":["n","gov"],"d":"un area o rejion ensircada par un teritorio plu grande, de cual sua abitores es distinguida par cultur, relijio, lingua o etnico; cualce loca o grupo cual difere de los cual ensirca lo","en":"enclave"}
-{"T":"r","L":"enclui","C":["vt"],"d":"ensirca a tota lados; restrinje (algun) par pone el en un sala cluida; separa (un comunia) de la mundo esterna","en":"enclose, shut in, encapsulate, encase"}
-{"T":"r","L":"encontra","C":["vt"],"d":"veni a la presentia o acompania de (algun), en modo acaso o organizada; (du cosas) deveni tocante lunlotra","da":"møde","de":"treffen","en":"meet, encounter, come across, hook up with","es":"encontrarse, reunirse, cruzarse con uno"}
+{"T":"r","L":"enclave","C":["n","gov"],"d":"un area o rejion ensircada par un teritorio plu grande, de cual sua abitores es distinguida par cultur, relijio, lingua o etnico; cualce loca o grupo cual difere de los cual ensirca lo","en":"enclave","fr":"enclave"}
+{"T":"r","L":"enclui","C":["vt"],"d":"ensirca a tota lados; restrinje (algun) par pone el en un sala cluida; separa (un comunia) de la mundo esterna","en":"enclose, shut in, encapsulate, encase","fr":"enfermer"}
+{"T":"r","L":"encontra","C":["vt"],"d":"veni a la presentia o acompania de (algun), en modo acaso o organizada; (du cosas) deveni tocante lunlotra","da":"møde","de":"treffen","en":"meet, encounter, come across, hook up with","es":"encontrarse, reunirse, cruzarse con uno","fr":"rencontrer"}
 {"L":"encontra","C":["n"],"en":"meeting, date, appointment, rendezvous, encounter; briefing, assignation; session (therapy, music); match (sport)"}
 {"L":"encontra acaso","C":["v"],"en":"stumble upon"}
 {"L":"encontra acaso","C":["n"],"en":"chance encounter"}
@@ -9349,19 +9349,19 @@
 {"T":"r","L":"endostilo","C":["n","bio"],"d":"(en alga animales primitiva, como lampreas) un ranur con silios a la mur ventral de la farinje, cual produi muco per colie particulas de nurintes","en":"endostyle (anatomy)"}
 {"T":"r","L":"endotelio","C":["n","bio","anat"],"d":"la texeda cual formi un strato de selulas forente multe organos e cavetas de corpo, spesial la cor, la dutos sangual e la dutos limfal","en":"endothelium (anatomy)"}
 {"T":"r","L":"enea-","C":["pf","mat"],"d":"nove","en":"ennea-"}
-{"T":"r","L":"enebria","C":["vt","bio","uma"],"d":"(un droga o alcol) fa ce (algun) perde controla de sua condui e capasias","i":"#","en":"intoxicate, inebriate"}
+{"T":"r","L":"enebria","C":["vt","bio","uma"],"d":"(un droga o alcol) fa ce (algun) perde controla de sua condui e capasias","i":"#","en":"intoxicate, inebriate","fr":"souler"}
 {"L":"enebria","C":["n"],"en":"intoxication, inebriation, drunkenness"}
-{"L":"enebriada","C":["a"],"en":"intoxicated, inebriated, drunk, drunken, tipsy"}
+{"L":"enebriada","C":["a"],"en":"intoxicated, inebriated, drunk, drunken, tipsy","fr":"ivre"}
 {"L":"enebriada","C":["n"],"en":"drunk, drunkard"}
 {"L":"enebriante","C":["a"],"en":"intoxicating, inebriating"}
 {"L":"enebriante","C":["n"],"en":"intoxicant"}
 {"L":"posenebria","C":["n"],"en":"hangover"}
 {"T":"r","L":"Eneida","C":["n","arte"],"d":"un poesia epica en latina, en dudes libros, par Vergilio, cual raconta la viajas de Enea pos la defeta de Troia","p":"eneïda","en":"Aeneid (poem)"}
 {"T":"r","L":"enema","C":["n","med"],"d":"un trata medical en cual licuida o gas es injetada en la reto, tipal per aida feci, ma ance per introdui drogas o permete radiografi","en":"enema"}
-{"T":"r","L":"enemi","C":["n","gov"],"d":"un person o persones ci oposa o ataca un person o cosa","p":"enemí","da":"fjende","de":"Feind","en":"enemy, adversary, foe","es":"enemigo"}
+{"T":"r","L":"enemi","C":["n","gov"],"d":"un person o persones ci oposa o ataca un person o cosa","p":"enemí","da":"fjende","de":"Feind","en":"enemy, adversary, foe","es":"enemigo","fr":"ennemi"}
 {"L":"enemia","C":["n"],"en":"hostility (quality), enmity, malignity, acrimony"}
-{"L":"enemin","C":["a"],"en":"hostile, adverse, belligerent, antagonistic, inimical"}
-{"T":"r","L":"enerjia","C":["n","fis"],"d":"la fortia nesesada per ativia fisical o mental; la potia derivada de recursos fisical o cimical, usada per furni lus o caldia o per opera macinas; (en fisica) la cualia de materia e radia cual mostra se como la capasia de fa labora; la grado o nivel de esta poseseda par alga cosa o nesesada per un prosede","da":"energi","de":"Energie","en":"energy, power; verve, vigor|ur, pep","es":"energía"}
+{"L":"enemin","C":["a"],"en":"hostile, adverse, belligerent, antagonistic, inimical","fr":"hostile"}
+{"T":"r","L":"enerjia","C":["n","fis"],"d":"la fortia nesesada per ativia fisical o mental; la potia derivada de recursos fisical o cimical, usada per furni lus o caldia o per opera macinas; (en fisica) la cualia de materia e radia cual mostra se como la capasia de fa labora; la grado o nivel de esta poseseda par alga cosa o nesesada per un prosede","da":"energi","de":"Energie","en":"energy, power; verve, vigor|ur, pep","es":"energía","fr":"énergie"}
 {"L":"desenerji","C":["vt"],"en":"de-energize|is, enervate"}
 {"L":"desenerji","C":["n"],"en":"enervation"}
 {"L":"enerji","C":["vt"],"en":"energize|is, vitalize|is"}
@@ -9372,7 +9372,7 @@
 {"T":"r","L":"enets","C":["a","dem"],"d":"pertinente a un popla de Sibir norde ci es pastores de renos, o a sua lingua","en":"Enets"}
 {"L":"enets","C":["n"],"en":"Enets (person, language)"}
 {"T":"r","L":"enfante","C":["a","bio","uma"],"en":"child"}
-{"L":"enfante","C":["n"],"d":"un umana joven e sesal nonmatur; un animal sesal nonmatur; un fia o fio","i":"#","da":"barn","de":"Kind","en":"child, kid, kiddie, kiddy, bairn, tyke","es":"niño, niña, hijo, hija"}
+{"L":"enfante","C":["n"],"d":"un umana joven e sesal nonmatur; un animal sesal nonmatur; un fia o fio","i":"#","da":"barn","de":"Kind","en":"child, kid, kiddie, kiddy, bairn, tyke","es":"niño, niña, hijo, hija","fr":"enfant"}
 {"L":"enfante con clave","C":["n"],"en":"latchkey child"}
 {"L":"enfante de sinco anios","C":["n"],"en":"five-year-old child, five-year-old"}
 {"L":"enfante misera","C":["n"],"en":"urchin, guttersnipe"}
@@ -9386,12 +9386,12 @@
 {"T":"r","L":"enfantiside","C":["vt","gov"],"d":"mata (un enfante)","en":"commit infanticide"}
 {"L":"enfantiside","C":["n"],"en":"infanticide (action)"}
 {"L":"enfantisidor","C":["n"],"en":"infanticide (person)"}
-{"T":"r","L":"enferno","C":["n","rel","mit"],"d":"(en alga relijios) un loca spirital do persones mal es punida pos mori","da":"helvede","de":"Hölle","en":"hell, hellfire, inferno, perdition, underworld","es":"infierno"}
+{"T":"r","L":"enferno","C":["n","rel","mit"],"d":"(en alga relijios) un loca spirital do persones mal es punida pos mori","da":"helvede","de":"Hölle","en":"hell, hellfire, inferno, perdition, underworld","es":"infierno","fr":"enfer"}
 {"L":"enfernal","C":["a"],"en":"infernal"}
 {"L":"enfernin","C":["a"],"en":"hellish, damned, damn, blasted, bloody"}
-{"T":"r","L":"enflue","C":["vnt"],"d":"flue a en; (datos o testo) entra a un computador","en":"flow in"}
+{"T":"r","L":"enflue","C":["vnt"],"d":"flue a en; (datos o testo) entra a un computador","en":"flow in","fr":"s'écouler (vers l'intérieur), se jeter"}
 {"L":"enflue","C":["vt"],"en":"input"}
-{"L":"enflue","C":["n"],"en":"inflow, influx, input, intake; flow (tide)"}
+{"L":"enflue","C":["n"],"en":"inflow, influx, input, intake; flow (tide)","fr":"influx, flux (de la marée)"}
 {"T":"r","L":"enforsa","C":["vt","gov"],"d":"forsa la obedi de (un lege, regula o obliga)","en":"enforce, apply, implement, bring to bear"}
 {"L":"enforsa","C":["n"],"en":"enforcement, application, implementation"}
 {"L":"enforsable","C":["a"],"en":"enforceable"}
@@ -9400,7 +9400,7 @@
 {"L":"enforsor de corte","C":["n"],"en":"bailiff"}
 {"L":"nonenforsable","C":["a"],"en":"unenforceable"}
 {"L":"reenforsa","C":["vt"],"en":"re-enforce"}
-{"T":"r","L":"engana","C":["vt","uma"],"d":"fa ce (algun) crede alga cosa cual no es vera, tipal per ateni un vantaje personal","en":"deceive, hoax, bluff, bilk, trick, inveigle, delude"}
+{"T":"r","L":"engana","C":["vt","uma"],"d":"fa ce (algun) crede alga cosa cual no es vera, tipal per ateni un vantaje personal","en":"deceive, hoax, bluff, bilk, trick, inveigle, delude","fr":"tromper, duper"}
 {"L":"engana","C":["n"],"en":"deception, subterfuge, hoax, bluff, bunco, deceit, delusion, duplicity, con, feint, humbug, setup, skulduggery, wile"}
 {"L":"engana sposal","C":["n"],"en":"cuckoldry"}
 {"L":"enganosa","C":["a"],"en":"deceitful, deceptive, duplicitous, devious, sneaky, underhanded, deceitful, duplicitous, illusive"}
@@ -9414,10 +9414,10 @@
 {"L":"englesi","C":["vt"],"en":"anglicize|is"}
 {"L":"englesi","C":["n"],"en":"anglicization|is"}
 {"L":"englesisme","C":["n"],"en":"anglicism"}
-{"T":"r","L":"engoli","C":["vt"],"d":"permete ce (un comeda, bevida o simil) desende la garga; (un sustantia o forte) covre o enclui completa (un person o cosa)","da":"synke, sluge","de":"schlucken","en":"swallow, gulp, guzzle, scoff, swig, swill; engulf, envelop","es":"tragar, engullir, deglutir"}
+{"T":"r","L":"engoli","C":["vt"],"d":"permete ce (un comeda, bevida o simil) desende la garga; (un sustantia o forte) covre o enclui completa (un person o cosa)","da":"synke, sluge","de":"schlucken","en":"swallow, gulp, guzzle, scoff, swig, swill; engulf, envelop","es":"tragar, engullir, deglutir","fr":"avaler"}
 {"T":"r","L":"engrana","C":["vnt","util","vec"],"d":"(piniones) interlia per move un macina o veculo; entra a un combate o batalia","i":"#","en":"engage (gear, enemy)"}
-{"L":"engrana","C":["vt"],"en":"engage (gear, enemy)"}
-{"L":"engrana","C":["n"],"da":"tandhjul","de":"Zahnrad","en":"engagement (gear, combat); gear (setting)","es":"engranaje, engrane"}
+{"L":"engrana","C":["vt"],"en":"engage (gear, enemy)","fr":"engager (le combat, les vitesses d'un moteur)"}
+{"L":"engrana","C":["n"],"da":"tandhjul","de":"Zahnrad","en":"engagement (gear, combat); gear (setting)","es":"engranaje, engrane","fr":"engagement; vitesse (de moteur)"}
 {"L":"engrana de avansa","C":["n"],"en":"drive, forward gear"}
 {"L":"engrana de retira","C":["n"],"en":"reverse, reverse gear"}
 {"L":"engrana mor","C":["n"],"en":"neutral (gear)"}
@@ -9427,21 +9427,21 @@
 {"L":"desengrana","C":["n"],"en":"disengagement"}
 {"L":"engranada","C":["a"],"en":"engaged (gear)"}
 {"L":"engranada a cuatro rotas","C":["n"],"en":"four-wheel drive, all-wheel drive, four-by-four"}
-{"L":"engranador","C":["n"],"en":"gearbox, transmission"}
+{"L":"engranador","C":["n"],"en":"gearbox, transmission","fr":"boite à vitesse"}
 {"L":"supraengrana","C":["n"],"en":"overdrive"}
 {"T":"r","L":"enigma","C":["n","fil"],"d":"un person o cosa misteriosa o difisil per comprende","ca":"endevinalla","en":"enigma, conundrum, puzzle","es":"adivinanza","fr":"énigme","it":"enigma","pt":"enigma"}
 {"L":"enigmosa","C":["a"],"en":"enigmatic"}
-{"T":"r","L":"enlinia","C":["a","info"],"d":"liada a un computador o rede de computadores; (un servi o ata) disponable o fada en la interede","en":"online"}
-{"T":"r","L":"enorme","C":["a"],"d":"con estracomun multe grandia, cuantia o estende","da":"stor, enorm, gigantisk","de":"ungeheuer, riesig","en":"enormous, giant, huge, vast, immense, colossal, tremendous, prodigious, terrific","es":"enorme, inmenso, gigantesco"}
+{"T":"r","L":"enlinia","C":["a","info"],"d":"liada a un computador o rede de computadores; (un servi o ata) disponable o fada en la interede","en":"online","fr":"en ligne"}
+{"T":"r","L":"enorme","C":["a"],"d":"con estracomun multe grandia, cuantia o estende","da":"stor, enorm, gigantisk","de":"ungeheuer, riesig","en":"enormous, giant, huge, vast, immense, colossal, tremendous, prodigious, terrific","es":"enorme, inmenso, gigantesco","fr":"énorme"}
 {"L":"enorme","C":["av"],"en":"enormously, hugely, vastly"}
 {"L":"enormia","C":["n"],"en":"vastness, enormity, immensity, bulk"}
 {"T":"r","L":"enotera","C":["n","pla"],"d":"un planta con flores jala cual abri en la sera e produi semes de cual on pote estrae un olio medical","i":"#","t":"Oenothera","en":"evening primrose"}
-{"T":"r","L":"enrola","C":["vnt","util"],"d":"move en un curso torsente o spiral; fa ce (un aparato, tipal un orolojo) funsiona par turna un clave o manico; move se a un posa curva e comfortosa","en":"wind, coil, wind up (mechanism); furl; curl up, snuggle"}
+{"T":"r","L":"enrola","C":["vnt","util"],"d":"move en un curso torsente o spiral; fa ce (un aparato, tipal un orolojo) funsiona par turna un clave o manico; move se a un posa curva e comfortosa","en":"wind, coil, wind up (mechanism); furl; curl up, snuggle","fr":"s'enrouler"}
 {"L":"desenrola","C":["vnt"],"en":"unroll, unwind, uncoil, unfurl"}
 {"L":"enrola","C":["n"],"en":"roll; coil, skein"}
 {"L":"enrola de piano","C":["n"],"d":"un enrola de paper perforada cual controla la moves de la teclas en un piano automata","en":"piano roll"}
 {"L":"enrolador","C":["n"],"en":"winch, capstan, windlass"}
-{"T":"r","L":"enscrive","C":["vt","arte","ist"],"d":"scrive o siseli (parolas o simboles) sur alga cosa, spesial como un arcivo formal o permanente; organiza, par paia a ante, ce (algun) va reseta periodal un jornal o simil; rejistra (algun) per partisipa en alga cosa, spesial per deveni un soldato, un membro de un instituida, o un studiante en un curso","en":"inscribe, subscribe, register (for activity), enlist, enroll|enrol, empanel, impanel, recruit, matriculate"}
+{"T":"r","L":"enscrive","C":["vt","arte","ist"],"d":"scrive o siseli (parolas o simboles) sur alga cosa, spesial como un arcivo formal o permanente; organiza, par paia a ante, ce (algun) va reseta periodal un jornal o simil; rejistra (algun) per partisipa en alga cosa, spesial per deveni un soldato, un membro de un instituida, o un studiante en un curso","en":"inscribe, subscribe, register (for activity), enlist, enroll|enrol, empanel, impanel, recruit, matriculate","fr":"inscrire"}
 {"L":"enscrive","C":["n"],"en":"inscription, subscription, sub, registration, enlistment, enrollment|enrolment, conscription"}
 {"L":"enscrive su direto de autor","C":["v"],"en":"copyright"}
 {"L":"enscrive de tomba","C":["n"],"en":"epitaph"}
@@ -9459,8 +9459,8 @@
 {"T":"r","L":"ensefalomielite","C":["n","med"],"d":"un inflama de la serebro e medula spinal, tipal causada par un virus","en":"encephalomyelitis"}
 {"T":"r","L":"ensela","C":["vt","util"],"d":"pone un sela sur (un cavalo o otra animal)","en":"saddle"}
 {"L":"desensela","C":["vt"],"en":"unsaddle"}
-{"T":"r","L":"ensende","C":["vnt","util"],"d":"comensa arde; (un fusil) comensa xuta; (un lampa) comensa lumina","en":"catch fire, light, ignite, kindle; fire (gun); turn on (light, person)"}
-{"L":"ensende","C":["vt"],"en":"set fire to, light, ignite, kindle; fire (gun); turn on (light, person)"}
+{"T":"r","L":"ensende","C":["vnt","util"],"d":"comensa arde; (un fusil) comensa xuta; (un lampa) comensa lumina","en":"catch fire, light, ignite, kindle; fire (gun); turn on (light, person)","fr":"s'allumer (feu, lumière)"}
+{"L":"ensende","C":["vt"],"en":"set fire to, light, ignite, kindle; fire (gun); turn on (light, person)","fr":"allumer (feu, lumière)"}
 {"L":"ensende","C":["n"],"en":"ignition"}
 {"L":"ensende criminal","C":["n"],"en":"arson"}
 {"L":"ensendador","C":["n"],"en":"lighter"}
@@ -9471,20 +9471,20 @@
 {"L":"malensende","C":["vnt"],"en":"misfire (gun)"}
 {"L":"malensende","C":["vt"],"en":"misfire (gun)"}
 {"L":"reensende","C":["vt"],"en":"reignite"}
-{"T":"r","L":"ensenia","C":["vt","uma","fil"],"d":"mostra o esplica (alga cosa) a algun; dona informa sur (un capasia o sujeto) a algun","u":"ensenia a enfantes; ensenia la regulas a algun","v":"instrui","en":"teach (a subject)"}
+{"T":"r","L":"ensenia","C":["vt","uma","fil"],"d":"mostra o esplica (alga cosa) a algun; dona informa sur (un capasia o sujeto) a algun","u":"ensenia a enfantes; ensenia la regulas a algun","v":"instrui","en":"teach (a subject)","fr":"enseigner (une matière)"}
 {"L":"ensenior","C":["n"],"en":"teacher, lecturer, pedagog|ue, schoolteacher, schoolmaster, schoolmistress"}
 {"L":"ensenior privata","C":["n"],"en":"tutor"}
 {"L":"ensenior xef","C":["n"],"en":"headteacher, headmaster, headmistress"}
 {"T":"r","L":"ensiclica","C":["a","rel"],"d":"pertinente a un letera de la pape enviada a tota bispos de la Eglesa Catolica Roman","en":"encyclical"}
 {"L":"ensiclica","C":["n"],"en":"encyclical"}
-{"T":"r","L":"ensiclopedia","C":["n","fil"],"d":"un libro o colie de libros con informa sur multe sujetos o multe partes de un sujeto, tipal alfabetal ordinada","en":"encyclopedia|ae"}
-{"T":"r","L":"ensinta","C":["a","bio"],"d":"(un fem o animal fema) con un feto developante en sua utero","i":"#","en":"pregnant, gravid"}
-{"L":"ensinti","C":["vnt"],"en":"become pregnant"}
-{"L":"ensinti","C":["vt"],"en":"impregnate"}
+{"T":"r","L":"ensiclopedia","C":["n","fil"],"d":"un libro o colie de libros con informa sur multe sujetos o multe partes de un sujeto, tipal alfabetal ordinada","en":"encyclopedia|ae","fr":"encyclopédie"}
+{"T":"r","L":"ensinta","C":["a","bio"],"d":"(un fem o animal fema) con un feto developante en sua utero","i":"#","en":"pregnant, gravid","fr":"enceinte"}
+{"L":"ensinti","C":["vnt"],"en":"become pregnant","fr":"tomber enceinte"}
+{"L":"ensinti","C":["vt"],"en":"impregnate","fr":"mettre enceinte"}
 {"L":"ensintia","C":["n"],"en":"pregnancy"}
 {"L":"ensintial","C":["a"],"en":"prenatal"}
-{"T":"r","L":"ensirca","C":["vt"],"d":"estende sirca tota lados de (un cosa); inclui; pone un mano, o cosa simil, sirca (un cosa)","en":"surround, encircle, enclose, frame, encompass, encapsulate, gird; cup (as with hands)"}
-{"L":"ensirca","C":["n"],"en":"enclosure, compound, stockade","es":"cerca, valla, vallado, cercado"}
+{"T":"r","L":"ensirca","C":["vt"],"d":"estende sirca tota lados de (un cosa); inclui; pone un mano, o cosa simil, sirca (un cosa)","en":"surround, encircle, enclose, frame, encompass, encapsulate, gird; cup (as with hands)","fr":"entourer, encercler"}
+{"L":"ensirca","C":["n"],"en":"enclosure, compound, stockade","es":"cerca, valla, vallado, cercado","fr":"enclos"}
 {"L":"ensirca de bebe","C":["n"],"i":"#","en":"playpen"}
 {"L":"ensirca de bestias","C":["n"],"i":"#","en":"pen, corral, bullpen, stockyard, run"}
 {"L":"ensirca de canes","C":["n"],"en":"dog pound, dog run"}
@@ -9495,11 +9495,11 @@
 {"L":"ensircada","C":["a"],"en":"surrounded"}
 {"L":"ensircada par tera","C":["a"],"en":"landlocked"}
 {"L":"ensircante","C":["a"],"en":"encircling, peripheral"}
-{"T":"r","L":"ensofla","C":["vt","bio"],"d":"suca (aira, un odor, un sustantia) tra la nas, tipal con un sona","en":"sniff, snort"}
+{"T":"r","L":"ensofla","C":["vt","bio"],"d":"suca (aira, un odor, un sustantia) tra la nas, tipal con un sona","en":"sniff, snort","fr":"renifler"}
 {"L":"ensofla","C":["n"],"en":"sniff, snort, insufflation"}
 {"L":"ensoflable","C":["a"],"en":"sniffable"}
 {"L":"ensoflable","C":["n"],"en":"snuff"}
-{"T":"r","L":"enspira","C":["vt","bio"],"d":"fa ce (aira, gas o fuma) entra a se par respira","en":"inhale, breathe in, toke"}
+{"T":"r","L":"enspira","C":["vt","bio"],"d":"fa ce (aira, gas o fuma) entra a se par respira","en":"inhale, breathe in, toke","fr":"inspirer, inhaler"}
 {"L":"enspira","C":["n"],"en":"inhalation"}
 {"L":"enspira subita","C":["v"],"en":"gasp"}
 {"L":"enspira subita","C":["n"],"en":"gasp"}
@@ -9510,7 +9510,7 @@
 {"T":"r","L":"entablamento","C":["n","arci"],"d":"un lintel continuante en un construida de stilo antica roman o elinica, suportada par colonas o un mur","i":"#","en":"entablature"}
 {"T":"r","L":"-ente","C":["sf","a"],"d":"ajuntada a un verbo per formi la partisipio ativa","n":"Esta varia de `-nte` es usada sola con la verbo `es`.","u":"esente","en":"-ing"}
 {"L":"-ente","C":["sf","n"],"en":"-ing"}
-{"T":"r","L":"entera","C":["vt","uma"],"d":"pone o asconde (un cosa) su la tera; pone (un corpo mor) en la tera, un tomba o la mar, tipal con rituos funeral","en":"bury, inter"}
+{"T":"r","L":"entera","C":["vt","uma"],"d":"pone o asconde (un cosa) su la tera; pone (un corpo mor) en la tera, un tomba o la mar, tipal con rituos funeral","en":"bury, inter","fr":"enterrer"}
 {"L":"entera","C":["n"],"en":"burial"}
 {"L":"desentera","C":["vt"],"en":"unearth, disinter, exhume, dig up"}
 {"L":"desentera","C":["n"],"en":"unearthing, exhumation"}
@@ -9520,8 +9520,8 @@
 {"T":"r","L":"entomolojia","C":["n","bio"],"d":"la ramo de zolojia cual studia insetos","en":"entomology"}
 {"L":"entomolojiste","C":["n"],"en":"entomologist"}
 {"T":"r","L":"entoprocto","C":["n"],"d":"un membro de un filo de animales acual, formida como copas con troncetas longa","i":"#","t":"Entoprocta","en":"entoproct (organism)"}
-{"T":"r","L":"entra","C":["vnt"],"d":"veni o vade a en (un loca); presenta sua identia per comensa usa un program o loca de rede","u":"entra a un sala; entra a un loca de rede","da":"gå ind","de":"hereinkommen","en":"enter, go in, come in; log in (software)","es":"entrar, penetrar, ingresar"}
-{"L":"entra","C":["vt"],"d":"fa o permete ce (un person o cosa) entra a un local; fa ce (datos) entra a un aparato","en":"admit (to place); enter, input"}
+{"T":"r","L":"entra","C":["vnt"],"d":"veni o vade a en (un loca); presenta sua identia per comensa usa un program o loca de rede","u":"entra a un sala; entra a un loca de rede","da":"gå ind","de":"hereinkommen","en":"enter, go in, come in; log in (software)","es":"entrar, penetrar, ingresar","fr":"entrer"}
+{"L":"entra","C":["vt"],"d":"fa o permete ce (un person o cosa) entra a un local; fa ce (datos) entra a un aparato","en":"admit, cause to enter, allow entry (to place); enter, input (data)"}
 {"L":"entra","C":["n"],"i":"#","en":"admission (to place), admittance; entrance, entry, entryway, ingress, check-in, threshold, concourse"}
 {"L":"entra par forsa","C":["v"],"en":"break in"}
 {"L":"entrada","C":["n"],"en":"entry (in list)"}
@@ -9529,7 +9529,7 @@
 {"L":"reentra","C":["vt"],"en":"readmit"}
 {"L":"reentra","C":["n"],"en":"re-entry; readmittance"}
 {"L":"suentrada","C":["n"],"en":"subentry (in list)"}
-{"T":"r","L":"entre","C":["prep"],"d":"a, en o tra la spasio o tempo cual separa (du o plu ojetos, areas o avenis)","g":"preposadas#entre","u":"viaja entre Paris e Madrid; comunica entre comunias; tu es entre amis; entre la geras mundal","da":"mellem, imellem, blandt","de":"zwischen","en":"between, among, amongst, amid, amidst, betwixt, twixt; within (a group)","eo":"inter","es":"entre, en medio de"}
+{"T":"r","L":"entre","C":["prep"],"d":"a, en o tra la spasio o tempo cual separa (du o plu ojetos, areas o avenis)","g":"preposadas#entre","u":"viaja entre Paris e Madrid; comunica entre comunias; tu es entre amis; entre la geras mundal","da":"mellem, imellem, blandt","de":"zwischen","en":"between, among, amongst, amid, amidst, betwixt, twixt; within (a group)","eo":"inter","es":"entre, en medio de","fr":"entre"}
 {"T":"s","d":"(un cuantia) divideda par (un otra)","u":"100 entre 4 es 25","en":"divided by, per, out of"}
 {"L":"entre-","C":["pf","tecn"],"d":"entre","en":"inter- (between)"}
 {"L":"entre cual","C":["esp"],"en":"between which, within which (relative)"}
@@ -9537,14 +9537,14 @@
 {"L":"a entre","C":["av"],"en":"in between"}
 {"T":"r","L":"entregama","C":["n","anat"],"d":"la parte de la corpo umana entre la gamas do los junta se a la tronco; la parte corespondente de un veste","en":"crotch, crutch"}
 {"T":"r","L":"entreseno","C":["n","anat"],"d":"la area entre la senos de un fem","i":"escota","en":"cleavage"}
-{"T":"r","L":"entretempo","C":["av"],"d":"en la periodo interveninte; en la mesma periodo (como un otra aveni ja descriveda)","en":"meanwhile, meantime, in the meantime, in the interim"}
+{"T":"r","L":"entretempo","C":["av"],"d":"en la periodo interveninte; en la mesma periodo (como un otra aveni ja descriveda)","en":"meanwhile, meantime, in the meantime, in the interim","fr":"entretemps"}
 {"T":"r","L":"entretexe","C":["vt","arte"],"d":"lia (cosas longa e magra, como filos, capeles, bandas o ditos) par texe los con lunlotra","i":"#","en":"interweave, interlace, interleave, interlock, intertwine, entwine, dovetail"}
 {"L":"entretexable","C":["a"],"en":"interlacing, interlocking"}
 {"L":"entretexeda","C":["a"],"en":"interwoven, interlaced"}
 {"T":"r","L":"entropia","C":["n","fis"],"d":"(en fisica) un mesura de la cuantia de enerjia cual no es disponable per fa labora; (metafor) un desende a desordina o acasia en un sistem","en":"entropy"}
 {"T":"r","L":"enurese","C":["n","med"],"d":"urini nonvolente, tipal par enfantes a note","en":"enuresis, bedwetting"}
-{"T":"r","L":"envelopa","C":["n","util"],"d":"un paper pliada e selable per conteni un letera o documento","i":"#","da":"kuvert","de":"Briefumschlag","en":"envelope","es":"sobre, cubierta, forro"}
-{"T":"r","L":"envia","C":["vt"],"d":"fa ce (un person o cosa) vade a un destina spesifada, incluinte par metodos eletronical","da":"sende, udsende","de":"senden","en":"send, dispatch, transmit, transfer, submit","es":"enviar, despachar, transmitir, remitir, expedir, lanzar"}
+{"T":"r","L":"envelopa","C":["n","util"],"d":"un paper pliada e selable per conteni un letera o documento","i":"#","da":"kuvert","de":"Briefumschlag","en":"envelope","es":"sobre, cubierta, forro","fr":"enveloppe"}
+{"T":"r","L":"envia","C":["vt"],"d":"fa ce (un person o cosa) vade a un destina spesifada, incluinte par metodos eletronical","da":"sende, udsende","de":"senden","en":"send, dispatch, transmit, transfer, submit","es":"enviar, despachar, transmitir, remitir, expedir, lanzar","fr":"envoyer"}
 {"L":"envia","C":["n"],"en":"transmission"}
 {"L":"envia a mar","C":["v"],"en":"launch (a ship)"}
 {"L":"envia a via","C":["v"],"en":"send away, send off, dismiss"}
@@ -9555,7 +9555,7 @@
 {"L":"nonreenviable","C":["a"],"en":"non-returnable, unreturnable"}
 {"L":"reenvia","C":["vt"],"en":"send back, return, recommit, resubmit"}
 {"L":"reenviable","C":["a"],"en":"returnable"}
-{"T":"r","L":"envolve","C":["vt"],"d":"covre o enclui (un person o cosa) en un materia mol, como paper o stofa; fa ce (un person o grupo) partisipa en alga cosa","da":"pakke","de":"wickeln","en":"wrap, wrap up, envelop, swaddle; involve, embroil, enlist, engage, commandeer","es":"envolver, enrollar, abrigar, cubrir, tapar"}
+{"T":"r","L":"envolve","C":["vt"],"d":"covre o enclui (un person o cosa) en un materia mol, como paper o stofa; fa ce (un person o grupo) partisipa en alga cosa","da":"pakke","de":"wickeln","en":"wrap, wrap up, envelop, swaddle; involve, embroil, enlist, engage, commandeer","es":"envolver, enrollar, abrigar, cubrir, tapar","fr":"envelopper"}
 {"L":"envolve","C":["n"],"en":"involvement"}
 {"L":"envolve en leto","C":["v"],"en":"tuck into bed"}
 {"L":"desenvolve","C":["vt"],"en":"unwrap"}
@@ -9563,7 +9563,7 @@
 {"L":"es envolveda en","C":["v"],"en":"be involved in, be wrapped up in, be party to, be engaged in"}
 {"L":"reenvolve","C":["vt"],"en":"rewrap; re-engage"}
 {"T":"r","L":"entxilada","C":["n","cos"],"d":"un tortilia plenida con carne o ceso e servida con salsa de txili","en":"enchilada (food)"}
-{"T":"r","L":"enzima","C":["n","bio","cim"],"d":"un materia produida par un organisme, cual funsiona como un catalisente per un reata biocimical spesifada","en":"enzyme"}
+{"T":"r","L":"enzima","C":["n","bio","cim"],"d":"un materia produida par un organisme, cual funsiona como un catalisente per un reata biocimical spesifada","en":"enzyme","fr":"enzyme"}
 {"L":"enzimal","C":["a"],"en":"enzymatic"}
 {"T":"r","L":"enzimolojia","C":["n","bio"],"d":"la ramo de biocimica cual studia enzimas","en":"enzymology"}
 {"T":"r","L":"eon","C":["n","tera","ast"],"d":"un periodo nondefinida ma multe longa de tempo; (en astronomia e jeolojia) un periodo de bilion anios; (en jeolojia) un divide major de tempo, plu ca un era","en":"eon|ae"}
@@ -9603,7 +9603,7 @@
 {"T":"r","L":"epigram","C":["n","arte"],"d":"un comenta o poesia corta e astuta","en":"epigram"}
 {"L":"epigramal","C":["a"],"en":"epigrammatic"}
 {"L":"epigramor","C":["n"],"en":"epigrammatist"}
-{"T":"r","L":"epilesia","C":["n","med"],"d":"un maladia de nervos, marcada par episodios subita de disturba de la sensas, perde de consensia, o convulsas, relatada a ativia eletrical nonormal en la serebro","en":"epilepsy"}
+{"T":"r","L":"epilesia","C":["n","med"],"d":"un maladia de nervos, marcada par episodios subita de disturba de la sensas, perde de consensia, o convulsas, relatada a ativia eletrical nonormal en la serebro","en":"epilepsy","fr":"épilepsie"}
 {"L":"antiepilesica","C":["n","med"],"d":"un medisin per combate epilesia","en":"antiepileptic"}
 {"L":"epilesica","C":["a"],"en":"epileptic"}
 {"T":"r","L":"epilogo","C":["n","arte"],"d":"un parte o parla a la fini de un libro o presenta teatral, cual servi como un comenta sur o conclui per la avenis presedente","en":"epilog|ue, afterword"}
@@ -9613,7 +9613,7 @@
 {"L":"episcopalian","C":["n"],"en":"Episcopalian"}
 {"L":"episcopalianisme","C":["n"],"en":"Episcopalianism (Christianity)"}
 {"T":"r","L":"episentro","C":["n","tera"],"d":"la punto sur la surfas de la Tera cual es vertical supra la foco de un trematera","en":"epicenter|re"}
-{"T":"r","L":"episodio","C":["n","arte"],"d":"un situa cual aveni como parte de un serie plu grande; cada de un serie de naras o programes de radio o televisa","en":"episode, installment|instalment"}
+{"T":"r","L":"episodio","C":["n","arte"],"d":"un situa cual aveni como parte de un serie plu grande; cada de un serie de naras o programes de radio o televisa","en":"episode, installment|instalment","fr":"épisode"}
 {"L":"episodio de caldi","C":["n"],"en":"hot flash, hot flush"}
 {"L":"episodial","C":["a"],"en":"episodic"}
 {"T":"r","L":"epistemolojia","C":["n","fil"],"d":"la teoria de sabe, spesial sua metodos, valuas e estende","en":"epistemology"}
@@ -9621,7 +9621,7 @@
 {"T":"r","L":"epitelio","C":["n","anat"],"d":"la texeda magra cual formi la strato esterna de la surfas de la corpo, e cual fore la duto de dijesta o otra strutures vacua","en":"epithelium (anatomy)"}
 {"L":"epitelial","C":["a"],"en":"epithelial"}
 {"T":"r","L":"epiteto","C":["n","arte"],"d":"un ajetivo o descrive cual espresa un cualia tipal de un person o cosa spesifada","en":"epithet"}
-{"T":"r","L":"epoca","C":["n","tera","ist"],"d":"un periodo de tempo en istoria o la vive de un person, tipal marcada par avenis notable o cualias spesial; (en jeolojia) un divide major de tempo, plu ca un eda ma min ca un periodo","en":"epoch"}
+{"T":"r","L":"epoca","C":["n","tera","ist"],"d":"un periodo de tempo en istoria o la vive de un person, tipal marcada par avenis notable o cualias spesial; (en jeolojia) un divide major de tempo, plu ca un eda ma min ca un periodo","en":"epoch","fr":"époque"}
 {"T":"r","L":"eponim","C":["a"],"d":"(un cosa) nomida per un person; (un person) donante sua nom a alga cosa","en":"eponymous"}
 {"L":"eponim","C":["n"],"en":"eponym"}
 {"T":"r","L":"eposido","C":["n","cim"],"d":"un composada organica de cual sua molecula conteni un anelo de tre membros","en":"epoxide (chemistry)"}
@@ -9632,7 +9632,7 @@
 {"L":"eres","C":["n","dem"],"en":"Irish, Gaelic (person, language)"}
 {"L":"Mar Eres","C":["n","jeo"],"d":"un mar entre Er e Britan","i":"#","en":"Irish Sea"}
 {"L":"Er Norde","C":["n","jeo"],"c":"Belfast","d":"la parte de la isola Er cual parteni a Britan","i":"#","en":"Northern Ireland"}
-{"T":"r","L":"era","C":["vnt"],"d":"no es coreta; ata en modo mal o noncoreta","en":"err, make a mistake"}
+{"T":"r","L":"era","C":["vnt"],"d":"no es coreta; ata en modo mal o noncoreta","en":"err, make a mistake","fr":"se tromper"}
 {"L":"era","C":["n"],"en":"error, mistake, solecism"}
 {"L":"era comica","C":["n"],"en":"blooper, outtake"}
 {"L":"era grande","C":["n"],"en":"big mistake, blunder"}
@@ -9647,7 +9647,7 @@
 {"T":"r","L":"eraldo","C":["n","ist"],"d":"un mesajor ofisial cual trae novas; un person o cosa regardada como un indica de avenis seguente; (istorial) un ofisial ci supravide la rituos de la stato","en":"herald"}
 {"L":"eraldia","C":["n"],"en":"heraldry"}
 {"L":"eraldial","C":["a"],"en":"heraldic"}
-{"T":"r","L":"erba","C":["n","pla"],"d":"un planta, tipal corta, con folias longa e magra, cual crese savaje o es cultivada per nuri bestias o per crea campos sirca casas o de recrea; un area estendeda de estas; cualce planta de cual sua folias, semes o flores es usada en cosini o medica","i":"#","t":"Gramineae, Poaceae","da":"græs","de":"Gras","en":"grass; lawn; herb","es":"hierba, pasto"}
+{"T":"r","L":"erba","C":["n","pla"],"d":"un planta, tipal corta, con folias longa e magra, cual crese savaje o es cultivada per nuri bestias o per crea campos sirca casas o de recrea; un area estendeda de estas; cualce planta de cual sua folias, semes o flores es usada en cosini o medica","i":"#","t":"Gramineae, Poaceae","da":"græs","de":"Gras","en":"grass; lawn; herb","es":"hierba, pasto","fr":"herbe"}
 {"L":"erba de cosini","C":["n"],"en":"herb"}
 {"L":"erba-de-mar","C":["n","pla"],"d":"un planta erbin cual abita en o prosima a la mar","i":"#","t":"Posidoniaceae, Zosteraceae, Hydrocharitaceae, Cymodoceaceae","en":"seagrass"}
 {"L":"erba-de-mate","C":["n","pla"],"d":"un spesie de ilex de cual on prepara la bevida mate","i":"#","t":"Ilex paraguariensis","en":"yerba maté"}
@@ -9668,10 +9668,10 @@
 {"L":"erbivor","C":["n"],"en":"herbivore"}
 {"T":"r","L":"erbolojia","C":["n","med"],"d":"la studia e pratica de la usa medical de plantas","en":"herbology"}
 {"L":"erbolojiste","C":["n"],"en":"herbologist"}
-{"T":"r","L":"eremita","C":["n","rel","fil"],"d":"un person ci vive solitar como un disiplina relijiosa; cualce person ci vive solitar","en":"hermit, hermitic, recluse, anchorite, anchoress"}
+{"T":"r","L":"eremita","C":["n","rel","fil"],"d":"un person ci vive solitar como un disiplina relijiosa; cualce person ci vive solitar","en":"hermit, hermitic, recluse, anchorite, anchoress","fr":"ermite"}
 {"L":"eremiteria","C":["n"],"en":"hermitage"}
 {"L":"eremitia","C":["n"],"en":"hermitry"}
-{"T":"r","L":"erese","C":["a","rel"],"d":"con credes o praticas cual no acorda con la forma ofisial o jeneral asetada, tipal pertinente a relijio","en":"heretical"}
+{"T":"r","L":"erese","C":["a","rel"],"d":"con credes o praticas cual no acorda con la forma ofisial o jeneral asetada, tipal pertinente a relijio","en":"heretical","fr":"hérétique"}
 {"L":"erese","C":["n"],"en":"heretic, infidel"}
 {"L":"eresia","C":["n"],"en":"heresy"}
 {"T":"r","L":"ergativa","C":["a","ling"],"d":"pertinente a un lingua como euscara o inuit, en cual la sujeto de un verbo nontransitiva condui gramatical como la ojeto de un verbo transitiva, e diferente de la sujeto de un verbo transitiva","en":"ergative (grammar)"}
@@ -9681,18 +9681,18 @@
 {"T":"r","L":"ergote","C":["n","bio"],"d":"un maladia fungal de sereales, venenosa si comeda","en":"ergot (fungus)"}
 {"L":"ergotisme","C":["n","med"],"en":"ergotism (medical)"}
 {"T":"r","L":"-eria","C":["sf","n"],"d":"ajuntada a un verbo, nom o ajetivo per nomi un loca: con un verbo, lo nomi un loca do on fa la ata indicada; con un nom, lo nomi un loca do on produi, usa o reteni la cosa indicada; con un ajetivo, lo nomi un loca do on aplica la cualia indicada","u":"refineria; paneria; monceria; beleria","en":"-ery, -arium (place)"}
-{"T":"r","L":"erica","C":["n","pla"],"d":"un arboreta peti, con folias peti e cuorin e flores formida como campanas peti ros o purpur","i":"#","t":"Erica","en":"heath (plant)"}
+{"T":"r","L":"erica","C":["n","pla"],"d":"un arboreta peti, con folias peti e cuorin e flores formida como campanas peti ros o purpur","i":"#","t":"Erica","en":"heath (plant)","fr":"bruyère"}
 {"L":"erica arborin","C":["n","pla"],"i":"#","t":"Erica arborea","en":"white heather, brier, briar"}
 {"T":"r","L":"Eridano","C":["n","ast"],"d":"un constela en la sielo sude, nomida per un rio mital","en":"Eridanus (constellation)"}
 {"T":"r","L":"Erie, Lago","C":["n","jeo"],"d":"un de la sinco Lagos Grande de America Norde, a la frontera entre Canada e la SUA","i":"Lago-Erie","p":"iri","en":"Lake Erie"}
 {"T":"r","L":"erije","C":["vnt"],"d":"deveni rijida e vertical","en":"erect, prick up, put up, stand up straight"}
-{"L":"erije","C":["vt"],"en":"erect, prick up, put up, stand up straight"}
+{"L":"erije","C":["vt"],"en":"erect, prick up, put up, stand up straight","fr":"ériger"}
 {"L":"erije","C":["n"],"en":"erection"}
 {"L":"erijable","C":["a"],"en":"erectile"}
 {"L":"erijeda","C":["a"],"en":"erect, pricked up"}
-{"T":"r","L":"eriso","C":["n","mam"],"d":"un mamal peti e noturna de la mundo vea, con pelo spinosa e gamas corta, e capas de enrola se como un bal per defende se","i":"#","t":"Erinaceinae","en":"hedgehog"}
+{"T":"r","L":"eriso","C":["n","mam"],"d":"un mamal peti e noturna de la mundo vea, con pelo spinosa e gamas corta, e capas de enrola se como un bal per defende se","i":"#","t":"Erinaceinae","en":"hedgehog","fr":"hérisson"}
 {"L":"eriso-de-mar","C":["n","ani"],"d":"un ecinodermato con conca sfera o plata, covreda con spinas movable, con un boca a la fondo","i":"#","t":"Echinoidea","en":"sea urchin"}
-{"T":"r","L":"erita","C":["vt","gov","mone"],"d":"reseta (mone, propria o un titulo) cuando la proprior presedente mori; reseta (un cualia) jenetical de sua jenitores o asendentes","en":"inherit"}
+{"T":"r","L":"erita","C":["vt","gov","mone"],"d":"reseta (mone, propria o un titulo) cuando la proprior presedente mori; reseta (un cualia) jenetical de sua jenitores o asendentes","en":"inherit","fr":"hériter"}
 {"L":"erita","C":["n"],"en":"inheritance, heritage, heredity, patrimony, birthright, legacy","it":"eredità"}
 {"L":"deserita","C":["vt"],"en":"disinherit","it":"diseredare"}
 {"L":"eritable","C":["a"],"en":"heritable, inheritable"}
@@ -9710,17 +9710,17 @@
 {"T":"r","L":"eritromisina","C":["n","med"],"d":"un antimicrobial usada per trata infetas causada par alga baterias, simil a penisilina","en":"erythromycin (antibiotic)"}
 {"T":"r","L":"eritropoiese","C":["n","bio"],"d":"la produi de eritrosites","en":"erythropoiesis (biology)"}
 {"T":"r","L":"eritrosite","C":["n","bio"],"d":"un selula roja de la sangue, cual transporta osijen e diosido de carbono a e de la texedas","en":"erythrocyte, red blood cell"}
-{"T":"r","L":"ermino","C":["n","mam"],"d":"un mamal peti e carnivor en familia de mustela, con coda negra, peto e adomen blanca, e pelo de color de castanias ma tipal intera blanca en inverno","i":"#","t":"Mustela erminea","en":"ermine, stoat"}
+{"T":"r","L":"ermino","C":["n","mam"],"d":"un mamal peti e carnivor en familia de mustela, con coda negra, peto e adomen blanca, e pelo de color de castanias ma tipal intera blanca en inverno","i":"#","t":"Mustela erminea","en":"ermine, stoat","fr":"hermine"}
 {"T":"r","L":"ernia","C":["vnt","med"],"d":"(un parte de un organo) protende tra la mur de la caveta conteninte, per esemplo la intestin a un punto debil de la mur de la adomen","en":"herniate"}
-{"L":"ernia","C":["n"],"en":"hernia, herniation, rupture"}
+{"L":"ernia","C":["n"],"en":"hernia, herniation, rupture","fr":"hernie"}
 {"L":"ernia femoral","C":["n"],"en":"femoral hernia"}
 {"L":"ernia iatal","C":["n"],"en":"hiatal hernia"}
 {"L":"ernia inguinal","C":["n"],"en":"inguinal hernia"}
 {"L":"ernia ombilical","C":["n"],"en":"umbilical hernia"}
-{"T":"r","L":"erode","C":["vt","tera"],"d":"(venta, acua o un otra fenomeno natural) causa la diminui gradal de (tera o roca) par frota continuante","en":"erode, wear away, wear down, weather"}
+{"T":"r","L":"erode","C":["vt","tera"],"d":"(venta, acua o un otra fenomeno natural) causa la diminui gradal de (tera o roca) par frota continuante","en":"erode, wear away, wear down, weather","fr":"éroder"}
 {"L":"erode","C":["n"],"en":"erosion, attrition"}
 {"L":"erodente","C":["a"],"en":"eroding, erosive"}
-{"T":"r","L":"eroe","C":["n","arte","uma"],"d":"un person ci es amirada o idealida per sua coraje, atenis eselente o cualias nobil; la carater xef en un libro, filma o presenta teatral, tipal con bon cualias e ci lejores o regardores pote compatia; un person mital de cualias supraumana, comun de orijina semidivin","en":"hero, heroine, protagonist"}
+{"T":"r","L":"eroe","C":["n","arte","uma"],"d":"un person ci es amirada o idealida per sua coraje, atenis eselente o cualias nobil; la carater xef en un libro, filma o presenta teatral, tipal con bon cualias e ci lejores o regardores pote compatia; un person mital de cualias supraumana, comun de orijina semidivin","en":"hero, heroine, protagonist","fr":"héros"}
 {"L":"antieroe","C":["n"],"en":"antihero, antiheroine"}
 {"L":"eroin","C":["a"],"p":"eroïn","en":"heroic"}
 {"L":"eroisme","C":["n"],"p":"eroïsme","en":"heroism"}
@@ -9745,12 +9745,12 @@
 {"L":"eruga de jeometrido","C":["n"],"en":"inchworm, looper"}
 {"L":"eruga de seda","C":["n"],"t":"Bombyx mori","en":"silkworm","fr":"ver à soie"}
 {"L":"erugin","C":["a"],"en":"caterpillarlike"}
-{"T":"r","L":"eruta","C":["vnt","med","tera"],"d":"(un volcan) deveni ativa e ejeta lava, sene e gases; (un situa nondesirada) aveni subita e dramosa; (un maladia) apare subita sur la pel o otra parte de la corpo","en":"erupt; break out (in a rash)"}
+{"T":"r","L":"eruta","C":["vnt","med","tera"],"d":"(un volcan) deveni ativa e ejeta lava, sene e gases; (un situa nondesirada) aveni subita e dramosa; (un maladia) apare subita sur la pel o otra parte de la corpo","en":"erupt; break out (in a rash)","fr":"être en éruption"}
 {"L":"eruta","C":["n"],"en":"eruption; outbreak; rash (medical)"}
 {"L":"eruta de dentes","C":["n"],"en":"teething","fr":"éruption dentaire"}
-{"T":"r","L":"es","C":["vl"],"d":"ave la state, cualia, identia, natur, rol, loca, etc, spesifada","u":"tu es bela; lo es un jua","da":"være","de":"sein","en":"be, is, are, am","es":"ser, estar"}
+{"T":"r","L":"es","C":["vl"],"d":"ave la state, cualia, identia, natur, rol, loca, etc, spesifada","u":"tu es bela; lo es un jua","da":"være","de":"sein","en":"be, is, are, am","es":"ser, estar","fr":"être"}
 {"L":"esente","C":["a"],"en":"being"}
-{"L":"esente","C":["n"],"en":"being, creature, entity"}
+{"L":"esente","C":["n"],"en":"being, creature, entity","fr":"(un) être"}
 {"T":"r","L":"es-","C":["pf","tecn"],"d":"estra, de en","en":"ex- (outside)"}
 {"T":"r","L":"-es","C":["sf","a"],"d":"ajuntada a un nom jeografial per formi un ajetivo pertinente a la loca","u":"nederlandes","v":"-an, -i, -ica, -sce","en":"-ese, -ish (pertaining to a region)"}
 {"L":"-es","C":["sf","n"],"d":"nominte un abitor o lingua de un rejion spesifada","en":"-ese, -ish (pertaining to a region)"}
@@ -9760,15 +9760,15 @@
 {"T":"r","L":"esadesimal","C":["a","info"],"d":"pertinente a un sistem de aritmetica fundida sur la numero des-ses","en":"hexadecimal"}
 {"T":"r","L":"esaedro","C":["a","mat"],"d":"(un ojeto) solida con ses fases plana","en":"hexahedral"}
 {"L":"esaedro","C":["n"],"en":"hexahedron"}
-{"T":"r","L":"esagon","C":["a","mat"],"d":"(un forma plana) con ses lados reta e ses angulos","en":"hexagonal"}
-{"L":"esagon","C":["n"],"en":"hexagon"}
+{"T":"r","L":"esagon","C":["a","mat"],"d":"(un forma plana) con ses lados reta e ses angulos","en":"hexagonal","fr":"hexagonal"}
+{"L":"esagon","C":["n"],"en":"hexagon","fr":"hexagone"}
 {"T":"r","L":"esagram","C":["n","mit"],"d":"un stela con ses puntos, formida par la crusa de du triangulos ecuiladal; cada de 64 grupos de ses linias paralel, intera o rompeda, en la libro de divina {Yì jīng}","i":"#","en":"hexagram"}
 {"T":"r","L":"esametre","C":["n","ling"],"d":"un linia de poesia composada de ses metres","en":"hexameter"}
-{"T":"r","L":"esajera","C":["vt"],"d":"representa (alga cosa) como plu grande, plu bon o plu mal ca lo es en realia","en":"exaggerate, overstate, overdo, caricature"}
+{"T":"r","L":"esajera","C":["vt"],"d":"representa (alga cosa) como plu grande, plu bon o plu mal ca lo es en realia","en":"exaggerate, overstate, overdo, caricature","fr":"exagérer"}
 {"L":"esajera","C":["n"],"en":"exaggeration, hyperbole; spoof"}
 {"T":"r","L":"esajo","C":["n","arte"],"d":"un scriveda corta sur un tema spesifada","en":"essay, paper"}
 {"L":"esajiste","C":["n"],"en":"essayist"}
-{"T":"r","L":"esamina","C":["vt"],"d":"oserva atendente (un person o cosa) per determina sua natur o state; investiga completa; dona un serie de taxes o demandas per determina la sabe o capasia de (algun)","da":"eksaminere, inspicere","de":"prüfen","en":"examine, inspect, check, look over, peruse, investigate, scrutinize|is, probe, audit, vet, test","es":"examinar, inspeccionar, revisar"}
+{"T":"r","L":"esamina","C":["vt"],"d":"oserva atendente (un person o cosa) per determina sua natur o state; investiga completa; dona un serie de taxes o demandas per determina la sabe o capasia de (algun)","da":"eksaminere, inspicere","de":"prüfen","en":"examine, inspect, check, look over, peruse, investigate, scrutinize|is, probe, audit, vet, test","es":"examinar, inspeccionar, revisar","fr":"examiner"}
 {"L":"esamina","C":["n"],"en":"examination, check-up, work-up, inspection; examination, exam, test, scrutiny, probe, audit"}
 {"L":"esamina de cualia","C":["n"],"en":"quality test, benchmark test"}
 {"L":"esamina de elejes multiple","C":["n"],"en":"multiple-choice examination"}
@@ -9783,7 +9783,7 @@
 {"L":"reesamina","C":["n"],"en":"re-examination, reinspection"}
 {"T":"r","L":"esarca","C":["n","rel"],"d":"(en la eglesa ortodox) un bispo a un nivel plu basa ca un patriarca","en":"exarch (bishop)"}
 {"L":"esarcia","C":["n"],"en":"exarchate"}
-{"T":"r","L":"esata","C":["a"],"d":"no aprosima en cualce modo; (detalias) intera coreta; (un siensa) usante mesuras detaliosa como un funda per teorias confirmable","da":"præcis, nøjagtig","de":"genau","en":"exact, precise, particular, accurate","es":"exacto, preciso, a punto, en punto"}
+{"T":"r","L":"esata","C":["a"],"d":"no aprosima en cualce modo; (detalias) intera coreta; (un siensa) usante mesuras detaliosa como un funda per teorias confirmable","da":"præcis, nøjagtig","de":"genau","en":"exact, precise, particular, accurate","es":"exacto, preciso, a punto, en punto","fr":"exact, précis"}
 {"L":"esata","C":["av"],"en":"exactly, precisely, just, verbatim"}
 {"L":"esata tal","C":["av"],"en":"just so"}
 {"L":"esatia","C":["n"],"en":"accuracy, exactitude, precision, veracity"}
@@ -9793,34 +9793,34 @@
 {"L":"o plu esata","C":["cj"],"en":"or rather, or more precisely"}
 {"T":"r","L":"esca","C":["n","cim"],"d":"un materia seca e flamable, como lenio o paper, usada per inisia un foco","en":"tinder"}
 {"T":"r","L":"escara","C":["n","med"],"d":"pel mor desfisada de la surfas de la pel, plu comun en lesiones de arde, ma ance en gangrena, ulseras, etc.","en":"eschar"}
-{"T":"r","L":"escava","C":["vt","tera"],"d":"rompe e move (tera) con un util o macina, o con manos, pedes, beco, etc; crea (un buco, cava, tomba o canal) en esta modo; oteni (minerales) en esta modo","da":"grave","de":"graben","en":"dig, scoop, excavate, mine","es":"cavar, excavar, escarbar, hacer un hoyo"}
+{"T":"r","L":"escava","C":["vt","tera"],"d":"rompe e move (tera) con un util o macina, o con manos, pedes, beco, etc; crea (un buco, cava, tomba o canal) en esta modo; oteni (minerales) en esta modo","da":"grave","de":"graben","en":"dig, scoop, excavate, mine","es":"cavar, excavar, escarbar, hacer un hoyo","fr":"creuser"}
 {"L":"escava","C":["n"],"i":"#","en":"excavation, dig; pit"}
 {"L":"escavador","C":["n"],"en":"digger, excavator (machine)"}
 {"L":"escaveria","C":["n"],"en":"quarry"}
 {"L":"escavor","C":["n"],"en":"miner, excavator (person)"}
-{"T":"r","L":"esce","C":["av"],"d":"lo es vera ce ...? (usada per introdui un demanda de veria)","en":"(introducing a direct question)","eo":"ĉu"}
-{"L":"esce","C":["sj"],"en":"whether, if (introducing an indirect question)"}
-{"T":"r","L":"esclama","C":["vt","ling"],"d":"dise o cria subita (alga cosa), spesial cuando on es surprendeda, coler o dolente","en":"exclaim, blurt"}
+{"T":"r","L":"esce","C":["av"],"d":"lo es vera ce ...? (usada per introdui un demanda de veria)","en":"(introducing a direct question)","eo":"ĉu","fr":"est-ce que"}
+{"L":"esce","C":["sj"],"en":"whether, if (introducing an indirect question)","fr":"si (question indirecte)"}
+{"T":"r","L":"esclama","C":["vt","ling"],"d":"dise o cria subita (alga cosa), spesial cuando on es surprendeda, coler o dolente","en":"exclaim, blurt","fr":"s'exclamer"}
 {"L":"esclama","C":["n"],"en":"exclamation; interjection (grammar)"}
 {"L":"esclamante","C":["a"],"en":"exclaiming, exclamatory"}
-{"T":"r","L":"esclui","C":["vt","gov"],"d":"preveni ce (un person o cosa) entra a un loca; preveni ce (un person o cosa) deveni o resta un membro de un grupo; forsa ce (algun) parti de un loca, spesial un nasion","en":"exclude, keep out; banish, exile, expel, oust, excommunicate, ostracize, disbar"}
+{"T":"r","L":"esclui","C":["vt","gov"],"d":"preveni ce (un person o cosa) entra a un loca; preveni ce (un person o cosa) deveni o resta un membro de un grupo; forsa ce (algun) parti de un loca, spesial un nasion","en":"exclude, keep out; banish, exile, expel, oust, excommunicate, ostracize, disbar","fr":"exclure"}
 {"L":"esclui","C":["n"],"en":"exclusion, banishment, excommunication, ostracism"}
 {"L":"escluida","C":["a"],"en":"excluded"}
 {"L":"escluida","C":["n"],"en":"exile, outcast"}
 {"L":"escluinte","C":["a"],"en":"exclusive, clannish, cliquey"}
 {"L":"escluinte","C":["prep"],"en":"excluding, other than"}
-{"T":"r","L":"escota","C":["vt","vest"],"d":"talia la colo de (un veste) en modo cual esposa alga de la peto o senos","i":"#","en":"cut low"}
+{"T":"r","L":"escota","C":["vt","vest"],"d":"talia la colo de (un veste) en modo cual esposa alga de la peto o senos","i":"#","en":"cut low","fr":"décolleter"}
 {"L":"escota","C":["n"],"en":"neckline, cleavage"}
 {"L":"escota profonda","C":["n"],"en":"decolletage"}
 {"L":"escota V","C":["n"],"en":"V-neck"}
 {"L":"con escota V","C":["a"],"en":"V-necked"}
 {"L":"escotada","C":["a"],"en":"low-cut, plunging"}
-{"T":"r","L":"escrete","C":["vt","bio"],"d":"(un organisme) separa e dejeta (un materia, spesial un produida de metaboli)","en":"excrete"}
+{"T":"r","L":"escrete","C":["vt","bio"],"d":"(un organisme) separa e dejeta (un materia, spesial un produida de metaboli)","en":"excrete","fr":"excréter"}
 {"L":"escrete","C":["n"],"en":"excrement; excretion"}
 {"L":"escretal","C":["a"],"en":"excretory"}
 {"T":"r","L":"escretemania","C":["n"],"d":"un osese con escrete","en":"scatology"}
 {"L":"escretemanica","C":["a"],"en":"scatological"}
-{"T":"r","L":"escusa","C":["vt","gov"],"d":"atenta minimi la culpablia cual resulta de (un fali o ofende); pardona (algun) per un fali o ofende","da":"undskylde","en":"excuse","es":"excusar, disculpar, personar, eximir, dispensar"}
+{"T":"r","L":"escusa","C":["vt","gov"],"d":"atenta minimi la culpablia cual resulta de (un fali o ofende); pardona (algun) per un fali o ofende","da":"undskylde","en":"excuse","es":"excusar, disculpar, personar, eximir, dispensar","fr":"excuser"}
 {"L":"escusa","C":["n"],"de":"Entschuldigung","en":"excuse, apology, pretext, justification, rationalization|is"}
 {"L":"escusa se","C":["v"],"en":"apologize|is"}
 {"L":"escusable","C":["a"],"en":"excusable"}
@@ -9835,50 +9835,50 @@
 {"L":"escutor","C":["n"],"en":"listener"}
 {"L":"escutores","C":["n","pl"],"en":"audience"}
 {"L":"reescuta","C":["vt"],"en":"relisten, listen again to; listen back to (a recording)"}
-{"T":"r","L":"esecuta","C":["vt","gov"],"d":"comensa e completa (un comanda, taxe, projeta); mata (algun) en modo formal; inisia (un program de computador)","en":"execute (including kill), enact (plan), perpetrate, carry out, fulfill|fulfil; run (software)"}
+{"T":"r","L":"esecuta","C":["vt","gov"],"d":"comensa e completa (un comanda, taxe, projeta); mata (algun) en modo formal; inisia (un program de computador)","en":"execute (including kill), enact (plan), perpetrate, carry out, fulfill|fulfil; run (software)","fr":"exécuter"}
 {"L":"esecuta","C":["n"],"en":"execution"}
 {"L":"esecuta fretada","C":["n"],"en":"summary execution"}
 {"L":"esecutor","C":["n"],"en":"executioner; executor, perpetrator"}
 {"L":"esecutor de atesta","C":["n"],"en":"executor, executrix"}
-{"T":"r","L":"esede","C":["vt"],"d":"(un cuantia o grandia) es plu ca","en":"exceed, surpass"}
+{"T":"r","L":"esede","C":["vt"],"d":"(un cuantia o grandia) es plu ca","en":"exceed, surpass","fr":"excéder"}
 {"L":"esede","C":["n"],"en":"excess, surfeit"}
 {"L":"esedente","C":["a"],"en":"exceeding, excessive, supernumerary"}
 {"L":"nonesededa","C":["a"],"en":"unsurpassed"}
-{"T":"r","L":"esele","C":["vnt"],"d":"es spesial capas a un ata o sujeto","en":"excel"}
+{"T":"r","L":"esele","C":["vnt"],"d":"es spesial capas a un ata o sujeto","en":"excel","fr":"exceller"}
 {"L":"esele","C":["n"],"en":"excellence, eminence"}
 {"L":"eselente","C":["a"],"en":"excellent, great, wonderful, marvelous|ll, outstanding, eminent, prime, illustrious, fine, grand, terrific, top-notch"}
 {"L":"eselentia","C":["n"],"en":"excellence, greatness"}
 {"L":"eselentia","C":["esc"],"en":"your excellency, your grace"}
-{"T":"r","L":"esemplo","C":["n","fil"],"d":"un cosa cual representa sua spesie, tipo, grupo, etc, o cual mostra un regula jeneral","da":"eksemplar, model, prototype","de":"Urbild, Beispiel","en":"example, sample, exemplar, model, specimen","es":"prototipo, ejemplo, arquetipo, modelo, referencia, muestra, prueba, cale"}
+{"T":"r","L":"esemplo","C":["n","fil"],"d":"un cosa cual representa sua spesie, tipo, grupo, etc, o cual mostra un regula jeneral","da":"eksemplar, model, prototype","de":"Urbild, Beispiel","en":"example, sample, exemplar, model, specimen","es":"prototipo, ejemplo, arquetipo, modelo, referencia, muestra, prueba, cale","fr":"exemple"}
 {"L":"esempli","C":["vt"],"en":"exemplify, illustrate, epitomize|is"}
 {"L":"esemplo perfeta","C":["n"],"en":"perfect example, paragon, quintessence"}
 {"L":"per esemplo","C":["av"],"s":"pe","en":"for example, for instance"}
 {"T":"r","L":"esense","C":["n","fil"],"d":"la cualia de alga cosa sin cual lo no pote esiste o es se; la parte o aspeta la plu importante de un problem o projeta","en":"essence, quintessence, quiddity; crux, gist"}
-{"L":"esensal","C":["a"],"en":"essential, critical, crucial, inherent, intrinsic, pivotal"}
+{"L":"esensal","C":["a"],"en":"essential, critical, crucial, inherent, intrinsic, pivotal","fr":"essentiel"}
 {"L":"esensal","C":["av"],"en":"essentially"}
 {"L":"la esense de un arcitetor","C":["n"],"en":"the quintessential architect, the architect par excellence"}
 {"L":"nonesensal","C":["a"],"en":"non-essential, extrinsic"}
-{"T":"r","L":"esenta","C":["vt","gov"],"d":"libre de un obliga o culpablia forsada a otras","en":"exempt"}
+{"T":"r","L":"esenta","C":["vt","gov"],"d":"libre de un obliga o culpablia forsada a otras","en":"exempt","fr":"exempter"}
 {"L":"esenta","C":["n"],"en":"exemption, dispensation, impunity, immunity (legal)"}
 {"L":"esentada","C":["a"],"en":"exempt"}
-{"T":"r","L":"eserse","C":["vnt","bio"],"d":"es fisical ativa per manteni o boni sua sania o capasia","en":"exercise, work out, drill, train"}
-{"L":"eserse","C":["n"],"da":"træning, praktik","de":"Übung, Bewegung","en":"exercise, workout, drill, exertion","es":"ejercicio, práctica"}
+{"T":"r","L":"eserse","C":["vnt","bio"],"d":"es fisical ativa per manteni o boni sua sania o capasia","en":"exercise, work out, drill, train","fr":"exercer"}
+{"L":"eserse","C":["n"],"da":"træning, praktik","de":"Übung, Bewegung","en":"exercise, workout, drill, exertion","es":"ejercicio, práctica","fr":"exercice"}
 {"L":"eserse adomenal","C":["n"],"en":"abdominal exercise, sit-ups"}
 {"L":"eserse con pesas","C":["n"],"en":"weight training"}
 {"L":"eserse fisical","C":["n"],"en":"physical exercise, calisthenics"}
 {"L":"esersor","C":["n"],"en":"exerciser"}
 {"L":"esersosa","C":["a"],"en":"strenuous"}
-{"T":"r","L":"eseta","C":["vt"],"d":"spesifa (un person o cosa) como no parteninte a un categoria o grupo","en":"except, spare"}
+{"T":"r","L":"eseta","C":["vt"],"d":"spesifa (un person o cosa) como no parteninte a un categoria o grupo","en":"except, spare","fr":"excepter"}
 {"L":"eseta","C":["n"],"en":"exception; irregularity"}
-{"L":"con eseta de","C":["prep"],"en":"except, except for, excepting, with the exception of"}
-{"L":"esetante","C":["prep"],"en":"except, except for, excepting, with the exception of, other than"}
+{"L":"con eseta de","C":["prep"],"en":"except, except for, excepting, with the exception of","fr":"sauf, excepté"}
+{"L":"esetante","C":["prep"],"en":"except, except for, excepting, with the exception of, other than","fr":"sauf, excepté"}
 {"L":"esetosa","C":["a"],"en":"irregular, full of exceptions"}
 {"L":"sin eseta","C":["av"],"en":"without exception, whatsoever, at all"}
-{"T":"r","L":"esflue","C":["vnt"],"d":"flue a estra; (datos o testo) es produida par un computador","da":"udlede","de":"ausströmen","en":"flow out"}
+{"T":"r","L":"esflue","C":["vnt"],"d":"flue a estra; (datos o testo) es produida par un computador","da":"udlede","de":"ausströmen","en":"flow out","fr":"s'écouler (vers l'extérieur)"}
 {"L":"esflue","C":["vt"],"d":"produi e emete","en":"output, emit","es":"emitir, exhalar, arrojar, despedir"}
-{"L":"esflue","C":["n"],"en":"outflow, output; ebb (tide)"}
+{"L":"esflue","C":["n"],"en":"outflow, output; ebb (tide)","fr":"reflux (de la marée)"}
 {"L":"esfluente","C":["n"],"en":"effluent"}
-{"T":"r","L":"esibi","C":["vt","arte"],"d":"mostra publica (un obra de arte o cosa interesante) en un museo, galeria o feria","en":"exhibit"}
+{"T":"r","L":"esibi","C":["vt","arte"],"d":"mostra publica (un obra de arte o cosa interesante) en un museo, galeria o feria","en":"exhibit","fr":"exhiber"}
 {"L":"esibi","C":["n"],"en":"exhibition; panoply"}
 {"L":"esiberia","C":["n"],"en":"exhibition hall"}
 {"L":"esibisme","C":["n"],"en":"exhibitionism"}
@@ -9890,7 +9890,7 @@
 {"L":"esije ultima","C":["n"],"en":"ultimatum"}
 {"L":"con esije ce","C":["sj"],"en":"on condition that, provided that"}
 {"L":"esijente","C":["a"],"en":"demanding, bossy, exigent; picky, fussy, choosy, persnickety|pernickety, finicky, prissy"}
-{"T":"r","L":"esiste","C":["vnt","fil"],"d":"es real","da":"existere","de":"existieren","en":"exist","es":"existir"}
+{"T":"r","L":"esiste","C":["vnt","fil"],"d":"es real","da":"existere","de":"existieren","en":"exist","es":"existir","fr":"exister"}
 {"L":"esiste","C":["n"],"en":"existence"}
 {"L":"esistal","C":["a"],"en":"existential"}
 {"L":"esistente","C":["a"],"en":"existing, existent, extant"}
@@ -9901,7 +9901,7 @@
 {"L":"nonesistente","C":["a"],"en":"non-existent"}
 {"L":"preesiste","C":["vnt"],"en":"pre-exist"}
 {"L":"preesistente","C":["a"],"en":"pre-existing"}
-{"T":"r","L":"esita","C":["vnt"],"d":"pausa ante un dise o ata, tipal cuando on es nonserta; move o parla sin sertia; comensa perde fortia o momento","de":"pausieren","en":"hesitate, falter, balk","es":"vacilar, titubear, dudar, pausar, hacer pausa"}
+{"T":"r","L":"esita","C":["vnt"],"d":"pausa ante un dise o ata, tipal cuando on es nonserta; move o parla sin sertia; comensa perde fortia o momento","de":"pausieren","en":"hesitate, falter, balk","es":"vacilar, titubear, dudar, pausar, hacer pausa","fr":"hésiter"}
 {"L":"esita","C":["n"],"en":"hesitation"}
 {"L":"esita moral","C":["n"],"en":"scruples"}
 {"L":"esitante","C":["a"],"en":"hesitant, reluctant, halting, faltering"}
@@ -9934,7 +9934,7 @@
 {"T":"r","L":"Espania","C":["n","jeo"],"c":"Madrid","d":"un pais en Europa sude-ueste, a sude de Frans e a este de Portugal","i":"#","ca":"Espanya","en":"Spain","es":"España","it":"Spagna","pt":"Espanha"}
 {"L":"espaniol","C":["a"],"en":"Spanish (person, language)","es":"español"}
 {"L":"espaniol","C":["n","dem"],"en":"Spanish (person, language)","es":"español"}
-{"T":"r","L":"espera","C":["vt","uma"],"d":"senti o espresa un desira forte per (alga cosa) o ce (alga cosa) va aveni","u":"espera un dia solosa; on espera ce lo no va pluve","da":"håbe","de":"hoffen","en":"hope for, wish for","es":"esperar"}
+{"T":"r","L":"espera","C":["vt","uma"],"d":"senti o espresa un desira forte per (alga cosa) o ce (alga cosa) va aveni","u":"espera un dia solosa; on espera ce lo no va pluve","da":"håbe","de":"hoffen","en":"hope for, wish for","es":"esperar","fr":"espérer"}
 {"L":"espera","C":["n"],"en":"hope, wish"}
 {"L":"esperable","C":["av"],"en":"hopefully"}
 {"L":"esperante","C":["a"],"en":"hoping, hopeful"}
@@ -9945,7 +9945,7 @@
 {"L":"esperanto","C":["n"],"en":"Esperanto"}
 {"L":"esperantiste","C":["a"],"en":"Esperantist"}
 {"L":"esperantiste","C":["n"],"en":"Esperantist"}
-{"T":"r","L":"esperia","C":["vt","uma"],"d":"encontra o sufri (un aveni); senti (un emosia)","da":"opleve, erfare","de":"erfahren","en":"experience, undergo, witness","es":"experimentar (sentir)"}
+{"T":"r","L":"esperia","C":["vt","uma"],"d":"encontra o sufri (un aveni); senti (un emosia)","da":"opleve, erfare","de":"erfahren","en":"experience, undergo, witness","es":"experimentar (sentir)","fr":"faire l'expérience de"}
 {"L":"esperia","C":["n"],"en":"experience"}
 {"L":"esperial","C":["a"],"en":"experiential"}
 {"L":"esperiosa","C":["a"],"en":"experienced"}
@@ -9953,7 +9953,7 @@
 {"L":"nonesperia","C":["n"],"en":"inexperience"}
 {"L":"reesperia","C":["vt"],"en":"re-experience"}
 {"L":"sin esperia","C":["a"],"en":"inexperienced"}
-{"T":"r","L":"esperimenta","C":["vnt","fil"],"d":"usa la metodos de siensa per proba e investiga; proba consetas o modos nova de fa alga cosa","en":"experiment","es":"experimentar (ciencia)"}
+{"T":"r","L":"esperimenta","C":["vnt","fil"],"d":"usa la metodos de siensa per proba e investiga; proba consetas o modos nova de fa alga cosa","en":"experiment","es":"experimentar (ciencia)","fr":"expérience (scientifique)"}
 {"L":"esperimenta","C":["n"],"da":"eksperiment","de":"Versuch","en":"experiment, experimentation","es":"experimento, prueba"}
 {"L":"esperimental","C":["a"],"en":"experimental"}
 {"L":"esperimentalisme","C":["n"],"en":"experimentalism"}
@@ -9965,7 +9965,7 @@
 {"L":"esperta legal","C":["n"],"en":"expert witness, legal expert"}
 {"L":"espertia","C":["n"],"en":"expertise, authority, punditry"}
 {"L":"nonesperta","C":["a"],"en":"inexpert"}
-{"T":"r","L":"espeta","C":["vt"],"d":"regarda (alga cosa) como probable; resta asta (un tempo o aveni spesifada, per esemplo la ariva de algun)","da":"vente, forvente","de":"erwarten, warten","en":"expect, anticipate, await, wait for","es":"esperar, anticipar, contar con (creer que X vendrá/sucederá), aguardar (por)"}
+{"T":"r","L":"espeta","C":["vt"],"d":"regarda (alga cosa) como probable; resta asta (un tempo o aveni spesifada, per esemplo la ariva de algun)","da":"vente, forvente","de":"erwarten, warten","en":"expect, anticipate, await, wait for","es":"esperar, anticipar, contar con (creer que X vendrá/sucederá), aguardar (por)","fr":"attendre, s'attendre à"}
 {"L":"espeta","C":["n"],"en":"expectation, expectancy, anticipation, waiting"}
 {"L":"espeta de vive","C":["n"],"en":"life expectancy"}
 {"L":"espeta furtiva","C":["v"],"en":"lurk, skulk, loiter"}
@@ -9978,13 +9978,13 @@
 {"T":"r","L":"espetora","C":["vt","bio"],"d":"tose o sputa (muco) de la garga o pulmones","en":"expectorate, cough up"}
 {"L":"espetorante","C":["a"],"en":"expectorant"}
 {"L":"espetorante","C":["n"],"en":"expectorant"}
-{"T":"r","L":"espia","C":["vt","gov"],"d":"fa alga cosa compensante afin on pardona (un peca, crimin o otra mal ata)","en":"atone for, expiate, do penance"}
+{"T":"r","L":"espia","C":["vt","gov"],"d":"fa alga cosa compensante afin on pardona (un peca, crimin o otra mal ata)","en":"atone for, expiate, do penance","fr":"expier"}
 {"L":"espia","C":["n"],"en":"atonement, expiation, penance"}
-{"T":"r","L":"espira","C":["vt","bio","ling"],"d":"forsa (alga cosa) a estra la pulmones; (en fonetica) produi (un sona) con un espira peti de aira","en":"exhale, breathe out; aspirate"}
+{"T":"r","L":"espira","C":["vt","bio","ling"],"d":"forsa (alga cosa) a estra la pulmones; (en fonetica) produi (un sona) con un espira peti de aira","en":"exhale, breathe out; aspirate","fr":"expirer"}
 {"L":"espira","C":["n"],"en":"exhalation; aspiration (phonetics)"}
 {"L":"espirada","C":["a"],"en":"aspirated"}
 {"L":"espirada","C":["n"],"en":"aspirate (consonant)"}
-{"T":"r","L":"esplica","C":["vt","fil"],"d":"clari (un idea, situa o problem) a algun par descrive plu detalias de lo o par mostra otra fatos o ideas pertinente; dona un razona, escusa o justi per (un condui o disposa)","en":"explain, elaborate, elucidate, rationalize|is, justify"}
+{"T":"r","L":"esplica","C":["vt","fil"],"d":"clari (un idea, situa o problem) a algun par descrive plu detalias de lo o par mostra otra fatos o ideas pertinente; dona un razona, escusa o justi per (un condui o disposa)","en":"explain, elaborate, elucidate, rationalize|is, justify","fr":"expliquer"}
 {"L":"esplica","C":["n"],"da":"årsag, begrundelse","de":"Erklärung","en":"explanation, reason, justification, rationale, elaboration, rationalization|is, exposition; legend (diagram)","es":"razón, explicación, justificación, causa, motivo"}
 {"L":"esplica plu","C":["vt"],"en":"further explain, elaborate"}
 {"L":"esplica tro","C":["vt"],"en":"overexplain, overelaborate, belabor|ur"}
@@ -9992,31 +9992,31 @@
 {"L":"esije un esplica","C":["v"],"en":"demand an explanation, call to account, hold to account"}
 {"L":"esplicable","C":["a"],"en":"explainable, explicable"}
 {"L":"nonesplicable","C":["a"],"en":"unexplainable, inexplicable"}
-{"T":"r","L":"esplode","C":["vnt","cim","fis","ling"],"d":"rompe violente como la resulta de combusta rapida","da":"sprække, bryde, eksplodere","de":"bersten, explodieren","en":"explode, blow up, burst, fulminate","es":"explotar, reventar, estallar, abrir de repente, volar con explosivos"}
+{"T":"r","L":"esplode","C":["vnt","cim","fis","ling"],"d":"rompe violente como la resulta de combusta rapida","da":"sprække, bryde, eksplodere","de":"bersten, explodieren","en":"explode, blow up, burst, fulminate","es":"explotar, reventar, estallar, abrir de repente, volar con explosivos","fr":"exploser"}
 {"L":"esplode","C":["vt"],"en":"explode, blow up, blast"}
 {"L":"esplode","C":["n"],"en":"explosion, blast, outburst, outpouring"}
 {"L":"esplode con rie","C":["v"],"en":"burst out laughing, hoot with laughter"}
-{"L":"esplodente","C":["a"],"en":"exploding, explosive; plosive"}
+{"L":"esplodente","C":["a"],"en":"exploding, explosive; plosive","fr":"explosif"}
 {"L":"esplodente","C":["n"],"en":"explosive; plosive (consonant)"}
-{"T":"r","L":"esplora","C":["vt","gov"],"d":"viaja en (un area nonconoseda) per aprende plu sur lo; investiga detaliosa (un sujeto)","en":"explore"}
+{"T":"r","L":"esplora","C":["vt","gov"],"d":"viaja en (un area nonconoseda) per aprende plu sur lo; investiga detaliosa (un sujeto)","en":"explore","fr":"explorer"}
 {"L":"esplora","C":["n"],"en":"exploration, excursion, reconnaissance"}
 {"L":"esplora de cavas","C":["n"],"i":"#","en":"caving, spelunking"}
 {"L":"esplorante","C":["a"],"en":"exploring, exploratory"}
 {"L":"esploror","C":["n"],"en":"explorer, scout"}
-{"T":"r","L":"esplota","C":["vt","gov"],"d":"usa (un recurso) per benefica de lo; benefica de (un situa o la labora de algun) en modo nonjusta","en":"exploit, take advantage of, avail oneself of, cash in on"}
+{"T":"r","L":"esplota","C":["vt","gov"],"d":"usa (un recurso) per benefica de lo; benefica de (un situa o la labora de algun) en modo nonjusta","en":"exploit, take advantage of, avail oneself of, cash in on","fr":"exploiter"}
 {"L":"esplota","C":["n"],"en":"exploitation"}
 {"L":"esplota de forestas","C":["n"],"en":"logging (industry)"}
 {"L":"esplotable","C":["a"],"en":"exploitable"}
 {"L":"esplotor","C":["n"],"en":"exploiter"}
 {"L":"nonesplotada","C":["a"],"en":"unexploited, untapped"}
 {"T":"r","L":"esponente","C":["n"],"d":"(en matematica) la potia a cual un numero es levada, tipal scriveda como un supraindise","en":"exponent"}
-{"L":"esponental","C":["a","mat"],"d":"(un crese) sempre plu rapida en proportio a un cuantia o grandia cresente","en":"exponential (growth)"}
+{"L":"esponental","C":["a","mat"],"d":"(un crese) sempre plu rapida en proportio a un cuantia o grandia cresente","en":"exponential (growth)","fr":"exponentiel"}
 {"L":"esponenti","C":["vt"],"en":"exponentiate (raise to a power)"}
 {"L":"esponenti","C":["n"],"en":"exponentiation"}
-{"T":"r","L":"esporta","C":["vt","mone","gov"],"d":"(un nasion) envia (benes o servis) a un otra nasion per vende; sperde o introdui (credes e ideas) a un otra comunia; (en informatica) move (datos) a un forma cual pote es lejeda par otra programes","en":"export"}
+{"T":"r","L":"esporta","C":["vt","mone","gov"],"d":"(un nasion) envia (benes o servis) a un otra nasion per vende; sperde o introdui (credes e ideas) a un otra comunia; (en informatica) move (datos) a un forma cual pote es lejeda par otra programes","en":"export","fr":"exporter"}
 {"L":"esporta","C":["n"],"en":"exportation"}
 {"L":"esportor","C":["n"],"en":"exporter"}
-{"T":"r","L":"esposa","C":["vt","gov","arte"],"d":"fa ce (alga cosa, spesial informa) deveni vidable o conoseda","en":"expose; divulge, blab, leak (information)"}
+{"T":"r","L":"esposa","C":["vt","gov","arte"],"d":"fa ce (alga cosa, spesial informa) deveni vidable o conoseda","en":"expose; divulge, blab, leak (information)","fr":"exposer"}
 {"L":"esposa","C":["n"],"en":"exposure; leak (information)"}
 {"L":"esposa a radia","C":["vt"],"en":"irradiate"}
 {"L":"esposa lenta","C":["n"],"en":"long exposure (photography)"}
@@ -10027,7 +10027,7 @@
 {"L":"suesposa","C":["n"],"en":"underexposure"}
 {"L":"supraesposa","C":["vt"],"en":"overexpose"}
 {"L":"supraesposa","C":["n"],"en":"overexposure"}
-{"T":"r","L":"espresa","C":["vt","fil","ling"],"d":"comparti (un idea o senti) en parolas, jestis o condui","en":"express, state, convey (meaning), assert, articulate"}
+{"T":"r","L":"espresa","C":["vt","fil","ling"],"d":"comparti (un idea o senti) en parolas, jestis o condui","en":"express, state, convey (meaning), assert, articulate","fr":"exprimer"}
 {"L":"espresa","C":["n"],"en":"expression, assertion; turn of phrase"}
 {"L":"espresa clar","C":["vt"],"en":"express clearly, clarify, enunciate"}
 {"L":"espresa cortes","C":["n"],"en":"pleasantry"}
@@ -10044,39 +10044,39 @@
 {"L":"nonespresosa","C":["a"],"en":"unexpressive, undemonstrative, reticent, taciturn, deadpan"}
 {"L":"reespresa","C":["vt"],"en":"re-express, restate"}
 {"L":"sin espresa de fas","C":["a"],"en":"expressionless, blank, deadpan"}
-{"T":"r","L":"espreso","C":["n","cos"],"d":"cafe negra forte, preparada par forsa vapor tra favas de cafe moleda","i":"#","en":"espresso"}
+{"T":"r","L":"espreso","C":["n","cos"],"d":"cafe negra forte, preparada par forsa vapor tra favas de cafe moleda","i":"#","en":"espresso","fr":"espresso"}
 {"T":"r","L":"espulsa","C":["vt"],"d":"lansa o forsa (un person o cosa) a estra o a via, tipal en modo subita o fortiosa","en":"eject, expel, throw out, cast out, oust, evict, banish, unseat"}
 {"L":"espulsa","C":["n"],"en":"expulsion, ejection, eviction, banishment"}
-{"T":"r","L":"esta","C":["d"],"d":"cual nos vide asi; cual nos veni de indica, o cual nos es a punto de indica","da":"den, det","de":"dieser, diese, dieses","en":"this, these (demonstrative)","es":"éste, ésta, esto"}
-{"L":"esta","C":["pron"],"en":"this, this one; the latter"}
-{"L":"estas","C":["pron","pl"],"da":"disse","de":"diese","en":"these"}
+{"T":"r","L":"esta","C":["d"],"d":"cual nos vide asi; cual nos veni de indica, o cual nos es a punto de indica","da":"den, det","de":"dieser, diese, dieses","en":"this, these (demonstrative)","es":"éste, ésta, esto","fr":"ce, cet, cette (-là)"}
+{"L":"esta","C":["pron"],"en":"this, this one; the latter","fr":"ceci"}
+{"L":"estas","C":["pron","pl"],"da":"disse","de":"diese","en":"these","fr":"ceux-ci"}
 {"L":"a esta dias","C":["av"],"en":"nowadays, these days"}
 {"L":"a esta loca","C":["av"],"en":"here, hither, to this place"}
 {"L":"a esta ora","C":["av"],"en":"at this time"}
 {"L":"a esta ves","C":["av"],"en":"this time, this once, on this occasion"}
 {"L":"en esta","C":["av"],"en":"herein"}
 {"L":"en esta loca","C":["av"],"en":"here, in this place, at this place"}
-{"L":"en esta modo","C":["av"],"da":"så","de":"so","en":"in this way, in this manner, like this, thus, so","es":"de este modo, de esta manera, así","gl":"deste xeito, así"}
+{"L":"en esta modo","C":["av"],"da":"så","de":"so","en":"in this way, in this manner, like this, thus, so","es":"de este modo, de esta manera, así","fr":"ainsi","gl":"deste xeito, así"}
 {"L":"par esta","C":["av"],"en":"hereby"}
-{"T":"r","L":"estasia","C":["vnt","rel","uma"],"d":"senti o espresa felisia o joia estrema","en":"be ecstatic, fly high"}
+{"T":"r","L":"estasia","C":["vnt","rel","uma"],"d":"senti o espresa felisia o joia estrema","en":"be ecstatic, fly high","fr":"être en extase"}
 {"L":"estasia","C":["vt"],"en":"elate, enrapture"}
-{"L":"estasia","C":["n"],"en":"ecstasy, bliss, rapture, euphoria, elation"}
+{"L":"estasia","C":["n"],"en":"ecstasy, bliss, rapture, euphoria, elation","fr":"extase"}
 {"L":"estasiante","C":["a"],"en":"ecstatic, overjoyed, euphoric, elated, blissful"}
 {"L":"estasiosa","C":["a"],"en":"beatific"}
-{"T":"r","L":"estate","C":["n","tera"],"d":"la saison la plu calda de la anio, entre primavera e autono","da":"sommer","de":"Sommer","en":"summer, summertime","es":"verano"}
+{"T":"r","L":"estate","C":["n","tera"],"d":"la saison la plu calda de la anio, entre primavera e autono","da":"sommer","de":"Sommer","en":"summer, summertime","es":"verano","fr":"été"}
 {"L":"estatal","C":["a"],"en":"summer, estival|ae"}
 {"L":"estati","C":["vt"],"en":"summer"}
 {"L":"estatin","C":["a"],"en":"summery, balmy"}
 {"L":"mediaestate","C":["n"],"en":"midsummer"}
-{"T":"r","L":"este","C":["a","tera"],"d":"(un loca o parte de loca) situada en dirije a la punto do la Sol leva a la ecuinotes; (un person o venta) veninte de esta dirije","en":"east, eastern, oriental"}
-{"L":"este","C":["n"],"da":"øst","de":"Ost","en":"east, orient","es":"este, oriente"}
+{"T":"r","L":"este","C":["a","tera"],"d":"(un loca o parte de loca) situada en dirije a la punto do la Sol leva a la ecuinotes; (un person o venta) veninte de esta dirije","en":"east, eastern, oriental","fr":"est"}
+{"L":"este","C":["n"],"da":"øst","de":"Ost","en":"east, orient","es":"este, oriente","fr":"est"}
 {"L":"este-norde-este","C":["a"],"en":"east-northeast"}
 {"L":"este-sentral","C":["a"],"en":"central east"}
 {"L":"este-sude-este","C":["a"],"en":"east-southeast"}
 {"L":"a este","C":["av"],"en":"eastward, eastwards"}
 {"L":"a este de","C":["prep"],"en":"to the east of"}
-{"T":"r","L":"estende","C":["vnt"],"d":"crese per ocupa un area plu vasta o un tempo plu longa; sperde","da":"sprede, strække, udvidde","de":"aufstriechen, strecken","en":"extend, stretch, project, span, splay, sprawl; spread, propagate, expand, perpetuate; reach out (to take something)","es":"extenderse, esparcirse, desparramarse, diseminarse, dispersarse, propagarse, estirarse, alargarse, tenderse"}
-{"L":"estende","C":["vt"],"d":"fa ce (un cosa) estende; reti (la corpo, un braso o gama, o un aparato) per ateni o ofre alga cosa","en":"extend, stretch; spread, propagate, expand; hold out, proffer","es":"extender, esparcir, desparramar, diseminar, dispersar, propagar, estirar, alargar, ensanchar, tender"}
+{"T":"r","L":"estende","C":["vnt"],"d":"crese per ocupa un area plu vasta o un tempo plu longa; sperde","da":"sprede, strække, udvidde","de":"aufstriechen, strecken","en":"extend, stretch, project, span, splay, sprawl; spread, propagate, expand, perpetuate; reach out (to take something)","es":"extenderse, esparcirse, desparramarse, diseminarse, dispersarse, propagarse, estirarse, alargarse, tenderse","fr":"s'étendre"}
+{"L":"estende","C":["vt"],"d":"fa ce (un cosa) estende; reti (la corpo, un braso o gama, o un aparato) per ateni o ofre alga cosa","en":"extend, stretch; spread, propagate, expand; hold out, proffer","es":"extender, esparcir, desparramar, diseminar, dispersar, propagar, estirar, alargar, ensanchar, tender","fr":"étendre"}
 {"L":"estende","C":["n"],"en":"extent, range, gamut, scope, reach, outreach, extension, spread, expanse, array, propagation, overhang, projection, span"}
 {"L":"estende a","C":["v"],"en":"extend to, reach"}
 {"L":"estende de alas","C":["n"],"en":"wingspan"}
@@ -10091,17 +10091,17 @@
 {"L":"estendiste","C":["n"],"en":"expansionist"}
 {"L":"estendosa","C":["a"],"en":"extensive, expansive, far-reaching, sprawling"}
 {"T":"r","L":"ester","C":["n","cim"],"d":"un cimical organica, creada par sustitui un alcil o otra grupo organica per un idrojen de un asida","en":"ester (chemistry)"}
-{"T":"r","L":"esterna","C":["a"],"d":"forminte la surfas o strutur estra la parte major de alga cosa","da":"ydre, eksteriør, extern","de":"äusser","en":"outer, exterior, external, extrinsic, extraneous","es":"externo"}
+{"T":"r","L":"esterna","C":["a"],"d":"forminte la surfas o strutur estra la parte major de alga cosa","da":"ydre, eksteriør, extern","de":"äusser","en":"outer, exterior, external, extrinsic, extraneous","es":"externo","fr":"externe"}
 {"L":"esterna","C":["n"],"en":"outside, exterior","es":"exterior"}
 {"L":"esterni","C":["vnt"],"en":"externalize|is, exteriorize|is"}
 {"L":"esterni","C":["vt"],"en":"externalize|is, exteriorize|is"}
-{"T":"r","L":"estetica","C":["n","arte","fil"],"d":"la ramo de filosofia cual studia la natur de belia","en":"esthetics|aesthetics"}
-{"L":"estetical","C":["a"],"en":"esthetic|aesthetic"}
+{"T":"r","L":"estetica","C":["n","arte","fil"],"d":"la ramo de filosofia cual studia la natur de belia","en":"esthetics|aesthetics","fr":"esthétique"}
+{"L":"estetical","C":["a"],"en":"esthetic|aesthetic","fr":"esthétique"}
 {"L":"esteticiste","C":["n"],"en":"esthete|aesthete; beautician, esthetician|aesthetician"}
 {"T":"r","L":"Esti","C":["n","jeo"],"c":"Tallinn","d":"un pais entre Rusia e Lietuva, a este de la Mar Baltica","i":"#","en":"Estonia"}
 {"L":"esti","C":["a"],"en":"Estonian"}
 {"L":"esti","C":["n","dem"],"en":"Estonian (person, language)"}
-{"T":"r","L":"estima","C":["vt","mone"],"d":"judi o calcula aprosima (la valua, cuantia o estende probable de alga cosa)","en":"estimate"}
+{"T":"r","L":"estima","C":["vt","mone"],"d":"judi o calcula aprosima (la valua, cuantia o estende probable de alga cosa)","en":"estimate","fr":"estimer"}
 {"L":"estima","C":["n"],"en":"estimate, estimation; budget"}
 {"L":"estima bruta","C":["n"],"en":"rough estimate"}
 {"L":"estima divinante","C":["n"],"en":"guesstimate"}
@@ -10110,30 +10110,30 @@
 {"L":"suestima","C":["n"],"en":"underestimate"}
 {"L":"supraestima","C":["vt"],"en":"overestimate"}
 {"L":"supraestima","C":["n"],"en":"overestimate"}
-{"T":"r","L":"estingui","C":["vt","util"],"d":"fa ce (un foco o lumina) sesa arde o brilia","p":"estíngui","en":"extinguish, put out, quench, douse (fire), turn off (lights)"}
+{"T":"r","L":"estingui","C":["vt","util"],"d":"fa ce (un foco o lumina) sesa arde o brilia","p":"estíngui","en":"extinguish, put out, quench, douse (fire), turn off (lights)","fr":"éteindre"}
 {"L":"estingui","C":["n"],"en":"extinguishing; extinction, oblivion"}
-{"L":"estinguador","C":["n"],"en":"fire extinguisher"}
+{"L":"estinguador","C":["n"],"en":"fire extinguisher","fr":"extincteur"}
 {"L":"estinguador de candela","C":["n"],"en":"candle extinguisher, snuffer"}
 {"L":"estinguida","C":["a"],"en":"extinct"}
-{"T":"r","L":"estorse","C":["vt","cim","gov"],"d":"torse e compresa (alga cosa); estrae (un licuida) de alga cosa en esta modo; oteni (un cosa) par forsa, menasa o otra metodo nonjusta","en":"wring, extort"}
+{"T":"r","L":"estorse","C":["vt","cim","gov"],"d":"torse e compresa (alga cosa); estrae (un licuida) de alga cosa en esta modo; oteni (un cosa) par forsa, menasa o otra metodo nonjusta","en":"wring, extort","fr":"extorquer"}
 {"L":"estorse","C":["n"],"en":"extortion, blackmail, shakedown"}
 {"L":"estorsador","C":["n"],"en":"wringer"}
 {"L":"estorsin","C":["a"],"en":"extortionate, exorbitant (cost)"}
 {"L":"estorsor","C":["n"],"en":"extortionist"}
-{"T":"r","L":"estra","C":["prep"],"d":"situada ultra la bordas o limitas de (un loca, tempo o grupo)","g":"preposadas#estra","u":"abita estra la site; estra peril; estra la oras de labora; estra la familia","da":"ude, uden for","de":"aussen","en":"outside (a place or time)","eo":"ekster","es":"fuera de, al exterior de"}
+{"T":"r","L":"estra","C":["prep"],"d":"situada ultra la bordas o limitas de (un loca, tempo o grupo)","g":"preposadas#estra","u":"abita estra la site; estra peril; estra la oras de labora; estra la familia","da":"ude, uden for","de":"aussen","en":"outside (a place or time)","eo":"ekster","es":"fuera de, al exterior de","fr":"hors de"}
 {"T":"s","d":"movente a ultra la bordas o limitas de (alga cosa)","u":"la gato ia core estra la caxa","en":"(moving) out of"}
-{"T":"s","d":"no incluinte, con eseta de, ma no","u":"nun estra la golor pote toca la bal; me ia vide la serie estra la episodio final","v":"cuando, si","da":"foruden, ved siden af, eksklusiv","de":"ausser, abgesehen von","en":"except, except for, excepting, with the exception of, apart from, other than","eo":"krom, escepte de","es":"excepto, aparte de, más que"}
+{"T":"s","d":"no incluinte, con eseta de, ma no","u":"nun estra la golor pote toca la bal; me ia vide la serie estra la episodio final","v":"cuando, si","da":"foruden, ved siden af, eksklusiv","de":"ausser, abgesehen von","en":"except, except for, excepting, with the exception of, apart from, other than","eo":"krom, escepte de","es":"excepto, aparte de, más que","fr":"excepté, sauf"}
 {"L":"estra-","C":["pf","tecn"],"d":"a estra, a ultra, en ajunta; indicante un person relatada par la resposi de un jenitor","en":"extra- (outer, additional); step- (relation)"}
 {"L":"estra comprende","C":["esp"],"en":"beyond comprehension"}
 {"L":"a estra","C":["a"],"en":"outward"}
 {"L":"a estra","C":["prep"],"de":"aus","en":"(moving) out of"}
-{"L":"a estra","C":["av"],"da":"ud, ude","de":"außen, draußen, heraus","en":"outside; outwards","es":"fuera, afuera, por fuera","gl":"fóra; por fóra"}
+{"L":"a estra","C":["av"],"da":"ud, ude","de":"außen, draußen, heraus","en":"outside; outwards","es":"fuera, afuera, por fuera","fr":"dehors","gl":"fóra; por fóra"}
 {"L":"de estra","C":["prep"],"en":"(moving) from outside"}
 {"L":"de estra","C":["av"],"en":"(moving) from outside"}
-{"T":"r","L":"estracomun","C":["a"],"d":"multe noncomun, nonormal o notable","en":"extraordinary"}
+{"T":"r","L":"estracomun","C":["a"],"d":"multe noncomun, nonormal o notable","en":"extraordinary","fr":"extraordinaire"}
 {"T":"r","L":"estradi","C":["vt","gov"],"d":"dona (un person acusada o condenada de un crimin) a la autoria de un pais stranjer do la crimin ia es fada","en":"extradite"}
 {"L":"estradi","C":["n"],"en":"extradition"}
-{"T":"r","L":"estrae","C":["vt"],"d":"prende (alga cosa) de un loca interna o ascondeda","da":"udtrække","en":"extract, remove, bring out, take out, pluck out, excise, excerpt, extricate, glean","es":"extraer"}
+{"T":"r","L":"estrae","C":["vt"],"d":"prende (alga cosa) de un loca interna o ascondeda","da":"udtrække","en":"extract, remove, bring out, take out, pluck out, excise, excerpt, extricate, glean","es":"extraer","fr":"extraire"}
 {"L":"estrae","C":["n"],"en":"extraction, excision, removal, resection"}
 {"L":"aida estrae","C":["vt"],"en":"help out, help (someone) to climb out"}
 {"L":"estrae de dente","C":["n"],"en":"tooth extraction"}
@@ -10142,7 +10142,7 @@
 {"L":"estraeda","C":["n"],"da":"uddrag, ekstrakt","en":"extraction, extract, excerpt, clip (thing extracted)"}
 {"L":"nonestrable","C":["a"],"en":"inextricable"}
 {"T":"r","L":"estragon","C":["n","pla","cos"],"d":"un planta perene en familia de margarita, con folias magra e bonodorosa usada en cosini","i":"#","t":"Artemisia dracunculus","en":"terragon (plant)"}
-{"T":"r","L":"estragrande","C":["a"],"d":"(un produida comersial) multe grande","en":"extralarge, king-size"}
+{"T":"r","L":"estragrande","C":["a"],"d":"(un produida comersial) multe grande","en":"extralarge, king-size","fr":"extra-large"}
 {"T":"r","L":"estralegal","C":["a"],"d":"(un ata o situa) no regulada par lege","en":"extralegal, extrajudicial"}
 {"T":"r","L":"estralinia","C":["a","info"],"d":"no controlada par o juntada a un computador o rede esterna","en":"offline"}
 {"T":"r","L":"estramural","C":["a"],"d":"locada estra la mures o bordas de un vila o site; (un curso) separada de la program xef de un scola o universia","en":"extramural"}
@@ -10150,13 +10150,13 @@
 {"L":"estrapola","C":["n"],"en":"extrapolation"}
 {"T":"r","L":"estrasensal","C":["a","mit"],"d":"usante un modo de persepi otra ca la sensas, como telepatia","en":"extrasensory"}
 {"T":"r","L":"estrasposal","C":["a"],"d":"(un relata sesal) con algun otra ca sua spos","en":"extramarital"}
-{"T":"r","L":"estrateran","C":["a","ast"],"d":"ultra la Tera o sua atmosfera; no de esta planeta","en":"extraterrestrial, alien"}
+{"T":"r","L":"estrateran","C":["a","ast"],"d":"ultra la Tera o sua atmosfera; no de esta planeta","en":"extraterrestrial, alien","fr":"extraterrestre"}
 {"L":"estrateran","C":["n"],"i":"#","en":"extraterrestrial, alien"}
 {"T":"r","L":"estrateritorial","C":["a","mone"],"d":"fabricada, locada o comersiante estra sua propre nasion, tipal per esplota custas plu basa o regulas min sever","en":"offshore (finance)"}
-{"T":"r","L":"estravagante","C":["a","mone"],"d":"noncapas de sesa spende mone o usa recursos; con plu ca la cuantia asetable o conveninte; notable per un stilo multe colorosa o noncomun","en":"extravagant, flamboyant, over the top, grandiloquent"}
+{"T":"r","L":"estravagante","C":["a","mone"],"d":"noncapas de sesa spende mone o usa recursos; con plu ca la cuantia asetable o conveninte; notable per un stilo multe colorosa o noncomun","en":"extravagant, flamboyant, over the top, grandiloquent","fr":"extravagant"}
 {"L":"estravagante","C":["n"],"en":"extravaganza, spectacle, show"}
 {"L":"estravagantia","C":["n"],"en":"extravagance, panache"}
-{"T":"r","L":"estrema","C":["a"],"d":"a grado la plu alta; la plu distante de un sentro o punto spesifada; (un ata) sever o radisal; (un person o opina) promovente tal atas","en":"extreme; furthest, outermost; radical, drastic, critical, hardcore"}
+{"T":"r","L":"estrema","C":["a"],"d":"a grado la plu alta; la plu distante de un sentro o punto spesifada; (un ata) sever o radisal; (un person o opina) promovente tal atas","en":"extreme; furthest, outermost; radical, drastic, critical, hardcore","fr":"extrème"}
 {"L":"estrema","C":["av"],"en":"extremely, tremendously"}
 {"L":"estrema","C":["n"],"en":"extreme, extremity (furthest point)"}
 {"L":"estremi","C":["vnt"],"en":"radicalize|is"}
@@ -10171,8 +10171,8 @@
 {"L":"estremofilica","C":["a"],"en":"extremophilic"}
 {"L":"estremofilica","C":["n"],"en":"extremophile"}
 {"T":"r","L":"estrildido","C":["n","avia"],"d":"un pinson en un familia de Australia e Asia sude-este, notada per sua nidos grande cupolin","i":"#","t":"Esterldidae","en":"waxbill (bird)"}
-{"T":"r","L":"estro","C":["n","bio"],"d":"un periodo reaveninte de interesa sesal e fertilia en multe mamales fema","en":"estrus|oe"}
-{"L":"en estro","C":["a"],"en":"in heat, on heat"}
+{"T":"r","L":"estro","C":["n","bio"],"d":"un periodo reaveninte de interesa sesal e fertilia en multe mamales fema","en":"estrus|oe","fr":"oestrus"}
+{"L":"en estro","C":["a"],"en":"in heat, on heat","fr":"en chaleur"}
 {"T":"r","L":"estrojen","C":["n","bio","cim"],"d":"un ormon steroide cual promove la developa e manteni de cualias fema de la corpo; un ormon simil, artifis produida per usa en contraconsepi e alga maladias de menopausa e menstrua","en":"estrogen|oestrogen"}
 {"T":"r","L":"estroverti","C":["vnt","uma"],"d":"es sosial e espresosa; (en psicolojia) es plu interesada en cosas esterna","en":"be extrovert, be extravert"}
 {"L":"estroverti","C":["n"],"en":"extroversion, extraversion"}
@@ -10181,28 +10181,28 @@
 {"T":"r","L":"estrui","C":["vt"],"d":"puxa o forsa (alga cosa) a estra","en":"extrude"}
 {"L":"estrui","C":["n"],"en":"extrusion"}
 {"L":"estruador","C":["n"],"en":"extruder; ricer (utensil)"}
-{"T":"r","L":"estuario","C":["n","tera"],"d":"la boca mareal de un rio grande","i":"#","en":"estuary, delta, tidal mouth, embouchure, firth"}
+{"T":"r","L":"estuario","C":["n","tera"],"d":"la boca mareal de un rio grande","i":"#","en":"estuary, delta, tidal mouth, embouchure, firth","fr":"estuaire"}
 {"T":"r","L":"esuan","C":["a","dem"],"d":"pertinente a la Statos Unida de America","en":"US, American"}
 {"L":"esuan","C":["n"],"en":"American"}
 {"T":"r","L":"esurbe","C":["n","gov"],"d":"un distrito rica ultra la suburbes de un site","en":"exurb (rich outlying suburb)"}
 {"L":"esurban","C":["a"],"en":"exurban"}
 {"L":"esurban","C":["n"],"en":"exurbanite"}
 {"L":"esurbes","C":["n","pl"],"en":"exurbia"}
-{"T":"r","L":"esvasa","C":["vnt"],"d":"(un veste o simil) deveni gradal plu abrida o larga; (un punio) abri","en":"flare, open up, open out, spread out; open (hand), unclench (fist); countersink"}
-{"L":"esvasada","C":["a"],"da":"flakkende","de":"glockenförmig","en":"flared","es":"con vuelo (falda), acampanado (vestido o pantalón)"}
+{"T":"r","L":"esvasa","C":["vnt"],"d":"(un veste o simil) deveni gradal plu abrida o larga; (un punio) abri","en":"flare, open up, open out, spread out; open (hand), unclench (fist); countersink","fr":"s'évaser"}
+{"L":"esvasada","C":["a"],"da":"flakkende","de":"glockenförmig","en":"flared","es":"con vuelo (falda), acampanado (vestido o pantalón)","fr":"évasé"}
 {"T":"r","L":"et-","C":["pf","tecn","cim"],"d":"nominte alcanos e otra idrocarbonos con du atomes de carbono","en":"eth- (chemistry)"}
 {"T":"r","L":"eta-","C":["pf","tecn"],"d":"sete","en":"hepta- (seven)"}
 {"T":"r","L":"eta","C":["n"],"d":"la letera sete de la alfabeta elinica","s":"Η η","en":"eta (Greek letter)"}
 {"T":"r","L":"-eta","C":["sf","n"],"d":"ajuntada a un nom per nomi un varia plu peti, como la enfante de un animal o un veste plu interna, corta o simple","u":"caseta; gradeta; boveta; camiseta; sibileta","en":"(smaller or simpler variant) -ette, -kin, -let, -ling, -ie, -y"}
 {"L":"-eta","C":["sf","v"],"d":"ajuntada a un verbo per formi un otra verbo indicante la mesma ata en modo min intensa","u":"pluveta","en":"(weaker variant) -le"}
-{"T":"r","L":"etagon","C":["a","mat"],"d":"(un forma plana) con sete lados reta e sete angulos","en":"heptagonal"}
-{"L":"etagon","C":["n"],"en":"heptagon"}
+{"T":"r","L":"etagon","C":["a","mat"],"d":"(un forma plana) con sete lados reta e sete angulos","en":"heptagonal","fr":"heptagonal"}
+{"L":"etagon","C":["n"],"en":"heptagon","fr":"heptagone"}
 {"T":"r","L":"etametre","C":["n","ling"],"d":"un linia de poesia composada de sete metres","en":"heptameter (poetry)"}
 {"T":"r","L":"etano","C":["n","cim"],"d":"un gas flamable, sin color e odor, cual es un composante de petrolio e gas natural","en":"ethane"}
 {"T":"r","L":"etanol","C":["n","cim"],"d":"un licuida flamable e sin color cual on usa como un solvente o carburante e como la ingrediente enebriante de vino, bir e otra bevidas alcolosa","en":"ethanol"}
 {"T":"r","L":"etatlon","C":["n","spo"],"d":"un sporte en cual on partisipa en sete concursos de core, salta e lansa","en":"heptathlon"}
 {"L":"etatlonor","C":["n"],"en":"heptathlete"}
-{"T":"r","L":"etc","C":["c"],"d":"e tal cosas, e tal continuante","en":"etc., et cetera, and so on, and so forth, and whatnot"}
+{"T":"r","L":"etc","C":["c"],"d":"e tal cosas, e tal continuante","en":"etc., et cetera, and so on, and so forth, and whatnot","fr":"etc."}
 {"T":"r","L":"eter","C":["n","cim"],"d":"un licuida flamable, bonodorosa e sin color, usada como un solvente e un anestesente","en":"ether"}
 {"L":"eteri","C":["vt"],"en":"etherize"}
 {"L":"eterin","C":["a"],"en":"ethereal"}
@@ -10217,28 +10217,28 @@
 {"T":"r","L":"eteronim","C":["a","ling"],"d":"(un parola) con la mesma spele como un otra, ma con sinifia e pronunsia diferente","en":"heteronymous"}
 {"L":"eteronim","C":["n"],"en":"heteronym"}
 {"L":"eteronimia","C":["n"],"en":"heteronymy"}
-{"T":"r","L":"eterosesal","C":["a","bio","uma"],"d":"sesal atraeda a persones de la otra seso; pertinente a esta spesie de atrae","en":"heterosexual"}
+{"T":"r","L":"eterosesal","C":["a","bio","uma"],"d":"sesal atraeda a persones de la otra seso; pertinente a esta spesie de atrae","en":"heterosexual","fr":"hétérosexuel"}
 {"L":"eterosesal","C":["n"],"en":"heterosexual"}
 {"L":"eterosesalia","C":["n"],"en":"heterosexuality"}
 {"T":"r","L":"eterosiclal","C":["a","cim"],"d":"(un composada) de cual sua molecula conteni un anelo de atomes de minima du elementos","en":"heterocyclic"}
 {"T":"r","L":"eterotrof","C":["a","bio"],"d":"(un organisme) nurinte se de materias organica complicada","en":"heterotrophic (biology)"}
 {"L":"eterotrof","C":["n"],"en":"heterotroph"}
 {"L":"eterotrofia","C":["n"],"en":"heterotrophia"}
-{"T":"r","L":"etica","C":["n","fil"],"d":"la ramo de filosofia cual studia la condui bon o mal de persones","en":"ethics"}
-{"L":"etical","C":["a"],"en":"ethical"}
+{"T":"r","L":"etica","C":["n","fil"],"d":"la ramo de filosofia cual studia la condui bon o mal de persones","en":"ethics","fr":"éthique"}
+{"L":"etical","C":["a"],"en":"ethical","fr":"éthique"}
 {"L":"nonetical","C":["a"],"en":"unethical"}
-{"T":"r","L":"eticeta","C":["n","vest","info"],"d":"un peso peti de paper, stofa o otra materia, fisada a un ojeto per dona informa sur lo; (en informatica) un cadena de sinias usada per identifia o categori alga cosa en testo o otra datos","i":"#","da":"nærke, label","de":"Etikett","en":"label, tag, sticker, docket; tag (markup)","es":"etiqueta"}
+{"T":"r","L":"eticeta","C":["n","vest","info"],"d":"un peso peti de paper, stofa o otra materia, fisada a un ojeto per dona informa sur lo; (en informatica) un cadena de sinias usada per identifia o categori alga cosa en testo o otra datos","i":"#","da":"nærke, label","de":"Etikett","en":"label, tag, sticker, docket; tag (markup)","es":"etiqueta","fr":"étiquette"}
 {"L":"eticeti","C":["vt"],"en":"label, tag"}
 {"L":"eticetida","C":["a"],"en":"labeled|ll"}
 {"L":"noneticetida","C":["a"],"en":"unlabeled|ll"}
 {"T":"r","L":"etil","C":["n"],"d":"la radical idrocarbonal {-C2H5}, derivada de etano e presente en multe composadas organica","en":"ethyl (chemistry)"}
 {"T":"r","L":"etilen","C":["n","cim"],"d":"un gas flamable de idrocarbono, trovada en gas natural, gas de carbon, olio cru e fruta matur, usada en la fabrica de polietilen","en":"ethylene, ethene"}
-{"T":"r","L":"etimolojia","C":["n","ling"],"d":"la studia de la orijina de parolas e sua sinifias cambiante tra istoria","en":"etymology"}
+{"T":"r","L":"etimolojia","C":["n","ling"],"d":"la studia de la orijina de parolas e sua sinifias cambiante tra istoria","en":"etymology","fr":"étymologie"}
 {"L":"etimolojial","C":["a"],"en":"etymological"}
 {"T":"r","L":"etiolojia","C":["n","med"],"d":"la causa o causas de un maladia; un investiga de la causa de alga cosa, tipal espresada en modo istorial o mital","en":"etiology|ae"}
-{"T":"r","L":"etnico","C":["n","uma"],"d":"un popla con un cultur, lingua, relijio o orijina comun, tipal contrastada con la nasion en cual lo abita","en":"ethnic group"}
-{"L":"etnical","C":["a"],"en":"ethnic"}
-{"L":"etnicia","C":["n"],"en":"ethnicity"}
+{"T":"r","L":"etnico","C":["n","uma"],"d":"un popla con un cultur, lingua, relijio o orijina comun, tipal contrastada con la nasion en cual lo abita","en":"ethnic group","fr":"groupe ethnique"}
+{"L":"etnical","C":["a"],"en":"ethnic","fr":"ethnique"}
+{"L":"etnicia","C":["n"],"en":"ethnicity","fr":"ethnicité"}
 {"T":"r","L":"etnobiolojia","C":["n","bio"],"d":"la studia de la biolojia de un etnico spesifada","en":"ethnobiology"}
 {"T":"r","L":"etnocoreolojia","C":["n","mus"],"en":"ethnochoreology"}
 {"T":"r","L":"etnografia","C":["n","uma"],"d":"la studia de un etnico","en":"ethnography"}
@@ -10255,10 +10255,10 @@
 {"L":"etrusca","C":["a","dem","ist"],"en":"Etruscan"}
 {"L":"etrusca","C":["n"],"en":"Etruscan"}
 {"T":"r","L":"eu-","C":["pf","tecn"],"d":"bon, abundante, rica","en":"eu- (good)"}
-{"T":"r","L":"eucalipto","C":["n","pla"],"d":"un arbor perene e rapida cresente de Australasia, valuada per sua lenio, olio, goma e resina, e como un arbor ornal","i":"#","t":"Eucalyptus","en":"eucalyptus"}
+{"T":"r","L":"eucalipto","C":["n","pla"],"d":"un arbor perene e rapida cresente de Australasia, valuada per sua lenio, olio, goma e resina, e como un arbor ornal","i":"#","t":"Eucalyptus","en":"eucalyptus","fr":"eucalyptus"}
 {"T":"r","L":"eucariota","C":["n","bio"],"d":"un organisme composada de un o plu selulas en cual la adn ave la forma de cromosomas contenida en un nucleo","en":"eukaryote, eucaryote (organism)"}
 {"L":"eucariotal","C":["a"],"en":"eukaryotic, eucaryotic"}
-{"T":"r","L":"eucaristia","C":["n","rel"],"d":"la rituo cristian cual recorda la Come Ultima, en cual on santi e come pan e vino; esta pan e vino","en":"eucharist"}
+{"T":"r","L":"eucaristia","C":["n","rel"],"d":"la rituo cristian cual recorda la Come Ultima, en cual on santi e come pan e vino; esta pan e vino","en":"eucharist","fr":"eucharistie"}
 {"T":"r","L":"Euclide","C":["n","mat"],"d":"un matematiciste de Elas antica ci ia scrive un libro major de aprende jeometria","en":"Euclid"}
 {"L":"euclidal","C":["a"],"en":"Euclidean"}
 {"L":"noneuclidal","C":["a"],"en":"non-Euclidean"}
@@ -10266,13 +10266,13 @@
 {"T":"r","L":"eudicota","C":["n","pla"],"d":"un clado multe grande de plantas florinte, incluinte ranunculos, nelumbos, spinaxes, cactos, ribes e peonias","en":"eudicot (botany)"}
 {"T":"r","L":"eufonia","C":["n","avia"],"d":"un avia tropical, blu a supra e jala a su, en familia de pinson","i":"#","t":"Euphonia","en":"euphonia (bird)"}
 {"T":"r","L":"eufonio","C":["n","mus"],"d":"un strumento metal de venta, cual sembla un tuba peti","i":"#","en":"euphonium"}
-{"T":"r","L":"euforbia","C":["n","pla"],"d":"un planta o arboreta erbin, con flores peti e verde e un latex letin","i":"#","t":"Euphorbia","en":"euphorbia, spurge (plant)"}
+{"T":"r","L":"euforbia","C":["n","pla"],"d":"un planta o arboreta erbin, con flores peti e verde e un latex letin","i":"#","t":"Euphorbia","en":"euphorbia, spurge (plant)","fr":"euphorbe"}
 {"T":"r","L":"Eufrates, Rio","C":["n","jeo"],"d":"un rio en Asia sude-ueste cual comensa en la montanias de Turcia este e junta se a la Rio Tigris en Irac sude","i":"Rio-Eufrates","en":"River Euphrates"}
 {"T":"r","L":"eujenetica","C":["n","bio"],"d":"la siensa de boni un popla par elevas controlada per plu frecuenti la cualias erital cual es desirada","en":"eugenics"}
 {"L":"eujenetical","C":["a"],"en":"eugenetical"}
 {"L":"eujeneticisme","C":["n"],"d":"un filosofia sosial cual crede ce on debe pratica eujenetica","en":"eugenics"}
 {"T":"r","L":"eumetazon","C":["n","bio"],"d":"un membro de un clado major de tota animales, estra sponjas, placozones e alga otra organismes rara o estinguida","en":"eumetazoon (pl. eumetazoa) (organism)"}
-{"T":"r","L":"eunuco","C":["n","uma","ist"],"d":"un om castrada, istorial tipal empleada per garda la salas de femes en cortes asian","en":"eunuch"}
+{"T":"r","L":"eunuco","C":["n","uma","ist"],"d":"un om castrada, istorial tipal empleada per garda la salas de femes en cortes asian","en":"eunuch","fr":"eunuque"}
 {"T":"r","L":"Eurasia","C":["n","jeo"],"d":"la parte de la Tera composada de Europa e Asia","en":"Eurasia"}
 {"L":"eurasian","C":["a"],"en":"Eurasian"}
 {"T":"r","L":"eureca","C":["esc"],"d":"espresante joia o sasia a un trova o descovre","en":"eureka"}
@@ -10280,7 +10280,7 @@
 {"T":"r","L":"eurilaimo","C":["n","avia"],"d":"un avia peti con testa grande, beco larga, e tipal plumas colorosa","i":"#","t":"Eurylaimidae","en":"broadbill (bird)"}
 {"T":"r","L":"euristica","C":["n"],"d":"un modo de aprende o solve problemes par metodos pratical e sufisinte","en":"heuristic"}
 {"L":"euristical","C":["a"],"en":"heuristic"}
-{"T":"r","L":"euro","C":["n","mone"],"d":"la unia de mone en la Uni European","en":"euro"}
+{"T":"r","L":"euro","C":["n","mone"],"d":"la unia de mone en la Uni European","en":"euro","fr":"euro"}
 {"T":"r","L":"Europa","C":["n","jeo"],"d":"un continente en la emisfera norde, separada de Africa a la sude par la Mar Mediteraneo, e de Asia a la este par la Streta Bosporo, la Montes Caucaso, e la Montes Ural","i":"#","en":"Europe"}
 {"L":"european","C":["a"],"en":"European"}
 {"L":"european","C":["n","dem"],"en":"European"}
@@ -10303,17 +10303,17 @@
 {"T":"r","L":"evacua","C":["vt"],"d":"move (algun) de un loca perilosa a un loca plu secur; fa ce persones sorti de (un loca perilosa)","en":"evacuate"}
 {"L":"evacua","C":["n"],"en":"evacuation"}
 {"L":"evacuada","C":["n"],"en":"evacuee"}
-{"T":"r","L":"evade","C":["vt","gov"],"d":"deveni libre de (un prison o simil); evita (un situa nondesirada)","da":"flygte, undslippe","de":"entgehen","en":"escape, flee from","es":"escapar, huir, evadirse, fugarse, eludirse"}
+{"T":"r","L":"evade","C":["vt","gov"],"d":"deveni libre de (un prison o simil); evita (un situa nondesirada)","da":"flygte, undslippe","de":"entgehen","en":"escape, flee from","es":"escapar, huir, evadirse, fugarse, eludirse","fr":"s'évader de, s'échapper de"}
 {"L":"evade","C":["n"],"en":"escape, breakout, getaway"}
 {"L":"evade de prison","C":["n"],"en":"jailbreak"}
 {"L":"evade de realia","C":["n"],"en":"escapism"}
 {"L":"evador","C":["n"],"en":"escapee"}
 {"L":"nonevadable","C":["a"],"en":"inescapable"}
-{"T":"r","L":"evalua","C":["vt","mone"],"d":"formi un idea de la valua, cuantia o cualia de (alga cosa)","en":"evaluate, appraise, assess, measure; screen (for suitability)"}
+{"T":"r","L":"evalua","C":["vt","mone"],"d":"formi un idea de la valua, cuantia o cualia de (alga cosa)","en":"evaluate, appraise, assess, measure; screen (for suitability)","fr":"évaluer"}
 {"L":"evalua","C":["n"],"en":"evaluation, appraisal"}
 {"L":"evalua medical","C":["n"],"en":"check-up"}
 {"L":"reevalua","C":["vt"],"en":"re-evaluate, reappraise, reassess"}
-{"T":"r","L":"evanjelio","C":["n","rel"],"d":"(en la Biblia) cada de la cuatro libros prima de la Atesta Nova cual nara la vive e instrui de Jesus","en":"gospel"}
+{"T":"r","L":"evanjelio","C":["n","rel"],"d":"(en la Biblia) cada de la cuatro libros prima de la Atesta Nova cual nara la vive e instrui de Jesus","en":"gospel","fr":"évangile"}
 {"L":"evanjelial","C":["a"],"en":"evangelical"}
 {"L":"evanjelialisme","C":["n"],"en":"evangelicalism"}
 {"L":"evanjelisme","C":["n"],"en":"evangelism"}
@@ -10323,12 +10323,12 @@
 {"T":"r","L":"eversa","C":["vt","mat"],"d":"fa ce la interna de (un cosa) deveni la esterna, e la esterna deveni la interna","en":"evert, turn inside-out","fr":"retourner, remettre à l'endroit, mettre à l'envers"}
 {"L":"eversa","C":["n"],"en":"eversion"}
 {"L":"eversada","C":["a"],"en":"inside-out","fr":"à l'enverse"}
-{"T":"r","L":"evidente","C":["a","fil","gov"],"d":"clar per vide o comprende","en":"evident, in evidence, apparent, obvious, manifest, blatant, flagrant, overt, unmistakable"}
+{"T":"r","L":"evidente","C":["a","fil","gov"],"d":"clar per vide o comprende","en":"evident, in evidence, apparent, obvious, manifest, blatant, flagrant, overt, unmistakable","fr":"évident"}
 {"L":"evidente","C":["av"],"en":"evidently, obviously, of course"}
 {"L":"evidenti","C":["vnt"],"en":"become evident, turn out (to be), prove (to be)"}
 {"L":"evidenti","C":["vt"],"en":"make evident, expose, reveal"}
 {"L":"evidentia","C":["n"],"en":"obviousness"}
-{"T":"r","L":"evita","C":["vt"],"d":"resta a via de; no vade a o tra (un loca); susede no encontra (un person o situa); preveni (un situa)","da":"undgå","de":"vermeiden","en":"avoid, evade, elude, dodge, shun, shirk, stay away from, keep away from, bypass, shirk","es":"evitar, evadir, mantenerse lejos de"}
+{"T":"r","L":"evita","C":["vt"],"d":"resta a via de; no vade a o tra (un loca); susede no encontra (un person o situa); preveni (un situa)","da":"undgå","de":"vermeiden","en":"avoid, evade, elude, dodge, shun, shirk, stay away from, keep away from, bypass, shirk","es":"evitar, evadir, mantenerse lejos de","fr":"éviter"}
 {"L":"evita","C":["n"],"en":"evasion, avoidance"}
 {"L":"evita apena","C":["v"],"en":"narrowly avoid, have a narrow escape, have a near miss, have a close shave"}
 {"L":"evita de scola","C":["n"],"en":"truancy"}
@@ -10340,10 +10340,10 @@
 {"L":"evitor","C":["n"],"en":"avoider, evader"}
 {"L":"evitor de imposta","C":["n"],"en":"tax dodger"}
 {"L":"nonevitable","C":["a"],"en":"inevitable, unavoidable, inexorable"}
-{"T":"r","L":"evoca","C":["vt","uma"],"d":"(un cosa) fa ce on recorda (un otra); fa ce algun ofre (un responde o reata)","en":"evoke, elicit, remind of, conjure up, call to mind"}
+{"T":"r","L":"evoca","C":["vt","uma"],"d":"(un cosa) fa ce on recorda (un otra); fa ce algun ofre (un responde o reata)","en":"evoke, elicit, remind of, conjure up, call to mind","fr":"évoquer"}
 {"L":"evoca","C":["n"],"en":"evocation, connotation, resonance"}
 {"L":"evocante","C":["a"],"en":"evocative"}
-{"T":"r","L":"evolui","C":["vnt","bio"],"d":"(un forma complicada) developa gradal de un forma simple; developa tra jeneras seguente, tipal par causa de eleje natural","en":"evolve"}
+{"T":"r","L":"evolui","C":["vnt","bio"],"d":"(un forma complicada) developa gradal de un forma simple; developa tra jeneras seguente, tipal par causa de eleje natural","en":"evolve","fr":"évoluer"}
 {"L":"evolui","C":["vt"],"en":"evolve"}
 {"L":"evolui","C":["n"],"en":"evolution"}
 {"L":"evolual","C":["a"],"en":"evolutionary"}
