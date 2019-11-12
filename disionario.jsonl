@@ -109,7 +109,7 @@
 {"L":"abridia","C":["n"],"en":"openness","es":"espacio, amplitud","he":"פתיחות"}
 {"L":"abrinte","C":["a"],"en":"opening","es":"abierto, de apertura","he":"פתיחה"}
 {"L":"abrinte vias","C":["a"],"en":"pioneering, groundbreaking","es":"pionero, innovador, revolucionario","he":"חלוצי, פורץ דרך"}
-{"L":"de fonte abrida","C":["a","info"],"d":"(un program) de cual sua codigo de fonte es libre disponable","en":"open-source","eo":"malfermitkoda","es":"de código abierta","he":"קוד פתוח"}
+{"L":"de fonte abrida","C":["a","info"],"d":"(un program) de cual sua codigo de fonte es libre disponable","en":"open-source","eo":"malfermitkoda","es":"de código abierto","he":"קוד פתוח"}
 {"L":"nonabrida","C":["a"],"en":"unopened","es":"cerrado","he":"שלא נפתח, עדיין במצב סגור"}
 {"L":"pico abrida","C":["a"],"en":"slightly open, ajar","es":"entreabierto","he":"פתוח באופן חלקי"}
 {"L":"reabri","C":["vnt"],"en":"reopen","eo":"remalfermiĝi","es":"reabrirse","fr":"se rouvrir","he":"להיפתח שוב"}
@@ -119,9 +119,9 @@
 {"T":"r","L":"abricoco","C":["n","pla"],"d":"un arbor cual produi abricocas","t":"Prunus armeniaca","en":"apricot (tree)","eo":"abrikotujo, abrikotarbo","es":"albaricoquero, árbol de damasco","fr":"abricotier","he":"מישמש (עץ)"}
 {"L":"abricoca","C":["n","pla","cos"],"d":"un fruta mol e oranin jala, simil a un pesca peti","i":"#","en":"apricot (fruit)","eo":"abrikoto","es":"albaricoque, damasco, chabacano","fr":"abricot","he":"מישמש"}
 {"T":"r","L":"abrioio","C":["n","vn"],"d":"un descovre surprendente","en":"eye-opener, revelation","es":"revelación, sorpresa","he":"גילוי, חשיפה, שפיכת אור"}
-{"T":"r","L":"abrisita","C":["n","vn"],"d":"un sinia de puntua introduinte un parola o frase sitada","s":"“ ‘","en":"opening quotation mark","he":"מרכאות פותחות"}
+{"T":"r","L":"abrisita","C":["n","vn"],"d":"un sinia de puntua introduinte un parola o frase sitada","s":"“ ‘","en":"opening quotation mark","es":"comillas de apertura","he":"מרכאות פותחות"}
 {"T":"r","L":"abrivia","C":["n","vn"],"d":"la person prima ci esplora un loca o idea","p":"abrivía","en":"pioneer, pathfinder, trailblazer","eo":"pioniro","es":"pionero","fr":"pionier","he":"חלוץ, פורץ דרך"}
-{"T":"r","L":"abrotano","C":["n","pla"],"d":"un artemisia brosin de Europa sude","i":"#","t":"Artemisia abrotanum","en":"southernwood (plant)","he":"צמח ממשפחת המורכבים מאירופה הדרומית"}
+{"T":"r","L":"abrotano","C":["n","pla"],"d":"un artemisia brosin de Europa sude","i":"#","t":"Artemisia abrotanum","en":"southernwood (plant)","es":"abrótano macho (planta)","he":"צמח ממשפחת המורכבים מאירופה הדרומית"}
 {"T":"r","L":"abugida","C":["n","ling"],"d":"un sistem de scrive cual indica vocales par ajunta sinietas a la sinias per consonantes","i":"#","o":"de la leteras prima de la alfabeta Ge'ez, 'ä bu gi da","en":"abugida, alphasyllabary (writing system)","eo":"abugido","es":"abugida, alfasilabario, alfabeto silábico","he":"אבוגידה, כתב הברתי"}
 {"T":"r","L":"abunda","C":["vnt"],"d":"esiste en un cuantia grande e sufisinte","en":"abound","eo":"abundi","es":"abundar","fr":"être abondant","he":"להיות שופע"}
 {"L":"abunda","C":["n"],"en":"abundance, plenty, plenitude","eo":"abundo","es":"abundancia","fr":"abondance","he":"שפע, ריבוי, גודש"}
@@ -2457,6 +2457,7 @@
 {"L":"on ave asi alga ideas","C":["esp"],"en":"here are some ideas","he":"הנה כמה רעיונות"}
 {"L":"on ave un problem","C":["esp"],"en":"there is a problem","he":"ישנה בעיה"}
 {"L":"on no ave","C":["v"],"en":"there is not, there are not","he":"אין"}
+{"L":"avor","C":["n"],"en":"haver, one who has (property, etc)"}
 {"T":"r","L":"avena","C":["n","pla","cos"],"d":"un planta sereal, cultivada en climas fria; la gran de esta, comeda par umanas e animales","i":"#","t":"Avena","da":"havre","de":"Hafer","en":"oat, oats","es":"avena","fr":"avoine","he":"שיבולת שועל"}
 {"T":"r","L":"aveni","C":["vnt"],"d":"(un ata) es fada, o reali se","da":"ske, hænde","de":"geschehen","en":"happen, occur, take place, transpire","es":"suceder, ocurrir, acontecer, pasar","fr":"se produire","he":"לקרות, להתרחש"}
 {"L":"aveni","C":["vt"],"en":"cause to happen, stage, hold (event)","he":"לגרום למשהו לקרות, להוציא לפועל; לקיים (אירוע)"}
@@ -2584,8 +2585,8 @@
 {"L":"azuli","C":["vnt"],"en":"turn light blue","he":"להפוך לצבע תכלת"}
 {"L":"azuli","C":["vt"],"en":"turn light blue","he":"להפוך לצבע תכלת"}
 {"L":"verdin azul","C":["a"],"en":"greenish-blue, greeny-blue","es":"azul verdoso","fr":"bleu vert","he":"כחול ירקרק"}
-{"T":"r","L":"b","C":["sim"],"d":"la letera du de la alfabeta roman; la nota sete de la scala diatonica de C major","p":"be","en":"b","fr":"b; si","he":"האות השנייה באלפבית הלטיני"}
-{"T":"r","L":"ba","C":["esc"],"d":"espresante un manca de interesa","en":"bah, nonsense, rubbish, who cares?","he":"למי אכפת?, שטויות!, להביע חוסר עניין"}
+{"T":"r","L":"b","C":["sim"],"d":"la letera du de la alfabeta roman; la nota sete de la scala diatonica de C major","p":"be","en":"b","es":"b","fr":"b; si","he":"האות השנייה באלפבית הלטיני"}
+{"T":"r","L":"ba","C":["esc"],"d":"espresante un manca de interesa","en":"bah, nonsense, rubbish, who cares?","es":"bah, ¿a quién le importa?","he":"למי אכפת?, שטויות!, להביע חוסר עניין"}
 {"T":"r","L":"babau","C":["n","mit","uma"],"d":"un mal spirito imajinada, istorial usada per asusta enfantes; un person o cosa cual on regarda tipal como un ojeto de teme; un causa de teme, irita o despeta osesente","da":"bussemand","en":"bogeyman, boogeyman, bogey, bogles, bugaboo, bugbear","eo":"infantimigulo","es":"coco, hombre del saco, duende, trasgo, espantajo","he":"ישות דמיונית מאיימת"}
 {"T":"r","L":"babca","C":["n","cos"],"d":"un torta dulse de pasta levada con forma de pan, conteninte uvas seca, nozas o xocolada","i":"#","en":"babka (cake)","he":"בבקה (עוגה)"}
 {"T":"r","L":"babela","C":["vt"],"d":"parla rapida e continuante en modo fol, ajitada o noncomprendable","en":"babble, gab, gabble, mutter, gibber, witter, prattle, prate, waffle, bumble, talk nonsense","he":"לפטפט, לקשקש, ללהג, לברבר, למלמל"}
@@ -10420,7 +10421,7 @@
 {"L":"faldeta","C":["n"],"en":"petticoat, half-slip, underskirt","fr":"jupon"}
 {"L":"faldon","C":["n"],"i":"#","da":"forklæde","de":"Schürze","en":"apron; tail (coat)","es":"delantal","fr":"tablier"}
 {"T":"r","L":"falesa","C":["n","tera"],"d":"un fas presipe de roca, tipal a borda de mar","i":"#","da":"klint","de":"Klippe","en":"cliff","es":"acantilado, risco, precipicio, peñasco, escarpa","fr":"falaise"}
-{"T":"r","L":"fali","C":["vt","uma"],"d":"no susede ateni (un resulta desirada); es rejetada par (un proba o intervisa)","u":"el ia fali sua esaminas; tu fali comprende la problem","da":"fejle, ramme forbi","de":"versagen, fehlen","en":"fail (not succeed), fail to, flunk; fault (tennis)","es":"fallar, fracasar, no tener éxito, reprobar examen, faltar, necesitar, quebrar(se), faltar, errar, hechar de menos","fr":"rater, louper, manquer, faillir"}
+{"T":"r","L":"fali","C":["vt","uma"],"d":"no susede ateni (un resulta desirada); es rejetada par (un proba o intervisa)","u":"el ia fali sua esaminas; tu fali comprende la problem","da":"fejle, ramme forbi","de":"versagen, fehlen","en":"fail (not succeed), fail to, flunk; fault (tennis)","es":"fallar, fracasar, no tener éxito, reprobar examen, faltar, necesitar, quebrar(se), faltar, errar, hechar de menos","fr":"rater, échouer à, louper, manquer"}
 {"L":"fali","C":["n"],"en":"failure, fault, flaw, failing, lapse; miss; (surfing) wipeout","fr":"ratage, manque, défaut"}
 {"L":"fali de judi","C":["n"],"en":"lapse of judgement"}
 {"L":"fali moral","C":["n"],"en":"moral failure, moral lapse"}
@@ -10448,7 +10449,7 @@
 {"L":"falxeta","C":["n"],"i":"#","en":"sickle","fr":"faucille"}
 {"L":"falxi","C":["vt"],"en":"reap, mow, scythe","fr":"faucher"}
 {"L":"falxor","C":["n"],"en":"reaper, harvestman","fr":"faucheur"}
-{"T":"r","L":"fama","C":["n","uma"],"d":"la state de es bon conoseda o discuteda par multe persones, spesial per atenis notable","en":"fame, renown, stardom","fr":"renommée, célébrité"}
+{"T":"r","L":"fama","C":["n","uma"],"d":"la state de es bon conoseda o discuteda par multe persones, spesial per atenis notable","en":"fame, renown, stardom","fr":"renom, renommée, célébrité"}
 {"L":"famosa","C":["a"],"da":"kendt","de":"berühmt","en":"famous, noted, renowned, historic","es":"famoso","fr":"fameux, célèbre"}
 {"L":"famosa","C":["n"],"en":"famous person, celebrity, personality"}
 {"L":"mal fama","C":["n"],"en":"infamy, notoriety","fr":"infamie, notoriété"}
@@ -10584,7 +10585,7 @@
 {"T":"r","L":"fatoral","C":["n","mat"],"d":"la multiple de un intero spesifada e tota la interos positiva a su","en":"factorial","fr":"factorielle"}
 {"T":"r","L":"fatota","C":["n","vn"],"d":"un empleada ci fa tota spesies de labora o repara","en":"factotum, handyman, jack of all trades","fr":"factotum"}
 {"T":"r","L":"fatua","C":["n","rel"],"d":"un deside par un autoria reconoseda sur un punto de lege muslim","en":"fatwa"}
-{"T":"r","L":"fatura","C":["vt","mone"],"d":"dona o envia un nota de la paia espetada de (algun) per un ben o servi","en":"bill, invoice, charge","fr":"facturer"}
+{"T":"r","L":"fatura","C":["vt","mone"],"d":"dona o envia un nota de la paia espetada de (algun) per un ben o servi","en":"bill, invoice, charge","es":"factura, acumulado (registro de dinero recibido/pagado/debido)","fr":"facturer"}
 {"L":"fatura","C":["n"],"en":"bill, invoice, statement, tab","fr":"facture"}
 {"L":"fatura tro multe","C":["v"],"en":"overcharge"}
 {"T":"r","L":"fauno","C":["n","mit"],"d":"(en mitos roman) un de un clase de dios libidosa campanial, imajinada como un om con la oreas, cornos, gamas e coda de un capra","i":"#","en":"faun (mythology)"}
@@ -10592,7 +10593,7 @@
 {"T":"r","L":"fauvisme","C":["n","arte"],"d":"un stilo de depinta de la temprana de la sentenio 20, con color forte","i":"#","en":"fauvism"}
 {"L":"fauviste","C":["a"],"en":"fauvist"}
 {"L":"fauviste","C":["n"],"en":"fauvist"}
-{"T":"r","L":"fava","C":["n","pla","cos"],"d":"un seme comable, tipal con forma de ren, cual crese en cascas longa sur alga plantas; un planta cual produi estas","i":"#","t":"Phaseolus {e otras","da":"bønne","de":"Bohne","en":"bean (plant, seed)","es":"haba, frijol","fr":"haricot"}
+{"T":"r","L":"fava","C":["n","pla","cos"],"d":"un seme comable, tipal con forma de ren, cual crese en cascas longa sur alga plantas; un planta cual produi estas","i":"#","t":"Phaseolus {e otras","da":"bønne","de":"Bohne","en":"bean (plant, seed)","es":"haba, frijol","fr":"haricot, fève"}
 {"L":"fava azuci","C":["n"],"en":"azuki bean, aduki, adzuki","fr":"haricot azuki"}
 {"L":"fava blanca","C":["n"],"en":"white bean, navy bean, haricot bean","fr":"haricot blanc"}
 {"L":"fava de Lima","C":["n"],"en":"lima bean","fr":"haricot de Lima"}
@@ -10604,7 +10605,7 @@
 {"L":"fava roja","C":["n"],"en":"kidney bean, frijol","fr":"haricot rouge"}
 {"L":"fava verde","C":["n"],"en":"green bean, snap bean","fr":"haricot vert"}
 {"L":"favin","C":["a"],"en":"beanlike, bean-shaped"}
-{"T":"r","L":"favo","C":["n","bio"],"d":"un strutur de selulas esagon, fabricada de sira par abeas per reserva miel e ovos; cualce strutur simil","i":"#","en":"honeycomb","fr":"alvéole d'abeille"}
+{"T":"r","L":"favo","C":["n","bio"],"d":"un strutur de selulas esagon, fabricada de sira par abeas per reserva miel e ovos; cualce strutur simil","i":"#","en":"honeycomb","fr":"alvéole d'abeille, rayon de miel"}
 {"T":"r","L":"favore","C":["vt","uma"],"d":"senti o mostra aproba o prefere per; (vestes) dona un bon aspeta a","en":"favor|ur, indulge, privilege; (garment) flatter","fr":"favoriser"}
 {"L":"favore","C":["n"],"en":"favor|ur, indulgence, partiality; good turn","fr":"faveur"}
 {"L":"favore divin","C":["n"],"en":"providence","fr":"providence"}
@@ -10645,9 +10646,9 @@
 {"L":"antifebral","C":["n","med"],"d":"un medisin per redui febre","en":"antipyretic"}
 {"L":"febrosa","C":["a"],"en":"fevered, feverish, febrile","fr":"fiévreux"}
 {"T":"r","L":"febrero","C":["n"],"d":"la mense du de la calendario gregorian","en":"February","eo":"februaro","fr":"février"}
-{"T":"r","L":"fece","C":["n","bio"],"d":"materia escreteda de la intestines","da":"afføring, ekskrement","de":"Mist, Dung","en":"feces|faeces, dung, excrement, turd","es":"heces, caca, excremento, mierda"}
-{"L":"fecal","C":["a"],"en":"fecal|ae"}
-{"L":"feci","C":["vt"],"en":"defecate"}
+{"T":"r","L":"fece","C":["n","bio"],"d":"materia escreteda de la intestines","da":"afføring, ekskrement","de":"Mist, Dung","en":"feces|faeces, dung, excrement, turd","es":"heces, caca, excremento, mierda","fr":"excrément"}
+{"L":"fecal","C":["a"],"en":"fecal|ae","fr":"fécal"}
+{"L":"feci","C":["vt"],"en":"defecate","fr":"déféquer"}
 {"L":"feci","C":["n"],"en":"defecation"}
 {"T":"r","L":"federa","C":["vnt","gov"],"d":"(un cuantia de statos o organizas) formi un unia, donante multe de sua autonomia a la potiosa sentral","v":"confedera","en":"federate"}
 {"L":"federa","C":["n"],"en":"federation (action, result)"}
@@ -10661,7 +10662,7 @@
 {"L":"fa felatio","C":["v"],"en":"perform fellatio, fellate"}
 {"T":"r","L":"feldspato","C":["n","tera"],"d":"un mineral comun, tipal esistente como cristales pal o sin color","en":"feldspar (mineral)"}
 {"T":"r","L":"felido","C":["n","mam"],"d":"un membro de la familia de mamales cual inclui gatos","t":"Felidae","en":"felid, feline"}
-{"T":"r","L":"felis","C":["a","uma"],"d":"sentinte o mostrante plaser, contentia o otimisme","da":"glad","de":"glücklich","en":"cheerful, cheery, happy, jolly, jocund, glad","es":"feliz, dichoso, alegre, afortunado"}
+{"T":"r","L":"felis","C":["a","uma"],"d":"sentinte o mostrante plaser, contentia o otimisme","da":"glad","de":"glücklich","en":"cheerful, cheery, happy, jolly, jocund, glad","es":"feliz, dichoso, alegre, afortunado","fr":"heureux"}
 {"L":"felisi","C":["vnt"],"en":"cheer up, perk up, hearten, gladden"}
 {"L":"felisi","C":["vt"],"en":"cheer up, perk up, hearten, gladden"}
 {"L":"felisi","C":["n"],"en":"uplift"}
@@ -10673,7 +10674,7 @@
 {"T":"r","L":"feltro","C":["n","vest"],"d":"un tipo de stofa fabricada par rola e presa lana, o otra materia simil, umidinte o caldinte lo afin la fibres adere a lunlotra e crea un surfas lisa","en":"felt"}
 {"L":"feltri","C":["vt"],"en":"full (material)"}
 {"L":"feltrin","C":["a"],"en":"feltlike"}
-{"T":"r","L":"fem","C":["n","uma"],"d":"un umana fema adulte; (nonformal) un sposa","da":"kvinde","de":"Frau","en":"woman; (colloquial) wife","es":"mujer"}
+{"T":"r","L":"fem","C":["n","uma"],"d":"un umana fema adulte; (nonformal) un sposa","da":"kvinde","de":"Frau","en":"woman; (colloquial) wife","es":"mujer","fr":"femme"}
 {"L":"fem de cabare","C":["n"],"en":"showgirl"}
 {"L":"fem de carera","C":["n"],"en":"career woman"}
 {"L":"fem de casa","C":["n"],"en":"housewife, homemaker, stay-at-home mom"}
@@ -10691,7 +10692,7 @@
 {"L":"femisme","C":["n"],"en":"feminism"}
 {"L":"femiste","C":["n"],"en":"feminist"}
 {"L":"suprafem","C":["n"],"en":"superwoman"}
-{"T":"r","L":"fema","C":["a","bio"],"d":"de la seso cual pote produi ovos o pari enfantes","da":"kvindelig, feminin","de":"weiblich","en":"female","es":"hembra, femenina, femenino, mujeril, de mujeres, de hembras"}
+{"T":"r","L":"fema","C":["a","bio"],"d":"de la seso cual pote produi ovos o pari enfantes","da":"kvindelig, feminin","de":"weiblich","en":"female","es":"hembra, femenina, femenino, mujeril, de mujeres, de hembras","fr":"femelle, féminin"}
 {"L":"fema","C":["n"],"en":"female"}
 {"L":"femi","C":["vnt"],"en":"feminize|is"}
 {"L":"femi","C":["vt"],"en":"feminize|is"}
@@ -10703,7 +10704,7 @@
 {"L":"fende","C":["n"],"en":"split, fission, schism"}
 {"L":"fendador","C":["n"],"en":"splitter (device)"}
 {"L":"fendor","C":["n"],"en":"splitter (person)"}
-{"T":"r","L":"fenetra","C":["n","arci"],"d":"un abri en un mur o teto, covreda con vitro o otra materia transparente","i":"#","da":"vindue","de":"Fenster","en":"window","es":"ventana, escaparate, vitrina, aparador, vidriera"}
+{"T":"r","L":"fenetra","C":["n","arci"],"d":"un abri en un mur o teto, covreda con vitro o otra materia transparente","i":"#","da":"vindue","de":"Fenster","en":"window","es":"ventana, escaparate, vitrina, aparador, vidriera","fr":"fenêtre"}
 {"L":"fenetra colorida","C":["n"],"en":"stained-glass window"}
 {"L":"fenetra de alcovo","C":["n"],"i":"#","en":"bay window, bow window, oriel"}
 {"L":"fenetra de bileta","C":["n"],"en":"ticket window"}
@@ -10798,8 +10799,8 @@
 {"L":"festin","C":["a"],"en":"festive","fr":"festif"}
 {"T":"r","L":"festuca","C":["n","pla"],"d":"un erba perene e comun con folias streta","t":"Festuca, Vulpia","en":"fescue (plant)"}
 {"T":"r","L":"fesur","C":["n","tera"],"d":"un abri longa e magra, tipal la resulta de fende; (en anatomia) un ranur con esta forma, como un spasio entre plias de la serebro; (metafor) un ambigua o manca esplotable en un lege o regula","i":"#","da":"brud, revne","de":"Spalte, Riss","en":"crack, fissure, cleft, chink, crevice, crevasse, breach, gap; loophole","es":"grieta, fisura","fr":"fissure"}
-{"L":"fesuri","C":["vnt"],"en":"crack","fr":"(se) fissurer"}
-{"L":"fesuri","C":["vt"],"en":"crack"}
+{"L":"fesuri","C":["vnt"],"en":"crack","fr":"se fissurer"}
+{"L":"fesuri","C":["vt"],"en":"crack","fr":"fissurer"}
 {"T":"r","L":"feta","C":["n","cos"],"d":"un ceso blanca e salosa elinica, preparada de lete de oveas o capras","en":"feta (cheese)"}
 {"T":"r","L":"fetix","C":["n","uma"],"d":"un ojeto adorada per sua potia majiosa o car on imajina ce un spirito abita lo; un dedica tro intensa e nonrazonada a alga cosa; un forma de desira sesal en cual la sasia es liada a grado nonormal con un ojeto spesifada, como un parte de la corpo o un veste","en":"fetish; charm, juju","fr":"fétiche"}
 {"L":"fetixi","C":["vnt"],"en":"fetishize|is"}
@@ -10807,7 +10808,7 @@
 {"L":"fetixi","C":["n"],"en":"fetishization|is"}
 {"L":"fetixisme","C":["n"],"en":"fetishism","fr":"fétichisme"}
 {"L":"fetixiste","C":["n"],"en":"fetishist","fr":"fétichiste"}
-{"T":"r","L":"feto","C":["n","bio"],"d":"la enfante de un mamal ante nase; un bebe umana ante sua nase, ma a plu ca oto semanas pos consepi","da":"foster","de":"Leibesfrucht","en":"fetus|oe","es":"feto, embrión","fr":"foetus"}
+{"T":"r","L":"feto","C":["n","bio"],"d":"la enfante de un mamal ante nase; un bebe umana ante sua nase, ma a plu ca oto semanas pos consepi","da":"foster","de":"Leibesfrucht","en":"fetus|oe","es":"feto, embrión","fr":"foetus, embryon"}
 {"L":"fetal","C":["a"],"en":"fetal|oe","fr":"foetal"}
 {"T":"r","L":"fetutxine","C":["n","cos"],"d":"pasta en la forma de sintas","i":"#","en":"fettuccine (pasta)"}
 {"T":"r","L":"feudo","C":["n","gov","ist"],"d":"un imobila tenida con la esije de servi a un nobil plu alta","en":"fief, fiefdom, feudal estate, feudal manor","fr":"fief"}
@@ -10820,7 +10821,7 @@
 {"T":"r","L":"fibia","C":["n","vest"],"d":"un retangulo plata de metal o plastica con un spino xarnierida, usada per junta la finis de un sintur o simil","en":"buckle"}
 {"L":"desfibi","C":["vt"],"en":"unbuckle"}
 {"L":"fibi","C":["vt"],"en":"buckle"}
-{"T":"r","L":"fibre","C":["n","vest"],"d":"un filo o fileta de cual un texeda vejetal, materia mineral o stofa es composada; un strutur simil cual formi un parte de la texeda de un corpo animal o umana; materia nondijestable en comedas vejetal cual aida la pasaje tra la intestines","en":"fiber|re, thread, filament; roughage","fr":"fibre"}
+{"T":"r","L":"fibre","C":["n","vest"],"d":"un filo o fileta de cual un texeda vejetal, materia mineral o stofa es composada; un strutur simil cual formi un parte de la texeda de un corpo animal o umana; materia nondijestable en comedas vejetal cual aida la pasaje tra la intestines","en":"fiber|re, thread, filament; roughage","fr":"fibre, filament"}
 {"L":"fibre de vitro","C":["n"],"en":"glass fiber|re, fiberglass|re","fr":"fibre de verre"}
 {"L":"fibre otical","C":["n"],"en":"optical fiber|re","fr":"fibre optique"}
 {"L":"fibrosa","C":["a"],"en":"fibrous, fibroid","fr":"fibreux"}
@@ -10903,10 +10904,10 @@
 {"T":"r","L":"filigrana","C":["n"],"d":"un obra ornosa de filos metal (tipal de oro o arjento), formida como dentela o traseria; un marca pal en paper cual deveni vidable cuando on teni la paper ante lus","i":"#","en":"filigree; watermark"}
 {"T":"r","L":"filipino","C":["a","dem"],"d":"pertinente a la popla de la Pilipinas o sua lingua nasional derivada de tagalog","en":"Filipino"}
 {"L":"filipino","C":["n"],"en":"Filipino"}
-{"T":"r","L":"filis","C":["n","pla"],"d":"un planta con folias plumin ma sin flores, cual reprodui par sporas","i":"#","t":"Pteridophyta","en":"fern"}
+{"T":"r","L":"filis","C":["n","pla"],"d":"un planta con folias plumin ma sin flores, cual reprodui par sporas","i":"#","t":"Pteridophyta","en":"fern","fr":"fougère"}
 {"L":"filis aletin","C":["n","pla"],"i":"#","t":"Pteridium","en":"bracken"}
 {"L":"filisin","C":["a"],"en":"fernlike"}
-{"T":"r","L":"filma","C":["vt","arte"],"d":"rejistra (un aveni) como fotos movente","i":"#","en":"film"}
+{"T":"r","L":"filma","C":["vt","arte"],"d":"rejistra (un aveni) como fotos movente","i":"#","en":"film","fr":"filmer"}
 {"L":"filma","C":["n"],"en":"film, movie","es":"película"}
 {"L":"filma atestante","C":["n"],"en":"documentary"}
 {"L":"filma composada","C":["n"],"en":"montage"}
@@ -10915,7 +10916,7 @@
 {"L":"filma de viaja","C":["n"],"en":"travelog|ue"}
 {"L":"filmeta","C":["n"],"en":"short film, short"}
 {"T":"r","L":"filmografia","C":["n"],"d":"un lista de filmas par un ator o dirijor, o sur un tema spesifada","en":"filmography"}
-{"T":"r","L":"filo","C":["n","util"],"d":"un estende longa e multe magra de lana, coton, nilon o simil, usada per cose o texe; un cosa simil usada per pexa; un cosa simil de metal; un linia de persones, tipal espetante","i":"#","da":"ståltråd, ledning, tråd","de":"Draht, Faden, Faser","en":"thread, wire; line (fishing); queue, line, line-up, file","es":"alambre, hilo, fibra, hebra, filamento"}
+{"T":"r","L":"filo","C":["n","util"],"d":"un estende longa e multe magra de lana, coton, nilon o simil, usada per cose o texe; un cosa simil usada per pexa; un cosa simil de metal; un linia de persones, tipal espetante","i":"#","da":"ståltråd, ledning, tråd","de":"Draht, Faden, Faser","en":"thread, wire; line (fishing); queue, line, line-up, file","es":"alambre, hilo, fibra, hebra, filamento","fr":"fil"}
 {"L":"filo de brode","C":["n"],"en":"embroidery thread, crewel"}
 {"L":"filo de dentes","C":["n"],"en":"dental floss"}
 {"L":"filo de lana","C":["n"],"en":"yarn"}
@@ -10964,8 +10965,8 @@
 {"L":"finansial","C":["a"],"en":"financial, fiscal"}
 {"L":"finansior","C":["n"],"en":"financier"}
 {"L":"refinansia","C":["vt"],"en":"refinance"}
-{"T":"r","L":"fini","C":["vnt"],"d":"completi; para; no continua","da":"slutte, afslutte","de":"enden","en":"finish, conclude, end, stop, expire, terminate","es":"terminar, concluir, finalizar, acabar"}
-{"L":"fini","C":["vt"],"de":"beenden","en":"finish, conclude, end, stop, expire, terminate"}
+{"T":"r","L":"fini","C":["vnt"],"d":"completi; para; no continua","da":"slutte, afslutte","de":"enden","en":"finish, conclude, end, stop, expire, terminate","es":"terminar, concluir, finalizar, acabar","fr":"finir"}
+{"L":"fini","C":["vt"],"de":"beenden","en":"finish, conclude, end, stop, expire, terminate","fr":"finir"}
 {"L":"fini","C":["n"],"en":"finish, end, ending, conclusion, expiration; tip, extremity; terminus"}
 {"L":"fini de linia","C":["n"],"en":"linefeed (character)"}
 {"L":"fini de relata","C":["n"],"en":"breakup"}
@@ -10975,8 +10976,8 @@
 {"L":"a fini","C":["av"],"en":"at last, finally, eventually"}
 {"L":"a fini de","C":["prep"],"en":"at the end of"}
 {"L":"es a fini de fa","C":["v"],"en":"have just done"}
-{"L":"final","C":["a"],"en":"last, final, hindmost"}
-{"L":"final","C":["av"],"de":"schliesslich, endlich","en":"finally, at last, in the end","es":"finalmente, por fin, pasando el tiempo, con el tiempo, eventualmente"}
+{"L":"final","C":["a"],"en":"last, final, hindmost","fr":"final"}
+{"L":"final","C":["av"],"de":"schliesslich, endlich","en":"finally, at last, in the end","es":"finalmente, por fin, pasando el tiempo, con el tiempo, eventualmente","fr":"enfin"}
 {"L":"final","C":["n"],"en":"final, finale"}
 {"L":"finalisme","C":["n"],"en":"finalism"}
 {"L":"finalisme imajinal","C":["n"],"en":"fictional finalism"}
@@ -10990,7 +10991,7 @@
 {"T":"r","L":"finita","C":["a","mat"],"d":"con limitas o bordas; no estendente sin fini","en":"finite, bounded"}
 {"T":"r","L":"finitiva","C":["a","ling"],"d":"(un verbo) cual ave un sujeto (espresada o implicada) e pote funsiona como la verbo xef de un proposa major","en":"finite (grammar)"}
 {"L":"nonfinitiva","C":["a"],"en":"non-finite"}
-{"T":"r","L":"finje","C":["vt","uma"],"d":"ata o parla en un modo cual presenta (un cosa falsa) como vera; imita (un cualia o person)","u":"el ia finje dormi; el ia finje ce el dormi; el ia finje un maladia; el ia finje sua padre","da":"simulere, foregive","de":"vorgeben","en":"pretend, act, fake, feign, bluff; pose as, impersonate; affect, assume, purport","es":"fingir, actuar, pretender, representar"}
+{"T":"r","L":"finje","C":["vt","uma"],"d":"ata o parla en un modo cual presenta (un cosa falsa) como vera; imita (un cualia o person)","u":"el ia finje dormi; el ia finje ce el dormi; el ia finje un maladia; el ia finje sua padre","da":"simulere, foregive","de":"vorgeben","en":"pretend, act, fake, feign, bluff; pose as, impersonate; affect, assume, purport","es":"fingir, actuar, pretender, representar","fr":"feindre, faire semblant"}
 {"L":"finje","C":["n"],"en":"pretense|ce, bluff, impersonation, feint, sham, act"}
 {"L":"finje superioria","C":["esp"],"en":"condescend, patronize|is, talk down to, look down on, look down one's nose at, put on airs"}
 {"L":"finje un maladia","C":["v"],"en":"malinger, fake an illness"}
@@ -11002,11 +11003,11 @@
 {"T":"r","L":"Finland","C":["n","jeo"],"d":"un otra nom per Suomi","i":"Suomi","v":"Suomi","en":"Finland"}
 {"L":"finsce","C":["a"],"v":"suomi","en":"Finnish"}
 {"L":"finsce","C":["n"],"en":"Finn"}
-{"T":"r","L":"finoio","C":["n","pla"],"d":"un planta bonodorosa de Europa con flores jala, en familia de persil","i":"#","t":"Foeniculum","en":"fennel"}
+{"T":"r","L":"finoio","C":["n","pla"],"d":"un planta bonodorosa de Europa con flores jala, en familia de persil","i":"#","t":"Foeniculum","en":"fennel","fr":"fenouil"}
 {"L":"finoio de mar","C":["n","pla"],"i":"#","t":"Crithmum maritimum","en":"samphire"}
 {"T":"r","L":"fiordo","C":["n","tera"],"d":"un baieta magra, longa e profonda de la mar entre falesas alta, tipal formida par la sumerji de un vale glasial","i":"#","en":"fjord, fiord"}
 {"T":"r","L":"fiorentin","C":["a"],"d":"(dialeto, cosini, etc) de la site Firenze en Italia","en":"Florentine"}
-{"T":"r","L":"firma","C":["a"],"d":"con strutur solida o secur; no movente o no deviante de un curso","en":"firm, still, steady, steadfast, stationary, immobile, non-motile"}
+{"T":"r","L":"firma","C":["a"],"d":"con strutur solida o secur; no movente o no deviante de un curso","en":"firm, still, steady, steadfast, stationary, immobile, non-motile","fr":"ferme"}
 {"L":"sta firma","C":["v"],"en":"stand to attention"}
 {"T":"r","L":"fisa","C":["vt"],"d":"junta o clui secur; garda (datos) par copia los a un loca plu permanente","en":"attach, fasten, fix, clasp, latch, belay; stick, jam, lodge; save (data)"}
 {"L":"fisa con regarda","C":["v"],"en":"stare at, rubberneck"}
@@ -11025,11 +11026,11 @@
 {"T":"r","L":"fisalia","C":["n","nonv"],"d":"un cnidario colonial flotante con tentaculos venenosa","i":"#","t":"Physalia physalis","en":"Portuguese man-of-war (organism)"}
 {"T":"r","L":"fiscorno","C":["n","mus"],"d":"un strumento de venta cual sembla un trompeta ma sona como un trompon","i":"#","en":"fiscorn (musical instrument)"}
 {"T":"r","L":"-fise","C":["sf","n","med"],"d":"crese","en":"-physis (growth)"}
-{"T":"r","L":"fisica","C":["n","fis"],"d":"la siensa cual studia la natur e cualias de sustantia e enerjia; la cualias fisical de alga cosa","en":"physics"}
+{"T":"r","L":"fisica","C":["n","fis"],"d":"la siensa cual studia la natur e cualias de sustantia e enerjia; la cualias fisical de alga cosa","en":"physics","fr":"physique"}
 {"L":"fisica cuantal","C":["n","fis"],"en":"quantum physics"}
 {"L":"fisica matematical","C":["n","fis","mat"],"en":"mathematical physics"}
-{"L":"fisical","C":["a"],"da":"fysisk","de":"physikalisch; körperlich","en":"physical","es":"físico"}
-{"L":"fisiciste","C":["n"],"en":"physicist"}
+{"L":"fisical","C":["a"],"da":"fysisk","de":"physikalisch; körperlich","en":"physical","es":"físico","fr":"physique"}
+{"L":"fisiciste","C":["n"],"en":"physicist","fr":"physicien"}
 {"T":"r","L":"fisiolojia","C":["n","bio"],"d":"la ramo de biolojia cual studia la funsiona normal de organismes e sua partes; la modo en cual un organisme o sua partes funsiona","en":"physiology"}
 {"L":"fisiolojial","C":["a"],"en":"physiological"}
 {"L":"fisiolojiste","C":["n"],"en":"physiologist"}
@@ -11038,14 +11039,14 @@
 {"L":"fisioni","C":["vnt"],"en":"undergo fission"}
 {"T":"r","L":"fistula","C":["n","med"],"d":"un pasaje nonormal o creada par sirurjia, entre la interna vacua de un organo e la surfas de la corpo, o entre du organos","en":"fistula (medical)"}
 {"T":"r","L":"fitocimica","C":["n","cim"],"d":"la ramo de cimica cual studia plantas e sua produidas","en":"phytochemistry"}
-{"T":"r","L":"fix","C":["n","info"],"d":"un carta o foto arcivida; un documento, program, colie de datos o simil, tenida en un computador su un nom identifiante; un peso de metal o plastica cual representa mone en juas de fortuna e transporta publica","en":"index card, file card, slip, fiche; file (software); token (counter representing money); chip (gambling)"}
+{"T":"r","L":"fix","C":["n","info"],"d":"un carta o foto arcivida; un documento, program, colie de datos o simil, tenida en un computador su un nom identifiante; un peso de metal o plastica cual representa mone en juas de fortuna e transporta publica","en":"index card, file card, slip, fiche; file (software); token (counter representing money); chip (gambling)","fr":"fiche, fichier (informatique)"}
 {"L":"fix PDF","C":["n"],"en":"PDF file"}
 {"L":"fixador","C":["n"],"en":"filer, file manager (software)"}
-{"T":"r","L":"flajelo","C":["n","bio"],"d":"un banda de cuoro o peso de corda juntada a un manico, usada per bate un person o animal; un filo simil usada par baterias e otra microbios per nada","i":"#","en":"whip, flagellum"}
+{"T":"r","L":"flajelo","C":["n","bio"],"d":"un banda de cuoro o peso de corda juntada a un manico, usada per bate un person o animal; un filo simil usada par baterias e otra microbios per nada","i":"#","en":"whip, flagellum","fr":"fouet"}
 {"L":"autoflajelor","C":["n"],"en":"flagellant"}
-{"L":"flajeli","C":["vt"],"en":"whip, beat, flagellate, flog"}
+{"L":"flajeli","C":["vt"],"en":"whip, beat, flagellate, flog","fr":"fouetter"}
 {"L":"flajeli","C":["n"],"en":"flagellation"}
-{"T":"r","L":"flama","C":["n","fis"],"d":"un masa calda e briliante de gas ensendeda cual es jenerada par un cosa ardente","i":"#","en":"flame"}
+{"T":"r","L":"flama","C":["n","fis"],"d":"un masa calda e briliante de gas ensendeda cual es jenerada par un cosa ardente","i":"#","en":"flame","fr":"flamme"}
 {"L":"flamable","C":["a"],"en":"flammable, inflammable"}
 {"L":"flami","C":["vnt"],"en":"flame, flame up"}
 {"L":"flami","C":["vt"],"en":"inflame (feelings)"}
@@ -11054,17 +11055,17 @@
 {"L":"nonflamable","C":["a"],"en":"non-flammable"}
 {"L":"retroflami","C":["vnt"],"en":"backfire"}
 {"T":"r","L":"flamenco","C":["n","mus"],"d":"un stilo de musica de Espania, con gitar e canta, e la dansa stimulante cual acompania lo","en":"flamenco (dance, music)"}
-{"T":"r","L":"flamingo","C":["n","avia"],"d":"un avia vadante grande con plumas rosa o oscur roja, gamas e colo longa, e beco oncin","i":"#","t":"Phoenicopterus","en":"flamingo"}
+{"T":"r","L":"flamingo","C":["n","avia"],"d":"un avia vadante grande con plumas rosa o oscur roja, gamas e colo longa, e beco oncin","i":"#","t":"Phoenicopterus","en":"flamingo","fr":"flamant, flamant rose"}
 {"T":"r","L":"Flandre","C":["n","jeo"],"d":"un rejion de Europa norde-ueste, aora divideda entre Nederland, Beljia e Frans, en cual on parla o ia parla nederlandes","i":"#","en":"Flanders","fr":"Flandre","nl":"Vlaanderen"}
 {"L":"flames","C":["a","dem"],"en":"Flemish (person, language)","fr":"flamande","nl":"Vlaams"}
 {"L":"flames","C":["n"],"en":"Fleming"}
 {"T":"r","L":"flanela","C":["n","vest"],"d":"un stofa texeda suave e feltrida, tipal de lana o coton","en":"flannel (material)"}
 {"T":"r","L":"flanje","C":["n","util"],"d":"un borda plata cual protende de un ojeto per forti lo, junta lo, o (a un rota) manteni contata con un rel","en":"flange"}
 {"T":"r","L":"flasida","C":["a"],"d":"(un parte de corpo) mol e laxe pendente; (un planta) pendente o nonelastica par causa de seci","en":"flaccid, flabby, limp"}
-{"T":"r","L":"flatule","C":["vt","bio"],"d":"relasa (gas) de la ano","en":"break wind, fart"}
+{"T":"r","L":"flatule","C":["vt","bio"],"d":"relasa (gas) de la ano","en":"break wind, fart","fr":"péter"}
 {"L":"flatule","C":["n"],"en":"flatulence, farting, wind"}
 {"L":"flatulente","C":["a"],"en":"flatulent"}
-{"T":"r","L":"flauta","C":["n","mus"],"d":"un strumento de venta composada de un tubo de lenio o metal, con bucos cual on tapi par ditos o teclas","i":"#","en":"flute, pipe"}
+{"T":"r","L":"flauta","C":["n","mus"],"d":"un strumento de venta composada de un tubo de lenio o metal, con bucos cual on tapi par ditos o teclas","i":"#","en":"flute, pipe","fr":"flute"}
 {"L":"flauta de Pan","C":["n","mus"],"d":"un strumento de lenio cual sembla un serie de flautas peti, ordinada par longia e juada par sofla supra sua abris","i":"#","en":"panpipe, panpipes, pan flute, syrinx"}
 {"L":"flauta dulse","C":["n","mus"],"d":"un flauta de lenio sin claves, juada como un sibileta","i":"#","en":"recorder"}
 {"L":"flautiste","C":["n"],"en":"flautist, flutist, piper"}
@@ -11078,12 +11079,12 @@
 {"T":"r","L":"flebotomia","C":["n","med"],"d":"la abri sirurjial de un vena, per estrae sangue o introdui acua, medisin, nurintes o otra licuidas","i":"#","en":"phlebotomy"}
 {"L":"flebotomiste","C":["n"],"en":"phlebotomist"}
 {"T":"r","L":"flerovio","C":["n","cim"],"d":"la elemento cimical con numero atomal 114","s":"Fl","en":"flerovium (element)"}
-{"T":"r","L":"flexa","C":["n","spo"],"d":"un basto, agu a la fronte e con plumas o simil a la retro, xutada de un arco como un arma o per sporte","i":"#","da":"pil","de":"Pfeil","en":"arrow","es":"flecha"}
+{"T":"r","L":"flexa","C":["n","spo"],"d":"un basto, agu a la fronte e con plumas o simil a la retro, xutada de un arco como un arma o per sporte","i":"#","da":"pil","de":"Pfeil","en":"arrow","es":"flecha","fr":"flèche"}
 {"L":"Flexa","C":["n","ast"],"d":"un constela en la sielo norde","en":"Sagitta (constellation)"}
 {"L":"flexin","C":["a"],"en":"arrowlike, arrow-shaped"}
 {"L":"flexor","C":["n"],"en":"fletcher"}
 {"T":"r","L":"flexador","C":["n","anat"],"d":"un musculo de cual sua contrae curvi un membro o otra parte de la corpo","en":"flexor (muscle)"}
-{"T":"r","L":"flexe","C":["vt"],"d":"curvi (un membro o junta); fa ce (un musculo) protende par contrae lo","en":"flex (limb, muscle)"}
+{"T":"r","L":"flexe","C":["vt"],"d":"curvi (un membro o junta); fa ce (un musculo) protende par contrae lo","en":"flex (limb, muscle)","fr":"fléchir"}
 {"L":"flexe","C":["n"],"en":"flection, flexion"}
 {"L":"flexable","C":["a"],"d":"capas de curvi; fasil cambiable per responde a situas nova","en":"flexible, supple, bendy, limber, pliable, pliant; versatile, protean","fr":"souple"}
 {"L":"flexablia","C":["n"],"en":"flexibility"}
@@ -11092,12 +11093,12 @@
 {"L":"flirta con","C":["esp"],"en":"flirt with, chat up"}
 {"L":"flirtante","C":["a"],"en":"flirtatious, flirty, saucy, fresh, coquettish"}
 {"L":"flirtor","C":["n"],"en":"flirt, coquette"}
-{"T":"r","L":"floco","C":["n"],"d":"un peso peti, plata e magra de un cosa, tipal rompeda de un otra; un peso de petra dur, usada como un util par umanas preistorial","en":"flake, floccule"}
+{"T":"r","L":"floco","C":["n"],"d":"un peso peti, plata e magra de un cosa, tipal rompeda de un otra; un peso de petra dur, usada como un util par umanas preistorial","en":"flake, floccule","fr":"flocon"}
 {"L":"floco de mais","C":["n"],"en":"cornflake"}
 {"L":"floco de neva","C":["n"],"i":"#","en":"snowflake"}
 {"L":"flocosa","C":["a"],"en":"flaky"}
 {"T":"r","L":"floema","C":["n","bio"],"d":"la texeda vascular en plantas cual transporta zucar e otra produidas a su de la folias","en":"phloem (botany)"}
-{"T":"r","L":"flor","C":["n","bio"],"d":"la parte de un planta cual conteni la semes, tipal ensircada par petales e sepales colorosa","da":"blomst","de":"Blume","en":"flower, bloom, blossom","es":"flor"}
+{"T":"r","L":"flor","C":["n","bio"],"d":"la parte de un planta cual conteni la semes, tipal ensircada par petales e sepales colorosa","da":"blomst","de":"Blume","en":"flower, bloom, blossom","es":"flor","fr":"fleur"}
 {"L":"flor de boton","C":["n"],"en":"boutonnière, buttonhole"}
 {"L":"flor de pascua","C":["n"],"en":"poinsettia"}
 {"L":"desflori","C":["vt"],"en":"deflower"}
@@ -11113,7 +11114,7 @@
 {"L":"Mar Flores","C":["n","jeo"],"d":"un mar a norde de Flores","i":"#","en":"Flores Sea"}
 {"T":"r","L":"Florida","C":["n","jeo"],"d":"un stato en la SUA sude-este, con un penisola cual estende en la Mar Atlantica e la Golfo Mexico","en":"Florida (US state)"}
 {"L":"Streta Florida","C":["n","jeo"],"d":"un streta entre Florida e Cuba","i":"#","en":"Florida Strait"}
-{"T":"r","L":"flota","C":["vnt"],"d":"reposa o move sur un licuida sin afonda; es libre suspendeda en un licuida o gas","da":"flyde","de":"flössen","en":"float","es":"flotar"}
+{"T":"r","L":"flota","C":["vnt"],"d":"reposa o move sur un licuida sin afonda; es libre suspendeda en un licuida o gas","da":"flyde","de":"flössen","en":"float","es":"flotar","fr":"flotter"}
 {"L":"flota","C":["n"],"d":"un ata de flota; un ojeto vacua o inflada per aida flota; un boia peti usada per pexores; un strutur su un avion de mar cual permete ce lo enaira de sur acua","en":"flotation, floatation; float"}
 {"L":"flota en aira","C":["vnt"],"en":"hover, levitate"}
 {"L":"fenetra flotante","C":["n"],"en":"popup window"}
@@ -11121,7 +11122,7 @@
 {"L":"flotante","C":["n"],"en":"flotsam"}
 {"T":"r","L":"flotila","C":["n","vec"],"d":"un grupo de barcones o otra veculos cual viaja o es poseseda en junta","en":"fleet (ships or other vehicles)"}
 {"T":"r","L":"flox","C":["n","pla"],"d":"un planta peti de America Norde cual ave tipal grupos densa de flores bonodorosa e colorosa","i":"#","t":"Phlox","en":"phlox (plant)"}
-{"T":"r","L":"flue","C":["vnt","fis","cim","info","tera"],"d":"(un licuida, gas o eletrica) move continuante en un corente; (datos, tipal audio o video) es continuante transmeteda en la interede","da":"flyde (med en strøm)","de":"fliessen, strömen","en":"flow, stream, course","es":"fluir, correr, flotar, ondear"}
+{"T":"r","L":"flue","C":["vnt","fis","cim","info","tera"],"d":"(un licuida, gas o eletrica) move continuante en un corente; (datos, tipal audio o video) es continuante transmeteda en la interede","da":"flyde (med en strøm)","de":"fliessen, strömen","en":"flow, stream, course","es":"fluir, correr, flotar, ondear","fr":"couler, suivre le courant"}
 {"L":"flue","C":["vt"],"en":"flow, stream; feed (into a machine)"}
 {"L":"flue","C":["n"],"en":"flow; flux; stream (data), feed (news, software)"}
 {"L":"flue de aira","C":["n"],"en":"airflow"}
@@ -11142,7 +11143,7 @@
 {"L":"supraflue","C":["vnt"],"en":"overflow"}
 {"L":"supraflue","C":["n"],"en":"overflow, run-off"}
 {"L":"suprafluente","C":["a"],"en":"superfluous, excessive"}
-{"T":"r","L":"fluor","C":["n","cim"],"d":"la elemento cimical con numero atomal 9, un gas pal jala e venenosa cual scalda la pel si on toca lo","s":"F","en":"fluorine"}
+{"T":"r","L":"fluor","C":["n","cim"],"d":"la elemento cimical con numero atomal 9, un gas pal jala e venenosa cual scalda la pel si on toca lo","s":"F","en":"fluorine","fr":"fluor"}
 {"L":"fluori","C":["vt"],"en":"fluorinate"}
 {"T":"r","L":"fluorese","C":["vnt","fis"],"d":"(un materia) brilia par radia emeteda cuando lo es colpada par raios X o lus ultravioleta","en":"fluoresce"}
 {"L":"fluorese","C":["n"],"en":"fluorescence"}
@@ -11168,9 +11169,9 @@
 {"L":"focada","C":["a"],"en":"focused, in focus; intent"}
 {"L":"focal","C":["a"],"en":"focal"}
 {"L":"nonfocada","C":["a"],"en":"unfocused, out of focus"}
-{"T":"r","L":"foca","C":["n","mam"],"d":"un mamal con corpo idrodinamical ci come pexes e reveni a tera per reposa o reprodui","i":"#","t":"Phocidae, Otariidae","en":"seal (animal)"}
+{"T":"r","L":"foca","C":["n","mam"],"d":"un mamal con corpo idrodinamical ci come pexes e reveni a tera per reposa o reprodui","i":"#","t":"Phocidae, Otariidae","en":"seal (animal)","fr":"phoque"}
 {"T":"r","L":"focatxia","C":["n","cos"],"d":"un pan italian, preparada con fermento e olio de oliva e saborida con erbas","i":"#","en":"focaccia (bread)"}
-{"T":"r","L":"foco","C":["n","fis","util"],"d":"un arde o combusta, en cual materias combina cimical con osijen de la aira e emete tipal lus, caldia e fuma; un emosia forte e apena controlable","da":"ild, ildebrand","de":"Feuer","en":"fire; passion","es":"fuego, lumbre"}
+{"T":"r","L":"foco","C":["n","fis","util"],"d":"un arde o combusta, en cual materias combina cimical con osijen de la aira e emete tipal lus, caldia e fuma; un emosia forte e apena controlable","da":"ild, ildebrand","de":"Feuer","en":"fire; passion","es":"fuego, lumbre","fr":"feu; passion"}
 {"L":"foco de festa","C":["n"],"i":"#","en":"bonfire (celebratory)"}
 {"L":"foco de jardin","C":["n"],"en":"bonfire (of rubbish)"}
 {"L":"foco fol","C":["n"],"en":"will-o'-the-wisp, ignis fatuus"}
@@ -11179,20 +11180,20 @@
 {"L":"focon savaje","C":["n"],"en":"wildfire, grass fire, forest fire"}
 {"L":"focos artal","C":["n","pl"],"en":"fireworks"}
 {"L":"focosa","C":["a"],"en":"fiery, passionate, sensual"}
-{"T":"r","L":"fode","C":["vt"],"d":"(nonformal) copula con (algun)","en":"(colloquial) fuck, screw, shag, bonk, lay (have sex with)"}
-{"L":"fodeda","C":["a"],"en":"fucking (colloquial intensifier)"}
-{"L":"fodeta","C":["vt"],"d":"(nonformal) masturba","en":"(colloquial) jerk off, wank, diddle (masturbate)"}
-{"T":"r","L":"fol","C":["a","uma"],"d":"sin bon judi, nonsaja; asurda","da":"tosset, skør","de":"töricht","en":"foolish, silly, crazy, idiotic, daft, dotty, fatuous, inane, madcap","es":"absurdo, tonto, necio, bobo, zonzo, estúpido"}
+{"T":"r","L":"fode","C":["vt"],"d":"(nonformal) copula con (algun)","en":"(colloquial) fuck, screw, shag, bonk, lay (have sex with)","fr":"baiser"}
+{"L":"fodeda","C":["a"],"en":"fucking (colloquial intensifier)","fr":"putain de"}
+{"L":"fodeta","C":["vt"],"d":"(nonformal) masturba","en":"(colloquial) jerk off, wank, diddle (masturbate)","fr":"(se) branler"}
+{"T":"r","L":"fol","C":["a","uma"],"d":"sin bon judi, nonsaja; asurda","da":"tosset, skør","de":"töricht","en":"foolish, silly, crazy, idiotic, daft, dotty, fatuous, inane, madcap","es":"absurdo, tonto, necio, bobo, zonzo, estúpido","fr":"idiot, fou"}
 {"L":"fol","C":["n"],"en":"fool, dupe, imbecile, idiot, loony, moron, nincompoop, numpty, airhead, bimbo, chump, twit, goon"}
 {"L":"folia","C":["n"],"en":"silliness, foolishness, madness, folly"}
-{"T":"r","L":"fola","C":["n"],"d":"un cuantia grande de persones colieda, tipal en modo nonorganizada","i":"#","en":"crowd, throng, concourse"}
+{"T":"r","L":"fola","C":["n"],"d":"un cuantia grande de persones colieda, tipal en modo nonorganizada","i":"#","en":"crowd, throng, concourse","fr":"foule"}
 {"L":"foleta","C":["n"],"en":"scrum"}
 {"L":"foli","C":["vt"],"en":"crowd, pack, clutter, huddle"}
 {"L":"folida","C":["a"],"en":"crowded, packed, cluttered"}
 {"L":"suprafoli","C":["vt"],"en":"overcrowd"}
 {"L":"suprafolida","C":["a"],"en":"overcrowded"}
 {"T":"r","L":"folclor","C":["n","arte"],"d":"la credes, costumes e naras tradisional de un comunia, pasada de un jenera a la seguente; un colie de credes popular de un loca, popla o ocupa","en":"folklore, lore"}
-{"T":"r","L":"folia","C":["n","bio"],"d":"un parte plata de un planta, tipal verde, juntada a un talo o tronceta, e capas de fotosintese; un peso de paper o otra materia multe magra","i":"#","da":"blad; ark (papir)","de":"Blatt","en":"leaf, blade (grass), frond; leaf, sheet (paper)","es":"hoja; hoja, pliego, lámina, sábana, capa"}
+{"T":"r","L":"folia","C":["n","bio"],"d":"un parte plata de un planta, tipal verde, juntada a un talo o tronceta, e capas de fotosintese; un peso de paper o otra materia multe magra","i":"#","da":"blad; ark (papir)","de":"Blatt","en":"leaf, blade (grass), frond; leaf, sheet (paper)","es":"hoja; hoja, pliego, lámina, sábana, capa","fr":"feuille"}
 {"L":"folia avisante","C":["n"],"en":"handbill, flyer"}
 {"L":"folia cascadente de stilo","C":["n","info"],"en":"cascading stylesheet","ru":"CSS, каскадные таблицы стилей (термин в веб-программировании; язык описания внешнего вида документа, написанного с использованием языка разметки)"}
 {"L":"folia de stilo","C":["n","info"],"en":"stylesheet","ru":"Файл стилей (Файл, содержащий указания на то, как следует отображать данные, переданные сервером браузеру)"}
@@ -11210,15 +11211,15 @@
 {"T":"r","L":"-fon","C":["sf","n","fis","arte","util"],"d":"sona","en":"-phone (sound)"}
 {"T":"r","L":"fonda","C":["n","util"],"d":"un arma simple, fabricada de un banda o anelo de cuoro o stofa, usada per lansa petras o otra misiles peti","i":"#","en":"sling, catapult (weapon)"}
 {"L":"fondeta","C":["n"],"en":"slingshot"}
-{"T":"r","L":"fonde","C":["vnt","fis"],"d":"deveni licuida par caldi","da":"smelte","de":"schmeltzen","en":"melt, smelt","eo":"fandiĝi","es":"fundirse, derretirse, disolverse"}
-{"L":"fonde","C":["vt"],"en":"melt","eo":"fandi","es":"fundir, derretir, disolver"}
+{"T":"r","L":"fonde","C":["vnt","fis"],"d":"deveni licuida par caldi","da":"smelte","de":"schmeltzen","en":"melt, smelt","eo":"fandiĝi","es":"fundirse, derretirse, disolverse","fr":"fondre, se dissoudre"}
+{"L":"fonde","C":["vt"],"en":"melt","eo":"fandi","es":"fundir, derretir, disolver","fr":"fondre"}
 {"L":"fonde nucleal","C":["n"],"en":"nuclear meltdown"}
 {"L":"fondable","C":["a"],"en":"meltable, fusible"}
 {"L":"fondable","C":["n"],"en":"fuse (electric)"}
 {"L":"fondador","C":["n"],"en":"smelter"}
 {"L":"fondeda","C":["a"],"en":"molten"}
 {"L":"fonderia","C":["n"],"en":"foundry"}
-{"T":"r","L":"fondo","C":["n"],"d":"la surfas la plu basa de un cosa; la parte de un sena o imaje cual es tipal plu distante de la regardor e cual formi un ambiente per la atores o ojetos xef; la situa esistente cuando alga cosa aveni","da":"bund","de":"Boden","en":"bottom, underside, floor (of sea); background, backdrop","es":"fondo, base, fundamento, asiento"}
+{"T":"r","L":"fondo","C":["n"],"d":"la surfas la plu basa de un cosa; la parte de un sena o imaje cual es tipal plu distante de la regardor e cual formi un ambiente per la atores o ojetos xef; la situa esistente cuando alga cosa aveni","da":"bund","de":"Boden","en":"bottom, underside, floor (of sea); background, backdrop","es":"fondo, base, fundamento, asiento","fr":"fond"}
 {"L":"en la fondo","C":["a"],"en":"background, backdrop, in the background, as the backdrop"}
 {"L":"fondo de flores","C":["n"],"en":"flowerbed"}
 {"L":"fondo de mar","C":["n"],"en":"seabed, sea floor, ocean bottom, ocean floor"}
@@ -11247,9 +11248,9 @@
 {"L":"fonti","C":["vnt"],"en":"spring, well, originate"}
 {"L":"fontosa","C":["a"],"en":"original (work, idea)"}
 {"T":"r","L":"fontina","C":["n","cos"],"d":"un ceso italian e pal jala","en":"fontina (cheese)"}
-{"T":"r","L":"fora","C":["vt","util"],"d":"crea un buco en o tra (alga cosa), usante un aparato jirante","en":"drill, bore"}
+{"T":"r","L":"fora","C":["vt","util"],"d":"crea un buco en o tra (alga cosa), usante un aparato jirante","en":"drill, bore","fr":"percer"}
 {"L":"fora","C":["n"],"d":"un ata de fora; un buco forada tra un cosa","en":"hole","es":"agujero"}
-{"L":"forador","C":["n"],"i":"#","de":"Bohrer","en":"drill (tool)","es":"taladro, barrena"}
+{"L":"forador","C":["n"],"i":"#","de":"Bohrer","en":"drill (tool)","es":"taladro, barrena","fr":"perceuse"}
 {"L":"forador arcin","C":["n"],"en":"bow drill"}
 {"L":"forador colonin","C":["n"],"i":"#","en":"drill press"}
 {"L":"forador de mano","C":["n"],"en":"hand drill"}
@@ -11261,7 +11262,7 @@
 {"T":"r","L":"foraje","C":["vt","bio"],"d":"xerca (comedas o furnis) en un area","en":"forage, scavenge, rummage"}
 {"L":"forajor","C":["n"],"en":"scavenger"}
 {"T":"r","L":"forame","C":["n","anat"],"d":"un abri, boca o pasaje, tipal en un oso","en":"foramen (anatomy)"}
-{"T":"r","L":"force","C":["n","cos"],"d":"un util con du o plu dentes agu, usada per leva comedas a la boca o per teni los pos talia los; un util simil, usada per escava o leva cosas en un jardin o cultiveria; un punto do un curso divide a du partes","i":"#","da":"gaffel","de":"Gabel","en":"fork","es":"tenedor, trinche, horquilla, horcón"}
+{"T":"r","L":"force","C":["n","cos"],"d":"un util con du o plu dentes agu, usada per leva comedas a la boca o per teni los pos talia los; un util simil, usada per escava o leva cosas en un jardin o cultiveria; un punto do un curso divide a du partes","i":"#","da":"gaffel","de":"Gabel","en":"fork","es":"tenedor, trinche, horquilla, horcón","fr":"fourchette"}
 {"L":"force de ajusta","C":["n"],"i":"#","en":"tuning fork"}
 {"L":"force de ferovia","C":["n"],"en":"points, switch"}
 {"L":"forci","C":["vnt"],"en":"fork, bifurcate"}
@@ -11271,11 +11272,11 @@
 {"L":"forcon","C":["n"],"i":"#","en":"pitchfork"}
 {"L":"forcor","C":["n"],"en":"forker"}
 {"L":"forcor de ferovia","C":["n"],"en":"pointsman, switchman"}
-{"T":"r","L":"fore","C":["vt","vest"],"d":"covre la surfas interna de (un veste o contenador) con un strato de materia diferente","en":"line"}
+{"T":"r","L":"fore","C":["vt","vest"],"d":"covre la surfas interna de (un veste o contenador) con un strato de materia diferente","en":"line","fr":"doubler, fourrer (un vêtement)"}
 {"L":"fore","C":["n"],"en":"(internal) lining"}
 {"T":"r","L":"forense","C":["a","med","gov"],"d":"pertinente a la usa de siensa en investiga un crimin; pertinente a cortes legal","en":"forensic"}
 {"L":"forensia","C":["n"],"en":"forensics"}
-{"T":"r","L":"foresta","C":["n","bio"],"d":"un area grande, xef covreda con arbores e subosce","i":"#","da":"skov","de":"Wald","en":"forest, large wood","es":"bosque, selva"}
+{"T":"r","L":"foresta","C":["n","bio"],"d":"un area grande, xef covreda con arbores e subosce","i":"#","da":"skov","de":"Wald","en":"forest, large wood","es":"bosque, selva","fr":"forêt"}
 {"L":"foresta orijinal","C":["n"],"en":"virgin forest"}
 {"L":"foresta pluvosa","C":["n"],"en":"rainforest"}
 {"L":"cultiva de foresta","C":["n"],"en":"forestry"}
@@ -11287,10 +11288,10 @@
 {"L":"reforesti","C":["vt"],"en":"reforest"}
 {"T":"r","L":"-foria","C":["sf","n","uma","med"],"d":"senti o emosia","en":"-phoria (feeling)"}
 {"L":"-forica","C":["sf","a","uma","med"],"en":"-phoric"}
-{"T":"r","L":"forja","C":["vt","fis","util"],"d":"fabrica o formi (un ojeto metal) par caldi lo en un foco o forno e bate o marteli lo","en":"forge (metal)"}
+{"T":"r","L":"forja","C":["vt","fis","util"],"d":"fabrica o formi (un ojeto metal) par caldi lo en un foco o forno e bate o marteli lo","en":"forge (metal)","fr":"forger"}
 {"L":"forjeria","C":["n"],"en":"forge, smithy"}
 {"L":"forjor","C":["n"],"i":"#","en":"smith, blacksmith"}
-{"T":"r","L":"forma","C":["n"],"d":"la aspeta de la contorno de un cosa en du o tre dimensiones; la posa de la partes de un cosa; la fortia e sania de la corpo de un person; la regulas de condui en sosia cortes","da":"form, facon","de":"Form, Gestalt","en":"form, shape, format, formation","es":"forma, figura, estado, condición"}
+{"T":"r","L":"forma","C":["n"],"d":"la aspeta de la contorno de un cosa en du o tre dimensiones; la posa de la partes de un cosa; la fortia e sania de la corpo de un person; la regulas de condui en sosia cortes","da":"form, facon","de":"Form, Gestalt","en":"form, shape, format, formation","es":"forma, figura, estado, condición","fr":"forme"}
 {"L":"-forma","C":["sf","a","bio","med","mat"],"d":"con forma de","en":"-form"}
 {"L":"forma completa","C":["n"],"en":"full form, expansion (of abbreviation)"}
 {"L":"forma de corpo","C":["n"],"en":"body shape, physique"}
@@ -11326,12 +11327,12 @@
 {"T":"r","L":"formato","C":["n","arte","mus","info"],"d":"la forma o strutur de un libro, filma, fix o simil","en":"format"}
 {"L":"formati","C":["vt"],"en":"format"}
 {"L":"reformati","C":["vt"],"en":"reformat"}
-{"T":"r","L":"formica","C":["n","artr"],"d":"un inseto peti, comun con picador, cual abita tipal en colonias sosial con un o plu reas reproduinte","i":"#","t":"Formicidae","da":"myre","de":"Ameise","en":"ant","es":"hormiga"}
+{"T":"r","L":"formica","C":["n","artr"],"d":"un inseto peti, comun con picador, cual abita tipal en colonias sosial con un o plu reas reproduinte","i":"#","t":"Formicidae","da":"myre","de":"Ameise","en":"ant","es":"hormiga","fr":"forme"}
 {"L":"formicosa","C":["a"],"en":"tingling, tingly, prickly, feeling pins and needles"}
 {"T":"r","L":"formica","C":["n","util"],"d":"un lamina de plastica dur, usada per surfases de portes, tables de cosina, etc","en":"formica (plastic)"}
 {"T":"r","L":"formicaleon","C":["n","ins"],"d":"un inseto cual sembla un libela, de cual la larvas construi cavetas cono per trapi formicas e otra predas","t":"Myrmeleontidae","en":"antlion (insect)"}
 {"T":"r","L":"formicor","C":["n","mam","avia"],"d":"un mamal ci come formicas e termites, con beco longa e lingua aderosa; un avia insetivor con gamas longa e coda corta, trovada en la forestas tropical de America Sude","i":"#, formicor-avia","t":"Vermilingua {;} Thamnophilidae","en":"anteater; antbird"}
-{"T":"r","L":"formula","C":["vt","mat"],"d":"crea (un proposa o stratejia) en modo metodosa; espresa (un idea) en modo sistemosa e esata","en":"formulate"}
+{"T":"r","L":"formula","C":["vt","mat"],"d":"crea (un proposa o stratejia) en modo metodosa; espresa (un idea) en modo sistemosa e esata","en":"formulate","fr":"formuler"}
 {"L":"formula","C":["n"],"d":"un ata de formula; un relata matematical espresada en simboles; un metodo esata per ateni alga cosa; (en gramatica) un serie corta de parolas cual formi un unia consetal e es tipal un parte de un proposa","en":"formula, formulation; phrase (grammar)"}
 {"L":"formula ajetivin","C":["n"],"d":"un formula de cual sua nucleo es un ajetivo","en":"adjective phrase"}
 {"L":"formula de loda","C":["n"],"en":"doxology"}
@@ -11342,26 +11343,26 @@
 {"L":"reformula","C":["vt"],"en":"reformulate"}
 {"T":"r","L":"formulario","C":["n","info"],"d":"un serie de demandas, tipal primida e con respondes elejable, per colie informa","en":"form (to fill), questionnaire"}
 {"T":"r","L":"fornix","C":["n","anat","med"],"d":"un strutur voltin o arcin en la corpo","en":"fornix"}
-{"T":"r","L":"forno","C":["n","util","cos"],"d":"un comparte encluida per coce o caldi comedas o seramicas","i":"#","da":"ovn","de":"Ofen","en":"oven","es":"horno"}
+{"T":"r","L":"forno","C":["n","util","cos"],"d":"un comparte encluida per coce o caldi comedas o seramicas","i":"#","da":"ovn","de":"Ofen","en":"oven","es":"horno","fr":"four"}
 {"L":"Forno","C":["n","ast"],"d":"un constela en la sielo sude","en":"Fornax (constellation)"}
-{"L":"forni","C":["vt"],"da":"bage","de":"backen","en":"bake, cook (in oven)","es":"hornear, cocer al horno"}
+{"L":"forni","C":["vt"],"da":"bage","de":"backen","en":"bake, cook (in oven)","es":"hornear, cocer al horno","fr":"faire cuire (au four)"}
 {"L":"forni","C":["n"],"en":"baking"}
 {"L":"fornida","C":["a"],"en":"baked"}
 {"L":"fornida","C":["n"],"en":"bake, baked food"}
 {"L":"forno de microonda","C":["n"],"en":"microwave oven"}
 {"L":"fornon","C":["n"],"en":"furnace, kiln"}
 {"L":"fornor","C":["n","avia"],"d":"un person ci forni pan; un avia peti de la tropicos de America, de cual alga membros construi nidos de fango cual sembla fornos","i":"#","t":"Furnariidae","en":"baker; ovenbird, woodcreeper"}
-{"T":"r","L":"foro","C":["n","gov","ist"],"d":"un loca, tipal en la interede, do on pote intercambia ideas e opinas sur un tema spesifada; (en sites roman antica) un plaza publica per comersia e debate","i":"#","en":"forum"}
+{"T":"r","L":"foro","C":["n","gov","ist"],"d":"un loca, tipal en la interede, do on pote intercambia ideas e opinas sur un tema spesifada; (en sites roman antica) un plaza publica per comersia e debate","i":"#","en":"forum","fr":"forum"}
 {"T":"r","L":"foromanica","C":["a","info"],"d":"(un person) ci posta comentas frecuente a un foro spesifada","en":"forumite"}
 {"L":"foromanica","C":["n"],"en":"forumite, regular commenter"}
 {"T":"r","L":"foronido","C":["n"],"d":"un membro de un filo de animales de mar cual usa un lofofora per filtri sua comedas, e construi tubos vertical de citina per suporta e proteje","i":"#","t":"Phoronida","en":"phoronid (organism)"}
-{"T":"r","L":"forsa","C":["vt"],"d":"fa ce (algun) fa alga cosa contra sua vole; fa ce (un regula, imposta, multa, etc) es obedida o paiada","en":"force (strongly or physically), enforce, coerce, necessitate, compel; impose (something), inflict, levy, wreak"}
+{"T":"r","L":"forsa","C":["vt"],"d":"fa ce (algun) fa alga cosa contra sua vole; fa ce (un regula, imposta, multa, etc) es obedida o paiada","en":"force (strongly or physically), enforce, coerce, necessitate, compel; impose (something), inflict, levy, wreak","fr":"forcer (physiquement)"}
 {"L":"forsa","C":["n"],"en":"coercion"}
 {"L":"forsa a via","C":["v"],"en":"drive away, force back, repel, ward off"}
 {"L":"forsa se","C":["v"],"en":"exert oneself"}
 {"L":"forsada","C":["a"],"en":"forced, compulsory"}
 {"T":"r","L":"forsitia","C":["n","pla"],"d":"un arboreta eurasian, de cual sua flores briliante jala apare en primavera, ante la folias","i":"#","t":"Forsythia","en":"forsythia (plant)"}
-{"T":"r","L":"forte","C":["a","fis","gov"],"d":"con la potia nesesada per move cosas pesosa o fa otra taxes difisil; capas de fa un ata spesifada en modo bon e potiosa; capas de resiste; difisil per para o restrinje; multe intensa; produinte multe ruido","da":"stærk; høj (lyd)","de":"stark, kräftig; laut","en":"strong, robust, sturdy, burly, formidable; loud, vehement, forte, stentorian, booming, vociferous, punchy","es":"fuerte, ruidoso, escandaloso, recio"}
+{"T":"r","L":"forte","C":["a","fis","gov"],"d":"con la potia nesesada per move cosas pesosa o fa otra taxes difisil; capas de fa un ata spesifada en modo bon e potiosa; capas de resiste; difisil per para o restrinje; multe intensa; produinte multe ruido","da":"stærk; høj (lyd)","de":"stark, kräftig; laut","en":"strong, robust, sturdy, burly, formidable; loud, vehement, forte, stentorian, booming, vociferous, punchy","es":"fuerte, ruidoso, escandaloso, recio","fr":"fort"}
 {"L":"forte","C":["av"],"en":"strongly, robustly; loudly, vehemently"}
 {"L":"forte","C":["n"],"en":"force (including in physics)"}
 {"L":"forte de aira","C":["n"],"en":"air force (military)"}
@@ -11371,7 +11372,7 @@
 {"L":"forti","C":["vnt"],"en":"strengthen, fortify, reinforce, potentiate; consolidate"}
 {"L":"forti","C":["vt"],"en":"strengthen, fortify, reinforce, potentiate; consolidate"}
 {"L":"forti","C":["n"],"en":"strengthening, consolidation"}
-{"L":"fortia","C":["n"],"da":"styrke, kraft, modstandskraft","de":"Kraft","en":"strength, force, effort, exertion, fortitude, brawn","es":"fuerza, fortaleza, vigor"}
+{"L":"fortia","C":["n"],"da":"styrke, kraft, modstandskraft","de":"Kraft","en":"strength, force, effort, exertion, fortitude, brawn","es":"fuerza, fortaleza, vigor","fr":"force"}
 {"L":"fortia de vive","C":["n"],"en":"life force, life energy, vital force, élan vital"}
 {"L":"fortiosa","C":["a"],"en":"forceful, forcible"}
 {"L":"multe forte","C":["a"],"en":"very strong; very loud, fortissimo"}
@@ -11379,7 +11380,7 @@
 {"L":"prefortador","C":["n"],"en":"preamplifier, preamp"}
 {"T":"r","L":"fortres","C":["n","gov"],"d":"un construida o vila forte e bon protejeda, tipal con intendes militar","i":"#","en":"fortress, blockhouse, fort, fortification, stronghold, keep"}
 {"L":"fortres de site","C":["n"],"en":"citadel"}
-{"T":"r","L":"fortuna","C":["n","uma","mit"],"d":"la acasia, o bon o mal, regardada como un potia esterna cual afeta la condui de umanas","da":"chance, mulighed","de":"Zufall","en":"fortune, chance, fate, destiny, lot, luck","es":"suerte, fortuna, casualidad, acaso, azar"}
+{"T":"r","L":"fortuna","C":["n","uma","mit"],"d":"la acasia, o bon o mal, regardada como un potia esterna cual afeta la condui de umanas","da":"chance, mulighed","de":"Zufall","en":"fortune, chance, fate, destiny, lot, luck","es":"suerte, fortuna, casualidad, acaso, azar","fr":"chance"}
 {"L":"bon fortuna","C":["n"],"en":"good luck"}
 {"L":"bon fortuna nonespetada","C":["n"],"en":"windfall"}
 {"L":"fortunosa","C":["a"],"en":"lucky, fortunate, auspicious, fortuitous, well off"}
@@ -11387,21 +11388,21 @@
 {"L":"mal fortuna","C":["n"],"en":"bad luck, misfortune, mishap, unfortunate occurrence, accident, adversity, woe"}
 {"L":"malfortunosa","C":["a"],"en":"unlucky, unfortunate, inauspicious, hapless, lamentable, poor, underprivileged"}
 {"L":"malfortunosa","C":["n"],"en":"underdog"}
-{"T":"r","L":"fosena","C":["n","mam"],"d":"un balena peti e multe intelijente, con dentes, un beco nonagu e ronda, e un pina dorsal triangulo","i":"#","t":"Phocoenidae","en":"porpoise"}
+{"T":"r","L":"fosena","C":["n","mam"],"d":"un balena peti e multe intelijente, con dentes, un beco nonagu e ronda, e un pina dorsal triangulo","i":"#","t":"Phocoenidae","en":"porpoise","fr":"marsouin"}
 {"T":"r","L":"fosfato","C":["n","cim"],"d":"un sal o ester de asida de fosfor","en":"phosphate (chemistry)"}
 {"T":"r","L":"fosfolipido","C":["a","bio","cim"],"d":"parteninte a la clase de lipidos de cual sua molecula conteni un grupo de fosfato","en":"phospholipid (chemistry)"}
-{"T":"r","L":"fosfor","C":["n","cim"],"d":"la elemento cimical con numero atomal 15, un nonmetal combustable e venenosa; un basteta de lenio o carton cual fini con un composada cual ensende cuando on frica lo contra un surfas ru, usada per inisia un foco","s":"P (phosphorus)","da":"tændstik","de":"Streichholz","en":"phosphorus (element); match, matchstick","es":"fósforo, cerilla, cerillo (Mex.)"}
+{"T":"r","L":"fosfor","C":["n","cim"],"d":"la elemento cimical con numero atomal 15, un nonmetal combustable e venenosa; un basteta de lenio o carton cual fini con un composada cual ensende cuando on frica lo contra un surfas ru, usada per inisia un foco","s":"P (phosphorus)","da":"tændstik","de":"Streichholz","en":"phosphorus (element); match, matchstick","es":"fósforo, cerilla, cerillo (Mex.)","fr":"phosphore; allumette"}
 {"T":"r","L":"fosforese","C":["vnt"],"d":"emete lus o radia sin combusta o caldia persepable","en":"phosphoresce"}
 {"L":"fosforesente","C":["a"],"en":"phosphorescent"}
-{"T":"r","L":"fosil","C":["n","bio","tera"],"d":"la restas o impresa de un organisme preistorial, petrida o moldida en petra","i":"#","en":"fossil"}
+{"T":"r","L":"fosil","C":["n","bio","tera"],"d":"la restas o impresa de un organisme preistorial, petrida o moldida en petra","i":"#","en":"fossil","fr":"fossile"}
 {"L":"fosili","C":["vnt"],"en":"fossilize|is"}
 {"L":"fosili","C":["vt"],"en":"fossilize|is"}
 {"L":"fosili","C":["n"],"en":"fossilization|is"}
-{"T":"r","L":"foso","C":["n","tera"],"d":"un canal magra escavada en la tera, tipal longo un via o a la borda de un campo e usada per drena; un canal simil sirca un castel; un escavada magra usada per proteje soldatos en un gera; un depresa en un oso","i":"#","en":"ditch, trench, moat; fossa (anatomy)"}
+{"T":"r","L":"foso","C":["n","tera"],"d":"un canal magra escavada en la tera, tipal longo un via o a la borda de un campo e usada per drena; un canal simil sirca un castel; un escavada magra usada per proteje soldatos en un gera; un depresa en un oso","i":"#","en":"ditch, trench, moat; fossa (anatomy)","fr":"fossé"}
 {"L":"foseta","C":["n"],"en":"rut, wheel track"}
 {"L":"foson","C":["n"],"i":"#","en":"gully, ravine, arroyo"}
 {"T":"r","L":"fostrot","C":["n","mus"],"d":"un dansa de balo simil a un valsa, ma con tempo {4/4}; un peso de musica scriveda per esta dansa","en":"foxtrot (dance, music)"}
-{"T":"r","L":"foto","C":["n","arte"],"d":"un imaje creada par usa un camera","i":"#","da":"fotografi","de":"Photo","en":"photo, photograph, shot, snapshot, still","es":"fotografía, foto"}
+{"T":"r","L":"foto","C":["n","arte"],"d":"un imaje creada par usa un camera","i":"#","da":"fotografi","de":"Photo","en":"photo, photograph, shot, snapshot, still","es":"fotografía, foto","fr":"photo"}
 {"L":"foto airal","C":["n"],"en":"aerial photograph"}
 {"L":"foto distante","C":["n"],"en":"long shot"}
 {"L":"foto personal","C":["n"],"en":"portrait"}
@@ -11413,7 +11414,7 @@
 {"T":"r","L":"fotocimical","C":["a","cim"],"d":"pertinente a o causada par la ativia cimical de lus","en":"photochemical"}
 {"T":"r","L":"fotocopia","C":["vt","util"],"d":"fa un copia de (un documento fisical), usante la efeto de lus sur un surfas spesial preparada","en":"photocopy, xerox"}
 {"L":"fotocopia","C":["n"],"en":"photocopy"}
-{"T":"r","L":"fotografia","C":["n","arte"],"d":"la arte e siensa de usa cameras e crea fotos","en":"photography"}
+{"T":"r","L":"fotografia","C":["n","arte"],"d":"la arte e siensa de usa cameras e crea fotos","en":"photography","fr":"photographie"}
 {"L":"fotografia a intervales","C":["n"],"en":"timelapse photography"}
 {"L":"fotografia prosima","C":["n"],"en":"closeup photography, macro photography"}
 {"L":"fotografi","C":["vt"],"en":"photograph"}
@@ -11450,14 +11451,14 @@
 {"L":"Baia Foxe","C":["n","jeo"],"d":"un baia a sude de la Isola Baffin","i":"#","en":"Foxe Basin"}
 {"L":"Streta Foxe","C":["n","jeo"],"d":"un streta entre la Baia Foxe e la Baia Hudson","i":"#","en":"Foxe Channel"}
 {"T":"r","L":"fractur","C":["n","arte"],"d":"un stilo deutx de leteras gotica","i":"#","en":"fraktur (lettering)"}
-{"T":"r","L":"frajil","C":["a"],"d":"fasil per rompe, dana o destrui; no forte o durante","da":"skrøbelig, sart","de":"zerbrechlich","en":"fragile, frail, brittle, delicate, sensitive, flimsy, frangible, labile, easily damaged","es":"frágil, delicado"}
+{"T":"r","L":"frajil","C":["a"],"d":"fasil per rompe, dana o destrui; no forte o durante","da":"skrøbelig, sart","de":"zerbrechlich","en":"fragile, frail, brittle, delicate, sensitive, flimsy, frangible, labile, easily damaged","es":"frágil, delicado","fr":"fragile"}
 {"L":"frajilia","C":["n"],"en":"fragility"}
 {"T":"r","L":"Fram, Streta","C":["n","jeo"],"d":"un streta entre Calalitnunat e Svalbard, un parte de la Mar Atlantica","i":"Streta-Fram","en":"Fram Strait"}
-{"T":"r","L":"frambosa","C":["n","pla","cos"],"d":"un planta en familia de mora e rubo; la fruta mol e comable de esta, composada de un grupo de bacas peti e rojin ros","i":"#","t":"Rubus","en":"raspberry"}
+{"T":"r","L":"frambosa","C":["n","pla","cos"],"d":"un planta en familia de mora e rubo; la fruta mol e comable de esta, composada de un grupo de bacas peti e rojin ros","i":"#","t":"Rubus","en":"raspberry","fr":"framboise"}
 {"T":"r","L":"franc","C":["n","mone"],"d":"la unia de mone en Suiz, Lictenstain e multe paises african, e istorial en Frans","en":"franc (currency)"}
 {"T":"r","L":"franca","C":["a"],"d":"onesta e direta en parla o scrive; sinsera e no desemblante en condui o apare","en":"frank, direct, candid, outspoken, plainspoken, outright, explicit, categorical, vocal; straightforward"}
 {"L":"francia","C":["n"],"en":"frankness, directness, straightforwardness"}
-{"T":"r","L":"francamason","C":["n","gov"],"d":"un membro de un ordina internasional instituida per amia e aida mutua, cual inclui rituos secreta","en":"freemason, mason"}
+{"T":"r","L":"francamason","C":["n","gov"],"d":"un membro de un ordina internasional instituida per amia e aida mutua, cual inclui rituos secreta","en":"freemason, mason","fr":"franc-maçon"}
 {"L":"francamasonisme","C":["n"],"en":"freemasonry, masonry"}
 {"T":"r","L":"francisia","C":["n","mone"],"d":"un autoria donada par un governa o compania a un person o grupo per partisipa en un comersia spesifada","en":"franchise (commercial)"}
 {"T":"r","L":"franco","C":["a","dem"],"d":"pertinente a la popla e lingua de un tribu germanica ci ia concista Galia en la sentenio 6","i":"#","en":"Frankish"}
@@ -11469,9 +11470,9 @@
 {"T":"r","L":"fransio","C":["n","cim"],"d":"la elemento cimical con numero atomal 87","s":"Fr","en":"francium (element)","es":"francio"}
 {"T":"r","L":"fransiscan","C":["a","rel"],"d":"pertinente a un ordina de monces catolica, fundida en 1209 par San Fransisco de Assisi","en":"Franciscan","es":"franciscano"}
 {"L":"fransiscan","C":["n"],"en":"Franciscan","es":"franciscano"}
-{"T":"r","L":"frase","C":["n","ling","mus"],"d":"un colie de parolas, tipal con sujeto e predica, espresante un declara, demanda, esclama o comanda, composada de un proposa xef e cisa proposas suordinada; (en musica) un grupo de notas forminte un unia distinguida en un peso plu longa","da":"sætning (a ord)","de":"Satz","en":"sentence; phrase (music)","es":"oración, frase"}
+{"T":"r","L":"frase","C":["n","ling","mus"],"d":"un colie de parolas, tipal con sujeto e predica, espresante un declara, demanda, esclama o comanda, composada de un proposa xef e cisa proposas suordinada; (en musica) un grupo de notas forminte un unia distinguida en un peso plu longa","da":"sætning (a ord)","de":"Satz","en":"sentence; phrase (music)","es":"oración, frase","fr":"phrase"}
 {"T":"r","L":"fraseolojia","C":["n","ling"],"d":"un modo de espresa, spesial si asosiada con un parlor o scrivor spesifada","en":"phraseology","es":"fraseología"}
-{"T":"r","L":"frate","C":["n","uma"],"d":"un umana mas en relata a otra enfantes de sua jenitores; un tipo de monce","da":"bror","de":"Bruder","en":"brother; friar","es":"hermano"}
+{"T":"r","L":"frate","C":["n","uma"],"d":"un umana mas en relata a otra enfantes de sua jenitores; un tipo de monce","da":"bror","de":"Bruder","en":"brother; friar","es":"hermano","fr":"frère"}
 {"L":"frate par sposi","C":["n"],"en":"brother-in-law"}
 {"L":"duifrate","C":["n"],"en":"half-brother"}
 {"L":"estrafrate","C":["n"],"en":"stepbrother"}
@@ -11484,7 +11485,7 @@
 {"T":"r","L":"fratiside","C":["vt","gov"],"d":"mata (sua propre frate)","en":"commit fratricide"}
 {"L":"fratiside","C":["n"],"en":"fratricide (action)"}
 {"L":"fratisidor","C":["n"],"en":"fratricide (person)"}
-{"T":"r","L":"frato","C":["n","mat","tera"],"d":"un parte peti, rompeda o separada de alga cosa; un estraeda de un testo; (en matematica) un cuantia cual no es un intero, como {1/2} o {3,142}","en":"fraction; fragment, shard; faction; snippet, clip, clipping"}
+{"T":"r","L":"frato","C":["n","mat","tera"],"d":"un parte peti, rompeda o separada de alga cosa; un estraeda de un testo; (en matematica) un cuantia cual no es un intero, como {1/2} o {3,142}","en":"fraction; fragment, shard; faction; snippet, clip, clipping","fr":"fraction, fragment"}
 {"L":"frato agu","C":["n"],"en":"sharp fragment, shard"}
 {"L":"frato seramica","C":["n"],"en":"potsherd"}
 {"L":"desfrati","C":["vnt","info"],"d":"(un fix de computador) deveni min fratida par la recombina fisical de sua partes","en":"defragment"}
@@ -11495,27 +11496,27 @@
 {"L":"frati","C":["vt"],"en":"fracture, fragment, shatter, smash, crack"}
 {"L":"frati","C":["n"],"en":"fragmentation, fracture"}
 {"L":"fratos","C":["n","pl"],"en":"fragments, shrapnel, smithereens"}
-{"T":"r","L":"frecuente","C":["a","fis","mat"],"d":"aveninte o fada a multe veses, en multe casos, o en serie rapida; (un person) fante alga cosa a multe veses o abitual; (cosas en un serie) situada con distantia corta entre lunlotra","en":"frequent, common, occurring often"}
-{"L":"frecuente","C":["av"],"da":"ofte","de":"oft, häufig","en":"frequently, often, oftentimes","es":"frecuentemente, con frecuencia, a menudo, muchas veces"}
+{"T":"r","L":"frecuente","C":["a","fis","mat"],"d":"aveninte o fada a multe veses, en multe casos, o en serie rapida; (un person) fante alga cosa a multe veses o abitual; (cosas en un serie) situada con distantia corta entre lunlotra","en":"frequent, common, occurring often","fr":"fréquent"}
+{"L":"frecuente","C":["av"],"da":"ofte","de":"oft, häufig","en":"frequently, often, oftentimes","es":"frecuentemente, con frecuencia, a menudo, muchas veces","fr":"fréquemment"}
 {"L":"frecuenti","C":["vnt"],"en":"become frequent"}
 {"L":"frecuenti","C":["vt"],"en":"make frequent"}
-{"L":"frecuentia","C":["n"],"da":"frekvens, hyppighed","de":"Häufigkeit","en":"frequency, prevalence, commonness","es":"frecuencia"}
+{"L":"frecuentia","C":["n"],"da":"frekvens, hyppighed","de":"Häufigkeit","en":"frequency, prevalence, commonness","es":"frecuencia","fr":"fréquence"}
 {"L":"frecuentia de orolojo","C":["n"],"en":"clock speed, clock rate"}
 {"L":"frecuentia estrema alta","C":["n"],"en":"UHF"}
 {"L":"frecuentia multe alta","C":["n"],"en":"VHF"}
 {"L":"nonfrecuente","C":["a"],"en":"infrequent, occasional"}
 {"T":"r","L":"fregate","C":["n","avia"],"d":"un avia de mar tropical con plumas oscur, alas longa e magra, coda forcin, e beco longa e oncin","i":"fregate-avia","t":"Fregatidae, Fregata","en":"frigatebird"}
 {"T":"r","L":"fregate","C":["n","vec"],"d":"un barcon de gera de grado su la plu grande","i":"#","en":"frigate, full-rigged ship","fr":"frégate"}
-{"T":"r","L":"freno","C":["n","util"],"d":"un aparato per para o lenti un veculo movente; un aparato cual limita o preveni la libria de move","i":"#","da":"bremse","de":"Bremse","en":"brake, restraint (device)","es":"freno"}
+{"T":"r","L":"freno","C":["n","util"],"d":"un aparato per para o lenti un veculo movente; un aparato cual limita o preveni la libria de move","i":"#","da":"bremse","de":"Bremse","en":"brake, restraint (device)","es":"freno","fr":"frein"}
 {"L":"freno de mano","C":["n"],"en":"handbrake"}
-{"L":"freni","C":["vt"],"en":"brake, restrain, hold back, immobilize|is"}
+{"L":"freni","C":["vt"],"en":"brake, restrain, hold back, immobilize|is","fr":"freiner"}
 {"L":"frenor","C":["n"],"en":"brakeman"}
 {"L":"nonfrenida","C":["a"],"en":"unrestrained, rampant"}
 {"T":"r","L":"frenolojia","C":["n","uma"],"d":"la pratica pasada de determina cualias mental par studia la forma de la cranio","i":"#","en":"phrenology"}
 {"L":"frenolojiste","C":["n"],"en":"phrenologist"}
 {"T":"r","L":"freon","C":["n","cim"],"d":"un airosol composada de clorofluorocarbonos","en":"freon"}
-{"T":"r","L":"fresa","C":["n","pla","cos"],"d":"un planta cultivada per sua frutas; la fruta mol, dulse e roja de esta, con surfas puntosa con semes","i":"#","t":"Fragaria","en":"strawberry"}
-{"T":"r","L":"fresca","C":["a"],"d":"pur, limpa, clar, noncontaminada; (la aira) alga fria, donante un senti de enerjia; nova, corente, moderna","da":"frisk; kølig; fedt nok","de":"kühl","en":"fresh; cool; new, up to date","es":"fresco"}
+{"T":"r","L":"fresa","C":["n","pla","cos"],"d":"un planta cultivada per sua frutas; la fruta mol, dulse e roja de esta, con surfas puntosa con semes","i":"#","t":"Fragaria","en":"strawberry","fr":"fraise"}
+{"T":"r","L":"fresca","C":["a"],"d":"pur, limpa, clar, noncontaminada; (la aira) alga fria, donante un senti de enerjia; nova, corente, moderna","da":"frisk; kølig; fedt nok","de":"kühl","en":"fresh; cool; new, up to date","es":"fresco","fr":"frais"}
 {"L":"frescador","C":["n"],"i":"#","en":"air conditioner, air conditioning, air-con"}
 {"L":"fresci","C":["vnt"],"en":"freshen"}
 {"L":"fresci","C":["vt"],"en":"freshen"}
@@ -11525,8 +11526,8 @@
 {"L":"refresci","C":["n"],"en":"refresh, refresher; update"}
 {"T":"r","L":"fresco","C":["n","arte"],"d":"un depinta rapida, creada con acuarela sur jeso moiada sur un mur o sofito; esta metodo de depinta, usada en la eda de la romanes antica e en Italia en la Renase","i":"#","en":"fresco (art)"}
 {"T":"r","L":"fresia","C":["n","pla"],"d":"un planta peti de Africa sude en familia de iris, con flores tubo, bonodorosa e colorosa","i":"#","t":"Freesia","en":"freesia (plant)"}
-{"T":"r","L":"fresno","C":["n","pla"],"d":"un arbor con cortex arjentin gris e folias composada","i":"#","t":"Fraxinus","en":"ash (tree)"}
-{"T":"r","L":"freta","C":["vnt"],"d":"move o ata en modo rapida e ansiosa, tipal per no ariva o fini tarda","da":"haste","de":"eilen, beschleunigen","en":"hurry, hasten, rush, scurry, scamper","es":"apresurarse, apurarse, precipitarse, darse prisa, correr"}
+{"T":"r","L":"fresno","C":["n","pla"],"d":"un arbor con cortex arjentin gris e folias composada","i":"#","t":"Fraxinus","en":"ash (tree)","fr":"frêne"}
+{"T":"r","L":"freta","C":["vnt"],"d":"move o ata en modo rapida e ansiosa, tipal per no ariva o fini tarda","da":"haste","de":"eilen, beschleunigen","en":"hurry, hasten, rush, scurry, scamper","es":"apresurarse, apurarse, precipitarse, darse prisa, correr","fr":"se presser"}
 {"L":"freta","C":["vt"],"en":"hurry, rush, hustle"}
 {"L":"freta","C":["n"],"en":"haste, rush, hustle"}
 {"L":"fretada","C":["a"],"en":"rushed, hurried"}
@@ -11537,7 +11538,7 @@
 {"L":"no freta","C":["v"],"en":"take your time, do not rush, do not hurry"}
 {"T":"r","L":"freudisme","C":["n"],"d":"la metodos de psicoanalise creada par Sigmund Freud, un dotor osteraices","en":"Freudianism"}
 {"L":"freudiste","C":["a"],"en":"Freudian"}
-{"T":"r","L":"fria","C":["a","fis"],"d":"con temperatur relativa basa, spesial en compara con la temperatur de la corpo umana","da":"kold, kølig","de":"kalt","en":"cold, chilly, frigid, dank, inclement; frappé","es":"frío, congelante, frígido"}
+{"T":"r","L":"fria","C":["a","fis"],"d":"con temperatur relativa basa, spesial en compara con la temperatur de la corpo umana","da":"kold, kølig","de":"kalt","en":"cold, chilly, frigid, dank, inclement; frappé","es":"frío, congelante, frígido","fr":"froid"}
 {"L":"fria","C":["n"],"en":"cold"}
 {"L":"fri","C":["vnt"],"en":"cool, chill, refrigerate"}
 {"L":"fri","C":["vt"],"en":"cool, chill, refrigerate"}
@@ -11547,7 +11548,7 @@
 {"L":"frida","C":["a"],"en":"cooled, chilled, refrigerated"}
 {"L":"frinte","C":["n"],"en":"coolant, refrigerant"}
 {"T":"r","L":"friacua","C":["n","vn"],"d":"un furnador de acua frida per bevi","i":"#","en":"water cooler"}
-{"T":"r","L":"frica","C":["vt","fis","tera"],"d":"erode, caldi, irita o limpi par frota","en":"abrade, scour, cause friction, rub against"}
+{"T":"r","L":"frica","C":["vt","fis","tera"],"d":"erode, caldi, irita o limpi par frota","en":"abrade, scour, cause friction, rub against","fr":"frotter (fortement)"}
 {"L":"frica","C":["n"],"en":"friction, abrasion; rubdown"}
 {"L":"fricante","C":["a"],"en":"fricative"}
 {"L":"fricante","C":["n"],"en":"fricative (consonant)"}
@@ -11564,25 +11565,25 @@
 {"L":"frisce","C":["a"],"en":"Frisian"}
 {"L":"frisce","C":["n","dem"],"en":"Frisian (person, language)"}
 {"T":"r","L":"friso","C":["n","arci"],"d":"un faxa larga, tipal decorada, sur un mur e prosima a la sofito; la parte sentral de un entablamento","en":"frieze"}
-{"T":"r","L":"frita","C":["vt","cos"],"d":"coce (comedas) en gras o olio calda","en":"fry"}
+{"T":"r","L":"frita","C":["vt","cos"],"d":"coce (comedas) en gras o olio calda","en":"fry","fr":"frire"}
 {"L":"frita en uoc","C":["vt"],"en":"stir-fry"}
 {"L":"fritada","C":["a"],"en":"fried"}
 {"L":"fritadas","C":["n","pl"],"i":"#","en":"chips (UK), fries, French fries"}
 {"L":"fritador","C":["n"],"en":"fryer"}
 {"L":"fritin","C":["a"],"en":"crackly (recording)"}
 {"L":"refrita","C":["vt"],"en":"refry"}
-{"T":"r","L":"froda","C":["vt","mone","gov"],"d":"usa enganas per priva (algun) de mone o posesedas","en":"defraud, cheat, embezzle, misappropriate, swindle, finagle, grift, gyp, hoodwink"}
+{"T":"r","L":"froda","C":["vt","mone","gov"],"d":"usa enganas per priva (algun) de mone o posesedas","en":"defraud, cheat, embezzle, misappropriate, swindle, finagle, grift, gyp, hoodwink","fr":"frauder"}
 {"L":"froda","C":["n"],"en":"fraud, con, trick, rip-off, scam, bunco, bunko, flimflam; corruption, embezzlement, misappropriation"}
 {"L":"frodante","C":["a"],"en":"fraudulent, corrupt, sleazy"}
 {"L":"frodor","C":["n"],"en":"fraud, fraudster, cheater, swindler, phoney, con man, con artist, grifter, huckster, hustler, mountebank"}
-{"T":"r","L":"fronsi","C":["vt","uma","vest"],"d":"fisa la plias de (un stofa o veste) par cose; (un person) plieta sua fronte per espresa desaproba o confonde","en":"gather (fabric)"}
+{"T":"r","L":"fronsi","C":["vt","uma","vest"],"d":"fisa la plias de (un stofa o veste) par cose; (un person) plieta sua fronte per espresa desaproba o confonde","en":"gather (fabric)","fr":"froncer"}
 {"L":"fronsi","C":["n"],"en":"gather (fabric)"}
 {"L":"fronsi sua suprasiles","C":["v"],"en":"frown, scowl"}
 {"L":"fronsida","C":["a"],"en":"gathered"}
 {"L":"fronsida","C":["n"],"en":"frill, ruche, ruffle, furbelow"}
 {"L":"fronsosa","C":["a"],"en":"frilly, ruffled, froufrou"}
 {"T":"r","L":"fronte","C":["a","anat"],"d":"(un parte) a la lado xef o prima videda o usada de un cosa; anterior","en":"front, forward, fore, advance"}
-{"L":"fronte","C":["n"],"d":"la parte fronte de un cosa o sena; la parte de la fas supra la suprasiles","i":"#","da":"facade, forside; pande","de":"Vorderseite, Vorderteil; Stirn","en":"front; forehead, brow; foreground","es":"frente"}
+{"L":"fronte","C":["n"],"d":"la parte fronte de un cosa o sena; la parte de la fas supra la suprasiles","i":"#","da":"facade, forside; pande","de":"Vorderseite, Vorderteil; Stirn","en":"front; forehead, brow; foreground","es":"frente","fr":"avant; front"}
 {"L":"fronte de acua","C":["n"],"en":"waterfront"}
 {"L":"fronte de batalia","C":["n"],"en":"battlefront"}
 {"L":"fronte de lago","C":["n"],"en":"lakeside"}
@@ -11599,20 +11600,20 @@
 {"L":"fronton","C":["n"],"d":"la parte alta e triangulo de un mur a la fini de un teto, o de la fronte de un construida clasica; un baldacin protendente supra la entra de un construida","i":"#","en":"gable; pediment; marquee, awning"}
 {"L":"lobe fronte","C":["n"],"en":"frontal lobe"}
 {"L":"oso fronte","C":["n"],"en":"frontal bone"}
-{"T":"r","L":"frontera","C":["n","gov"],"d":"un linia cual separa du paises; la limita estrema de tera poplada, ultra cual es tera savaje; un limita simil de cualce cosa, indicada par un cambia de state o cualias","en":"frontier, front line, limit, border, borderline, borderland, boundary, bound"}
+{"T":"r","L":"frontera","C":["n","gov"],"d":"un linia cual separa du paises; la limita estrema de tera poplada, ultra cual es tera savaje; un limita simil de cualce cosa, indicada par un cambia de state o cualias","en":"frontier, front line, limit, border, borderline, borderland, boundary, bound","fr":"frontière"}
 {"L":"fronteri","C":["vt"],"en":"bound, form the boundary of"}
 {"L":"fronteror","C":["n"],"en":"frontiersman"}
 {"T":"r","L":"frontispis","C":["n","arci"],"d":"un desinia cual fasa la paje de titulo de un libro; (en arciteta) la fas xef de un construida, spesial un entra decorada","en":"frontispiece (publishing, architecture)"}
-{"T":"r","L":"frota","C":["vt"],"d":"move un mano, un tela o otra cosa de asi a ala sur la surfas de (alga cosa) con presa firma","da":"gnide","de":"reiben","en":"rub, scrub, wipe, smear","es":"frotar, tallar, restregar, fregar, raspar, friccionar, rozar"}
+{"T":"r","L":"frota","C":["vt"],"d":"move un mano, un tela o otra cosa de asi a ala sur la surfas de (alga cosa) con presa firma","da":"gnide","de":"reiben","en":"rub, scrub, wipe, smear","es":"frotar, tallar, restregar, fregar, raspar, friccionar, rozar","fr":"frotter, essuyer, effacer"}
 {"L":"frotador","C":["n"],"en":"wiper"}
 {"L":"frotador de paraventa","C":["n"],"i":"#","en":"windshield wiper, windscreen wiper"}
-{"T":"r","L":"frugal","C":["a","mone"],"d":"cauta en spende mone o usa comedas o otra benes","da":"sparsommelig","de":"sparsam","en":"frugal, thrifty, economical, parsimonious, budget-conscious","es":"frugal, ahorrativo, moderado, económico, bien administrado"}
+{"T":"r","L":"frugal","C":["a","mone"],"d":"cauta en spende mone o usa comedas o otra benes","da":"sparsommelig","de":"sparsam","en":"frugal, thrifty, economical, parsimonious, budget-conscious","es":"frugal, ahorrativo, moderado, económico, bien administrado","fr":"frugal, économe"}
 {"L":"es frugal","C":["v"],"en":"be frugal, economize|is, scrimp, skimp"}
 {"L":"frugalia","C":["n"],"en":"frugality, frugalness, thrift, thriftiness, parsimony"}
 {"T":"r","L":"frustra","C":["vt","uma"],"d":"turba (algun) par preveni el de continua sua condui normal o de ateni sua gol","en":"vex, frustrate, exasperate"}
 {"L":"frustra","C":["n"],"en":"frustration, vexation, exasperation"}
 {"L":"frustrante","C":["a"],"en":"frustrating, vexing, exasperating, vexatious"}
-{"T":"r","L":"fruta","C":["n","bio","cos"],"d":"un parte de un arbor o otra planta cual conteni semes, tipal dulse, pulposa e comable","da":"frugt","de":"Frucht","en":"fruit","es":"fruta"}
+{"T":"r","L":"fruta","C":["n","bio","cos"],"d":"un parte de un arbor o otra planta cual conteni semes, tipal dulse, pulposa e comable","da":"frugt","de":"Frucht","en":"fruit","es":"fruta","fr":"fruit"}
 {"L":"fruta axida a picos","C":["n"],"en":"mincemeat"}
 {"L":"fruta confetida","C":["n"],"en":"candied fruit"}
 {"L":"fruta de pan","C":["n"],"i":"#","en":"breadfruit"}
@@ -11626,7 +11627,7 @@
 {"L":"frutosa","C":["a"],"en":"fruity, fruitful, prolific"}
 {"T":"r","L":"frutosa","C":["n","cim"],"d":"un zucar tipal trovada en frutas e miel","en":"fructose (sugar)"}
 {"T":"r","L":"fu","C":["esc"],"d":"espresante fatiga o lejeri pos frustra","en":"phew, whew"}
-{"T":"r","L":"fuca","C":["n","bio"],"d":"un alge brun grande, tipal con tronceta longa e dur e un folia larga divideda a bandas","i":"#","t":"Laminariales, Fucales","da":"kelp","de":"Kelp, Seetang, Fingertang, Blasentang","en":"kelp","es":"alga, quelpo"}
+{"T":"r","L":"fuca","C":["n","bio"],"d":"un alge brun grande, tipal con tronceta longa e dur e un folia larga divideda a bandas","i":"#","t":"Laminariales, Fucales","da":"kelp","de":"Kelp, Seetang, Fingertang, Blasentang","en":"kelp","es":"alga, quelpo","fr":"varech"}
 {"T":"r","L":"fucsia","C":["a","col","pla"],"d":"con color forte e purpurin roja, como la sepales tipal de la planta fucsia","i":"#","en":"fuchsia (color|ur)"}
 {"L":"fucsia","C":["n","pla"],"d":"un arboreta con flores tubo pendente, tipal con du colores contrastante","i":"fucsia-planta","t":"Fuchsia","en":"fuchsia (flower)"}
 {"T":"r","L":"fufu","C":["n","cos"],"d":"pasta preparada de manioca o plantano bolida e maxada, un comeda major en partes de Africa ueste e sentral","en":"fufu (food)"}
@@ -11642,10 +11643,10 @@
 {"L":"fujor","C":["n"],"en":"fugitive, runaway"}
 {"T":"r","L":"fulcro","C":["n","fis"],"d":"la punto sur cual un lever resta o pivote","en":"fulcrum, pivot"}
 {"T":"r","L":"fulgoro","C":["n","artr"],"d":"un inseto peti e comun cual suca plantas e salta cuando disturbada","i":"#","t":"Fulgoromorpha","en":"planthopper (insect)"}
-{"T":"r","L":"fuma","C":["n","cim"],"d":"un suspende vidable de carbono o otra particulas en la aira, tipal emeteda de un cosa ardente; un cuantia de gas cual odori forte o es perilosa si enspirada","i":"#","da":"røg","de":"Rauch","en":"smoke, fume","es":"humo"}
+{"T":"r","L":"fuma","C":["n","cim"],"d":"un suspende vidable de carbono o otra particulas en la aira, tipal emeteda de un cosa ardente; un cuantia de gas cual odori forte o es perilosa si enspirada","i":"#","da":"røg","de":"Rauch","en":"smoke, fume","es":"humo","fr":"fumée"}
 {"L":"fumeria","C":["n"],"en":"smokehouse|smokery"}
-{"L":"fumi","C":["vnt"],"en":"smoke (emit smoke), smolder|ul"}
-{"L":"fumi","C":["vt"],"en":"smoke (tobacco); smoke, preserve with smoke (food)"}
+{"L":"fumi","C":["vnt"],"en":"smoke (emit smoke), smolder|ul","fr":"fumer"}
+{"L":"fumi","C":["vt"],"en":"smoke (tobacco); smoke, preserve with smoke (food)","fr":"fumer"}
 {"L":"fumor","C":["n"],"en":"smoker"}
 {"L":"fumosa","C":["a"],"en":"smoky, smokey"}
 {"L":"nonfumor","C":["n"],"en":"non-smoker"}
@@ -11656,24 +11657,24 @@
 {"T":"r","L":"func","C":["a","mus"],"d":"pertinente a un moda de musica de dansa, fundida sur elementos de blus e sol, con ritmo cual asentua forte la pulsa prima de cada mesura","en":"funk (music)"}
 {"L":"func","C":["n"],"en":"funk (music)"}
 {"L":"funcosa","C":["a"],"en":"funky"}
-{"T":"r","L":"funda","C":["n","arci"],"d":"la parte de un construida, otra ojeto o idea cual suporta la otra partes; un organiza tipal constituida par un dona, como un universia, sentro de rexerca o asosia carital","da":"basis, fundament","en":"base, basis, foundation, substrate, rudiment; foundation, establishment (organization|is)","es":"base, fundamento"}
+{"T":"r","L":"funda","C":["n","arci"],"d":"la parte de un construida, otra ojeto o idea cual suporta la otra partes; un organiza tipal constituida par un dona, como un universia, sentro de rexerca o asosia carital","da":"basis, fundament","en":"base, basis, foundation, substrate, rudiment; foundation, establishment (organization|is)","es":"base, fundamento","fr":"base, fond, fondement"}
 {"L":"funda de solo","C":["n"],"en":"subfloor"}
 {"L":"es la funda de","C":["v"],"en":"be the basis of, underlie"}
 {"L":"fundal","C":["a"],"en":"basic, fundamental, elementary, rudimentary, underlying, primal; basal"}
 {"L":"fundalisme","C":["n"],"en":"fundamentalism"}
 {"L":"fundaliste","C":["a"],"en":"fundamentalist"}
 {"L":"fundaliste","C":["n"],"en":"fundamentalist"}
-{"L":"fundi","C":["vt"],"en":"found, establish; base (something on); entrench, intrench, instill|instil"}
+{"L":"fundi","C":["vt"],"en":"found, establish; base (something on); entrench, intrench, instill|instil","fr":"fonder"}
 {"L":"fundi","C":["n"],"en":"foundation, establishment (action)"}
 {"L":"fundor","C":["n"],"en":"founder"}
 {"L":"sin funda","C":["a"],"en":"baseless, groundless, unfounded"}
 {"T":"r","L":"Fundy, Baia","C":["n","jeo"],"d":"un baia entre Scotia Nova e Brunswick Nova","i":"Baia-Fundy","en":"Bay of Fundy"}
-{"T":"r","L":"funera","C":["n","uma"],"d":"la rituos onorante un person mor, tipal incluinte entera o seni de la corpo","en":"funeral"}
+{"T":"r","L":"funera","C":["n","uma"],"d":"la rituos onorante un person mor, tipal incluinte entera o seni de la corpo","en":"funeral","fr":"funérailles"}
 {"L":"funeral","C":["a"],"en":"funereal, funeral, funerary"}
 {"L":"funereria","C":["n"],"en":"funeral parlor|ur, undertaker's"}
 {"L":"funeror","C":["n"],"en":"mortician, undertaker"}
 {"T":"r","L":"fungiside","C":["n","cim"],"d":"un cimical cual destrui fungos","en":"fungicide"}
-{"T":"r","L":"fungo","C":["n","bio"],"d":"cada de un rena de organismes primitiva cual nuri se con materia organica e reprodui par sporas","t":"Fungi","da":"svamp, champignon","de":"Pilz","en":"fungus","es":"seta, hongo"}
+{"T":"r","L":"fungo","C":["n","bio"],"d":"cada de un rena de organismes primitiva cual nuri se con materia organica e reprodui par sporas","t":"Fungi","da":"svamp, champignon","de":"Pilz","en":"fungus","es":"seta, hongo","fr":"champignon"}
 {"L":"fungo de lenio","C":["n"],"en":"dry rot"}
 {"L":"antifungal","C":["a"],"en":"antifungal"}
 {"L":"antifungal","C":["n","med"],"d":"un medisin per mata fungos","en":"antifungal"}
@@ -11691,7 +11692,7 @@
 {"L":"malfunsiona","C":["vnt"],"en":"malfunction, go wrong"}
 {"L":"malfunsiona","C":["n"],"en":"malfunction"}
 {"L":"malfunsionante","C":["a"],"en":"malfunctioning, dysfunctional"}
-{"T":"r","L":"fura","C":["vt","gov"],"d":"prende (la propria de un otra) sin permete o direto legal e sin la intende de redona lo","da":"stjæle","de":"stehlen","en":"steal, purloin, nick, filch, pilfer, swipe; kidnap","es":"robar, hurtar"}
+{"T":"r","L":"fura","C":["vt","gov"],"d":"prende (la propria de un otra) sin permete o direto legal e sin la intende de redona lo","da":"stjæle","de":"stehlen","en":"steal, purloin, nick, filch, pilfer, swipe; kidnap","es":"robar, hurtar","fr":"voler, dérober"}
 {"L":"fura","C":["n"],"en":"theft, robbery, larceny, heist"}
 {"L":"fura de","C":["v"],"en":"steal from, rob, burglarize|burgle"}
 {"L":"fura de enfantes","C":["n"],"en":"kidnap, kidnapping (children)"}
@@ -11717,7 +11718,7 @@
 {"T":"r","L":"furlan","C":["a","dem"],"d":"pertinente a la popla de un area de Europa aora divideda entre Slovenia e Italia norde-este, o a sua lingua romanica","en":"Furlan, Friulian (person, language)"}
 {"L":"furlan","C":["n"],"en":"Furlan, Friulian (person, language)"}
 {"T":"r","L":"furlong","C":["n"],"d":"un oti de milia, 201 metres, un distantia comun en corsas de cavalos","en":"furlong (unit of length)"}
-{"T":"r","L":"furni","C":["vt","mone"],"d":"fa ce (un materia o informa nesesada o desirada) es disponable a un person o loca","u":"furni acua a la vileta","da":"forsyne, supplere","de":"besorgen","en":"supply, provide, furnish, yield, equip, dispense, issue, purvey, render","es":"proveer, abastecer, suplir, surtir, dar, suministrar, proporcionar, equipar"}
+{"T":"r","L":"furni","C":["vt","mone"],"d":"fa ce (un materia o informa nesesada o desirada) es disponable a un person o loca","u":"furni acua a la vileta","da":"forsyne, supplere","de":"besorgen","en":"supply, provide, furnish, yield, equip, dispense, issue, purvey, render","es":"proveer, abastecer, suplir, surtir, dar, suministrar, proporcionar, equipar","fr":"fournir"}
 {"L":"furni","C":["n"],"en":"supply, provision, yield"}
 {"L":"furni la come","C":["v"],"en":"cater"}
 {"L":"furni nonvolente","C":["v"],"en":"reluctantly provide, cough up"}
@@ -11739,7 +11740,7 @@
 {"L":"fusa","C":["vt"],"d":"fa ce (cosas) fusa; junta (du partes metal) par fonde la surfases ante presa o marteli los","en":"fuse, merge, blend; weld"}
 {"L":"fusa","C":["n"],"en":"fusion, merger"}
 {"L":"fusable","C":["a"],"en":"fusible"}
-{"T":"r","L":"fusil","C":["n","util"],"d":"un arma composada de un tubo metal de cual baletas o otra misiles es propulsada par un esplode","i":"#","da":"skydevåben","de":"Gewehr","en":"gun, rifle, firearm","es":"arma, fusil, rifle, escopeta, pistola, revólver, cañon"}
+{"T":"r","L":"fusil","C":["n","util"],"d":"un arma composada de un tubo metal de cual baletas o otra misiles es propulsada par un esplode","i":"#","da":"skydevåben","de":"Gewehr","en":"gun, rifle, firearm","es":"arma, fusil, rifle, escopeta, pistola, revólver, cañon","fr":"pistolet, fusil, carabine"}
 {"L":"fusil de antecarga","C":["n"],"en":"muzzleloader"}
 {"L":"fusil de ataca","C":["n"],"i":"#","en":"assault rifle"}
 {"L":"fusil de mano","C":["n"],"i":"#","en":"handgun, sidearm, pistol, revolver"}
@@ -11754,15 +11755,15 @@
 {"L":"fusin","C":["a"],"en":"spindle-shaped, fusiform"}
 {"T":"r","L":"fustan","C":["n","vest"],"d":"un sarja densa e durante","en":"fustian (fabric)"}
 {"T":"r","L":"fusuma","C":["n","arci"],"d":"un panel liscable, usada como un dividente o porte entre sales en casas nion tradisional","i":"#","en":"fusuma (screen)","es":"fusuma"}
-{"T":"r","L":"futbal","C":["n","spo"],"d":"un sporte juada par du ecipos de 11 juores, con un bal sfera cual no juor estra la golores pote toca par braso o mano; cualce de la varias de esta jua","i":"#","da":"fodbold","de":"Fussball","en":"football, soccer","es":"fútbol, futbol, balompié, soccer"}
+{"T":"r","L":"futbal","C":["n","spo"],"d":"un sporte juada par du ecipos de 11 juores, con un bal sfera cual no juor estra la golores pote toca par braso o mano; cualce de la varias de esta jua","i":"#","da":"fodbold","de":"Fussball","en":"football, soccer","es":"fútbol, futbol, balompié, soccer","fr":"football"}
 {"L":"futbal american","C":["n"],"en":"American football, gridiron football","es":"fútbol americano"}
 {"L":"futbalor","C":["n"],"en":"footballer, football player, soccer player","es":"futbolista"}
 {"T":"r","L":"futil","C":["a","uma"],"d":"(un ata) sin resulta usosa","en":"futile, fruitless, hopeless, pointless, vain, fatuous; fond (hope)"}
 {"L":"futil","C":["av"],"en":"in vain, to no avail"}
 {"L":"futilia","C":["n"],"en":"futility, fruitlessness"}
 {"T":"r","L":"futon","C":["n","arci"],"d":"un materas nion, desenrolada sur la solo per usa como leto; un tipo de sofa basa cual on desplia per usa como leto","i":"#","en":"futon (mattress)","es":"futón (colchón)"}
-{"T":"r","L":"futur","C":["a","fil"],"d":"a un tempo plu tarda ca la momento de parla o scrive","da":"fremtid","de":"Zukunft","en":"future, forthcoming, to come, -to-be, subsequent, eventual, prospective","es":"futuro"}
-{"L":"futur","C":["n"],"en":"future, posterity","es":"futuro, posteridad"}
+{"T":"r","L":"futur","C":["a","fil"],"d":"a un tempo plu tarda ca la momento de parla o scrive","da":"fremtid","de":"Zukunft","en":"future, forthcoming, to come, -to-be, subsequent, eventual, prospective","es":"futuro","fr":"futur"}
+{"L":"futur","C":["n"],"en":"future, posterity","es":"futuro, posteridad","fr":"avenir; futur"}
 {"L":"en la futur","C":["av"],"en":"in the future, subsequently","es":"en el futuro, posteriormente"}
 {"L":"en la futur distante","C":["av"],"en":"in the distant future, eventually","es":"en el futuro lejano, finalmente, al final"}
 {"L":"futurin","C":["a"],"en":"futuristic"}
@@ -12813,8 +12814,8 @@
 {"T":"r","L":"imam","C":["n","rel"],"d":"un person ci gida preas en un mascita","en":"imam (Islam)"}
 {"T":"r","L":"imantico","C":["n","avia"],"d":"un avia vadante con beco longa, plumas negra e blanca, e gamas longa e rojin","i":"#","t":"Himantopus","en":"stilt (bird)","eo":"himantopo"}
 {"T":"r","L":"imen","C":["n","anat"],"d":"un membrana cual clui partal la abri de la vajina, de cual sua presentia es tradisional tratada como sinia de virjinia","en":"hymen, maidenhead (anatomy)","eo":"himeno"}
-{"T":"r","L":"imita","C":["vt","arte"],"d":"copia la model de (alga cosa); fa ce sua propre modo de condui o parla sembla lo de (un otra person)","da":"efterligne","de":"nachmachen","en":"imitate, mimic, emulate, impersonate","eo":"imiti","es":"imitar, copiar"}
-{"L":"imita","C":["n"],"en":"imitation, mimicry, emulation, impersonation","eo":"imito, imitado"}
+{"T":"r","L":"imita","C":["vt","arte"],"d":"copia la model de (alga cosa); fa ce sua propre modo de condui o parla sembla lo de (un otra person)","da":"efterligne","de":"nachmachen","en":"imitate, mimic, emulate, impersonate, do an impression of","eo":"imiti","es":"imitar, copiar"}
+{"L":"imita","C":["n"],"en":"imitation, mimicry, emulation, impersonation, impression","eo":"imito, imitado"}
 {"L":"imitador","C":["n"],"en":"emulator (software)"}
 {"L":"imitor","C":["n"],"en":"impressionist, mimic, impersonator","eo":"imitanto, imitisto"}
 {"L":"nonimitable","C":["a"],"en":"inimitable"}
@@ -13251,7 +13252,7 @@
 {"L":"con intende ce","C":["sj"],"en":"so that, in order that (indicating intended result)"}
 {"L":"con intende de","C":["prep"],"en":"for, with the intention of"}
 {"L":"intendeda","C":["a"],"en":"intended, intentional, deliberate, premeditated, meant, willful|wilful; earmarked"}
-{"L":"intendente","C":["a"],"en":"intentional, deliberate, on purpose"}
+{"L":"intendente","C":["a"],"en":"intentional, deliberate, on purpose, purposeful"}
 {"L":"malintendente","C":["a"],"en":"ill-willed, cruel"}
 {"L":"nonintendeda","C":["a"],"en":"unintended, inadvertent, unplanned, collateral"}
 {"T":"r","L":"intensa","C":["a"],"d":"de fortia o grado estrema; multe consentrada","en":"intense, intensive; intent; formidable"}
@@ -15172,7 +15173,7 @@
 {"T":"r","L":"Luzon","C":["n","jeo"],"d":"la isola la plu grande e la plu norde de la Pilipinas","i":"#","en":"Luzon (island)"}
 {"L":"Streta Luzon","C":["n","jeo"],"d":"un streta a norde de Luzon","i":"#","en":"Luzon Strait"}
 {"T":"r","L":"m","C":["sim"],"d":"la letera 13 de la alfabeta roman","p":"em","en":"m"}
-{"T":"r","L":"ma","C":["cj"],"d":"introduinte alga cosa cual contrasta con lo cual es ja diseda","da":"men, skønt","de":"aber","en":"but, whereas","es":"pero, mas","fr":"mais"}
+{"T":"r","L":"ma","C":["cj"],"d":"introduinte alga cosa cual contrasta con lo cual es ja diseda","da":"men, skønt","de":"aber","en":"but, whereas, while","es":"pero, mas","fr":"mais"}
 {"T":"r","L":"maa","C":["esc","onom"],"d":"la sona fada par un ovea o capra","v":"bala","en":"baa","es":"bee"}
 {"T":"r","L":"Maca","C":["n","jeo"],"d":"un site en Arabia Saudi, regardada par muslimes como la site la plu santa de islam","i":"#","en":"Mecca","es":"Meca"}
 {"T":"r","L":"macabre","C":["a","arte"],"d":"asustante e repulsante par sua descrive o presenta de mori e feri","en":"macabre, grim, ghoulish, ghastly, grisly, gruesome","es":"espantoso, horrible, horripilante, horroroso, macabro"}
@@ -21987,9 +21988,9 @@
 {"L":"reduinte","C":["a"],"en":"reducing, reductive"}
 {"L":"reduisme","C":["n"],"en":"reductionism"}
 {"T":"r","L":"reduvido","C":["n","artr"],"d":"un inseto de zonas tropical con gamas longa cual come o morde xef otra artropodos","i":"#","t":"Reduviidae","en":"assassin bug","fr":"réduve"}
-{"T":"r","L":"refere","C":["vnt","info"],"d":"fa un nota o indica per dirije la atende","u":"la autor refere a sua jovenia","en":"refer, allude"}
+{"T":"r","L":"refere","C":["vt","info"],"d":"fa un nota o indica per dirije la atende de (un lejor o escutor)","u":"la autor refere a sua jovenia; la table de contenidas ia refere me a un paje nonesistente","en":"refer, allude"}
 {"L":"refere","C":["n"],"en":"reference, cross-reference, referral, allusion, mention; pointer (software)"}
-{"L":"refere a","C":["v"],"en":"refer to, reference, cross-reference, mention"}
+{"L":"refere a","C":["v"],"en":"refer to, reference, cross-reference, mention, allude to"}
 {"L":"desrefere","C":["vnt"],"en":"dereference (software)"}
 {"L":"desrefere","C":["vt"],"en":"dereference (software)"}
 {"L":"referente","C":["a"],"en":"referring"}
