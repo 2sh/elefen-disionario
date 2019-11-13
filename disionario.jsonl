@@ -4153,7 +4153,7 @@
 {"L":"cambiable","C":["a"],"en":"changeable","he":"שניתן לשינוי"}
 {"L":"cambion","C":["n"],"en":"upheaval, sea change","he":"מהפך, שינוי קיצוני"}
 {"L":"fasil cambiable","C":["a"],"en":"easily changed, amenable to change, labile","he":"שניתן לשינוי בקלות"}
-{"L":"intercambia","C":["vt"],"da":"handle, bytte","de":"tauschen","en":"exchange, interchange, swap, trade, transact, share","es":"intercambiar, comerciar, permutar","he":"להחליף, להמיר"}
+{"L":"intercambia","C":["vt"],"da":"handle, bytte","de":"tauschen","en":"exchange, interchange, swap, trade, transact, share","es":"intercambiar, comerciar, permutar","fr":"échanger","he":"להחליף, להמיר"}
 {"L":"intercambia","C":["n"],"en":"exchange, interchange, swap, trade, transaction; rally (tennis); swinging (sex)","he":"החלפה, חילוף, המרה"}
 {"L":"intercambiable","C":["a"],"en":"exchangeable, interchangeable, swappable, fungible","he":"שניתן להחלפה"}
 {"L":"intercambieria","C":["n"],"en":"exchange (place)","he":"חלפניה, צ'יינג'"}
@@ -6849,6 +6849,7 @@
 {"T":"r","L":"creatinina","C":["n","cim","bio"],"d":"un composada cual es produida par la metaboli de creatina e escreteda en la urina","en":"creatinine","he":"קריאטינין"}
 {"T":"r","L":"crede","C":["vt","rel"],"d":"aseta ce (alga cosa) es vera, tipal sin atesta demostrante; es serta sur la veria de (alga cosa)","da":"tro","de":"glauben","en":"believe","es":"creer, creer en, pensar que, tener fe en, confiar en","fr":"croire","he":"להאמין"}
 {"L":"crede","C":["n"],"en":"belief, creed, credo, doctrine, conviction","he":"אמונה"}
+{"L":"crede a","C":["v"],"en":"believe in"}
 {"L":"credable","C":["a"],"en":"believable, credible, plausible","he":"אמין, מהימן, מתקבל על הדעת"}
 {"L":"credablia","C":["n"],"en":"credibility","he":"אמינות"}
 {"L":"credor","C":["n"],"en":"believer","he":"מאמין"}
@@ -11782,10 +11783,10 @@
 {"L":"gadures","C":["n"],"en":"Gallurese (person, language)","es":"gallurés (persona, lengua)"}
 {"T":"r","L":"gailica","C":["a","ling"],"d":"pertinente a un lingua celta de Scotland, o a la popla ci parla lo","en":"Scottish Gaelic, Scots Gaelic","es":"gaélico escocés"}
 {"L":"gailica","C":["n"],"en":"Scottish Gaelic, Scots Gaelic","es":"gaélico escocés"}
-{"T":"r","L":"gaina","C":["n","util"],"d":"un covrente per la lama de un cotel, spada o cosa simil; un strutur de texeda en un organisme cual abrasa streta un otra","i":"#","da":"skede, hylster","de":"Scheide","en":"sheath; casing (of cable, sausage); spathe (anatomy)","es":"vaina, espata"}
+{"T":"r","L":"gaina","C":["n","util"],"d":"un covrente per la lama de un cotel, spada o cosa simil; un strutur de texeda en un organisme cual abrasa streta un otra","i":"#","da":"skede, hylster","de":"Scheide","en":"sheath; casing (of cable, sausage); spathe (anatomy)","es":"vaina, espata","fr":"gaine"}
 {"L":"gaina de cordeta","C":["n"],"en":"aglet","es":"herrete"}
 {"L":"gaini","C":["vt"],"en":"sheathe","es":"envainar"}
-{"T":"r","L":"gal","C":["n","avia"],"d":"un avia domada elevada per sua ovos o carne","i":"#","t":"Gallus gallus","da":"kylling","de":"Huhn","en":"chicken","es":"pollo"}
+{"T":"r","L":"gal","C":["n","avia"],"d":"un avia domada elevada per sua ovos o carne","i":"#","t":"Gallus gallus","da":"kylling","de":"Huhn","en":"chicken","es":"pollo","fr":"poulet; poule; coq"}
 {"L":"gal de venta","C":["n"],"i":"#","en":"weathercock","es":"veleta"}
 {"L":"gal de xasor","C":["n"],"en":"cacciatore (food)"}
 {"L":"gal fema","C":["n"],"en":"hen","es":"gallina"}
@@ -11793,7 +11794,7 @@
 {"L":"gal mas","C":["n"],"en":"cock, cockerel, rooster","es":"gallo"}
 {"L":"galeta","C":["n"],"i":"#","en":"chick, chicken","es":"pollo"}
 {"L":"galin","C":["a"],"en":"chickenlike"}
-{"T":"r","L":"gala","C":["n","spo","arte"],"d":"un diverti publica; un esibi de obras spesial","en":"show (entertainment)","es":"gala, espectáculo"}
+{"T":"r","L":"gala","C":["n","spo","arte"],"d":"un diverti publica; un esibi de obras spesial","en":"show (entertainment)","es":"gala, espectáculo","fr":"spectacle"}
 {"T":"r","L":"galago","C":["n","mam"],"d":"un primate peti e noturna de Africa con oios multe grande","i":"#","t":"Galagidae","en":"galago, bushbaby, nagapie (primate)","es":"galágido, gálago"}
 {"T":"r","L":"Galapagos, Isolas","C":["n","pl","jeo"],"d":"un arcipelago de isolas a la ecuator en la Mar Pasifica a ueste de Ecuador, a cual los parteni","i":"Isolas-Galapagos","en":"Galápagos Islands","es":"Islas Galápagos"}
 {"T":"r","L":"galasia","C":["n","ast"],"d":"un sistem de miliones o biliones de stelas, con gas e polvo, tenida par gravita","i":"#","en":"galaxy","es":"galaxia"}
@@ -11819,7 +11820,7 @@
 {"L":"duigalopa","C":["vnt"],"en":"canter","es":"ir a galope sostenido, ir a medio galope"}
 {"L":"duigalopa","C":["n"],"en":"canter","es":"galope sostenido, medio galope"}
 {"T":"r","L":"galvanica","C":["a"],"d":"pertinente a corentes eletrical produida par ativia cimical","en":"galvanic","es":"galvánico"}
-{"T":"r","L":"gama","C":["n","anat"],"d":"cada de la membros sur cual un person o animal sta o pasea; la parte magra de un vitro, entre la pede e la bol","i":"#","da":"ben","de":"Bein","en":"leg; stem (glass)","es":"pierna"}
+{"T":"r","L":"gama","C":["n","anat"],"d":"cada de la membros sur cual un person o animal sta o pasea; la parte magra de un vitro, entre la pede e la bol","i":"#","da":"ben","de":"Bein","en":"leg; stem (glass)","es":"pierna","fr":"jambe"}
 {"L":"gama alta","C":["n"],"en":"upper leg"}
 {"L":"gama basa","C":["n"],"en":"lower leg, shank"}
 {"L":"gama de porte","C":["n"],"en":"doorpost, jamb","es":"umbral, jamba"}
@@ -11831,7 +11832,7 @@
 {"T":"r","L":"-gama","C":["sf","a","uma","bio"],"d":"sposi, copula o reprodui","en":"-gamous","es":"-gamo"}
 {"L":"-gamia","C":["sf","n","uma","bio"],"en":"-gamy (marriage, mating)","es":"-gamia"}
 {"T":"r","L":"gamalonga","C":["n","artr"],"d":"un arania con corpo sferin e gamas longa e magra","i":"#","t":"Phalangium","en":"daddy longlegs, harvester, harvestman (arachnid)"}
-{"T":"r","L":"gamba","C":["n","artr"],"d":"un crustaseo peti e libre nadante, con corpo longa, valuada como un comeda","i":"#","t":"Caridea","en":"shrimp, prawn"}
+{"T":"r","L":"gamba","C":["n","artr"],"d":"un crustaseo peti e libre nadante, con corpo longa, valuada como un comeda","i":"#","t":"Caridea","en":"shrimp, prawn","fr":"crevette"}
 {"T":"r","L":"Gambia","C":["n","jeo"],"c":"Banjul","d":"un pais a la costa de Africa ueste","i":"#","en":"Gambia"}
 {"L":"gambian","C":["a"],"en":"Gambian"}
 {"L":"gambian","C":["n"],"en":"Gambian"}
@@ -11850,7 +11851,7 @@
 {"T":"r","L":"gangrena","C":["n","med"],"d":"la mori e descomposa local de texeda, cual resulta de sangue blocida o un infeta baterial","en":"gangrene"}
 {"L":"gangrenosa","C":["a"],"en":"gangrenous"}
 {"T":"r","L":"gangster","C":["n","gov"],"d":"un membro de un gang de criminales violente","i":"#","en":"gangster, mobster, racketeer"}
-{"T":"r","L":"gania","C":["vt","mone"],"d":"oteni (mone) per labora o servi, o par interesa o profita; susede (un concurso o desacorda); ariva puntual per usa (un bus, tren o avion)","en":"earn, gain; win (game); catch (bus, etc.)"}
+{"T":"r","L":"gania","C":["vt","mone"],"d":"oteni (mone) per labora o servi, o par interesa o profita; susede (un concurso o desacorda); ariva puntual per usa (un bus, tren o avion)","en":"earn, gain; win (game); catch (bus, etc.)","fr":"gagner"}
 {"L":"gania la tempo","C":["v"],"en":"save time"}
 {"L":"difisil ganiada","C":["a"],"en":"hard-won, close-fought, closely fought"}
 {"L":"ganiada","C":["a"],"en":"earned, gained, won"}
@@ -11859,24 +11860,24 @@
 {"L":"regania","C":["vt"],"en":"regain, recoup, recover (money)"}
 {"L":"reganiable","C":["a"],"en":"recoverable"}
 {"L":"sin ganior","C":["a"],"en":"tied, drawn (match)"}
-{"T":"r","L":"ganso","C":["n","avia"],"d":"un avia grande de acua con colo longa, gamas corta, pedes membranosa, e beco corta e larga; (metafor) un person sosial torpe; (metafor) un person tecnical sabosa ma osesente","i":"#","t":"Anser, Branta, Chen","en":"goose; geek, nerd"}
+{"T":"r","L":"ganso","C":["n","avia"],"d":"un avia grande de acua con colo longa, gamas corta, pedes membranosa, e beco corta e larga; (metafor) un person sosial torpe; (metafor) un person tecnical sabosa ma osesente","i":"#","t":"Anser, Branta, Chen","en":"goose; geek, nerd","fr":"oie"}
 {"L":"ganso mas","C":["n"],"en":"gander"}
 {"L":"ganseta","C":["n"],"en":"gosling"}
-{"T":"r","L":"ganto","C":["n","vest"],"d":"un covrente per la mano cual proteje contra fria o susia, tipal con partes separada per cada dito e la diton; un covrente simil en boxe, basebal e otra sportes","i":"#","da":"handske","de":"Handschuh","en":"glove","es":"guante"}
+{"T":"r","L":"ganto","C":["n","vest"],"d":"un covrente per la mano cual proteje contra fria o susia, tipal con partes separada per cada dito e la diton; un covrente simil en boxe, basebal e otra sportes","i":"#","da":"handske","de":"Handschuh","en":"glove","es":"guante","fr":"gant"}
 {"L":"ganto de armur","C":["n"],"en":"gauntlet"}
 {"L":"ganto de boxe","C":["n"],"i":"#","en":"boxing glove"}
 {"L":"ganto de cosini","C":["n"],"i":"#","en":"oven glove"}
 {"L":"ganteta","C":["n"],"i":"#","en":"mitten"}
 {"L":"ganton","C":["n"],"en":"muff"}
-{"T":"r","L":"gara","C":["n","anat"],"d":"un ungia curva e puntida a cada dito de la pede de avias, lezardos e alga mamales; un onca simil a la gama de un inseto; la pinse de alga artropodos; un aparato simil usada per teni o leva","i":"#","en":"claw, talon"}
+{"T":"r","L":"gara","C":["n","anat"],"d":"un ungia curva e puntida a cada dito de la pede de avias, lezardos e alga mamales; un onca simil a la gama de un inseto; la pinse de alga artropodos; un aparato simil usada per teni o leva","i":"#","en":"claw, talon","fr":"griffe"}
 {"L":"gari","C":["vt"],"en":"claw, scrabble at"}
-{"T":"r","L":"garaje","C":["n","arci"],"d":"un construida per reteni veculos; un loca en cual on manteni e repara veculos","i":"#","en":"garage","es":"garaje"}
+{"T":"r","L":"garaje","C":["n","arci"],"d":"un construida per reteni veculos; un loca en cual on manteni e repara veculos","i":"#","en":"garage","es":"garaje","fr":"garage"}
 {"L":"garaje partal","C":["n"],"en":"carport"}
 {"T":"r","L":"garantia","C":["vt","mone"],"d":"promete formal, tipal en un documento, ce (constrinjes spesifada) va es realida, tipal ce (un produida) va es reparada o recambiada si lo no ave un cualia o dura spesifada; (en lege) promete formal, tipal en un documento, ce on va paia (la deta) de un otra o completi (la obliga) de un otra en caso de fali","en":"guarantee, ensure"}
 {"L":"garantia","C":["n"],"en":"guarantee, warranty, guaranty; collateral, security, surety; bail"}
 {"L":"garantia de cualia","C":["n"],"en":"guarantee of quality, hallmark, imprimatur"}
 {"L":"garantior","C":["n"],"en":"bondsman, surety"}
-{"T":"r","L":"garda","C":["vt","gov"],"d":"atende (un person o cosa) per proteje o controla el o lo; reteni (mone) per usa futur","da":"beskytte, våge, overvåge","de":"bewachen, hüten","en":"guard, stand guard; save (money)","es":"proteger, resguardar, vigilar, monitorear, cuidar"}
+{"T":"r","L":"garda","C":["vt","gov"],"d":"atende (un person o cosa) per proteje o controla el o lo; reteni (mone) per usa futur","da":"beskytte, våge, overvåge","de":"bewachen, hüten","en":"guard, stand guard; save (money)","es":"proteger, resguardar, vigilar, monitorear, cuidar","fr":"garder"}
 {"L":"garda","C":["n"],"en":"guard; guardianship, tutelage"}
 {"L":"garda la casa","C":["v"],"en":"housesit"}
 {"L":"garda se contra","C":["v"],"en":"beware of"}
@@ -11894,7 +11895,7 @@
 {"T":"r","L":"gardaporton","C":["n","vn"],"d":"un person ci garda un porton e controla ci pasa tra lo","en":"gatekeeper"}
 {"T":"r","L":"gardaxasa","C":["n","vn"],"d":"un empleada ci eleva e proteje animales xasada","en":"gamekeeper"}
 {"T":"r","L":"gardenia","C":["n","pla"],"d":"un arbor o arboreta con flores grande, bonodorosa e blanca o jala","i":"#","t":"Gardenia","en":"gardenia (plant)"}
-{"T":"r","L":"garga","C":["n","anat"],"d":"la pasaje a dorso de la boca, a interna de la colo","da":"strube","de":"Kehle","en":"throat","es":"garganta"}
+{"T":"r","L":"garga","C":["n","anat"],"d":"la pasaje a dorso de la boca, a interna de la colo","da":"strube","de":"Kehle","en":"throat","es":"garganta","fr":"gorge"}
 {"L":"gargal","C":["a"],"en":"throaty, guttural"}
 {"T":"r","L":"gargara","C":["vt"],"d":"lava la boca e garga con (un licuida) par espira tra lo","en":"gargle"}
 {"L":"gargara","C":["n"],"en":"gargle"}
@@ -11906,7 +11907,7 @@
 {"T":"r","L":"garnison","C":["n","gov","arci"],"d":"la soldatos encargada con proteje un fortres o vila; la construida cual los ocupa","en":"garrison"}
 {"T":"r","L":"garota","C":["n","util"],"d":"un filo o corda usada per strangula algun","en":"garotte"}
 {"L":"garoti","C":["vt"],"en":"garotte"}
-{"T":"r","L":"gas","C":["n","fis"],"d":"un materia fluente como aira, cual estende libre per pleni cualce spasio, sin relata a sua cuantia","da":"gas","de":"Gas","en":"gas","es":"gas"}
+{"T":"r","L":"gas","C":["n","fis"],"d":"un materia fluente como aira, cual estende libre per pleni cualce spasio, sin relata a sua cuantia","da":"gas","de":"Gas","en":"gas","es":"gas","fr":"gaz"}
 {"L":"gas invernerial","C":["n"],"en":"greenhouse gas"}
 {"L":"gas nosiva","C":["n"],"en":"toxic gas, fumes"}
 {"L":"gasal","C":["a"],"en":"gaseous (of a gas)"}
@@ -11914,9 +11915,9 @@
 {"L":"gasi","C":["vt"],"en":"make gaseous; gas, expose to gas"}
 {"L":"gasin","C":["a"],"en":"gaseous (like a gas)"}
 {"L":"gasosa","C":["a"],"en":"gaseous (full of gas), gassy; carbonated, fizzy"}
-{"T":"r","L":"gasolina","C":["n","cim"],"d":"petrolio refinada, usada como un combustable per alga motores","en":"gasoline, petrol","es":"gasolina"}
+{"T":"r","L":"gasolina","C":["n","cim"],"d":"petrolio refinada, usada como un combustable per alga motores","en":"gasoline, petrol","es":"gasolina","fr":"essence"}
 {"L":"gasolineria","C":["n"],"i":"#","en":"gas station, petrol station","es":"gasolinera, estación de servicio, bencinera, bomba, grifo, servicentro"}
-{"T":"r","L":"gasolio","C":["n","cim"],"d":"petrolio refinada plu pesosa ca gasolina, usada per alga motores","en":"diesel"}
+{"T":"r","L":"gasolio","C":["n","cim"],"d":"petrolio refinada plu pesosa ca gasolina, usada per alga motores","en":"diesel","fr":"gazole"}
 {"T":"r","L":"gasometre","C":["n","util"],"d":"un tance per reserva e mesura gas","en":"gasometer"}
 {"T":"r","L":"gaspatxo","C":["n","cos"],"d":"un sopa fria de tomate e otra vejetales, orijinante en Espania","en":"gazpacho (soup)","es":"gazpacho"}
 {"T":"r","L":"gasta","C":["vnt","vest"],"d":"deveni danada, erodeda o destruida par frica o usa","en":"wear out, age; fray, unravel"}
@@ -11936,7 +11937,7 @@
 {"T":"r","L":"gatilio","C":["n","util"],"d":"un aparato peti cual relasa un mola o simil per inisia alga cosa, tipal la ensende de un fusil","i":"#","en":"trigger"}
 {"L":"gatili","C":["vt"],"en":"trigger"}
 {"T":"r","L":"gatiliomanica","C":["a","uma"],"d":"tendente reata violente, tipal usante un fusil","en":"trigger-happy"}
-{"T":"r","L":"gato","C":["n","mam"],"d":"un mamal peti, carnivor e domada con pelo suave, beco corta, e talones retirable; cualce membro de esta familia, como un leon o tigre","i":"#","t":"Felis catus","da":"kat","de":"Katze","en":"cat","es":"gato"}
+{"T":"r","L":"gato","C":["n","mam"],"d":"un mamal peti, carnivor e domada con pelo suave, beco corta, e talones retirable; cualce membro de esta familia, como un leon o tigre","i":"#","t":"Felis catus","da":"kat","de":"Katze","en":"cat","es":"gato","fr":"chat"}
 {"L":"gato de nove codas","C":["n"],"en":"cat o' nine tails (whip)"}
 {"L":"gateta","C":["n"],"en":"kitten, kitty, pussy, puss"}
 {"T":"r","L":"gauda","C":["n","cos"],"d":"un ceso dur, plata e ronda de Nederland, tipal con casca jala","en":"gouda (cheese)"}
@@ -11945,7 +11946,7 @@
 {"T":"r","L":"gavia","C":["n","avia"],"d":"un avia de acua, grande e tufante, con beco puntida e plumas negra e gris","i":"#","t":"Gavia","en":"loon, diver (bird)"}
 {"T":"r","L":"gavota","C":["n","avia"],"d":"un avia de mar con alas longa, pedes membranosa, e vose xiliante, tipal con plumas blanca e dorso negra o gris","i":"#","t":"Laridae","en":"gull, seagull"}
 {"T":"r","L":"gavota","C":["n","mus"],"d":"un dansa de Frans de rapidia media, popular en la sentenio 18; un musica per esta","en":"gavotte (dance, music)"}
-{"T":"r","L":"gaxa","C":["n","cos"],"d":"un comeda semilicuida de avena o otra sereal, bolida en lete o acua; cualce comeda con forma de pulpa bultosa","i":"#","en":"gruel, porridge, mush"}
+{"T":"r","L":"gaxa","C":["n","cos"],"d":"un comeda semilicuida de avena o otra sereal, bolida en lete o acua; cualce comeda con forma de pulpa bultosa","i":"#","en":"gruel, porridge, mush","fr":"bouillie"}
 {"L":"gaxa de avena","C":["n"],"en":"porridge, oatmeal"}
 {"L":"gaxa de favas","C":["n"],"en":"bean porridge; baked beans"}
 {"L":"gaxa de orzo","C":["n"],"en":"barley porridge"}
@@ -11962,7 +11963,7 @@
 {"T":"r","L":"gazela","C":["n","mam"],"d":"un antilope peti e magra con cornos curva e pelo jalin brun e blanca a la adomen","i":"#","t":"Gazella","en":"gazelle","es":"gacela"}
 {"T":"r","L":"gazi","C":["a"],"d":"un geror muslim veteran","en":"Ghazi"}
 {"L":"gazi","C":["n"],"en":"Ghazi"}
-{"T":"r","L":"ge","C":["a","uma"],"d":"omosesal; pertinente a omosesales e omosesalia","en":"gay, queer, homosexual"}
+{"T":"r","L":"ge","C":["a","uma"],"d":"omosesal; pertinente a omosesales e omosesalia","en":"gay, queer, homosexual","fr":"gay"}
 {"L":"ge","C":["n"],"en":"gay, queer, homosexual"}
 {"L":"antige","C":["a"],"p":"antigé","en":"anti-gay"}
 {"T":"r","L":"geco","C":["n","ret"],"d":"un lezardo noturna e comun ruidosa, con cuxinetas aderente a sua pedes per aida trepa sur surfases lisa","i":"#","t":"Gekkonidae","en":"gecko"}
@@ -11971,8 +11972,8 @@
 {"L":"genoves","C":["n","dem"],"en":"Genoese"}
 {"T":"r","L":"Georgia","C":["n","jeo"],"d":"un stato en la SUA sude-este","p":"djordja","en":"Georgia (US state)"}
 {"T":"r","L":"gepardo","C":["n","mam"],"d":"un gato grande, manxada, e multe rapida de Africa e partes de Asia","i":"#","t":"Acinonyx jubatus","en":"cheetah"}
-{"T":"r","L":"gera","C":["vnt","gov"],"d":"partisipa en un disputa con armas entre nasiones, statos o grupos diferente","en":"war, make war, wage war"}
-{"L":"gera","C":["n"],"da":"krig","de":"Krieg","en":"war, warfare","es":"guerra"}
+{"T":"r","L":"gera","C":["vnt","gov"],"d":"partisipa en un disputa con armas entre nasiones, statos o grupos diferente","en":"war, make war, wage war","fr":"faire la guerre"}
+{"L":"gera","C":["n"],"da":"krig","de":"Krieg","en":"war, warfare","es":"guerra","fr":"guerre"}
 {"L":"gera biolojial","C":["n"],"en":"biological warfare"}
 {"L":"gera cimical","C":["n"],"en":"chemical warfare"}
 {"L":"gera fria","C":["n"],"en":"cold war"}
@@ -12002,7 +12003,7 @@
 {"T":"r","L":"gexa","C":["n","ist"],"d":"un fem nion cual servi como un ospitor, divertinte omes con conversa, dansa e canta","i":"#","en":"geisha"}
 {"T":"r","L":"gi","C":["n","cos"],"d":"bur clarida, preparada de la lete de un bove o bufalo, usada en cosini barati","en":"ghee (butter)"}
 {"T":"r","L":"gibon","C":["n","mam"],"d":"un primate peti e magra con brasos longa e forte e crias alta de `u-u`, abitante la arbores de la forestas de Asia sude-este","i":"#","t":"Hylobatidae","en":"gibbon"}
-{"T":"r","L":"gida","C":["vt"],"d":"mostra la via a (algun); dirije o influe la atas de (algun); fa ce (un person o animal) acompania on par teni el a la mano, con un corda, etc; opera e controla la dirije e rapidia de (un veculo)","da":"lede, styre, drive","de":"führen; antreiben","en":"guide, lead, head; conduct, convey; usher, herd, wrangle; drive (vehicle), steer, helm","es":"guiar; conducir (vehículo)"}
+{"T":"r","L":"gida","C":["vt"],"d":"mostra la via a (algun); dirije o influe la atas de (algun); fa ce (un person o animal) acompania on par teni el a la mano, con un corda, etc; opera e controla la dirije e rapidia de (un veculo)","da":"lede, styre, drive","de":"führen; antreiben","en":"guide, lead, head; conduct, convey; usher, herd, wrangle; drive (vehicle), steer, helm","es":"guiar; conducir (vehículo)","fr":"guider; conduire (un véhicule)"}
 {"L":"gida","C":["n"],"en":"guidance, leadership"}
 {"L":"gidador","C":["n"],"en":"guide (device)"}
 {"L":"gidor","C":["n"],"en":"guide, leader, usher, docent; driver (vehicle), chauffeur"}
@@ -12029,7 +12030,7 @@
 {"L":"de gingam","C":["a"],"en":"(made of) gingham"}
 {"T":"r","L":"ginia","C":["vt","uma"],"d":"clui e abri rapida (un oio), per indica ce alga cosa es un broma o un secreta, o per siniali amosia; clui e abri rapida (ambos oios)","i":"#","en":"wink, blink, nictate"}
 {"L":"ginia","C":["n"],"en":"wink, blink (eyes)"}
-{"T":"r","L":"gitar","C":["n","mus"],"d":"un strumento musical de cordetas, con trastes, lados curva e ses o des-du cordetas, juada par la ditos o un plectro","i":"#","da":"guitar","de":"Gitarre","en":"guitar","es":"guitarra"}
+{"T":"r","L":"gitar","C":["n","mus"],"d":"un strumento musical de cordetas, con trastes, lados curva e ses o des-du cordetas, juada par la ditos o un plectro","i":"#","da":"guitar","de":"Gitarre","en":"guitar","es":"guitarra","fr":"guitare"}
 {"L":"gitar acustical","C":["n","mus"],"en":"acoustic guitar"}
 {"L":"gitar baso","C":["n","mus"],"en":"bass guitar"}
 {"L":"gitar eletrical","C":["n","mus"],"d":"un gitar con sensadores eletrica, tipal con un corpo solida","i":"#","en":"electric guitar"}
@@ -12039,7 +12040,7 @@
 {"T":"r","L":"glamor","C":["n","uma"],"d":"la cualia atraente o stimulante par cual alga persones o cosas pare spesial; un belia o encanta cual es sesal atraente","en":"glamour, pizzazz"}
 {"L":"glamori","C":["vt"],"en":"glamorize|is"}
 {"L":"glamorosa","C":["a"],"en":"glamorous"}
-{"T":"r","L":"glande","C":["n","anat"],"d":"un organo cual secrete cimicales spesial per usa en la corpo o per descarga a estra; la fini ronda de un penis o clitoris","en":"gland; glans"}
+{"T":"r","L":"glande","C":["n","anat"],"d":"un organo cual secrete cimicales spesial per usa en la corpo o per descarga a estra; la fini ronda de un penis o clitoris","en":"gland; glans","fr":"glande"}
 {"L":"glande salival","C":["n"],"en":"salivary gland"}
 {"L":"glande suprarenal","C":["n"],"en":"adrenal gland"}
 {"L":"glandal","C":["a"],"en":"glandular"}
@@ -12112,7 +12113,7 @@
 {"T":"r","L":"glutamina","C":["n","cim"],"d":"un aminoasida idrofilica cual es un composante de la plu de protenas","en":"glutamine (amino acid)"}
 {"L":"glutaminal","C":["a"],"en":"glutamic"}
 {"T":"r","L":"gluten","C":["n","pla","cos"],"d":"un misca de du protenas presente en granes, spesial trigo, cual causa la trama elastica de pasta","en":"gluten"}
-{"T":"r","L":"gluteo","C":["n","anat"],"d":"cada de la du partes carnosa cual formi la area retro e basa de la tronco de un person; un parte simil de un animal; cada de la tre musculos en esta area cual move la coxa","i":"#","da":"balde","de":"Gesässbacke","en":"buttock, gluteus","es":"nalga, asentadera, trasero"}
+{"T":"r","L":"gluteo","C":["n","anat"],"d":"cada de la du partes carnosa cual formi la area retro e basa de la tronco de un person; un parte simil de un animal; cada de la tre musculos en esta area cual move la coxa","i":"#","da":"balde","de":"Gesässbacke","en":"buttock, gluteus","es":"nalga, asentadera, trasero","fr":"fesse"}
 {"L":"gluteos","C":["n","pl"],"da":"ende, bag, bagdel","en":"buttocks, backside, behind, bottom, rear"}
 {"T":"r","L":"gnais","C":["n","tera"],"d":"un roca mutada con strutur stratida, tipal composada de feldspato, cuarzo e mica","en":"gneiss (geology)"}
 {"T":"r","L":"gnatostomulido","C":["n"],"d":"un membro de un filo peti de animales multe peti de mar","i":"#","t":"Gnathostomulida","en":"gnathostomulid (organism)"}
@@ -12151,7 +12152,7 @@
 {"T":"r","L":"gorila","C":["n","mam"],"d":"un primate grande e potiosa con testa grande e colo corta, trovada en la forestas de Africa sentral","i":"#","t":"Gorilla","en":"gorilla"}
 {"T":"r","L":"gospel","C":["a","mus"],"d":"un stilo de canta relijiosa developada en la eglesas de americanes negra","en":"gospel (music)"}
 {"L":"gospel","C":["n"],"en":"gospel (music)"}
-{"T":"r","L":"gota","C":["vnt","fis"],"d":"(un licuida) cade como masas peti e ronda","en":"drip"}
+{"T":"r","L":"gota","C":["vnt","fis"],"d":"(un licuida) cade como masas peti e ronda","en":"drip","fr":"goutte"}
 {"L":"gota","C":["vt"],"en":"drip"}
 {"L":"gota","C":["n"],"d":"un masa peti, con forma ronda o perin, de un licuida cual pende, cade o adere a un surfas","i":"#","da":"drypp","de":"Tropfen","en":"drip, drop (liquid)","es":"gota"}
 {"L":"gota de pluve","C":["n"],"en":"raindrop"}
@@ -12165,8 +12166,8 @@
 {"T":"r","L":"gotica","C":["a","arci"],"d":"de o pertinente a un moda de arciteta comun en Europa ueste entre 1100 e 1600, con arcos puntida, voltas costelin, arcos apoiante, vitro colorida, e ornas par perfora detaliosa; (leteras) derivada de un stilo angulo con verticales spesa, usada en Europa de la sentenio 13","i":"#","en":"Gothic (architecture, lettering)"}
 {"T":"r","L":"goto","C":["a","dem"],"d":"pertinente a un popla germanica ci ia invade la Impero Roman de la este entre 200 e 500 ec","en":"Gothic (person, language)"}
 {"L":"goto","C":["n"],"en":"Goth"}
-{"T":"r","L":"governa","C":["vt","gov"],"d":"maneja la politica, atas e consernas de (un stato, organiza o popla); eserse potia o autoria supra (un area o popla)","en":"govern, rule"}
-{"L":"governa","C":["n"],"da":"regering","de":"Regierung","en":"government, rule, regime; cabinet","es":"gobierno"}
+{"T":"r","L":"governa","C":["vt","gov"],"d":"maneja la politica, atas e consernas de (un stato, organiza o popla); eserse potia o autoria supra (un area o popla)","en":"govern, rule","fr":"gouverner"}
+{"L":"governa","C":["n"],"da":"regering","de":"Regierung","en":"government, rule, regime; cabinet","es":"gobierno","fr":"gouvernement"}
 {"L":"governa pupetin","C":["n"],"en":"puppet government, puppet regime"}
 {"L":"antigovernal","C":["a"],"en":"antigovernment"}
 {"L":"egoverna","C":["n"],"en":"e-government"}
@@ -12182,7 +12183,7 @@
 {"L":"gradiente de presa","C":["n"],"en":"pressure gradient"}
 {"L":"gradiente sosial","C":["n"],"en":"social gradient"}
 {"L":"gradiente termal","C":["n"],"en":"thermal gradient, temperature gradient"}
-{"T":"r","L":"grado","C":["n"],"d":"la cuantia, nivel o estende a cual alga cosa aveni o es presente; un unia per mesura angulos; un nivel en un scala, serie o prosede, o en la ierarcia de un organiza o sosia; cada de la surfases orizonal cual formi un scalera","da":"grad","de":"Grad; Stufe","en":"degree, extent; rank, echelon; stair, tread, step; stage, step (process)","es":"grado, rango"}
+{"T":"r","L":"grado","C":["n"],"d":"la cuantia, nivel o estende a cual alga cosa aveni o es presente; un unia per mesura angulos; un nivel en un scala, serie o prosede, o en la ierarcia de un organiza o sosia; cada de la surfases orizonal cual formi un scalera","da":"grad","de":"Grad; Stufe","en":"degree, extent; rank, echelon; stair, tread, step; stage, step (process)","es":"grado, rango","fr":"degré"}
 {"L":"de grado du","C":["a"],"en":"secondary, second-degree"}
 {"L":"de grado prima","C":["a"],"en":"primary, first-degree"}
 {"L":"de grado tre","C":["a"],"en":"tertiary, third-degree"}
@@ -12190,7 +12191,7 @@
 {"L":"grado de farenhait","C":["n"],"en":"degree Fahrenheit"}
 {"L":"grado de porte","C":["n"],"en":"doorstep"}
 {"L":"a no grado","C":["av"],"en":"to no extent, not at all"}
-{"L":"gradal","C":["a"],"en":"gradual","es":"gradual"}
+{"L":"gradal","C":["a"],"en":"gradual","es":"gradual","fr":"graduel"}
 {"L":"gradal","C":["av"],"da":"gradvis","de":"stufenweise, allmählich","en":"gradually","es":"gradualmente, por grados, por niveles, de poco a poco"}
 {"L":"gradalisme","C":["n"],"d":"un politica de reformi gradal; la teoria en biolojia de evolui gradal","en":"gradualism"}
 {"L":"gradeta","C":["n"],"en":"rung"}
@@ -12239,11 +12240,11 @@
 {"L":"miligram","C":["n"],"en":"milligram"}
 {"L":"sentigram","C":["n"],"en":"centigram"}
 {"T":"r","L":"-gram","C":["sf","n","util","arte","mat"],"d":"un produida de un aparato scrivente","en":"-gram (output of device)"}
-{"T":"r","L":"gramatica","C":["n","ling"],"d":"la sistem e strutur completa de un lingua, o de linguas jeneral","da":"grammatik","de":"Grammatik","en":"grammar","es":"gramática"}
+{"T":"r","L":"gramatica","C":["n","ling"],"d":"la sistem e strutur completa de un lingua, o de linguas jeneral","da":"grammatik","de":"Grammatik","en":"grammar","es":"gramática","fr":"grammaire"}
 {"L":"gramatica jenerante","C":["n"],"en":"generative grammar"}
 {"L":"gramatical","C":["a"],"en":"grammatical"}
 {"L":"gramaticiste","C":["n"],"en":"grammarian"}
-{"T":"r","L":"gran","C":["n","pla","bio"],"d":"un seme o fruta de un sereal; un colie cultivada de estas; un particula de un materia como sal o arena","da":"korn, kerne","de":"Getreide, Korn","en":"grain, kernel, grist, cereal seed; cereal crop, corn; particle, pellet (salt, sand, etc.)","es":"grano(s), cosecha de cereal(es) y sus semilla(s)"}
+{"T":"r","L":"gran","C":["n","pla","bio"],"d":"un seme o fruta de un sereal; un colie cultivada de estas; un particula de un materia como sal o arena","da":"korn, kerne","de":"Getreide, Korn","en":"grain, kernel, grist, cereal seed; cereal crop, corn; particle, pellet (salt, sand, etc.)","es":"grano(s), cosecha de cereal(es) y sus semilla(s)","fr":"grain(s)"}
 {"L":"de gran intera","C":["a"],"en":"wholegrain, wholemeal"}
 {"L":"gran de plomo","C":["n"],"en":"lead shot"}
 {"L":"graneria","C":["n"],"i":"#","en":"barn, granary; breadbasket (region)"}
@@ -12258,29 +12259,29 @@
 {"L":"granador","C":["n"],"en":"grenadier (soldier)"}
 {"T":"r","L":"granada","C":["n","pla","cos"],"d":"un arbor nativa de Africa norde e Asia ueste; la fruta de esta, con pel dur e rojin, e con pulpa roja e dulse con multe semes","i":"#","t":"Punica granatum","en":"pomegranate"}
 {"T":"r","L":"granato","C":["n","tera"],"d":"un jem fabricada de un mineral profonda roja","i":"#","en":"garnet (gem)"}
-{"T":"r","L":"grande","C":["a"],"d":"de un altia, estende, cuantia o masa plu ca normal per sua clase o tipo; (un person) de un capasia o importa multe plu ca normal","u":"Alexandro la Grande","da":"stor, store","de":"gross","en":"large, big, great, hefty, sizeable; great, eminent","es":"gran, grande, importante, imponente"}
+{"T":"r","L":"grande","C":["a"],"d":"de un altia, estende, cuantia o masa plu ca normal per sua clase o tipo; (un person) de un capasia o importa multe plu ca normal","u":"Alexandro la Grande","da":"stor, store","de":"gross","en":"large, big, great, hefty, sizeable; great, eminent","es":"gran, grande, importante, imponente","fr":"grammaire"}
 {"L":"de grandia cambiable","C":["a"],"en":"resizable"}
 {"L":"de grandia natural","C":["a"],"en":"full-size, full-scale, life-size"}
 {"L":"de grandia vera","C":["a"],"en":"life-size"}
 {"L":"grandi","C":["vnt"],"en":"enlarge, grow, increase, amplify, magnify, augment, scale up, escalate, heighten"}
 {"L":"grandi","C":["vt"],"da":"forøge, forstørre","en":"enlarge, grow, increase, amplify, magnify, augment, scale up, escalate, heighten"}
 {"L":"grandi","C":["n"],"en":"enlargement, growth, increase, amplification, magnification; augmentation, escalation"}
-{"L":"grandia","C":["n"],"da":"størrelse","de":"Grösse","en":"size, amplitude, magnitude; stature","es":"tamaño, medida, talla"}
+{"L":"grandia","C":["n"],"da":"størrelse","de":"Grösse","en":"size, amplitude, magnitude; stature","es":"tamaño, medida, talla","fr":"taille"}
 {"L":"grandida","C":["a"],"en":"enlarged, magnified"}
 {"L":"grandiosa","C":["a"],"en":"grandiose, grand"}
 {"L":"nongrandida","C":["a"],"en":"unenlarged, unmagnified"}
 {"L":"Rio Grande","C":["n","jeo"],"d":"un rio en America Norde cual comensa en la Montes Rocosa e fini en la Mar Mexico, e cual formi la frontera entre la SUA e Mexico de El Paso a la mar","i":"#","en":"Rio Grande"}
 {"T":"r","L":"granito","C":["n","tera"],"d":"un roca magmal dur, granetin e cristal, composada xef de cuarzo, mica e feldspato, e comun usada como un petra per construi","en":"granite"}
-{"T":"r","L":"graniza","C":["vnt"],"d":"granes de pluve jelada cual cade de nubes cumulonimbo","i":"#","en":"hail"}
-{"L":"graniza","C":["n"],"da":"hagl","de":"Hagel","en":"hail, hailstone","es":"granizo"}
+{"T":"r","L":"graniza","C":["vnt"],"d":"granes de pluve jelada cual cade de nubes cumulonimbo","i":"#","en":"hail","fr":"grêler"}
+{"L":"graniza","C":["n"],"da":"hagl","de":"Hagel","en":"hail, hailstone","es":"granizo","fr":"grêle"}
 {"T":"r","L":"granuloma","C":["n","bio","med"],"d":"un masa de texeda granin en la corpo, tipal causada par un infeta, inflama o la presentia de un materia stranjer","en":"granuloma (medical)"}
 {"T":"r","L":"granulopoiese","C":["n","bio"],"d":"la produi de granulosites","en":"granulopoiesis (medical)"}
 {"T":"r","L":"granulosite","C":["n","bio"],"d":"un selula de sangue blanca con granes secretente en sua sitoplasma, per dise un eosinofilica o basofilica","en":"granulocyte (medical)"}
 {"T":"r","L":"granulositopenia","C":["n","med"],"d":"un nonsufisi de granulosites","en":"granulocytopenia (medical)"}
-{"T":"r","L":"grapa","C":["n","util"],"d":"un peso de filo metal magra, con finis curvida a angulo reta, cual un aparato presa tra paperes per junta los a lunlotra; un bara con forma simil, usada per junta du pesos de lenio","da":"hæfteklampe","de":"Heftklammer","en":"staple (fastener)","es":"grapa, broche de alambre"}
+{"T":"r","L":"grapa","C":["n","util"],"d":"un peso de filo metal magra, con finis curvida a angulo reta, cual un aparato presa tra paperes per junta los a lunlotra; un bara con forma simil, usada per junta du pesos de lenio","da":"hæfteklampe","de":"Heftklammer","en":"staple (fastener)","es":"grapa, broche de alambre","fr":"agrafe"}
 {"L":"grapador","C":["n"],"i":"#","en":"stapler, staple gun"}
 {"L":"grapi","C":["vt"],"en":"staple"}
-{"T":"r","L":"gras","C":["n","bio"],"d":"un materia natural de olio semisolida, presente en la corpo de animales, tipal en un strato su la pel o sirca alga organos; esta materia o otra simil, usada per lubrica o cosini","da":"fedt","de":"Fett","en":"fat (oily animal material), grease, flab, shortening, lard","es":"grasa, manteca, gordura"}
+{"T":"r","L":"gras","C":["n","bio"],"d":"un materia natural de olio semisolida, presente en la corpo de animales, tipal en un strato su la pel o sirca alga organos; esta materia o otra simil, usada per lubrica o cosini","da":"fedt","de":"Fett","en":"fat (oily animal material), grease, flab, shortening, lard","es":"grasa, manteca, gordura","fr":"graisse"}
 {"L":"gras de balena","C":["n"],"en":"blubber"}
 {"L":"gras de bur","C":["n"],"en":"butterfat"}
 {"L":"gras de porco","C":["n"],"en":"lard"}
@@ -12288,7 +12289,7 @@
 {"L":"grasal","C":["a"],"en":"fatty (pertaining to fat)"}
 {"L":"grasi","C":["vt"],"en":"grease, baste"}
 {"L":"grasosa","C":["a"],"en":"fat, fatty, greasy"}
-{"T":"r","L":"grasia","C":["vt","uma"],"d":"espresa un senti de felisia a (algun) pos reseta alga cosa beneficante","da":"takke","de":"danken","en":"thank","es":"agracecer, dar gracias"}
+{"T":"r","L":"grasia","C":["vt","uma"],"d":"espresa un senti de felisia a (algun) pos reseta alga cosa beneficante","da":"takke","de":"danken","en":"thank","es":"agracecer, dar gracias","fr":"remercier"}
 {"L":"grasia","C":["n"],"en":"gratitude, thanks, appreciation; grace (Christianity)"}
 {"L":"con grasias a","C":["prep"],"en":"thanks to"}
 {"L":"es grasiosa per","C":["v"],"en":"be grateful for, appreciate"}
@@ -12297,7 +12298,7 @@
 {"L":"grasias a la sielo","C":["esc"],"en":"thank heavens"}
 {"L":"grasieta","C":["vt"],"en":"tip, give a tip (for service)"}
 {"L":"grasieta","C":["n"],"en":"tip, gratuity"}
-{"L":"grasiosa","C":["a"],"da":"taknemmelig","de":"dankbar","en":"grateful, thankful, appreciative","es":"agradecido"}
+{"L":"grasiosa","C":["a"],"da":"taknemmelig","de":"dankbar","en":"grateful, thankful, appreciative","es":"agradecido","fr":"reconnaissant"}
 {"L":"nongrasiada","C":["a"],"en":"thankless (task)"}
 {"L":"nongrasiosa","C":["a"],"en":"ungrateful, thankless (person)"}
 {"L":"nongrasiosa","C":["n"],"en":"ingrate"}
@@ -12314,7 +12315,7 @@
 {"L":"gravia","C":["n"],"en":"seriousness, gravity, virulence"}
 {"L":"nongrave","C":["a"],"en":"non-virulent"}
 {"T":"r","L":"gravita","C":["vnt","fis"],"d":"move, o tende move, a un masa o otra cosa atraente, tipal la sentro de la Tera, la Sol o otra cosa multe masosa","en":"gravitate"}
-{"L":"gravita","C":["n"],"da":"tyngde, tyngdekraft","de":"Schwerkraft","en":"gravity","es":"gravedad"}
+{"L":"gravita","C":["n"],"da":"tyngde, tyngdekraft","de":"Schwerkraft","en":"gravity","es":"gravedad","fr":"pesanteur"}
 {"L":"antigravita","C":["n"],"en":"antigravity"}
 {"L":"gravital","C":["a"],"en":"gravitational"}
 {"T":"r","L":"graviton","C":["n","fis"],"d":"un cuanto ipotesal de gravita, regardada como un particula","en":"graviton"}
@@ -12324,8 +12325,8 @@
 {"L":"grenadian","C":["a"],"en":"Grenadian"}
 {"L":"grenadian","C":["n","dem"],"en":"Grenadian"}
 {"T":"r","L":"Grenadine, Isolas","C":["n","pl","jeo"],"d":"un cadena de isolas peti en la Mar Caribe","i":"Isolas-Grenadine","en":"Grenadine Islands"}
-{"T":"r","L":"greve","C":["vnt","gov"],"d":"(empleadas) refusa labora como un forma de protesta organizada, tipal per oteni beneficas de sua empleor","i":"#","da":"strejke","de":"Streik","en":"strike (protest)"}
-{"L":"greve","C":["n"],"en":"strike","es":"huelga, paro laboral"}
+{"T":"r","L":"greve","C":["vnt","gov"],"d":"(empleadas) refusa labora como un forma de protesta organizada, tipal per oteni beneficas de sua empleor","i":"#","da":"strejke","de":"Streik","en":"strike (protest)","fr":"se mettre en grève"}
+{"L":"greve","C":["n"],"en":"strike","es":"huelga, paro laboral","fr":"grève"}
 {"L":"greve nonlegal","C":["n"],"en":"wildcat strike"}
 {"L":"grevor","C":["n"],"i":"#","en":"striker, picketer"}
 {"T":"r","L":"grifon","C":["n","mit"],"d":"un monstro con corpo de leon e testa e alas de agila","i":"#","en":"griffin, griffon, gryphon"}
@@ -12333,19 +12334,18 @@
 {"L":"grilia de ximineria","C":["n"],"en":"grate (fireplace)"}
 {"L":"grili","C":["vt"],"en":"grill, barbecue, broil, charbroil; add a hash sign to, hashtag; crosshatch"}
 {"L":"grilin","C":["a"],"en":"gridlike, crisscross, hatching, crosshatching"}
-{"T":"r","L":"grilo","C":["n","artr"],"d":"un inseto en familia de locusta, de cual la mas produi un grinse ruidosa","i":"#","t":"Ensifera","da":"fårekylling","de":"Grashüpfer","en":"cricket (insect)","es":"saltamontes, chapulín"}
-{"L":"grilo verde","C":["n","artr"],"d":"un locusta grande e tipal verde","i":"#","t":"Tettigoniidae","en":"katydid, bush cricket"}
+{"T":"r","L":"grilo","C":["n","artr"],"d":"un inseto en familia de locusta, de cual la mas produi un grinse ruidosa","i":"#","t":"Ensifera","da":"fårekylling","de":"Grashüpfer","en":"cricket (insect)","es":"saltamontes, chapulín","fr":"grillon"}
+{"L":"grilo verde","C":["n","artr"],"d":"un locusta grande e tipal verde","i":"#","t":"Tettigoniidae","en":"katydid, bush cricket","fr":"grande sauterelle"}
 {"T":"r","L":"grima","C":["vnt","uma"],"d":"un espresa de fas, indicante coleria, tristia, consentra o mal umor","en":"grimace, frown, scowl, glower, glare, sneer; grin (skull)"}
-{"L":"grima","C":["n"],"i":"#","en":"grimace, frown, scowl, glower, glare, sneer; grin (skull)"}
-{"T":"r","L":"grinse","C":["vnt"],"d":"fa un sona alta e forte, tipal causada par la raspa de un cosa o parte contra un otra","en":"creak (high-pitched), squeak, chirp, grate"}
-{"L":"grinse","C":["vt"],"en":"creak (high-pitched), squeak, chirp, grate"}
+{"L":"grima","C":["n"],"i":"#","en":"grimace, frown, scowl, glower, glare, sneer; grin (skull)","fr":"grimacer"}
+{"T":"r","L":"grinse","C":["vnt"],"d":"fa un sona alta e forte, tipal causada par la raspa de un cosa o parte contra un otra","en":"creak (high-pitched), squeak, chirp, grate","fr":"grincer"}
 {"L":"grinse","C":["n"],"en":"creak (high-pitched), squeak, chirp, grate"}
 {"L":"grinsente","C":["a"],"en":"creaking, creaky, squeaky"}
 {"T":"r","L":"grio","C":["n","arte"],"d":"un membro de un casta de poesistes, musicistes e narores ci manteni un tradision de istoria bocal en partes de Africa ueste","en":"griot (storyteller)"}
-{"T":"r","L":"gripe","C":["n","med"],"d":"un infeta virusal e multe comunicable de la pulmones, causante febre, dole e cataro","en":"influenza, flu"}
+{"T":"r","L":"gripe","C":["n","med"],"d":"un infeta virusal e multe comunicable de la pulmones, causante febre, dole e cataro","en":"influenza, flu","fr":"grippe"}
 {"L":"gripe avial","C":["n"],"en":"avian flu, bird flu"}
 {"L":"gripe porcal","C":["n"],"en":"swine flu"}
-{"T":"r","L":"gris","C":["a","col"],"d":"con color entre negra e blanca, como sene","i":"#","da":"grå","de":"grau","en":"gray|grey, grizzled","es":"gris"}
+{"T":"r","L":"gris","C":["a","col"],"d":"con color entre negra e blanca, como sene","i":"#","da":"grå","de":"grau","en":"gray|grey, grizzled","es":"gris","fr":"gris"}
 {"L":"gris","C":["n"],"en":"gray|grey"}
 {"L":"grisi","C":["vnt"],"en":"gray|grey, turn gray|grey, grizzle"}
 {"L":"grisi","C":["vt"],"en":"gray|grey, turn gray|grey, grizzle"}
@@ -12356,18 +12356,18 @@
 {"L":"gronlandes","C":["a"],"en":"Greenlandic (person, language)"}
 {"L":"gronlandes","C":["n"],"v":"calalit","en":"Greenlander"}
 {"L":"Mar Gronland","C":["n","jeo"],"d":"un mar a este de Calalitnunat, un parte de la Mar Atlantica","i":"#","en":"Greenland Sea"}
-{"T":"r","L":"grosela","C":["n","pla","cos"],"d":"un arboreta eurasian cual produi bacas peti negra, roja o blanca; la bacas comable de esta","t":"Ribes","en":"edible currant"}
-{"L":"grosela negra","C":["n","pla"],"i":"#","t":"Ribes nigrum","en":"blackcurrant"}
+{"T":"r","L":"grosela","C":["n","pla","cos"],"d":"un arboreta eurasian cual produi bacas peti negra, roja o blanca; la bacas comable de esta","t":"Ribes","v":"uva seca","en":"edible currant","fr":"groseiller; groseille"}
+{"L":"grosela negra","C":["n","pla"],"i":"#","t":"Ribes nigrum","en":"blackcurrant","fr":"cassis"}
 {"L":"grosela roja","C":["n","pla"],"i":"#","t":"Ribes rubrum","en":"redcurrant"}
 {"L":"grosela spinosa","C":["n","pla"],"i":"#","t":"Ribes uva-crispa","en":"gooseberry"}
 {"T":"r","L":"grr","C":["esc","onom"],"d":"un sona fada par animales como leones, tigres e canes, indicante coleria o menasa","en":"grrr (growling)"}
-{"T":"r","L":"gru","C":["n","avia","util"],"d":"un avia alta, con gamas e colo longa, tipal con plumas blanca o gris, notada per sua dansas de cortea complicada; un macina grande e alta, usada per move ojetos pesosa, tipal par suspende los de un braso longa","i":"#, gru-construi","t":"Gruidae","en":"crane (bird, machine)"}
+{"T":"r","L":"gru","C":["n","avia","util"],"d":"un avia alta, con gamas e colo longa, tipal con plumas blanca o gris, notada per sua dansas de cortea complicada; un macina grande e alta, usada per move ojetos pesosa, tipal par suspende los de un braso longa","i":"#, gru-construi","t":"Gruidae","en":"crane (bird, machine)","fr":"grue"}
 {"L":"Gru","C":["n","ast"],"d":"un constela en la sielo sude","en":"Grus (constellation)"}
 {"L":"gru cavaletin","C":["n"],"en":"gantry"}
 {"T":"r","L":"grunje","C":["a","mus"],"d":"un moda de roc, con gitar ruidosa e voses ru","en":"grunge (music)"}
 {"L":"grunje","C":["n"],"en":"grunge (music)"}
 {"T":"r","L":"grupi","C":["n","mus"],"d":"un person, tipal un fem joven, ci segue un grupo musical o otra selebradas, e ci espera encontra los o developa un relata con los","en":"groupie"}
-{"T":"r","L":"grupo","C":["n"],"d":"un cuantia de persones o cosas prosima a lunlotra o clasida con lunlotra","da":"gruppe; parti (samling af produkter)","de":"Gruppe","en":"group, bunch, batch, troop, cohort, posse, cluster, clump","es":"grupo, equipo"}
+{"T":"r","L":"grupo","C":["n"],"d":"un cuantia de persones o cosas prosima a lunlotra o clasida con lunlotra","da":"gruppe; parti (samling af produkter)","de":"Gruppe","en":"group, bunch, batch, troop, cohort, posse, cluster, clump","es":"grupo, equipo","fr":"groupe"}
 {"L":"grupo de odia","C":["n"],"en":"hate group"}
 {"L":"grupo escluinte","C":["n"],"en":"clique, coterie"}
 {"L":"grupo laborante","C":["n"],"en":"working group, working party"}
@@ -12423,8 +12423,8 @@
 {"L":"gurgula","C":["n"],"en":"gurgle, glug, squelch"}
 {"T":"r","L":"gurme","C":["n","cos"],"d":"un person con multe sabes e esperia de comedas de cualia alta","en":"gourmet, gastronome, epicure, epicurean"}
 {"T":"r","L":"guru","C":["n","rel"],"d":"(en budisme e induisme) un instruor relijiosa","i":"#","en":"guru"}
-{"T":"r","L":"gusta","C":["vt","uma"],"d":"senti ce (un person o cosa) es bon, simpatiosa, sasiante, plasente, etc","u":"me gusta leje; me gusta esta canta","da":"lide, glæde sig over","de":"gern haben, (I like it = es gefällt mir)","en":"like, enjoy, be fond of","es":"agradar, gustar, disfrutar de, gozar de"}
-{"L":"me gusta lo","C":["esp"],"de":"es gefällt mir","en":"I like it","eo":"ĝi plaĉas al mi"}
+{"T":"r","L":"gusta","C":["vt","uma"],"d":"senti ce (un person o cosa) es bon, simpatiosa, sasiante, plasente, etc","u":"me gusta leje; me gusta esta canta","da":"lide, glæde sig over","de":"gern haben, (I like it = es gefällt mir)","en":"like, enjoy, be fond of","es":"agradar, gustar, disfrutar de, gozar de","fr":"aimer bien"}
+{"L":"me gusta lo","C":["esp"],"de":"es gefällt mir","en":"I like it","eo":"ĝi plaĉas al mi","es":"me gusta","fr":"je l'aime, ça me plaît"}
 {"L":"gusta","C":["n"],"en":"enjoyment","es":"goce, gozo, disfrute, placer"}
 {"L":"gustable","C":["a"],"en":"likable|likeable, enjoyable, pleasant, agreeable, welcome, groovy"}
 {"L":"no gusta","C":["v"],"en":"dislike","es":"no gustar, desagradar, tener aversión a,"}
@@ -12597,13 +12597,13 @@
 {"L":"iberian","C":["n"],"en":"Iberian","es":"ibérico"}
 {"T":"r","L":"ibex","C":["n","mam"],"d":"un capra savaje de montania, con barba e cornos longa e spesa","i":"#","t":"Capra ibex","en":"ibex (goat)","eo":"ibekso","es":"íbice"}
 {"T":"r","L":"ibis","C":["n","avia"],"d":"un avia vadante con gamas longa, colo longa, e beco longa e curvida","i":"#","t":"Threskiornithinae","en":"ibis (bird)","eo":"ibiso","es":"ibis"}
-{"T":"r","L":"ibisco","C":["n","pla"],"d":"un planta grande en familia de malva, con flores briliante colorida","i":"#","t":"Hibiscus","en":"hibiscus (plant)","eo":"hibisko","es":"hibisco"}
-{"T":"r","L":"ibride","C":["a","bio"],"d":"composada de partes miscada; con jenitores de du spesies diferente","en":"hybrid, crossbred, mongrel","eo":"hibrida"}
-{"L":"ibride","C":["n"],"en":"hybrid, crossbreed, mongrel","eo":"hibrido"}
+{"T":"r","L":"ibisco","C":["n","pla"],"d":"un planta grande en familia de malva, con flores briliante colorida","i":"#","t":"Hibiscus","en":"hibiscus (plant)","eo":"hibisko","es":"hibisco","fr":"hibiscus"}
+{"T":"r","L":"ibride","C":["a","bio"],"d":"composada de partes miscada; con jenitores de du spesies diferente","en":"hybrid, crossbred, mongrel","eo":"hibrida","fr":"hybride"}
+{"L":"ibride","C":["n"],"en":"hybrid, crossbreed, mongrel","eo":"hibrido","fr":"hybride"}
 {"L":"ibridi","C":["vnt"],"en":"hybridize|is, crossbreed","eo":"hibridiĝi"}
 {"L":"ibridi","C":["vt"],"en":"hybridize|is, crossbreed"}
 {"L":"ibridi","C":["n"],"en":"hybridization|is","eo":"hibridiĝo; hibridigo"}
-{"T":"r","L":"ica","C":["vnt","bio"],"d":"fa nonvolente un spasma de la diaframa, subita cluinte la glote con un sona tipal","en":"hiccup, hiccough","eo":"singulti"}
+{"T":"r","L":"ica","C":["vnt","bio"],"d":"fa nonvolente un spasma de la diaframa, subita cluinte la glote con un sona tipal","en":"hiccup, hiccough","eo":"singulti","fr":"avoir le hoquet"}
 {"L":"ica","C":["n"],"d":"un ata de ica","en":"hiccup","eo":"singulto"}
 {"T":"r","L":"-ica","C":["sf","a"],"d":"ajuntada a un nom jeografial per formi un ajetivo pertinente a la loca","u":"cimrica","v":"-an, -es, -i, -sce","en":"-ic, -ish (pertaining to a region)"}
 {"L":"-ica","C":["sf","n"],"d":"nominte un abitor o lingua de un rejion spesifada","en":"-ic, -ish (pertaining to a region)"}
@@ -12624,7 +12624,7 @@
 {"T":"r","L":"ictiosauro","C":["n","dino"],"d":"un retil maral e estinguida de la mesozoica, cual sembla un delfin","i":"#","t":"Ichthyosauria","en":"ichthyosaur, ichthyosaurus"}
 {"T":"r","L":"id","C":["n","uma"],"d":"(en la teoria psicoanalisal de Freud) la parte de la mente cual conteni la instintos e memorias represada","en":"id (psychology)","eo":"ĝio"}
 {"T":"r","L":"Idaho","C":["n","jeo"],"d":"un stato en la SUA norde-ueste","p":"aídaho","en":"Idaho (US state)"}
-{"T":"r","L":"idea","C":["n","fil","uma"],"d":"un pensa, conseta, opina, crede o intende","da":"ide","de":"Idee","en":"idea, concept, issue, notion","eo":"ideo","es":"idea, concepto, pensamiento, opinion"}
+{"T":"r","L":"idea","C":["n","fil","uma"],"d":"un pensa, conseta, opina, crede o intende","da":"ide","de":"Idee","en":"idea, concept, issue, notion","eo":"ideo","es":"idea, concepto, pensamiento, opinion","fr":"idée"}
 {"L":"ideas","C":["n","pl"],"en":"ideas"}
 {"L":"ideas asetada","C":["n","pl"],"en":"received wisdom"}
 {"T":"r","L":"ideal","C":["a","fil"],"d":"desirada o perfeta, ma comun esistente sola en la imajina","en":"ideal","eo":"ideala"}
@@ -12636,12 +12636,12 @@
 {"L":"idealisme","C":["n"],"d":"un crede cual inclui la espera ce la ideal es realable; un filosofia cual sujesta ce tota realia es nonmaterial","en":"idealism","eo":"idealismo"}
 {"L":"idealiste","C":["a"],"en":"idealistic, quixotic","eo":"idealisma"}
 {"L":"idealiste","C":["n"],"en":"idealist","eo":"idealisto"}
-{"T":"r","L":"identia","C":["n","uma"],"d":"la fato de es lo cual on es, e la cualias (incluinte la nom) cual distingui on de otras","da":"identitet","de":"Identität","en":"identity, ID","eo":"identeco","es":"identidad"}
+{"T":"r","L":"identia","C":["n","uma"],"d":"la fato de es lo cual on es, e la cualias (incluinte la nom) cual distingui on de otras","da":"identitet","de":"Identität","en":"identity, ID","eo":"identeco","es":"identidad","fr":"identité"}
 {"L":"identia de jenero","C":["n"],"en":"gender identity"}
 {"L":"identia sesal","C":["n"],"en":"sexual identity"}
 {"L":"autoidentia","C":["n"],"en":"self-identity"}
-{"T":"r","L":"identica","C":["a"],"d":"simil en tota detalias; esata la mesma","en":"identical","eo":"identa"}
-{"T":"r","L":"identifia","C":["vt","uma"],"d":"trova o indica la identia de; indica la identia de (la usor) cuando on comensa usa un program","en":"identify, designate"}
+{"T":"r","L":"identica","C":["a"],"d":"simil en tota detalias; esata la mesma","en":"identical","eo":"identa","fr":"identique"}
+{"T":"r","L":"identifia","C":["vt","uma"],"d":"trova o indica la identia de; indica la identia de (la usor) cuando on comensa usa un program","en":"identify, designate","fr":"identifier"}
 {"L":"identifia","C":["n"],"en":"identification, designation"}
 {"L":"desidentifia","C":["vt","info"],"en":"deidentify"}
 {"L":"desidentifia se","C":["vt","info"],"en":"deidentify oneself, log out (software)","eo":"elsaluti, adiaŭi"}
@@ -12665,7 +12665,7 @@
 {"T":"r","L":"idiopatia","C":["n","med"],"d":"un maladia o sindrom cual comensa spontan o de cual sua causa no es conoseda","en":"idiopathy"}
 {"L":"idiopatica","C":["a"],"en":"idiopathic"}
 {"T":"r","L":"-ido","C":["sf","n","cim"],"d":"un composada de sal","en":"-ide (salt)"}
-{"T":"r","L":"idol","C":["n","mit","rel"],"d":"un imaje de un dio o diva usada como un ojeto de adora","i":"#","en":"idol; heartthrob","eo":"idolo"}
+{"T":"r","L":"idol","C":["n","mit","rel"],"d":"un imaje de un dio o diva usada como un ojeto de adora","i":"#","en":"idol; heartthrob","eo":"idolo","fr":"idole"}
 {"L":"idoli","C":["vnt"],"en":"be idolized|is","eo":"idoliĝi"}
 {"L":"idoli","C":["vt"],"en":"idolize","eo":"idoligi"}
 {"L":"idoli","C":["n"],"en":"idolatry","eo":"idoligo"}
@@ -12707,7 +12707,7 @@
 {"T":"r","L":"idrografia","C":["n","tera"],"d":"la siensa de mesura e mapa acuas grande, como mares, lagos e rios","en":"hydrography"}
 {"L":"idrografial","C":["a"],"en":"hydrographical"}
 {"L":"idrografiste","C":["n"],"en":"hydrographer"}
-{"T":"r","L":"idrojen","C":["n","cim"],"d":"la elemento cimical con numero atomal 1, un gas sin color o odor, multe flamable","s":"H (hydrogen)","en":"hydrogen","eo":"hidrogeno"}
+{"T":"r","L":"idrojen","C":["n","cim"],"d":"la elemento cimical con numero atomal 1, un gas sin color o odor, multe flamable","s":"H (hydrogen)","en":"hydrogen","eo":"hidrogeno","fr":"hydrogène"}
 {"T":"r","L":"idrolase","C":["n","bio","cim"],"d":"un enzima cual catalise la idrolise de lias variosa","en":"hydrolase"}
 {"T":"r","L":"idrolise","C":["vt","cim"],"d":"rompe (un composada) par un reata cimical con acua","en":"hydrolyze|ys","eo":"hidrolizi"}
 {"L":"idrolise","C":["n"],"en":"hydrolysis","eo":"hidrolizo"}
@@ -12735,7 +12735,7 @@
 {"T":"r","L":"ie","C":["esc"],"d":"corajinte o aprobante","en":"yeah, yay"}
 {"T":"r","L":"iena","C":["n","mam"],"d":"un mamal canin, con crinera erijeda e gamas anterior plu longa ca la posteriores","i":"#","t":"Hyaenidae","en":"hyena","eo":"hieno"}
 {"L":"ienin","C":["a"],"en":"hyena-like"}
-{"T":"r","L":"ier","C":["av"],"d":"a la dia ante oji","da":"i går","de":"Gestern","en":"yesterday","eo":"hieraŭ","es":"ayer"}
+{"T":"r","L":"ier","C":["av"],"d":"a la dia ante oji","da":"i går","de":"Gestern","en":"yesterday","eo":"hieraŭ","es":"ayer","fr":"hier"}
 {"L":"ier","C":["n"],"en":"yesterday","eo":"hieraŭ, hieraŭo"}
 {"L":"a la dia ante ier","C":["av"],"en":"the day before yesterday","eo":"antaŭhieraŭ"}
 {"T":"r","L":"ierarcia","C":["n","gov"],"d":"un sistem de organiza cual representa persones o cosas como relativa superior, inferior o egal, en acorda con sua state o grado","en":"hierarchy","eo":"hierarkio"}
@@ -12791,7 +12791,7 @@
 {"T":"r","L":"im-","C":["pf"],"d":"en, a en","en":"im- (in, into)"}
 {"T":"r","L":"im-","C":["pf"],"d":"no, non-","en":"im- (not)"}
 {"T":"r","L":"imago","C":["n","bio"],"d":"la forma final developada de un inseto, tipal con alas; (en psicolojia de Jung) un imaje nonconsensa e idealida cual influe la condui","en":"imago (biology, psychology)"}
-{"T":"r","L":"imaje","C":["n","arte","info"],"d":"un representa vidal, real o mental de un person o cosa, como un sculta, depinta, desinia o foto; cada de la fotos individua en un serie cual formi un video","da":"billede","de":"Bild","en":"image, picture, depiction, graphic, illustration, painting, drawing, photo; frame (movie)","eo":"figuro, bildo","es":"cuadro, imagen, pintura, retrato, fotografía"}
+{"T":"r","L":"imaje","C":["n","arte","info"],"d":"un representa vidal, real o mental de un person o cosa, como un sculta, depinta, desinia o foto; cada de la fotos individua en un serie cual formi un video","da":"billede","de":"Bild","en":"image, picture, depiction, graphic, illustration, painting, drawing, photo; frame (movie)","eo":"figuro, bildo","es":"cuadro, imagen, pintura, retrato, fotografía","fr":"image"}
 {"L":"imaje esajerada","C":["n"],"en":"caricature"}
 {"L":"imaje matrisin","C":["n","info"],"en":"bitmap image, raster image","eo":"rastruma bildo"}
 {"L":"imaje vetoral","C":["n"],"en":"vector image, vector graphic"}
@@ -12804,7 +12804,7 @@
 {"L":"imajin","C":["a"],"en":"pictorial"}
 {"L":"imajor","C":["n"],"en":"illustrator"}
 {"L":"posimaje","C":["n"],"en":"afterimage"}
-{"T":"r","L":"imajina","C":["vt","uma"],"d":"conseti o formi un imaje mental de (un cosa)","da":"forestille","de":"sich vorstellen","en":"imagine, fancy, ideate, visualize|is; dream up, think up, think of, come up with, hit on","eo":"imagi","es":"imaginar, imaginar que, figurarse que"}
+{"T":"r","L":"imajina","C":["vt","uma"],"d":"conseti o formi un imaje mental de (un cosa)","da":"forestille","de":"sich vorstellen","en":"imagine, fancy, ideate, visualize|is; dream up, think up, think of, come up with, hit on","eo":"imagi","es":"imaginar, imaginar que, figurarse que","fr":"imaginer"}
 {"L":"imajina","C":["n"],"en":"imagination, ideation","eo":"imago, imagipovo"}
 {"L":"imajina usosa","C":["n"],"en":"useful fiction"}
 {"L":"imajinable","C":["a"],"en":"imaginable, conceivable"}
@@ -12814,7 +12814,7 @@
 {"T":"r","L":"imam","C":["n","rel"],"d":"un person ci gida preas en un mascita","en":"imam (Islam)"}
 {"T":"r","L":"imantico","C":["n","avia"],"d":"un avia vadante con beco longa, plumas negra e blanca, e gamas longa e rojin","i":"#","t":"Himantopus","en":"stilt (bird)","eo":"himantopo"}
 {"T":"r","L":"imen","C":["n","anat"],"d":"un membrana cual clui partal la abri de la vajina, de cual sua presentia es tradisional tratada como sinia de virjinia","en":"hymen, maidenhead (anatomy)","eo":"himeno"}
-{"T":"r","L":"imita","C":["vt","arte"],"d":"copia la model de (alga cosa); fa ce sua propre modo de condui o parla sembla lo de (un otra person)","da":"efterligne","de":"nachmachen","en":"imitate, mimic, emulate, impersonate, do an impression of","eo":"imiti","es":"imitar, copiar"}
+{"T":"r","L":"imita","C":["vt","arte"],"d":"copia la model de (alga cosa); fa ce sua propre modo de condui o parla sembla lo de (un otra person)","da":"efterligne","de":"nachmachen","en":"imitate, mimic, emulate, impersonate, do an impression of","eo":"imiti","es":"imitar, copiar","fr":"imiter"}
 {"L":"imita","C":["n"],"en":"imitation, mimicry, emulation, impersonation, impression","eo":"imito, imitado"}
 {"L":"imitador","C":["n"],"en":"emulator (software)"}
 {"L":"imitor","C":["n"],"en":"impressionist, mimic, impersonator","eo":"imitanto, imitisto"}
@@ -12825,19 +12825,19 @@
 {"L":"imobilor","C":["n"],"en":"landowner, property owner"}
 {"T":"r","L":"impala","C":["n","mam"],"d":"un antilope de Africa este e sude, con moves refinada e cornos curva como un lira","i":"#","t":"Aepyceros melampus","en":"impala (antelope)","eo":"impalo"}
 {"T":"r","L":"impasto","C":["n","arte"],"d":"la tecnica de aplica un pinta tan densa ce lo protende de un surfas","en":"impasto (painting technique)"}
-{"T":"r","L":"impedi","C":["vt"],"d":"bloci (un person o cosa) per retarda o para el o lo","de":"verhindern","en":"impede, hinder, prevent, hamper, deter, preclude, thwart; obstruct, block, congest, be in the way","eo":"malhelpi, obstrukci"}
+{"T":"r","L":"impedi","C":["vt"],"d":"bloci (un person o cosa) per retarda o para el o lo","de":"verhindern","en":"impede, hinder, prevent, hamper, deter, preclude, thwart; obstruct, block, congest, be in the way","eo":"malhelpi, obstrukci","fr":"empêcher"}
 {"L":"impedi","C":["n"],"en":"blockade, obstacle, congestion, obstruction, impediment, hindrance","eo":"malhelpo, obstrukco"}
 {"L":"impedida","C":["a"],"en":"congested","eo":"obstrukcita, ŝtopita"}
 {"L":"impedinte","C":["a"],"en":"impeding, hindering, inimical"}
 {"L":"nonimpedida","C":["a"],"en":"unimpeded, unhindered, unobstructed, undeterred"}
-{"T":"r","L":"impenia","C":["vt","mone"],"d":"lasa (un ojeto) en la posese de un prestor per garantia la mone prestada","en":"pawn, hock","eo":"lombardi"}
+{"T":"r","L":"impenia","C":["vt","mone"],"d":"lasa (un ojeto) en la posese de un prestor per garantia la mone prestada","en":"pawn, hock","eo":"lombardi","fr":"mettre en gage"}
 {"L":"impenieria","C":["n"],"i":"#","en":"pawnshop","eo":"lombardejo"}
 {"L":"impenior","C":["n"],"en":"pawnbroker","eo":"lombardisto"}
-{"T":"r","L":"impero","C":["n","gov"],"d":"un grupo grande de statos o paises su un autoria suprema","en":"empire","eo":"imperio"}
+{"T":"r","L":"impero","C":["n","gov"],"d":"un grupo grande de statos o paises su un autoria suprema","en":"empire","eo":"imperio","fr":"empire"}
 {"L":"imperal","C":["a"],"en":"imperial","eo":"imperia"}
 {"L":"imperalisme","C":["n"],"en":"imperialism"}
 {"L":"imperaliste","C":["a"],"en":"imperialist"}
-{"L":"imperor","C":["n"],"en":"emperor","eo":"imperiestro"}
+{"L":"imperor","C":["n"],"en":"emperor","eo":"imperiestro","fr":"empereur"}
 {"L":"imperoresa","C":["n"],"en":"empress","eo":"imperiestrino"}
 {"T":"r","L":"impetigo","C":["n","med"],"d":"un infeta baterial e comunicable de pel, causante pustulas e ulseras jala e crostida","en":"impetigo (medical)"}
 {"T":"r","L":"implanta","C":["vt","bio","med"],"d":"introdui (un cosa) en la corpo de un organisme, tipal par sirurjia","en":"implant","eo":"enplanti"}
@@ -12853,9 +12853,9 @@
 {"L":"implode","C":["vt"],"en":"implode"}
 {"L":"implode","C":["n"],"en":"implosion","eo":"implodo"}
 {"L":"implodente","C":["a"],"en":"implosive"}
-{"T":"r","L":"importa","C":["vnt","gov"],"d":"es valuada per sua influe o efeto profonda","en":"be important, matter, have import, have significance","eo":"gravi"}
+{"T":"r","L":"importa","C":["vnt","gov"],"d":"es valuada per sua influe o efeto profonda","en":"be important, matter, have import, have significance","eo":"gravi","fr":"importer, avoir d'importance"}
 {"L":"importa","C":["n"],"de":"wichtig","en":"importance, significance; salience, prominence","eo":"graveco"}
-{"L":"importante","C":["a"],"d":"valuada per sua influe o efeto profonda","da":"vigtig","en":"important, significant, momentous; salient, prominent, consequential","eo":"grava","es":"importante"}
+{"L":"importante","C":["a"],"d":"valuada per sua influe o efeto profonda","da":"vigtig","en":"important, significant, momentous; salient, prominent, consequential","eo":"grava","es":"importante","fr":"important"}
 {"L":"lo no importa","C":["esc"],"en":"it's not important, never mind, whatever","eo":"ne gravas"}
 {"L":"nonimportante","C":["a"],"en":"unimportant, insignificant, trite, trivial, inconsequential","eo":"malgrava, negrava"}
 {"L":"suprema importante","C":["a"],"en":"paramount"}
@@ -12925,7 +12925,7 @@
 {"T":"r","L":"inata","C":["a","bio"],"d":"(un capasia) ja fundida en la natur jenetical, tal ce un organisme no nesesa aprende lo","en":"innate","eo":"denaska"}
 {"L":"inatisme","C":["n"],"d":"la teoria ce capasias mental es inata","en":"innatism"}
 {"L":"inatiste","C":["n"],"en":"innatist"}
-{"T":"r","L":"inca","C":["n","arte"],"d":"un licuida colorida usada per scrive, desinia o primi","i":"inca-botela","da":"blæk","de":"Tinte","en":"ink","eo":"inko","es":"tinta"}
+{"T":"r","L":"inca","C":["n","arte"],"d":"un licuida colorida usada per scrive, desinia o primi","i":"inca-botela","da":"blæk","de":"Tinte","en":"ink","eo":"inko","es":"tinta","fr":"encre"}
 {"L":"inci","C":["vt"],"en":"ink (apply ink to)","eo":"inki"}
 {"T":"r","L":"inca","C":["a","dem","ist"],"d":"pertinente a un popla ci ia abita en la Andes sentral ante la concista espaniol en la sentenio 16","i":"#","en":"Incan"}
 {"L":"inca","C":["n"],"en":"Inca"}
@@ -12941,7 +12941,7 @@
 {"L":"inclina","C":["vt"],"en":"incline, slope, tip; bow (bend respectfully)"}
 {"L":"inclina","C":["n"],"en":"bow","eo":"riverenco"}
 {"L":"inclina sua testa","C":["esp"],"en":"nod one's head","eo":"kapsigni"}
-{"L":"inclinada","C":["a"],"da":"skrånende","de":"geneigt","en":"inclined, sloped, sloping","eo":"dekliva","es":"inclinado, chueco"}
+{"L":"inclinada","C":["a"],"da":"skrånende","de":"geneigt","en":"inclined, sloped, sloping","eo":"dekliva","es":"inclinado, chueco","fr":"incliné"}
 {"L":"inclinada","C":["n"],"d":"un surfas de cual un lado es plu alta ca la otra","en":"incline, slope, bank","eo":"deklivo"}
 {"T":"r","L":"inclui","C":["vt"],"d":"conteni como un de sua partes o membros","en":"include, subsume, encompass","eo":"inkluzivi"}
 {"L":"inclui","C":["n"],"en":"inclusion","eo":"inkluzivo"}
@@ -12959,7 +12959,7 @@
 {"T":"r","L":"incubo","C":["n","mit"],"d":"un demon mas mital ci copula con femes dorminte","en":"incubus","eo":"inkubo"}
 {"T":"r","L":"incuisisio","C":["n","rel"],"d":"un periodo longa e intensa de demanda o investiga; (en istoria medieval) la organiza de judores catolica ci ia tortura persones per supresa la eresia","en":"inquisition","eo":"inkvizicio"}
 {"L":"incuisisior","C":["n"],"en":"inquisitor"}
-{"T":"r","L":"indente","C":["vt"],"d":"fa un impresa en (un surfas plana), danante o taliante lo; largi la marjin de (un linia o bloco de testo)","en":"dent, nick, nock; indent","eo":"entranĉi, noĉi; enŝovi, krommarĝeni"}
+{"T":"r","L":"indente","C":["vt"],"d":"fa un impresa en (un surfas plana), danante o taliante lo; largi la marjin de (un linia o bloco de testo)","en":"dent, nick, nock; indent","eo":"entranĉi, noĉi; enŝovi, krommarĝeni","fr":"échancrer"}
 {"L":"indente","C":["n"],"da":"hak, fordybning","de":"Kerbe","en":"dent, nick, nock, notch; indent, indentation","eo":"entranĉo, noĉo; krommarĝeno","es":"abolladura, mella, melladura, choque, golpe, indentación, deformación hacia adentro"}
 {"L":"indente de jena","C":["n"],"i":"#","en":"dimple","eo":"vangokaveto"}
 {"L":"indente de surie","C":["n"],"d":"un depresa peti en la carne de jena cual formi cuando algun surie","en":"dimple","eo":"vangokaveto"}
@@ -12974,12 +12974,12 @@
 {"L":"Indias Este","C":["n","ist","jeo","pl"],"d":"(istorial) la isolas de Asia sude-este de cual Indonesia es aora composada","en":"East Indies","eo":"Indonezio"}
 {"L":"Indias Ueste","C":["n","pl","jeo"],"d":"la cadena de isolas cual estende de Florida a America Sude, entre la Mar Caribe e la Mar Atlantica","en":"West Indies","eo":"Antiloj, Karibio, Karibujo"}
 {"T":"r","L":"Indiana","C":["n","jeo"],"d":"un stato en la SUA norde-sentral","en":"Indiana (US state)"}
-{"T":"r","L":"indica","C":["vt"],"d":"mostra; (un sinia o sintom) implica; (un strumento) declara (un mesura)","da":"vise, indikere, pege","de":"anzeigen, richten","en":"indicate, point to, denote, read, register; bookmark, earmark","eo":"indiki","es":"indicar, apuntar, indicar, señalar"}
+{"T":"r","L":"indica","C":["vt"],"d":"mostra; (un sinia o sintom) implica; (un strumento) declara (un mesura)","da":"vise, indikere, pege","de":"anzeigen, richten","en":"indicate, point to, denote, read, register; bookmark, earmark","eo":"indiki","es":"indicar, apuntar, indicar, señalar","fr":"indiquer"}
 {"L":"indica","C":["n"],"en":"indication; clue, evidence; sign, trace; harbinger, portent, omen; reading","eo":"indiko; antaŭsigno"}
 {"L":"indica de ora","C":["n"],"en":"timestamp"}
 {"L":"indica la ora de","C":["v"],"en":"timestamp"}
 {"L":"indica e clica","C":["vt","info"],"en":"point and click"}
-{"L":"indicador","C":["n"],"d":"la parte de un strumento cual mostra un mesura; un ojeto usada per nota un loca, per esemplo sur un mapa o en un libro","da":"drejeskive","de":"Zifferblatt, Skala","en":"indicator, dial, readout; hand (clock, compass); marker; bookmark","eo":"indikilo; markilo; legosigno","es":"dial, carátula, cuadrante, escala"}
+{"L":"indicador","C":["n"],"d":"la parte de un strumento cual mostra un mesura; un ojeto usada per nota un loca, per esemplo sur un mapa o en un libro","da":"drejeskive","de":"Zifferblatt, Skala","en":"indicator, dial, readout; hand (clock, compass); marker; bookmark","eo":"indikilo; markilo; legosigno","es":"dial, carátula, cuadrante, escala","fr":"indicateur; cadran, aiguille; signet"}
 {"L":"indicador de venta","C":["n"],"d":"un strumento cual indica la dirije de la venta, tipal decorante la punto la plu alta de un construida","en":"weathervane, weathercock","eo":"ventomontrilo","fr":"girouette"}
 {"L":"indicante","C":["a"],"en":"indicating, pointing, ostensive"}
 {"L":"indicas de vive","C":["n","pl"],"en":"signs of life, life signs, indications of life","eo":"vivsignoj, vivindikoj"}
@@ -12994,9 +12994,9 @@
 {"L":"indise","C":["n"],"en":"index","eo":"indico"}
 {"L":"suindise","C":["n"],"d":"un indise scriveda min grande e plu basa ca la testo acompaniante","en":"subscript","eo":"suba indico"}
 {"L":"supraindise","C":["n"],"d":"un indise scriveda min grande e plu alta ca la testo acompaniante","p":"supraïndise","en":"superscript","eo":"supra indico"}
-{"T":"r","L":"individua","C":["a","gov"],"d":"un, unica, distinguida, autonom, nondependente, solitar, isolida","de":"individuell, besonderer","en":"individual, particular"}
+{"T":"r","L":"individua","C":["a","gov"],"d":"un, unica, distinguida, autonom, nondependente, solitar, isolida","de":"individuell, besonderer","en":"individual, particular","fr":"individuel"}
 {"L":"individua","C":["av"],"en":"individually, one by one"}
-{"L":"individua","C":["n"],"da":"individ","en":"individual","es":"individuo, sujeto, persona"}
+{"L":"individua","C":["n"],"da":"individ","en":"individual","es":"individuo, sujeto, persona","fr":"individuel"}
 {"L":"individual","C":["a"],"en":"individual (pertaining to an individual)"}
 {"L":"individualia","C":["n"],"en":"individuality"}
 {"L":"individualisme","C":["n"],"en":"individualism"}
@@ -13078,8 +13078,8 @@
 {"T":"r","L":"infisa","C":["vt","ling"],"d":"introdui firma (un cosa) en un otra cosa; introdui (un morfem) en la corpo de un parola","en":"infix; ingrain"}
 {"L":"infisa","C":["n"],"en":"infix"}
 {"L":"infisada","C":["a"],"en":"infixed; ingrained"}
-{"T":"r","L":"infla","C":["vnt","fis","med","mone"],"d":"pleni (un balon, numatico o otra strutur cresable) con aira o otra gas per estende lo; crese (un cosa) con un cuantia grande o suprafluente","da":"hævelse, bule","en":"inflate, distend, swell, bloat, billow, puff up"}
-{"L":"infla","C":["vt"],"en":"inflate, distend, swell, bloat, billow, puff up"}
+{"T":"r","L":"infla","C":["vnt","fis","med","mone"],"d":"pleni (un balon, numatico o otra strutur cresable) con aira o otra gas per estende lo; crese (un cosa) con un cuantia grande o suprafluente","da":"hævelse, bule","en":"inflate, distend, swell, bloat, billow, puff up","fr":"se gonfler, s'enfler"}
+{"L":"infla","C":["vt"],"en":"inflate, distend, swell, bloat, billow, puff up","fr":"gonfler, enfler"}
 {"L":"infla","C":["n"],"de":"Schwellung","en":"inflation (including economic), swelling, bloat, distension","es":"hinchazón, chichón, bulto, protuberancia"}
 {"L":"inflable","C":["a"],"en":"inflatable"}
 {"L":"inflable","C":["n"],"en":"inflatable"}
@@ -13100,7 +13100,7 @@
 {"L":"influente","C":["a"],"en":"influential, seminal, instrumental"}
 {"T":"r","L":"infografia","C":["n","info"],"d":"imajes produida par computadores; la arte e siensa de produi estas","en":"computer graphics, CGI"}
 {"T":"r","L":"informa","C":["vt","info"],"d":"dona a (algun) fatos o descrives importante o nesesada","en":"inform, tell, apprise, acquaint"}
-{"L":"informa","C":["n"],"da":"information","de":"Informationen","en":"information, info, lowdown, tattle; intelligence (gathered), intel","es":"información, informes, noticias"}
+{"L":"informa","C":["n"],"da":"information","de":"Informationen","en":"information, info, lowdown, tattle; intelligence (gathered), intel","es":"información, informes, noticias","fr":"information"}
 {"L":"informa contra","C":["v"],"en":"inform on, rat on, sneak on, snitch on"}
 {"L":"informa fondal","C":["n"],"en":"background information"}
 {"L":"informa secreta","C":["n"],"en":"classified information"}
@@ -13156,8 +13156,8 @@
 {"L":"suprainjenia","C":["vt"],"en":"overengineer"}
 {"T":"r","L":"injeta","C":["vt","med"],"d":"forsa (un licuida, spesial un droga o vasin) a en la corpo de un person o animal con un siringa o otra aparato","en":"inject; mainline"}
 {"L":"injeta","C":["n"],"en":"injection"}
-{"T":"r","L":"inonda","C":["vt","tera","info"],"d":"covre o sumerji (un loca) con acua; (metafor) fa ce (algun) ave tro multe de un cosa, tipal problemes o labora","en":"inundate, flood, drown; overwhelm, overpower"}
-{"L":"inonda","C":["n"],"i":"#","da":"oversvømmelse","de":"Flut","en":"inundation, flood","es":"inundación, diluvio, avenida de agua, crecida, creciente, torrente"}
+{"T":"r","L":"inonda","C":["vt","tera","info"],"d":"covre o sumerji (un loca) con acua; (metafor) fa ce (algun) ave tro multe de un cosa, tipal problemes o labora","en":"inundate, flood, drown; overwhelm, overpower","fr":"inonder"}
+{"L":"inonda","C":["n"],"i":"#","da":"oversvømmelse","de":"Flut","en":"inundation, flood","es":"inundación, diluvio, avenida de agua, crecida, creciente, torrente","fr":"inondation, déluge"}
 {"L":"inonda de informa","C":["n"],"en":"information overload"}
 {"L":"inonda de mercato","C":["n"],"en":"dumping (economic)"}
 {"L":"inondada","C":["a"],"en":"inundated, flooded, awash"}
@@ -13165,7 +13165,7 @@
 {"L":"inondante","C":["a"],"en":"inundating, overwhelming"}
 {"L":"mori par inonda","C":["v"],"en":"drown, be drowned"}
 {"L":"mori par inonda","C":["n"],"en":"drowning"}
-{"T":"r","L":"inosente","C":["a","gov"],"d":"no intendente causa dole o sufri o otra problemes","da":"uskyldig","de":"unschuldig","en":"innocent (not intending harm)","es":"inocente"}
+{"T":"r","L":"inosente","C":["a","gov"],"d":"no intendente causa dole o sufri o otra problemes","da":"uskyldig","de":"unschuldig","en":"innocent (not intending harm)","es":"inocente","fr":"innocent"}
 {"T":"r","L":"inova","C":["vt","arte"],"d":"introdui metodos, ideas o produidas nova","en":"innovate"}
 {"L":"inova","C":["n"],"en":"innovation"}
 {"L":"inovor","C":["n"],"en":"innovator"}
@@ -13180,7 +13180,7 @@
 {"T":"r","L":"insetiside","C":["n","cim"],"d":"un materia usada per mata insetos","en":"insecticide"}
 {"T":"r","L":"insetivor","C":["a","bio"],"d":"(un organisme) cual come insetos","en":"insectivorous"}
 {"L":"insetivor","C":["n"],"en":"insectivore"}
-{"T":"r","L":"inseto","C":["n","artr"],"d":"un artropodo peti con ses gamas e tipal un o du duples de alas","t":"Insecta","da":"insekt","de":"Insekt","en":"insect","es":"insecto"}
+{"T":"r","L":"inseto","C":["n","artr"],"d":"un artropodo peti con ses gamas e tipal un o du duples de alas","t":"Insecta","da":"insekt","de":"Insekt","en":"insect","es":"insecto","fr":"insecte"}
 {"T":"r","L":"insinia","C":["n","gov"],"d":"un marca distinguinte de alga cosa, tipal un state en un forte militar o otra organiza","en":"insignia, badge"}
 {"L":"insinia de libro","C":["n"],"en":"bookplate, exlibris"}
 {"T":"r","L":"insinua","C":["vt","gov"],"d":"sujesta (un cosa mal o culpable) en modo nondireta e nonplasente","en":"insinuate, intimate"}
@@ -13207,7 +13207,7 @@
 {"L":"institual","C":["a"],"en":"institutional"}
 {"L":"instituida","C":["n"],"d":"un organiza per ateni goles en arte, siensa, instrui o aida","en":"institute, institution, establishment (organization|is)"}
 {"L":"reinstitui","C":["vt"],"p":"reïnstitui","en":"re-establish"}
-{"T":"r","L":"instrui","C":["vt","uma"],"d":"mostra o esplica a (un person o animal) como on fa alga cosa","u":"instrui algun sur la regulas","v":"ensenia","da":"undervise","de":"lehren","en":"instruct, teach, brief, train (including animals)","es":"enseñar, instruir"}
+{"T":"r","L":"instrui","C":["vt","uma"],"d":"mostra o esplica a (un person o animal) como on fa alga cosa","u":"instrui algun sur la regulas","v":"ensenia","da":"undervise","de":"lehren","en":"instruct, teach, brief, train (including animals)","es":"enseñar, instruir","fr":"enseigner à"}
 {"L":"instrui","C":["n"],"en":"instruction, teaching, training, tuition, howto, brief, briefing"}
 {"L":"autoinstruida","C":["a"],"p":"autoïnstruida","en":"self-taught, autodidact"}
 {"L":"instrual","C":["a"],"en":"instructional"}
@@ -13218,8 +13218,8 @@
 {"L":"noninstruida","C":["a"],"en":"untrained, unskilled"}
 {"L":"reinstrui","C":["vt"],"p":"reïnstrui","en":"retrain"}
 {"T":"r","L":"insulina","C":["n","bio"],"d":"un ormon produida par la pancreas cual regula la cuantia de glucosa en la sangue","en":"insulin"}
-{"T":"r","L":"insulta","C":["vt","uma"],"d":"parla a o trata (algun) con despeta o desrespeta","da":"fornærmelse, hån","en":"insult, vituperate"}
-{"L":"insulta","C":["n"],"de":"Beleidigung","en":"insult, invective, putdown","es":"insulto, ofensa, falta de respeto"}
+{"T":"r","L":"insulta","C":["vt","uma"],"d":"parla a o trata (algun) con despeta o desrespeta","da":"fornærmelse, hån","en":"insult, vituperate","fr":"insulter"}
+{"L":"insulta","C":["n"],"de":"Beleidigung","en":"insult, invective, putdown","es":"insulto, ofensa, falta de respeto","fr":"insulte"}
 {"T":"r","L":"intalio","C":["n","arte"],"d":"un desinia taliada o gravada en un cosa","i":"#","en":"intaglio (art technique)"}
 {"T":"r","L":"intarsia","C":["vt","arte","arci"],"d":"decora (un mobila o simil) con pesos peti de lenio colorida o otra materia","i":"#","en":"inlay"}
 {"L":"intarsia","C":["n"],"en":"intarsia, inlay, marquetry"}
@@ -13241,12 +13241,12 @@
 {"L":"inteletalisme","C":["n"],"en":"intellectualism"}
 {"L":"inteletosa","C":["n"],"en":"intellectual (person)"}
 {"L":"inteletosas","C":["n","pl"],"en":"intellectuals, intelligentsia"}
-{"T":"r","L":"intelijente","C":["a","uma"],"d":"capas de oteni e aplica la sabe; capas de comprende, aprende, developa o aplica ideas","da":"intelligent","de":"intelligent","en":"intelligent, intellectual, smart, clever","es":"inteligente"}
+{"T":"r","L":"intelijente","C":["a","uma"],"d":"capas de oteni e aplica la sabe; capas de comprende, aprende, developa o aplica ideas","da":"intelligent","de":"intelligent","en":"intelligent, intellectual, smart, clever","es":"inteligente","fr":"intelligent"}
 {"L":"esamina de intelijentia","C":["n"],"en":"intelligence test, IQ test"}
 {"L":"grado de intelijentia","C":["n"],"en":"intelligence quotient, IQ"}
 {"L":"intelijentia","C":["n"],"en":"intelligence, astuteness, intellect"}
 {"L":"nonintelijente","C":["a"],"en":"unintelligent, obtuse"}
-{"T":"r","L":"intende","C":["vt","uma"],"d":"ave (un resulta) como la gol o ojeto de un projeta o scema o atas jeneral; (un usa de un parola) vole indica (un sinifia)","da":"have i sinde, agte","de":"beabsichtigen","en":"intend, plan, mean (to do)","es":"tener intención de, tener el propósito de, intentar, querer decir, querer lograr"}
+{"T":"r","L":"intende","C":["vt","uma"],"d":"ave (un resulta) como la gol o ojeto de un projeta o scema o atas jeneral; (un usa de un parola) vole indica (un sinifia)","da":"have i sinde, agte","de":"beabsichtigen","en":"intend, plan, mean (to do)","es":"tener intención de, tener el propósito de, intentar, querer decir, querer lograr","fr":"prévoir, planifier; vouloir dire"}
 {"L":"intende","C":["n"],"en":"intent, intention, purpose, aim, motive, plan"}
 {"L":"bonintendente","C":["a"],"en":"well-intentioned, well-meaning"}
 {"L":"con intende ce","C":["sj"],"en":"so that, in order that (indicating intended result)"}
@@ -13266,8 +13266,8 @@
 {"T":"r","L":"intera","C":["a"],"d":"con no parte mancante; completa unida; no rompeda o dejenerada","en":"entire, whole, total"}
 {"L":"intera","C":["av"],"en":"entirely, wholly, totally, utterly, quite"}
 {"L":"intera","C":["n"],"en":"whole, entirety, totality"}
-{"T":"r","L":"interesa","C":["vt","uma","mone"],"d":"stimula la curiosia o atende de (algun)","en":"interest, be of interest to"}
-{"L":"interesa","C":["n"],"d":"un senti de curiosia; mone periodal paiada a un taso spesifada, per la usa de mone prestada o per pospone la repaia de un deta","da":"interesse","de":"Interesse","en":"interest (including money), attention; return (on investment), yield, payoff; sake","es":"interés, fascinación, atracción"}
+{"T":"r","L":"interesa","C":["vt","uma","mone"],"d":"stimula la curiosia o atende de (algun)","en":"interest, be of interest to","fr":"intéresser"}
+{"L":"interesa","C":["n"],"d":"un senti de curiosia; mone periodal paiada a un taso spesifada, per la usa de mone prestada o per pospone la repaia de un deta","da":"interesse","de":"Interesse","en":"interest (including money), attention; return (on investment), yield, payoff; sake","es":"interés, fascinación, atracción","fr":"intérêt"}
 {"L":"interesa composada","C":["n"],"en":"compound interest"}
 {"L":"desinteresa","C":["vt"],"en":"disinterest, fail to interest"}
 {"L":"desinteresa","C":["n"],"en":"disinterest"}
@@ -13279,15 +13279,15 @@
 {"T":"r","L":"interfas","C":["n","info"],"d":"la loca a cual du sistemes, sujetos, organizas, etc encontra e interata con lunlotra; (en fisica) un surfas entre du partes de materia o spasio; un aparato o program cual permete ce un usor comunica con un computador","en":"interface"}
 {"L":"interfas de usor","C":["n"],"en":"user interface"}
 {"L":"interfas grafica de usor","C":["n"],"en":"graphical user interface, GUI"}
-{"T":"r","L":"interfere","C":["vnt","uma"],"d":"partisipa o interveni (en un ata) sin invita o nesesa; preveni la continua o susede (de un prosede o ata)","da":"indgribe, hindre","de":"hindern","en":"interfere, interlope, meddle, hinder, tamper, jigger","es":"interferir, estorbar, obstruir, impedir, obstaculizar"}
+{"T":"r","L":"interfere","C":["vnt","uma"],"d":"partisipa o interveni (en un ata) sin invita o nesesa; preveni la continua o susede (de un prosede o ata)","da":"indgribe, hindre","de":"hindern","en":"interfere, interlope, meddle, hinder, tamper, jigger","es":"interferir, estorbar, obstruir, impedir, obstaculizar","fr":"se mêler à"}
 {"L":"interfere","C":["n"],"en":"interference"}
 {"L":"interferente","C":["a"],"en":"interfering, meddling, meddlesome"}
 {"L":"interferor","C":["n"],"en":"meddler, busybody, interloper"}
 {"T":"r","L":"interferon","C":["n","med","cim"],"d":"un protena relasada par selulas animal, tipal en responde a un virus, cual ave la capasia de retarda o preveni la reprodui de viruses","en":"interferon (protein)"}
 {"T":"r","L":"interjeta","C":["vt","ling"],"d":"dise (alga cosa) subita, tipal a lado o como un interompe","en":"interject"}
 {"L":"interjeta","C":["n"],"en":"interjection"}
-{"T":"r","L":"interna","C":["a","mat"],"d":"situada en alga cosa, sin estende ultra sua limitas; pertinente a un tal situa; (en jeografia) no prosima a mares","da":"indre, interiør, intern","de":"inner","en":"inner, interior, internal; inland","es":"interno, interior, íntimo, recóndito, profundo"}
-{"L":"interna","C":["n"],"en":"inside, interior, hinterland"}
+{"T":"r","L":"interna","C":["a","mat"],"d":"situada en alga cosa, sin estende ultra sua limitas; pertinente a un tal situa; (en jeografia) no prosima a mares","da":"indre, interiør, intern","de":"inner","en":"inner, interior, internal; inland","es":"interno, interior, íntimo, recóndito, profundo","fr":"intérieur"}
+{"L":"interna","C":["n"],"en":"inside, interior, hinterland","fr":"intérieur"}
 {"L":"a interna","C":["av"],"en":"inside, within"}
 {"L":"a interna de","C":["prep"],"en":"inside, within, in the interior of"}
 {"L":"interni","C":["vnt"],"en":"internalize|is, interiorize|is, take in"}
@@ -13316,14 +13316,14 @@
 {"L":"intersepi","C":["n"],"en":"interception"}
 {"T":"r","L":"interstisio","C":["n","cim","bio"],"d":"un spasio interveninte, tipal multe peti","en":"interstice"}
 {"L":"interstisial","C":["a"],"en":"interstitial"}
-{"T":"r","L":"interval","C":["n","mus"],"d":"un tempo o spasio interveninte; un pausa en un taxe o ata longa","da":"interval","de":"Abstand","en":"interval (including musical), interlude, intermission","es":"intervalo"}
+{"T":"r","L":"interval","C":["n","mus"],"d":"un tempo o spasio interveninte; un pausa en un taxe o ata longa","da":"interval","de":"Abstand","en":"interval (including musical), interlude, intermission","es":"intervalo","fr":"intervalle"}
 {"T":"r","L":"interveni","C":["vnt","gov"],"d":"vade a entre per aida, o per preveni o cambia la curso de avenis o sua resulta; aveni en la tempo entre du otra avenis","en":"intervene, intercede"}
 {"L":"interveni","C":["n"],"en":"intervention, intercession"}
 {"T":"r","L":"intervisa","C":["vt","gov"],"d":"conversa con (algun) per oteni consela, per furni informa a escutores o regardores, o per esamina un aspiror per emplea","en":"interview; debrief"}
 {"L":"intervisa","C":["n"],"en":"interview; debrief"}
 {"L":"intervisa pratical","C":["n"],"en":"audition"}
 {"L":"intervisor","C":["n"],"en":"interviewer"}
-{"T":"r","L":"intestin","C":["n","anat"],"d":"(en vertebratos) la canal de dijesta entre la stomaco e la ano; (en nonvertebratos) la canal de dijesta entre la boca e la ano","da":"tarme, indvolde","de":"Darm, Gedärme","en":"intestine, bowel","es":"intestinos, tripa(s), viscera(s)"}
+{"T":"r","L":"intestin","C":["n","anat"],"d":"(en vertebratos) la canal de dijesta entre la stomaco e la ano; (en nonvertebratos) la canal de dijesta entre la boca e la ano","da":"tarme, indvolde","de":"Darm, Gedärme","en":"intestine, bowel","es":"intestinos, tripa(s), viscera(s)","fr":"intestin"}
 {"L":"intestin magra","C":["n"],"en":"small intestine"}
 {"L":"intestin spesa","C":["n"],"en":"large intestine"}
 {"L":"intestinal","C":["a"],"en":"intestinal"}
@@ -13371,7 +13371,7 @@
 {"L":"invade","C":["n"],"en":"invasion, incursion, raid, foray"}
 {"L":"invadente","C":["a"],"en":"invading, invasive"}
 {"L":"invador","C":["n"],"en":"invader, trespasser, raider"}
-{"T":"r","L":"inventa","C":["vt","arte"],"d":"crea o desinia (un cosa nova); crea (un idea, nom, nara, etc), tipal per engana","da":"opfinde","de":"erfinden","en":"invent, devise, contrive, concoct, come up with","es":"inventar"}
+{"T":"r","L":"inventa","C":["vt","arte"],"d":"crea o desinia (un cosa nova); crea (un idea, nom, nara, etc), tipal per engana","da":"opfinde","de":"erfinden","en":"invent, devise, contrive, concoct, come up with","es":"inventar","fr":"inventer"}
 {"L":"inventa","C":["n"],"en":"invention (action)"}
 {"L":"inventada","C":["a"],"en":"invented, devised, contrived, concocted"}
 {"L":"inventada","C":["n"],"en":"invention (product), brainchild"}
@@ -13380,7 +13380,7 @@
 {"L":"inventosia","C":["n"],"en":"inventiveness, creativity, originality"}
 {"L":"reinventa","C":["vt"],"p":"reïnventa","en":"reinvent"}
 {"L":"reinventa","C":["n"],"en":"reinvention"}
-{"T":"r","L":"inverno","C":["n","tera"],"d":"la saison la plu fria (de desembre a marto en la emisfera norde, e de junio a setembre en la emisfera sude); (en astronomia) la periodo entre la solstisio de inverno e la ecuinote de primavera","i":"#","da":"vinter","de":"Winter","en":"winter","es":"invierno"}
+{"T":"r","L":"inverno","C":["n","tera"],"d":"la saison la plu fria (de desembre a marto en la emisfera norde, e de junio a setembre en la emisfera sude); (en astronomia) la periodo entre la solstisio de inverno e la ecuinote de primavera","i":"#","da":"vinter","de":"Winter","en":"winter","es":"invierno","fr":"hiver"}
 {"L":"invernal","C":["a"],"en":"winter, hibernal"}
 {"L":"inverneria","C":["n"],"en":"greenhouse, glasshouse, hothouse"}
 {"L":"inverni","C":["vt"],"en":"hibernate, winter"}
@@ -13390,9 +13390,9 @@
 {"L":"mediainverno","C":["n"],"en":"midwinter"}
 {"T":"r","L":"inversa","C":["vt","mat"],"d":"pone en la dirije o ordina oposante, tipal con la alta a la basa e la basa a la alta","en":"invert, upend, turn upside-down, overturn; capsize"}
 {"L":"inversa","C":["n"],"en":"inverse; inversion"}
-{"L":"inversada","C":["a"],"da":"omvendt","de":"verkehrt","en":"inverted, upside-down, overturned; capsized","es":"de cabeza, invertida, patas arriba, al revés, en desorden"}
+{"L":"inversada","C":["a"],"da":"omvendt","de":"verkehrt","en":"inverted, upside-down, overturned; capsized","es":"de cabeza, invertida, patas arriba, al revés, en desorden","fr":"inversé"}
 {"L":"inversador","C":["n"],"en":"inverter; moldboard|ul"}
-{"T":"r","L":"investi","C":["vt","mone"],"d":"usa (mone) en un emprende finansial con la espeta de profita; compra (asiones o propria) con la espeta de profita; (metafor) dona (sua tempo, labora o enerjia) a un projeta con la espeta de un resulta valuada","da":"investere","de":"investieren","en":"invest","es":"investir, colocar fondos"}
+{"T":"r","L":"investi","C":["vt","mone"],"d":"usa (mone) en un emprende finansial con la espeta de profita; compra (asiones o propria) con la espeta de profita; (metafor) dona (sua tempo, labora o enerjia) a un projeta con la espeta de un resulta valuada","da":"investere","de":"investieren","en":"invest","es":"investir, colocar fondos","fr":"investir"}
 {"L":"investi","C":["n"],"en":"investment"}
 {"L":"investor","C":["n"],"en":"investor, stakeholder"}
 {"L":"investor otimiste","C":["n"],"en":"bull"}
@@ -13411,7 +13411,7 @@
 {"L":"invia","C":["n"],"en":"envy"}
 {"L":"inviable","C":["a"],"en":"enviable"}
 {"L":"inviosa","C":["a"],"en":"envious"}
-{"T":"r","L":"invita","C":["vt","uma"],"d":"demanda de (algun), en modo cortes, formal o amin, ce el fa alga cosa o vade a alga loca","da":"invitere","de":"einladen","en":"invite; co-opt","es":"invitar, convidar"}
+{"T":"r","L":"invita","C":["vt","uma"],"d":"demanda de (algun), en modo cortes, formal o amin, ce el fa alga cosa o vade a alga loca","da":"invitere","de":"einladen","en":"invite; co-opt","es":"invitar, convidar","fr":"inviter"}
 {"L":"invita","C":["n"],"en":"invitation; overture (to communication, negotiation)"}
 {"L":"invitada","C":["a"],"en":"invited"}
 {"L":"invitada","C":["n"],"en":"guest"}
@@ -13548,7 +13548,7 @@
 {"T":"r","L":"iridio","C":["n","cim"],"d":"la elemento cimical con numero atomal 77, un metal arjentin","s":"Ir","en":"iridium (element)"}
 {"T":"r","L":"iriga","C":["vt","tera"],"d":"furni acua a (tera o un cultiveria) per aida crese, tipal par un sistem de canales; (en medica) aplica un flue continuante de acua o medisin licuida a (un organo o feri)","i":"#","en":"irrigate"}
 {"L":"iriga","C":["n"],"en":"irrigation"}
-{"T":"r","L":"iris","C":["n","anat","pla"],"d":"un membrana plata e colorida ante la cornea de la oio; un planta con folias spadin e flores estravagante","i":"#, iris-planta","t":"Iris","da":"iris","de":"Iris","en":"iris (eye, plant)","es":"iris (ojo, planta)"}
+{"T":"r","L":"iris","C":["n","anat","pla"],"d":"un membrana plata e colorida ante la cornea de la oio; un planta con folias spadin e flores estravagante","i":"#, iris-planta","t":"Iris","da":"iris","de":"Iris","en":"iris (eye, plant)","es":"iris (ojo, planta)","fr":"iris"}
 {"T":"r","L":"irita","C":["vt","bio","med","uma"],"d":"fa ce (algun) deveni coler, noncomfortosa o nonpasiente; (en medica) causa inflama o otra descomforta; (en biolojia) stimula (un organisme, organo o selula) per produi un responde ativa","en":"irritate, annoy, bother, hassle, pester, peeve, irk, rankle"}
 {"L":"irita","C":["n"],"en":"irritation, annoyance, nuisance, indignation, pique"}
 {"L":"irita par venta","C":["n"],"en":"windburn"}
@@ -13578,7 +13578,7 @@
 {"T":"r","L":"iso-","C":["pf","tecn"],"d":"egal, la mesma","en":"iso- (equal)"}
 {"T":"r","L":"isobar","C":["n","tera"],"d":"un linia cual junta puntos con la mesma presa en un mapa meteorolojial","en":"isobar"}
 {"T":"r","L":"isoglosa","C":["n","ling"],"d":"un linia sur un mapa de dialetos, marcante la borda de un area con un cualia linguistical","en":"isogloss"}
-{"T":"r","L":"isola","C":["n","tera"],"d":"un parte de tera ensircada par acua; (metafor) un area ensircada par un otra materia","da":"ø","de":"Insel","en":"island, isle","es":"isla"}
+{"T":"r","L":"isola","C":["n","tera"],"d":"un parte de tera ensircada par acua; (metafor) un area ensircada par un otra materia","da":"ø","de":"Insel","en":"island, isle","es":"isla","fr":"île"}
 {"L":"acustical isolida","C":["a"],"en":"soundproof, soundproofed"}
 {"L":"isolador","C":["n"],"en":"insulator (device)"}
 {"L":"isolal","C":["a"],"en":"insular"}
@@ -13622,7 +13622,7 @@
 {"T":"r","L":"istolojia","C":["n","med"],"d":"la studia de la strutur microscopial de texedas","en":"histology"}
 {"L":"istolojiste","C":["n"],"en":"histologist"}
 {"T":"r","L":"istona","C":["n","bio"],"d":"cualce de un grupo de protenas fundal, trovada en cromatina","en":"histone"}
-{"T":"r","L":"istoria","C":["n","ist"],"d":"la studia de avenis pasada, tipal en relatas umana; la serie intera de avenis pasada pertinente a un person o cosa; un arcivo cronolojial e continuante de avenis importante o publica o de un promove o instituida spesifada","da":"historie","de":"Geschichte","en":"history; track record","es":"historia, crónica"}
+{"T":"r","L":"istoria","C":["n","ist"],"d":"la studia de avenis pasada, tipal en relatas umana; la serie intera de avenis pasada pertinente a un person o cosa; un arcivo cronolojial e continuante de avenis importante o publica o de un promove o instituida spesifada","da":"historie","de":"Geschichte","en":"history; track record","es":"historia, crónica","fr":"histoire"}
 {"L":"istoria fondal","C":["n"],"en":"backstory"}
 {"L":"istorial","C":["a"],"en":"historical"}
 {"L":"istoriste","C":["n"],"en":"historian"}
@@ -22511,7 +22511,6 @@
 {"T":"r","L":"Rhode Island","C":["n","jeo"],"d":"un stato en la SUA norde-este, bordante la Mar Atlantica","p":"rod aíland","en":"Rhode Island (US state)"}
 {"T":"r","L":"Riad","C":["n","jeo"],"d":"la site capital de Arabia Saudi","en":"Riad, Riyad"}
 {"T":"r","L":"rial","C":["n","mone"],"d":"la unia de mone en alga paises arabi","en":"rial, riyal (currency)"}
-{"T":"r","L":"ribes","C":["n","pla","cos"],"d":"un baca peti e comable, negra, blanca o roja; un arboreta eurasian cual produi esta","i":"#","t":"Ribes","en":"currant (plant, fruit)","fr":"groseille, groseiller"}
 {"T":"r","L":"riboflavina","C":["n","cim"],"d":"un vitamina de la grupo B, nesesada per enerjia, trovada en multe comedas, spesial lete, figato, ovos e vejetales verde","en":"riboflavin (vitamin)"}
 {"T":"r","L":"ribonucleal","C":["a","bio"],"d":"pertinente a la composadas de asida ribonucleal","en":"ribonucleic"}
 {"T":"r","L":"ribonucleotido","C":["n","bio"],"d":"un nucleotido con ribosa","en":"ribonucleotide"}
