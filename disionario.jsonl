@@ -1,6 +1,6 @@
 {"T":"r","L":"a","C":["sim"],"d":"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major","p":"a","en":"a","es":"a","fr":"a (lettre de l'alphabet), la (note de la gamme)","he":"האות הראשונה באלפבית הלטיני"}
 {"T":"r","L":"a","C":["prep"],"d":"indicante un loca o tempo como un punto simple","g":"preposadas#a","u":"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco","da":"i, ved, på, hos, nær","de":"bei, mit, um","en":"at, in, on (a point in space or time)","eo":"ĉe, en, je","es":"a, en (un punto en el tiempo o en el espacio)","fr":"à","gl":"en (no mesmo lugar que)","he":"ב-, אצל","ru":"в, на, за (сидим за столом)"}
-{"T":"s","d":"indicante la punto de refere en un relata","u":"tu sta tro prosima a la borda; la pen parteni a me; la forma de Italia es simil a un gama; a la min","en":"(in relation) to","eo":"al","es":"a","fr":"à","he":"ל-","ru":"к; дательный падеж; на (в выражениях сравнения)"}
+{"T":"s","d":"indicante la punto de refere en un relata","u":"tu sta tro prosima a la borda; la pen parteni a me; la forma de Italia es simil a un gama; pensa a un numero; a la min","en":"(in relation) to","eo":"al","es":"a","fr":"à","he":"ל-","ru":"к; дательный падеж; на (в выражениях сравнения)"}
 {"T":"s","d":"indicante la loca, resetor o state cual on ateni o vole ateni par un move o cambia","u":"el desira viaja a la Luna; de ves a ves; me va dona un oso a tua can; la idea pare bon a me; la sorsor ia cambia se a un capra; on va eleje tu a presidente; el ia pinti sua mures a jala; tradui un poesia a elefen","da":"til, mod, hen imod","de":"nach, zu","en":"in the direction of, to, toward, towards, unto","eo":"al, direkte al","es":"a, en dirección, a hacia, hasta, para, rumbo a, para con","fr":"à, vers","gl":"a, ata, cara a, para, rumbo a, para con","he":"ל-; מסמן שינוי למצב חדש (צביעה בלבן, בחירה לנשיא)","ru":"на (как направление); дательный падеж; в (при глаголах превращения в, изменения в)"}
 {"T":"s","d":"indicante un ata cual on asinia a la ojeto presedente","n":"Nota la difere entre `me instrui el a comprende` (cual sinifia `me instrui el afin _el_ comprende`) e `me instrui el per comprende` (cual sinifia `me instrui el afin _me_ comprende`).","u":"el comanda la soldatos a ataca la fortres","en":"(influencing another) to (do something)","es":"con el objeto de, (influir a alguien para que haga algo)","fr":"à","he":"ל-, למען המטרה ..."}
 {"T":"s","d":"clarinte ce un otra preposada, direta seguente, indica un loca cual on ateni o vole ateni","n":"En `me pone la libros en la saco`, la sinifia de `pone` sufisi per clari ce la libros no comensa en la saco. Ma si `me move los en la saco`, cisa los es ja ala e me fa no plu ca un ajusta. `Me move los a en la saco` dise clar ce los vade a la saco.","u":"la gato ia salta a sur la table; me pone la libros (a) en la saco","en":"(clarifying, if necessary, that the following preposition indicates motion towards a location)","eo":"-n (en -n, sur -n)","es":"(clarifica, si es necesario, que la preposición siguiente indica movimiento hacia un punto)","he":"ל-, בכיוון ל-"}
@@ -1090,8 +1090,8 @@
 {"L":"amputa","C":["n"],"en":"amputation","fr":"amputation","he":"קטיעה, כריתה"}
 {"L":"amputada","C":["a"],"en":"amputated","fr":"amputé","he":"קטוע, כרות"}
 {"L":"amputada","C":["n"],"en":"amputated limb; amputee","fr":"amputé","he":"איבר כרות; קטוע איברים"}
-{"T":"r","L":"an","C":["av"],"d":"asentuante lo cual segue direta, tipal sujestante ce lo es nonespetada","de":"selbst, sogar","en":"even","eo":"eĉ","fr":"même","he":"אפילו"}
-{"L":"an con","C":["prep"],"en":"despite, in spite of, regardless of, notwithstanding, even with, even in the face of","fr":"malgré, en dépit de, outre,","he":"למרות, על אף, אף על פי"}
+{"T":"r","L":"an","C":["av"],"d":"asentuante lo cual segue direta, tipal sujestante ce lo es nonespetada","de":"selbst, sogar","en":"even","eo":"eĉ","es":"incluso","fr":"même","he":"אפילו"}
+{"L":"an con","C":["prep"],"en":"despite, in spite of, regardless of, notwithstanding, even with, even in the face of","es":"a pesar de, independientemente de, con independencia de, no obstante, incluso con","fr":"malgré, en dépit de, outre,","he":"למרות, על אף, אף על פי"}
 {"L":"an con tota","C":["av"],"en":"after all, despite everything, at least, if nothing else","fr":"cependant, malgré tout, néanmoins, toutefois","he":"למרות הכל"}
 {"L":"an cuando","C":["sj"],"en":"even when, even while, even as","fr":"même quand","he":"-אפילו כש-, אפילו בזמן ש"}
 {"L":"an no","C":["av"],"en":"not even","fr":"pas même","he":"אפילו לא"}
@@ -3083,18 +3083,18 @@
 {"T":"r","L":"belvedere","C":["n","arci"],"d":"un strutur con teto, tipal abrida a cada lado, cual ofre un vista bela","i":"#","en":"belvedere, gazebo","fr":"belvédère","he":"(אדריכלות) בלוודרה"}
 {"T":"r","L":"bemol","C":["a","mus"],"d":"(un nota) plu basa par un semitono ca un nota spesifada; (un strumento o nota) malajustada e sonante su la altia espetada","en":"flat (music)","fr":"bémol (musique)","he":"(מוזיקה) במול"}
 {"L":"bemol","C":["n"],"en":"flat (music)","fr":"(un) bémol (musique)","he":"(מוזיקה) במול"}
-{"T":"r","L":"ben","C":["n","mone"],"d":"un cosa cual on vende o compra","en":"item for sale; commodity","fr":"article, marchandise","he":"מצרך"}
+{"T":"r","L":"ben","C":["n","mone"],"d":"un cosa cual on vende o compra","en":"item for sale; commodity","fr":"article, marchandise, bien","he":"מצרך"}
 {"L":"beneria","C":["n"],"i":"#","en":"warehouse, storehouse, repository, depot","fr":"entrepôt","he":"מחסן"}
 {"L":"benes","C":["n","pl"],"da":"varer, goder","de":"Ware","en":"goods, ware, wares, merchandise, commodities","es":"mercancías, mercaderías, bienes, artículos","fr":"marchandises, fournitures","he":"מצרכים, טובין, סחורה"}
 {"L":"benes de arjento","C":["n","pl"],"en":"silverware","fr":"argenterie","he":"כלי כסף"}
 {"L":"benes de coce","C":["n","pl"],"en":"cookware","fr":"matériel de cuisine","he":"כלי בישול"}
 {"L":"benes de cose","C":["n","pl"],"en":"haberdashery, notions","fr":"matériel de couture","he":"מוצרי סדקית, גלנטריה"}
-{"L":"benes de cosina","C":["n","pl"],"en":"kitchenware","he":"כלי מטבח"}
-{"L":"benes de fero","C":["n","pl"],"en":"ironware","he":"כלי מתכת"}
-{"L":"benes de vitro","C":["n","pl"],"en":"glassware","he":"כלי זכוכית"}
-{"L":"benes dorada","C":["n","pl"],"en":"giltware","he":"כלים מוזהבים"}
-{"L":"benes furada","C":["n","pl"],"en":"stolen goods, booty, loot, swag","he":"שלל, סחורה גנובה"}
-{"L":"benes nonlegal","C":["n","pl"],"en":"illegal goods, contraband","he":"סחורה לא חוקית, סחורה מוברחת"}
+{"L":"benes de cosina","C":["n","pl"],"en":"kitchenware","fr":"ustensiles de cuisine, mercerie","he":"כלי מטבח"}
+{"L":"benes de fero","C":["n","pl"],"en":"ironware","fr":"quincaillerie","he":"כלי מתכת"}
+{"L":"benes de vitro","C":["n","pl"],"en":"glassware","fr":"verrerie","he":"כלי זכוכית"}
+{"L":"benes dorada","C":["n","pl"],"en":"giltware","fr":"orfèvrerie, argenterie","he":"כלים מוזהבים"}
+{"L":"benes furada","C":["n","pl"],"en":"stolen goods, booty, loot, swag","fr":"butin","he":"שלל, סחורה גנובה"}
+{"L":"benes nonlegal","C":["n","pl"],"en":"illegal goods, contraband","fr":"produits de contrebande, marchandises illégales","he":"סחורה לא חוקית, סחורה מוברחת"}
 {"T":"r","L":"benedictin","C":["a","rel"],"d":"pertinente a un ordina de monces ci segue la regulas de San Benedicto","en":"Benedictine (monk)","fr":"bénédictin","he":"בנדיקטיני"}
 {"L":"benedictin","C":["n"],"en":"Benedictine (monk)","fr":"bénédictin","he":"בנדיקטיני"}
 {"T":"r","L":"benefica","C":["vnt"],"d":"reseta o gania un vantaje o profita (de alga aveni)","en":"benefit, gain advantage","fr":"bénéficier, profiter","he":"להפיק תועלת, להרוויח"}
@@ -3103,298 +3103,298 @@
 {"L":"beneficada","C":["n"],"en":"beneficiary","fr":"bénéficiaire","he":"מוטב"}
 {"L":"beneficante","C":["a"],"en":"beneficial, salutary, conducive, effective","fr":"bénéfique","he":"מועיל, מביא תועלת, תורם ל-"}
 {"L":"beneficor","C":["n"],"en":"benefactor","fr":"bienfaiteur","he":"תורם, נדבן"}
-{"T":"r","L":"Bengala","C":["n","jeo"],"d":"un rejion de Asia sude cual conteni la deltas de la Rios Ganga e Brahmaputra","en":"Bengal","he":"בנגל"}
-{"L":"Golfo Bengala","C":["n","jeo"],"d":"un parte de la Mar Indian a sude de Bangladex, a este de Barat, e a ueste de Miama e Tai","i":"#","en":"Bay of Bengal","he":"מפרץ בנגל"}
-{"T":"r","L":"Benin","C":["n","jeo"],"c":"Porto-Novo","d":"un pais en Africa ueste, a ueste de Nijeria","i":"#","en":"Benin","he":"בנין"}
-{"L":"benines","C":["a"],"en":"Beninese, Beninois","he":"שקשור לבנין"}
-{"L":"benines","C":["n"],"en":"Beninese, Beninois","he":"תושב בנין"}
-{"T":"r","L":"benzen","C":["n","cim"],"d":"un idrocarbono licuida, volatil e sin color, trovada en catran de carbon e petrolio, e usada en sintese cimical","en":"benzene","he":"(כימיה) בנזן"}
-{"L":"anelo de benzen","C":["n","cim"],"en":"benzene ring","he":"(כימיה) טבעת בנזן"}
-{"T":"r","L":"benzoica","C":["a","cim"],"en":"benzoic","he":"(כימיה) בנזואי"}
-{"L":"asida benzoica","C":["n","cim"],"d":"un solida cristal sin color e un asida simple de carbosil","en":"benzoic acid","he":"(כימיה) חומצה בנזואית"}
-{"T":"r","L":"benzodiazepina","C":["n","cim","med"],"d":"cualce de alga composadas organica eterosiclal, usada como calmintes","en":"benzodiazepine"}
-{"T":"r","L":"Beograd","C":["n","jeo"],"d":"la site capital de Serbia","en":"Belgrade","he":"בלגרד"}
+{"T":"r","L":"Bengala","C":["n","jeo"],"d":"un rejion de Asia sude cual conteni la deltas de la Rios Ganga e Brahmaputra","en":"Bengal","fr":"(le) Bengale","he":"בנגל"}
+{"L":"Golfo Bengala","C":["n","jeo"],"d":"un parte de la Mar Indian a sude de Bangladex, a este de Barat, e a ueste de Miama e Tai","i":"#","en":"Bay of Bengal","fr":"golfe du Bengale","he":"מפרץ בנגל"}
+{"T":"r","L":"Benin","C":["n","jeo"],"c":"Porto-Novo","d":"un pais en Africa ueste, a ueste de Nijeria","i":"#","en":"Benin","fr":"Bénin","he":"בנין"}
+{"L":"benines","C":["a"],"en":"Beninese, Beninois","fr":"béninois","he":"שקשור לבנין"}
+{"L":"benines","C":["n"],"en":"Beninese, Beninois","fr":"Béninois (personne)","he":"תושב בנין"}
+{"T":"r","L":"benzen","C":["n","cim"],"d":"un idrocarbono licuida, volatil e sin color, trovada en catran de carbon e petrolio, e usada en sintese cimical","en":"benzene","fr":"benzène","he":"(כימיה) בנזן"}
+{"L":"anelo de benzen","C":["n","cim"],"en":"benzene ring","fr":"anneau de benzène","he":"(כימיה) טבעת בנזן"}
+{"T":"r","L":"benzoica","C":["a","cim"],"en":"benzoic","fr":"benzoïque","he":"(כימיה) בנזואי"}
+{"L":"asida benzoica","C":["n","cim"],"d":"un solida cristal sin color e un asida simple de carbosil","en":"benzoic acid","fr":"acide benzoïque","he":"(כימיה) חומצה בנזואית"}
+{"T":"r","L":"benzodiazepina","C":["n","cim","med"],"d":"cualce de alga composadas organica eterosiclal, usada como calmintes","en":"benzodiazepine","fr":"(la) benzodiazépine"}
+{"T":"r","L":"Beograd","C":["n","jeo"],"d":"la site capital de Serbia","en":"Belgrade","fr":"Belgrade","he":"בלגרד"}
 {"T":"r","L":"berber","C":["a","dem"],"d":"pertinente a la popla orijinal de Africa norde o a sua linguas afroasian","en":"Berber","fr":"berbère","he":"ברברי (קבוצה אתנית)"}
 {"L":"berber","C":["n"],"en":"Berber","fr":"Berbère","he":"ברברים (קבוצה אתנית)"}
 {"T":"r","L":"berberis","C":["n","pla"],"d":"un arboreta spinosa cual produi flores jala e bacas roja o blu-negra","i":"#","t":"Berberis","en":"barberry, berberis (plant)","fr":"berbéris, épine-vinette","he":"ברברית (צמח)"}
-{"T":"r","L":"bercelio","C":["n","cim"],"d":"la elemento cimical con numero atomal 97","s":"Bk","en":"berkelium (element)","he":"ברקליום (יסוד)"}
+{"T":"r","L":"bercelio","C":["n","cim"],"d":"la elemento cimical con numero atomal 97","s":"Bk","en":"berkelium (element)","fr":"berkélium (élément chimique)","he":"ברקליום (יסוד)"}
 {"T":"r","L":"bereta","C":["n","vest"],"d":"un xapeta plata de feltro o otra materia; un xapeta cuadro con tre protendes plata, portada par eglesores catolica","i":"#","en":"beret; biretta","fr":"béret","he":"כומתה, ברט"}
-{"T":"r","L":"bergamota","C":["n","pla"],"d":"un tipo de orania de cual sua casca conteni un materia oliosa cual on usa en cosmeticas e per sabori te","i":"#","t":"Citrus bergamia","en":"bergamot, bergamot orange","he":"תפוז ברגמוט"}
-{"L":"bergamoto","C":["n","pla"],"en":"bergamot tree","he":"עץ ברגמוט"}
-{"T":"r","L":"beril","C":["n","tera"],"d":"un mineral transparente de jala, blu o verde pal, usada como un jem","en":"beryl (gem)","eo":"berilo","he":"בריל (מינרל)"}
-{"T":"r","L":"berilio","C":["n","cim"],"d":"la elemento cimical con numero atomal 4, un metal dur e gris","s":"Be","en":"beryllium (element)","he":"בריליום (יסוד)"}
-{"T":"r","L":"Bering","C":["n"],"en":"Bering","he":"ברינג"}
-{"L":"Mar Bering","C":["n","jeo"],"d":"un estende de la Mar Pasifica norde entre Sibir e Alaska, bordada par la Isolas Aleutian a la sude","i":"#","en":"Bering Sea","he":"ים ברינג"}
-{"L":"Beringia","C":["n","jeo"],"en":"Beringia","he":"ברינגיה (האיזור סביב מיצר ברינג)"}
-{"L":"Streta Bering","C":["n","jeo"],"en":"Bering Strait","he":"מיצר ברינג"}
-{"T":"r","L":"Bermuda","C":["n","jeo"],"d":"un teritorio ultramar de Britan, composada de sirca 150 isolas peti, en la Mar Atlantica a este de America Norde","i":"#","en":"Bermuda","he":"איי ברמודה"}
-{"L":"bermudan","C":["a"],"en":"Bermudan","he":"שקשור לאיי ברמודה"}
-{"L":"bermudan","C":["n","dem"],"en":"Bermudan","he":"תושב איי ברמודה"}
+{"T":"r","L":"bergamota","C":["n","pla"],"d":"un tipo de orania de cual sua casca conteni un materia oliosa cual on usa en cosmeticas e per sabori te","i":"#","t":"Citrus bergamia","en":"bergamot, bergamot orange","fr":"(la) bergamote","he":"תפוז ברגמוט"}
+{"L":"bergamoto","C":["n","pla"],"en":"bergamot tree","fr":"(un) bergamotier","he":"עץ ברגמוט"}
+{"T":"r","L":"beril","C":["n","tera"],"d":"un mineral transparente de jala, blu o verde pal, usada como un jem","en":"beryl (gem)","eo":"berilo","fr":"béryl (minéralogie)","he":"בריל (מינרל)"}
+{"T":"r","L":"berilio","C":["n","cim"],"d":"la elemento cimical con numero atomal 4, un metal dur e gris","s":"Be","en":"beryllium (element)","fr":"béryllium (élément chimique)","he":"בריליום (יסוד)"}
+{"T":"r","L":"Bering","C":["n"],"en":"Bering","fr":"Béring","he":"ברינג"}
+{"L":"Mar Bering","C":["n","jeo"],"d":"un estende de la Mar Pasifica norde entre Sibir e Alaska, bordada par la Isolas Aleutian a la sude","i":"#","en":"Bering Sea","fr":"mer de Béring","he":"ים ברינג"}
+{"L":"Beringia","C":["n","jeo"],"en":"Beringia","fr":"Béringie","he":"ברינגיה (האיזור סביב מיצר ברינג)"}
+{"L":"Streta Bering","C":["n","jeo"],"en":"Bering Strait","fr":"détroit de Béring","he":"מיצר ברינג"}
+{"T":"r","L":"Bermuda","C":["n","jeo"],"d":"un teritorio ultramar de Britan, composada de sirca 150 isolas peti, en la Mar Atlantica a este de America Norde","i":"#","en":"Bermuda","fr":"(les) Bermudes","he":"איי ברמודה"}
+{"L":"bermudan","C":["a"],"en":"Bermudan","fr":"bermudien","he":"שקשור לאיי ברמודה"}
+{"L":"bermudan","C":["n","dem"],"en":"Bermudan","fr":"Bermudien (personne)","he":"תושב איי ברמודה"}
 {"T":"r","L":"besa","C":["vt"],"d":"toca (un person o cosa) con sua labios como un indica de ama, desira sesal, adora o saluta","i":"#","da":"kysse","de":"küssen","en":"kiss, smooch","es":"besar","fr":"embrasser, baiser","he":"לנשק, להתנשק"}
-{"L":"besa","C":["n"],"en":"kiss","fr":"baiser","he":"נשיקה"}
+{"L":"besa","C":["n"],"en":"kiss","fr":"(un) baiser","he":"נשיקה"}
 {"L":"beseta","C":["vt"],"en":"peck, lightly kiss","fr":"faire la bise","he":"לנשק קלות, לנשק על הלחי"}
 {"L":"beseta","C":["n"],"en":"peck, light kiss","fr":"bise, bisou","he":"נשיקה קלה, נשיקה על הלחי"}
-{"T":"r","L":"besaculo","C":["n","vn"],"d":"(nonformal) un adulor","en":"(colloquial) kiss-ass, kiss-up (sycophant)","he":"חנפן"}
-{"T":"r","L":"besaorea","C":["n","vn"],"d":"(nonformal) un adulor","en":"(colloquial) kiss-ass, kiss-up (sycophant)","he":"חנפן"}
+{"T":"r","L":"besaculo","C":["n","vn"],"d":"(nonformal) un adulor","en":"(colloquial) kiss-ass, kiss-up (sycophant)","fr":"lèche-cul, lécheur, lèche-bottes, fayot","he":"חנפן"}
+{"T":"r","L":"besaorea","C":["n","vn"],"d":"(nonformal) un adulor","en":"(colloquial) kiss-ass, kiss-up (sycophant)","fr":"lèche-cul, lécheur, lèche-bottes, fayot","he":"חנפן"}
 {"T":"r","L":"bestia","C":["n"],"d":"un mamal domada; cualce animal grande e cuatropede","en":"beast","fr":"bête","he":"בהמה"}
-{"L":"bestia de carga","C":["n"],"en":"pack animal, beast of burden, workhorse","he":"בהמת משא"}
-{"L":"bestia de servi","C":["n"],"en":"service animal, support animal, helper animal","he":"חיית עזר (לנכים)"}
-{"L":"bestia de tira","C":["n"],"en":"draft|draught animal","he":"בהמת עבודה"}
-{"L":"bestia imajinal","C":["n"],"en":"imaginary beast","he":"חיה דמיונית"}
+{"L":"bestia de carga","C":["n"],"en":"pack animal, beast of burden, workhorse","fr":"bête de somme","he":"בהמת משא"}
+{"L":"bestia de servi","C":["n"],"en":"service animal, support animal, helper animal","fr":"animal d'assistance","he":"חיית עזר (לנכים)"}
+{"L":"bestia de tira","C":["n"],"en":"draft|draught animal","fr":"bête de trait","he":"בהמת עבודה"}
+{"L":"bestia imajinal","C":["n"],"en":"imaginary beast","fr":"animal imaginaire, animal légendaire","he":"חיה דמיונית"}
 {"L":"bestin","C":["a"],"en":"bestial","fr":"bestial","he":"בהמי"}
-{"L":"bestinia","C":["n"],"en":"bestiality","he":"בהמיות"}
-{"L":"bestias","C":["n","pl"],"en":"beasts, livestock","he":"חיות משק"}
+{"L":"bestinia","C":["n"],"en":"bestiality","fr":"bestialité","he":"בהמיות"}
+{"L":"bestias","C":["n","pl"],"en":"beasts, livestock","fr":"bestiaux, bétail","he":"חיות משק"}
 {"T":"r","L":"beta","C":["n","pla"],"d":"un planta erbin, de cual sua radis es comeda par umanas e animales domada e es prosededa per zucar","i":"#","t":"Beta vulgaris","en":"beet, beetroot (plant, vegetable)","fr":"betterave","he":"סלק (צמח)"}
-{"T":"r","L":"beta","C":["n"],"d":"la letera du de la alfabeta elinica","s":"Β β","en":"beta (Greek letter)","he":"בטא (אות יוונית)"}
-{"L":"a beta","C":["av"],"en":"in beta, being beta-tested","he":"בגרסת בטא"}
-{"L":"varia de beta","C":["n"],"en":"beta version","he":"גרסת בטא"}
-{"T":"r","L":"betel","C":["n","pla"],"d":"un planta trepante e perene de Asia, de cual sua folias es usada como un stimulante","i":"#","t":"Piper betle","en":"betel (plant, stimulant)","he":"פלפל הודי"}
-{"T":"r","L":"beton","C":["n","arci"],"d":"un materia ru e pesosa, usada en construi, composada de un misca de calculos, arena, semento e acua","en":"concrete","fr":"béton","he":"בטון"}
-{"L":"beton fortida","C":["n"],"en":"reinforced concrete","he":"בטון מזוין"}
-{"L":"de beton","C":["a"],"en":"(made of) concrete","he":"מבוטן, עשוי מבטון"}
-{"T":"r","L":"betong","C":["n","mam"],"d":"un marsupio peti e simil a un rodente, nativa de Australia ma aora perilida","i":"#","t":"Bettongia","en":"bettong (marsupial)","he":"בטונג (חיית כיס)"}
-{"T":"r","L":"betonica","C":["n","pla"],"d":"un planta eurasian en familia de mento, con spigas de flores ostentosa purpur","i":"#","t":"Stachys officinalis","en":"betony, bishopwort (plant)","he":"אשבל (צמח)"}
+{"T":"r","L":"beta","C":["n"],"d":"la letera du de la alfabeta elinica","s":"Β β","en":"beta (Greek letter)","fr":"bêta (lettre grecque)","he":"בטא (אות יוונית)"}
+{"L":"a beta","C":["av"],"en":"in beta, being beta-tested","fr":"en version bêta","he":"בגרסת בטא"}
+{"L":"varia de beta","C":["n"],"en":"beta version","fr":"version bêta","he":"גרסת בטא"}
+{"T":"r","L":"betel","C":["n","pla"],"d":"un planta trepante e perene de Asia, de cual sua folias es usada como un stimulante","i":"#","t":"Piper betle","en":"betel (plant, stimulant)","fr":"(le) bétel (plante)","he":"פלפל הודי"}
+{"T":"r","L":"beton","C":["n","arci"],"d":"un materia ru e pesosa, usada en construi, composada de un misca de calculos, arena, semento e acua","en":"concrete","fr":"(le) béton","he":"בטון"}
+{"L":"beton fortida","C":["n"],"en":"reinforced concrete","fr":"béton armé","he":"בטון מזוין"}
+{"L":"de beton","C":["a"],"en":"(made of) concrete","fr":"en béton","he":"מבוטן, עשוי מבטון"}
+{"T":"r","L":"betong","C":["n","mam"],"d":"un marsupio peti e simil a un rodente, nativa de Australia ma aora perilida","i":"#","t":"Bettongia","en":"bettong (marsupial)","fr":"(une) bettongie (marsupial)","he":"בטונג (חיית כיס)"}
+{"T":"r","L":"betonica","C":["n","pla"],"d":"un planta eurasian en familia de mento, con spigas de flores ostentosa purpur","i":"#","t":"Stachys officinalis","en":"betony, bishopwort (plant)","fr":"bétoine, épiaire officinale","he":"אשבל (צמח)"}
 {"T":"r","L":"betul","C":["n","pla"],"d":"un arbor magra e rapida cresente cual ave un cortex magra e produi amentos, trovada en locas norde","i":"#","t":"Bertula","en":"birch","fr":"bouleau","he":"שדר, לבנה (עץ)"}
 {"T":"r","L":"bevi","C":["vt","cos"],"d":"prende (un licuida) en la boca e engoli lo","da":"drikke","de":"trinken","en":"drink, imbibe, quaff","es":"beber","fr":"boire","he":"לשתות, לגמוע"}
 {"L":"bevable","C":["a"],"en":"drinkable, potable","fr":"potable","he":"ראוי לשתייה"}
 {"L":"beveria","C":["n"],"en":"drinking establishment, pub, tavern","fr":"débit de boissons","he":"פאב, בר, מסבאה"}
 {"L":"bevida","C":["n"],"en":"drink, beverage, libation","fr":"boisson","he":"משקה"}
 {"L":"bevida de alcol","C":["n"],"en":"alcoholic drink","fr":"boisson alcoolisée","he":"משקה אלכוהולי"}
-{"L":"bevida ofreda","C":["n"],"en":"libation","he":"נסך (משקה כמנחה לאל)"}
+{"L":"bevida ofreda","C":["n"],"en":"libation","fr":"libation","he":"נסך (משקה כמנחה לאל)"}
 {"L":"bevida sin alcol","C":["n"],"en":"non-alcoholic drink","fr":"boisson sans alcool","he":"משקה ללא אלכוהול"}
-{"L":"nonbevor","C":["n"],"en":"non-drinker","he":"שאינו שותה"}
-{"L":"nonbevor de alcol","C":["n"],"en":"non-drinker of alcohol, teetotaler|ll","he":"מתנזר מאלכוהול"}
-{"T":"r","L":"bexamel","C":["n","cos"],"d":"un salsa blanca de lete, erbas e otra saborintes","en":"bechamel, white sauce","he":"בשאמל (רוטב)"}
-{"T":"r","L":"bezica","C":["n","spo"],"d":"un jua de cartas per du persones usante 64 cartas (la sete asta la as de du pacetas)","en":"bezique (card game)","he":"בזיק (משחק קלפים)"}
-{"T":"r","L":"bezoar","C":["n","bio"],"d":"un coagula peti e petrin cual pote formi en la stomaco de alga animales, tipal remasticantes, e cual on ia usa istorial como un remedia per alga maladias","en":"bezoar (biology)","he":"אבן בזואר"}
-{"T":"r","L":"bi-","C":["pf","tecn"],"d":"a du veses, duple","en":"bi-","he":"(קידומת טכנית) פעמיים, כפול"}
+{"L":"nonbevor","C":["n"],"en":"non-drinker","fr":"abstinent (d'alcool), non-buveur","he":"שאינו שותה"}
+{"L":"nonbevor de alcol","C":["n"],"en":"non-drinker of alcohol, teetotaler|ll","fr":"abstinent (d'alcool), non-buveur","he":"מתנזר מאלכוהול"}
+{"T":"r","L":"bexamel","C":["n","cos"],"d":"un salsa blanca de lete, erbas e otra saborintes","en":"bechamel, white sauce","fr":"sauce béchamel, (une) béchamel","he":"בשאמל (רוטב)"}
+{"T":"r","L":"bezica","C":["n","spo"],"d":"un jua de cartas per du persones usante 64 cartas (la sete asta la as de du pacetas)","en":"bezique (card game)","fr":"(le) bésigue (jeu de cartes)","he":"בזיק (משחק קלפים)"}
+{"T":"r","L":"bezoar","C":["n","bio"],"d":"un coagula peti e petrin cual pote formi en la stomaco de alga animales, tipal remasticantes, e cual on ia usa istorial como un remedia per alga maladias","en":"bezoar (biology)","fr":"bézoard","he":"אבן בזואר"}
+{"T":"r","L":"bi-","C":["pf","tecn"],"d":"a du veses, duple","en":"bi-","fr":"bi-","he":"(קידומת טכנית) פעמיים, כפול"}
 {"T":"r","L":"biatlon","C":["n","spo"],"d":"un concurso atletal cual combina du sportes, tipal corsa de sci e spara a blancos","en":"biathlon","fr":"biathlon","he":"ביאתלון"}
-{"L":"biatlonor","C":["n"],"en":"biathlete","he":"ביאתלט"}
-{"T":"r","L":"Biblia","C":["n","rel"],"d":"la libro santa de iudisme e, con ajunta de la Atesta Nova, de cristianisme","en":"Bible","fr":"Bible","he":"תנ\"ך"}
+{"L":"biatlonor","C":["n"],"en":"biathlete","fr":"biathlonien, biathlète, athlète de biathlon","he":"ביאתלט"}
+{"T":"r","L":"Biblia","C":["n","rel"],"d":"la libro santa de iudisme e, con ajunta de la Atesta Nova, de cristianisme","en":"Bible","fr":"(la) Bible","he":"תנ\"ך"}
 {"L":"biblial","C":["a"],"en":"biblical","fr":"biblique","he":"תנכי"}
-{"T":"r","L":"biblio-","C":["pf","tecn"],"d":"libros","en":"biblio-","he":"(קידומת טכנית) שקשור בספרים"}
-{"T":"r","L":"bibliofilia","C":["n"],"d":"la ama de libros o de colie los","en":"bibliophilia","he":"ביבליופיליה (אהבת ספרים)"}
-{"L":"bibliofilica","C":["n"],"en":"bibliophile","he":"ביבליופיל (אוהב ספרים)"}
-{"T":"r","L":"bibliografia","C":["n","arte"],"d":"un lista de libros a cual un obra erudita refere, tipal primida como un apendis; un lista de la libros de un autor; la descrive sistemal de libros, sua autores e publicis","en":"bibliography","he":"ביבליוגרפיה"}
-{"L":"bibliografial","C":["a"],"en":"bibliographical","he":"ביבליוגרפי"}
-{"L":"bibliografiste","C":["n"],"en":"bibliographer","he":"ביבליוגרף"}
-{"T":"r","L":"biblioteca","C":["n","arci","info"],"d":"un colie de libros e jornales per usa o empresta par la popla o membros de un instituida; un salon o construida cual conteni esta; un colie simil de filmas, musica rejistrada, materia jenetical, etc, retenida per rexerca o empresta; un sala en un casa privata, dedicada a libros; (en informatica) un colie de funsionas o programes furnida per usa jeneral","i":"#","da":"bibliotek","de":"Bibliothek","en":"library","es":"biblioteca","fr":"bibliothèque","he":"ספרייה"}
+{"T":"r","L":"biblio-","C":["pf","tecn"],"d":"libros","en":"biblio-","fr":"biblio- (relatif aux livres)","he":"(קידומת טכנית) שקשור בספרים"}
+{"T":"r","L":"bibliofilia","C":["n"],"d":"la ama de libros o de colie los","en":"bibliophilia","fr":"bibliophilie","he":"ביבליופיליה (אהבת ספרים)"}
+{"L":"bibliofilica","C":["n"],"en":"bibliophile","fr":"bibliophile","he":"ביבליופיל (אוהב ספרים)"}
+{"T":"r","L":"bibliografia","C":["n","arte"],"d":"un lista de libros a cual un obra erudita refere, tipal primida como un apendis; un lista de la libros de un autor; la descrive sistemal de libros, sua autores e publicis","en":"bibliography","fr":"bibliographie","he":"ביבליוגרפיה"}
+{"L":"bibliografial","C":["a"],"en":"bibliographical","fr":"bibliographique","he":"ביבליוגרפי"}
+{"L":"bibliografiste","C":["n"],"en":"bibliographer","fr":"bibliographe","he":"ביבליוגרף"}
+{"T":"r","L":"biblioteca","C":["n","arci","info"],"d":"un colie de libros e jornales per usa o empresta par la popla o membros de un instituida; un salon o construida cual conteni esta; un colie simil de filmas, musica rejistrada, materia jenetical, etc, retenida per rexerca o empresta; un sala en un casa privata, dedicada a libros; (en informatica) un colie de funsionas o programes furnida per usa jeneral","i":"#","da":"bibliotek","de":"Bibliothek","en":"library","es":"biblioteca","fr":"(une) bibliothèque","he":"ספרייה"}
 {"L":"bibliotecor","C":["n"],"en":"librarian","fr":"bibliothécaire","he":"ספרן"}
 {"T":"r","L":"biblioteconomia","C":["n","info"],"d":"un campo de studia cual aplica a bibliotecas la tecnicas de maneja e informatica","ca":"biblioteconomia","en":"library science, library economy, bibliothecography","es":"biblioteconomía","fr":"bibliothéconomie","it":"biblioteconomia","pt":"biblioteconomia"}
-{"T":"r","L":"bicarbonato","C":["n","cim"],"d":"un sal conteninte la anion {HCO}","en":"bicarbonate","he":"ביקרבונט, מימן פחמתי"}
-{"L":"bicarbonato de sodio","C":["n"],"d":"un polvo blanca, usada en estinguadores de foco, bevidas gasosa e pasta de dentes, como un fermentante en forni, o per limpi","en":"sodium bicarbonate","fr":"bicarbonate de soude","he":"סודיום ביקרבונט, סודה לשתייה"}
-{"T":"r","L":"bicini","C":["n","vest"],"d":"un veste de nada per femes, con du pesos tipal peti","i":"#","en":"bikini","fr":"bikini","he":"ביקיני"}
-{"T":"r","L":"bide","C":["n","arci"],"d":"un bol oval e basa, usada per lava la jenitales e ano","i":"#","en":"bidet","fr":"bidet","he":"בידה"}
-{"T":"r","L":"bidialetal","C":["a","ling"],"d":"capas de parla fluente du dialetos","en":"bidialectal"}
-{"L":"bidialetalisme","C":["n"],"en":"bidialectalism"}
-{"T":"r","L":"bidimensional","C":["a"],"d":"avente o parente ave longia e largia ma no profondia","en":"two-dimensional","he":"דו-מימדי"}
-{"T":"r","L":"biela","C":["n","vec"],"d":"un bara juntante du partes movente en un macina, tipal lo entre la piston e la arbor de maniveles en un motor o pompa","en":"connecting rod (machinery)","fr":"bielle","he":"מוט מחבר"}
-{"T":"r","L":"Bielarus","C":["n","jeo"],"c":"Minsk","d":"un pais en Europa este, entre Rusia e Polsca e a norde de Ucraina","i":"#","en":"Belarus","he":"בלרוס"}
-{"L":"bielarusce","C":["a"],"en":"Belarusian","he":"בלרוסי"}
-{"L":"bielarusce","C":["n"],"en":"Belarusian","he":"בלרוסי"}
+{"T":"r","L":"bicarbonato","C":["n","cim"],"d":"un sal conteninte la anion {HCO}","en":"bicarbonate","fr":"(un) bicarbonate","he":"ביקרבונט, מימן פחמתי"}
+{"L":"bicarbonato de sodio","C":["n"],"d":"un polvo blanca, usada en estinguadores de foco, bevidas gasosa e pasta de dentes, como un fermentante en forni, o per limpi","en":"sodium bicarbonate","fr":"(le) bicarbonate de soude","he":"סודיום ביקרבונט, סודה לשתייה"}
+{"T":"r","L":"bicini","C":["n","vest"],"d":"un veste de nada per femes, con du pesos tipal peti","i":"#","en":"bikini","fr":"(un) bikini","he":"ביקיני"}
+{"T":"r","L":"bide","C":["n","arci"],"d":"un bol oval e basa, usada per lava la jenitales e ano","i":"#","en":"bidet","fr":"(un) bidet (cuvette)","he":"בידה"}
+{"T":"r","L":"bidialetal","C":["a","ling"],"d":"capas de parla fluente du dialetos","en":"bidialectal","fr":"bilingue"}
+{"L":"bidialetalisme","C":["n"],"en":"bidialectalism","fr":"bilinguisme"}
+{"T":"r","L":"bidimensional","C":["a"],"d":"avente o parente ave longia e largia ma no profondia","en":"two-dimensional","fr":"à deux dimensions, bidimensionnel","he":"דו-מימדי"}
+{"T":"r","L":"biela","C":["n","vec"],"d":"un bara juntante du partes movente en un macina, tipal lo entre la piston e la arbor de maniveles en un motor o pompa","en":"connecting rod (machinery)","fr":"bielle (mécanique)","he":"מוט מחבר"}
+{"T":"r","L":"Bielarus","C":["n","jeo"],"c":"Minsk","d":"un pais en Europa este, entre Rusia e Polsca e a norde de Ucraina","i":"#","en":"Belarus","fr":"Biélorussie","he":"בלרוס"}
+{"L":"bielarusce","C":["a"],"en":"Belarusian","fr":"biélorusse","he":"בלרוסי"}
+{"L":"bielarusce","C":["n"],"en":"Belarusian","fr":"Biélorusse","he":"בלרוסי"}
 {"T":"r","L":"bies","C":["n","vest"],"d":"un de la du dirijes perpendicular a la cadena e trama de un stofa","en":"bias (fabric)","fr":"biais (tissu)","he":"אלכסון באריג או בד"}
-{"T":"r","L":"bifasal","C":["a","tecn"],"d":"aveninte en du fases","en":"biphasic","he":"דו-פאזי"}
-{"T":"r","L":"bifocal","C":["a"],"d":"(un lente) con du partes con distantias focal diferente","en":"bifocal","he":"דו-מוקדי, ביפוקלי"}
-{"L":"bifocal","C":["n"],"en":"bifocals","he":"משקפיים דו-מוקדיים, ביפוקלים"}
+{"T":"r","L":"bifasal","C":["a","tecn"],"d":"aveninte en du fases","en":"biphasic","fr":"biphasé","he":"דו-פאזי"}
+{"T":"r","L":"bifocal","C":["a"],"d":"(un lente) con du partes con distantias focal diferente","en":"bifocal","fr":"bifocal, à double foyer","he":"דו-מוקדי, ביפוקלי"}
+{"L":"bifocal","C":["n"],"en":"bifocals","fr":"double foyer","he":"משקפיים דו-מוקדיים, ביפוקלים"}
 {"T":"r","L":"bigama","C":["a","gov"],"d":"sposida a du persones a la mesma tempo, tipal nonlegal","en":"bigamous","fr":"bigame","he":"שקשור לביגמיה"}
 {"L":"bigamia","C":["n"],"en":"bigamy","fr":"bigamie","he":"ביגמיה, נישואי כפל"}
-{"L":"bigamiste","C":["n"],"en":"bigamist","he":"ביגמיסט"}
-{"T":"r","L":"bigel","C":["n","mam"],"d":"un can peti con pelo corta, usada per xasa lepres","i":"#","en":"beagle (dog)","he":"ביגל (כלב)"}
-{"T":"r","L":"bigin","C":["n","mus"],"d":"un dansa orijinante sur la isolas de la Mar Caribe, simil a la fostrot","en":"beguine, biguine (dance)","he":"ביגין (ריקוד)"}
-{"T":"r","L":"bijenero","C":["a","uma"],"d":"(un person) con du identias de jenero, o simultan o en situas diversa","en":"bigender","he":"ביג'נדר, דו-מגדרי"}
-{"L":"bijenero","C":["n","uma"],"en":"bigender person","he":"ביג'נדר, דו-מגדרי"}
+{"L":"bigamiste","C":["n"],"en":"bigamist","fr":"bigame, adepte de la bigamie","he":"ביגמיסט"}
+{"T":"r","L":"bigel","C":["n","mam"],"d":"un can peti con pelo corta, usada per xasa lepres","i":"#","en":"beagle (dog)","fr":"beagle (chien)","he":"ביגל (כלב)"}
+{"T":"r","L":"bigin","C":["n","mus"],"d":"un dansa orijinante sur la isolas de la Mar Caribe, simil a la fostrot","en":"beguine, biguine (dance)","fr":"(la) biguine (danse)","he":"ביגין (ריקוד)"}
+{"T":"r","L":"bijenero","C":["a","uma"],"d":"(un person) con du identias de jenero, o simultan o en situas diversa","en":"bigender","fr":"bisexué, hermaphrodite, ambisexué, amphigame","he":"ביג'נדר, דו-מגדרי"}
+{"L":"bijenero","C":["n","uma"],"en":"bigender person","fr":"bisexué, hermaphrodite, ambisexué","he":"ביג'נדר, דו-מגדרי"}
 {"T":"r","L":"bilabial","C":["a","ling"],"d":"(un consonante) formida par pone la du labios a lunlotra, como P, B, M e W","en":"bilabial (consonant)","fr":"bilabial","he":"דו-שפתי"}
-{"L":"bilabial","C":["n"],"en":"bilabial (consonant)","he":"עיצור דו-שפתי"}
+{"L":"bilabial","C":["n"],"en":"bilabial (consonant)","fr":"(une) bilabiale, (une consonne) bilabiale","he":"עיצור דו-שפתי"}
 {"T":"r","L":"biladal","C":["a"],"d":"con du lados; afetante ambos lados; envolvente du partitos o nasiones","en":"bilateral, two-sided","fr":"bilatéral","he":"דו-צדדי"}
-{"T":"r","L":"bilaterio","C":["n"],"d":"un membro de un grupo tasonomial usada per clasi animales con simetria biladal","t":"Bilateria","en":"bilateral","he":"בעל סימטריה דו-צדדית"}
-{"T":"r","L":"bilbi","C":["n","mam"],"d":"un marsupio omnivor de la desertos de Australia","i":"#","t":"Macrotis lagotis","en":"bilby, rabbit bandicoot","fr":"bilby, bandicoot lapin","he":"בילבי (חיית כיס)"}
-{"T":"r","L":"bile","C":["n","bio"],"d":"un licuida amarga e verdin brun cual aida dijesta, secreteda par la figato e retenida en la vesica bilal","en":"bile, gall","fr":"bile","he":"(ביולוגיה) מרה"}
+{"T":"r","L":"bilaterio","C":["n"],"d":"un membro de un grupo tasonomial usada per clasi animales con simetria biladal","t":"Bilateria","en":"bilateral","fr":"bilatéral","he":"בעל סימטריה דו-צדדית"}
+{"T":"r","L":"bilbi","C":["n","mam"],"d":"un marsupio omnivor de la desertos de Australia","i":"#","t":"Macrotis lagotis","en":"bilby, rabbit bandicoot","fr":"bilby, lapin bandicoot","he":"בילבי (חיית כיס)"}
+{"T":"r","L":"bile","C":["n","bio"],"d":"un licuida amarga e verdin brun cual aida dijesta, secreteda par la figato e retenida en la vesica bilal","en":"bile, gall","fr":"(la) bile","he":"(ביולוגיה) מרה"}
 {"L":"bilal","C":["a"],"en":"bilious, biliary","fr":"biliaire","he":"שקשור לכיס המרה"}
 {"T":"r","L":"bileta","C":["n"],"d":"un paper o carta peti cual permete ce sua posesor entra a un loca, viaja par transporta publica, regarda un spetaculo, etc; un paper simil cual permete ce sua posesor reseta un ben o servi en futur, o paia min per lo; un paper usada como mone fisical","da":"billet, kupon","de":"Karte","en":"ticket; coupon, voucher; bill (paper money), note, banknote","es":"boleto, cupon, talón","fr":"billet, ticket, coupon","he":"כרטיס, שובר; קופון; שטר"}
-{"L":"bileta de deta","C":["n"],"en":"chit, IOU","he":"שובר תשלום"}
+{"L":"bileta de deta","C":["n"],"en":"chit, IOU","fr":"reconnaissance de dette","he":"שובר תשלום"}
 {"L":"bileta de rasca","C":["n"],"en":"scratchcard","fr":"carte à gratter","he":"כרטיס גירוד"}
-{"L":"bileta de rasca e gania","C":["n"],"en":"scratchcard (instant lottery)","he":"כרטיס גירוד לזכייה מיידית, חישגד"}
+{"L":"bileta de rasca e gania","C":["n"],"en":"scratchcard (instant lottery)","fr":"jeu de grattage","he":"כרטיס גירוד לזכייה מיידית, חישגד"}
 {"L":"bileta de un dirije","C":["n"],"en":"one-way ticket","fr":"aller simple","he":"כרטיס לכיוון אחד"}
 {"L":"bileta de vade e reveni","C":["n"],"en":"round-trip ticket, return ticket","fr":"aller-retour","he":"כרטיס הלוך ושוב"}
-{"L":"bileteria","C":["n"],"en":"ticket office, box office","he":"קופת כרטיסים"}
-{"L":"biletor","C":["n"],"en":"ticket collector, conductor, guard","he":"כרטיסן"}
+{"L":"bileteria","C":["n"],"en":"ticket office, box office","fr":"billetterie, billèterie","he":"קופת כרטיסים"}
+{"L":"biletor","C":["n"],"en":"ticket collector, conductor, guard","fr":"contrôleur","he":"כרטיסן"}
 {"T":"r","L":"bilia","C":["n","spo"],"d":"un bal peti de vitro colorida o simil, usada en alga juas per enfantes","i":"#","en":"marble (ball)","fr":"bille (jouet)","he":"גולה (כדור)"}
 {"T":"r","L":"biliardo","C":["n","spo"],"d":"un jua con spesies diversa ma tipal per du persones, usante un table spesial con bales dur, propulsada par colpa los con la fini de un basto reta","i":"#","da":"billiard, pool","de":"Billiard","en":"billiards, pool, snooker","es":"billar, pool","fr":"billard","he":"ביליארד (משחק)"}
-{"L":"biliardo american","C":["n"],"en":"pool","he":"פול (משחק)"}
-{"L":"biliardo engles","C":["n"],"en":"snooker","he":"סנוקר (משחק)"}
-{"L":"biliardo franses","C":["n"],"en":"carom billiards","he":"ביליארד צרפתי (משחק)"}
-{"L":"biliarderia","C":["n"],"en":"billiards hall, billiards room, poolhall, poolroom, snooker hall","he":"אולם ביליארד"}
-{"L":"biliardor","C":["n"],"en":"billiards player","he":"שחקן ביליארד"}
-{"T":"r","L":"bilingual","C":["a","ling"],"d":"capas de parla fluente du linguas; (un testo o ata) scriveda o fada en du linguas; (un nasion o site) usante du linguas, spesial si ambos es ofisial","en":"bilingual","eo":"dulingva","he":"דו-לשוני"}
-{"L":"bilingual","C":["n"],"en":"bilingual, bilingual person","eo":"dulingvulo","he":"דו-לשוני"}
-{"L":"bilingualisme","C":["n"],"en":"bilingualism","eo":"dulingveco, dulingvismo","he":"דו-לשוניות"}
+{"L":"biliardo american","C":["n"],"en":"pool","fr":"billard américain","he":"פול (משחק)"}
+{"L":"biliardo engles","C":["n"],"en":"snooker","fr":"billard anglais","he":"סנוקר (משחק)"}
+{"L":"biliardo franses","C":["n"],"en":"carom billiards","fr":"billard français, billard carambole","he":"ביליארד צרפתי (משחק)"}
+{"L":"biliarderia","C":["n"],"en":"billiards hall, billiards room, poolhall, poolroom, snooker hall","fr":"salle de billard","he":"אולם ביליארד"}
+{"L":"biliardor","C":["n"],"en":"billiards player","fr":"joueur de billard","he":"שחקן ביליארד"}
+{"T":"r","L":"bilingual","C":["a","ling"],"d":"capas de parla fluente du linguas; (un testo o ata) scriveda o fada en du linguas; (un nasion o site) usante du linguas, spesial si ambos es ofisial","en":"bilingual","eo":"dulingva","fr":"bilingue","he":"דו-לשוני"}
+{"L":"bilingual","C":["n"],"en":"bilingual, bilingual person","eo":"dulingvulo","fr":"bilingue","he":"דו-לשוני"}
+{"L":"bilingualisme","C":["n"],"en":"bilingualism","eo":"dulingveco, dulingvismo","fr":"bilinguisme","he":"דו-לשוניות"}
 {"T":"r","L":"bilion","C":["d","mat"],"d":"des a potia nove; mil milion","en":"(a) billion, (a) thousand million, (a) milliard","fr":"(un) milliard","he":"מיליארד"}
-{"L":"bilion","C":["a"],"en":"billionth (ordinal)","he":"מיליארד"}
-{"L":"bilioni","C":["vnt"],"en":"split into a billion parts","he":"להתפצל למיליארד חלקים"}
-{"L":"bilioni","C":["vt"],"en":"split into a billion parts","he":"לפצל למיליארד חלקים"}
-{"L":"bilioni","C":["n"],"en":"billionth (fraction)","fr":"milliardième (fraction)","he":"חלקי מיליארד"}
-{"L":"bilionor","C":["n"],"en":"billionaire","he":"מיליארדר"}
-{"T":"r","L":"bimetal","C":["a"],"d":"composada de du metales","en":"bimetallic","he":"דו-מתכתי"}
+{"L":"bilion","C":["a"],"en":"billionth (ordinal)","fr":"milliardième","he":"מיליארד"}
+{"L":"bilioni","C":["vnt"],"en":"split into a billion parts","fr":"se diviser en un milliard de parties","he":"להתפצל למיליארד חלקים"}
+{"L":"bilioni","C":["vt"],"en":"split into a billion parts","fr":"diviser en un milliard de parties","he":"לפצל למיליארד חלקים"}
+{"L":"bilioni","C":["n"],"en":"billionth (fraction)","fr":"(un) milliardième (fraction)","he":"חלקי מיליארד"}
+{"L":"bilionor","C":["n"],"en":"billionaire","fr":"(un) milliardaire","he":"מיליארדר"}
+{"T":"r","L":"bimetal","C":["a"],"d":"composada de du metales","en":"bimetallic","fr":"bimétallique","he":"דו-מתכתי"}
 {"T":"r","L":"binaria","C":["a","mat","info"],"d":"(un stela) composada de du partes; pertinente a o espresada en un sistem de numeros con la base 2 e usante sola la dijitos 0 e 1","en":"binary","fr":"binaire","he":"בינארי"}
-{"L":"nonbinaria","C":["a"],"en":"non-binary; multigender","he":"רב-מגדרי"}
-{"L":"nonbinaria","C":["n","uma"],"en":"multigender person","he":"רב-מגדרי"}
-{"T":"r","L":"binoculo","C":["n","util"],"d":"un aparato otical con un lente per cada oio, usada per regarda cosas distante","i":"#","en":"binoculars","fr":"jumelles","he":"משקפת"}
-{"L":"binoculo de teatro","C":["n"],"en":"opera glasses","he":"משקפת תיאטרון"}
+{"L":"nonbinaria","C":["a"],"en":"non-binary; multigender","fr":"non binaire","he":"רב-מגדרי"}
+{"L":"nonbinaria","C":["n","uma"],"en":"multigender person","fr":"non binaire","he":"רב-מגדרי"}
+{"T":"r","L":"binoculo","C":["n","util"],"d":"un aparato otical con un lente per cada oio, usada per regarda cosas distante","i":"#","en":"binoculars","fr":"(une paire de) jumelles","he":"משקפת"}
+{"L":"binoculo de teatro","C":["n"],"en":"opera glasses","fr":"(une) lorgnette, lorgnette de théâtre, lorgnette d'opéra","he":"משקפת תיאטרון"}
 {"L":"binoculal","C":["a"],"en":"binocular","fr":"binoculaire","he":"דו-עיני"}
 {"T":"r","L":"binomio","C":["n","mat","bio","ling"],"d":"(en matematica) un espresa de aljebra, la soma o difere de du termas; (en biolojia) la nom de un spesie, composada de du nomes; (en gramatica) un formula nomin con du nucleos liada par un conjunta, de cual sua ordina es relativa fisada","en":"binomial","fr":"binôme","he":"בינום, דו-איבר"}
 {"L":"binomial","C":["a"],"en":"binomial","fr":"binomial","he":"בינומי, דו-איברי"}
-{"T":"r","L":"bio-","C":["pf","tecn"],"d":"vive e organismes","en":"bio-","he":"(קידומת טכנית) ביו-"}
-{"T":"r","L":"biocimica","C":["n","bio"],"d":"la siensa cual studia prosedes cimical en organismes","en":"biochemistry","he":"ביוכימיה"}
-{"L":"biocimical","C":["a"],"en":"biochemical","he":"ביוכימי"}
-{"T":"r","L":"biocombustable","C":["n","bio","cim"],"d":"un combustable derivada de organismes","en":"biofuel","he":"דלק ביולוגי, ביו-דלק"}
-{"T":"r","L":"biodegrada","C":["vnt","bio"],"d":"deveni descomposada par baterias o otra organismes","en":"biodegrade","he":"להתכלות (בצורה טבעית)"}
-{"L":"biodegrada","C":["n"],"en":"biodegradation","he":"(אקולוגיה) התכלות"}
-{"L":"biodegradante","C":["a"],"en":"biodegradable","he":"מתכלה (בצורה טבעית)"}
-{"T":"r","L":"biodiversa","C":["a","bio"],"d":"(un area o ecosistem) conteninte organismes multe diversa","en":"biodiverse","he":"מגוון ביולוגית"}
-{"L":"biodiversia","C":["n"],"en":"biodiversity","he":"מגוון ביולוגי"}
-{"T":"r","L":"biofilia","C":["n","uma"],"d":"un simpatia inata e jenetical entre umanas e la mundo natural","en":"biophilia","he":"ביופיליה"}
-{"L":"biofilica","C":["a"],"en":"biophilic","he":"ביופילי"}
-{"L":"biofilica","C":["n"],"en":"biophile","he":"ביופילי"}
-{"T":"r","L":"biofisica","C":["n","bio","fis"],"d":"la siensa de la pertine de leges fisical a cosas biolojial","en":"biophysics","he":"ביופיזיקה"}
-{"T":"r","L":"biografia","C":["n","arte"],"d":"un raconta de la vive de un person, scriveda par un otra","en":"biography","he":"ביוגרפיה"}
-{"L":"autobiografia","C":["n"],"d":"un raconta de la vive de un person, scriveda par el mesma","en":"autobiography, memoirs","he":"אוטוביוגרפיה"}
-{"L":"autobiografial","C":["a"],"en":"autobiographical, autobiographic","he":"אוטוביוגרפי"}
-{"L":"biografial","C":["a"],"en":"biographical, biographic","he":"ביוגרפי"}
-{"L":"biografiste","C":["n"],"en":"biographer","he":"ביוגרף"}
-{"T":"r","L":"bioinjenia","C":["n","bio"],"en":"bioengineering","he":"ביו-הנדסה"}
-{"T":"r","L":"biojenese","C":["n","bio"],"d":"la sintese de materias par organismes","en":"biogenesis","he":"ביוגנסיס"}
-{"T":"r","L":"biojeografia","C":["n","bio"],"d":"la ramo de biolojia cual studia la distribui jeografial de plantas e animales","en":"biogeography","he":"ביוגיאוגרפיה"}
+{"T":"r","L":"bio-","C":["pf","tecn"],"d":"vive e organismes","en":"bio-","fr":"bio- (relatif au vivant)","he":"(קידומת טכנית) ביו-"}
+{"T":"r","L":"biocimica","C":["n","bio"],"d":"la siensa cual studia prosedes cimical en organismes","en":"biochemistry","fr":"biochimie","he":"ביוכימיה"}
+{"L":"biocimical","C":["a"],"en":"biochemical","fr":"biochimique","he":"ביוכימי"}
+{"T":"r","L":"biocombustable","C":["n","bio","cim"],"d":"un combustable derivada de organismes","en":"biofuel","fr":"biocarburant","he":"דלק ביולוגי, ביו-דלק"}
+{"T":"r","L":"biodegrada","C":["vnt","bio"],"d":"deveni descomposada par baterias o otra organismes","en":"biodegrade","fr":"se décomposer, se biodégrader","he":"להתכלות (בצורה טבעית)"}
+{"L":"biodegrada","C":["n"],"en":"biodegradation","fr":"biodégradation","he":"(אקולוגיה) התכלות"}
+{"L":"biodegradante","C":["a"],"en":"biodegradable","fr":"biodégradable","he":"מתכלה (בצורה טבעית)"}
+{"T":"r","L":"biodiversa","C":["a","bio"],"d":"(un area o ecosistem) conteninte organismes multe diversa","en":"biodiverse","fr":"biodivers","he":"מגוון ביולוגית"}
+{"L":"biodiversia","C":["n"],"en":"biodiversity","fr":"biodiversité","he":"מגוון ביולוגי"}
+{"T":"r","L":"biofilia","C":["n","uma"],"d":"un simpatia inata e jenetical entre umanas e la mundo natural","en":"biophilia","fr":"biophilie","he":"ביופיליה"}
+{"L":"biofilica","C":["a"],"en":"biophilic","fr":"biophilique (relatif à la biophilie), biophile (personne qui aime la vie)","he":"ביופילי"}
+{"L":"biofilica","C":["n"],"en":"biophile","fr":"biophile","he":"ביופילי"}
+{"T":"r","L":"biofisica","C":["n","bio","fis"],"d":"la siensa de la pertine de leges fisical a cosas biolojial","en":"biophysics","fr":"biophysique","he":"ביופיזיקה"}
+{"T":"r","L":"biografia","C":["n","arte"],"d":"un raconta de la vive de un person, scriveda par un otra","en":"biography","fr":"biographie","he":"ביוגרפיה"}
+{"L":"autobiografia","C":["n"],"d":"un raconta de la vive de un person, scriveda par el mesma","en":"autobiography, memoirs","fr":"autobiographie","he":"אוטוביוגרפיה"}
+{"L":"autobiografial","C":["a"],"en":"autobiographical, autobiographic","fr":"autobiographique","he":"אוטוביוגרפי"}
+{"L":"biografial","C":["a"],"en":"biographical, biographic","fr":"biographique","he":"ביוגרפי"}
+{"L":"biografiste","C":["n"],"en":"biographer","fr":"biographe","he":"ביוגרף"}
+{"T":"r","L":"bioinjenia","C":["n","bio"],"en":"bioengineering","fr":"bioingénierie, génie biologique","he":"ביו-הנדסה"}
+{"T":"r","L":"biojenese","C":["n","bio"],"d":"la sintese de materias par organismes","en":"biogenesis","fr":"biogenèse","he":"ביוגנסיס"}
+{"T":"r","L":"biojeografia","C":["n","bio"],"d":"la ramo de biolojia cual studia la distribui jeografial de plantas e animales","en":"biogeography","fr":"biogéographie","he":"ביוגיאוגרפיה"}
 {"T":"r","L":"biolojia","C":["n","bio"],"d":"la studia de organismes","en":"biology","fr":"biologie","he":"ביולוגיה"}
-{"L":"biolojia matematical","C":["n"],"en":"mathematical biology","he":"ביולוגיה מתמטית"}
-{"L":"biolojial","C":["a"],"en":"biological","he":"ביולוגי"}
+{"L":"biolojia matematical","C":["n"],"en":"mathematical biology","fr":"biomathématique","he":"ביולוגיה מתמטית"}
+{"L":"biolojial","C":["a"],"en":"biological","fr":"biologique","he":"ביולוגי"}
 {"L":"biolojiste","C":["n"],"en":"biologist","fr":"biologiste","he":"ביולוג"}
 {"T":"r","L":"bioma","C":["n","bio"],"d":"un comunia grande de organismes natural aveninte, en un abitada major, pe un foresta o tundra","ca":"bioma","en":"biome","es":"bioma","fr":"biome","it":"bioma"}
-{"T":"r","L":"biomasa","C":["n","bio"],"d":"la masa intera de organismes en un area o volum spesifada; materia organica usada como un combustable","en":"biomass","he":"ביומסה"}
-{"T":"r","L":"biomecanica","C":["n","bio"],"d":"la siensa de pertine de leges mecanical a la move o strutur de organismes","en":"biomechanics","he":"ביו-מכניקה"}
-{"T":"r","L":"biometria","C":["n","bio","mat"],"d":"la aplica de analise statistical a datos biolojial","en":"biometrics, biometry, biostatistics","he":"ביומטריה"}
-{"L":"biometrial","C":["a"],"en":"biometric, biometrical","he":"ביומטרי"}
-{"T":"r","L":"bionica","C":["n","bio"],"d":"la studia de sistemes macinal cual funsiona como organismes o partes de organismes","en":"bionics","he":"ביוניקה"}
-{"L":"bionical","C":["a"],"en":"bionic","he":"ביוני"}
-{"T":"r","L":"biopsia","C":["n","med"],"d":"un esamina de texeda estraeda de un corpo vivente per determina la esiste, estende o causa de un maladia","en":"biopsy","he":"ביופסיה"}
-{"T":"r","L":"bioritmo","C":["n","bio"],"d":"un sicle periodal en la fisiolojia o funsiona de un organisme, como la sicle dial de dormi e velia; un ritmo sicle de ativia fisical, mental o emosial en la vive de un person","en":"biorhythm","he":"ביוריתמוס"}
-{"T":"r","L":"biosfera","C":["n","bio"],"d":"la partes de la surfas, atmosfera e idrosfera de la Tera cual organismes abita","en":"biosphere","he":"ביוספרה"}
-{"T":"r","L":"biosintese","C":["n","bio"],"d":"la produi de moleculas complicada en organismes o selulas","en":"biosynthesis","he":"ביוסינתזה"}
-{"T":"r","L":"biotecnolojia","C":["n","bio"],"d":"la esplota de prosedes biolojial per intendes industrial o comersial, spesial la manipula de jenes de microbios per produi antimicrobiales, ormones, etc","en":"biotechnology","he":"ביוטכנולוגיה"}
-{"T":"r","L":"bipartida","C":["a","bio"],"d":"composada de du partes","en":"bipartite","he":"דו-צדדי, שמורכב משני חלקים"}
-{"T":"r","L":"bipartisan","C":["a","gov"],"d":"pertinente o acordada par du partitos","en":"bipartite","he":"דו-מפלגתי"}
-{"T":"r","L":"bipede","C":["a","bio"],"d":"(un animal) paseante sur sola du gamas","en":"bipedal","he":"דו-רגלי"}
-{"L":"bipede","C":["n"],"en":"biped","he":"דו-רגלי"}
-{"T":"r","L":"biplana","C":["n","vec"],"d":"un spesie temprana de avion con du duples de alas, la un supra la otra","i":"#","en":"biplane","he":"מטוס דו-כנפי"}
-{"T":"r","L":"bipolal","C":["a","uma"],"d":"con du polos o estremas; con episodios alternante de mania e depresa; (un neuron) con du asones","en":"bipolar","he":"דו-קוטבי"}
+{"T":"r","L":"biomasa","C":["n","bio"],"d":"la masa intera de organismes en un area o volum spesifada; materia organica usada como un combustable","en":"biomass","fr":"biomasse","he":"ביומסה"}
+{"T":"r","L":"biomecanica","C":["n","bio"],"d":"la siensa de pertine de leges mecanical a la move o strutur de organismes","en":"biomechanics","fr":"biomécanique","he":"ביו-מכניקה"}
+{"T":"r","L":"biometria","C":["n","bio","mat"],"d":"la aplica de analise statistical a datos biolojial","en":"biometrics, biometry, biostatistics","fr":"biométrie","he":"ביומטריה"}
+{"L":"biometrial","C":["a"],"en":"biometric, biometrical","fr":"biométrique","he":"ביומטרי"}
+{"T":"r","L":"bionica","C":["n","bio"],"d":"la studia de sistemes macinal cual funsiona como organismes o partes de organismes","en":"bionics","fr":"bionique","he":"ביוניקה"}
+{"L":"bionical","C":["a"],"en":"bionic","fr":"bionique","he":"ביוני"}
+{"T":"r","L":"biopsia","C":["n","med"],"d":"un esamina de texeda estraeda de un corpo vivente per determina la esiste, estende o causa de un maladia","en":"biopsy","fr":"biopsie","he":"ביופסיה"}
+{"T":"r","L":"bioritmo","C":["n","bio"],"d":"un sicle periodal en la fisiolojia o funsiona de un organisme, como la sicle dial de dormi e velia; un ritmo sicle de ativia fisical, mental o emosial en la vive de un person","en":"biorhythm","fr":"biorythme","he":"ביוריתמוס"}
+{"T":"r","L":"biosfera","C":["n","bio"],"d":"la partes de la surfas, atmosfera e idrosfera de la Tera cual organismes abita","en":"biosphere","fr":"biosphère","he":"ביוספרה"}
+{"T":"r","L":"biosintese","C":["n","bio"],"d":"la produi de moleculas complicada en organismes o selulas","en":"biosynthesis","fr":"biosynthèse","he":"ביוסינתזה"}
+{"T":"r","L":"biotecnolojia","C":["n","bio"],"d":"la esplota de prosedes biolojial per intendes industrial o comersial, spesial la manipula de jenes de microbios per produi antimicrobiales, ormones, etc","en":"biotechnology","fr":"biotechnologie","he":"ביוטכנולוגיה"}
+{"T":"r","L":"bipartida","C":["a","bio"],"d":"composada de du partes","en":"bipartite","fr":"bipartide, biparti","he":"דו-צדדי, שמורכב משני חלקים"}
+{"T":"r","L":"bipartisan","C":["a","gov"],"d":"pertinente o acordada par du partitos","en":"bipartite","fr":"biparti","he":"דו-מפלגתי"}
+{"T":"r","L":"bipede","C":["a","bio"],"d":"(un animal) paseante sur sola du gamas","en":"bipedal","fr":"bipède","he":"דו-רגלי"}
+{"L":"bipede","C":["n"],"en":"biped","fr":"bipède","he":"דו-רגלי"}
+{"T":"r","L":"biplana","C":["n","vec"],"d":"un spesie temprana de avion con du duples de alas, la un supra la otra","i":"#","en":"biplane","fr":"biplane","he":"מטוס דו-כנפי"}
+{"T":"r","L":"bipolal","C":["a","uma"],"d":"con du polos o estremas; con episodios alternante de mania e depresa; (un neuron) con du asones","en":"bipolar","fr":"bipolaire, cyclothymique, maniaco-dépressif, lunatique","he":"דו-קוטבי"}
 {"T":"r","L":"bir","C":["n","cos"],"d":"un bevida alcolosa fermentada de malta e saborida con lupulos","i":"#","da":"øl","de":"Bier","en":"beer","es":"cerveza","fr":"bière","he":"בירה"}
 {"L":"bir blonde","C":["n"],"en":"lager","fr":"bière blonde","he":"בירה לאגר"}
 {"L":"bir forte","C":["n"],"en":"stout","fr":"stout, bière brune","he":"בירה כהה, סטאוט"}
 {"L":"bireria","C":["n"],"en":"brewery","fr":"brasserie","he":"מבשלת בירה"}
 {"L":"biror","C":["n"],"en":"brewer","fr":"brasseur","he":"בשלן בירה"}
-{"T":"r","L":"birazal","C":["a"],"d":"pertinente a o conteninte membros de du razas","en":"biracial","he":"דו-גזעי"}
-{"T":"r","L":"biriani","C":["n","cos"],"d":"un plato de Barat e otra paises de Asia sude, composada de ris con spises, lentiles, carnes e vejetales","en":"biryani, biriani (food)","he":"ביריאני (תבשיל)"}
-{"T":"r","L":"bisc","C":["n","cos"],"d":"un sopa cremosa de crustaseos pureda, orijinante en Frans","en":"bisque (soup)","fr":"bisque","he":"ביסק (מרק)"}
-{"T":"r","L":"Biscaia","C":["n","jeo"],"en":"Biscay","he":"ביסקאיה (מחוז ספרדי)"}
-{"L":"Golfo Biscaia","C":["n","jeo"],"d":"un golfo a este de Frans e a norde de Espania, un parte de la Mar Atlantica","i":"#","en":"Bay of Biscay","he":"מפרץ ביסקאיה"}
+{"T":"r","L":"birazal","C":["a"],"d":"pertinente a o conteninte membros de du razas","en":"biracial","fr":"biracial","he":"דו-גזעי"}
+{"T":"r","L":"biriani","C":["n","cos"],"d":"un plato de Barat e otra paises de Asia sude, composada de ris con spises, lentiles, carnes e vejetales","en":"biryani, biriani (food)","fr":"biryani (mets indien)","he":"ביריאני (תבשיל)"}
+{"T":"r","L":"bisc","C":["n","cos"],"d":"un sopa cremosa de crustaseos pureda, orijinante en Frans","en":"bisque (soup)","fr":"(une) bisque (soupe)","he":"ביסק (מרק)"}
+{"T":"r","L":"Biscaia","C":["n","jeo"],"en":"Biscay","fr":"(la) Biscaye","he":"ביסקאיה (מחוז ספרדי)"}
+{"L":"Golfo Biscaia","C":["n","jeo"],"d":"un golfo a este de Frans e a norde de Espania, un parte de la Mar Atlantica","i":"#","en":"Bay of Biscay","fr":"golfe de Gascogne","he":"מפרץ ביסקאיה"}
 {"T":"r","L":"biscoto","C":["n","cos"],"d":"un torta peti e nonlevada, tipal ronda, plata, dulse e cracosa","i":"#","en":"cookie, biscuit, cracker","fr":"biscuit","he":"עוגייה, ביסקוויט"}
-{"L":"biscoto arenin","C":["n"],"en":"shortbread, shortcake","he":"שורטברד (עוגיית חמאה)"}
-{"L":"biscoto de jinjer","C":["n"],"en":"gingersnap, ginger nut","he":"עוגיית זנגוויל"}
-{"L":"biscoto dur","C":["n"],"en":"hardtack","he":"ביסקוויט קשה"}
-{"L":"biscoto savoian","C":["n"],"i":"#","en":"ladyfinger, lady's finger, sponge finger","he":"בישקוט (עוגייה ספוגית)"}
-{"L":"biscoto seca","C":["n"],"i":"#","en":"rusk, zwieback","he":"צנים"}
+{"L":"biscoto arenin","C":["n"],"en":"shortbread, shortcake","fr":"(un) sablé (biscuit)","he":"שורטברד (עוגיית חמאה)"}
+{"L":"biscoto de jinjer","C":["n"],"en":"gingersnap, ginger nut","fr":"biscuit au gingembre","he":"עוגיית זנגוויל"}
+{"L":"biscoto dur","C":["n"],"en":"hardtack","fr":"biscuit de mer","he":"ביסקוויט קשה"}
+{"L":"biscoto savoian","C":["n"],"i":"#","en":"ladyfinger, lady's finger, sponge finger","fr":"boudoir (biscuit), biscuit champagne","he":"בישקוט (עוגייה ספוגית)"}
+{"L":"biscoto seca","C":["n"],"i":"#","en":"rusk, zwieback","fr":"biscotte","he":"צנים"}
 {"T":"r","L":"bisel","C":["n","arci","mus"],"d":"(en construi) un inclina a via de orizonal o vertical; un peso de un strumento de vento cual dirije aira contra un borda agu","en":"bevel; fipple","fr":"biseau, chanfrein","he":"(בנייה, נגרות) שיפוע"}
 {"L":"biseli","C":["vt"],"en":"bevel, chamfer","fr":"biseauter, chanfreiner","he":"לשפע"}
 {"T":"r","L":"bisepe","C":["n","anat"],"d":"cualce musculo con du puntos de fisa a un fini; la musculo grande de la braso alta; la musculo grande a la lado dorsal de la coxa","i":"#","en":"biceps (muscle)","fr":"biceps","he":"שריר הזרוע"}
 {"T":"r","L":"bisesal","C":["a","uma"],"d":"sesal atraeda a e omes e femes; (en biolojia) con cualias de ambos sesos","en":"bisexual","fr":"bisexuel","he":"דו-מיני"}
 {"L":"bisesalia","C":["n"],"en":"bisexuality","fr":"bisexualité","he":"דו-מיניות"}
 {"T":"r","L":"bisicle","C":["n","vec"],"d":"un veculo con du rotas, la un pos la otra, propulsada par pedales e gidada par manicos liada a la rota fronte","i":"#","da":"cykel","de":"Fahrrad","en":"bicycle, bike","es":"bicicleta","fr":"bicyclette, vélo","he":"אופניים"}
-{"L":"bisicle motorida","C":["n"],"en":"motorized|is bicycle, moped","fr":"vélomoteur","he":"אופניים ממונעים"}
+{"L":"bisicle motorida","C":["n"],"en":"motorized|is bicycle, moped","fr":"vélomoteur, cyclomoteur","he":"אופניים ממונעים"}
 {"L":"bisicle orizonal","C":["n"],"i":"#","en":"recumbent bicycle","fr":"vélo couché, vélo horizontal, vélorizontal","he":"אופנוח"}
-{"L":"bisicle per du","C":["n"],"i":"#","en":"tandem","he":"אופני טנדם"}
+{"L":"bisicle per du","C":["n"],"i":"#","en":"tandem","fr":"tandem","he":"אופני טנדם"}
 {"L":"bisicli","C":["vt"],"en":"bicycle, cycle","fr":"faire du vélo","he":"לרכוב על אופניים"}
 {"L":"bisiclisme","C":["n"],"en":"bicycling, cycling (sport, pastime)","fr":"cyclisme","he":"רכיבת אופניים"}
 {"L":"bisicliste","C":["n"],"en":"bicyclist, cyclist","fr":"cycliste","he":"רוכב אופניים"}
-{"T":"r","L":"Bismarck, Mar","C":["n","jeo"],"d":"un mar a norde de Papua Gine Nova e Britan Nova","i":"Mar-Bismarck","en":"Bismarck Sea","he":"ים ביסמרק"}
+{"T":"r","L":"Bismarck, Mar","C":["n","jeo"],"d":"un mar a norde de Papua Gine Nova e Britan Nova","i":"Mar-Bismarck","en":"Bismarck Sea","fr":"mer de Bismarck","he":"ים ביסמרק"}
 {"T":"r","L":"bismuto","C":["n","cim"],"d":"la elemento cimical con numero atomal 83","s":"Bi","en":"bismuth","fr":"bismuth (élément)","he":"ביסמוט (יסוד)"}
-{"T":"r","L":"biso","C":["n","bio"],"d":"un faxo de filetas secreteda par multe spesies de bivalvos per fisa se a un surfas solida","en":"byssus","he":"משי הים"}
+{"T":"r","L":"biso","C":["n","bio"],"d":"un faxo de filetas secreteda par multe spesies de bivalvos per fisa se a un surfas solida","en":"byssus","fr":"byssus","he":"משי הים"}
 {"T":"r","L":"bison","C":["n","mam"],"d":"un bove grande, savaje e pelosa, trovada en Europa e America Norde","i":"#","t":"Bison","en":"bison","fr":"bison","he":"ביזון"}
 {"T":"r","L":"bispo","C":["n","rel"],"d":"un eglesor major de alga setas de cristianisme; un peso de xace cual sembla un mitra","en":"bishop (including chess)","fr":"évêque; fou (échecs)","he":"הגמון, בישוף; (שחמט) רץ"}
 {"L":"bispal","C":["a"],"en":"episcopal","fr":"épiscopal","he":"אפיסקופלי, שקשור לבישופות"}
 {"L":"bispia","C":["n"],"en":"bishopric, diocese","fr":"diocèse","he":"בישופות"}
-{"T":"r","L":"bistro","C":["n","arci"],"d":"un restorante peti","en":"bistro","fr":"bistro","he":"ביסטרו"}
+{"T":"r","L":"bistro","C":["n","arci"],"d":"un restorante peti","en":"bistro","fr":"bistro, troquet","he":"ביסטרו"}
 {"T":"r","L":"bisturi","C":["n","med","util"],"d":"un cotel multe agu con un lamina peti, usada per sirurjia","i":"#","en":"scalpel, lancet","fr":"scalpel, bistouri","he":"סכין מנתחים"}
 {"T":"r","L":"bitio","C":["n","info"],"d":"un unia de informa, espresada como 0 o 1","en":"bit, binary digit","fr":"bit","he":"(מחשבים) סיבית, ביט"}
-{"T":"r","L":"bitnic","C":["n"],"d":"un person joven de un sucultur de la desenios de 1950 e 1960 con influes a musica, poesia e arte","i":"#","en":"beatnik","he":"ביטניק"}
-{"T":"r","L":"bitume","C":["n","cim"],"d":"un misca negra e viscosa de idrocarbonos, usada en fabrica tetos e surfases de vias","en":"bitumen, asphalt (viscous pitch)","fr":"octet","he":"אספלט, ביטומן"}
-{"L":"bitumosa","C":["a"],"en":"bituminous","he":"מכיל ביטומן"}
+{"T":"r","L":"bitnic","C":["n"],"d":"un person joven de un sucultur de la desenios de 1950 e 1960 con influes a musica, poesia e arte","i":"#","en":"beatnik","fr":"beatnik","he":"ביטניק"}
+{"T":"r","L":"bitume","C":["n","cim"],"d":"un misca negra e viscosa de idrocarbonos, usada en fabrica tetos e surfases de vias","en":"bitumen, asphalt (viscous pitch)","fr":"bitume, asphalte","he":"אספלט, ביטומן"}
+{"L":"bitumosa","C":["a"],"en":"bituminous","fr":"bitumineux","he":"מכיל ביטומן"}
 {"T":"r","L":"bivaca","C":["vnt","arci"],"d":"(un soldato o trepor) campa tempora sin tendas o otra covrentes","en":"bivouac","fr":"bivouaquer","he":"לחנות באופן ארעי"}
 {"L":"bivaca","C":["n"],"en":"bivouac encampment","fr":"bivouac","he":"מחנה ארעי"}
 {"T":"r","L":"bivalvo","C":["n","mol"],"d":"un molusco con corpo compresada en un conca xarnierida","i":"#","t":"Bivalvia","en":"bivalve, clam","fr":"bivalve","he":"צדפה"}
-{"T":"r","L":"Bixcec","C":["n","jeo"],"d":"la site capital de Cirgistan","en":"Bishkek","he":"בישקק (בירת קירגיזסטן)"}
-{"T":"r","L":"bizantian","C":["a","ist"],"d":"pertinente a la site antica Bizantion, la Impero Roman Este, o la Eglesa Ortodox Este, tipal regardante arte e arciteta","i":"#","en":"Byzantine","he":"ביזנטיני"}
-{"T":"r","L":"bizara","C":["a"],"d":"multe strana o noncomun, tipal en modo interesante o divertinte","en":"bizarre, outlandish, kinky, kooky, madcap, zany, wacky","fr":"bizarre","he":"מוזר, משונה, הזוי, תמהוני, ביזרי"}
-{"L":"bizara","C":["n"],"en":"weirdo, oddball, dingbat, kook","he":"מוזר, משונה, הזוי, תמהוני, ביזרי"}
+{"T":"r","L":"Bixcec","C":["n","jeo"],"d":"la site capital de Cirgistan","en":"Bishkek","fr":"Bichkek (capitale du Kirghizistan)","he":"בישקק (בירת קירגיזסטן)"}
+{"T":"r","L":"bizantian","C":["a","ist"],"d":"pertinente a la site antica Bizantion, la Impero Roman Este, o la Eglesa Ortodox Este, tipal regardante arte e arciteta","i":"#","en":"Byzantine","fr":"byzantin","he":"ביזנטיני"}
+{"T":"r","L":"bizara","C":["a"],"d":"multe strana o noncomun, tipal en modo interesante o divertinte","en":"bizarre, outlandish, kinky, kooky, madcap, zany, wacky","fr":"bizarre, extravagant, farfelu, excentrique, fantasque","he":"מוזר, משונה, הזוי, תמהוני, ביזרי"}
+{"L":"bizara","C":["n"],"en":"weirdo, oddball, dingbat, kook","fr":"(un) original, (un) excentrique","he":"מוזר, משונה, הזוי, תמהוני, ביזרי"}
 {"T":"r","L":"blanca","C":["a","col"],"d":"con color de lete o neva resente, refletante tota lus vidable; parteninte a un grupo umana con pel pal","i":"#","da":"hvid","de":"weiss","en":"white; Caucasian, Caucasoid","es":"blanco","fr":"blanc","he":"לבן"}
-{"L":"blanca","C":["n"],"en":"white","he":"לבן"}
+{"L":"blanca","C":["n"],"en":"white","fr":"(un) Blanc","he":"לבן"}
 {"L":"blanca de ovo","C":["n"],"en":"egg white","fr":"blanc d'œuf","he":"חלבון ביצה"}
 {"L":"blanca-negra","C":["a"],"en":"black and white","fr":"noir et blanc","he":"שחור-לבן"}
-{"L":"blanci","C":["vnt"],"en":"whiten, bleach, blanch","fr":"blanchir","he":"להפוך ללבן"}
-{"L":"blanci","C":["vt"],"en":"whiten, bleach, blanch","fr":"blanchir","he":"להלבין"}
-{"L":"blancida","C":["a"],"en":"whitened, bleached","he":"מולבן"}
-{"L":"blancin","C":["a"],"en":"whitish","he":"לבנבן"}
-{"L":"blancinte","C":["a"],"en":"whitening","he":"מלבין"}
-{"L":"blancinte","C":["n"],"en":"bleach, whitener","fr":"eau de Javel","he":"מלבין, מחמצן"}
-{"L":"grisin blanca","C":["a"],"en":"greyish white, hoary","he":"לבן אפרפר"}
-{"L":"Mar Blanca","C":["n","jeo"],"d":"un mar a sude de la Penisola Cola","i":"#","en":"White Sea","he":"הים הלבן"}
-{"L":"nonblancida","C":["a"],"en":"unbleached","he":"לא מולבן"}
+{"L":"blanci","C":["vnt"],"en":"whiten, bleach, blanch","fr":"blanchir (devenir blanc)","he":"להפוך ללבן"}
+{"L":"blanci","C":["vt"],"en":"whiten, bleach, blanch","fr":"blanchir (rendre blanc)","he":"להלבין"}
+{"L":"blancida","C":["a"],"en":"whitened, bleached","fr":"blanchi","he":"מולבן"}
+{"L":"blancin","C":["a"],"en":"whitish","fr":"blanchâtre","he":"לבנבן"}
+{"L":"blancinte","C":["a"],"en":"whitening","fr":"blanchissant","he":"מלבין"}
+{"L":"blancinte","C":["n"],"en":"bleach, whitener","fr":"eau de Javel, blanchissant (produit, substance)","he":"מלבין, מחמצן"}
+{"L":"grisin blanca","C":["a"],"en":"greyish white, hoary","fr":"blanc grisâtre, chenu (cheveux)","he":"לבן אפרפר"}
+{"L":"Mar Blanca","C":["n","jeo"],"d":"un mar a sude de la Penisola Cola","i":"#","en":"White Sea","fr":"mer Blanche","he":"הים הלבן"}
+{"L":"nonblancida","C":["a"],"en":"unbleached","fr":"non blanchi","he":"לא מולבן"}
 {"T":"r","L":"blanceta","C":["n","artr"],"d":"un inseto pico con alas, covreda con polvo de sira blanca, un peste per plantas","i":"#","t":"Aleyrodoidea","en":"whitefly","fr":"aleurode, mouche blanche","he":"כנימת עש"}
-{"T":"r","L":"blanco","C":["n"],"d":"un marca o ojeto a cual on xuta, spesial un carton con sirculos consentral, usada per eserse o concurso con fusiles o arcos","i":"#","en":"target (shooting); butt (of joke)","he":"מטרה (במטווח)"}
-{"L":"blanco de eserse","C":["n"],"en":"practice target","he":"מטרה לתרגול ירי"}
-{"T":"r","L":"blanda","C":["a"],"d":"noninteresante o nonstimulante par sua cualias forte","en":"bland, mild, plain, weak (food, medicine); insipid, anodyne, vapid; wimpy","fr":"fade; douce (médecine); non irritant","he":"תפל; חסר עניין, סתמי"}
-{"L":"blanda","C":["n"],"en":"pablum, pap; wimp","he":"טקסט או בידור תפלים או פשטניים"}
-{"L":"blandia","C":["n"],"en":"blandness, weakness, plainness","he":"תפלות; סתמיות"}
+{"T":"r","L":"blanco","C":["n"],"d":"un marca o ojeto a cual on xuta, spesial un carton con sirculos consentral, usada per eserse o concurso con fusiles o arcos","i":"#","en":"target (shooting); butt (of joke)","fr":"cible","he":"מטרה (במטווח)"}
+{"L":"blanco de eserse","C":["n"],"en":"practice target","fr":"cible d'entraînement","he":"מטרה לתרגול ירי"}
+{"T":"r","L":"blanda","C":["a"],"d":"noninteresante o nonstimulante par sua cualias forte","en":"bland, mild, plain, weak (food, medicine); insipid, anodyne, vapid; wimpy","fr":"fade, insipide; douce (médecine); non irritant","he":"תפל; חסר עניין, סתמי"}
+{"L":"blanda","C":["n"],"en":"pablum, pap; wimp","fr":"fadaise, insipidité, platitude, banalité","he":"טקסט או בידור תפלים או פשטניים"}
+{"L":"blandia","C":["n"],"en":"blandness, weakness, plainness","fr":"fadeur, insipidité, platitude, banalité","he":"תפלות; סתמיות"}
 {"T":"r","L":"blasfema","C":["vnt","rel"],"d":"parla desrespetante sur cosas santa; usa parolas o espresas ofendente, tipal en espresa coleria","en":"blaspheme; swear, curse, cuss","fr":"blasphémer, profaner, jurer","he":"לנאץ, לחלל; לקלל, לנבל פה"}
 {"L":"blasfema","C":["n"],"en":"sacrilege, profanation, blasphemy; swearing, cursing, curse, swearword, expletive","fr":"sacrilège, profanation, blasphème","he":"חילול הקודש; קללה, ניבול פה"}
-{"L":"blasfemal","C":["a"],"en":"sacrilegious, profane, blasphemous","he":"של חילול הקודש"}
-{"L":"blasfemante","C":["a"],"en":"swearing, cursing, foul-mouthed","he":"מחלל קודש; מקלל, מנבל פה"}
-{"T":"r","L":"bleni","C":["n","pex"],"d":"un pex peti con pinas spinosa, pel sin scamas e testa nonagu","i":"#","t":"Blennioidei","en":"blenny (fish)","he":"דמוי-קרנון (דג)"}
-{"T":"r","L":"bleta","C":["n","pla"],"d":"un varia de beta con folias verde e troncetas blanca, larga e comable","i":"#","t":"Beta vulgaris susp. vulgaris","en":"chard (plant)","he":"סלק עלים, מנגולד"}
-{"T":"r","L":"blinda","C":["vt","vec"],"d":"covre (un veculo militar) con metal spesa per proteje lo","en":"armor-plate|ur","fr":"blinder","he":"לשריין (כלי רכב)"}
+{"L":"blasfemal","C":["a"],"en":"sacrilegious, profane, blasphemous","fr":"sacrilège, blasphématoire, outrageux, offensant, irrévérencieux","he":"של חילול הקודש"}
+{"L":"blasfemante","C":["a"],"en":"swearing, cursing, foul-mouthed","fr":"blasphémateur, outrageant, insultant, offensant, blessant, infamant, irrévérencieux","he":"מחלל קודש; מקלל, מנבל פה"}
+{"T":"r","L":"bleni","C":["n","pex"],"d":"un pex peti con pinas spinosa, pel sin scamas e testa nonagu","i":"#","t":"Blennioidei","en":"blenny (fish)","fr":"(une) blennie (poisson)","he":"דמוי-קרנון (דג)"}
+{"T":"r","L":"bleta","C":["n","pla"],"d":"un varia de beta con folias verde e troncetas blanca, larga e comable","i":"#","t":"Beta vulgaris susp. vulgaris","en":"chard (plant)","fr":"blette (plante)","he":"סלק עלים, מנגולד"}
+{"T":"r","L":"blinda","C":["vt","vec"],"d":"covre (un veculo militar) con metal spesa per proteje lo","en":"armor-plate|ur","fr":"blinder (couvrir de métal)","he":"לשריין (כלי רכב)"}
 {"L":"blindada","C":["a"],"en":"armored|ur, armor-plated|ur","fr":"blindé","he":"משוריין"}
 {"T":"r","L":"blini","C":["n","cos"],"d":"un crepe composada de farina de saraseno e servida con crema asida","i":"#","en":"blini (pancake)","fr":"blini","he":"בליני (פנקייק)"}
-{"L":"blineta","C":["n"],"d":"un crepe plenida con ceso o frutas, fritada o fornida","en":"blintz (pancake)","he":"בלינצ'ס"}
+{"L":"blineta","C":["n"],"d":"un crepe plenida con ceso o frutas, fritada o fornida","en":"blintz (pancake)","fr":"crêpe fourrée","he":"בלינצ'ס"}
 {"T":"r","L":"bloco","C":["n","arci"],"d":"un peso de materia grande, dur e solida, tipal con surfas plana a cada lado; un grupo de construidas bordada par stradas; un alia political, tipal de nasiones o partitos","da":"blok","de":"Block, Klotz","en":"block, chunk, slab, obstacle; block (group of buildings); bloc (alliance)","es":"bloque","fr":"bloc","he":"גוש, בלוק (גם קבוצת בניינים); לבנה; ברית פוליטית"}
-{"L":"bloco de desinias","C":["n"],"en":"sketch pad","he":"פנקס סקיצות"}
-{"L":"bloco de notas","C":["n"],"en":"notepad, scratchpad","he":"פנקס רשימות"}
+{"L":"bloco de desinias","C":["n"],"en":"sketch pad","fr":"carnet de croquis","he":"פנקס סקיצות"}
+{"L":"bloco de notas","C":["n"],"en":"notepad, scratchpad","fr":"bloc, bloc-note, carnet","he":"פנקס רשימות"}
 {"L":"bloco de paper","C":["n"],"en":"pad of paper","fr":"bloc de papier","he":"פנקס, דפדפת"}
 {"L":"bloci","C":["vt"],"en":"block, clog, obstruct, stonewall","fr":"bloquer","he":"לחסום, לסתום"}
-{"L":"bloci","C":["n"],"en":"blockage, obstruction","he":"מחסום, חסימה, מעצור, סתימה"}
-{"L":"bloci de via","C":["n"],"en":"roadblock","he":"מחסום דרכים"}
-{"L":"blocinte","C":["a"],"en":"blocking; occlusive","he":"חוסם, עוצר, סותם"}
-{"L":"blocinte","C":["n"],"en":"blocker; occlusive (consonant)","he":"(רפואה) חוסם, מדכא"}
-{"L":"blocinte de canales de calsio","C":["n","med"],"d":"un medisin cual destensa la dutos sangual e furni plu sangue e osijen a la cor","en":"calcium-channel blocker","he":"חוסם תעלות סידן"}
-{"L":"blocinte de resetadores beta","C":["n","med"],"d":"un droga cual preveni la stimula de la resetadores cual ativi plu la cor","en":"beta blocker","he":"חוסם בטא"}
-{"L":"desbloci","C":["vt"],"en":"unblock, unclog","he":"לפתוח או לשחרר סתימה או חסימה"}
-{"T":"r","L":"blog","C":["n","info"],"d":"un loca ueb do un person o grupo peti ofre periodal sua opinas, sujestas, novas, lias a otra locas, o otra cosas","en":"blog, web log","fr":"blog","he":"בלוג"}
-{"L":"blogi","C":["vt"],"en":"blog","he":"לפרסם בלוג"}
-{"L":"blogor","C":["n"],"en":"blogger, blog author","he":"בלוגר"}
-{"T":"r","L":"blogosfera","C":["n","info"],"d":"la rede sosial de tota bloges con sua autores e lejores","en":"blogosphere","he":"בלוגוספירה"}
+{"L":"bloci","C":["n"],"en":"blockage, obstruction","fr":"blocage, obstruction","he":"מחסום, חסימה, מעצור, סתימה"}
+{"L":"bloci de via","C":["n"],"en":"roadblock","fr":"barrage routier","he":"מחסום דרכים"}
+{"L":"blocinte","C":["a"],"en":"blocking; occlusive","fr":"bloquant, occlusif","he":"חוסם, עוצר, סותם"}
+{"L":"blocinte","C":["n"],"en":"blocker; occlusive (consonant)","fr":"bloqueur (dispositif de blocage); occlusive, (consonne) occlusive","he":"(רפואה) חוסם, מדכא"}
+{"L":"blocinte de canales de calsio","C":["n","med"],"d":"un medisin cual destensa la dutos sangual e furni plu sangue e osijen a la cor","en":"calcium-channel blocker","fr":"inhibiteur calcique, bloqueur de canaux calciques (médecine)","he":"חוסם תעלות סידן"}
+{"L":"blocinte de resetadores beta","C":["n","med"],"d":"un droga cual preveni la stimula de la resetadores cual ativi plu la cor","en":"beta blocker","fr":"bêta-bloquant","he":"חוסם בטא"}
+{"L":"desbloci","C":["vt"],"en":"unblock, unclog","fr":"débloquer, décoincer, déverrouiller, dégager","he":"לפתוח או לשחרר סתימה או חסימה"}
+{"T":"r","L":"blog","C":["n","info"],"d":"un loca ueb do un person o grupo peti ofre periodal sua opinas, sujestas, novas, lias a otra locas, o otra cosas","en":"blog, web log","fr":"(un) blog","he":"בלוג"}
+{"L":"blogi","C":["vt"],"en":"blog","fr":"bloguer, tenir un blog (informatique)","he":"לפרסם בלוג"}
+{"L":"blogor","C":["n"],"en":"blogger, blog author","fr":"(un) blogueur","he":"בלוגר"}
+{"T":"r","L":"blogosfera","C":["n","info"],"d":"la rede sosial de tota bloges con sua autores e lejores","en":"blogosphere","fr":"(la) blogosphère","he":"בלוגוספירה"}
 {"T":"r","L":"blonde","C":["a"],"d":"con capeles pal jala","i":"#","en":"blonde, blond, fair-haired, fair","fr":"blond","he":"בלונדיני, בלונדינית"}
-{"L":"blonde","C":["n"],"en":"blonde","he":"בלונדיני, בלונדינית"}
-{"L":"blanca blonde","C":["a"],"en":"platinum blonde","he":"בלונד פלטינום"}
-{"L":"blanca blonde","C":["n"],"en":"platinum blonde","fr":"blonde platine","he":"בלונד פלטינום"}
+{"L":"blonde","C":["n"],"en":"blonde","fr":"(un) blonde, (une) blonde","he":"בלונדיני, בלונדינית"}
+{"L":"blanca blonde","C":["a"],"en":"platinum blonde","fr":"blond platine, blond platiné","he":"בלונד פלטינום"}
+{"L":"blanca blonde","C":["n"],"en":"platinum blonde","fr":"(une) blonde platine","he":"בלונד פלטינום"}
 {"L":"blondia","C":["n"],"en":"blondness","fr":"blondeur","he":"בלונד"}
-{"L":"roja blonde","C":["a"],"en":"strawberry blonde","he":"בלונד אדמדם"}
+{"L":"roja blonde","C":["a"],"en":"strawberry blonde","fr":"blond vénitien","he":"בלונד אדמדם"}
 {"L":"roja blonde","C":["n"],"en":"strawberry blonde","he":"בלונד אדמדם"}
 {"T":"r","L":"blu","C":["a","col"],"d":"con color de la mar, simil a azul ma plu oscur","i":"#","de":"blau, dunkelblau","en":"dark blue, navy","es":"azul oscuro, azul marino","fr":"bleu sombre, bleu marine","he":"כחול"}
-{"L":"blu","C":["n"],"en":"dark blue, navy","he":"כחול"}
-{"L":"blui","C":["vnt"],"en":"turn blue","he":"להכחיל"}
-{"L":"blui","C":["vt"],"en":"turn blue","he":"לצבוע בכחול"}
-{"L":"bluin","C":["a"],"en":"bluish, blueish","he":"כחלחל"}
-{"L":"blus","C":["n","pl"],"en":"blues (music)","fr":"blues","he":"בלוז"}
+{"L":"blu","C":["n"],"en":"dark blue, navy","fr":"(le) bleu marine","he":"כחול"}
+{"L":"blui","C":["vnt"],"en":"turn blue","fr":"bleuir (devenir bleu)","he":"להכחיל"}
+{"L":"blui","C":["vt"],"en":"turn blue","fr":"bleuir (rendre bleu)","he":"לצבוע בכחול"}
+{"L":"bluin","C":["a"],"en":"bluish, blueish","fr":"bleuâtre","he":"כחלחל"}
+{"L":"blus","C":["n","pl"],"en":"blues (music)","fr":"blues (musique)","he":"בלוז"}
 {"T":"r","L":"blueta","C":["n","pla"],"d":"un planta magra eurasian con flores tipal forte azul; un planta de America Norde con flores simil","i":"#","t":"Centaurea, Houstonia","en":"cornflower, bluet","fr":"bleuet","he":"דרדר כחול (צמח)"}
-{"T":"r","L":"blugras","C":["n","mus"],"d":"un tipo de musica contri con voses en armonia prosima e la jua rapida de strumentos de cordetas","i":"#","en":"bluegrass (music)","he":"בלוגרס"}
-{"T":"r","L":"blusa","C":["n","vest"],"d":"un camisa laxe e tipal alga ornada, per femes","i":"#","en":"blouse","he":"חולצה (לאישה)"}
+{"T":"r","L":"blugras","C":["n","mus"],"d":"un tipo de musica contri con voses en armonia prosima e la jua rapida de strumentos de cordetas","i":"#","en":"bluegrass (music)","fr":"bluegrass (style de musique country)","he":"בלוגרס"}
+{"T":"r","L":"blusa","C":["n","vest"],"d":"un camisa laxe e tipal alga ornada, per femes","i":"#","en":"blouse","fr":"chemisier, corsage","he":"חולצה (לאישה)"}
 {"T":"r","L":"boa","C":["n","ret"],"d":"un serpente constrinjente cual pari enfantes vivente e pote deveni multe grande; un xarpe longa e magra de plumas o pelo, tipal portada con roba de sera","i":"#","t":"Boidae","en":"boa (snake, scarf)","fr":"boa (serpent, écharpe)","he":"בואה (נחש)"}
 {"T":"r","L":"bob","C":["n","vec"],"d":"un treno con volante e freno, usada par ecipos de du o cuatro persones per corsa rapida sur jelo","i":"#","en":"bobsled, bobsleigh","fr":"bobsleigh, bob","he":"מזחלת"}
 {"L":"bobor","C":["n"],"en":"bobsledder","fr":"bobsledder","he":"רוכב מזחלת"}
@@ -7006,6 +7006,7 @@
 {"T":"r","L":"crise","C":["n","uma"],"d":"un tempo de difisilia, turba o peril intensa; un tempo cuando on debe fa un deside difisil o importante","en":"crisis, emergency","fr":"crise, urgence","he":"משבר, מצב חירום"}
 {"L":"crise coler","C":["n"],"en":"temper tantrum","he":"התפרצות זעם"}
 {"L":"crise mental","C":["n"],"en":"mental breakdown, nervous breakdown","he":"התמוטטות עצבים"}
+{"L":"crisor","C":["n"],"en":"emergency worker"}
 {"T":"r","L":"crisol","C":["n","util"],"d":"un contenador seramica o metal, en cual on pote fonde metales o otra materias o esposa los a caldia estrema; (metafor) un situa en cual elementos diversa interata e produi un cosa nova, tipal con alga turbas","en":"crucible, melting pot","he":"כור היתוך"}
 {"T":"r","L":"crisopa","C":["n","ins"],"d":"un inseto magra e delicata con alas grande de membrana clar","i":"#","t":"Chrysopidae","en":"lacewing (insect)","he":"עינפז (חרק)"}
 {"T":"r","L":"cristal","C":["a","cim"],"d":"composada de un agrega de atomes o moleculas simetre ordinada en tre dimensiones; (vitro) clar e refratante","en":"crystalline","he":"גבישי, קריסטלי"}
@@ -12599,7 +12600,7 @@
 {"T":"r","L":"-iatria","C":["sf","n","med","uma"],"d":"dotores e trata medical","en":"-iatry"}
 {"L":"-iatrica","C":["sf","a","med","uma"],"en":"-iatric"}
 {"T":"r","L":"iatrojen","C":["a"],"d":"pertinente a un disturba medical causada par un mediciste","en":"iatrogenic (caused by doctors)"}
-{"T":"r","L":"Iaue","C":["n","rel"],"d":"un forma de la nom ivri de Dio, usada en la Biblia","en":"Yahweh"}
+{"T":"r","L":"Iaue","C":["n","rel"],"d":"un forma de la nom ivri de Dio, usada en la Biblia","en":"Yahweh, Jehovah"}
 {"T":"r","L":"Iberia","C":["n","jeo"],"d":"la penisola de Europa sude-ueste cual conteni Espania e Portugal","i":"#","en":"Iberia","eo":"Iberio, Iberujo","es":"Iberia"}
 {"L":"iberian","C":["a"],"en":"Iberian","es":"ibérico"}
 {"L":"iberian","C":["n"],"en":"Iberian","es":"ibérico"}
@@ -13275,7 +13276,7 @@
 {"L":"intera","C":["av"],"en":"entirely, wholly, totally, utterly, quite"}
 {"L":"intera","C":["n"],"en":"whole, entirety, totality"}
 {"T":"r","L":"interesa","C":["vt","uma","mone"],"d":"stimula la curiosia o atende de (algun)","en":"interest, be of interest to","fr":"intéresser"}
-{"L":"interesa","C":["n"],"d":"un senti de curiosia; mone periodal paiada a un taso spesifada, per la usa de mone prestada o per pospone la repaia de un deta","da":"interesse","de":"Interesse","en":"interest (including money), attention; return (on investment), yield, payoff; sake","es":"interés, fascinación, atracción","fr":"intérêt"}
+{"L":"interesa","C":["n"],"d":"un senti de curiosia; mone periodal paiada a un taso spesifada, per la usa de mone prestada o per pospone la repaia de un deta","u":"el ave un interesa grande a arte medieval","da":"interesse","de":"Interesse","en":"interest (including money), attention; return (on investment), yield, payoff; sake","es":"interés, fascinación, atracción","fr":"intérêt"}
 {"L":"interesa composada","C":["n"],"en":"compound interest"}
 {"L":"desinteresa","C":["vt"],"en":"disinterest, fail to interest"}
 {"L":"desinteresa","C":["n"],"en":"disinterest"}
@@ -14264,10 +14265,10 @@
 {"L":"lampin","C":["a"],"en":"like lightning, breakneck"}
 {"L":"lamposa","C":["a"],"en":"full of lightning"}
 {"T":"r","L":"lamprea","C":["n","pex"],"d":"un vertebrato acual, simil a un angila, con boca ventosin, dentes e lingua raspante, cual junta se a otra pexes per suca sua sangue","i":"#","t":"Petromyzonidae","en":"lamprey (animal)"}
-{"T":"r","L":"lana","C":["n","vest"],"d":"la capeles risa e suave de la pelo de un capra, ovea o animal simil, spesial cuando preparada per usa en la fabrica de stofa; la stofa produida con estas","i":"#","da":"uld","de":"Wolle","en":"wool, fleece","es":"lana","fr":"laine"}
+{"T":"r","L":"lana","C":["n","vest"],"d":"la capeles risa e suave de la pelo de un capra, ovea o animal simil, spesial cuando preparada per usa en la fabrica de stofa; la stofa produida con estas","i":"#","da":"uld","de":"Wolle","en":"wool, fleece","es":"lana, vellón","fr":"laine"}
 {"L":"lana petenida","C":["n"],"en":"worsted (yarn, fabric)"}
-{"L":"de lana","C":["a"],"en":"wool, woollen, woolly"}
-{"L":"lanosa","C":["a"],"en":"wool-covered, woolly"}
+{"L":"de lana","C":["a"],"en":"wool, woollen, woolly","es":"de lana"}
+{"L":"lanosa","C":["a"],"en":"wool-covered, woolly","es":"lanudo"}
 {"T":"r","L":"landsat","C":["n","util"],"d":"un serie de satelites cual monitori la recursos de la Tera par fotografi la surfas a longias diversa de onda","en":"landsat (satellite network)"}
 {"T":"r","L":"langobarda","C":["a","dem"],"d":"pertinente a la popla o lingua de un tribu germanica ci ia invade Italia en la sentenio 6","en":"Langobardic, Lombardic (person, language)"}
 {"L":"langobarda","C":["n"],"en":"Langobard, Lombard"}
@@ -19576,11 +19577,12 @@
 {"L":"penisolal","C":["a"],"en":"peninsular"}
 {"T":"r","L":"Pennsylvania","C":["n","jeo"],"d":"un stato en la SUA norde-este","en":"Pennsylvania (US state)"}
 {"T":"r","L":"penombra","C":["n","fis"],"d":"la area partal ombrida a la borda de un ombra","en":"penumbra (shadow)"}
-{"T":"r","L":"pensa","C":["vt","uma"],"d":"dirije sua mente; usa sua mente per formi (ideas); imajina (un situa real o posible); ave (un opina, crede o idea) sur algun o alga cosa","da":"tænke","de":"denken","en":"think; opine, hold an opinion","es":"pensar","fr":"penser"}
+{"T":"r","L":"pensa","C":["vt","uma"],"d":"dirije sua mente; usa sua mente per formi (ideas); imajina (un situa real o posible); ave (un opina, crede o idea) sur algun o alga cosa","u":"me pensa a un canta famosa (= me ave la idea de lo en mea mente); me pensa sur la problem (me considera lo); me pensa ce la sielo aspeta pluvosa (esta es la contenida presente de mea pensas)","v":"crede, opina","da":"tænke","de":"denken","en":"think; opine, hold an opinion","es":"pensar","fr":"penser"}
 {"L":"pensa","C":["n"],"en":"thought, cognition"}
-{"L":"pensa a","C":["v"],"en":"think of (have in mind)"}
+{"L":"pensa a","C":["v"],"en":"think of, have in mind"}
 {"L":"pensa ladal","C":["v"],"en":"think laterally, think outside the box"}
 {"L":"pensa ladal","C":["n"],"en":"lateral thought, lateral thinking, thinking outside the box"}
+{"L":"pensa sur","C":["v"],"en":"think about, give thought to, consider"}
 {"L":"bonpensante","C":["a"],"en":"well-thinking, right-minded"}
 {"L":"nonpensable","C":["a"],"en":"unthinkable"}
 {"L":"pensor","C":["n"],"i":"#","en":"thinker"}
@@ -21874,7 +21876,7 @@
 {"L":"nonrealable","C":["a"],"en":"unfeasible, infeasible, unworkable, unviable, inviable"}
 {"L":"realable","C":["a"],"en":"feasible, workable, doable, achievable, viable"}
 {"L":"reali","C":["vnt"],"en":"become real, actualize|is, happen, take place"}
-{"L":"reali","C":["vt"],"en":"realize|is, make real, actualize|is, achieve, accomplish, do, effect, enact, implement, bring about; honor|ur, fulfill|fulfil, observe (promise), answer (prayer)"}
+{"L":"reali","C":["vt"],"en":"realize|is, make real, actualize|is, achieve, accomplish, do, effect, put into effect, enact, implement, bring about; honor|ur, fulfill|fulfil, observe (promise), answer (prayer)"}
 {"L":"reali","C":["n"],"en":"realization|is, achievement, actualization|is, accomplishment, enactment, implementation, fruition"}
 {"L":"reali model","C":["n"],"en":"reference implementation"}
 {"L":"realia","C":["n"],"en":"reality","fr":"réalité"}
