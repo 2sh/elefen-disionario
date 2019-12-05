@@ -4303,7 +4303,7 @@
 {"L":"can-de-prado","C":["n","mam"],"d":"un scural sosial ci vive en tuneles juntada cual pote estende tra un area grande, abitante la savana de America Norde","i":"#","t":"Cynomys","en":"prairie dog (rodent)","fr":"chien de prairie (rongeur)","he":"נובחנית (מכרסם)"}
 {"L":"Can Grande","C":["n","ast"],"en":"Canis Major (constellation)","fr":"le Grand Chien (constellation)","he":"כלב גדול (קבוצת כוכבים)"}
 {"L":"can misera","C":["n"],"en":"cur","fr":"cabot, clébard","he":"כלב מסכן"}
-{"L":"Can Peti","C":["n","ast"],"en":"Canis Minor (constellation)","fr":"le Petit CHien (constellation)","he":"כלב קטן (קבוצת כוכבים)"}
+{"L":"Can Peti","C":["n","ast"],"en":"Canis Minor (constellation)","fr":"le Petit Chien (constellation)","he":"כלב קטן (קבוצת כוכבים)"}
 {"L":"can regalada","C":["n"],"en":"lapdog (dog, person)","fr":"toutou, petit chien (chien, personne)","he":"כלב קטן; אדם כנוע"}
 {"L":"caneria","C":["n"],"en":"kennel, doghouse","fr":"chenil","he":"כלביה; מלונה"}
 {"L":"Canes de Xasa","C":["n","pl","ast"],"en":"Canes Venatici (constellation)","fr":"les Chiens de chasse (constellation)","he":"כלבי ציד (קבוצת כוכבים)"}
@@ -4342,163 +4342,163 @@
 {"L":"canibalisme","C":["n"],"en":"cannibalism","fr":"cannibalisme","he":"קניבליזם"}
 {"T":"r","L":"canido","C":["n","mam"],"d":"un membro de la familia de mamales cual inclui canes","t":"Canidae","en":"canid, canine","fr":"(un) canidé","he":"כלבי (שייך למשפחת הכלביים)"}
 {"T":"r","L":"canion","C":["n","tera"],"d":"un vale grande, magra e basa, tipal con un rio; (metafor) un distantia grande entre du ideas o situas","i":"#","en":"canyon, gorge, ravine, chasm; gap (to be bridged metaphorically)","fr":"(un) canyon, gorges, (une) clue, (une) cluse","gl":"canón (val)","he":"קניון, גיא; (מטפורה) תהום, פער"}
-{"T":"r","L":"canix","C":["n","mam"],"d":"un raza de can con pelo risa, tipal cortida en modo ornal","i":"#","en":"poodle","he":"פודל (כלב)"}
-{"T":"r","L":"canji","C":["n","ling"],"d":"un sistem de scrive nion, usante sinias xines","en":"kanji (writing system)","he":"קאנג'י"}
-{"T":"r","L":"cano","C":["n","util"],"d":"la parte silindre de un fusil","en":"barrel (gun)","fr":"cannon","he":"קנה (רובה)"}
-{"L":"cano lisa","C":["n"],"en":"smooth bore","he":"קנה חלק קדח"}
-{"L":"cano raiosa","C":["n"],"en":"rifled bore","he":"קנה מחורק"}
-{"L":"canon","C":["n"],"i":"#","en":"cannon (gun)","gl":"canón (arma)","he":"תותח"}
-{"L":"canonor","C":["n"],"en":"cannoneer, cannonier, artilleryman","he":"תותחן"}
-{"T":"r","L":"canoa","C":["n","vec"],"d":"un barco magra, sin cilia, con finis puntida, moveda par un remo o remos","i":"#","en":"canoe","he":"קאנו, בוצית"}
-{"L":"canoa escavada","C":["n"],"en":"dugout","he":"מחפורת, שוחה"}
-{"L":"canoisme","C":["n"],"p":"canoïsme","en":"canoeing","he":"שיט בקאנו"}
-{"L":"canoiste","C":["n"],"p":"canoïste","en":"canoeist","he":"שייט קאנו"}
-{"L":"vade par canoa","C":["v"],"en":"canoe","he":"לשוט בקאנו"}
-{"T":"r","L":"canolo","C":["n","cos"],"d":"un deser sisilian, composada de un tubo fritada de pasta dulse con un pleninte cremosa","i":"#","en":"cannolo (dessert)","he":"קנולו (מאפה)"}
-{"L":"canolos","C":["n","pl"],"en":"cannoli","he":"קנולי"}
-{"T":"r","L":"canon","C":["n","rel","mus"],"d":"un colie de libros santa; un colie de testos asetada como autentica; un musica con un melodia xef cual otra strumentos imita a intervales","da":"kanon","de":"Kanone","en":"canon (literature, music)","es":"cañón","fr":"canon","he":"(ספרות, מוזיקה) קאנון"}
-{"L":"canonal","C":["a"],"en":"canonical","he":"קאנוני"}
-{"T":"r","L":"canonera","C":["n","vec"],"d":"un barcon peti e rapida con armas fisada, usada en rios e a costas","en":"gunboat","he":"ספינת תותחים"}
-{"T":"r","L":"cansela","C":["vt"],"d":"deside o declara ce (un aveni intendeda) no va aveni; deside o declara ce (un validi o obliga) no continua plu; neutri o nega la forsa o efeto de (un cosa o situa); sutrae o vacui (testo, imajes, marcas o otra materia)","en":"cancel, revoke, abrogate, annul, repeal, belay, nix; erase, rub out, delete, expunge","he":"לבטל"}
-{"L":"cansela","C":["n"],"en":"cancellation, abrogation, erasure, annulment, revocation, write-off","he":"ביטול"}
-{"L":"cansela sua enscrive","C":["v"],"en":"unsubscribe","he":"לבטל הרשמה"}
-{"L":"canselable","C":["a"],"en":"cancelable|cancellable, revocable, erasable","he":"שניתן לביטול"}
-{"L":"canselador","C":["n"],"en":"canceler|ll (device)","he":"מבטל (מכשיר)"}
-{"L":"noncanselable","C":["a"],"en":"irrevocable, unerasable, indelible","he":"שלא ניתן לביטול"}
-{"T":"r","L":"canselor","C":["n","gov"],"d":"un ofisial major nasional o legal; la xef de governa en alga nasiones, per esemplo Deutxland; un xef de universia en alga nasiones","en":"chancellor","he":"קנצלר"}
-{"L":"canseloreria","C":["n"],"en":"chancellery, chancery","he":"בניין השגרירות; מעון הקנצלר"}
-{"T":"r","L":"canser","C":["n","med"],"d":"un maladia causada par un divide noncontrolada de selulas nonormal en un parte de la corpo; un tumor creada en esta modo","en":"cancer","he":"סרטן (מחלה)"}
-{"L":"canserosa","C":["a"],"en":"cancerous, malignant","he":"סרטני, ממאיר"}
-{"L":"canserosia","C":["n"],"en":"malignancy","he":"ממאירות"}
-{"L":"noncanserosa","C":["a"],"en":"non-cancerous, benign","he":"לא סרטני, שפיר"}
-{"L":"precanserosa","C":["a"],"en":"precancerous","he":"קדם-סרטני"}
+{"T":"r","L":"canix","C":["n","mam"],"d":"un raza de can con pelo risa, tipal cortida en modo ornal","i":"#","en":"poodle","fr":"(un) caniche","he":"פודל (כלב)"}
+{"T":"r","L":"canji","C":["n","ling"],"d":"un sistem de scrive nion, usante sinias xines","en":"kanji (writing system)","fr":"(le) kanji (système d'écriture)","he":"קאנג'י"}
+{"T":"r","L":"cano","C":["n","util"],"d":"la parte silindre de un fusil","en":"barrel (gun)","fr":"canon (d'un fusil)","he":"קנה (רובה)"}
+{"L":"cano lisa","C":["n"],"en":"smooth bore","fr":"canon lisse","he":"קנה חלק קדח"}
+{"L":"cano raiosa","C":["n"],"en":"rifled bore","fr":"canon rayé","he":"קנה מחורק"}
+{"L":"canon","C":["n"],"i":"#","en":"cannon (gun)","fr":"canon (arme)","gl":"canón (arma)","he":"תותח"}
+{"L":"canonor","C":["n"],"en":"cannoneer, cannonier, artilleryman","fr":"canonnier, artilleur","he":"תותחן"}
+{"T":"r","L":"canoa","C":["n","vec"],"d":"un barco magra, sin cilia, con finis puntida, moveda par un remo o remos","i":"#","en":"canoe","fr":"canoë, canot","he":"קאנו, בוצית"}
+{"L":"canoa escavada","C":["n"],"en":"dugout","fr":"pirogue","he":"מחפורת, שוחה"}
+{"L":"canoisme","C":["n"],"p":"canoïsme","en":"canoeing","fr":"canoë, canoë-kayac","he":"שיט בקאנו"}
+{"L":"canoiste","C":["n"],"p":"canoïste","en":"canoeist","fr":"canoéiste","he":"שייט קאנו"}
+{"L":"vade par canoa","C":["v"],"en":"canoe","fr":"faire du canoë","he":"לשוט בקאנו"}
+{"T":"r","L":"canolo","C":["n","cos"],"d":"un deser sisilian, composada de un tubo fritada de pasta dulse con un pleninte cremosa","i":"#","en":"cannolo (dessert)","fr":"(un) cannolo (dessert sicilien)","he":"קנולו (מאפה)"}
+{"L":"canolos","C":["n","pl"],"en":"cannoli","fr":"cannoli","he":"קנולי"}
+{"T":"r","L":"canon","C":["n","rel","mus"],"d":"un colie de libros santa; un colie de testos asetada como autentica; un musica con un melodia xef cual otra strumentos imita a intervales","da":"kanon","de":"Kanone","en":"canon (literature, music)","es":"cañón","fr":"canon (littérature, arts, musique)","he":"(ספרות, מוזיקה) קאנון"}
+{"L":"canonal","C":["a"],"en":"canonical","fr":"canonique","he":"קאנוני"}
+{"T":"r","L":"canonera","C":["n","vec"],"d":"un barcon peti e rapida con armas fisada, usada en rios e a costas","en":"gunboat","fr":"(une) canonnière","he":"ספינת תותחים"}
+{"T":"r","L":"cansela","C":["vt"],"d":"deside o declara ce (un aveni intendeda) no va aveni; deside o declara ce (un validi o obliga) no continua plu; neutri o nega la forsa o efeto de (un cosa o situa); sutrae o vacui (testo, imajes, marcas o otra materia)","en":"cancel, revoke, abrogate, annul, repeal, belay, nix; erase, rub out, delete, expunge","fr":"annuler, révoquer, abroger, effacer, supprimer","he":"לבטל"}
+{"L":"cansela","C":["n"],"en":"cancellation, abrogation, erasure, annulment, revocation, write-off","fr":"annulation, abrogation, effacement, suppression, révocation","he":"ביטול"}
+{"L":"cansela sua enscrive","C":["v"],"en":"unsubscribe","fr":"désinscrire, désabonner","he":"לבטל הרשמה"}
+{"L":"canselable","C":["a"],"en":"cancelable|cancellable, revocable, erasable","fr":"annulable, effaçable, supprimable, révocable","he":"שניתן לביטול"}
+{"L":"canselador","C":["n"],"en":"canceler|ll (device)","fr":"annuleur","he":"מבטל (מכשיר)"}
+{"L":"noncanselable","C":["a"],"en":"irrevocable, unerasable, indelible","fr":"non-annulable, irrévocable, ineffaçable, indélébile","he":"שלא ניתן לביטול"}
+{"T":"r","L":"canselor","C":["n","gov"],"d":"un ofisial major nasional o legal; la xef de governa en alga nasiones, per esemplo Deutxland; un xef de universia en alga nasiones","en":"chancellor","fr":"chancelier","he":"קנצלר"}
+{"L":"canseloreria","C":["n"],"en":"chancellery, chancery","fr":"chancellerie","he":"בניין השגרירות; מעון הקנצלר"}
+{"T":"r","L":"canser","C":["n","med"],"d":"un maladia causada par un divide noncontrolada de selulas nonormal en un parte de la corpo; un tumor creada en esta modo","en":"cancer","fr":"(un) cancer (médecine)","he":"סרטן (מחלה)"}
+{"L":"canserosa","C":["a"],"en":"cancerous, malignant","fr":"cancéreux, malin (masculin), maligne (féminin)","he":"סרטני, ממאיר"}
+{"L":"canserosia","C":["n"],"en":"malignancy","fr":"malignité","he":"ממאירות"}
+{"L":"noncanserosa","C":["a"],"en":"non-cancerous, benign","fr":"non-cancéreux, bénin","he":"לא סרטני, שפיר"}
+{"L":"precanserosa","C":["a"],"en":"precancerous","fr":"précancéreux","he":"קדם-סרטני"}
 {"T":"r","L":"canta","C":["vt","mus"],"d":"crea (sonas musical) con la vose, spesial parolas con un melodia spesifada, a veses per diverti escutores","da":"synge","de":"singen","en":"sing, croon","es":"cantar","fr":"chanter","gl":"cantar","he":"לשיר, לזמר"}
-{"L":"canta","C":["n"],"en":"song","he":"שיר, זֶמר, מזמור"}
-{"L":"canta de avias","C":["n"],"en":"birdsong","he":"שיר הציפור"}
-{"L":"canta de cuna","C":["n"],"en":"lullaby","he":"שיר ערש"}
-{"L":"canta de folclor","C":["n"],"en":"folk song","he":"שיר עם"}
-{"L":"canta de gondolor","C":["n"],"en":"barcarole","he":"(מוזיקה) ברקרולה"}
-{"L":"canta de loda","C":["n"],"en":"song of praise, paean","he":"שיר הלל"}
-{"L":"canta de marinores","C":["n"],"en":"shanty, chanty","he":"שיר מלחים"}
-{"L":"canta de natal","C":["n"],"en":"carol","he":"שיר לחג המולד"}
-{"L":"canta grupal","C":["n"],"en":"group singing, songfest","he":"שירה בציבור"}
-{"L":"canta gregorian","C":["n"],"en":"Gregorian chant, plainchant, plainsong","he":"מזמור גרגוריאני"}
-{"L":"canta lenta","C":["v"],"en":"chant","he":"(דת) לשיר מזמורים"}
-{"L":"canta lenta","C":["n"],"en":"chant","he":"(דת) מזמור"}
-{"L":"canta melodiosa","C":["v"],"en":"warble","he":"(מוזיקה) לסלסל"}
-{"L":"canta melodiosa","C":["n"],"en":"warble","he":"(מוזיקה) סלסול"}
-{"L":"canta sincrona","C":["n"],"en":"mime, lip-sync","he":"סינכרון שפתיים, פלייבק"}
-{"L":"cantada","C":["n"],"en":"cantata, song (score and lyrics)","he":"(מוזיקה) קנטטה"}
-{"L":"canteta","C":["n"],"en":"ditty","he":"שיר קצר ופשוט"}
-{"L":"cantin","C":["a"],"en":"singsong","he":"(מבטא, דיבור) מלודי, שירי"}
-{"L":"cantor","C":["n","avia"],"d":"un person ci canta; un de un grupo grande de avias perxinte con sirinjes bon developada, cual permete ce los canta","i":"#","t":"Oscines, Parulinae, Sylviidae","en":"singer, vocalist, cantor; songbird, warbler","he":"זַמר; ציפור שיר"}
-{"L":"cantor-composor","C":["n"],"en":"singer-songwriter","he":"זמר-יוצר"}
-{"L":"cantor fondal","C":["n"],"en":"backing singer","he":"זמר ליווי"}
-{"L":"cantor sincrona","C":["n"],"en":"playback singer, lipsyncher","he":"זמר פלייבק"}
-{"T":"r","L":"cantalupo","C":["n","cos"],"d":"un melon peti e ronda, con pulpa orania e casca costelin","i":"#","en":"cantaloupe","he":"קנטלופ (פרי)"}
-{"T":"r","L":"cantilever","C":["n","arci"],"d":"un faxon longa e estendente fisada a sola un fini, xef usada en la construi de pontes; un strutur simil, estendeda de un mur per suporta un balcon o cornisa","i":"#","en":"cantilever","he":"(בניין) זיז, שלוחה, תמוכה"}
+{"L":"canta","C":["n"],"en":"song","fr":"(une) chanson","he":"שיר, זֶמר, מזמור"}
+{"L":"canta de avias","C":["n"],"en":"birdsong","fr":"(un) chant d'oiseau","he":"שיר הציפור"}
+{"L":"canta de cuna","C":["n"],"en":"lullaby","fr":"comptine","he":"שיר ערש"}
+{"L":"canta de folclor","C":["n"],"en":"folk song","fr":"chanson folklorique","he":"שיר עם"}
+{"L":"canta de gondolor","C":["n"],"en":"barcarole","fr":"barcarole","he":"(מוזיקה) ברקרולה"}
+{"L":"canta de loda","C":["n"],"en":"song of praise, paean","fr":"cantique, hymne, psaume","he":"שיר הלל"}
+{"L":"canta de marinores","C":["n"],"en":"shanty, chanty","fr":"chanson de marin","he":"שיר מלחים"}
+{"L":"canta de natal","C":["n"],"en":"carol","fr":"chant de Noël","he":"שיר לחג המולד"}
+{"L":"canta grupal","C":["n"],"en":"group singing, songfest","fr":"chorale, chœur","he":"שירה בציבור"}
+{"L":"canta gregorian","C":["n"],"en":"Gregorian chant, plainchant, plainsong","fr":"chant grégorien, plain-chant","he":"מזמור גרגוריאני"}
+{"L":"canta lenta","C":["v"],"en":"chant","fr":"psalmodier","he":"(דת) לשיר מזמורים"}
+{"L":"canta lenta","C":["n"],"en":"chant","fr":"psalmodie","he":"(דת) מזמור"}
+{"L":"canta melodiosa","C":["v"],"en":"warble","fr":"chantonner, gazouiller, roucouler","he":"(מוזיקה) לסלסל"}
+{"L":"canta melodiosa","C":["n"],"en":"warble","fr":"gazouillis, roucoulement","he":"(מוזיקה) סלסול"}
+{"L":"canta sincrona","C":["n"],"en":"mime, lip-sync","fr":"playback","he":"סינכרון שפתיים, פלייבק"}
+{"L":"cantada","C":["n"],"en":"cantata, song (score and lyrics)","fr":"(une) cantate, chant (partition et paroles)","he":"(מוזיקה) קנטטה"}
+{"L":"canteta","C":["n"],"en":"ditty","fr":"(une) chansonnette","he":"שיר קצר ופשוט"}
+{"L":"cantin","C":["a"],"en":"singsong","fr":"psalmodiant","he":"(מבטא, דיבור) מלודי, שירי"}
+{"L":"cantor","C":["n","avia"],"d":"un person ci canta; un de un grupo grande de avias perxinte con sirinjes bon developada, cual permete ce los canta","i":"#","t":"Oscines, Parulinae, Sylviidae","en":"singer, vocalist, cantor; songbird, warbler","fr":"(un) chanteur, (une) chanteuse","he":"זַמר; ציפור שיר"}
+{"L":"cantor-composor","C":["n"],"en":"singer-songwriter","fr":"compositeur-interprète","he":"זמר-יוצר"}
+{"L":"cantor fondal","C":["n"],"en":"backing singer","fr":"choriste","he":"זמר ליווי"}
+{"L":"cantor sincrona","C":["n"],"en":"playback singer, lipsyncher","fr":"un chanteur en playback","he":"זמר פלייבק"}
+{"T":"r","L":"cantalupo","C":["n","cos"],"d":"un melon peti e ronda, con pulpa orania e casca costelin","i":"#","en":"cantaloupe","fr":"melon canteloup","he":"קנטלופ (פרי)"}
+{"T":"r","L":"cantilever","C":["n","arci"],"d":"un faxon longa e estendente fisada a sola un fini, xef usada en la construi de pontes; un strutur simil, estendeda de un mur per suporta un balcon o cornisa","i":"#","en":"cantilever","fr":"porte-à-faux","he":"(בניין) זיז, שלוחה, תמוכה"}
 {"L":"cantileveri","C":["vt"],"en":"cantilever","he":"לתמוך על-ידי תמוכה"}
-{"T":"r","L":"canto","C":["n","arci"],"d":"un area a la angulos creada par la crusa de du stradas","en":"street corner (general area)","he":"פינת הרחוב"}
-{"L":"canton","C":["n"],"en":"canton","he":"קנטון"}
-{"T":"r","L":"caodai","C":["a","rel"],"d":"pertinente a un relijio monoteiste instituida en 1926 en Vietnam sude","en":"Cao Dai; Caodaist","he":"(דת) קאודיסט"}
-{"L":"caodai","C":["n"],"en":"Cao Dai; Caodaism (religion)","he":"(דת) קאודיזם"}
-{"L":"caodai","C":["n"],"en":"Caodaist","he":"(דת) קאודיסט"}
-{"T":"r","L":"caos","C":["n","fil","mit"],"d":"un asentia completa de ordina; un confusa grande; sustantia sin forma, sur cual alga crede ce lo ia esiste ante la crea de la universo","en":"chaos, tumult, mayhem, bedlam, pandemonium, snafu","he":"כאוס, תוהו ובוהו, מהומה, בלגן"}
-{"L":"Caos","C":["n","mit"],"d":"(en mitos elinica) la esente prima creada, de cual la dios e divas primeval Gaia, Tartaro, Erebo e Nix veni","en":"Chaos (mythology)","he":"(מיתולוגיה) כאוס"}
-{"L":"caososa","C":["a"],"en":"chaotic, irregular, haphazard","he":"כאוטי, מבולגן"}
-{"T":"r","L":"capa","C":["n","vest"],"d":"un veste esterna per usa estra casa, tipal sin mangas, cual pende laxe de la spalas; la plumas covrente la dorso e scapulas de avias","i":"#","en":"cape, cloak, serape; mantle","he":"שכמיה"}
-{"L":"capeta","C":["n"],"i":"#","en":"hood (garment); bonnet, hood (vehicle)","he":"ברדס, קפוצ'ון; מכסה מנוע"}
-{"L":"capeta de motor","C":["n"],"en":"bonnet, hood (vehicle)","he":"מכסה מנוע"}
-{"L":"capeta laxe","C":["n"],"en":"cowl","he":"גלימת נזיר"}
-{"L":"capetor","C":["n"],"en":"hoodie (person)","he":"לובש קפוצ'ון"}
-{"L":"capi","C":["vt"],"en":"cape, cloak","he":"ללבוש שכמיה"}
-{"T":"r","L":"capa","C":["n","ling"],"d":"la letera des de la alfabeta elinica","s":"Κ κ","en":"kappa (Greek letter)","he":"קפא (אות יוונית)"}
-{"T":"r","L":"capara","C":["n","pla"],"d":"un arboreta de Europa sude, simil a un rubo; la brotos de esta, coceda e vinagrida e usada per sabori comedas","i":"#","t":"Capparis spinosa","en":"caper (plant, bud)","he":"צלף (צמח)"}
-{"T":"r","L":"capas","C":["a"],"d":"con la potia, sabe, metodos o bon momento per fa alga cosa","da":"dygtig, kompetent","de":"fähig","en":"able, capable, skilled, skillful|skilful, proficient, accomplished, adept, adroit, competent, professional, amenable, efficient","es":"capaz, hábil, competente","fr":"capable, habilité, habile","he":"מסוגל, כשיר, מיומן"}
-{"L":"capas de era","C":["a"],"en":"capable of error, fallible","he":"שעשוי לטעות"}
-{"L":"capas de susede","C":["a"],"en":"capable of success, viable","he":"ישומי, מעשי"}
-{"L":"ave la capasia","C":["v"],"en":"be qualified","he":"להיות מסוגל, להיות מוכשר, להיות מתאים"}
-{"L":"capasi","C":["vnt"],"en":"grow capable","he":"לרכוש מיומנות"}
-{"L":"capasi","C":["vt"],"en":"enable, empower","he":"לאפשר"}
-{"L":"capasi","C":["n"],"en":"enabling, empowerment"}
-{"L":"capasia","C":["n"],"da":"evne, formåen, kapacitet","de":"Fähigkeit","en":"ability, capability, capacity, power, faculty (power); talent, skill, knack, gift; proficiency, competence, prowess, artistry; efficiency, performance","es":"habilidad, capacidad (para hacer algo)","fr":"capacité","he":"מסוגלות, כושר, יכולת; כישרון, מיומנות, מומחיות"}
-{"L":"capasia eletrical","C":["n"],"en":"capacitance","he":"(חשמל) קיבול, קיבוליות"}
-{"L":"descapasi","C":["vnt"],"en":"incapacitate, disable, impair, vitiate, cripple","he":"להיפגם, להחליש"}
-{"L":"descapasi","C":["vt"],"en":"incapacitate, disable, impair, vitiate, cripple","he":"לפגום, להחליש; להטיל מום"}
-{"L":"descapasia","C":["n"],"en":"disability, handicap, impairment","he":"מוגבלות, נכות, לקות, ליקוי, פגם"}
-{"L":"descapasida","C":["a"],"en":"incapacitated, disabled, handicapped, impaired, crippled","he":"מוגבל, לקוי, פגום"}
-{"L":"descapasida","C":["n"],"en":"disabled person, handicapped person; invalid","he":"נכה, מוגבל"}
-{"L":"noncapas","C":["a"],"en":"unable, incapable, powerless, incompetent, inept, amateurish, unprofessional, hopeless, unqualified, unversed","he":"לא מסוגל, לא מוסמך, חסר יכולת"}
-{"L":"noncapasia","C":["n"],"en":"inability, incompetence","he":"אי-יכולת, אי-כשירות"}
-{"L":"nondescapasida","C":["a"],"en":"unimpaired","he":"ללא פגם, ללא מוגבלות"}
-{"L":"recapasi","C":["vnt"],"en":"re-enable, rehabilitate","he":"להשתקם"}
-{"L":"recapasi","C":["vt"],"en":"re-enable, rehabilitate","he":"לאפשר שוב; לשקם"}
-{"L":"recapasi","C":["n"],"en":"rehabilitation","he":"שיקום, השתקמות"}
-{"L":"tro capas","C":["a"],"en":"overqualified, overskilled","he":"בעל כישורים גבוהים מדי"}
-{"T":"r","L":"capel","C":["n","bio"],"d":"cada de la filos magra cual crese de la scalpo de umanas","da":"hår","de":"Haar","en":"hair (of the scalp, one strand)","es":"cabello, pelo","fr":"cheveu","he":"שערה"}
-{"L":"capeleria","C":["n"],"en":"barbershop, hair salon","he":"מספרה"}
-{"L":"capeles","C":["n","pl"],"i":"#","de":"Haare, Haar","en":"hairs, hair (collectively)","he":"שיער, שערות"}
-{"L":"capeles brosin","C":["n","pl"],"i":"#","en":"flat-top","he":"תספורת קצוצה"}
-{"L":"Capeles de Berenise","C":["n","pl","ast"],"en":"Coma Berenices (constellation)","he":"שערות ברניקי (קבוצת כוכבים)"}
+{"T":"r","L":"canto","C":["n","arci"],"d":"un area a la angulos creada par la crusa de du stradas","en":"street corner (general area)","fr":"coin de rue","he":"פינת הרחוב"}
+{"L":"canton","C":["n"],"en":"canton","fr":"(un) canton","he":"קנטון"}
+{"T":"r","L":"caodai","C":["a","rel"],"d":"pertinente a un relijio monoteiste instituida en 1926 en Vietnam sude","en":"Cao Dai; Caodaist","fr":"caodaïste (religion)","he":"(דת) קאודיסט"}
+{"L":"caodai","C":["n"],"en":"Cao Dai; Caodaism (religion)","fr":"caodaïsme","he":"(דת) קאודיזם"}
+{"L":"caodai","C":["n"],"en":"Caodaist","fr":"caodaïste","he":"(דת) קאודיסט"}
+{"T":"r","L":"caos","C":["n","fil","mit"],"d":"un asentia completa de ordina; un confusa grande; sustantia sin forma, sur cual alga crede ce lo ia esiste ante la crea de la universo","en":"chaos, tumult, mayhem, bedlam, pandemonium, snafu","fr":"(le) chaos","he":"כאוס, תוהו ובוהו, מהומה, בלגן"}
+{"L":"Caos","C":["n","mit"],"d":"(en mitos elinica) la esente prima creada, de cual la dios e divas primeval Gaia, Tartaro, Erebo e Nix veni","en":"Chaos (mythology)","fr":"Chaos (mythologie)","he":"(מיתולוגיה) כאוס"}
+{"L":"caososa","C":["a"],"en":"chaotic, irregular, haphazard","fr":"chaotique, irrégulier, au hasard, aléatoire","he":"כאוטי, מבולגן"}
+{"T":"r","L":"capa","C":["n","vest"],"d":"un veste esterna per usa estra casa, tipal sin mangas, cual pende laxe de la spalas; la plumas covrente la dorso e scapulas de avias","i":"#","en":"cape, cloak, serape; mantle","fr":"(une) cape, (une) pèlerine, (un) manteau, (un) sarape","he":"שכמיה"}
+{"L":"capeta","C":["n"],"i":"#","en":"hood (garment); bonnet, hood (vehicle)","fr":"(une) capuche, (un) capuchon, (une) capote (véhicule)","he":"ברדס, קפוצ'ון; מכסה מנוע"}
+{"L":"capeta de motor","C":["n"],"en":"bonnet, hood (vehicle)","fr":"(un) capot","he":"מכסה מנוע"}
+{"L":"capeta laxe","C":["n"],"en":"cowl","fr":"(une) capuche, (un) capuchon","he":"גלימת נזיר"}
+{"L":"capetor","C":["n"],"en":"hoodie (person)","fr":"encapuchonné","he":"לובש קפוצ'ון"}
+{"L":"capi","C":["vt"],"en":"cape, cloak","fr":"couvrir, camoufler","he":"ללבוש שכמיה"}
+{"T":"r","L":"capa","C":["n","ling"],"d":"la letera des de la alfabeta elinica","s":"Κ κ","en":"kappa (Greek letter)","fr":"kappa (lettre grecque)","he":"קפא (אות יוונית)"}
+{"T":"r","L":"capara","C":["n","pla"],"d":"un arboreta de Europa sude, simil a un rubo; la brotos de esta, coceda e vinagrida e usada per sabori comedas","i":"#","t":"Capparis spinosa","en":"caper (plant, bud)","fr":"(un) câprier, (une) câpre","he":"צלף (צמח)"}
+{"T":"r","L":"capas","C":["a"],"d":"con la potia, sabe, metodos o bon momento per fa alga cosa","da":"dygtig, kompetent","de":"fähig","en":"able, capable, skilled, skillful|skilful, proficient, accomplished, adept, adroit, competent, professional, amenable, efficient","es":"capaz, hábil, competente","fr":"capable, apte, habile","he":"מסוגל, כשיר, מיומן"}
+{"L":"capas de era","C":["a"],"en":"capable of error, fallible","fr":"faillible","he":"שעשוי לטעות"}
+{"L":"capas de susede","C":["a"],"en":"capable of success, viable","fr":"viable, probant, pertinent, approprié","he":"ישומי, מעשי"}
+{"L":"ave la capasia","C":["v"],"en":"be qualified","fr":"avoir la capacité de, l'aptitude à, être capable de, être apte à, être qualifié pour","he":"להיות מסוגל, להיות מוכשר, להיות מתאים"}
+{"L":"capasi","C":["vnt"],"en":"grow capable","fr":"se qualifier, acquérir une compétence, devenir capable, devenir apte, acquérir une qualification,","he":"לרכוש מיומנות"}
+{"L":"capasi","C":["vt"],"en":"enable, empower","fr":"permettre, habiliter, rendre apte, rendre capable, qualifier, donner une compétence","he":"לאפשר"}
+{"L":"capasi","C":["n"],"en":"enabling, empowerment","fr":"aptitude, habilitation, capacité"}
+{"L":"capasia","C":["n"],"da":"evne, formåen, kapacitet","de":"Fähigkeit","en":"ability, capability, capacity, power, faculty (power); talent, skill, knack, gift; proficiency, competence, prowess, artistry; efficiency, performance","es":"habilidad, capacidad (para hacer algo)","fr":"capacité, aptitude, habilité, qualification","he":"מסוגלות, כושר, יכולת; כישרון, מיומנות, מומחיות"}
+{"L":"capasia eletrical","C":["n"],"en":"capacitance","fr":"capacité (électrique)","he":"(חשמל) קיבול, קיבוליות"}
+{"L":"descapasi","C":["vnt"],"en":"incapacitate, disable, impair, vitiate, cripple","fr":"procéder à une désactivation, à une invalidation, enlever l'habilitation","he":"להיפגם, להחליש"}
+{"L":"descapasi","C":["vt"],"en":"incapacitate, disable, impair, vitiate, cripple","fr":"rendre incapable, désactiver, invalider, déshabiliter","he":"לפגום, להחליש; להטיל מום"}
+{"L":"descapasia","C":["n"],"en":"disability, handicap, impairment","fr":"invalidité, handicap, déficience","he":"מוגבלות, נכות, לקות, ליקוי, פגם"}
+{"L":"descapasida","C":["a"],"en":"incapacitated, disabled, handicapped, impaired, crippled","fr":"déficient, inapte, invalide, handicapé","he":"מוגבל, לקוי, פגום"}
+{"L":"descapasida","C":["n"],"en":"disabled person, handicapped person; invalid","fr":"handicapé, déficient, invalide","he":"נכה, מוגבל"}
+{"L":"noncapas","C":["a"],"en":"unable, incapable, powerless, incompetent, inept, amateurish, unprofessional, hopeless, unqualified, unversed","fr":"incapable, incompétent, inapte, non qualifié, inexpérimenté","he":"לא מסוגל, לא מוסמך, חסר יכולת"}
+{"L":"noncapasia","C":["n"],"en":"inability, incompetence","fr":"incapacité, inaptitude, incompétence","he":"אי-יכולת, אי-כשירות"}
+{"L":"nondescapasida","C":["a"],"en":"unimpaired","fr":"non diminué, non déficient","he":"ללא פגם, ללא מוגבלות"}
+{"L":"recapasi","C":["vnt"],"en":"re-enable, rehabilitate","fr":"procéder à une réhabilitation, à une réactivation, à une requalification","he":"להשתקם"}
+{"L":"recapasi","C":["vt"],"en":"re-enable, rehabilitate","fr":"réhabiliter, requalifier, réactiver","he":"לאפשר שוב; לשקם"}
+{"L":"recapasi","C":["n"],"en":"rehabilitation","fr":"réhabilitation, requalification","he":"שיקום, השתקמות"}
+{"L":"tro capas","C":["a"],"en":"overqualified, overskilled","fr":"surqualifié","he":"בעל כישורים גבוהים מדי"}
+{"T":"r","L":"capel","C":["n","bio"],"d":"cada de la filos magra cual crese de la scalpo de umanas","da":"hår","de":"Haar","en":"hair (of the scalp, one strand)","es":"cabello, pelo","fr":"(un) cheveu","he":"שערה"}
+{"L":"capeleria","C":["n"],"en":"barbershop, hair salon","fr":"salon de coiffure","he":"מספרה"}
+{"L":"capeles","C":["n","pl"],"i":"#","de":"Haare, Haar","en":"hairs, hair (collectively)","fr":"cheveux, (une) chevelure","he":"שיער, שערות"}
+{"L":"capeles brosin","C":["n","pl"],"i":"#","en":"flat-top","fr":"une coupe de cheveux à la brosse","he":"תספורת קצוצה"}
+{"L":"Capeles de Berenise","C":["n","pl","ast"],"en":"Coma Berenices (constellation)","fr":"Chevelure de Bérénice (constellation)","he":"שערות ברניקי (קבוצת כוכבים)"}
 {"L":"capeles de pajo","C":["n","pl"],"i":"#","en":"pageboy bob","he":"תספורת פטרייה"}
 {"L":"capeles erisin","C":["n","pl"],"i":"#","en":"spiked hair","he":"תספורת קוצים"}
 {"L":"capeles irocuoi","C":["n","pl"],"i":"#","en":"mohawk|mohican","he":"תספורת מוהיקן"}
 {"L":"capeles militar","C":["n","pl"],"i":"#","en":"military haircut, buzzcut, crewcut","he":"תספורת צבאית"}
-{"L":"capeles rastafari","C":["n","pl"],"i":"#","en":"dreadlocks","he":"רסטות"}
-{"L":"capeles reta","C":["n","pl"],"i":"#","en":"straight hair","he":"שיער חלק"}
-{"L":"capeles risa","C":["n","pl"],"i":"#","en":"curly hair","he":"שיער מתולתל"}
-{"L":"capeleta","C":["n"],"d":"un capel de pelo; un filo delicata cual crese de la epiderma de un planta, o cual formi un parte de un selula vivente","v":"pelo","en":"facial hair, body hair (one strand)","he":"שיער גוף"}
-{"L":"capeli","C":["vt"],"en":"add hair to","he":"להוסיף שיער (לשחקן או תחפושת)"}
-{"L":"capelin","C":["a"],"en":"hairlike","he":"דמוי-שיער"}
-{"L":"capelon","C":["n"],"en":"bristle, awn, arista","he":"זיף"}
-{"L":"capelones","C":["n","pl"],"i":"#","en":"stubble","he":"זיפים"}
-{"L":"capelonosa","C":["a"],"en":"stubbly","he":"זיפי"}
-{"L":"capelor","C":["n"],"en":"hairdresser, hairstylist, barber","he":"ספר, מעצב שיער"}
-{"L":"capelosa","C":["a"],"en":"hairy (head)","he":"(ראש) מלא שיער"}
-{"L":"con capeles roja","C":["a"],"en":"red-haired, red-headed, ginger","he":"ג'ינג'י"}
-{"L":"descapeli","C":["vt"],"en":"depilate, remove hair from","he":"להסיר שיער"}
-{"L":"descapelinte","C":["a"],"en":"depilatory","he":"מסיר שיער"}
-{"L":"par un capel","C":["av"],"en":"by a hair's breadth, barely","he":"בקושי"}
-{"T":"r","L":"capibara","C":["n","mam"],"d":"un mamal de America Sude cual sembla un cavia jigante con gamas longa","i":"#","t":"Hydrochoerus hydrochaeris","en":"capybara (animal)","he":"קפיבארה (מכרסם)"}
-{"T":"r","L":"capilar","C":["a","anat"],"d":"(un duto sangual) delicata, raminte, e forminte la rede entre la arterietas e la venetas","en":"capillary","he":"נים"}
-{"L":"capilar","C":["n"],"en":"capillary","he":"נים"}
-{"T":"r","L":"capital","C":["a","gov","mone"],"en":"capital (city, economics, architecture)","he":"עיר בירה; הון; (אדריכלות) כותרת"}
-{"L":"capital","C":["n","gov","mone","arci"],"d":"la site la plu importante en un pais o rejion, tipal la loca de governa; mone o otra cosas poseseda par un person o organiza, disponable per un intende spesifada como investi o fundi un compania; la parte la plu alta de un colona, tipal larga e ornosa, suportante la entablamento","i":"#","en":"capital (city, economics, architecture)","he":"עיר בירה; הון; (אדריכלות) כותרת"}
-{"L":"capital riscosa","C":["n"],"en":"venture capital","he":"הון סיכון"}
-{"L":"capitali","C":["vt"],"en":"capitalize|is","he":"להוון"}
-{"L":"capitalisme","C":["n"],"en":"capitalism","he":"קפיטליזם"}
-{"L":"capitaliste","C":["n"],"en":"capitalist","he":"קפיטליסט"}
-{"T":"r","L":"capitan","C":["n","gov"],"d":"un person comandante en un barcon o avion; la xef de un distrito de polisia o pompores; la xef de un ecipo, spesial en sportes","en":"captain, leader","he":"קפטן; קברניט"}
+{"L":"capeles rastafari","C":["n","pl"],"i":"#","en":"dreadlocks","fr":"dreadlocks","he":"רסטות"}
+{"L":"capeles reta","C":["n","pl"],"i":"#","en":"straight hair","fr":"cheveux raides","he":"שיער חלק"}
+{"L":"capeles risa","C":["n","pl"],"i":"#","en":"curly hair","fr":"cheveux bouclés","he":"שיער מתולתל"}
+{"L":"capeleta","C":["n"],"d":"un capel de pelo; un filo delicata cual crese de la epiderma de un planta, o cual formi un parte de un selula vivente","v":"pelo","en":"facial hair, body hair (one strand)","fr":"poil","he":"שיער גוף"}
+{"L":"capeli","C":["vt"],"en":"add hair to","fr":"implanter des cheveux à, mettre des cheveux à","he":"להוסיף שיער (לשחקן או תחפושת)"}
+{"L":"capelin","C":["a"],"en":"hairlike","fr":"capillaire, semblable à un cheveu ou à des cheveux","he":"דמוי-שיער"}
+{"L":"capelon","C":["n"],"en":"bristle, awn, arista","fr":"soie, poil (zoologie)","he":"זיף"}
+{"L":"capelones","C":["n","pl"],"i":"#","en":"stubble","fr":"poils de barbe, barbe","he":"זיפים"}
+{"L":"capelonosa","C":["a"],"en":"stubbly","fr":"barbu","he":"זיפי"}
+{"L":"capelor","C":["n"],"en":"hairdresser, hairstylist, barber","fr":"coiffeur","he":"ספר, מעצב שיער"}
+{"L":"capelosa","C":["a"],"en":"hairy (head)","fr":"chevelu","he":"(ראש) מלא שיער"}
+{"L":"con capeles roja","C":["a"],"en":"red-haired, red-headed, ginger","fr":"roux","he":"ג'ינג'י"}
+{"L":"descapeli","C":["vt"],"en":"depilate, remove hair from","fr":"épiler","he":"להסיר שיער"}
+{"L":"descapelinte","C":["a"],"en":"depilatory","fr":"épilatoire","he":"מסיר שיער"}
+{"L":"par un capel","C":["av"],"en":"by a hair's breadth, barely","fr":"à un cheveu près, de justesse, il ne s'en est fallu que d'un cheveu","he":"בקושי"}
+{"T":"r","L":"capibara","C":["n","mam"],"d":"un mamal de America Sude cual sembla un cavia jigante con gamas longa","i":"#","t":"Hydrochoerus hydrochaeris","en":"capybara (animal)","fr":"capybara, grand cabiaï (animal, rongeur )","he":"קפיבארה (מכרסם)"}
+{"T":"r","L":"capilar","C":["a","anat"],"d":"(un duto sangual) delicata, raminte, e forminte la rede entre la arterietas e la venetas","en":"capillary","fr":"capillaire","he":"נים"}
+{"L":"capilar","C":["n"],"en":"capillary","fr":"(un) capillaire","he":"נים"}
+{"T":"r","L":"capital","C":["a","gov","mone"],"en":"capital (city, economics, architecture)","fr":"capital","he":"עיר בירה; הון; (אדריכלות) כותרת"}
+{"L":"capital","C":["n","gov","mone","arci"],"d":"la site la plu importante en un pais o rejion, tipal la loca de governa; mone o otra cosas poseseda par un person o organiza, disponable per un intende spesifada como investi o fundi un compania; la parte la plu alta de un colona, tipal larga e ornosa, suportante la entablamento","i":"#","en":"capital (city, economics, architecture)","fr":"(une) capitale (ville); (un) capital (économie); (un) chapiteau","he":"עיר בירה; הון; (אדריכלות) כותרת"}
+{"L":"capital riscosa","C":["n"],"en":"venture capital","fr":"capital-risque","he":"הון סיכון"}
+{"L":"capitali","C":["vt"],"en":"capitalize|is","fr":"capitaliser","he":"להוון"}
+{"L":"capitalisme","C":["n"],"en":"capitalism","fr":"(le) capitalisme","he":"קפיטליזם"}
+{"L":"capitaliste","C":["n"],"en":"capitalist","fr":"(un) capitaliste","he":"קפיטליסט"}
+{"T":"r","L":"capitan","C":["n","gov"],"d":"un person comandante en un barcon o avion; la xef de un distrito de polisia o pompores; la xef de un ecipo, spesial en sportes","en":"captain, leader","fr":"(un) capitaine, chef d'équipe, leader","he":"קפטן; קברניט"}
 {"T":"r","L":"capitol","C":["n","arte"],"d":"un divide major de un libro, tipal numerida o titulida","da":"kapitel","de":"Kapitel","en":"chapter","es":"capítulo","fr":"chapitre","he":"פרק"}
-{"T":"r","L":"capitolio","C":["n","gov"],"d":"un construida per consentas de legores nasional","en":"capitol (building)","he":"קפיטול (בניין הקונגרס)"}
+{"T":"r","L":"capitolio","C":["n","gov"],"d":"un construida per consentas de legores nasional","en":"capitol (building)","fr":"le Capitole (édifice)","he":"קפיטול (בניין הקונגרס)"}
 {"T":"r","L":"capo","C":["n","tera"],"d":"un peso de tera, tipal magra e alta, cual protende de un costa a la mar","en":"headland, cape, promontory","fr":"cap","he":"כֵּף, לשון יבשה"}
-{"L":"Capo Verde","C":["n","jeo"],"c":"Praia","d":"un pais en Africa cual es un grupo de isolas en la Mar Atlantica, a ueste de Senegal","i":"capo-verde","en":"Cape Verde","fr":"Cap-Vert","he":"כף ורדה, קאבו ורדה"}
-{"L":"capoverdean","C":["a"],"en":"Cape Verdean","he":"שקשור לכף ורדה"}
-{"L":"capoverdean","C":["n"],"en":"Cape Verdean","he":"תושב כף ורדה"}
-{"T":"r","L":"caporal","C":["n","gov"],"d":"un ofisior nonencargada de grado basa en la militar, tipal su un sarjento","en":"corporal (officer)","he":"רב-טוראי"}
+{"L":"Capo Verde","C":["n","jeo"],"c":"Praia","d":"un pais en Africa cual es un grupo de isolas en la Mar Atlantica, a ueste de Senegal","i":"capo-verde","en":"Cape Verde","fr":"le Cap-Vert","he":"כף ורדה, קאבו ורדה"}
+{"L":"capoverdean","C":["a"],"en":"Cape Verdean","fr":"cap-verdien","he":"שקשור לכף ורדה"}
+{"L":"capoverdean","C":["n"],"en":"Cape Verdean","fr":"Cap-Verdien (personne)","he":"תושב כף ורדה"}
+{"T":"r","L":"caporal","C":["n","gov"],"d":"un ofisior nonencargada de grado basa en la militar, tipal su un sarjento","en":"corporal (officer)","fr":"(un) caporal","he":"רב-טוראי"}
 {"T":"r","L":"capra","C":["n","mam"],"d":"un mamal remasticante domada, con cornos curvinte a retro, usada per sua lete e carne","i":"#","t":"Capra","da":"ged","de":"Ziege","en":"goat","es":"cabra","fr":"chèvre, bouc","he":"עֵז, תיש"}
-{"L":"Capra","C":["n","ast"],"d":"un constela de la zodiaco","s":"♑","en":"Capricornus, Capricorn (constellation)","he":"גדי (מזל, קבוצת כוכבים)"}
-{"L":"capreta","C":["n"],"en":"kid (young goat)","he":"גדי"}
-{"L":"caprin","C":["a"],"en":"goatlike; capricious","he":"דמוי-עז; קפריזי, גחמני"}
-{"T":"r","L":"capri","C":["vnt"],"d":"(un animal) leva se sur sua gamas posterior; (un bisicle o motosicle) leva sua rotas anterior de sur la tera","en":"rear up; do a wheelie, pull a wheelie","he":"להרים רגליים אחוריות (בעל חיים); להרים גלגל"}
-{"L":"capri","C":["n"],"en":"wheelie","he":"הרמת גלגל"}
-{"T":"r","L":"caprifolia","C":["n","pla"],"d":"un arboreta trepante, con flores tubo cual es tipal bonodorosa e ave du colores o tinjes, abrinte en la sera per es polenida par papilios de note","i":"#","t":"Lonicera, Diervilla","en":"honeysuckle","he":"יערה (צמח)"}
-{"T":"r","L":"caprimuljo","C":["n","avia"],"d":"un avia noturna e insetivor con plumas grisin brun, oios e boca grande, e vose distinguinte","i":"#","t":"Caprimulgidae","en":"goatsucker, nightjar, nighthawk","he":"תחמס (ציפור)"}
-{"T":"r","L":"capriol","C":["n","mam"],"d":"un servo peti de Eurasia","i":"#","t":"Capreolus","en":"roe deer","he":"אייל הכרמל"}
-{"L":"capriol mas","C":["n"],"en":"roebuck","he":"אייל הכרמל (זכר)"}
-{"T":"r","L":"capris","C":["n","uma"],"d":"un cambia subita o nonpredisable de umor o condui","da":"lune, indfald","de":"Laune, Grille","en":"caprice, whim, whimsy","es":"capricho, antojo","fr":"caprice","he":"קפריזה, גחמה"}
-{"L":"caprisal","C":["a"],"en":"arbitrary","he":"שרירותי"}
-{"L":"caprisia","C":["n"],"en":"capriciousness, whimsy","he":"קפריזיות, גחמנות"}
-{"L":"caprisosa","C":["a"],"en":"capricious, whimsical","he":"קפריזי, גחמני"}
-{"T":"r","L":"capside","C":["n","bio"],"d":"un casca de protenas ensircante un virus","en":"capsid"}
-{"T":"r","L":"capsula","C":["n","util","bio"],"d":"un contenador peti, tipal ronda o silindre; un contenador multe peti de jelatin, conteninte un cuantia de medisin; la membrana o gaina dur cual enclui alga cosa en la corpo, como la ren; la strato jelatin cual formi la surfas esterna de alga selulas baterial; un fruta seca cual rompe per relasa sua semes cuando matur; la strutur cual produi sporas en moses e epaticas","en":"capsule","he":"כמוסה, קפסולה; (בוטניקה) תרמיל, הלקט, נרתיק; (אנטומיה) מעטפת"}
-{"L":"capsula de percute","C":["n"],"en":"percussion cap","he":"(נשק) מנעל כוסית הנקישה"}
-{"L":"capsula de tempo","C":["n"],"en":"time capsule","he":"כמוסת זמן"}
-{"L":"capsula spinosa","C":["n"],"en":"bur, burr","he":"תרמיל זרע קוצני"}
-{"L":"capsuli","C":["vt"],"en":"encapsulate","he":"לעטוף, לסגור (בקפסולה), לכמס"}
-{"L":"capsuli","C":["n"],"en":"encapsulation","he":"כמיסה, עטיפה, סגירה (בקפסולה); (מחשבים) כימוס"}
-{"T":"r","L":"caputxin","C":["n","mam"],"d":"un simia de America Sude con un xapeta de capeles cual sembla un capeta","i":"#","t":"Cebus","en":"capuchin (monkey)","he":"קפוצ'ין (קוף)"}
-{"T":"r","L":"caputxino","C":["n","cos"],"d":"cafe preparada con lete cual on ia spuma con vapor compresada","en":"cappuccino (coffee)","he":"קפוצ'ינו, קפה הפוך"}
+{"L":"Capra","C":["n","ast"],"d":"un constela de la zodiaco","s":"♑","en":"Capricornus, Capricorn (constellation)","fr":"le Capricorne, la Chèvre (constellation)","he":"גדי (מזל, קבוצת כוכבים)"}
+{"L":"capreta","C":["n"],"en":"kid (young goat)","fr":"(une) chevrette","he":"גדי"}
+{"L":"caprin","C":["a"],"en":"goatlike; capricious","fr":"caprin, capricieux","he":"דמוי-עז; קפריזי, גחמני"}
+{"T":"r","L":"capri","C":["vnt"],"d":"(un animal) leva se sur sua gamas posterior; (un bisicle o motosicle) leva sua rotas anterior de sur la tera","en":"rear up; do a wheelie, pull a wheelie","fr":"se cabrer (et, par extension, rouler sur la seule roue arrière avec une bicyclette ou une motocyclette)","he":"להרים רגליים אחוריות (בעל חיים); להרים גלגל"}
+{"L":"capri","C":["n"],"en":"wheelie","fr":"cabrement","he":"הרמת גלגל"}
+{"T":"r","L":"caprifolia","C":["n","pla"],"d":"un arboreta trepante, con flores tubo cual es tipal bonodorosa e ave du colores o tinjes, abrinte en la sera per es polenida par papilios de note","i":"#","t":"Lonicera, Diervilla","en":"honeysuckle","fr":"chèvrefeuille","he":"יערה (צמח)"}
+{"T":"r","L":"caprimuljo","C":["n","avia"],"d":"un avia noturna e insetivor con plumas grisin brun, oios e boca grande, e vose distinguinte","i":"#","t":"Caprimulgidae","en":"goatsucker, nightjar, nighthawk","fr":"(un) engoulevent (oiseau)","he":"תחמס (ציפור)"}
+{"T":"r","L":"capriol","C":["n","mam"],"d":"un servo peti de Eurasia","i":"#","t":"Capreolus","en":"roe deer","fr":"(un) chevreuil","he":"אייל הכרמל"}
+{"L":"capriol mas","C":["n"],"en":"roebuck","fr":"(un) chevreuil","he":"אייל הכרמל (זכר)"}
+{"T":"r","L":"capris","C":["n","uma"],"d":"un cambia subita o nonpredisable de umor o condui","da":"lune, indfald","de":"Laune, Grille","en":"caprice, whim, whimsy","es":"capricho, antojo","fr":"(un) caprice, (une) lubie","he":"קפריזה, גחמה"}
+{"L":"caprisal","C":["a"],"en":"arbitrary","fr":"arbitraire, irréfléchi, fantasque, inconséquent","he":"שרירותי"}
+{"L":"caprisia","C":["n"],"en":"capriciousness, whimsy","fr":"caractère capricieux, fantasque","he":"קפריזיות, גחמנות"}
+{"L":"caprisosa","C":["a"],"en":"capricious, whimsical","fr":"capricieux, lunatique, changeant, inconséquent, fantasque","he":"קפריזי, גחמני"}
+{"T":"r","L":"capside","C":["n","bio"],"d":"un casca de protenas ensircante un virus","en":"capsid","fr":"(une) capside"}
+{"T":"r","L":"capsula","C":["n","util","bio"],"d":"un contenador peti, tipal ronda o silindre; un contenador multe peti de jelatin, conteninte un cuantia de medisin; la membrana o gaina dur cual enclui alga cosa en la corpo, como la ren; la strato jelatin cual formi la surfas esterna de alga selulas baterial; un fruta seca cual rompe per relasa sua semes cuando matur; la strutur cual produi sporas en moses e epaticas","en":"capsule","fr":"(une) capsule, (une) gellule","he":"כמוסה, קפסולה; (בוטניקה) תרמיל, הלקט, נרתיק; (אנטומיה) מעטפת"}
+{"L":"capsula de percute","C":["n"],"en":"percussion cap","fr":"amorce (dans une munition)","he":"(נשק) מנעל כוסית הנקישה"}
+{"L":"capsula de tempo","C":["n"],"en":"time capsule","fr":"capsule temporelle","he":"כמוסת זמן"}
+{"L":"capsula spinosa","C":["n"],"en":"bur, burr","fr":"bogue","he":"תרמיל זרע קוצני"}
+{"L":"capsuli","C":["vt"],"en":"encapsulate","fr":"encapsuler","he":"לעטוף, לסגור (בקפסולה), לכמס"}
+{"L":"capsuli","C":["n"],"en":"encapsulation","fr":"encapsulation","he":"כמיסה, עטיפה, סגירה (בקפסולה); (מחשבים) כימוס"}
+{"T":"r","L":"caputxin","C":["n","mam"],"d":"un simia de America Sude con un xapeta de capeles cual sembla un capeta","i":"#","t":"Cebus","en":"capuchin (monkey)","fr":"capucin (singe)","he":"קפוצ'ין (קוף)"}
+{"T":"r","L":"caputxino","C":["n","cos"],"d":"cafe preparada con lete cual on ia spuma con vapor compresada","en":"cappuccino (coffee)","fr":"(un) capuccino (café)","he":"קפוצ'ינו, קפה הפוך"}
 {"T":"r","L":"car","C":["sj"],"d":"par causa ce","n":"`Car` indica la causa; `afin` indica la intende.","u":"me surie car me es felis","v":"afin","da":"fordi","de":"weil","en":"because, cos, as, since, for","fr":"parce que, car","he":"כי, בגלל ש, מכיוון ש, מאחר ש, משום ש"}
 {"T":"r","L":"cara","C":["a"],"d":"regardada con ama o aminia; usada en la forma cortes de nomi la lejor a la comensa de un letera; custosa","da":"dyr, kær; kostbar","de":"lieb; teuer, kostspielig","en":"dear, beloved, cherished, darling, cute; expensive, costly, pricey","es":"querido, apreciado, estimado, amado, precioso; caro, costoso","fr":"cher, aimé; coûteux","he":"יקיר, אהוב; יקר"}
 {"L":"cara","C":["n"],"en":"dear, beloved, darling","he":"יקיר, אהוב"}
@@ -15796,6 +15796,7 @@
 {"L":"a matina doman","C":["av"],"en":"tomorrow morning"}
 {"L":"a matina ier","C":["av"],"en":"yesterday morning"}
 {"L":"a matina oji","C":["av"],"en":"this morning"}
+{"L":"matinal","C":["a"],"en":"morning, matutinal","fr":"matinal"}
 {"L":"matini","C":["vnt"],"en":"dawn, become day, become morning"}
 {"L":"matini","C":["n"],"en":"dawn, daybreak; threshold (metaphor)"}
 {"L":"matinor","C":["n"],"ca":"matiner","en":"morning person, early bird, early riser","es":"madrugador","fr":"lève-tôt, matineux","it":"uccello in anticipo","pt":"madrugador"}
@@ -19473,6 +19474,7 @@
 {"L":"patrilinial","C":["a"],"en":"patrilineal"}
 {"T":"r","L":"patriota","C":["a","gov"],"d":"avente o espresante un dedica a e suporta forte per sua pais o nasion","en":"patriotic"}
 {"L":"patriota","C":["n"],"en":"patriot"}
+{"L":"nonpatriota","C":["a"],"en":"unpatriotic"}
 {"L":"patriotisme","C":["n"],"en":"patriotism"}
 {"T":"r","L":"patrulia","C":["vt","gov"],"d":"garda o atende (un area) par pasea o viaja sirca o tra lo","en":"patrol"}
 {"L":"patrulia","C":["n"],"en":"patrol"}
