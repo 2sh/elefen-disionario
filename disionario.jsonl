@@ -4887,111 +4887,111 @@
 {"L":"recatura","C":["vt"],"en":"recapture","fr":"recapturer, reprendre","he":"ללכוד שוב"}
 {"T":"r","L":"caturamosca","C":["n","vn","avia"],"d":"un avia ci catura insetos volante","i":"#","t":"Muscicapidae","en":"flycatcher, chat","fr":"(un) gobe-mouche, (un) gobemouche (oiseau)","he":"חטפית (ציפור)"}
 {"T":"r","L":"caturamus","C":["n","vn"],"d":"un trapa per catura o mata muses, tipal con un bara cual cade subita cuando la mus toca un comeda tentante","en":"mousetrap","fr":"(un) piège à souris, (une) souricière","he":"מלכודת עכברים"}
-{"T":"r","L":"cauboi","C":["n"],"d":"un om, tipal un cavalor, ci gida manadas de boves en la ueste de America Norde, selebrada en novelas e filmas","en":"cowboy (North American), buckaroo","he":"קאובוי, בוקר"}
-{"T":"r","L":"Caucaso","C":["n","jeo"],"d":"un rejion montaniosa en Europa sude-este e Asia sude-ueste, entre la Mar Negra e la Mar Caspio","i":"#","en":"Caucasus, Caucasia","fr":"Caucase","he":"קווקז"}
-{"L":"caucasian","C":["a"],"en":"Caucasian (of the Caucasus)","he":"קווקזי"}
-{"L":"Caucasos","C":["n","pl","jeo"],"d":"la Montes Caucaso","en":"Caucasus Mountains","he":"הרי הקווקז"}
-{"L":"Montes Caucaso","C":["n","pl","jeo"],"d":"du cadenas de montes en Caucaso","en":"Caucasus Mountains","he":"הרי הקווקז"}
-{"T":"r","L":"caucasoide","C":["a"],"d":"(ofendente e no plu usada) de la raza de Europa, Asia ueste e Africa norde","en":"Caucasoid","he":"(גזע) לבן"}
-{"T":"r","L":"cauri","C":["n","mol"],"d":"un molusco de mar con conca lisa, briliante e cupolin, con abri longa e magra","i":"#","t":"Cypraeidae","en":"cowrie (shell, mollusc)","he":"חילזון ימי"}
-{"T":"r","L":"causa","C":["vt"],"d":"fa ce (alga cosa) aveni","da":"forårsage, bevirke","de":"verursachen","en":"cause, entrain, wreak, underlie, result in","es":"causar, originar","fr":"causer","he":"לגרום"}
-{"L":"causa","C":["n"],"en":"cause, grounds; causation","he":"גורם, סיבה"}
-{"L":"causal","C":["a"],"en":"causal","he":"סיבתי"}
-{"L":"causalia","C":["n"],"en":"causality","he":"סיבתיות"}
-{"L":"par causa ce","C":["sj"],"en":"because","he":"כי, בגלל ש, מכיוון ש, מאחר ש, משום ש"}
-{"L":"par causa de","C":["prep"],"de":"wegen","en":"because of, due to, owing to, thanks to","he":"בגלל, עקב, בשל, הודות ל"}
-{"T":"r","L":"cauta","C":["a"],"d":"atendente problemes o periles posible, per evita los","da":"forsigtighed, påpasselighed","en":"cautious, careful, wary, prudent, heedful, conservative, circumspect","fr":"attention, prudence","he":"זהיר, שקול"}
-{"L":"cautia","C":["n"],"de":"Vorsicht","en":"caution, carefulness, prudence, discretion, heedfulness","es":"precaución, prudencia, cautela","he":"זהירות, שיקול-דעת"}
-{"L":"noncauta","C":["a"],"en":"impulsive, foolhardy, rash, heedless, hare-brained","he":"פזיז, נמהר, אימפולסיבי"}
-{"L":"noncautia","C":["n"],"en":"impulsiveness, temerity","he":"פזיזות, אימפולסיביות"}
-{"T":"r","L":"cauteri","C":["vt","med"],"d":"arde la pel o carne de (un feri) con un strumento calda o materia corodente, tipal per para sangui o preveni infeta","en":"cauterize|is","he":"(רפואה) לצרוב, לחרוך"}
-{"L":"cauteri","C":["n"],"en":"cauterization|is","he":"(רפואה) צריבה, חריכה"}
-{"L":"cauterador","C":["n"],"en":"cautery","he":"(רפואה) צורב"}
-{"T":"r","L":"cauxo","C":["n","cim"],"d":"un materia dur e elastica, composada de la latex de un planta tropical o par sintese","da":"gummi","de":"Gummi","en":"rubber","es":"hule, caucho, goma","fr":"caoutchouc","he":"גומי"}
-{"L":"cauxi","C":["vt"],"en":"rubberize|is","he":"לצפות בגומי"}
-{"L":"cauxi","C":["n"],"en":"rubberization|is","he":"ציפוי בגומי"}
-{"T":"r","L":"cava","C":["n","tera","anat"],"d":"un cambra grande, tipal de orijina natural, en la lado de un colina o un falesa, tipal estende su la tera; un strutur artifis cual sembla esta","da":"hule","de":"Höhle","en":"cave, grotto","es":"cueva","fr":"grotte","he":"מערה"}
-{"L":"cava de bir","C":["n"],"en":"beer cellar, rathskeller","he":"מרתף בירה"}
-{"L":"cava de vino","C":["n"],"i":"#","en":"wine cellar","he":"מרתף יין"}
-{"L":"caveta","C":["n"],"da":"hul","de":"hohl","en":"cavity, hollow, pit; socket (joint)","fr":"cavité","he":"מחילה, בקיע, בור; מגרעת, שקע, גומחה"}
-{"L":"caveta nasal","C":["n"],"en":"nasal cavity","he":"חלל האף, מערות האף"}
-{"L":"cavetin","C":["a"],"en":"hollow","es":"hueco, vacío, concavo","he":"חלול"}
-{"L":"cavon","C":["n"],"d":"un cava vasta","i":"#","en":"cavern","he":"מערה גדולה"}
-{"L":"cavor","C":["n"],"en":"caver, potholer, spelunker","he":"טייל מערות"}
-{"T":"r","L":"cava","C":["n","pla","cos"],"d":"un arboreta polinesian en familia de peper; un bevida calminte, produida de la radis de esta","i":"cava-planta","t":"Piper methysticum","en":"kava (plant)","he":"קאבה (צמח)"}
-{"T":"r","L":"cavalo","C":["n","mam"],"d":"un mamal erbivor grande, domada per monta, corsa e tira carga; un peso de xace cual sembla la testa de esta; un unia de potia, tipal usada per descrive motores","i":"#","t":"Equus caballus","da":"hest","de":"Pferd","en":"horse, steed; knight (chess); horsepower (measurement)","es":"caballo","fr":"cheval","he":"סוס; כוח סוס; (שחמט) פרש"}
-{"L":"cavalo de corsa","C":["n"],"en":"racehorse","he":"סוס מרוץ"}
-{"L":"cavalo de gera","C":["n"],"en":"warhorse","he":"סוס מלחמה; שועל קרבות"}
-{"L":"cavalo-de-mar","C":["n","ani","pex"],"d":"un pex peti con armur sesionida, beco tubo, coda risa e prensil, posa vertical, e testa e colo semblante los de un cavalo","i":"#","t":"Hippocampus","en":"seahorse","he":"סוסון ים"}
-{"L":"cavalo fema","C":["n"],"en":"mare","he":"סוסה"}
-{"L":"cavalo mas","C":["n"],"en":"stallion","he":"סוס זכר, סוס הרבעה"}
-{"L":"cavalo osilante","C":["n"],"i":"#","en":"rocking horse","he":"סוס נדנדה"}
-{"L":"cavalo peti","C":["n"],"en":"pony","he":"פוני (סוס)"}
-{"L":"cavalal","C":["a"],"en":"equine","he":"סוסי"}
-{"L":"cavaleta","C":["n"],"d":"un cavalo joven; un strutur de lenio inclinada per suporta un table, un plance sierida, o un lona de artiste","en":"foal, colt, filly; easel, trestle, sawhorse, sawbuck; gantry; kickstand (bicycle)","he":"סייח; כן (ציור), חמור שולחן; רגלית (אופניים)"}
-{"L":"Cavaleta","C":["n","ast"],"d":"un constela minor","en":"Equuleus (constellation)","he":"סוסון (קבוצת כוכבים)"}
-{"L":"cavalin","C":["a"],"en":"horselike","he":"דמוי סוס"}
-{"L":"cavalor","C":["n"],"i":"#","en":"horse rider, horseman, horsewoman, equestrian; knight, cavalryman, cavalier; knight (tarot)","he":"פרש, רוכב (סוסים); אביר"}
-{"L":"cavaloral","C":["a"],"en":"horseriding, equestrian","he":"שקשור ברכיבת סוסים"}
-{"L":"cavalores","C":["n","pl"],"en":"cavalry","he":"חיל פרשים"}
-{"L":"cavalori","C":["vnt"],"en":"be knighted","he":"לקבל תואר אבירות"}
-{"L":"cavalori","C":["vt"],"en":"knight","he":"להעניק תואר אבירות"}
-{"L":"cavaloria","C":["n"],"en":"chivalry; horsemanship","he":"אבירות, אצילות; פרשוּת"}
-{"L":"titulo de cavalor","C":["n"],"en":"knighthood","he":"תואר אבירות"}
-{"T":"r","L":"cavia","C":["n","mam"],"d":"un rodente de America Sude, con corpo spesa e coda vestijial","i":"#","t":"Cavia, Caviinae","en":"cavy, guinea pig","he":"שרקן, קביה, חזיר ים"}
-{"T":"r","L":"caviar","C":["n","cos"],"d":"la ovos de la sturion o otra pex grande, comeda como un deleta","i":"#","en":"caviar","he":"קוויאר"}
-{"T":"r","L":"cavil","C":["n","arci","util"],"d":"un peso silindre de lenio o otra materia, usada per fisa, marca o pende","en":"peg, dowel","he":"יתד, פין"}
-{"L":"cavil de rota","C":["n"],"en":"linchpin","he":"פין גלגל"}
-{"T":"r","L":"caxa","C":["n","util"],"d":"un contenador con funda e lados plana, tipal retangulo e cluable; un strutur simil per proteje alga cosa","da":"æske, kasse, boks","de":"Kasten, Schachtel, Karton","en":"box, coffer; case, casing, housing","es":"caja","fr":"boîte","he":"קופסה, תיבה, ארגז"}
-{"L":"caxa de arena","C":["n"],"i":"#","en":"sandbox, sandpit","he":"ארגז חול"}
-{"L":"caxa de carton","C":["n"],"i":"#","en":"cardboard box, carton","he":"קופסת קרטון"}
-{"L":"caxa de come","C":["n"],"i":"#","en":"lunch box","he":"תיק אוכל"}
-{"L":"caxa de ensofable","C":["n"],"en":"snuffbox","he":"קופסת טבק הרחה"}
-{"L":"caxa de esibi","C":["n"],"en":"display case, showcase, vitrine, shadow box","he":"תיבת תצוגה, ויטרינה"}
-{"L":"caxa de fosfores","C":["n"],"en":"box of matches, matchbox","he":"קופסת גפרורים"}
-{"L":"caxa de junta","C":["n"],"en":"miter|re box","he":"תיבת זיווי"}
-{"L":"caxa de leto","C":["n"],"en":"footlocker","he":"ארגז אחסון (לחיילים)"}
+{"T":"r","L":"cauboi","C":["n"],"d":"un om, tipal un cavalor, ci gida manadas de boves en la ueste de America Norde, selebrada en novelas e filmas","en":"cowboy (North American), buckaroo","fr":"(un) cow-boy","he":"קאובוי, בוקר"}
+{"T":"r","L":"Caucaso","C":["n","jeo"],"d":"un rejion montaniosa en Europa sude-este e Asia sude-ueste, entre la Mar Negra e la Mar Caspio","i":"#","en":"Caucasus, Caucasia","fr":"(le) Caucase","he":"קווקז"}
+{"L":"caucasian","C":["a"],"en":"Caucasian (of the Caucasus)","fr":"caucasien","he":"קווקזי"}
+{"L":"Caucasos","C":["n","pl","jeo"],"d":"la Montes Caucaso","en":"Caucasus Mountains","fr":"(les) monts Caucase","he":"הרי הקווקז"}
+{"L":"Montes Caucaso","C":["n","pl","jeo"],"d":"du cadenas de montes en Caucaso","en":"Caucasus Mountains","fr":"(les) monts Caucase","he":"הרי הקווקז"}
+{"T":"r","L":"caucasoide","C":["a"],"d":"(ofendente e no plu usada) de la raza de Europa, Asia ueste e Africa norde","en":"Caucasoid","fr":"caucasien","he":"(גזע) לבן"}
+{"T":"r","L":"cauri","C":["n","mol"],"d":"un molusco de mar con conca lisa, briliante e cupolin, con abri longa e magra","i":"#","t":"Cypraeidae","en":"cowrie (shell, mollusc)","fr":"porcelaine (mollusque marin)","he":"חילזון ימי"}
+{"T":"r","L":"causa","C":["vt"],"d":"fa ce (alga cosa) aveni","da":"forårsage, bevirke","de":"verursachen","en":"cause, entrain, wreak, underlie, result in","es":"causar, originar","fr":"causer, provoquer, occasionner, produire","he":"לגרום"}
+{"L":"causa","C":["n"],"en":"cause, grounds; causation","fr":"(la) cause","he":"גורם, סיבה"}
+{"L":"causal","C":["a"],"en":"causal","fr":"causal","he":"סיבתי"}
+{"L":"causalia","C":["n"],"en":"causality","fr":"(la) causalité","he":"סיבתיות"}
+{"L":"par causa ce","C":["sj"],"en":"because","fr":"parce que, car","he":"כי, בגלל ש, מכיוון ש, מאחר ש, משום ש"}
+{"L":"par causa de","C":["prep"],"de":"wegen","en":"because of, due to, owing to, thanks to","fr":"à cause de, du fait de, en raison de, par, par suite de, suite à","he":"בגלל, עקב, בשל, הודות ל"}
+{"T":"r","L":"cauta","C":["a"],"d":"atendente problemes o periles posible, per evita los","da":"forsigtighed, påpasselighed","en":"cautious, careful, wary, prudent, heedful, conservative, circumspect","fr":"attentif, prudent, avisé, défiant, méfiant, précautionneux, réfléchi, vigilant, circonspect","he":"זהיר, שקול"}
+{"L":"cautia","C":["n"],"de":"Vorsicht","en":"caution, carefulness, prudence, discretion, heedfulness","es":"precaución, prudencia, cautela","fr":"attention, prudence, circonspection, précaution, vigilance","he":"זהירות, שיקול-דעת"}
+{"L":"noncauta","C":["a"],"en":"impulsive, foolhardy, rash, heedless, hare-brained","fr":"imprudent, impulsif, irréfléchi, téméraire, inconscient","he":"פזיז, נמהר, אימפולסיבי"}
+{"L":"noncautia","C":["n"],"en":"impulsiveness, temerity","fr":"imprudence, impulsivité, irréflexion, témérité, inconscience","he":"פזיזות, אימפולסיביות"}
+{"T":"r","L":"cauteri","C":["vt","med"],"d":"arde la pel o carne de (un feri) con un strumento calda o materia corodente, tipal per para sangui o preveni infeta","en":"cauterize|is","fr":"cautériser","he":"(רפואה) לצרוב, לחרוך"}
+{"L":"cauteri","C":["n"],"en":"cauterization|is","fr":"cautérisation","he":"(רפואה) צריבה, חריכה"}
+{"L":"cauterador","C":["n"],"en":"cautery","fr":"(un) cautère","he":"(רפואה) צורב"}
+{"T":"r","L":"cauxo","C":["n","cim"],"d":"un materia dur e elastica, composada de la latex de un planta tropical o par sintese","da":"gummi","de":"Gummi","en":"rubber","es":"hule, caucho, goma","fr":"(le) caoutchouc","he":"גומי"}
+{"L":"cauxi","C":["vt"],"en":"rubberize|is","fr":"caoutchouter","he":"לצפות בגומי"}
+{"L":"cauxi","C":["n"],"en":"rubberization|is","fr":"(le) caoutchoutage","he":"ציפוי בגומי"}
+{"T":"r","L":"cava","C":["n","tera","anat"],"d":"un cambra grande, tipal de orijina natural, en la lado de un colina o un falesa, tipal estende su la tera; un strutur artifis cual sembla esta","da":"hule","de":"Höhle","en":"cave, grotto","es":"cueva","fr":"(une) grotte","he":"מערה"}
+{"L":"cava de bir","C":["n"],"en":"beer cellar, rathskeller","fr":"(une) cave à bière","he":"מרתף בירה"}
+{"L":"cava de vino","C":["n"],"i":"#","en":"wine cellar","fr":"(une) cave à vin","he":"מרתף יין"}
+{"L":"caveta","C":["n"],"da":"hul","de":"hohl","en":"cavity, hollow, pit; socket (joint)","fr":"(une) cavité","he":"מחילה, בקיע, בור; מגרעת, שקע, גומחה"}
+{"L":"caveta nasal","C":["n"],"en":"nasal cavity","fr":"cavité nasale","he":"חלל האף, מערות האף"}
+{"L":"cavetin","C":["a"],"en":"hollow","es":"hueco, vacío, concavo","fr":"creux","he":"חלול"}
+{"L":"cavon","C":["n"],"d":"un cava vasta","i":"#","en":"cavern","fr":"(une) caverne","he":"מערה גדולה"}
+{"L":"cavor","C":["n"],"en":"caver, potholer, spelunker","fr":"spéléologue","he":"טייל מערות"}
+{"T":"r","L":"cava","C":["n","pla","cos"],"d":"un arboreta polinesian en familia de peper; un bevida calminte, produida de la radis de esta","i":"cava-planta","t":"Piper methysticum","en":"kava (plant)","fr":"(le) kava (plante)","he":"קאבה (צמח)"}
+{"T":"r","L":"cavalo","C":["n","mam"],"d":"un mamal erbivor grande, domada per monta, corsa e tira carga; un peso de xace cual sembla la testa de esta; un unia de potia, tipal usada per descrive motores","i":"#","t":"Equus caballus","da":"hest","de":"Pferd","en":"horse, steed; knight (chess); horsepower (measurement)","es":"caballo","fr":"(un) cheval","he":"סוס; כוח סוס; (שחמט) פרש"}
+{"L":"cavalo de corsa","C":["n"],"en":"racehorse","fr":"cheval de course","he":"סוס מרוץ"}
+{"L":"cavalo de gera","C":["n"],"en":"warhorse","fr":"cheval de bataille","he":"סוס מלחמה; שועל קרבות"}
+{"L":"cavalo-de-mar","C":["n","ani","pex"],"d":"un pex peti con armur sesionida, beco tubo, coda risa e prensil, posa vertical, e testa e colo semblante los de un cavalo","i":"#","t":"Hippocampus","en":"seahorse","fr":"(un) hippocampe","he":"סוסון ים"}
+{"L":"cavalo fema","C":["n"],"en":"mare","fr":"(une) jument","he":"סוסה"}
+{"L":"cavalo mas","C":["n"],"en":"stallion","fr":"(un) étalon","he":"סוס זכר, סוס הרבעה"}
+{"L":"cavalo osilante","C":["n"],"i":"#","en":"rocking horse","fr":"cheval à bascule","he":"סוס נדנדה"}
+{"L":"cavalo peti","C":["n"],"en":"pony","fr":"(un) poney","he":"פוני (סוס)"}
+{"L":"cavalal","C":["a"],"en":"equine","fr":"équin","he":"סוסי"}
+{"L":"cavaleta","C":["n"],"d":"un cavalo joven; un strutur de lenio inclinada per suporta un table, un plance sierida, o un lona de artiste","en":"foal, colt, filly; easel, trestle, sawhorse, sawbuck; gantry; kickstand (bicycle)","fr":"(un) poulain, (une) pouliche; (des) tréteaux; (un) chevalet","he":"סייח; כן (ציור), חמור שולחן; רגלית (אופניים)"}
+{"L":"Cavaleta","C":["n","ast"],"d":"un constela minor","en":"Equuleus (constellation)","fr":"(le) Petit CHeval (constellation)","he":"סוסון (קבוצת כוכבים)"}
+{"L":"cavalin","C":["a"],"en":"horselike","fr":"chevalin","he":"דמוי סוס"}
+{"L":"cavalor","C":["n"],"i":"#","en":"horse rider, horseman, horsewoman, equestrian; knight, cavalryman, cavalier; knight (tarot)","fr":"(un) cavalier; (un) chevalier","he":"פרש, רוכב (סוסים); אביר"}
+{"L":"cavaloral","C":["a"],"en":"horseriding, equestrian","fr":"équestre","he":"שקשור ברכיבת סוסים"}
+{"L":"cavalores","C":["n","pl"],"en":"cavalry","fr":"(la) cavalerie","he":"חיל פרשים"}
+{"L":"cavalori","C":["vnt"],"en":"be knighted","fr":"être élevé au titre de chevalier, être adoubé","he":"לקבל תואר אבירות"}
+{"L":"cavalori","C":["vt"],"en":"knight","fr":"adouber, élever au titre de chevalier","he":"להעניק תואר אבירות"}
+{"L":"cavaloria","C":["n"],"en":"chivalry; horsemanship","fr":"chevalerie","he":"אבירות, אצילות; פרשוּת"}
+{"L":"titulo de cavalor","C":["n"],"en":"knighthood","fr":"titre de chevalier, rang de chevalier","he":"תואר אבירות"}
+{"T":"r","L":"cavia","C":["n","mam"],"d":"un rodente de America Sude, con corpo spesa e coda vestijial","i":"#","t":"Cavia, Caviinae","en":"cavy, guinea pig","fr":"(un) cochon d'inde, (un) cobaye","he":"שרקן, קביה, חזיר ים"}
+{"T":"r","L":"caviar","C":["n","cos"],"d":"la ovos de la sturion o otra pex grande, comeda como un deleta","i":"#","en":"caviar","fr":"(le) caviar","he":"קוויאר"}
+{"T":"r","L":"cavil","C":["n","arci","util"],"d":"un peso silindre de lenio o otra materia, usada per fisa, marca o pende","en":"peg, dowel","fr":"(un) tourillon, (une) cheville","he":"יתד, פין"}
+{"L":"cavil de rota","C":["n"],"en":"linchpin","fr":"(une) cheville de roue","he":"פין גלגל"}
+{"T":"r","L":"caxa","C":["n","util"],"d":"un contenador con funda e lados plana, tipal retangulo e cluable; un strutur simil per proteje alga cosa","da":"æske, kasse, boks","de":"Kasten, Schachtel, Karton","en":"box, coffer; case, casing, housing","es":"caja","fr":"(une) caisse, (une) boîte, (un) coffre, (une) malle","he":"קופסה, תיבה, ארגז"}
+{"L":"caxa de arena","C":["n"],"i":"#","en":"sandbox, sandpit","fr":"(un) bac à sable","he":"ארגז חול"}
+{"L":"caxa de carton","C":["n"],"i":"#","en":"cardboard box, carton","fr":"(un) carton, (une boîte en carton)","he":"קופסת קרטון"}
+{"L":"caxa de come","C":["n"],"i":"#","en":"lunch box","fr":"(une) gamelle","he":"תיק אוכל"}
+{"L":"caxa de ensofable","C":["n"],"en":"snuffbox","fr":"(une) tabatière, (une) boîte à tabac","he":"קופסת טבק הרחה"}
+{"L":"caxa de esibi","C":["n"],"en":"display case, showcase, vitrine, shadow box","fr":"(une) vitrine","he":"תיבת תצוגה, ויטרינה"}
+{"L":"caxa de fosfores","C":["n"],"en":"box of matches, matchbox","fr":"(une) boîte d'allumettes","he":"קופסת גפרורים"}
+{"L":"caxa de junta","C":["n"],"en":"miter|re box","fr":"(une) boîte à onglets","he":"תיבת זיווי"}
+{"L":"caxa de leto","C":["n"],"en":"footlocker","fr":"(une) cantine (coffret)","he":"ארגז אחסון (לחיילים)"}
 {"L":"caxa de olio","C":["n"],"en":"oil pan, sump","he":"אגן שמן, קרטר"}
-{"L":"caxa de pan","C":["n"],"en":"breadbox, bread bin","he":"ארגז לחם"}
-{"L":"caxa de Pandora","C":["n"],"en":"Pandora's box","he":"תיבת פנדורה"}
-{"L":"caxa de posta","C":["n"],"i":"#","en":"mailbox, postbox","he":"תיבת דואר"}
-{"L":"caxa de utiles","C":["n"],"en":"toolbox","he":"ארגז כלים"}
-{"L":"caxa rejistrante","C":["n"],"i":"#","en":"cash register, till","he":"קופה רושמת"}
-{"L":"caxa secur","C":["n"],"i":"#","en":"safe, locker, strongbox","he":"כספת"}
-{"L":"caxeta","C":["n"],"en":"drawer; cassette","he":"מגירה; קלטת, קסטה"}
-{"L":"caxeta audio","C":["n"],"en":"audio cassette","he":"קלטת אודיו"}
-{"L":"caxeta video","C":["n"],"en":"video cassette","he":"קלטת וידאו"}
-{"L":"caxi","C":["vt"],"en":"box, encase; embed, imbed, nest","he":"לסגור (בארגז); לשבץ, להטמיע"}
-{"L":"caxi bon","C":["vt"],"en":"encase well, fit well around","he":"לארוז במהודק"}
-{"L":"caxin","C":["a"],"en":"boxlike, boxy","he":"קופסתי"}
-{"L":"caxon","C":["n"],"i":"#","en":"chest, crate, soapbox","he":"תיבה, ארגז (גדול)"}
-{"L":"caxon funeral","C":["n"],"i":"#","en":"coffin","he":"ארון מתים"}
-{"L":"caxor","C":["n"],"en":"cashier, clerk, purser, bursar, scrivener","he":"קופאי"}
-{"T":"r","L":"caxalote","C":["n","mam"],"d":"un balena con dentes e un testa enorme, ci come tipal calamares a profondia grande, istorial valuada per la spermaseti e olio en sua testa e la ambargris en sua intestines","i":"#","t":"Physeter macrocephalus","en":"sperm whale","he":"ראשתן גדול-ראש, לוויתן זרע"}
-{"T":"r","L":"caxer","C":["a","rel","cos"],"d":"(un comeda o restorante) sasiante la leges tradisional iudi","en":"kosher, kasher","he":"כשר"}
-{"L":"noncaxer","C":["a"],"en":"non-kosher","he":"לא כשר"}
-{"T":"r","L":"caxmir","C":["n","vest"],"d":"un lana suave, orijinal de la capras de Caxmir; un stofa fabricada de esta o de lana simil","en":"cashmere","he":"קשמיר (צמר)"}
-{"T":"r","L":"Caxmir","C":["n","jeo"],"d":"un rejion a la borda norde de Barat e Pacistan, reclamada par ambos","i":"#","en":"Kashmir","he":"קשמיר (אזור בהודו ופקיסטן)"}
-{"L":"caxmiri","C":["a"],"en":"Kashmiri","he":"תושב קשמיר"}
-{"T":"r","L":"caxofa","C":["n","pla","cos"],"d":"un planta european, cultivada per sua brotos grande, de cual partes es comable","i":"#","t":"Cynara cardunculus","en":"artichoke","he":"ארטישוק, קנרס"}
-{"T":"r","L":"Cazacstan","C":["n","jeo"],"c":"Astana","d":"un pais en Asia sentral, a sude de Rusia, entre la Mar Caspio e la Montes Altai","i":"#","en":"Kazakhstan","he":"קזחסטן"}
-{"L":"cazac","C":["a"],"en":"Kazakh, Kazakhstani (person, language)","he":"קזחי, קזחית (שפה)"}
-{"L":"cazac","C":["n","dem"],"en":"Kazakh, Kazakhstani (person, language)","he":"קזחי, קזחית (שפה)"}
-{"T":"r","L":"cazu","C":["n","mus"],"d":"un strumento musical peti e simple, composada de un tubo con un fora con un covrente cual vibra cuando on canta o zumbi en la tubo","i":"#","p":"cazú","en":"kazoo, mirliton (musical instrument)","he":"קאזו, ציקוצית (כלי נגינה)"}
-{"T":"r","L":"cd","C":["c","info"],"d":"disco compata","en":"CD","he":"תקליטור, דיסק"}
+{"L":"caxa de pan","C":["n"],"en":"breadbox, bread bin","fr":"(une) corbeille à pain","he":"ארגז לחם"}
+{"L":"caxa de Pandora","C":["n"],"en":"Pandora's box","fr":"(la) boîte de Pandore","he":"תיבת פנדורה"}
+{"L":"caxa de posta","C":["n"],"i":"#","en":"mailbox, postbox","fr":"(une) boîte aux lettres","he":"תיבת דואר"}
+{"L":"caxa de utiles","C":["n"],"en":"toolbox","fr":"(une) boîte à outils","he":"ארגז כלים"}
+{"L":"caxa rejistrante","C":["n"],"i":"#","en":"cash register, till","fr":"(une) caisse enregistreuse","he":"קופה רושמת"}
+{"L":"caxa secur","C":["n"],"i":"#","en":"safe, locker, strongbox","fr":"(un) coffre-fort","he":"כספת"}
+{"L":"caxeta","C":["n"],"en":"drawer; cassette","fr":"(une) cassette","he":"מגירה; קלטת, קסטה"}
+{"L":"caxeta audio","C":["n"],"en":"audio cassette","fr":"(une) cassette audio","he":"קלטת אודיו"}
+{"L":"caxeta video","C":["n"],"en":"video cassette","fr":"(une) cassette vidéo","he":"קלטת וידאו"}
+{"L":"caxi","C":["vt"],"en":"box, encase; embed, imbed, nest","fr":"mettre en boîte, enfermer dans une boîte","he":"לסגור (בארגז); לשבץ, להטמיע"}
+{"L":"caxi bon","C":["vt"],"en":"encase well, fit well around","fr":"bien emballer, bien envelopper","he":"לארוז במהודק"}
+{"L":"caxin","C":["a"],"en":"boxlike, boxy","fr":"en forme de boîte","he":"קופסתי"}
+{"L":"caxon","C":["n"],"i":"#","en":"chest, crate, soapbox","fr":"(un) coffre, (une) caisse","he":"תיבה, ארגז (גדול)"}
+{"L":"caxon funeral","C":["n"],"i":"#","en":"coffin","fr":"(un) cercueil","he":"ארון מתים"}
+{"L":"caxor","C":["n"],"en":"cashier, clerk, purser, bursar, scrivener","fr":"(un) caissier","he":"קופאי"}
+{"T":"r","L":"caxalote","C":["n","mam"],"d":"un balena con dentes e un testa enorme, ci come tipal calamares a profondia grande, istorial valuada per la spermaseti e olio en sua testa e la ambargris en sua intestines","i":"#","t":"Physeter macrocephalus","en":"sperm whale","fr":"(un) cachalot","he":"ראשתן גדול-ראש, לוויתן זרע"}
+{"T":"r","L":"caxer","C":["a","rel","cos"],"d":"(un comeda o restorante) sasiante la leges tradisional iudi","en":"kosher, kasher","fr":"casher, cacher","he":"כשר"}
+{"L":"noncaxer","C":["a"],"en":"non-kosher","fr":"non casher","he":"לא כשר"}
+{"T":"r","L":"caxmir","C":["n","vest"],"d":"un lana suave, orijinal de la capras de Caxmir; un stofa fabricada de esta o de lana simil","en":"cashmere","fr":"(le) cachemire (laine)","he":"קשמיר (צמר)"}
+{"T":"r","L":"Caxmir","C":["n","jeo"],"d":"un rejion a la borda norde de Barat e Pacistan, reclamada par ambos","i":"#","en":"Kashmir","fr":"(le) Cachemire","he":"קשמיר (אזור בהודו ופקיסטן)"}
+{"L":"caxmiri","C":["a"],"en":"Kashmiri","fr":"cachemiri, cachemirien","he":"תושב קשמיר"}
+{"T":"r","L":"caxofa","C":["n","pla","cos"],"d":"un planta european, cultivada per sua brotos grande, de cual partes es comable","i":"#","t":"Cynara cardunculus","en":"artichoke","fr":"(un) artichaut","he":"ארטישוק, קנרס"}
+{"T":"r","L":"Cazacstan","C":["n","jeo"],"c":"Astana","d":"un pais en Asia sentral, a sude de Rusia, entre la Mar Caspio e la Montes Altai","i":"#","en":"Kazakhstan","fr":"(le) Kazakhstan","he":"קזחסטן"}
+{"L":"cazac","C":["a"],"en":"Kazakh, Kazakhstani (person, language)","fr":"kazakh","he":"קזחי, קזחית (שפה)"}
+{"L":"cazac","C":["n","dem"],"en":"Kazakh, Kazakhstani (person, language)","fr":"(un) Kazakh","he":"קזחי, קזחית (שפה)"}
+{"T":"r","L":"cazu","C":["n","mus"],"d":"un strumento musical peti e simple, composada de un tubo con un fora con un covrente cual vibra cuando on canta o zumbi en la tubo","i":"#","p":"cazú","en":"kazoo, mirliton (musical instrument)","fr":"(un) kazoo, (un) mirliton","he":"קאזו, ציקוצית (כלי נגינה)"}
+{"T":"r","L":"cd","C":["c","info"],"d":"disco compata","en":"CD","fr":"(un) CD","he":"תקליטור, דיסק"}
 {"T":"r","L":"ce","C":["sj"],"d":"usada per introdui un proposa suordinada cual espresa un declara o ipotese","n":"No confusa `ce` e `cual`. `Ce` no sinifia `cual cosa?`. Lo introdui sempre un suproposa cual presenta tipal la contenida de un dise o pensa o simil. E en la frase presedente, nota la usa de `cual`, no `ce`, en `un suproposa cual presenta`.","u":"me vide ce tu es triste; los insiste ce nos parti","da":"at","de":"dass","en":"that","es":"que","fr":"que","he":"ש-, אשר"}
-{"T":"r","L":"cea","C":["n","avia"],"d":"un papagaio de montania de Zeland Nova con beco longa e streta e plumas xef oliva, cual come caronia a veses","i":"#","t":"Nestor notabilis","en":"kea (bird)","he":"קיאה (ציפור)"}
-{"T":"r","L":"cebab","C":["n","cos"],"d":"un plato de carne e vejetales coceda e servida sur lansietas","i":"#","en":"kebab, kabob, shish kebab","eo":"ŝaŝliko, rostostanga kebabo","he":"קבב"}
-{"T":"r","L":"cectxi","C":["a","dem"],"d":"pertinente a un popla maia de Guatemala e Beliz, o a sua lingua","en":"Q'eqchi', Kekchi"}
-{"L":"cectxi","C":["n"],"en":"Q'eqchi', Kekchi (person, language)"}
-{"T":"r","L":"cela","C":["vnt","cim"],"d":"formi un composada en cual un liante (tipal organica) es liada a un atom metal a du o plu puntos","en":"chelate (chemistry)","he":"(כימיה) לצבת"}
-{"L":"cela","C":["n"],"en":"chelation","he":"(כימיה) כלציה, קלאציה, תצבית"}
-{"L":"celada","C":["a"],"en":"chelate","he":"(כימיה) כלאט"}
-{"L":"celada","C":["n"],"en":"chelate complex","he":"(כימיה) קומפלקס כלאט"}
-{"L":"celante","C":["a"],"en":"chelating","he":"(כימיה) שגורם לכלציה"}
-{"L":"celante","C":["n"],"en":"chelant, chelating agent","he":"(כימיה) כלאטור, קלאטור, גורם כלציה"}
-{"T":"r","L":"celaterapia","C":["n","med"],"d":"un terapia contra venena par mercurio o plomo, par sirculi un disolve celante en la sangue","en":"chelation, chelation therapy","he":"טיפול קלאציה"}
-{"T":"r","L":"celi","C":["n","mus"],"d":"un aveni sosial con musica, canta, dansa e nara, tradisional de Er o Scotland","en":"ceilidh (social event)","he":"אירוע חברתי בסקוטלנד ואירלנד"}
+{"T":"r","L":"cea","C":["n","avia"],"d":"un papagaio de montania de Zeland Nova con beco longa e streta e plumas xef oliva, cual come caronia a veses","i":"#","t":"Nestor notabilis","en":"kea (bird)","fr":"(un) nestor kéa, (un) kéa (perroquet)","he":"קיאה (ציפור)"}
+{"T":"r","L":"cebab","C":["n","cos"],"d":"un plato de carne e vejetales coceda e servida sur lansietas","i":"#","en":"kebab, kabob, shish kebab","eo":"ŝaŝliko, rostostanga kebabo","fr":"(un) kébab, (un) chiche-kébab","he":"קבב"}
+{"T":"r","L":"cectxi","C":["a","dem"],"d":"pertinente a un popla maia de Guatemala e Beliz, o a sua lingua","en":"Q'eqchi', Kekchi","fr":"q'eqchi'"}
+{"L":"cectxi","C":["n"],"en":"Q'eqchi', Kekchi (person, language)","fr":"Q'eqchi' (personne), le q'eqchi' (langue)"}
+{"T":"r","L":"cela","C":["vnt","cim"],"d":"formi un composada en cual un liante (tipal organica) es liada a un atom metal a du o plu puntos","en":"chelate (chemistry)","fr":"chélater","he":"(כימיה) לצבת"}
+{"L":"cela","C":["n"],"en":"chelation","fr":"chélation","he":"(כימיה) כלציה, קלאציה, תצבית"}
+{"L":"celada","C":["a"],"en":"chelate","fr":"chélaté","he":"(כימיה) כלאט"}
+{"L":"celada","C":["n"],"en":"chelate complex","fr":"(un) chélate","he":"(כימיה) קומפלקס כלאט"}
+{"L":"celante","C":["a"],"en":"chelating","fr":"chélateur","he":"(כימיה) שגורם לכלציה"}
+{"L":"celante","C":["n"],"en":"chelant, chelating agent","fr":"(un) chélateur, (un) agent chélateur","he":"(כימיה) כלאטור, קלאטור, גורם כלציה"}
+{"T":"r","L":"celaterapia","C":["n","med"],"d":"un terapia contra venena par mercurio o plomo, par sirculi un disolve celante en la sangue","en":"chelation, chelation therapy","fr":"chélation","he":"טיפול קלאציה"}
+{"T":"r","L":"celi","C":["n","mus"],"d":"un aveni sosial con musica, canta, dansa e nara, tradisional de Er o Scotland","en":"ceilidh (social event)","fr":"(un) céili, bal (bal traditionnel d'Irlande et d'Écosse)","he":"אירוע חברתי בסקוטלנד ואירלנד"}
 {"T":"r","L":"celpi","C":["n","mit"],"d":"(en folclor scotes) un spirito de acua con forma de cavalo; un can de pastor de Australia","en":"kelpie (mythology, dog)","he":"קלפי (דמות בפולקלור הסקוטי); קלפי אוסטרלי (כלב)"}
 {"T":"r","L":"celsius","C":["n","fis"],"d":"un scala de temperatur en cual acua jela a 0° e boli a 100°","v":"grado","en":"Celsius, centigrade","he":"צלזיוס"}
 {"T":"r","L":"celta","C":["a","dem"],"d":"pertinente a la poplas o linguas antica de Er, Britan, Frans e otra partes de Europa; pertinente a la poplas de Er, Scotland, Cimri, Bres, la Isola Man e Cerno, o a la linguas eres, gailica, cimri, bresonica, manes e cernoica","en":"Celtic","he":"קלטי"}
