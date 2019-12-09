@@ -2514,7 +2514,8 @@
 {"L":"avial","C":["a"],"en":"avian","fr":"aviaire, d'oiseau","he":"שקשור לציפורים"}
 {"L":"avias de cultiveria","C":["n","pl"],"en":"poultry, farm birds","fr":"volaille","he":"עופות (למאכל)"}
 {"L":"avieria","C":["n"],"en":"aviary","fr":"volière, oisellerie","he":"כלוב ציפורים, מקום גידול לציפורים"}
-{"L":"avieta","C":["n"],"en":"chick, fledgling, birdie","fr":"oisillon","he":"גוזל, אפרוח"}
+{"L":"avieta","C":["n"],"en":"chick, fledgling, birdie; newbie, noob, rookie","fr":"oisillon","he":"גוזל, אפרוח"}
+{"L":"avietin","C":["a"],"en":"fledgling, inexperienced, green"}
 {"T":"r","L":"avicultur","C":["n","avia"],"d":"la eleva de avias","o":"de latina avis (avia) + culturare (cultiva)","en":"aviculture","fr":"aviculture","he":"גידול ציפורים, גידול עופות"}
 {"T":"r","L":"avion","C":["n","vec"],"d":"un veculo propulsada e volante, con alas fisada, cual pesa plu ca la aira cual lo desloca","i":"#","da":"flyver, flyvemaskine","de":"Flugzeug","en":"airplane|aeroplane, aircraft","es":"avión, aeroplano, aeronave","fr":"avion","he":"מטוס, אווירון"}
 {"L":"avion comersial","C":["n"],"i":"#","en":"commercial aircraft, airliner","fr":"avion commercial, avion de ligne","he":"מטוס נוסעים"}
@@ -4946,7 +4947,7 @@
 {"L":"caxa de arena","C":["n"],"i":"#","en":"sandbox, sandpit","fr":"(un) bac à sable","he":"ארגז חול"}
 {"L":"caxa de carton","C":["n"],"i":"#","en":"cardboard box, carton","fr":"(un) carton, (une boîte en carton)","he":"קופסת קרטון"}
 {"L":"caxa de come","C":["n"],"i":"#","en":"lunch box","fr":"(une) gamelle","he":"תיק אוכל"}
-{"L":"caxa de ensofable","C":["n"],"en":"snuffbox","fr":"(une) tabatière, (une) boîte à tabac","he":"קופסת טבק הרחה"}
+{"L":"caxa de ensoflable","C":["n"],"en":"snuffbox","fr":"(une) tabatière, (une) boîte à tabac","he":"קופסת טבק הרחה"}
 {"L":"caxa de esibi","C":["n"],"en":"display case, showcase, vitrine, shadow box","fr":"(une) vitrine","he":"תיבת תצוגה, ויטרינה"}
 {"L":"caxa de fosfores","C":["n"],"en":"box of matches, matchbox","fr":"(une) boîte d'allumettes","he":"קופסת גפרורים"}
 {"L":"caxa de junta","C":["n"],"en":"miter|re box","fr":"(une) boîte à onglets","he":"תיבת זיווי"}
@@ -4992,66 +4993,66 @@
 {"L":"celante","C":["n"],"en":"chelant, chelating agent","fr":"(un) chélateur, (un) agent chélateur","he":"(כימיה) כלאטור, קלאטור, גורם כלציה"}
 {"T":"r","L":"celaterapia","C":["n","med"],"d":"un terapia contra venena par mercurio o plomo, par sirculi un disolve celante en la sangue","en":"chelation, chelation therapy","fr":"chélation","he":"טיפול קלאציה"}
 {"T":"r","L":"celi","C":["n","mus"],"d":"un aveni sosial con musica, canta, dansa e nara, tradisional de Er o Scotland","en":"ceilidh (social event)","fr":"(un) céili, bal (bal traditionnel d'Irlande et d'Écosse)","he":"אירוע חברתי בסקוטלנד ואירלנד"}
-{"T":"r","L":"celpi","C":["n","mit"],"d":"(en folclor scotes) un spirito de acua con forma de cavalo; un can de pastor de Australia","en":"kelpie (mythology, dog)","he":"קלפי (דמות בפולקלור הסקוטי); קלפי אוסטרלי (כלב)"}
-{"T":"r","L":"celsius","C":["n","fis"],"d":"un scala de temperatur en cual acua jela a 0° e boli a 100°","v":"grado","en":"Celsius, centigrade","he":"צלזיוס"}
-{"T":"r","L":"celta","C":["a","dem"],"d":"pertinente a la poplas o linguas antica de Er, Britan, Frans e otra partes de Europa; pertinente a la poplas de Er, Scotland, Cimri, Bres, la Isola Man e Cerno, o a la linguas eres, gailica, cimri, bresonica, manes e cernoica","en":"Celtic","he":"קלטי"}
-{"L":"celta","C":["n"],"en":"Celtic, Celt","he":"קלטי"}
-{"L":"Mar Celta","C":["n","jeo"],"d":"un mar a sude de Er, un parte de la Mar Atlantica","i":"#","en":"Celtic Sea","he":"הים הקלטי"}
-{"T":"r","L":"celtiberian","C":["a","dem"],"d":"pertinente a la popla de Iberia antica, e a sua lingua celta","en":"Celtiberian","he":"קלטיברי"}
-{"L":"celtiberian","C":["n"],"en":"Celtiberian","he":"קלטיברי"}
-{"T":"r","L":"celvin","C":["n","fis"],"d":"la unia internasional per mesura temperatur termodinamical, simil a celsius ma con sua zero a -273.15°C, la temperatur a cual la move termal sesa","en":"kelvin (unit of temperature)","he":"קלווין"}
-{"T":"r","L":"Cenia","C":["n","jeo"],"c":"Nairobi","d":"un pais en Africa este, bordante la Mar Indian","i":"#","en":"Kenya","he":"קניה (מדינה)"}
-{"L":"cenian","C":["a"],"en":"Kenyan","he":"קנייתי"}
-{"L":"cenian","C":["n"],"en":"Kenyan","he":"קנייתי"}
-{"T":"r","L":"centum","C":["a","ling"],"d":"(un lingua indoeuropean) cual no ia cambia la consonantes esplodente palatovelal a sisantes","en":"centum (language)"}
-{"T":"r","L":"ceratin","C":["n","bio"],"d":"un protena fibrosa cual formi la composante xef de capeles, plumas, ungulas, garas e cornos","en":"keratin","he":"קרטין"}
-{"T":"r","L":"ceratinosite","C":["n","bio"],"d":"la selula la plu comun en la epiderma","en":"keratocyte","he":"קרטינוציט"}
-{"T":"r","L":"cerem","C":["n","ling"],"d":"un unia fundal en linguas de sinia, simil a un fonem en linguas parlada","en":"chereme (unit of sign language)","he":"פונמה (בשפת סימנים)"}
-{"T":"r","L":"Cerno","C":["n","jeo"],"d":"un contia a la penisola estrema sude-ueste de England","i":"#","en":"Cornwall","he":"קורנוול"}
-{"L":"cernoica","C":["a"],"p":"cernoïca","en":"Cornish (person, language)","he":"קורנית (שפה)"}
-{"T":"r","L":"cerosen","C":["n","cim"],"d":"un olio carburante, fabricada par distila petrolio","en":"kerosene","he":"קרוסין"}
-{"T":"r","L":"cerubin","C":["n","rel","mit"],"d":"un anjel descriveda en la Biblia como un atendor de Dio; un enfante ronda con alas, comun en alga obras de arte","en":"cherub","he":"כרוב (מלאך)"}
-{"L":"cerubines","C":["n","pl"],"en":"cherubs, cherubim","he":"כרובים (מלאכים)"}
-{"T":"r","L":"cesadilia","C":["n","cos"],"d":"un tortilia plenida con ceso e caldida","i":"#","en":"quesadilla (tortilla)","he":"קסדייה"}
-{"T":"r","L":"cesar","C":["n","gov","ist"],"d":"un titulo de imperores roman","en":"Caesar (emperor)","he":"קיסר"}
-{"T":"r","L":"ceso","C":["n","cos"],"d":"un comeda fabricada par presa caliadas de lete; un masa moldida de esta","i":"#","da":"ost","de":"Käse","en":"cheese","es":"queso","fr":"fromage","he":"גבינה"}
-{"L":"ceso blanca","C":["n"],"en":"cottage cheese, farmer cheese, junket, quark, queso fresco, queijo fresco, fromage frais, fromage blanc","he":"גבינת קוטג'"}
-{"L":"ceso cremosa","C":["n"],"en":"cream cheese","he":"גבינת שמנת"}
-{"L":"ceso-de-testa","C":["n"],"en":"headcheese, brawn (jellied meat)","he":"בשר ראש וג'לטין"}
-{"L":"ceso limburgan","C":["n"],"en":"limburger","he":"לימבורגר (גבינה)"}
-{"T":"r","L":"cetoasidose","C":["n","bio"],"d":"la state metabolal asosiada con proportios grande de composadas con cetonas","en":"ketoacidosis"}
-{"T":"r","L":"cetognato","C":["n"],"d":"un membro de un filo de vermes xasante de mar, composantes major de plancton","t":"Chaetognatha","en":"chetognath|ae (worm)","he":"תולעת חץ"}
-{"T":"r","L":"cetona","C":["n","cim"],"d":"un composada organica cual conteni un grupo de carbonil liada a du grupos de idrocarbono","en":"ketone (chemistry)","he":"(כימיה) קטון"}
-{"T":"r","L":"cetsal","C":["n","avia","mone"],"d":"un avia en familia de trogon, con plumas opalin verde e tipal un peto roja, trovada en la forestas de America tropical; la unia de mone en Guatemala","i":"#","t":"Pharomachrus, Euptilotis","en":"quetzal","he":"קצאל (ציפור, מטבע בגואטמלה)"}
-{"T":"r","L":"cetxap","C":["n","cos"],"d":"un salsa composada de tomates e vinagra, usada como un spise","en":"ketchup","he":"קטשופ"}
-{"T":"r","L":"cetxua","C":["a","dem"],"d":"pertinente a la americanes orijinal de Peru e partes de Bolivia, Txile, Colombia e Ecuador, o a sua linguas","en":"Quechua (person, language)","he":"קצ'ואה (קבוצה אתנית, שפה)"}
-{"L":"cetxua","C":["n"],"en":"Quechua (person, language)","he":"קצ'ואה (קבוצה אתנית, שפה)"}
-{"T":"r","L":"cexa","C":["vt"],"d":"dise (frases) per espresa sua irita o nonsasia","en":"complain, whine, kvetch, whinge, gripe, rant, carp","he":"להתלונן, להתאונן, לקטר"}
-{"L":"cexa","C":["n"],"en":"complaint, rant, grievance","he":"תלונה, קבילה, קובלנה, טרוניה"}
-{"L":"cexeta","C":["vt"],"en":"grumble","he":"לרטון"}
-{"L":"cexor","C":["n"],"en":"complainer, whiner, whinger, grouch","he":"מתלונן"}
-{"L":"cexosa","C":["a"],"en":"whiny, whiney, whingey, grouchy, querulous","he":"מתבכיין, בכייני, נרגן, רגזני"}
-{"T":"r","L":"Chesapeake, Baia","C":["n","jeo"],"d":"un baia a este de Maryland e Virginia","i":"Baia-Chesapeake","p":"txésapic","en":"Chesapeake Bay","he":"מפרץ צ'ספיק"}
-{"T":"r","L":"Chihuahua","C":["n","jeo"],"d":"un stato de Mexico norde","p":"txiwawa","en":"Chihuahua (Mexican state)","fr":"Chihuahua","he":"צ'יוואווה (מדינה במקסיקו)"}
-{"L":"chihuahua","C":["n","mam"],"d":"un can multe peti con pelo lisa e oios grande, orijinante en Mexico","en":"chihuahua (dog)","he":"צ'יוואווה (כלב)"}
-{"L":"Deserto Chihuahua","C":["n","jeo"],"d":"un deserto de Mexico norde-sentral e la SUA sude-sentral","i":"#","en":"Chihuahuan Desert","fr":"Désert de Chihuahua","he":"מדבר צ'יוואווה"}
+{"T":"r","L":"celpi","C":["n","mit"],"d":"(en folclor scotes) un spirito de acua con forma de cavalo; un can de pastor de Australia","en":"kelpie (mythology, dog)","fr":"(un) kelpie (mythologie, chien)","he":"קלפי (דמות בפולקלור הסקוטי); קלפי אוסטרלי (כלב)"}
+{"T":"r","L":"celsius","C":["n","fis"],"d":"un scala de temperatur en cual acua jela a 0° e boli a 100°","v":"grado","en":"Celsius, centigrade","fr":"Celsius, centigrade","he":"צלזיוס"}
+{"T":"r","L":"celta","C":["a","dem"],"d":"pertinente a la poplas o linguas antica de Er, Britan, Frans e otra partes de Europa; pertinente a la poplas de Er, Scotland, Cimri, Bres, la Isola Man e Cerno, o a la linguas eres, gailica, cimri, bresonica, manes e cernoica","en":"Celtic","fr":"celtique","he":"קלטי"}
+{"L":"celta","C":["n"],"en":"Celtic, Celt","fr":"(un) Celte","he":"קלטי"}
+{"L":"Mar Celta","C":["n","jeo"],"d":"un mar a sude de Er, un parte de la Mar Atlantica","i":"#","en":"Celtic Sea","fr":"mer Celtique","he":"הים הקלטי"}
+{"T":"r","L":"celtiberian","C":["a","dem"],"d":"pertinente a la popla de Iberia antica, e a sua lingua celta","en":"Celtiberian","fr":"celtibère","he":"קלטיברי"}
+{"L":"celtiberian","C":["n"],"en":"Celtiberian","fr":"(un) Celtibère","he":"קלטיברי"}
+{"T":"r","L":"celvin","C":["n","fis"],"d":"la unia internasional per mesura temperatur termodinamical, simil a celsius ma con sua zero a -273.15°C, la temperatur a cual la move termal sesa","en":"kelvin (unit of temperature)","fr":"kelvin (degré Kelvin)","he":"קלווין"}
+{"T":"r","L":"Cenia","C":["n","jeo"],"c":"Nairobi","d":"un pais en Africa este, bordante la Mar Indian","i":"#","en":"Kenya","fr":"(le) Kénya","he":"קניה (מדינה)"}
+{"L":"cenian","C":["a"],"en":"Kenyan","fr":"kényan","he":"קנייתי"}
+{"L":"cenian","C":["n"],"en":"Kenyan","fr":"(un) Kényan","he":"קנייתי"}
+{"T":"r","L":"centum","C":["a","ling"],"d":"(un lingua indoeuropean) cual no ia cambia la consonantes esplodente palatovelal a sisantes","en":"centum (language)","fr":"(le) centum (linguistique)"}
+{"T":"r","L":"ceratin","C":["n","bio"],"d":"un protena fibrosa cual formi la composante xef de capeles, plumas, ungulas, garas e cornos","en":"keratin","fr":"(la) kératine","he":"קרטין"}
+{"T":"r","L":"ceratinosite","C":["n","bio"],"d":"la selula la plu comun en la epiderma","en":"keratinocyte","fr":"(un) kératinocyte","he":"קרטינוציט"}
+{"T":"r","L":"cerem","C":["n","ling"],"d":"un unia fundal en linguas de sinia, simil a un fonem en linguas parlada","en":"chereme (unit of sign language)","fr":"(un) signe (en langue des signes)","he":"פונמה (בשפת סימנים)"}
+{"T":"r","L":"Cerno","C":["n","jeo"],"d":"un contia a la penisola estrema sude-ueste de England","i":"#","en":"Cornwall","fr":"(la) Cornouaille, (les) Cornouailles","he":"קורנוול"}
+{"L":"cernoica","C":["a"],"p":"cernoïca","en":"Cornish (person, language)","fr":"cornouaillais, de la Cornouaille, des Cornouailles","he":"קורנית (שפה)"}
+{"T":"r","L":"cerosen","C":["n","cim"],"d":"un olio carburante, fabricada par distila petrolio","en":"kerosene","fr":"(le) kérosène","he":"קרוסין"}
+{"T":"r","L":"cerubin","C":["n","rel","mit"],"d":"un anjel descriveda en la Biblia como un atendor de Dio; un enfante ronda con alas, comun en alga obras de arte","en":"cherub","fr":"(un) chérubin","he":"כרוב (מלאך)"}
+{"L":"cerubines","C":["n","pl"],"en":"cherubs, cherubim","fr":"(des) chérubins","he":"כרובים (מלאכים)"}
+{"T":"r","L":"cesadilia","C":["n","cos"],"d":"un tortilia plenida con ceso e caldida","i":"#","en":"quesadilla (tortilla)","fr":"(une) quesadilla (crêpe de maïs fourrée au fromage)","he":"קסדייה"}
+{"T":"r","L":"cesar","C":["n","gov","ist"],"d":"un titulo de imperores roman","en":"Caesar (emperor)","fr":"César (empereur)","he":"קיסר"}
+{"T":"r","L":"ceso","C":["n","cos"],"d":"un comeda fabricada par presa caliadas de lete; un masa moldida de esta","i":"#","da":"ost","de":"Käse","en":"cheese","es":"queso","fr":"(un) fromage","he":"גבינה"}
+{"L":"ceso blanca","C":["n"],"en":"cottage cheese, farmer cheese, junket, quark, queso fresco, queijo fresco, fromage frais, fromage blanc","fr":"(du) fromage blanc, (un) fromage frais","he":"גבינת קוטג'"}
+{"L":"ceso cremosa","C":["n"],"en":"cream cheese","fr":"fromage crémeux","he":"גבינת שמנת"}
+{"L":"ceso-de-testa","C":["n"],"en":"headcheese, brawn (jellied meat)","fr":"(du) fromage de tête","he":"בשר ראש וג'לטין"}
+{"L":"ceso limburgan","C":["n"],"en":"limburger","fr":"(du) limbourg (fromage)","he":"לימבורגר (גבינה)"}
+{"T":"r","L":"cetoasidose","C":["n","bio"],"d":"la state metabolal asosiada con proportios grande de composadas con cetonas","en":"ketoacidosis","fr":"(une) acidocétose"}
+{"T":"r","L":"cetognato","C":["n"],"d":"un membro de un filo de vermes xasante de mar, composantes major de plancton","t":"Chaetognatha","en":"chetognath|ae (worm)","fr":"chétognathe (vers)","he":"תולעת חץ"}
+{"T":"r","L":"cetona","C":["n","cim"],"d":"un composada organica cual conteni un grupo de carbonil liada a du grupos de idrocarbono","en":"ketone (chemistry)","fr":"(une) cétone (chimie)","he":"(כימיה) קטון"}
+{"T":"r","L":"cetsal","C":["n","avia","mone"],"d":"un avia en familia de trogon, con plumas opalin verde e tipal un peto roja, trovada en la forestas de America tropical; la unia de mone en Guatemala","i":"#","t":"Pharomachrus, Euptilotis","en":"quetzal","fr":"(un) quetzal (oiseau)","he":"קצאל (ציפור, מטבע בגואטמלה)"}
+{"T":"r","L":"cetxap","C":["n","cos"],"d":"un salsa composada de tomates e vinagra, usada como un spise","en":"ketchup","fr":"(le) ketchup","he":"קטשופ"}
+{"T":"r","L":"cetxua","C":["a","dem"],"d":"pertinente a la americanes orijinal de Peru e partes de Bolivia, Txile, Colombia e Ecuador, o a sua linguas","en":"Quechua (person, language)","fr":"quechua","he":"קצ'ואה (קבוצה אתנית, שפה)"}
+{"L":"cetxua","C":["n"],"en":"Quechua (person, language)","fr":"(le) quechua (langue)","he":"קצ'ואה (קבוצה אתנית, שפה)"}
+{"T":"r","L":"cexa","C":["vt"],"d":"dise (frases) per espresa sua irita o nonsasia","en":"complain, whine, kvetch, whinge, gripe, rant, carp","fr":"se plaindre, se lamenter, pleurnicher, râler","he":"להתלונן, להתאונן, לקטר"}
+{"L":"cexa","C":["n"],"en":"complaint, rant, grievance","fr":"(une) lamentation, (une) plainte","he":"תלונה, קבילה, קובלנה, טרוניה"}
+{"L":"cexeta","C":["vt"],"en":"grumble","fr":"grogner, grommeler","he":"לרטון"}
+{"L":"cexor","C":["n"],"en":"complainer, whiner, whinger, grouch","fr":"(un) grognon, (un) rouspéteur, (un) grincheux, (un) pleurnichard","he":"מתלונן"}
+{"L":"cexosa","C":["a"],"en":"whiny, whiney, whingey, grouchy, querulous","fr":"bougon, acariâtre, grincheux, ronchon, rouspéteur, mécontent","he":"מתבכיין, בכייני, נרגן, רגזני"}
+{"T":"r","L":"Chesapeake, Baia","C":["n","jeo"],"d":"un baia a este de Maryland e Virginia","i":"Baia-Chesapeake","p":"txésapic","en":"Chesapeake Bay","fr":"baie de Chesapeake","he":"מפרץ צ'ספיק"}
+{"T":"r","L":"Chihuahua","C":["n","jeo"],"d":"un stato de Mexico norde","p":"txiwawa","en":"Chihuahua (Mexican state)","fr":"(le) Chihuahua","he":"צ'יוואווה (מדינה במקסיקו)"}
+{"L":"chihuahua","C":["n","mam"],"d":"un can multe peti con pelo lisa e oios grande, orijinante en Mexico","en":"chihuahua (dog)","fr":"(un) chihuahua (chien)","he":"צ'יוואווה (כלב)"}
+{"L":"Deserto Chihuahua","C":["n","jeo"],"d":"un deserto de Mexico norde-sentral e la SUA sude-sentral","i":"#","en":"Chihuahuan Desert","fr":"désert de Chihuahua","he":"מדבר צ'יוואווה"}
 {"T":"r","L":"ci","C":["pron"],"d":"(demandante) cual person; (suordinante) introduinte un suproposa ajetivin cual dona plu informa sur un person o persones (o animales personin) cual on ia indica direta a ante","n":"","u":"ci es tu?; el ia demanda ci me ia vide; la om ci senta en la auto es mea avo; me conose la fem con ci tu ia parla","da":"hvem","de":"wer; der, die (relativ)","en":"who, whom (interrogative, relative)","es":"quien, quienes, el que, la que, los que, las que","fr":"qui, que","he":"ש-, אשר (לבני-אדם וחיות מחמד); מי, את מי"}
-{"L":"de ci ... sua","C":["esp"],"u":"la fem de ci tu ia trova sua clave es mea fia","en":"whose","he":"של מי"}
-{"T":"r","L":"ci","C":["n","ling"],"d":"la letera 22 de la alfabeta elinica","s":"Χ χ","en":"chi (Greek letter)","he":"כי (האות העשרים ושתיים באלפבית היווני)"}
-{"T":"r","L":"cianti","C":["n","cos"],"d":"un vino seca e roja, produida en Toscana en Italia","en":"chianti (wine)","he":"קיאנטי (יין)"}
-{"T":"r","L":"ciasma","C":["n","bio"],"d":"la punto do cromosomas duplida resta contatante en la fase prima de meiose","en":"chiasma (genetics)","he":"(גנטיקה) כיאזמה, תצלובת"}
-{"T":"r","L":"cibuts","C":["n"],"d":"un comunia iudi en Israel, tipal un cultiveria","en":"kibbutz","he":"קיבוץ"}
-{"T":"r","L":"Ciclades","C":["n","pl","jeo"],"d":"un grupo grande de isolas en la parte sude de la Mar Ejeo","i":"#","en":"Cyclades (islands)","he":"האיים הקיקלאדיים"}
-{"T":"r","L":"cidonia","C":["n","pla","cos"],"d":"un arboreta de Asia ueste; la fruta dur e asida de esta, con forma de pera, usada en conservas o como un saborinte","i":"#","t":"Cydonia oblonga","en":"quince","he":"חבוש (עץ, פרי)"}
-{"T":"r","L":"cifose","C":["n","med"],"d":"un curvi convesa de la spino dorsal","en":"kyphosis (medical)","he":"(רפואה) עקשת, גבנון, קיפוזיס"}
-{"T":"r","L":"Ciiv","C":["n","jeo"],"d":"la site capital de Ucraina","en":"Kiev","he":"קייב"}
-{"T":"r","L":"cile","C":["n","bio"],"d":"un licuida letin, composada de limfa e gotetas de gras, cual drena de la intestines magra a la sistem limfal en dijesta","en":"chyle (substance)","he":"נוזל לימפה של המעי"}
-{"T":"r","L":"cilia","C":["n","vec"],"d":"un strutur longa a la fondo de un barcon, sur cual la resta es construida, tipal usada per boni la stablia; un cresta longo la sterno de multe avias a cual la musculos de vola es liada","en":"keel; carina","he":"שִׁדרית"}
-{"L":"Cilia","C":["n","ast"],"d":"un constela en la sielo sude","en":"Carina (constellation)","he":"שִׁדרית (קבוצת כוכבים)"}
-{"T":"r","L":"Cilicia, Mar","C":["n","jeo"],"d":"un mar entre Turcia e Cipros","i":"Mar-Cilicia","en":"Cilician Sea","he":"הים הקיליקי"}
-{"T":"r","L":"cilo-","C":["pf","tecn"],"d":"(un mesura) multiplida par 1000","en":"kilo-","he":"(קידומת טכנית) קילו-"}
-{"T":"r","L":"cilovate-ora","C":["n","fis"],"d":"un unia de enerjia eletrical, egal a la consuma de mil vates per ora","en":"kilowatt-hour","he":"קילוואט-שעה"}
-{"T":"r","L":"cilt","C":["n","vest"],"d":"un falda de texeda scotes cual estende asta la jenos, tradisional portada par omes de Scotland","i":"#","en":"kilt","he":"קילט (לבוש סקוטי מסורתי)"}
+{"L":"de ci ... sua","C":["esp"],"u":"la fem de ci tu ia trova sua clave es mea fia","en":"whose","fr":"dont","he":"של מי"}
+{"T":"r","L":"ci","C":["n","ling"],"d":"la letera 22 de la alfabeta elinica","s":"Χ χ","en":"chi (Greek letter)","fr":"khi (lettre grecque)","he":"כי (האות העשרים ושתיים באלפבית היווני)"}
+{"T":"r","L":"cianti","C":["n","cos"],"d":"un vino seca e roja, produida en Toscana en Italia","en":"chianti (wine)","fr":"(le) chianti (vin)","he":"קיאנטי (יין)"}
+{"T":"r","L":"ciasma","C":["n","bio"],"d":"la punto do cromosomas duplida resta contatante en la fase prima de meiose","en":"chiasma (genetics)","fr":"(un) chiasma (génétique)","he":"(גנטיקה) כיאזמה, תצלובת"}
+{"T":"r","L":"cibuts","C":["n"],"d":"un comunia iudi en Israel, tipal un cultiveria","en":"kibbutz","fr":"(un) kibboutz","he":"קיבוץ"}
+{"T":"r","L":"Ciclades","C":["n","pl","jeo"],"d":"un grupo grande de isolas en la parte sude de la Mar Ejeo","i":"#","en":"Cyclades (islands)","fr":"(les) Cyclades (îles)","he":"האיים הקיקלאדיים"}
+{"T":"r","L":"cidonia","C":["n","pla","cos"],"d":"un arboreta de Asia ueste; la fruta dur e asida de esta, con forma de pera, usada en conservas o como un saborinte","i":"#","t":"Cydonia oblonga","en":"quince","fr":"(un) cognassier (arbre); (un) coing (fruit du cognassier)","he":"חבוש (עץ, פרי)"}
+{"T":"r","L":"cifose","C":["n","med"],"d":"un curvi convesa de la spino dorsal","en":"kyphosis (medical)","fr":"(une) cyphose (médecine)","he":"(רפואה) עקשת, גבנון, קיפוזיס"}
+{"T":"r","L":"Ciiv","C":["n","jeo"],"d":"la site capital de Ucraina","en":"Kiev","fr":"Kiev (ville)","he":"קייב"}
+{"T":"r","L":"cile","C":["n","bio"],"d":"un licuida letin, composada de limfa e gotetas de gras, cual drena de la intestines magra a la sistem limfal en dijesta","en":"chyle (substance)","fr":"(le) chyle [ʃil]","he":"נוזל לימפה של המעי"}
+{"T":"r","L":"cilia","C":["n","vec"],"d":"un strutur longa a la fondo de un barcon, sur cual la resta es construida, tipal usada per boni la stablia; un cresta longo la sterno de multe avias a cual la musculos de vola es liada","en":"keel; carina","fr":"(une) quille (de bateau), une carène; (le) bréchet, (la) crête sternale, (la) quille du sternum (anatomie, os d'oiseau)","he":"שִׁדרית"}
+{"L":"Cilia","C":["n","ast"],"d":"un constela en la sielo sude","en":"Carina (constellation)","fr":"(la) Carène (constellation)","he":"שִׁדרית (קבוצת כוכבים)"}
+{"T":"r","L":"Cilicia, Mar","C":["n","jeo"],"d":"un mar entre Turcia e Cipros","i":"Mar-Cilicia","en":"Cilician Sea","fr":"mer de Cilicie","he":"הים הקיליקי"}
+{"T":"r","L":"cilo-","C":["pf","tecn"],"d":"(un mesura) multiplida par 1000","en":"kilo-","fr":"kilo- (mille)","he":"(קידומת טכנית) קילו-"}
+{"T":"r","L":"cilovate-ora","C":["n","fis"],"d":"un unia de enerjia eletrical, egal a la consuma de mil vates per ora","en":"kilowatt-hour","fr":"(un) kilowattheure (kWh)","he":"קילוואט-שעה"}
+{"T":"r","L":"cilt","C":["n","vest"],"d":"un falda de texeda scotes cual estende asta la jenos, tradisional portada par omes de Scotland","i":"#","en":"kilt","fr":"(un) kilt","he":"קילט (לבוש סקוטי מסורתי)"}
 {"T":"r","L":"cimera","C":["n","mit"],"d":"(en mitos) un monstro con tre testas, e con gamas anterior de leon, gamas posterior de capra, e coda longa de serpente; cualce monstro de partes diversa","en":"chimera (mythology)","he":"(מיתולוגיה) כימרה"}
 {"T":"r","L":"cimica","C":["n","cim"],"d":"la siensa cual studia la sustantias de cual materia es composada, la investiga de sua cualias e interatas, e la usa de estas per formi materias nova","da":"kemi","de":"Chemie","en":"chemistry","es":"química","fr":"chimie","he":"כימיה"}
 {"L":"cimica matematical","C":["n"],"en":"mathematical chemistry","he":"כימיה חישובית"}
@@ -13403,6 +13404,7 @@
 {"L":"contra intui","C":["a"],"en":"counterintuitive"}
 {"L":"intuable","C":["a"],"en":"intuitable, intuitive (design)"}
 {"L":"intuosa","C":["a"],"en":"intuitive, insightful (person)"}
+{"L":"intuosia","C":["n"],"en":"intuitiveness, insightfulness, common sense"}
 {"L":"nonintuable","C":["a"],"en":"unintuitable, unintuitive (design)"}
 {"L":"nonintuosa","C":["a"],"en":"unintuitive (person)"}
 {"T":"r","L":"inuit","C":["a","dem"],"d":"pertinente a la popla orijinal de la norde de Canada e partes de Calalitnunat e Alaska, o a sua lingua","en":"Inuit, Eskimo"}
@@ -14096,6 +14098,7 @@
 {"L":"jubilor","C":["n"],"en":"pensioner, retired person, retiree"}
 {"T":"r","L":"judi","C":["vt","gov"],"d":"developa un opina o conclui sur (alga cosa); deside (un litiga) en corte; deside la resulta de (un compete)","da":"dømme, bedømme, vurdere","de":"beurteilen","en":"judge, estimate; adjudicate","es":"juzgar, formar una opinion sobre","fr":"juger"}
 {"L":"judi","C":["n"],"en":"judgement, judging, estimation, ruling"}
+{"L":"bon judi","C":["n"],"en":"good judgement, common sense"}
 {"L":"es prejudosa contra","C":["v"],"en":"be prejudiced against, discriminate against"}
 {"L":"judal","C":["a"],"en":"judicial"}
 {"L":"juderia","C":["n"],"en":"judiciary; jurisdiction"}
@@ -20158,7 +20161,8 @@
 {"T":"r","L":"pipal","C":["n","pla"],"d":"un figo de Barat e Asia sude-este, regardada como santa par alga budistes","i":"#","t":"Ficus religiosa","en":"pipal, peepul, sacred fig, bo tree, bodhi tree"}
 {"T":"r","L":"pipilo","C":["n","avia"],"d":"un avia cantante de America Norde, en familia de emberiza, tipal con plumas brun, ma negra e rojin brun a veses","i":"#","t":"Pipilo","en":"towhee (bird)"}
 {"T":"r","L":"pira","C":["n","util"],"d":"un monton de materia flamable, tipal per arde un corpo en un rituo funeral","en":"pyre (bonfire), stake"}
-{"L":"arde en pira","C":["vnt"],"en":"be burned at the stake"}
+{"L":"arde a pira","C":["vnt"],"en":"be burned at the stake"}
+{"L":"arde a pira","C":["vt"],"en":"burn at the stake"}
 {"T":"r","L":"piramide","C":["n","arci","ist"],"d":"un construi monumental con funda cuadro o triangulo e lados inclinada e juntada a la apico, spesial un construida de petra como un tomba real en Egipte antica","i":"#","da":"pyramide","en":"pyramid","es":"pirámide","fr":"pyramide"}
 {"T":"r","L":"pirania","C":["n","pex"],"d":"un pex de acua dulse de America Sude, con dentes multe agu per lasera la carne de sua preda","i":"#","t":"Piranha","en":"piranha"}
 {"T":"r","L":"pirata","C":["n","gov"],"d":"un person ci ataca barcos a mar per fura sua contenida","i":"#","en":"pirate, buccaneer"}
@@ -20933,9 +20937,9 @@
 {"L":"pratica model","C":["n"],"en":"exemplary practice"}
 {"L":"malpratica","C":["n"],"en":"malpractice"}
 {"L":"praticor","C":["n"],"en":"practitioner"}
-{"T":"r","L":"pratical","C":["a","fil"],"d":"pertinente a la fa o usa real de alga cosa, en loca de teoria e ideas; probable susedente en situas real; conveninte per un intende spesifada; (un person) realiste en sua disposa a un situa o problem","en":"practical, pragmatic, feasible, down to earth, sensible, realistic, level-headed, matter-of-fact, utilitarian, convenient, expedient"}
+{"T":"r","L":"pratical","C":["a","fil"],"d":"pertinente a la fa o usa real de alga cosa, en loca de teoria e ideas; probable susedente en situas real; conveninte per un intende spesifada; (un person) realiste en sua disposa a un situa o problem","en":"practical, pragmatic, feasible, down-to-earth, sensible, common-sense, realistic, level-headed, matter-of-fact, utilitarian, convenient, expedient"}
 {"L":"nonpratical","C":["a"],"en":"impractical, impracticable, inconvenient, unfeasible, infeasible"}
-{"L":"praticalia","C":["n"],"en":"practicality, feasibility, sensibility"}
+{"L":"praticalia","C":["n"],"en":"practicality, feasibility, sensibility; common sense"}
 {"L":"praticalisme","C":["n"],"en":"pragmatism"}
 {"L":"praticaliste","C":["n"],"en":"pragmatist"}
 {"T":"r","L":"-praxia","C":["sf","n","med"],"d":"ativia pratical","en":"-praxia (medical)"}
@@ -22928,6 +22932,7 @@
 {"L":"sabatica","C":["n"],"d":"un periodo paiada en cual un profesor o otra laboror studia o viaja","en":"sabbatical","es":"sabático"}
 {"T":"r","L":"sabe","C":["vt","fil","uma"],"d":"es consensa de (un cosa) par oserva, demanda o informa; pote usa (un lingua); es instruida sur (un arte, siensa, labora, jua, sporte, etc)","u":"me no sabe do me ia pone la clave; tu sabe elefen; el sabe jua xace","v":"conose","da":"vide","de":"wissen","en":"know (fact, details, how to)","eo":"scii","es":"saber","fr":"savoir","it":"sapere","nl":"weten","pt":"saber"}
 {"L":"sabe","C":["n"],"da":"viden","de":"Wissen","en":"knowledge, knowhow","eo":"scio","es":"saber, saber hacer, sabiduría, pericia","fr":"savoir, savoir faire","it":"sapere","nl":"weten","pt":"sabedoria"}
+{"L":"sabe tradisional","C":["n"],"en":"traditional knowledge, common knowledge, common sense"}
 {"L":"ci sabe?","C":["esc"],"en":"who knows?","es":"¿quién sabe?"}
 {"L":"me-no-sabe-lo","C":["n"],"en":"je ne sais quoi","es":"un no se qué"}
 {"L":"nonsabable","C":["a"],"en":"unknowable","es":"incognoscible"}
@@ -23025,6 +23030,7 @@
 {"L":"saja","C":["n"],"en":"sage, wise person, wise man, wise woman","fr":"sage"}
 {"L":"nonsaja","C":["a"],"en":"unwise","fr":"imprudent"}
 {"L":"sajia","C":["n"],"en":"wisdom, sagacity","fr":"sagesse"}
+{"L":"sajia comun","C":["n"],"d":"la sabes e credes comun a tota persones, o a tota persones en un comunia","en":"common wisdom, folk wisdom, traditional wisdom, common sense"}
 {"T":"r","L":"sajital","C":["a"],"d":"pertinente a la plana imajinal cual divide la corpo entre lados destra e sinistra; pertinente a la sutur sur la cranio cual pasa de fronte a retro, o a la cresta de oso sur la cranio de alga animales","en":"sagittal"}
 {"T":"r","L":"sal","C":["n","cim","cos"],"d":"clorido de sodio, un materia blanca e cristal cual contribui la sabor spesial de acua de mar e es usada como un spise o per conserva comedas","i":"#","ca":"sal","da":"salt","de":"Salz","en":"salt","eo":"salo","es":"sal","fr":"sel","it":"sale","ja":"塩","nl":"zout","pt":"sal","ru":"соль"}
 {"L":"desali","C":["vt"],"en":"desalinate","fr":"dessaler"}
@@ -23919,7 +23925,7 @@
 {"L":"senozoica","C":["n"],"en":"Cenozoic (geology)"}
 {"T":"r","L":"sensa","C":["vt","uma"],"d":"reseta informa par la oios, oreas o otra organos, de avenis en la ambiente o la corpo","n":"No usa `sensa` per dise `sinifia`.","v":"senti, sinifia","da":"sans, følesans","de":"Sinn","en":"sense (experience a sensation)","eo":"sensi","es":"sentido","fr":"sens","it":"senso","nl":"zintuigen","pt":"sentido"}
 {"L":"sensa","C":["n"],"d":"un de la modos par cual la mente deteta la ambiente, incluinte par vide, oia, ole, proba e toca, e la persepis de ecuilibra, orienta, move e dole; un persepi resetada par un sensa","en":"sense, sensation, feeling","eo":"senso, sensaĵo, sento"}
-{"L":"sensa comun","C":["n"],"en":"common sense"}
+{"L":"sensa comun","C":["n"],"d":"(en filosofia) un sensa spesial cual integra tota la otras","en":"common sense (in philosophy)"}
 {"L":"desensosi","C":["vnt"],"en":"desensitize|is"}
 {"L":"desensosi","C":["vt"],"en":"desensitize|is"}
 {"L":"nonsensable","C":["a"],"en":"insensible"}
@@ -24021,6 +24027,7 @@
 {"L":"separadisme","C":["n"],"en":"separatism, apartheid, segregationism","fr":"séparatisme"}
 {"L":"separadiste","C":["a"],"en":"separatist, segregationist"}
 {"L":"separador","C":["n"],"en":"separator"}
+{"L":"separador desimal","C":["n"],"en":"decimal separator, decimal point"}
 {"T":"r","L":"sepe","C":["n","arci"],"d":"un serca o borda formida par arboretas prosiminte a lunlotra","i":"#","en":"hedge, hedgerow","fr":"haie"}
 {"L":"sepi","C":["vt"],"en":"hedge"}
 {"T":"r","L":"sepia","C":["a","col"],"d":"un color brun rojin, asosiada con fotos monocromata de la sentenio 19 e la temprana de la sentenio 20; un pinta preparada de la secrete negra de la sepida, usada en desinias e depintas monocromata","en":"sepia (color|ur, pigment)","fr":"sépia"}
