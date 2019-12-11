@@ -971,7 +971,7 @@
 {"T":"r","L":"ambie","C":["vt","bio"],"d":"(un situa natural) ensirca","en":"surround","fr":"environner, entourer","he":"להקיף, לכתר"}
 {"L":"ambiental","C":["a"],"en":"environmental","fr":"environnemental","he":"סביבתי"}
 {"L":"ambiente","C":["a"],"en":"ambient, surrounding","fr":"ambiant, environnant","he":"מקיף"}
-{"L":"ambiente","C":["n"],"an":"ambiente, alredor, contestu, mediu ambiente","da":"miljø, omgivelse","de":"Umwelt, Umgebung","en":"surroundings, environment, context; atmosphere (place, event), ambience, milieu, locale","es":"ambiente, alrededor, contexto, medio ambiente","fr":"environnement","he":"סביבה; אווירה"}
+{"L":"ambiente","C":["n"],"an":"ambiente, alredor, contestu, mediu ambiente","da":"miljø, omgivelse","de":"Umwelt, Umgebung","en":"surroundings, environment, context, conditions; atmosphere (place, event), ambience, milieu, locale","es":"ambiente, alrededor, contexto, medio ambiente","fr":"(un) environnement, (un) contexte, (des) conditions; (une) atmosphère, (une) ambiance, (un) milieu","he":"סביבה; אווירה"}
 {"L":"ambientisme","C":["n"],"en":"environmentalism","fr":"environnementalisme","he":"סביבתנות, דאגה לאיכות הסביבה"}
 {"L":"ambientiste","C":["n"],"en":"environmentalist","fr":"environnementaliste","he":"פעיל איכות הסביבה"}
 {"T":"r","L":"ambifilia","C":["n","uma"],"d":"un atrae sesal a e omes e femes","o":"de latina ambi- (ambos) + elinica philia (atrae)","en":"ambiphilia","fr":"bisexualité","he":"דו-מיניות"}
@@ -2916,7 +2916,7 @@
 {"T":"r","L":"barion","C":["n","fis"],"d":"un particula suatomal con masa egal a o plu ca un proton","en":"baryon (particle)","fr":"baryon","he":"באריון (חלקיק תת-אטומי)"}
 {"T":"r","L":"barisentro","C":["n","fis"],"d":"la sentro de masa de du o plu corpos cual orbita lunlotra","en":"barycenter|re","fr":"(un) barycentre, (un) centre de gravité","he":"מרכז מסה"}
 {"L":"barisentral","C":["a"],"en":"barycentric","fr":"barycentrique","he":"שקשור למרכז מסה"}
-{"T":"r","L":"barita","C":["n","tera"],"d":"un mineral composada de sulfato de bario","en":"barite, baryte"}
+{"T":"r","L":"barita","C":["n","tera"],"d":"un mineral composada de sulfato de bario","en":"barite, baryte","fr":"(la) baryte, (la) barite"}
 {"T":"r","L":"baritono","C":["a","mus"],"d":"(un vose cantante de om) con tono entre basa e tenor","en":"baritone","fr":"barytone","he":"בריטוני"}
 {"L":"baritono","C":["n","mus"],"en":"baritone","fr":"(un) baryton","he":"בריטון"}
 {"T":"r","L":"barmitsva","C":["n","rel"],"d":"la rituo de inisia un xico iudi a la eda de 13 anios","en":"bar mitzvah","fr":"(une) bar-mitsva","he":"בר מצווה"}
@@ -5327,7 +5327,7 @@
 {"L":"codal","C":["a"],"en":"caudal (towards the tail); trailing, closing","fr":"caudal","he":"זנבי"}
 {"L":"codetas","C":["n","pl"],"en":"bunches, pigtails (unplaited)","fr":"(des) nattes","he":"קוקיות"}
 {"L":"codi","C":["vt"],"en":"betail, add a tail to","fr":"ajouter une queue à","he":"להוסיף זנב ל (תחפושת, ציור וכו')"}
-{"L":"codida","C":["a"],"en":"caudate, tailed","fr":"qui a une queue","he":"בעל זנב"}
+{"L":"codida","C":["a"],"en":"caudate, tailed","fr":"qui a une queue, doté d'une queue","he":"בעל זנב"}
 {"T":"r","L":"codeina","C":["n"],"d":"un paradole e adorminte, derivada de morfina","en":"codeine","fr":"(la) codéine","he":"קודאין"}
 {"T":"r","L":"codigo","C":["n","gov","info"],"d":"un colie sistemosa de leges o prinsipes; un serie de numeros o otra simboles asiniada per identifia; la instruis en un program de computador","en":"code (laws, software), encoding","fr":"(un) code (lois, programmation)","he":"(משפט, מחשבים) קוד; צופן"}
 {"L":"codigo de baras","C":["n"],"en":"bar code","fr":"(un) code barre","he":"ברקוד"}
@@ -5335,273 +5335,273 @@
 {"L":"codigo fisical de sinias","C":["n"],"en":"character encoding (e.g. UTF-8)","fr":"encodage de caractères (par ex. UTF-8)","he":"קידוד תווים"}
 {"L":"codigo numeral de sinias","C":["n"],"en":"character code (numeric representation of characters)","fr":"codes de caractères (représentation numérique des caractères)","he":"קוד תו"}
 {"L":"codigi","C":["vt"],"en":"code, encode, codify","fr":"coder, encoder, codifier, crypter","he":"לקודד"}
-{"L":"codigi","C":["n"],"en":"encoding (action)","fr":"encodage, cryptage","he":"קידוד"}
-{"L":"codigida","C":["a"],"en":"coded","fr":"codé, encodé","he":"מקודד"}
+{"L":"codigi","C":["n"],"en":"encoding (action)","fr":"(un) encodage, (un) cryptage, (une) codification","he":"קידוד"}
+{"L":"codigida","C":["a"],"en":"coded","fr":"codé, encodé, codifié","he":"מקודד"}
 {"L":"codigida par color","C":["a"],"en":"color-coded|ur","fr":"codé par un code couleur","he":"מקודד לפי צבע"}
 {"L":"codigor","C":["n"],"en":"coder (programmer)","fr":"encodeur (programmeur)"}
 {"L":"permanente codigida","C":["a"],"en":"hard-coded","fr":"codé en dur","he":"(מחשבים) מובנה, קבוע"}
 {"T":"r","L":"codo","C":["n","anat"],"d":"la junta entre la braso alta e la braso basa; la parte de un veste cual covre esta; alga cosa cual sembla esta; un mesura antica de longia, egal a sirca 44 cm","i":"#","en":"elbow; cubit","he":"מרפק; אמה (יחידת מידה)"}
-{"T":"r","L":"codon","C":["n","bio","cim"],"d":"un serie de tre nucleotidos cual formi un unia de la codigo jenetical en un molecula de adn o arn","en":"codon (genetics)","he":"(גנטיקה) קודון"}
-{"T":"r","L":"coecipor","C":["n","spo"],"d":"un person ci es un membro de la mesma ecipo","en":"teammate","he":"חבר-צוות"}
-{"T":"r","L":"coedal","C":["a"],"d":"(un person) de la mesma eda como un otra","en":"of the same age, peer","he":"עמית"}
-{"L":"coedal","C":["n"],"en":"peer","he":"עמית"}
-{"T":"r","L":"coemprende","C":["n","mone"],"d":"un emprende comersial fada en junta par du o plu partitos ci reteni sua identias individua en otra modos","en":"joint venture","he":"יוזמה משותפת"}
-{"T":"r","L":"coere","C":["vnt"],"d":"formi un intera unida; conteni no contradises de lojica o strutur","en":"cohere, stick together, bind","he":"להתלכד, להתחבר; להיות עקבי"}
-{"L":"coere","C":["n"],"en":"coherence, cohesion, consistency, binding","he":"עקביות, קוהרנטיות"}
-{"L":"coerente","C":["a"],"en":"coherent, cohesive, consistent, regular, rational","he":"עקבי, קוהרנטי; מלוכד, מגובש"}
-{"L":"coerente","C":["n"],"en":"binder, binding agent","he":"חומר מקשר"}
-{"L":"noncoere","C":["n"],"en":"incoherence, inconsistency, irregularity","he":"חוסר עקביות, חוסר קוהרנטיות"}
-{"L":"noncoerente","C":["a"],"en":"incoherent, inconsistent, irregular, erratic, haywire, irrational","he":"לא עקבי, לא קוהרנטי, לא רציף, מבולבל"}
-{"T":"r","L":"coesiste","C":["vnt"],"d":"esiste a la mesma tempo o en la mesma loca; esiste tolerante lunlotra, an con ideolojias o interesas diferente","en":"coexist","he":"להימצא ביחד; לחיות בדו-קיום"}
-{"L":"coesiste","C":["n"],"en":"coexistence","he":"דו-קיום"}
-{"T":"r","L":"cofundor","C":["n"],"en":"cofounder"}
-{"T":"r","L":"cognisio","C":["n","uma"],"d":"la prosede mental de oteni sabes e comprendes par pensa, esperia e la sensas","en":"cognition","he":"קוגניציה, הכרה"}
-{"L":"cognisial","C":["a"],"en":"cognitive","he":"קוגניטיבי, הכרני"}
-{"T":"r","L":"coicoi","C":["a"],"d":"pertinente a un grupo de poplas orijinal de Sudafrica e Namibia, tradisional xasores-coliores nomada","en":"Khoikhoi, Khoi, Hottentot (person, language)","he":"קויקוי (אדם, שפה)"}
-{"L":"coicoi","C":["n","dem"],"en":"Khoikhoi, Khoi, Hottentot (person, language)","he":"קויקוי (אדם, שפה)"}
-{"T":"r","L":"coion","C":["n","anat"],"d":"(nonformal) testiculo","en":"(colloquial) ball, nut, bollock (testicle)","es":"cojón, huevo","he":"(סלנג) ביצה (אשך)"}
-{"T":"r","L":"coiote","C":["n","mam"],"d":"un can savaje, nativa de America Norde","i":"#","t":"Canis latrans","en":"coyote","he":"קויוט, זאב ערבות"}
-{"T":"r","L":"coipu","C":["n","mam"],"d":"un rodente grande e semiacual de America Sude, simil a un castor","i":"#","t":"Myocastor coypus","en":"coypu, nutria, river rat","he":"נוטריה (מכרסם)"}
-{"T":"r","L":"coisan","C":["a","dem"],"d":"pertinente a du poplas de Africa sude, e sua linguas unica","en":"Khoisan (person, language)","he":"קויסן (אדם, שפה)"}
-{"L":"coisan","C":["n"],"en":"Khoisan (person, language)","he":"קויסן (אדם, שפה)"}
-{"T":"r","L":"col","C":["n","pla","cos"],"d":"un planta cultivada, con folias grande verde o purpur cual enclui un cor sferin","i":"#","t":"Brassica oleracea","da":"kål","de":"Kohl","en":"cabbage (plant, leaves), brassica","es":"col, repollo, berza","fr":"chou","he":"כרוב"}
-{"L":"col de Bruxelles","C":["n"],"i":"#","p":"bruxeles","en":"Brussels sprout","he":"כרוב ניצנים"}
-{"L":"col risa","C":["n"],"i":"#","en":"kale","he":"כרוב עלים, קייל"}
-{"L":"folia de col","C":["n"],"en":"collard greens, borekale","he":"עלי קולרד (כרוב)"}
-{"T":"r","L":"col","C":["n"],"d":"un polvo negra, usada como cosmetica sirca la oios en alga paises de Africa norde e Asia sude, e en Egipte antica","en":"kohl (cosmetic)","he":"כחל (איפור)"}
-{"T":"r","L":"cola","C":["n","util"],"d":"un materia aderente, usada per junta ojetos o otra materias a lunlotra","en":"glue, paste","fr":"colle","he":"דבק"}
+{"T":"r","L":"codon","C":["n","bio","cim"],"d":"un serie de tre nucleotidos cual formi un unia de la codigo jenetical en un molecula de adn o arn","en":"codon (genetics)","fr":"(un) codon (biochimie)","he":"(גנטיקה) קודון"}
+{"T":"r","L":"coecipor","C":["n","spo"],"d":"un person ci es un membro de la mesma ecipo","en":"teammate","fr":"(un) coéquipier, (un) équipier","he":"חבר-צוות"}
+{"T":"r","L":"coedal","C":["a"],"d":"(un person) de la mesma eda como un otra","en":"of the same age, peer","fr":"du même âge","he":"עמית"}
+{"L":"coedal","C":["n"],"en":"peer","fr":"une personne du même âge, (un) pair","he":"עמית"}
+{"T":"r","L":"coemprende","C":["n","mone"],"d":"un emprende comersial fada en junta par du o plu partitos ci reteni sua identias individua en otra modos","en":"joint venture","fr":"(une) coentreprise","he":"יוזמה משותפת"}
+{"T":"r","L":"coere","C":["vnt"],"d":"formi un intera unida; conteni no contradises de lojica o strutur","en":"cohere, stick together, bind","fr":"être soudés, être unis, faire bloc, être en cohésion, être en harmonie","he":"להתלכד, להתחבר; להיות עקבי"}
+{"L":"coere","C":["n"],"en":"coherence, cohesion, consistency, binding","fr":"cohésion, unité, homogénéité, harmonie","he":"עקביות, קוהרנטיות"}
+{"L":"coerente","C":["a"],"en":"coherent, cohesive, consistent, regular, rational","fr":"cohérent, rationnel, conséquent, logique, harmonieux, homogène","he":"עקבי, קוהרנטי; מלוכד, מגובש"}
+{"L":"coerente","C":["n"],"en":"binder, binding agent","fr":"ce qui lie, (le) lien, ce qui unit, ce qui réunit, (le) trait d'union","he":"חומר מקשר"}
+{"L":"noncoere","C":["n"],"en":"incoherence, inconsistency, irregularity","fr":"(une) incohérence, (une) inconséquence, (une) irrationalité, (un) illogisme, (une) disharmonie, (une) dysharmonie","he":"חוסר עקביות, חוסר קוהרנטיות"}
+{"L":"noncoerente","C":["a"],"en":"incoherent, inconsistent, irregular, erratic, haywire, irrational","fr":"incohérent, inconséquent, irrationnel, illogique, disharmonieux, dysharmonieux","he":"לא עקבי, לא קוהרנטי, לא רציף, מבולבל"}
+{"T":"r","L":"coesiste","C":["vnt"],"d":"esiste a la mesma tempo o en la mesma loca; esiste tolerante lunlotra, an con ideolojias o interesas diferente","en":"coexist","fr":"coexister, coïncider","he":"להימצא ביחד; לחיות בדו-קיום"}
+{"L":"coesiste","C":["n"],"en":"coexistence","fr":"coexistence, coïncidence (existence simultanée)","he":"דו-קיום"}
+{"T":"r","L":"cofundor","C":["n"],"en":"cofounder","fr":"(un) cofondateur"}
+{"T":"r","L":"cognisio","C":["n","uma"],"d":"la prosede mental de oteni sabes e comprendes par pensa, esperia e la sensas","en":"cognition","fr":"(la) cognition","he":"קוגניציה, הכרה"}
+{"L":"cognisial","C":["a"],"en":"cognitive","fr":"cognitif","he":"קוגניטיבי, הכרני"}
+{"T":"r","L":"coicoi","C":["a"],"d":"pertinente a un grupo de poplas orijinal de Sudafrica e Namibia, tradisional xasores-coliores nomada","en":"Khoikhoi, Khoi, Hottentot (person, language)","fr":"khoïkhoï, khoïsan","he":"קויקוי (אדם, שפה)"}
+{"L":"coicoi","C":["n","dem"],"en":"Khoikhoi, Khoi, Hottentot (person, language)","fr":"(un) Khoïkhoï (personne), (le) khoïsan (langue)","he":"קויקוי (אדם, שפה)"}
+{"T":"r","L":"coion","C":["n","anat"],"d":"(nonformal) testiculo","en":"(colloquial) ball, nut, bollock (testicle)","es":"cojón, huevo","fr":"(une) couille (familier)","he":"(סלנג) ביצה (אשך)"}
+{"T":"r","L":"coiote","C":["n","mam"],"d":"un can savaje, nativa de America Norde","i":"#","t":"Canis latrans","en":"coyote","fr":"(un) coyote (animal)","he":"קויוט, זאב ערבות"}
+{"T":"r","L":"coipu","C":["n","mam"],"d":"un rodente grande e semiacual de America Sude, simil a un castor","i":"#","t":"Myocastor coypus","en":"coypu, nutria, river rat","fr":"(un) ragondin","he":"נוטריה (מכרסם)"}
+{"T":"r","L":"coisan","C":["a","dem"],"d":"pertinente a du poplas de Africa sude, e sua linguas unica","en":"Khoisan (person, language)","fr":"khoïsan","he":"קויסן (אדם, שפה)"}
+{"L":"coisan","C":["n"],"en":"Khoisan (person, language)","fr":"(un) Khoïsan (personne), (le) khoïsan (langue)","he":"קויסן (אדם, שפה)"}
+{"T":"r","L":"col","C":["n","pla","cos"],"d":"un planta cultivada, con folias grande verde o purpur cual enclui un cor sferin","i":"#","t":"Brassica oleracea","da":"kål","de":"Kohl","en":"cabbage (plant, leaves), brassica","es":"col, repollo, berza","fr":"(un) chou","he":"כרוב"}
+{"L":"col de Bruxelles","C":["n"],"i":"#","p":"bruxeles","en":"Brussels sprout","fr":"(le) chou de Bruxelles","he":"כרוב ניצנים"}
+{"L":"col risa","C":["n"],"i":"#","en":"kale","fr":"(le) chou kale","he":"כרוב עלים, קייל"}
+{"L":"folia de col","C":["n"],"en":"collard greens, borekale","fr":"(une) feuille de chou","he":"עלי קולרד (כרוב)"}
+{"T":"r","L":"col","C":["n"],"d":"un polvo negra, usada como cosmetica sirca la oios en alga paises de Africa norde e Asia sude, e en Egipte antica","en":"kohl (cosmetic)","fr":"(le) kohl (cosmétique)","he":"כחל (איפור)"}
+{"T":"r","L":"cola","C":["n","util"],"d":"un materia aderente, usada per junta ojetos o otra materias a lunlotra","en":"glue, paste","fr":"(une) colle","he":"דבק"}
 {"L":"coli","C":["vt"],"en":"glue, paste, stick","fr":"coller","he":"להדביק"}
-{"L":"descoli","C":["vt"],"en":"unstick, peel off","he":"לקלף"}
-{"L":"supracola","C":["n"],"en":"superglue","he":"דבק מהיר"}
-{"T":"r","L":"cola","C":["n","pla","cos"],"d":"un planta peti e perene de Africa tropical, cultivada per sua nozas; un noza de esta; un bevida brun e gasosa, con sabor de esta noza","i":"#","t":"Cola","en":"cola, kola (plant, nut, drink)","he":"קולה (צמח, משקה)"}
-{"T":"r","L":"Cola, Penisola","C":["n","jeo"],"d":"un penisola en la norde-ueste de Rusia","en":"Kola Peninsula","he":"חצי האי קולה"}
-{"T":"r","L":"colabora","C":["vnt"],"d":"labora con lunlotra, con la mesma intende; aida lunlotra","da":"samarbejde","de":"zusammenarbeiten, mitwirken","en":"collaborate, cooperate, liaise","es":"colaborar, cooperar","fr":"coopérer","he":"לשתף פעולה"}
-{"L":"colabora","C":["n"],"en":"collaboration, cooperation","he":"שיתןף פעולה"}
-{"L":"colaborante","C":["a"],"en":"collaborating, collaborative","he":"שיתופי"}
-{"L":"colaboror","C":["n"],"en":"collaborator, colleague, co-worker, fellow worker","he":"משתף פעולה, עמית, קולגה"}
-{"T":"r","L":"coladal","C":["a"],"d":"situada a lado de lunlotra; ajuntada, ma min importante; desendente de la mesma asendente ma par un otra serie de asendentes media","en":"collateral","he":"מקביל; נוסף"}
-{"T":"r","L":"colajen","C":["n","bio"],"d":"la protena strutural xef en la texeda juntante de animales, de cual on fabrica jelatin par boli","en":"collagen","he":"קולגן"}
-{"T":"r","L":"colar","C":["n","vest"],"d":"la banda de materia sirca la colo de un camisa, roba, jaca o otra veste","i":"#","de":"Kragen","en":"collar","es":"collar, cuello (de vestido, camisa, etc.), collera (para caballos o mulas de tiro)","fr":"collier","he":"צווארון"}
-{"L":"colar aletin","C":["n"],"en":"wing collar","he":"צווארון כנף"}
-{"L":"colar fronsosa","C":["n"],"en":"ruff","he":"צווארון מסולסל"}
-{"L":"colar enrolada","C":["n"],"en":"turtleneck","he":"צווארון גולף"}
-{"L":"colar ronda","C":["n"],"en":"round neck, crewneck","he":"פתח צוואר מעוגל"}
-{"L":"colareta","C":["n"],"i":"#","en":"necklace","he":"מחרוזת, שרשרת (לצוואר)"}
-{"L":"sin colar","C":["a"],"en":"collarless","he":"ללא צווארון"}
-{"T":"r","L":"colasa","C":["vnt"],"d":"(un strutur) cade a su o a en; (un person) cade e perde consensa; senta o reposa subita como la resulta de fatiga","en":"collapse, slump, flop","he":"להתמוטט, לקרוס"}
-{"L":"colasa","C":["n"],"en":"collapse, slump, flop","he":"התמוטטות, קריסה"}
-{"L":"colasable","C":["a"],"en":"collapsible","he":"פריק, מתקפל"}
-{"T":"r","L":"colbasa","C":["n","cos"],"d":"un tipo de salsix spisida e fumida, orijinante en Polsca","i":"#","en":"kielbasa, kubasa, kolbassa (sausage)","he":"קילבסה (נקניק)"}
-{"T":"r","L":"coleo","C":["n"],"d":"un planta tropical de Asia sude-este en familia de menta, con folias briliante multicolorosa, popular en casas","i":"#","t":"Solenostemon","en":"coleus (plant)","he":"נדנונית, קוליאוס (צמח)"}
-{"T":"r","L":"coler","C":["a","uma"],"d":"sentinte un irita, odia o enemia forte","da":"vred","de":"zornig","en":"angry, mad, irate, indignant","es":"enojado, colérico, airado, furioso","fr":"fâché","he":"עצבני, כועס, כעוס, זועם, נרגז, רוגז"}
-{"L":"coler","C":["n"],"en":"hothead, spitfire","he":"חמום-מוח"}
-{"L":"coleri","C":["vnt"],"en":"turn angry, rage","he":"להתעצבן, להתרגז, לכעוס, לזעום"}
-{"L":"coleri","C":["vt"],"en":"anger, madden, outrage, enrage","he":"לעצבן, להרגיז, להכעיס"}
-{"L":"coleria","C":["n"],"en":"anger, wrath, ire, rage, outrage, indignation","he":"כעס, רוגז, זעם, עצבים, חרון"}
-{"L":"coleriosa","C":["a"],"en":"full of anger, enraged, wrathful, aggressive","he":"מלא כעס, מלא זעם"}
-{"T":"r","L":"colera","C":["n","med"],"d":"un infeta grave de la intestin magra, causada par baterias, tipal de acua infetada, cual causa vomiti e diarea grave e tipal la mori de la sufror","en":"cholera","he":"כולרה"}
-{"T":"r","L":"colesterol","C":["n","bio"],"d":"un composada de la tipo de steroles, trovada en la plu de texedas, incluinte la sangue e nervos","en":"cholesterol","he":"כולסטרול"}
-{"T":"r","L":"coletiva","C":["a"],"d":"(un ata) fada par persones conduinte como un grupo; parteninte o pertinente a tota membros de un grupo; regardada como un intera","en":"mass, collective, bulk","he":"קולקטיבי"}
-{"L":"coletiva","C":["n"],"en":"collective (farm, factory)","he":"קולקטיב"}
-{"L":"coletivisme","C":["n"],"en":"collectivism","he":"קולקטיביזם"}
-{"L":"coletiviste","C":["a"],"en":"collectivist","he":"קולקטיביסטי"}
-{"L":"coletiviste","C":["n"],"en":"collectivist","he":"קולקטיביסט"}
-{"T":"r","L":"coli","C":["n"],"d":"un can de pastor, de raza orijinante en Scotland, con nas longa e puntida e pelo longa e densa","i":"#","en":"collie (dog)","he":"קולי (כלב)"}
-{"T":"r","L":"colibri","C":["n","avia"],"d":"un avia multe peti de la tropicos de America, comente netar e tipal con plumas opalin, ci pote flota en aira e vola a retro","i":"#","t":"Trochilidae","en":"hummingbird","he":"קוליברי, יונק דבש (ציפור)"}
-{"T":"r","L":"colico","C":["n","med"],"d":"un dole intensa en la adomen, causada par gas intestinal o par un impedi en la intestines, sufrida xef par bebes","en":"colic (medical)","he":"קוליק, קדדת"}
-{"T":"r","L":"colide","C":["vnt"],"d":"(du cosas movente) colpa fortiosa lunlotra","en":"collide, crash, impact","he":"להתנגש"}
-{"L":"colide","C":["n"],"en":"collision, crash, impact","he":"התנגשות"}
-{"L":"colide multiple","C":["n"],"en":"multiple collision, pile-up","he":"תאונת שרשרת"}
-{"L":"colidador","C":["n"],"en":"collider","he":"מאיץ חלקיקים"}
-{"T":"r","L":"colie","C":["vt"],"d":"pone (cosas) con lunlotra; cumula (cosas sperdeda); xerca e oteni (cosas), tipal como un pasatempo; prende (un flor, fruta o vejetal) de sua loca de crese","da":"samle","de":"einsammeln","en":"collect, gather, accumulate; pick, garner","es":"colección, conjunto, juego; juntar, recolectar, reunir, recoger","fr":"rassembler","he":"לאסוף, ללקט, לקבץ; לקטוף"}
-{"L":"colie","C":["n"],"da":"sæt","de":"Satz, Garnitur","en":"collection, set, accumulation, repertoire, repertory; medley, omnibus","fr":"ensemble","he":"אוסף, אסופה, לקט, צבר, ערכה, קבוצה, רפרטואר; איסוף, ליקוט, צבירה; מחרוזת (שירים)"}
-{"L":"colie caxida","C":["n"],"en":"box set","he":"מארז"}
-{"L":"colie de armas","C":["n"],"en":"arsenal","he":"ארסנל, מחסן נשק"}
-{"L":"colie de filos","C":["n"],"en":"strand (threads or wires)","he":"גדיל"}
-{"L":"colie de presentas","C":["n"],"en":"repertory, repertoire","he":"רפרטואר"}
-{"L":"colie de selos","C":["n"],"en":"stamp collecting; stamp collection","he":"אוסף בולים; איסוף בולים"}
-{"L":"colie de sinias","C":["n"],"en":"character set, character repertoire (e.g. Unicode)","he":"קבוצת תווים"}
-{"L":"colie de tambures","C":["n"],"en":"drum kit","he":"מערכת תופים"}
-{"L":"colie grande","C":["n"],"en":"large collection, panoply","he":"תצוגה מרשימה, אוסף מרשים"}
-{"L":"colie la resta","C":["v"],"en":"glean (harvest)","he":"ללקט שאריות (אחרי קציר)"}
-{"L":"colie miscada","C":["n"],"en":"assortment, miscellany, hotchpotch, hodgepodge","he":"מגוון, מבחר, תערובת"}
-{"L":"colior","C":["n"],"en":"collector","he":"אספן"}
-{"L":"colior de selos","C":["n"],"en":"stamp collector","he":"אספן בולים"}
-{"L":"sucolie","C":["n"],"en":"subset","he":"תת-קבוצה"}
-{"T":"r","L":"coliebal","C":["n","vn"],"d":"un person joven ci retrae bales cual sorti de la campo en tenis o futbal","en":"ballboy, ballgirl","he":"בול בוי (טניס)"}
-{"T":"r","L":"coliflor","C":["n","pla","cos"],"d":"un varia de col con un masa grande de brotos blanca","i":"#","t":"Brassica oleracea","en":"cauliflower (plant, vegetable)","he":"כרובית"}
-{"T":"r","L":"colina","C":["n","tera"],"d":"un area de tera natural levada, no tan alta o rocosa como un monte; un area simil, construida como un tomba","da":"bakke","de":"Hügel","en":"hill, butte, mesa","es":"colina, collado, cerro, loma","fr":"colline","he":"גבעה"}
-{"L":"colineta","C":["n"],"en":"hillock, mound, bank, hummock, knoll; tumulus, barrow","he":"תל, תלולית, גבעונת"}
-{"L":"colinosa","C":["a"],"en":"hilly","he":"גבעי (שיש בו גבעות)"}
-{"T":"r","L":"colina","C":["n","bio"],"d":"un composada forte alcalin, importante en la sintese e transporta de lipidos en la corpo","en":"choline (substance)","he":"(ביולוגיה) כולין"}
-{"T":"r","L":"colinabo","C":["n","pla","cos"],"d":"un planta european en familia de col, cual produi un radis grande con pulpa jala","i":"#","t":"Brassica napobrassica","en":"swede, rutabaga (plant, vegetable)","he":"רוטבגה (צמח)"}
-{"T":"r","L":"colinerjica","C":["n","med"],"d":"pertinente a la neurones en cual asetilcolina funsiona como un neurotransmetador; relasante o respondente a asetilcolina","en":"cholinergic","he":"כולינרגי"}
-{"L":"anticolinerjica","C":["n","med"],"d":"un medisin per redui la funsiona de asetilcolina","en":"anticholinergic","he":"(חומר) אנטיכולינרגי"}
-{"T":"r","L":"colino","C":["n","avia"],"d":"un coturnix de la mundo nova, con plumas rojin brun e manxosa, e tipal un garga pal","i":"#","t":"Colinus","en":"bobwhite (bird)","he":"בובוויט (ציפור)"}
-{"T":"r","L":"colio","C":["n","avia"],"d":"un avia peti e sosial de Africa, con cresta, plumas blanda e coda longa","i":"#","t":"Coliidae","en":"mousebird","he":"קוליוס (ציפור)"}
-{"T":"r","L":"colirabano","C":["n","pla","cos"],"d":"un varia de col, con talo spesa e comable","i":"#","t":"Brassica oleracea","en":"kohlrabi (plant, vegetable)","he":"קולרבי, כרוב הקלח"}
-{"T":"r","L":"colite","C":["n","med"],"d":"un inflama de la fore de la colon","en":"colitis (medical)","he":"דלקת המעי הגס"}
-{"T":"r","L":"colo","C":["n","anat"],"d":"la parte de la corpo de un person o animal cual junta la testa a la spala e peto; la parte de un camisa, roba o otra veste sirca o prosima a esta","i":"#","da":"hals","de":"Hals","en":"neck","es":"cuello","fr":"cou","he":"צוואר"}
-{"L":"colo de botela","C":["n"],"en":"bottleneck","he":"צוואר בקבוק"}
-{"L":"colo de monte","C":["n"],"en":"mountain pass","he":"מעבר הרים"}
-{"L":"colo de utero","C":["n"],"en":"cervix","he":"צוואר הרחם"}
-{"L":"colal","C":["a"],"en":"cervical","he":"צווארי"}
-{"L":"coloroja","C":["a","na"],"d":"(ofendente) un person blanca e tipal povre, de la partes sude de la SUA","en":"(derogatory) redneck","he":"רדנק"}
-{"T":"r","L":"colobo","C":["n","mam"],"d":"un simia magra e erbivor de Africa, con pelo sedin, coda longa, e ditones peti o mancante","i":"#","t":"Colobus, Procolobus","en":"colobus (monkey)","he":"קולובוס (קוף)"}
-{"T":"r","L":"colocolo","C":["n","mam"],"d":"un gato peti de Txile, con bandetas e manxas","i":"#","t":"Leopardus colocolo","en":"colocolo (wild cat)","he":"חתול הפמפס"}
-{"T":"r","L":"colofon","C":["n"],"d":"la logo o impresa de un publicor, spesial a la dorso o paje de titulo de un libro; un presenta de detalias bibliografial a la comensa o fini de un libro o jornal","en":"colophon (publishing)","he":"קולופון"}
-{"T":"r","L":"coloide","C":["a"],"d":"(un miscada) en cual un sustantia de particulas nondisolvable e microscopial sperdeda es suspendeda tra un otra sustantia","en":"colloidal","he":"(כימיה) קולואידי"}
-{"L":"coloide","C":["n"],"en":"colloid","he":"(כימיה) קולואיד"}
-{"T":"r","L":"Colombia","C":["n","jeo"],"c":"Bogota","d":"un pais en la norde-ueste de America Sude, con costas a la Mar Caribe e la Mar Pasifica","i":"#","en":"Colombia","he":"קולומביה"}
-{"L":"colombian","C":["a"],"en":"Colombian","he":"קולומביאני"}
-{"L":"colombian","C":["n","dem"],"en":"Colombian","he":"קולומביאני"}
-{"T":"r","L":"colombina","C":["n","pla"],"d":"un planta en familia de ranunculo, con flores ostentosa e sperones dirijeda a retro","i":"#","t":"Aquilegia","en":"aquilegia, columbine (plant)","he":"יונייה (צמח)"}
-{"T":"r","L":"colon","C":["n","anat"],"d":"la parte major de la intestin spesa, cual asorbe acua e eletrolitos de comeda cual resta nondijestada","en":"colon","he":"המעי הגס"}
-{"L":"colon iritable","C":["n"],"en":"irritable bowel","he":"מעי רגיז"}
-{"L":"colonal","C":["a"],"en":"colonic","he":"של המעי הגס"}
-{"T":"r","L":"colona","C":["n","arci"],"d":"un strutur reta e vertical, tipal silindre e fabricada de petra o beton, cual suporta elementos orizonal; un divide vertical de un paje o table de informa","i":"#","en":"column, pillar; column (text); file (chess)","he":"עמוד; עמודה; (שחמט) טור"}
-{"L":"colona de leto","C":["n"],"en":"bedpost","he":"עמוד מיטה (אפיריון)"}
-{"L":"colona sinco","C":["n"],"en":"fifth column","he":"גיס חמישי"}
-{"L":"colonin","C":["a"],"en":"columnlike","he":"דמוי עמוד"}
-{"T":"r","L":"colonia","C":["n","gov"],"d":"un rejion su la controla de, e ocupada par persones de, un pais, tipal distante; un loca istorial nonocupada, abitada par persones ci fundi un comunia nova","en":"colony, plantation (colony), settlement; rookery","he":"מושבה, קולוניה"}
-{"L":"coloni","C":["vt"],"en":"colonize|is, settle","he":"ליישב"}
-{"L":"coloni","C":["n"],"en":"colonization|is, settlement","he":"יישוב, התיישבות, קולוניזציה"}
-{"L":"colonial","C":["a"],"en":"colonial","he":"קולוניאלי"}
-{"L":"colonialisme","C":["n"],"en":"colonialism","he":"קולוניאליזם"}
-{"L":"colonialiste","C":["a"],"en":"colonialistic","he":"קולוניאליסטי"}
-{"L":"colonialiste","C":["n"],"en":"colonialist","he":"קולוניאליסט"}
-{"L":"coloniste","C":["n"],"en":"colonist, colonial, settler","he":"מתיישב, מתנחל"}
-{"L":"coloniste prima","C":["n"],"en":"pioneer","he":"חלוץ"}
-{"T":"r","L":"color","C":["n","col"],"d":"la cualia de un cosa cual produi un sensa a la oio par la modo en cual lo refleta o emete lus; la pigmento de la pel, spesial como un indica de sua raza","da":"farve, kulør","de":"Farbe","en":"color|ur, complexion","es":"color","fr":"couleur","he":"צבע, גוון"}
-{"L":"colori","C":["vt"],"en":"color|ur","he":"לצבוע (להוסיף צבע)"}
-{"L":"colorida","C":["a"],"en":"color|ur","he":"צבוע (שהוסיפו לו צבע)"}
-{"L":"colorosa","C":["a"],"en":"colorful|ur, technicolor, color|ur","he":"צבעוני"}
-{"L":"descolori","C":["vt"],"d":"sutrae color de","en":"discolor|ur","he":"להחסיר צבע"}
-{"L":"ducolorida","C":["a"],"en":"two-colored|ur, piebald, skewbald","he":"בעל שני צבעים"}
-{"L":"malcolori","C":["vt"],"en":"discolor|ur","he":"לדהות, לשנות צבע"}
-{"L":"noncolorida","C":["a"],"en":"uncolored|ur","he":"לא צבוע (לא מכיל צבע)"}
-{"L":"sin color","C":["a"],"en":"colorless|ur","he":"חסר צבע"}
-{"T":"r","L":"Colorado","C":["n","jeo"],"d":"un stato en la SUA sentral","en":"Colorado (US state)","he":"קולורדו"}
-{"L":"Rio Colorado","C":["n","jeo"],"d":"un rio cual comensa en la Montes Rocosa, pasa tra la Canion Grande, e fini en la Golfo California","i":"#","en":"Colorado River","he":"נהר קולורדו"}
-{"T":"r","L":"coloseo","C":["n","arci"],"d":"un amfiteatro grande en Roma, construida en 75 ec; cualce teatro o stadion simil","i":"#","en":"colosseum, coliseum","he":"קולוסיאום"}
-{"T":"r","L":"colostomia","C":["n","med"],"d":"un opera sirurjial cual diverje un parte de la colon a un abri artifis en la mur adomenal per evita un parte danada","en":"colostomy","he":"קולוסטומיה"}
-{"T":"r","L":"colostro","C":["n","bio"],"d":"la secrete prima de la senos o mamelas pos pari, rica de anticorpos","en":"colostrum (biology)","he":"(ביולוגיה) קולוסטרום"}
-{"T":"r","L":"colpa","C":["vt"],"d":"contata rapida e fortiosa (un person o cosa), tipal causante dana o feri","da":"sparke, slå, stikke","de":"schlagen, stossen, treten, stechen","en":"hit, strike, knock, blow, bump, jolt, impact, butt, whack, bonk, thump, pelt, smite, bat, blast","es":"golpear, pegar, chocar, dar un golpe","fr":"frapper","he":"להכות, לחבוט, להלום"}
-{"L":"colpa","C":["n"],"da":"slag","de":"Schlag","en":"hit, strike, stroke, knock, jab, blast, blow, bump, jolt, impact, bonk, thump, thud; coup","es":"golpe, choque, sacudida, trancazo, porrazo","fr":"coup","he":"מכה, חבטה, פגיעה, מהלומה"}
-{"L":"colpa a lado","C":["n"],"en":"sideswipe","he":"מכת צד"}
-{"L":"colpa a supra","C":["n"],"en":"uppercut","he":"סנוקרת"}
-{"L":"colpa a tera","C":["vt"],"en":"knock down, knock over, fell","he":"להפיל במכה"}
-{"L":"colpa con dito","C":["v"],"en":"flick","he":"להצליף (באצבעות)"}
-{"L":"colpa con dito","C":["n"],"en":"flick","he":"הצלפה (באצבעות)"}
-{"L":"colpa con palma","C":["v"],"en":"slap, smack, spank","he":"לסטור"}
-{"L":"colpa con palma","C":["n"],"en":"slap, smack, spank","he":"סטירה"}
+{"L":"descoli","C":["vt"],"en":"unstick, peel off","fr":"décoller, détacher, séparer","he":"לקלף"}
+{"L":"supracola","C":["n"],"en":"superglue","fr":"(la) superglue","he":"דבק מהיר"}
+{"T":"r","L":"cola","C":["n","pla","cos"],"d":"un planta peti e perene de Africa tropical, cultivada per sua nozas; un noza de esta; un bevida brun e gasosa, con sabor de esta noza","i":"#","t":"Cola","en":"cola, kola (plant, nut, drink)","fr":"(le) cola, (la) noix de cola (plante, noix, boisson)","he":"קולה (צמח, משקה)"}
+{"T":"r","L":"Cola, Penisola","C":["n","jeo"],"d":"un penisola en la norde-ueste de Rusia","en":"Kola Peninsula","fr":"péninsule de Kola","he":"חצי האי קולה"}
+{"T":"r","L":"colabora","C":["vnt"],"d":"labora con lunlotra, con la mesma intende; aida lunlotra","da":"samarbejde","de":"zusammenarbeiten, mitwirken","en":"collaborate, cooperate, liaise","es":"colaborar, cooperar","fr":"collaborer, coopérer","he":"לשתף פעולה"}
+{"L":"colabora","C":["n"],"en":"collaboration, cooperation","fr":"collaboration, coopération","he":"שיתןף פעולה"}
+{"L":"colaborante","C":["a"],"en":"collaborating, collaborative","fr":"collaboratif, participatif","he":"שיתופי"}
+{"L":"colaboror","C":["n"],"en":"collaborator, colleague, co-worker, fellow worker","fr":"collaborateur, collègue, partenaire, associé, coopérateur","he":"משתף פעולה, עמית, קולגה"}
+{"T":"r","L":"coladal","C":["a"],"d":"situada a lado de lunlotra; ajuntada, ma min importante; desendente de la mesma asendente ma par un otra serie de asendentes media","en":"collateral","fr":"collatéral, parent","he":"מקביל; נוסף"}
+{"T":"r","L":"colajen","C":["n","bio"],"d":"la protena strutural xef en la texeda juntante de animales, de cual on fabrica jelatin par boli","en":"collagen","fr":"(le) collagène","he":"קולגן"}
+{"T":"r","L":"colar","C":["n","vest"],"d":"la banda de materia sirca la colo de un camisa, roba, jaca o otra veste","i":"#","de":"Kragen","en":"collar","es":"collar, cuello (de vestido, camisa, etc.), collera (para caballos o mulas de tiro)","fr":"(un) collier","he":"צווארון"}
+{"L":"colar aletin","C":["n"],"en":"wing collar","fr":"(un) col cassé","he":"צווארון כנף"}
+{"L":"colar fronsosa","C":["n"],"en":"ruff","fr":"(une) collerette, (une) fraise (parure vestimentaire)","he":"צווארון מסולסל"}
+{"L":"colar enrolada","C":["n"],"en":"turtleneck","fr":"(un) col roulé","he":"צווארון גולף"}
+{"L":"colar ronda","C":["n"],"en":"round neck, crewneck","fr":"(un) col rond","he":"פתח צוואר מעוגל"}
+{"L":"colareta","C":["n"],"i":"#","en":"necklace","fr":"collier","he":"מחרוזת, שרשרת (לצוואר)"}
+{"L":"sin colar","C":["a"],"en":"collarless","fr":"sans col","he":"ללא צווארון"}
+{"T":"r","L":"colasa","C":["vnt"],"d":"(un strutur) cade a su o a en; (un person) cade e perde consensa; senta o reposa subita como la resulta de fatiga","en":"collapse, slump, flop","fr":"s'effondrer, perdre connaissance, tomber de fatigue","he":"להתמוטט, לקרוס"}
+{"L":"colasa","C":["n"],"en":"collapse, slump, flop","fr":"effondrement, affaissement, perte de connaissance, abattement, accablement","he":"התמוטטות, קריסה"}
+{"L":"colasable","C":["a"],"en":"collapsible","fr":"qui peut s'écrouler, menaçant de s'effondrer","he":"פריק, מתקפל"}
+{"T":"r","L":"colbasa","C":["n","cos"],"d":"un tipo de salsix spisida e fumida, orijinante en Polsca","i":"#","en":"kielbasa, kubasa, kolbassa (sausage)","fr":"(une) saucisse épicée et fumée, (un) kiełbasa","he":"קילבסה (נקניק)"}
+{"T":"r","L":"coleo","C":["n"],"d":"un planta tropical de Asia sude-este en familia de menta, con folias briliante multicolorosa, popular en casas","i":"#","t":"Solenostemon","en":"coleus (plant)","fr":"(une) plectranthe (plante)","he":"נדנונית, קוליאוס (צמח)"}
+{"T":"r","L":"coler","C":["a","uma"],"d":"sentinte un irita, odia o enemia forte","da":"vred","de":"zornig","en":"angry, mad, irate, indignant","es":"enojado, colérico, airado, furioso","fr":"fâché, courroucé, furieux, de mauvaise humeur, irrité, mécontent, ulcéré, exaspéré, indigné","he":"עצבני, כועס, כעוס, זועם, נרגז, רוגז"}
+{"L":"coler","C":["n"],"en":"hothead, spitfire","fr":"(un) coléreux, (un) susceptible, (un) atrabilaire","he":"חמום-מוח"}
+{"L":"coleri","C":["vnt"],"en":"turn angry, rage","fr":"se mettre en colère, enrager, devenir furieux, se fâcher, s'irriter, s'indigner","he":"להתעצבן, להתרגז, לכעוס, לזעום"}
+{"L":"coleri","C":["vt"],"en":"anger, madden, outrage, enrage","fr":"mettre en colère, faire enrager, fâcher, irriter, indigner","he":"לעצבן, להרגיז, להכעיס"}
+{"L":"coleria","C":["n"],"en":"anger, wrath, ire, rage, outrage, indignation","fr":"(la) colère, (une) irritation, (la) rage, (une) indignation, (le) courroux, (la) mauvaise humeur, (une) exaspération","he":"כעס, רוגז, זעם, עצבים, חרון"}
+{"L":"coleriosa","C":["a"],"en":"full of anger, enraged, wrathful, aggressive","fr":"colérique, agressif, rageux, furieux, irritable","he":"מלא כעס, מלא זעם"}
+{"T":"r","L":"colera","C":["n","med"],"d":"un infeta grave de la intestin magra, causada par baterias, tipal de acua infetada, cual causa vomiti e diarea grave e tipal la mori de la sufror","en":"cholera","fr":"(le) choléra","he":"כולרה"}
+{"T":"r","L":"colesterol","C":["n","bio"],"d":"un composada de la tipo de steroles, trovada en la plu de texedas, incluinte la sangue e nervos","en":"cholesterol","fr":"(le) cholestérol","he":"כולסטרול"}
+{"T":"r","L":"coletiva","C":["a"],"d":"(un ata) fada par persones conduinte como un grupo; parteninte o pertinente a tota membros de un grupo; regardada como un intera","en":"mass, collective, bulk","fr":"collectif","he":"קולקטיבי"}
+{"L":"coletiva","C":["n"],"en":"collective (farm, factory)","fr":"(un) collectif, (une) société","he":"קולקטיב"}
+{"L":"coletivisme","C":["n"],"en":"collectivism","fr":"(le) collectivisme","he":"קולקטיביזם"}
+{"L":"coletiviste","C":["a"],"en":"collectivist","fr":"collectiviste","he":"קולקטיביסטי"}
+{"L":"coletiviste","C":["n"],"en":"collectivist","fr":"(un) collectiviste","he":"קולקטיביסט"}
+{"T":"r","L":"coli","C":["n"],"d":"un can de pastor, de raza orijinante en Scotland, con nas longa e puntida e pelo longa e densa","i":"#","en":"collie (dog)","fr":"(un) collie","he":"קולי (כלב)"}
+{"T":"r","L":"colibri","C":["n","avia"],"d":"un avia multe peti de la tropicos de America, comente netar e tipal con plumas opalin, ci pote flota en aira e vola a retro","i":"#","t":"Trochilidae","en":"hummingbird","fr":"(un) colibri (oiseau)","he":"קוליברי, יונק דבש (ציפור)"}
+{"T":"r","L":"colico","C":["n","med"],"d":"un dole intensa en la adomen, causada par gas intestinal o par un impedi en la intestines, sufrida xef par bebes","en":"colic (medical)","fr":"(une) colique","he":"קוליק, קדדת"}
+{"T":"r","L":"colide","C":["vnt"],"d":"(du cosas movente) colpa fortiosa lunlotra","en":"collide, crash, impact","fr":"entrer en collision, s'écraser","he":"להתנגש"}
+{"L":"colide","C":["n"],"en":"collision, crash, impact","fr":"(une) collision, (un) crash, (un) télescopage, (un) heurt, (un) choc, (un) accident","he":"התנגשות"}
+{"L":"colide multiple","C":["n"],"en":"multiple collision, pile-up","fr":"(un) carambolage, (une) collision multiple","he":"תאונת שרשרת"}
+{"L":"colidador","C":["n"],"en":"collider","fr":"(un) collisionneur","he":"מאיץ חלקיקים"}
+{"T":"r","L":"colie","C":["vt"],"d":"pone (cosas) con lunlotra; cumula (cosas sperdeda); xerca e oteni (cosas), tipal como un pasatempo; prende (un flor, fruta o vejetal) de sua loca de crese","da":"samle","de":"einsammeln","en":"collect, gather, accumulate; pick, garner","es":"colección, conjunto, juego; juntar, recolectar, reunir, recoger","fr":"rassembler, recueillir, collectionner, rechercher, cueillir","he":"לאסוף, ללקט, לקבץ; לקטוף"}
+{"L":"colie","C":["n"],"da":"sæt","de":"Satz, Garnitur","en":"collection, set, accumulation, repertoire, repertory; medley, omnibus","fr":"(un) ensemble, (un) assemblage, (un) recueil, (une) anthologie, (un) florilège, (une) collection, (une) cueillette, (une) moisson, (une) compilation, (un) compendium, (un) catalogue, (un) répertoire","he":"אוסף, אסופה, לקט, צבר, ערכה, קבוצה, רפרטואר; איסוף, ליקוט, צבירה; מחרוזת (שירים)"}
+{"L":"colie caxida","C":["n"],"en":"box set","fr":"(un) coffret","he":"מארז"}
+{"L":"colie de armas","C":["n"],"en":"arsenal","fr":"(un) arsenal","he":"ארסנל, מחסן נשק"}
+{"L":"colie de filos","C":["n"],"en":"strand (threads or wires)","fr":"(un) toron","he":"גדיל"}
+{"L":"colie de presentas","C":["n"],"en":"repertory, repertoire","fr":"(un) répertoire, (un) index, (une) liste, (un) registre","he":"רפרטואר"}
+{"L":"colie de selos","C":["n"],"en":"stamp collecting; stamp collection","fr":"(une) collection de timbres","he":"אוסף בולים; איסוף בולים"}
+{"L":"colie de sinias","C":["n"],"en":"character set, character repertoire (e.g. Unicode)","fr":"ensemble de caractères (par exemple Unicode)","he":"קבוצת תווים"}
+{"L":"colie de tambures","C":["n"],"en":"drum kit","fr":"(une) batterie","he":"מערכת תופים"}
+{"L":"colie grande","C":["n"],"en":"large collection, panoply","fr":"(une) panoplie, (un) arsenal, (une) gamme","he":"תצוגה מרשימה, אוסף מרשים"}
+{"L":"colie la resta","C":["v"],"en":"glean (harvest)","fr":"(une) glane, (un) glanage","he":"ללקט שאריות (אחרי קציר)"}
+{"L":"colie miscada","C":["n"],"en":"assortment, miscellany, hotchpotch, hodgepodge","fr":"(un) assortiment, (un) mélange, (un) mélimélo, méli-mélo, (un) pot-pourri","he":"מגוון, מבחר, תערובת"}
+{"L":"colior","C":["n"],"en":"collector","fr":"(un) collectionneur","he":"אספן"}
+{"L":"colior de selos","C":["n"],"en":"stamp collector","fr":"(un) collectionneur de timbres","he":"אספן בולים"}
+{"L":"sucolie","C":["n"],"en":"subset","fr":"(une) sous-collection, (une) sous-partie d'une collection","he":"תת-קבוצה"}
+{"T":"r","L":"coliebal","C":["n","vn"],"d":"un person joven ci retrae bales cual sorti de la campo en tenis o futbal","en":"ballboy, ballgirl","fr":"(un) ramasseur de balles","he":"בול בוי (טניס)"}
+{"T":"r","L":"coliflor","C":["n","pla","cos"],"d":"un varia de col con un masa grande de brotos blanca","i":"#","t":"Brassica oleracea","en":"cauliflower (plant, vegetable)","fr":"(un) chou-fleur (plante, légume)","he":"כרובית"}
+{"T":"r","L":"colina","C":["n","tera"],"d":"un area de tera natural levada, no tan alta o rocosa como un monte; un area simil, construida como un tomba","da":"bakke","de":"Hügel","en":"hill, butte, mesa","es":"colina, collado, cerro, loma","fr":"(une) colline","he":"גבעה"}
+{"L":"colineta","C":["n"],"en":"hillock, mound, bank, hummock, knoll; tumulus, barrow","fr":"(un) monticule, (une) butte, (un) tumulus","he":"תל, תלולית, גבעונת"}
+{"L":"colinosa","C":["a"],"en":"hilly","fr":"montueux, vallonné","he":"גבעי (שיש בו גבעות)"}
+{"T":"r","L":"colina","C":["n","bio"],"d":"un composada forte alcalin, importante en la sintese e transporta de lipidos en la corpo","en":"choline (substance)","fr":"(la) choline (biochimie)","he":"(ביולוגיה) כולין"}
+{"T":"r","L":"colinabo","C":["n","pla","cos"],"d":"un planta european en familia de col, cual produi un radis grande con pulpa jala","i":"#","t":"Brassica napobrassica","en":"swede, rutabaga (plant, vegetable)","fr":"(le) rutabaga (plante, légume)","he":"רוטבגה (צמח)"}
+{"T":"r","L":"colinerjica","C":["n","med"],"d":"pertinente a la neurones en cual asetilcolina funsiona como un neurotransmetador; relasante o respondente a asetilcolina","en":"cholinergic","fr":"cholinergique","he":"כולינרגי"}
+{"L":"anticolinerjica","C":["n","med"],"d":"un medisin per redui la funsiona de asetilcolina","en":"anticholinergic","fr":"anticholinergique","he":"(חומר) אנטיכולינרגי"}
+{"T":"r","L":"colino","C":["n","avia"],"d":"un coturnix de la mundo nova, con plumas rojin brun e manxosa, e tipal un garga pal","i":"#","t":"Colinus","en":"bobwhite (bird)","fr":"(un) colin (oiseau)","he":"בובוויט (ציפור)"}
+{"T":"r","L":"colio","C":["n","avia"],"d":"un avia peti e sosial de Africa, con cresta, plumas blanda e coda longa","i":"#","t":"Coliidae","en":"mousebird","fr":"(un) coliou, (un) oiseau-souris","he":"קוליוס (ציפור)"}
+{"T":"r","L":"colirabano","C":["n","pla","cos"],"d":"un varia de col, con talo spesa e comable","i":"#","t":"Brassica oleracea","en":"kohlrabi (plant, vegetable)","fr":"(un) chou-rave (plante, légume)","he":"קולרבי, כרוב הקלח"}
+{"T":"r","L":"colite","C":["n","med"],"d":"un inflama de la fore de la colon","en":"colitis (medical)","fr":"(une) colite (médecine)","he":"דלקת המעי הגס"}
+{"T":"r","L":"colo","C":["n","anat"],"d":"la parte de la corpo de un person o animal cual junta la testa a la spala e peto; la parte de un camisa, roba o otra veste sirca o prosima a esta","i":"#","da":"hals","de":"Hals","en":"neck","es":"cuello","fr":"(le) cou","he":"צוואר"}
+{"L":"colo de botela","C":["n"],"en":"bottleneck","fr":"(un) goulot (de bouteille), (un) bottleneck (musique)","he":"צוואר בקבוק"}
+{"L":"colo de monte","C":["n"],"en":"mountain pass","fr":"(un) col (entre deux montagnes)","he":"מעבר הרים"}
+{"L":"colo de utero","C":["n"],"en":"cervix","fr":"(le) col de l'utérus","he":"צוואר הרחם"}
+{"L":"colal","C":["a"],"en":"cervical","fr":"cervical","he":"צווארי"}
+{"L":"coloroja","C":["a","na"],"d":"(ofendente) un person blanca e tipal povre, de la partes sude de la SUA","en":"(derogatory) redneck","fr":"(un) plouc, (un) rustre, (un) bouseux","he":"רדנק"}
+{"T":"r","L":"colobo","C":["n","mam"],"d":"un simia magra e erbivor de Africa, con pelo sedin, coda longa, e ditones peti o mancante","i":"#","t":"Colobus, Procolobus","en":"colobus (monkey)","fr":"(un) colobe, (un) guéréza (singes)","he":"קולובוס (קוף)"}
+{"T":"r","L":"colocolo","C":["n","mam"],"d":"un gato peti de Txile, con bandetas e manxas","i":"#","t":"Leopardus colocolo","en":"colocolo (wild cat)","fr":"(un) colocolo, (un) chat des pampas (chat sauvage)","he":"חתול הפמפס"}
+{"T":"r","L":"colofon","C":["n"],"d":"la logo o impresa de un publicor, spesial a la dorso o paje de titulo de un libro; un presenta de detalias bibliografial a la comensa o fini de un libro o jornal","en":"colophon (publishing)","fr":"(un) colophon (imprimerie, typographie)","he":"קולופון"}
+{"T":"r","L":"coloide","C":["a"],"d":"(un miscada) en cual un sustantia de particulas nondisolvable e microscopial sperdeda es suspendeda tra un otra sustantia","en":"colloidal","fr":"colloïdal","he":"(כימיה) קולואידי"}
+{"L":"coloide","C":["n"],"en":"colloid","fr":"(un) colloïde","he":"(כימיה) קולואיד"}
+{"T":"r","L":"Colombia","C":["n","jeo"],"c":"Bogota","d":"un pais en la norde-ueste de America Sude, con costas a la Mar Caribe e la Mar Pasifica","i":"#","en":"Colombia","fr":"(la) Colombie","he":"קולומביה"}
+{"L":"colombian","C":["a"],"en":"Colombian","fr":"colombien","he":"קולומביאני"}
+{"L":"colombian","C":["n","dem"],"en":"Colombian","fr":"(un) Colombien","he":"קולומביאני"}
+{"T":"r","L":"colombina","C":["n","pla"],"d":"un planta en familia de ranunculo, con flores ostentosa e sperones dirijeda a retro","i":"#","t":"Aquilegia","en":"aquilegia, columbine (plant)","fr":"(une) ancolie","he":"יונייה (צמח)"}
+{"T":"r","L":"colon","C":["n","anat"],"d":"la parte major de la intestin spesa, cual asorbe acua e eletrolitos de comeda cual resta nondijestada","en":"colon","fr":"(le) côlon","he":"המעי הגס"}
+{"L":"colon iritable","C":["n"],"en":"irritable bowel","fr":"(un) intestin irritable, (le) syndrome de l'intestin irritable","he":"מעי רגיז"}
+{"L":"colonal","C":["a"],"en":"colonic","fr":"colonique","he":"של המעי הגס"}
+{"T":"r","L":"colona","C":["n","arci"],"d":"un strutur reta e vertical, tipal silindre e fabricada de petra o beton, cual suporta elementos orizonal; un divide vertical de un paje o table de informa","i":"#","en":"column, pillar; column (text); file (chess)","fr":"(une) colonne, (un) pilier; (une) colonne (ligne verticale, jeu d'échecs)","he":"עמוד; עמודה; (שחמט) טור"}
+{"L":"colona de leto","C":["n"],"en":"bedpost","fr":"poteau de lit","he":"עמוד מיטה (אפיריון)"}
+{"L":"colona sinco","C":["n"],"en":"fifth column","fr":"(la) cinquième colonne","he":"גיס חמישי"}
+{"L":"colonin","C":["a"],"en":"columnlike","fr":"en forme de colonne","he":"דמוי עמוד"}
+{"T":"r","L":"colonia","C":["n","gov"],"d":"un rejion su la controla de, e ocupada par persones de, un pais, tipal distante; un loca istorial nonocupada, abitada par persones ci fundi un comunia nova","en":"colony, plantation (colony), settlement; rookery","fr":"(une) colonie, (un) peuplement, (une) occupation (d'une région), (une) invasion","he":"מושבה, קולוניה"}
+{"L":"coloni","C":["vt"],"en":"colonize|is, settle","fr":"coloniser, s'installer dans, occuper (une région), envahir","he":"ליישב"}
+{"L":"coloni","C":["n"],"en":"colonization|is, settlement","fr":"colonisation, occupation, invasion","he":"יישוב, התיישבות, קולוניזציה"}
+{"L":"colonial","C":["a"],"en":"colonial","fr":"colonial","he":"קולוניאלי"}
+{"L":"colonialisme","C":["n"],"en":"colonialism","fr":"(le) colonialisme","he":"קולוניאליזם"}
+{"L":"colonialiste","C":["a"],"en":"colonialistic","fr":"colonialiste","he":"קולוניאליסטי"}
+{"L":"colonialiste","C":["n"],"en":"colonialist","fr":"(un) colonialiste","he":"קולוניאליסט"}
+{"L":"coloniste","C":["n"],"en":"colonist, colonial, settler","fr":"(un) colon, (un) colonisateur","he":"מתיישב, מתנחל"}
+{"L":"coloniste prima","C":["n"],"en":"pioneer","fr":"(un) pionnier, (un) défricheur","he":"חלוץ"}
+{"T":"r","L":"color","C":["n","col"],"d":"la cualia de un cosa cual produi un sensa a la oio par la modo en cual lo refleta o emete lus; la pigmento de la pel, spesial como un indica de sua raza","da":"farve, kulør","de":"Farbe","en":"color|ur, complexion","es":"color","fr":"(une) couleur","he":"צבע, גוון"}
+{"L":"colori","C":["vt"],"en":"color|ur","fr":"colorer, colorier","he":"לצבוע (להוסיף צבע)"}
+{"L":"colorida","C":["a"],"en":"color|ur","fr":"coloré","he":"צבוע (שהוסיפו לו צבע)"}
+{"L":"colorosa","C":["a"],"en":"colorful|ur, technicolor, color|ur","fr":"en couleur, coloré, bariolé, multicolore","he":"צבעוני"}
+{"L":"descolori","C":["vt"],"d":"sutrae color de","en":"discolor|ur","fr":"décolorer","he":"להחסיר צבע"}
+{"L":"ducolorida","C":["a"],"en":"two-colored|ur, piebald, skewbald","fr":"décoloré","he":"בעל שני צבעים"}
+{"L":"malcolori","C":["vt"],"en":"discolor|ur","fr":"mal colorer, barbouiller, peinturlurer, maculer","he":"לדהות, לשנות צבע"}
+{"L":"noncolorida","C":["a"],"en":"uncolored|ur","fr":"incolore, non coloré","he":"לא צבוע (לא מכיל צבע)"}
+{"L":"sin color","C":["a"],"en":"colorless|ur","fr":"sans couleur, non coloré","he":"חסר צבע"}
+{"T":"r","L":"Colorado","C":["n","jeo"],"d":"un stato en la SUA sentral","en":"Colorado (US state)","fr":"(le) Colorado","he":"קולורדו"}
+{"L":"Rio Colorado","C":["n","jeo"],"d":"un rio cual comensa en la Montes Rocosa, pasa tra la Canion Grande, e fini en la Golfo California","i":"#","en":"Colorado River","fr":"(le) fleuve Colorado","he":"נהר קולורדו"}
+{"T":"r","L":"coloseo","C":["n","arci"],"d":"un amfiteatro grande en Roma, construida en 75 ec; cualce teatro o stadion simil","i":"#","en":"colosseum, coliseum","fr":"(le) Colisée","he":"קולוסיאום"}
+{"T":"r","L":"colostomia","C":["n","med"],"d":"un opera sirurjial cual diverje un parte de la colon a un abri artifis en la mur adomenal per evita un parte danada","en":"colostomy","fr":"(une) colostomie (médecine)","he":"קולוסטומיה"}
+{"T":"r","L":"colostro","C":["n","bio"],"d":"la secrete prima de la senos o mamelas pos pari, rica de anticorpos","en":"colostrum (biology)","fr":"(le) colostrum (médecine)","he":"(ביולוגיה) קולוסטרום"}
+{"T":"r","L":"colpa","C":["vt"],"d":"contata rapida e fortiosa (un person o cosa), tipal causante dana o feri","da":"sparke, slå, stikke","de":"schlagen, stossen, treten, stechen","en":"hit, strike, knock, blow, bump, jolt, impact, butt, whack, bonk, thump, pelt, smite, bat, blast","es":"golpear, pegar, chocar, dar un golpe","fr":"frapper, cogner, taper, blesser, heurter, bousculer","he":"להכות, לחבוט, להלום"}
+{"L":"colpa","C":["n"],"da":"slag","de":"Schlag","en":"hit, strike, stroke, knock, jab, blast, blow, bump, jolt, impact, bonk, thump, thud; coup","es":"golpe, choque, sacudida, trancazo, porrazo","fr":"(un) coup, (un) choc","he":"מכה, חבטה, פגיעה, מהלומה"}
+{"L":"colpa a lado","C":["n"],"en":"sideswipe","fr":"(un) choc latéral, (une) collision latérale","he":"מכת צד"}
+{"L":"colpa a supra","C":["n"],"en":"uppercut","fr":"(un) coup de poing remontant, (un) uppercut, (un) crochet","he":"סנוקרת"}
+{"L":"colpa a tera","C":["vt"],"en":"knock down, knock over, fell","fr":"(un) knockdown","he":"להפיל במכה"}
+{"L":"colpa con dito","C":["v"],"en":"flick","fr":"donner une chiquenaude, donner une pichenette","he":"להצליף (באצבעות)"}
+{"L":"colpa con dito","C":["n"],"en":"flick","fr":"(une) chiquenaude, (une) pichenette","he":"הצלפה (באצבעות)"}
+{"L":"colpa con palma","C":["v"],"en":"slap, smack, spank","fr":"donner une claque, gifler, souffleter","he":"לסטור"}
+{"L":"colpa con palma","C":["n"],"en":"slap, smack, spank","fr":"(une) gifle, (une) claque, (un) soufflet, (un) camouflet, (une) baffe","he":"סטירה"}
 {"L":"colpa con pede","C":["v"],"en":"kick","fr":"donner un coup de pied","he":"לבעוט"}
-{"L":"colpa con pede","C":["n"],"en":"kick","he":"בעיטה"}
-{"L":"colpa con punio","C":["v"],"en":"punch","es":"dar puñetazo, dar puñada"}
-{"L":"colpa con punio","C":["n"],"en":"punch"}
-{"L":"colpa con testa","C":["v"],"en":"headbutt; head (football)","he":"לנגוח"}
-{"L":"colpa con testa","C":["n"],"en":"headbutt; header (football)","he":"נגיחה"}
-{"L":"colpa de cavalo","C":["v"],"en":"unhorse, unseat","he":"להפיל מסוס"}
-{"L":"colpa de mori","C":["n"],"en":"death blow, coup de grâce","he":"מכת מוות"}
-{"L":"colpa de palasio","C":["n"],"en":"palace coup","he":"הפיכת חצר"}
-{"L":"colpa de stato","C":["n"],"en":"coup d'état, coup","he":"הפיכה"}
-{"L":"colpa de tona","C":["n"],"en":"thunderclap","he":"רעם"}
-{"L":"colpa forte","C":["n"],"en":"hard blow, wallop, whack, wham, crackdown, haymaker","he":"מכה חזקה"}
-{"L":"colpa metalin","C":["n"],"en":"metallic thud, clunk","he":"מכה במתכת"}
-{"L":"colpa sever","C":["n"],"en":"severe blow, crackdown","he":"מכה קשה"}
-{"L":"colpa xef","C":["n"],"en":"main blow, brunt","he":"מכה עיקרית"}
-{"L":"colpador","C":["n"],"en":"blaster (weapon)","he":"בלאסטר"}
+{"L":"colpa con pede","C":["n"],"en":"kick","fr":"(un) coup de pied","he":"בעיטה"}
+{"L":"colpa con punio","C":["v"],"en":"punch","es":"dar puñetazo, dar puñada","fr":"cogner, donner un coup de poing, boxer"}
+{"L":"colpa con punio","C":["n"],"en":"punch","fr":"(un) coup de poing"}
+{"L":"colpa con testa","C":["v"],"en":"headbutt; head (football)","fr":"donner un coup de tête, donner un coup de boule (familier); faire une tête (football)","he":"לנגוח"}
+{"L":"colpa con testa","C":["n"],"en":"headbutt; header (football)","fr":"(un) coup de tête, (un) coup de boule (familier); (une) tête (football)","he":"נגיחה"}
+{"L":"colpa de cavalo","C":["v"],"en":"unhorse, unseat","fr":"désarçonner, tomber de cheval","he":"להפיל מסוס"}
+{"L":"colpa de mori","C":["n"],"en":"death blow, coup de grâce","fr":"(un) coup de grâce, (un) coup mortel, (un) coup fatal","he":"מכת מוות"}
+{"L":"colpa de palasio","C":["n"],"en":"palace coup","fr":"(une) conspiration, (une) faction, (un) complot, (une) cabale, (un) putsch, (un) coup d'État","he":"הפיכת חצר"}
+{"L":"colpa de stato","C":["n"],"en":"coup d'état, coup","fr":"(un) coup d'État","he":"הפיכה"}
+{"L":"colpa de tona","C":["n"],"en":"thunderclap","fr":"(un) coup de tonnerre","he":"רעם"}
+{"L":"colpa forte","C":["n"],"en":"hard blow, wallop, whack, wham, crackdown, haymaker","fr":"(un) coup de force, (un) grand coup","he":"מכה חזקה"}
+{"L":"colpa metalin","C":["n"],"en":"metallic thud, clunk","fr":"(un) bruit métallique","he":"מכה במתכת"}
+{"L":"colpa sever","C":["n"],"en":"severe blow, crackdown","fr":"(un) coup terrible, (une) répression terrible, (une) sanction sévère","he":"מכה קשה"}
+{"L":"colpa xef","C":["n"],"en":"main blow, brunt","fr":"(un) coup fatal, (un) grand coup","he":"מכה עיקרית"}
+{"L":"colpador","C":["n"],"en":"blaster (weapon)","fr":"(un) blaster, (un) pistolet laser (une arme de science-fiction)","he":"בלאסטר"}
 {"L":"colpeta","C":["vt","spo"],"en":"pat, dab, daub; flick; putt (golf)","he":"להפליק, לטפוח; (גולף( לגלגל הכדור לחור"}
-{"L":"colpeta","C":["n"],"en":"pat, light blow; flick","he":"פליק, טפיחה"}
-{"L":"colpetador","C":["n","spo"],"en":"putter (golf club)","he":"(גולף) פאטר"}
-{"L":"no colpa","C":["v"],"en":"miss (target)","he":"להחטיא, להחמיץ, לפספס"}
-{"L":"par sola un colpa","C":["av"],"en":"in one fell swoop","he":"במכה אחת"}
-{"T":"r","L":"colpamosca","C":["n","vn","util"],"d":"un util per colpa e crase insetos","en":"flyswatter, flyswat","he":"מחבט זבובים"}
-{"T":"r","L":"colposcopio","C":["n","util","med"],"d":"un strumento sirurjial per esamina la vajina e la colo de la utero","en":"colposcope","he":"קולפוסקופ"}
-{"L":"colposcopi","C":["n"],"en":"colposcopy","he":"קולפוסקופיה"}
-{"T":"r","L":"colugo","C":["n","mam"],"d":"un mamal simil a un lemur en Asia sude-este, con pel entre sua gamas anterior e posterior cual el usa per vola de arbor a arbor","i":"#","t":"Dermoptera","en":"colugo, cobego, flying lemur","he":"גלשן, למור מעופף"}
-{"T":"r","L":"Columbia Brites","C":["n","jeo"],"d":"un provinse en Canada ueste, bordante la Mar Pasifica e Alaska","en":"British Columbia","he":"קולומביה הבריטית"}
-{"T":"r","L":"colxa","C":["vt","vest"],"d":"cose (stratos de stofa o pleninte) a lunlotra per formi un covrente de leto, un veste calda, o un efeto ornal","i":"#","en":"quilt","he":"לתפור שמיכת טלאים"}
-{"T":"r","L":"colza","C":["n","pla","cos"],"d":"un planta en familia de col, con flores briliante jala e bonodorosa; la semes de esta, usada xef per olio","i":"#","t":"Brassica napus","en":"rape, cole, colza (plant); rapeseed; rape oil, rapeseed oil, canola","he":"לפתית (צמח); שמן קנולה"}
-{"T":"r","L":"com-","C":["pf","tecn"],"d":"con, en junta, mutua","en":"com- (with, together)","he":"(קידומת טכנית) עם, ביחד"}
-{"T":"r","L":"coma","C":["n","med"],"d":"un state de nonconsensia cual permane tra un periodo longa o nondefinida, spesial si causada par un maladia o feri grave","en":"coma","he":"תרדמת"}
-{"L":"comosa","C":["a"],"en":"comatose","he":"שרוי בתרדמת"}
-{"T":"r","L":"comadre","C":["n","med"],"d":"un person (tipal un fem) instruida per aida femes en pari","en":"midwife","he":"מיילדת"}
-{"L":"comadria","C":["n","med"],"en":"midwifery","he":"מיילדות"}
-{"T":"r","L":"comanda","C":["vt"],"d":"demanda ce (algun) fabrica, furni o servi alga cosa; demanda autoriosa ce (algun) fa un taxe; ave autoria sur (un grupo de persones)","u":"comanda alga cosa a/de algun; comanda ce algun fa alga cosa","da":"order, kommando, direktiv","en":"command, order, dictate, ordain; order (food, goods)","he":"לפקד; לצוות, להורות, להכתיב; להזמין (מוצרים)"}
-{"L":"comanda","C":["n"],"da":"Befehl","en":"command, order, directive, decree, fiat, commission, warrant, writ, behest","es":"comando, orden, directiva, mando, mandato, mandamiento","fr":"commande","he":"פקודה, הוראה, צו, הכתבה; הזמנה"}
-{"L":"comanda per apare","C":["v"],"en":"summons, subpoena","he":"לזמן"}
-{"L":"comanda per apare","C":["n"],"en":"summons, subpoena","he":"זימון"}
-{"L":"comanda temprana","C":["v"],"en":"preorder","he":"להזמין מוקדם"}
-{"L":"comanda temprana","C":["n"],"en":"preorder","he":"הזמנה מוקדמת"}
-{"L":"comandante","C":["a"],"en":"commanding, imperative, peremptory","he":"פוקד, מצווה, מורה, מכתיב"}
-{"L":"comandante","C":["n"],"en":"imperative","he":"ציווי, אימפרטיב"}
-{"L":"comandor","C":["n"],"en":"commander, commandant, commodore","he":"מפקד"}
-{"L":"comandor militar","C":["n"],"en":"military commander, warlord","he":"מפקד צבאי"}
-{"L":"par comanda","C":["a"],"en":"custom, custom-made, custom-order, special-order, customised, bespoke, on demand, tailored, tailor-made","he":"לפי הזמנה"}
-{"L":"precomanda","C":["vt"],"en":"preorder"}
-{"L":"precomanda","C":["n"],"en":"preorder","he":"הזמנה מוקדמת"}
-{"L":"viscomandor","C":["n"],"en":"vice-commander, second-in-command","he":"סגן מפקד"}
-{"T":"r","L":"comando","C":["n"],"d":"un soldato instruida per ataca rapida","en":"commando","he":"קומנדו"}
-{"T":"r","L":"combate","C":["vt"],"d":"partisipa contra (un person o cosa) en un gera, batalia o otra encontra, usante colpas fisical o armas","da":"slås, kæmpe","de":"Kampf","en":"fight, combat, brawl","es":"luchar, combatir, pelear, reñir","fr":"lutter, combattre","he":"להילחם, להיאבק"}
-{"L":"combate","C":["n"],"en":"fight, combat, brawl, bout","he":"לחימה, קרב, מאבק"}
-{"L":"combate airal","C":["n"],"en":"aerial combat, dogfight","he":"קרב אווירי"}
-{"L":"combate de bove","C":["n"],"en":"bullfight","he":"מלחמת שוורים"}
-{"L":"combate de gales","C":["n"],"en":"cockfight","he":"קרב תרנגולים"}
-{"L":"combate duelin","C":["n"],"en":"single combat"}
-{"L":"combate prosima","C":["n"],"en":"hand-to-hand combat","he":"קרב פנים-אל-פנים"}
-{"L":"combator","C":["n"],"en":"fighter, combatant","he":"לוחם"}
-{"L":"combator de bove","C":["n"],"en":"bullfighter","he":"לוחם שוורים"}
-{"L":"combatosa","C":["a"],"en":"combative, aggressive, militant","he":"לוחמני, אגרסיבי, מיליטנטי"}
-{"L":"combatosia","C":["n"],"en":"aggression","he":"לוחמניות, אגרסיביות, מיליטנטיות"}
-{"L":"noncombator","C":["n"],"en":"non-combatant","he":"שאינו משתתף בלחימה"}
-{"T":"r","L":"combina","C":["vnt"],"d":"uni per un intende comun; (en cimica) uni per deveni un composada","en":"combine, amalgamate, aggregate, concoct; consolidate","he":"להצטרף, להתאחד, להשתלב, להתמזג, להתרכב"}
-{"L":"combina","C":["n"],"en":"combination, combo, amalgam, amalgamation, aggregate, concoction; consolidation","he":"שילוב, השתלבות, צירוף, מצרף, קומבינציה, מיזוג, התרכבות; אמלגם, סגסוגת"}
-{"L":"recombina","C":["vnt"],"en":"recombine, reamalgamate","he":"להשתלב מחדש, להתרכב מחדש"}
-{"L":"recombina","C":["vt"],"en":"recombine, reamalgamate","he":"לשלב מחדש, לצרף מחדש"}
-{"L":"recombinante","C":["a"],"en":"recombinant","he":"(ביולוגיה) הצרף"}
-{"T":"r","L":"combinatoria","C":["n","mat"],"d":"la ramo de matematica cual studia la combinas e permutas de ojetos parteninte a grupos finita","en":"combinatorics","he":"קומבינטוריקה"}
-{"T":"r","L":"combusta","C":["vnt","util"],"d":"deveni consumada par foco","da":"brændstof","en":"combust","he":"לבעור, להישרף"}
-{"L":"combusta","C":["n"],"en":"combustion","he":"בעירה, שריפה"}
-{"L":"combustable","C":["a"],"de":"Brennmaterial","en":"combustible","fr":"carburant, combustible","he":"דליק, בעיר"}
-{"L":"combustable","C":["n"],"en":"combustible, fuel","es":"combustible","he":"חומר דליק"}
-{"L":"combustable de fosil","C":["n"],"en":"fossil fuel","he":"דלק מאובנים"}
-{"L":"combustablia","C":["n"],"en":"combustibility","he":"מידת דליקות"}
-{"L":"malcombusta","C":["vnt"],"en":"backfire (engine)","he":"(מנוע) לבעור מוקדם"}
-{"T":"r","L":"come","C":["vt","cos"],"d":"pone (comeda) en la boca, mastica lo e engoli lo; comparti esta ata con otras, tipal a un ora tradisional","da":"spise, æde","de":"essen","en":"eat, dine, ingest, sup","es":"comer","fr":"manger","he":"לאכול, לסעוד"}
-{"L":"come","C":["n"],"da":"måltid","de":"Mahlzeit, Essen","en":"meal, dinner, supper, repast","es":"comida (ocasión para comer)","fr":"repas","he":"ארוחה"}
-{"L":"come con sua oios","C":["v"],"en":"ogle, leer at","he":"לנעוץ עיניים"}
-{"L":"come de matina","C":["n"],"da":"morgenmad","de":"Frühstück","en":"breakfast","es":"desayuno","fr":"petit-déjeuner","he":"ארוחת בוקר"}
+{"L":"colpeta","C":["n"],"en":"pat, light blow; flick","fr":"(une) chiquenaude, (une) pichenette","he":"פליק, טפיחה"}
+{"L":"colpetador","C":["n","spo"],"en":"putter (golf club)","fr":"(un) putter (club de golf)","he":"(גולף) פאטר"}
+{"L":"no colpa","C":["v"],"en":"miss (target)","fr":"manquer (une cible)","he":"להחטיא, להחמיץ, לפספס"}
+{"L":"par sola un colpa","C":["av"],"en":"in one fell swoop","fr":"d'un coup, d'un seul coup","he":"במכה אחת"}
+{"T":"r","L":"colpamosca","C":["n","vn","util"],"d":"un util per colpa e crase insetos","en":"flyswatter, flyswat","fr":"(une) tapette à mouche (ustensile)","he":"מחבט זבובים"}
+{"T":"r","L":"colposcopio","C":["n","util","med"],"d":"un strumento sirurjial per esamina la vajina e la colo de la utero","en":"colposcope","fr":"(un) colposcope","he":"קולפוסקופ"}
+{"L":"colposcopi","C":["n"],"en":"colposcopy","fr":"(une) colposcopie","he":"קולפוסקופיה"}
+{"T":"r","L":"colugo","C":["n","mam"],"d":"un mamal simil a un lemur en Asia sude-este, con pel entre sua gamas anterior e posterior cual el usa per vola de arbor a arbor","i":"#","t":"Dermoptera","en":"colugo, cobego, flying lemur","fr":"(un) dermoptère, (un) lémur volant, (un) colugo, (un) cynocéphale","he":"גלשן, למור מעופף"}
+{"T":"r","L":"Columbia Brites","C":["n","jeo"],"d":"un provinse en Canada ueste, bordante la Mar Pasifica e Alaska","en":"British Columbia","fr":"(la) Colombie britannique","he":"קולומביה הבריטית"}
+{"T":"r","L":"colxa","C":["vt","vest"],"d":"cose (stratos de stofa o pleninte) a lunlotra per formi un covrente de leto, un veste calda, o un efeto ornal","i":"#","en":"quilt","fr":"matelasser","he":"לתפור שמיכת טלאים"}
+{"T":"r","L":"colza","C":["n","pla","cos"],"d":"un planta en familia de col, con flores briliante jala e bonodorosa; la semes de esta, usada xef per olio","i":"#","t":"Brassica napus","en":"rape, cole, colza (plant); rapeseed; rape oil, rapeseed oil, canola","fr":"(le) colza (plante); graine de colza; huile de colza","he":"לפתית (צמח); שמן קנולה"}
+{"T":"r","L":"com-","C":["pf","tecn"],"d":"con, en junta, mutua","en":"com- (with, together)","fr":"com- (avec, ensemble)","he":"(קידומת טכנית) עם, ביחד"}
+{"T":"r","L":"coma","C":["n","med"],"d":"un state de nonconsensia cual permane tra un periodo longa o nondefinida, spesial si causada par un maladia o feri grave","en":"coma","fr":"(un) coma","he":"תרדמת"}
+{"L":"comosa","C":["a"],"en":"comatose","fr":"comateux","he":"שרוי בתרדמת"}
+{"T":"r","L":"comadre","C":["n","med"],"d":"un person (tipal un fem) instruida per aida femes en pari","en":"midwife","fr":"(une) sage-femme","he":"מיילדת"}
+{"L":"comadria","C":["n","med"],"en":"midwifery","fr":"fonction de sage-femme","he":"מיילדות"}
+{"T":"r","L":"comanda","C":["vt"],"d":"demanda ce (algun) fabrica, furni o servi alga cosa; demanda autoriosa ce (algun) fa un taxe; ave autoria sur (un grupo de persones)","u":"comanda alga cosa a/de algun; comanda ce algun fa alga cosa","da":"order, kommando, direktiv","en":"command, order, dictate, ordain; order (food, goods)","fr":"faire une commande de, commander (quelque chose)","he":"לפקד; לצוות, להורות, להכתיב; להזמין (מוצרים)"}
+{"L":"comanda","C":["n"],"da":"Befehl","en":"command, order, directive, decree, fiat, commission, warrant, writ, behest","es":"comando, orden, directiva, mando, mandato, mandamiento","fr":"(une) commande, (un) mandat, (un) ordre, (un) décret","he":"פקודה, הוראה, צו, הכתבה; הזמנה"}
+{"L":"comanda per apare","C":["v"],"en":"summons, subpoena","fr":"assigner à paraître","he":"לזמן"}
+{"L":"comanda per apare","C":["n"],"en":"summons, subpoena","fr":"(une) assignation à paraître","he":"זימון"}
+{"L":"comanda temprana","C":["v"],"en":"preorder","fr":"réserver, précommander","he":"להזמין מוקדם"}
+{"L":"comanda temprana","C":["n"],"en":"preorder","fr":"(une) précommande, (une) réservation","he":"הזמנה מוקדמת"}
+{"L":"comandante","C":["a"],"en":"commanding, imperative, peremptory","fr":"impératif, péremptoire, autoritaire, impérieux","he":"פוקד, מצווה, מורה, מכתיב"}
+{"L":"comandante","C":["n"],"en":"imperative","fr":"(un) impératif","he":"ציווי, אימפרטיב"}
+{"L":"comandor","C":["n"],"en":"commander, commandant, commodore","fr":"(un) commandant","he":"מפקד"}
+{"L":"comandor militar","C":["n"],"en":"military commander, warlord","fr":"(un) commandant (militaire), (un) chef de guerre","he":"מפקד צבאי"}
+{"L":"par comanda","C":["a"],"en":"custom, custom-made, custom-order, special-order, customised, bespoke, on demand, tailored, tailor-made","fr":"sur mesure, à la demande, sur commande","he":"לפי הזמנה"}
+{"L":"precomanda","C":["vt"],"en":"preorder","fr":"précommander"}
+{"L":"precomanda","C":["n"],"en":"preorder","fr":"(une) précommande","he":"הזמנה מוקדמת"}
+{"L":"viscomandor","C":["n"],"en":"vice-commander, second-in-command","fr":"vice-commandant, commandant en second","he":"סגן מפקד"}
+{"T":"r","L":"comando","C":["n"],"d":"un soldato instruida per ataca rapida","en":"commando","fr":"(un) commando (soldat de commando)","he":"קומנדו"}
+{"T":"r","L":"combate","C":["vt"],"d":"partisipa contra (un person o cosa) en un gera, batalia o otra encontra, usante colpas fisical o armas","da":"slås, kæmpe","de":"Kampf","en":"fight, combat, brawl","es":"luchar, combatir, pelear, reñir","fr":"lutter, combattre, batailler, se battre","he":"להילחם, להיאבק"}
+{"L":"combate","C":["n"],"en":"fight, combat, brawl, bout","fr":"(un) combat, (une) lutte, (une) bataille","he":"לחימה, קרב, מאבק"}
+{"L":"combate airal","C":["n"],"en":"aerial combat, dogfight","fr":"(un) combat aérien","he":"קרב אווירי"}
+{"L":"combate de bove","C":["n"],"en":"bullfight","fr":"(une) corrida","he":"מלחמת שוורים"}
+{"L":"combate de gales","C":["n"],"en":"cockfight","fr":"(un) combat de coqs","he":"קרב תרנגולים"}
+{"L":"combate duelin","C":["n"],"en":"single combat","fr":"(un) combat singulier, (un) duel"}
+{"L":"combate prosima","C":["n"],"en":"hand-to-hand combat","fr":"(un) corps-à-corps","he":"קרב פנים-אל-פנים"}
+{"L":"combator","C":["n"],"en":"fighter, combatant","fr":"(un) combattant","he":"לוחם"}
+{"L":"combator de bove","C":["n"],"en":"bullfighter","fr":"(un) torero, (un) matador","he":"לוחם שוורים"}
+{"L":"combatosa","C":["a"],"en":"combative, aggressive, militant","fr":"combatif, agressif, militant","he":"לוחמני, אגרסיבי, מיליטנטי"}
+{"L":"combatosia","C":["n"],"en":"aggression","fr":"(une) agressivité, (la) combativité","he":"לוחמניות, אגרסיביות, מיליטנטיות"}
+{"L":"noncombator","C":["n"],"en":"non-combatant","fr":"(un) non-combattant","he":"שאינו משתתף בלחימה"}
+{"T":"r","L":"combina","C":["vnt"],"d":"uni per un intende comun; (en cimica) uni per deveni un composada","en":"combine, amalgamate, aggregate, concoct; consolidate","fr":"composer, mélanger, combiner, agréger, concocter, assembler, agencer, marier","he":"להצטרף, להתאחד, להשתלב, להתמזג, להתרכב"}
+{"L":"combina","C":["n"],"en":"combination, combo, amalgam, amalgamation, aggregate, concoction; consolidation","fr":"(une) composition, (un) mélange, (un) assemblage","he":"שילוב, השתלבות, צירוף, מצרף, קומבינציה, מיזוג, התרכבות; אמלגם, סגסוגת"}
+{"L":"recombina","C":["vnt"],"en":"recombine, reamalgamate","fr":"se recombiner, se réassocier, se recomposer","he":"להשתלב מחדש, להתרכב מחדש"}
+{"L":"recombina","C":["vt"],"en":"recombine, reamalgamate","fr":"recombiner, recomposer, réassocier","he":"לשלב מחדש, לצרף מחדש"}
+{"L":"recombinante","C":["a"],"en":"recombinant","fr":"recombinant, recomposant, réassociant","he":"(ביולוגיה) הצרף"}
+{"T":"r","L":"combinatoria","C":["n","mat"],"d":"la ramo de matematica cual studia la combinas e permutas de ojetos parteninte a grupos finita","en":"combinatorics","fr":"(la) combinatoire","he":"קומבינטוריקה"}
+{"T":"r","L":"combusta","C":["vnt","util"],"d":"deveni consumada par foco","da":"brændstof","en":"combust","fr":"s'enflammer, brûler, se consumer","he":"לבעור, להישרף"}
+{"L":"combusta","C":["n"],"en":"combustion","fr":"(une) combustion","he":"בעירה, שריפה"}
+{"L":"combustable","C":["a"],"de":"Brennmaterial","en":"combustible","fr":"(un) carburant, (un) combustible","he":"דליק, בעיר"}
+{"L":"combustable","C":["n"],"en":"combustible, fuel","es":"combustible","fr":"(un) combustible","he":"חומר דליק"}
+{"L":"combustable de fosil","C":["n"],"en":"fossil fuel","fr":"(une) énergie fossile","he":"דלק מאובנים"}
+{"L":"combustablia","C":["n"],"en":"combustibility","fr":"(une) inflammabilité, (la) combustibilité","he":"מידת דליקות"}
+{"L":"malcombusta","C":["vnt"],"en":"backfire (engine)","fr":"avoir des ratés (moteur)","he":"(מנוע) לבעור מוקדם"}
+{"T":"r","L":"come","C":["vt","cos"],"d":"pone (comeda) en la boca, mastica lo e engoli lo; comparti esta ata con otras, tipal a un ora tradisional","da":"spise, æde","de":"essen","en":"eat, dine, ingest, sup","es":"comer","fr":"manger, dîner, souper, ingérer, absorber, consommer","he":"לאכול, לסעוד"}
+{"L":"come","C":["n"],"da":"måltid","de":"Mahlzeit, Essen","en":"meal, dinner, supper, repast","es":"comida (ocasión para comer)","fr":"(un) repas","he":"ארוחה"}
+{"L":"come con sua oios","C":["v"],"en":"ogle, leer at","fr":"dévorer des yeux, lorgner sur","he":"לנעוץ עיניים"}
+{"L":"come de matina","C":["n"],"da":"morgenmad","de":"Frühstück","en":"breakfast","es":"desayuno","fr":"(un) petit-déjeuner","he":"ארוחת בוקר"}
 {"L":"come de matina tarda","C":["n"],"en":"brunch","he":"בראנץ', בוהוריים"}
-{"L":"come de negosia","C":["n"],"en":"business lunch","he":"ארוחה עסקית"}
-{"L":"come de sera","C":["n"],"da":"aftensmad","de":"Abendessen","en":"supper, dinner, evening meal","es":"cena","fr":"dîner","he":"ארוחת ערב"}
-{"L":"come en un restorante","C":["vt"],"en":"eat out","he":"לאכול בחוץ, לאכול במסעדה"}
-{"L":"come media","C":["n"],"da":"frokost","de":"Mittagessen","en":"lunch, luncheon","es":"almuerzo, merienda","fr":"déjeuner","he":"ארוחת צהריים"}
-{"L":"come retirable","C":["n"],"en":"takeaway, takeout","he":"ארוחה לקחת, טייק אווי"}
-{"L":"come tro multe","C":["v"],"en":"eat too much, overeat","he":"לאכול יתר על המידה"}
-{"L":"comable","C":["a"],"en":"edible","he":"אכיל"}
-{"L":"comable","C":["n"],"en":"food, foodstuff","he":"אוכל, מזון"}
+{"L":"come de negosia","C":["n"],"en":"business lunch","fr":"repas de travail","he":"ארוחה עסקית"}
+{"L":"come de sera","C":["n"],"da":"aftensmad","de":"Abendessen","en":"supper, dinner, evening meal","es":"cena","fr":"(un) dîner","he":"ארוחת ערב"}
+{"L":"come en un restorante","C":["vt"],"en":"eat out","fr":"manger au restaurant, aller au restaurant, se faire un resto (familier)","he":"לאכול בחוץ, לאכול במסעדה"}
+{"L":"come media","C":["n"],"da":"frokost","de":"Mittagessen","en":"lunch, luncheon","es":"almuerzo, merienda","fr":"(un) déjeuner","he":"ארוחת צהריים"}
+{"L":"come retirable","C":["n"],"en":"takeaway, takeout","fr":"nourriture à emporter, plats à emporter","he":"ארוחה לקחת, טייק אווי"}
+{"L":"come tro multe","C":["v"],"en":"eat too much, overeat","fr":"trop manger","he":"לאכול יתר על המידה"}
+{"L":"comable","C":["a"],"en":"edible","fr":"comestible, mangeable","he":"אכיל"}
+{"L":"comable","C":["n"],"en":"food, foodstuff","fr":"nourriture","he":"אוכל, מזון"}
 {"L":"comeda","C":["n"],"da":"mad","de":"Essen","en":"food, grub, nosh, victual","es":"alimento, comida","fr":"nourriture","he":"מצרך (מזון)"}
 {"L":"comeda de bestias","C":["n"],"en":"fodder","he":"מספוא, חציר"}
-{"L":"comeda de mar","C":["n"],"en":"seafood","he":"מאכל ים"}
+{"L":"comeda de mar","C":["n"],"en":"seafood","fr":"produits de la mer, poisson et fruits de mer","he":"מאכל ים"}
 {"L":"comeda favoreda","C":["n"],"en":"favorite|ur food, delicacy","he":"מאכל מועדף"}
 {"L":"comeda fibrosa","C":["n"],"en":"roughage","he":"מזון סיבי"}
 {"L":"comeda major","C":["n"],"en":"staple (food)","he":"מוצר יסוד, מזון בסיסי"}
-{"L":"comeda rapida","C":["n"],"en":"fast food","he":"מזון מהיר"}
-{"L":"comeda sin nuri","C":["n"],"en":"junk food","he":"ג'אנק פוד, זלולת"}
-{"L":"comedas","C":["n","pl"],"en":"groceries","he":"מצרכי מזון"}
-{"L":"comederia","C":["n"],"en":"grocery, grocery store, supermarket","he":"מכולת"}
-{"L":"comedor","C":["n"],"en":"grocer","he":"בעל חנות מכולת"}
-{"L":"comeria","C":["n"],"en":"eatery, fast-food restaurant, canteen, lunchroom","he":"מסעדת מזון מהיר, מזללה, קנטינה, שיקמית, חדר אוכל"}
+{"L":"comeda rapida","C":["n"],"en":"fast food","fr":"(un) fast-food","he":"מזון מהיר"}
+{"L":"comeda sin nuri","C":["n"],"en":"junk food","fr":"(de la) junk food","he":"ג'אנק פוד, זלולת"}
+{"L":"comedas","C":["n","pl"],"en":"groceries","fr":"(une) épicerie","he":"מצרכי מזון"}
+{"L":"comederia","C":["n"],"en":"grocery, grocery store, supermarket","fr":"(une) épicerie, (un) supermarché","he":"מכולת"}
+{"L":"comedor","C":["n"],"en":"grocer","fr":"(un) épicier","he":"בעל חנות מכולת"}
+{"L":"comeria","C":["n"],"en":"eatery, fast-food restaurant, canteen, lunchroom","fr":"(une) cantine, (un) fast-food, (une) salle à manger","he":"מסעדת מזון מהיר, מזללה, קנטינה, שיקמית, חדר אוכל"}
 {"L":"cometa","C":["vt"],"en":"snack","he":"לנשנש"}
-{"L":"cometa","C":["n"],"en":"snack, refreshment","he":"חטיף, נשנוש"}
-{"L":"comor","C":["n"],"en":"eater, diner","he":"סועד"}
-{"L":"con du comes","C":["a"],"en":"half-board (hotel)","he":"חצי פנסיון"}
-{"L":"con tre comes","C":["a"],"en":"full-board (hotel)","he":"פנסיון מלא"}
-{"L":"de come","C":["a"],"en":"prandial","he":"של ארוחה"}
-{"L":"descome","C":["vt"],"d":"(nonformal) vomiti","en":"(colloquial) puke, barf, spew, chunder, throw up (vomit)","he":"(סלנג) להקיא"}
-{"L":"noncomable","C":["a"],"en":"inedible","he":"בלתי אכיל"}
-{"L":"pos come","C":["a"],"en":"postprandial","he":"שלאחר הארוחה"}
+{"L":"cometa","C":["n"],"en":"snack, refreshment","fr":"(une) collation","he":"חטיף, נשנוש"}
+{"L":"comor","C":["n"],"en":"eater, diner","fr":"(un) commensal, (un) mangeur","he":"סועד"}
+{"L":"con du comes","C":["a"],"en":"half-board (hotel)","fr":"en demi-pension","he":"חצי פנסיון"}
+{"L":"con tre comes","C":["a"],"en":"full-board (hotel)","fr":"en pension complète","he":"פנסיון מלא"}
+{"L":"de come","C":["a"],"en":"prandial","fr":"prandial","he":"של ארוחה"}
+{"L":"descome","C":["vt"],"d":"(nonformal) vomiti","en":"(colloquial) puke, barf, spew, chunder, throw up (vomit)","fr":"vomir, rendre","he":"(סלנג) להקיא"}
+{"L":"noncomable","C":["a"],"en":"inedible","fr":"immangeable","he":"בלתי אכיל"}
+{"L":"pos come","C":["a"],"en":"postprandial","fr":"postprandial, après manger","he":"שלאחר הארוחה"}
 {"T":"r","L":"comedia","C":["n","arte"],"d":"la presenta comica de bromas, naras o interatas, intendeda per causa rie; un esemplo de esta, como un filma, teatral o simil","en":"comedy, romp","he":"קומדיה"}
 {"L":"comedia de situas","C":["n"],"en":"situation comedy, sitcom","he":"קומדיית מצבים, סיטקום"}
 {"L":"comedial","C":["a"],"en":"comic, comedic, humorous","he":"שקשור בקומדיה או הומור"}
@@ -5646,20 +5646,20 @@
 {"L":"comesurable","C":["n"],"en":"commensurable","he":"משותף מידה"}
 {"L":"comesurablia","C":["n"],"en":"commensurability","he":"שיתוף-מידה"}
 {"L":"noncomesurable","C":["a"],"en":"incommensurable","he":"שאינו משותף-מידה"}
-{"T":"r","L":"cometa","C":["n","ast","spo"],"d":"un ojeto sielal, composada de un nucleo de jelo e polvo e, cuando prosima a la Sol, un coda de particulas; un sceleto lejera covreda con un materia magra, cual on vola en la venta a la fini de un filo longa","i":"#","en":"comet (astronomy); kite (toy)","he":"כוכב שביט; עפיפון"}
+{"T":"r","L":"cometa","C":["n","ast","spo"],"d":"un ojeto sielal, composada de un nucleo de jelo e polvo e, cuando prosima a la Sol, un coda de particulas; un sceleto lejera covreda con un materia magra, cual on vola en la venta a la fini de un filo longa","i":"#","en":"comet (astronomy); kite (toy)","fr":"(une) comète; (un) cerf-volant","he":"כוכב שביט; עפיפון"}
 {"T":"r","L":"comforta","C":["vt"],"d":"aida (algun) a reposa, o a senti plu felis o destensada","en":"comfort, make comfortable","he":"לעשות שיהיה נוח"}
 {"L":"comforta","C":["n"],"da":"bekvemmelighed, velvære","de":"Behaglichkeit","en":"comfort","es":"comodidad, bienestar, alivio, consuelo","fr":"confort","he":"נוחות"}
 {"L":"comfortada","C":["a"],"en":"comforted","he":"מנוחם"}
 {"L":"comfortante","C":["a"],"en":"comforting, pleasant","he":"מנחם, עושה נעים"}
 {"L":"comfortosa","C":["a"],"en":"comfortable, comfy; well off","he":"נוח"}
-{"L":"descomforta","C":["n"],"en":"malaise, discomfort","he":"אי-נוחות"}
+{"L":"descomforta","C":["n"],"en":"malaise, discomfort","fr":"(un) inconfort, (un) malaise","he":"אי-נוחות"}
 {"L":"es comfortada par","C":["v"],"en":"be comforted by, take comfort in","he":"להתנחם ב"}
 {"L":"noncomfortosa","C":["a"],"en":"uncomfortable","he":"לא נוח"}
-{"T":"r","L":"comica","C":["a","arte"],"d":"causante rie o diverti","da":"morsom, komisk","de":"komisch","en":"comical, funny, humorous, risible, wacky, zany","es":"divertido, cómico, gracioso, divertido, chistoso","fr":"drôle","he":"קומי, מצחיק, הומוריסטי"}
-{"T":"r","L":"comision","C":["n","gov"],"d":"un grupo de persones ci es ofisial encargada con un funsiona spesifada; un paia, tipal un proportio fisada de la valua pertinente, donada a un ajente en un intercambia comersial","en":"commission (committee, payment)","he":"ועדה, משלחת; עמלה, קומיסיון"}
+{"T":"r","L":"comica","C":["a","arte"],"d":"causante rie o diverti","da":"morsom, komisk","de":"komisch","en":"comical, funny, humorous, risible, wacky, zany","es":"divertido, cómico, gracioso, divertido, chistoso","fr":"drôle, comique, amusant,cocasse, risible, marrant","he":"קומי, מצחיק, הומוריסטי"}
+{"T":"r","L":"comision","C":["n","gov"],"d":"un grupo de persones ci es ofisial encargada con un funsiona spesifada; un paia, tipal un proportio fisada de la valua pertinente, donada a un ajente en un intercambia comersial","en":"commission (committee, payment)","fr":"(une) commission","he":"ועדה, משלחת; עמלה, קומיסיון"}
 {"L":"comisionor","C":["n"],"en":"commissioner","he":"חבר ועדה; נציב, ממונה"}
-{"T":"r","L":"comite","C":["n","gov"],"d":"un grupo de persones asiniada a un funsiona spesifada, tipal composada de membros de un grupo plu grande","da":"komite, udvalg","de":"Ausschuss","en":"board, committee; panel (experts)","es":"comité","fr":"comité","he":"ועדה, מועצה; פאנל"}
-{"L":"comite de vila","C":["n"],"en":"town council","he":"מועצת העיר"}
+{"T":"r","L":"comite","C":["n","gov"],"d":"un grupo de persones asiniada a un funsiona spesifada, tipal composada de membros de un grupo plu grande","da":"komite, udvalg","de":"Ausschuss","en":"board, committee; panel (experts)","es":"comité","fr":"(un) comité","he":"ועדה, מועצה; פאנל"}
+{"L":"comite de vila","C":["n"],"en":"town council","fr":"(un) conseil municipal","he":"מועצת העיר"}
 {"L":"comite dirijente","C":["n"],"en":"board (trustees)","he":"מועצת מנהלים, חבר נאמנים, דירקטוריון"}
 {"L":"comite local","C":["n"],"en":"local council","he":"מועצה מקומית"}
 {"L":"comiteria","C":["n"],"en":"board room, committee room","he":"חדר ישיבות"}
@@ -16410,7 +16410,7 @@
 {"L":"ministral","C":["a"],"en":"ministerial"}
 {"L":"ministreria","C":["n"],"en":"ministry"}
 {"T":"r","L":"Minnesota","C":["n","jeo"],"d":"un stato en la SUA norde-sentral, bordante Canada","en":"Minnesota (US state)"}
-{"T":"r","L":"minor","C":["a"],"d":"min importante; (un person con la mesma nom como un otra) la plu joven","en":"minor, slight; junior, the younger (in names)","fr":"mineur"}
+{"T":"r","L":"minor","C":["a"],"d":"min importante o grave; (un person con la mesma nom como un otra) la plu joven","en":"minor, slight, mild; junior, the younger (in names)","fr":"mineur"}
 {"L":"minor","C":["n"],"en":"minor"}
 {"L":"minori","C":["vnt"],"en":"convert to lowercase"}
 {"L":"minori","C":["vt"],"en":"convert to lowercase"}
@@ -18392,6 +18392,7 @@
 {"L":"reorienta","C":["vt"],"en":"reorient, reorientate"}
 {"T":"r","L":"origami","C":["n","arte"],"d":"la arte nion de plia paper per crea figures ornosa","i":"#","en":"origami"}
 {"T":"r","L":"orijina","C":["vnt","uma"],"d":"comensa en o veni de un loca o tempo o modo spesifada","en":"originate; date (from)","fr":"prendre naissance, provenir, émaner; dater (de)"}
+{"L":"orijina","C":["vt"],"en":"originate, be the origin of"}
 {"L":"orijina","C":["n","uma"],"d":"la punto de cual algun o alga cosa comensa o veni","da":"kilde, oprindelse","de":"Quelle","en":"origin, source, provenance, fount, fountainhead","es":"fuente, origen, procedencia","fr":"origine"}
 {"L":"american orijinal","C":["a"],"en":"Native American, American Indian, Amerindian"}
 {"L":"american orijinal","C":["n"],"en":"Native American, American Indian, Amerindian"}
@@ -18402,6 +18403,7 @@
 {"L":"orijinal","C":["a"],"da":"original, oprindelig","de":"ursprünglich","en":"original, native, aboriginal, autochthonous; original (work, idea)","es":"original, no imitativo","fr":"original"}
 {"L":"orijinal","C":["av"],"en":"originally; né, née"}
 {"L":"orijinal","C":["n"],"en":"original (not a copy)"}
+{"L":"orijinor","C":["n"],"en":"originator"}
 {"T":"r","L":"Orinoco, Rio","C":["n","jeo"],"d":"un rio en America Sude norde cual comensa en Venezuela sude-este e fini en la Mar Atlantica","i":"Rio-Orinoco","en":"Orinoco River"}
 {"T":"r","L":"oriol","C":["n","avia"],"d":"un avia en familia de storno cual come fruta e insetos, e de cual la mas ave tipal plumas negra e briliante jala; un avia american en familia de turdo, con plumas negra e jala o orania","i":"#","t":"Oriolus, Icterus","en":"oriole (bird)"}
 {"T":"r","L":"Orion","C":["n","ast","mit"],"d":"(en mitos elinica) un xasor jigante ci ia es cambiada a un constela pos mori; un constela representante el a la ecuator de la sielo","i":"#","en":"Orion (mythology, constellation)"}
@@ -24949,7 +24951,7 @@
 {"L":"solisita","C":["n"],"en":"request, requisition, solicitation; petition, application"}
 {"L":"solisitor","C":["n"],"en":"requester, canvasser"}
 {"T":"r","L":"solitar","C":["a","uma"],"d":"sin otra persones o cosas presente; sin la aida o partisipa de otras; isolida o separada de otras; sin acompaniores","da":"ensom","de":"einsam","en":"solitary, alone, lone, lonely, lonesome, isolated, reclusive","eo":"sola, soleca","es":"solo, solitario, triste, desamparado","fr":"seul","it":"solo","nl":"eenzaam","pt":"solitario, triste, melancólico, cheio de saudades"}
-{"L":"solitar","C":["av"],"en":"in itself, in themselves, by itself, by themselves (etc.)"}
+{"L":"solitar","C":["av"],"en":"in itself, in themselves, on one's own, by oneself, unaided, by itself, by themselves (etc.)"}
 {"L":"solitar","C":["n"],"en":"loner, isolate, recluse"}
 {"L":"solitaria","C":["n"],"en":"solitude, loneliness, isolation; solitary confinement"}
 {"T":"r","L":"solo","C":["n","arci"],"d":"la surfas basa, tipal de un sala, sur cual on pote pasea","ca":"pis","da":"gulv","de":"Fussboden","en":"floor, ground","eo":"planko","es":"piso, planta, suelo","fr":"plancher","it":"pavimento","ja":"階, 床","nl":"vloer","pt":"andar, piso","ru":"пол"}
@@ -28099,6 +28101,7 @@
 {"L":"variosa","C":["a"],"v":"diversa","en":"various, several, diverse, sundry","fr":"divers"}
 {"T":"r","L":"varicosa","C":["a","med"],"d":"(un vena) inflada, torseda e longida par mal sirculi","en":"varicose (medical)"}
 {"T":"r","L":"variola","C":["n","med"],"d":"un maladia comunicable virusal, con febre e pustulas cual causa tipal sicatrises permanente","en":"smallpox","fr":"variole"}
+{"L":"variola boval","C":["n","med"],"en":"cowpox","fr":"vaccine"}
 {"T":"r","L":"varisela","C":["n","med"],"d":"un maladia comunicable, xef de enfantes, con febre e pustulas prurinte cual buli e crosti final","en":"chickenpox","fr":"varicelle"}
 {"T":"r","L":"vasal","C":["n","gov","ist"],"d":"(en un sistem feudal) un person ci reseta la teni de un area de tera, ma con constrinje de onora e obedi","en":"vassal, liege (feudal)","fr":"vassal"}
 {"L":"vasalia","C":["n"],"en":"vassalage","fr":"vassalité"}
