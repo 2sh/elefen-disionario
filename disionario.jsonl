@@ -5666,123 +5666,123 @@
 {"L":"comitor","C":["n"],"en":"committee member, commissioner","fr":"(le) membre d'un comité","he":"חבר ועדה, דירקטור"}
 {"L":"sucomite","C":["n"],"en":"subcommittee","fr":"(un) sous-comité","he":"ועדת משנה"}
 {"T":"r","L":"como","C":["av"],"d":"(demandante) en cual modo, par cual metodo; (ante un ajetivo o averbo) a cual grado; (metafor) a cual grado de sania o felisia","u":"como on abri esta caxa?; como longa es la viaja?","da":"hvordan, hvorledes","de":"wie","en":"(interrogative) how","es":"como, cómo","fr":"comment","he":"איך","ru":"как"}
-{"L":"como","C":["esc"],"en":"what, huh, eh? (confusion)","he":"איך? מה אמרת?"}
+{"L":"como","C":["esc"],"en":"what, huh, eh? (confusion)","fr":"quoi? comment?","he":"איך? מה אמרת?"}
 {"L":"como","C":["sj"],"d":"en la modo en cual, par la metodo par cual; a la grado a cual","u":"acel es como on debe condui; salta tan alta como tu pote","da":"som, ligesom","de":"wie","en":"as, like, in the way that","es":"como, mientras, a medida que, según","fr":"comme","he":"כמו ש","ru":"как, словно, будто, как будто"}
 {"L":"como","C":["prep"],"d":"simil a","g":"preposadas#como","u":"el rie como un iena; tan alta como me","da":"lig med","de":"als, (so ...) wie","en":"like, similarly to, qua","eo":"kiel, simile al","es":"como, similar a, semejante a, del mismo modo que","fr":"comme","he":"כ-, כמו, בדומה ל","ru":"как"}
-{"L":"como poca","C":["d"],"en":"how few, how little","he":"כמה מעט"}
-{"L":"como poca","C":["av"],"en":"how few, how little","he":"כמה מעט"}
-{"L":"como si","C":["sj"],"en":"as if, as though, like","he":"כאילו ש","ru":"как если бы"}
-{"L":"no como","C":["prep"],"en":"unlike","he":"לא כמו","ru":"не как, словно не, как будто не"}
-{"L":"no como","C":["sj"],"en":"unlike how","he":"שלא כמו","ru":"словно не, как будто не"}
-{"L":"sempre como","C":["sj"],"en":"however, in whatever way"}
-{"T":"r","L":"comoda","C":["n","arci"],"d":"un mobila de caxetas e cisa scafales","i":"#","en":"chest of drawers, dresser","he":"שידה, קומודה"}
-{"L":"comoda de cosina","C":["n"],"en":"sideboard (displaying or storing dishes)","he":"מזנון (רהיט)"}
-{"L":"comodeta","C":["n"],"en":"nightstand, bedside table","he":"שידת לילה"}
-{"T":"r","L":"comodo","C":["n","ret"],"d":"un lezardo multe grande de alga isolas de Indonesia, capas de catura predas tan grande como un porco","i":"#","t":"Varanus komodoensis","en":"Komodo dragon, Komodo monitor (lizard)","he":"כוח ענק, דרקון קומודו (לטאה)"}
-{"T":"r","L":"comorbosa","C":["a","med"],"d":"(un maladia cronica) cual aveni simultan con un otra en la mesma pasiente","en":"comorbid (medical)","he":"תחלואה נלווית"}
-{"T":"r","L":"Comori","C":["n","jeo"],"c":"Moroni","d":"un pais en Africa, composada de un grupo de isolas en la Mar Indian, a norde de Madagasicara","i":"#","en":"Comoros","he":"קומורו (מדינה)"}
-{"L":"comori","C":["a"],"en":"Comorian","he":"קומורי"}
-{"L":"comori","C":["n"],"en":"Comorian","he":"קומורי"}
-{"T":"r","L":"compania","C":["n","mone"],"d":"un instituida de comersia","da":"selskab, kompangni, firma","de":"Gesellschaft","en":"company, firm, business; troupe","es":"compañía, firma","fr":"compagnie","he":"חברה, פירמה, עסק; הרכב"}
-{"L":"compania asecurinte","C":["n"],"en":"underwriter","he":"חתם (ביטוח)"}
-{"L":"compania nova","C":["n"],"en":"startup","he":"סטארט אפ, חברת הזנק"}
-{"L":"sucompania","C":["n"],"en":"subsidiary","he":"חברה בת, חברת בת"}
-{"T":"r","L":"compara","C":["vt"],"d":"mesura o descrive la similes o diferes entre; sujesta ce (un cosa) es simil (a un otra)","u":"compara custas; compara la filma con la libro; compara vives a naras","da":"sammenligne","de":"vergleichen","en":"compare, liken","es":"comparar, cotejar, contrastar, confrontar","fr":"comparer","he":"להשוות"}
-{"L":"compara","C":["n"],"en":"comparison; simile","he":"השוואה"}
-{"L":"compara con realia","C":["v"],"en":"compare with reality","he":"לחזור למציאות, לרדת לקרקע"}
-{"L":"compara con realia","C":["n"],"en":"reality check","he":"חזרה למציאות, ירידה לקרקע"}
-{"L":"comparable","C":["a"],"en":"comparable","he":"שניתן להשוואה"}
-{"L":"comparada","C":["a"],"en":"comparative","he":"השוואתי, יחסי"}
-{"L":"comparada","C":["av"],"en":"comparatively","he":"יחסית, באופן יחסי"}
-{"L":"sin compara","C":["a"],"en":"incomparable","he":"שאין דומה לו, אין כמוהו"}
-{"T":"r","L":"comparativa","C":["a","ling"],"d":"(un ajetivo o averbo) espresante un grado de cualia plu alta, ma no nesesada la plu alta","en":"comparative","he":"(דקדוק) השוואתי"}
-{"L":"comparativa","C":["n"],"en":"comparative","he":"(דקדוק) משווה"}
-{"T":"r","L":"comparte","C":["n","arci"],"d":"un area partal separada en un contenador, tipal un barcon o vagon de ferovia","en":"compartment; cubbyhole, pigeonhole","he":"תא, כוך, מדור, קבינה"}
-{"L":"comparti","C":["vt"],"en":"compartmentalize|is","he":"למדר"}
-{"L":"comparti","C":["n"],"en":"compartmentalization|is","he":"מידור"}
-{"T":"r","L":"comparti","C":["vt"],"d":"usa un parte de (un cosa comun) de cual otra persones usa otra partes; distribui (alga cosa) entre persones","en":"share, have in common; share out, distribute","he":"לשתף, לחלוק"}
-{"L":"comparti","C":["n"],"d":"cada de la partes de un cuantia divideda entre persones","en":"share, portion, serving, helping (food)","he":"שיתוף, חלוקה; חלק, מנה"}
-{"L":"comparti de fixes","C":["n"],"en":"file sharing","he":"שיתוף קבצים"}
-{"L":"comparti un leto","C":["v"],"en":"share a bed, be bedfellows","he":"לחלוק מיטה"}
-{"L":"compartida","C":["a"],"en":"shared, common","he":"משותף"}
-{"L":"compartida","C":["av"],"en":"in common","he":"במשותף"}
-{"L":"compartidia","C":["n"],"en":"sharedness, commonality","he":"היות בעל מאפיינים משותפים או דומים"}
-{"T":"r","L":"compas","C":["n","util"],"d":"un strumento per desinia sirculos","i":"#","en":"compass (for drawing circles)","he":"מחוגה"}
-{"L":"Compas","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Circinus (constellation)","he":"מחוגה (קבוצת כוכבים)"}
-{"T":"r","L":"compata","C":["a"],"d":"pacida en modo densa e ordinada","en":"compact","he":"קומפקטי, דחוס"}
-{"L":"compatador","C":["n"],"i":"#","en":"compactor, steamroller","he":"דחסן, דחסנית"}
-{"L":"compati","C":["vnt"],"en":"compact, compress","he":"להדחס"}
-{"L":"compati","C":["vt"],"en":"compact, compress","he":"לדחוס"}
-{"T":"r","L":"compatia","C":["vt","uma"],"d":"senti triste par causa de la sufri de (un otra person)","da":"føle medlidenhed med","de":"bemitleiden","en":"pity, feel sorry for, feel compassion for, sympathize|is with, commiserate with","es":"compadecerse de, sentir lástima por, apiadarse de, tener piedad de, sentir tristeza por","fr":"avoir pitié de, compatir","he":"לרחם, לחמול, לחוש סימפטיה"}
-{"L":"compatia","C":["n"],"da":"bamhjertighed, nåde","de":"Gnade, Barmherzigkeit","en":"pity, compassion, kindness, consideration, sympathy, condolence, heartstrings, pathos","es":"misericordia, piedad, compasión","fr":"pitié","he":"רחמים, תנחומים, חמלה, סימפטיה"}
-{"L":"autocompatia","C":["n"],"en":"self-pity","he":"רחמים עצמיים"}
-{"L":"compatiable","C":["a"],"en":"pitiable, worthy of compassion","he":"מעורר רחמים, מעורר חמלה"}
-{"L":"compatiosa","C":["a"],"en":"compassionate, humane, kind, kind-hearted, soft-hearted, warm-hearted, considerate, tender, sympathetic, selfless","he":"רחום, נדיב, אנושי, מתחשב, סימפטי"}
-{"L":"noncompatiosa","C":["a"],"en":"not compassionate, inhumane, unkind, inconsiderate, unsympathetic, hard-hearted, cold-hearted","he":"רע לב, חסר רחמים, חסר אנושיות, חסר התחשבות"}
-{"L":"sin compatia","C":["a"],"en":"pitiless, merciless, inhumane, cut-throat","he":"ללא רחמים, אכזרי"}
-{"T":"r","L":"compendio","C":["n"],"d":"un colie de informas consisa ma detaliosa sur un tema, tipal en un libro","en":"compendium","he":"תקציר, סיכום"}
-{"L":"compendio de bestias","C":["n"],"en":"bestiary","he":"ספר חיות, בסטיארי"}
-{"T":"r","L":"compensa","C":["vt","mone"],"d":"dona alga cosa, tipal mone, a (algun) par causa de sua perde, sufri o feri","en":"compensate, make amends for","he":"לפצות, לשפות"}
-{"L":"compensa","C":["n"],"en":"compensation, damages, indemnity, reparation, restitution","he":"פיצוי, שיפוי, שילום"}
-{"L":"compensa tro multe","C":["v"],"en":"overcompensate","he":"לפצות יתר על המידה"}
-{"T":"r","L":"compete","C":["vnt"],"d":"atenta vinse, o gania supremia supra, otras ci atenta la mesma","da":"konkurrere","de":"konkurrieren","en":"compete, contest, strive, vie","es":"competir, esforzarse, luchar por, intentar alcanzar, hacer lo posible por, forcejear","fr":"rivaliser, compétitionner","he":"להתחרות, להתמודד"}
-{"L":"compete","C":["n"],"en":"competition (action), contest, rivalry, fray","he":"תחרות, התחרות, התמודדות, יריבות"}
-{"L":"competor","C":["n"],"en":"competitor, contestant, contender, rival","he":"מתחרה, מתמודד, יריב"}
-{"L":"competor favoreda","C":["n"],"en":"frontrunner","he":"מתמודד מוביל"}
-{"L":"competosa","C":["a"],"en":"competitive","he":"תחרותי"}
-{"T":"r","L":"compila","C":["vt","info"],"d":"produi (un lista, reporta o libro) par colie informa de fontes diversa; (en informatica) tradui un program a un forma plu macinal en cual on pote esecuta lo","en":"compile","he":"לקבץ, ללקט, לכנס, לערוך (מידע); (מחשבים) לקמפל, להדר"}
-{"L":"compilador","C":["n"],"en":"compiler (software)","he":"(מחשבים) מהדר"}
-{"L":"compilor","C":["n"],"en":"compiler (person)","he":"מכנס, מלקט, מכנס, עורך (מידע)"}
-{"T":"r","L":"compleso","C":["n","arci","info","uma"],"d":"un grupo de construidas relatada en la mesma area; un grupo o sistem de cosas diferente, liada en un rede; (en psicoanalise) un grupo relatada de ideas emosial e importante cual es intera o partal represada, causa desacorda mental, e gida a conduis o states nonormal de mente","en":"complex; compound, plant, facility, campus; yard (industrial); complex (psychological)","he":"קומפלקס, מתחם; תסביך"}
-{"L":"compleso de casas","C":["n","arci","uma"],"en":"housing estate","he":"מתחם מגורים"}
-{"L":"compleso de datos","C":["n","info"],"en":"data center|re","he":"מרכז נתונים"}
-{"T":"r","L":"completa","C":["a"],"d":"con tota partes nesesada o conveninte; intera; finida","da":"hel, komplet","de":"ganz","en":"complete, comprehensive, exhaustive, thorough, utter, outright, plenary","es":"completo, entero, íntegro","fr":"complet","he":"שלם, מלא, גמור, מושלם, מוחלט, מקיף, כולל, ממצה, מעמיק, טוטאלי, יסודי"}
-{"L":"completa","C":["av"],"da":"helt, fuldt, fuldstændig","en":"completely, comprehensively, exhaustively, thoroughly, utterly, altogether","he":"לגמרי, לחלוטין, כליל, באופן כולל, באופן מקיף, במלואו, בשלמותו, ביסודיות"}
-{"L":"completa","C":["n"],"d":"un cosa completa; un colie de vestes de la mesma stofa, desiniada per es portada en junta","en":"whole; suit, outfit (clothes)","he":"מכלול; חליפה"}
+{"L":"como poca","C":["d"],"en":"how few, how little","fr":"combien peu, comme peu","he":"כמה מעט"}
+{"L":"como poca","C":["av"],"en":"how few, how little","fr":"combien... peu, comme... peu","he":"כמה מעט"}
+{"L":"como si","C":["sj"],"en":"as if, as though, like","fr":"comme si","he":"כאילו ש","ru":"как если бы"}
+{"L":"no como","C":["prep"],"en":"unlike","fr":"contrairement à, à la différence de, à l'opposé de","he":"לא כמו","ru":"не как, словно не, как будто не"}
+{"L":"no como","C":["sj"],"en":"unlike how","fr":"non pas comme","he":"שלא כמו","ru":"словно не, как будто не"}
+{"L":"sempre como","C":["sj"],"en":"however, in whatever way","fr":"de quelque manière que..."}
+{"T":"r","L":"comoda","C":["n","arci"],"d":"un mobila de caxetas e cisa scafales","i":"#","en":"chest of drawers, dresser","fr":"(une) commode","he":"שידה, קומודה"}
+{"L":"comoda de cosina","C":["n"],"en":"sideboard (displaying or storing dishes)","fr":"(un) buffet","he":"מזנון (רהיט)"}
+{"L":"comodeta","C":["n"],"en":"nightstand, bedside table","fr":"(une) table de chevet","he":"שידת לילה"}
+{"T":"r","L":"comodo","C":["n","ret"],"d":"un lezardo multe grande de alga isolas de Indonesia, capas de catura predas tan grande como un porco","i":"#","t":"Varanus komodoensis","en":"Komodo dragon, Komodo monitor (lizard)","fr":"(un) dragon de Komodo (varan)","he":"כוח ענק, דרקון קומודו (לטאה)"}
+{"T":"r","L":"comorbosa","C":["a","med"],"d":"(un maladia cronica) cual aveni simultan con un otra en la mesma pasiente","en":"comorbid (medical)","fr":"comorbide","he":"תחלואה נלווית"}
+{"T":"r","L":"Comori","C":["n","jeo"],"c":"Moroni","d":"un pais en Africa, composada de un grupo de isolas en la Mar Indian, a norde de Madagasicara","i":"#","en":"Comoros","fr":"(les) Comores","he":"קומורו (מדינה)"}
+{"L":"comori","C":["a"],"en":"Comorian","fr":"comorien","he":"קומורי"}
+{"L":"comori","C":["n"],"en":"Comorian","fr":"(un) Comorien","he":"קומורי"}
+{"T":"r","L":"compania","C":["n","mone"],"d":"un instituida de comersia","da":"selskab, kompangni, firma","de":"Gesellschaft","en":"company, firm, business; troupe","es":"compañía, firma","fr":"(une) compagnie, (une) firme; (une) compagnie (troupe)","he":"חברה, פירמה, עסק; הרכב"}
+{"L":"compania asecurinte","C":["n"],"en":"underwriter","fr":"(une) compagnie d'assurance","he":"חתם (ביטוח)"}
+{"L":"compania nova","C":["n"],"en":"startup","fr":"(une) start-up, (une) jeune entreprise innovante","he":"סטארט אפ, חברת הזנק"}
+{"L":"sucompania","C":["n"],"en":"subsidiary","fr":"(une) filiale","he":"חברה בת, חברת בת"}
+{"T":"r","L":"compara","C":["vt"],"d":"mesura o descrive la similes o diferes entre; sujesta ce (un cosa) es simil (a un otra)","u":"compara custas; compara la filma con la libro; compara vives a naras","da":"sammenligne","de":"vergleichen","en":"compare, liken","es":"comparar, cotejar, contrastar, confrontar","fr":"comparer, mettre en balance, mettre en parallèle, rapprocher","he":"להשוות"}
+{"L":"compara","C":["n"],"en":"comparison; simile","fr":"(une) comparaison, (un) comparatif","he":"השוואה"}
+{"L":"compara con realia","C":["v"],"en":"compare with reality","fr":"confronter à la réalité","he":"לחזור למציאות, לרדת לקרקע"}
+{"L":"compara con realia","C":["n"],"en":"reality check","fr":"(la) confrontation à la réalité","he":"חזרה למציאות, ירידה לקרקע"}
+{"L":"comparable","C":["a"],"en":"comparable","fr":"comparable","he":"שניתן להשוואה"}
+{"L":"comparada","C":["a"],"en":"comparative","fr":"comparatif","he":"השוואתי, יחסי"}
+{"L":"comparada","C":["av"],"en":"comparatively","fr":"comparativement","he":"יחסית, באופן יחסי"}
+{"L":"sin compara","C":["a"],"en":"incomparable","fr":"incomparable","he":"שאין דומה לו, אין כמוהו"}
+{"T":"r","L":"comparativa","C":["a","ling"],"d":"(un ajetivo o averbo) espresante un grado de cualia plu alta, ma no nesesada la plu alta","en":"comparative","fr":"comparatif","he":"(דקדוק) השוואתי"}
+{"L":"comparativa","C":["n"],"en":"comparative","fr":"(un) comparatif","he":"(דקדוק) משווה"}
+{"T":"r","L":"comparte","C":["n","arci"],"d":"un area partal separada en un contenador, tipal un barcon o vagon de ferovia","en":"compartment; cubbyhole, pigeonhole","fr":"(un) compartiment","he":"תא, כוך, מדור, קבינה"}
+{"L":"comparti","C":["vt"],"en":"compartmentalize|is","fr":"compartimenter","he":"למדר"}
+{"L":"comparti","C":["n"],"en":"compartmentalization|is","fr":"(un) compartimentage, (une) compartimentation","he":"מידור"}
+{"T":"r","L":"comparti","C":["vt"],"d":"usa un parte de (un cosa comun) de cual otra persones usa otra partes; distribui (alga cosa) entre persones","en":"share, have in common; share out, distribute","fr":"partager, mettre en commun, répartir, mutualiser, distribuer","he":"לשתף, לחלוק"}
+{"L":"comparti","C":["n"],"d":"cada de la partes de un cuantia divideda entre persones","en":"share, portion, serving, helping (food)","fr":"(une) part, (une) portion, (une) ration, (une) tranche, (une) partie, (une) parcelle","he":"שיתוף, חלוקה; חלק, מנה"}
+{"L":"comparti de fixes","C":["n"],"en":"file sharing","fr":"(un) partage de fichiers","he":"שיתוף קבצים"}
+{"L":"comparti un leto","C":["v"],"en":"share a bed, be bedfellows","fr":"partager le lit, être compagnon de chambre","he":"לחלוק מיטה"}
+{"L":"compartida","C":["a"],"en":"shared, common","fr":"partagé, commun","he":"משותף"}
+{"L":"compartida","C":["av"],"en":"in common","fr":"en commun, mis en commun, en partage","he":"במשותף"}
+{"L":"compartidia","C":["n"],"en":"sharedness, commonality","fr":"(le) partage, (la) mise en commun (le fait d'être mis en commun), (la) communauté, (la) mutualisation","he":"היות בעל מאפיינים משותפים או דומים"}
+{"T":"r","L":"compas","C":["n","util"],"d":"un strumento per desinia sirculos","i":"#","en":"compass (for drawing circles)","fr":"(un) compas","he":"מחוגה"}
+{"L":"Compas","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Circinus (constellation)","fr":"(le) Compas (constellation)","he":"מחוגה (קבוצת כוכבים)"}
+{"T":"r","L":"compata","C":["a"],"d":"pacida en modo densa e ordinada","en":"compact","fr":"compact, dense, comprimé, resserré, tassé","he":"קומפקטי, דחוס"}
+{"L":"compatador","C":["n"],"i":"#","en":"compactor, steamroller","fr":"(un) compacteur, (un) rouleau compresseur","he":"דחסן, דחסנית"}
+{"L":"compati","C":["vnt"],"en":"compact, compress","fr":"se serrer, se tasser, se resserrer","he":"להדחס"}
+{"L":"compati","C":["vt"],"en":"compact, compress","fr":"compresser, compacter, comprimer, serrer, tasser","he":"לדחוס"}
+{"T":"r","L":"compatia","C":["vt","uma"],"d":"senti triste par causa de la sufri de (un otra person)","da":"føle medlidenhed med","de":"bemitleiden","en":"pity, feel sorry for, feel compassion for, sympathize|is with, commiserate with","es":"compadecerse de, sentir lástima por, apiadarse de, tener piedad de, sentir tristeza por","fr":"avoir pitié de, compatir à / avec, être en empathie avec","he":"לרחם, לחמול, לחוש סימפטיה"}
+{"L":"compatia","C":["n"],"da":"bamhjertighed, nåde","de":"Gnade, Barmherzigkeit","en":"pity, compassion, kindness, consideration, sympathy, condolence, heartstrings, pathos","es":"misericordia, piedad, compasión","fr":"(la) pitié, (la) compassion, (la) sympathie, (l') empathie, (la) bienveillance","he":"רחמים, תנחומים, חמלה, סימפטיה"}
+{"L":"autocompatia","C":["n"],"en":"self-pity","fr":"l'apitoiement sur soi","he":"רחמים עצמיים"}
+{"L":"compatiable","C":["a"],"en":"pitiable, worthy of compassion","fr":"digne de pitié, digne de compassion, émouvant, pitoyable, qui fait de la peine","he":"מעורר רחמים, מעורר חמלה"}
+{"L":"compatiosa","C":["a"],"en":"compassionate, humane, kind, kind-hearted, soft-hearted, warm-hearted, considerate, tender, sympathetic, selfless","fr":"compatissant, bienveillant","he":"רחום, נדיב, אנושי, מתחשב, סימפטי"}
+{"L":"noncompatiosa","C":["a"],"en":"not compassionate, inhumane, unkind, inconsiderate, unsympathetic, hard-hearted, cold-hearted","fr":"impitoyable, inhumain, insensible","he":"רע לב, חסר רחמים, חסר אנושיות, חסר התחשבות"}
+{"L":"sin compatia","C":["a"],"en":"pitiless, merciless, inhumane, cut-throat","fr":"insensibilité, inhumanité, froideur, indifférence","he":"ללא רחמים, אכזרי"}
+{"T":"r","L":"compendio","C":["n"],"d":"un colie de informas consisa ma detaliosa sur un tema, tipal en un libro","en":"compendium","fr":"(un) compendium, (un) recueil, (un) abrégé, (un) précis, (un) résumé, (une) somme","he":"תקציר, סיכום"}
+{"L":"compendio de bestias","C":["n"],"en":"bestiary","fr":"(un) bestiaire","he":"ספר חיות, בסטיארי"}
+{"T":"r","L":"compensa","C":["vt","mone"],"d":"dona alga cosa, tipal mone, a (algun) par causa de sua perde, sufri o feri","en":"compensate, make amends for","fr":"compenser, dédommager, indemniser","he":"לפצות, לשפות"}
+{"L":"compensa","C":["n"],"en":"compensation, damages, indemnity, reparation, restitution","fr":"(une) compensation, (un) dédommagement, (une) indemnisation","he":"פיצוי, שיפוי, שילום"}
+{"L":"compensa tro multe","C":["v"],"en":"overcompensate","fr":"surindemniser, surcompenser","he":"לפצות יתר על המידה"}
+{"T":"r","L":"compete","C":["vnt"],"d":"atenta vinse, o gania supremia supra, otras ci atenta la mesma","da":"konkurrere","de":"konkurrieren","en":"compete, contest, strive, vie","es":"competir, esforzarse, luchar por, intentar alcanzar, hacer lo posible por, forcejear","fr":"rivaliser, se mesurer (à), faire une compétition, entrer en compétition, être en concurrence","he":"להתחרות, להתמודד"}
+{"L":"compete","C":["n"],"en":"competition (action), contest, rivalry, fray","fr":"(une) compétition, (une) rivalité, (la) concurrence","he":"תחרות, התחרות, התמודדות, יריבות"}
+{"L":"competor","C":["n"],"en":"competitor, contestant, contender, rival","fr":"(un) rival, (un) concurrent, (un) adversaire, (un) compétiteur","he":"מתחרה, מתמודד, יריב"}
+{"L":"competor favoreda","C":["n"],"en":"frontrunner","fr":"(un) favori, (un) leader","he":"מתמודד מוביל"}
+{"L":"competosa","C":["a"],"en":"competitive","fr":"compétitif","he":"תחרותי"}
+{"T":"r","L":"compila","C":["vt","info"],"d":"produi (un lista, reporta o libro) par colie informa de fontes diversa; (en informatica) tradui un program a un forma plu macinal en cual on pote esecuta lo","en":"compile","fr":"compiler","he":"לקבץ, ללקט, לכנס, לערוך (מידע); (מחשבים) לקמפל, להדר"}
+{"L":"compilador","C":["n"],"en":"compiler (software)","fr":"(un) compilateur","he":"(מחשבים) מהדר"}
+{"L":"compilor","C":["n"],"en":"compiler (person)","fr":"(un) compilateur (personne)","he":"מכנס, מלקט, מכנס, עורך (מידע)"}
+{"T":"r","L":"compleso","C":["n","arci","info","uma"],"d":"un grupo de construidas relatada en la mesma area; un grupo o sistem de cosas diferente, liada en un rede; (en psicoanalise) un grupo relatada de ideas emosial e importante cual es intera o partal represada, causa desacorda mental, e gida a conduis o states nonormal de mente","en":"complex; compound, plant, facility, campus; yard (industrial); complex (psychological)","fr":"(un) complexe (architecture); (un) complexe (psychologie)","he":"קומפלקס, מתחם; תסביך"}
+{"L":"compleso de casas","C":["n","arci","uma"],"en":"housing estate","fr":"(un) lotissement","he":"מתחם מגורים"}
+{"L":"compleso de datos","C":["n","info"],"en":"data center|re","fr":"(un) centre de données, (un) datacenter (informatique)","he":"מרכז נתונים"}
+{"T":"r","L":"completa","C":["a"],"d":"con tota partes nesesada o conveninte; intera; finida","da":"hel, komplet","de":"ganz","en":"complete, comprehensive, exhaustive, thorough, utter, outright, plenary","es":"completo, entero, íntegro","fr":"complet, entier, exhaustif, parfait, plein, intégral, total","he":"שלם, מלא, גמור, מושלם, מוחלט, מקיף, כולל, ממצה, מעמיק, טוטאלי, יסודי"}
+{"L":"completa","C":["av"],"da":"helt, fuldt, fuldstændig","en":"completely, comprehensively, exhaustively, thoroughly, utterly, altogether","fr":"complètement, entièrement, exhaustivement, parfaitement, intégralement, totalement, pleinement","he":"לגמרי, לחלוטין, כליל, באופן כולל, באופן מקיף, במלואו, בשלמותו, ביסודיות"}
+{"L":"completa","C":["n"],"d":"un cosa completa; un colie de vestes de la mesma stofa, desiniada per es portada en junta","en":"whole; suit, outfit (clothes)","fr":"(un) complet (vêtement), (une) tenue (vestimentaire)","he":"מכלול; חליפה"}
 {"L":"completa con pantalon","C":["n"],"en":"pantsuit, trouser suit","he":"חליפת מכנסיים"}
-{"L":"completa de negosia","C":["n"],"en":"business suit","he":"חליפת עסקים"}
-{"L":"completa de sera","C":["n"],"en":"evening suit, black tie","he":"בגדי ערב, חליפת חתן"}
-{"L":"completa de sporte","C":["n"],"en":"tracksuit","he":"אימונית, טריינינג"}
-{"L":"completi","C":["vnt"],"en":"(become) complete","he":"להפוך לשלם"}
-{"L":"completi","C":["vt"],"en":"complete, finalize|is, fulfill|fulfil, complement, consummate; fill in, fill out (form)","he":"להשלים, להביא לסיום; למלא (טופס)"}
-{"L":"completi","C":["n"],"en":"completion, fulfillment|fulfilment","he":"השלמה, סיום"}
-{"L":"completi la testo","C":["v"],"en":"fill in the blank","he":"להשלים את המבחן"}
-{"L":"completi un negosia","C":["v"],"en":"cut a deal","he":"לסגור עסקה"}
-{"L":"completia","C":["n"],"en":"completeness","he":"שלמות, מלאות, מוחלטות, טוטאליות"}
-{"L":"completinte","C":["a"],"en":"completing, fulfilling, complementary, supplementary","he":"משלים"}
-{"L":"completinte","C":["n"],"en":"complement","he":"משלים"}
-{"L":"noncompleta","C":["a"],"en":"incomplete","he":"חלקי, לא שלם"}
-{"L":"noncompletia","C":["n"],"en":"incompleteness","he":"חלקיות, אי-שלמות"}
-{"L":"noncompletida","C":["a"],"en":"uncompleted","he":"לא הושלם"}
-{"T":"r","L":"complica","C":["vt"],"d":"fa ce (un cosa) deveni plu difisil o confusante par introdui plu aspetas o relatas","en":"complicate","he":"לסבך"}
-{"L":"complica","C":["n"],"en":"complication, complicating factor","he":"סיבוך"}
-{"L":"complicada","C":["a"],"da":"kompleks","de":"kompliziert","en":"complicated, complex, intricate, involute","es":"complejo, complicado, compuesto, no simple","fr":"compliqué","he":"מסובך, מורכב"}
-{"L":"complicadia","C":["n"],"en":"complexity, intricacy","he":"סיבוכיות, מורכבות"}
-{"L":"complicosa","C":["a"],"d":"(un sistem) tan complicada ce on no pote predise sua funsiona","en":"complex (system)","he":"(מערכת) מורכבת"}
-{"T":"r","L":"composa","C":["vt"],"d":"scrive o crea (un obra de arte, spesial musica o poesia); scrive (un mesaje) con atende e pensa; (partes) formi un intera","en":"compose","he":"לחבר, להלחין (יצירה); לכתוב (מכתב); להרכיב (מחלקים נפרדים)"}
-{"L":"composa","C":["n"],"en":"composition, makeup","he":"הלחנה, קומפוזיציה; הרכבה; הרכב, מבנה"}
-{"L":"composada","C":["a"],"en":"composed, compound, composite; complex (number)","he":"מורכב (מחלקים נפרדים); (מספר) מרוכב"}
-{"L":"composada","C":["n"],"en":"compound; montage","he":"תרכובת; מונטאג'"}
-{"L":"composada de","C":["a"],"en":"composed of, consisting of, comprising","he":"מורכב מ, מכיל"}
-{"L":"composante","C":["a"],"en":"component, constituent","he":"מרכיב, רכיב"}
-{"L":"composante","C":["n"],"en":"component, constituent","he":"מרכיב, רכיב"}
-{"L":"composante major","C":["n"],"en":"key component","he":"רכיב עיקרי"}
-{"L":"composor","C":["n"],"en":"composer","he":"מלחין"}
-{"L":"descomposa","C":["vt"],"en":"decompose, break down","he":"לפרק"}
-{"L":"descomposada","C":["a"],"en":"decomposed, rotten","he":"מפורק; רקוב"}
-{"L":"descomposada","C":["n"],"en":"compost","he":"קומפוסט, דשונת"}
-{"L":"es composada de","C":["v"],"da":"bestå af, være sammensat af","de":"bestehen aus","en":"be composed of, consist of, comprise","es":"consistir en, estar compuesto de, estar hecho de","fr":"consister en","he":"להיות מורכב מ, להכיל"}
-{"L":"noncomposada","C":["a"],"en":"uncompounded, simplex","he":"שאינו מורכב (מחלקים נפרדים)"}
-{"T":"r","L":"compra","C":["vt","mone"],"d":"oteni (un cosa) par paia per lo","da":"købe","de":"kaufen","en":"buy, purchase, shop","es":"comprar, adquirir, mercar","fr":"acheter","he":"לקנות, לרכוש"}
-{"L":"compra","C":["n"],"en":"purchase (action)","he":"קנייה, רכישה (פעולה)"}
-{"L":"compra manica","C":["n"],"en":"shopping spree","he":"מסע קניות"}
-{"L":"comprable","C":["a"],"en":"buyable, available to buy, purchasable, for sale","he":"למכירה"}
-{"L":"comprada","C":["n"],"en":"purchase (object)","he":"קנייה, רכישה (הדבר שנקנה)"}
-{"L":"compror","C":["n"],"en":"buyer, purchaser, shopper","he":"קונה, רוכש"}
-{"L":"pote compra","C":["v"],"en":"afford (to buy)","he":"לעמוד במחיר"}
-{"L":"sucomposante","C":["n"],"en":"subcomponent, subconstituent"}
-{"T":"r","L":"compramania","C":["n"],"d":"un spende estravagante de mone","en":"spending spree, splurge","he":"בזבוז כסף"}
-{"L":"compramanica","C":["n"],"en":"spendthrift","he":"בזבזן, פזרן"}
+{"L":"completa de negosia","C":["n"],"en":"business suit","fr":"(un) costume","he":"חליפת עסקים"}
+{"L":"completa de sera","C":["n"],"en":"evening suit, black tie","fr":"(un) costume de soirée, (une) tenue de soirée","he":"בגדי ערב, חליפת חתן"}
+{"L":"completa de sporte","C":["n"],"en":"tracksuit","fr":"(une) tenue de sport, (un) survêtement","he":"אימונית, טריינינג"}
+{"L":"completi","C":["vnt"],"en":"(become) complete","fr":"se parfaire, se compléter, se remplir, se finaliser, s'achever, se perfectionner","he":"להפוך לשלם"}
+{"L":"completi","C":["vt"],"en":"complete, finalize|is, fulfill|fulfil, complement, consummate; fill in, fill out (form)","fr":"parfaire, compléter, remplir, finaliser, achever, perfectionner","he":"להשלים, להביא לסיום; למלא (טופס)"}
+{"L":"completi","C":["n"],"en":"completion, fulfillment|fulfilment","fr":"(un) remplissage, (une) complétion, (une) finalisation, (une) amélioration, (un) perfectionnement","he":"השלמה, סיום"}
+{"L":"completi la testo","C":["v"],"en":"fill in the blank","fr":"remplir les blancs, compléter les blancs","he":"להשלים את המבחן"}
+{"L":"completi un negosia","C":["v"],"en":"cut a deal","fr":"conclure un accord","he":"לסגור עסקה"}
+{"L":"completia","C":["n"],"en":"completeness","fr":"(une) complétude, (un) plein, (une) plénitude, (une) exhaustivité, (une) intégralité","he":"שלמות, מלאות, מוחלטות, טוטאליות"}
+{"L":"completinte","C":["a"],"en":"completing, fulfilling, complementary, supplementary","fr":"complétant, remplissant, complémentaire, supplémentaire","he":"משלים"}
+{"L":"completinte","C":["n"],"en":"complement","fr":"(un) complément, (un) supplément, (un) ajout, (le) reste, (le) solde","he":"משלים"}
+{"L":"noncompleta","C":["a"],"en":"incomplete","fr":"incomplet, fragmentaire, imparfait, inachevé, insuffisant, lacunaire, partiel, tronqué","he":"חלקי, לא שלם"}
+{"L":"noncompletia","C":["n"],"en":"incompleteness","fr":"(un) inachèvement, (une) incomplétude, (un) état lacunaire, (un) état fragmentaire","he":"חלקיות, אי-שלמות"}
+{"L":"noncompletida","C":["a"],"en":"uncompleted","fr":"non complété, non achevé, non rempli","he":"לא הושלם"}
+{"T":"r","L":"complica","C":["vt"],"d":"fa ce (un cosa) deveni plu difisil o confusante par introdui plu aspetas o relatas","en":"complicate","fr":"compliquer, complexifier, embrouiller, obscurcir","he":"לסבך"}
+{"L":"complica","C":["n"],"en":"complication, complicating factor","fr":"(une) complication, (un) facteur de complication","he":"סיבוך"}
+{"L":"complicada","C":["a"],"da":"kompleks","de":"kompliziert","en":"complicated, complex, intricate, involute","es":"complejo, complicado, compuesto, no simple","fr":"compliqué, complexe, alambiqué, ardu, embrouillé, obscur","he":"מסובך, מורכב"}
+{"L":"complicadia","C":["n"],"en":"complexity, intricacy","fr":"(la) complexité, (la) complication, (la) difficulté, (une) intrication","he":"סיבוכיות, מורכבות"}
+{"L":"complicosa","C":["a"],"d":"(un sistem) tan complicada ce on no pote predise sua funsiona","en":"complex (system)","fr":"complexe (système)","he":"(מערכת) מורכבת"}
+{"T":"r","L":"composa","C":["vt"],"d":"scrive o crea (un obra de arte, spesial musica o poesia); scrive (un mesaje) con atende e pensa; (partes) formi un intera","en":"compose","fr":"composer, assembler","he":"לחבר, להלחין (יצירה); לכתוב (מכתב); להרכיב (מחלקים נפרדים)"}
+{"L":"composa","C":["n"],"en":"composition, makeup","fr":"(une) composition, (un) assemblage","he":"הלחנה, קומפוזיציה; הרכבה; הרכב, מבנה"}
+{"L":"composada","C":["a"],"en":"composed, compound, composite; complex (number)","fr":"composé, composite, assemblé; complexe (nombre)","he":"מורכב (מחלקים נפרדים); (מספר) מרוכב"}
+{"L":"composada","C":["n"],"en":"compound; montage","fr":"composition, assemblage; montage","he":"תרכובת; מונטאג'"}
+{"L":"composada de","C":["a"],"en":"composed of, consisting of, comprising","fr":"composé de, constitué de, comprenant, comptant","he":"מורכב מ, מכיל"}
+{"L":"composante","C":["a"],"en":"component, constituent","fr":"composant, constituant","he":"מרכיב, רכיב"}
+{"L":"composante","C":["n"],"en":"component, constituent","fr":"(un) composant, (un) constituant, (un) élément, (une) composante, (un) ingrédient","he":"מרכיב, רכיב"}
+{"L":"composante major","C":["n"],"en":"key component","fr":"(un) élément clé, (le) composant essentiel, (la) base","he":"רכיב עיקרי"}
+{"L":"composor","C":["n"],"en":"composer","fr":"(un) compositeur (personne)","he":"מלחין"}
+{"L":"descomposa","C":["vt"],"en":"decompose, break down","fr":"décomposer, défaire, dissocier, mettre en morceaux, mettre en pièces, putréfier, faire pourrir, détruire","he":"לפרק"}
+{"L":"descomposada","C":["a"],"en":"decomposed, rotten","fr":"décomposé, pourri","he":"מפורק; רקוב"}
+{"L":"descomposada","C":["n"],"en":"compost","fr":"(un) compost","he":"קומפוסט, דשונת"}
+{"L":"es composada de","C":["v"],"da":"bestå af, være sammensat af","de":"bestehen aus","en":"be composed of, consist of, comprise","es":"consistir en, estar compuesto de, estar hecho de","fr":"consister en, se composer de, comprendre, compter","he":"להיות מורכב מ, להכיל"}
+{"L":"noncomposada","C":["a"],"en":"uncompounded, simplex","fr":"non composé, simple","he":"שאינו מורכב (מחלקים נפרדים)"}
+{"L":"sucomposante","C":["n"],"en":"subcomponent, subconstituent","fr":"(un) sous-composant"}
+{"T":"r","L":"compra","C":["vt","mone"],"d":"oteni (un cosa) par paia per lo","da":"købe","de":"kaufen","en":"buy, purchase, shop","es":"comprar, adquirir, mercar","fr":"acheter, acquérir, se payer, se procurer, s'offrir","he":"לקנות, לרכוש"}
+{"L":"compra","C":["n"],"en":"purchase (action)","fr":"(un) achat (action), (une) acquisition","he":"קנייה, רכישה (פעולה)"}
+{"L":"compra manica","C":["n"],"en":"shopping spree","fr":"(la) fièvre acheteuse, (une) oniomanie, (la) folie des achats","he":"מסע קניות"}
+{"L":"comprable","C":["a"],"en":"buyable, available to buy, purchasable, for sale","fr":"achetable, disponible (à la vente), à vendre","he":"למכירה"}
+{"L":"comprada","C":["n"],"en":"purchase (object)","fr":"(un) achat (objet)","he":"קנייה, רכישה (הדבר שנקנה)"}
+{"L":"compror","C":["n"],"en":"buyer, purchaser, shopper","fr":"(un) acheteur, (un) client","he":"קונה, רוכש"}
+{"L":"pote compra","C":["v"],"en":"afford (to buy)","fr":"pouvoir se permettre, pouvoir s'offrir, pouvoir (s') acheter","he":"לעמוד במחיר"}
+{"T":"r","L":"compramania","C":["n"],"d":"un spende estravagante de mone","en":"spending spree, splurge","fr":"(une) frénésie de dépenses, (une) folie dépensière, (une) oniomanie","he":"בזבוז כסף"}
+{"L":"compramanica","C":["n"],"en":"spendthrift","fr":"(un) dépensier compulsif, (un) dilapidateur, (un) panier percé, (un) oniomane","he":"בזבזן, פזרן"}
 {"T":"r","L":"comprende","C":["vt"],"d":"persepi la sinifia intendeda de (un testo o person); persepi la sinifia, esplica o causa de (un cosa)","da":"forstå, opfatte","de":"verstehen","en":"understand, comprehend","es":"entender, comprender","fr":"comprendre","he":"להבין"}
 {"L":"comprende","C":["n"],"en":"understanding, interpretation, comprehension, insight","he":"הבנה"}
 {"L":"comprendable","C":["a"],"en":"understandable, intelligible, comprehensible","he":"מובן, ברור"}
@@ -10459,6 +10459,7 @@
 {"L":"fali paia","C":["v"],"en":"fail to pay, default on payment","fr":"être en défaut de paiement"}
 {"L":"fali para","C":["v"],"en":"fail to stop, overshoot"}
 {"L":"falinte","C":["a"],"en":"failing"}
+{"L":"falor","C":["n"],"en":"failure (person)"}
 {"L":"nunca falinte","C":["a"],"en":"infallible","fr":"infaillible"}
 {"L":"sin fali","C":["a"],"en":"faultless, impeccable"}
 {"T":"r","L":"falia","C":["n","tera"],"d":"(en jeolojia) un rompe estendeda en un corpo de roca, marcada par un desloca relativa de stratos a cada lado de un plana spesifada","i":"#","ca":"falla","de":"Verwerfung","en":"fault (geology)","eo":"faŭlto","es":"falla","fr":"faille","it":"faglia","pt":"falha"}
@@ -17056,6 +17057,8 @@
 {"T":"r","L":"muon","C":["n","fis"],"d":"un particula suatomal e nonstable en la mesma clase como un eletron, ma con masa plu grande a sirca 200 veses","en":"muon (particle)"}
 {"T":"r","L":"mur","C":["n","arci"],"d":"un lado vertical de un construida o sala; un strutur vertical e continuante de brices o petras cual ensirca o divide un area de tera; alga cosa usada como un parador per proteje o restrinje","i":"#","da":"væg","de":"Wand, Mauer","en":"wall; bulkhead (ship)","es":"pared, muro, tapia","fr":"mur"}
 {"L":"mur contra esplodes","C":["n"],"en":"blast wall"}
+{"L":"mural","C":["a"],"en":"mural; pertaining to a wall"}
+{"L":"mural","C":["n"],"en":"mural"}
 {"L":"muraliste","C":["n"],"en":"muralist (artist)"}
 {"L":"mureta","C":["n"],"d":"un mur interna e lejera; un surfas vertical sur cual on afisa paperes o scrive","en":"partition; board"}
 {"L":"mureta blanca","C":["n"],"en":"whiteboard"}
@@ -26346,6 +26349,7 @@
 {"T":"r","L":"telegraf","C":["n","util"],"d":"un aparato cual crea siniales eletrical per transmete mesajes par comuta e descomuta un junta eletrical","i":"#","en":"telegraph"}
 {"L":"telegrafi","C":["vt"],"en":"telegraph"}
 {"L":"telegrafia","C":["n"],"en":"telegraphy"}
+{"L":"telegrafiste","C":["n"],"en":"telegraphist"}
 {"T":"r","L":"telegram","C":["n","util"],"d":"un mesaje enviada par telegraf e traeda en forma scriveda o primida","en":"telegram"}
 {"T":"r","L":"telelabora","C":["vnt","info"],"d":"labora en sua propre casa par usa la interede, eposta e telefon","en":"telecommute, telework"}
 {"L":"telelabora","C":["n"],"en":"telecommuting, teleworking"}
@@ -27090,6 +27094,8 @@
 {"L":"transitivia","C":["n"],"en":"transitivity","fr":"transitivité"}
 {"T":"r","L":"transjenero","C":["a","uma"],"d":"(un person) de ci sua autoidentia no conforma sin ambiguia a la consetas tradisional de jenero mas o fema","en":"transgender"}
 {"L":"transjenero","C":["n"],"en":"transgender person"}
+{"T":"r","L":"transletera","C":["vt"],"d":"scrive o primi (un parola o testo) par usa la leteras cual coresponde la plu prosima leteras de un otra alfabeta o sistem de scrive","en":"transliterate"}
+{"L":"transletera","C":["n"],"en":"transliteration"}
 {"T":"r","L":"transmasin","C":["a"],"d":"(un om) transjenero; (un person nonbinaria) ci ia nase fema e regarda se como xef masin","en":"transmasculine"}
 {"T":"r","L":"transmete","C":["vt","fis"],"d":"envia (un sinial eletrical o un program de radio o televisa); conduta (enerjia)","en":"transmit (signal, power, etc.), broadcast","fr":"transmettre"}
 {"L":"transmete","C":["n"],"en":"transmission, broadcast","fr":"transmission"}
@@ -28072,6 +28078,8 @@
 {"T":"r","L":"vantaje","C":["n","gov","spo"],"d":"un situa o cualia cual pone algun un situa superior o beneficada","en":"advantage (including tennis), privilege, benefit, lead","fr":"avantage, privilège"}
 {"L":"con nonvantaje","C":["a"],"en":"disadvantaged, handicapped","fr":"désavantagé"}
 {"L":"nonvantaje","C":["n"],"en":"disadvantage, handicap (including golf), demerit, drawback","fr":"désavantage, handicap"}
+{"L":"nonvantaji","C":["vt"],"en":"disadvantage, handicap"}
+{"L":"nonvantajida","C":["a"],"en":"disadvantaged, handicapped","fr":"désavantagé"}
 {"L":"vantaji","C":["vt"],"en":"advantage, privilege, benefit"}
 {"L":"vantajosa","C":["a"],"en":"advantageous, opportune","fr":"avantageux"}
 {"T":"r","L":"Vanuatu","C":["n","jeo"],"c":"Port Vila","d":"un pais composada de un grupo de isolas en la Mar Pasifica sude-ueste","i":"#","en":"Vanuatu"}
