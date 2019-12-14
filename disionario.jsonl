@@ -5667,8 +5667,8 @@
 {"L":"sucomite","C":["n"],"en":"subcommittee","fr":"(un) sous-comité","he":"ועדת משנה"}
 {"T":"r","L":"como","C":["av"],"d":"(demandante) en cual modo, par cual metodo; (ante un ajetivo o averbo) a cual grado; (metafor) a cual grado de sania o felisia","u":"como on abri esta caxa?; como longa es la viaja?","da":"hvordan, hvorledes","de":"wie","en":"(interrogative) how","es":"como, cómo","fr":"comment","he":"איך","ru":"как"}
 {"L":"como","C":["esc"],"en":"what, huh, eh? (confusion)","fr":"quoi? comment?","he":"איך? מה אמרת?"}
-{"L":"como","C":["sj"],"d":"en la modo en cual, par la metodo par cual; a la grado a cual","u":"acel es como on debe condui; salta tan alta como tu pote","da":"som, ligesom","de":"wie","en":"as, like, in the way that","es":"como, mientras, a medida que, según","fr":"comme","he":"כמו ש","ru":"как, словно, будто, как будто"}
-{"L":"como","C":["prep"],"d":"simil a","g":"preposadas#como","u":"el rie como un iena; tan alta como me","da":"lig med","de":"als, (so ...) wie","en":"like, similarly to, qua","eo":"kiel, simile al","es":"como, similar a, semejante a, del mismo modo que","fr":"comme","he":"כ-, כמו, בדומה ל","ru":"как"}
+{"L":"como","C":["sj"],"d":"en la modo en cual, par la metodo par cual; a la grado a cual","u":"acel es como on debe condui; salta tan alta como tu pote","da":"som, ligesom","de":"wie","en":"as, like, in the way that","es":"como, mientras, a medida que, según","fr":"comme, ainsi que, que","he":"כמו ש","ru":"как, словно, будто, как будто"}
+{"L":"como","C":["prep"],"d":"simil a","g":"preposadas#como","u":"el rie como un iena; tan alta como me","da":"lig med","de":"als, (so ...) wie","en":"like, similarly to, qua","eo":"kiel, simile al","es":"como, similar a, semejante a, del mismo modo que","fr":"comme, ainsi que","he":"כ-, כמו, בדומה ל","ru":"как"}
 {"L":"como poca","C":["d"],"en":"how few, how little","fr":"combien peu, comme peu","he":"כמה מעט"}
 {"L":"como poca","C":["av"],"en":"how few, how little","fr":"combien... peu, comme... peu","he":"כמה מעט"}
 {"L":"como si","C":["sj"],"en":"as if, as though, like","fr":"comme si","he":"כאילו ש","ru":"как если бы"}
@@ -5783,64 +5783,64 @@
 {"L":"pote compra","C":["v"],"en":"afford (to buy)","fr":"pouvoir se permettre, pouvoir s'offrir, pouvoir (s') acheter","he":"לעמוד במחיר"}
 {"T":"r","L":"compramania","C":["n"],"d":"un spende estravagante de mone","en":"spending spree, splurge","fr":"(une) frénésie de dépenses, (une) folie dépensière, (une) oniomanie","he":"בזבוז כסף"}
 {"L":"compramanica","C":["n"],"en":"spendthrift","fr":"(un) dépensier compulsif, (un) dilapidateur, (un) panier percé, (un) oniomane","he":"בזבזן, פזרן"}
-{"T":"r","L":"comprende","C":["vt"],"d":"persepi la sinifia intendeda de (un testo o person); persepi la sinifia, esplica o causa de (un cosa)","da":"forstå, opfatte","de":"verstehen","en":"understand, comprehend","es":"entender, comprender","fr":"comprendre","he":"להבין"}
-{"L":"comprende","C":["n"],"en":"understanding, interpretation, comprehension, insight","he":"הבנה"}
-{"L":"comprendable","C":["a"],"en":"understandable, intelligible, comprehensible","he":"מובן, ברור"}
-{"L":"malcomprende","C":["vt"],"en":"misunderstand, misapprehend","he":"להבין שלא כהלכה"}
-{"L":"malcomprende","C":["n"],"en":"misunderstanding","he":"אי-הבנה"}
-{"L":"noncomprendable","C":["a"],"en":"unintelligible, incomprehensible, inscrutable, unfathomable, fathomless","he":"בלתי מובן, סתום"}
-{"L":"noncomprendablia","C":["n"],"en":"unintelligibility, incomprehensibility","he":"היות בלתי מובן, היות סתום"}
-{"L":"noncomprende","C":["n"],"en":"incomprehension","he":"חוסר הבנה"}
-{"T":"r","L":"compresa","C":["vt"],"d":"plati (un cosa) par presa; presa (du cosas) a lunlotra; produi o manteni un presa artifis en (un gas o sua contenador)","en":"compress; pressurize","he":"לדחוס"}
-{"L":"compresa","C":["n"],"en":"compression; pressurization|is","he":"דחיסה"}
-{"L":"descompresa","C":["vt"],"en":"decompress","he":"להפחית את הלחץ"}
-{"L":"descompresa","C":["n"],"en":"decompression","he":"הפחתת לחץ"}
-{"T":"r","L":"compromete","C":["vnt","gov"],"d":"solve un disputa par aseta mutua de alga sedes","en":"compromise, make concessions, accommodate","he":"להתפשר"}
-{"L":"compromete","C":["n"],"da":"kompromis","de":"Kompromiss","en":"compromise, concession, trade-off","es":"compromiso, arreglo, acuerdo, aveniencia, termino medio entre extremos","fr":"compromis","he":"פשרה"}
-{"T":"r","L":"compulsa","C":["vt"],"d":"(un comanda legal o un senti interna) obliga o forsa (un person) a fa alga cosa","en":"compel","he":"לחייב, לאלץ"}
-{"L":"compulsa","C":["n"],"en":"compulsion","he":"חיוב, אילוץ, כורח"}
-{"T":"r","L":"computa","C":["vt","info"],"d":"calcula (un cuantia); solve (un problem) par usa un computador","en":"compute","he":"לחשב (באמצעות מחשב)"}
-{"L":"computa","C":["n"],"en":"computation, computing","he":"חישוב, מחשוב"}
-{"L":"computa distribuida","C":["n"],"en":"grid computing","he":"מחשוב סריגי"}
-{"L":"computador","C":["n"],"da":"computer","de":"Computer","en":"computer; central processing unit, CPU","es":"computadora, computador, ordenador, calculadora programable","fr":"ordinateur","he":"מחשב"}
-{"L":"computador de mano","C":["n"],"en":"handheld computer","he":"מחשב יד, מסופון"}
-{"L":"computador de table","C":["n"],"i":"#","en":"desktop computer","he":"מחשב שולחני"}
-{"L":"computador personal","C":["n"],"en":"personal computer","he":"מחשב אישי"}
-{"L":"computador portable","C":["n"],"i":"#","en":"laptop, portable computer","he":"מחשב נייד"}
-{"L":"computador portable peti","C":["n"],"en":"netbook","he":"נטבוק"}
-{"L":"computador sentral","C":["n"],"i":"#","en":"mainframe computer","he":"מחשב מרכזי"}
-{"L":"computador tabletin","C":["n"],"en":"tablet computer","he":"מחשב לוח, טאבלט"}
-{"L":"supracomputador","C":["n"],"en":"supercomputer","he":"מחשב-על"}
-{"T":"r","L":"comun","C":["a"],"d":"no rara; aveninte, trovada o fada a multe veses o tra un area grande; de spesie la plu bon conoseda; compartida, pertinente a plu ca un person o cosa; poseseda par, asedable per, o afetante la intera de un comunia","da":"fælles, almindelig, generel","de":"allgemein, gemeinsam","en":"common, general, ordinary, plain, banal, prevalent, mundane, commonplace; frequent, rife; shared, in common","es":"común, general, ordinario, vulgar, público","fr":"commun","he":"שכיח, מצוי, רווח, נפוץ; משותף, ציבורי, כללי"}
-{"L":"comun","C":["av"],"en":"commonly, generally, widely; often, oftentimes, frequently; in common","he":"באופן כללי; בדרך כלל, על פי רוב; לעיתים קרובות, לעיתים תכופות, תדיר; במשותף"}
-{"L":"comunisme","C":["n"],"en":"communism","he":"קומוניזם"}
-{"L":"comuniste","C":["n"],"en":"communist","he":"קומוניסט"}
-{"L":"noncomun","C":["a"],"en":"uncommon, unusual, infrequent, eccentric, offbeat; original (idea)","he":"בלתי רגיל, לא שגרתי; נדיר; אקסצנטרי, חריג"}
-{"L":"noncomun","C":["av"],"en":"uncommonly, unusually","he":"באופן בלתי רגיל, באופן חריג"}
-{"L":"noncomunia","C":["n"],"en":"unusualness, eccentricity","he":"אקסצנטריות, חריגות"}
-{"T":"r","L":"comunia","C":["n","gov"],"d":"un grupo peti o grande de persones ci comparti un cualia sosial","da":"samfund","de":"Gemeindshaft, Gemeinde","en":"community, commonwealth; communion","es":"comunidad","fr":"communauté","he":"קהילה, קהילייה; תחושת שיתוף וקרבה"}
-{"L":"comunia legal","C":["n"],"en":"commune, municipality","he":"קומונה, משתף"}
-{"L":"comunial","C":["a"],"en":"communal","he":"שיתופי; קהילתי"}
-{"T":"r","L":"comunica","C":["vt","info"],"d":"comparti o intercambia (informa, novas, ideas o maladias)","en":"communicate; pass on (illness)","he":"לתקשר; להעביר (מחלות)"}
-{"L":"comunica","C":["n"],"da":"kommunikation","de":"Nachrichtenwesen","en":"communication","es":"comunicación","fr":"communication","he":"תקשורת"}
-{"L":"comunicable","C":["a"],"en":"communicable, contagious, infectious","he":"שניתן לתקשר איתו; מדבק"}
-{"L":"comunicada","C":["a"],"en":"communicated","he":"מתוקשר; (מחלה) מועבר"}
-{"L":"comunicador","C":["n"],"en":"communicator, intercom","he":"מכשיר תקשורת, מקשר, אינטרקום"}
-{"L":"comunicador de porte","C":["n"],"en":"doorphone, intercom, talkback","he":"אינטרקום"}
-{"L":"intercomunica","C":["vt"],"en":"intercommunicate","he":"לתקשר הדדית"}
-{"L":"sesal comunicada","C":["a"],"en":"sexually transmitted","he":"שמועבר באמצעות מין"}
-{"L":"sin comunica","C":["n"],"en":"without communication, incommunicado","he":"ללא תקשורת, מנותק"}
-{"T":"r","L":"comuta","C":["vnt","util"],"d":"(un macina o aparato eletrical) comensa funsiona","en":"switch on, turn on, come on, connect, go live (machine); enable (software feature)","he":"להידלק, להתחבר (לחשמל)"}
-{"L":"comuta","C":["vt"],"en":"switch on, turn on, come on, connect, go live (machine); enable (software feature)","he":"להדליק, להפעיל, לחבר (לחשמל)"}
-{"L":"comuta","C":["n"],"da":"forbindelse, led","de":"Verbindung, Verknüpfung","en":"connection, joint, junction","es":"conexión, junta, unión, enlace","fr":"raccordement, connexion","he":"הדלקה, הפעלה, חיבור"}
-{"L":"boton de comuta","C":["n"],"en":"power button, power switch, on/off switch","he":"כפתור הפעלה"}
-{"L":"comutada","C":["a"],"en":"on, switched on, turned on, live; connected, online; enabled","he":"דולק, מופעל, מחובר"}
-{"L":"comutador","C":["n"],"en":"switch (electric), toggle","he":"מתג, מפסק"}
-{"L":"descomuta","C":["vnt"],"en":"switch off, turn off, shut off, shut down, disconnect (machine); disable (software feature)","he":"להיכבות, להיפסק, להיעצר, להתנתק, להינתק"}
-{"L":"descomuta","C":["vt"],"en":"switch off, turn off, shut off, shut down, disconnect (machine); disable (software feature)","he":"לכבות, להפסיק, לעצור, לנתק, להשבית (מכונה)"}
-{"L":"descomuta","C":["n"],"en":"shutoff, disconnection","he":"כיבוי, הפסקה, עצירה, ניתוק, השבתה (של מכונה)"}
-{"L":"descomutada","C":["a"],"en":"off, switched off, turned off; disconnected, offline; disabled","he":"כבוי, מכובה, מופסק, מנותק, מושבת"}
-{"L":"recomuta","C":["vt"],"en":"reconnect, switch back on","he":"לחבר שוב, להדליק שוב"}
+{"T":"r","L":"comprende","C":["vt"],"d":"persepi la sinifia intendeda de (un testo o person); persepi la sinifia, esplica o causa de (un cosa)","da":"forstå, opfatte","de":"verstehen","en":"understand, comprehend","es":"entender, comprender","fr":"comprendre, entendre, concevoir, saisir, réaliser, piger (familier), capter (familier)","he":"להבין"}
+{"L":"comprende","C":["n"],"en":"understanding, interpretation, comprehension, insight","fr":"(la) compréhension, (un) entendement","he":"הבנה"}
+{"L":"comprendable","C":["a"],"en":"understandable, intelligible, comprehensible","fr":"intelligible, compéhensible, accessible","he":"מובן, ברור"}
+{"L":"malcomprende","C":["vt"],"en":"misunderstand, misapprehend","fr":"mal comprendre, se méprendre sur, se tromper sur, méjuger","he":"להבין שלא כהלכה"}
+{"L":"malcomprende","C":["n"],"en":"misunderstanding","fr":"(une) méprise, (un) malentendu, (une) erreur, (une) mécompréhension","he":"אי-הבנה"}
+{"L":"noncomprendable","C":["a"],"en":"unintelligible, incomprehensible, inscrutable, unfathomable, fathomless","fr":"incompréhensible, inintelligible, inconcevale","he":"בלתי מובן, סתום"}
+{"L":"noncomprendablia","C":["n"],"en":"unintelligibility, incomprehensibility","fr":"(une) inintelligibilité, (une) obscurité, (une) opacité, (une) incompréhensibilité","he":"היות בלתי מובן, היות סתום"}
+{"L":"noncomprende","C":["n"],"en":"incomprehension","fr":"(une) incompréhension, (une) méconnaissance","he":"חוסר הבנה"}
+{"T":"r","L":"compresa","C":["vt"],"d":"plati (un cosa) par presa; presa (du cosas) a lunlotra; produi o manteni un presa artifis en (un gas o sua contenador)","en":"compress; pressurize","fr":"comprimer, presser, compresser, serrer, tasser; pressuriser","he":"לדחוס"}
+{"L":"compresa","C":["n"],"en":"compression; pressurization|is","fr":"(une) compression, (une) pression; (une) pressurisation","he":"דחיסה"}
+{"L":"descompresa","C":["vt"],"en":"decompress","fr":"décompresser, détendre, relâcher","he":"להפחית את הלחץ"}
+{"L":"descompresa","C":["n"],"en":"decompression","fr":"décompression, détente, relâchement","he":"הפחתת לחץ"}
+{"T":"r","L":"compromete","C":["vnt","gov"],"d":"solve un disputa par aseta mutua de alga sedes","en":"compromise, make concessions, accommodate","fr":"faire un compromis, s'accorder, faire des concessions, s'arranger, trouver un moyen terme, se concilier","he":"להתפשר"}
+{"L":"compromete","C":["n"],"da":"kompromis","de":"Kompromiss","en":"compromise, concession, trade-off","es":"compromiso, arreglo, acuerdo, aveniencia, termino medio entre extremos","fr":"(un) compromis, (une) conciliation, (un) accord, (un) arrangement, (un) moyen terme, (une) concession","he":"פשרה"}
+{"T":"r","L":"compulsa","C":["vt"],"d":"(un comanda legal o un senti interna) obliga o forsa (un person) a fa alga cosa","en":"compel","fr":"obliger quelqu'un à, forcer quelqu'un à, contraindre quelqu'un à, astreindre quelqu'un à, imposer à quelqu'un de...","he":"לחייב, לאלץ"}
+{"L":"compulsa","C":["n"],"en":"compulsion","fr":"(une) contrainte, (une) astreinte, (une) coercition, (un) ordre, (un) commandement, (une) obligation","he":"חיוב, אילוץ, כורח"}
+{"T":"r","L":"computa","C":["vt","info"],"d":"calcula (un cuantia); solve (un problem) par usa un computador","en":"compute","fr":"utiliser un ordinateur pour calculer (quelque chose), résoudre (un problème)","he":"לחשב (באמצעות מחשב)"}
+{"L":"computa","C":["n"],"en":"computation, computing","fr":"utilisation d'un ordinateur pour le calcul de, pour la résolution de","he":"חישוב, מחשוב"}
+{"L":"computa distribuida","C":["n"],"en":"grid computing","fr":"(une) grille informatique","he":"מחשוב סריגי"}
+{"L":"computador","C":["n"],"da":"computer","de":"Computer","en":"computer; central processing unit, CPU","es":"computadora, computador, ordenador, calculadora programable","fr":"(un) ordinateur","he":"מחשב"}
+{"L":"computador de mano","C":["n"],"en":"handheld computer","fr":"(un) ordinateur de poche","he":"מחשב יד, מסופון"}
+{"L":"computador de table","C":["n"],"i":"#","en":"desktop computer","fr":"(un) ordinateur de bureau","he":"מחשב שולחני"}
+{"L":"computador personal","C":["n"],"en":"personal computer","fr":"(un) ordinateur personnel","he":"מחשב אישי"}
+{"L":"computador portable","C":["n"],"i":"#","en":"laptop, portable computer","fr":"(un) ordinateur portable","he":"מחשב נייד"}
+{"L":"computador portable peti","C":["n"],"en":"netbook","fr":"(un) netbook, (un) mini-ordinateur, (un) miniportable, (un) miniportatif","he":"נטבוק"}
+{"L":"computador sentral","C":["n"],"i":"#","en":"mainframe computer","fr":"(un) ordinateur central","he":"מחשב מרכזי"}
+{"L":"computador tabletin","C":["n"],"en":"tablet computer","fr":"(une) tablette, (une) tablette tactile, (une) tablette électronique, (une) tablette numérique,","he":"מחשב לוח, טאבלט"}
+{"L":"supracomputador","C":["n"],"en":"supercomputer","fr":"(un) superordinateur, (un) supercalculateur","he":"מחשב-על"}
+{"T":"r","L":"comun","C":["a"],"d":"no rara; aveninte, trovada o fada a multe veses o tra un area grande; de spesie la plu bon conoseda; compartida, pertinente a plu ca un person o cosa; poseseda par, asedable per, o afetante la intera de un comunia","da":"fælles, almindelig, generel","de":"allgemein, gemeinsam","en":"common, general, ordinary, plain, banal, prevalent, mundane, commonplace; frequent, rife; shared, in common","es":"común, general, ordinario, vulgar, público","fr":"commun, ordinaire, courant, simple, banal, général, fréquent, répandu; mis en partage, en commun","he":"שכיח, מצוי, רווח, נפוץ; משותף, ציבורי, כללי"}
+{"L":"comun","C":["av"],"en":"commonly, generally, widely; often, oftentimes, frequently; in common","fr":"communément, généralement, couramment, ordinairement, fréquemment; en commun, en partage","he":"באופן כללי; בדרך כלל, על פי רוב; לעיתים קרובות, לעיתים תכופות, תדיר; במשותף"}
+{"L":"comunisme","C":["n"],"en":"communism","fr":"(le) communisme","he":"קומוניזם"}
+{"L":"comuniste","C":["n"],"en":"communist","fr":"(un/une) communiste","he":"קומוניסט"}
+{"L":"noncomun","C":["a"],"en":"uncommon, unusual, infrequent, eccentric, offbeat; original (idea)","fr":"inhabituel, inaccoutumé, insolite, rare; anormal, atypique, bizarre, différent, extraordinaire; original, excentrique","he":"בלתי רגיל, לא שגרתי; נדיר; אקסצנטרי, חריג"}
+{"L":"noncomun","C":["av"],"en":"uncommonly, unusually","fr":"d'une manière originale, rarement, inhabituellement; anormalement, bizarrement, différemment","he":"באופן בלתי רגיל, באופן חריג"}
+{"L":"noncomunia","C":["n"],"en":"unusualness, eccentricity","fr":"(une) originalité, (la) rareté, (une) anomalie, (une) excentricité","he":"אקסצנטריות, חריגות"}
+{"T":"r","L":"comunia","C":["n","gov"],"d":"un grupo peti o grande de persones ci comparti un cualia sosial","da":"samfund","de":"Gemeindshaft, Gemeinde","en":"community, commonwealth; communion","es":"comunidad","fr":"(une) communauté, (un) groupe, (un) groupement, (une) confrérie, (une) congrégation; (une) communion","he":"קהילה, קהילייה; תחושת שיתוף וקרבה"}
+{"L":"comunia legal","C":["n"],"en":"commune, municipality","fr":"(une) commune, (une) municipalité","he":"קומונה, משתף"}
+{"L":"comunial","C":["a"],"en":"communal","fr":"communal","he":"שיתופי; קהילתי"}
+{"T":"r","L":"comunica","C":["vt","info"],"d":"comparti o intercambia (informa, novas, ideas o maladias)","en":"communicate; pass on (illness)","fr":"communiquer, transmettre; transmettre (une maladie)","he":"לתקשר; להעביר (מחלות)"}
+{"L":"comunica","C":["n"],"da":"kommunikation","de":"Nachrichtenwesen","en":"communication","es":"comunicación","fr":"(une) communication, (une) transmisssion","he":"תקשורת"}
+{"L":"comunicable","C":["a"],"en":"communicable, contagious, infectious","fr":"communicable, contagieux, infectieux, transmissible","he":"שניתן לתקשר איתו; מדבק"}
+{"L":"comunicada","C":["a"],"en":"communicated","fr":"communiqué, transmis","he":"מתוקשר; (מחלה) מועבר"}
+{"L":"comunicador","C":["n"],"en":"communicator, intercom","fr":"(un) interphone","he":"מכשיר תקשורת, מקשר, אינטרקום"}
+{"L":"comunicador de porte","C":["n"],"en":"doorphone, intercom, talkback","fr":"(un) interphone","he":"אינטרקום"}
+{"L":"intercomunica","C":["vt"],"en":"intercommunicate","fr":"communiquer","he":"לתקשר הדדית"}
+{"L":"sesal comunicada","C":["a"],"en":"sexually transmitted","fr":"transmis par voie sexuelle","he":"שמועבר באמצעות מין"}
+{"L":"sin comunica","C":["n"],"en":"without communication, incommunicado","fr":"(une) mise au secret, (une) mise en isolement","he":"ללא תקשורת, מנותק"}
+{"T":"r","L":"comuta","C":["vnt","util"],"d":"(un macina o aparato eletrical) comensa funsiona","en":"switch on, turn on, come on, connect, go live (machine); enable (software feature)","fr":"allumer, mettre en route, mettre en fonction, connecter; activer","he":"להידלק, להתחבר (לחשמל)"}
+{"L":"comuta","C":["vt"],"en":"switch on, turn on, come on, connect, go live (machine); enable (software feature)","fr":"allumer, mettre en route, mettre en fonction, connecter; activer","he":"להדליק, להפעיל, לחבר (לחשמל)"}
+{"L":"comuta","C":["n"],"da":"forbindelse, led","de":"Verbindung, Verknüpfung","en":"connection, joint, junction","es":"conexión, junta, unión, enlace","fr":"(un) raccordement, (une) mise en route, (une) mise en fonction, (un) allumage (de machine), (une) connexion, (une) mise sous tension, (une) activation","he":"הדלקה, הפעלה, חיבור"}
+{"L":"boton de comuta","C":["n"],"en":"power button, power switch, on/off switch","fr":"(un) bouton de marche-arrêt, (un) bouton de mise en route, (un) bouton de mise en fonction, (un) bouton de mise en marche, (un) commutateur, (un) interrupteur, (un) bouton d'arrêt","he":"כפתור הפעלה"}
+{"L":"comutada","C":["a"],"en":"on, switched on, turned on, live; connected, online; enabled","fr":"activé, en fonction, en route, en marche, mis en fonction, mis en route, mis en marche, connecté, en ligne","he":"דולק, מופעל, מחובר"}
+{"L":"comutador","C":["n"],"en":"switch (electric), toggle","fr":"(un) commutateur, (un) interrupteur, (un) bouton","he":"מתג, מפסק"}
+{"L":"descomuta","C":["vnt"],"en":"switch off, turn off, shut off, shut down, disconnect (machine); disable (software feature)","fr":"déconnecter, arrêter, mettre à l'arrêt, débrancher, désactiver","he":"להיכבות, להיפסק, להיעצר, להתנתק, להינתק"}
+{"L":"descomuta","C":["vt"],"en":"switch off, turn off, shut off, shut down, disconnect (machine); disable (software feature)","fr":"fermer, déconnecter, arrêter, mettre à l'arrêt, débrancher, désactiver","he":"לכבות, להפסיק, לעצור, לנתק, להשבית (מכונה)"}
+{"L":"descomuta","C":["n"],"en":"shutoff, disconnection","fr":"(une) fermeture, (une) mise à l'arrêt, (une) interruption, (une) déconnexion, (une) désactivation","he":"כיבוי, הפסקה, עצירה, ניתוק, השבתה (של מכונה)"}
+{"L":"descomutada","C":["a"],"en":"off, switched off, turned off; disconnected, offline; disabled","fr":"fermé, arrêté, mis à l'arrêt, interrompu, déconnecté, désactivé","he":"כבוי, מכובה, מופסק, מנותק, מושבת"}
+{"L":"recomuta","C":["vt"],"en":"reconnect, switch back on","fr":"redémarrer, remettre en route, reconnecter","he":"לחבר שוב, להדליק שוב"}
 {"T":"r","L":"con","C":["prep"],"d":"acompaniada par (un otra person o cosa)","g":"preposadas#con","u":"me jua tenis con mea sore; el nada con la flue","da":"med, sammen med","de":"mit","en":"with, in the company of, going along with","eo":"kun","es":"con, en compañia de, acompañado por","fr":"avec","he":"עם"}
 {"T":"s","d":"posesente o incluinte (un cosa o cualia)","u":"cafe con lete; un can con oreas longa; tu roji con embarasa","en":"with (having or including)","eo":"kun","es":"con, por","fr":"à, avec","he":"עם"}
 {"T":"s","d":"fada par usa (un ojeto, tipal un strumento)","u":"me scrive con un lapis; compra bonbones con monetas","da":"per, via, ved hjælp af","de":"mit, mittels","en":"with, by means of, using (a tool)","eo":"per","es":"por medio de, por, con, usando","fr":"avec","he":"עם, באמצעות"}
@@ -17057,7 +17057,7 @@
 {"T":"r","L":"muon","C":["n","fis"],"d":"un particula suatomal e nonstable en la mesma clase como un eletron, ma con masa plu grande a sirca 200 veses","en":"muon (particle)"}
 {"T":"r","L":"mur","C":["n","arci"],"d":"un lado vertical de un construida o sala; un strutur vertical e continuante de brices o petras cual ensirca o divide un area de tera; alga cosa usada como un parador per proteje o restrinje","i":"#","da":"væg","de":"Wand, Mauer","en":"wall; bulkhead (ship)","es":"pared, muro, tapia","fr":"mur"}
 {"L":"mur contra esplodes","C":["n"],"en":"blast wall"}
-{"L":"mural","C":["a"],"en":"mural; pertaining to a wall"}
+{"L":"mural","C":["a"],"en":"mural (pertaining to a wall)"}
 {"L":"mural","C":["n"],"en":"mural"}
 {"L":"muraliste","C":["n"],"en":"muralist (artist)"}
 {"L":"mureta","C":["n"],"d":"un mur interna e lejera; un surfas vertical sur cual on afisa paperes o scrive","en":"partition; board"}
@@ -27094,7 +27094,7 @@
 {"L":"transitivia","C":["n"],"en":"transitivity","fr":"transitivité"}
 {"T":"r","L":"transjenero","C":["a","uma"],"d":"(un person) de ci sua autoidentia no conforma sin ambiguia a la consetas tradisional de jenero mas o fema","en":"transgender"}
 {"L":"transjenero","C":["n"],"en":"transgender person"}
-{"T":"r","L":"transletera","C":["vt"],"d":"scrive o primi (un parola o testo) par usa la leteras cual coresponde la plu prosima leteras de un otra alfabeta o sistem de scrive","en":"transliterate"}
+{"T":"r","L":"transletera","C":["vt"],"d":"scrive o primi (un parola o testo) par usa la leteras cual coresponde la plu prosima a leteras de un otra alfabeta o sistem de scrive","en":"transliterate"}
 {"L":"transletera","C":["n"],"en":"transliteration"}
 {"T":"r","L":"transmasin","C":["a"],"d":"(un om) transjenero; (un person nonbinaria) ci ia nase fema e regarda se como xef masin","en":"transmasculine"}
 {"T":"r","L":"transmete","C":["vt","fis"],"d":"envia (un sinial eletrical o un program de radio o televisa); conduta (enerjia)","en":"transmit (signal, power, etc.), broadcast","fr":"transmettre"}
