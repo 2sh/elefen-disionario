@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '18 desembre 2019';
+﻿var dataDeDatos = '19 desembre 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"a (lettre de l'alphabet), la (note de la gamme)",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",da:"i, ved, på, hos, nær",de:"bei, mit, um",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",gl:"en (no mesmo lugar que)",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
