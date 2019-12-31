@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '28 desembre 2019';
+﻿var dataDeDatos = '31 desembre 2019';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"a (lettre de l'alphabet), la (note de la gamme)",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",da:"i, ved, på, hos, nær",de:"bei, mit, um",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",gl:"en (no mesmo lugar que)",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -2904,6 +2904,7 @@ var disionario = [
 {L:"barcon spasial",C:["n","vec"],i:"#",en:"spaceship, spacecraft, starship",fr:"vaisseau spatial",he:"חללית, ספינת חלל"},
 {L:"barconeria",C:["n"],en:"boatyard, shipyard",fr:"(des) chantiers navals",he:"מספנה, מבדוק"},
 {L:"barconi",C:["vt"],en:"ship, send by ship",fr:"embarquer, transporter par bateau",he:"לשלוח באונייה, לשלוח דרך הים"},
+{L:"barcor",C:["n"],en:"boatman, boat worker"},
 {L:"estra barco",C:["av"],en:"overboard",fr:"par-dessus bord",he:"מחוץ לספינה, בתוך המים"},
 {L:"motobarco",C:["n","vec"],d:"un barco motorida, tipal usada per recrea",i:"#",en:"motorboat, powerboat, speedboat",fr:"bateau à moteur, hors-bord",he:"סירת מנוע"},
 {L:"sur barco",C:["av"],en:"on board",fr:"à bord",he:"על הסיפון"},

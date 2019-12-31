@@ -2902,6 +2902,7 @@
 {"L":"barcon spasial","C":["n","vec"],"i":"#","en":"spaceship, spacecraft, starship","fr":"vaisseau spatial","he":"חללית, ספינת חלל"}
 {"L":"barconeria","C":["n"],"en":"boatyard, shipyard","fr":"(des) chantiers navals","he":"מספנה, מבדוק"}
 {"L":"barconi","C":["vt"],"en":"ship, send by ship","fr":"embarquer, transporter par bateau","he":"לשלוח באונייה, לשלוח דרך הים"}
+{"L":"barcor","C":["n"],"en":"boatman, boat worker"}
 {"L":"estra barco","C":["av"],"en":"overboard","fr":"par-dessus bord","he":"מחוץ לספינה, בתוך המים"}
 {"L":"motobarco","C":["n","vec"],"d":"un barco motorida, tipal usada per recrea","i":"#","en":"motorboat, powerboat, speedboat","fr":"bateau à moteur, hors-bord","he":"סירת מנוע"}
 {"L":"sur barco","C":["av"],"en":"on board","fr":"à bord","he":"על הסיפון"}
