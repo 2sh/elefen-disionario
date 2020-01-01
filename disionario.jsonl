@@ -6225,7 +6225,7 @@
 {"L":"contenador secinte","C":["n"],"en":"desiccator","fr":"(un) dessiccateur","he":"דסיקטור, מתקן ייבוש"}
 {"L":"contenida","C":["n"],"en":"content","fr":"(un) contenu","he":"תוכן"}
 {"L":"contenidas","C":["n","pl"],"en":"contents","fr":"(des) contenus","he":"תכולה"}
-{"L":"conteninte","C":["a"],"en":"containing; continent (medical)","fr":"contenant, continent","he":"מכיל; (רפואה) שולט בסוגרים"}
+{"L":"conteninte","C":["a"],"en":"containing; continent (medical)","fr":"contenant; continent","he":"מכיל; (רפואה) שולט בסוגרים"}
 {"L":"nonconteninte","C":["a"],"en":"incontinent","fr":"incontinent","he":"(רפואה) לא שולט בסוגרים"}
 {"L":"noncontenintia","C":["n"],"en":"incontinence","fr":"(une) incontinence","he":"אי שליטה בסוגרים"}
 {"T":"r","L":"contente","C":["a"],"d":"en un state de pas e felisia; sasiada par sua nivel de fortuna o ateni, e no desirante plu","en":"glad, content, satisfied","fr":"content, satisfait, ravi, réjoui, enchanté","he":"מרוצה, שבע רצון, מסופק"}
@@ -6346,19 +6346,19 @@
 {"L":"su controla de","C":["prep"],"en":"under the control of, subject to","fr":"sous le pouvoir de, sous la domination de, sujet à","he":"תחת השליטה של"}
 {"T":"r","L":"controlamanica","C":["a","uma"],"d":"un person ci senti un nesesa osesente de controla se e otras en cada situa","en":"control freak","fr":"dominateur compulsif","he":"חולה שליטה"}
 {"L":"controlamanica","C":["n"],"en":"control freak","fr":"(un) dominateur compulsif","he":"חולה שליטה"}
-{"T":"r","L":"controversa","C":["a"],"d":"causante, o probable causante, nonacorda publica o disputas ardente","en":"controversial, contentious","he":"שנוי במחלוקת"}
-{"L":"controversa","C":["n"],"en":"controversy (something controversial)","he":"(עניין, נושא ב) מחלוקת"}
-{"L":"controversia","C":["n"],"en":"controversy (quality)","he":"מחלוקת"}
-{"T":"r","L":"contusa","C":["vnt","med"],"d":"un feri cual malcolori un area de pel, causada par un colpa","i":"#","en":"bruise","he":"להיחבל"}
-{"L":"contusa","C":["n"],"en":"bruise, contusion","he":"חבורה, חבלה, מכה"}
-{"L":"contusa serebral","C":["n"],"en":"concussion","he":"זעזוע מוח"}
-{"T":"r","L":"conveni","C":["vnt"],"d":"es asetable per un person, situa o intende spesifada; (un aparato) funsiona armoniosa con un otra","en":"suit, be suitable, be appropriate; be compatible","he":"להתאים, להלום"}
-{"L":"conveni","C":["n"],"en":"suitability, appropriateness; compatibility","he":"התאמה, תאימות, הלימה"}
-{"L":"conveninte","C":["a"],"da":"passende","de":"geeignet","en":"suitable, suited, proper, fit, appropriate, commensurate, expedient; compatible","es":"conveniente, adecuado, apropiado, a la medida, debido, a propósito, justo, correcto","he":"מתאים, תואם, הולם; ראוי, נאות, יאה"}
-{"L":"conveninte","C":["av"],"en":"suitably, appropriately, duly","he":"בצורה הולמת, בצורה נאותה, כראוי, כהלכה, כשורה, כיאה"}
-{"L":"conveninte per primi","C":["a"],"en":"suitable for printing, printer-friendly","he":"גרסה להדפסה"}
-{"L":"nonconveni","C":["n"],"en":"unsuitability; incompatibility","he":"אי-התאמה, אי-תאימות"}
-{"L":"nonconveninte","C":["a"],"en":"unsuitable, unsuited, incongruous, incompatible; inappropriate, tasteless, unbecoming, unbefitting, unfit, unseemly","he":"לא מתאים, לא תואם; לא הולם, לא ראוי, לא יאה, חסר טעם"}
+{"T":"r","L":"controversa","C":["a"],"d":"causante, o probable causante, nonacorda publica o disputas ardente","en":"controversial, contentious","fr":"controversé, polémique, litigieux, contesté, discuté","he":"שנוי במחלוקת"}
+{"L":"controversa","C":["n"],"en":"controversy (something controversial)","fr":"(un) objet de controverse, (une) controverse, (une) polémique, (un) litige","he":"(עניין, נושא ב) מחלוקת"}
+{"L":"controversia","C":["n"],"en":"controversy (quality)","fr":"(une) controverse, (une) polémique","he":"מחלוקת"}
+{"T":"r","L":"contusa","C":["vnt","med"],"d":"un feri cual malcolori un area de pel, causada par un colpa","i":"#","en":"bruise","fr":"faire un bleu, contusionner","he":"להיחבל"}
+{"L":"contusa","C":["n"],"en":"bruise, contusion","fr":"(un) bleu, (une) contusion","he":"חבורה, חבלה, מכה"}
+{"L":"contusa serebral","C":["n"],"en":"concussion","fr":"(une) commotion cérébrale","he":"זעזוע מוח"}
+{"T":"r","L":"conveni","C":["vnt"],"d":"es asetable per un person, situa o intende spesifada; (un aparato) funsiona armoniosa con un otra","en":"suit, be suitable, be appropriate; be compatible","fr":"convenir, seoir, satisfaire, faire l'affaire, être approprié, s'accorder","he":"להתאים, להלום"}
+{"L":"conveni","C":["n"],"en":"suitability, appropriateness; compatibility","fr":"convenance, pertinence, adéquation, accord, compatibilité","he":"התאמה, תאימות, הלימה"}
+{"L":"conveninte","C":["a"],"da":"passende","de":"geeignet","en":"suitable, suited, proper, fit, appropriate, commensurate, expedient; compatible","es":"conveniente, adecuado, apropiado, a la medida, debido, a propósito, justo, correcto","fr":"convenable, approprié, propre, adéquat, ad hoc, pertinent, accordé, compatible","he":"מתאים, תואם, הולם; ראוי, נאות, יאה"}
+{"L":"conveninte","C":["av"],"en":"suitably, appropriately, duly","fr":"convenablement, correctement, opportunément, pertinemment","he":"בצורה הולמת, בצורה נאותה, כראוי, כהלכה, כשורה, כיאה"}
+{"L":"conveninte per primi","C":["a"],"en":"suitable for printing, printer-friendly","fr":"bon à tirer","he":"גרסה להדפסה"}
+{"L":"nonconveni","C":["n"],"en":"unsuitability; incompatibility","fr":"incompatibilité, désaccord, disconvenance","he":"אי-התאמה, אי-תאימות"}
+{"L":"nonconveninte","C":["a"],"en":"unsuitable, unsuited, incongruous, incompatible; inappropriate, tasteless, unbecoming, unbefitting, unfit, unseemly","fr":"inapproprié, inadéquat, inadapté, incompatible,","he":"לא מתאים, לא תואם; לא הולם, לא ראוי, לא יאה, חסר טעם"}
 {"T":"r","L":"converje","C":["vnt"],"d":"(persones o cosas) veni de dirijes diferente e reuni ultima","en":"converge","he":"להתכנס"}
 {"L":"converje","C":["n"],"en":"converging, convergence","he":"התכנסות"}
 {"L":"converjente","C":["a"],"en":"converging, convergent","he":"מתכנס"}
@@ -7204,6 +7204,7 @@
 {"L":"cuantial","C":["a"],"en":"quantitative","he":"כמותי"}
 {"L":"cuanti","C":["vt"],"en":"quantify","he":"לכמת"}
 {"L":"cuanti","C":["n"],"en":"quantification","he":"כימות"}
+{"L":"cuantiosa","C":["a"],"en":"numerous, very many, in large quantities"}
 {"T":"r","L":"cuanto","C":["d"],"d":"demandante sur la cuantia de alga cosa","en":"(interrogative) how many, how much","he":"כמה"}
 {"L":"cuanto","C":["av"],"en":"(interrogative) how many, how much","he":"כמה"}
 {"L":"cuanto","C":["sj"],"d":"(introduinte un suproposa averbin) en la cuantia cual","u":"el ia aida cuanto el ia pote","en":"as many as, as much as, inasmuch as, as far as, so far as, to the extent that","he":"ככל ש, עד כמה ש"}
@@ -20548,6 +20549,7 @@
 {"L":"poleni","C":["n"],"en":"pollination"}
 {"T":"r","L":"polenta","C":["n","cos"],"d":"un plato de farina de mais bolida","en":"polenta (food)"}
 {"T":"r","L":"polex","C":["n","anat"],"d":"un nom tecnical per la diton","en":"pollex, thumb (technical)"}
+{"T":"r","L":"poli","C":["n","ist","gov"],"d":"(en Elas antica) un site-stato","en":"polis"}
 {"T":"r","L":"poli-","C":["pf","tecn"],"d":"multe","en":"poly- (many)"}
 {"T":"r","L":"poliamia","C":["n","uma"],"d":"la fa de multe relatas sesal con acorda de tota persones partisipante","en":"polyamory"}
 {"L":"poliamial","C":["a"],"en":"polyamorous"}
