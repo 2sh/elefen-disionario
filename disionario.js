@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '31 desembre 2019';
+﻿var dataDeDatos = '1 janero 2020';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"a (lettre de l'alphabet), la (note de la gamme)",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",da:"i, ved, på, hos, nær",de:"bei, mit, um",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",gl:"en (no mesmo lugar que)",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -21337,7 +21337,7 @@ var disionario = [
 {L:"om promiscua",C:["n"],en:"playboy, lothario, gigolo"},
 {L:"promiscuia",C:["n"],en:"promiscuity, debauchery"},
 {T:"r",L:"promontania",C:["n","tera"],d:"un tera alta e streta cual estende en un corpo grande de acua",en:"promontory, headland"},
-{T:"r",L:"promove",C:["vt","gov"],d:"suporta o coraji (un caso, move o emprende); atenta influe politicistes sur (un caso)",en:"promote, support, espouse, advocate, encourage, lobby for, promulgate, purvey, proselytize|is"},
+{T:"r",L:"promove",C:["vt","gov"],d:"suporta o coraji (un caso, move o emprende); atenta influe politicistes sur (un caso)",en:"promote, support, espouse, advocate, encourage, lobby for, promulgate, purvey, proselytize|is, market"},
 {L:"promove",C:["n"],en:"promotion, advocacy, hype; movement (community with a cause or direction)"},
 {L:"promovor",C:["n"],en:"promoter, lobbyist"},
 {L:"promovor de odia",C:["n"],en:"hatemonger"},
@@ -21682,7 +21682,7 @@ var disionario = [
 {L:"pupi",C:["vnt"],en:"pupate"},
 {L:"pupi",C:["n"],en:"pupation"},
 {T:"r",L:"pupil",C:["n","anat"],d:"la abri sirculo e negra en la sentro de la iris de la oio, cual varia sua grandia per regula la cuantia de lus ateninte la retina",en:"pupil (eye)"},
-{T:"r",L:"pur",C:["a","cim","uma"],d:"no miscada con un otra materia; sin contamina; no plu ca spesifada; asteninte de ativia sesal",da:"ren (ægte)",de:"rein",en:"pure, mere; chaste, unadulterated, uncontaminated",eo:"pura",es:"puro, no adulterado, no contaminado, prístino",fr:"pur",it:"puro",nl:"zuiver",pt:"puro, perfeito, sem mácula, imaculado"},
+{T:"r",L:"pur",C:["a","cim","uma"],d:"no miscada con un otra materia; sin contamina; no plu ca spesifada; asteninte de ativia sesal",da:"ren (ægte)",de:"rein",en:"pure, mere; chaste, unadulterated, uncontaminated, pristine",eo:"pura",es:"puro, no adulterado, no contaminado, prístino",fr:"pur",it:"puro",nl:"zuiver",pt:"puro, perfeito, sem mácula, imaculado"},
 {L:"pur",C:["av"],en:"purely, merely"},
 {L:"nonpur",C:["a"],en:"impure, unclean"},
 {L:"nonpuria",C:["n"],en:"impurity"},
