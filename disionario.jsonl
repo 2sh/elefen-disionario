@@ -8746,99 +8746,99 @@
 {"T":"r","L":"dubnio","C":["n","cim"],"d":"la elemento cimical con numero atomal 105","s":"Db","en":"dubnium (element)","he":"דובניום (יסוד)"}
 {"T":"r","L":"ducat","C":["n","mone"],"d":"un moneta de oro, istorial comun en Europa","en":"ducat (coin)","he":"דוקט (מטבע)"}
 {"T":"r","L":"dudesim","C":["n","mone"],"d":"un moneta egal a sinco sentimes","en":"five-pence piece, five-cent piece, nickel (coin)","he":"ניקל (מטבע)"}
-{"T":"r","L":"duel","C":["n","uma","ist"],"d":"(istorial) un compete con armas capas de mata, organizada entre du persones per fini un disputa de onora","en":"duel"}
-{"L":"duelin","C":["a"],"en":"duel-like, head-to-head"}
-{"T":"r","L":"dufel","C":["n","vest"],"d":"un stofa de lana ru e spesa","en":"duffel, duffle"}
-{"T":"r","L":"dugong","C":["n","mam"],"d":"un mamal de mar trovada a la costas de la Mar Indian, de Africa este asta Australia norde","i":"#","t":"Dugong dugon","en":"dugong (animal)"}
-{"T":"r","L":"dulse","C":["a","cos","cim"],"d":"con sabor plasente, como zucar o miel; no salosa, asida o amarga; (un person) de bon natur; (un bebe, animal peti o simil) amable, bela, atraosa","da":"sød","de":"süss","en":"sweet; nice, gentle, dulset; cute","es":"dulce","fr":"doux (sucré)"}
-{"L":"dulse per la oios","C":["a"],"en":"nice to look at, pleasing on the eye"}
-{"L":"dulse per la oios","C":["n"],"en":"(colloquial) eye candy"}
-{"L":"dulsi","C":["vnt"],"en":"sweeten"}
-{"L":"dulsi","C":["vt"],"en":"sweeten"}
-{"L":"dulsia","C":["n"],"en":"sweetness, gentleness, cuteness"}
-{"L":"dulsinte","C":["n"],"en":"sweetener"}
-{"L":"nondulsida","C":["a"],"en":"unsweetened"}
-{"L":"semidulse","C":["a"],"en":"semisweet"}
-{"T":"r","L":"dulsimer","C":["n","mus"],"d":"un strumento de cordetas, con corpo longa con trastes, tipal juada par toca o con plectro","i":"#","en":"dulcimer"}
-{"L":"dulsimer martelida","C":["n","mus"],"d":"un strumento de cordetas simil a un sitra, ma juada con marteletas","i":"#","en":"hammered dulcimer"}
-{"T":"r","L":"duna","C":["n","tera"],"d":"un colina o cresta de arena, formida par la venta, tipal a la costa de mar o en un deserto","i":"#","en":"dune"}
-{"L":"duna de neva","C":["n"],"en":"snowdrift"}
-{"T":"r","L":"duodeno","C":["n","anat"],"d":"la parte prima de la intestin magra, direta pos la stomaco","en":"duodenum (anatomy)"}
-{"T":"r","L":"duopolio","C":["n","mone"],"d":"un situa en cual du furnores domina la mercato de un ben o servi","en":"duopoly"}
-{"T":"r","L":"dur","C":["a"],"d":"no mol; solida, firma e resistente presa; no fasil per rompe, curvi o perfora; (un ambiente) difisil per abita; difisil per fa o solve","da":"hård, fast","de":"hart, fest","en":"hard, firm, tough, resistant to pressure; harsh, hostile (environment); difficult","es":"duro, firme, resistente a la presión","fr":"dur"}
-{"L":"duri","C":["vnt"],"en":"harden, toughen, hard-boil"}
-{"L":"duri","C":["vt"],"en":"harden, toughen, hard-boil"}
-{"T":"r","L":"dura","C":["vnt"],"d":"continua esiste tra avenis o situas difisil","en":"endure, continue to exist, last, hold out, eke out"}
-{"L":"dura","C":["n"],"da":"varighed, udholdenhed","de":"Dauer, Zeit","en":"endurance, stamina, staying power, durability","es":"duración","fr":"durée"}
-{"L":"dura plu longa ca","C":["v"],"en":"outlast"}
-{"L":"dura tra","C":["v"],"en":"last for, endure for (a specified time)"}
-{"L":"durante","C":["a"],"n":"","da":"robust, holdbar, stærk","de":"dauerhaft","en":"durable, resilient, robust, sturdy, hardy, strong, tough, lasting, long-lasting","es":"durable, resistente, robusto, fuerte","fr":"durable, solide, robuste"}
-{"T":"r","L":"dura-","C":["pf","tecn"],"d":"dur, firma","en":"dura- (hard)"}
-{"T":"r","L":"duramadre","C":["n","anat"],"d":"la membrana dur esterna cual envelopa la serebro e la medula spinal","en":"dura mater (anatomy)"}
-{"T":"r","L":"durzi","C":["a","rel"],"d":"pertinente a la seta de islam trovada en Lubnan e Suria, o a sua membros","en":"Druze (Islam)"}
-{"L":"durzi","C":["n"],"en":"Druze (Islam)"}
-{"T":"r","L":"duta","C":["vt","fil"],"d":"senti nonserta o nonconvinseda sur","da":"tvivle","de":"zweifeln","en":"doubt","es":"dudar","fr":"douter"}
-{"L":"duta","C":["n"],"de":"Zweifeln","en":"doubt, qualm, reservation"}
-{"L":"autoduta","C":["n"],"en":"self-doubt"}
-{"L":"dutable","C":["a"],"en":"doubtable, dubitable, questionable, open to doubt"}
-{"L":"dutada","C":["a"],"en":"doubted, dubious, doubtful"}
-{"L":"dutante","C":["a"],"en":"skeptical|sceptical, doubtful"}
-{"L":"dutas","C":["n","pl"],"en":"doubts, scruples, reservations"}
-{"L":"dutosa","C":["a"],"en":"doubtful, doubting"}
-{"L":"nondutable","C":["a"],"en":"undoubtable, indubitable, unequivocal, unquestionable"}
-{"L":"nondutada","C":["a"],"en":"undoubted, unqualified"}
-{"L":"sin duta","C":["av"],"en":"doubtless, undoubted; undoubtedly"}
-{"L":"sin duta tu era","C":["esp"],"en":"you must be mistaken","ru":"Должно быть ты ошибаешься"}
-{"T":"r","L":"duto","C":["n","util"],"d":"un tubo o canal per gida la move de licuida, aira, cordones, etc; (en la corpo) un tubo o canal per la move de limfa o secretes de glandes; (en plantas) un tubo o canal per la move de acua, sava o aira","i":"#","en":"duct, shaft (tunnel); tract, vessel"}
-{"L":"duto de caldi","C":["n","util"],"en":"heating duct, flue"}
-{"L":"duto de fuma","C":["n","util"],"en":"flue"}
-{"L":"duto sangual","C":["n","anat"],"en":"blood vessel","es":"vaso sanguíneo"}
-{"T":"r","L":"dux","C":["n","util"],"d":"un aparato cual jeta acua per lava; un saleta en cual un person pote sta su esta per lava se","i":"#","da":"bruser, sprinkler","de":"Schauer, Dusche","en":"shower, sprinkler; shower stall, shower cubicle","es":"ducha, regadera, rocio, llovizna, lluvia, aguacero, chubasco","fr":"douche"}
-{"L":"dux vajinal","C":["n"],"en":"vaginal douche"}
-{"L":"duxi","C":["vt"],"en":"shower, sprinkle; water (flowers)"}
-{"L":"duxi","C":["n"],"en":"shower (occurrence)"}
-{"L":"duxi se","C":["v"],"en":"take a shower"}
-{"T":"r","L":"Duxanbe","C":["n","jeo"],"d":"la site capital de Tadjicistan","en":"Dushanbe (city)","es":"Dusambé (ciudad)","fr":"Douchanbé"}
-{"T":"r","L":"duxe","C":["n","gov"],"d":"un om ci teni la titulo eritada la plu alta en la aristocratia de Britan e alga otra renas; la renor mas de un stato peti autonom","en":"duke","es":"duque","fr":"duc"}
-{"L":"duxal","C":["a"],"en":"ducal","es":"ducal","fr":"ducal"}
-{"L":"duxesa","C":["n"],"en":"duchess","es":"duquesa","fr":"duchesse"}
-{"L":"duxia","C":["n"],"en":"duchy","es":"ducado","fr":"duché"}
-{"T":"r","L":"duxierba","C":["n","vn"],"d":"un aparato de jeta, usada per acui jardines","en":"garden sprinkler"}
-{"T":"r","L":"dvd","C":["c","mus","info"],"d":"disco video dijital","en":"DVD"}
-{"T":"r","L":"e","C":["sim"],"d":"la letera sinco de la alfabeta roman, e sua nom; la nota tre de la scala diatonica de C major","p":"e","en":"e","es":"e"}
-{"T":"r","L":"e","C":["cj"],"d":"ance, en ajunta (juntante du espresas o frases cual es membros egal de un lista o grupo)","da":"og, plus","de":"und","en":"and","es":"y, e","fr":"et"}
-{"L":"e ... e","C":["esp"],"u":"e esta e acel","en":"both ... and"}
-{"L":"e/o","C":["cj"],"en":"and/or","es":"y/o"}
-{"T":"r","L":"e-","C":["pf"],"en":"e- (electronic)","es":"e- (electrónico)"}
-{"T":"r","L":"ebano","C":["n","pla"],"d":"un lenio negra o brun oscur; la arbor tropical cual produi esta","i":"#","t":"Ebenaceae","en":"ebony","es":"ébano","fr":"ébène"}
-{"T":"r","L":"ebefrenia","C":["n","uma","med"],"d":"un varia cronica de scizofrenia, marcada par rie e condui enfantin","en":"hebephrenia (medical)","es":"hebefrenia, esquizofrenia desorganizada"}
-{"L":"ebefrenica","C":["a"],"en":"hebephrenic","es":"hebefrénica"}
-{"T":"r","L":"ebonita","C":["n","tera"],"d":"cauxo vulcanida, cual deveni dur e negra","en":"ebonite (rubber)","es":"ebonita (caucho)"}
-{"T":"r","L":"ec","C":["c"],"d":"de la eda comun","en":"CE, AD, anno domini","es":"EC, d.C.","fr":"après JC"}
-{"T":"r","L":"ecdisozon","C":["n"],"d":"un clado o suprafilo de animales cual inclui artropodos, nematodos e otras cual perde sua esosceleto","t":"Ecdysozoa","en":"ecdysozoon (pl. ecdysozoa) (organism)","es":"ecdisozoo (pl. ecdisozoos) (organismo)"}
-{"T":"r","L":"ecg","C":["c","util","med"],"d":"eletrocardiograf","en":"ECG, EKG","es":"ECG, EKG"}
-{"T":"r","L":"ecidna","C":["n","mam"],"d":"un mamal spinosa e insetivor de Australia e Gine Nova, con beco e garas longa, cual produi ovos e come formicas","i":"#","t":"Tachyglossidae","en":"echidna, spiny anteater","es":"equidna, taquiglósido"}
-{"T":"r","L":"ecimose","C":["n","med"],"d":"un malcolori causada par la cumula de sangue su la pel, tipal de un contusa","en":"ecchymosis (medical)","es":"equimosis (medicina)"}
-{"T":"r","L":"ecinodermato","C":["n"],"d":"un filo de nonvertebratos incluinte stelas-de-mar, erisos-de-mar e concombres-de-mar","t":"Echinodermata","en":"echinoderm (organism)"}
-{"T":"r","L":"ecipo","C":["n","spo"],"d":"un grupo de persones ci labora con lunlotra; un grupo de juores ci formi un lado en un jua o sporte; un grupo peti de soldatos con un taxe comun","da":"team, hold, gruppe","de":"Mannschaft, Team","en":"crew, team, squad, cadre","eo":"ekipo","es":"equipo, partido, grupo, tripulación, cuadrilla, escuadrón","fr":"équipe","it":"squadra","nl":"ploeg, groep, team","pt":"equipe, time, esquadrão"}
-{"L":"ecipo prima","C":["n"],"en":"first team, varsity"}
-{"L":"ecipi","C":["vt"],"en":"crew, staff"}
-{"L":"ecipor","C":["n"],"en":"crew member, team member"}
-{"T":"r","L":"eclampsia","C":["n","med"],"d":"un maladia en cual convulsas aveni en un fem ensinta ci sufri de presa sangual alta, comun segueda par coma, e cual menasa la sania de la madre e la bebe","en":"eclampsia (medical)"}
-{"L":"preeclampsia","C":["n","med"],"en":"pre-eclampsia (medical)"}
-{"T":"r","L":"ecler","C":["n","cos"],"d":"un pasta dulse, peti e mol, plenida con crema","i":"#","en":"éclair (cake)"}
-{"T":"r","L":"ecletica","C":["a","fil"],"d":"derivante ideas o stilo de fontes diversa e vasta; (en filosofia) pertinente a un grupo de filosofistes antica ci ia eleje ideas de fontes diversa en loca de segue un scola","en":"eclectic, catholic","fr":"éclectique"}
-{"L":"ecleticisme","C":["n"],"en":"eclecticism"}
-{"T":"r","L":"eclis","C":["n","ast"],"d":"un oscuri de la lus de un ojeto sielal par la pasa de un otra entre lo e la oservor, o entre lo e sua fonte de lumina","i":"#","da":"formørkelse","de":"Verfinsterung","en":"eclipse","es":"eclipse","fr":"éclipse"}
-{"L":"eclis anelo","C":["n"],"en":"annular eclipse"}
-{"L":"eclisal","C":["a"],"en":"ecliptic"}
-{"L":"eclisal","C":["n"],"en":"ecliptic"}
-{"L":"eclisi","C":["vnt"],"en":"eclipse"}
-{"L":"eclisi","C":["vt"],"en":"eclipse"}
-{"T":"r","L":"eco","C":["n","fis"],"d":"un sona, o serie de sonas, causada par la refleta de ondas de sona de un surfas a la escutor; un refleta simil de un raio de ondas, como de radio o radar","en":"echo","fr":"écho"}
-{"L":"ecosa","C":["a"],"en":"echoic"}
-{"L":"fa un eco","C":["v"],"en":"echo"}
-{"T":"r","L":"eco-","C":["pf","tecn"],"d":"pertinente a ecolojia","en":"eco-"}
+{"T":"r","L":"duel","C":["n","uma","ist"],"d":"(istorial) un compete con armas capas de mata, organizada entre du persones per fini un disputa de onora","en":"duel","he":"דו-קרב"}
+{"L":"duelin","C":["a"],"en":"duel-like, head-to-head","he":"ראש בראש"}
+{"T":"r","L":"dufel","C":["n","vest"],"d":"un stofa de lana ru e spesa","en":"duffel, duffle","he":"דאפל (בד)"}
+{"T":"r","L":"dugong","C":["n","mam"],"d":"un mamal de mar trovada a la costas de la Mar Indian, de Africa este asta Australia norde","i":"#","t":"Dugong dugon","en":"dugong (animal)","he":"תחש המשכן"}
+{"T":"r","L":"dulse","C":["a","cos","cim"],"d":"con sabor plasente, como zucar o miel; no salosa, asida o amarga; (un person) de bon natur; (un bebe, animal peti o simil) amable, bela, atraosa","da":"sød","de":"süss","en":"sweet; nice, gentle, dulset; cute","es":"dulce","fr":"doux (sucré)","he":"מתוק"}
+{"L":"dulse per la oios","C":["a"],"en":"nice to look at, pleasing on the eye","he":"תאווה לעיניים"}
+{"L":"dulse per la oios","C":["n"],"en":"(colloquial) eye candy","he":"תאווה לעיניים"}
+{"L":"dulsi","C":["vnt"],"en":"sweeten","he":"להיעשות מתוק"}
+{"L":"dulsi","C":["vt"],"en":"sweeten","he":"להמתיק"}
+{"L":"dulsia","C":["n"],"en":"sweetness, gentleness, cuteness","he":"מתיקות"}
+{"L":"dulsinte","C":["n"],"en":"sweetener","he":"ממתיק"}
+{"L":"nondulsida","C":["a"],"en":"unsweetened","he":"לא ממותק"}
+{"L":"semidulse","C":["a"],"en":"semisweet","he":"מעט מתוק"}
+{"T":"r","L":"dulsimer","C":["n","mus"],"d":"un strumento de cordetas, con corpo longa con trastes, tipal juada par toca o con plectro","i":"#","en":"dulcimer","he":"דולצימר"}
+{"L":"dulsimer martelida","C":["n","mus"],"d":"un strumento de cordetas simil a un sitra, ma juada con marteletas","i":"#","en":"hammered dulcimer","he":"דולצימר פטישים"}
+{"T":"r","L":"duna","C":["n","tera"],"d":"un colina o cresta de arena, formida par la venta, tipal a la costa de mar o en un deserto","i":"#","en":"dune","he":"דיונה, חולית"}
+{"L":"duna de neva","C":["n"],"en":"snowdrift","he":"תלולית שלג"}
+{"T":"r","L":"duodeno","C":["n","anat"],"d":"la parte prima de la intestin magra, direta pos la stomaco","en":"duodenum (anatomy)","he":"תריסריון"}
+{"T":"r","L":"duopolio","C":["n","mone"],"d":"un situa en cual du furnores domina la mercato de un ben o servi","en":"duopoly","he":"דואופול"}
+{"T":"r","L":"dur","C":["a"],"d":"no mol; solida, firma e resistente presa; no fasil per rompe, curvi o perfora; (un ambiente) difisil per abita; difisil per fa o solve","da":"hård, fast","de":"hart, fest","en":"hard, firm, tough, resistant to pressure; harsh, hostile (environment); difficult","es":"duro, firme, resistente a la presión","fr":"dur","he":"קשה (לא רך), קשיח, עמיד; קשוח, נוקשה"}
+{"L":"duri","C":["vnt"],"en":"harden, toughen, hard-boil","he":"להתקשות (להפוך לקשה)"}
+{"L":"duri","C":["vt"],"en":"harden, toughen, hard-boil","he":"להקשות, להקשיח"}
+{"T":"r","L":"dura","C":["vnt"],"d":"continua esiste tra avenis o situas difisil","en":"endure, continue to exist, last, hold out, eke out","he":"לסבול (מצב קשה), להחזיק מעמד"}
+{"L":"dura","C":["n"],"da":"varighed, udholdenhed","de":"Dauer, Zeit","en":"endurance, stamina, staying power, durability","es":"duración","fr":"durée","he":"סיבולת, כושר עמידה, כושר התמדה, כוח עמידה"}
+{"L":"dura plu longa ca","C":["v"],"en":"outlast","he":"להאריך חיים אחרי"}
+{"L":"dura tra","C":["v"],"en":"last for, endure for (a specified time)","he":"להחזיק מעמד במשך"}
+{"L":"durante","C":["a"],"n":"","da":"robust, holdbar, stærk","de":"dauerhaft","en":"durable, resilient, robust, sturdy, hardy, strong, tough, lasting, long-lasting","es":"durable, resistente, robusto, fuerte","fr":"durable, solide, robuste","he":"חסון, איתן, קשוח, מחזיק מעמד"}
+{"T":"r","L":"dura-","C":["pf","tecn"],"d":"dur, firma","en":"dura- (hard)","he":"(קידומת טכנית) קשה"}
+{"T":"r","L":"duramadre","C":["n","anat"],"d":"la membrana dur esterna cual envelopa la serebro e la medula spinal","en":"dura mater (anatomy)","he":"(אנטומיה) הקרום הקשה, קרום הדורה"}
+{"T":"r","L":"durzi","C":["a","rel"],"d":"pertinente a la seta de islam trovada en Lubnan e Suria, o a sua membros","en":"Druze (Islam)","he":"דרוזי"}
+{"L":"durzi","C":["n"],"en":"Druze (Islam)","he":"דרוזי"}
+{"T":"r","L":"duta","C":["vt","fil"],"d":"senti nonserta o nonconvinseda sur","da":"tvivle","de":"zweifeln","en":"doubt","es":"dudar","fr":"douter","he":"להטיל ספק, להסתייג"}
+{"L":"duta","C":["n"],"de":"Zweifeln","en":"doubt, qualm, reservation","he":"ספק, הסתייגות"}
+{"L":"autoduta","C":["n"],"en":"self-doubt","he":"ספק עצמי"}
+{"L":"dutable","C":["a"],"en":"doubtable, dubitable, questionable, open to doubt","he":"מפוקפק"}
+{"L":"dutada","C":["a"],"en":"doubted, dubious, doubtful","he":"מוטל בספק, מפוקפק"}
+{"L":"dutante","C":["a"],"en":"skeptical|sceptical, doubtful","he":"מטיל ספק"}
+{"L":"dutas","C":["n","pl"],"en":"doubts, scruples, reservations","he":"ספקות, הסתייגויות"}
+{"L":"dutosa","C":["a"],"en":"doubtful, doubting","he":"ספקני, סקפטי"}
+{"L":"nondutable","C":["a"],"en":"undoubtable, indubitable, unequivocal, unquestionable","he":"ודאי, חד-משמעי"}
+{"L":"nondutada","C":["a"],"en":"undoubted, unqualified","he":"שאינו מוטל בספק"}
+{"L":"sin duta","C":["av"],"en":"doubtless, undoubted; undoubtedly","he":"ללא ספק"}
+{"L":"sin duta tu era","C":["esp"],"en":"you must be mistaken","he":"ללא ספק אתה טועה","ru":"Должно быть ты ошибаешься"}
+{"T":"r","L":"duto","C":["n","util"],"d":"un tubo o canal per gida la move de licuida, aira, cordones, etc; (en la corpo) un tubo o canal per la move de limfa o secretes de glandes; (en plantas) un tubo o canal per la move de acua, sava o aira","i":"#","en":"duct, shaft (tunnel); tract, vessel","he":"צינור, תעלה (לנוזלים, אוויר, כבלים)"}
+{"L":"duto de caldi","C":["n","util"],"en":"heating duct, flue","he":"תעלת מיזוג אוויר"}
+{"L":"duto de fuma","C":["n","util"],"en":"flue","he":"ארובה, צינור אוורור"}
+{"L":"duto sangual","C":["n","anat"],"en":"blood vessel","es":"vaso sanguíneo","he":"כלי דם"}
+{"T":"r","L":"dux","C":["n","util"],"d":"un aparato cual jeta acua per lava; un saleta en cual un person pote sta su esta per lava se","i":"#","da":"bruser, sprinkler","de":"Schauer, Dusche","en":"shower, sprinkler; shower stall, shower cubicle","es":"ducha, regadera, rocio, llovizna, lluvia, aguacero, chubasco","fr":"douche","he":"ראש מקלחת, דוש; מזלף; (חדר) מקלחת"}
+{"L":"dux vajinal","C":["n"],"en":"vaginal douche","he":"שטיפה אינטימית"}
+{"L":"duxi","C":["vt"],"en":"shower, sprinkle; water (flowers)","he":"לקלח; להשקות (במזלף)"}
+{"L":"duxi","C":["n"],"en":"shower (occurrence)","he":"מקלחת (אירוע)"}
+{"L":"duxi se","C":["v"],"en":"take a shower","he":"להתקלח"}
+{"T":"r","L":"Duxanbe","C":["n","jeo"],"d":"la site capital de Tadjicistan","en":"Dushanbe (city)","es":"Dusambé (ciudad)","fr":"Douchanbé","he":"דושנבה (עיר)"}
+{"T":"r","L":"duxe","C":["n","gov"],"d":"un om ci teni la titulo eritada la plu alta en la aristocratia de Britan e alga otra renas; la renor mas de un stato peti autonom","en":"duke","es":"duque","fr":"duc","he":"דוכס"}
+{"L":"duxal","C":["a"],"en":"ducal","es":"ducal","fr":"ducal","he":"דוכסי"}
+{"L":"duxesa","C":["n"],"en":"duchess","es":"duquesa","fr":"duchesse","he":"דוכסית"}
+{"L":"duxia","C":["n"],"en":"duchy","es":"ducado","fr":"duché","he":"דוכסות"}
+{"T":"r","L":"duxierba","C":["n","vn"],"d":"un aparato de jeta, usada per acui jardines","en":"garden sprinkler","he":"ממטרה"}
+{"T":"r","L":"dvd","C":["c","mus","info"],"d":"disco video dijital","en":"DVD","he":"די.וי.די"}
+{"T":"r","L":"e","C":["sim"],"d":"la letera sinco de la alfabeta roman, e sua nom; la nota tre de la scala diatonica de C major","p":"e","en":"e","es":"e","he":"האות החמישית באלפבית הלטיני"}
+{"T":"r","L":"e","C":["cj"],"d":"ance, en ajunta (juntante du espresas o frases cual es membros egal de un lista o grupo)","da":"og, plus","de":"und","en":"and","es":"y, e","fr":"et","he":"ו-, וו החיבור"}
+{"L":"e ... e","C":["esp"],"u":"e esta e acel","en":"both ... and","he":"גם... וגם"}
+{"L":"e/o","C":["cj"],"en":"and/or","es":"y/o","he":"ו/או"}
+{"T":"r","L":"e-","C":["pf"],"en":"e- (electronic)","es":"e- (electrónico)","he":"(קידומת) אלקטרוני"}
+{"T":"r","L":"ebano","C":["n","pla"],"d":"un lenio negra o brun oscur; la arbor tropical cual produi esta","i":"#","t":"Ebenaceae","en":"ebony","es":"ébano","fr":"ébène","he":"הובנה (עץ)"}
+{"T":"r","L":"ebefrenia","C":["n","uma","med"],"d":"un varia cronica de scizofrenia, marcada par rie e condui enfantin","en":"hebephrenia (medical)","es":"hebefrenia, esquizofrenia desorganizada","he":"הבפרניה"}
+{"L":"ebefrenica","C":["a"],"en":"hebephrenic","es":"hebefrénica","he":"הבפרני"}
+{"T":"r","L":"ebonita","C":["n","tera"],"d":"cauxo vulcanida, cual deveni dur e negra","en":"ebonite (rubber)","es":"ebonita (caucho)","he":"הבנית"}
+{"T":"r","L":"ec","C":["c"],"d":"de la eda comun","en":"CE, AD, anno domini","es":"EC, d.C.","fr":"après JC","he":"אחרי הספירה"}
+{"T":"r","L":"ecdisozon","C":["n"],"d":"un clado o suprafilo de animales cual inclui artropodos, nematodos e otras cual perde sua esosceleto","t":"Ecdysozoa","en":"ecdysozoon (pl. ecdysozoa) (organism)","es":"ecdisozoo (pl. ecdisozoos) (organismo)","he":"אקדיסוזון (בעל חיים)"}
+{"T":"r","L":"ecg","C":["c","util","med"],"d":"eletrocardiograf","en":"ECG, EKG","es":"ECG, EKG","he":"אק\"ג"}
+{"T":"r","L":"ecidna","C":["n","mam"],"d":"un mamal spinosa e insetivor de Australia e Gine Nova, con beco e garas longa, cual produi ovos e come formicas","i":"#","t":"Tachyglossidae","en":"echidna, spiny anteater","es":"equidna, taquiglósido","he":"קיפודן נמלים"}
+{"T":"r","L":"ecimose","C":["n","med"],"d":"un malcolori causada par la cumula de sangue su la pel, tipal de un contusa","en":"ecchymosis (medical)","es":"equimosis (medicina)","he":"(רפואה) דמם כתמי"}
+{"T":"r","L":"ecinodermato","C":["n"],"d":"un filo de nonvertebratos incluinte stelas-de-mar, erisos-de-mar e concombres-de-mar","t":"Echinodermata","en":"echinoderm (organism)","he":"קווץ עור (בעל חיים)"}
+{"T":"r","L":"ecipo","C":["n","spo"],"d":"un grupo de persones ci labora con lunlotra; un grupo de juores ci formi un lado en un jua o sporte; un grupo peti de soldatos con un taxe comun","da":"team, hold, gruppe","de":"Mannschaft, Team","en":"crew, team, squad, cadre","eo":"ekipo","es":"equipo, partido, grupo, tripulación, cuadrilla, escuadrón","fr":"équipe","he":"צוות, (ספורט) קבוצה, (צבא) כיתה","it":"squadra","nl":"ploeg, groep, team","pt":"equipe, time, esquadrão"}
+{"L":"ecipo prima","C":["n"],"en":"first team, varsity","he":"נבחרת"}
+{"L":"ecipi","C":["vt"],"en":"crew, staff","he":"לאייש, לצוות"}
+{"L":"ecipor","C":["n"],"en":"crew member, team member","he":"חבר צוות"}
+{"T":"r","L":"eclampsia","C":["n","med"],"d":"un maladia en cual convulsas aveni en un fem ensinta ci sufri de presa sangual alta, comun segueda par coma, e cual menasa la sania de la madre e la bebe","en":"eclampsia (medical)","he":"עווית הריון, אקלמפסיה"}
+{"L":"preeclampsia","C":["n","med"],"en":"pre-eclampsia (medical)","he":"רעלת הריון"}
+{"T":"r","L":"ecler","C":["n","cos"],"d":"un pasta dulse, peti e mol, plenida con crema","i":"#","en":"éclair (cake)","he":"פחזנית, אקלר"}
+{"T":"r","L":"ecletica","C":["a","fil"],"d":"derivante ideas o stilo de fontes diversa e vasta; (en filosofia) pertinente a un grupo de filosofistes antica ci ia eleje ideas de fontes diversa en loca de segue un scola","en":"eclectic, catholic","fr":"éclectique","he":"אקלקטי, לקטני"}
+{"L":"ecleticisme","C":["n"],"en":"eclecticism","he":"אקלקטיות, לקטנות"}
+{"T":"r","L":"eclis","C":["n","ast"],"d":"un oscuri de la lus de un ojeto sielal par la pasa de un otra entre lo e la oservor, o entre lo e sua fonte de lumina","i":"#","da":"formørkelse","de":"Verfinsterung","en":"eclipse","es":"eclipse","fr":"éclipse","he":"(אסטרונומיה) ליקוי"}
+{"L":"eclis anelo","C":["n"],"en":"annular eclipse","he":"ליקוי חמה טבעתי"}
+{"L":"eclisal","C":["a"],"en":"ecliptic","he":"(אסטרונומיה) שקשור בליקוי"}
+{"L":"eclisal","C":["n"],"en":"ecliptic","he":"מישור המילקה, אקליפטיק"}
+{"L":"eclisi","C":["vnt"],"en":"eclipse","he":"(אסטרונומיה) להיכנס לליקוי"}
+{"L":"eclisi","C":["vt"],"en":"eclipse","he":"(אסטרונומיה) לגרום לליקוי"}
+{"T":"r","L":"eco","C":["n","fis"],"d":"un sona, o serie de sonas, causada par la refleta de ondas de sona de un surfas a la escutor; un refleta simil de un raio de ondas, como de radio o radar","en":"echo","fr":"écho","he":"הד, הדהוד"}
+{"L":"ecosa","C":["a"],"en":"echoic","he":"מהדהד, הדהודי"}
+{"L":"fa un eco","C":["v"],"en":"echo","he":"להדהד"}
+{"T":"r","L":"eco-","C":["pf","tecn"],"d":"pertinente a ecolojia","en":"eco-","he":"(קידומת טכנית) שקשור באקולוגיה"}
 {"T":"r","L":"ecograf","C":["n","med","util"],"d":"un aparato cual analise sona refletada e produi un representa grafica, tipal usada en medica, per esemplo per oserva la crese de un embrio","en":"echograph, sonograph, ultrasonograph"}
 {"L":"ecografi","C":["vt"],"en":"echograph, sonograph, ultrasonograph"}
 {"L":"ecografia","C":["n"],"en":"echography, sonography, ultrasonography","fr":"échographie"}
