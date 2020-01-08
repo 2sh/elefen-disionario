@@ -374,7 +374,7 @@
 {"T":"r","L":"-aferese","C":["sf","n","med"],"d":"sutrae","o":"de elinica apo (de) + hairein (prende)","en":"-apheresis|-aphaeresis","fr":"aphérèse","he":"סיומת דקדוקית טכנית: להחסיר, לבטל"}
 {"T":"r","L":"afeta","C":["vt"],"d":"fa un efeto a; cambia la state de","en":"affect, have an effect on, influence, impinge on","eo":"tuŝi, influi","fr":"affecter, influer sur, influencer","he":"להשפיע"}
 {"L":"afeta","C":["n"],"en":"influence","fr":"influence","he":"השפעה"}
-{"L":"afetable","C":["a"],"en":"susceptible","fr":"sensible","he":"שניתן להשפעה; רגיש, פגיע"}
+{"L":"afetable","C":["a"],"en":"susceptible, vulnerable","fr":"sensible","he":"שניתן להשפעה; רגיש, פגיע"}
 {"L":"nonafetable","C":["a"],"en":"insusceptible","fr":"insensible","he":"שאינו ניתן להשפעה"}
 {"T":"r","L":"Afganistan","C":["n","jeo"],"c":"Kabul","d":"un pais en Asia sude e Asia sentral","i":"#","da":"Afghanistan","de":"Afghanistan","el":"Αφγανιστάν","en":"Afghanistan","eo":"Afganio, Afganujo","es":"Afganistán","fr":"Afghanistan","he":"אפגניסטן","it":"Afghanistan","ja":"アフガニスタン","nl":"Afghanistan","pl":"Afganistan","pt":"Afeganistão","ru":"Афганистан"}
 {"L":"afgani","C":["a"],"en":"Afghanistani, Afghani, Afghan","eo":"afgana","es":"afgano","fr":"afghan","he":"אפגני"}
@@ -6403,115 +6403,115 @@
 {"L":"coordinada cartesian","C":["n"],"en":"Cartesian coordinate","fr":"(une) coordonnée cartésienne","he":"קואורדינטה קרטזית"}
 {"L":"coordinada x","C":["n"],"en":"x-coordinate","fr":"(une) abscisse","he":"קואורדינטה x"}
 {"L":"coordinada y","C":["n"],"en":"y-coordinate","fr":"(une) ordonnée","he":"קואורדינטה y"}
-{"T":"r","L":"copa","C":["n","cos","util"],"d":"un contenador peti per bevi, tipal sin manicos; un contenador silindre de vitro per usa en un laboreria siensal","i":"#","en":"cup (without handles), goblet, beaker","he":"גביע"}
-{"L":"copa de forno","C":["n"],"en":"ramekin, ramequin","he":"(בישול) רמקין"}
-{"L":"copa de portaseno","C":["n"],"en":"bra cup","he":"גביע חזייה, קאפ"}
-{"L":"Copa","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Crater (constellation)","he":"גביע (קבוצת כוכבים)"}
-{"L":"copi","C":["vt"],"en":"cup, scoop, bail","he":"לדלות"}
-{"L":"copin","C":["a"],"en":"cuplike, cupped, cup-shaped","he":"דמוי-גביע"}
-{"T":"r","L":"copec","C":["n","mone"],"d":"un unia de mone de Rusia e alga otra nasiones de la Uni Soviet pasada, egal a un senti de un rublo","en":"kopek (currency)","he":"קופייקה (מטבע)"}
-{"T":"r","L":"copernisio","C":["n","cim"],"d":"la elemento cimical con numero atomal 112","s":"Cn","en":"copernicium (element)","he":"קופרניקיום (יסוד)"}
-{"T":"r","L":"copia","C":["vt"],"d":"crea o fabrica un varia la mesma como, o simil a, (un orijinal)","en":"copy, replicate, transfer","fr":"copier","he":"להעתיק, לשכפל, לשעתק"}
-{"L":"copia","C":["n"],"da":"kopi","de":"Nachbildung, Duplikat","en":"copy, replica","es":"copia","fr":"copie","he":"העתקה, שכפול, שעתוק; עותק, העתק"}
-{"L":"copia de securia","C":["n"],"en":"backup copy","he":"גיבוי"}
-{"L":"copia e coli","C":["v"],"en":"copy and paste, cut and paste","he":"להעתיק ולהדביק"}
-{"L":"copia e coli","C":["n"],"en":"copy and paste, cut and paste","he":"העתק הדבק"}
-{"L":"copia esata","C":["v"],"en":"replicate","he":"לשכפל, להעתיק במדויק"}
-{"L":"copia esata","C":["n"],"en":"replication","he":"שכפול, העתק מדויק"}
-{"L":"copia per securia","C":["v"],"en":"back up, make a backup copy of","he":"לגבות"}
-{"L":"autocopia","C":["vt"],"en":"self-replicate, autoreplicate","he":"לשכפל את עצמו"}
-{"L":"autocopia","C":["n"],"en":"self-replication","he":"שכפול עצמי"}
-{"L":"autocopiante","C":["a"],"en":"self-replicating, autoreplicating","he":"משתכפל בעצמו"}
-{"L":"copiador","C":["n"],"en":"copier","he":"מכונת צילום"}
-{"L":"copior","C":["n"],"en":"copier, copyist","he":"מעתיק"}
-{"T":"r","L":"copilote","C":["n","vec"],"d":"la pilote du en un avion o otra veculo","en":"copilot","fr":"copilote","he":"טייס משנה"}
-{"T":"r","L":"coprolito","C":["n"],"d":"un fece petrida","en":"coprolith, coprolite","he":"צואה מאובנת"}
-{"T":"r","L":"copta","C":["a","rel","dem"],"d":"pertinente a un seta de cristianisme en Misre, a sua membros, o a sua lingua, la sola desendente de egiptian antica","en":"Coptic (Christianity)","es":"copto","he":"קופטי"}
-{"L":"copta","C":["n"],"en":"Copt","es":"copto","he":"קופטי"}
+{"T":"r","L":"copa","C":["n","cos","util"],"d":"un contenador peti per bevi, tipal sin manicos; un contenador silindre de vitro per usa en un laboreria siensal","i":"#","en":"cup (without handles), goblet, beaker","fr":"(une) coupe, (une) tasse (sans anse), (un) gobelet, (un) bécher","he":"גביע"}
+{"L":"copa de forno","C":["n"],"en":"ramekin, ramequin","fr":"(un) ramequin","he":"(בישול) רמקין"}
+{"L":"copa de portaseno","C":["n"],"en":"bra cup","fr":"(un) bonnet de soutien-gorge","he":"גביע חזייה, קאפ"}
+{"L":"Copa","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Crater (constellation)","fr":"(la) Coupe (constellation)","he":"גביע (קבוצת כוכבים)"}
+{"L":"copi","C":["vt"],"en":"cup, scoop, bail","fr":"tasser, entasser, renflouer","he":"לדלות"}
+{"L":"copin","C":["a"],"en":"cuplike, cupped, cup-shaped","fr":"en forme de coupe","he":"דמוי-גביע"}
+{"T":"r","L":"copec","C":["n","mone"],"d":"un unia de mone de Rusia e alga otra nasiones de la Uni Soviet pasada, egal a un senti de un rublo","en":"kopek (currency)","fr":"(un) kopeck (monnaie)","he":"קופייקה (מטבע)"}
+{"T":"r","L":"copernisio","C":["n","cim"],"d":"la elemento cimical con numero atomal 112","s":"Cn","en":"copernicium (element)","fr":"copernicium (élément)","he":"קופרניקיום (יסוד)"}
+{"T":"r","L":"copia","C":["vt"],"d":"crea o fabrica un varia la mesma como, o simil a, (un orijinal)","en":"copy, replicate, transfer","fr":"copier, reproduire, dupliquer","he":"להעתיק, לשכפל, לשעתק"}
+{"L":"copia","C":["n"],"da":"kopi","de":"Nachbildung, Duplikat","en":"copy, replica","es":"copia","fr":"(une) copie, (une) reproduction, (un) double","he":"העתקה, שכפול, שעתוק; עותק, העתק"}
+{"L":"copia de securia","C":["n"],"en":"backup copy","fr":"(une) copie de sauvegarde","he":"גיבוי"}
+{"L":"copia e coli","C":["v"],"en":"copy and paste, cut and paste","fr":"copier-coller","he":"להעתיק ולהדביק"}
+{"L":"copia e coli","C":["n"],"en":"copy and paste, cut and paste","fr":"(un) copié-collé, (un) copier-coller","he":"העתק הדבק"}
+{"L":"copia esata","C":["v"],"en":"replicate","fr":"faire une copie conforme, reproduire à l'identique, faire un duplicata","he":"לשכפל, להעתיק במדויק"}
+{"L":"copia esata","C":["n"],"en":"replication","fr":"(un) duplicata, (une) copie conforme, (une) copie à l'identique","he":"שכפול, העתק מדויק"}
+{"L":"copia per securia","C":["v"],"en":"back up, make a backup copy of","fr":"faire une copie de sauvegarde, faire une sauvegarde","he":"לגבות"}
+{"L":"autocopia","C":["vt"],"en":"self-replicate, autoreplicate","fr":"autorépliquer","he":"לשכפל את עצמו"}
+{"L":"autocopia","C":["n"],"en":"self-replication","fr":"autoréplication","he":"שכפול עצמי"}
+{"L":"autocopiante","C":["a"],"en":"self-replicating, autoreplicating","fr":"autoréplicatif, autorépliquant","he":"משתכפל בעצמו"}
+{"L":"copiador","C":["n"],"en":"copier","fr":"copieur (intrument)","he":"מכונת צילום"}
+{"L":"copior","C":["n"],"en":"copier, copyist","fr":"(un) copiste, (un) copieur","he":"מעתיק"}
+{"T":"r","L":"copilote","C":["n","vec"],"d":"la pilote du en un avion o otra veculo","en":"copilot","fr":"(un) copilote","he":"טייס משנה"}
+{"T":"r","L":"coprolito","C":["n"],"d":"un fece petrida","en":"coprolith, coprolite","fr":"(un) coprolithe","he":"צואה מאובנת"}
+{"T":"r","L":"copta","C":["a","rel","dem"],"d":"pertinente a un seta de cristianisme en Misre, a sua membros, o a sua lingua, la sola desendente de egiptian antica","en":"Coptic (Christianity)","es":"copto","fr":"copte","he":"קופטי"}
+{"L":"copta","C":["n"],"en":"Copt","es":"copto","fr":"(un) copte","he":"קופטי"}
 {"T":"r","L":"copula","C":["vnt","bio"],"d":"(du persones) contata sesal, incluinte la penetra de la vajina par la penis; (du animales mas e fema) contata sesal en modo simil","da":"parre sig, elske","de":"sich paaren","en":"copulate, mate, have sex","es":"copular, tener sexo","fr":"copuler","he":"להזדווג, להתעלס, לקיים יחסי-מין, לתנות אהבים"}
-{"L":"copula","C":["n"],"en":"copulation, coitus, mating, lovemaking, sex","he":"הזדווגות, התעלסות, קיום יחסי-מין, תינוי אהבים"}
-{"L":"poscopulal","C":["a"],"en":"postcoital","he":"שלאחר הסקס"}
-{"L":"precopula","C":["vnt"],"en":"foreplay","he":"להתמזמז"}
-{"L":"precopula","C":["n"],"en":"foreplay","he":"משחק מקדים, מזמוז"}
-{"L":"precopulal","C":["a"],"en":"precoital","he":"שלפני הסקס"}
-{"T":"r","L":"cor","C":["n","anat"],"d":"la organo cual pompi sangue tra la sistem de sirculo; la parte sentral o la plu interna de alga cosa; la parte esensal de alga cosa; la parte interna de un noza o seme, plu mol e tipal comable; un de la cuatro familias de cartas de jua, representada par un imaje tradisional de un cor","i":"#","s":"♥","da":"hjerte","de":"Herz","en":"heart (including cards), core, kernel; crux","es":"corazón","fr":"cœur","he":"לב; ליבה"}
-{"L":"cor de pais","C":["n"],"en":"heartland","he":"ארץ ליבה"}
-{"L":"corin","C":["a"],"en":"heartlike, heart-shaped, cordate","he":"דמוי לב"}
-{"L":"descorador","C":["n"],"en":"decorer, corer","he":"מוציא ליבה (של פירות או ירקות)"}
-{"L":"descori","C":["vt"],"en":"decore, core","he":"להוציא ליבה (של פירות או ירקות)"}
-{"L":"sin cor","C":["a"],"en":"heartless","he":"חסר לב"}
-{"T":"r","L":"coraco-","C":["pf","tecn","anat","med"],"d":"oncin, con forma de beco de corvo","en":"coraco-, hook-like","he":"(קידומת טכנית) דמוי קרס"}
-{"T":"r","L":"coracoide","C":["n","anat"],"d":"un parte de la spala de multe vertebratos (estra la plu de mamales)","en":"coracoid","he":"(אנטומיה) קורקואיד"}
-{"T":"r","L":"coraje","C":["n","uma"],"d":"la capasia de fa alga cosa cual on teme; fortia cuando on sufri dole o lamenta","da":"mod","de":"Mut","en":"courage, bravery, valor|ur, nerve","es":"valor, coraje, bravura, ánimo","fr":"courage","he":"אומץ, גבורה, נועזות"}
-{"L":"corajosa","C":["a"],"en":"brave, courageous, valorous, valiant, bold, plucky, feisty, gutsy, stout-hearted","fr":"courageux","he":"אמיץ, נועז"}
-{"L":"noncorajosa","C":["a"],"en":"faint-hearted, timid","he":"רך לבב, פחדני, חלש אופי"}
-{"L":"sin coraje","C":["a"],"en":"cowardly, gutless, spineless","he":"פחדני, חסר עמוד-שדרה"}
-{"T":"r","L":"coraji","C":["vt"],"d":"dona suporta, autofida o espera a (algun), tipal per comensa o continua fa alga cosa difisil","en":"encourage, urge, exhort, embolden, foster, hearten","he":"לעודד"}
-{"L":"coraji","C":["n"],"en":"encouragement, exhortation","he":"עידוד"}
-{"L":"corajinte","C":["a"],"en":"hortative, exhortative, exhortatory","he":"מעודד"}
-{"L":"descoraji","C":["vt"],"en":"discourage, demoralize|is, dishearten, unnerve","he":"לערער (את הביטחון), לייאש, לרפות את ידיו (של מישהו)"}
-{"L":"descoraji","C":["n"],"en":"discouragement, despondency","he":"ערעור (ביטחון); ייאוש, ריפיון ידיים, דכדוך"}
-{"L":"descorajida","C":["a"],"en":"discouraged, dejected, demoralized|is, disheartened, despondent, heartsick","he":"מיואש, מדוכדך"}
-{"T":"r","L":"coral","C":["n","bio"],"d":"la materia dur secreteda par alga cnidarios de mar como un sceleto esterna, tipal forminte resifes grande en mares calda; un de la cnidarios fisada cual produi esta","i":"#","en":"coral","he":"אלמוג"}
-{"L":"Mar Coral","C":["n","jeo"],"d":"un mar entre Australia norde-este e Papua Gine Nova","i":"#","en":"Coral Sea","he":"ים האלמוגים"}
-{"T":"r","L":"corasa","C":["n","util"],"d":"(istorial) un armur composada de du platas, un per la peto e un per la dorso, liada con lunlotra; (en medica) un ventador cual enclui la corpo ma permete ce la membros es libre, e cual forsa aira a en e a estra la pulmones par cambias de presa","i":"#","en":"cuirass","he":"קיראס, שריון חזה"}
-{"L":"corasida","C":["n"],"i":"#","en":"battleship, dreadnought (warship)","he":"ספינת קרב, אונית מערכה"}
-{"T":"r","L":"Corcovado","C":["n","jeo"],"en":"Corcovado","he":"קורקובדו"}
-{"L":"Golfo Corcovado","C":["n","jeo"],"d":"un golfo a ueste de Los Lagos, Txile","i":"#","en":"Corcovado Gulf","he":"מפרץ קורקובדו"}
-{"T":"r","L":"corda","C":["n","util"],"d":"un peso longa de un materia fabricada par torse colies de fibres; (en matematica) un linia reta cual lia du finis de un arco","da":"kabel, reb, snor","de":"Seil, Sehne","en":"cord, rope, lanyard; chord (geometry)","es":"cuerda, cordón, cordel, cable, amarra, soga, reata, lazo, cinta, fibra","fr":"corde","he":"חבל, מיתר, כבל"}
-{"L":"corda de abri","C":["n"],"en":"ripcord","he":"חבל התרה"}
-{"L":"corda de campana","C":["n"],"en":"bell pull, bell rope","he":"חוט צלצול"}
-{"L":"corda de salva","C":["n"],"en":"lifeline","he":"חבל הצלה"}
-{"L":"corda de vestes","C":["n"],"en":"clothesline","he":"חבל כביסה"}
-{"L":"corda elastica","C":["n"],"en":"elastic cord, bungee, bungee rope","he":"חבל אלסטי"}
-{"L":"corda ombilical","C":["n"],"en":"umbilical cord","he":"חבל הטבור"}
+{"L":"copula","C":["n"],"en":"copulation, coitus, mating, lovemaking, sex","fr":"(une) copulation","he":"הזדווגות, התעלסות, קיום יחסי-מין, תינוי אהבים"}
+{"L":"poscopulal","C":["a"],"en":"postcoital","fr":"postcoïtal","he":"שלאחר הסקס"}
+{"L":"precopula","C":["vnt"],"en":"foreplay","fr":"faire des préliminaires","he":"להתמזמז"}
+{"L":"precopula","C":["n"],"en":"foreplay","fr":"(des) préliminaires","he":"משחק מקדים, מזמוז"}
+{"L":"precopulal","C":["a"],"en":"precoital","fr":"préliminaire","he":"שלפני הסקס"}
+{"T":"r","L":"cor","C":["n","anat"],"d":"la organo cual pompi sangue tra la sistem de sirculo; la parte sentral o la plu interna de alga cosa; la parte esensal de alga cosa; la parte interna de un noza o seme, plu mol e tipal comable; un de la cuatro familias de cartas de jua, representada par un imaje tradisional de un cor","i":"#","s":"♥","da":"hjerte","de":"Herz","en":"heart (including cards), core, kernel; crux","es":"corazón","fr":"(le) cœur, (le) noyau,","he":"לב; ליבה"}
+{"L":"cor de pais","C":["n"],"en":"heartland","fr":"le centre d'un pays, le milieu d'un pays, le cœur d'un pays","he":"ארץ ליבה"}
+{"L":"corin","C":["a"],"en":"heartlike, heart-shaped, cordate","fr":"en forme de cœur","he":"דמוי לב"}
+{"L":"descorador","C":["n"],"en":"decorer, corer","fr":"(un) carottier, (un) carotteur (instrument)","he":"מוציא ליבה (של פירות או ירקות)"}
+{"L":"descori","C":["vt"],"en":"decore, core","fr":"enlever le cœur, faire un carottage","he":"להוציא ליבה (של פירות או ירקות)"}
+{"L":"sin cor","C":["a"],"en":"heartless","fr":"sans cœur, sans pitié, cruel","he":"חסר לב"}
+{"T":"r","L":"coraco-","C":["pf","tecn","anat","med"],"d":"oncin, con forma de beco de corvo","en":"coraco-, hook-like","fr":"coraco- (en crochet, en forme de bec d'oiseau)","he":"(קידומת טכנית) דמוי קרס"}
+{"T":"r","L":"coracoide","C":["n","anat"],"d":"un parte de la spala de multe vertebratos (estra la plu de mamales)","en":"coracoid","fr":"(un) coracoïde","he":"(אנטומיה) קורקואיד"}
+{"T":"r","L":"coraje","C":["n","uma"],"d":"la capasia de fa alga cosa cual on teme; fortia cuando on sufri dole o lamenta","da":"mod","de":"Mut","en":"courage, bravery, valor|ur, nerve","es":"valor, coraje, bravura, ánimo","fr":"courage, bravoure, audace, hardiesse, intrépidité, témérité, vaillance, valeur","he":"אומץ, גבורה, נועזות"}
+{"L":"corajosa","C":["a"],"en":"brave, courageous, valorous, valiant, bold, plucky, feisty, gutsy, stout-hearted","fr":"courageux, brave, audacieux, hardi, impétueux, intrépide, téméraire, vaillant, valeureux","he":"אמיץ, נועז"}
+{"L":"noncorajosa","C":["a"],"en":"faint-hearted, timid","fr":"timide, timoré, pusillanime","he":"רך לבב, פחדני, חלש אופי"}
+{"L":"sin coraje","C":["a"],"en":"cowardly, gutless, spineless","fr":"manquant de courage, pleutre, couard, dégonflé, froussard, lâche, peureux, poltron, poule mouillée, pusillanime, timoré, trouillard, veule","he":"פחדני, חסר עמוד-שדרה"}
+{"T":"r","L":"coraji","C":["vt"],"d":"dona suporta, autofida o espera a (algun), tipal per comensa o continua fa alga cosa difisil","en":"encourage, urge, exhort, embolden, foster, hearten","fr":"encourager, stimuler, exhorter, enhardir","he":"לעודד"}
+{"L":"coraji","C":["n"],"en":"encouragement, exhortation","fr":"(un) encouragement, (une) exhortation","he":"עידוד"}
+{"L":"corajinte","C":["a"],"en":"hortative, exhortative, exhortatory","fr":"encourageant, stimulant, prometteur","he":"מעודד"}
+{"L":"descoraji","C":["vt"],"en":"discourage, demoralize|is, dishearten, unnerve","fr":"décourager, démoraliser, accabler","he":"לערער (את הביטחון), לייאש, לרפות את ידיו (של מישהו)"}
+{"L":"descoraji","C":["n"],"en":"discouragement, despondency","fr":"(un) découragement, (un) abattement, (un) accablement, (une) consternation","he":"ערעור (ביטחון); ייאוש, ריפיון ידיים, דכדוך"}
+{"L":"descorajida","C":["a"],"en":"discouraged, dejected, demoralized|is, disheartened, despondent, heartsick","fr":"découragé, démoralisé, accablé, effondré","he":"מיואש, מדוכדך"}
+{"T":"r","L":"coral","C":["n","bio"],"d":"la materia dur secreteda par alga cnidarios de mar como un sceleto esterna, tipal forminte resifes grande en mares calda; un de la cnidarios fisada cual produi esta","i":"#","en":"coral","fr":"(le) corail","he":"אלמוג"}
+{"L":"Mar Coral","C":["n","jeo"],"d":"un mar entre Australia norde-este e Papua Gine Nova","i":"#","en":"Coral Sea","fr":"(la) mer de Corail","he":"ים האלמוגים"}
+{"T":"r","L":"corasa","C":["n","util"],"d":"(istorial) un armur composada de du platas, un per la peto e un per la dorso, liada con lunlotra; (en medica) un ventador cual enclui la corpo ma permete ce la membros es libre, e cual forsa aira a en e a estra la pulmones par cambias de presa","i":"#","en":"cuirass","fr":"(une) cuirasse","he":"קיראס, שריון חזה"}
+{"L":"corasida","C":["n"],"i":"#","en":"battleship, dreadnought (warship)","fr":"(un) cuirassé (navire de guerre)","he":"ספינת קרב, אונית מערכה"}
+{"T":"r","L":"Corcovado","C":["n","jeo"],"en":"Corcovado","fr":"(le) Corcovado","he":"קורקובדו"}
+{"L":"Golfo Corcovado","C":["n","jeo"],"d":"un golfo a ueste de Los Lagos, Txile","i":"#","en":"Corcovado Gulf","fr":"(le) golfe de Corcovado","he":"מפרץ קורקובדו"}
+{"T":"r","L":"corda","C":["n","util"],"d":"un peso longa de un materia fabricada par torse colies de fibres; (en matematica) un linia reta cual lia du finis de un arco","da":"kabel, reb, snor","de":"Seil, Sehne","en":"cord, rope, lanyard; chord (geometry)","es":"cuerda, cordón, cordel, cable, amarra, soga, reata, lazo, cinta, fibra","fr":"(une) corde","he":"חבל, מיתר, כבל"}
+{"L":"corda de abri","C":["n"],"en":"ripcord","fr":"(une) poignée d'ouverture (parachutisme)","he":"חבל התרה"}
+{"L":"corda de campana","C":["n"],"en":"bell pull, bell rope","fr":"(une) corde de cloche","he":"חוט צלצול"}
+{"L":"corda de salva","C":["n"],"en":"lifeline","fr":"(une) corde de sécurité","he":"חבל הצלה"}
+{"L":"corda de vestes","C":["n"],"en":"clothesline","fr":"(une) corde à linge","he":"חבל כביסה"}
+{"L":"corda elastica","C":["n"],"en":"elastic cord, bungee, bungee rope","fr":"(un) élastique, (une) corde élastique","he":"חבל אלסטי"}
+{"L":"corda ombilical","C":["n"],"en":"umbilical cord","fr":"(un) cordon ombilical","he":"חבל הטבור"}
 {"L":"corda tensada","C":["n"],"en":"tightrope","he":"חבל מתוח"}
-{"L":"corda vosal","C":["n"],"en":"vocal cord","he":"מיתר קול"}
-{"L":"cordeta","C":["n"],"de":"Bindfaden, Saite","en":"string, twine; shoelace, shoestring, bootlace; thin strap","he":"חוט; שרוך"}
-{"L":"cordeta fronsinte","C":["n"],"en":"drawstring","he":"שרוך קשירה"}
-{"L":"cordetin","C":["a"],"en":"stringy","he":"חוטי, סיבי"}
-{"L":"cordi","C":["vt"],"en":"cordon","he":"לתחום, לבודד (בחבל)"}
-{"L":"cordi","C":["n"],"en":"cordon","he":"תיחום, בידוד (בחבל)"}
-{"L":"cordon","C":["n"],"d":"un corda spesa de filos o otra fibres, tipal usada per construi, securi barcos, tira veculos, etc","de":"Kabel","en":"thick rope, cable, hawser","he":"חבל עבה, חבל משיכה"}
-{"L":"sin corda","C":["a"],"en":"cordless","he":"אלחוטי"}
-{"T":"r","L":"cordato","C":["n","bio"],"d":"un membro de un filo de animales cual ave un notocorda, ranures farinjal, un endostilo, e un coda posanal a la min per parte de sua sicle de vive","t":"Chordata","en":"chordate (organism)","he":"(ביולוגיה) מיתרני"}
-{"T":"r","L":"cordita","C":["n","util"],"d":"un esplodente nonfuminte, usada en muni","en":"cordite","he":"קורדיט (אבק שריפה)"}
-{"T":"r","L":"core","C":["vnt"],"d":"move rapida par usa sua pedes; (un licuida, gas o eletrica) flue","i":"#","da":"løbe","de":"laufen","en":"run, flow","es":"correr, andar, marchar, funcionar, fluir, chorrear, dirigir, manejar, extenderse","fr":"courir","he":"לרוץ"}
-{"L":"core","C":["n"],"en":"run (including cricket), running","he":"ריצה"}
-{"L":"core de distantia longa","C":["v"],"en":"run long-distance","he":"לרוץ למרחקים ארוכים"}
-{"L":"core de distantia longa","C":["n"],"en":"long-distance running, endurance running","he":"ריצה למרחקים ארוכים"}
-{"L":"core lenta","C":["v"],"en":"jog","he":"לצאת לריצה קלה"}
-{"L":"core lenta","C":["n"],"en":"jog, jogging","he":"ריצה קלה, ג'וגינג"}
-{"L":"core sin restrinje","C":["v"],"en":"careen, career, hurtle","he":"לנוע בלי שליטה"}
-{"L":"core tra bates","C":["esp"],"en":"run the gauntlet","he":"להתמודד עם קשיים או ביקורת"}
-{"L":"core tra campania","C":["n"],"en":"cross-country running","he":"ריצת שדה"}
-{"L":"con la corente","C":["a"],"en":"downstream","he":"במורד הזרם"}
-{"L":"contra la corente","C":["a"],"en":"upstream","he":"במעלה הזרם"}
-{"L":"corente","C":["n"],"en":"current (water, electricity); courante (dance, music)","he":"זרם (מים, חשמל); קוראנט (ריקוד)"}
-{"L":"corente alternante","C":["n"],"en":"alternating current, AC","he":"זרם חילופין"}
-{"L":"corente de aira","C":["n"],"en":"airstream","he":"זרם אוויר"}
-{"L":"corente de jeta","C":["n"],"en":"jet stream","he":"זרם סילון"}
-{"L":"corente direta","C":["n"],"en":"direct current, DC","he":"זרם ישר"}
-{"L":"corente dominante","C":["n"],"en":"mainstream","he":"זרם מרכזי, מיינסטרים"}
-{"L":"corente eletrical","C":["n"],"en":"electric current","he":"זרם חשמלי"}
+{"L":"corda vosal","C":["n"],"en":"vocal cord","fr":"(une) corde vocale","he":"מיתר קול"}
+{"L":"cordeta","C":["n"],"de":"Bindfaden, Saite","en":"string, twine; shoelace, shoestring, bootlace; thin strap","fr":"(une) ficelle, (un) lacet","he":"חוט; שרוך"}
+{"L":"cordeta fronsinte","C":["n"],"en":"drawstring","fr":"(une) cordelette","he":"שרוך קשירה"}
+{"L":"cordetin","C":["a"],"en":"stringy","fr":"filiforme","he":"חוטי, סיבי"}
+{"L":"cordi","C":["vt"],"en":"cordon","fr":"boucler (une zone), encercler, faire un cordon autour de, nasser","he":"לתחום, לבודד (בחבל)"}
+{"L":"cordi","C":["n"],"en":"cordon","fr":"(un) cordon, (un) bouclage, (un) encerclement, (une) nasse","he":"תיחום, בידוד (בחבל)"}
+{"L":"cordon","C":["n"],"d":"un corda spesa de filos o otra fibres, tipal usada per construi, securi barcos, tira veculos, etc","de":"Kabel","en":"thick rope, cable, hawser","fr":"(un) cordage, (un) cable, (un) filin","he":"חבל עבה, חבל משיכה"}
+{"L":"sin corda","C":["a"],"en":"cordless","fr":"non encordé, sans corde","he":"אלחוטי"}
+{"T":"r","L":"cordato","C":["n","bio"],"d":"un membro de un filo de animales cual ave un notocorda, ranures farinjal, un endostilo, e un coda posanal a la min per parte de sua sicle de vive","t":"Chordata","en":"chordate (organism)","fr":"(un) chordé, (un) cordé","he":"(ביולוגיה) מיתרני"}
+{"T":"r","L":"cordita","C":["n","util"],"d":"un esplodente nonfuminte, usada en muni","en":"cordite","fr":"(la) cordite","he":"קורדיט (אבק שריפה)"}
+{"T":"r","L":"core","C":["vnt"],"d":"move rapida par usa sua pedes; (un licuida, gas o eletrica) flue","i":"#","da":"løbe","de":"laufen","en":"run, flow","es":"correr, andar, marchar, funcionar, fluir, chorrear, dirigir, manejar, extenderse","fr":"courir, s'élancer, se précipiter, se hâter, se ruer, filer, se dépêcher, se presser, s'empresser, couler, circuler, s'écouler","he":"לרוץ"}
+{"L":"core","C":["n"],"en":"run (including cricket), running","fr":"(une) course, (une) ruée","he":"ריצה"}
+{"L":"core de distantia longa","C":["v"],"en":"run long-distance","fr":"faire une course de fond|de demi-fond, une course d'endurance","he":"לרוץ למרחקים ארוכים"}
+{"L":"core de distantia longa","C":["n"],"en":"long-distance running, endurance running","fr":"(une) course de fond|de demi-fond, (une) course d'endurance","he":"ריצה למרחקים ארוכים"}
+{"L":"core lenta","C":["v"],"en":"jog","fr":"faire un|du jogging, faire un footing","he":"לצאת לריצה קלה"}
+{"L":"core lenta","C":["n"],"en":"jog, jogging","fr":"(un) jogging, (un) footing","he":"ריצה קלה, ג'וגינג"}
+{"L":"core sin restrinje","C":["v"],"en":"careen, career, hurtle","fr":"dévaler, foncer, filer, se précipiter, se ruer, débouler, déferler","he":"לנוע בלי שליטה"}
+{"L":"core tra bates","C":["esp"],"en":"run the gauntlet","fr":"affronter, faire face, traverser","he":"להתמודד עם קשיים או ביקורת"}
+{"L":"core tra campania","C":["n"],"en":"cross-country running","fr":"(le) cross-country","he":"ריצת שדה"}
+{"L":"con la corente","C":["a"],"en":"downstream","fr":"dans le sens du courant","he":"במורד הזרם"}
+{"L":"contra la corente","C":["a"],"en":"upstream","fr":"à contre-courant","he":"במעלה הזרם"}
+{"L":"corente","C":["n"],"en":"current (water, electricity); courante (dance, music)","fr":"(le) courant (eau, électricité); (la) courante (danse, musique)","he":"זרם (מים, חשמל); קוראנט (ריקוד)"}
+{"L":"corente alternante","C":["n"],"en":"alternating current, AC","fr":"(le) courant alternatif","he":"זרם חילופין"}
+{"L":"corente de aira","C":["n"],"en":"airstream","fr":"(un) courant d'air","he":"זרם אוויר"}
+{"L":"corente de jeta","C":["n"],"en":"jet stream","fr":"(un) courant-jet, (un) jet stream","he":"זרם סילון"}
+{"L":"corente direta","C":["n"],"en":"direct current, DC","fr":"(le) courant continu","he":"זרם ישר"}
+{"L":"corente dominante","C":["n"],"en":"mainstream","fr":"mainstream, (le) courant dominant","he":"זרם מרכזי, מיינסטרים"}
+{"L":"corente eletrical","C":["n"],"en":"electric current","fr":"(le) courant électrique","he":"זרם חשמלי"}
 {"L":"corente traversal","C":["n"],"en":"crosscurrent","he":"זרם נגדי"}
-{"L":"corente xef","C":["n"],"en":"mainstream","he":"זרם מרכזי, מיינסטרים"}
-{"L":"coror","C":["n"],"en":"runner, jogger","he":"רץ"}
-{"L":"sucorente","C":["n"],"en":"undercurrent","he":"זרם תחתי"}
-{"T":"r","L":"corea","C":["n","util"],"d":"un peso de corda, cuoro o otra materia, usada per freni, restrinje o gida un animal; un cosa simil usada per lia, fisa o securi alga cosa","i":"#","en":"leash, lead, strap, thong","he":"רצועה"}
-{"L":"corein","C":["a"],"en":"straplike","he":"דמוי רצועה"}
-{"L":"lia con corea","C":["v"],"en":"leash, strap","he":"לקשור ברצועה"}
-{"T":"r","L":"corea","C":["n","med"],"d":"un disturba neuronal, marcada par moves spasmin e nonintendeda, tipal de la spalas, ancas e fas","en":"chorea (medical)","he":"מחולית, כוריאה"}
-{"T":"r","L":"Corea","C":["n","jeo"],"d":"un parte de Asia este cual formi un penisola entre la Mar Japan e la Mar Huanghai, aora divideda entre la du nasiones Tehan e Txoson","en":"Korea","he":"קוריאה"}
-{"L":"Baia Corea","C":["n","jeo"],"d":"un baia entre Jonguo e Txoson","i":"#","en":"Korea Bay, Korean Bay","he":"מפרץ קוריאה"}
-{"L":"Corea Norde","C":["n","jeo"],"d":"un otra nom per Txoson","i":"Txoson","v":"Txoson","en":"North Korea","he":"צפון קוריאה"}
-{"L":"Corea Sude","C":["n","jeo"],"d":"un otra nom per Tehan","i":"Tehan","v":"Tehan","en":"South Korea","he":"דרום קוריאה"}
-{"L":"corean","C":["a"],"d":"hangugo","v":"hangugo","en":"Korean (person, language)","he":"קוריאני, קוריאנית (שפה)"}
-{"L":"corean","C":["n","dem"],"en":"Korean (person, language)","he":"קוריאני, קוריאנית (שפה)"}
-{"L":"Streta Corea","C":["n","jeo"],"d":"un streta entre Nion e Corea","i":"#","en":"Korea Strait","he":"מצר קוריאה"}
-{"T":"r","L":"coredor","C":["n","arci"],"d":"un pasaje longa en un construida, con portes o abris a salas; un pasaje entre linias de sejas en un eglesa, teatro, avion o tren; un pasaje entre du scafales de benes en un boteca","en":"corridor, aisle, passageway, hall, hallway","he":"מסדרון, פרוזדור; מעבר (בין שורות)"}
-{"L":"coredor de mori","C":["n"],"en":"death row","fr":"couloir de la mort","he":"שורת הנידונים למוות"}
-{"L":"coredor esterna","C":["n"],"en":"breezeway","he":"מעבר מקורה"}
+{"L":"corente xef","C":["n"],"en":"mainstream","fr":"mainstream, le courant dominant","he":"זרם מרכזי, מיינסטרים"}
+{"L":"coror","C":["n"],"en":"runner, jogger","fr":"(un) coureur, (un) jogger","he":"רץ"}
+{"L":"sucorente","C":["n"],"en":"undercurrent","fr":"sous-courant","he":"זרם תחתי"}
+{"T":"r","L":"corea","C":["n","util"],"d":"un peso de corda, cuoro o otra materia, usada per freni, restrinje o gida un animal; un cosa simil usada per lia, fisa o securi alga cosa","i":"#","en":"leash, lead, strap, thong","fr":"(une) courroie, (une) sangle, (une) lanière, (une) rêne, (une) bride, (un) licou|licol, (une) attache, (un) lien","he":"רצועה"}
+{"L":"corein","C":["a"],"en":"straplike","fr":"en forme de sangle","he":"דמוי רצועה"}
+{"L":"lia con corea","C":["v"],"en":"leash, strap","fr":"sangler, attacher, lier","he":"לקשור ברצועה"}
+{"T":"r","L":"corea","C":["n","med"],"d":"un disturba neuronal, marcada par moves spasmin e nonintendeda, tipal de la spalas, ancas e fas","en":"chorea (medical)","fr":"(la) chorée","he":"מחולית, כוריאה"}
+{"T":"r","L":"Corea","C":["n","jeo"],"d":"un parte de Asia este cual formi un penisola entre la Mar Japan e la Mar Huanghai, aora divideda entre la du nasiones Tehan e Txoson","en":"Korea","fr":"(la) Corée","he":"קוריאה"}
+{"L":"Baia Corea","C":["n","jeo"],"d":"un baia entre Jonguo e Txoson","i":"#","en":"Korea Bay, Korean Bay","fr":"(la) baie de Corée, (le) golfe de Corée","he":"מפרץ קוריאה"}
+{"L":"Corea Norde","C":["n","jeo"],"d":"un otra nom per Txoson","i":"Txoson","v":"Txoson","en":"North Korea","fr":"(la) Corée du Nord","he":"צפון קוריאה"}
+{"L":"Corea Sude","C":["n","jeo"],"d":"un otra nom per Tehan","i":"Tehan","v":"Tehan","en":"South Korea","fr":"(la) Corée du Sud","he":"דרום קוריאה"}
+{"L":"corean","C":["a"],"d":"hangugo","v":"hangugo","en":"Korean (person, language)","fr":"coréen","he":"קוריאני, קוריאנית (שפה)"}
+{"L":"corean","C":["n","dem"],"en":"Korean (person, language)","fr":"(un) Coréen (personne), (le) coréen (langue)","he":"קוריאני, קוריאנית (שפה)"}
+{"L":"Streta Corea","C":["n","jeo"],"d":"un streta entre Nion e Corea","i":"#","en":"Korea Strait","fr":"(le) détroit de Corée","he":"מצר קוריאה"}
+{"T":"r","L":"coredor","C":["n","arci"],"d":"un pasaje longa en un construida, con portes o abris a salas; un pasaje entre linias de sejas en un eglesa, teatro, avion o tren; un pasaje entre du scafales de benes en un boteca","en":"corridor, aisle, passageway, hall, hallway","fr":"(un) couloir, (un) corridor, (une) allée","he":"מסדרון, פרוזדור; מעבר (בין שורות)"}
+{"L":"coredor de mori","C":["n"],"en":"death row","fr":"(le) couloir de la mort","he":"שורת הנידונים למוות"}
+{"L":"coredor esterna","C":["n"],"en":"breezeway","fr":"(un) passage couvert","he":"מעבר מקורה"}
 {"T":"r","L":"coregon","C":["n","pex"],"d":"un salmon de acua dulse, de areas norde de la emisfera norde","i":"#","t":"Coregoninae","en":"whitefish","he":"דג לבן"}
 {"T":"r","L":"corelata","C":["vnt","mat"],"d":"(du cosas) ave un relata mutua en cual la un afeta o depende de la otra","en":"correlate","he":"להיות במתאם"}
 {"L":"corelata","C":["n"],"en":"correlation","he":"מתאם, קורלציה"}
@@ -26934,7 +26934,7 @@
 {"T":"r","L":"tori","C":["n","rel","arci"],"d":"la porton de un santeria de xinto, con du colonas e du faxas","i":"#","en":"torii (gate)","fr":"torii"}
 {"T":"r","L":"tori","C":["n"],"d":"(en la Rena Unida) un membro de la partito conservaliste; un coloniste american ci ia suporta la lado brites en la Revolui American","en":"Tory (politics)"}
 {"T":"r","L":"torio","C":["n","cim"],"d":"la elemento cimical con numero atomal 90","s":"Th (thorium)","en":"thorium (element)","fr":"thorium"}
-{"T":"r","L":"tormenta","C":["vt","uma","gov"],"d":"fa ce (algun) sufri mental o fisical; irita o provoca (algun) sin compati","da":"torturere","de":"foltern","en":"torment, bully, scourge, hector; nag, badger, bedevil, beset","es":"torturar, atormentar","fr":"tourmenter, torturer","it":"torturare, tormentare","nl":"folteren","pt":"torturar, atormentar"}
+{"T":"r","L":"tormenta","C":["vt","uma","gov"],"d":"fa ce (algun) sufri mental o fisical; irita o provoca (algun) sin compati","da":"torturere","de":"foltern","en":"torment, bully, scourge, hector; nag, badger, bedevil, plague, beset","es":"torturar, atormentar","fr":"tourmenter, torturer","it":"torturare, tormentare","nl":"folteren","pt":"torturar, atormentar"}
 {"L":"tormenta","C":["n"],"en":"torment, bullying","fr":"tourment"}
 {"L":"tormentor","C":["n"],"en":"tormentor, bully","fr":"tortionnaire"}
 {"T":"r","L":"torn","C":["n"],"d":"un letera anglosason e islansce, representante un fricante dental","s":"Þ þ","en":"thorn (letter)"}
