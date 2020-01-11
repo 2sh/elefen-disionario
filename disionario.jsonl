@@ -1583,9 +1583,9 @@
 {"L":"aracnofobica","C":["a"],"en":"arachnophobic","fr":"arachnophobique","he":"שקשור לפחד מעכבישים"}
 {"L":"aracnofobica","C":["n"],"en":"arachnophobe","fr":"arachnophobe","he":"פוחד מעכבישים"}
 {"T":"r","L":"aracnoide","C":["n","anat"],"d":"un membrana delicata entre la duramadre e la piamadre de la serebro e medula spinal","en":"arachnoid","fr":"arachnoïde (anatomie)","he":"(אנטומיה) קרום הקורים"}
-{"T":"r","L":"arado","C":["n"],"d":"un aparato grande de cultiva con un o plu laminas pesosa, tirada sur tera per crea ranures ante planta semes","i":"#","da":"plov","de":"Pflug","en":"plow|plough","es":"arado","fr":"charrue","he":"מחרשה"}
+{"T":"r","L":"arado","C":["n"],"d":"un aparato grande de cultiva con un o plu laminas pesosa, tirada sur tera per crea ranures ante planta semes","i":"#","da":"plov","de":"Pflug","en":"plow|plough","es":"arado","fr":"(une) charrue","he":"מחרשה"}
 {"L":"aradi","C":["vt"],"en":"plow|plough, till","fr":"labourer","he":"לחרוש"}
-{"L":"arador","C":["n"],"en":"plowman|ploughman, husbandman, tiller","fr":"laboureur"}
+{"L":"arador","C":["n"],"en":"plowman|ploughman, husbandman, tiller","fr":"(un) laboureur"}
 {"T":"r","L":"Arafura, Mar","C":["n","jeo"],"d":"un mar entre Australia e Papua indonesian","i":"Mar-Arafura","en":"Arafura Sea","fr":"mer d'Arafura","he":"ים אראפורה"}
 {"T":"r","L":"Aragon","C":["n","jeo","ist"],"d":"un rejion autonom en Espania norde-este; un rena autonom en la eda medieval","i":"#","en":"Aragon (Spanish region)","fr":"Aragon","he":"אראגון"}
 {"L":"aragones","C":["a","dem"],"en":"Aragonese","fr":"aragonais","he":"שקשור לאראגון"}
@@ -3332,6 +3332,7 @@
 {"L":"bispia","C":["n"],"en":"bishopric, diocese","fr":"diocèse","he":"בישופות"}
 {"T":"r","L":"bistro","C":["n","arci"],"d":"un restorante peti","en":"bistro","fr":"bistro, troquet","he":"ביסטרו"}
 {"T":"r","L":"bisturi","C":["n","med","util"],"d":"un cotel multe agu con un lamina peti, usada per sirurjia","i":"#","en":"scalpel, lancet","fr":"scalpel, bistouri","he":"סכין מנתחים"}
+{"L":"bisturi","C":["vt"],"en":"lance, prick open","fr":"percer, ouvrir (par bistouri)"}
 {"T":"r","L":"bitio","C":["n","info"],"d":"un unia de informa, espresada como 0 o 1","en":"bit, binary digit","fr":"bit","he":"(מחשבים) סיבית, ביט"}
 {"T":"r","L":"bitnic","C":["n"],"d":"un person joven de un sucultur de la desenios de 1950 e 1960 con influes a musica, poesia e arte","i":"#","en":"beatnik","fr":"beatnik","he":"ביטניק"}
 {"T":"r","L":"bitume","C":["n","cim"],"d":"un misca negra e viscosa de idrocarbonos, usada en fabrica tetos e surfases de vias","en":"bitumen, asphalt (viscous pitch)","fr":"bitume, asphalte","he":"אספלט, ביטומן"}
@@ -6659,7 +6660,7 @@
 {"L":"descortexi","C":["vt"],"en":"decorticate, remove the bark from","fr":"décortiquer, écorcer, émonder","he":"להסיר קליפת עץ"}
 {"T":"r","L":"corticosteroide","C":["a","bio","med"],"d":"parteninte a un grupo de ormones steroide, produida en la cortex de la glande suprarenal o sinteseda","en":"corticosteroid","fr":"corticostéroïdien","he":"קורטיקוסטרואיד"}
 {"L":"corticosteroide","C":["n","bio","med"],"en":"corticosteroid","fr":"(un) corticostéroïde","he":"קורטיקוסטרואיד"}
-{"T":"r","L":"cortierba","C":["n","vn"],"d":"un macina per corti la erba en un jardin o parce","i":"#","en":"lawnmower, mower","fr":"(une) tondeuse (une) tondeuse à gazon","he":"מכסחת דשא"}
+{"T":"r","L":"cortierba","C":["n","vn"],"d":"un macina per corti la erba en un jardin o parce","i":"#","en":"lawnmower, mower","fr":"(une) tondeuse, (une) tondeuse à gazon","he":"מכסחת דשא"}
 {"L":"cortierba puiable","C":["n"],"i":"#","en":"push mower, unmotorized|is lawnmower","fr":"(une) tondeuse (manuelle)","he":"מכסחת דשא ידנית"}
 {"T":"r","L":"cortina","C":["n","arci"],"d":"un stofa pendente cual covre o scermi, tipal un de du ante un fenetra","i":"#","da":"gardin","de":"Vorhang, Gardine","en":"curtain, drape","es":"cortina, telón","fr":"(un) rideau, (une) tenture","he":"וילון"}
 {"L":"cortina alta","C":["n"],"i":"#","en":"valance","fr":"(un) lambrequin","he":"וילון קצר"}
@@ -6785,183 +6786,183 @@
 {"L":"descovrable","C":["a"],"en":"discoverable","fr":"découvrable","he":"שניתן לגילוי"}
 {"L":"descovre","C":["vt"],"en":"discover, uncover, find out, ascertain","fr":"découvrir, dévoiler, trouver","he":"לגלות, לחשוף"}
 {"L":"descovre","C":["n"],"en":"discovery","fr":"(une) découverte, (une) trouvaille","he":"גילוי, תגלית, חשיפה"}
-{"L":"descovror","C":["n"],"en":"discoverer","he":"מגלה"}
-{"L":"noncovreda","C":["a"],"en":"uncovered, not covered","he":"גלוי, מגולה, חשוף"}
-{"L":"redescovre","C":["vt"],"en":"rediscover, become reacquainted with","he":"לגלות מחדש"}
-{"L":"(retira) noncovreda","C":["n"],"en":"overdraft","he":"משיכת יתר"}
-{"T":"r","L":"covrebuco","C":["n","vn"],"d":"un ojeto usada per asconde un buco; un modo tempora de solve un problem","en":"stopgap","he":"תחליף זמני"}
-{"T":"r","L":"covrecasola","C":["n","vn"],"d":"un covrente per un casola","en":"saucepan lid","he":"מכסה לסיר"}
-{"T":"r","L":"covrecolo","C":["n","vn"],"d":"un tela o peso de armur cual covre la colo","en":"neckscarf; gorget (throat protector)","he":"חם צוואר; שריון לצוואר"}
-{"T":"r","L":"covrecuxin","C":["n","vn"],"d":"un covrente de stofa per un cuxin","en":"cushion cover, pillowcase","he":"ציפית לכרית"}
-{"T":"r","L":"covrefenetra","C":["n","vn"],"d":"cada de du paneles xarnierida a un fenetra, cluable per securia o privatia o per redui la lus entrante","en":"shutter","he":"תריס"}
-{"T":"r","L":"covregama","C":["n","vn","vest"],"d":"un veste forte per proteje un gama","en":"legging (protective)","he":"טייטס מגן"}
-{"T":"r","L":"covrejeno","C":["n","vn","vest"],"d":"un covrente per proteje un jeno, usada par sportores","en":"kneepad","he":"מגן ברך"}
-{"T":"r","L":"covreleto","C":["n","vn"],"d":"un peso grande de materia spesa o plenida, su cual on dormi sur un leto","da":"tæppe","de":"Wolldecke","en":"blanket, quilt, duvet","es":"manta, frazada, cobertor, cobija","fr":"couverture","he":"שמיכה"}
-{"T":"r","L":"covrelibro","C":["n","vn"],"d":"un covrente de paper desfisable cual proteje un libro reliada","en":"dust jacket","he":"עטיפת ספר (בכריכה קשה)"}
-{"T":"r","L":"covreoio","C":["n","vn"],"d":"un peso de materia portada per proteje un oio ferida","en":"eyepatch","he":"רטייה"}
+{"L":"descovror","C":["n"],"en":"discoverer","fr":"(un) découvreur | (une) découvreuse; (un) inventeur","he":"מגלה"}
+{"L":"noncovreda","C":["a"],"en":"uncovered, not covered","fr":"découvert","he":"גלוי, מגולה, חשוף"}
+{"L":"redescovre","C":["vt"],"en":"rediscover, become reacquainted with","fr":"redécouvrir","he":"לגלות מחדש"}
+{"L":"(retira) noncovreda","C":["n"],"en":"overdraft","fr":"(un) découvert (bancaire)","he":"משיכת יתר"}
+{"T":"r","L":"covrebuco","C":["n","vn"],"d":"un ojeto usada per asconde un buco; un modo tempora de solve un problem","en":"stopgap","fr":"(un) bouche-trou","he":"תחליף זמני"}
+{"T":"r","L":"covrecasola","C":["n","vn"],"d":"un covrente per un casola","en":"saucepan lid","fr":"(un) couvercle (de casserole, de marmite, de poêle...)","he":"מכסה לסיר"}
+{"T":"r","L":"covrecolo","C":["n","vn"],"d":"un tela o peso de armur cual covre la colo","en":"neckscarf; gorget (throat protector)","fr":"(une) écharpe; (un) gorgerin (pièce d'armure couvrant la gorge)","he":"חם צוואר; שריון לצוואר"}
+{"T":"r","L":"covrecuxin","C":["n","vn"],"d":"un covrente de stofa per un cuxin","en":"cushion cover, pillowcase","fr":"(une) housse (de coussin), (une) taie d'oreiller","he":"ציפית לכרית"}
+{"T":"r","L":"covrefenetra","C":["n","vn"],"d":"cada de du paneles xarnierida a un fenetra, cluable per securia o privatia o per redui la lus entrante","en":"shutter","fr":"(un) volet, (une) persienne","he":"תריס"}
+{"T":"r","L":"covregama","C":["n","vn","vest"],"d":"un veste forte per proteje un gama","en":"legging (protective)","fr":"(un) legging","he":"טייטס מגן"}
+{"T":"r","L":"covrejeno","C":["n","vn","vest"],"d":"un covrente per proteje un jeno, usada par sportores","en":"kneepad","fr":"(une) genouillère","he":"מגן ברך"}
+{"T":"r","L":"covreleto","C":["n","vn"],"d":"un peso grande de materia spesa o plenida, su cual on dormi sur un leto","da":"tæppe","de":"Wolldecke","en":"blanket, quilt, duvet","es":"manta, frazada, cobertor, cobija","fr":"(une) couverture, (une) couette","he":"שמיכה"}
+{"T":"r","L":"covrelibro","C":["n","vn"],"d":"un covrente de paper desfisable cual proteje un libro reliada","en":"dust jacket","fr":"(un) couvre-livre","he":"עטיפת ספר (בכריכה קשה)"}
+{"T":"r","L":"covreoio","C":["n","vn"],"d":"un peso de materia portada per proteje un oio ferida","en":"eyepatch","fr":"(un) cache-œil","he":"רטייה"}
 {"T":"r","L":"covreorea","C":["n","vn","vest"],"d":"un duple de covrentes, liada par un banda supra la testa, portada sur la oreas per proteje los contra fria o ruido","en":"earmuff, earmuffs","he":"אוזניות מגן; מחממי אוזניים"}
-{"T":"r","L":"covrepeto","C":["n","vn","vest"],"d":"la parte supra la taie de la fronte de un faldon o salopeta","en":"bib (overalls)","he":"סינר לתינוק"}
-{"T":"r","L":"covreplato","C":["n","vn"],"d":"un covrente per un plato de servi","en":"dish cover","he":"מכסה למגש"}
-{"T":"r","L":"covresentro","C":["n","vn"],"d":"un covrente per la sentro de la rota de un veculo","en":"hubcap","he":"(רכב) צלחת, טסה"}
-{"T":"r","L":"covreseso","C":["n","vn","vest"],"d":"un stofa envolveda sirca la ancas; un covrente per la jenitales, tipal portada par persones tribal o dansores erotica","en":"loincloth, breechcloth, breechclout; cache-sexe","he":"כיסוי חלציים"}
-{"T":"r","L":"covretable","C":["n","vn"],"d":"un telon estendeda sur un table","en":"tablecloth","he":"מפה (לשולחן)"}
-{"T":"r","L":"covretesta","C":["n","vn","vest"],"d":"un xapo, elmo o otra veste portada sur la testa","en":"headgear, headwear","he":"כיסוי ראש"}
-{"T":"r","L":"covreteta","C":["n","vn","vest"],"d":"un gaina portada par alga femes sur teta e areola cuando los dona lete; un covrente aderente per un teta","en":"nipple shield; pastie","he":"מגן פטמה"}
-{"T":"r","L":"covretibia","C":["n","vn","vest"],"d":"un covrente protejente per un tibia, usada par sportores","en":"shinpad, shinguard","he":"מגן שוק"}
-{"T":"r","L":"covretota","C":["n","vn"],"d":"un veste de un peso portada supra otra vestes per proteje los","en":"overalls, coverall, boilersuit, jumpsuit","he":"סרבל, אוברול"}
-{"T":"r","L":"covrevaso","C":["n","vn"],"d":"un covrente spesa o plenida per manteni la caldia de un vaso de te","en":"tea cosy","he":"כיסוי קנקן, מטמן"}
-{"T":"r","L":"covreveranda","C":["n","vn"],"d":"un telon de lona o otra stofa, estendeda supra un teraza o simil per proteje lo contra la sol o pluve","en":"awning","he":"סוכך, גגון"}
-{"T":"r","L":"coxa","C":["n","anat"],"d":"la parte de la gama entre la anca e la jeno","i":"#","en":"thigh","he":"ירך"}
-{"T":"r","L":"coxea","C":["vnt","med"],"d":"pasea difisil, tipal causada par la rijidi o dana de un gama o pede","en":"limp, hobble","he":"לצלוע; לקרטע"}
-{"L":"coxea","C":["n"],"en":"limp","he":"צליעה"}
-{"L":"coxeante","C":["a"],"en":"lame, gimpy; shaky, wobbly, rickety, wonky","he":"צולע; מקרטע"}
-{"L":"coxeor","C":["n"],"en":"limper, gimp","he":"(אדם) צולע"}
-{"T":"r","L":"coxinilia","C":["n","artr"],"d":"un inseto peti con scama protejente e scermin","i":"#","t":"Coccoidea","en":"scale insect","he":"כנימת מגן"}
-{"T":"r","L":"cozac","C":["a","dem"],"d":"pertinente a un popla de Rusia sude e Ucraina, notada per sua capasia militar e sua cavaloria","en":"Cossack","he":"קוזאקי"}
-{"L":"cozac","C":["n","dem"],"en":"Cossack","he":"קוזאק"}
-{"T":"r","L":"cozatxoc","C":["n","mus"],"d":"un dansa slavica con ritmo rapida, con un parte en cual un dansor acrupinte lansa alternante sua gamas a ante","en":"kozachok, kazachok (dance)","he":"קזצ'וק (ריקוד)"}
-{"T":"r","L":"crabe","C":["n","artr"],"d":"un crustaseo con armur larga, oios sur troncetas, e sinco duples de gamas, de cual la gamas anterior es alterada per pinsi","i":"#","t":"Brachyura","en":"crab","he":"סרטן"}
-{"L":"crabe de rio","C":["n"],"d":"un crustaseo noturna de acua dulse, semblante un omaro peti","t":"Astacoidea, Parastacoidea","en":"crayfish","he":"סרטן נהרות"}
-{"L":"Crabe","C":["n","ast"],"d":"un constela de la zodiaco","s":"♋","en":"Cancer (constellation)","he":"סרטן (קבוצת כוכבים, מזל)"}
-{"T":"r","L":"crac","C":["n","onom"],"d":"un ruido subita e agu o esplodente, tipal la sona de un cosa rompente","en":"crack, crunch, snap","he":"צליל פיצוח, צליל בקיעה"}
+{"T":"r","L":"covrepeto","C":["n","vn","vest"],"d":"la parte supra la taie de la fronte de un faldon o salopeta","en":"bib (overalls)","fr":"(une) bavette, (un) plastron (partie d'un tablier ou d'une salopette couvrant la poitrine)","he":"סינר לתינוק"}
+{"T":"r","L":"covreplato","C":["n","vn"],"d":"un covrente per un plato de servi","en":"dish cover","fr":"(un) couvre-plat","he":"מכסה למגש"}
+{"T":"r","L":"covresentro","C":["n","vn"],"d":"un covrente per la sentro de la rota de un veculo","en":"hubcap","fr":"(un) enjoliveur","he":"(רכב) צלחת, טסה"}
+{"T":"r","L":"covreseso","C":["n","vn","vest"],"d":"un stofa envolveda sirca la ancas; un covrente per la jenitales, tipal portada par persones tribal o dansores erotica","en":"loincloth, breechcloth, breechclout; cache-sexe","fr":"(un) pagne; (un) cache-sexe","he":"כיסוי חלציים"}
+{"T":"r","L":"covretable","C":["n","vn"],"d":"un telon estendeda sur un table","en":"tablecloth","fr":"(une) nappe","he":"מפה (לשולחן)"}
+{"T":"r","L":"covretesta","C":["n","vn","vest"],"d":"un xapo, elmo o otra veste portada sur la testa","en":"headgear, headwear","fr":"(un) un couvre-chef (chapeau); (une) coiffe","he":"כיסוי ראש"}
+{"T":"r","L":"covreteta","C":["n","vn","vest"],"d":"un gaina portada par alga femes sur teta e areola cuando los dona lete; un covrente aderente per un teta","en":"nipple shield; pastie","fr":"(un) protège-mamelon; (un) cache-sein, (un) cache-téton","he":"מגן פטמה"}
+{"T":"r","L":"covretibia","C":["n","vn","vest"],"d":"un covrente protejente per un tibia, usada par sportores","en":"shinpad, shinguard","fr":"(un) protège-tibia","he":"מגן שוק"}
+{"T":"r","L":"covretota","C":["n","vn"],"d":"un veste de un peso portada supra otra vestes per proteje los","en":"overalls, coverall, boilersuit, jumpsuit","fr":"(une) combinaison","he":"סרבל, אוברול"}
+{"T":"r","L":"covrevaso","C":["n","vn"],"d":"un covrente spesa o plenida per manteni la caldia de un vaso de te","en":"tea cosy","fr":"(un) couvre-théière","he":"כיסוי קנקן, מטמן"}
+{"T":"r","L":"covreveranda","C":["n","vn"],"d":"un telon de lona o otra stofa, estendeda supra un teraza o simil per proteje lo contra la sol o pluve","en":"awning","fr":"(un) store, (une) bâche, (une) banne, (un) vélum,","he":"סוכך, גגון"}
+{"T":"r","L":"coxa","C":["n","anat"],"d":"la parte de la gama entre la anca e la jeno","i":"#","en":"thigh","fr":"(la) cuisse","he":"ירך"}
+{"T":"r","L":"coxea","C":["vnt","med"],"d":"pasea difisil, tipal causada par la rijidi o dana de un gama o pede","en":"limp, hobble","fr":"boiter, claudiquer, boitiller, clopiner, traîner la jambe","he":"לצלוע; לקרטע"}
+{"L":"coxea","C":["n"],"en":"limp","fr":"(la) claudication","he":"צליעה"}
+{"L":"coxeante","C":["a"],"en":"lame, gimpy; shaky, wobbly, rickety, wonky","fr":"boiteux, claudiquant","he":"צולע; מקרטע"}
+{"L":"coxeor","C":["n"],"en":"limper, gimp","fr":"(un) boiteux","he":"(אדם) צולע"}
+{"T":"r","L":"coxinilia","C":["n","artr"],"d":"un inseto peti con scama protejente e scermin","i":"#","t":"Coccoidea","en":"scale insect","fr":"(une) cochenille","he":"כנימת מגן"}
+{"T":"r","L":"cozac","C":["a","dem"],"d":"pertinente a un popla de Rusia sude e Ucraina, notada per sua capasia militar e sua cavaloria","en":"Cossack","fr":"cosaque","he":"קוזאקי"}
+{"L":"cozac","C":["n","dem"],"en":"Cossack","fr":"(un) Cosaque","he":"קוזאק"}
+{"T":"r","L":"cozatxoc","C":["n","mus"],"d":"un dansa slavica con ritmo rapida, con un parte en cual un dansor acrupinte lansa alternante sua gamas a ante","en":"kozachok, kazachok (dance)","fr":"(le) kazatchok","he":"קזצ'וק (ריקוד)"}
+{"T":"r","L":"crabe","C":["n","artr"],"d":"un crustaseo con armur larga, oios sur troncetas, e sinco duples de gamas, de cual la gamas anterior es alterada per pinsi","i":"#","t":"Brachyura","en":"crab","fr":"(un) crabe","he":"סרטן"}
+{"L":"crabe de rio","C":["n"],"d":"un crustaseo noturna de acua dulse, semblante un omaro peti","t":"Astacoidea, Parastacoidea","en":"crayfish","fr":"(une) écrevisse","he":"סרטן נהרות"}
+{"L":"Crabe","C":["n","ast"],"d":"un constela de la zodiaco","s":"♋","en":"Cancer (constellation)","fr":"(le) Cancer (constellation)","he":"סרטן (קבוצת כוכבים, מזל)"}
+{"T":"r","L":"crac","C":["n","onom"],"d":"un ruido subita e agu o esplodente, tipal la sona de un cosa rompente","en":"crack, crunch, snap","fr":"crac ! (onomatopée)","he":"צליל פיצוח, צליל בקיעה"}
 {"L":"crac","C":["esc"],"en":"crack, crunch, snap","he":"צליל פיצוח, צליל בקיעה"}
-{"L":"craci","C":["vnt"],"en":"crack, crunch, scrunch, snap","he":"להשמיע צליל פיצוח, צליל בקיעה"}
-{"L":"craci","C":["vt"],"en":"crack, crunch, scrunch, snap","he":"להשמיע צליל פיצוח, צליל בקיעה"}
-{"L":"cracinte","C":["a"],"en":"crunchy","he":"משמיע צליל פיצוח, צליל בקיעה"}
-{"L":"cracosa","C":["a"],"en":"crunchy, crisp, crispy","he":"פריך, מתפצח, קראנצ'י"}
-{"T":"r","L":"crac","C":["n","med"],"d":"un forma dur e cristal de cocaina, rompeda a pesos peti, caldida e enspirada","en":"crack, crack cocaine","he":"קראק"}
-{"T":"r","L":"cracen","C":["n","mit"],"d":"un monstro mital enorme de mar, sur cual on dise ce lo apare a la costa de Noria","i":"#","en":"kraken","he":"קראקן"}
-{"T":"r","L":"cracer","C":["n","cos"],"d":"un biscoto magra, seca e salosa","en":"cracker, saltine","he":"קרקר, מצייה"}
-{"L":"cracer de segal","C":["n"],"en":"crispbread","he":"קרקר שיפון"}
-{"T":"r","L":"crampo","C":["n","med"],"d":"un contrae dolente e nonintendeda de un musculo o musculos, tipal causada par fatiga o tensa","en":"cramp (muscle)","he":"התכווצות, עווית (שריר)"}
-{"T":"r","L":"crampon","C":["n","util"],"d":"un protende o spina peti, fisada a la planta de un sapato o bota per redui la risca de lisca","en":"crampon, stud (boot)","he":"קרמפון, זיז סוליה"}
-{"T":"r","L":"cranio","C":["n","anat"],"d":"la strutur de oso o cartilaje cual enclui la serebro de un vertebrato","i":"#","en":"skull, cranium","he":"גולגולת"}
-{"L":"cranial","C":["a"],"en":"cranial","he":"גולגולתי"}
-{"T":"r","L":"crase","C":["vt"],"d":"compresa forte (alga cosa) per desformi lo, polvi lo o forsa lo a en se","da":"knuse, mase","de":"quetschen","en":"crush, squash, mash, crumple, flatten, smash, run over","es":"estrujar, aplastar, deformar","fr":"écraser","he":"למחוץ, למעוך, לרסק"}
-{"L":"crase","C":["n"],"en":"crushing, squashing","he":"מחיצה, מעיכה, ריסוק"}
-{"L":"crase su pede","C":["v"],"en":"crush under foot, trample, tread on","he":"לרמוס"}
-{"T":"r","L":"crasenoza","C":["n","vn","util","avia"],"d":"un util per abri nozas; un avia en familia de corvo, ci come la nozas de coniferes","i":"#, crasenoza-avia","t":"Nucifraga","en":"nutcracker","he":"מפצח אגוזים"}
-{"T":"r","L":"crasula","C":["n","pla"],"d":"un planta suculente con flores peti, ros o blanca, nativa de Sudafrica e Mosambic, e un planta comun de casa tra la mundo","i":"#","t":"Crassula ovata","en":"jade plant, friendship tree, lucky plant, money tree","he":"קרסולה סגלגלה (צמח)"}
-{"T":"r","L":"crater","C":["n","tera"],"d":"un caveta grande, con forma de bol, en la surfas de un planeta o luna, tipal causada par un esplode o un colpa par un meteorite o otra ojeto sielal; un cava grande cual formi la boca de un volcan","i":"#","en":"crater","he":"מכתש"}
-{"L":"crater volcanal","C":["n"],"en":"caldera","he":"קלדרה, לוע (הר געש)"}
-{"T":"r","L":"craton","C":["n","tera"],"d":"un bloco grande e stable de la crosta de la Tera, forminte la nucleo de un continente","en":"craton (geology)","he":"(גאולוגיה) קראטון"}
-{"T":"r","L":"cravata","C":["n","vest"],"d":"un banda de stofa portada sirca la colo e nodada a la fronte con sua finis pendente, un parte tipal de un veston de om","i":"#","da":"slips","de":"Krawatte","en":"necktie, tie","es":"corbata","fr":"cravate","he":"עניבה"}
-{"L":"cravata papilin","C":["n"],"i":"#","en":"bow tie","he":"עניבת פרפר"}
-{"T":"r","L":"crea","C":["vt"],"d":"fa ce (un cosa) esiste o (un situa) aveni; fabrica (un ojeto o sustantia)","da":"skabe, lave","de":"schaffen","en":"create, make, craft, cause to exist","es":"crear, hacer, fabricar, formar","fr":"créer","he":"ליצור, לברוא"}
-{"L":"crea","C":["n"],"en":"creation (action); genesis","he":"יצירה, בריאה"}
-{"L":"crea corente","C":["n"],"en":"improvisation","he":"אלתור"}
-{"L":"autocreada","C":["a"],"en":"self-made","he":"בזכות עצמו, בכוחותיו הוא"}
-{"L":"creada","C":["a"],"en":"created","he":"נוצר, נברא"}
-{"L":"creada","C":["n"],"en":"creature, creation (product)","he":"יציר"}
-{"L":"creante","C":["a"],"en":"creating, creative","he":"יוצר, בורא"}
-{"L":"creisme","C":["n","rel"],"en":"creationism"}
-{"L":"creiste","C":["n","rel"],"en":"creationist"}
-{"L":"creor","C":["n"],"en":"creator","he":"(אדם) יוצר"}
-{"L":"creosa","C":["a"],"en":"creative","he":"יצירתי"}
-{"L":"creosia","C":["n"],"en":"creativity","he":"יצירתיות"}
-{"L":"malcreada","C":["a"],"en":"ill-made","he":"שנעשה בצורה גרועה"}
-{"L":"malcreada","C":["n"],"en":"miscreant","he":"נבל, רשע"}
-{"L":"recrea","C":["vt"],"en":"recreate (create anew)","he":"ליצור מחדש"}
-{"L":"recrea","C":["n","spo"],"d":"un ata de crea denova; atas en cual on partisipa per diverti cuando on no labora","en":"recreation (repeated creation, leisure activity); playtime; remake (film)","he":"יצירה מחדש; עיבוד חדש; בילוי, שעשוע, נופש"}
-{"L":"recreal","C":["a"],"en":"recreational","he":"שקשור לבילוי"}
-{"T":"r","L":"creatina","C":["n","cim","bio"],"d":"un composada formida en la metaboli de protenas e presente en multe texedas vivente, cual furni enerjia per la contrae de musculos","en":"creatine","he":"קריאטין"}
-{"T":"r","L":"creatinina","C":["n","cim","bio"],"d":"un composada cual es produida par la metaboli de creatina e escreteda en la urina","en":"creatinine","he":"קריאטינין"}
-{"T":"r","L":"crede","C":["vt","rel"],"d":"aseta ce (alga cosa) es vera, tipal sin atesta demostrante; es serta sur la veria de (alga cosa)","da":"tro","de":"glauben","en":"believe","es":"creer, creer en, pensar que, tener fe en, confiar en","fr":"croire","he":"להאמין"}
-{"L":"crede","C":["n"],"en":"belief, creed, credo, doctrine, conviction","he":"אמונה"}
-{"L":"crede a","C":["v"],"en":"believe in"}
-{"L":"credable","C":["a"],"en":"believable, credible, plausible","he":"אמין, מהימן, מתקבל על הדעת"}
-{"L":"credablia","C":["n"],"en":"credibility","he":"אמינות"}
-{"L":"credor","C":["n"],"en":"believer","he":"מאמין"}
-{"L":"credosa","C":["a"],"en":"credulous, gullible, trusting, superstitious","he":"פותה, פתי, נאיבי, תמים"}
-{"L":"credosia","C":["n"],"en":"credulity","he":"פתיות, נאיביות, תמימות"}
-{"L":"intercredal","C":["a"],"en":"interfaith, cross-faith","he":"בין-דתי"}
-{"L":"malcrede","C":["n"],"en":"misbelief","he":"אמונה שגויה, אמונת שווא"}
-{"L":"no crede","C":["vt"],"en":"disbelieve","he":"לדחות (טענה), לכפור, לא להאמין"}
-{"L":"noncredable","C":["a"],"en":"unbelievable, incredible; incredibly good, fabulous, fantastic","he":"לא אמין; לא ייאמן; מדהים, נהדר, נפלא, פנטסטי, יוצא מן הכלל"}
-{"L":"noncredable","C":["av"],"en":"unbelievably, incredibly","he":"באופן מדהים, בצורה יוצאת מן הכלל"}
-{"L":"noncredablia","C":["n"],"en":"incredibility","he":"חוסר אמינות"}
-{"L":"noncrede","C":["n"],"en":"disbelief, incredulity","he":"אי אמונה, ספקנות, כפירה"}
-{"L":"noncredente","C":["a"],"en":"disbelieving, incredulous","he":"חסר אמונה, ספקני"}
-{"L":"noncredor","C":["n"],"en":"non-believer, infidel","he":"חסר אמונה, ספקן, כופר"}
-{"T":"r","L":"credito","C":["n","mone"],"d":"la capasia de un person per oteni benes o servis ante paia, fundida sur la fida ce el va paia en la futur; la mone prestada en un tal acorda","da":"kredit","de":"Kredit","en":"credit (money)","es":"crédito","fr":"crédit","he":"אשראי, קרדיט"}
-{"L":"creditor","C":["n"],"en":"creditor","he":"נושה, מלווה"}
-{"L":"par credito","C":["av"],"en":"on credit","he":"באשראי, בקרדיט"}
-{"T":"r","L":"crema","C":["a","col","cos"],"d":"jala ma multe pal","i":"#","en":"cream (color|ur)","he":"קרם (צבע)"}
-{"L":"crema","C":["n"],"d":"un licuida densa, grasosa e tipal con esta color, cual asende a la surfas de lete nondisturbada, comeda con deseres o usada en cosini; cualce sustantia de trama simil, usada como un comeda o bevida, o sur la pel como un medisin o un cosmetica","da":"fløde, creme","de":"Sahne","en":"cream, lotion","es":"crema","fr":"crème","he":"קרם, משחה; שמנת"}
-{"L":"crema ardeda","C":["n"],"en":"crème brûlée, burnt cream, Trinity cream","he":"קרם ברולה"}
-{"L":"crema asida","C":["n"],"en":"sour cream, smetana","he":"שמנת חמוצה"}
-{"L":"crema bateda","C":["n"],"i":"#","en":"whipped cream","he":"קצפת"}
-{"L":"crema baieres","C":["n"],"en":"Bavarian cream, bavarois","he":"קרם בוואריה"}
-{"L":"crema catalan","C":["n"],"en":"crema catalana","he":"קרמה קטלנה, קרם קטלן"}
+{"L":"craci","C":["vnt"],"en":"crack, crunch, scrunch, snap","fr":"craquer, casser","he":"להשמיע צליל פיצוח, צליל בקיעה"}
+{"L":"craci","C":["vt"],"en":"crack, crunch, scrunch, snap","fr":"croquer, casser","he":"להשמיע צליל פיצוח, צליל בקיעה"}
+{"L":"cracinte","C":["a"],"en":"crunchy","fr":"craquant, crissant, croustillant","he":"משמיע צליל פיצוח, צליל בקיעה"}
+{"L":"cracosa","C":["a"],"en":"crunchy, crisp, crispy","fr":"croustillant","he":"פריך, מתפצח, קראנצ'י"}
+{"T":"r","L":"crac","C":["n","med"],"d":"un forma dur e cristal de cocaina, rompeda a pesos peti, caldida e enspirada","en":"crack, crack cocaine","fr":"(le) crack (drogue)","he":"קראק"}
+{"T":"r","L":"cracen","C":["n","mit"],"d":"un monstro mital enorme de mar, sur cual on dise ce lo apare a la costa de Noria","i":"#","en":"kraken","fr":"(un) kraken (monstre marin, mythologie norvégienne)","he":"קראקן"}
+{"T":"r","L":"cracer","C":["n","cos"],"d":"un biscoto magra, seca e salosa","en":"cracker, saltine","fr":"(un) cracker, (un) craquelin (biscuit sec salé)","he":"קרקר, מצייה"}
+{"L":"cracer de segal","C":["n"],"en":"crispbread","fr":"(un) cracker au seigle","he":"קרקר שיפון"}
+{"T":"r","L":"crampo","C":["n","med"],"d":"un contrae dolente e nonintendeda de un musculo o musculos, tipal causada par fatiga o tensa","en":"cramp (muscle)","fr":"(une) crampe","he":"התכווצות, עווית (שריר)"}
+{"T":"r","L":"crampon","C":["n","util"],"d":"un protende o spina peti, fisada a la planta de un sapato o bota per redui la risca de lisca","en":"crampon, stud (boot)","fr":"(des) crampons","he":"קרמפון, זיז סוליה"}
+{"T":"r","L":"cranio","C":["n","anat"],"d":"la strutur de oso o cartilaje cual enclui la serebro de un vertebrato","i":"#","en":"skull, cranium","fr":"(le) crâne","he":"גולגולת"}
+{"L":"cranial","C":["a"],"en":"cranial","fr":"crânien","he":"גולגולתי"}
+{"T":"r","L":"crase","C":["vt"],"d":"compresa forte (alga cosa) per desformi lo, polvi lo o forsa lo a en se","da":"knuse, mase","de":"quetschen","en":"crush, squash, mash, crumple, flatten, smash, run over","es":"estrujar, aplastar, deformar","fr":"écraser, aplatir","he":"למחוץ, למעוך, לרסק"}
+{"L":"crase","C":["n"],"en":"crushing, squashing","fr":"écrasement","he":"מחיצה, מעיכה, ריסוק"}
+{"L":"crase su pede","C":["v"],"en":"crush under foot, trample, tread on","fr":"écraser, piétiner, fouler au pied, marcher sur","he":"לרמוס"}
+{"T":"r","L":"crasenoza","C":["n","vn","util","avia"],"d":"un util per abri nozas; un avia en familia de corvo, ci come la nozas de coniferes","i":"#, crasenoza-avia","t":"Nucifraga","en":"nutcracker","fr":"(un) casse-noix; (un) cassenoix (oiseau)","he":"מפצח אגוזים"}
+{"T":"r","L":"crasula","C":["n","pla"],"d":"un planta suculente con flores peti, ros o blanca, nativa de Sudafrica e Mosambic, e un planta comun de casa tra la mundo","i":"#","t":"Crassula ovata","en":"jade plant, friendship tree, lucky plant, money tree","fr":"(un) arbre de jade, (un) arbre de la chance, (un) arbre d'argent","he":"קרסולה סגלגלה (צמח)"}
+{"T":"r","L":"crater","C":["n","tera"],"d":"un caveta grande, con forma de bol, en la surfas de un planeta o luna, tipal causada par un esplode o un colpa par un meteorite o otra ojeto sielal; un cava grande cual formi la boca de un volcan","i":"#","en":"crater","fr":"(un) cratère","he":"מכתש"}
+{"L":"crater volcanal","C":["n"],"en":"caldera","fr":"(une) caldeira, (une) caldera","he":"קלדרה, לוע (הר געש)"}
+{"T":"r","L":"craton","C":["n","tera"],"d":"un bloco grande e stable de la crosta de la Tera, forminte la nucleo de un continente","en":"craton (geology)","fr":"(un) craton","he":"(גאולוגיה) קראטון"}
+{"T":"r","L":"cravata","C":["n","vest"],"d":"un banda de stofa portada sirca la colo e nodada a la fronte con sua finis pendente, un parte tipal de un veston de om","i":"#","da":"slips","de":"Krawatte","en":"necktie, tie","es":"corbata","fr":"(une) cravate","he":"עניבה"}
+{"L":"cravata papilin","C":["n"],"i":"#","en":"bow tie","fr":"(un) nœud papillon","he":"עניבת פרפר"}
+{"T":"r","L":"crea","C":["vt"],"d":"fa ce (un cosa) esiste o (un situa) aveni; fabrica (un ojeto o sustantia)","da":"skabe, lave","de":"schaffen","en":"create, make, craft, cause to exist","es":"crear, hacer, fabricar, formar","fr":"créer, fabriquer, élaborer, composer, concevoir, générer, produire","he":"ליצור, לברוא"}
+{"L":"crea","C":["n"],"en":"creation (action); genesis","fr":"(une) création (action), (une) fabrication, (une) production (action), (une) élaboration, (une) génèse","he":"יצירה, בריאה"}
+{"L":"crea corente","C":["n"],"en":"improvisation","fr":"(une) improvisation","he":"אלתור"}
+{"L":"autocreada","C":["a"],"en":"self-made","fr":"autodidacte, qui s'est fait soi-même, autocréé","he":"בזכות עצמו, בכוחותיו הוא"}
+{"L":"creada","C":["a"],"en":"created","fr":"créé","he":"נוצר, נברא"}
+{"L":"creada","C":["n"],"en":"creature, creation (product)","fr":"(une) créature, (une) création (produit), (un) produit, (une) production","he":"יציר"}
+{"L":"creante","C":["a"],"en":"creating, creative","fr":"créant, créatif","he":"יוצר, בורא"}
+{"L":"creisme","C":["n","rel"],"en":"creationism","fr":"(le) créationnisme"}
+{"L":"creiste","C":["n","rel"],"en":"creationist","fr":"(un) créationniste"}
+{"L":"creor","C":["n"],"en":"creator","fr":"(un) créateur | (une) créatrice","he":"(אדם) יוצר"}
+{"L":"creosa","C":["a"],"en":"creative","fr":"créatif, fécond, inventif, imaginatif, fertile","he":"יצירתי"}
+{"L":"creosia","C":["n"],"en":"creativity","fr":"(une) créativité, (une) inventivité, (une) imagination","he":"יצירתיות"}
+{"L":"malcreada","C":["a"],"en":"ill-made","fr":"mal fait, défectueux, qui a un défaut de fabrication","he":"שנעשה בצורה גרועה"}
+{"L":"malcreada","C":["n"],"en":"miscreant","fr":"(un) défaut de fabrication, (une) malfaçon, (une) défectuosité","he":"נבל, רשע"}
+{"L":"recrea","C":["vt"],"en":"recreate (create anew)","fr":"recréer, refabriquer","he":"ליצור מחדש"}
+{"L":"recrea","C":["n","spo"],"d":"un ata de crea denova; atas en cual on partisipa per diverti cuando on no labora","en":"recreation (repeated creation, leisure activity); playtime; remake (film)","fr":"(une) recréation (création répétée), (une) reprise, (une) refonte, (une) réfection, (un) remake (film) ; (une) récréation (loisir)","he":"יצירה מחדש; עיבוד חדש; בילוי, שעשוע, נופש"}
+{"L":"recreal","C":["a"],"en":"recreational","fr":"récréatif","he":"שקשור לבילוי"}
+{"T":"r","L":"creatina","C":["n","cim","bio"],"d":"un composada formida en la metaboli de protenas e presente en multe texedas vivente, cual furni enerjia per la contrae de musculos","en":"creatine","fr":"(la) créatine","he":"קריאטין"}
+{"T":"r","L":"creatinina","C":["n","cim","bio"],"d":"un composada cual es produida par la metaboli de creatina e escreteda en la urina","en":"creatinine","fr":"(la) créatinine","he":"קריאטינין"}
+{"T":"r","L":"crede","C":["vt","rel"],"d":"aseta ce (alga cosa) es vera, tipal sin atesta demostrante; es serta sur la veria de (alga cosa)","da":"tro","de":"glauben","en":"believe","es":"creer, creer en, pensar que, tener fe en, confiar en","fr":"croire, ajouter foi à, faire confiance à, se fier à","he":"להאמין"}
+{"L":"crede","C":["n"],"en":"belief, creed, credo, doctrine, conviction","fr":"(une) croyance, (une) doctrine, (une) conviction, (un) credo, (une) foi","he":"אמונה"}
+{"L":"crede a","C":["v"],"en":"believe in","fr":"croire en, avoir foi en"}
+{"L":"credable","C":["a"],"en":"believable, credible, plausible","fr":"crédible, fiable, plausible, recevable, vraisemblable","he":"אמין, מהימן, מתקבל על הדעת"}
+{"L":"credablia","C":["n"],"en":"credibility","fr":"crédibilité","he":"אמינות"}
+{"L":"credor","C":["n"],"en":"believer","fr":"(un) croyant, (un) fidèle","he":"מאמין"}
+{"L":"credosa","C":["a"],"en":"credulous, gullible, trusting, superstitious","fr":"crédule, confiant, superstitieux","he":"פותה, פתי, נאיבי, תמים"}
+{"L":"credosia","C":["n"],"en":"credulity","fr":"crédulité","he":"פתיות, נאיביות, תמימות"}
+{"L":"intercredal","C":["a"],"en":"interfaith, cross-faith","fr":"interreligieux","he":"בין-דתי"}
+{"L":"malcrede","C":["n"],"en":"misbelief","fr":"(une) incrédulité, (une) fausse croyance, (une) fausse opinion","he":"אמונה שגויה, אמונת שווא"}
+{"L":"no crede","C":["vt"],"en":"disbelieve","fr":"ne pas croire","he":"לדחות (טענה), לכפור, לא להאמין"}
+{"L":"noncredable","C":["a"],"en":"unbelievable, incredible; incredibly good, fabulous, fantastic","fr":"non crédible, irrecevable, invraisemblable, fantaisiste, farfelu, insensé, loufoque; incroyable, fantastique","he":"לא אמין; לא ייאמן; מדהים, נהדר, נפלא, פנטסטי, יוצא מן הכלל"}
+{"L":"noncredable","C":["av"],"en":"unbelievably, incredibly","fr":"incroyablement","he":"באופן מדהים, בצורה יוצאת מן הכלל"}
+{"L":"noncredablia","C":["n"],"en":"incredibility","fr":"incrédibilité","he":"חוסר אמינות"}
+{"L":"noncrede","C":["n"],"en":"disbelief, incredulity","fr":"incroyance, mécréance, méfiance, incrédulité","he":"אי אמונה, ספקנות, כפירה"}
+{"L":"noncredente","C":["a"],"en":"disbelieving, incredulous","fr":"incroyant, mécréant, méfiant, incrédule","he":"חסר אמונה, ספקני"}
+{"L":"noncredor","C":["n"],"en":"non-believer, infidel","fr":"(un) agnostique, (un) non-croyant, (un) athée, (un) infidèle, (un) incroyant","he":"חסר אמונה, ספקן, כופר"}
+{"T":"r","L":"credito","C":["n","mone"],"d":"la capasia de un person per oteni benes o servis ante paia, fundida sur la fida ce el va paia en la futur; la mone prestada en un tal acorda","da":"kredit","de":"Kredit","en":"credit (money)","es":"crédito","fr":"(un) crédit","he":"אשראי, קרדיט"}
+{"L":"creditor","C":["n"],"en":"creditor","fr":"(un) créancier","he":"נושה, מלווה"}
+{"L":"par credito","C":["av"],"en":"on credit","fr":"à crédit","he":"באשראי, בקרדיט"}
+{"T":"r","L":"crema","C":["a","col","cos"],"d":"jala ma multe pal","i":"#","en":"cream (color|ur)","fr":"crème (couleur)","he":"קרם (צבע)"}
+{"L":"crema","C":["n"],"d":"un licuida densa, grasosa e tipal con esta color, cual asende a la surfas de lete nondisturbada, comeda con deseres o usada en cosini; cualce sustantia de trama simil, usada como un comeda o bevida, o sur la pel como un medisin o un cosmetica","da":"fløde, creme","de":"Sahne","en":"cream, lotion","es":"crema","fr":"(la) crème","he":"קרם, משחה; שמנת"}
+{"L":"crema ardeda","C":["n"],"en":"crème brûlée, burnt cream, Trinity cream","fr":"(une) crème brûlée","he":"קרם ברולה"}
+{"L":"crema asida","C":["n"],"en":"sour cream, smetana","fr":"(une) crème acidulée | aigre | sure","he":"שמנת חמוצה"}
+{"L":"crema bateda","C":["n"],"i":"#","en":"whipped cream","fr":"(une) crème battue","he":"קצפת"}
+{"L":"crema baieres","C":["n"],"en":"Bavarian cream, bavarois","fr":"(une) crème bavaroise","he":"קרם בוואריה"}
+{"L":"crema catalan","C":["n"],"en":"crema catalana","fr":"(une) crème catalane","he":"קרמה קטלנה, קרם קטלן"}
 {"L":"crema de bur","C":["n"],"en":"buttercream","he":"קציפת חמאה"}
-{"L":"crema de caramel","C":["n"],"en":"crème caramel, caramel custard, caramel pudding, flan","he":"קרם קרמל"}
-{"L":"crema de la crema","C":["n"],"en":"crème de la crème","he":"קרם דה לה קרם, שופרא דשופרא, עילית שבעילית"}
+{"L":"crema de caramel","C":["n"],"en":"crème caramel, caramel custard, caramel pudding, flan","fr":"(une) crème caramel","he":"קרם קרמל"}
+{"L":"crema de la crema","C":["n"],"en":"crème de la crème","fr":"(la) crème (élite, meilleures personnes)","he":"קרם דה לה קרם, שופרא דשופרא, עילית שבעילית"}
 {"L":"crema de menta","C":["n"],"en":"crème de menthe","he":"קרם דה מנטה (משקה)"}
-{"L":"crema de ovos","C":["n"],"en":"custard","he":"חביצה"}
-{"L":"crema de rasa","C":["n"],"en":"shaving cream, shaving foam","he":"קרם גילוח"}
-{"L":"crema de sosia","C":["n"],"en":"cream of society, high society","he":"החברה הגבוהה"}
+{"L":"crema de ovos","C":["n"],"en":"custard","fr":"(une) crème anglaise","he":"חביצה"}
+{"L":"crema de rasa","C":["n"],"en":"shaving cream, shaving foam","fr":"(une) crème à raser","he":"קרם גילוח"}
+{"L":"crema de sosia","C":["n"],"en":"cream of society, high society","fr":"(la) crème de la société","he":"החברה הגבוהה"}
 {"L":"crema de zucar","C":["n"],"en":"marshmallow cream, marshmallow topping","he":"קרם מרשמלו"}
-{"L":"crema engles","C":["n"],"en":"crème anglaise, custard","he":"קרם אנגלז"}
+{"L":"crema engles","C":["n"],"en":"crème anglaise, custard","fr":"(une) crème anglaise","he":"קרם אנגלז"}
 {"L":"crema grasosa","C":["n"],"en":"heavy cream, double cream","he":"שמנת מתוקה"}
-{"L":"crema italian","C":["n"],"en":"panna cotta","he":"פנקוטה"}
-{"L":"crema jelada","C":["n"],"i":"#","en":"ice cream","he":"גלידה"}
-{"L":"crema rojinte","C":["n"],"en":"rouge","he":"סומק"}
-{"L":"crema solal","C":["n"],"en":"suncream, sunblock, sunscreen","he":"קרם שיזוף"}
-{"L":"cremeria","C":["n"],"en":"creamery","he":"מחלבה, יצרן גבינות"}
+{"L":"crema italian","C":["n"],"en":"panna cotta","fr":"(une) panna cotta","he":"פנקוטה"}
+{"L":"crema jelada","C":["n"],"i":"#","en":"ice cream","fr":"(une) glace, (une) crème glacée","he":"גלידה"}
+{"L":"crema rojinte","C":["n"],"en":"rouge","fr":"(un) fard (cosmétique)","he":"סומק"}
+{"L":"crema solal","C":["n"],"en":"suncream, sunblock, sunscreen","fr":"(une) crème solaire","he":"קרם שיזוף"}
+{"L":"cremeria","C":["n"],"en":"creamery","fr":"(un) crèmerie","he":"מחלבה, יצרן גבינות"}
 {"L":"cremeta","C":["n"],"en":"custard","he":"חביצה"}
-{"L":"cremi","C":["vt"],"en":"cream (add cream to)","he":"להוסיף שמנת"}
-{"L":"cremin","C":["a"],"en":"creamy (creamlike)","he":"קרמי, משחתי"}
-{"L":"cremosa","C":["a"],"en":"creamy (full of cream)","he":"מלא קרם, מלא שמנת"}
-{"L":"descremi","C":["vt"],"en":"skim","he":"להפריד שמנת (מחלב)"}
-{"L":"descremida","C":["a"],"en":"skimmed (milk)","he":"(חלב) דל-שומן"}
-{"T":"r","L":"cremaster","C":["n","anat","med"],"d":"un musculo cual teni la testiculos","en":"cremaster (muscle)","he":"שריר מרים האשך"}
-{"T":"r","L":"creol","C":["a","dem","ling"],"d":"pertinente a persones ci desende de un misca de europeanes e africanes, spesial en la isolas de la Caribe, a sua cultur e cosini, o a sua linguas","en":"creole","he":"קריאולי"}
-{"L":"creol","C":["n"],"en":"creole","he":"קריאולי, קריאולית (שפה)"}
-{"L":"creol aitian","C":["a"],"en":"Haitian Creole, Kreyol Ayisyen","he":"קריאולית האיטית"}
-{"L":"creol aitian","C":["n"],"en":"Haitian Creole, Kreyol Ayisyen","he":"קריאולית האיטית"}
-{"T":"r","L":"creosota","C":["n","cim"],"d":"un olio oscur brun, distilada de catran de carbon e usada per manteni lenio","en":"creosote","he":"קראוזוט (שמן)"}
-{"T":"r","L":"crepe","C":["n","cos"],"d":"un torta magra e plata de pasta, fritada e comeda con xirope o enrolada con plenida","i":"#","en":"crêpe, pancake, flapjack, hotcake","he":"פנקייק, חמיטה"}
-{"T":"r","L":"crepita","C":["vnt","cos"],"d":"produi un susede rapida de cracis peti, como de crase o frita","en":"crackle, sizzle","he":"להשמיע צליל פצפוץ"}
-{"L":"crepita","C":["n"],"en":"crackle, sizzle","he":"צליל פצפוץ"}
-{"L":"crepitante","C":["a"],"en":"crackling, crackly (including recording)","he":"משמיע צליל פצפוץ (גם בהקלטה)"}
-{"T":"r","L":"crese","C":["vnt","bio"],"d":"developa natural par deveni plu grande e cambia fisical; progresa a maturia; deveni plu grande","da":"vokse, gro","de":"ausbreiten, wachsen","en":"grow, develop, expand, increase","es":"crecer, expandir, aumentar","fr":"croître, augmenter","he":"לצמוח, לגדול, להתפתח"}
-{"L":"crese","C":["vt"],"en":"grow, develop, expand, increase","he":"להצמיח, לגדל, להגדיל"}
-{"L":"crese","C":["n"],"en":"growth, development, expansion; growth (thing that has naturally grown), excrescence","he":"צמיחה, גדילה, התפתחות"}
-{"L":"crese dentes","C":["v"],"en":"teethe","he":"להצמיח שיניים"}
-{"L":"crese rapida","C":["vnt"],"en":"grow quickly, burgeon","he":"לגדול במהירות"}
+{"L":"cremi","C":["vt"],"en":"cream (add cream to)","fr":"ajouter de la crème à","he":"להוסיף שמנת"}
+{"L":"cremin","C":["a"],"en":"creamy (creamlike)","fr":"crémeux (texture)","he":"קרמי, משחתי"}
+{"L":"cremosa","C":["a"],"en":"creamy (full of cream)","fr":"crémeux (contenant de la crème)","he":"מלא קרם, מלא שמנת"}
+{"L":"descremi","C":["vt"],"en":"skim","fr":"écrémer","he":"להפריד שמנת (מחלב)"}
+{"L":"descremida","C":["a"],"en":"skimmed (milk)","fr":"écrémé","he":"(חלב) דל-שומן"}
+{"T":"r","L":"cremaster","C":["n","anat","med"],"d":"un musculo cual teni la testiculos","en":"cremaster (muscle)","fr":"(le) crémaster (muscle)","he":"שריר מרים האשך"}
+{"T":"r","L":"creol","C":["a","dem","ling"],"d":"pertinente a persones ci desende de un misca de europeanes e africanes, spesial en la isolas de la Caribe, a sua cultur e cosini, o a sua linguas","en":"creole","fr":"créole","he":"קריאולי"}
+{"L":"creol","C":["n"],"en":"creole","fr":"(un | une) créole (personne); (le) créole (langue)","he":"קריאולי, קריאולית (שפה)"}
+{"L":"creol aitian","C":["a"],"en":"Haitian Creole, Kreyol Ayisyen","fr":"créole haïtien","he":"קריאולית האיטית"}
+{"L":"creol aitian","C":["n"],"en":"Haitian Creole, Kreyol Ayisyen","fr":"(le) créole haïtien","he":"קריאולית האיטית"}
+{"T":"r","L":"creosota","C":["n","cim"],"d":"un olio oscur brun, distilada de catran de carbon e usada per manteni lenio","en":"creosote","fr":"(la) créosote","he":"קראוזוט (שמן)"}
+{"T":"r","L":"crepe","C":["n","cos"],"d":"un torta magra e plata de pasta, fritada e comeda con xirope o enrolada con plenida","i":"#","en":"crêpe, pancake, flapjack, hotcake","fr":"(une) crêpe","he":"פנקייק, חמיטה"}
+{"T":"r","L":"crepita","C":["vnt","cos"],"d":"produi un susede rapida de cracis peti, como de crase o frita","en":"crackle, sizzle","fr":"crépiter, grésiller, craquer (disque vinyle)","he":"להשמיע צליל פצפוץ"}
+{"L":"crepita","C":["n"],"en":"crackle, sizzle","fr":"(un) crépitement, (un) grésillement","he":"צליל פצפוץ"}
+{"L":"crepitante","C":["a"],"en":"crackling, crackly (including recording)","fr":"crépitant, grésillant","he":"משמיע צליל פצפוץ (גם בהקלטה)"}
+{"T":"r","L":"crese","C":["vnt","bio"],"d":"developa natural par deveni plu grande e cambia fisical; progresa a maturia; deveni plu grande","da":"vokse, gro","de":"ausbreiten, wachsen","en":"grow, develop, expand, increase","es":"crecer, expandir, aumentar","fr":"grandir, croître, augmenter","he":"לצמוח, לגדול, להתפתח"}
+{"L":"crese","C":["vt"],"en":"grow, develop, expand, increase","fr":"faire grandir, développer, accroître, étendre, augmenter, répandre","he":"להצמיח, לגדל, להגדיל"}
+{"L":"crese","C":["n"],"en":"growth, development, expansion; growth (thing that has naturally grown), excrescence","fr":"(une) croissance, (un) développement, (une) expansion, (un) accroissement, (un) agrandissement, (une) augmentation","he":"צמיחה, גדילה, התפתחות"}
+{"L":"crese dentes","C":["v"],"en":"teethe","fr":"percer ses premières dents, commencer à faire ses dents","he":"להצמיח שיניים"}
+{"L":"crese rapida","C":["vnt"],"en":"grow quickly, burgeon","fr":"grandir rapidement, progresser rapidement, se répandre rapidement","he":"לגדול במהירות"}
 {"L":"cresedas","C":["n","pl"],"en":"produce (fruit and vegetables)","he":"תוצרת חקלאית"}
-{"L":"cresente","C":["a"],"en":"growing, increasing","he":"צומח, גודל, מתפתח"}
-{"L":"cresente","C":["av"],"en":"increasingly, more and more, ever more","he":"יותר ויותר"}
-{"L":"cresente","C":["n"],"en":"crescent; croissant; crescendo","he":"סהר; קרואסון; (מוזיקה) קרשנדו"}
-{"L":"descrese","C":["vnt"],"en":"decrease, decline, deteriorate, decay, ebb, wane, go downhill, cease to flourish","he":"להתמעט, להצטמצם, לדעוך, לגווע; להידרדר"}
-{"L":"recrese","C":["vnt"],"en":"regrow, regenerate","he":"לצמוח מחדש"}
-{"L":"recrese","C":["vt"],"en":"regrow, regenerate","he":"להצמיח מחדש"}
-{"L":"sempre cresente","C":["a"],"en":"ever growing, ever increasing","he":"הולך וגדל"}
-{"T":"r","L":"creson","C":["n","pla","cos"],"d":"un planta en familia de col, tipal con flores peti e blanca e folias bonodorosa","i":"#","t":"Brassicaceae","en":"cress","he":"צמח ממשפחת המצליבים"}
-{"L":"creson de acua","C":["n","pla"],"d":"un creson cual crese en acua corente, con folias odorosa cual on usa en salada","i":"#","t":"Nasturtium","en":"watercress","he":"גרגיר הנחלים (צמח)"}
-{"T":"r","L":"crespa","C":["a","vest"],"d":"(capeles) formida de un masa de risas o mexas peti e tensada","en":"frizzy","he":"מקורזל"}
-{"L":"crespi","C":["vnt"],"en":"frizz","he":"להתקרזל"}
-{"L":"crespi","C":["vt"],"en":"frizz","he":"לקרזל"}
-{"T":"r","L":"cresta","C":["n","bio"],"d":"un mexa de plumas, pelo o pel sur la testa de un avia o otra animal; un cosa simil sur un elmo; un desinia eraldial cual representa un familia o corpora; la culmina de un onda, cadena de montes o simil","en":"crest (wave, bird, heraldic), ridge","he":"כרבולת, ציצית; שיא, פסגה, רכס (גל, הרים); סמל משפחה או חברה"}
-{"L":"cresta de gal","C":["n"],"en":"cockscomb","he":"כרבולת"}
-{"L":"cresta de la arte","C":["n"],"en":"state of the art","he":"העדכני ביותר, המתקדם ביותר"}
-{"L":"cresta de la tecnolojia","C":["n"],"en":"state of the art","he":"העדכני ביותר, המתקדם ביותר"}
-{"L":"cresta de neva","C":["n"],"en":"snowbank","he":"מערום שלג"}
-{"L":"cresta sajital","C":["n"],"en":"sagittal crest","he":"(אנטומיה) רכס סגיטלי"}
-{"L":"cresta spumosa","C":["n"],"en":"whitecap","he":"גל מקציף"}
-{"L":"cresti","C":["vnt"],"en":"crest (wave)","he":"(גל) להגיע לשיא, להגיע לפסגה"}
-{"T":"r","L":"creta","C":["n","util"],"d":"un calcario blanca e mol, derivada de sceletos de organismes de mar; un materia simil, usada per scrive o desinia sur un mureta negra","da":"kridt","de":"Kreide","en":"chalk","es":"tiza, yeso, gis","fr":"craie","he":"גיר"}
-{"L":"creti","C":["vt"],"en":"chalk (up)","he":"לכתוב בגיר"}
-{"T":"r","L":"cretasica","C":["a","tera"],"d":"pertinente a la periodo final de la eda mesozoica, entre la jurasica e tersiaria","en":"Cretaceous (geology)","he":"(גאולוגיה) קרטיקון"}
-{"L":"cretasica","C":["n"],"en":"Cretaceous (geology)","he":"(גאולוגיה) קרטיקון"}
-{"T":"r","L":"cretin","C":["a","med"],"d":"(istorial) pertinente a la maladia de persones malformida e mental descapasida par un nonsufisi conjenital de la tiroide; (insultante) stupida","en":"cretinous","he":"(רפואה) קרטנת; טפשי, מטופש, אידיוטי"}
-{"L":"cretin","C":["n"],"en":"cretin","he":"טיפש, אידיוט"}
-{"T":"r","L":"creve","C":["vnt"],"d":"rompe subita e violente, perdente sua contenida; (un numatico) deveni perforada con resulta simil","en":"burst, puncture","he":"לנקב"}
-{"L":"creve","C":["n"],"en":"puncture","he":"נקב"}
-{"L":"creve de cor","C":["n"],"en":"heartbreak","he":"שברון לב"}
-{"L":"con cor creveda","C":["a"],"en":"heartbroken","he":"שבור לב"}
-{"L":"creveda","C":["a"],"en":"burst, punctured","he":"מנוקב"}
-{"T":"r","L":"crevecor","C":["n","vn"],"d":"un person atraosa ma nonfidable en relatas emosial; un nara, canta o aveni tristinte o angusante","en":"heartbreaker; tearjerker","he":"שובר לבבות; (סרט, שיר) סוחט דמעות"}
+{"L":"cresente","C":["a"],"en":"growing, increasing","fr":"croissant, en augmentation","he":"צומח, גודל, מתפתח"}
+{"L":"cresente","C":["av"],"en":"increasingly, more and more, ever more","fr":"davantage, de plus en plus","he":"יותר ויותר"}
+{"L":"cresente","C":["n"],"en":"crescent; croissant; crescendo","fr":"(un) croissant; (un) crescendo","he":"סהר; קרואסון; (מוזיקה) קרשנדו"}
+{"L":"descrese","C":["vnt"],"en":"decrease, decline, deteriorate, decay, ebb, wane, go downhill, cease to flourish","fr":"décroître, décliner, diminuer, régresser, s'éteindre, s'affaiblir, s'amoindrir, s'atrophier, s'estomper, se détériorer, se décomposer","he":"להתמעט, להצטמצם, לדעוך, לגווע; להידרדר"}
+{"L":"recrese","C":["vnt"],"en":"regrow, regenerate","fr":"se régénérer, recroître, croître de nouveau, repousser","he":"לצמוח מחדש"}
+{"L":"recrese","C":["vt"],"en":"regrow, regenerate","fr":"régénérer, refaire croître, refaire grandir","he":"להצמיח מחדש"}
+{"L":"sempre cresente","C":["a"],"en":"ever growing, ever increasing","fr":"en croissance continuelle","he":"הולך וגדל"}
+{"T":"r","L":"creson","C":["n","pla","cos"],"d":"un planta en familia de col, tipal con flores peti e blanca e folias bonodorosa","i":"#","t":"Brassicaceae","en":"cress","fr":"(le) cresson","he":"צמח ממשפחת המצליבים"}
+{"L":"creson de acua","C":["n","pla"],"d":"un creson cual crese en acua corente, con folias odorosa cual on usa en salada","i":"#","t":"Nasturtium","en":"watercress","fr":"(le) cresson de fontaine","he":"גרגיר הנחלים (צמח)"}
+{"T":"r","L":"crespa","C":["a","vest"],"d":"(capeles) formida de un masa de risas o mexas peti e tensada","en":"frizzy","fr":"crépu, frisé","he":"מקורזל"}
+{"L":"crespi","C":["vnt"],"en":"frizz","fr":"friser","he":"להתקרזל"}
+{"L":"crespi","C":["vt"],"en":"frizz","fr":"faire friser","he":"לקרזל"}
+{"T":"r","L":"cresta","C":["n","bio"],"d":"un mexa de plumas, pelo o pel sur la testa de un avia o otra animal; un cosa simil sur un elmo; un desinia eraldial cual representa un familia o corpora; la culmina de un onda, cadena de montes o simil","en":"crest (wave, bird, heraldic), ridge","fr":"(une) crête (vague, oiseau, héraldique, montagne)","he":"כרבולת, ציצית; שיא, פסגה, רכס (גל, הרים); סמל משפחה או חברה"}
+{"L":"cresta de gal","C":["n"],"en":"cockscomb","fr":"(une) crête de coq","he":"כרבולת"}
+{"L":"cresta de la arte","C":["n"],"en":"state of the art","fr":"les dernières avancées de l'art","he":"העדכני ביותר, המתקדם ביותר"}
+{"L":"cresta de la tecnolojia","C":["n"],"en":"state of the art","fr":"les dernières avancées de la technologie","he":"העדכני ביותר, המתקדם ביותר"}
+{"L":"cresta de neva","C":["n"],"en":"snowbank","fr":"(une) crête neigeuse, (une) crête enneigée","he":"מערום שלג"}
+{"L":"cresta sajital","C":["n"],"en":"sagittal crest","fr":"(une) crête sagittale (anatomie)","he":"(אנטומיה) רכס סגיטלי"}
+{"L":"cresta spumosa","C":["n"],"en":"whitecap","fr":"(des) moutons (vagues)","he":"גל מקציף"}
+{"L":"cresti","C":["vnt"],"en":"crest (wave)","fr":"moutonner (vagues)","he":"(גל) להגיע לשיא, להגיע לפסגה"}
+{"T":"r","L":"creta","C":["n","util"],"d":"un calcario blanca e mol, derivada de sceletos de organismes de mar; un materia simil, usada per scrive o desinia sur un mureta negra","da":"kridt","de":"Kreide","en":"chalk","es":"tiza, yeso, gis","fr":"(la) craie","he":"גיר"}
+{"L":"creti","C":["vt"],"en":"chalk (up)","fr":"frotter avec de la craie, couvrir de craie, passer de la craie sur","he":"לכתוב בגיר"}
+{"T":"r","L":"cretasica","C":["a","tera"],"d":"pertinente a la periodo final de la eda mesozoica, entre la jurasica e tersiaria","en":"Cretaceous (geology)","fr":"du Crétacé (géologie)","he":"(גאולוגיה) קרטיקון"}
+{"L":"cretasica","C":["n"],"en":"Cretaceous (geology)","fr":"(le) Crétacé (géologie)","he":"(גאולוגיה) קרטיקון"}
+{"T":"r","L":"cretin","C":["a","med"],"d":"(istorial) pertinente a la maladia de persones malformida e mental descapasida par un nonsufisi conjenital de la tiroide; (insultante) stupida","en":"cretinous","fr":"affecté de crétinisme, crétin","he":"(רפואה) קרטנת; טפשי, מטופש, אידיוטי"}
+{"L":"cretin","C":["n"],"en":"cretin","fr":"(un) crétin","he":"טיפש, אידיוט"}
+{"T":"r","L":"creve","C":["vnt"],"d":"rompe subita e violente, perdente sua contenida; (un numatico) deveni perforada con resulta simil","en":"burst, puncture","fr":"éclater, crever, exploser, (se) percer (pneu)","he":"לנקב"}
+{"L":"creve","C":["n"],"en":"puncture","fr":"(une) crevaison, (un) éclatement","he":"נקב"}
+{"L":"creve de cor","C":["n"],"en":"heartbreak","fr":"(une) peine d'amour, (un) crève-cœur","he":"שברון לב"}
+{"L":"con cor creveda","C":["a"],"en":"heartbroken","fr":"qui a le cœur brisé","he":"שבור לב"}
+{"L":"creveda","C":["a"],"en":"burst, punctured","fr":"crevé, éclaté, explosé","he":"מנוקב"}
+{"T":"r","L":"crevecor","C":["n","vn"],"d":"un person atraosa ma nonfidable en relatas emosial; un nara, canta o aveni tristinte o angusante","en":"heartbreaker; tearjerker","fr":"(un) bourreau des cœurs, (un) tombeur, (une) femme fatale, (une) vamp; (un) drame, (un) mélodrame, (un) mélo; (une) complainte, (une) goualante","he":"שובר לבבות; (סרט, שיר) סוחט דמעות"}
 {"T":"r","L":"cri","C":["a","dem"],"d":"pertinente a la americanes orijinal en un rejion grande de Canada sentral, o a sua lingua algoncian","en":"Cree (person, language)","he":"קרי (אדם, שפה)"}
 {"L":"cri","C":["n"],"en":"Cree (person, language)","he":"קרי (אדם, שפה)"}
 {"T":"r","L":"cria","C":["vt"],"d":"espresa (sua teme, dole, lamenta, coleria, o un mesaje a un person distante) par un sona vosal multe forte","da":"råbe, skrige op","de":"schreien","en":"cry, shout, scream, yell, yelp, bawl, outcry","es":"gritar, llorar, clamar, exclamar, vocear, dar gritos, vociferar","fr":"crier","he":"לצעוק, לצרוח"}
