@@ -2604,8 +2604,8 @@
 {"L":"verdin azul","C":["a"],"en":"greenish-blue, greeny-blue","es":"azul verdoso","fr":"bleu-vert","he":"כחול ירקרק"}
 {"T":"r","L":"b","C":["sim"],"d":"la letera du de la alfabeta roman; la nota sete de la scala diatonica de C major","p":"be","en":"b","es":"b","fr":"b (lettre de l'alphabet), si (note de la gamme)","he":"האות השנייה באלפבית הלטיני"}
 {"T":"r","L":"ba","C":["esc"],"d":"espresante un manca de interesa","en":"bah, nonsense, rubbish, who cares?","es":"bah, ¿a quién le importa?","fr":"bah ! bof !","he":"למי אכפת?, שטויות!, להביע חוסר עניין"}
-{"T":"r","L":"babau","C":["n","mit","uma"],"d":"un mal spirito imajinada, istorial usada per asusta enfantes; un person o cosa cual on regarda tipal como un ojeto de teme; un causa de teme, irita o despeta osesente","da":"bussemand","en":"bogeyman, boogeyman, bogey, bogles, bugaboo, bugbear","eo":"infantimigulo","es":"coco, hombre del saco, duende, trasgo, espantajo","fr":"(un) croque-mitaine, loup-garou, père fouettard","he":"ישות דמיונית מאיימת"}
-{"T":"r","L":"babca","C":["n","cos"],"d":"un torta dulse de pasta levada con forma de pan, conteninte uvas seca, nozas o xocolada","i":"#","en":"babka (cake)","fr":"babka (gâteau)","he":"בבקה (עוגה)"}
+{"T":"r","L":"babau","C":["n","mit","uma"],"d":"un mal spirito imajinada, istorial usada per asusta enfantes; un person o cosa cual on regarda tipal como un ojeto de teme; un causa de teme, irita o despeta osesente","da":"bussemand","en":"bogeyman, boogeyman, bogey, bogles, bugaboo, bugbear","eo":"infantimigulo","es":"coco (personaje), hombre del saco, duende, trasgo, espantajo","fr":"(un) croque-mitaine, loup-garou, père fouettard","he":"ישות דמיונית מאיימת"}
+{"T":"r","L":"babca","C":["n","cos"],"d":"un torta dulse de pasta levada con forma de pan, conteninte uvas seca, nozas o xocolada","i":"#","en":"babka (cake)","es":"babka, bobka, baba (pastel)","fr":"babka (gâteau)","he":"בבקה (עוגה)"}
 {"T":"r","L":"babela","C":["vt"],"d":"parla rapida e continuante en modo fol, ajitada o noncomprendable","en":"babble, gab, gabble, mutter, gibber, witter, prattle, prate, waffle, bumble, talk nonsense","fr":"jacasser, baragouiner, caqueter","he":"לפטפט, לקשקש, ללהג, לברבר, למלמל"}
 {"L":"babela","C":["n"],"en":"gibberish, gobbledygook, gobbledegook, bafflegab, jargon, patter, balderdash, piffle, baloney, drivel, bunkum, twaddle","fr":"charabia, baragouinage, caquetage","he":"פטפוט, קשקוש, להג, מלמול, בבלת, ג'יבריש"}
 {"L":"babela bela","C":["esc"],"d":"diseda per imita un testo parolosa o noiante","en":"blah blah blah","fr":"bla bla bla","he":"בלה בלה בלה"}
@@ -2740,19 +2740,19 @@
 {"T":"r","L":"bambola","C":["vnt"],"d":"move en modo nonstable de lado a lado, como si a punto de cade; move en modo torpe o perilida en acua o fango","en":"wobble, totter, teeter, be unsteady; stagger, reel, bumble, lurch, toddle, walk unsteadily; flounder, flail","fr":"tituber, trébucher, chanceler, tanguer, vaciller, zigzaguer","he":"להתנודד"}
 {"L":"bambolante","C":["a"],"en":"tottering, staggering; tipsy","fr":"titubant,  trébuchant, vacillant, tanguant, pompette, éméché","he":"מתנודד; מבוסם"}
 {"T":"r","L":"bambu","C":["n","pla"],"d":"un erba leniosa e jigante cual abita xef la tropicos; la talo de esta, usada per fabrica mobilas","i":"#","p":"bambú","t":"Bambusa, Arundinaria, Dendrocalamus","da":"bambus","de":"Bambus","en":"bamboo (plant, stem)","es":"bambú (planta, tallo)","fr":"bambou","he":"במבוק"}
-{"T":"r","L":"banana","C":["n","pla","cos"],"d":"un arbor tropical con folias multe grande e frutas cual crese en grupos; la fruta comable de esta, longa e curva con pulpa mol e pel jala cuando matur","i":"#","t":"Musa","da":"banan","de":"Banane","en":"banana (plant, fruit)","es":"plátano","fr":"banane; bananier","he":"בננה"}
-{"T":"r","L":"banca","C":["n","arci"],"d":"un seja longa per plu ca un person, tipal construida de lenio o petra","i":"#","en":"bench (seat), pew","fr":"banc","he":"ספסל"}
-{"T":"r","L":"bancarota","C":["a","mone"],"d":"(un person o organiza) noncapas de paia detas, par declara legal","en":"bankrupt, insolvent","fr":"en banqueroute, insolvable","he":"פושט רגל, חדל פירעון"}
-{"L":"bancaroti","C":["vnt"],"en":"go bankrupt, go bust","fr":"être en banqueroute, faire banqueroute","he":"לפשוט רגל"}
-{"L":"bancaroti","C":["vt"],"en":"bankrupt, make bankrupt","fr":"banquerouter, provoquer la banqueroute de","he":"לרושש, לגרום לפשיטת רגל"}
-{"L":"bancarotia","C":["n"],"en":"bankruptcy","fr":"(une) banqueroute","he":"פשיטת רגל"}
-{"T":"r","L":"banceta","C":["vnt","cos"],"d":"un come grande per multe persones","en":"banquet, feast","fr":"banqueter, festoyer","he":"לסעוד"}
-{"L":"banceta","C":["n"],"en":"banquet, feast","fr":"banquet, festin","he":"משתה, סעודה"}
+{"T":"r","L":"banana","C":["n","pla","cos"],"d":"un arbor tropical con folias multe grande e frutas cual crese en grupos; la fruta comable de esta, longa e curva con pulpa mol e pel jala cuando matur","i":"#","t":"Musa","da":"banan","de":"Banane","en":"banana (plant, fruit)","es":"plátano, banana","fr":"banane; bananier","he":"בננה"}
+{"T":"r","L":"banca","C":["n","arci"],"d":"un seja longa per plu ca un person, tipal construida de lenio o petra","i":"#","en":"bench (seat), pew","es":"banco, banquillo, mesa de trabajo","fr":"banc","he":"ספסל"}
+{"T":"r","L":"bancarota","C":["a","mone"],"d":"(un person o organiza) noncapas de paia detas, par declara legal","en":"bankrupt, insolvent","es":"bancarrota, insolvente","fr":"en banqueroute, insolvable","he":"פושט רגל, חדל פירעון"}
+{"L":"bancaroti","C":["vnt"],"en":"go bankrupt, go bust","es":"quedar en bancarrota, arruinarse, declararse en quiebra, irse a la quiebra","fr":"être en banqueroute, faire banqueroute","he":"לפשוט רגל"}
+{"L":"bancaroti","C":["vt"],"en":"bankrupt, make bankrupt","es":"provocar la bancarrota de","fr":"banquerouter, provoquer la banqueroute de","he":"לרושש, לגרום לפשיטת רגל"}
+{"L":"bancarotia","C":["n"],"en":"bankruptcy","es":"bancarrota, quiebra, insolvencia","fr":"(une) banqueroute","he":"פשיטת רגל"}
+{"T":"r","L":"banceta","C":["vnt","cos"],"d":"un come grande per multe persones","en":"banquet, feast","es":"darse un banquete, banquetear","fr":"banqueter, festoyer","he":"לסעוד"}
+{"L":"banceta","C":["n"],"en":"banquet, feast","es":"banquete, festín","fr":"banquet, festin","he":"משתה, סעודה"}
 {"T":"r","L":"banco","C":["n","mone"],"d":"un instituida finansial cual investi mone deponeda par clientes, repaia cuando esijeda, presta mone con interesa, e intercambia mones","da":"bank","de":"Bank","en":"bank (money)","es":"banco","fr":"banque","he":"בנק"}
-{"L":"banco de arena","C":["n"],"en":"sandbank","fr":"banc de sable","he":"שרטון"}
-{"L":"banco de datos","C":["n"],"en":"database, data bank","fr":"banque de données","he":"בסיס נתונים, מאגר מידע"}
-{"L":"banco de oios","C":["n"],"en":"eye bank","fr":"banque des yeux","he":"בנק קרניות"}
-{"L":"bancor","C":["n"],"en":"banker","fr":"banquier","he":"בנקאי"}
+{"L":"banco de arena","C":["n"],"en":"sandbank","es":"banco de arena","fr":"banc de sable","he":"שרטון"}
+{"L":"banco de datos","C":["n"],"en":"database, data bank","es":"base de datos","fr":"banque de données","he":"בסיס נתונים, מאגר מידע"}
+{"L":"banco de oios","C":["n"],"en":"eye bank","es":"banco de ojos","fr":"banque des yeux","he":"בנק קרניות"}
+{"L":"bancor","C":["n"],"en":"banker","es":"banquero","fr":"banquier","he":"בנקאי"}
 {"T":"r","L":"bancsia","C":["n","pla"],"d":"un arboreta perene de Australia con folias magra e cuorin e spinas de flores brosin","i":"#","t":"Banksia","en":"banksia (plant)","fr":"banksia (plante)","he":"בנקסיה (צמח)"}
 {"T":"r","L":"banda","C":["n"],"d":"un peso longa e magra de materia plata, tipal usada per lia o decora; un peso simil ma autoaderente, usada per fisa; un peso simil ma con cualias magnetal, usada per rejistra sonas, imajes o datos; un de la partes individua composante un misca audio; un divide de un via, marcada par linias depintada per separa trafica par rapidia o dirije","da":"strop; stribe; bånd, tape","de":"Streifen; Riemen, Gurt; Band","en":"band, tape, strip, strap, streamer; track (mix); lane (traffic); swathe","es":"franja, raya, banda, tira, tirante, lista, listón, galón, correa, correón, venda, cinta, tira plana","fr":"bande, raie; courroie","he":"רצועה, פס; סרט דבק; (מוזיקה) ערוץ; (תחבורה) נתיב"}
 {"L":"banda audio","C":["n"],"en":"audio tape","fr":"bande audio","he":"סרט מגנטי"}
@@ -4813,14 +4813,14 @@
 {"L":"per caso ce","C":["sj"],"u":"me ave du claves per caso ce me perde un","en":"in case (to guard against the possibility that)","fr":"au cas où, pour le cas où, à supposer que, s'il arrivait que, si jamais","he":"למקרה ש"}
 {"L":"per caso de","C":["prep"],"en":"in case of","fr":"en cas de","he":"למקרה של"}
 {"T":"r","L":"casola","C":["n","util","cos"],"d":"cualce util usada per conteni comedas per coce","i":"#","en":"pot, pan","fr":"(une) casserole, (une) poêle","he":"סיר"}
+{"L":"casola de bulion","C":["n"],"en":"stock pot","fr":"(une) marmite","he":"סיר בישול"}
 {"L":"casola de presa","C":["n"],"i":"#","en":"pressure cooker","fr":"autocuiseur, (une) cocotte-minute, (une) marmite à pression","he":"סיר לחץ"}
-{"L":"casola per bulion","C":["n"],"en":"stock pot","fr":"(une) marmite","he":"סיר בישול"}
-{"L":"casola per sopa","C":["n"],"en":"soup pot","fr":"soupière, marmite","he":"סיר למרק"}
+{"L":"casola de sopa","C":["n"],"en":"soup pot","fr":"soupière, marmite","he":"סיר למרק"}
 {"L":"casoleta","C":["n"],"d":"un casola, tipal ronda e no grande, con manico longa","en":"saucepan, sauce pot","fr":"petite casserole","he":"קלחת (סיר)"}
 {"L":"casolon","C":["n"],"d":"un casola grande, tipal oval o retangulo, con du manicos","en":"casserole","fr":"(un) fait-tout, (une) marmite, (une) cocotte","he":"קדרה (סיר)"}
+{"L":"casolon de caldi","C":["n"],"d":"un vaso usada per manteni la caldia de comedas","en":"chafing dish","fr":"(un) chauffe-plat","he":"כלי לשמירת חום המזון"}
 {"L":"casolon de fero","C":["n"],"i":"#","en":"Dutch oven","fr":"(une) cocotte (cuisine)","he":"סיר יציקת ברזל"}
-{"L":"casolon per caldi","C":["n"],"d":"un vaso usada per manteni la caldia de comedas","en":"chafing dish","fr":"(un) chauffe-plat","he":"כלי לשמירת חום המזון"}
-{"L":"casolon per rosta","C":["n"],"en":"roasting pan","fr":"(un) plat à rôtir","he":"תבנית צלייה"}
+{"L":"casolon de rosta","C":["n"],"en":"roasting pan","fr":"(un) plat à rôtir","he":"תבנית צלייה"}
 {"T":"r","L":"caspa","C":["n","med"],"d":"pesos peti de pel mor entre la capeles de un person o animal","en":"dandruff, dander","fr":"(une) pellicule (du cuir chevelu)","he":"קשקש (בשיער)"}
 {"T":"r","L":"Caspio, Mar","C":["n","jeo"],"d":"un mar salosa grande, ensircada par tera, a sude de Rusia e a norde de Iran","i":"Mar-Caspio","en":"Caspian Sea","fr":"(la) mer Caspienne","he":"הים הכספי"}
 {"L":"caspian","C":["a"],"en":"Caspian","fr":"caspienne","he":"כספי (אזור)"}
@@ -8970,8 +8970,8 @@
 {"L":"efeto de moda","C":["n"],"en":"bandwagon effect","he":"אפקט העדר"}
 {"L":"efeto invernerial","C":["n"],"en":"greenhouse effect","he":"אפקט החממה"}
 {"L":"efeto spesial","C":["n"],"en":"special effect","he":"אפקט מיוחד"}
-{"L":"efetosa","C":["a"],"d":"causante un efeto major o multe efetos","v":"eficas","en":"effective, to great effect (intentionally or otherwise)","he":"אפקטיבי"}
-{"L":"efetosia","C":["n"],"en":"effectiveness","he":"אפקטיביות"}
+{"L":"efetosa","C":["a"],"d":"causante un efeto major o multe efetos","v":"eficas","en":"effective, to great effect (intentionally or otherwise)","he":"מרשים, אימפקטי, בעל אפקט משמעותי"}
+{"L":"efetosia","C":["n"],"en":"effectiveness","he":"היכולת ליצור אפקט משמעותי"}
 {"L":"en efeto","C":["av"],"en":"in effect, effectively","he":"למעשה, בפועל, בעצם"}
 {"L":"posefeto","C":["n"],"en":"aftereffect","he":"תגובת לוואי, תוצא גרר"}
 {"T":"r","L":"eficas","C":["a"],"d":"susedosa en la produi de un resulta desirada o intendeda","v":"efetosa","en":"effective, efficacious (producing the desired effect)","he":"אפקטיבי, יעיל"}
@@ -8980,46 +8980,46 @@
 {"T":"r","L":"efrata","C":["vt","gov"],"d":"entra a (un construida) nonlegal con intende crimin, spesial de fura","en":"burglarize|burgle","he":"לפרוץ (למבנה)"}
 {"L":"efrata","C":["n"],"en":"burglary","he":"פריצה (למבנה)"}
 {"L":"efrator","C":["n"],"en":"burglar","he":"פורץ"}
-{"T":"r","L":"egal","C":["a","mat"],"d":"con la mesma cuantia, grandia, grado o valua; (un max) en cual la ecipos fini con un cuantia egal de puntos","da":"lige (ligeberettiget)","de":"gleich","en":"equal, equivalent, tantamount; tied, drawn","es":"igual","fr":"égal"}
-{"L":"egal","C":["n"],"en":"tie, draw (match result); deuce (tennis); toss-up"}
-{"L":"atenta egali","C":["v"],"en":"try to catch up, play catch-up"}
-{"L":"egalador","C":["n"],"en":"equalizer|is (filter)"}
-{"L":"egali","C":["vnt"],"en":"equalize|is, become equal, catch up","fr":"s'égaliser"}
-{"L":"egali","C":["vt"],"en":"equalize|is, make equal, match, rival, equate to, catch up with","fr":"égaliser"}
-{"L":"egali","C":["n"],"en":"equation"}
-{"L":"egali cuadral","C":["n"],"v":"egali de grado du","en":"quadratic equation"}
-{"L":"egali cubo","C":["n"],"v":"egali de grado tre","en":"cubic equation"}
-{"L":"egali de grado du","C":["n"],"v":"egali cuadral","en":"quadratic equation"}
-{"L":"egali de grado tre","C":["n"],"v":"egali de grado tre","en":"cubic equation"}
-{"L":"egali de grado un","C":["n"],"v":"egali linial","en":"linear equation"}
-{"L":"egali diferensial","C":["n"],"en":"differential equation"}
-{"L":"egali linial","C":["n"],"v":"egali de grado un","en":"linear equation"}
-{"L":"egalia","C":["n"],"en":"equality, parity, equivalence"}
-{"L":"egalinte","C":["a"],"en":"equalizing|is"}
-{"L":"egalinte","C":["n"],"en":"equalizer|is"}
-{"L":"egalisme","C":["n"],"en":"egalitarianism"}
-{"L":"egaliste","C":["a"],"en":"egalitarian"}
-{"L":"nonegal","C":["a"],"en":"unequal, non-equivalent"}
-{"L":"nonegali","C":["vnt"],"en":"become unequal"}
-{"L":"nonegali","C":["vt"],"en":"make unequal"}
-{"L":"nonegali","C":["n"],"en":"inequation"}
-{"L":"nonegalia","C":["n"],"en":"inequality, disparity, discrepancy"}
-{"L":"sin egal","C":["a"],"en":"without equal, unequaled|ll, unrivaled|ll, unmatched, matchless, peerless, nonpareil, incomparable"}
-{"T":"r","L":"Egipte","C":["n","jeo"],"d":"un otra nom per Misre","i":"Misre","v":"Misre","en":"Egypt"}
-{"L":"Egipte antica","C":["n","ist","jeo"],"i":"#","en":"Ancient Egypt"}
-{"L":"egiptian","C":["a"],"en":"Egyptian"}
-{"L":"egiptian","C":["n"],"en":"Egyptian"}
-{"T":"r","L":"egiptolojia","C":["n","uma","ist"],"d":"la studia de la lingua, istoria e sivilia de Egipte antica","en":"Egyptology"}
-{"L":"egiptolojiste","C":["n"],"en":"Egyptologist"}
-{"T":"r","L":"eglefin","C":["n","pex"],"d":"un pex arjentin gris de la Mar Atlantica norde, relatada a la gado","i":"#","t":"Melanogrammus aeglefinus","en":"haddock","fr":"églefin"}
-{"T":"r","L":"eglesa","C":["n","rel","arci"],"d":"un construida usada par cristianes per adora publica; un organiza cristian spesifada; relijio organizada, regardada como un forsa political o sosial","i":"#","da":"kirke","de":"Kirche","en":"church (building, organization|is)","es":"iglesia","fr":"église"}
-{"L":"eglesal","C":["a"],"en":"ecclesiastic, ecclesiastical"}
-{"L":"egleseta","C":["n"],"en":"chapel","fr":"chapelle"}
-{"L":"eglesor","C":["n"],"en":"member of the clergy, clergyman, clergywoman, cleric, parson, pastor, minister, chaplain"}
-{"L":"eglesor alta","C":["n"],"en":"prelate"}
-{"L":"eglesor fema","C":["n"],"en":"clergywoman"}
-{"L":"eglesor mas","C":["n"],"en":"clergyman"}
-{"L":"eglesores","C":["n","pl"],"en":"clergy"}
+{"T":"r","L":"egal","C":["a","mat"],"d":"con la mesma cuantia, grandia, grado o valua; (un max) en cual la ecipos fini con un cuantia egal de puntos","da":"lige (ligeberettiget)","de":"gleich","en":"equal, equivalent, tantamount; tied, drawn","es":"igual","fr":"égal","he":"שווה, זהה, שווה ערך, שקיל; (ב)תיקו"}
+{"L":"egal","C":["n"],"en":"tie, draw (match result); deuce (tennis); toss-up","he":"תיקו"}
+{"L":"atenta egali","C":["v"],"en":"try to catch up, play catch-up","he":"לנסות להשתוות"}
+{"L":"egalador","C":["n"],"en":"equalizer|is (filter)","he":"אקולייזר, שוויין"}
+{"L":"egali","C":["vnt"],"en":"equalize|is, become equal, catch up","fr":"s'égaliser","he":"להשתוות"}
+{"L":"egali","C":["vt"],"en":"equalize|is, make equal, match, rival, equate to, catch up with","fr":"égaliser","he":"להשוות (לעשות שווים)"}
+{"L":"egali","C":["n"],"en":"equation","he":"משוואה"}
+{"L":"egali cuadral","C":["n"],"v":"egali de grado du","en":"quadratic equation","he":"משוואה ריבועית"}
+{"L":"egali cubo","C":["n"],"v":"egali de grado tre","en":"cubic equation","he":"משוואה קובית"}
+{"L":"egali de grado du","C":["n"],"v":"egali cuadral","en":"quadratic equation","he":"משוואה ממעלה שנייה"}
+{"L":"egali de grado tre","C":["n"],"v":"egali de grado tre","en":"cubic equation","he":"משוואה ממעלה שלישית"}
+{"L":"egali de grado un","C":["n"],"v":"egali linial","en":"linear equation","he":"משוואה ממעלה ראשונה"}
+{"L":"egali diferensial","C":["n"],"en":"differential equation","he":"משוואה דיפרנציאלית"}
+{"L":"egali linial","C":["n"],"v":"egali de grado un","en":"linear equation","he":"משוואה לינארית"}
+{"L":"egalia","C":["n"],"en":"equality, parity, equivalence","he":"שוויון"}
+{"L":"egalinte","C":["a"],"en":"equalizing|is","he":"משווה (עושה שווה)"}
+{"L":"egalinte","C":["n"],"en":"equalizer|is","he":"משווה (עושה שווה)"}
+{"L":"egalisme","C":["n"],"en":"egalitarianism","he":"דגילה בשוויון, שוויונאות"}
+{"L":"egaliste","C":["a"],"en":"egalitarian","he":"דוגל בשוויון, שוויונאי"}
+{"L":"nonegal","C":["a"],"en":"unequal, non-equivalent","he":"לא שווה"}
+{"L":"nonegali","C":["vnt"],"en":"become unequal","he":"להיעשות לא שווה"}
+{"L":"nonegali","C":["vt"],"en":"make unequal","he":"לגרום לאי-שוויון"}
+{"L":"nonegali","C":["n"],"en":"inequation","he":"(מתמטיקה) אי-שוויון"}
+{"L":"nonegalia","C":["n"],"en":"inequality, disparity, discrepancy","he":"אי-שוויון, שונות"}
+{"L":"sin egal","C":["a"],"en":"without equal, unequaled|ll, unrivaled|ll, unmatched, matchless, peerless, nonpareil, incomparable","he":"אין כמוהו, אין שני לו, אין לו אח ורע, שאין דומה לו"}
+{"T":"r","L":"Egipte","C":["n","jeo"],"d":"un otra nom per Misre","i":"Misre","v":"Misre","en":"Egypt","he":"מצרים"}
+{"L":"Egipte antica","C":["n","ist","jeo"],"i":"#","en":"Ancient Egypt","he":"מצרים העתיקה"}
+{"L":"egiptian","C":["a"],"en":"Egyptian","he":"מצרי"}
+{"L":"egiptian","C":["n"],"en":"Egyptian","he":"מצרי"}
+{"T":"r","L":"egiptolojia","C":["n","uma","ist"],"d":"la studia de la lingua, istoria e sivilia de Egipte antica","en":"Egyptology","he":"אגיפטולוגיה"}
+{"L":"egiptolojiste","C":["n"],"en":"Egyptologist","he":"אגיפטולוג"}
+{"T":"r","L":"eglefin","C":["n","pex"],"d":"un pex arjentin gris de la Mar Atlantica norde, relatada a la gado","i":"#","t":"Melanogrammus aeglefinus","en":"haddock","fr":"églefin","he":"חמור ים (דג)"}
+{"T":"r","L":"eglesa","C":["n","rel","arci"],"d":"un construida usada par cristianes per adora publica; un organiza cristian spesifada; relijio organizada, regardada como un forsa political o sosial","i":"#","da":"kirke","de":"Kirche","en":"church (building, organization|is)","es":"iglesia","fr":"église","he":"כנסייה"}
+{"L":"eglesal","C":["a"],"en":"ecclesiastic, ecclesiastical","he":"כנסייתי"}
+{"L":"egleseta","C":["n"],"en":"chapel","fr":"chapelle","he":"קפלה"}
+{"L":"eglesor","C":["n"],"en":"member of the clergy, clergyman, clergywoman, cleric, parson, pastor, minister, chaplain","he":"כומר"}
+{"L":"eglesor alta","C":["n"],"en":"prelate","he":"כומר בכיר"}
+{"L":"eglesor fema","C":["n"],"en":"clergywoman","he":"כומרה (אישה בתפקיד כומר)"}
+{"L":"eglesor mas","C":["n"],"en":"clergyman","he":"כומר (זכר)"}
+{"L":"eglesores","C":["n","pl"],"en":"clergy","he":"כמורה"}
 {"T":"r","L":"ego","C":["n","uma","fil"],"d":"la senti de respeta o importa cual un person ave en relata a se; (en psicoanalise) la parte de la mente cual razona e deside; (en filosofia) un sujeto consensa e pensante","en":"ego, self"}
 {"L":"egoisme","C":["n"],"p":"egoïsme","en":"selfishness","fr":"égoïsme"}
 {"L":"egoiste","C":["a"],"p":"egoïste","en":"selfish, egotistical","fr":"égoïste"}
@@ -16634,9 +16634,9 @@
 {"L":"cargada par mola","C":["a"],"en":"spring-loaded"}
 {"T":"r","L":"mola","C":["n","pex"],"d":"un pex grande de mares calda, con pinas alta dorsal e anal prosima a sua retro, e con coda multe corta","t":"Mola mola","en":"ocean sunfish, common mola"}
 {"T":"r","L":"molda","C":["n","util","cos"],"d":"un contenador vacua cual es usada per formi un materia fondeda como sira o metal cuando lo fri e duri","i":"#","en":"mold|ul, cast (container)","fr":"(un) moule"}
-{"L":"molda per pan","C":["n"],"en":"bread pan"}
-{"L":"molda per tartes","C":["n"],"en":"pie pan, pie tin"}
-{"L":"molda per tortas","C":["n"],"en":"cake pan"}
+{"L":"molda de pan","C":["n"],"en":"bread pan"}
+{"L":"molda de tarte","C":["n"],"en":"pie pan, pie tin"}
+{"L":"molda de torta","C":["n"],"en":"cake pan"}
 {"L":"moldi","C":["vt"],"en":"mold|ul, cast","fr":"mouler"}
 {"L":"moldida","C":["n"],"en":"molding|ul, casting; mold|ul, cast (molded|ul object)"}
 {"T":"r","L":"Moldova","C":["n","jeo"],"c":"Chisinau","d":"un pais sin costa en Europa sude-este, entre Romania e Ucraina","i":"#","en":"Moldova, Moldavia"}
@@ -27923,6 +27923,7 @@
 {"L":"desusada","C":["a"],"en":"disused, obsolete, archaic, defunct"}
 {"L":"malusa","C":["vt"],"en":"misuse, abuse"}
 {"L":"malusa de drogas","C":["n"],"en":"drug abuse"}
+{"L":"nonreusable","C":["a"],"en":"non-reusable, single-use"}
 {"L":"nonusa","C":["n"],"en":"disuse, desuetude"}
 {"L":"nonusable","C":["a"],"en":"unusable, useless"}
 {"L":"nonusada","C":["a"],"en":"unused, out of use"}
