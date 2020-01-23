@@ -2608,68 +2608,68 @@
 {"T":"r","L":"ba","C":["esc"],"d":"espresante un manca de interesa","en":"bah, nonsense, rubbish, who cares?","es":"bah, ¿a quién le importa?","fr":"bah ! bof !","he":"למי אכפת?, שטויות!, להביע חוסר עניין"}
 {"T":"r","L":"babau","C":["n","mit","uma"],"d":"un mal spirito imajinada, istorial usada per asusta enfantes; un person o cosa cual on regarda tipal como un ojeto de teme; un causa de teme, irita o despeta osesente","da":"bussemand","en":"bogeyman, boogeyman, bogey, bogles, bugaboo, bugbear","eo":"infantimigulo","es":"coco (personaje), hombre del saco, duende, trasgo, espantajo","fr":"(un) croque-mitaine, loup-garou, père fouettard","he":"ישות דמיונית מאיימת"}
 {"T":"r","L":"babca","C":["n","cos"],"d":"un torta dulse de pasta levada con forma de pan, conteninte uvas seca, nozas o xocolada","i":"#","en":"babka (cake)","es":"babka, bobka, baba (pastel)","fr":"babka (gâteau)","he":"בבקה (עוגה)"}
-{"T":"r","L":"babela","C":["vt"],"d":"parla rapida e continuante en modo fol, ajitada o noncomprendable","en":"babble, gab, gabble, mutter, gibber, witter, prattle, prate, waffle, bumble, talk nonsense","fr":"jacasser, baragouiner, caqueter","he":"לפטפט, לקשקש, ללהג, לברבר, למלמל"}
-{"L":"babela","C":["n"],"en":"gibberish, gobbledygook, gobbledegook, bafflegab, jargon, patter, balderdash, piffle, baloney, drivel, bunkum, twaddle","fr":"charabia, baragouinage, caquetage","he":"פטפוט, קשקוש, להג, מלמול, בבלת, ג'יבריש"}
-{"L":"babela bela","C":["esc"],"d":"diseda per imita un testo parolosa o noiante","en":"blah blah blah","fr":"bla bla bla","he":"בלה בלה בלה"}
-{"L":"babelosa","C":["a"],"en":"gibberish, jargon-filled","fr":"baragouineur, caqueteur","he":"ג'יבריש"}
-{"T":"r","L":"Babilon","C":["n","jeo","ist"],"d":"un site major en Babilonia","en":"Babylon","fr":"Babylone"}
-{"T":"r","L":"Babilonia","C":["n","jeo","ist"],"d":"un rejion antica de Mesopotamia, formida cuando la renas de Acad en la norde e Sumer en la sude ia combina en la dui prima de la milenio du aec","i":"#","ca":"Babilònia","da":"Babylonien","en":"Babylonia","fr":"Babylonie","he":"בבל"}
-{"L":"babilonian","C":["a","jeo","ist"],"en":"babylonian","fr":"babylonien","he":"בבלי"}
-{"T":"r","L":"babirusa","C":["n","mam"],"d":"un porco savaje de la forestas de Malaisia con alga dentones cornin","i":"#","t":"Babyrousa","en":"babirusa, deer pig, pig deer","fr":"(un) babiroussa (zoologie)","he":"בבירוסה (חזיר)"}
-{"T":"r","L":"babuin","C":["n","mam"],"d":"un simia grande e sosial de la mundo vea, con beco longa como un can, dentes grande e calos nuda sur la gluteos","i":"#","t":"Papio, Mandrillus","en":"baboon","fr":"(un) babouin","he":"בבון (קוף)"}
-{"T":"r","L":"baca","C":["n","pla","cos"],"d":"un fruta peti, ronda e jusosa","da":"bær","de":"Beere","en":"berry","es":"baya","fr":"(une) baie (fruit)","he":"פרי יער, גרגר יער"}
-{"L":"baca de peper","C":["n"],"en":"peppercorn","fr":"grain de poivre","he":"גרגיר פלפל"}
-{"L":"bacin","C":["a"],"en":"berrylike","fr":"bacciforme","he":"בצורת פרי יער"}
-{"T":"r","L":"bacara","C":["n","spo"],"d":"un jua de fortuna en cual on atenta teni cartas con valua somante a un numero de cual sua dijito destra es la plu alta","en":"baccarat (card game)","fr":"baccara","he":"בקרה (משחק קלפים)"}
-{"T":"r","L":"bacelita","C":["n","cim"],"d":"un forma temprana de plastica, tipal oscur brun, fabricada de formaldehido e fenol, xef usada per aparatos eletrical","en":"bakelite","fr":"bakélite","he":"בקליט (פלסטיק)"}
-{"T":"r","L":"baclava","C":["n","cos"],"d":"un deser orijinante en Asia ueste, composada de pasta folin plenida con nozas axida, empapada en miel","i":"#","en":"baklava (dessert)","fr":"baklava (dessert)","he":"בקלווה (מאפה מתוק)"}
-{"T":"r","L":"Bactria","C":["n","jeo","ist"],"d":"un pais antica en Asia sentral, corespondente a la parte norde de Afganistan moderna","i":"#","da":"Bactriana","de":"Baktrien","el":"Βακτρία","en":"Bactria (ancient region)","eo":"Baktrio","fr":"Bactriane","he":"באקטריה (איזור עתיק במרכז אסיה)","it":"Battriana","ja":"バクトリア","nl":"Bactrië"}
-{"T":"r","L":"badaui","C":["a","dem"],"d":"pertinente a la nomadas arabi de la deserto","en":"Bedouin","fr":"bédouin","he":"בדואי"}
-{"L":"badaui","C":["n"],"en":"Bedouin","fr":"Bédouin","he":"בדואי"}
-{"T":"r","L":"badminton","C":["n","spo"],"d":"un jua o sporte con racetas en cual un volante es colpada de asi a ala supra un rede","i":"#","en":"badminton","fr":"badminton","he":"בדמינגטון"}
-{"L":"badmintonor","C":["n"],"en":"badminton player","fr":"joueur de badminton","he":"שחקן בדמינגטון"}
-{"T":"r","L":"Baffin","C":["n"],"en":"Baffin","fr":"Baffin","he":"באפין"}
-{"L":"Baia Baffin","C":["n","jeo"],"d":"un baia entre Labrador e Calalitnunat","i":"#","en":"Baffin Bay","fr":"baie de Baffin","he":"מפרץ באפין"}
-{"L":"Isola Baffin","C":["n","jeo"],"d":"un isola grande canadian en la Mar Artica a norde de la Baia Hudson","en":"Baffin Island","fr":"île de Baffin","he":"האי באפין"}
-{"T":"r","L":"bagaje","C":["n"],"d":"ojetos personal, pacida en valises per viaja; la aparatos portable de un armada","en":"baggage, luggage","fr":"(un) bagage","he":"מטען, כבודה"}
+{"T":"r","L":"babela","C":["vt"],"d":"parla rapida e continuante en modo fol, ajitada o noncomprendable","en":"babble, gab, gabble, mutter, gibber, witter, prattle, prate, waffle, bumble, talk nonsense","es":"balbucear, murmurar, parlotear, hablar sin sentido, hablar sin decir nada","fr":"jacasser, baragouiner, caqueter, cotorrear,","he":"לפטפט, לקשקש, ללהג, לברבר, למלמל"}
+{"L":"babela","C":["n"],"en":"gibberish, gobbledygook, gobbledegook, bafflegab, jargon, patter, balderdash, piffle, baloney, drivel, bunkum, twaddle","es":"galimatías, jerigonza, jerga, peñazo, rollo, chorrada, tontería, bobada, estupidez, paparruchas, chuminadas, tonterías","fr":"charabia, baragouinage, caquetage","he":"פטפוט, קשקוש, להג, מלמול, בבלת, ג'יבריש"}
+{"L":"babela bela","C":["esc"],"d":"diseda per imita un testo parolosa o noiante","en":"blah blah blah","es":"bla bla bla","fr":"bla bla bla","he":"בלה בלה בלה"}
+{"L":"babelosa","C":["a"],"en":"gibberish, jargon-filled","es":"chapurreador","fr":"baragouineur, caqueteur","he":"ג'יבריש"}
+{"T":"r","L":"Babilon","C":["n","jeo","ist"],"d":"un site major en Babilonia","en":"Babylon","es":"Babilonia","fr":"Babylone"}
+{"T":"r","L":"Babilonia","C":["n","jeo","ist"],"d":"un rejion antica de Mesopotamia, formida cuando la renas de Acad en la norde e Sumer en la sude ia combina en la dui prima de la milenio du aec","i":"#","ca":"Babilònia","da":"Babylonien","en":"Babylonia","es":"Babilonia, imperio babilónico","fr":"Babylonie","he":"בבל"}
+{"L":"babilonian","C":["a","jeo","ist"],"en":"babylonian","es":"babilonio","fr":"babylonien","he":"בבלי"}
+{"T":"r","L":"babirusa","C":["n","mam"],"d":"un porco savaje de la forestas de Malaisia con alga dentones cornin","i":"#","t":"Babyrousa","en":"babirusa, deer pig, pig deer","es":"babirusa","fr":"(un) babiroussa (zoologie)","he":"בבירוסה (חזיר)"}
+{"T":"r","L":"babuin","C":["n","mam"],"d":"un simia grande e sosial de la mundo vea, con beco longa como un can, dentes grande e calos nuda sur la gluteos","i":"#","t":"Papio, Mandrillus","en":"baboon","es":"babuino","fr":"(un) babouin","he":"בבון (קוף)"}
+{"T":"r","L":"baca","C":["n","pla","cos"],"d":"un fruta peti, ronda e jusosa","da":"bær","de":"Beere","en":"berry","es":"baya, fruta del bosque","fr":"(une) baie (fruit)","he":"פרי יער, גרגר יער"}
+{"L":"baca de peper","C":["n"],"en":"peppercorn","es":"grano de pimienta","fr":"grain de poivre","he":"גרגיר פלפל"}
+{"L":"bacin","C":["a"],"en":"berrylike","es":"con forma de baya","fr":"bacciforme","he":"בצורת פרי יער"}
+{"T":"r","L":"bacara","C":["n","spo"],"d":"un jua de fortuna en cual on atenta teni cartas con valua somante a un numero de cual sua dijito destra es la plu alta","en":"baccarat (card game)","es":"bacará (juego de cartas)","fr":"baccara","he":"בקרה (משחק קלפים)"}
+{"T":"r","L":"bacelita","C":["n","cim"],"d":"un forma temprana de plastica, tipal oscur brun, fabricada de formaldehido e fenol, xef usada per aparatos eletrical","en":"bakelite","es":"baquelita","fr":"bakélite","he":"בקליט (פלסטיק)"}
+{"T":"r","L":"baclava","C":["n","cos"],"d":"un deser orijinante en Asia ueste, composada de pasta folin plenida con nozas axida, empapada en miel","i":"#","en":"baklava (dessert)","es":"baclava, baklava, baklawa (postre)","fr":"baklava (dessert)","he":"בקלווה (מאפה מתוק)"}
+{"T":"r","L":"Bactria","C":["n","jeo","ist"],"d":"un pais antica en Asia sentral, corespondente a la parte norde de Afganistan moderna","i":"#","da":"Bactriana","de":"Baktrien","el":"Βακτρία","en":"Bactria (ancient region)","eo":"Baktrio","es":"Bactria","fr":"Bactriane","he":"באקטריה (איזור עתיק במרכז אסיה)","it":"Battriana","ja":"バクトリア","nl":"Bactrië"}
+{"T":"r","L":"badaui","C":["a","dem"],"d":"pertinente a la nomadas arabi de la deserto","en":"Bedouin","es":"beduino","fr":"bédouin","he":"בדואי"}
+{"L":"badaui","C":["n"],"en":"Bedouin","es":"beduino","fr":"Bédouin","he":"בדואי"}
+{"T":"r","L":"badminton","C":["n","spo"],"d":"un jua o sporte con racetas en cual un volante es colpada de asi a ala supra un rede","i":"#","en":"badminton","es":"bádminton","fr":"badminton","he":"בדמינגטון"}
+{"L":"badmintonor","C":["n"],"en":"badminton player","es":"jugador de bádminton","fr":"joueur de badminton","he":"שחקן בדמינגטון"}
+{"T":"r","L":"Baffin","C":["n"],"en":"Baffin","es":"Baffin","fr":"Baffin","he":"באפין"}
+{"L":"Baia Baffin","C":["n","jeo"],"d":"un baia entre Labrador e Calalitnunat","i":"#","en":"Baffin Bay","es":"bahía de Baffin","fr":"baie de Baffin","he":"מפרץ באפין"}
+{"L":"Isola Baffin","C":["n","jeo"],"d":"un isola grande canadian en la Mar Artica a norde de la Baia Hudson","en":"Baffin Island","es":"isla de Baffin","fr":"île de Baffin","he":"האי באפין"}
+{"T":"r","L":"bagaje","C":["n"],"d":"ojetos personal, pacida en valises per viaja; la aparatos portable de un armada","en":"baggage, luggage","es":"equipaje","fr":"(un) bagage","he":"מטען, כבודה"}
 {"T":"r","L":"bagel","C":["n","cos"],"d":"un paneta densa con forma anelo, tipal de cosini iudi","i":"#","en":"bagel","fr":"(un) bagel","he":"בייגל, כעך"}
-{"T":"r","L":"bagete","C":["n","cos"],"d":"un pan franses, longa e magra","i":"#","en":"baguette (bread)","fr":"(une) baguette (pain)","he":"בגט"}
+{"T":"r","L":"bagete","C":["n","cos"],"d":"un pan franses, longa e magra","i":"#","en":"baguette (bread)","es":"baguete","fr":"(une) baguette (pain)","he":"בגט"}
 {"L":"bagete plenida","C":["n"],"en":"Italian sandwich, submarine sandwich, sub, hoagie, hoagy, grinder, hero","fr":"grand sandwich","he":"כריך מלחמניה ארוכה"}
-{"T":"r","L":"bahai","C":["a","rel"],"d":"un relijio monoteiste, fundida en la sentenio 19, cual asentua la unia de umanas e tota relijios, e la aspira a pas mundal","p":"bahaï","en":"Baha'i","fr":"bahaï","he":"בהאי"}
-{"L":"bahai","C":["n"],"en":"Baha'i","fr":"Bahaï","he":"בהאי"}
-{"L":"bahaisme","C":["n"],"p":"bahaïsme","en":"Baha'i, Baha'ism (religion)","fr":"bahaïsme","he":"הדת הבהאית"}
-{"T":"r","L":"Bahamas","C":["n","pl","jeo"],"c":"Nassau","d":"un pais de multe isolas a sude-este de Florida e a norde-este de Cuba","i":"#","en":"Bahamas","fr":"(les) Bahamas","he":"איי בהאמה"}
-{"L":"bahaman","C":["a"],"en":"Bahamian","fr":"bahaméen","he":"בהאמי"}
-{"L":"bahaman","C":["n","dem"],"en":"Bahamian","fr":"Bahaméen","he":"בהאמי"}
-{"T":"r","L":"baia","C":["n","tera"],"d":"un parte de mar o lago en un indente de costa","da":"bugt","de":"Bucht","en":"bay, bight","es":"bahía, ensenada","fr":"baie, anse","gl":"bahía, ensenada","he":"מפרץ"}
-{"L":"baieta","C":["n"],"en":"cove, inlet","fr":"crique","he":"מפרצון"}
-{"T":"r","L":"Baical, Lago","C":["n","jeo"],"d":"un lago grande de acua dulse en Sibir sude, la plu grande de Eurasia e la plu profonda de mundo","i":"Lago-Baical","en":"Lake Baikal, Lake Baykal","fr":"lac Baïkal","he":"ימת באיקל"}
-{"T":"r","L":"Baiern","C":["n","jeo"],"d":"un stato en Deutxland sude, e istorial un rena autonom","i":"#","en":"Bavaria","fr":"Bavière","he":"בוואריה"}
-{"L":"baieres","C":["a"],"en":"Bavarian","fr":"bavarois","he":"בווארי"}
-{"L":"baieres","C":["n","dem"],"en":"Bavarian","fr":"Bavarois","he":"בווארי"}
-{"T":"r","L":"baieta","C":["n","vest"],"d":"un stofa de lana feltrin, tipal verde, usada per covre tables de biliardo o juas de carta","en":"baize (fabric)","fr":"(la) serge, tapis (vert) de jeu","he":"בייז (אריג, בדר\"כ ירוק, המשמש לציפוי שולחנות משחק)"}
-{"T":"r","L":"baioneta","C":["n","util"],"d":"un arma simil a un cotel longa cual on pote fisa a boca de fusil per usa en combate prosima","en":"bayonet","fr":"(une) baïonnette","he":"כידון"}
-{"T":"r","L":"bait","C":["n","info"],"d":"un grupo de bitios, tipal oto, manipulada como un unia, e usada en mesura la grandia de un fix o memoria","en":"byte","fr":"(un) bit","he":"(מחשבים) בייט, בית"}
-{"L":"cilobait","C":["n"],"en":"kilobyte","fr":"kilobit","he":"קילובייט"}
-{"L":"gigabait","C":["n"],"en":"gigabyte, gig","fr":"gigabit","he":"גיגהבייט"}
-{"L":"megabait","C":["n"],"en":"megabyte, meg","fr":"megabit","he":"מגהבייט"}
-{"L":"terabait","C":["n"],"en":"terabyte","fr":"térabit","he":"טרהבייט"}
-{"T":"r","L":"baji","C":["n","cos"],"d":"(en cosini barati) un bal o torta plata peti de vejetales, fritada en pasta","en":"bhaji, bhajji, bajji","fr":"(un) bhajji (beignet indien)"}
-{"T":"r","L":"bal","C":["n","spo"],"d":"un sfera o oval, solida o vacua, usada en juas e sportes; cualce cosa con forma simil","i":"#","da":"bold","de":"Ball","en":"ball","es":"bola, pelota","fr":"ballon, balle (de jeu), boule","gl":"bóla, pelota","he":"כדור"}
-{"L":"bal bonodorosa","C":["n"],"en":"pomander","fr":"diffuseur de parfum","he":"פומנדר (כלי לבושם בצורת כדור)"}
-{"L":"bal de bolo","C":["n"],"en":"bowl, bowling ball","fr":"boule de bowling","he":"כדור באולינג"}
-{"L":"bal de canon","C":["n"],"i":"#","en":"cannonball","fr":"boulet de canon","he":"כדור תותח"}
-{"L":"bal de carne","C":["n"],"en":"meatball","fr":"boulette (de viande)","he":"כדור בשר, קציצה"}
-{"L":"bal de foco","C":["n"],"en":"fireball","fr":"boule de feu","he":"כדור אש"}
-{"L":"bal de futbal","C":["n"],"en":"football","fr":"ballon de football","he":"כדור פוטבול"}
-{"L":"bal de naftalina","C":["n"],"en":"mothball","fr":"boule de naphtaline","he":"כדור נפטלין"}
-{"L":"bal de neva","C":["n"],"i":"#","en":"snowball","fr":"boule de neige","he":"כדור שלג"}
-{"L":"bal de pasta","C":["n"],"i":"#","en":"dumpling, gnocco","fr":"boulette de pâte, (un) gnocchi","he":"כופתה"}
-{"L":"bal oto","C":["n"],"en":"eightball","he":"הכדור השחור בביליארד"}
-{"L":"bales de pasta","C":["n","pl","cos"],"en":"gnocchi","fr":"gnocchi","he":"ניוקי"}
-{"L":"bal de tenis","C":["n"],"en":"tennis ball","fr":"balle de tennis","he":"כדור טניס"}
+{"T":"r","L":"bahai","C":["a","rel"],"d":"un relijio monoteiste, fundida en la sentenio 19, cual asentua la unia de umanas e tota relijios, e la aspira a pas mundal","p":"bahaï","en":"Baha'i","es":"bahá'í","fr":"bahaï","he":"בהאי"}
+{"L":"bahai","C":["n"],"en":"Baha'i","es":"bahá'í","fr":"Bahaï","he":"בהאי"}
+{"L":"bahaisme","C":["n"],"p":"bahaïsme","en":"Baha'i, Baha'ism (religion)","es":"bahaísmo, fe bahá'í","fr":"bahaïsme","he":"הדת הבהאית"}
+{"T":"r","L":"Bahamas","C":["n","pl","jeo"],"c":"Nassau","d":"un pais de multe isolas a sude-este de Florida e a norde-este de Cuba","i":"#","en":"Bahamas","es":"Bahamas","fr":"(les) Bahamas","he":"איי בהאמה"}
+{"L":"bahaman","C":["a"],"en":"Bahamian","es":"bahameño","fr":"bahaméen","he":"בהאמי"}
+{"L":"bahaman","C":["n","dem"],"en":"Bahamian","es":"bahameño","fr":"Bahaméen","he":"בהאמי"}
+{"T":"r","L":"baia","C":["n","tera"],"d":"un parte de mar o lago en un indente de costa","da":"bugt","de":"Bucht","en":"bay, bight","es":"bahía","fr":"baie, anse","gl":"bahía, ensenada","he":"מפרץ"}
+{"L":"baieta","C":["n"],"en":"cove, inlet","es":"ensenada","fr":"crique","he":"מפרצון"}
+{"T":"r","L":"Baical, Lago","C":["n","jeo"],"d":"un lago grande de acua dulse en Sibir sude, la plu grande de Eurasia e la plu profonda de mundo","i":"Lago-Baical","en":"Lake Baikal, Lake Baykal","es":"Lago Baikal","fr":"lac Baïkal","he":"ימת באיקל"}
+{"T":"r","L":"Baiern","C":["n","jeo"],"d":"un stato en Deutxland sude, e istorial un rena autonom","i":"#","en":"Bavaria","es":"Baviera","fr":"Bavière","he":"בוואריה"}
+{"L":"baieres","C":["a"],"en":"Bavarian","es":"bávaro","fr":"bavarois","he":"בווארי"}
+{"L":"baieres","C":["n","dem"],"en":"Bavarian","es":"bávaro","fr":"Bavarois","he":"בווארי"}
+{"T":"r","L":"baieta","C":["n","vest"],"d":"un stofa de lana feltrin, tipal verde, usada per covre tables de biliardo o juas de carta","en":"baize (fabric)","es":"paño, tapete","fr":"(la) serge, tapis (vert) de jeu","he":"בייז (אריג, בדר\"כ ירוק, המשמש לציפוי שולחנות משחק)"}
+{"T":"r","L":"baioneta","C":["n","util"],"d":"un arma simil a un cotel longa cual on pote fisa a boca de fusil per usa en combate prosima","en":"bayonet","es":"bayoneta","fr":"(une) baïonnette","he":"כידון"}
+{"T":"r","L":"bait","C":["n","info"],"d":"un grupo de bitios, tipal oto, manipulada como un unia, e usada en mesura la grandia de un fix o memoria","en":"byte","es":"byte","fr":"(un) bit","he":"(מחשבים) בייט, בית"}
+{"L":"cilobait","C":["n"],"en":"kilobyte","es":"kilobyte","fr":"kilobit","he":"קילובייט"}
+{"L":"gigabait","C":["n"],"en":"gigabyte, gig","es":"gigabyte","fr":"gigabit","he":"גיגהבייט"}
+{"L":"megabait","C":["n"],"en":"megabyte, meg","es":"megabyte","fr":"megabit","he":"מגהבייט"}
+{"L":"terabait","C":["n"],"en":"terabyte","es":"terabyte","fr":"térabit","he":"טרהבייט"}
+{"T":"r","L":"baji","C":["n","cos"],"d":"(en cosini barati) un bal o torta plata peti de vejetales, fritada en pasta","en":"bhaji, bhajji, bajji","es":"bhaji","fr":"(un) bhajji (beignet indien)"}
+{"T":"r","L":"bal","C":["n","spo"],"d":"un sfera o oval, solida o vacua, usada en juas e sportes; cualce cosa con forma simil","i":"#","da":"bold","de":"Ball","en":"ball","es":"balón, pelota, bola","fr":"ballon, balle (de jeu), boule","gl":"bóla, pelota","he":"כדור"}
+{"L":"bal bonodorosa","C":["n"],"en":"pomander","es":"bola de olor, bola aromática, almohadilla perfumada","fr":"diffuseur de parfum","he":"פומנדר (כלי לבושם בצורת כדור)"}
+{"L":"bal de bolo","C":["n"],"en":"bowl, bowling ball","es":"bola de bolos, bola de boliche","fr":"boule de bowling","he":"כדור באולינג"}
+{"L":"bal de canon","C":["n"],"i":"#","en":"cannonball","es":"bala de cañón","fr":"boulet de canon","he":"כדור תותח"}
+{"L":"bal de carne","C":["n"],"en":"meatball","es":"albóndiga","fr":"boulette (de viande)","he":"כדור בשר, קציצה"}
+{"L":"bal de foco","C":["n"],"en":"fireball","es":"bola de fuego","fr":"boule de feu","he":"כדור אש"}
+{"L":"bal de futbal","C":["n"],"en":"football","es":"balón de fútbol","fr":"ballon de football","he":"כדור פוטבול"}
+{"L":"bal de naftalina","C":["n"],"en":"mothball","es":"bola de naftalina","fr":"boule de naphtaline","he":"כדור נפטלין"}
+{"L":"bal de neva","C":["n"],"i":"#","en":"snowball","es":"bola de nieve","fr":"boule de neige","he":"כדור שלג"}
+{"L":"bal de pasta","C":["n"],"i":"#","en":"dumpling, gnocco","es":"dumpling, ñoqui","fr":"boulette de pâte, (un) gnocchi","he":"כופתה"}
+{"L":"bal oto","C":["n"],"en":"eightball","es":"bola 8","he":"הכדור השחור בביליארד"}
+{"L":"bales de pasta","C":["n","pl","cos"],"en":"gnocchi","es":"ñoquis","fr":"gnocchi","he":"ניוקי"}
+{"L":"bal de tenis","C":["n"],"en":"tennis ball","es":"pelota de tenis","fr":"balle de tennis","he":"כדור טניס"}
 {"L":"baleta","C":["n"],"d":"un misil metal peti, tipal silindre e puntida, xutada de un fusil; un simbol peti introduinte cada punto en un lista","i":"#","da":"kugle, projektil","de":"Kugel","en":"bullet","es":"bala (munición)","fr":"balle (munition)","he":"קליע, כדור"}
-{"L":"baleta falsa","C":["n"],"en":"blank (bullet)","fr":"balle à blanc"}
+{"L":"baleta falsa","C":["n"],"en":"blank (bullet)","es":"cartucho de fogueo","fr":"balle à blanc"}
 {"L":"balon","C":["n"],"i":"#","da":"ballon","de":"Ballon","en":"balloon; (speech) bubble","es":"globo (aerostático)","fr":"ballon, aérostat, montgolfière; bulle, phylactère (BD)","he":"בלון"}
 {"L":"balon de aira calda","C":["n"],"i":"#","en":"hot-air balloon","fr":"ballon à air chaud","he":"כדור פורח"}
 {"L":"balon de avisa","C":["n"],"en":"warning balloon (software)","fr":"infobulle (informatique)","he":"(תוכנה) בועת אזהרה"}
@@ -2990,6 +2990,7 @@
 {"L":"basto de mesura","C":["n"],"en":"measuring stick, measuring rod","fr":"jauge","he":"מוט מידה"}
 {"L":"basto de olio","C":["n"],"en":"dipstick","fr":"jauge de niveau d'huile","he":"מוט למדידת כמות שמן"}
 {"L":"basto de pasea","C":["n"],"en":"walking stick","fr":"(une) canne, (un) bâton de marche, bâton de randonnée","he":"מקל הליכה"}
+{"L":"basto de pexa","C":["n"],"en":"fishing rod","fr":"(une) canne à pêche"}
 {"L":"basto de tambur","C":["n"],"en":"drumstick","fr":"(une) baguette de tambour","he":"מקל תיפוף"}
 {"L":"basto de zucar","C":["n","cos"],"i":"#","en":"candy cane","fr":"sucre d'orge (en forme de canne)","he":"מקל סבא (ממתק)"}
 {"L":"basto eletrical","C":["n"],"en":"electric prod, stun baton","fr":"matraque électrique, taser","he":"שוקר חשמלי (לבקר)"}
@@ -7700,161 +7701,161 @@
 {"L":"dejenera","C":["n"],"en":"degeneration, decay, decadence","fr":"(une) dégénération, (une) dégénérescence","he":"הידרדרות, דרדור, התנוונות, דקדנס, ניוון; התבלות, בליה","ru":"вырождение, упадок; перерождение (мед)"}
 {"L":"dejenerada","C":["a"],"en":"degenerated, degenerate, decadent","fr":"dégénéré, décadent","he":"מנוון, דקדנטי; בלוי"}
 {"T":"r","L":"dejeta","C":["vt"],"d":"sutrae o elimina (un person o cosa) cual on no regarda como usosa o desirada","en":"throw away, discard, dump, dispose of, get rid of, jettison; dismiss (notification)","fr":"jeter (pour se débarrasser)","he":"לזרוק, להשליך, להיפטר; לדחות (הודעה)","ru":"сбрасывать, отбрасывать (как ненужное), отвергать"}
-{"L":"dejeta","C":["n"],"en":"disposal","he":"זריקה (לפח), השלכה, היפטרות; דחייה (של הודעה)"}
-{"L":"dejetable","C":["a"],"en":"disposable; rubbish, trashy, of poor quality","he":"(לשימוש) חד פעמי"}
-{"L":"dejetada","C":["n"],"i":"#","da":"affald, skrald","de":"Müll, Abfälle","en":"garbage, waste, trash, rubbish, litter, refuse, waste material","eo":"rubaĵo","es":"basura, desperdicio, desechos","fr":"déchet, ordure","he":"זבל, אשפה, פסולת","it":"immondizia","nl":"afval","pt":"lixo","ru":"отбросы, мусор, остатки, лом, шлам, бой"}
-{"L":"dejetadas flotante","C":["n","pl"],"en":"jetsam","he":"פליטת ים"}
-{"L":"dejeteria","C":["n"],"en":"garbage dump, rubbish heap, landfill (site), dumping ground, transfer station; dustheap, slag heap","fr":"déchetterie, déchèterie","he":"מזבלה, מטמנה","ru":"мусорная свалка, полигон (для отходов), центр сбора утиля (металлолома и тп)"}
-{"L":"dejetor","C":["n"],"en":"sanitation worker, garbage man, dustman","fr":"éboueur","he":"פועל תברואה, עובד זבל","ru":"мусорщик"}
-{"T":"r","L":"Delaware","C":["n","jeo"],"d":"un stato de la SUA este sentral, a la Mar Atlantica","p":"délawer","en":"Delaware (US state)","he":"דלאוור","ru":"Делавер (штат в США)"}
-{"L":"Baia Delaware","C":["n","jeo"],"d":"un baia entre Delaware e Jersey Nova","en":"Delaware Bay","he":"מפרץ דלאוור","ru":"Залив Делавэр"}
-{"T":"r","L":"delega","C":["vt","gov"],"d":"encarga un otra person, tipal de grado inferior, con (un taxe)","en":"delegate","fr":"déléguer","he":"להאציל","ru":"делегировать; назначать, уполномочивать; передавать, поручать, вверять, доверять"}
-{"L":"delega","C":["n"],"en":"delegation, deputation","fr":"délégation","he":"האצלה","ru":"делегирование"}
-{"L":"delegada","C":["a"],"en":"delegated","fr":"délégué","he":"מואצל","ru":"делегированный"}
-{"L":"delegada","C":["n"],"en":"delegate, commissary","fr":"délégué","he":"נציג, ציר, בא כוח","ru":"делегат"}
+{"L":"dejeta","C":["n"],"en":"disposal","fr":"(un) rejet, (une) élimination, (une) décharge","he":"זריקה (לפח), השלכה, היפטרות; דחייה (של הודעה)"}
+{"L":"dejetable","C":["a"],"en":"disposable; rubbish, trashy, of poor quality","fr":"jetable; de qualité médiocre","he":"(לשימוש) חד פעמי"}
+{"L":"dejetada","C":["n"],"i":"#","da":"affald, skrald","de":"Müll, Abfälle","en":"garbage, waste, trash, rubbish, litter, refuse, waste material","eo":"rubaĵo","es":"basura, desperdicio, desechos","fr":"(un) déchet, (une) ordure, (un) détritus, (une) immondice","he":"זבל, אשפה, פסולת","it":"immondizia","nl":"afval","pt":"lixo","ru":"отбросы, мусор, остатки, лом, шлам, бой"}
+{"L":"dejetadas flotante","C":["n","pl"],"en":"jetsam","fr":"(un) délestage, (un) largage","he":"פליטת ים"}
+{"L":"dejeteria","C":["n"],"en":"garbage dump, rubbish heap, landfill (site), dumping ground, transfer station; dustheap, slag heap","fr":"(une) déchetterie, (une) déchèterie","he":"מזבלה, מטמנה","ru":"мусорная свалка, полигон (для отходов), центр сбора утиля (металлолома и тп)"}
+{"L":"dejetor","C":["n"],"en":"sanitation worker, garbage man, dustman","fr":"(un) éboueur","he":"פועל תברואה, עובד זבל","ru":"мусорщик"}
+{"T":"r","L":"Delaware","C":["n","jeo"],"d":"un stato de la SUA este sentral, a la Mar Atlantica","p":"délawer","en":"Delaware (US state)","fr":"(le) Delaware (État)","he":"דלאוור","ru":"Делавер (штат в США)"}
+{"L":"Baia Delaware","C":["n","jeo"],"d":"un baia entre Delaware e Jersey Nova","en":"Delaware Bay","fr":"(la) baie de la Delaware","he":"מפרץ דלאוור","ru":"Залив Делавэр"}
+{"T":"r","L":"delega","C":["vt","gov"],"d":"encarga un otra person, tipal de grado inferior, con (un taxe)","en":"delegate","fr":"déléguer, se faire représenter par","he":"להאציל","ru":"делегировать; назначать, уполномочивать; передавать, поручать, вверять, доверять"}
+{"L":"delega","C":["n"],"en":"delegation, deputation","fr":"(une) délégation, (une) représentation","he":"האצלה","ru":"делегирование"}
+{"L":"delegada","C":["a"],"en":"delegated","fr":"délégué, représentant","he":"מואצל","ru":"делегированный"}
+{"L":"delegada","C":["n"],"en":"delegate, commissary","fr":"(un) délégué, (un) repésentant","he":"נציג, ציר, בא כוח","ru":"делегат"}
 {"T":"r","L":"deleta","C":["vt","uma"],"d":"plase multe (algun)","en":"delight, exhilarate","fr":"réjouir, ravir","he":"לענג, לגרום להנאה; לשמח, לרנן, לרומם רוח","ru":"радовать; веселить; тешить"}
-{"L":"deleta","C":["n"],"en":"delight, glee, exhilaration; delicacy, appetizer|is, aperitif, starter, hors d'oeuvre, antipasto, amuse-gueule","fr":"délice; amuse-geule","he":"תענוג, עינוג; עליצות, שמחה, צהלה, רננה, רוממות רוח, התרוממות רוח; מעדן; מתאבן","ru":"удовольствие, наслаждение, радость; лёгкая закуса; аперитив"}
-{"L":"deletada","C":["a"],"en":"delighted","fr":"réjoui, ravi","he":"מאושר, שמח, צוהל, עולץ; נהנה, מתענג","ru":"радостный, весёлый, обрадованный"}
-{"L":"deleteria","C":["n","cos"],"i":"#","en":"delicatessen, deli","fr":"épicerie fine","he":"מעדניה","ru":"деликатесный магазин"}
-{"L":"deletosa","C":["a"],"en":"delightful, delicious, delectable, luscious, sensuous, scrumptious, yummy","fr":"délicieux","he":"מהנה, מלבב, משמח, מרנין; טעים, ערב לחך","ru":"(о вещах) чудесный; превосходный, дивный; восхитительный; прелестный; приятный; очень вкусный"}
-{"T":"r","L":"delfin","C":["n","mam","gov"],"d":"un setaseo peti, multe sosial e intelijente; (istorial) la titulo de la fio la plu vea de la re de Frans","i":"#","t":"Delphinidae, Odontoceti","en":"dolphin; dauphin","fr":"dauphin","he":"דולפין","ru":"дельфин; дофин"}
-{"L":"Delfin","C":["n","ast"],"d":"un constela de la sielo norde","en":"Delphinus (constellation)","he":"דולפין (קבוצת כוכבים)","ru":"Дельфин (созвездие)"}
-{"T":"r","L":"delfinio","C":["n","pla"],"d":"un planta de jardin en familia de ranunculo, con spigas alta de flores blu","i":"#","t":"Delphinium","en":"delphinium, larkspur (plant)","eo":"delfinio","fr":"delphinium","he":"דרבנית (צמח)","ru":"Дельфиний, живокость (растение)"}
-{"T":"r","L":"delicata","C":["a"],"d":"(un ojeto) con trama o strutur refinada cual sujesta un fabricor multe capas; (un color o comeda) sutil; frajil; (un person, animal o planta) propensada a maladia o otra problemes; fasil turbable e nesesante cura o maneja cauta","en":"delicate, fine, dainty, sensitive, tender; fiddly (task)","fr":"délicat, fin","he":"עדין, רגיש, פגיע, שברירי; אנין"}
-{"L":"delicatas","C":["n","pl"],"en":"delicates, lingerie","he":"הלבשה תחתונה (של נשים)"}
-{"T":"r","L":"delirio","C":["n","med","uma"],"d":"un state multe turbada de la mente, como en febre, enebria o otra maladias, marcada par ajita, ilude e noncoere de pensa e parla","en":"delirium","he":"הזיה"}
-{"L":"deliriosa","C":["a"],"en":"delirious","he":"הוזה"}
-{"T":"r","L":"delta","C":["n"],"d":"la letera cuatro de la alfabeta elinica; un area triangulo de depone a la boca de un rio, tipal do lo diverje a sortis multiple","s":"Δ δ","en":"delta (Greek letter, river mouth)","he":"האות הרביעית באלף-בית היווני; דלתא, שפך"}
-{"T":"r","L":"deltoide","C":["n","anat"],"d":"un musculo spesa e triangulo cual covre la junta de spala, usada per leva la braso a via de la corpo","en":"deltoid (muscle)","he":"שריר הדלתא"}
-{"T":"r","L":"delude","C":["vt"],"d":"fali reali la esperas o espetas de (algun); preveni ce (esperas o espetas) reali","en":"disappoint, let down; dash (hopes)","fr":"décevoir","he":"לאכזב"}
-{"L":"delude","C":["n"],"da":"skuffelse","de":"Enttäuschung","en":"disappointment, anticlimax, letdown","es":"decepción, desilusión, desengaño, chasco, contrariedad","fr":"déception","he":"אכזבה"}
+{"L":"deleta","C":["n"],"en":"delight, glee, exhilaration; delicacy, appetizer|is, aperitif, starter, hors d'oeuvre, antipasto, amuse-gueule","fr":"(un) délice; (un) amuse-gueule, (un) apéritif, (une) mise en bouche, (une) kémia","he":"תענוג, עינוג; עליצות, שמחה, צהלה, רננה, רוממות רוח, התרוממות רוח; מעדן; מתאבן","ru":"удовольствие, наслаждение, радость; лёгкая закуса; аперитив"}
+{"L":"deletada","C":["a"],"en":"delighted","fr":"réjoui, ravi, charmé, enchanté, satisfait, comblé","he":"מאושר, שמח, צוהל, עולץ; נהנה, מתענג","ru":"радостный, весёлый, обрадованный"}
+{"L":"deleteria","C":["n","cos"],"i":"#","en":"delicatessen, deli","fr":"(une) épicerie fine","he":"מעדניה","ru":"деликатесный магазин"}
+{"L":"deletosa","C":["a"],"en":"delightful, delicious, delectable, luscious, sensuous, scrumptious, yummy","fr":"délicieux, délectable, exquis, excellent, savoureux, succulent","he":"מהנה, מלבב, משמח, מרנין; טעים, ערב לחך","ru":"(о вещах) чудесный; превосходный, дивный; восхитительный; прелестный; приятный; очень вкусный"}
+{"T":"r","L":"delfin","C":["n","mam","gov"],"d":"un setaseo peti, multe sosial e intelijente; (istorial) la titulo de la fio la plu vea de la re de Frans","i":"#","t":"Delphinidae, Odontoceti","en":"dolphin; dauphin","fr":"(un) dauphin","he":"דולפין","ru":"дельфин; дофин"}
+{"L":"Delfin","C":["n","ast"],"d":"un constela de la sielo norde","en":"Delphinus (constellation)","fr":"(le) Dauphin (constellation)","he":"דולפין (קבוצת כוכבים)","ru":"Дельфин (созвездие)"}
+{"T":"r","L":"delfinio","C":["n","pla"],"d":"un planta de jardin en familia de ranunculo, con spigas alta de flores blu","i":"#","t":"Delphinium","en":"delphinium, larkspur (plant)","eo":"delfinio","fr":"(un) delphinium","he":"דרבנית (צמח)","ru":"Дельфиний, живокость (растение)"}
+{"T":"r","L":"delicata","C":["a"],"d":"(un ojeto) con trama o strutur refinada cual sujesta un fabricor multe capas; (un color o comeda) sutil; frajil; (un person, animal o planta) propensada a maladia o otra problemes; fasil turbable e nesesante cura o maneja cauta","en":"delicate, fine, dainty, sensitive, tender; fiddly (task)","fr":"délicat, fin, raffiné, recherché, subtil; fragile, sensible; minutieux, difficile, sensible, délicat (tâche, situation)","he":"עדין, רגיש, פגיע, שברירי; אנין"}
+{"L":"delicatas","C":["n","pl"],"en":"delicates, lingerie","fr":"(une) lingerie, (des) sous-vêtements","he":"הלבשה תחתונה (של נשים)"}
+{"T":"r","L":"delirio","C":["n","med","uma"],"d":"un state multe turbada de la mente, como en febre, enebria o otra maladias, marcada par ajita, ilude e noncoere de pensa e parla","en":"delirium","fr":"(un) délire","he":"הזיה"}
+{"L":"deliriosa","C":["a"],"en":"delirious","fr":"délirant","he":"הוזה"}
+{"T":"r","L":"delta","C":["n"],"d":"la letera cuatro de la alfabeta elinica; un area triangulo de depone a la boca de un rio, tipal do lo diverje a sortis multiple","s":"Δ δ","en":"delta (Greek letter, river mouth)","fr":"delta (lettre grecque), (un) delta (embouchure)","he":"האות הרביעית באלף-בית היווני; דלתא, שפך"}
+{"T":"r","L":"deltoide","C":["n","anat"],"d":"un musculo spesa e triangulo cual covre la junta de spala, usada per leva la braso a via de la corpo","en":"deltoid (muscle)","fr":"deltoïde (muscle)","he":"שריר הדלתא"}
+{"T":"r","L":"delude","C":["vt"],"d":"fali reali la esperas o espetas de (algun); preveni ce (esperas o espetas) reali","en":"disappoint, let down; dash (hopes)","fr":"décevoir, désappointer, désillusionner, trahir, tromper; décevoir, anéantir, détruire (un espoir)","he":"לאכזב"}
+{"L":"delude","C":["n"],"da":"skuffelse","de":"Enttäuschung","en":"disappointment, anticlimax, letdown","es":"decepción, desilusión, desengaño, chasco, contrariedad","fr":"(une) déception, (une) désillusion, (une) déconvenue, (un) désappointement, (un) désenchantement","he":"אכזבה"}
 {"L":"delude de suspende","C":["n"],"en":"anticlimax","he":"אנטי-קליימקס, נפילת מתח (לאחר ציפיות גבוהות)"}
-{"L":"deludente","C":["a"],"en":"disappointing, anticlimactic","fr":"décevant","he":"מאכזב"}
+{"L":"deludente","C":["a"],"en":"disappointing, anticlimactic","fr":"décevant, désappointant, trompeur, frustrant, illusoire","he":"מאכזב"}
 {"T":"r","L":"deluvia","C":["vt","tera"],"d":"covre o sumerji (un loca) con acua","i":"#","n":"`Deluvia` sujesta un situa plu intensa ca `inonda`.","en":"flood, deluge; washout","fr":"tomber en déluge sur","he":"להציף"}
-{"L":"deluvia","C":["n"],"en":"major flood, deluge, torrent","fr":"déluge","he":"שיטפון, הצפה, מבול"}
-{"L":"deluvia subita","C":["n"],"en":"flash flood","he":"שיטפון בזק"}
-{"L":"deluvial","C":["a"],"en":"torrential","he":"של שיטפון"}
-{"L":"predeluvial","C":["a"],"en":"antediluvian","he":"מלפני המבול"}
-{"T":"r","L":"demagogo","C":["n","gov"],"d":"un xef political ci xerca suporta par apela a desiras e prejudis popular, en loca de usa razona","en":"demagogue","he":"דמגוג"}
-{"L":"demagogia","C":["n"],"en":"demagogy, demagoguery","he":"דמגוגיה"}
-{"T":"r","L":"demanda","C":["vt"],"d":"dise (parolas) a algun per oteni informa","n":"`Demanda de algun` es plu cortes ca `demanda a algun`, o sujesta ce la demanda es plu difisil. Cuando on solisita un cosa mancante, on `demanda per` lo.","u":"me demanda a tu do tu abita; el va demanda ce nos aida","da":"spørge, undersøge, anmode, begære","de":"fragen, bitten um, ersuchen","en":"ask, inquire, enquire","es":"preguntar (por), indagar, pedir, solicitar","fr":"demander","he":"לשאול"}
-{"L":"demanda","C":["n"],"da":"spørgsmål, forespørgsel","de":"Frage","en":"question, inquiry, enquiry, query","es":"pregunta, consulta, duda, interrogación","fr":"question","he":"שאלה, שאילתה"}
-{"L":"demanda a se","C":["n"],"en":"ask oneself, wonder","he":"לשאול את עצמו, לתהות"}
-{"L":"demanda autorespondente","C":["n"],"en":"rhetorical question","he":"שאלה רטורית"}
-{"L":"demanda codal","C":["n"],"en":"tag question, question tag","he":"(דקדוק) שאלת אישור"}
-{"L":"demanda gidante","C":["n"],"en":"leading question","he":"שאלה מנחה"}
-{"L":"demanda per","C":["v"],"en":"ask for, request","he":"לבקש"}
-{"L":"fa un demanda","C":["v"],"en":"ask a question, pose a question, put a question","he":"לשאול שאלה"}
-{"T":"r","L":"demente","C":["a","med","uma"],"d":"(en medica) sufrinte de dementia; (jeneral) mental turbada, spesial en modo savaje, coler, esajerada, zelosa o fol","da":"skør, gal, sindsyg","de":"wahnsinnig","en":"demented, insane, crazy, mad","es":"demente, insano, loco, trastornado, rabioso, furioso, enojado","fr":"dément, fou","he":"משוגע, מטורף"}
-{"L":"demente","C":["n"],"en":"lunatic, madman, madwoman","fr":"fou","he":"משוגע, מטורף"}
-{"L":"dementeria","C":["n"],"en":"madhouse, nuthouse, bedlam, lunatic asylum, insane asylum","fr":"asile de fous","he":"בית משוגעים"}
+{"L":"deluvia","C":["n"],"en":"major flood, deluge, torrent","fr":"(un) déluge","he":"שיטפון, הצפה, מבול"}
+{"L":"deluvia subita","C":["n"],"en":"flash flood","fr":"(un) déluge soudain, (une) trombe d'eau, (une) averse","he":"שיטפון בזק"}
+{"L":"deluvial","C":["a"],"en":"torrential","fr":"torrentiel, diluvien, torrentueux","he":"של שיטפון"}
+{"L":"predeluvial","C":["a"],"en":"antediluvian","fr":"antédiluvien","he":"מלפני המבול"}
+{"T":"r","L":"demagogo","C":["n","gov"],"d":"un xef political ci xerca suporta par apela a desiras e prejudis popular, en loca de usa razona","en":"demagogue","fr":"(un) démagogue","he":"דמגוג"}
+{"L":"demagogia","C":["n"],"en":"demagogy, demagoguery","fr":"(la) démagogie","he":"דמגוגיה"}
+{"T":"r","L":"demanda","C":["vt"],"d":"dise (parolas) a algun per oteni informa","n":"`Demanda de algun` es plu cortes ca `demanda a algun`, o sujesta ce la demanda es plu difisil. Cuando on solisita un cosa mancante, on `demanda per` lo.","u":"me demanda a tu do tu abita; el va demanda ce nos aida","da":"spørge, undersøge, anmode, begære","de":"fragen, bitten um, ersuchen","en":"ask, inquire, enquire","es":"preguntar (por), indagar, pedir, solicitar","fr":"demander, solliciter, questionner","he":"לשאול"}
+{"L":"demanda","C":["n"],"da":"spørgsmål, forespørgsel","de":"Frage","en":"question, inquiry, enquiry, query","es":"pregunta, consulta, duda, interrogación","fr":"(une) question, (une) demande, (une) interrogation","he":"שאלה, שאילתה"}
+{"L":"demanda a se","C":["n"],"en":"ask oneself, wonder","fr":"se demander, s'interroger, réfléchir, chercher","he":"לשאול את עצמו, לתהות"}
+{"L":"demanda autorespondente","C":["n"],"en":"rhetorical question","fr":"(une) demande pour la forme","he":"שאלה רטורית"}
+{"L":"demanda codal","C":["n"],"en":"tag question, question tag","fr":"(une) dernière demande","he":"(דקדוק) שאלת אישור"}
+{"L":"demanda gidante","C":["n"],"en":"leading question","fr":"(une) grande question","he":"שאלה מנחה"}
+{"L":"demanda per","C":["v"],"en":"ask for, request","fr":"réclamer, requérir, solliciter","he":"לבקש"}
+{"L":"fa un demanda","C":["v"],"en":"ask a question, pose a question, put a question","fr":"poser une question","he":"לשאול שאלה"}
+{"T":"r","L":"demente","C":["a","med","uma"],"d":"(en medica) sufrinte de dementia; (jeneral) mental turbada, spesial en modo savaje, coler, esajerada, zelosa o fol","da":"skør, gal, sindsyg","de":"wahnsinnig","en":"demented, insane, crazy, mad","es":"demente, insano, loco, trastornado, rabioso, furioso, enojado","fr":"dément, fou, dérangé, déséquilibré, insensé, aliéné","he":"משוגע, מטורף"}
+{"L":"demente","C":["n"],"en":"lunatic, madman, madwoman","fr":"(un) fou, (un) dément, (un) déséquilibré, (un) insensé, (un) aliéné","he":"משוגע, מטורף"}
+{"L":"dementeria","C":["n"],"en":"madhouse, nuthouse, bedlam, lunatic asylum, insane asylum","fr":"(un) hôpital psychiatrique, (un) asile de fous, (un) asile d'aliénés","he":"בית משוגעים"}
 {"L":"dementi","C":["vnt"],"en":"go crazy, go insane, go mad","fr":"devenir fou","he":"להשתגע"}
-{"L":"dementi","C":["vt"],"en":"make crazy, drive mad, madden, unhinge","fr":"rendre fou","he":"לשגע, להטריף"}
-{"L":"dementia","C":["n"],"d":"(en medica) un perde gradal de funsionas cognisial, spesial comun en persones vea, causada par dana o disturba serebral, e afetante la memoria, la pensa astrata, la emosias, la motiva, la orienta o la capasia lingual, e donce ance la ativia dial","en":"dementia, insanity, lunacy, madness","fr":"démence, folie","he":"טירוף, שיגעון"}
-{"T":"r","L":"demiurgo","C":["n","rel"],"d":"(en platonisme) la creor de la mundo; (en gnosticisme e otra teolojias) un esente sielal, suordinada de la esente suprema, e regardada como la controlor de la mundo material","en":"demiurge","he":"(דת) בורא עולם, דמיורגוס"}
-{"T":"r","L":"demo-","C":["pf","tecn"],"d":"popla, sitadanes","en":"demo- (people)","he":"(קידומת טכנית) אוכלוסייה, אזרחים"}
-{"T":"r","L":"democrata","C":["a","gov"],"d":"pertinente a o suportante un sistem de governa controlada par tota la popla o sitadanes, tipal tra representores elejeda","en":"democratic","fr":"democratique","he":"דמוקרטי"}
-{"L":"democrata","C":["n"],"en":"democrat","fr":"démocrate","he":"דמוקרט"}
+{"L":"dementi","C":["vt"],"en":"make crazy, drive mad, madden, unhinge","fr":"rendre fou, déranger","he":"לשגע, להטריף"}
+{"L":"dementia","C":["n"],"d":"(en medica) un perde gradal de funsionas cognisial, spesial comun en persones vea, causada par dana o disturba serebral, e afetante la memoria, la pensa astrata, la emosias, la motiva, la orienta o la capasia lingual, e donce ance la ativia dial","en":"dementia, insanity, lunacy, madness","fr":"(la) démence, (la) folie, (une) aliénation, (une) confusion mentale","he":"טירוף, שיגעון"}
+{"T":"r","L":"demiurgo","C":["n","rel"],"d":"(en platonisme) la creor de la mundo; (en gnosticisme e otra teolojias) un esente sielal, suordinada de la esente suprema, e regardada como la controlor de la mundo material","en":"demiurge","fr":"(un) démiurge","he":"(דת) בורא עולם, דמיורגוס"}
+{"T":"r","L":"demo-","C":["pf","tecn"],"d":"popla, sitadanes","en":"demo- (people)","fr":"démo- (peuple)","he":"(קידומת טכנית) אוכלוסייה, אזרחים"}
+{"T":"r","L":"democrata","C":["a","gov"],"d":"pertinente a o suportante un sistem de governa controlada par tota la popla o sitadanes, tipal tra representores elejeda","en":"democratic","fr":"démocratique","he":"דמוקרטי"}
+{"L":"democrata","C":["n"],"en":"democrat","fr":"(un) démocrate","he":"דמוקרט"}
 {"L":"democrati","C":["vnt"],"en":"democratize|is","fr":"(se) démocratiser","he":"לעבור דמוקרטיזציה"}
-{"L":"democrati","C":["vt"],"en":"democratize|is","he":"להנהיג דמוקרטיזציה"}
-{"L":"democratia","C":["n"],"en":"democracy","fr":"démocratie","he":"דמוקרטיה"}
-{"L":"nondemocrata","C":["a"],"en":"undemocratic","he":"לא דמוקרטי"}
-{"T":"r","L":"demografia","C":["n","uma"],"d":"la studia de statisticas como nases, moris, revenus e frecuentias de maladias, cual mostra la strutur e cambias de poplas","en":"demography","fr":"démographie","he":"דמוגרפיה"}
+{"L":"democrati","C":["vt"],"en":"democratize|is","fr":"démocratiser","he":"להנהיג דמוקרטיזציה"}
+{"L":"democratia","C":["n"],"en":"democracy","fr":"(la) démocratie","he":"דמוקרטיה"}
+{"L":"nondemocrata","C":["a"],"en":"undemocratic","fr":"non démocratique, antidémocratique","he":"לא דמוקרטי"}
+{"T":"r","L":"demografia","C":["n","uma"],"d":"la studia de statisticas como nases, moris, revenus e frecuentias de maladias, cual mostra la strutur e cambias de poplas","en":"demography","fr":"(la) démographie","he":"דמוגרפיה"}
 {"L":"demografial","C":["a"],"en":"demographic","fr":"démographique","he":"דמוגרפי"}
-{"L":"demografiste","C":["n"],"en":"demographer","fr":"démographe","he":"דמוגרף"}
-{"T":"r","L":"demon","C":["n","rel","mit"],"d":"(en alga relijios) un mal spirito, tipal capas de controla un person o tortura el en la enferno","i":"#","en":"demon, daemon","fr":"démon","he":"שד, דמון"}
+{"L":"demografiste","C":["n"],"en":"demographer","fr":"(un) démographe","he":"דמוגרף"}
+{"T":"r","L":"demon","C":["n","rel","mit"],"d":"(en alga relijios) un mal spirito, tipal capas de controla un person o tortura el en la enferno","i":"#","en":"demon, daemon","fr":"(un) démon","he":"שד, דמון"}
 {"L":"demonal","C":["a"],"en":"demonic","fr":"démoniaque","he":"דמוני, שטני"}
 {"L":"demoni","C":["vt"],"en":"demonize|is","he":"ליצור דמוניזציה"}
 {"L":"demoni","C":["n"],"en":"demonization|is","he":"דמוניזציה"}
-{"L":"demonin","C":["a"],"en":"demonic, devilish","he":"דמוי-שד, דמוי-שטן"}
-{"T":"r","L":"demonim","C":["a","uma"],"d":"pertinente a la nom de un popla usada par la popla mesma","en":"demonymic","he":"מתייחס לשם שעם קורא לעצמו"}
-{"L":"demonim","C":["n"],"en":"demonym","he":"השם שעם קורא לעצמו"}
-{"T":"r","L":"demonolojia","C":["n","rel","mit"],"d":"la studia de demones o la crede ce los esiste","en":"demonology","he":"דמונולוגיה"}
+{"L":"demonin","C":["a"],"en":"demonic, devilish","fr":"démoniaque","he":"דמוי-שד, דמוי-שטן"}
+{"T":"r","L":"demonim","C":["a","uma"],"d":"pertinente a la nom de un popla usada par la popla mesma","en":"demonymic","fr":"relatif à un gentilé","he":"מתייחס לשם שעם קורא לעצמו"}
+{"L":"demonim","C":["n"],"en":"demonym","fr":"(un) gentilé","he":"השם שעם קורא לעצמו"}
+{"T":"r","L":"demonolojia","C":["n","rel","mit"],"d":"la studia de demones o la crede ce los esiste","en":"demonology","fr":"(une) démonologie","he":"דמונולוגיה"}
 {"T":"r","L":"demostra","C":["vt","fil"],"d":"mostra la veria o esiste de (alga cosa) par atesta o razona","da":"bevise","de":"beweisen","en":"prove","es":"demostrar","fr":"démontrer, prouver","he":"להוכיח"}
-{"L":"demostra","C":["n"],"da":"bevis","de":"Beweis","en":"proof","es":"prueba, evidencia, comprobación","fr":"démonstration, preuve","he":"הוכחה"}
-{"L":"demostra empirical","C":["n"],"en":"empirical proof","fr":"démonstration empirique","he":"הוכחה אמפירית"}
+{"L":"demostra","C":["n"],"da":"bevis","de":"Beweis","en":"proof","es":"prueba, evidencia, comprobación","fr":"(une) démonstration, (une) preuve","he":"הוכחה"}
+{"L":"demostra empirical","C":["n"],"en":"empirical proof","fr":"(une) démonstration empirique","he":"הוכחה אמפירית"}
 {"L":"demostrable","C":["a"],"en":"provable","fr":"démontrable, prouvable","he":"בר הוכחה"}
-{"L":"demostrablia","C":["n"],"en":"provability","he":"היכולת להוכיח"}
-{"L":"nondemostrada","C":["a"],"en":"unproven, unconfirmed","he":"לא מוכח, לא מאומת"}
-{"T":"r","L":"demotica","C":["a","ling"],"d":"pertinente a la tipo de lingua nonformal usada par la popla comun","en":"demotic, vernacular, informal, colloquial, casual (speech)","he":"(שפה) דיבורית, עממית, לא רשמית"}
-{"L":"demotica","C":["n"],"en":"vernacular, vulgate","he":"שפת דיבור, שפה עממית"}
-{"T":"r","L":"Denali, Monte","C":["n","jeo"],"d":"un monte en Alaska sude-sentral, la plu grande en America Norde","en":"Mount Denali, Mount McKinley","he":"הר דנאלי"}
-{"T":"r","L":"dendrite","C":["n","bio","tera"],"d":"un estende corta e raminte de un neuron per reseta siniales de otra selulas; un roca, mineral o cristal con marcas raminte","en":"dendrite","he":"דנדריט, כניסון"}
-{"L":"dendritosa","C":["a"],"en":"dendritic","he":"דנדריטי"}
-{"T":"r","L":"dendrocronolojia","C":["n","bio"],"d":"la tecnica de determina la eda de un arbor par conta la anelos en un talia traversal de la tronco","en":"dendrochronology","he":"דנדרוכרונולוגיה, גילאות העץ"}
-{"T":"r","L":"dendrolojia","C":["n"],"d":"la studia siensal de arbores","en":"dendrology","he":"דנדרולוגיה, חקר העץ"}
-{"L":"dendrolojial","C":["a"],"en":"dendrological","he":"דנדרולוגי"}
-{"L":"dendrolojiste","C":["n"],"en":"dendrologist","he":"דנדרולוג, חוקר עצים"}
-{"T":"r","L":"denge","C":["n","med"],"d":"un maladia de la tropicos, causada par un virus transmeteda par moscetas, cual causa subita febre e dole intensa de la juntas","en":"dengue, dengue fever","he":"קדחת הדנגי"}
-{"T":"r","L":"denim","C":["n","vest"],"d":"un stofa durante de sarja de coton, tipal blu","en":"denim","he":"דנים (בד)"}
-{"L":"de denim","C":["a"],"en":"(made of) denim","he":"עשוי מדנים"}
-{"T":"r","L":"denova","C":["av"],"d":"a un plu ves; reocupante un state pasada","da":"igen, en gang til","de":"noch einmal","en":"again, anew, afresh","es":"otra vez, de nuevo, una vez más, repetidas veces, repetidamente","fr":"de nouveau, à nouveau, encore","he":"שוב, עוד פעם, מחדש"}
-{"T":"r","L":"densa","C":["a","fis"],"d":"conteninte un cuantia grande e compatida de cosas o persones prosima a lunlotra; (un licuida) no fasil fluente; (un nebla) opaca","da":"tæt, kraftig, tyk, intens","de":"dicht","en":"dense, thick","es":"denso, concentrado, espeso, intenso","fr":"dense","he":"דחוס; סמיך"}
-{"L":"densi","C":["vnt"],"en":"thicken, condense","he":"להידחס; להפוך לסמיך; להתעבות"}
-{"L":"densi","C":["vt"],"en":"thicken, condense; compress (data)","fr":"compresser (données)","he":"לדחוס; להסמיך; לעבות"}
-{"L":"densi","C":["n"],"en":"thickening; compression (data)","he":"דחיסה; הסמכה; עיבוי, התעבות"}
-{"L":"densia","C":["n"],"da":"tæthed","de":"Dichte","en":"density, thickness, consistency; resolution (image)","es":"densidad, espesura, estupidez","fr":"densité; résolution (d'une image)","he":"דחיסות; סמיכות"}
-{"T":"r","L":"dente","C":["n","anat","util"],"d":"cada de un colie de strutures dur, ososa e stratida con esmalte en la mandibulas de la plu de vertebratos, usada per morde e mastica; un strutur simil en otra organismes; un strutur simil en piniones e otra aparatos; un spina de force","i":"#","da":"tand","de":"Zahn","en":"tooth; tine, prong; sprocket","es":"diente","fr":"dent","he":"שן"}
-{"L":"dente canin","C":["n"],"en":"canine tooth","fr":"canine","he":"ניב (שן)"}
-{"L":"dente canin superior","C":["n"],"en":"eyetooth","he":"ניב עליון"}
-{"L":"dente conein","C":["n"],"en":"bucktooth","he":"שן שפן"}
-{"L":"dente de sajia","C":["n"],"en":"wisdom tooth"}
-{"L":"dente molente","C":["n"],"en":"molar","fr":"molaire","he":"שן טוחנת"}
-{"L":"dente sisorante","C":["n"],"en":"incisor","fr":"incisive","he":"שן חותכת"}
+{"L":"demostrablia","C":["n"],"en":"provability","fr":"(la) démontrabilité, (la) démonstrabilité, (la) prouvabilité","he":"היכולת להוכיח"}
+{"L":"nondemostrada","C":["a"],"en":"unproven, unconfirmed","fr":"non démontré, non confirmé, indémontré","he":"לא מוכח, לא מאומת"}
+{"T":"r","L":"demotica","C":["a","ling"],"d":"pertinente a la tipo de lingua nonformal usada par la popla comun","en":"demotic, vernacular, informal, colloquial, casual (speech)","fr":"populaire, vernaculaire, familier","he":"(שפה) דיבורית, עממית, לא רשמית"}
+{"L":"demotica","C":["n"],"en":"vernacular, vulgate","fr":"(le) démotique","he":"שפת דיבור, שפה עממית"}
+{"T":"r","L":"Denali, Monte","C":["n","jeo"],"d":"un monte en Alaska sude-sentral, la plu grande en America Norde","en":"Mount Denali, Mount McKinley","fr":"(le) Denali, (le) mont McKinley","he":"הר דנאלי"}
+{"T":"r","L":"dendrite","C":["n","bio","tera"],"d":"un estende corta e raminte de un neuron per reseta siniales de otra selulas; un roca, mineral o cristal con marcas raminte","en":"dendrite","fr":"(une) dendrite","he":"דנדריט, כניסון"}
+{"L":"dendritosa","C":["a"],"en":"dendritic","fr":"dendritique","he":"דנדריטי"}
+{"T":"r","L":"dendrocronolojia","C":["n","bio"],"d":"la tecnica de determina la eda de un arbor par conta la anelos en un talia traversal de la tronco","en":"dendrochronology","fr":"(la) dendrochronologie","he":"דנדרוכרונולוגיה, גילאות העץ"}
+{"T":"r","L":"dendrolojia","C":["n"],"d":"la studia siensal de arbores","en":"dendrology","fr":"(la) dendrologie","he":"דנדרולוגיה, חקר העץ"}
+{"L":"dendrolojial","C":["a"],"en":"dendrological","fr":"dendrologique","he":"דנדרולוגי"}
+{"L":"dendrolojiste","C":["n"],"en":"dendrologist","fr":"(un|une) dendrologue","he":"דנדרולוג, חוקר עצים"}
+{"T":"r","L":"denge","C":["n","med"],"d":"un maladia de la tropicos, causada par un virus transmeteda par moscetas, cual causa subita febre e dole intensa de la juntas","en":"dengue, dengue fever","fr":"(la) dengue","he":"קדחת הדנגי"}
+{"T":"r","L":"denim","C":["n","vest"],"d":"un stofa durante de sarja de coton, tipal blu","en":"denim","fr":"(le) denim, (le) jean","he":"דנים (בד)"}
+{"L":"de denim","C":["a"],"en":"(made of) denim","fr":"en denim, en jean","he":"עשוי מדנים"}
+{"T":"r","L":"denova","C":["av"],"d":"a un plu ves; reocupante un state pasada","da":"igen, en gang til","de":"noch einmal","en":"again, anew, afresh","es":"otra vez, de nuevo, una vez más, repetidas veces, repetidamente","fr":"de nouveau, à nouveau, encore, derechef","he":"שוב, עוד פעם, מחדש"}
+{"T":"r","L":"densa","C":["a","fis"],"d":"conteninte un cuantia grande e compatida de cosas o persones prosima a lunlotra; (un licuida) no fasil fluente; (un nebla) opaca","da":"tæt, kraftig, tyk, intens","de":"dicht","en":"dense, thick","es":"denso, concentrado, espeso, intenso","fr":"dense, concentré, compact, épais, massif, tassé, serré, touffu","he":"דחוס; סמיך"}
+{"L":"densi","C":["vnt"],"en":"thicken, condense","fr":"se densifier, se compresser, se concentrer, s'épaissir, se tasser, se reserrer, se serrer","he":"להידחס; להפוך לסמיך; להתעבות"}
+{"L":"densi","C":["vt"],"en":"thicken, condense; compress (data)","fr":"densifier, compresser, concentrer, épaissir, tasser, resserrer, serrer, presser; compresser (données)","he":"לדחוס; להסמיך; לעבות"}
+{"L":"densi","C":["n"],"en":"thickening; compression (data)","fr":"(une) concentration, (un) tassement, (une) compression, (une) densification; (une) compression (données)","he":"דחיסה; הסמכה; עיבוי, התעבות"}
+{"L":"densia","C":["n"],"da":"tæthed","de":"Dichte","en":"density, thickness, consistency; resolution (image)","es":"densidad, espesura, estupidez","fr":"(la) densité; (la) résolution (d'une image)","he":"דחיסות; סמיכות"}
+{"T":"r","L":"dente","C":["n","anat","util"],"d":"cada de un colie de strutures dur, ososa e stratida con esmalte en la mandibulas de la plu de vertebratos, usada per morde e mastica; un strutur simil en otra organismes; un strutur simil en piniones e otra aparatos; un spina de force","i":"#","da":"tand","de":"Zahn","en":"tooth; tine, prong; sprocket","es":"diente","fr":"(une) dent, (un) pignon","he":"שן"}
+{"L":"dente canin","C":["n"],"en":"canine tooth","fr":"(une) canine","he":"ניב (שן)"}
+{"L":"dente canin superior","C":["n"],"en":"eyetooth","fr":"(une) canine supérieure","he":"ניב עליון"}
+{"L":"dente conein","C":["n"],"en":"bucktooth","fr":"(une) dent de lapin","he":"שן שפן"}
+{"L":"dente de sajia","C":["n"],"en":"wisdom tooth","fr":"(une) dent de sagesse"}
+{"L":"dente molente","C":["n"],"en":"molar","fr":"(une) molaire","he":"שן טוחנת"}
+{"L":"dente sisorante","C":["n"],"en":"incisor","fr":"(une) incisive","he":"שן חותכת"}
 {"L":"dental","C":["a"],"en":"dental","fr":"dentaire","he":"שיני, דנטלי"}
-{"L":"dental","C":["n"],"en":"dental (consonant)","fr":"dentale","he":"עיצור שיני"}
-{"L":"dentes","C":["n","pl"],"en":"teeth, dentition","he":"(מערכת) שיניים"}
-{"L":"dentiste","C":["n"],"en":"dentist","fr":"dentiste","he":"רופא שיניים"}
-{"L":"denton","C":["n"],"i":"#, denton2","en":"tusk, fang","fr":"défense","he":"ניב (של חיה), חט"}
+{"L":"dental","C":["n"],"en":"dental (consonant)","fr":"(une) dentale (consonne)","he":"עיצור שיני"}
+{"L":"dentes","C":["n","pl"],"en":"teeth, dentition","fr":"(les) dents, (la) dentition","he":"(מערכת) שיניים"}
+{"L":"dentiste","C":["n"],"en":"dentist","fr":"(un|une) dentiste","he":"רופא שיניים"}
+{"L":"denton","C":["n"],"i":"#, denton2","en":"tusk, fang","fr":"(une) défense (d'éléphant)","he":"ניב (של חיה), חט"}
 {"L":"dentosa","C":["a"],"en":"toothy, toothed","fr":"denté","he":"חושף שיניים (מרובות)"}
-{"L":"interdental","C":["a"],"en":"interdental (consonant)","he":"בין-שיני"}
-{"L":"interdental","C":["n"],"en":"interdental (consonant)","fr":"interdentale (consonne)","he":"עיצור בין-שיני"}
-{"T":"r","L":"dentela","C":["n","vest"],"d":"un stofa delicata, tipal de coton o seda, produida par aneli, torse o tricota filos en motifes, comun usada per vestes o decoras","i":"#","en":"lace, lacework","fr":"dentelle","he":"תחרה"}
-{"L":"dentela de lenio","C":["n"],"en":"fretwork","he":"קישוט עץ"}
-{"T":"r","L":"denteleon","C":["n","pla"],"d":"un planta comun en familia de margarita, con roseta de folias, talos conteninte un latex letin, e flores briliante jala cual maturi a globos de semes con mexas peluxetin","i":"#","t":"Taraxacum","en":"dandelion","fr":"pissenlit","he":"שן הארי (צמח)"}
-{"T":"r","L":"dentin","C":["n","bio","anat"],"d":"la texeda dur, densa e ososa cual formi la plu de un dente su la esmalte","en":"dentin|dentine","fr":"dentine","he":"דנטין"}
-{"T":"r","L":"denunsia","C":["vt","gov"],"d":"declara publica ce (un person o cosa) es mal o erante; informa la autoriosas contra (algun)","en":"denounce, decry","fr":"dénoncer","he":"לגנות, להוקיע"}
-{"L":"denunsia","C":["n"],"en":"denouncement","fr":"dénonciation","he":"גינוי, הוקעה"}
-{"L":"denunsior","C":["n"],"en":"denouncer, whistleblower","fr":"dénonciateur","he":"מגנה, מוקיע"}
-{"T":"r","L":"departe","C":["n","gov"],"d":"un parte de un asosia comersial o political plu grande","en":"department, bureau","fr":"département","he":"מחלקה, מדור, אגף, לשכה"}
-{"L":"departe de investiga","C":["n"],"en":"bureau of investigation","he":"אגף חקירות"}
-{"L":"departe de securia esterna","C":["n"],"en":"foreign intelligence agency","he":"סוכנות מודיעין"}
-{"L":"departe de securia interna","C":["n"],"en":"domestic intelligence agency","he":"סוכנות לביטחון פנים"}
-{"L":"departe de urjentes","C":["n"],"en":"emergency department, emergency room, emergency ward, accident and emergency department, A&E","he":"מחלקה לרפואה דחופה, חדר מיון"}
-{"L":"interdepartal","C":["a"],"en":"interdepartmental, interoffice","he":"בין-מחלקתי"}
-{"T":"r","L":"depende","C":["vnt"],"d":"ave un nesesa (de alga cosa) per suporta, susta o consola se; es controlada (par)","u":"nos depende de tu; la responde depende de fatores diversa","da":"afhænge af, støtte på","de":"abhängen von","en":"depend, rely","es":"depender de, confiar en, contar con","fr":"dépendre","he":"להיות תלוי (במשהו או מישהו), להסתמך"}
-{"L":"depende","C":["n"],"en":"dependence, dependency; reliance, addiction","fr":"dépendance","he":"תלות (גם בסמים), הסתמכות"}
+{"L":"interdental","C":["a"],"en":"interdental (consonant)","fr":"interdentale (consonne)","he":"בין-שיני"}
+{"L":"interdental","C":["n"],"en":"interdental (consonant)","fr":"(une) interdentale (consonne)","he":"עיצור בין-שיני"}
+{"T":"r","L":"dentela","C":["n","vest"],"d":"un stofa delicata, tipal de coton o seda, produida par aneli, torse o tricota filos en motifes, comun usada per vestes o decoras","i":"#","en":"lace, lacework","fr":"(la) dentelle","he":"תחרה"}
+{"L":"dentela de lenio","C":["n"],"en":"fretwork","fr":"(le) chantournage","he":"קישוט עץ"}
+{"T":"r","L":"denteleon","C":["n","pla"],"d":"un planta comun en familia de margarita, con roseta de folias, talos conteninte un latex letin, e flores briliante jala cual maturi a globos de semes con mexas peluxetin","i":"#","t":"Taraxacum","en":"dandelion","fr":"(le) pissenlit","he":"שן הארי (צמח)"}
+{"T":"r","L":"dentin","C":["n","bio","anat"],"d":"la texeda dur, densa e ososa cual formi la plu de un dente su la esmalte","en":"dentin|dentine","fr":"(la) dentine","he":"דנטין"}
+{"T":"r","L":"denunsia","C":["vt","gov"],"d":"declara publica ce (un person o cosa) es mal o erante; informa la autoriosas contra (algun)","en":"denounce, decry","fr":"dénoncer, accuser publiquement","he":"לגנות, להוקיע"}
+{"L":"denunsia","C":["n"],"en":"denouncement","fr":"(une) dénonciation","he":"גינוי, הוקעה"}
+{"L":"denunsior","C":["n"],"en":"denouncer, whistleblower","fr":"(un) dénonciateur","he":"מגנה, מוקיע"}
+{"T":"r","L":"departe","C":["n","gov"],"d":"un parte de un asosia comersial o political plu grande","en":"department, bureau","fr":"(un) département","he":"מחלקה, מדור, אגף, לשכה"}
+{"L":"departe de investiga","C":["n"],"en":"bureau of investigation","fr":"(un) service de renseignement","he":"אגף חקירות"}
+{"L":"departe de securia esterna","C":["n"],"en":"foreign intelligence agency","fr":"(la) direction de la sécurité extérieure","he":"סוכנות מודיעין"}
+{"L":"departe de securia interna","C":["n"],"en":"domestic intelligence agency","fr":"(la) direction de la sécurité intérieure","he":"סוכנות לביטחון פנים"}
+{"L":"departe de urjentes","C":["n"],"en":"emergency department, emergency room, emergency ward, accident and emergency department, A&E","fr":"(le) service des urgences","he":"מחלקה לרפואה דחופה, חדר מיון"}
+{"L":"interdepartal","C":["a"],"en":"interdepartmental, interoffice","fr":"interdépartemental","he":"בין-מחלקתי"}
+{"T":"r","L":"depende","C":["vnt"],"d":"ave un nesesa (de alga cosa) per suporta, susta o consola se; es controlada (par)","u":"nos depende de tu; la responde depende de fatores diversa","da":"afhænge af, støtte på","de":"abhängen von","en":"depend, rely","es":"depender de, confiar en, contar con","fr":"dépendre, être rattaché à, être sous l'autorité de","he":"להיות תלוי (במשהו או מישהו), להסתמך"}
+{"L":"depende","C":["n"],"en":"dependence, dependency; reliance, addiction","fr":"(une) dépendance; (une) addiction","he":"תלות (גם בסמים), הסתמכות"}
 {"L":"dependente","C":["a"],"en":"dependent, conditional, provisory, contingent; addicted","fr":"dépendant, conditionnel","he":"תלוי, מותנה"}
-{"L":"dependente","C":["n"],"en":"dependant, ward; addict","he":"נתמך (כלכלית), חוסה; בעל תלות, מכור"}
-{"L":"dependente de","C":["prep"],"en":"dependent on, subject to","he":"תלוי ב, מותנה ב"}
-{"L":"dependente si","C":["sj"],"en":"on condition that, provided that","fr":"à condition que","he":"בתנאי ש"}
+{"L":"dependente","C":["n"],"en":"dependant, ward; addict","fr":"(une) personne dépendante, (une) pupille; (un) toxicoane","he":"נתמך (כלכלית), חוסה; בעל תלות, מכור"}
+{"L":"dependente de","C":["prep"],"en":"dependent on, subject to","fr":"dépendant de, dépendant à","he":"תלוי ב, מותנה ב"}
+{"L":"dependente si","C":["sj"],"en":"on condition that, provided that","fr":"à condition que, si, si toutefois, pourvu que","he":"בתנאי ש"}
 {"L":"interdepende","C":["vnt"],"en":"interdepend","fr":"interdépendre","he":"להיות בתלות הדדית"}
-{"L":"interdependente","C":["a"],"en":"interdependent","he":"בתלות הדדית"}
-{"L":"nondepende","C":["n"],"en":"independence, self-sufficiency, autonomy","he":"אי תלות, עצמאות, אוטונומיה"}
-{"L":"nondependente","C":["a"],"en":"not dependent, self-sufficient, standalone; independent, autonomous","eo":"sendependa","he":"בלתי תלוי, עצמאי, אוטונומי"}
+{"L":"interdependente","C":["a"],"en":"interdependent","fr":"interdépendant","he":"בתלות הדדית"}
+{"L":"nondepende","C":["n"],"en":"independence, self-sufficiency, autonomy","fr":"(une) indépendance, (une) autonomie, (une) autarcie, (une) autosuffisance","he":"אי תלות, עצמאות, אוטונומיה"}
+{"L":"nondependente","C":["a"],"en":"not dependent, self-sufficient, standalone; independent, autonomous","eo":"sendependa","fr":"indépendant, autonome, autarcique, autosuffisant","he":"בלתי תלוי, עצמאי, אוטונומי"}
 {"T":"r","L":"depinta","C":["vt","arte"],"d":"crea un imaje de (un person o cosa), usante pinta","en":"paint, depict","fr":"peindre, dépeindre","he":"לצייר"}
 {"L":"depinta","C":["n"],"i":"#","en":"painting (art form, artwork), depiction","fr":"(un) tableau","he":"ציור"}
-{"L":"depinta de persones","C":["n"],"en":"portraiture","he":"אמנות ציורי דיוקן"}
+{"L":"depinta de persones","C":["n"],"en":"portraiture","fr":"(un) portrait","he":"אמנות ציורי דיוקן"}
 {"L":"depinta mural","C":["n"],"i":"#","en":"mural","fr":"(une) peinture murale","he":"ציור קיר"}
 {"L":"depinta personal","C":["n"],"i":"#","en":"portrait","fr":"(un) portrait","he":"ציור דיוקן, פורטרט"}
 {"L":"autodepinta","C":["n"],"en":"self-portrait","fr":"(un) autoportrait","he":"דיוקן עצמי"}
 {"L":"depintin","C":["a"],"en":"picturesque","fr":"pittoresque","he":"ציורי"}
 {"L":"depintor","C":["n"],"en":"painter","fr":"(un) peintre","he":"צייר"}
-{"L":"Depintor","C":["n","ast"],"d":"un constela en la sielo sude","en":"Pictor (constellation)","he":"כן ציור (קבוצת כוכבים)"}
+{"L":"Depintor","C":["n","ast"],"d":"un constela en la sielo sude","en":"Pictor (constellation)","fr":"(le) Peintre (constellation)","he":"כן ציור (קבוצת כוכבים)"}
 {"T":"r","L":"deplora","C":["vt","uma"],"d":"senti o espresa desaproba forte de (alga cosa)","en":"deplore, bemoan","fr":"déplorer","he":"להרגיש או להביע מורת רוח או שאט נפש"}
 {"L":"deplorable","C":["a"],"en":"deplorable, appalling, abysmal, awful, atrocious","fr":"déplorable","he":"מצער, עגום; מגונה, נתעב, נקלה, נורא, איום"}
 {"T":"r","L":"depone","C":["vt","tera"],"d":"pone gradal (un materia) como un strato o covrente; lasa (mone o otra valuadas) con algun per reteni, como en un banco; paia (mone) como un parte inisial de un compra o per garantia un contrata","en":"deposit (including financial)","fr":"déposer, sédimenter","he":"לשקע, ליצור משקע; להפקיד"}
 {"L":"depone","C":["n"],"en":"sedimentation","fr":"(une) sédimentation","he":"שיקוע, סדימנטציה; הפקדה"}
-{"L":"deponeda","C":["a"],"en":"deposited; sedimentary","he":"של משקע; מופקד"}
+{"L":"deponeda","C":["a"],"en":"deposited; sedimentary","fr":"sédimentaire","he":"של משקע; מופקד"}
 {"L":"deponeda","C":["n"],"en":"sediment, silt","fr":"(un) dépôt, (un) sédiment","he":"משקע, מרבץ, סחופת"}
 {"T":"r","L":"deporta","C":["vt","gov"],"d":"esclui (un stranjer) de un nasion, tipal per sua state nonlegal o per atas criminal","en":"deport","fr":"déporter","he":"לגרש, להגלות"}
-{"L":"deporta","C":["n"],"en":"deportation","fr":"déportation","he":"גירוש, הגליה"}
-{"L":"deportada","C":["a"],"en":"deported","he":"מגורש"}
-{"L":"deportada","C":["n"],"en":"deportee","he":"מגורש"}
-{"T":"r","L":"depresa","C":["vt","tera","uma"],"d":"presa o puia (alga cosa) a su; fa ce (algun) senti descorajida o triste","en":"depress (push down, sadden)","fr":"déprimer","he":"ללחוץ (על כפתור); לדכא, לדכדך"}
-{"L":"depresa","C":["n","tera","med","uma"],"d":"un sindrom medical con periodos de tristia e autoodia intensa; la vale entre du ondas","en":"depression; trough (wave)","fr":"dépression","he":"לחיצה (על כפתור); דיכאון; נקודת שפל"}
-{"L":"depresa climal","C":["n","tera"],"en":"low-pressure area, depression, weather system","he":"שקע ברומטרי, מערכת לחץ נמוך"}
-{"L":"depresa economial","C":["n"],"en":"economic depression","fr":"dépression économique","he":"שפל כלכלי"}
+{"L":"deporta","C":["n"],"en":"deportation","fr":"(une) déportation","he":"גירוש, הגליה"}
+{"L":"deportada","C":["a"],"en":"deported","fr":"déporté","he":"מגורש"}
+{"L":"deportada","C":["n"],"en":"deportee","fr":"(un) déporté | (une) déportée","he":"מגורש"}
+{"T":"r","L":"depresa","C":["vt","tera","uma"],"d":"presa o puia (alga cosa) a su; fa ce (algun) senti descorajida o triste","en":"depress (push down, sadden)","fr":"déprimer, abattre","he":"ללחוץ (על כפתור); לדכא, לדכדך"}
+{"L":"depresa","C":["n","tera","med","uma"],"d":"un sindrom medical con periodos de tristia e autoodia intensa; la vale entre du ondas","en":"depression; trough (wave)","fr":"(une) dépression; (un) creux","he":"לחיצה (על כפתור); דיכאון; נקודת שפל"}
+{"L":"depresa climal","C":["n","tera"],"en":"low-pressure area, depression, weather system","fr":"(une) dépression (climatique)","he":"שקע ברומטרי, מערכת לחץ נמוך"}
+{"L":"depresa economial","C":["n"],"en":"economic depression","fr":"(la) dépression économique","he":"שפל כלכלי"}
 {"L":"antidepresante","C":["a","med"],"d":"(un medisin) cual redui depresa mental","en":"antidepressant","fr":"antidépresseur","he":"נוגד דיכאון"}
 {"L":"antidepresante","C":["n"],"en":"antidepressant","fr":"(un) antidépresseur","he":"נוגד דיכאון"}
 {"L":"depresada","C":["a"],"en":"depressed, dejected, down, melancholy","fr":"déprimé","he":"(כפתור) לחוץ; מדוכא, מדוכדך"}
@@ -10771,6 +10772,7 @@
 {"L":"fenetra de teto","C":["n"],"en":"skylight"}
 {"L":"fenetra xarnierida","C":["n"],"i":"#","en":"casement window"}
 {"L":"fenetreta","C":["n"],"en":"porthole"}
+{"T":"r","L":"fengxui","C":["n","fil"],"d":"(en credes xines) un sistem descrivente la relata de la organiza spasial e la flue de la enerjia txi, considerada en la desinia de construidas","en":"feng shui"}
 {"T":"r","L":"fenilalanina","C":["n","cim","med"],"d":"un aminoasida comun en protenas de plantas, e un nurinte esensal per vertebratos","en":"phenylalanine (amino acid)"}
 {"T":"r","L":"fenilcetonuria","C":["n","med"],"d":"un noncapasia erital de metaboli fenilalanina","en":"phenylketonuria (medical)"}
 {"T":"r","L":"Fenisia","C":["n","jeo"],"d":"un pais antica a la costa de la Mar Mediteraneo","i":"#","en":"Phoenicia"}
@@ -18246,6 +18248,7 @@
 {"L":"ontojenial","C":["a"],"en":"ontogenetic"}
 {"T":"r","L":"ontolojia","C":["n","fil"],"d":"la ramo de metafisica cual studia la natur de esiste","en":"ontology"}
 {"L":"ontolojial","C":["a"],"en":"ontological, ontologic"}
+{"T":"r","L":"oomoto","C":["n","rel"],"d":"un relijio japanes fundida par Deguchi Nao en 1892","en":"Oomoto"}
 {"T":"r","L":"op","C":["esc"],"d":"espresante la reconose de un era o asidente, tipal como un parte de un escusa","en":"oops, whoops, uh-oh"}
 {"T":"r","L":"opaca","C":["a","fis"],"d":"no transparente o diafana; difisil per comprende","en":"opaque"}
 {"L":"opacia","C":["n"],"en":"opacity"}
@@ -25683,7 +25686,7 @@
 {"T":"r","L":"stupor","C":["n","med","mit"],"d":"un state cuasi nonconsensa de stimulas esterna, tipal induida par ipnose o atenida par un spiritiste","en":"stupor, trance"}
 {"T":"r","L":"sturion","C":["n","pex"],"d":"un pex primitiva con laminas de oso sur sua corpo, importante per sua carne e caviar","i":"#","t":"Acipenseridae","en":"sturgeon (fish)"}
 {"T":"r","L":"sturnela","C":["n","avia"],"d":"un avia cantante de la prados american","i":"#","t":"Sturnella","en":"meadowlark (bird)"}
-{"T":"r","L":"su","C":["prep"],"d":"situada o estendente a un loca plu basa o profonda ca; plu basa ca (un cuantia, frecuentia o norma)","g":"preposadas#su","u":"ombra su la arbores; un table su la fenetra; un sueter su un jaca; labora su esta regulas; la temperatur es su zero","ca":"a sota de","da":"under, neden under","de":"unter, unten","en":"below, beneath, under, underneath, lower than (location, quantity, standard)","eo":"sub","es":"bajo, debajo de, menos que, indigno de, inferior a","fr":"sous","it":"sotto","ja":"の下に, で","nl":"onder","pt":"sob, debaixo, embaixo, inferior, abaixo","ru":"под"}
+{"T":"r","L":"su","C":["prep"],"d":"situada o estendente a un loca plu basa o profonda ca; plu basa ca (un cuantia, frecuentia o norma)","g":"preposadas#su","u":"ombra su la arbores; un table su la fenetra; un sueter su un jaca; labora su esta regulas; la temperatur es su zero","ca":"a sota de","da":"under, neden under","de":"unter, unten","en":"below, beneath, under, underneath, lower than (location, quantity, standard); (idea, mechanism, etc) behind, underlying","eo":"sub","es":"bajo, debajo de, menos que, indigno de, inferior a","fr":"sous","it":"sotto","ja":"の下に, で","nl":"onder","pt":"sob, debaixo, embaixo, inferior, abaixo","ru":"под"}
 {"T":"s","d":"movente a un loca plu basa ca","u":"pone un cuxin su sua testa","en":"(moving) to below, under"}
 {"L":"su-","C":["pf"],"d":"su, a su, plu basa en loca o grado","u":"sutera; sudivide","en":"sub- (lower in location or hierarchy)"}
 {"L":"a su","C":["prep"],"u":"la gato core a su la table","en":"(moving) to below, under","es":"abajo, hacia abajo, en el fondo de, por debajo de","gl":"no fondo de, por baixo de"}
@@ -26069,6 +26072,7 @@
 {"T":"r","L":"tacicardia","C":["n","med"],"d":"batetas tro rapida de la cor","en":"tachycardia","es":"taquicardia"}
 {"L":"tacicardial","C":["a"],"en":"tachycardial","es":"taquicardia"}
 {"T":"r","L":"tacion","C":["n","fis"],"d":"un particula ipotesal cual move plu rapida ca lus","en":"tachyon (particle)","es":"taquiñon","fr":"tachyon"}
+{"T":"r","L":"tacistoscopio","C":["n","util"],"d":"un aparato cual mostra un imaje per un tempo spesifada","en":"tachistoscope"}
 {"T":"r","L":"tacle","C":["vt","spo"],"d":"(en rugbi e futbal american) para la move de (la juor ci posese la bal) par saisi el e forsa el a la tera; (en futbal internasional) atenta prende la bal de (un oposor) par intersepi el","i":"#","en":"tackle (sport)","es":"placar, tackle","fr":"tacler"}
 {"L":"tacle","C":["n"],"en":"tackle","es":"placaje, tackle","fr":"tacle"}
 {"T":"r","L":"taco","C":["n","cos"],"d":"un plato mexican, composada de un tortilia fritada, tipal pliada e plenida con miscas diversa como carne spisida, favas, letuga e tomates","i":"#","en":"taco (food)","es":"taco (comida)"}
@@ -27619,6 +27623,7 @@
 {"L":"txetxen","C":["n"],"en":"Chechen"}
 {"T":"r","L":"txi","C":["n","fil"],"d":"la forte de vive de cual sua esiste e cualias formi la funda de un parte grande de filosofia e medica tradisional de Jonguo","en":"chi, qi, life energy, life force","fr":"qi"}
 {"T":"r","L":"txia","C":["n","pla","cos"],"d":"un planta bonodorosa en familia de menta, nativa de Mexico e la sude-ueste de la SUA, con grupos de flores blu o violeta e frutas comable","i":"#","t":"Salvia hispanica","en":"chia (plant)","es":"chía"}
+{"T":"r","L":"txigong","C":["n","spo"],"d":"un sistem xines de eserses fisical e controla de respira, relatada a taitxi","en":"qigong"}
 {"T":"r","L":"Txile","C":["n","jeo"],"c":"Santiago","d":"un pais en America Sude cual formi un banda longa longo la costa de la Mar Pasifica","i":"#","en":"Chile","es":"Chile","fr":"Chili"}
 {"L":"Mar Txile","C":["n","jeo"],"d":"un mar a ueste de Txile, un parte de la Mar Pasifica","i":"#","en":"Chile Sea","es":"Mar chileno"}
 {"L":"txilan","C":["a"],"en":"Chilean","es":"chileno","fr":"chilien"}
