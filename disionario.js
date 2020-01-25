@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '23 janero 2020';
+﻿var dataDeDatos = '24 janero 2020';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"a (lettre de l'alphabet), la (note de la gamme)",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",da:"i, ved, på, hos, nær",de:"bei, mit, um",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",gl:"en (no mesmo lugar que)",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -5297,7 +5297,7 @@ var disionario = [
 {T:"r",L:"cmer",C:["a","dem"],d:"pertinente a la popla de Camputxa o a sua lingua",en:"Khmer (person, language)",fr:"khmer",he:"חמר (קבוצה אתנית, שפה)"},
 {L:"cmer",C:["n"],en:"Khmer (person, language)",fr:"(un) Khmer (personne); (le) khmer (langue)",he:"חמר (קבוצה אתנית, שפה)"},
 {T:"r",L:"cnidario",C:["n","nonv"],d:"un animal nonvertebrato acual de un filo cual inclui medusas, corales e anemones-de-mar",t:"Cnidaria",en:"coelenterate (organism)",fr:"(un) cnidaire, (un) cœlentéré (organisme)",he:"בעל-חיים ממשפחת הנבוביים"},
-{T:"r",L:"co-",C:["pf","tecn"],d:"con, en junta",en:"co- (with, together)",fr:"co- (avec, ensemble)",he:"(קידומת טכנית) עם, ביחד"},
+{T:"r",L:"co-",C:["pf","tecn"],d:"con, en junta",en:"co- (with, together), felloe",fr:"co- (avec, ensemble)",he:"(קידומת טכנית) עם, ביחד"},
 {T:"r",L:"coabita",C:["vnt"],d:"abita con lunlotra",en:"cohabit",fr:"cohabiter",he:"לגור ביחד"},
 {L:"coabita",C:["n"],en:"cohabitation",fr:"(une) cohabitation",he:"מגורי יחד"},
 {L:"coabitor",C:["n"],en:"cohabiter, cohabitant, housemate, flatmate, roommate",fr:"(un) cohabitant, colocataire",he:"גר ביחד, חולק חלל משותף"},
@@ -14041,6 +14041,7 @@ var disionario = [
 {L:"jirante",C:["a"],en:"rotating, rotary"},
 {L:"jirante",C:["n"],en:"whirligig"},
 {L:"jireta",C:["n"],en:"spinning top",fr:"toupie"},
+{L:"jireta de mano",C:["n"],en:"hand top, fidget spinner"},
 {L:"jireta ivri",C:["n"],i:"#",en:"dreidel"},
 {T:"r",L:"jirabroca",C:["n","vn"],d:"un util de fora, con manivel e caveta per teni un broca",en:"brace (of brace and bit)",fr:"vilebrequin"},
 {T:"r",L:"jirafa",C:["n","mam"],d:"un mamal grande de Africa con colo longa e pelo de pesos brun separada par linias plu pal",i:"#",t:"Giraffa camelopardalis",en:"giraffe",fr:"girafe"},
@@ -23357,6 +23358,7 @@ var disionario = [
 {T:"r",L:"sarin",C:["n","cim"],d:"un gas organofosforosa cual dana o destrui la nervos",en:"sarin (gas)"},
 {T:"r",L:"sarja",C:["n","vest"],d:"un stofa texeda per crea un surfas de crestas paralel e diagonal",en:"twill, serge (fabric)"},
 {T:"r",L:"sarjento",C:["n","gov"],d:"un ofisior nonencargada en la fortes militar",en:"sergeant"},
+{L:"sarjento de armas",C:["n"],en:"sergeant-at-arms, serjeant-at-arms"},
 {T:"r",L:"sarong",C:["n","vest"],d:"un veste composada de un peso longa de stofa envolveda sirca la corpo e plisada a la taie o axilas, portada par femes de Asia sude-este",i:"#",en:"sarong (garment)"},
 {T:"r",L:"sartorio",C:["n","anat","med"],d:"un musculo longa e magra de la gama basa",en:"sartorius (muscle)"},
 {T:"r",L:"sasafras",C:["n","pla"],d:"un arbor de America Norde con folias bonodorosa cual pote es usada per prepara un te",i:"#",t:"Sassafras albidum",en:"sassafras (tree)"},
