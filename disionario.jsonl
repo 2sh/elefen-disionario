@@ -7860,229 +7860,229 @@
 {"L":"antidepresante","C":["n"],"en":"antidepressant","fr":"(un) antidépresseur","he":"נוגד דיכאון"}
 {"L":"depresada","C":["a"],"en":"depressed, dejected, down, melancholy","fr":"déprimé","he":"(כפתור) לחוץ; מדוכא, מדוכדך"}
 {"L":"depresante","C":["a","med"],"d":"(un medisin) cual redui ativia neuronal","en":"depressant","fr":"dépresseur","he":"מדכא; סם הרגעה"}
-{"T":"r","L":"derbi","C":["n","spo"],"d":"un corsa de cavalos; un concurso major de sporte","en":"derby (horse race, sporting event)","he":"(ספורט) דרבי"}
-{"T":"r","L":"deriva","C":["vnt","fil"],"d":"orijina en (un fonte spesifada); (un conseta) es fundida sur un estende o altera lojical de un otra","en":"derive","he":"(מתמטיקה, לוגיקה) לנבוע, להיגזר"}
-{"L":"deriva","C":["vt"],"en":"derive","he":"(מתמטיקה, לוגיקה) לגזור"}
-{"L":"deriva","C":["n"],"en":"derivation","he":"(מתמטיקה, לוגיקה) גזירה"}
-{"L":"derivable","C":["a"],"en":"derivable","he":"(מתמטיקה, לוגיקה) שניתן לגזירה"}
-{"L":"derivada","C":["a"],"en":"derived, derivative","he":"(מתמטיקה, לוגיקה) גזור, נגזר"}
-{"L":"derivada","C":["n"],"en":"derivative; spinoff","he":"נגזרת; תולד; ספין אוף"}
-{"T":"r","L":"derma","C":["n","anat"],"d":"la strato spesa de texeda vivente su la epiderma cual formi la pel vera, conteninte capilares de sangue, terminas de neurones, glandes de sua, foliculos de capeles, e otra strutures","en":"dermis (anatomy)","he":"דרמיס"}
-{"T":"r","L":"dermatero","C":["n","artr"],"d":"un inseto longa ma peti, con un duple de protendes a sua coda cual sembla un pinse","i":"#","t":"Dermaptera","en":"earwig","he":"צבתן (חרק)"}
-{"T":"r","L":"dermatite","C":["n","med"],"d":"un inflama cual causa ce la pel deveni roja, inflada e dolosa, comun con bulas peti, e causada par irita direta o un reata alerjica","en":"dermatitis","he":"דרמטיטיס, דלקת עור"}
-{"T":"r","L":"dermatolojia","C":["n","med"],"d":"la ramo de medica cual studia la diagnose e trata de maladias de pel","en":"dermatology","he":"דרמטולוגיה"}
+{"T":"r","L":"derbi","C":["n","spo"],"d":"un corsa de cavalos; un concurso major de sporte","en":"derby (horse race, sporting event)","fr":"(une) course hippique, (une) course de chevaux, (un) derby","he":"(ספורט) דרבי"}
+{"T":"r","L":"deriva","C":["vnt","fil"],"d":"orijina en (un fonte spesifada); (un conseta) es fundida sur un estende o altera lojical de un otra","en":"derive","fr":"dériver","he":"(מתמטיקה, לוגיקה) לנבוע, להיגזר"}
+{"L":"deriva","C":["vt"],"en":"derive","fr":"dériver","he":"(מתמטיקה, לוגיקה) לגזור"}
+{"L":"deriva","C":["n"],"en":"derivation","fr":"(une) dérivation","he":"(מתמטיקה, לוגיקה) גזירה"}
+{"L":"derivable","C":["a"],"en":"derivable","fr":"dérivable","he":"(מתמטיקה, לוגיקה) שניתן לגזירה"}
+{"L":"derivada","C":["a"],"en":"derived, derivative","fr":"dérivé","he":"(מתמטיקה, לוגיקה) גזור, נגזר"}
+{"L":"derivada","C":["n"],"en":"derivative; spinoff","fr":"(un) dérivé","he":"נגזרת; תולד; ספין אוף"}
+{"T":"r","L":"derma","C":["n","anat"],"d":"la strato spesa de texeda vivente su la epiderma cual formi la pel vera, conteninte capilares de sangue, terminas de neurones, glandes de sua, foliculos de capeles, e otra strutures","en":"dermis (anatomy)","fr":"(le) derme","he":"דרמיס"}
+{"T":"r","L":"dermatero","C":["n","artr"],"d":"un inseto longa ma peti, con un duple de protendes a sua coda cual sembla un pinse","i":"#","t":"Dermaptera","en":"earwig","fr":"(un) perce-oreille, (un) dermaptère","he":"צבתן (חרק)"}
+{"T":"r","L":"dermatite","C":["n","med"],"d":"un inflama cual causa ce la pel deveni roja, inflada e dolosa, comun con bulas peti, e causada par irita direta o un reata alerjica","en":"dermatitis","fr":"(une) dermatite","he":"דרמטיטיס, דלקת עור"}
+{"T":"r","L":"dermatolojia","C":["n","med"],"d":"la ramo de medica cual studia la diagnose e trata de maladias de pel","en":"dermatology","fr":"(la) dermatologie","he":"דרמטולוגיה"}
 {"T":"r","L":"des","C":["d","mat"],"d":"2 multiplida par 5; la numero entre nove e des-un","da":"ti","de":"zehn","en":"ten","es":"diez","fr":"dix","he":"עשר, עשרה"}
-{"L":"des","C":["a"],"en":"tenth (ordinal)","he":"עשירי"}
-{"L":"des-du","C":["d"],"en":"twelve","he":"שניים עשר, שתיים עשרה, תריסר"}
-{"L":"des-du","C":["a"],"en":"twelfth (ordinal)","he":"השניים עשר (סידורי)"}
-{"L":"cuatrodes","C":["d"],"en":"forty","he":"ארבעים"}
-{"L":"cuatrodes","C":["a"],"en":"fortieth (ordinal)","he":"הארבעים (סידורי)"}
-{"L":"cuatrodesi","C":["n"],"en":"fortieth (fraction)","he":"חלקי ארבעים"}
-{"L":"desdui","C":["vnt"],"en":"split into twelve","he":"להתפצל לשניים עשר חלקים"}
-{"L":"desdui","C":["vt"],"en":"split into twelve","he":"לפצל לשניים עשר חלקים"}
-{"L":"desdui","C":["n"],"en":"twelfth (fraction)","he":"חלקי שתיים עשרה"}
-{"L":"desduple","C":["n"],"en":"dozen","he":"תריסר"}
-{"L":"deses","C":["n","pl"],"en":"tens; (loosely) dozens","he":"עשרות"}
-{"L":"desi","C":["vnt"],"en":"split into ten","he":"להתפצל לעשר חלקים"}
-{"L":"desi","C":["n"],"en":"tenth (fraction); tithe","he":"עשירית, חלקי עשר; מעשר"}
-{"L":"desi-","C":["pf","tecn"],"d":"un desi de","en":"deci- (a tenth)","he":"(קידומת טכנית) עשירית"}
-{"L":"dudes","C":["d"],"en":"twenty","he":"עשרים"}
-{"L":"dudes","C":["a"],"en":"twentieth (ordinal)","he":"העשרים (סידורי)"}
-{"L":"dudesi","C":["vnt"],"en":"split into twenty","he":"להתפצל לעשרים חלקים"}
-{"L":"dudesi","C":["vt"],"en":"split into twenty","he":"לפצל לעשרים חלקים"}
-{"L":"dudesi","C":["n"],"en":"twentieth (fraction)","he":"חלקי עשרים"}
-{"L":"novedes","C":["d"],"en":"ninety","he":"תשעים"}
-{"L":"novedes","C":["a"],"en":"ninetieth (ordinal)","he":"התשעים (סידורי)"}
-{"L":"novedesi","C":["n"],"en":"ninetieth (fraction)","he":"חלקי תשעים"}
-{"L":"otodes","C":["d"],"en":"eighty","he":"שמונים"}
-{"L":"otodes","C":["a"],"en":"eightieth (ordinal)","he":"השמונים (סידורי)"}
-{"L":"otodesi","C":["n"],"en":"eightieth (fraction)","he":"חלקי שמונים"}
-{"L":"sesdes","C":["d"],"en":"sixty","he":"שישים"}
-{"L":"sesdes","C":["a"],"en":"sixtieth (ordinal)","he":"השישים (סידורי)"}
-{"L":"sesdesi","C":["n"],"en":"sixtieth (fraction)","he":"חלקי שישים"}
-{"L":"sesdesi","C":["vnt"],"en":"split into sixty","he":"להתפצל לשישים חלקים"}
-{"L":"sesdesi","C":["vt"],"en":"split into sixty","he":"לפצל לשישים חלקים"}
-{"L":"sesdesi","C":["n"],"en":"sixtieth (fraction)","he":"חלקי שישים"}
-{"L":"setedes","C":["d"],"en":"seventy","he":"שבעים"}
-{"L":"setedes","C":["a"],"en":"seventieth (ordinal)","he":"השבעים (סידורי)"}
-{"L":"setedesi","C":["n"],"en":"seventieth (fraction)","he":"חלקי שבעים"}
-{"L":"sincodes","C":["d"],"en":"fifty","he":"חמישים"}
-{"L":"sincodes","C":["a"],"en":"fiftieth (ordinal)","he":"החמישים (סידורי)"}
-{"L":"sincodesi","C":["n"],"en":"fiftieth (fraction)","he":"חלקי חמישים"}
-{"L":"tredes","C":["d"],"en":"thirty","he":"שלושים"}
-{"L":"tredes","C":["a"],"en":"thirtieth (ordinal)","he":"השלושים (סידורי)"}
-{"L":"tredesi","C":["n"],"en":"thirtieth (fraction)","he":"חלקי שלושים"}
-{"L":"tredes-alga","C":["d"],"en":"thirty-something","he":"שלושים ומשהו"}
-{"L":"tredes-alga","C":["a"],"en":"thirty-somethingth (ordinal)","he":"השלושים ומשהו (סידורי)"}
-{"T":"r","L":"des-","C":["pf","v"],"d":"ajuntada a un verbo per nomi la reversa de un ata","n":"`Des-` simpli a `de-` ante S, Z, J o X.","u":"descarga; dejela","en":"dis-, un- (added to verbs: undoing or reversal of an action)","he":"(קידומת) הפעולה ההפוכה"}
-{"T":"r","L":"desastre","C":["n"],"d":"un aveni subita, como un asidente o aveni natural, cual causa multe danas o moris","da":"katastrofe","de":"Unheil, Katastrophe","en":"disaster, crash, catastrophe, calamity, cataclysm","es":"desastre, catastrofe","fr":"désastre","he":"אסון, אסונה, קטסטרופה, פורענות"}
-{"L":"desastrosa","C":["a"],"en":"disastrous, catastrophic","he":"הרה אסון, הרסני, קטסטרופלי"}
+{"L":"des","C":["a"],"en":"tenth (ordinal)","fr":"dixième (ordinal)","he":"עשירי"}
+{"L":"des-du","C":["d"],"en":"twelve","fr":"douze","he":"שניים עשר, שתיים עשרה, תריסר"}
+{"L":"des-du","C":["a"],"en":"twelfth (ordinal)","fr":"douzième (ordinal)","he":"השניים עשר (סידורי)"}
+{"L":"cuatrodes","C":["d"],"en":"forty","fr":"quarante","he":"ארבעים"}
+{"L":"cuatrodes","C":["a"],"en":"fortieth (ordinal)","fr":"quarantième (ordinal)","he":"הארבעים (סידורי)"}
+{"L":"cuatrodesi","C":["n"],"en":"fortieth (fraction)","fr":"(un) quarantième (fraction)","he":"חלקי ארבעים"}
+{"L":"desdui","C":["vnt"],"en":"split into twelve","fr":"diviser par douze","he":"להתפצל לשניים עשר חלקים"}
+{"L":"desdui","C":["vt"],"en":"split into twelve","fr":"partager en douze (parties)","he":"לפצל לשניים עשר חלקים"}
+{"L":"desdui","C":["n"],"en":"twelfth (fraction)","fr":"(un) douzième (fraction)","he":"חלקי שתיים עשרה"}
+{"L":"desduple","C":["n"],"en":"dozen","fr":"(une) douzaine","he":"תריסר"}
+{"L":"deses","C":["n","pl"],"en":"tens; (loosely) dozens","fr":"(des) dizaines","he":"עשרות"}
+{"L":"desi","C":["vnt"],"en":"split into ten","fr":"diviser par dix","he":"להתפצל לעשר חלקים"}
+{"L":"desi","C":["n"],"en":"tenth (fraction); tithe","fr":"(un) dixième (fraction)","he":"עשירית, חלקי עשר; מעשר"}
+{"L":"desi-","C":["pf","tecn"],"d":"un desi de","en":"deci- (a tenth)","fr":"déci- (un dixième d'unité)","he":"(קידומת טכנית) עשירית"}
+{"L":"dudes","C":["d"],"en":"twenty","fr":"vingt","he":"עשרים"}
+{"L":"dudes","C":["a"],"en":"twentieth (ordinal)","fr":"vingtième (ordinal)","he":"העשרים (סידורי)"}
+{"L":"dudesi","C":["vnt"],"en":"split into twenty","fr":"diviser par vingt","he":"להתפצל לעשרים חלקים"}
+{"L":"dudesi","C":["vt"],"en":"split into twenty","fr":"partager en vingt (parties)","he":"לפצל לעשרים חלקים"}
+{"L":"dudesi","C":["n"],"en":"twentieth (fraction)","fr":"(un) vingtième (fraction)","he":"חלקי עשרים"}
+{"L":"novedes","C":["d"],"en":"ninety","fr":"quatre-vingt-dix, nonante","he":"תשעים"}
+{"L":"novedes","C":["a"],"en":"ninetieth (ordinal)","fr":"quatre-vingt-dixième (ordinal), nonantième","he":"התשעים (סידורי)"}
+{"L":"novedesi","C":["n"],"en":"ninetieth (fraction)","fr":"(un) quatre-vingt-dixième, (un) nonantième (fraction)","he":"חלקי תשעים"}
+{"L":"otodes","C":["d"],"en":"eighty","fr":"quatre-vingts, octante","he":"שמונים"}
+{"L":"otodes","C":["a"],"en":"eightieth (ordinal)","fr":"quatre-vingtième, octantième (ordinal)","he":"השמונים (סידורי)"}
+{"L":"otodesi","C":["n"],"en":"eightieth (fraction)","fr":"(un) quatre-vingtième, (un) octantième (fraction)","he":"חלקי שמונים"}
+{"L":"sesdes","C":["d"],"en":"sixty","fr":"soixante","he":"שישים"}
+{"L":"sesdes","C":["a"],"en":"sixtieth (ordinal)","fr":"soixantième (ordinal)","he":"השישים (סידורי)"}
+{"L":"sesdesi","C":["n"],"en":"sixtieth (fraction)","fr":"(un) soixantième","he":"חלקי שישים"}
+{"L":"sesdesi","C":["vnt"],"en":"split into sixty","fr":"diviser par soixante","he":"להתפצל לשישים חלקים"}
+{"L":"sesdesi","C":["vt"],"en":"split into sixty","fr":"partager en  soixante (parties)","he":"לפצל לשישים חלקים"}
+{"L":"sesdesi","C":["n"],"en":"sixtieth (fraction)","fr":"(un) soixantième","he":"חלקי שישים"}
+{"L":"setedes","C":["d"],"en":"seventy","fr":"soixante-dix, septante","he":"שבעים"}
+{"L":"setedes","C":["a"],"en":"seventieth (ordinal)","fr":"soixante-dixième, septantième","he":"השבעים (סידורי)"}
+{"L":"setedesi","C":["n"],"en":"seventieth (fraction)","fr":"(un) soixante-dixième, (un) septantième","he":"חלקי שבעים"}
+{"L":"sincodes","C":["d"],"en":"fifty","fr":"cinquante","he":"חמישים"}
+{"L":"sincodes","C":["a"],"en":"fiftieth (ordinal)","fr":"cinquantième (ordinal)","he":"החמישים (סידורי)"}
+{"L":"sincodesi","C":["n"],"en":"fiftieth (fraction)","fr":"(un) cinquantième (fraction)","he":"חלקי חמישים"}
+{"L":"tredes","C":["d"],"en":"thirty","fr":"trente","he":"שלושים"}
+{"L":"tredes","C":["a"],"en":"thirtieth (ordinal)","fr":"trentième (ordinal)","he":"השלושים (סידורי)"}
+{"L":"tredesi","C":["n"],"en":"thirtieth (fraction)","fr":"(un) trentième (fraction)","he":"חלקי שלושים"}
+{"L":"tredes-alga","C":["d"],"en":"thirty-something","fr":"trente-... (et un, -deux, -trois...)","he":"שלושים ומשהו"}
+{"L":"tredes-alga","C":["a"],"en":"thirty-somethingth (ordinal)","fr":"trente-...ième (ordinal)","he":"השלושים ומשהו (סידורי)"}
+{"T":"r","L":"des-","C":["pf","v"],"d":"ajuntada a un verbo per nomi la reversa de un ata","n":"`Des-` simpli a `de-` ante S, Z, J o X.","u":"descarga; dejela","en":"dis-, un- (added to verbs: undoing or reversal of an action)","fr":"dé-, dés-, mal-, in- (ajoutés à un verbe, indiquent l'inversion d'une action)","he":"(קידומת) הפעולה ההפוכה"}
+{"T":"r","L":"desastre","C":["n"],"d":"un aveni subita, como un asidente o aveni natural, cual causa multe danas o moris","da":"katastrofe","de":"Unheil, Katastrophe","en":"disaster, crash, catastrophe, calamity, cataclysm","es":"desastre, catastrofe","fr":"(un) désastre","he":"אסון, אסונה, קטסטרופה, פורענות"}
+{"L":"desastrosa","C":["a"],"en":"disastrous, catastrophic","fr":"désastreux, catastrophique","he":"הרה אסון, הרסני, קטסטרופלי"}
 {"T":"r","L":"descrive","C":["vt"],"d":"reporta (alga cosa), incluinte tota la detalias, cualias o avenis pertinente","da":"beskriv","de":"beschreiben","en":"describe","es":"describir, trazar","fr":"décrire","he":"לתאר"}
-{"L":"descrive","C":["n"],"en":"description","he":"תיאור"}
-{"L":"descrivable","C":["a"],"en":"describable","he":"שניתן לתיאור"}
-{"L":"descrivor","C":["n"],"en":"describer","he":"מתאר"}
-{"L":"nondescrivable","C":["a"],"en":"indescribable","he":"בל יתואר"}
-{"T":"r","L":"desembla","C":["vnt"],"d":"cambia sua aspeta per asconde sua identia","en":"be in disguise, disguise oneself, dissemble","he":"להתחפש"}
-{"L":"desembla","C":["vt"],"en":"disguise","he":"לעטות תחפושת"}
-{"L":"desembla","C":["n"],"en":"disguise, guise","he":"תחפושת"}
-{"L":"desemblante","C":["a"],"en":"disguise, in disguise, undercover, incognito","he":"בתחפושת, סמוי"}
-{"L":"polisior desemblante","C":["n"],"en":"plainclothesman, plainclothes officer","he":"שוטר בלבוש אזרחי"}
-{"T":"r","L":"desembre","C":["n"],"d":"la mense des-du de la calendario gregorian","en":"December","he":"דצמבר"}
-{"T":"r","L":"desende","C":["vt"],"d":"vade en dirije a la punto la plu basa de (un cosa); (un person o simil) es un relatada direta (de un asendente)","en":"descend, decline, go down; alight, get off","he":"לרדת; להידרדר; להיות צאצא"}
-{"L":"desende","C":["n"],"en":"descent","he":"ירידה; הידרדרות"}
-{"L":"desendente","C":["a"],"en":"descending, descendent","he":"בירידה; בהידרדרות"}
-{"L":"desendente","C":["n"],"en":"descendant, scion; descender, downstroke","he":"צאצא, נצר; (טיפוגרפיה) דיסנדר, מתחת לשורה"}
-{"L":"desendente","C":["prep"],"en":"down, towards the bottom of","he":"יורד, נופל, מידרדר (למטה)"}
-{"L":"desendentes","C":["n","pl"],"en":"descendants, posterity","he":"צאצאים, הדורות הבאים"}
-{"T":"r","L":"desenio","C":["n"],"d":"un periodo de des anios, tipal comensante con un anio de cual sua numero fini con 0","en":"decade","he":"עשור"}
-{"L":"es en sua desenio oto","C":["esp"],"en":"be in one's seventies","he":"להיות בעשור השביעי לחייו"}
-{"L":"la desenio de 1970","C":["esp"],"en":"the 1970s","he":"שנות השבעים"}
-{"T":"r","L":"deser","C":["n","cos"],"d":"un comeda dulse a la fini de un come","en":"dessert, pudding","he":"קינוח"}
-{"T":"r","L":"deserto","C":["n","tera"],"d":"un zona multe seca, comun covreda con arena, tipal sin multe plantas","i":"#","da":"ørken","de":"Wüste","en":"desert, wasteland, waste","es":"desierto","fr":"désert","he":"מדבר, שממה"}
-{"L":"deserti","C":["vnt"],"en":"turn into a desert","he":"להפוך למדבר"}
-{"L":"deserti","C":["vt"],"en":"turn into a desert","he":"לגרום למדבור"}
-{"L":"deserti","C":["n"],"en":"desertification","he":"מדבור"}
-{"L":"semideserto","C":["n"],"en":"semidesert","he":"מדבר למחצה"}
-{"T":"r","L":"desibel","C":["n","fis"],"d":"un unia de intensia de sona, o de potia de sinial eletrical, cual funsiona en scala logaritmal","en":"decibel","he":"דציבל"}
-{"T":"r","L":"deside","C":["vt"],"d":"ariva a un conclui en la mente pos considera, tipal par eleje entre atas posible","da":"beslutte","de":"entscheiden","en":"decide, resolve","es":"decidir, determinar, resolver","fr":"décider","he":"להחליט, להכריע"}
-{"L":"deside","C":["n"],"en":"decision, verdict, resolution","he":"החלטה, הכרעה"}
-{"L":"desidente","C":["a"],"en":"decisive","he":"החלטי, נחרץ"}
-{"L":"desidente","C":["n"],"en":"tiebreak, tiebreaker, run-off, play-off","he":"שובר שיוויון"}
-{"L":"nondesideda","C":["a"],"en":"undecided","he":"שלא הוחלט לגביו; הססני"}
-{"T":"r","L":"desil","C":["n","uma"],"d":"cada de des grupos egal en cual on pote divide un popla par la valua de un variable","en":"decile (statistics)","he":"עשירון"}
+{"L":"descrive","C":["n"],"en":"description","fr":"(une) description","he":"תיאור"}
+{"L":"descrivable","C":["a"],"en":"describable","fr":"descriptible","he":"שניתן לתיאור"}
+{"L":"descrivor","C":["n"],"en":"describer","fr":"(un) descripteur | (une) descriptrice","he":"מתאר"}
+{"L":"nondescrivable","C":["a"],"en":"indescribable","fr":"indescriptible","he":"בל יתואר"}
+{"T":"r","L":"desembla","C":["vnt"],"d":"cambia sua aspeta per asconde sua identia","en":"be in disguise, disguise oneself, dissemble","fr":"se déguiser, se dissimuler, se camoufler","he":"להתחפש"}
+{"L":"desembla","C":["vt"],"en":"disguise","fr":"déguiser, travestir, dissimuler, cacher, camoufler","he":"לעטות תחפושת"}
+{"L":"desembla","C":["n"],"en":"disguise, guise","fr":"(un) déguisement (un) camouflage","he":"תחפושת"}
+{"L":"desemblante","C":["a"],"en":"disguise, in disguise, undercover, incognito","fr":"déguisé, dissimulé, camouflé, incognito","he":"בתחפושת, סמוי"}
+{"L":"polisior desemblante","C":["n"],"en":"plainclothesman, plainclothes officer","fr":"(un) policier en civil","he":"שוטר בלבוש אזרחי"}
+{"T":"r","L":"desembre","C":["n"],"d":"la mense des-du de la calendario gregorian","en":"December","fr":"décembre","he":"דצמבר"}
+{"T":"r","L":"desende","C":["vt"],"d":"vade en dirije a la punto la plu basa de (un cosa); (un person o simil) es un relatada direta (de un asendente)","en":"descend, decline, go down; alight, get off","fr":"descendre, dévaler","he":"לרדת; להידרדר; להיות צאצא"}
+{"L":"desende","C":["n"],"en":"descent","fr":"(une) descente","he":"ירידה; הידרדרות"}
+{"L":"desendente","C":["a"],"en":"descending, descendent","fr":"descendant","he":"בירידה; בהידרדרות"}
+{"L":"desendente","C":["n"],"en":"descendant, scion; descender, downstroke","fr":"(un) descendant","he":"צאצא, נצר; (טיפוגרפיה) דיסנדר, מתחת לשורה"}
+{"L":"desendente","C":["prep"],"en":"down, towards the bottom of","fr":"descendant, au bas de, vers le bas de","he":"יורד, נופל, מידרדר (למטה)"}
+{"L":"desendentes","C":["n","pl"],"en":"descendants, posterity","fr":"(des) descendants, (une) postérité","he":"צאצאים, הדורות הבאים"}
+{"T":"r","L":"desenio","C":["n"],"d":"un periodo de des anios, tipal comensante con un anio de cual sua numero fini con 0","en":"decade","fr":"(une) décennie","he":"עשור"}
+{"L":"es en sua desenio oto","C":["esp"],"en":"be in one's seventies","fr":"aller sur ses quatre-vingts ans","he":"להיות בעשור השביעי לחייו"}
+{"L":"la desenio de 1970","C":["esp"],"en":"the 1970s","fr":"les années 70","he":"שנות השבעים"}
+{"T":"r","L":"deser","C":["n","cos"],"d":"un comeda dulse a la fini de un come","en":"dessert, pudding","fr":"(un) dessert","he":"קינוח"}
+{"T":"r","L":"deserto","C":["n","tera"],"d":"un zona multe seca, comun covreda con arena, tipal sin multe plantas","i":"#","da":"ørken","de":"Wüste","en":"desert, wasteland, waste","es":"desierto","fr":"(un) désert","he":"מדבר, שממה"}
+{"L":"deserti","C":["vnt"],"en":"turn into a desert","fr":"se désertifier","he":"להפוך למדבר"}
+{"L":"deserti","C":["vt"],"en":"turn into a desert","fr":"désertifier","he":"לגרום למדבור"}
+{"L":"deserti","C":["n"],"en":"desertification","fr":"(une) désertification","he":"מדבור"}
+{"L":"semideserto","C":["n"],"en":"semidesert","fr":"(un lieu | une région) semidésertique, semi-aride","he":"מדבר למחצה"}
+{"T":"r","L":"desibel","C":["n","fis"],"d":"un unia de intensia de sona, o de potia de sinial eletrical, cual funsiona en scala logaritmal","en":"decibel","fr":"(un) décibel","he":"דציבל"}
+{"T":"r","L":"deside","C":["vt"],"d":"ariva a un conclui en la mente pos considera, tipal par eleje entre atas posible","da":"beslutte","de":"entscheiden","en":"decide, resolve","es":"decidir, determinar, resolver","fr":"décider, déterminer, résoudre","he":"להחליט, להכריע"}
+{"L":"deside","C":["n"],"en":"decision, verdict, resolution","fr":"(une) décision, (un) verdict, (une) résolution","he":"החלטה, הכרעה"}
+{"L":"desidente","C":["a"],"en":"decisive","fr":"décisif","he":"החלטי, נחרץ"}
+{"L":"desidente","C":["n"],"en":"tiebreak, tiebreaker, run-off, play-off","fr":"(un) déterminant, (un) décideur","he":"שובר שיוויון"}
+{"L":"nondesideda","C":["a"],"en":"undecided","fr":"indécis, non décidé","he":"שלא הוחלט לגביו; הססני"}
+{"T":"r","L":"desil","C":["n","uma"],"d":"cada de des grupos egal en cual on pote divide un popla par la valua de un variable","en":"decile (statistics)","fr":"(un) décile (statistiques)","he":"עשירון"}
 {"T":"r","L":"desim","C":["n","mone"],"d":"un moneta con valua de des sentimes","en":"ten-pence piece, ten-cent piece, dime (coin)","he":"דיים (מטבע)"}
-{"T":"r","L":"desimal","C":["a","mat"],"d":"pertinente a un sistem de aritmetica fundida sur la numero des; pertinente a un sistem de mone, pesas, mesuras o otra unias en cual la unias peti relata con la unias plu grande par potias de des","en":"decimal","he":"עשרוני"}
-{"T":"r","L":"desinia","C":["vt","arte"],"d":"produi (un imaje o scema) par usa un pen o lapis per fa linias e marcas sur paper o un otra surfas; deside la aspeta e funsiona de (un construida, veste o otra cosa fabricada), tipal par produi un imaje o scema; prepara (alga cosa) per un intende spesifada","i":"#","da":"tegne","de":"zeichnen","en":"draw, sketch, illustrate; design, plan (creatively); landscape (garden)","es":"dibujar, diseñar, trazar","fr":"dessiner","he":"לאייר, לשרטט, להתוות; לעצב, לתכנן"}
-{"L":"desinia","C":["n"],"da":"kort; design","de":"Zeichnung; Entwurf, Design","en":"drawing, sketch, illustration; design, configuration","es":"diagrama, diseño, esquema, gráfica","fr":"dessin, schéma, diagramme","he":"איור, שרטוט, מתווה, סקיצה; עיצוב, תכנון"}
-{"L":"desinia aidada par computador","C":["n"],"en":"computer-aided design, CAD","he":"תכנון בעזרת מחשב"}
-{"L":"desiniador","C":["n"],"en":"graphics program","he":"תוכנת גרפיקה"}
-{"L":"desinieta","C":["vt"],"en":"doodle","he":"לשרבט"}
-{"L":"desinieta","C":["n"],"en":"doodle","he":"שרבוט"}
-{"L":"desinior","C":["n"],"en":"designer, draftsman|draughtsman, illustrator","he":"מאייר, שרטט; מעצב"}
-{"L":"desinior de jardines","C":["n"],"en":"landscape designer","he":"אדריכל נוף"}
-{"L":"redesinia","C":["vt"],"en":"redesign","he":"לעצב מחדש, לתכנן מחדש"}
-{"T":"r","L":"desira","C":["vt","uma"],"d":"un senti forte de vole oteni alga cosa, o de espera ce alga cosa va aveni","da":"ønske, begære","de":"wünschen","en":"desire, wish for, fancy","es":"desear, querer, anhelar, ansiar","fr":"désirer","he":"לחשוק, לחפוץ, להתאוות, להשתוקק"}
-{"L":"desira","C":["n"],"en":"desire, wish","he":"תשוקה, חשק, תאווה"}
-{"L":"desira nonpratical","C":["n"],"en":"wishful thinking","he":"תקוות שווא"}
-{"L":"desira sesal","C":["v"],"en":"lust","he":"לחשוק, להתאוות (מינית)"}
-{"L":"desira sesal","C":["n"],"en":"sexual desire, lust, libido","he":"יצר מיני, ליבידו"}
-{"L":"desirable","C":["a"],"en":"desirable","he":"רצוי, נחשק"}
-{"L":"desirable","C":["n"],"en":"desirable feature, amenity","he":"נוחיות"}
-{"L":"desirada","C":["a"],"en":"desirable","he":"רצוי, נחשק"}
-{"L":"desirada","C":["n"],"en":"object of desire","he":"מושא תשוקה"}
-{"L":"nondesirada","C":["a"],"en":"undesired, undesirable, unwanted","he":"בלתי רצוי"}
-{"L":"si desirada","C":["av"],"en":"optional, if desired","he":"אופציונלית, לפי בחירה"}
-{"T":"r","L":"desmaia","C":["vnt","med"],"d":"perde subita sua consensia, tipal per tempo corta, como resulta de manca de osijen en la serebro","i":"#","en":"faint, swoon","he":"להתעלף"}
-{"L":"desmaia","C":["n"],"en":"faintness (feeling faint), syncope","he":"עילפון, התעלפות"}
-{"T":"r","L":"desosiribonucleal","C":["a","bio"],"d":"pertinente a la composadas de adn","en":"deoxyribonucleic","he":"דאוקסיריבונוקלאית"}
-{"T":"r","L":"despera","C":["vt","uma"],"d":"perde espera o es sin espera ce (alga cosa) va aveni","en":"despair (of)","he":"להתייאש"}
-{"L":"despera","C":["n"],"en":"despair, desperation","he":"ייאוש, נואשות"}
-{"L":"desperante","C":["a"],"en":"desperate","he":"מיואש, נואש"}
-{"T":"r","L":"despeta","C":["vt","uma"],"d":"odia (algun) en un modo cual inclui senti ce el es inferior","en":"despise, scorn, disdain, revile, look down on","es":"desdeñar, despreciar, menospreciar","he":"לתעב, לבוז"}
-{"L":"despeta","C":["n"],"en":"contempt, scorn, disdain","he":"תיעוב, בוז"}
-{"L":"despetable","C":["a"],"en":"despicable, loathsome, execrable, contemptible, pissant","es":"despreciable","he":"ראוי לבוז"}
-{"L":"despetada","C":["a"],"en":"despised, despicable","es":"odiado, odioso","he":"מתועב, נתעב, נבזי, נבזה, בזוי"}
-{"L":"despetante","C":["a"],"en":"pejorative","es":"peyorativo","he":"מבזה, משפיל, מזלזל"}
-{"L":"despetosa","C":["a"],"en":"contemptuous, scornful, disdainful, dismissive, cavalier","es":"despectivo","he":"מלא בוז"}
-{"T":"r","L":"despota","C":["n","gov"],"d":"un titulo per alga renores en la Balcanes medieval; (metafor) un tirano con potia asoluta","en":"despot","he":"דספוט (תואר אצולה); רודן, עריץ"}
-{"L":"despotia","C":["n"],"en":"despotate","he":"דספוטט (שטח שנשלט על-ידי דספוט)"}
-{"L":"despotin","C":["a"],"en":"despotic","he":"דספוטי"}
-{"T":"r","L":"destina","C":["vt","rel","mit"],"d":"deside ce (algun) va esperia alga cosa en la futur; dirije (alga cosa) a un loca spesifada","en":"destine","he":"להועיד, לייעד"}
-{"L":"destina","C":["n"],"da":"betemmelsessted","de":"Bestimmung","en":"destination; destiny, fate, kismet; addressee","es":"destino, destinación, paradero, objetivo","fr":"destination","he":"יעד; ייעוד, גורל; נמען"}
-{"L":"destinada","C":["a"],"en":"destined, bound","he":"מיועד"}
-{"L":"maldestinada","C":["a"],"en":"ill-fated","he":"שנידון לכישלון, שדינו נחרץ"}
-{"L":"predestina","C":["vt"],"en":"predestine","he":"להועיד מראש, לגזור (גורל)"}
-{"L":"predestina","C":["n"],"en":"predestination","he":"ייעוד מראש, גזירת גורל"}
+{"T":"r","L":"desimal","C":["a","mat"],"d":"pertinente a un sistem de aritmetica fundida sur la numero des; pertinente a un sistem de mone, pesas, mesuras o otra unias en cual la unias peti relata con la unias plu grande par potias de des","en":"decimal","fr":"décimal","he":"עשרוני"}
+{"T":"r","L":"desinia","C":["vt","arte"],"d":"produi (un imaje o scema) par usa un pen o lapis per fa linias e marcas sur paper o un otra surfas; deside la aspeta e funsiona de (un construida, veste o otra cosa fabricada), tipal par produi un imaje o scema; prepara (alga cosa) per un intende spesifada","i":"#","da":"tegne","de":"zeichnen","en":"draw, sketch, illustrate; design, plan (creatively); landscape (garden)","es":"dibujar, diseñar, trazar","fr":"dessiner, tracer, croquer, esquisser","he":"לאייר, לשרטט, להתוות; לעצב, לתכנן"}
+{"L":"desinia","C":["n"],"da":"kort; design","de":"Zeichnung; Entwurf, Design","en":"drawing, sketch, illustration; design, configuration","es":"diagrama, diseño, esquema, gráfica","fr":"(un) dessin, (un) schéma, (un) diagramme, (un) graphique","he":"איור, שרטוט, מתווה, סקיצה; עיצוב, תכנון"}
+{"L":"desinia aidada par computador","C":["n"],"en":"computer-aided design, CAD","fr":"DAO (dessin assisté par ordinateur), CAO (conception assistée par ordinateur)","he":"תכנון בעזרת מחשב"}
+{"L":"desiniador","C":["n"],"en":"graphics program","fr":"logiciel graphique","he":"תוכנת גרפיקה"}
+{"L":"desinieta","C":["vt"],"en":"doodle","fr":"griffonner, gribouiller","he":"לשרבט"}
+{"L":"desinieta","C":["n"],"en":"doodle","fr":"(un) griffonnage, (un) gribouillage","he":"שרבוט"}
+{"L":"desinior","C":["n"],"en":"designer, draftsman|draughtsman, illustrator","fr":"(un) dessinateur","he":"מאייר, שרטט; מעצב"}
+{"L":"desinior de jardines","C":["n"],"en":"landscape designer","fr":"(un) paysagiste, (un) concepteur de jardin, (un) architecte paysagiste","he":"אדריכל נוף"}
+{"L":"redesinia","C":["vt"],"en":"redesign","fr":"redessinner","he":"לעצב מחדש, לתכנן מחדש"}
+{"T":"r","L":"desira","C":["vt","uma"],"d":"un senti forte de vole oteni alga cosa, o de espera ce alga cosa va aveni","da":"ønske, begære","de":"wünschen","en":"desire, wish for, fancy","es":"desear, querer, anhelar, ansiar","fr":"désirer, souhaiter","he":"לחשוק, לחפוץ, להתאוות, להשתוקק"}
+{"L":"desira","C":["n"],"en":"desire, wish","fr":"(un) désir, (un) souhait","he":"תשוקה, חשק, תאווה"}
+{"L":"desira nonpratical","C":["n"],"en":"wishful thinking","fr":"(un) vœu pieux","he":"תקוות שווא"}
+{"L":"desira sesal","C":["v"],"en":"lust","fr":"éprouver du désir (sexuel)","he":"לחשוק, להתאוות (מינית)"}
+{"L":"desira sesal","C":["n"],"en":"sexual desire, lust, libido","fr":"(un) désir sexuel, (la) libido, (un) appétit charnel","he":"יצר מיני, ליבידו"}
+{"L":"desirable","C":["a"],"en":"desirable","fr":"désirable, souhaitable","he":"רצוי, נחשק"}
+{"L":"desirable","C":["n"],"en":"desirable feature, amenity","fr":"(un) aménagement","he":"נוחיות"}
+{"L":"desirada","C":["a"],"en":"desirable","fr":"désiré, souhaité","he":"רצוי, נחשק"}
+{"L":"desirada","C":["n"],"en":"object of desire","fr":"(un) objet de désir, (un) objet de convoitise","he":"מושא תשוקה"}
+{"L":"nondesirada","C":["a"],"en":"undesired, undesirable, unwanted","fr":"non désiré, indésirable","he":"בלתי רצוי"}
+{"L":"si desirada","C":["av"],"en":"optional, if desired","fr":"éventuellement, en option, facultativement","he":"אופציונלית, לפי בחירה"}
+{"T":"r","L":"desmaia","C":["vnt","med"],"d":"perde subita sua consensia, tipal per tempo corta, como resulta de manca de osijen en la serebro","i":"#","en":"faint, swoon","fr":"s'évanouir, perdre connaissance, défaillir, se trouver mal, tourner de l'œil","he":"להתעלף"}
+{"L":"desmaia","C":["n"],"en":"faintness (feeling faint), syncope","fr":"(un) évanouissement, (une) perte de connaissance, (une) syncope, (un) étourdissement, (un) malaise","he":"עילפון, התעלפות"}
+{"T":"r","L":"desosiribonucleal","C":["a","bio"],"d":"pertinente a la composadas de adn","en":"deoxyribonucleic","fr":"désoxyribonucléique","he":"דאוקסיריבונוקלאית"}
+{"T":"r","L":"despera","C":["vt","uma"],"d":"perde espera o es sin espera ce (alga cosa) va aveni","en":"despair (of)","fr":"désespérer de, perdre espoir sur|au sujet de","he":"להתייאש"}
+{"L":"despera","C":["n"],"en":"despair, desperation","fr":"(un) désespoir, (la) désespérance, (un) découragement","he":"ייאוש, נואשות"}
+{"L":"desperante","C":["a"],"en":"desperate","fr":"désespéré","he":"מיואש, נואש"}
+{"T":"r","L":"despeta","C":["vt","uma"],"d":"odia (algun) en un modo cual inclui senti ce el es inferior","en":"despise, scorn, disdain, revile, look down on","es":"desdeñar, despreciar, menospreciar","fr":"mépriser, dédaigner, regarder de haut, mésestimer","he":"לתעב, לבוז"}
+{"L":"despeta","C":["n"],"en":"contempt, scorn, disdain","fr":"(le) mépris, (le) dédain","he":"תיעוב, בוז"}
+{"L":"despetable","C":["a"],"en":"despicable, loathsome, execrable, contemptible, pissant","es":"despreciable","fr":"méprisable, dédaignable, répugnant, exécrable","he":"ראוי לבוז"}
+{"L":"despetada","C":["a"],"en":"despised, despicable","es":"odiado, odioso","fr":"méprisé, dédaigné","he":"מתועב, נתעב, נבזי, נבזה, בזוי"}
+{"L":"despetante","C":["a"],"en":"pejorative","es":"peyorativo","fr":"méprisant, péjoratif, dédaigneux","he":"מבזה, משפיל, מזלזל"}
+{"L":"despetosa","C":["a"],"en":"contemptuous, scornful, disdainful, dismissive, cavalier","es":"despectivo","fr":"dédaigneux, hautain, méprisant","he":"מלא בוז"}
+{"T":"r","L":"despota","C":["n","gov"],"d":"un titulo per alga renores en la Balcanes medieval; (metafor) un tirano con potia asoluta","en":"despot","fr":"(un) despote, (un) tyran, (un) dictateur","he":"דספוט (תואר אצולה); רודן, עריץ"}
+{"L":"despotia","C":["n"],"en":"despotate","fr":"(le) despotisme, (la) tyrannie, (la) dictature, (le) totalitarisme","he":"דספוטט (שטח שנשלט על-ידי דספוט)"}
+{"L":"despotin","C":["a"],"en":"despotic","fr":"despotique, tyrannique, dictatorial, totalitaire","he":"דספוטי"}
+{"T":"r","L":"destina","C":["vt","rel","mit"],"d":"deside ce (algun) va esperia alga cosa en la futur; dirije (alga cosa) a un loca spesifada","en":"destine","fr":"destiner","he":"להועיד, לייעד"}
+{"L":"destina","C":["n"],"da":"betemmelsessted","de":"Bestimmung","en":"destination; destiny, fate, kismet; addressee","es":"destino, destinación, paradero, objetivo","fr":"(une) destination, (un) destin; (un) destinataire","he":"יעד; ייעוד, גורל; נמען"}
+{"L":"destinada","C":["a"],"en":"destined, bound","fr":"destiné","he":"מיועד"}
+{"L":"maldestinada","C":["a"],"en":"ill-fated","fr":"infortuné, malheureux","he":"שנידון לכישלון, שדינו נחרץ"}
+{"L":"predestina","C":["vt"],"en":"predestine","fr":"prédestiner, réserver, vouer","he":"להועיד מראש, לגזור (גורל)"}
+{"L":"predestina","C":["n"],"en":"predestination","fr":"(une) prédestination, (une) vocation","he":"ייעוד מראש, גזירת גורל"}
 {"T":"r","L":"destra","C":["a"],"d":"a, o pertinente a, la lado cual es a este cuando on fasa la norde","da":"højre (-hånd)","de":"recht","en":"right (not left); starboard","es":"derecha, diestra","fr":"droit","he":"ימני"}
-{"L":"destra","C":["n"],"en":"right (not left)","he":"ימין"}
-{"L":"a destra","C":["av"],"en":"on the right","he":"ימינה"}
-{"L":"a destra de","C":["prep"],"en":"on the right of","he":"לימין (של)"}
-{"L":"destrisme","C":["n"],"en":"rightism","he":"(פוליטיקה) ימניות"}
-{"L":"destriste","C":["a"],"en":"right-wing, rightist","he":"(פוליטיקה) ימני"}
-{"L":"destriste","C":["n"],"en":"right-winger, rightist","he":"(פוליטיקה) ימני"}
-{"L":"destrosa","C":["a"],"en":"handy, dextrous, skillful|skilful, deft","he":"מיומן"}
-{"L":"destrosia","C":["n"],"en":"dexterity","he":"מיומנות"}
-{"T":"r","L":"destrosa","C":["n","bio"],"d":"la forma la plu comun de glucosa","en":"dextrose (sugar)","he":"דקסטרוז"}
-{"T":"r","L":"destrui","C":["vt"],"d":"fa ce (un cosa) sesa esiste par dana o ataca lo; ruina emosial o spirital (algun); defeta completa (algun)","da":"ødelægge, destruere","de":"zerstören, vernichten","en":"destroy, demolish, decimate, raze, spoil; blast, zap","es":"destruir","fr":"détruir","he":"להרוס, למוטט, להשמיד"}
-{"L":"destrui","C":["n"],"en":"destruction, demolition","he":"הרס, חורבן, השמדה, הריסה"}
-{"L":"autodestrui","C":["vt"],"en":"self-destruct","he":"להשמיד את עצמו"}
-{"L":"autodestruinte","C":["a"],"en":"self-destructive","he":"שנוטה להרס עצמי"}
-{"L":"destruinte","C":["a"],"en":"destructive, ruinous","he":"הרסני"}
-{"L":"destruor","C":["n"],"en":"destroyer, demolisher","he":"גורם הרסני (אדם)"}
-{"L":"nondestruable","C":["a"],"en":"indestructible","he":"בלתי ניתן להריסה"}
-{"L":"supradestrui","C":["vt"],"en":"overkill","he":"להרוס מעבר לצורך; להגזים, לעשות שימוש יתר"}
-{"L":"supradestrui","C":["n"],"en":"overkill","he":"הריסה מוגזמת; הגזמה, שימוש יתר"}
-{"T":"r","L":"deta","C":["n","mone"],"d":"un cosa, tipal mone, cual on debe repaia","da":"gæld, skyld","de":"Schuld","en":"debt, debit, arrears","es":"deuda, obligación de pago","fr":"dette","he":"חוב"}
-{"L":"deta de jua","C":["n"],"en":"gambling debt","he":"חוב הימורים"}
-{"L":"detor","C":["n"],"en":"debtor","he":"בעל חוב, לווה"}
-{"T":"r","L":"detalia","C":["vt"],"d":"descrive (un cosa) en modo completa, incluinte tota fatos, cualias o partes, an si los es peti o minor; identifia esata (un fato o conseta)","en":"detail, itemize|is, elaborate; pinpoint","he":"לפרט; לזהות, לאתר (במדויק)"}
-{"L":"detalia","C":["n"],"d":"un cualia, fato o parte individua, tipal peti o minor","da":"detalje","de":"Detail","en":"detail","es":"detalle, pormenor, punto de interés","fr":"détail","he":"פרט; פירוט"}
-{"L":"detaliosa","C":["a"],"en":"detailed, elaborate, intricate","he":"מפורט, פרטני"}
-{"T":"r","L":"deteni","C":["vt","gov"],"d":"preveni (algun) de vade puntual, tipal par dona plu taxes a el o per interoga el sur un crimin o situa delicata; confisca e teni (benes)","en":"detain","he":"לעכב; לעצור (לחקירה)"}
-{"L":"deteni","C":["n"],"en":"detention","he":"עיכוב; ריתוק; מעצר"}
-{"L":"deteneria","C":["n"],"en":"detention center|re","he":"בית מעצר"}
-{"T":"r","L":"deterjente","C":["n","cim","vest"],"d":"un licuida cual limpi ojetos par combina con sustantias susia e fa ce estas deveni plu disolvable","en":"detergent, cleanser","he":"חומר ניקוי, דטרגנט"}
-{"L":"deterjente de platos","C":["n"],"en":"dishwashing liquid, washing-up liquid","he":"סבון כלים, נוזל כלים"}
-{"T":"r","L":"determina","C":["vt","fil"],"d":"fa ce (un cosa) aveni en modo spesifada; deside firma ce (un cosa) va aveni; descovre (alga cosa) par calcula o rexerca","en":"determine, dictate","he":"להגדיר, לקבוע, להחליט, להכתיב"}
-{"L":"determina","C":["n"],"en":"determination","he":"הגדרה, קביעה, החלטה"}
-{"L":"autodetermina","C":["vt"],"en":"self-determine, self-direct","he":"להגדיר בעצמו"}
-{"L":"autodetermina","C":["n"],"en":"self-determination","he":"הגדרה עצמית"}
-{"L":"determinada","C":["a"],"en":"determined; purposeful, resolute","he":"מוגדר, מוכתב, שהוחלט לגביו"}
-{"L":"determinante","C":["n","ling"],"d":"un parola alterante cual indica la tipo de refere de un nom o formula nomin","en":"determiner, determinative (grammar)","he":"(דקדוק) מגדיר"}
-{"L":"determinante de demanda","C":["n","ling"],"en":"interrogative determiner (grammar)","he":"(דקדוק) מגדיר שאלה"}
-{"L":"determinisme","C":["n"],"en":"determinism","he":"דטרמיניזם"}
-{"L":"deterministe","C":["a"],"en":"deterministic","he":"דטרמיניסטי"}
-{"L":"deterministe","C":["n"],"en":"determinist","he":"דטרמיניסט"}
-{"L":"jenetical determinada","C":["a"],"en":"genetically determined, hardwired","he":"נקבע גנטית"}
-{"L":"nondeterminada","C":["a"],"en":"indeterminate","he":"לא מוגדר, לא ברור"}
-{"L":"nondeterminisme","C":["n"],"en":"non-determinism","he":"אי-דטרמיניזם"}
-{"L":"nondeterministe","C":["a"],"en":"non-deterministic","he":"אי-דטרמיניסטי, לא דטרמיניסטי"}
-{"L":"nondeterministe","C":["n"],"en":"non-determinist","he":"אי-דטרמיניסט"}
-{"L":"predetermina","C":["vt"],"en":"predetermine, preordain","he":"להגדיר מראש, לקבוע מראש"}
-{"L":"predetermina","C":["n"],"en":"predetermination","he":"הגדרה מראש, קביעה מראש"}
-{"L":"predeterminisme","C":["n"],"en":"predeterminism, fatalism","he":"פטליזם"}
-{"L":"predeterministe","C":["a"],"en":"predeterministic, fatalistic","he":"פטליסטי"}
-{"L":"predeterministe","C":["n"],"en":"predeterminist, fatalist","he":"פטליסט"}
-{"T":"r","L":"deteta","C":["vt"],"d":"descovre o identifia la esiste o presentia de (un person o cosa)","en":"detect, discern","he":"לגלות, להבחין, לזהות, לאתר, לחשוף"}
-{"L":"deteta","C":["n"],"en":"detection","he":"גילוי, הבחנה, איתור, זיהוי, חשיפה"}
-{"L":"detetador","C":["n","util"],"en":"detector","he":"גלאי"}
-{"L":"detetador de bombas","C":["n","util"],"en":"bomb detector","he":"גלאי חומרי נפץ"}
-{"L":"detetador de bombetas","C":["n","util"],"en":"mine detector","he":"מגלה מוקשים"}
-{"L":"detetador de fumas","C":["n","util"],"en":"smoke detector","he":"גלאי עשן"}
-{"L":"detetador de mentis","C":["n","util"],"en":"lie detector","he":"גלאי שקר, פוליגרף"}
-{"L":"detetador de metales","C":["n","util"],"i":"#","en":"metal detector","he":"גלאי מתכות"}
-{"L":"detetor","C":["n"],"en":"detective, investigator, sleuth, gumshoe, private eye","he":"בלש"}
-{"L":"nondetetada","C":["a"],"en":"undetected","he":"שלא גילו אותו, שלא הבחינו בו"}
-{"T":"r","L":"detona","C":["vnt"],"d":"(un bomba o simil) esplode","en":"detonate","he":"לפוצץ (פצצה)"}
-{"T":"r","L":"detrae","C":["vt"],"d":"nega o redui la valua persepida de (un cualia o ateni)","en":"detract","he":"לגרוע מ, להפחית מ (תכונה או הישג)"}
-{"L":"detrae","C":["n"],"en":"detraction","he":"גריעה, הפחתה (של תכונה או הישג)"}
-{"T":"r","L":"detrito","C":["n"],"d":"pesos sperdeda de dejetada, tipal produida par erode o par la descomposa de organismes; pesos de petra, brice o beton restante pos un desconstrui","en":"detritus; debris, rubble","he":"בלית אורגנית, רקב; שפוכת, גרוסת"}
-{"T":"r","L":"detrivor","C":["a","bio"],"d":"(un organisme) cual come detrito","en":"detrivorous","he":"אוכל רקב"}
-{"L":"detrivor","C":["n"],"en":"detrivore","he":"אוכל רקב"}
-{"T":"r","L":"deuterio","C":["n","fis"],"d":"un isotopo stable de idrojen con masa sirca duple de lo de la isotopo normal","en":"deuterium (chemistry)","he":"דאוטריום, דיטריום, מימן כבד"}
-{"T":"r","L":"deuterostomio","C":["n"],"d":"un membro de un suprafilo de animales biladal simetre, incluinte la ecdisozones, platizones e lofotrocozones","t":"Deuterostomia","en":"deuterostome (organism)","he":"(בעל חיים השייך ל) שניוני הפה"}
-{"T":"r","L":"Deutxland","C":["n","jeo"],"c":"Berlin","d":"un pais en Europa sentral con costa a la Mar Baltica","i":"#","en":"Germany","he":"גרמניה"}
-{"L":"deutx","C":["a"],"en":"German","he":"גרמני"}
-{"L":"deutx","C":["n","dem"],"en":"German (person, language)","he":"גרמני (אדם), גרמנית (שפה)"}
-{"T":"r","L":"devanagari","C":["n","ling"],"d":"la sistem de scrive usada per sanscrito, hindi e otra linguas de Barat","i":"#","en":"Devanagari (writing system)","he":"דוונאגרי (אלפבית)"}
-{"T":"r","L":"developa","C":["vnt","bio"],"d":"crese e deveni plu matur, avansada o complicada","en":"develop, hone, educe, elaborate; catch, contract (illness)","he":"להתפתח; לחטוף, ללקות, להידבק (במחלה)"}
-{"L":"developa","C":["n"],"en":"development","he":"התפתחות, פיתוח"}
-{"L":"developa la gripe","C":["v"],"en":"catch cold","he":"לחטוף צינון"}
-{"L":"developa tro multe","C":["v"],"en":"overdevelop","he":"לפתח יתר על המידה"}
-{"L":"developor","C":["n"],"en":"developer","he":"מפתח (מקצוע)"}
-{"L":"nondevelopada","C":["a"],"en":"undeveloped","he":"לא מפותח"}
-{"L":"sudevelopada","C":["a"],"en":"underdeveloped","he":"שאינו מפותח מספיק"}
+{"L":"destra","C":["n"],"en":"right (not left)","fr":"(la) droite","he":"ימין"}
+{"L":"a destra","C":["av"],"en":"on the right","fr":"à droite","he":"ימינה"}
+{"L":"a destra de","C":["prep"],"en":"on the right of","fr":"à droite de, à la droite de","he":"לימין (של)"}
+{"L":"destrisme","C":["n"],"en":"rightism","fr":"(la) droite (opinion)","he":"(פוליטיקה) ימניות"}
+{"L":"destriste","C":["a"],"en":"right-wing, rightist","fr":"de droite (opinion)","he":"(פוליטיקה) ימני"}
+{"L":"destriste","C":["n"],"en":"right-winger, rightist","fr":"(un) homme de droite | (une) femme de droite","he":"(פוליטיקה) ימני"}
+{"L":"destrosa","C":["a"],"en":"handy, dextrous, skillful|skilful, deft","fr":"adroit","he":"מיומן"}
+{"L":"destrosia","C":["n"],"en":"dexterity","fr":"(la) dextérité","he":"מיומנות"}
+{"T":"r","L":"destrosa","C":["n","bio"],"d":"la forma la plu comun de glucosa","en":"dextrose (sugar)","fr":"(la) dextrose (sucre)","he":"דקסטרוז"}
+{"T":"r","L":"destrui","C":["vt"],"d":"fa ce (un cosa) sesa esiste par dana o ataca lo; ruina emosial o spirital (algun); defeta completa (algun)","da":"ødelægge, destruere","de":"zerstören, vernichten","en":"destroy, demolish, decimate, raze, spoil; blast, zap","es":"destruir","fr":"détruire, démolir, décimer, dévaster, raser","he":"להרוס, למוטט, להשמיד"}
+{"L":"destrui","C":["n"],"en":"destruction, demolition","fr":"(une) destruction, (une) démolition","he":"הרס, חורבן, השמדה, הריסה"}
+{"L":"autodestrui","C":["vt"],"en":"self-destruct","fr":"s'autodétruire","he":"להשמיד את עצמו"}
+{"L":"autodestruinte","C":["a"],"en":"self-destructive","fr":"autodestructeur | autodestructrice","he":"שנוטה להרס עצמי"}
+{"L":"destruinte","C":["a"],"en":"destructive, ruinous","fr":"destructeur","he":"הרסני"}
+{"L":"destruor","C":["n"],"en":"destroyer, demolisher","fr":"(un) destructeur, (un) démolisseur","he":"גורם הרסני (אדם)"}
+{"L":"nondestruable","C":["a"],"en":"indestructible","fr":"indestructible","he":"בלתי ניתן להריסה"}
+{"L":"supradestrui","C":["vt"],"en":"overkill","fr":"surexterminer","he":"להרוס מעבר לצורך; להגזים, לעשות שימוש יתר"}
+{"L":"supradestrui","C":["n"],"en":"overkill","fr":"(une) surextermination","he":"הריסה מוגזמת; הגזמה, שימוש יתר"}
+{"T":"r","L":"deta","C":["n","mone"],"d":"un cosa, tipal mone, cual on debe repaia","da":"gæld, skyld","de":"Schuld","en":"debt, debit, arrears","es":"deuda, obligación de pago","fr":"(une) dette, (un) arriéré","he":"חוב"}
+{"L":"deta de jua","C":["n"],"en":"gambling debt","fr":"(une) dette de jeu","he":"חוב הימורים"}
+{"L":"detor","C":["n"],"en":"debtor","fr":"(un) débiteur | (une) débitrice","he":"בעל חוב, לווה"}
+{"T":"r","L":"detalia","C":["vt"],"d":"descrive (un cosa) en modo completa, incluinte tota fatos, cualias o partes, an si los es peti o minor; identifia esata (un fato o conseta)","en":"detail, itemize|is, elaborate; pinpoint","fr":"détailler, préciser; éclairer (un point)","he":"לפרט; לזהות, לאתר (במדויק)"}
+{"L":"detalia","C":["n"],"d":"un cualia, fato o parte individua, tipal peti o minor","da":"detalje","de":"Detail","en":"detail","es":"detalle, pormenor, punto de interés","fr":"(un) détail","he":"פרט; פירוט"}
+{"L":"detaliosa","C":["a"],"en":"detailed, elaborate, intricate","fr":"détaillé, complexe","he":"מפורט, פרטני"}
+{"T":"r","L":"deteni","C":["vt","gov"],"d":"preveni (algun) de vade puntual, tipal par dona plu taxes a el o per interoga el sur un crimin o situa delicata; confisca e teni (benes)","en":"detain","fr":"détenir","he":"לעכב; לעצור (לחקירה)"}
+{"L":"deteni","C":["n"],"en":"detention","fr":"(une) détention","he":"עיכוב; ריתוק; מעצר"}
+{"L":"deteneria","C":["n"],"en":"detention center|re","fr":"(un) centre de détention","he":"בית מעצר"}
+{"T":"r","L":"deterjente","C":["n","cim","vest"],"d":"un licuida cual limpi ojetos par combina con sustantias susia e fa ce estas deveni plu disolvable","en":"detergent, cleanser","fr":"(un) détergent, (un) nettoyant","he":"חומר ניקוי, דטרגנט"}
+{"L":"deterjente de platos","C":["n"],"en":"dishwashing liquid, washing-up liquid","fr":"(un) liquide vaisselle","he":"סבון כלים, נוזל כלים"}
+{"T":"r","L":"determina","C":["vt","fil"],"d":"fa ce (un cosa) aveni en modo spesifada; deside firma ce (un cosa) va aveni; descovre (alga cosa) par calcula o rexerca","en":"determine, dictate","fr":"déterminer, dicter, imposer","he":"להגדיר, לקבוע, להחליט, להכתיב"}
+{"L":"determina","C":["n"],"en":"determination","fr":"(une) détermination","he":"הגדרה, קביעה, החלטה"}
+{"L":"autodetermina","C":["vt"],"en":"self-determine, self-direct","fr":"s'autodéterminer","he":"להגדיר בעצמו"}
+{"L":"autodetermina","C":["n"],"en":"self-determination","fr":"(une) autodétermination","he":"הגדרה עצמית"}
+{"L":"determinada","C":["a"],"en":"determined; purposeful, resolute","fr":"déterminé; déterminé (caractère), résolu","he":"מוגדר, מוכתב, שהוחלט לגביו"}
+{"L":"determinante","C":["n","ling"],"d":"un parola alterante cual indica la tipo de refere de un nom o formula nomin","en":"determiner, determinative (grammar)","fr":"(un) déterminant (grammaire)","he":"(דקדוק) מגדיר"}
+{"L":"determinante de demanda","C":["n","ling"],"en":"interrogative determiner (grammar)","fr":"adjectif interrogatif (grammaire)","he":"(דקדוק) מגדיר שאלה"}
+{"L":"determinisme","C":["n"],"en":"determinism","fr":"(le) déterminisme","he":"דטרמיניזם"}
+{"L":"deterministe","C":["a"],"en":"deterministic","fr":"déterministe","he":"דטרמיניסטי"}
+{"L":"deterministe","C":["n"],"en":"determinist","fr":"(un) déterministe","he":"דטרמיניסט"}
+{"L":"jenetical determinada","C":["a"],"en":"genetically determined, hardwired","fr":"déterminé génétiquement","he":"נקבע גנטית"}
+{"L":"nondeterminada","C":["a"],"en":"indeterminate","fr":"indéterminé","he":"לא מוגדר, לא ברור"}
+{"L":"nondeterminisme","C":["n"],"en":"non-determinism","fr":"(un) indéterminisme","he":"אי-דטרמיניזם"}
+{"L":"nondeterministe","C":["a"],"en":"non-deterministic","fr":"indéterministe","he":"אי-דטרמיניסטי, לא דטרמיניסטי"}
+{"L":"nondeterministe","C":["n"],"en":"non-determinist","fr":"(un) indéterministe","he":"אי-דטרמיניסט"}
+{"L":"predetermina","C":["vt"],"en":"predetermine, preordain","fr":"prédéterminer, régler d'avance","he":"להגדיר מראש, לקבוע מראש"}
+{"L":"predetermina","C":["n"],"en":"predetermination","fr":"(une) prédétermination","he":"הגדרה מראש, קביעה מראש"}
+{"L":"predeterminisme","C":["n"],"en":"predeterminism, fatalism","fr":"(le) prédéterminisme, (le) fatalisme","he":"פטליזם"}
+{"L":"predeterministe","C":["a"],"en":"predeterministic, fatalistic","fr":"prédéterministe, fataliste","he":"פטליסטי"}
+{"L":"predeterministe","C":["n"],"en":"predeterminist, fatalist","fr":"(un) prédéterministe, (un) fataliste","he":"פטליסט"}
+{"T":"r","L":"deteta","C":["vt"],"d":"descovre o identifia la esiste o presentia de (un person o cosa)","en":"detect, discern","fr":"détecter, discerner, déceler, percevoir, repérer","he":"לגלות, להבחין, לזהות, לאתר, לחשוף"}
+{"L":"deteta","C":["n"],"en":"detection","fr":"(une) détection, (un) repérage","he":"גילוי, הבחנה, איתור, זיהוי, חשיפה"}
+{"L":"detetador","C":["n","util"],"en":"detector","fr":"(un) détecteur","he":"גלאי"}
+{"L":"detetador de bombas","C":["n","util"],"en":"bomb detector","fr":"(un) détecteur de bombe","he":"גלאי חומרי נפץ"}
+{"L":"detetador de bombetas","C":["n","util"],"en":"mine detector","fr":"(un) détecteur de mine","he":"מגלה מוקשים"}
+{"L":"detetador de fumas","C":["n","util"],"en":"smoke detector","fr":"(un) détecteur de fumée","he":"גלאי עשן"}
+{"L":"detetador de mentis","C":["n","util"],"en":"lie detector","fr":"(un) détecteur de mensonges","he":"גלאי שקר, פוליגרף"}
+{"L":"detetador de metales","C":["n","util"],"i":"#","en":"metal detector","fr":"(un) détecteur de métaux","he":"גלאי מתכות"}
+{"L":"detetor","C":["n"],"en":"detective, investigator, sleuth, gumshoe, private eye","fr":"(un) détective, (un) enquêteur, (un) limier, (un) détective privé","he":"בלש"}
+{"L":"nondetetada","C":["a"],"en":"undetected","fr":"indétecté, non détecté","he":"שלא גילו אותו, שלא הבחינו בו"}
+{"T":"r","L":"detona","C":["vnt"],"d":"(un bomba o simil) esplode","en":"detonate","fr":"exploser, détoner, éclater, péter, sauter","he":"לפוצץ (פצצה)"}
+{"T":"r","L":"detrae","C":["vt"],"d":"nega o redui la valua persepida de (un cualia o ateni)","en":"detract","fr":"dénigrer, déprécier","he":"לגרוע מ, להפחית מ (תכונה או הישג)"}
+{"L":"detrae","C":["n"],"en":"detraction","fr":"(un) dénigrement, (une) dépréciation","he":"גריעה, הפחתה (של תכונה או הישג)"}
+{"T":"r","L":"detrito","C":["n"],"d":"pesos sperdeda de dejetada, tipal produida par erode o par la descomposa de organismes; pesos de petra, brice o beton restante pos un desconstrui","en":"detritus; debris, rubble","fr":"(un) détritus, (un) déchet, (une) ordure","he":"בלית אורגנית, רקב; שפוכת, גרוסת"}
+{"T":"r","L":"detrivor","C":["a","bio"],"d":"(un organisme) cual come detrito","en":"detrivorous","fr":"détritivore","he":"אוכל רקב"}
+{"L":"detrivor","C":["n"],"en":"detrivore","fr":"(un) détritivore","he":"אוכל רקב"}
+{"T":"r","L":"deuterio","C":["n","fis"],"d":"un isotopo stable de idrojen con masa sirca duple de lo de la isotopo normal","en":"deuterium (chemistry)","fr":"(le) deutérium (chimie)","he":"דאוטריום, דיטריום, מימן כבד"}
+{"T":"r","L":"deuterostomio","C":["n"],"d":"un membro de un suprafilo de animales biladal simetre, incluinte la ecdisozones, platizones e lofotrocozones","t":"Deuterostomia","en":"deuterostome (organism)","fr":"(un) deutérostomien (organisme)","he":"(בעל חיים השייך ל) שניוני הפה"}
+{"T":"r","L":"Deutxland","C":["n","jeo"],"c":"Berlin","d":"un pais en Europa sentral con costa a la Mar Baltica","i":"#","en":"Germany","fr":"(L')Allemagne","he":"גרמניה"}
+{"L":"deutx","C":["a"],"en":"German","fr":"allemand, germanique","he":"גרמני"}
+{"L":"deutx","C":["n","dem"],"en":"German (person, language)","fr":"(un) Allemand (personne), (l')allemand","he":"גרמני (אדם), גרמנית (שפה)"}
+{"T":"r","L":"devanagari","C":["n","ling"],"d":"la sistem de scrive usada per sanscrito, hindi e otra linguas de Barat","i":"#","en":"Devanagari (writing system)","fr":"le dévanagari (système d'écriture)","he":"דוונאגרי (אלפבית)"}
+{"T":"r","L":"developa","C":["vnt","bio"],"d":"crese e deveni plu matur, avansada o complicada","en":"develop, hone, educe, elaborate; catch, contract (illness)","fr":"développer, élaborer; contracter (une maladie)","he":"להתפתח; לחטוף, ללקות, להידבק (במחלה)"}
+{"L":"developa","C":["n"],"en":"development","fr":"(un) développement","he":"התפתחות, פיתוח"}
+{"L":"developa la gripe","C":["v"],"en":"catch cold","fr":"attraper un rhume","he":"לחטוף צינון"}
+{"L":"developa tro multe","C":["v"],"en":"overdevelop","fr":"surdévelopper","he":"לפתח יתר על המידה"}
+{"L":"developor","C":["n"],"en":"developer","fr":"(un) développeur","he":"מפתח (מקצוע)"}
+{"L":"nondevelopada","C":["a"],"en":"undeveloped","fr":"non développé","he":"לא מפותח"}
+{"L":"sudevelopada","C":["a"],"en":"underdeveloped","fr":"sous-développé","he":"שאינו מפותח מספיק"}
 {"T":"r","L":"deveni","C":["vl"],"d":"comensa es; cambia se a","u":"me deveni vea; la eruga ia deveni un papilio","da":"blive","de":"werden","en":"become, get, grow, turn","es":"hacerse, ponerse, llegar a ser, convertirse en, volverse","fr":"devenir","he":"להפוך ל, להיעשות"}
-{"T":"r","L":"devia","C":["vnt"],"d":"move a via de un curso","en":"deviate, stray, swerve, go off course","he":"לסטות, לחרוג"}
-{"L":"devia","C":["n"],"en":"deviation, aberration, detour, discrepancy, swerve","he":"סטייה, חריגה; סתירה, אי-התאמה"}
-{"L":"deviante","C":["a"],"en":"deviant, deviating, deviated, stray, astray, awry, aberrant, errant","he":"סוטה; חריג"}
-{"L":"nondeviante","C":["a"],"en":"undeviating, unswerving","he":"שאינו סוטה, שאינו חורג"}
-{"T":"r","L":"devolui","C":["vnt","uma"],"d":"(potia political) move de governa sentral a rejional; cambia a un nivel de evolui o developa min avansada","en":"devolve","he":"(פוליטיקה) להאציל סמכויות; להתפתח לצורה בסיסית יותר"}
-{"L":"devolui","C":["n"],"en":"devolution","he":"(פוליטיקה) האצלת סמכויות; התפתחות לצורה בסיסית יותר"}
-{"T":"r","L":"devonian","C":["a","tera"],"d":"pertinente a la periodo cuatro de la paleozoica, entre la silurian e carboniferosa","en":"Devonian (geology)","he":"(גאולוגיה) דבון"}
-{"L":"devonian","C":["n"],"en":"Devonian (geology)","he":"(גאולוגיה) דבון"}
-{"T":"r","L":"devora","C":["vt"],"d":"come (alga cosa) en modo rapida o multe fama","en":"devour, gobble, scoff","he":"לזלול, לטרוף"}
-{"L":"devorante","C":["a"],"en":"voracious, ravenous, ravening","he":"זוללני, רעבתני"}
+{"T":"r","L":"devia","C":["vnt"],"d":"move a via de un curso","en":"deviate, stray, swerve, go off course","fr":"dévier","he":"לסטות, לחרוג"}
+{"L":"devia","C":["n"],"en":"deviation, aberration, detour, discrepancy, swerve","fr":"(une) déviation","he":"סטייה, חריגה; סתירה, אי-התאמה"}
+{"L":"deviante","C":["a"],"en":"deviant, deviating, deviated, stray, astray, awry, aberrant, errant","fr":"déviant","he":"סוטה; חריג"}
+{"L":"nondeviante","C":["a"],"en":"undeviating, unswerving","fr":"non déviant","he":"שאינו סוטה, שאינו חורג"}
+{"T":"r","L":"devolui","C":["vnt","uma"],"d":"(potia political) move de governa sentral a rejional; cambia a un nivel de evolui o developa min avansada","en":"devolve","fr":"décentraliser; régresser","he":"(פוליטיקה) להאציל סמכויות; להתפתח לצורה בסיסית יותר"}
+{"L":"devolui","C":["n"],"en":"devolution","fr":"décentralisation; régression","he":"(פוליטיקה) האצלת סמכויות; התפתחות לצורה בסיסית יותר"}
+{"T":"r","L":"devonian","C":["a","tera"],"d":"pertinente a la periodo cuatro de la paleozoica, entre la silurian e carboniferosa","en":"Devonian (geology)","fr":"dévonien (géologie)","he":"(גאולוגיה) דבון"}
+{"L":"devonian","C":["n"],"en":"Devonian (geology)","fr":"(le) Dévonien (géologie)","he":"(גאולוגיה) דבון"}
+{"T":"r","L":"devora","C":["vt"],"d":"come (alga cosa) en modo rapida o multe fama","en":"devour, gobble, scoff","fr":"dévorer","he":"לזלול, לטרוף"}
+{"L":"devorante","C":["a"],"en":"voracious, ravenous, ravening","fr":"vorace, dévorant, glouton","he":"זוללני, רעבתני"}
 {"T":"r","L":"di-","C":["pf","tecn"],"d":"du","en":"di- (two)","he":"(קידומת טכנית) שניים"}
 {"T":"r","L":"dia","C":["n"],"d":"cada de la periodos de 24 oras a cual on divide semanas, menses e anios, corespondente a un jira de la Tera; la parte de esta entre la leva e reposa de sol","da":"dag","de":"Tag","en":"day; daytime","es":"día","fr":"jour","he":"יום"}
 {"L":"dia completa","C":["n"],"da":"døgn, dag (24 timer)","en":"day (24-hour period)","he":"יממה"}
