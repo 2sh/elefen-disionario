@@ -8098,218 +8098,218 @@
 {"L":"dia de paia","C":["n"],"en":"payday","fr":"(un) jour de paie","he":"יום התשלום"}
 {"L":"dia de semana","C":["n"],"en":"day of the week, weekday","fr":"(un) jour de la semaine","he":"יום בשבוע"}
 {"L":"dia santa","C":["n"],"da":"jødisk lørdag","de":"Sabbat","en":"holy day, sabbath","es":"sábado judío, domíngo cristiano, viernes musulmán","fr":"(un) jour saint, sabbat","he":"יום קדוש"}
-{"L":"a cada dia","C":["av"],"en":"every day","he":"כל יום, בכל יום"}
-{"L":"a la otra dia","C":["av"],"en":"the other day","he":"לפני כמה ימים"}
-{"L":"de la dia","C":["a"],"en":"of the day, du jour","he":"של הזמן הזה, דהיום"}
-{"L":"dial","C":["a"],"en":"daily, diurnal (once a day); everyday, quotidian","he":"יומי; כל יום"}
+{"L":"a cada dia","C":["av"],"en":"every day","fr":"chaque jour, quotidiennement","he":"כל יום, בכל יום"}
+{"L":"a la otra dia","C":["av"],"en":"the other day","fr":"l'autre jour","he":"לפני כמה ימים"}
+{"L":"de la dia","C":["a"],"en":"of the day, du jour","fr":"du jour","he":"של הזמן הזה, דהיום"}
+{"L":"dial","C":["a"],"en":"daily, diurnal (once a day); everyday, quotidian","fr":"diurne; quotidien","he":"יומי; כל יום"}
 {"L":"mediadia","C":["n"],"p":"mediadía","da":"middag","de":"Mittag","en":"midday, noon, noontime","es":"mediodía","fr":"midi","he":"צהריים, אמצע היום"}
-{"T":"r","L":"dia-","C":["pf","tecn"],"d":"tra, ultra","en":"dia-","he":"(קידומת טכנית) דרך, מבעד"}
-{"T":"r","L":"diabete","C":["n","med"],"d":"un maladia de metaboli en cual la capasia de la corpo per produi insulina es diminuida o asente, causante un diminui de la cuantia de glucosa en la sangue","en":"diabetes","he":"סוכרת"}
-{"L":"antidiabetica","C":["n","med"],"d":"un medisin per combate diabete","en":"antidiabetic","he":"תרופה לטיפול בסוכרת"}
-{"L":"diabetica","C":["a"],"en":"diabetic","he":"סוכרתי"}
-{"T":"r","L":"diablo","C":["n","mit","rel"],"d":"(en alga relijios e credes) un demon, spesial la spirito xef de malia, Satan","i":"#","en":"devil, Satan, Lucifer","he":"שד, דמון, שטן"}
-{"L":"diablo caxida","C":["n"],"i":"#","en":"jack-in-the-box","he":"ג'ק בקופסא (צעצוע)"}
-{"L":"diablin","C":["a"],"en":"devilish","he":"דמוי שד"}
-{"L":"diablosa","C":["a"],"en":"diabolic, diabolical","he":"שטני, מרושע"}
-{"L":"diablo tasmanian","C":["n","mam"],"d":"un marsupial potiosa con testa grande, mandibulas forte, e pelo xef negra, trovada sola en Tasmania","i":"#","t":"Sarcophilus harrisii","en":"Tasmanian devil","he":"שד טסמני (בעל חיים)"}
-{"T":"r","L":"diacon","C":["n","rel"],"d":"un eglesor ordinada de nivel plu basa ca un prete; un ofisior de un eglesa ci aida un eglesor, tipal en cosas secular","en":"deacon, provost","he":"(נצרות) דיאקון"}
-{"T":"r","L":"diacrona","C":["a","ling"],"d":"pertinente a la modo en cual cosas, spesial linguas, ia developa e evolui tra tempo","en":"diachronic","he":"דיאכרוני"}
-{"T":"r","L":"diafana","C":["a","vest","arci"],"d":"(un materia) permetente ce lus, ma no detalias de forma, pasa tra lo; semitransparente","en":"translucent, diaphanous, semitransparent, sheer, gauzy, filmy, frosted","he":"שקוף למחצה, (זכוכית) מזוגג"}
-{"L":"diafania","C":["n"],"en":"translucency","he":"שקיפות חלקית"}
-{"T":"r","L":"diafonia","C":["n","info"],"d":"la pasa nondesirada de un sinial a un otra canal de telecomunica","en":"crosstalk","he":"ערב דיבור, זליגת אותות"}
-{"T":"r","L":"diaframa","C":["n","anat","med"],"d":"un separa musculal entre la torax e la adomen en mamales; un membrana tensa e flexable, usada per separa du areas","en":"diaphragm","he":"סרעפת, דיאפרגמה"}
-{"L":"diaframa contraconsepinte","C":["n"],"en":"contraceptive diaphragm","he":"דיאפרגמה (אמצעי מניעה)"}
-{"T":"r","L":"diagnose","C":["vt","med","info"],"d":"identifia la natur de (un maladia o otra disturba) par esamina sintomes","en":"diagnose; troubleshoot","he":"לאבחן"}
-{"L":"diagnose","C":["n"],"en":"diagnosis, diagnostics","he":"אבחנה, אבחון, דיאגנוזה"}
-{"L":"diagnosiste","C":["n"],"en":"diagnostician","he":"מאבחן"}
-{"L":"maldiagnose","C":["vt"],"en":"misdiagnose","he":"לאבחן בצורה שגויה"}
-{"L":"maldiagnose","C":["n"],"en":"misdiagnosis","he":"אבחון שגוי"}
-{"L":"nondiagnoseda","C":["a"],"en":"undiagnosed","he":"שלא אובחן"}
-{"L":"programes de diagnose","C":["n"],"en":"diagnostic tools (software)","he":"כלי אבחון (תוכנה)"}
-{"T":"r","L":"diagonal","C":["a","mat"],"d":"(un linia) reta e apoiada, tipal juntante du angulos oposada de un retangulo","da":"diagonal","de":"diagonal","en":"diagonal, slanted","es":"diagonal, inclinado","fr":"diagonale","he":"אלכסוני"}
-{"T":"r","L":"dialetica","C":["n","fil"],"d":"la arte de investiga o discute la veria de opinas; la investiga de contradises en metafisica e sua solves; la esiste e ata de fortes sosial oposante","en":"dialectic","he":"דיאלקטיקה"}
-{"L":"dialeticiste","C":["n"],"en":"dialectician","he":"דיאלקטיקאי"}
-{"T":"r","L":"dialeto","C":["n","ling"],"d":"un varia de un lingua, tipal rejional e no la varia normal","en":"dialect, patois","eo":"dialekto","he":"ניב, דיאלקט"}
-{"L":"dialeto fonetical","C":["n"],"d":"un manera de pronunsia usada par un parlor individua o par parlores en un rejion o clase sosial","en":"accent","eo":"akĉento","he":"מבטא"}
-{"T":"r","L":"dialise","C":["n","med","cim"],"d":"la separa de particulas en un licuida par la diferes de sua capasia de pasa tra un membrana; (en medica) la puri de sangue par esta metodo, como un sustitua per la funsiona normal de un ren","en":"dialysis, hemodialysis|ae","he":"דיאליזה"}
-{"T":"r","L":"dialogo","C":["n","arte"],"d":"un conversa entre du o plu persones en un libro, teatral o filma; un discute entre du o plu grupos per esplora e solve un problem; (en informatica) un fenetra peti cual furni informa a la usor e solisita un eleje o responde","en":"dialog|ue; dialog|ue box (software)","he":"דו-שיח, דיאלוג; (מחשבים) תיבת דו-שיח"}
-{"T":"r","L":"diamante","C":["n","tera","spo","vest"],"d":"un jem valuosa, composada de un forma de carbono cristalida, tipal clar e sin color; un rombo cual sta sur un de sua angulos; un de la cuatro familias de cartas de jua, representada par un tal rombo","i":"#","s":"♦","en":"diamond (including cards)","he":"יהלום"}
-{"L":"diamante bruta","C":["n"],"en":"uncut diamond; diamond in the rough","he":"יהלום גולמי"}
-{"L":"diamante falsa","C":["n"],"en":"false diamond, rhinestone","he":"יהלום מזויף"}
+{"T":"r","L":"dia-","C":["pf","tecn"],"d":"tra, ultra","en":"dia-","fr":"dia-","he":"(קידומת טכנית) דרך, מבעד"}
+{"T":"r","L":"diabete","C":["n","med"],"d":"un maladia de metaboli en cual la capasia de la corpo per produi insulina es diminuida o asente, causante un diminui de la cuantia de glucosa en la sangue","en":"diabetes","fr":"(le) diabète","he":"סוכרת"}
+{"L":"antidiabetica","C":["n","med"],"d":"un medisin per combate diabete","en":"antidiabetic","fr":"antidiabétique","he":"תרופה לטיפול בסוכרת"}
+{"L":"diabetica","C":["a"],"en":"diabetic","fr":"diabétique","he":"סוכרתי"}
+{"T":"r","L":"diablo","C":["n","mit","rel"],"d":"(en alga relijios e credes) un demon, spesial la spirito xef de malia, Satan","i":"#","en":"devil, Satan, Lucifer","fr":"(le) diable","he":"שד, דמון, שטן"}
+{"L":"diablo caxida","C":["n"],"i":"#","en":"jack-in-the-box","fr":"(un) diable en boîte","he":"ג'ק בקופסא (צעצוע)"}
+{"L":"diablin","C":["a"],"en":"devilish","fr":"diabolique, semblable au diable","he":"דמוי שד"}
+{"L":"diablosa","C":["a"],"en":"diabolic, diabolical","fr":"diabolique","he":"שטני, מרושע"}
+{"L":"diablo tasmanian","C":["n","mam"],"d":"un marsupial potiosa con testa grande, mandibulas forte, e pelo xef negra, trovada sola en Tasmania","i":"#","t":"Sarcophilus harrisii","en":"Tasmanian devil","fr":"(un) diable de Tasmanie","he":"שד טסמני (בעל חיים)"}
+{"T":"r","L":"diacon","C":["n","rel"],"d":"un eglesor ordinada de nivel plu basa ca un prete; un ofisior de un eglesa ci aida un eglesor, tipal en cosas secular","en":"deacon, provost","fr":"(un) diacre","he":"(נצרות) דיאקון"}
+{"T":"r","L":"diacrona","C":["a","ling"],"d":"pertinente a la modo en cual cosas, spesial linguas, ia developa e evolui tra tempo","en":"diachronic","fr":"diachronique","he":"דיאכרוני"}
+{"T":"r","L":"diafana","C":["a","vest","arci"],"d":"(un materia) permetente ce lus, ma no detalias de forma, pasa tra lo; semitransparente","en":"translucent, diaphanous, semitransparent, sheer, gauzy, filmy, frosted","fr":"diaphane, translucide","he":"שקוף למחצה, (זכוכית) מזוגג"}
+{"L":"diafania","C":["n"],"en":"translucency","fr":"(la) diaphanéité, (la) translucidité","he":"שקיפות חלקית"}
+{"T":"r","L":"diafonia","C":["n","info"],"d":"la pasa nondesirada de un sinial a un otra canal de telecomunica","en":"crosstalk","fr":"(une) diaphonie","he":"ערב דיבור, זליגת אותות"}
+{"T":"r","L":"diaframa","C":["n","anat","med"],"d":"un separa musculal entre la torax e la adomen en mamales; un membrana tensa e flexable, usada per separa du areas","en":"diaphragm","fr":"(le) diaphragme","he":"סרעפת, דיאפרגמה"}
+{"L":"diaframa contraconsepinte","C":["n"],"en":"contraceptive diaphragm","fr":"(un) diaphragme (contraceptif)","he":"דיאפרגמה (אמצעי מניעה)"}
+{"T":"r","L":"diagnose","C":["vt","med","info"],"d":"identifia la natur de (un maladia o otra disturba) par esamina sintomes","en":"diagnose; troubleshoot","fr":"diagnostisquer","he":"לאבחן"}
+{"L":"diagnose","C":["n"],"en":"diagnosis, diagnostics","fr":"(un) diagnostique","he":"אבחנה, אבחון, דיאגנוזה"}
+{"L":"diagnosiste","C":["n"],"en":"diagnostician","fr":"(un) diagnostiqueur","he":"מאבחן"}
+{"L":"maldiagnose","C":["vt"],"en":"misdiagnose","fr":"faire une erreur de diagnostique, se tromper dans un diagnostique","he":"לאבחן בצורה שגויה"}
+{"L":"maldiagnose","C":["n"],"en":"misdiagnosis","fr":"(une) erreur de diagnostique","he":"אבחון שגוי"}
+{"L":"nondiagnoseda","C":["a"],"en":"undiagnosed","fr":"non diagnostiqué","he":"שלא אובחן"}
+{"L":"programes de diagnose","C":["n"],"en":"diagnostic tools (software)","fr":"(des) outils de diagnostic","he":"כלי אבחון (תוכנה)"}
+{"T":"r","L":"diagonal","C":["a","mat"],"d":"(un linia) reta e apoiada, tipal juntante du angulos oposada de un retangulo","da":"diagonal","de":"diagonal","en":"diagonal, slanted","es":"diagonal, inclinado","fr":"diagonal","he":"אלכסוני"}
+{"T":"r","L":"dialetica","C":["n","fil"],"d":"la arte de investiga o discute la veria de opinas; la investiga de contradises en metafisica e sua solves; la esiste e ata de fortes sosial oposante","en":"dialectic","fr":"dialectique","he":"דיאלקטיקה"}
+{"L":"dialeticiste","C":["n"],"en":"dialectician","fr":"dialecticien","he":"דיאלקטיקאי"}
+{"T":"r","L":"dialeto","C":["n","ling"],"d":"un varia de un lingua, tipal rejional e no la varia normal","en":"dialect, patois","eo":"dialekto","fr":"(un) dialecte","he":"ניב, דיאלקט"}
+{"L":"dialeto fonetical","C":["n"],"d":"un manera de pronunsia usada par un parlor individua o par parlores en un rejion o clase sosial","en":"accent","eo":"akĉento","fr":"(un) accent (prononciation régionale)","he":"מבטא"}
+{"T":"r","L":"dialise","C":["n","med","cim"],"d":"la separa de particulas en un licuida par la diferes de sua capasia de pasa tra un membrana; (en medica) la puri de sangue par esta metodo, como un sustitua per la funsiona normal de un ren","en":"dialysis, hemodialysis|ae","fr":"(une) dialyse","he":"דיאליזה"}
+{"T":"r","L":"dialogo","C":["n","arte"],"d":"un conversa entre du o plu persones en un libro, teatral o filma; un discute entre du o plu grupos per esplora e solve un problem; (en informatica) un fenetra peti cual furni informa a la usor e solisita un eleje o responde","en":"dialog|ue; dialog|ue box (software)","fr":"(un) dialogue; (une) boîte de dialogue (informatique)","he":"דו-שיח, דיאלוג; (מחשבים) תיבת דו-שיח"}
+{"T":"r","L":"diamante","C":["n","tera","spo","vest"],"d":"un jem valuosa, composada de un forma de carbono cristalida, tipal clar e sin color; un rombo cual sta sur un de sua angulos; un de la cuatro familias de cartas de jua, representada par un tal rombo","i":"#","s":"♦","en":"diamond (including cards)","fr":"(un) diamant; (un) losange; (le) carreau (cartes à jouer)","he":"יהלום"}
+{"L":"diamante bruta","C":["n"],"en":"uncut diamond; diamond in the rough","fr":"(un) diamant brut","he":"יהלום גולמי"}
+{"L":"diamante falsa","C":["n"],"en":"false diamond, rhinestone","fr":"(un) faux diamant, (le) strass, (une) verroterie","he":"יהלום מזויף"}
 {"L":"diamantin","C":["a"],"en":"diamondlike, diamond-shaped","he":"דמוי יהלום"}
 {"T":"r","L":"diametre","C":["n","mat"],"d":"un linia reta cual pasa de un lado a la otra e tra la sentro de un corpo o forma, spesial un sirculo o sfera; la longia de esta","en":"diameter","he":"קוטר"}
-{"T":"r","L":"dianto","C":["n","pla"],"d":"un planta erbin de Eurasia, con flores rosa o blanca e bonodorosa, e folias magra e tipal grisin verde","i":"#","t":"Dianthus","en":"pink (plant)","he":"ציפורן (צמח)"}
-{"T":"r","L":"diapositiva","C":["n","arte"],"d":"un foto transparente en un montur, tipal capas de es projetada a un scermo","en":"slide (photography)","he":"שקופית"}
-{"T":"r","L":"diarca","C":["n","ist","gov"],"d":"un de la du renores en un diarcia","en":"diarch (governor)","he":"שליט בדיארכיה"}
-{"L":"diarcia","C":["n"],"d":"un governa con du renores autonom","en":"diarchy, dyarchy","he":"דיארכיה"}
-{"T":"r","L":"diarea","C":["n","med"],"d":"un maladia en cual fece licuida es frecuente descargada","en":"diarrhea|oe","he":"(רפואה) שלשול"}
-{"T":"r","L":"diaspora","C":["n","uma"],"d":"un sperde de un popla de sua loca orijinal a tra la mundo","en":"diaspora","he":"פזורה, גולה, תפוצה"}
-{"T":"r","L":"diastole","C":["n","bio"],"d":"la fase en la bateta de cor cuando la musculo reposa e permete ce la cameras pleni con sangue","en":"diastole (biology)","he":"דיאסטולה"}
-{"L":"diastolal","C":["a"],"en":"diastolic","he":"דיאסטולי"}
-{"T":"r","L":"diatomea","C":["n","bio"],"d":"un alge uniselulal, con mur de silica","i":"#","t":"Bacillariophyceae","en":"diatom (organism)","he":"אצה צורנית"}
-{"T":"r","L":"diatonica","C":["a","mus"],"d":"usante notas de un sola tonalia sin cambias cromatica","en":"diatonic","he":"דיאטוני"}
-{"T":"r","L":"diazepam","C":["n","med"],"d":"un medisin per destensa la musculos e calmi ansia","en":"diazepam, valium","he":"דיאזפאם, ואליום (תרופה)"}
-{"T":"r","L":"dicdic","C":["n"],"d":"un antilope nano de la savana seca de Africa","i":"#","t":"Madoqua","en":"dik-dik (antelope)","he":"דיקדיק (אנטילופה)"}
-{"T":"r","L":"dicoco","C":["a"],"d":"(un spesie de trigo) en cual cada spigeta conteni du granes","en":"emmer","he":"אמר (חיטה)"}
-{"T":"r","L":"dicotiledon","C":["n","bio"],"d":"un planta florinte con un embrio cual produi du cotiledones","en":"dicotyledon, dicot (botany)","he":"(בוטניקה) דו-פסיגי"}
-{"T":"r","L":"dicotomia","C":["n","fil"],"d":"un divide o contrasta entre du cosas oposada o diferente; (en botanica) un rami repetente a du partes egal","en":"dichotomy","he":"דיכוטומיה"}
-{"L":"dicotomial","C":["a"],"en":"dichotomous","he":"דיכוטומי"}
-{"T":"r","L":"dicromata","C":["a","med"],"d":"con du colores; (un retina) capas de responde a du colores","en":"dichromatic","he":"דו-צבעי"}
-{"T":"r","L":"didje","C":["n","mus"],"d":"un person ci presenta e jua musica rejistrada, spesial a la radio o un discoteca","en":"deejay, DJ, disc jockey","he":"תקליטן, די-ג'יי"}
-{"T":"r","L":"didjeridu","C":["n","mus"],"d":"un strumento de venta, orijinal usada par australianes orijinal, composada de un tubo longa de lenio, cual produi un sona basa e resonante cual on varia ritmosa par asentuas de vose","i":"#","p":"didjeridú","en":"didgeridoo, didjeridu","he":"דידג'רידו (כלי נגינה)"}
-{"T":"r","L":"dierese","C":["n","ling"],"d":"un sinieta de du puntos supra un vocal per indica ce lo no parteni a un diftongo","en":"dieresis|diaeresis (diacritic)","he":"דיארסיס, טרמה"}
-{"T":"r","L":"dies","C":["a","mus"],"d":"(un nota) plu alta par un semitono ca un nota spesifada; (un strumento o nota) malajustada e sonante supra la altia espetada","en":"sharp (music)","he":"(מוזיקה) דיאז, נסק"}
-{"L":"dies","C":["n"],"en":"sharp (music)","he":"(מוזיקה) דיאז, נסק"}
-{"T":"r","L":"dieta","C":["vnt","med"],"d":"la spesie de comedas abitual per un person, animal o comunia; un colie de comedas a cual on restrinje se, tipal per redui obesia o per razonas medical","en":"diet","he":"לשמור על דיאטה"}
-{"L":"dieta","C":["n"],"en":"diet","he":"דיאטה"}
-{"L":"dieta intensa","C":["n"],"en":"crash diet","he":"דיאטת בזק"}
-{"L":"dietal","C":["a"],"en":"dietary","he":"דיאטי"}
-{"L":"dietiste","C":["n"],"en":"dietician","he":"דיאטן, תזונאי"}
-{"L":"dietor","C":["n"],"en":"dieter","he":"(אדם ש) שומר על דיאטה"}
-{"T":"r","L":"difere","C":["vnt"],"d":"no es la mesma; no es simil","en":"differ","es":"disentir, diferir, no estar de acuerdo con, no convenir con","fr":"différer","he":"להיבדל, להיות שונה"}
-{"L":"difere","C":["n"],"da":"forskel","de":"sich unterscheiden","en":"difference","he":"הבדל, שוני"}
-{"L":"diferente","C":["a"],"u":"el es multe diferente de sua frate","da":"forskellig","de":"verschieden","en":"different, disparate, unlike","es":"diferente, distinto","fr":"différent","he":"שונה, מובדל, נבדל"}
-{"T":"r","L":"diferensia","C":["vt","mat"],"d":"cambia (un funsiona) a sua derivada","en":"differentiate (mathematics)","he":"(מתמטיקה) לגזור"}
-{"L":"diferensia","C":["n"],"en":"differentiation","he":"(מתמטיקה) גזירה"}
-{"L":"diferensial","C":["a"],"en":"differential","he":"דיפרנציאלי"}
-{"L":"diferensial","C":["n"],"d":"un difere infinita peti entre valuas seguente de un variable","en":"differential","he":"דיפרנציאל"}
-{"T":"r","L":"difisil","C":["a"],"d":"no fasil; nesesante multe labora o capasia per es atenida, fada o comprendeda","da":"svær, vanskelig, hård","de":"schwierig","en":"difficult, hard, awkward; abstruse","es":"difícil, duro, dificultoso, trabajoso, penoso, arduo","fr":"difficile","he":"קשה (לא קל)"}
-{"L":"difisil","C":["av"],"en":"awkwardly, with difficulty","he":"בקושי, עם מאמץ"}
-{"L":"difisil","C":["n"],"en":"difficulty, issue","he":"קושי (עניין קשה)"}
-{"L":"difisili","C":["vnt"],"en":"become difficult, get harder","he":"להפוך לקשה"}
-{"L":"difisili","C":["vt"],"en":"make difficult, make harder","he":"להקשות"}
-{"L":"difisilia","C":["n"],"en":"difficulty (state), awkwardness","he":"קושי"}
-{"T":"r","L":"difrata","C":["vnt","fis"],"d":"(un raio de lus o otra sistem de ondas) sperde par pasa tra un abri magra o longo un borda","en":"diffract","he":"(פיזיקה) לעקוף"}
-{"L":"difrata","C":["n"],"en":"diffraction","he":"(פיזיקה) עקיפה, דיפרקציה"}
-{"T":"r","L":"difteria","C":["n","med"],"d":"un maladia baterial multe comunicable cual inflama la membranas mucosa","en":"diphtheria","he":"דיפתריה, קרמת"}
-{"T":"r","L":"diftongo","C":["n","ling"],"d":"un sona formida par combina du vocales en un sola silaba","en":"diphthong (vowel sound)","he":"דיפתונג, דו-תנועה"}
-{"L":"diftongi","C":["vnt"],"en":"diphthongize|is","he":"להפוך לדיפתונג"}
-{"L":"diftongi","C":["n"],"en":"diphthongization|is","he":"דיפתונגיזציה"}
-{"T":"r","L":"difusa","C":["vt","info"],"d":"transmete (un program o informa) par radio, televisa o otra media","en":"broadcast, diffuse, disseminate, spread","he":"לשדר"}
-{"L":"difusa","C":["n"],"en":"broadcast, telecast, broadcasting, diffusion, dissemination; airplay, airtime","he":"שידור"}
-{"L":"difusa de novas","C":["n"],"en":"newscast, news bulletin","he":"יומן חדשות"}
-{"L":"difusa simultan","C":["n"],"en":"simulcast","he":"שידור סימולטני"}
-{"L":"difusante","C":["n"],"en":"broadcaster (organization|is)","he":"גוף שידור"}
-{"L":"difusor","C":["n"],"en":"broadcaster (person)","he":"שדר, שדרן"}
-{"L":"redifusa","C":["vt"],"en":"rebroadcast","he":"לשדר בשידור חוזר"}
-{"T":"r","L":"digram","C":["n","ling"],"d":"un combina de du leteras cual representa un sola sona","en":"digraph","he":"ביגרף, דו-אות"}
-{"T":"r","L":"dijesta","C":["vt","bio"],"d":"rompe (comedas) en la stomaco e intestines per permete ce la corpo asorbe e usa los","en":"digest","he":"לעכל"}
-{"L":"dijesta","C":["n"],"en":"digestion","he":"עיכול"}
-{"L":"dijestal","C":["a"],"en":"digestive, alimentary","he":"עיכולי"}
-{"L":"dijestable","C":["a"],"en":"digestible","he":"שניתן לעיכול"}
-{"L":"maldijesta","C":["n"],"en":"indigestion","he":"קושי עיכול, פרע עיכול, דיספפסיה"}
-{"L":"nondijestable","C":["a"],"en":"indigestible","he":"שלא ניתן לעיכול"}
-{"T":"r","L":"dijitale","C":["n","pla","med"],"d":"un planta alta de Eurasia, con spigas vertical de flores con forma de ditos de gantos; un medisin preparada de la folias secida de esta, usada per stimula la musculos de cor","i":"#","t":"Digitalis","en":"digitalis, foxglove","he":"אצבעונית (צמח)"}
-{"T":"r","L":"dijito","C":["n","mat","info"],"d":"cada de la simboles per la numeros de 0 asta 9","en":"digit (numerical)","he":"ספרה"}
-{"L":"dijital","C":["a"],"d":"(un sinial o dato) espresada como un serie de la dijitos O e 1; pertinente a la usa de informa en tal forma","en":"digital","he":"ספרתי, דיגיטלי"}
-{"L":"dijitali","C":["vnt"],"en":"digitize|is, digitalize|is","he":"להפוך לדיגיטלי"}
-{"L":"dijitali","C":["vt"],"en":"digitize|is, digitalize|is","he":"לספרת"}
-{"T":"r","L":"dilata","C":["vnt","med"],"d":"deveni plu larga, vasta o abrida","en":"dilate","he":"(רפואה) להתרחב"}
-{"L":"dilata","C":["n"],"en":"dilation","he":"(רפואה) התרחבות"}
-{"L":"dilatador","C":["n"],"en":"dilator","he":"(רפואה) מרחיב, מפסק"}
-{"T":"r","L":"dildo","C":["n","uma"],"d":"un ojeto con forma de penis erijeda, usada per stimula sesal","en":"dildo","he":"דילדו"}
-{"T":"r","L":"dilema","C":["n","fil"],"d":"un situa en cual on debe fa un eleje difisil entre du o plu posibles, tipal egal desirada o nondesirada","en":"dilemma, quandary","he":"דילמה"}
-{"T":"r","L":"dilijente","C":["n","vec"],"d":"un caron per transporta pasajores sur un curso regulada, en la modo de un tren o bus","en":"stagecoach","he":"קרון"}
-{"T":"r","L":"dilui","C":["vt","cim"],"d":"ajunta acua o un otra disolvente a (un licuida); (metafor) ajusta (un situa) per fa ce lo deveni min intensa o problemosa","en":"dilute, water down","he":"לדלל, למהול"}
-{"L":"dilui","C":["n"],"en":"dilution","he":"דילול, מהילה"}
-{"L":"diluida","C":["a"],"en":"diluted, dilute","he":"מדולל, מהול"}
-{"T":"r","L":"Dimashq","C":["n","jeo"],"d":"la site capital de Suria","en":"Damascus","he":"דמשק"}
-{"T":"r","L":"dimension","C":["n","mat","fis"],"d":"un estende mesurable, como longia, largia, profondia o altia","en":"dimension","he":"ממד"}
-{"L":"con tre dimensiones","C":["a"],"en":"three-dimensional","he":"תלת-ממדי"}
-{"L":"dimensional","C":["a"],"en":"dimensional","he":"ממדי"}
-{"L":"en tre dimensiones","C":["av"],"en":"in three dimensions, three-dimensionally","he":"בתלת-ממד"}
-{"T":"r","L":"dimetre","C":["n","ling"],"d":"un linia de poesia composada de du metres","en":"dimeter (poetry)","he":"(שירה) דימטר"}
-{"T":"r","L":"diminui","C":["vnt"],"d":"deveni plu peti en grandia, cuantia, intensia, valua o grado","da":"formindske, krympe","de":"reduzieren, verringern, einlaufen, spitz zulaufen","en":"decrease, decrement, diminish, lessen, shrink, contract, taper, wane, dwindle; depreciate (in value)","es":"disminuir, decrementar, reducir, encoger, contraer","fr":"diminuir, rétrécir","he":"להצטמצם, להתמעט, לפחות, לקטון, להתכווץ"}
-{"L":"diminui","C":["vt"],"en":"decrease, diminish, lessen, reduce, shrink, mitigate","he":"לצמצם, להפחית, להקטין, לכווץ"}
-{"L":"diminui","C":["n"],"en":"decrease, diminution; depreciation","he":"צמצום, הפחתה, פיחות, הקטנה, כיווץ, הורדה; הצטמצמות, התקטנות, התכווצות, ירידה"}
-{"L":"diminuida","C":["a"],"en":"shrunken","he":"מצומצם, מופחת, מוקטן, מכווץ"}
-{"L":"diminuinte","C":["a"],"da":"tilspidset","en":"decreasing, shrinking, tapering, tapered","es":"ahusado, adelgazado gradualmente","fr":"effilé","he":"הולך ומתמעט"}
-{"T":"r","L":"dimorfe","C":["a","bio"],"d":"avente du formas distinguida","en":"dimorphic","he":"דימורפי, דו-צורני"}
-{"L":"dimorfia","C":["n"],"en":"dimorphism","he":"דימורפיזם, דו-צורניות"}
-{"T":"r","L":"dimsam","C":["n","cos"],"d":"un plato xines de bales peti de pasta, vaporida o fritada, conteninte plenintes diversa","i":"#","en":"dim sum (food)","he":"דים סאם (מאכל)"}
-{"T":"r","L":"dinamica","C":["n","fis"],"d":"la ramo de mecanica cual studia la move de corpos par fortes; un forte cual stimula cambia o progresa en un sistem o prosede","en":"dynamics; dynamic","he":"דינמיקה"}
-{"L":"dinamica de fluentes","C":["n","fis"],"en":"fluid dynamics","he":"דינמיקת זורמים"}
-{"L":"dinamical","C":["a"],"en":"dynamic, dynamical","he":"דינמי"}
-{"L":"dinamicisme","C":["n"],"en":"dynamism","he":"דינמיות"}
-{"T":"r","L":"dinamite","C":["n","cim","util"],"d":"un esplodente forte, composada de nitrogliserina miscada con un materia asorbente, tipal moldida a forma de bastos","i":"#","en":"dynamite","he":"דינמיט"}
-{"L":"dinamitor","C":["n"],"en":"dynamiter","he":"מפוצץ דינמיט"}
-{"T":"r","L":"dinamo","C":["n","util"],"d":"un macina per cambia enerjia macinal a enerjia eletrical","en":"dynamo","he":"דינמו"}
-{"T":"r","L":"dinamometre","C":["n","util"],"d":"un aparato cual mesura la potia produida par un motor","en":"dynamometer","he":"דינמומטר"}
-{"T":"r","L":"dinar","C":["n","mone"],"d":"la unia fundal de mone en Iran, Serbia, Urdun, Irac, Barain e Libia","en":"dinar (currency)","he":"דינר (מטבע)"}
-{"T":"r","L":"dinastia","C":["n","ist","gov"],"d":"un linia de renores erital de un nasion; un serie de persones de la mesma familia ci ave un rol importante en comersia, politica o un otra campo","en":"dynasty","he":"שושלת"}
-{"L":"dinastial","C":["a"],"en":"dynastic","he":"שושלתי"}
-{"T":"r","L":"dinastino","C":["n","ins"],"d":"un scarabe grande con un corno simil a lo de un rinosero","t":"Dynastinae","en":"rhinoceros beetle","he":"חיפושית קרנף"}
-{"T":"r","L":"dine","C":["n","fis"],"d":"un unia de forte, capas de aumenta la rapidia de un masa de un gram par un sentimetre per secondo a cada secondo, longo la dirije de la forte","en":"dyne (unit of force)","he":"דיין (מידה)"}
-{"T":"r","L":"dine","C":["a","dem"],"d":"pertinente a un popla de americanes orijinal de la statos de Mexico Nova e Arizona en la SUA, o a sua lingua","en":"Dine, Navaho, Navajo (person, language)","he":"נאוואחו (עם, שפה)"}
-{"L":"dine","C":["n"],"en":"Dine, Navaho, Navajo (person, language)","he":"נאוואחו (עם, שפה)"}
-{"T":"r","L":"dingo","C":["n","mam"],"d":"un can savaje o cuasi domada con pelo pal brun, trovada en Australia, introduida par la australianes orijinal","i":"#","t":"Canis lupus dingo","en":"dingo","he":"דינגו"}
-{"T":"r","L":"dinia","C":["n","uma"],"d":"la cualia de merita onora o respeta par sua manera calma","en":"dignity","he":"כבוד, מכובדות, הדרה, אצילות"}
-{"L":"dini","C":["vt"],"en":"dignify","he":"לכבד"}
-{"L":"diniosa","C":["a"],"en":"dignified, stately","he":"מכובד, הדור"}
-{"L":"nondinia","C":["n"],"en":"indignity","he":"השפלה, עלבון"}
-{"L":"nondiniosa","C":["a"],"en":"undignified","he":"לא מכובד"}
-{"T":"r","L":"dinosauro","C":["n"],"d":"un vertebrato estinguida de la mesozoica","t":"Dinosauria","en":"dinosaur","he":"דינוזאור"}
-{"T":"r","L":"dio","C":["n","rel","mit"],"d":"(en alga relijios) un spirito supraumana, adorada per sua potia; (en relijios monoteiste) la creor e renor de la universo e la fonte de tota autoria moral; la esente suprema","i":"#","da":"gud","de":"Gott","en":"god, deity; God; Allah","es":"dios, deidad","fr":"dieu","he":"אלוהים, אל"}
-{"L":"dio minor","C":["n"],"en":"minor god, demigod","he":"חצי אל"}
-{"L":"dio par macina","C":["n"],"en":"deus ex machina","he":"דאוס אקס מכינה"}
-{"L":"de dio","C":["a"],"en":"divine","he":"אלוהי, שמיימי, נשגב"}
-{"L":"diosa","C":["a"],"en":"numinous","he":"אלוהי, מלא קדושה"}
-{"L":"sin dio","C":["a"],"en":"godless","he":"בלי אלוהים"}
-{"T":"r","L":"diodo","C":["n","fis","info"],"d":"un semicondutador con du terminas, tipal permetente la flue de corente en un sola dirije; un tubo eletrical con du eletrodos (anodo e catodo)","en":"diode","he":"דיודה"}
-{"L":"diodo de lus","C":["n"],"en":"light-emitting diode, LED","he":"דיודה פולטת אור, לד"}
-{"T":"r","L":"dionia","C":["n","pla"],"d":"un planta peti carnivor de pantanes, con folias cual clui cuando los deteta un inseto","i":"#","t":"Dionaea muscipula","en":"Venus flytrap (plant)","he":"דיונאה, דיונאת הזבובים (צמח)"}
-{"T":"r","L":"Dioniso","C":["n","mit"],"d":"(en mitos elinica) la dio de vino, fertilia, teatro e estasia relijiosa","i":"#","en":"Dionysus","he":"דיוניסוס"}
-{"L":"dionisal","C":["a"],"en":"Dionysiac, Dionysian","he":"דיוניסי"}
-{"T":"r","L":"diosido","C":["n","cim"],"d":"un osido conteninte du atomes de osijen","en":"dioxide","he":"דו-תחמוצת"}
-{"L":"diosido de carbono","C":["n"],"en":"carbon dioxide","he":"פחמן דו-חמצני"}
-{"L":"diosido de silico","C":["n"],"en":"silicon dioxide, silica","he":"סיליקה, צורן דו-חמצני"}
-{"T":"r","L":"diosina","C":["n","cim"],"d":"un composada nosiva cual es un suproduida de alga prosedes de fabrica","en":"dioxin (substance)","he":"דיאוקסין"}
-{"T":"r","L":"diplo-","C":["pf","tecn"],"d":"duple","en":"diplo- (double)","he":"(קידומת טכנית) כפול"}
-{"T":"r","L":"diploide","C":["a","bio"],"d":"(un selula o nucleo) conteninte du grupos completa de cromosomas, un de cada jenitor; (un organisme) composada de selulas diploide","en":"diploid","he":"(ביולוגיה) דיפלואידי, דו-סדרתי"}
+{"T":"r","L":"dianto","C":["n","pla"],"d":"un planta erbin de Eurasia, con flores rosa o blanca e bonodorosa, e folias magra e tipal grisin verde","i":"#","t":"Dianthus","en":"pink (plant)","fr":"(un) œillet (plante)","he":"ציפורן (צמח)"}
+{"T":"r","L":"diapositiva","C":["n","arte"],"d":"un foto transparente en un montur, tipal capas de es projetada a un scermo","en":"slide (photography)","fr":"(une) diapositive (photographie)","he":"שקופית"}
+{"T":"r","L":"diarca","C":["n","ist","gov"],"d":"un de la du renores en un diarcia","en":"diarch (governor)","fr":"(un) dyarque","he":"שליט בדיארכיה"}
+{"L":"diarcia","C":["n"],"d":"un governa con du renores autonom","en":"diarchy, dyarchy","fr":"(une) dyarchie","he":"דיארכיה"}
+{"T":"r","L":"diarea","C":["n","med"],"d":"un maladia en cual fece licuida es frecuente descargada","en":"diarrhea|oe","fr":"(une) diarrhée","he":"(רפואה) שלשול"}
+{"T":"r","L":"diaspora","C":["n","uma"],"d":"un sperde de un popla de sua loca orijinal a tra la mundo","en":"diaspora","fr":"(une) diaspora","he":"פזורה, גולה, תפוצה"}
+{"T":"r","L":"diastole","C":["n","bio"],"d":"la fase en la bateta de cor cuando la musculo reposa e permete ce la cameras pleni con sangue","en":"diastole (biology)","fr":"(une) diastole (biologie)","he":"דיאסטולה"}
+{"L":"diastolal","C":["a"],"en":"diastolic","fr":"diastolique","he":"דיאסטולי"}
+{"T":"r","L":"diatomea","C":["n","bio"],"d":"un alge uniselulal, con mur de silica","i":"#","t":"Bacillariophyceae","en":"diatom (organism)","fr":"(une) diatomée (organisme)","he":"אצה צורנית"}
+{"T":"r","L":"diatonica","C":["a","mus"],"d":"usante notas de un sola tonalia sin cambias cromatica","en":"diatonic","fr":"diatonique","he":"דיאטוני"}
+{"T":"r","L":"diazepam","C":["n","med"],"d":"un medisin per destensa la musculos e calmi ansia","en":"diazepam, valium","fr":"(le) diazépam, (le) valium","he":"דיאזפאם, ואליום (תרופה)"}
+{"T":"r","L":"dicdic","C":["n"],"d":"un antilope nano de la savana seca de Africa","i":"#","t":"Madoqua","en":"dik-dik (antelope)","fr":"(un) dik-dik (antilope)","he":"דיקדיק (אנטילופה)"}
+{"T":"r","L":"dicoco","C":["a"],"d":"(un spesie de trigo) en cual cada spigeta conteni du granes","en":"emmer","fr":"(un) amidonnier (céréale)","he":"אמר (חיטה)"}
+{"T":"r","L":"dicotiledon","C":["n","bio"],"d":"un planta florinte con un embrio cual produi du cotiledones","en":"dicotyledon, dicot (botany)","fr":"(une) dicotylédone (botanique)","he":"(בוטניקה) דו-פסיגי"}
+{"T":"r","L":"dicotomia","C":["n","fil"],"d":"un divide o contrasta entre du cosas oposada o diferente; (en botanica) un rami repetente a du partes egal","en":"dichotomy","fr":"(une) dichotomie","he":"דיכוטומיה"}
+{"L":"dicotomial","C":["a"],"en":"dichotomous","fr":"dichotomique","he":"דיכוטומי"}
+{"T":"r","L":"dicromata","C":["a","med"],"d":"con du colores; (un retina) capas de responde a du colores","en":"dichromatic","fr":"dichromatique","he":"דו-צבעי"}
+{"T":"r","L":"didje","C":["n","mus"],"d":"un person ci presenta e jua musica rejistrada, spesial a la radio o un discoteca","en":"deejay, DJ, disc jockey","fr":"(un) DJ, (un) disc jockey","he":"תקליטן, די-ג'יי"}
+{"T":"r","L":"didjeridu","C":["n","mus"],"d":"un strumento de venta, orijinal usada par australianes orijinal, composada de un tubo longa de lenio, cual produi un sona basa e resonante cual on varia ritmosa par asentuas de vose","i":"#","p":"didjeridú","en":"didgeridoo, didjeridu","fr":"(un) didgeridoo, (un) didjeridoo","he":"דידג'רידו (כלי נגינה)"}
+{"T":"r","L":"dierese","C":["n","ling"],"d":"un sinieta de du puntos supra un vocal per indica ce lo no parteni a un diftongo","en":"dieresis|diaeresis (diacritic)","fr":"(un) tréma (signe); (une) diérèse (prononcer une diphtongue sur deux syllabes)","he":"דיארסיס, טרמה"}
+{"T":"r","L":"dies","C":["a","mus"],"d":"(un nota) plu alta par un semitono ca un nota spesifada; (un strumento o nota) malajustada e sonante supra la altia espetada","en":"sharp (music)","fr":"dièse (musique)","he":"(מוזיקה) דיאז, נסק"}
+{"L":"dies","C":["n"],"en":"sharp (music)","fr":"(un) dièse (musique)","he":"(מוזיקה) דיאז, נסק"}
+{"T":"r","L":"dieta","C":["vnt","med"],"d":"la spesie de comedas abitual per un person, animal o comunia; un colie de comedas a cual on restrinje se, tipal per redui obesia o per razonas medical","en":"diet","fr":"faire une diète, suivre un régime","he":"לשמור על דיאטה"}
+{"L":"dieta","C":["n"],"en":"diet","fr":"(un) régime, (une) diète","he":"דיאטה"}
+{"L":"dieta intensa","C":["n"],"en":"crash diet","fr":"(un) régime amaigrissant draconien, (un) régime drastique","he":"דיאטת בזק"}
+{"L":"dietal","C":["a"],"en":"dietary","fr":"diététique","he":"דיאטי"}
+{"L":"dietiste","C":["n"],"en":"dietician","fr":"(un) diététicien","he":"דיאטן, תזונאי"}
+{"L":"dietor","C":["n"],"en":"dieter","fr":"celui|celle qui suit un régime","he":"(אדם ש) שומר על דיאטה"}
+{"T":"r","L":"difere","C":["vnt"],"d":"no es la mesma; no es simil","en":"differ","es":"disentir, diferir, no estar de acuerdo con, no convenir con","fr":"différer, se différencier, diverger","he":"להיבדל, להיות שונה"}
+{"L":"difere","C":["n"],"da":"forskel","de":"sich unterscheiden","en":"difference","fr":"(une) différence","he":"הבדל, שוני"}
+{"L":"diferente","C":["a"],"u":"el es multe diferente de sua frate","da":"forskellig","de":"verschieden","en":"different, disparate, unlike","es":"diferente, distinto","fr":"différent, distinct, différencié, disparate","he":"שונה, מובדל, נבדל"}
+{"T":"r","L":"diferensia","C":["vt","mat"],"d":"cambia (un funsiona) a sua derivada","en":"differentiate (mathematics)","fr":"calculer une différentielle (mathématiques)","he":"(מתמטיקה) לגזור"}
+{"L":"diferensia","C":["n"],"en":"differentiation","fr":"(un) calcul différentiel","he":"(מתמטיקה) גזירה"}
+{"L":"diferensial","C":["a"],"en":"differential","fr":"différentiel","he":"דיפרנציאלי"}
+{"L":"diferensial","C":["n"],"d":"un difere infinita peti entre valuas seguente de un variable","en":"differential","fr":"(une) différentielle","he":"דיפרנציאל"}
+{"T":"r","L":"difisil","C":["a"],"d":"no fasil; nesesante multe labora o capasia per es atenida, fada o comprendeda","da":"svær, vanskelig, hård","de":"schwierig","en":"difficult, hard, awkward; abstruse","es":"difícil, duro, dificultoso, trabajoso, penoso, arduo","fr":"difficile, laborieux, ardu, dur, pénible, malaisé","he":"קשה (לא קל)"}
+{"L":"difisil","C":["av"],"en":"awkwardly, with difficulty","fr":"difficilement, avec difficulté, laborieusement, durement, péniblement, malaisément","he":"בקושי, עם מאמץ"}
+{"L":"difisil","C":["n"],"en":"difficulty, issue","fr":"(une) difficulté","he":"קושי (עניין קשה)"}
+{"L":"difisili","C":["vnt"],"en":"become difficult, get harder","fr":"devenir difficile","he":"להפוך לקשה"}
+{"L":"difisili","C":["vt"],"en":"make difficult, make harder","fr":"rendre difficile","he":"להקשות"}
+{"L":"difisilia","C":["n"],"en":"difficulty (state), awkwardness","fr":"(la) difficulté (état), (la) maladresse","he":"קושי"}
+{"T":"r","L":"difrata","C":["vnt","fis"],"d":"(un raio de lus o otra sistem de ondas) sperde par pasa tra un abri magra o longo un borda","en":"diffract","fr":"diffracter","he":"(פיזיקה) לעקוף"}
+{"L":"difrata","C":["n"],"en":"diffraction","fr":"(une) diffraction","he":"(פיזיקה) עקיפה, דיפרקציה"}
+{"T":"r","L":"difteria","C":["n","med"],"d":"un maladia baterial multe comunicable cual inflama la membranas mucosa","en":"diphtheria","fr":"(la) diphtérie","he":"דיפתריה, קרמת"}
+{"T":"r","L":"diftongo","C":["n","ling"],"d":"un sona formida par combina du vocales en un sola silaba","en":"diphthong (vowel sound)","fr":"(une) diphtongue","he":"דיפתונג, דו-תנועה"}
+{"L":"diftongi","C":["vnt"],"en":"diphthongize|is","fr":"diphtonguer","he":"להפוך לדיפתונג"}
+{"L":"diftongi","C":["n"],"en":"diphthongization|is","fr":"(une) diphtongaison","he":"דיפתונגיזציה"}
+{"T":"r","L":"difusa","C":["vt","info"],"d":"transmete (un program o informa) par radio, televisa o otra media","en":"broadcast, diffuse, disseminate, spread","fr":"diffuser","he":"לשדר"}
+{"L":"difusa","C":["n"],"en":"broadcast, telecast, broadcasting, diffusion, dissemination; airplay, airtime","fr":"(une) diffusion","he":"שידור"}
+{"L":"difusa de novas","C":["n"],"en":"newscast, news bulletin","fr":"(une) émission d'information, (les) infos, (un) journal","he":"יומן חדשות"}
+{"L":"difusa simultan","C":["n"],"en":"simulcast","fr":"(une) diffusion simultanée","he":"שידור סימולטני"}
+{"L":"difusante","C":["n"],"en":"broadcaster (organization|is)","fr":"(un) diffuseur","he":"גוף שידור"}
+{"L":"difusor","C":["n"],"en":"broadcaster (person)","fr":"(un) diffuseur","he":"שדר, שדרן"}
+{"L":"redifusa","C":["vt"],"en":"rebroadcast","fr":"rediffuser","he":"לשדר בשידור חוזר"}
+{"T":"r","L":"digram","C":["n","ling"],"d":"un combina de du leteras cual representa un sola sona","en":"digraph","fr":"(un) digramme","he":"ביגרף, דו-אות"}
+{"T":"r","L":"dijesta","C":["vt","bio"],"d":"rompe (comedas) en la stomaco e intestines per permete ce la corpo asorbe e usa los","en":"digest","fr":"digérer","he":"לעכל"}
+{"L":"dijesta","C":["n"],"en":"digestion","fr":"(la) digestion","he":"עיכול"}
+{"L":"dijestal","C":["a"],"en":"digestive, alimentary","fr":"digestif, alimentaire","he":"עיכולי"}
+{"L":"dijestable","C":["a"],"en":"digestible","fr":"digeste","he":"שניתן לעיכול"}
+{"L":"maldijesta","C":["n"],"en":"indigestion","fr":"(une) indigestion","he":"קושי עיכול, פרע עיכול, דיספפסיה"}
+{"L":"nondijestable","C":["a"],"en":"indigestible","fr":"indigeste","he":"שלא ניתן לעיכול"}
+{"T":"r","L":"dijitale","C":["n","pla","med"],"d":"un planta alta de Eurasia, con spigas vertical de flores con forma de ditos de gantos; un medisin preparada de la folias secida de esta, usada per stimula la musculos de cor","i":"#","t":"Digitalis","en":"digitalis, foxglove","fr":"(une) digitale","he":"אצבעונית (צמח)"}
+{"T":"r","L":"dijito","C":["n","mat","info"],"d":"cada de la simboles per la numeros de 0 asta 9","en":"digit (numerical)","fr":"(un) chiffre, (un) symbole graphique","he":"ספרה"}
+{"L":"dijital","C":["a"],"d":"(un sinial o dato) espresada como un serie de la dijitos O e 1; pertinente a la usa de informa en tal forma","en":"digital","fr":"digital","he":"ספרתי, דיגיטלי"}
+{"L":"dijitali","C":["vnt"],"en":"digitize|is, digitalize|is","fr":"se numériser","he":"להפוך לדיגיטלי"}
+{"L":"dijitali","C":["vt"],"en":"digitize|is, digitalize|is","fr":"numériser","he":"לספרת"}
+{"T":"r","L":"dilata","C":["vnt","med"],"d":"deveni plu larga, vasta o abrida","en":"dilate","fr":"dilater, se dilater","he":"(רפואה) להתרחב"}
+{"L":"dilata","C":["n"],"en":"dilation","fr":"(une) dilatation","he":"(רפואה) התרחבות"}
+{"L":"dilatador","C":["n"],"en":"dilator","fr":"(un) dilatateur","he":"(רפואה) מרחיב, מפסק"}
+{"T":"r","L":"dildo","C":["n","uma"],"d":"un ojeto con forma de penis erijeda, usada per stimula sesal","en":"dildo","fr":"(un) godemichet|godemiché","he":"דילדו"}
+{"T":"r","L":"dilema","C":["n","fil"],"d":"un situa en cual on debe fa un eleje difisil entre du o plu posibles, tipal egal desirada o nondesirada","en":"dilemma, quandary","fr":"(un) dilemme","he":"דילמה"}
+{"T":"r","L":"dilijente","C":["n","vec"],"d":"un caron per transporta pasajores sur un curso regulada, en la modo de un tren o bus","en":"stagecoach","fr":"(une) diligence","he":"קרון"}
+{"T":"r","L":"dilui","C":["vt","cim"],"d":"ajunta acua o un otra disolvente a (un licuida); (metafor) ajusta (un situa) per fa ce lo deveni min intensa o problemosa","en":"dilute, water down","fr":"diluer","he":"לדלל, למהול"}
+{"L":"dilui","C":["n"],"en":"dilution","fr":"(une) dilution","he":"דילול, מהילה"}
+{"L":"diluida","C":["a"],"en":"diluted, dilute","fr":"dilué","he":"מדולל, מהול"}
+{"T":"r","L":"Dimashq","C":["n","jeo"],"d":"la site capital de Suria","en":"Damascus","fr":"Damas","he":"דמשק"}
+{"T":"r","L":"dimension","C":["n","mat","fis"],"d":"un estende mesurable, como longia, largia, profondia o altia","en":"dimension","fr":"(une) dimension","he":"ממד"}
+{"L":"con tre dimensiones","C":["a"],"en":"three-dimensional","fr":"en trois dimensions, en 3D, tridimensionnel, en relief","he":"תלת-ממדי"}
+{"L":"dimensional","C":["a"],"en":"dimensional","fr":"dimensionnel","he":"ממדי"}
+{"L":"en tre dimensiones","C":["av"],"en":"in three dimensions, three-dimensionally","fr":"en trois dimensions, en 3D, en relief","he":"בתלת-ממד"}
+{"T":"r","L":"dimetre","C":["n","ling"],"d":"un linia de poesia composada de du metres","en":"dimeter (poetry)","fr":"(un) dimètre (poétique)","he":"(שירה) דימטר"}
+{"T":"r","L":"diminui","C":["vnt"],"d":"deveni plu peti en grandia, cuantia, intensia, valua o grado","da":"formindske, krympe","de":"reduzieren, verringern, einlaufen, spitz zulaufen","en":"decrease, decrement, diminish, lessen, shrink, contract, taper, wane, dwindle; depreciate (in value)","es":"disminuir, decrementar, reducir, encoger, contraer","fr":"décroître, diminuer, rétrécir, réduire, rapetisser, se déprécier","he":"להצטמצם, להתמעט, לפחות, לקטון, להתכווץ"}
+{"L":"diminui","C":["vt"],"en":"decrease, diminish, lessen, reduce, shrink, mitigate","fr":"faire diminuer, réduire, amenuiser, rabaisser, raccourcir, écourter, amoindrir, déprécier","he":"לצמצם, להפחית, להקטין, לכווץ"}
+{"L":"diminui","C":["n"],"en":"decrease, diminution; depreciation","fr":"(une) diminution, (un) réduction, (une) décroissance, (une) dépréciation","he":"צמצום, הפחתה, פיחות, הקטנה, כיווץ, הורדה; הצטמצמות, התקטנות, התכווצות, ירידה"}
+{"L":"diminuida","C":["a"],"en":"shrunken","fr":"diminué, réduit, déprécié","he":"מצומצם, מופחת, מוקטן, מכווץ"}
+{"L":"diminuinte","C":["a"],"da":"tilspidset","en":"decreasing, shrinking, tapering, tapered","es":"ahusado, adelgazado gradualmente","fr":"décroissant, rétrécissant, diminuant","he":"הולך ומתמעט"}
+{"T":"r","L":"dimorfe","C":["a","bio"],"d":"avente du formas distinguida","en":"dimorphic","fr":"dimorphe","he":"דימורפי, דו-צורני"}
+{"L":"dimorfia","C":["n"],"en":"dimorphism","fr":"(un) dimorphisme","he":"דימורפיזם, דו-צורניות"}
+{"T":"r","L":"dimsam","C":["n","cos"],"d":"un plato xines de bales peti de pasta, vaporida o fritada, conteninte plenintes diversa","i":"#","en":"dim sum (food)","fr":"(un) dimsum (cuisine)","he":"דים סאם (מאכל)"}
+{"T":"r","L":"dinamica","C":["n","fis"],"d":"la ramo de mecanica cual studia la move de corpos par fortes; un forte cual stimula cambia o progresa en un sistem o prosede","en":"dynamics; dynamic","fr":"(la) dynamique","he":"דינמיקה"}
+{"L":"dinamica de fluentes","C":["n","fis"],"en":"fluid dynamics","fr":"(la) dynamique des fluides","he":"דינמיקת זורמים"}
+{"L":"dinamical","C":["a"],"en":"dynamic, dynamical","fr":"dynamique","he":"דינמי"}
+{"L":"dinamicisme","C":["n"],"en":"dynamism","fr":"(le) dynamisme","he":"דינמיות"}
+{"T":"r","L":"dinamite","C":["n","cim","util"],"d":"un esplodente forte, composada de nitrogliserina miscada con un materia asorbente, tipal moldida a forma de bastos","i":"#","en":"dynamite","fr":"(la) dynamite","he":"דינמיט"}
+{"L":"dinamitor","C":["n"],"en":"dynamiter","fr":"(un) dynamiteur","he":"מפוצץ דינמיט"}
+{"T":"r","L":"dinamo","C":["n","util"],"d":"un macina per cambia enerjia macinal a enerjia eletrical","en":"dynamo","fr":"(une) dynamo","he":"דינמו"}
+{"T":"r","L":"dinamometre","C":["n","util"],"d":"un aparato cual mesura la potia produida par un motor","en":"dynamometer","fr":"(un) dynamomètre","he":"דינמומטר"}
+{"T":"r","L":"dinar","C":["n","mone"],"d":"la unia fundal de mone en Iran, Serbia, Urdun, Irac, Barain e Libia","en":"dinar (currency)","fr":"(un) dinar (monnaie)","he":"דינר (מטבע)"}
+{"T":"r","L":"dinastia","C":["n","ist","gov"],"d":"un linia de renores erital de un nasion; un serie de persones de la mesma familia ci ave un rol importante en comersia, politica o un otra campo","en":"dynasty","fr":"(une) dynastie","he":"שושלת"}
+{"L":"dinastial","C":["a"],"en":"dynastic","fr":"dynastique","he":"שושלתי"}
+{"T":"r","L":"dinastino","C":["n","ins"],"d":"un scarabe grande con un corno simil a lo de un rinosero","t":"Dynastinae","en":"rhinoceros beetle","fr":"(un) scarabée rhinocéros","he":"חיפושית קרנף"}
+{"T":"r","L":"dine","C":["n","fis"],"d":"un unia de forte, capas de aumenta la rapidia de un masa de un gram par un sentimetre per secondo a cada secondo, longo la dirije de la forte","en":"dyne (unit of force)","fr":"(une) dyne (unité de mesure de force)","he":"דיין (מידה)"}
+{"T":"r","L":"dine","C":["a","dem"],"d":"pertinente a un popla de americanes orijinal de la statos de Mexico Nova e Arizona en la SUA, o a sua lingua","en":"Dine, Navaho, Navajo (person, language)","fr":"navajo","he":"נאוואחו (עם, שפה)"}
+{"L":"dine","C":["n"],"en":"Dine, Navaho, Navajo (person, language)","fr":"(un) Navajo (personne); (le) navajo (langue)","he":"נאוואחו (עם, שפה)"}
+{"T":"r","L":"dingo","C":["n","mam"],"d":"un can savaje o cuasi domada con pelo pal brun, trovada en Australia, introduida par la australianes orijinal","i":"#","t":"Canis lupus dingo","en":"dingo","fr":"(un) dingo","he":"דינגו"}
+{"T":"r","L":"dinia","C":["n","uma"],"d":"la cualia de merita onora o respeta par sua manera calma","en":"dignity","fr":"(la) dignité","he":"כבוד, מכובדות, הדרה, אצילות"}
+{"L":"dini","C":["vt"],"en":"dignify","fr":"rendre digne, rendre respectable, élever, ennoblir","he":"לכבד"}
+{"L":"diniosa","C":["a"],"en":"dignified, stately","fr":"digne, noble, majestueux","he":"מכובד, הדור"}
+{"L":"nondinia","C":["n"],"en":"indignity","fr":"(une) indignité, (un) déshonneur, (une) ignominie","he":"השפלה, עלבון"}
+{"L":"nondiniosa","C":["a"],"en":"undignified","fr":"indigne, ignobl","he":"לא מכובד"}
+{"T":"r","L":"dinosauro","C":["n"],"d":"un vertebrato estinguida de la mesozoica","t":"Dinosauria","en":"dinosaur","fr":"(un) dinosaure","he":"דינוזאור"}
+{"T":"r","L":"dio","C":["n","rel","mit"],"d":"(en alga relijios) un spirito supraumana, adorada per sua potia; (en relijios monoteiste) la creor e renor de la universo e la fonte de tota autoria moral; la esente suprema","i":"#","da":"gud","de":"Gott","en":"god, deity; God; Allah","es":"dios, deidad","fr":"(un) dieu","he":"אלוהים, אל"}
+{"L":"dio minor","C":["n"],"en":"minor god, demigod","fr":"(un) demi-dieu","he":"חצי אל"}
+{"L":"dio par macina","C":["n"],"en":"deus ex machina","fr":"(un) deus ex machina","he":"דאוס אקס מכינה"}
+{"L":"de dio","C":["a"],"en":"divine","fr":"divin","he":"אלוהי, שמיימי, נשגב"}
+{"L":"diosa","C":["a"],"en":"numinous","fr":"numineux","he":"אלוהי, מלא קדושה"}
+{"L":"sin dio","C":["a"],"en":"godless","fr":"sans dieu","he":"בלי אלוהים"}
+{"T":"r","L":"diodo","C":["n","fis","info"],"d":"un semicondutador con du terminas, tipal permetente la flue de corente en un sola dirije; un tubo eletrical con du eletrodos (anodo e catodo)","en":"diode","fr":"(une) diode","he":"דיודה"}
+{"L":"diodo de lus","C":["n"],"en":"light-emitting diode, LED","fr":"(une) LED, (une) DEL, (une) diode électro-luminescente","he":"דיודה פולטת אור, לד"}
+{"T":"r","L":"dionia","C":["n","pla"],"d":"un planta peti carnivor de pantanes, con folias cual clui cuando los deteta un inseto","i":"#","t":"Dionaea muscipula","en":"Venus flytrap (plant)","fr":"(une) dionée attrape-mouche (plante)","he":"דיונאה, דיונאת הזבובים (צמח)"}
+{"T":"r","L":"Dioniso","C":["n","mit"],"d":"(en mitos elinica) la dio de vino, fertilia, teatro e estasia relijiosa","i":"#","en":"Dionysus","fr":"Dionysos, Bacchus","he":"דיוניסוס"}
+{"L":"dionisal","C":["a"],"en":"Dionysiac, Dionysian","fr":"dionysiaque","he":"דיוניסי"}
+{"T":"r","L":"diosido","C":["n","cim"],"d":"un osido conteninte du atomes de osijen","en":"dioxide","fr":"(un) dioxyde","he":"דו-תחמוצת"}
+{"L":"diosido de carbono","C":["n"],"en":"carbon dioxide","fr":"(le) dioxyde de carbone","he":"פחמן דו-חמצני"}
+{"L":"diosido de silico","C":["n"],"en":"silicon dioxide, silica","fr":"(le) dioxyde de silicium","he":"סיליקה, צורן דו-חמצני"}
+{"T":"r","L":"diosina","C":["n","cim"],"d":"un composada nosiva cual es un suproduida de alga prosedes de fabrica","en":"dioxin (substance)","fr":"(une) dioxine","he":"דיאוקסין"}
+{"T":"r","L":"diplo-","C":["pf","tecn"],"d":"duple","en":"diplo- (double)","fr":"diplo- (double)","he":"(קידומת טכנית) כפול"}
+{"T":"r","L":"diploide","C":["a","bio"],"d":"(un selula o nucleo) conteninte du grupos completa de cromosomas, un de cada jenitor; (un organisme) composada de selulas diploide","en":"diploid","fr":"diploïde","he":"(ביולוגיה) דיפלואידי, דו-סדרתי"}
 {"L":"diploide","C":["n"],"en":"diploid","he":"(ביולוגיה) דיפלואיד"}
-{"T":"r","L":"diploma","C":["n"],"d":"un documento donada par un scola o universia, cual mostra ce algun ia susede completi un curso de studia","en":"diploma, degree","he":"דיפלומה, תעודת גמר; תואר"}
-{"L":"diploma avansada","C":["n"],"en":"advanced degree","he":"תואר מתקדם"}
-{"L":"(diploma) dotoral","C":["n"],"en":"doctorate","he":"דוקטורט"}
-{"L":"(diploma) laural","C":["n"],"en":"bachelor's, baccalaureate","he":"תואר ראשון"}
-{"L":"(diploma) mestral","C":["n"],"en":"master's","he":"תואר שני"}
-{"T":"r","L":"diplomata","C":["a","gov"],"d":"pertinente a la maneja de relatas internasional; (metafor) tatosa","en":"diplomatic","he":"דיפלומטי"}
-{"L":"diplomata","C":["n"],"en":"diplomat, envoy, emissary","he":"דיפלומט"}
-{"L":"diplomatia","C":["n"],"en":"diplomacy","he":"דיפלומטיה"}
-{"L":"diplomatia navetal","C":["n"],"en":"shuttle diplomacy","he":"דיפלומטיה בדילוגים"}
-{"T":"r","L":"diplopia","C":["n","med"],"d":"la persepi simultan de du imajes de un vista o ojeto, tipal partal covrente lunlotra","en":"diplopia, double vision","he":"ראייה כפולה"}
-{"T":"r","L":"dipno","C":["n","pex"],"d":"un pex longa de acua dulse, con un o du sacos cual funsiona como pulmones e permete ce lo respira aira","i":"#","t":"Dipnoi","en":"lungfish","he":"דג ריאות"}
-{"T":"r","L":"dipolo","C":["n","fis","cim"],"d":"un duple de polos, separada en spasio, con cargas o magnetis egal e oposada; un molecula en cual un consentra de carga eletrical positiva es separada de un consentra de carga negativa","en":"dipole"}
-{"T":"r","L":"dipsaco","C":["n","pla"],"d":"un planta eurasian, alta e spinosa, con flores purpurin","i":"#","t":"Dipsacus","en":"teasel, teazle, teazel (plant)","he":"קרד (צמח)"}
-{"T":"r","L":"direta","C":["a"],"d":"estendente o movente de un loca a un otra par la via la plu corta, sin cambia dirije o para; seguente sin devia o pausa","da":"direkte, umiddelbar","de":"gerade","en":"direct, straight; immediate, instant, instantaneous; explicit, firsthand, outright","es":"directo, inmediato, recto, franco","fr":"direct","he":"ישיר; מיידי; מפורש; ממקור ראשון"}
-{"L":"direta","C":["av"],"en":"directly, immediately, instantly, straightaway, summarily, at once; expressly, explicitly","he":"ישירות; מייד, מיידית, תכף, תיכף; במפורש, מפורשות"}
-{"L":"direta cuando","C":["sj"],"en":"as soon as","he":"מייד כש, ברגע ש"}
-{"L":"difusa direta","C":["n"],"en":"live broadcast, live transmission, live program|programme","he":"שידור ישיר"}
-{"L":"nondireta","C":["a"],"en":"indirect, roundabout, circuitous, vicarious","he":"עקיף, בלתי ישיר"}
-{"T":"r","L":"direto","C":["n","gov","fil"],"d":"la autoria moral o legal per posese o oteni alga cosa o per ata en un modo spesifada","da":"ret, rettighed","de":"Recht","en":"right, just claim, entitlement; prerogative","es":"derecho, autoridad, privilegio, autorización","fr":"droit (de l'homme, etc.)","he":"זכות, זכאות"}
-{"L":"direto de autor","C":["n"],"en":"copyright","he":"זכות יוצרים"}
-{"L":"direto de vota","C":["n"],"en":"right to vote, suffrage, franchise","he":"זכות הצבעה"}
-{"L":"direto nativa de tera","C":["n"],"en":"native title, native land right","he":"זכות קרקע ילידית"}
-{"L":"direto natural","C":["n"],"en":"natural right, birthright","he":"זכות מלידה, זכות אבות"}
-{"L":"ave la direto","C":["v"],"en":"have the right, be entitled, be qualified","he":"להיות זכאי (למשהו)"}
-{"L":"diretos","C":["n","pl"],"en":"rights","he":"זכויות"}
-{"L":"diretos de autor","C":["n"],"en":"royalties","he":"זכויות יוצרים; תמלוגים"}
-{"T":"r","L":"dirije","C":["vt"],"d":"punta (alga cosa) afin lo fasa la loca a do lo va vade; controla la funsiona de; maneja o governa; supravide o controla (un comersia, sistem); supravide la atores e otra empleadas de (un filma o teatral)","da":"lede, administrere","de":"verwalten, managen","en":"direct, steer; manage, administer, administrate, orchestrate, operate, helm, run (business)","es":"administrar, dirigir, gobernar, gestionar","fr":"diriger","he":"לכוון, להכווין, לנתב; לנהל"}
-{"L":"dirije","C":["n"],"da":"retning","de":"Richten","en":"direction, heading, bearing; management, administration","es":"dirección, rumbo, sentido","fr":"direction","he":"כיוון, הכוונה, ניתוב; ניהול, אמרכלות; הנהלה, מנהל, מנהלה, אדמיניסטרציה"}
-{"L":"dirije se a","C":["v"],"en":"direct oneself to, address oneself to (audience, task)","he":"לפנות ל (קהל, מטלה)"}
-{"L":"de un dirije","C":["a"],"en":"one-way","he":"חד-סטרי, חד-כיווני"}
-{"L":"dirijador","C":["n"],"en":"router (computer)","he":"(מחשבים) נתב, ראוטר"}
-{"L":"dirijal","C":["a"],"en":"administrative, managerial","he":"ניהולי, מנהלי, אדמיניסטרטיבי"}
-{"L":"dirijor","C":["n"],"en":"director, executive, trustee, manager, administrator, operator, provost","he":"מנהל, מנהלן, אדמיניסטרטור, אמרכל, דירקטור"}
+{"T":"r","L":"diploma","C":["n"],"d":"un documento donada par un scola o universia, cual mostra ce algun ia susede completi un curso de studia","en":"diploma, degree","fr":"(un) diplôme","he":"דיפלומה, תעודת גמר; תואר"}
+{"L":"diploma avansada","C":["n"],"en":"advanced degree","fr":"(un) diplôme supérieur","he":"תואר מתקדם"}
+{"L":"(diploma) dotoral","C":["n"],"en":"doctorate","fr":"(le) doctorat","he":"דוקטורט"}
+{"L":"(diploma) laural","C":["n"],"en":"bachelor's, baccalaureate","fr":"(le) baccalauréat","he":"תואר ראשון"}
+{"L":"(diploma) mestral","C":["n"],"en":"master's","fr":"(la) maîtrise","he":"תואר שני"}
+{"T":"r","L":"diplomata","C":["a","gov"],"d":"pertinente a la maneja de relatas internasional; (metafor) tatosa","en":"diplomatic","fr":"diplomatique","he":"דיפלומטי"}
+{"L":"diplomata","C":["n"],"en":"diplomat, envoy, emissary","fr":"(un) diplomate","he":"דיפלומט"}
+{"L":"diplomatia","C":["n"],"en":"diplomacy","fr":"(la) diplomatie","he":"דיפלומטיה"}
+{"L":"diplomatia navetal","C":["n"],"en":"shuttle diplomacy","fr":"shuttle diplomacy, (la) diplomatie de la navette","he":"דיפלומטיה בדילוגים"}
+{"T":"r","L":"diplopia","C":["n","med"],"d":"la persepi simultan de du imajes de un vista o ojeto, tipal partal covrente lunlotra","en":"diplopia, double vision","fr":"(une) diplopie","he":"ראייה כפולה"}
+{"T":"r","L":"dipno","C":["n","pex"],"d":"un pex longa de acua dulse, con un o du sacos cual funsiona como pulmones e permete ce lo respira aira","i":"#","t":"Dipnoi","en":"lungfish","fr":"(un) dipneuste","he":"דג ריאות"}
+{"T":"r","L":"dipolo","C":["n","fis","cim"],"d":"un duple de polos, separada en spasio, con cargas o magnetis egal e oposada; un molecula en cual un consentra de carga eletrical positiva es separada de un consentra de carga negativa","en":"dipole","fr":"(un) dipôle, (un) bipole"}
+{"T":"r","L":"dipsaco","C":["n","pla"],"d":"un planta eurasian, alta e spinosa, con flores purpurin","i":"#","t":"Dipsacus","en":"teasel, teazle, teazel (plant)","fr":"(une) cardère","he":"קרד (צמח)"}
+{"T":"r","L":"direta","C":["a"],"d":"estendente o movente de un loca a un otra par la via la plu corta, sin cambia dirije o para; seguente sin devia o pausa","da":"direkte, umiddelbar","de":"gerade","en":"direct, straight; immediate, instant, instantaneous; explicit, firsthand, outright","es":"directo, inmediato, recto, franco","fr":"direct, immédiat, sans détour, spontané","he":"ישיר; מיידי; מפורש; ממקור ראשון"}
+{"L":"direta","C":["av"],"en":"directly, immediately, instantly, straightaway, summarily, at once; expressly, explicitly","fr":"directement, franchement, spontanément, immédiatement, aussitôt","he":"ישירות; מייד, מיידית, תכף, תיכף; במפורש, מפורשות"}
+{"L":"direta cuando","C":["sj"],"en":"as soon as","fr":"dès que, aussitôt que","he":"מייד כש, ברגע ש"}
+{"L":"difusa direta","C":["n"],"en":"live broadcast, live transmission, live program|programme","fr":"(une) transmission en direct, (une) émission en direct","he":"שידור ישיר"}
+{"L":"nondireta","C":["a"],"en":"indirect, roundabout, circuitous, vicarious","fr":"indirect, détourné","he":"עקיף, בלתי ישיר"}
+{"T":"r","L":"direto","C":["n","gov","fil"],"d":"la autoria moral o legal per posese o oteni alga cosa o per ata en un modo spesifada","da":"ret, rettighed","de":"Recht","en":"right, just claim, entitlement; prerogative","es":"derecho, autoridad, privilegio, autorización","fr":"(le) droit (de l'homme, etc.), (les) droits","he":"זכות, זכאות"}
+{"L":"direto de autor","C":["n"],"en":"copyright","fr":"(un) droit d'auteur","he":"זכות יוצרים"}
+{"L":"direto de vota","C":["n"],"en":"right to vote, suffrage, franchise","fr":"(un) droit de vote","he":"זכות הצבעה"}
+{"L":"direto nativa de tera","C":["n"],"en":"native title, native land right","fr":"(le) droit du sol","he":"זכות קרקע ילידית"}
+{"L":"direto natural","C":["n"],"en":"natural right, birthright","fr":"(les) droits naturels","he":"זכות מלידה, זכות אבות"}
+{"L":"ave la direto","C":["v"],"en":"have the right, be entitled, be qualified","fr":"avoir le droit, être qualifié, être autorisé","he":"להיות זכאי (למשהו)"}
+{"L":"diretos","C":["n","pl"],"en":"rights","fr":"(les) droits","he":"זכויות"}
+{"L":"diretos de autor","C":["n"],"en":"royalties","fr":"(les) droits d'auteur","he":"זכויות יוצרים; תמלוגים"}
+{"T":"r","L":"dirije","C":["vt"],"d":"punta (alga cosa) afin lo fasa la loca a do lo va vade; controla la funsiona de; maneja o governa; supravide o controla (un comersia, sistem); supravide la atores e otra empleadas de (un filma o teatral)","da":"lede, administrere","de":"verwalten, managen","en":"direct, steer; manage, administer, administrate, orchestrate, operate, helm, run (business)","es":"administrar, dirigir, gobernar, gestionar","fr":"diriger, gouverner, gérer, administrer","he":"לכוון, להכווין, לנתב; לנהל"}
+{"L":"dirije","C":["n"],"da":"retning","de":"Richten","en":"direction, heading, bearing; management, administration","es":"dirección, rumbo, sentido","fr":"(une) direction, (une) gestion, (une) administration","he":"כיוון, הכוונה, ניתוב; ניהול, אמרכלות; הנהלה, מנהל, מנהלה, אדמיניסטרציה"}
+{"L":"dirije se a","C":["v"],"en":"direct oneself to, address oneself to (audience, task)","fr":"se diriger vers","he":"לפנות ל (קהל, מטלה)"}
+{"L":"de un dirije","C":["a"],"en":"one-way","fr":"à sens unique","he":"חד-סטרי, חד-כיווני"}
+{"L":"dirijador","C":["n"],"en":"router (computer)","fr":"(un) routeur (informatique)","he":"(מחשבים) נתב, ראוטר"}
+{"L":"dirijal","C":["a"],"en":"administrative, managerial","fr":"administratif, gestionnaire","he":"ניהולי, מנהלי, אדמיניסטרטיבי"}
+{"L":"dirijor","C":["n"],"en":"director, executive, trustee, manager, administrator, operator, provost","fr":"(un) directeur, (un) dirigeant, (un) administrateur","he":"מנהל, מנהלן, אדמיניסטרטור, אמרכל, דירקטור"}
 {"L":"dirijor de selebra","C":["n"],"en":"event planner","he":"מפיק אירועים"}
-{"L":"dirijores","C":["n","pl"],"en":"administration, management, board (directors, trustees)","he":"צוות ניהול, ועד מנהל, דירקטוריון"}
-{"L":"en dirije a","C":["prep"],"en":"in the direction of, toward, towards","he":"לעבר, לקראת, כלפי, אל"}
-{"L":"maldirije","C":["vt"],"en":"misdirect","he":"להטעות"}
-{"L":"maldirije","C":["n"],"en":"misdirection","he":"הטעיה"}
-{"L":"nondirijeda","C":["a"],"en":"undirected, unaimed, aimless","he":"לא מכוון, ללא כיוון"}
-{"L":"redirije","C":["vt"],"en":"redirect, reroute, deflect","he":"לשנות כיוון, להסיט"}
-{"L":"redirije","C":["n"],"en":"redirection, deflection","he":"שינוי כיוון, הסטה"}
-{"L":"sudirijor","C":["n"],"en":"subdirector, subordinate director","he":"מנהל משנה"}
-{"T":"r","L":"dirndl","C":["n","vest"],"d":"un completa de vestes per femes en stilo tradisional alpan, composada de un roba, blusa e faldon","en":"dirndl (costume)","he":"דירנדל (לבוש)"}
+{"L":"dirijores","C":["n","pl"],"en":"administration, management, board (directors, trustees)","fr":"(un) conseil d'administration","he":"צוות ניהול, ועד מנהל, דירקטוריון"}
+{"L":"en dirije a","C":["prep"],"en":"in the direction of, toward, towards","fr":"en direction de, vers","he":"לעבר, לקראת, כלפי, אל"}
+{"L":"maldirije","C":["vt"],"en":"misdirect","fr":"mal diriger","he":"להטעות"}
+{"L":"maldirije","C":["n"],"en":"misdirection","fr":"(une) mauvaise direction, (une) mauvaise indication","he":"הטעיה"}
+{"L":"nondirijeda","C":["a"],"en":"undirected, unaimed, aimless","fr":"sans direction, sans but, non dirigé","he":"לא מכוון, ללא כיוון"}
+{"L":"redirije","C":["vt"],"en":"redirect, reroute, deflect","fr":"rediriger","he":"לשנות כיוון, להסיט"}
+{"L":"redirije","C":["n"],"en":"redirection, deflection","fr":"(une) redirection","he":"שינוי כיוון, הסטה"}
+{"L":"sudirijor","C":["n"],"en":"subdirector, subordinate director","fr":"(un) sous-directeur","he":"מנהל משנה"}
+{"T":"r","L":"dirndl","C":["n","vest"],"d":"un completa de vestes per femes en stilo tradisional alpan, composada de un roba, blusa e faldon","en":"dirndl (costume)","fr":"(un) dirndl, (une) robe tyrolienne","he":"דירנדל (לבוש)"}
 {"T":"r","L":"dis-","C":["pf","tecn"],"d":"mal, nonormal","en":"dys- (bad, abnormal)","he":"(קידומת טכנית) רע, לא תקין"}
 {"T":"r","L":"disacarido","C":["n","cim","cos"],"d":"cada de un clase de zucares de cual sua moleculas conteni restas de monosacaridos","en":"disaccharide","he":"דו-סוכר"}
 {"T":"r","L":"discalculia","C":["n","uma"],"d":"un descapasia cual difisili la aprende de aritmetica e la manipula de numeros","en":"dyscalculia","he":"דיסקלקוליה, הפרעת חישוב"}
@@ -13732,7 +13732,7 @@
 {"L":"itiopian","C":["n"],"en":"Ethiopian"}
 {"T":"r","L":"-ito","C":["sf","n","cim"],"d":"nominte sales o esteres de asidas con la coda `-osa`","en":"-ite"}
 {"T":"r","L":"itrio","C":["n","cim"],"d":"la elemento cimical con numero atomal 39, un metal blanca grisin","s":"Y (yttrium)","en":"yttrium (element)"}
-{"T":"r","L":"iu","C":["esc"],"d":"espresante repulsa","en":"ew, ugh, yuck, yuk, pooh (disgust)"}
+{"T":"r","L":"iu","C":["esc"],"d":"espresante repulsa","p":"iü","en":"ew, ugh, yuck, yuk, pooh (disgust)"}
 {"T":"r","L":"iuan","C":["n","mone"],"d":"la unia de mone en Jonguo","p":"yuan","en":"yuan (currency)"}
 {"T":"r","L":"iuan","C":["a","ist"],"d":"pertinente a la dinastia fundida par la mongoles, cual ia rena Jonguo de 1259 asta 1368","i":"#","p":"yuan","en":"Yuan (dynasty)"}
 {"T":"r","L":"iuca","C":["n","pla"],"d":"un planta en familia de agave, con folias rijida e spadin e spigas blanca e campanin, trovada en Mexico e SUA sude-ueste","i":"#","t":"Yucca","en":"yucca (plant)"}
@@ -27217,7 +27217,7 @@
 {"L":"segue la trasa de","C":["v"],"en":"track, follow the track of"}
 {"L":"segue un trasa","C":["v"],"en":"track, follow a track"}
 {"L":"sin un trasa","C":["a"],"en":"without a trace"}
-{"L":"teni trasa de","C":["v"],"en":"keep track of"}
+{"L":"teni un trasa de","C":["v"],"en":"keep track of"}
 {"L":"trasable","C":["a"],"en":"traceable"}
 {"L":"trasador","C":["n"],"en":"tracer"}
 {"T":"r","L":"traseria","C":["n","arci"],"d":"un obra ornosa de petra, con partes abrida como dentela, tipal suportante la vitro en fenetras de eglesas gotica","i":"#","en":"tracery (architecture)"}
