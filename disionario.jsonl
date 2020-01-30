@@ -5807,6 +5807,7 @@
 {"T":"r","L":"comprende","C":["vt"],"d":"persepi la sinifia intendeda de (un testo o person); persepi la sinifia, esplica o causa de (un cosa)","da":"forstå, opfatte","de":"verstehen","en":"understand, comprehend","es":"entender, comprender","fr":"comprendre, entendre, concevoir, saisir, réaliser, piger (familier), capter (familier)","he":"להבין"}
 {"L":"comprende","C":["n"],"en":"understanding, interpretation, comprehension, insight","fr":"(la) compréhension, (un) entendement","he":"הבנה"}
 {"L":"comprendable","C":["a"],"en":"understandable, intelligible, comprehensible","fr":"intelligible, compéhensible, accessible","he":"מובן, ברור"}
+{"L":"comprendable","C":["av"],"en":"understandably, of course"}
 {"L":"malcomprende","C":["vt"],"en":"misunderstand, misapprehend","fr":"mal comprendre, se méprendre sur, se tromper sur, méjuger","he":"להבין שלא כהלכה"}
 {"L":"malcomprende","C":["n"],"en":"misunderstanding","fr":"(une) méprise, (un) malentendu, (une) erreur, (une) mécompréhension","he":"אי-הבנה"}
 {"L":"noncomprendable","C":["a"],"en":"unintelligible, incomprehensible, inscrutable, unfathomable, fathomless","fr":"incompréhensible, inintelligible, inconcevale","he":"בלתי מובן, סתום"}
@@ -6606,6 +6607,7 @@
 {"L":"coroni","C":["n"],"en":"crowning, coronation","fr":"(un) couronnement","he":"הכתרה"}
 {"L":"coronin","C":["a"],"en":"crownlike, crown-shaped","fr":"en forme de couronne","he":"כתרי, דמוי-כתר"}
 {"L":"descoroni","C":["vt"],"en":"uncrown","he":"להדיח מלך/מלכה"}
+{"T":"r","L":"coronavirus","C":["n","bio","med"],"d":"cualce de un grupo de viruses cual causa maladias en mamales e avias, con particulas con franje coronin","en":"coronavirus"}
 {"T":"r","L":"coronel","C":["n","gov"],"d":"un ofisior militar de grado alta, supra un teninte e su un jeneral","en":"colonel","fr":"(un) colonel","he":"קולונל"}
 {"T":"r","L":"corpo","C":["n","anat"],"d":"la strutur fisical de un person o animal, incluinte la osos, carne e organos; la casco de un veculo; la sudivide major de un forte militar ativa; un colie de testos, spesial la obras completa de un autor spesifada o sur un sujeto spesifada","da":"krop, legeme","de":"Körper","en":"body (person, animal, vehicle); corps (military); corpus (texts)","es":"cuerpo","fr":"(un) corps (personne, animal, véhicule); (un) corps (armée); (un) corpus (textes)","he":"גוף; גיס, חיל; קורפוס"}
 {"L":"corpo de comunica","C":["n"],"en":"signals corps","fr":"le corps des Transmissions","he":"חיל הקשר"}
@@ -7462,7 +7464,7 @@
 {"L":"curso par coresponde","C":["n"],"en":"correspondence course","fr":"(un) cours par correspondance","he":"קורס בהתכתבות"}
 {"L":"curso projetada","C":["n"],"en":"itinerary, projected course","fr":"(un) itinéraire, (une) étude de trajet","he":"תוכנית מסע"}
 {"L":"cursos","C":["n","pl"],"en":"courses, curriculum","fr":"(un) programme d'enseignement","he":"תוכנית לימודים"}
-{"L":"estra cursos","C":["a"],"en":"extracurricular","fr":"parascolaire","he":"שמחוץ לתוכנית הלימודים"}
+{"L":"noncursal","C":["a"],"en":"extracurricular","fr":"parascolaire","he":"שמחוץ לתוכנית הלימודים"}
 {"T":"r","L":"cursor","C":["n","info"],"d":"un indicador movable sur un scermo de un computador, indicante la loca cual ta es afetada si la usor tape o clica","i":"indicador","en":"cursor (software)","fr":"(un) curseur (informatique)","he":"(מחשבים) סמן"}
 {"T":"r","L":"cursor","C":["n","avia"],"d":"un avia simil a un pluvial, capas de core rapida","i":"#","t":"Cursorius, Rhinoptilus","en":"courser (bird)","fr":"(un) courvite (oiseau)","he":"רץ מדבר (ציפור)"}
 {"T":"r","L":"curva","C":["a","mat"],"d":"con forma cual devia gradal de retia","da":"bøjet","de":"gebeugt","en":"curved, bent (naturally)","es":"doblado, torcido, curvo, curvado, chueco, encorvado, inclinado","fr":"courbe","he":"מעוקם, מעוקל (באופן טבעי)"}
@@ -8591,6 +8593,7 @@
 {"T":"r","L":"dogma","C":["n","rel"],"d":"un prinsipe o colie de prinsipes prescriveda par un autoria como la veria serta","en":"dogma","he":"דוגמה"}
 {"L":"dogmisme","C":["n"],"en":"dogmatism","he":"דוגמטיות"}
 {"L":"dogmosa","C":["a"],"en":"dogmatic","he":"דוגמטי"}
+{"T":"r","L":"dojinxi","C":["n","arte"],"d":"un obra japanes autopublicida, tipal un novela o libro de manga","en":"dojinshi"}
 {"T":"r","L":"dolar","C":["n","mone"],"d":"la unia fundal de mone en la SUA, Canada, Australia e alga otra nasiones","i":"#","en":"dollar","he":"דולר"}
 {"T":"r","L":"dole","C":["vnt","med"],"d":"sufri fisical o mental, como la resulta de maladia o feri","u":"me dole; mea gama dole","da":"skade, såre, lide","en":"feel pain, hurt, ache","es":"doler","fr":"avoir mal à","he":"לכאוב"}
 {"L":"dole","C":["vt"],"u":"mea sapatos dole me","de":"wehtun, verletzen","en":"cause pain to, pain, hurt, afflict","es":"herir, hacer daño, perjudicar, lastimar","fr":"faire mal à","he":"להכאיב"}
@@ -21620,6 +21623,7 @@
 {"L":"oso pubica","C":["n","anat"],"en":"pubic bone"}
 {"L":"pelo pubica","C":["n","anat"],"en":"pubic hair"}
 {"T":"r","L":"publica","C":["a","gov"],"d":"pertinente a la popla como un grupo intera; abrida a o compartida par tota persones de un rejion o pais; furnida par la governa e no par un compania autonom o comersial; envolveda en la ativias de la comunia, spesial en la governa; conoseda par multe persones, famosa; aveninte en la vide posible de cualcun, no privata","da":"offentlig","de":"öffentlich","en":"public","eo":"publika","es":"público","fr":"public","it":"pubblico","nl":"openbaar publiek, openbaar","pt":"público"}
+{"L":"autopublici","C":["vt"],"en":"self-publish"}
 {"L":"nonpublicida","C":["a"],"en":"unpublished"}
 {"L":"publici","C":["vnt"],"en":"be published, be released, be issued; air; drop (online)"}
 {"L":"publici","C":["vt"],"en":"publish, release, issue; air, broadcast; post (online)","es":"publicar","fr":"publier"}
