@@ -8502,13 +8502,6 @@
 {"L":"diuresica","C":["n","med"],"d":"un droga cual crese la produi de urina","en":"diuretic","fr":"diurétique","he":"משתן"}
 {"T":"r","L":"diurna","C":["a","bio"],"d":"pertinente a o aveninte en la dia, no la note; (un animal) ativa en la dia; (un flor) abrida sola en la dia","en":"daytime, diurnal","fr":"diurne","he":"פעיל יום"}
 {"T":"r","L":"diva","C":["n","rel","mit"],"d":"(en alga relijios) un dio fema","i":"#","en":"goddess; diva","fr":"(une) déesse","he":"אלה, אלילה; דיווה"}
-{"L":"divin","C":["a"],"en":"divine, godlike","fr":"divin, semblable à un dieu","he":"דמוי אל"}
-{"L":"divin","C":["n"],"en":"deity, godhead, deva","fr":"(une) déité, (une) divinité, (un) déva","he":"יישות אלוהית"}
-{"L":"divini","C":["vnt"],"en":"become divine","fr":"devenir divin, être divinisé, être déifié","he":"להפוך לאל"}
-{"L":"divini","C":["vt"],"en":"deify, apotheosize|is","fr":"diviniser, déifier","he":"לייחס מעמד אלוהי"}
-{"L":"divini","C":["n"],"en":"deification, apotheosis","fr":"(une) déification, (une) divinisation","he":"האלהה"}
-{"L":"divinia","C":["n"],"en":"divinity","fr":"(la) divinité, (le) caractère divin, (la) nature divine","he":"אלוהות"}
-{"L":"semidivin","C":["a"],"en":"semidivine","fr":"semblable à un demi-dieu","he":"חצי אלוהי"}
 {"T":"r","L":"divalente","C":["a","cim"],"d":"(un elemento o molecula) con valentia du","en":"divalent","fr":"bivalent, divalent","he":"(כימיה) דו-ערכי"}
 {"T":"r","L":"divali","C":["n"],"d":"un festa indu con lampas, selebrada en otobre o novembre","en":"Diwali, Deepavali (Hindu festival)","fr":"(le) Diwali (fête de la lumière, en Inde)","he":"דיוואלי (חג)"}
 {"T":"r","L":"Divehi","C":["n","jeo"],"c":"Male","d":"un pais composada de un cadena de isolas de coral en la Mar Indian, a sude-ueste de Srilanca","i":"#","v":"Maldives","en":"Maldives","fr":"(les) Maldives","he":"האיים המלדיביים"}
@@ -8549,6 +8542,13 @@
 {"L":"sudivide","C":["vt"],"en":"subdivide","fr":"subdiviser","he":"לחלק לחלוקת משנה"}
 {"L":"sudivide","C":["n"],"en":"subdivision","fr":"(une) subdivision","he":"חלוקת משנה"}
 {"T":"r","L":"dividendo","C":["n","mone"],"d":"la cuantia de sua profitas o reservas cual un compania paia periodal (tipal a un ves per anio) a sua asionores","en":"dividend","fr":"(un) dividende (finance)","he":"דיבידנד"}
+{"T":"r","L":"divin","C":["a"],"en":"divine, godlike","fr":"divin, semblable à un dieu","he":"דמוי אל"}
+{"L":"divin","C":["n"],"en":"deity, godhead, deva","fr":"(une) déité, (une) divinité, (un) déva","he":"יישות אלוהית"}
+{"L":"divini","C":["vnt"],"en":"become divine","fr":"devenir divin, être divinisé, être déifié","he":"להפוך לאל"}
+{"L":"divini","C":["vt"],"en":"deify, apotheosize|is","fr":"diviniser, déifier","he":"לייחס מעמד אלוהי"}
+{"L":"divini","C":["n"],"en":"deification, apotheosis","fr":"(une) déification, (une) divinisation","he":"האלהה"}
+{"L":"divinia","C":["n"],"en":"divinity","fr":"(la) divinité, (le) caractère divin, (la) nature divine","he":"אלוהות"}
+{"L":"semidivin","C":["a"],"en":"semidivine","fr":"semblable à un demi-dieu","he":"חצי אלוהי"}
 {"T":"r","L":"divina","C":["vt","rel","mit"],"d":"estima o suposa (alga cosa) sin informa sufisinte per es serta","da":"gætte","de":"vermuten","en":"guess, conjecture, speculate","es":"conjeturar, adivinar, suponer, creer","fr":"deviner, supposer, conjecturer, prévoir, prédire, pressentir","he":"לנחש, לשער"}
 {"L":"divina","C":["n"],"en":"guess, speculation, guesswork","fr":"(une) spéculation, (une) prévision, (une) supposition, (une) prédiction","he":"ניחוש, השערה, ספקולציה"}
 {"L":"divina informada","C":["n"],"en":"educated guess","fr":"(une) supposition basée sur l'expérience","he":"ניחוש מושכל"}
@@ -8576,133 +8576,133 @@
 {"L":"djuang","C":["n","dem"],"en":"Zhuang (person, language)","fr":"(un) Zhuang (personne); (le) zhuang (langue)","he":"ז'ואנג (עם, שפה)"}
 {"T":"r","L":"do","C":["av"],"d":"(demandante o introduinte un suproposa ajetivin) en cual loca o situa; a cual loca, o en cual dirije","u":"do es la porte?; do nos vade?; me no sabe do la porte es; un parte de la pais do on bisicli multe","da":"hvor, hvorhenne","de":"wo","en":"(interrogative) where; (relative) where","es":"donde, adonde, en donde, por donde","fr":"où","he":"איפה, היכן"}
 {"L":"do","C":["sj"],"d":"(introduinte un suproposa averbin) en la loca en cual, o (pos un preposada) la loca en cual","u":"me es felis do me senta; los escava su do on ia trova la osos","en":"where","fr":"où","he":"היכן ש, במקום ש"}
-{"L":"a do","C":["av"],"da":"hvorhenne","en":"to where, where to, whither","he":"לאן"}
+{"L":"a do","C":["av"],"da":"hvorhenne","en":"to where, where to, whither","fr":"où","he":"לאן"}
 {"L":"de do","C":["av"],"en":"from where, where from, whence","fr":"d'où","he":"מאיפה, מהיכן","ru":"откуда"}
-{"L":"sempre do","C":["sj"],"en":"wherever","he":"לא משנה איפה"}
+{"L":"sempre do","C":["sj"],"en":"wherever","fr":"où que (+ subjonctif)","he":"לא משנה איפה"}
 {"T":"r","L":"do","C":["n","mus"],"d":"la nota prima de la scala de C major, C, en la sistem de solfejo","en":"do (musical note)","fr":"ut, do","he":"(מוזיקה) דו"}
-{"T":"r","L":"doberman","C":["n","mam"],"d":"un can grande de raza deutx, con mandibulas potiosa e pelo lisa, tipal negra con marcas brun","i":"#","en":"Dobermann|Doberman (dog)","he":"דוברמן (כלב)"}
-{"T":"r","L":"dobro","C":["n","mus"],"d":"un spesie de gitar acustical con discos resonante de aser en la corpo, su la ponte","i":"#","en":"dobro (guitar)","he":"דוברו (גיטרה)"}
-{"T":"r","L":"doca","C":["n","arci"],"d":"un area de acua encluida en un porto per la carga, descarga e repara de barcos","i":"#","en":"dock, wharf","he":"רציף, מזח, מבדוק"}
-{"L":"doci","C":["vt"],"en":"dock","he":"לעגון"}
-{"L":"docor","C":["n"],"en":"docker, dock worker, longshoreman, stevedore","he":"סוור"}
-{"T":"r","L":"documento","C":["n","info","gov"],"d":"un cosa scriveda, primida o eletronical cual conteni informas o atestas, o cual servi como un arcivo ofisial; un de estas cual atesta alga fato como la nase, sposi, o mori de un person, la completi de un curso de studia, o la posese de un cosa spesifada","en":"document, certificate","he":"מסמך, תעודה"}
-{"L":"documento de nase","C":["n"],"en":"birth certificate","he":"תעודת לידה"}
-{"L":"documenti","C":["vt"],"en":"document","he":"לתעד"}
-{"L":"documenti","C":["n"],"en":"documentation (action)","he":"תיעוד (פעולה)"}
-{"L":"documentos","C":["n","pl"],"en":"documents, documentation","he":"תיעוד, מסמכים"}
-{"L":"documentos de identia","C":["n","pl"],"en":"identity documents, credentials","he":"מסמכי זיהוי"}
-{"L":"documentos de rexerca","C":["n","pl"],"en":"research material, research documents","he":"חומר מחקר"}
-{"L":"documentos fondal","C":["n","pl"],"en":"background material, background documents","he":"חומר רקע"}
-{"L":"documentos orijinal","C":["n","pl"],"en":"source material, source documents","he":"מסמכים מקוריים"}
-{"L":"nondocumentida","C":["a"],"en":"undocumented","he":"לא מתועד"}
-{"L":"sin documentos","C":["a"],"en":"undocumented","he":"ללא מסמכים, לא מתועד"}
-{"T":"r","L":"dodo","C":["n","avia"],"d":"un avia estinguida e no capas de vola, con corpo spesa, alas corta, testa grande, e beco pesosa e oncin","i":"#","t":"Raphus cucullatus","en":"dodo (bird)","he":"דודו (ציפור)"}
-{"T":"r","L":"dogma","C":["n","rel"],"d":"un prinsipe o colie de prinsipes prescriveda par un autoria como la veria serta","en":"dogma","he":"דוגמה"}
-{"L":"dogmisme","C":["n"],"en":"dogmatism","he":"דוגמטיות"}
-{"L":"dogmosa","C":["a"],"en":"dogmatic","he":"דוגמטי"}
-{"T":"r","L":"dojinxi","C":["n","arte"],"d":"un obra japanes autopublicida, tipal un novela o libro de manga","en":"dojinshi"}
-{"T":"r","L":"dolar","C":["n","mone"],"d":"la unia fundal de mone en la SUA, Canada, Australia e alga otra nasiones","i":"#","en":"dollar","he":"דולר"}
-{"T":"r","L":"dole","C":["vnt","med"],"d":"sufri fisical o mental, como la resulta de maladia o feri","u":"me dole; mea gama dole","da":"skade, såre, lide","en":"feel pain, hurt, ache","es":"doler","fr":"avoir mal à","he":"לכאוב"}
-{"L":"dole","C":["vt"],"u":"mea sapatos dole me","de":"wehtun, verletzen","en":"cause pain to, pain, hurt, afflict","es":"herir, hacer daño, perjudicar, lastimar","fr":"faire mal à","he":"להכאיב"}
-{"L":"dole","C":["n"],"da":"smerte","de":"Pein","en":"pain, hurt, ache, suffering, affliction, gyp","es":"dolor","fr":"douleur","he":"כאב, מכאוב"}
-{"L":"dole agu","C":["n"],"en":"sharp pain, pang","he":"כאב חד"}
-{"L":"dole de cor","C":["n"],"en":"heartache (metaphor)","he":"כאב לב"}
-{"L":"dole de dente","C":["n"],"en":"toothache","he":"כאב שיניים"}
-{"L":"dole de dorso","C":["n"],"en":"backache, back pain","he":"כאב גב"}
-{"L":"dole de mundo","C":["n"],"en":"world-weariness, Weltschmerz","he":"צער העולם, ולטשמרץ"}
-{"L":"dole de orea","C":["n"],"en":"earache","he":"כאב אוזניים"}
-{"L":"dole de stomaco","C":["n"],"en":"stomach ache","he":"כאב בטן"}
-{"L":"dole de testa","C":["n"],"en":"headache","he":"כאב ראש"}
-{"L":"dole de ventre","C":["n"],"en":"bellyache","he":"כאב בטן"}
-{"L":"dolable","C":["a"],"en":"vulnerable","he":"פגיע"}
-{"L":"dolente","C":["a"],"en":"hurtful","he":"מכאיב, פוגעני"}
-{"L":"doles de mori","C":["n"],"en":"death throes","he":"חבלי מוות"}
-{"L":"doleta","C":["vnt"],"en":"ache","he":"לכאוב (כאב חלש)"}
-{"L":"doleta","C":["n"],"en":"ache","he":"כאב חלש"}
-{"L":"doletosa","C":["a"],"en":"achy, aching","he":"כואב (כאב חלש)"}
-{"L":"dolon","C":["n"],"en":"agony, extreme pain","he":"כאב קיצוני, סבל, ייסורים"}
-{"L":"dolosa","C":["a"],"en":"painful, sore","he":"כואב, כאוב"}
-{"L":"sin dole","C":["a"],"en":"painless","he":"חסר כאבים"}
-{"T":"r","L":"dolico-","C":["pf","tecn"],"d":"longa","en":"dolicho- (long)","he":"(קידומת טכנית) ארוך"}
-{"T":"r","L":"dolina","C":["n","tera"],"d":"un caveta en la tera, tipal en roca madral de calcario, causada par erode o colasa","i":"#","en":"sinkhole, swallowhole, swallet, doline","he":"בולען"}
-{"L":"dolineta","C":["n"],"en":"pothole","he":"מהמורה, בור (בכביש)"}
-{"L":"dolinetosa","C":["a"],"en":"potholed","he":"מלא מהמורות"}
-{"T":"r","L":"dolmen","C":["n","uma","ist"],"d":"un tomba megalital, composada de un roca plata e grande reposante sur du rocas vertical, trovada xef en Frans e Britan Grande","i":"#","en":"dolmen (tomb)","he":"דולמן (קבר)"}
-{"T":"r","L":"dolomita","C":["n","tera"],"d":"un mineral diafana, composada de calsio e magnesio; un roca deponeda, xef composada de esta","en":"dolomite (mineral)","he":"דולומיט"}
-{"T":"r","L":"doma","C":["vt","uma"],"d":"eleva e instrui (un animal) afin lo deveni plu fasil per controla","en":"domesticate, tame","he":"לביית; לאלף"}
-{"L":"doma esibal","C":["n"],"en":"dressage","he":"רכיבה אמנותית"}
-{"L":"domada","C":["a"],"en":"domesticated, tame, domestic","he":"מבויית; מאולף"}
+{"T":"r","L":"doberman","C":["n","mam"],"d":"un can grande de raza deutx, con mandibulas potiosa e pelo lisa, tipal negra con marcas brun","i":"#","en":"Dobermann|Doberman (dog)","fr":"(un) doberman","he":"דוברמן (כלב)"}
+{"T":"r","L":"dobro","C":["n","mus"],"d":"un spesie de gitar acustical con discos resonante de aser en la corpo, su la ponte","i":"#","en":"dobro (guitar)","fr":"(un) dobro (guitare, marque)","he":"דוברו (גיטרה)"}
+{"T":"r","L":"doca","C":["n","arci"],"d":"un area de acua encluida en un porto per la carga, descarga e repara de barcos","i":"#","en":"dock, wharf","fr":"(un) dock, (un) quai","he":"רציף, מזח, מבדוק"}
+{"L":"doci","C":["vt"],"en":"dock","fr":"mettre à quai","he":"לעגון"}
+{"L":"docor","C":["n"],"en":"docker, dock worker, longshoreman, stevedore","fr":"(un) docker","he":"סוור"}
+{"T":"r","L":"documento","C":["n","info","gov"],"d":"un cosa scriveda, primida o eletronical cual conteni informas o atestas, o cual servi como un arcivo ofisial; un de estas cual atesta alga fato como la nase, sposi, o mori de un person, la completi de un curso de studia, o la posese de un cosa spesifada","en":"document, certificate","fr":"(un) document, (un) acte, (un) certificat, (une) attestation, (un) titre (de propriété)","he":"מסמך, תעודה"}
+{"L":"documento de nase","C":["n"],"en":"birth certificate","fr":"(un) acte de naissance","he":"תעודת לידה"}
+{"L":"documenti","C":["vt"],"en":"document","fr":"documenter","he":"לתעד"}
+{"L":"documenti","C":["n"],"en":"documentation (action)","fr":"(la) documentation (action)","he":"תיעוד (פעולה)"}
+{"L":"documentos","C":["n","pl"],"en":"documents, documentation","fr":"(des) documents, (une) documentation","he":"תיעוד, מסמכים"}
+{"L":"documentos de identia","C":["n","pl"],"en":"identity documents, credentials","fr":"(des) papiers d'identité","he":"מסמכי זיהוי"}
+{"L":"documentos de rexerca","C":["n","pl"],"en":"research material, research documents","fr":"(un) matériau de recherche, (des) documents de recherche","he":"חומר מחקר"}
+{"L":"documentos fondal","C":["n","pl"],"en":"background material, background documents","fr":"(des) documents de référence","he":"חומר רקע"}
+{"L":"documentos orijinal","C":["n","pl"],"en":"source material, source documents","fr":"(des) sources (documents)","he":"מסמכים מקוריים"}
+{"L":"nondocumentida","C":["a"],"en":"undocumented","fr":"non documenté","he":"לא מתועד"}
+{"L":"sin documentos","C":["a"],"en":"undocumented","fr":"non documenté","he":"ללא מסמכים, לא מתועד"}
+{"T":"r","L":"dodo","C":["n","avia"],"d":"un avia estinguida e no capas de vola, con corpo spesa, alas corta, testa grande, e beco pesosa e oncin","i":"#","t":"Raphus cucullatus","en":"dodo (bird)","fr":"(un) dodo (oiseau)","he":"דודו (ציפור)"}
+{"T":"r","L":"dogma","C":["n","rel"],"d":"un prinsipe o colie de prinsipes prescriveda par un autoria como la veria serta","en":"dogma","fr":"(un) dogme","he":"דוגמה"}
+{"L":"dogmisme","C":["n"],"en":"dogmatism","fr":"(le) dogmatisme","he":"דוגמטיות"}
+{"L":"dogmosa","C":["a"],"en":"dogmatic","fr":"dogmatique","he":"דוגמטי"}
+{"T":"r","L":"dojinxi","C":["n","arte"],"d":"un obra japanes autopublicida, tipal un novela o libro de manga","en":"dojinshi","fr":"(un) dôjinshi (manga amateur)"}
+{"T":"r","L":"dolar","C":["n","mone"],"d":"la unia fundal de mone en la SUA, Canada, Australia e alga otra nasiones","i":"#","en":"dollar","fr":"(un) dollar","he":"דולר"}
+{"T":"r","L":"dole","C":["vnt","med"],"d":"sufri fisical o mental, como la resulta de maladia o feri","u":"me dole; mea gama dole","da":"skade, såre, lide","en":"feel pain, hurt, ache","es":"doler","fr":"avoir mal à, souffrir","he":"לכאוב"}
+{"L":"dole","C":["vt"],"u":"mea sapatos dole me","de":"wehtun, verletzen","en":"cause pain to, pain, hurt, afflict","es":"herir, hacer daño, perjudicar, lastimar","fr":"faire mal à, blesser","he":"להכאיב"}
+{"L":"dole","C":["n"],"da":"smerte","de":"Pein","en":"pain, hurt, ache, suffering, affliction, gyp","es":"dolor","fr":"(une) douleur","he":"כאב, מכאוב"}
+{"L":"dole agu","C":["n"],"en":"sharp pain, pang","fr":"(une) douleur aiguë","he":"כאב חד"}
+{"L":"dole de cor","C":["n"],"en":"heartache (metaphor)","fr":"(une) peine de cœur","he":"כאב לב"}
+{"L":"dole de dente","C":["n"],"en":"toothache","fr":"(un) mal de dents","he":"כאב שיניים"}
+{"L":"dole de dorso","C":["n"],"en":"backache, back pain","fr":"(un) mal de dos","he":"כאב גב"}
+{"L":"dole de mundo","C":["n"],"en":"world-weariness, Weltschmerz","fr":"ennui","he":"צער העולם, ולטשמרץ"}
+{"L":"dole de orea","C":["n"],"en":"earache","fr":"(un) mal d'oreille, otite","he":"כאב אוזניים"}
+{"L":"dole de stomaco","C":["n"],"en":"stomach ache","fr":"(un) mal d'estomac","he":"כאב בטן"}
+{"L":"dole de testa","C":["n"],"en":"headache","fr":"(un) mal de tête, (une) migraine","he":"כאב ראש"}
+{"L":"dole de ventre","C":["n"],"en":"bellyache","fr":"(un) mal de ventre","he":"כאב בטן"}
+{"L":"dolable","C":["a"],"en":"vulnerable","fr":"vulnérable, blessable","he":"פגיע"}
+{"L":"dolente","C":["a"],"en":"hurtful","fr":"blessant","he":"מכאיב, פוגעני"}
+{"L":"doles de mori","C":["n"],"en":"death throes","fr":"(les) affres de la mort","he":"חבלי מוות"}
+{"L":"doleta","C":["vnt"],"en":"ache","fr":"avoir une douleur, peiner, être souffrant","he":"לכאוב (כאב חלש)"}
+{"L":"doleta","C":["n"],"en":"ache","fr":"(une) douleur","he":"כאב חלש"}
+{"L":"doletosa","C":["a"],"en":"achy, aching","fr":"douloureux, endolori","he":"כואב (כאב חלש)"}
+{"L":"dolon","C":["n"],"en":"agony, extreme pain","fr":"(une) souffrance aiguë","he":"כאב קיצוני, סבל, ייסורים"}
+{"L":"dolosa","C":["a"],"en":"painful, sore","fr":"douloureux","he":"כואב, כאוב"}
+{"L":"sin dole","C":["a"],"en":"painless","fr":"indolore","he":"חסר כאבים"}
+{"T":"r","L":"dolico-","C":["pf","tecn"],"d":"longa","en":"dolicho- (long)","fr":"dolicho- (long)","he":"(קידומת טכנית) ארוך"}
+{"T":"r","L":"dolina","C":["n","tera"],"d":"un caveta en la tera, tipal en roca madral de calcario, causada par erode o colasa","i":"#","en":"sinkhole, swallowhole, swallet, doline","fr":"(une) doline","he":"בולען"}
+{"L":"dolineta","C":["n"],"en":"pothole","fr":"(un) nid de poule","he":"מהמורה, בור (בכביש)"}
+{"L":"dolinetosa","C":["a"],"en":"potholed","fr":"en nid de poule","he":"מלא מהמורות"}
+{"T":"r","L":"dolmen","C":["n","uma","ist"],"d":"un tomba megalital, composada de un roca plata e grande reposante sur du rocas vertical, trovada xef en Frans e Britan Grande","i":"#","en":"dolmen (tomb)","fr":"(un) dolmen","he":"דולמן (קבר)"}
+{"T":"r","L":"dolomita","C":["n","tera"],"d":"un mineral diafana, composada de calsio e magnesio; un roca deponeda, xef composada de esta","en":"dolomite (mineral)","fr":"(la) dolomite (minéral)","he":"דולומיט"}
+{"T":"r","L":"doma","C":["vt","uma"],"d":"eleva e instrui (un animal) afin lo deveni plu fasil per controla","en":"domesticate, tame","fr":"domestiquer, élever, apprivoiser","he":"לביית; לאלף"}
+{"L":"doma esibal","C":["n"],"en":"dressage","fr":"(un) dressage","he":"רכיבה אמנותית"}
+{"L":"domada","C":["a"],"en":"domesticated, tame, domestic","fr":"domestiqué, domestique, dressé","he":"מבויית; מאולף"}
 {"T":"r","L":"doman","C":["av"],"d":"a la dia pos oji","da":"i morgen","de":"morgen","en":"tomorrow","es":"mañana","fr":"demain","he":"מחר"}
-{"L":"doman","C":["n"],"en":"tomorrow","he":"מחר"}
-{"L":"a la dia pos doman","C":["av"],"en":"the day after tomorrow","he":"מחרתיים"}
-{"T":"r","L":"domina","C":["vt","gov","uma"],"d":"ave potia e un influe controlante a; (un construida) ocupa un loca major supra (sua ambiente)","en":"dominate, domineer, subjugate, exert power over; predominate, prevail, obtain","he":"לשלוט"}
-{"L":"domina","C":["n"],"da":"underkastelse","en":"domination, dominion, domain, sovereignty, predomination, preponderance","he":"שליטה, ריבונות, שררה; עליונות; תחום שליטה"}
-{"L":"domina publica","C":["n"],"en":"public domain","he":"רשות הרבים, נחלת הכלל"}
-{"L":"dominante","C":["a"],"en":"dominant, domineering, predominant; mainstream","he":"שולט, דומיננטי, מוביל, בעל משקל; שתלטני; בזרם המרכזי"}
-{"L":"dominor","C":["n"],"en":"dominator, dominatrix","he":"שליט"}
-{"T":"r","L":"Dominica","C":["n","jeo","rel"],"c":"Roseau","d":"un isola e pais en la Antiles ueste","i":"#","en":"Dominica","he":"דומיניקה"}
-{"L":"dominican","C":["a"],"d":"pertinente a Dominica o la Republica Dominican; pertinente a un ordina de monces catolica ci segue la regulas de San Domingo","en":"Dominican (of Dominica, the Dominican Republic, or the monastic order)","he":"דומיניקני"}
-{"L":"dominican","C":["n","dem"],"en":"Dominican (of Dominica, the Dominican Republic, or the monastic order)","he":"דומיניקני"}
-{"L":"Republica Dominican","C":["n","jeo"],"c":"Santo Domingo","d":"un pais en la Mar Caribe en la parte este de Ispaniola","i":"#","en":"Dominican Republic","he":"הרפובליקה הדומיניקנית"}
-{"T":"r","L":"domino","C":["n","spo"],"d":"cada de 28 pesos peti e retangulo, marcada con entre zero e ses puntos a cada dui, usada en alga juas","i":"#","en":"domino","he":"(אבן) דומינו"}
-{"L":"dominos","C":["n","pl"],"d":"un jua en cual on atenta junta tota sua pesos a otra pesos","en":"dominoes (game)","he":"דומינו (משחק)"}
-{"T":"r","L":"dona","C":["vt"],"d":"move libre (un cosa cual on posese) a la posese de un otra person","da":"give","de":"geben","en":"give, contribute, donate, impart, pass, hand, confer, grant, endow, bestow, award, vouchsafe","es":"entregar, dar, regalar, ceder, donar","fr":"donner","he":"לתת, למסור, להעניק, לתרום"}
-{"L":"dona","C":["n"],"en":"contribution, donation, grant, endowment","he":"נתינה, מסירה, הענקה; תרומה, מענק"}
-{"L":"dona acua a","C":["v"],"en":"water (animals)","he":"להשקות (בעלי חיים)"}
-{"L":"dona lete a","C":["v"],"en":"nurse (give milk to)","he":"להניק"}
-{"L":"dona un titulo a","C":["v"],"en":"entitle","he":"לתת כותרת"}
-{"L":"donada","C":["a"],"en":"given","he":"ניתן, נמסר, הוענק, מוענק, נתרם"}
-{"L":"donada","C":["n"],"en":"present, gift, donation, contribution; tip, pourboire","he":"מתנה, שי; תרומה; טיפ"}
-{"L":"donada a Dio","C":["n"],"en":"oblation","he":"מנחה"}
-{"L":"donada de Dio","C":["n"],"en":"godsend","he":"מתנה משמיים"}
-{"L":"donada per studia","C":["n"],"en":"scholarship","he":"מלגה"}
-{"L":"donadas","C":["n","pl"],"en":"presents, gifts, largess|largesse","he":"מתנות, תרומות, עזרה חומרית"}
-{"L":"donor","C":["n"],"en":"giver, donor, donator","he":"תורם, נדבן"}
-{"L":"redona","C":["vt"],"da":"returnere","en":"give back, return","he":"להחזיר"}
-{"L":"redona","C":["n"],"en":"return","he":"החזרה, החזר"}
-{"L":"redona tro poca","C":["v"],"en":"shortchange","he":"להחזיר מעט מדי"}
-{"T":"r","L":"donce","C":["av"],"d":"par esta razona o causa","en":"therefore, so, then, consequently, thus, ergo, thereby","he":"לכן, עקב כך, בעקבות זאת, בשל כך, לפיכך, כתוצאה מכך"}
-{"L":"donce","C":["cj"],"u":"me pensa, donce me esiste","en":"therefore, so, and so, ergo","he":"ולכן"}
-{"L":"e donce?","C":["esc"],"en":"so what? (disinterest)","he":"אז מה?"}
-{"T":"r","L":"dongle","C":["n","info"],"d":"un aparato peti cual on junta a un computador, tipal per permete asede a un program o un lia sin filo","en":"dongle (device)","he":"דונגל, תקיע"}
-{"T":"r","L":"donut","C":["n","cos"],"d":"un torta peti e fritada de pasta dulse, tipal con forma de anelo o bal","i":"#","en":"doughnut, donut","he":"סופגניה"}
-{"T":"r","L":"dopamina","C":["n","cim","med"],"d":"un composada presente en la corpo como un neurotransmetador e como un presedente de otra composadas incluinte epinefrina","en":"dopamine","he":"דופמין"}
-{"T":"r","L":"dora","C":["vt","arte"],"d":"covre (alga cosa) con un strato magra de oro; (metafor) fa ce (alga cosa) pare plu bon ca lo es","en":"gild","he":"להזהיב"}
-{"L":"dora de fatos","C":["n"],"en":"spin (political)","he":"ספין (תקשורתי)"}
-{"L":"dora la lil","C":["v"],"en":"gild the lily","he":"לקשט ללא צורך"}
-{"L":"dorada","C":["a"],"en":"gilded, gilt","he":"מוזהב"}
-{"L":"doror","C":["n"],"en":"gilder","he":"מצפה בזהב"}
-{"L":"doror de fatos","C":["n"],"en":"spin doctor (gilder of facts)","he":"ספינולוג"}
-{"T":"r","L":"dorado","C":["n","pex"],"d":"un pex de acua dulse, con corpo oro e pinas roja, trovada en America Sude","i":"#","t":"Salminus maxillosus","en":"dorado (fish)","he":"דוראדו (דג)"}
-{"L":"Dorado","C":["n","ast"],"d":"un constela en la sielo sude","en":"Dorado (constellation)","he":"דג זהב (קבוצת כוכבים)"}
+{"L":"doman","C":["n"],"en":"tomorrow","fr":"(le) lendemain, demain","he":"מחר"}
+{"L":"a la dia pos doman","C":["av"],"en":"the day after tomorrow","fr":"après-demain","he":"מחרתיים"}
+{"T":"r","L":"domina","C":["vt","gov","uma"],"d":"ave potia e un influe controlante a; (un construida) ocupa un loca major supra (sua ambiente)","en":"dominate, domineer, subjugate, exert power over; predominate, prevail, obtain","fr":"dominer, dominer sur, subjuguer, exercer le pouvoir sur, contrôler, être le maître de, predominer sur; dominer (point culminant)","he":"לשלוט"}
+{"L":"domina","C":["n"],"da":"underkastelse","en":"domination, dominion, domain, sovereignty, predomination, preponderance","fr":"(une) domination, (une) prédominance, (une) prépondérance, (un) domaine","he":"שליטה, ריבונות, שררה; עליונות; תחום שליטה"}
+{"L":"domina publica","C":["n"],"en":"public domain","fr":"(le) domaine public","he":"רשות הרבים, נחלת הכלל"}
+{"L":"dominante","C":["a"],"en":"dominant, domineering, predominant; mainstream","fr":"dominant, prédominant","he":"שולט, דומיננטי, מוביל, בעל משקל; שתלטני; בזרם המרכזי"}
+{"L":"dominor","C":["n"],"en":"dominator, dominatrix","fr":"(un) dominateur|(une) dominatrice","he":"שליט"}
+{"T":"r","L":"Dominica","C":["n","jeo","rel"],"c":"Roseau","d":"un isola e pais en la Antiles ueste","i":"#","en":"Dominica","fr":"(la) Dominique","he":"דומיניקה"}
+{"L":"dominican","C":["a"],"d":"pertinente a Dominica o la Republica Dominican; pertinente a un ordina de monces catolica ci segue la regulas de San Domingo","en":"Dominican (of Dominica, the Dominican Republic, or the religious order)","fr":"dominicain (de la Dominique ou de la république Dominicaine, ou de l'ordre religieux dominicain)","he":"דומיניקני"}
+{"L":"dominican","C":["n","dem"],"en":"Dominican (of Dominica, the Dominican Republic, or the religious order)","fr":"(un) Dominicain (personne de la Dominique ou de la république dominicaine); (un) dominicain (religieux)","he":"דומיניקני"}
+{"L":"Republica Dominican","C":["n","jeo"],"c":"Santo Domingo","d":"un pais en la Mar Caribe en la parte este de Ispaniola","i":"#","en":"Dominican Republic","fr":"(la) République dominicaine","he":"הרפובליקה הדומיניקנית"}
+{"T":"r","L":"domino","C":["n","spo"],"d":"cada de 28 pesos peti e retangulo, marcada con entre zero e ses puntos a cada dui, usada en alga juas","i":"#","en":"domino","fr":"(un) domino","he":"(אבן) דומינו"}
+{"L":"dominos","C":["n","pl"],"d":"un jua en cual on atenta junta tota sua pesos a otra pesos","en":"dominoes (game)","fr":"(les) dominos","he":"דומינו (משחק)"}
+{"T":"r","L":"dona","C":["vt"],"d":"move libre (un cosa cual on posese) a la posese de un otra person","da":"give","de":"geben","en":"give, contribute, donate, impart, pass, hand, confer, grant, endow, bestow, award, vouchsafe","es":"entregar, dar, regalar, ceder, donar","fr":"donner, doter de, conférer, gratifier de, décerner","he":"לתת, למסור, להעניק, לתרום"}
+{"L":"dona","C":["n"],"en":"contribution, donation, grant, endowment","fr":"(un) don, (une) donation, (une) subvention, (une) dotation","he":"נתינה, מסירה, הענקה; תרומה, מענק"}
+{"L":"dona acua a","C":["v"],"en":"water (animals)","fr":"abreuver, verser à boire à, donner de l'eau à","he":"להשקות (בעלי חיים)"}
+{"L":"dona lete a","C":["v"],"en":"nurse (give milk to)","fr":"allaiter","he":"להניק"}
+{"L":"dona un titulo a","C":["v"],"en":"entitle","fr":"intituler, donner un titre à","he":"לתת כותרת"}
+{"L":"donada","C":["a"],"en":"given","fr":"donné","he":"ניתן, נמסר, הוענק, מוענק, נתרם"}
+{"L":"donada","C":["n"],"en":"present, gift, donation, contribution; tip, pourboire","fr":"(un) don, (une) offrande, (un) présent, (un) cadeau, (une) donation, (une) dotation, (une) contribution; (un) pourboire","he":"מתנה, שי; תרומה; טיפ"}
+{"L":"donada a Dio","C":["n"],"en":"oblation","fr":"(une) oblation, (une) offrande (à un dieu)","he":"מנחה"}
+{"L":"donada de Dio","C":["n"],"en":"godsend","fr":"(une) aubaine, (un) don du ciel","he":"מתנה משמיים"}
+{"L":"donada per studia","C":["n"],"en":"scholarship","fr":"(une) bourse (d'étude), (une) allocation","he":"מלגה"}
+{"L":"donadas","C":["n","pl"],"en":"presents, gifts, largess|largesse","fr":"(des) présents, (des) offrandes, (des) cadeaux, (des) largesses, (des) gratifications","he":"מתנות, תרומות, עזרה חומרית"}
+{"L":"donor","C":["n"],"en":"giver, donor, donator","fr":"(un) donateur|(une) donatrice, (un) bienfaiteur|(une) bienfaitrice","he":"תורם, נדבן"}
+{"L":"redona","C":["vt"],"da":"returnere","en":"give back, return","fr":"redonner, rendre (la monnaie)","he":"להחזיר"}
+{"L":"redona","C":["n"],"en":"return","fr":"(la) monnaie (rendue)","he":"החזרה, החזר"}
+{"L":"redona tro poca","C":["v"],"en":"shortchange","fr":"ne pas rendre assez à quelqu'un","he":"להחזיר מעט מדי"}
+{"T":"r","L":"donce","C":["av"],"d":"par esta razona o causa","en":"therefore, so, then, consequently, thus, ergo, thereby","fr":"donc, par conséquent, aussi, d'où, par suite","he":"לכן, עקב כך, בעקבות זאת, בשל כך, לפיכך, כתוצאה מכך"}
+{"L":"donce","C":["cj"],"u":"me pensa, donce me esiste","en":"therefore, so, and so, ergo","fr":"donc, aussi","he":"ולכן"}
+{"L":"e donce?","C":["esc"],"en":"so what? (disinterest)","fr":"et alors ? (marque de désintérêt)","he":"אז מה?"}
+{"T":"r","L":"dongle","C":["n","info"],"d":"un aparato peti cual on junta a un computador, tipal per permete asede a un program o un lia sin filo","en":"dongle (device)","fr":"(un) dongle (informatique)","he":"דונגל, תקיע"}
+{"T":"r","L":"donut","C":["n","cos"],"d":"un torta peti e fritada de pasta dulse, tipal con forma de anelo o bal","i":"#","en":"doughnut, donut","fr":"(un) donut (beignet d'origine nord-américaine)","he":"סופגניה"}
+{"T":"r","L":"dopamina","C":["n","cim","med"],"d":"un composada presente en la corpo como un neurotransmetador e como un presedente de otra composadas incluinte epinefrina","en":"dopamine","fr":"(la) dopamine","he":"דופמין"}
+{"T":"r","L":"dora","C":["vt","arte"],"d":"covre (alga cosa) con un strato magra de oro; (metafor) fa ce (alga cosa) pare plu bon ca lo es","en":"gild","fr":"dorer, patiner, redorer","he":"להזהיב"}
+{"L":"dora de fatos","C":["n"],"en":"spin (political)","fr":"conseiller (en communication) des personnalités politiques, donner des conseils en communication","he":"ספין (תקשורתי)"}
+{"L":"dora la lil","C":["v"],"en":"gild the lily","fr":"enjoliver","he":"לקשט ללא צורך"}
+{"L":"dorada","C":["a"],"en":"gilded, gilt","fr":"doré","he":"מוזהב"}
+{"L":"doror","C":["n"],"en":"gilder","fr":"doreur","he":"מצפה בזהב"}
+{"L":"doror de fatos","C":["n"],"en":"spin doctor (gilder of facts)","fr":"(un) conseiller en communication, (un) technicien en communication, (un) doreur d'images (expression canadienne)","he":"ספינולוג"}
+{"T":"r","L":"dorado","C":["n","pex"],"d":"un pex de acua dulse, con corpo oro e pinas roja, trovada en America Sude","i":"#","t":"Salminus maxillosus","en":"dorado (fish)","fr":"(une) daurade (poisson)","he":"דוראדו (דג)"}
+{"L":"Dorado","C":["n","ast"],"d":"un constela en la sielo sude","en":"Dorado (constellation)","fr":"(la) Dorade (constellation)","he":"דג זהב (קבוצת כוכבים)"}
 {"T":"r","L":"dormi","C":["vnt","bio"],"d":"reposa en un modo en cual la corpo e mente es relativa nonativa, tipal con oios cluida, musculos destensada, e consensia multe reduida","i":"#","da":"sove","de":"schlafen","en":"sleep","es":"dormir","fr":"dormir","he":"לישון, לנום"}
-{"L":"dormi","C":["n"],"en":"sleep, slumber, shuteye","he":"שינה, תרדמה"}
-{"L":"dormi paradoxal","C":["a"],"en":"REM sleep, paradoxical sleep","he":"שינת רע\"מ"}
-{"L":"dormi tro longa","C":["v"],"en":"oversleep","he":"לישון יתר על המידה"}
-{"L":"dormeria","C":["n"],"i":"#","en":"dormitory (sleeping quarters)","he":"אולם שינה"}
-{"L":"dormeta","C":["vnt"],"en":"doze, nap, snooze","he":"לנמנם"}
-{"L":"dormeta","C":["n"],"en":"doze, nap, snooze, siesta, catnap","he":"תנומה"}
-{"L":"dorminte","C":["a"],"en":"sleeping, asleep, dormant","he":"ישן, רדום"}
-{"L":"dormosa","C":["a"],"en":"sleepy, drowsy","he":"ישנוני, מנומנם"}
-{"L":"dormosia","C":["n"],"en":"sleepiness, drowsiness, somnolence","he":"ישנוניות"}
-{"L":"sin dormi","C":["a"],"en":"sleepless","he":"חסר שינה"}
-{"T":"r","L":"dorso","C":["n","anat"],"d":"la surfas a retro de la corpo umana, de la spalas asta la ancas; la surfas superior de la corpo de un animal; la parte de la covrente de un libro cual es vidable cuando la libro es sur un scafal, tipal indicante la titulo e nom de autor; la lado cual no es la lado xef de un cosa plata, como un moneta o medalia","i":"#","da":"ryg","de":"Rücken","en":"back, dorsal area; spine (book); reverse (side); tails (coin)","es":"espalda","fr":"dos","he":"גב; אחור, צד אחורי; פלי (מטבע)"}
-{"L":"dorso de mano","C":["n"],"en":"back of the hand","he":"גב כף היד"}
-{"L":"dorso de montania","C":["n"],"en":"mountain ridge","he":"רכס הרים"}
-{"L":"a dorso","C":["av"],"i":"#","en":"on one's back, piggyback","he":"על הגב"}
-{"L":"dorsal","C":["a"],"en":"dorsal, of the back","he":"גבי"}
-{"L":"dorsi","C":["vt"],"en":"put one's back to, turn one's back on","he":"לסובב את הגב, להפנות את הגב"}
-{"T":"r","L":"dosa","C":["vt","med"],"d":"dona un cuantia spesifada de un medisin o droga a (algun)","en":"dose","he":"למנן"}
-{"L":"dosa","C":["n"],"en":"dose, drench; jigger","he":"מינון; מנה (של תרופה)"}
-{"L":"supradosa","C":["vt"],"en":"overdose","he":"לקחת מנת יתר"}
-{"L":"supradosa","C":["n"],"en":"overdose","he":"מנת יתר"}
-{"T":"r","L":"dote","C":["n","mone","uma"],"d":"propria o mone cual un sposa nova trae a sua sposo cuando los sposi","en":"dowry","he":"נדוניה, מוהר"}
-{"L":"dote de bebe","C":["n"],"en":"layette","he":"סט בגדי תינוקות (במתנה)"}
-{"T":"r","L":"dotor","C":["n","med","fil"],"d":"un person ci ia completi la curso la plu alta per pratica medica, o en un sujeto a un universia","en":"doctor","he":"דוקטור"}
-{"L":"dotor medical","C":["n"],"i":"#","en":"medical doctor, physician","he":"רופא"}
-{"L":"dotoral","C":["a"],"en":"doctoral","he":"שקשור ללימודי דוקטורט"}
-{"T":"r","L":"dox","C":["n","info","uma"],"d":"un esposa a la interede de informa privata sur algun, sin sua permete, tipal per domina el","en":"dox (exposure of information)","he":"חשיפת מידע פרטי באינטרנט"}
-{"L":"doxi","C":["vt"],"en":"dox","he":"לחשוף מידע פרטי באינטרנט"}
+{"L":"dormi","C":["n"],"en":"sleep, slumber, shuteye","fr":"(un) sommeil","he":"שינה, תרדמה"}
+{"L":"dormi paradoxal","C":["n"],"en":"REM sleep, paradoxical sleep","fr":"(le) sommeil paradoxal","he":"שינת רע\"מ"}
+{"L":"dormi tro longa","C":["v"],"en":"oversleep","fr":"dormir trop longtemps, dormir trop, ne pas se réveiller à temps, se réveiller en retard","he":"לישון יתר על המידה"}
+{"L":"dormeria","C":["n"],"i":"#","en":"dormitory (sleeping quarters)","fr":"(un) dortoir","he":"אולם שינה"}
+{"L":"dormeta","C":["vnt"],"en":"doze, nap, snooze","fr":"sommeiller, somnoler, faire une sieste, faire un petit somme, s'assoupir","he":"לנמנם"}
+{"L":"dormeta","C":["n"],"en":"doze, nap, snooze, siesta, catnap","fr":"(une) sieste, (un) petit somme","he":"תנומה"}
+{"L":"dorminte","C":["a"],"en":"sleeping, asleep, dormant","fr":"dormant, endormi, assoupi","he":"ישן, רדום"}
+{"L":"dormosa","C":["a"],"en":"sleepy, drowsy","fr":"somnolent","he":"ישנוני, מנומנם"}
+{"L":"dormosia","C":["n"],"en":"sleepiness, drowsiness, somnolence","fr":"(une) somnolence","he":"ישנוניות"}
+{"L":"sin dormi","C":["a"],"en":"sleepless","fr":"sans sommeil, blanche (nuit)","he":"חסר שינה"}
+{"T":"r","L":"dorso","C":["n","anat"],"d":"la surfas a retro de la corpo umana, de la spalas asta la ancas; la surfas superior de la corpo de un animal; la parte de la covrente de un libro cual es vidable cuando la libro es sur un scafal, tipal indicante la titulo e nom de autor; la lado cual no es la lado xef de un cosa plata, como un moneta o medalia","i":"#","da":"ryg","de":"Rücken","en":"back, dorsal area; spine (book); reverse (side); tails (coin)","es":"espalda","fr":"(le) dos, (le) verso","he":"גב; אחור, צד אחורי; פלי (מטבע)"}
+{"L":"dorso de mano","C":["n"],"en":"back of the hand","fr":"(le) dos de la main","he":"גב כף היד"}
+{"L":"dorso de montania","C":["n"],"en":"mountain ridge","fr":"(une) crête (de montagne)","he":"רכס הרים"}
+{"L":"a dorso","C":["av"],"i":"#","en":"on one's back, piggyback","fr":"sur le dos","he":"על הגב"}
+{"L":"dorsal","C":["a"],"en":"dorsal, of the back","fr":"dorsal, du dos","he":"גבי"}
+{"L":"dorsi","C":["vt"],"en":"put one's back to, turn one's back on","fr":"tourner le dos à","he":"לסובב את הגב, להפנות את הגב"}
+{"T":"r","L":"dosa","C":["vt","med"],"d":"dona un cuantia spesifada de un medisin o droga a (algun)","en":"dose","fr":"doser","he":"למנן"}
+{"L":"dosa","C":["n"],"en":"dose, drench; jigger","fr":"(une) dose","he":"מינון; מנה (של תרופה)"}
+{"L":"supradosa","C":["vt"],"en":"overdose","fr":"surdoser","he":"לקחת מנת יתר"}
+{"L":"supradosa","C":["n"],"en":"overdose","fr":"(une) surdose, (une) overdose, (une) dose excessive","he":"מנת יתר"}
+{"T":"r","L":"dote","C":["n","mone","uma"],"d":"propria o mone cual un sposa nova trae a sua sposo cuando los sposi","en":"dowry","fr":"(une) dot","he":"נדוניה, מוהר"}
+{"L":"dote de bebe","C":["n"],"en":"layette","fr":"(une) layette","he":"סט בגדי תינוקות (במתנה)"}
+{"T":"r","L":"dotor","C":["n","med","fil"],"d":"un person ci ia completi la curso la plu alta per pratica medica, o en un sujeto a un universia","en":"doctor","fr":"(un) docteur","he":"דוקטור"}
+{"L":"dotor medical","C":["n"],"i":"#","en":"medical doctor, physician","fr":"(un) docteur en médecine, (un) médecin","he":"רופא"}
+{"L":"dotoral","C":["a"],"en":"doctoral","fr":"doctoral","he":"שקשור ללימודי דוקטורט"}
+{"T":"r","L":"dox","C":["n","info","uma"],"d":"un esposa a la interede de informa privata sur algun, sin sua permete, tipal per domina el","en":"dox (exposure of information)","fr":"(des) dox (document contenant des informations privées)","he":"חשיפת מידע פרטי באינטרנט"}
+{"L":"doxi","C":["vt"],"en":"dox","fr":"doxer (publier des informations privées sur internet)","he":"לחשוף מידע פרטי באינטרנט"}
 {"T":"r","L":"Dr","C":["c"],"d":"dotor","en":"Dr","he":"ד\"ר"}
 {"T":"r","L":"dracma","C":["n","mone"],"d":"la unia istorial de mone en Elas","en":"drachma (currency)","he":"דרכמה (מטבע)"}
 {"T":"r","L":"draga","C":["vt"],"d":"limpi la fondo de (un porto, rio o otra acua) par escava fango, malerbas e dejetadas con un aparato spesial; catura (pexes) par tira un rede grande tra la acua","en":"dredge, trawl","he":"לחפור (בקרקעית נהר); לדוג (באמצעות רשת מכמורת)"}
