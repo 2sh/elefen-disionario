@@ -2022,8 +2022,8 @@
 {"L":"asidi","C":["vt"],"en":"acidify, make sour","fr":"acidifier, rendre acide","he":"להפוך לחומצי, להפוך לחמוץ"}
 {"L":"asidi","C":["n"],"en":"acidification","fr":"acidification","he":"החמצה, הפיכה לחומצה"}
 {"L":"asidia","C":["n"],"en":"acidity, sourness, tartness","fr":"acidité","he":"חומציות, חמיצות"}
-{"T":"r","L":"asidente","C":["n"],"d":"un aveni nonfortunosa cual no es prevideda o intendeda, tipal causante un dana o feri","n":"Un aveni simil ma fortunosa es un `acaso`.","v":"acaso","an":"accidente","da":"uheld, tilfælde","de":"Unfall","en":"accident (mishap)","fr":"accident","gl":"accidente, infortunio","he":"תאונה, תקרית; מקרה"}
-{"L":"asidental","C":["a"],"d":"pertinente a, o causante, un asidente","en":"accidental","fr":"accidentel","he":"מקרי"}
+{"T":"r","L":"asidente","C":["a"],"d":"causante o pertinente a un aveni nonfortunosa, sin previde o intende, de cual sua resulta tipal e un dana o feri","n":"Un aveni nonprevideda ma fortunosa es `acaso`.","v":"acaso","en":"accidental","fr":"accidentel","he":"מקרי"}
+{"L":"asidente","C":["n"],"an":"accidente","da":"uheld, tilfælde","de":"Unfall","en":"accident (mishap)","fr":"accident","gl":"accidente, infortunio","he":"תאונה, תקרית; מקרה"}
 {"T":"r","L":"asidofilia","C":["n","bio"],"o":"acidus (asida) + elenica philia (amosa)","en":"acidophilia","fr":"acidophilie","he":"היכולת לגדול היטב בסביבה חומצית"}
 {"L":"asidofilica","C":["a"],"d":"tendente crese plu bon en situas asida; (un selula o sua contenidas) capas de es fasil colorida par tinjentes asida","en":"acidophilic","fr":"acidophile","he":"שגודל היטב בסביבה חומצית"}
 {"L":"asidofilica","C":["n"],"en":"acidophile","fr":"acidophile (biologie), acidiphile (botanique)","he":"אורגניזם שגודל היטב בסביבה חומצית"}
@@ -2330,7 +2330,7 @@
 {"L":"atribuida","C":["a"],"en":"attributed, credited","fr":"attribué, crédité","he":"מיוחס"}
 {"L":"atribuida","C":["n"],"en":"attribute, quality","fr":"attribut, qualité","he":"תכונה"}
 {"T":"r","L":"atricorno","C":["n","avia"],"d":"un avia cantante secretosa de Australia, con plumas brun e coda longa","i":"#","t":"Atrichornis","en":"scrub-bird","fr":"atrichorne (oiseau d'Australie)","he":"ציפור שיחים"}
-{"T":"r","L":"atrio","C":["n","anat","arte"],"d":"un salon o patio sentral, con salas o galerias a cada lado; un salon a la entra de un construida publica; cada de la du cavetas superior de la cor, de cual sangue es pasada a la ventriculos","i":"#","en":"atrium, hall, lobby, foyer, vestibule","fr":"atrium, hall, vestibule, foyer (salle)","he":"אטריום, מבואה, לובי, טרקלין, אולם כניסה; עליה (של הלב)"}
+{"T":"r","L":"atrio","C":["n","anat","arte"],"d":"un salon o patio sentral, con salas o galerias a cada lado; un salon a la entra de un construida publica; cada de la du cavetas superior de la cor, de cual sangue es pasada a la ventriculos","i":"#","en":"atrium, hall, lobby, foyer, vestibule, concourse","fr":"atrium, hall, vestibule, foyer (salle)","he":"אטריום, מבואה, לובי, טרקלין, אולם כניסה; עליה (של הלב)"}
 {"L":"atrio de presentores","C":["n"],"en":"green room","fr":"foyer des artistes","he":"חדר שחקנים"}
 {"L":"atrial","C":["a"],"en":"atrial"}
 {"T":"r","L":"atrofia","C":["vnt","med"],"d":"(un organo o texeda) dejenera e diminui, tipal par causa de dejenera de selulas, o deveni vestijial en evolui; (un capasia de mente o corpo) diminui gradal par causa de usa minima o descura","o":"de elinica a- (sin) + trophe (comedas)","en":"atrophy, wither","fr":"s'atrophier","he":"להדלדל, להתנוון"}
@@ -7575,6 +7575,7 @@
 {"T":"r","L":"Danubio, Rio","C":["n","jeo"],"d":"un rio cual comensa en Deutxland sude-ueste e fini en la Mar Negra","i":"Rio-Danubio","en":"River Danube","es":"Río Danubio","fr":"(le) Danube (fleuve)","he":"דנובה (נהר)","ru":"Дунай (река)"}
 {"T":"r","L":"Dardanelia, Streta","C":["n","jeo"],"d":"un streta liante la Mar Ejeo e la Mar Marmara","en":"Dardanelles","es":"Dardanelos","fr":"(le) détroit des Dardanelles","he":"דרדנלים (מצר)","ru":"Дарданеллы (обобщающее название нескольких проливов между европой и Азией)"}
 {"T":"r","L":"dardo","C":["n","spo"],"d":"un misil peti e puntida cual pote es lansada o xutada","i":"#","en":"dart","es":"dardo","fr":"(une) fléchette","he":"חץ (עם כנפיים)","ru":"дротик"}
+{"L":"dardi","C":["vnt"],"d":"move multe rapida como un dardo","en":"dart, pop"}
 {"T":"r","L":"darma","C":["n","rel"],"d":"(en induisme) la prinsipe de ordina de la universo, incluinte virtuas e obligas; (en budisme) la instruis o relijio de la Buda","en":"dharma (religion)","es":"dharma","fr":"(le) dharma, (l') enseignement du Bouddha, (la) Loi bouddhique","he":"(דת) דארמה","ru":"дхарма"}
 {"T":"r","L":"darmstatio","C":["n","cim"],"d":"la elemento cimical con numero atomal 110","s":"Ds","en":"darmstadtium (element)","es":"darmstatio","fr":"(le) darmstadtium (élément)","he":"דרמשטאדטיום (יסוד)","ru":"дармшта́дтий"}
 {"T":"r","L":"darvix","C":["n","rel"],"d":"un membro de un ordina relijiosa en sufisme ci dedica se a un vive de povria, e ci usa rituos incluinte dansas jirante","i":"#","en":"dervish","es":"derviche","fr":"(un) derviche","he":"דרוויש","ru":"дервиш"}
@@ -7799,8 +7800,8 @@
 {"L":"dendrolojial","C":["a"],"en":"dendrological","fr":"dendrologique","he":"דנדרולוגי"}
 {"L":"dendrolojiste","C":["n"],"en":"dendrologist","fr":"(un|une) dendrologue","he":"דנדרולוג, חוקר עצים"}
 {"T":"r","L":"denge","C":["n","med"],"d":"un maladia de la tropicos, causada par un virus transmeteda par moscetas, cual causa subita febre e dole intensa de la juntas","en":"dengue, dengue fever","fr":"(la) dengue","he":"קדחת הדנגי"}
-{"T":"r","L":"denim","C":["n","vest"],"d":"un stofa durante de sarja de coton, tipal blu","en":"denim","fr":"(le) denim, (le) jean","he":"דנים (בד)"}
-{"L":"de denim","C":["a"],"en":"(made of) denim","fr":"en denim, en jean","he":"עשוי מדנים"}
+{"T":"r","L":"denim","C":["n","vest"],"d":"un stofa durante de sarja de coton, tipal blu","en":"denim, jean","fr":"(le) denim, (le) jean","he":"דנים (בד)"}
+{"L":"de denim","C":["a"],"en":"(made of) denim, jean","fr":"en denim, en jean","he":"עשוי מדנים"}
 {"T":"r","L":"denova","C":["av"],"d":"a un plu ves; reocupante un state pasada","da":"igen, en gang til","de":"noch einmal","en":"again, anew, afresh","es":"otra vez, de nuevo, una vez más, repetidas veces, repetidamente","fr":"de nouveau, à nouveau, encore, derechef","he":"שוב, עוד פעם, מחדש"}
 {"T":"r","L":"densa","C":["a","fis"],"d":"conteninte un cuantia grande e compatida de cosas o persones prosima a lunlotra; (un licuida) no fasil fluente; (un nebla) opaca","da":"tæt, kraftig, tyk, intens","de":"dicht","en":"dense, thick","es":"denso, concentrado, espeso, intenso","fr":"dense, concentré, compact, épais, massif, tassé, serré, touffu","he":"דחוס; סמיך"}
 {"L":"densi","C":["vnt"],"en":"thicken, condense","fr":"se densifier, se compresser, se concentrer, s'épaissir, se tasser, se reserrer, se serrer","he":"להידחס; להפוך לסמיך; להתעבות"}
@@ -8915,7 +8916,7 @@
 {"L":"ecuilibra","C":["vt"],"en":"balance, poise","he":"לאזן"}
 {"L":"ecuilibra","C":["n"],"da":"balance, ligevægt","de":"Gleichgewicht","en":"balance, equilibrium, kilter","es":"equilibrio","gl":"equilibrio","he":"איזון, שיווי משקל"}
 {"L":"ecuilibra idrostatical","C":["n"],"en":"hydrostatic balance, hydrostatic equilibrium","he":"שיווי משקל הידרוסטטי"}
-{"L":"desecuilibra","C":["vnt"],"en":"imbalance, unbalance, throw off balance, tip over, topple, knock over, overbalance","he":"לאבד שיווי משקל"}
+{"L":"desecuilibra","C":["vnt"],"en":"lose balance, be thrown off balance, overbalance, tip over, topple, knock over","he":"לאבד שיווי משקל"}
 {"L":"desecuilibra","C":["vt"],"en":"imbalance, unbalance, throw off balance, tip over, topple, knock over, overbalance","he":"להפר איזון"}
 {"L":"nonecuilibra","C":["n"],"en":"imbalance","he":"חוסר איזון"}
 {"T":"r","L":"ecuinote","C":["n","ast"],"d":"la tempo o data (a du veses en cada anio, sirca 22 setembre e 20 marto) cuando la Sol traversa la ecuator de sielo, cuando la dia e la note es de longia egal","en":"equinox","fr":"équinoxe","he":"(אסטרונומיה) נקודת השיוויון"}
@@ -9506,10 +9507,11 @@
 {"T":"r","L":"enoteisme","C":["n","rel"],"d":"la adora de sola un dio sin nega la esiste posible de otra dios","p":"ennoteïsme","en":"henotheism"}
 {"L":"enoteiste","C":["a"],"p":"enoteïste","en":"henotheistic"}
 {"L":"enoteiste","C":["n"],"en":"henotheist"}
-{"T":"r","L":"enrola","C":["vnt","util"],"d":"move en un curso torsente o spiral; fa ce (un aparato, tipal un orolojo) funsiona par turna un clave o manico; move se a un posa curva e comfortosa","en":"wind, coil, wind up (mechanism); furl; curl up, snuggle","fr":"s'enrouler"}
-{"L":"desenrola","C":["vnt"],"en":"unroll, unwind, uncoil, unfurl"}
+{"T":"r","L":"enrola","C":["vnt","util"],"d":"move se a un posa curva e comfortosa","en":"curl up, roll up (into a ball), snuggle, furl","fr":"s'enrouler"}
+{"L":"enrola","C":["vt"],"d":"curvi (alga cosa) sur se per dona a lo un forma compata e simil a un bal; fa ce (un aparato, tipal un orolojo) funsiona par turna un clave o manico","en":"roll up, ball up, scrunch up, wad; wind, coil, wind up (mechanism)"}
 {"L":"enrola","C":["n"],"en":"roll; coil, skein"}
 {"L":"enrola de piano","C":["n"],"d":"un enrola de paper perforada cual controla la moves de la teclas en un piano automata","en":"piano roll"}
+{"L":"desenrola","C":["vnt"],"en":"unroll, unwind, uncoil, unfurl"}
 {"L":"enrolador","C":["n"],"en":"winch, capstan, windlass"}
 {"T":"r","L":"enscrive","C":["vt","arte","ist"],"d":"scrive o siseli (parolas o simboles) sur alga cosa, spesial como un arcivo formal o permanente; organiza, par paia a ante, ce (algun) va reseta periodal un jornal o simil; rejistra (algun) per partisipa en alga cosa, spesial per deveni un soldato, un membro de un instituida, o un studiante en un curso","en":"inscribe, subscribe, register (for activity), enlist, enroll|enrol, empanel, impanel, recruit, matriculate","fr":"inscrire"}
 {"L":"enscrive","C":["n"],"en":"inscription, subscription, sub, registration, enlistment, enrollment|enrolment, conscription"}
@@ -10705,7 +10707,8 @@
 {"L":"faxiste","C":["n"],"en":"fascist"}
 {"T":"r","L":"faxo","C":["n"],"d":"un colie de cosas liada con lunlotra; un colie de nervos, musculos o otra fibres paralel corente, prosima a lunlotra; (en Roma antica) un colie de palos liada, con un lamina de axa protendente, portada como un simbol de autoria","en":"bundle, sheaf, fasces, bale, fagot|faggot","fr":"fagot, liasse, ballot"}
 {"L":"faxi","C":["vnt"],"en":"become bundled"}
-{"L":"faxi","C":["vt"],"en":"bundle"}
+{"L":"faxi","C":["vt"],"en":"bundle, bale"}
+{"L":"faxo de feno","C":["n"],"en":"bale of hay, hay bale"}
 {"T":"r","L":"fe","C":["n","mit"],"d":"un organisme mital, con forma de un umana peti con potias majiosa","i":"#","an":"fada","da":"fe","de":"Fee","en":"fairy, faerie","es":"hada","fr":"fée"}
 {"L":"fe de aira","C":["n","mit"],"i":"#","en":"sylph","es":"sílfide"}
 {"L":"fe de mar","C":["n","mit"],"d":"un organisme mital, con testa e tronco umana e coda de pex","i":"#","en":"mermaid, merman","es":"sirena","fr":"sirène"}
@@ -11095,7 +11098,7 @@
 {"L":"desfisada","C":["a"],"en":"detached"}
 {"L":"deveni fisada","C":["a"],"en":"get stuck"}
 {"L":"fisable","C":["a"],"en":"fastenable, fixable"}
-{"L":"fisada","C":["a"],"en":"fixed, firm, stuck; sedentary, sessile (zoology, anthropology)"}
+{"L":"fisada","C":["a"],"en":"fixed, firm, stuck; frozen (with fear, etc); sedentary, sessile (zoology, anthropology)"}
 {"L":"fisador","C":["n"],"en":"fastener, clasp, hasp, catch, latch"}
 {"L":"fisante","C":["a"],"en":"fixing, fixative"}
 {"L":"fisante","C":["n"],"en":"fixative"}
@@ -11689,8 +11692,9 @@
 {"T":"r","L":"frugal","C":["a","mone"],"d":"cauta en spende mone o usa comedas o otra benes","da":"sparsommelig","de":"sparsam","en":"frugal, thrifty, economical, parsimonious, budget-conscious","es":"frugal, ahorrativo, moderado, económico, bien administrado","fr":"frugal, économe"}
 {"L":"es frugal","C":["v"],"en":"be frugal, economize|is, scrimp, skimp"}
 {"L":"frugalia","C":["n"],"en":"frugality, frugalness, thrift, thriftiness, parsimony"}
-{"T":"r","L":"frustra","C":["vt","uma"],"d":"turba (algun) par preveni el de continua sua condui normal o de ateni sua gol","en":"vex, frustrate, exasperate"}
+{"T":"r","L":"frustra","C":["vt","uma"],"d":"turba (algun) par preveni el de continua sua condui normal o de ateni sua gol","en":"frustrate, vex, exasperate"}
 {"L":"frustra","C":["n"],"en":"frustration, vexation, exasperation"}
+{"L":"frustrada","C":["a"],"en":"frustrated, vexed, exasperated, fed up, sick (of), tired (of)"}
 {"L":"frustrante","C":["a"],"en":"frustrating, vexing, exasperating, vexatious"}
 {"T":"r","L":"fruta","C":["n","bio","cos"],"d":"un parte de un arbor o otra planta cual conteni semes, tipal dulse, pulposa e comable","da":"frugt","de":"Frucht","en":"fruit","es":"fruta","fr":"fruit"}
 {"L":"fruta axida a picos","C":["n"],"en":"mincemeat"}
@@ -12848,10 +12852,11 @@
 {"T":"r","L":"iin-iang","C":["n"],"d":"(en filosofia xines) la interdepende de fortes oposada en la mundo natural","i":"#","en":"yin-yang","eo":"jino-jango, jinjango"}
 {"T":"r","L":"ijenia","C":["n","med"],"d":"la states o praticas cual aida la manteni de sania e la preveni de maladias, tipal par limpia","en":"hygiene, sanitation","eo":"higieno"}
 {"L":"ijeni","C":["vt"],"en":"sanitize|is","eo":"higienigi, purigi"}
-{"L":"ijenial","C":["a"],"en":"hygienic, sanitary","eo":"higiena"}
+{"L":"ijenial","C":["a"],"en":"hygienic, sanitary (pertaining to hygiene)","eo":"higiena"}
+{"L":"ijeniosa","C":["a"],"en":"hygienic, sanitary (behaving hygienically)"}
 {"L":"ijeninte","C":["n"],"en":"sanitizer|is"}
 {"L":"ijeniste","C":["n"],"en":"hygienist"}
-{"L":"nonijenial","C":["a"],"en":"unsanitary"}
+{"L":"nonijeniosa","C":["a"],"en":"unhygienic, unsanitary"}
 {"T":"r","L":"-il","C":["sf","n","cim"],"d":"un radical cimical","en":"-yl (chemistry)"}
 {"T":"r","L":"ilario","C":["a","uma"],"d":"estrema divertinte e comica","en":"hilarious, uproarious","eo":"ridiga"}
 {"L":"ilaria","C":["n"],"d":"la cualia de un cosa ilario; la felisia ruidosa cual lo causa","en":"hilarity, mirth","eo":"ridigeco, gajegeco"}
@@ -14283,6 +14288,7 @@
 {"L":"laborosa","C":["a"],"en":"laborious, labored|ur"}
 {"L":"oras de labora","C":["n"],"en":"working hours"}
 {"L":"sin labora","C":["a"],"en":"effortless"}
+{"L":"supralabora","C":["vt"],"en":"overwork; strain (eyes, ears, etc)"}
 {"T":"r","L":"laboramania","C":["n"],"d":"un noncapasia de sesa labora","en":"workaholism","es":"adicción al trabajo"}
 {"L":"laboramanica","C":["a"],"en":"workaholic","es":"adicto al trabajo"}
 {"T":"r","L":"Labrador","C":["n","jeo"],"d":"un rejion norde-este de Canada, e un parte de la provinse de Newfoundland e Labrador","en":"Labrador","es":"Labrador"}
@@ -14416,7 +14422,7 @@
 {"L":"larinjal","C":["n"],"en":"laryngeal, guttural"}
 {"T":"r","L":"larinjite","C":["n","med"],"d":"un inflama de la larinje, tipal causante un vose ru o asente, respira ru e tose dolosa","en":"laryngitis"}
 {"T":"r","L":"larix","C":["n","pla"],"d":"un arbor conifer con grupos de agos briliante verde e caduca","i":"#","t":"Larix","en":"larch (tree)"}
-{"T":"r","L":"larma","C":["vt","bio"],"d":"secrete un gota de licuida clar e salosa de glandes en la oios cuando on plora o cuando la oios es iritada","en":"weep, shed tears, tear"}
+{"T":"r","L":"larma","C":["vt","bio"],"d":"secrete un gota de licuida clar e salosa de glandes en la oios cuando on plora o cuando la oios es iritada","en":"weep, shed tears, tear; (eyes) water"}
 {"L":"larma","C":["n"],"i":"#","da":"tåre","de":"Träne","en":"tear, teardrop","es":"lágrima","fr":"larme"}
 {"L":"larmosa","C":["a"],"en":"tearful, teary, weepy, maudlin"}
 {"T":"r","L":"larva","C":["n","bio"],"d":"la forma ativa ma nonmatur de un inseto, entre un ovo e un pupa","i":"#","en":"larva, grub (insect)"}
@@ -14725,7 +14731,7 @@
 {"T":"r","L":"lezardo","C":["n","ret"],"d":"un retil ma no un serpente, tipal con corpo e coda longa e pel ru, scamosa o spinosa","t":"Lacertilia, {ma no serpentes","da":"firben","de":"Eidechse","en":"lizard","es":"lagarto","fr":"lézard"}
 {"L":"Lezardo","C":["n","ast"],"d":"un constela de la sielo norde","en":"Lacerta (constellation)"}
 {"T":"r","L":"lfn","C":["c"],"d":"Lingua Franca Nova","n":"Esta lingua ia es orijinal conoseda como `LFN`, ma oji la spele `elefen` es prefereda.","en":"Elefen, LFN"}
-{"T":"r","L":"lia","C":["vt"],"d":"fisa (un person o cosa) con corda o banda a alga cosa; formi (un noda); crea un junta o relata entre (persones o cosas); junta (cosas) per transmete enerjia, informa, etc","da":"binde","de":"binden, verbinden","en":"tie, bind, strap, tether, moor; connect, link, plug in; liaise; associate (mentally)","es":"atar, amarrar, liar, ligar, enlazar, vincular, unir, juntar, vendar, ceñir","fr":"lier, attacher, nouer"}
+{"T":"r","L":"lia","C":["vt"],"d":"fisa (un person o cosa) con corda o banda a alga cosa; formi (un noda); crea un junta o relata entre (persones o cosas); junta (cosas) per transmete enerjia, informa, etc","da":"binde","de":"binden, verbinden","en":"tie, bind, strap, tether, lash, moor; connect, link, plug in; liaise; associate (mentally)","es":"atar, amarrar, liar, ligar, enlazar, vincular, unir, juntar, vendar, ceñir","fr":"lier, attacher, nouer"}
 {"L":"lia","C":["n"],"d":"un ata de lia; un cosa liante; un bretela per teni un calsa o calseta","en":"link, bond, connection, ligation, linkage; liaison; covenant; suspender (UK), garter (US); association (mental)","fr":"lien, connexion, joint"}
 {"L":"lia a tera","C":["v"],"en":"ground, earth (an electrical device)"}
 {"L":"lia con filo","C":["n"],"en":"wired connection"}
@@ -15369,6 +15375,7 @@
 {"L":"magri","C":["vt"],"en":"thin, slim, constrict"}
 {"L":"magri","C":["n"],"en":"thinning, emaciation, constriction"}
 {"L":"magria","C":["n"],"en":"thinness, slimness, slenderness"}
+{"L":"nonmagra","C":["a"],"en":"pudgy, chubby, tubby, rotund"}
 {"T":"r","L":"Magrib","C":["n","jeo"],"c":"Rabat","d":"un pais en Africa norde-ueste, con costas a la Mar Mediteraneo e la Mar Atlantica","i":"#","v":"Maroco","en":"Morocco","fr":"Maroc"}
 {"L":"magribi","C":["a"],"en":"Moroccan","fr":"marocain"}
 {"L":"magribi","C":["n","dem"],"en":"Moroccan","fr":"Marocain"}
@@ -25673,8 +25680,8 @@
 {"L":"stresor","C":["n"],"en":"stressor"}
 {"T":"r","L":"streta","C":["a","tera"],"d":"con poca largia en compara con sua longia; limitada en estende o cuantia; sin spasio per move; a sua estende masima, sin laxia","da":"snæver; stram","de":"eng, eng angeschmiegt","en":"narrow; tight, taut, snug","eo":"mallarĝa; strikta","es":"estrecho, delgado, fino, preciso, apretado, ajustado, compacto","fr":"étroit","it":"stretto","nl":"nauw, nauwsluitend","pt":"estreito, delgado, apertado"}
 {"L":"streta","C":["n"],"en":"strait"}
-{"L":"streti","C":["vnt"],"en":"narrow, tighten, constrict"}
-{"L":"streti","C":["vt"],"en":"narrow, tighten, constrict"}
+{"L":"streti","C":["vnt"],"en":"narrow, tighten, constrict, cinch"}
+{"L":"streti","C":["vt"],"en":"narrow, tighten, constrict, cinch"}
 {"L":"streti","C":["n"],"en":"narrowing, constriction, stricture"}
 {"L":"stretia","C":["n"],"en":"narrowness; tightness, tautness, snugness"}
 {"T":"r","L":"streusel","C":["n","cos"],"d":"un decora o pleninte granetin, composada de gras, farina, zucar e spises","en":"streusel (cookery)"}
@@ -25823,7 +25830,7 @@
 {"L":"sueba","C":["n"],"en":"Suebian"}
 {"L":"suebas","C":["n","pl"],"en":"Suebians, Suebi (ancient tribe)"}
 {"T":"r","L":"sueter","C":["n","vest"],"d":"un veste tricotada, tipal con mangas longa, portada sur la corpo alta","i":"#","en":"sweater, pullover, jumper, jersey"}
-{"L":"sueter de capeta","C":["n"],"en":"hooded sweatshirt, hoodie"}
+{"L":"sueter-capeta","C":["n"],"en":"hooded sweatshirt, hoodie"}
 {"L":"sueter de sporte","C":["n"],"en":"sweatshirt"}
 {"L":"sueter sin manga","C":["n"],"en":"sleeveless sweater, tanktop (UK), sweater vest"}
 {"T":"r","L":"sufi","C":["a","rel"],"d":"pertinente a un scola de islam mistica e asetica, o a sua membros","en":"Sufi"}
@@ -26573,7 +26580,7 @@
 {"T":"r","L":"tenor","C":["a","mus"],"d":"(un vose cantante de om) con tono entre baritono e alto; (un strumento) con tono cuasi la plu basa en sua familia","en":"tenor (music)"}
 {"L":"tenor","C":["n","mus"],"en":"tenor (music)"}
 {"T":"r","L":"tenrec","C":["n","mam"],"d":"un mamal peti e insetivor, de Madagasicara","i":"#","t":"Tenrecidae","en":"tenrec (animal)"}
-{"T":"r","L":"tensa","C":["vnt","fis","uma"],"d":"deveni fisada o cluida en modo difisil per move, desfisa o abri","en":"tighten, strain, clench","fr":"tendre"}
+{"T":"r","L":"tensa","C":["vnt","fis","uma"],"d":"deveni fisada o cluida en modo difisil per move, desfisa o abri","en":"tighten, strain, clench, cinch","fr":"tendre"}
 {"L":"tensa","C":["n"],"en":"tension, stress, strain","fr":"tension"}
 {"L":"tensa eletrical","C":["n"],"en":"electric tension, electric potential difference, voltage"}
 {"L":"tensa sua dentes","C":["v"],"en":"grit one's teeth"}
