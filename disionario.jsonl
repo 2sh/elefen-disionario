@@ -7340,7 +7340,7 @@
 {"L":"culpa","C":["n"],"en":"blame","fr":"reproches, blâme","he":"האשמה"}
 {"L":"culpable","C":["a"],"da":"skyldig","de":"schuldig","en":"guilty, blameworthy, culpable, responsible, liable","es":"culpable, reo, delincuente","fr":"coupable, blâmable, condamnable, criminel","he":"אשם"}
 {"L":"culpablia","C":["n"],"en":"guilt, responsibility, liability","fr":"(la) culpabilité","he":"אשמה"}
-{"L":"desculpa","C":["vt"],"en":"exculpate, exonerate, vindicate, acquit","fr":"disculper","he":"לזכות"}
+{"L":"desculpa","C":["vt"],"en":"exculpate, exonerate, vindicate, acquit, clear","fr":"disculper","he":"לזכות"}
 {"L":"desculpa","C":["n"],"en":"exoneration, vindication, acquittal","fr":"(une) disculpation, (un) acquittement, (une) justification, (une) réhabilitation, (une) rémission, (une) relaxe, (une) absolution","he":"זיכוי (מאשמה)"}
 {"L":"desculpada","C":["a"],"en":"exonerated","fr":"disculpé, acquitté, innocenté, blanchi, justifié, réhabilité","he":"זכאי, מזוכה"}
 {"L":"es desculpada","C":["v"],"en":"be exonerated, be acquitted, get off","fr":"être acquitté, être disculpé, être innocenté, être blanchi, être justifié, être réhabilité","he":"לצאת זכאי"}
@@ -8631,7 +8631,7 @@
 {"T":"r","L":"dolmen","C":["n","uma","ist"],"d":"un tomba megalital, composada de un roca plata e grande reposante sur du rocas vertical, trovada xef en Frans e Britan Grande","i":"#","en":"dolmen (tomb)","fr":"(un) dolmen","he":"דולמן (קבר)"}
 {"T":"r","L":"dolomita","C":["n","tera"],"d":"un mineral diafana, composada de calsio e magnesio; un roca deponeda, xef composada de esta","en":"dolomite (mineral)","fr":"(la) dolomite (minéral)","he":"דולומיט"}
 {"T":"r","L":"doma","C":["vt","uma"],"d":"eleva e instrui (un animal) afin lo deveni plu fasil per controla","en":"domesticate, tame","fr":"domestiquer, élever, apprivoiser","he":"לביית; לאלף"}
-{"L":"doma esibal","C":["n"],"en":"dressage","fr":"(un) dressage","he":"רכיבה אמנותית"}
+{"L":"doma formal","C":["n"],"en":"dressage","fr":"(un) dressage","he":"רכיבה אמנותית"}
 {"L":"domada","C":["a"],"en":"domesticated, tame, domestic","fr":"domestiqué, domestique, dressé","he":"מבויית; מאולף"}
 {"T":"r","L":"doman","C":["av"],"d":"a la dia pos oji","da":"i morgen","de":"morgen","en":"tomorrow","es":"mañana","fr":"demain","he":"מחר"}
 {"L":"doman","C":["n"],"en":"tomorrow","fr":"(le) lendemain, demain","he":"מחר"}
@@ -8840,164 +8840,164 @@
 {"L":"duxia","C":["n"],"en":"duchy","es":"ducado","fr":"(un) duché","he":"דוכסות"}
 {"T":"r","L":"duxierba","C":["n","vn"],"d":"un aparato de jeta, usada per acui jardines","en":"garden sprinkler","fr":"(un) système d'arrosage","he":"ממטרה"}
 {"T":"r","L":"dvd","C":["c","mus","info"],"d":"disco video dijital","en":"DVD","fr":"(un) DVD","he":"די.וי.די"}
-{"T":"r","L":"e","C":["sim"],"d":"la letera sinco de la alfabeta roman, e sua nom; la nota tre de la scala diatonica de C major","p":"e","en":"e","es":"e","he":"האות החמישית באלפבית הלטיני"}
-{"T":"r","L":"e","C":["cj"],"d":"ance, en ajunta (juntante du espresas o frases cual es membros egal de un lista o grupo)","da":"og, plus","de":"und","en":"and","es":"y, e","fr":"et","he":"ו-, וו החיבור"}
-{"L":"e ... e","C":["esp"],"u":"e esta e acel","en":"both ... and","he":"גם... וגם"}
-{"L":"e/o","C":["cj"],"en":"and/or","es":"y/o","he":"ו/או"}
-{"T":"r","L":"e-","C":["pf"],"en":"e- (electronic)","es":"e- (electrónico)","he":"(קידומת) אלקטרוני"}
-{"T":"r","L":"ebano","C":["n","pla"],"d":"un lenio negra o brun oscur; la arbor tropical cual produi esta","i":"#","t":"Ebenaceae","en":"ebony","es":"ébano","fr":"ébène","he":"הובנה (עץ)"}
-{"T":"r","L":"ebefrenia","C":["n","uma","med"],"d":"un varia cronica de scizofrenia, marcada par rie e condui enfantin","en":"hebephrenia (medical)","es":"hebefrenia, esquizofrenia desorganizada","he":"הבפרניה"}
-{"L":"ebefrenica","C":["a"],"en":"hebephrenic","es":"hebefrénica","he":"הבפרני"}
-{"T":"r","L":"ebonita","C":["n","tera"],"d":"cauxo vulcanida, cual deveni dur e negra","en":"ebonite (rubber)","es":"ebonita (caucho)","he":"הבנית"}
+{"T":"r","L":"e","C":["sim"],"d":"la letera sinco de la alfabeta roman, e sua nom; la nota tre de la scala diatonica de C major","p":"e","en":"e","es":"e","fr":"e (lettre de l'alphabet), mi (note de la gamme)","he":"האות החמישית באלפבית הלטיני"}
+{"T":"r","L":"e","C":["cj"],"d":"ance, en ajunta (juntante du espresas o frases cual es membros egal de un lista o grupo)","da":"og, plus","de":"und","en":"and","es":"y, e","fr":"et (ainsi que, avec)","he":"ו-, וו החיבור"}
+{"L":"e ... e","C":["esp"],"u":"e esta e acel","en":"both ... and ...","fr":"à la fois ... et ...","he":"גם... וגם"}
+{"L":"e/o","C":["cj"],"en":"and/or","es":"y/o","fr":"et/ou","he":"ו/או"}
+{"T":"r","L":"e-","C":["pf"],"en":"e- (electronic)","es":"e- (electrónico)","fr":"e- (électronique)","he":"(קידומת) אלקטרוני"}
+{"T":"r","L":"ebano","C":["n","pla"],"d":"un lenio negra o brun oscur; la arbor tropical cual produi esta","i":"#","t":"Ebenaceae","en":"ebony","es":"ébano","fr":"(une) ébène","he":"הובנה (עץ)"}
+{"T":"r","L":"ebefrenia","C":["n","uma","med"],"d":"un varia cronica de scizofrenia, marcada par rie e condui enfantin","en":"hebephrenia (medical)","es":"hebefrenia, esquizofrenia desorganizada","fr":"(une) hébéphrénie","he":"הבפרניה"}
+{"L":"ebefrenica","C":["a"],"en":"hebephrenic","es":"hebefrénica","fr":"hébéphrène, hébéphrénique","he":"הבפרני"}
+{"T":"r","L":"ebonita","C":["n","tera"],"d":"cauxo vulcanida, cual deveni dur e negra","en":"ebonite (rubber)","es":"ebonita (caucho)","fr":"(une) ébonite","he":"הבנית"}
 {"T":"r","L":"ec","C":["c"],"d":"de la eda comun","en":"CE, AD, anno domini","es":"EC, d.C.","fr":"après JC","he":"אחרי הספירה"}
-{"T":"r","L":"ecdisozon","C":["n"],"d":"un clado o suprafilo de animales cual inclui artropodos, nematodos e otras cual perde sua esosceleto","t":"Ecdysozoa","en":"ecdysozoon (pl. ecdysozoa) (organism)","es":"ecdisozoo (pl. ecdisozoos) (organismo)","he":"אקדיסוזון (בעל חיים)"}
-{"T":"r","L":"ecg","C":["c","util","med"],"d":"eletrocardiograf","en":"ECG, EKG","es":"ECG, EKG","he":"אק\"ג"}
-{"T":"r","L":"ecidna","C":["n","mam"],"d":"un mamal spinosa e insetivor de Australia e Gine Nova, con beco e garas longa, cual produi ovos e come formicas","i":"#","t":"Tachyglossidae","en":"echidna, spiny anteater","es":"equidna, taquiglósido","he":"קיפודן נמלים"}
-{"T":"r","L":"ecimose","C":["n","med"],"d":"un malcolori causada par la cumula de sangue su la pel, tipal de un contusa","en":"ecchymosis (medical)","es":"equimosis (medicina)","he":"(רפואה) דמם כתמי"}
-{"T":"r","L":"ecinodermato","C":["n"],"d":"un filo de nonvertebratos incluinte stelas-de-mar, erisos-de-mar e concombres-de-mar","t":"Echinodermata","en":"echinoderm (organism)","he":"קווץ עור (בעל חיים)"}
-{"T":"r","L":"ecipo","C":["n","spo"],"d":"un grupo de persones ci labora con lunlotra; un grupo de juores ci formi un lado en un jua o sporte; un grupo peti de soldatos con un taxe comun","da":"team, hold, gruppe","de":"Mannschaft, Team","en":"crew, team, squad, cadre","eo":"ekipo","es":"equipo, partido, grupo, tripulación, cuadrilla, escuadrón","fr":"équipe","he":"צוות, (ספורט) קבוצה, (צבא) כיתה","it":"squadra","nl":"ploeg, groep, team","pt":"equipe, time, esquadrão"}
+{"T":"r","L":"ecdisozon","C":["n"],"d":"un clado o suprafilo de animales cual inclui artropodos, nematodos e otras cual perde sua esosceleto","t":"Ecdysozoa","en":"ecdysozoon (pl. ecdysozoa) (organism)","es":"ecdisozoo (pl. ecdisozoos) (organismo)","fr":"(un) ecdysozoaire","he":"אקדיסוזון (בעל חיים)"}
+{"T":"r","L":"ecg","C":["c","util","med"],"d":"eletrocardiograf","en":"ECG, EKG","es":"ECG, EKG","fr":"ECG","he":"אק\"ג"}
+{"T":"r","L":"ecidna","C":["n","mam"],"d":"un mamal spinosa e insetivor de Australia e Gine Nova, con beco e garas longa, cual produi ovos e come formicas","i":"#","t":"Tachyglossidae","en":"echidna, spiny anteater","es":"equidna, taquiglósido","fr":"(un) échidné","he":"קיפודן נמלים"}
+{"T":"r","L":"ecimose","C":["n","med"],"d":"un malcolori causada par la cumula de sangue su la pel, tipal de un contusa","en":"ecchymosis (medical)","es":"equimosis (medicina)","fr":"(une) ecchymose (médecine)","he":"(רפואה) דמם כתמי"}
+{"T":"r","L":"ecinodermato","C":["n"],"d":"un filo de nonvertebratos incluinte stelas-de-mar, erisos-de-mar e concombres-de-mar","t":"Echinodermata","en":"echinoderm (organism)","fr":"(un) échinoderme (organisme)","he":"קווץ עור (בעל חיים)"}
+{"T":"r","L":"ecipo","C":["n","spo"],"d":"un grupo de persones ci labora con lunlotra; un grupo de juores ci formi un lado en un jua o sporte; un grupo peti de soldatos con un taxe comun","da":"team, hold, gruppe","de":"Mannschaft, Team","en":"crew, team, squad, cadre","eo":"ekipo","es":"equipo, partido, grupo, tripulación, cuadrilla, escuadrón","fr":"(une) équipe, (un) escadron, (une) troupe, (une) escouade, (un) bataillon, (une) brigade","he":"צוות, (ספורט) קבוצה, (צבא) כיתה","it":"squadra","nl":"ploeg, groep, team","pt":"equipe, time, esquadrão"}
 {"L":"ecipo prima","C":["n"],"en":"first team, varsity","he":"נבחרת"}
-{"L":"ecipi","C":["vt"],"en":"crew, staff","he":"לאייש, לצוות"}
-{"L":"ecipor","C":["n"],"en":"crew member, team member","he":"חבר צוות"}
-{"T":"r","L":"eclampsia","C":["n","med"],"d":"un maladia en cual convulsas aveni en un fem ensinta ci sufri de presa sangual alta, comun segueda par coma, e cual menasa la sania de la madre e la bebe","en":"eclampsia (medical)","he":"עווית הריון, אקלמפסיה"}
-{"L":"preeclampsia","C":["n","med"],"en":"pre-eclampsia (medical)","he":"רעלת הריון"}
-{"T":"r","L":"ecler","C":["n","cos"],"d":"un pasta dulse, peti e mol, plenida con crema","i":"#","en":"éclair (cake)","he":"פחזנית, אקלר"}
+{"L":"ecipi","C":["vt"],"en":"crew, staff","fr":"équiper","he":"לאייש, לצוות"}
+{"L":"ecipor","C":["n"],"en":"crew member, team member","fr":"(un) équipier","he":"חבר צוות"}
+{"T":"r","L":"eclampsia","C":["n","med"],"d":"un maladia en cual convulsas aveni en un fem ensinta ci sufri de presa sangual alta, comun segueda par coma, e cual menasa la sania de la madre e la bebe","en":"eclampsia (medical)","fr":"(une) éclampsie (médecine)","he":"עווית הריון, אקלמפסיה"}
+{"L":"preeclampsia","C":["n","med"],"en":"pre-eclampsia (medical)","fr":"(une) prééclampsie (médecine)","he":"רעלת הריון"}
+{"T":"r","L":"ecler","C":["n","cos"],"d":"un pasta dulse, peti e mol, plenida con crema","i":"#","en":"éclair (cake)","fr":"(un) éclair (pâtisserie)","he":"פחזנית, אקלר"}
 {"T":"r","L":"ecletica","C":["a","fil"],"d":"derivante ideas o stilo de fontes diversa e vasta; (en filosofia) pertinente a un grupo de filosofistes antica ci ia eleje ideas de fontes diversa en loca de segue un scola","en":"eclectic, catholic","fr":"éclectique","he":"אקלקטי, לקטני"}
-{"L":"ecleticisme","C":["n"],"en":"eclecticism","he":"אקלקטיות, לקטנות"}
-{"T":"r","L":"eclis","C":["n","ast"],"d":"un oscuri de la lus de un ojeto sielal par la pasa de un otra entre lo e la oservor, o entre lo e sua fonte de lumina","i":"#","da":"formørkelse","de":"Verfinsterung","en":"eclipse","es":"eclipse","fr":"éclipse","he":"(אסטרונומיה) ליקוי"}
-{"L":"eclis anelo","C":["n"],"en":"annular eclipse","he":"ליקוי חמה טבעתי"}
-{"L":"eclisal","C":["a"],"en":"ecliptic","he":"(אסטרונומיה) שקשור בליקוי"}
-{"L":"eclisal","C":["n"],"en":"ecliptic","he":"מישור המילקה, אקליפטיק"}
-{"L":"eclisi","C":["vnt"],"en":"eclipse","he":"(אסטרונומיה) להיכנס לליקוי"}
-{"L":"eclisi","C":["vt"],"en":"eclipse","he":"(אסטרונומיה) לגרום לליקוי"}
-{"T":"r","L":"eco","C":["n","fis"],"d":"un sona, o serie de sonas, causada par la refleta de ondas de sona de un surfas a la escutor; un refleta simil de un raio de ondas, como de radio o radar","en":"echo","fr":"écho","he":"הד, הדהוד"}
-{"L":"ecosa","C":["a"],"en":"echoic","he":"מהדהד, הדהודי"}
-{"L":"fa un eco","C":["v"],"en":"echo","he":"להדהד"}
-{"T":"r","L":"eco-","C":["pf","tecn"],"d":"pertinente a ecolojia","en":"eco-","he":"(קידומת טכנית) שקשור באקולוגיה"}
-{"T":"r","L":"ecograf","C":["n","med","util"],"d":"un aparato cual analise sona refletada e produi un representa grafica, tipal usada en medica, per esemplo per oserva la crese de un embrio","en":"echograph, sonograph, ultrasonograph","he":"מכשיר אולטרה-סאונד"}
-{"L":"ecografi","C":["vt"],"en":"echograph, sonograph, ultrasonograph","he":"לעשות אולטרה-סאונד"}
-{"L":"ecografia","C":["n"],"en":"echography, sonography, ultrasonography","fr":"échographie","he":"בדיקת אולטרה-סאונד"}
-{"T":"r","L":"ecogram","C":["n","med","util"],"d":"un imaje o graf produida par un ecograf","en":"echogram, sonogram, ultrasonogram","he":"אולטרה-סאונד (תוצאת בדיקה), סונוגרם"}
-{"T":"r","L":"ecolalia","C":["n","med"],"d":"un maladia de mente en cual on repete automata lo cual otras dise","en":"echolalia (medical)","he":"אקולליה, הדיות"}
-{"T":"r","L":"ecoloca","C":["vt"],"d":"descovre la loca de (un cosa) par deteta sonas refletada, como fada par delfines, ciroteros, etc","en":"echolocate","he":"לאכן באמצעות הד"}
-{"L":"ecoloca","C":["n"],"en":"echolocation","he":"איכון הד, אקולוקציה"}
-{"T":"r","L":"ecolojia","C":["n","bio"],"d":"la ramo de biolojia cual studia la relatas entre organismes e entre los e sua ambiente fisical","da":"økologi","de":"Ökologie","en":"ecology","es":"ecología","fr":"écologie","he":"אקולוגיה","it":"ecologia"}
-{"L":"ecolojial","C":["a"],"en":"ecological","he":"אקולוגי"}
-{"L":"ecolojial sana","C":["a"],"en":"environmentally friendly, eco-friendly","he":"ידידותי לסביבה"}
-{"L":"ecolojiste","C":["n"],"en":"ecologist","he":"אקולוג"}
-{"T":"r","L":"econometria","C":["n","mone"],"d":"la ramo de economia cual aplica metodos statistical a la studia empirical de teorias e relatas economial","de":"Ökonometrie","en":"econometrics","es":"econometría","fr":"économétrie","he":"אקונומטריה, אקונומטריקה"}
-{"T":"r","L":"economia","C":["n","mone","gov"],"d":"la ricia e recursos de un nasion o rejion, spesial notante la produi e consuma de benes e servis; la siensa e studia de esta","da":"økonomi","de":"Wirtschaft","en":"economy; economics","es":"economía","fr":"économie","he":"כלכלה"}
-{"L":"economia de mercato","C":["n"],"d":"un sistem de economia cual depende de la interata de demanda e ofre","en":"market economy","he":"כלכלת שוק"}
-{"L":"economia libraliste","C":["n"],"en":"liberal economy, laissez-faire economy","he":"ליברליזם כלכלי"}
-{"L":"economia matematical","C":["n"],"en":"mathematical economy","he":"כלכלה מתמטית"}
-{"L":"economial","C":["a"],"en":"economic","he":"כלכלי"}
-{"L":"economiste","C":["n"],"en":"economist","he":"כלכלן"}
-{"T":"r","L":"ecoside","C":["vt"],"d":"destrui la ecolojia de (un loca), tipal con intende","en":"commit ecocide, destroy the environment","he":"לגרום לאקוסייד, להרוס את הסביבה"}
-{"L":"ecoside","C":["n"],"en":"ecocide","he":"אקוסייד (הרס הסביבה הטבעית)"}
-{"T":"r","L":"ecosistem","C":["n","bio"],"d":"un comunia biolojial de organismes interatante e sua ambiente fisical","en":"ecosystem","he":"מערכת אקולוגית"}
-{"T":"r","L":"ecotono","C":["n","bio"],"d":"un zona de cambia entre du comunias biolojial","en":"ecotone (biology)","he":"(ביולוגיה) רצועת מנשק"}
-{"T":"r","L":"ectare","C":["n","mat"],"d":"un unia metral per mesura area, egal a 100 ares","en":"hectare (unit of area)","fr":"hectare","he":"הקטר (יחידת מידה)"}
-{"T":"r","L":"ecto-","C":["pf","tecn"],"d":"(un mesura) multiplida par 100","en":"hecto- (hundred)","he":"(קידומת טכנית) מאה"}
-{"T":"r","L":"ecto-","C":["pf","tecn"],"d":"estra, esterna","en":"ecto- (outside)","he":"(קידומת טכנית) חיצוני"}
-{"T":"r","L":"ectoderma","C":["n","bio"],"d":"la strato de selulas la plu esterna, spesial en embrios temprana","en":"ectoderm (anatomy)","he":"(אנטומיה) אקטודרם"}
-{"T":"r","L":"-ectomia","C":["sf","n","med"],"d":"estrae sirurjial","en":"-ectomy (surgery)","he":"(סיומת טכנית) הסרה בניתוח"}
-{"T":"r","L":"ectopia","C":["n","med"],"d":"un loca o posa nonormal de un organo","en":"ectopia (medical)","he":"(רפואה) אקטופיה"}
-{"L":"ectopica","C":["a","med"],"en":"ectopic","he":"(רפואה) אקטופי, שלא במקומו"}
-{"T":"r","L":"ectoplasma","C":["n","bio"],"d":"la strato esterna, clar e la plu viscosa de sitoplasma en selulas amebin","en":"ectoplasm","he":"(ביולוגיה) אקטופלזמה"}
-{"T":"r","L":"Ecuador","C":["n","jeo"],"c":"Quito","d":"un pais en America Sude norde-ueste, con costa a la Mar Pasifica","i":"#","en":"Ecuador","fr":"Equateur (pays)","he":"אקוודור"}
-{"L":"ecuadoran","C":["a"],"en":"Ecuadoran","he":"אקוודורי"}
-{"L":"ecuadoran","C":["n"],"en":"Ecuadoran","he":"אקוודורי"}
-{"T":"r","L":"ecuator","C":["n","tera","ast"],"d":"un linia imajinada sirca la Tera, a distantia egal de ambos polos, cual divide la Tera entre la emisferas norde e sude; un linia simil sur un otra ojeto sielal","en":"equator","eo":"ekvatoro","fr":"équateur","he":"קו המשווה"}
-{"L":"ecuatoral","C":["a"],"en":"equatorial","eo":"ekvatora","he":"משווני"}
-{"T":"r","L":"ecui-","C":["pf","tecn"],"d":"egal","en":"equi-","he":"(קידומת טכנית) שווה"}
-{"T":"r","L":"ecuidistante","C":["a"],"d":"(du o plu locas) a distantias egal de un otra","en":"equidistant","he":"שווה מרחק"}
-{"T":"r","L":"ecuiladal","C":["a","mat"],"d":"(un triangulo) con la mesma longia a cada lado","en":"equilateral","he":"(משולש) שווה שוקיים"}
-{"T":"r","L":"ecuilibra","C":["vnt","fis","cim"],"d":"(un person o cosa) ave un distribui egal de pesa cual permete ce lo resta stable; (un state) conteni elementos diversa en proportios egal o coreta","en":"balance, poise","fr":"équilibrer","he":"להתאזן"}
-{"L":"ecuilibra","C":["vt"],"en":"balance, poise","he":"לאזן"}
-{"L":"ecuilibra","C":["n"],"da":"balance, ligevægt","de":"Gleichgewicht","en":"balance, equilibrium, kilter","es":"equilibrio","gl":"equilibrio","he":"איזון, שיווי משקל"}
-{"L":"ecuilibra idrostatical","C":["n"],"en":"hydrostatic balance, hydrostatic equilibrium","he":"שיווי משקל הידרוסטטי"}
-{"L":"desecuilibra","C":["vnt"],"en":"lose balance, be thrown off balance, overbalance, tip over, topple, knock over","he":"לאבד שיווי משקל"}
-{"L":"desecuilibra","C":["vt"],"en":"imbalance, unbalance, throw off balance, tip over, topple, knock over, overbalance","he":"להפר איזון"}
-{"L":"nonecuilibra","C":["n"],"en":"imbalance","he":"חוסר איזון"}
-{"T":"r","L":"ecuinote","C":["n","ast"],"d":"la tempo o data (a du veses en cada anio, sirca 22 setembre e 20 marto) cuando la Sol traversa la ecuator de sielo, cuando la dia e la note es de longia egal","en":"equinox","fr":"équinoxe","he":"(אסטרונומיה) נקודת השיוויון"}
-{"L":"ecuinote de autono","C":["n"],"en":"autumnal equinox","he":"נקודת השיוויון הסתווית"}
-{"L":"ecuinote de primavera","C":["n"],"en":"vernal equinox","he":"נקודת השיוויון האביבית"}
-{"T":"r","L":"ecuisito","C":["n","pla"],"d":"un planta sin flores, con tronceta vacua e sesionida, cual porta spirales de folias magra e produi sporas en conos a la estremas de la rametas","i":"#","t":"Equisetum","en":"horsetail (plant)","he":"שבטבט (צמח)"}
-{"T":"r","L":"ecumenisme","C":["n","rel"],"d":"la promove de unia entre la ramos de cristiania en la mundo","en":"ecumenism","he":"(נצרות) אקומניזם"}
-{"L":"ecumeniste","C":["a"],"en":"ecumenical","he":"(נצרות) אקומני"}
-{"T":"r","L":"eczema","C":["n","med"],"d":"un maladia en cual pesos de pel deveni ru e inflamada, con bulas cual causa pruri e sangui","en":"eczema (medical)","fr":"eczéma","he":"אקזמה"}
-{"T":"r","L":"ed","C":["n"],"d":"un letera anglosason e islansce, representante un fricante dental","s":"Ð ð","en":"eth, edh (letter)","he":"אד' (האות החמישית באלפבית האיסלנדי)"}
-{"T":"r","L":"eda","C":["n","tera","ist","uma"],"d":"la cuantia de tempo tra cual un person o organisme ia vive o un cosa ia esiste; un periodo spesifada de istoria; (en jeolojia) un divide major de tempo, min ca un epoca","da":"alder","de":"Alter","en":"age (measure of years); age, era","es":"edad","fr":"âge","he":"גיל; עידן, תקופה"}
-{"L":"eda comun","C":["n"],"en":"common era","he":"ספירת הנוצרים"}
-{"L":"eda de bronze","C":["n"],"en":"bronze age","he":"תקופת הברונזה"}
-{"L":"eda de fero","C":["n"],"en":"iron age","he":"תקופת הברזל"}
+{"L":"ecleticisme","C":["n"],"en":"eclecticism","fr":"(un) éclectisme","he":"אקלקטיות, לקטנות"}
+{"T":"r","L":"eclis","C":["n","ast"],"d":"un oscuri de la lus de un ojeto sielal par la pasa de un otra entre lo e la oservor, o entre lo e sua fonte de lumina","i":"#","da":"formørkelse","de":"Verfinsterung","en":"eclipse","es":"eclipse","fr":"(une) éclipse","he":"(אסטרונומיה) ליקוי"}
+{"L":"eclis anelo","C":["n"],"en":"annular eclipse","fr":"(une) éclipse annulaire","he":"ליקוי חמה טבעתי"}
+{"L":"eclisal","C":["a"],"en":"ecliptic","fr":"écliptique","he":"(אסטרונומיה) שקשור בליקוי"}
+{"L":"eclisal","C":["n"],"en":"ecliptic","fr":"(l') écliptique (nom masculin)","he":"מישור המילקה, אקליפטיק"}
+{"L":"eclisi","C":["vnt"],"en":"eclipse","fr":"s'éclipser","he":"(אסטרונומיה) להיכנס לליקוי"}
+{"L":"eclisi","C":["vt"],"en":"eclipse","fr":"éclipser","he":"(אסטרונומיה) לגרום לליקוי"}
+{"T":"r","L":"eco","C":["n","fis"],"d":"un sona, o serie de sonas, causada par la refleta de ondas de sona de un surfas a la escutor; un refleta simil de un raio de ondas, como de radio o radar","en":"echo","fr":"(un) écho","he":"הד, הדהוד"}
+{"L":"ecosa","C":["a"],"en":"echoic","fr":"échoïque","he":"מהדהד, הדהודי"}
+{"L":"fa un eco","C":["v"],"en":"echo","fr":"faire écho","he":"להדהד"}
+{"T":"r","L":"eco-","C":["pf","tecn"],"d":"pertinente a ecolojia","en":"eco-","fr":"éco-","he":"(קידומת טכנית) שקשור באקולוגיה"}
+{"T":"r","L":"ecograf","C":["n","med","util"],"d":"un aparato cual analise sona refletada e produi un representa grafica, tipal usada en medica, per esemplo per oserva la crese de un embrio","en":"echograph, sonograph, ultrasonograph","fr":"(un) échographe","he":"מכשיר אולטרה-סאונד"}
+{"L":"ecografi","C":["vt"],"en":"echograph, sonograph, ultrasonograph","fr":"faire une échographie","he":"לעשות אולטרה-סאונד"}
+{"L":"ecografia","C":["n"],"en":"echography, sonography, ultrasonography","fr":"(une) échographie","he":"בדיקת אולטרה-סאונד"}
+{"T":"r","L":"ecogram","C":["n","med","util"],"d":"un imaje o graf produida par un ecograf","en":"echogram, sonogram, ultrasonogram","fr":"(une) échographie","he":"אולטרה-סאונד (תוצאת בדיקה), סונוגרם"}
+{"T":"r","L":"ecolalia","C":["n","med"],"d":"un maladia de mente en cual on repete automata lo cual otras dise","en":"echolalia (medical)","fr":"(une) écholalie","he":"אקולליה, הדיות"}
+{"T":"r","L":"ecoloca","C":["vt"],"d":"descovre la loca de (un cosa) par deteta sonas refletada, como fada par delfines, ciroteros, etc","en":"echolocate","fr":"écholocaliser","he":"לאכן באמצעות הד"}
+{"L":"ecoloca","C":["n"],"en":"echolocation","fr":"(une) écholocalisation, (une) écholocation","he":"איכון הד, אקולוקציה"}
+{"T":"r","L":"ecolojia","C":["n","bio"],"d":"la ramo de biolojia cual studia la relatas entre organismes e entre los e sua ambiente fisical","da":"økologi","de":"Ökologie","en":"ecology","es":"ecología","fr":"(une) écologie","he":"אקולוגיה","it":"ecologia"}
+{"L":"ecolojial","C":["a"],"en":"ecological","fr":"écologique","he":"אקולוגי"}
+{"L":"ecolojial sana","C":["a"],"en":"environmentally friendly, eco-friendly","fr":"respectueux de l'environnement","he":"ידידותי לסביבה"}
+{"L":"ecolojiste","C":["n"],"en":"ecologist","fr":"(un) écologiste","he":"אקולוג"}
+{"T":"r","L":"econometria","C":["n","mone"],"d":"la ramo de economia cual aplica metodos statistical a la studia empirical de teorias e relatas economial","de":"Ökonometrie","en":"econometrics","es":"econometría","fr":"(une) économétrie","he":"אקונומטריה, אקונומטריקה"}
+{"T":"r","L":"economia","C":["n","mone","gov"],"d":"la ricia e recursos de un nasion o rejion, spesial notante la produi e consuma de benes e servis; la siensa e studia de esta","da":"økonomi","de":"Wirtschaft","en":"economy; economics","es":"economía","fr":"(une) économie","he":"כלכלה"}
+{"L":"economia de mercato","C":["n"],"d":"un sistem de economia cual depende de la interata de demanda e ofre","en":"market economy","fr":"(une) économie de marché","he":"כלכלת שוק"}
+{"L":"economia libraliste","C":["n"],"en":"liberal economy, laissez-faire economy","fr":"(une) économie libérale","he":"ליברליזם כלכלי"}
+{"L":"economia matematical","C":["n"],"en":"mathematical economy","fr":"(une) économie mathématique, (les) économathématiques","he":"כלכלה מתמטית"}
+{"L":"economial","C":["a"],"en":"economic","fr":"économique","he":"כלכלי"}
+{"L":"economiste","C":["n"],"en":"economist","fr":"(un) économiste","he":"כלכלן"}
+{"T":"r","L":"ecoside","C":["vt"],"d":"destrui la ecolojia de (un loca), tipal con intende","en":"commit ecocide, destroy the environment","fr":"commettre un écocide, détruire l'environnement","he":"לגרום לאקוסייד, להרוס את הסביבה"}
+{"L":"ecoside","C":["n"],"en":"ecocide","fr":"(un) écocide","he":"אקוסייד (הרס הסביבה הטבעית)"}
+{"T":"r","L":"ecosistem","C":["n","bio"],"d":"un comunia biolojial de organismes interatante e sua ambiente fisical","en":"ecosystem","fr":"(un) écosystème","he":"מערכת אקולוגית"}
+{"T":"r","L":"ecotono","C":["n","bio"],"d":"un zona de cambia entre du comunias biolojial","en":"ecotone (biology)","fr":"(un) écotone","he":"(ביולוגיה) רצועת מנשק"}
+{"T":"r","L":"ectare","C":["n","mat"],"d":"un unia metral per mesura area, egal a 100 ares","en":"hectare (unit of area)","fr":"(un) hectare (unité d'aire)","he":"הקטר (יחידת מידה)"}
+{"T":"r","L":"ecto-","C":["pf","tecn"],"d":"(un mesura) multiplida par 100","en":"hecto- (hundred)","fr":"hecto- (cent)","he":"(קידומת טכנית) מאה"}
+{"T":"r","L":"ecto-","C":["pf","tecn"],"d":"estra, esterna","en":"ecto- (outside)","fr":"ecto- (dehors)","he":"(קידומת טכנית) חיצוני"}
+{"T":"r","L":"ectoderma","C":["n","bio"],"d":"la strato de selulas la plu esterna, spesial en embrios temprana","en":"ectoderm (anatomy)","fr":"(un) ectoderme (anatomie)","he":"(אנטומיה) אקטודרם"}
+{"T":"r","L":"-ectomia","C":["sf","n","med"],"d":"estrae sirurjial","en":"-ectomy (surgery)","fr":"-ectomie (chirurgie)","he":"(סיומת טכנית) הסרה בניתוח"}
+{"T":"r","L":"ectopia","C":["n","med"],"d":"un loca o posa nonormal de un organo","en":"ectopia (medical)","fr":"(une) ectopie (médecine)","he":"(רפואה) אקטופיה"}
+{"L":"ectopica","C":["a","med"],"en":"ectopic","fr":"ectopique","he":"(רפואה) אקטופי, שלא במקומו"}
+{"T":"r","L":"ectoplasma","C":["n","bio"],"d":"la strato esterna, clar e la plu viscosa de sitoplasma en selulas amebin","en":"ectoplasm","fr":"(un) ectoplasme","he":"(ביולוגיה) אקטופלזמה"}
+{"T":"r","L":"Ecuador","C":["n","jeo"],"c":"Quito","d":"un pais en America Sude norde-ueste, con costa a la Mar Pasifica","i":"#","en":"Ecuador","fr":"(l') Équateur (pays)","he":"אקוודור"}
+{"L":"ecuadoran","C":["a"],"en":"Ecuadoran","fr":"équatorien","he":"אקוודורי"}
+{"L":"ecuadoran","C":["n"],"en":"Ecuadoran","fr":"(un) Équatorien","he":"אקוודורי"}
+{"T":"r","L":"ecuator","C":["n","tera","ast"],"d":"un linia imajinada sirca la Tera, a distantia egal de ambos polos, cual divide la Tera entre la emisferas norde e sude; un linia simil sur un otra ojeto sielal","en":"equator","eo":"ekvatoro","fr":"(l') équateur","he":"קו המשווה"}
+{"L":"ecuatoral","C":["a"],"en":"equatorial","eo":"ekvatora","fr":"équatorial","he":"משווני"}
+{"T":"r","L":"ecui-","C":["pf","tecn"],"d":"egal","en":"equi-","fr":"équi-","he":"(קידומת טכנית) שווה"}
+{"T":"r","L":"ecuidistante","C":["a"],"d":"(du o plu locas) a distantias egal de un otra","en":"equidistant","fr":"équidistant","he":"שווה מרחק"}
+{"T":"r","L":"ecuiladal","C":["a","mat"],"d":"(un triangulo) con la mesma longia a cada lado","en":"equilateral","fr":"équilatéral","he":"(משולש) שווה שוקיים"}
+{"T":"r","L":"ecuilibra","C":["vnt","fis","cim"],"d":"(un person o cosa) ave un distribui egal de pesa cual permete ce lo resta stable; (un state) conteni elementos diversa en proportios egal o coreta","en":"balance, poise","fr":"s'équilibrer","he":"להתאזן"}
+{"L":"ecuilibra","C":["vt"],"en":"balance, poise","fr":"équilibrer","he":"לאזן"}
+{"L":"ecuilibra","C":["n"],"da":"balance, ligevægt","de":"Gleichgewicht","en":"balance, equilibrium, kilter","es":"equilibrio","fr":"(un) équilibre","gl":"equilibrio","he":"איזון, שיווי משקל"}
+{"L":"ecuilibra idrostatical","C":["n"],"en":"hydrostatic balance, hydrostatic equilibrium","fr":"(un) équilibre hydrostatique","he":"שיווי משקל הידרוסטטי"}
+{"L":"desecuilibra","C":["vnt"],"en":"lose balance, be thrown off balance, overbalance, tip over, topple, knock over","fr":"perdre l'équilibre, se déséquilibrer, être déséquilibré, être en déséquilibre","he":"לאבד שיווי משקל"}
+{"L":"desecuilibra","C":["vt"],"en":"imbalance, unbalance, throw off balance, tip over, topple, knock over, overbalance","fr":"déséquilibrer, faire perdre l'équilibre à","he":"להפר איזון"}
+{"L":"nonecuilibra","C":["n"],"en":"imbalance","fr":"(un) déséquilibre","he":"חוסר איזון"}
+{"T":"r","L":"ecuinote","C":["n","ast"],"d":"la tempo o data (a du veses en cada anio, sirca 22 setembre e 20 marto) cuando la Sol traversa la ecuator de sielo, cuando la dia e la note es de longia egal","en":"equinox","fr":"(un) équinoxe","he":"(אסטרונומיה) נקודת השיוויון"}
+{"L":"ecuinote de autono","C":["n"],"en":"autumnal equinox","fr":"(un) équinoxe d'automne","he":"נקודת השיוויון הסתווית"}
+{"L":"ecuinote de primavera","C":["n"],"en":"vernal equinox","fr":"(un) équinoxe de printemps","he":"נקודת השיוויון האביבית"}
+{"T":"r","L":"ecuisito","C":["n","pla"],"d":"un planta sin flores, con tronceta vacua e sesionida, cual porta spirales de folias magra e produi sporas en conos a la estremas de la rametas","i":"#","t":"Equisetum","en":"horsetail (plant)","fr":"(la) prêle (plante)","he":"שבטבט (צמח)"}
+{"T":"r","L":"ecumenisme","C":["n","rel"],"d":"la promove de unia entre la ramos de cristiania en la mundo","en":"ecumenism","fr":"(un) écuménisme","he":"(נצרות) אקומניזם"}
+{"L":"ecumeniste","C":["a"],"en":"ecumenical","fr":"écuménique","he":"(נצרות) אקומני"}
+{"T":"r","L":"eczema","C":["n","med"],"d":"un maladia en cual pesos de pel deveni ru e inflamada, con bulas cual causa pruri e sangui","en":"eczema (medical)","fr":"(un) eczéma","he":"אקזמה"}
+{"T":"r","L":"ed","C":["n"],"d":"un letera anglosason e islansce, representante un fricante dental","s":"Ð ð","en":"eth, edh (letter)","fr":"eth, edh (lettre)","he":"אד' (האות החמישית באלפבית האיסלנדי)"}
+{"T":"r","L":"eda","C":["n","tera","ist","uma"],"d":"la cuantia de tempo tra cual un person o organisme ia vive o un cosa ia esiste; un periodo spesifada de istoria; (en jeolojia) un divide major de tempo, min ca un epoca","da":"alder","de":"Alter","en":"age (measure of years); age, era","es":"edad","fr":"(un) âge","he":"גיל; עידן, תקופה"}
+{"L":"eda comun","C":["n"],"en":"common era","fr":"(l') ère commune","he":"ספירת הנוצרים"}
+{"L":"eda de bronze","C":["n"],"en":"bronze age","fr":"(l') âge du bronze","he":"תקופת הברונזה"}
+{"L":"eda de fero","C":["n"],"en":"iron age","fr":"(l') âge du fer","he":"תקופת הברזל"}
 {"L":"eda de petra","C":["n"],"en":"stone age","he":"תקופת האבן"}
-{"L":"eda glasial","C":["n"],"en":"ice age","he":"עידן הקרח"}
-{"L":"eda grande","C":["n"],"en":"longevity","he":"אריכות ימים"}
-{"L":"eda matur","C":["n"],"en":"old age","he":"שיבה, זיקנה, גיל הזהב"}
-{"L":"eda media","C":["n"],"en":"middle age","he":"גיל העמידה"}
-{"L":"eda oro","C":["n"],"en":"golden age, heyday, halcyon days","he":"תור הזהב"}
-{"L":"eda scolal","C":["n"],"en":"school age","he":"גיל בית הספר"}
-{"L":"ante la eda comun","C":["a"],"en":"before the common era (BCE), before Christ (BC)","he":"לפני הספירה"}
-{"L":"de la eda comun","C":["a"],"en":"common era (CE), anno domini (AD)","he":"אחרי הספירה, לספירת הנוצרים"}
-{"L":"edisme","C":["n"],"en":"agism|ageism","he":"גילנות"}
-{"L":"ediste","C":["a"],"en":"agist|ageist","he":"גילני (מפלה על רקע גיל)"}
-{"T":"r","L":"edeago","C":["n","bio"],"d":"un organo per copula, trovada en insetos mas","en":"edeagus|aedeagus","he":"איבר החדרה (בחרקים)"}
-{"T":"r","L":"edema","C":["n","med"],"d":"un maladia marcada par la colie de tro multe licuida acuin en la cavetas o texedas de corpo","en":"edema|oedema (medical)","fr":"oedème","he":"בצקת"}
-{"T":"r","L":"Eden","C":["n","rel","mit"],"d":"(en alga relijios) la loca do la umanas prima ia abita; (metafor) un loca o state de felisia grande, como un paradiso","en":"Eden","he":"גן עדן"}
-{"T":"r","L":"eder","C":["n","avia"],"d":"un pato de mares norde","i":"#","t":"Somateria","en":"eider, eider duck","he":"אדרית, אדריה (ברווז)"}
-{"T":"r","L":"edera","C":["n","pla"],"d":"un planta trepante e perene, tipal con folias verde oscur con sinco puntos","i":"#","t":"Hedera","en":"ivy","fr":"lierre","he":"קיסוס (צמח)"}
-{"T":"r","L":"ederdon","C":["n","vest"],"d":"la plumas peti e suave de la peto de un eder fema, usada per pleni covreletos","en":"eiderdown","fr":"édredon","he":"פלומת ברווז"}
-{"T":"r","L":"Edipo","C":["n","mit"],"d":"un re elinica mital ci ia reali nonintendente un predise ce el va mata sua padre e sposi sua madre","i":"#","en":"Oedipus","he":"אדיפוס"}
-{"L":"edipal","C":["a"],"en":"Oedipal","he":"אדיפלי"}
+{"L":"eda glasial","C":["n"],"en":"ice age","fr":"(une) glaciation","he":"עידן הקרח"}
+{"L":"eda grande","C":["n"],"en":"longevity","fr":"(la) longévité","he":"אריכות ימים"}
+{"L":"eda matur","C":["n"],"en":"old age","fr":"(l') âge mûr","he":"שיבה, זיקנה, גיל הזהב"}
+{"L":"eda media","C":["n"],"en":"middle age","fr":"(le) Moyen Âge","he":"גיל העמידה"}
+{"L":"eda oro","C":["n"],"en":"golden age, heyday, halcyon days","fr":"(l') âge d'or","he":"תור הזהב"}
+{"L":"eda scolal","C":["n"],"en":"school age","fr":"(l') âge scolaire","he":"גיל בית הספר"}
+{"L":"ante la eda comun","C":["a"],"en":"before the common era (BCE), before Christ (BC)","fr":"avant l'ère commune, av. J.-C.","he":"לפני הספירה"}
+{"L":"de la eda comun","C":["a"],"en":"common era (CE), anno domini (AD)","fr":"de l'ère commune, de notre ère","he":"אחרי הספירה, לספירת הנוצרים"}
+{"L":"edisme","C":["n"],"en":"agism|ageism","fr":"(un) âgisme","he":"גילנות"}
+{"L":"ediste","C":["a"],"en":"agist|ageist","fr":"(un) âgiste","he":"גילני (מפלה על רקע גיל)"}
+{"T":"r","L":"edeago","C":["n","bio"],"d":"un organo per copula, trovada en insetos mas","en":"edeagus|aedeagus","fr":"(un) édéage","he":"איבר החדרה (בחרקים)"}
+{"T":"r","L":"edema","C":["n","med"],"d":"un maladia marcada par la colie de tro multe licuida acuin en la cavetas o texedas de corpo","en":"edema|oedema (medical)","fr":"(un) œdème","he":"בצקת"}
+{"T":"r","L":"Eden","C":["n","rel","mit"],"d":"(en alga relijios) la loca do la umanas prima ia abita; (metafor) un loca o state de felisia grande, como un paradiso","en":"Eden","fr":"(l') Éden; (un) éden (sens métaphorique)","he":"גן עדן"}
+{"T":"r","L":"eder","C":["n","avia"],"d":"un pato de mares norde","i":"#","t":"Somateria","en":"eider, eider duck","fr":"(un) eider","he":"אדרית, אדריה (ברווז)"}
+{"T":"r","L":"edera","C":["n","pla"],"d":"un planta trepante e perene, tipal con folias verde oscur con sinco puntos","i":"#","t":"Hedera","en":"ivy","fr":"(le) lierre","he":"קיסוס (צמח)"}
+{"T":"r","L":"ederdon","C":["n","vest"],"d":"la plumas peti e suave de la peto de un eder fema, usada per pleni covreletos","en":"eiderdown","fr":"(un) édredon","he":"פלומת ברווז"}
+{"T":"r","L":"Edipo","C":["n","mit"],"d":"un re elinica mital ci ia reali nonintendente un predise ce el va mata sua padre e sposi sua madre","i":"#","en":"Oedipus","fr":"Œdipe","he":"אדיפוס"}
+{"L":"edipal","C":["a"],"en":"Oedipal","fr":"Œdipien","he":"אדיפלי"}
 {"T":"r","L":"edita","C":["vt","arte","info"],"d":"prepara (scrivedas) per publici, par coreti, condensa o organiza los; eleje elementos per (un filma o simil) e organiza los a un unia coerente; cambia (un testo) a un computador","en":"edit","fr":"éditer","he":"לערוך"}
-{"L":"edita","C":["n"],"en":"editing; edit, edition","he":"עריכה; מהדורה"}
-{"L":"coedita","C":["vt"],"en":"coedit","he":"לערוך במשותף"}
-{"L":"coeditor","C":["n"],"en":"coeditor","he":"עורך משותף"}
-{"L":"editador","C":["n"],"en":"(software) editor, editing program","he":"תוכנת עריכה"}
-{"L":"editador de fasimil","C":["n"],"en":"WYSIWYG editor","he":"תוכנת עריכה ויזואלית"}
-{"L":"editor","C":["n"],"en":"editor","he":"עורך"}
-{"T":"r","L":"editorial","C":["n","arte"],"d":"un article en un jornal, espresante la opina de la editor sur un tema corente","en":"editorial","he":"מאמר מערכת, דבר העורך"}
-{"T":"r","L":"edonisme","C":["n","uma"],"d":"la xasa de plaser","en":"hedonism, sybaritism","he":"נהנתנות, הדוניזם"}
-{"L":"edoniste","C":["a"],"en":"hedonistic","he":"נהנתני, הדוניסטי"}
-{"L":"edoniste","C":["n"],"en":"hedonist, sybarite","he":"נהנתן, הדוניסט"}
-{"T":"r","L":"-edro","C":["sf","n","mat"],"d":"nominte solidas jeometrial, con prefisa indicante la cuantia de fases o sua forma","en":"-hedron (geometric solid)","he":"(סיומת טכנית) צורה גאומטרית"}
-{"T":"r","L":"educa","C":["vt","uma"],"d":"instrui (un person) en modos inteletal e sosial, tipal a un scola o universia","en":"educate, school, edify","he":"לחנך"}
-{"L":"educa","C":["n"],"en":"education, edification","he":"חינוך, השכלה"}
-{"L":"educa ajuntada","C":["n"],"en":"further education","he":"לימודי המשך"}
-{"L":"educa coletiva","C":["n"],"en":"mass education","he":"חינוך חובה"}
-{"L":"educa de liseo","C":["n"],"en":"secondary education","he":"חינוך על-יסודי"}
-{"L":"educa de universia","C":["n"],"en":"higher education, tertiary education","he":"חינוך גבוה, השכלה גבוהה"}
-{"L":"educa prima","C":["n"],"en":"primary education","he":"חינוך יסודי"}
-{"L":"coeduca","C":["vt"],"en":"coeducate","he":"לחנך במעורב"}
-{"L":"coeduca","C":["n"],"en":"coeducation","he":"חינוך מעורב"}
-{"L":"educable","C":["a"],"en":"educable","he":"בר-חינוך"}
-{"L":"educada","C":["a"],"en":"educated, schooled, learned","he":"מחונך, משכיל"}
-{"L":"educal","C":["a"],"en":"educational","he":"חינוכי, השכלתי"}
-{"L":"educor","C":["n"],"en":"educator","he":"מחנך"}
-{"L":"noneducada","C":["a"],"en":"uneducated, unschooled, uncultured, ignorant, unskilled, menial","he":"חסר השכלה, בור"}
-{"L":"reeduca","C":["vt"],"en":"re-educate","he":"לחנך מחדש"}
-{"T":"r","L":"Edward, Lago","C":["n","jeo"],"d":"un lago a la frontera entre Uganda e la Republica Democrata de Congo","i":"Lago-Edward","en":"Lake Edward","he":"אגם אדוארד"}
-{"T":"r","L":"efedra","C":["n","pla"],"d":"un arboreta perene de zonas calda e seca, con troncetas trepante e folias pico e scamin","i":"#","t":"Ephedra","en":"ephedra (plant)","he":"שרביטן (צמח)"}
-{"T":"r","L":"efedrina","C":["n","med"],"d":"un medisin otenida de alga efedras, usada per constrinje la tubos sangual e abri la broncos","en":"ephedrine (drug)","he":"אפדרין (תרופה)"}
-{"T":"r","L":"efemera","C":["a"],"d":"esistente o usada per un periodo multe corta","en":"ephemeral","he":"קצר ימים, בן-חלוף"}
-{"L":"efemera","C":["n","artr"],"d":"un inseto magra, con alas diafana e du o tre filetas longa a la coda, notada per sua vive multe corta","i":"#","t":"Ephemeroptera","en":"mayfly","he":"בריומאי (חרק)"}
-{"L":"efemeras","C":["n","pl"],"en":"ephemera","he":"בריומאים (חרקים)"}
-{"T":"r","L":"efeto","C":["n"],"d":"un cambia cual resulta de un ata o otra causa; un usa de sona o lumina per forti la ilude de un teatral o filma","da":"effekt","de":"Wirkung, Effekt","en":"effect; consequence, impact, footprint","es":"efecto","fr":"effet","he":"אפקט, תוצא; רושם, אימפקט"}
-{"L":"efeto de Doppler","C":["n"],"d":"un cambia en frecuentia de sona, lus o otra ondas cuando la fonte e la oservor move a via de lunlotra","en":"Doppler effect","he":"אפקט דופלר"}
-{"L":"efeto de moda","C":["n"],"en":"bandwagon effect","he":"אפקט העדר"}
-{"L":"efeto invernerial","C":["n"],"en":"greenhouse effect","he":"אפקט החממה"}
-{"L":"efeto spesial","C":["n"],"en":"special effect","he":"אפקט מיוחד"}
-{"L":"efetosa","C":["a"],"d":"causante un efeto major o multe efetos","v":"eficas","en":"effective, to great effect (intentionally or otherwise)","he":"מרשים, אימפקטי, בעל אפקט משמעותי"}
-{"L":"efetosia","C":["n"],"en":"effectiveness","he":"היכולת ליצור אפקט משמעותי"}
-{"L":"en efeto","C":["av"],"en":"in effect, effectively","he":"למעשה, בפועל, בעצם"}
-{"L":"posefeto","C":["n"],"en":"aftereffect","he":"תגובת לוואי, תוצא גרר"}
-{"T":"r","L":"eficas","C":["a"],"d":"susedosa en la produi de un resulta desirada o intendeda","v":"efetosa","en":"effective, efficacious (producing the desired effect)","he":"אפקטיבי, יעיל"}
-{"L":"eficasia","C":["n"],"en":"effectiveness, efficacy","he":"אפקטיביות, יעילות"}
-{"L":"noneficas","C":["a"],"en":"ineffective","he":"לא אפקטיבי, לא יעיל"}
-{"T":"r","L":"efrata","C":["vt","gov"],"d":"entra a (un construida) nonlegal con intende crimin, spesial de fura","en":"burglarize|burgle","he":"לפרוץ (למבנה)"}
-{"L":"efrata","C":["n"],"en":"burglary","he":"פריצה (למבנה)"}
-{"L":"efrator","C":["n"],"en":"burglar","he":"פורץ"}
+{"L":"edita","C":["n"],"en":"editing; edit, edition","fr":"(une) édition","he":"עריכה; מהדורה"}
+{"L":"coedita","C":["vt"],"en":"coedit","fr":"coéditer","he":"לערוך במשותף"}
+{"L":"coeditor","C":["n"],"en":"coeditor","fr":"(un) coéditeur","he":"עורך משותף"}
+{"L":"editador","C":["n"],"en":"(software) editor, editing program","fr":"(un) éditeur|traitement de texte (logiciel)","he":"תוכנת עריכה"}
+{"L":"editador de fasimil","C":["n"],"en":"WYSIWYG editor","fr":"(un) éditeur|traitement de texte WYSYWYG, (un) éditeur|traitement de texte tel écran, tel écrit","he":"תוכנת עריכה ויזואלית"}
+{"L":"editor","C":["n"],"en":"editor","fr":"(un) éditeur (personne, entreprise)","he":"עורך"}
+{"T":"r","L":"editorial","C":["n","arte"],"d":"un article en un jornal, espresante la opina de la editor sur un tema corente","en":"editorial","fr":"(un) éditorial","he":"מאמר מערכת, דבר העורך"}
+{"T":"r","L":"edonisme","C":["n","uma"],"d":"la xasa de plaser","en":"hedonism, sybaritism","fr":"(un) hédonisme","he":"נהנתנות, הדוניזם"}
+{"L":"edoniste","C":["a"],"en":"hedonistic","fr":"hédoniste","he":"נהנתני, הדוניסטי"}
+{"L":"edoniste","C":["n"],"en":"hedonist, sybarite","fr":"(un) hédoniste","he":"נהנתן, הדוניסט"}
+{"T":"r","L":"-edro","C":["sf","n","mat"],"d":"nominte solidas jeometrial, con prefisa indicante la cuantia de fases o sua forma","en":"-hedron (geometric solid)","fr":"-èdre (face d'un volume géométrique)","he":"(סיומת טכנית) צורה גאומטרית"}
+{"T":"r","L":"educa","C":["vt","uma"],"d":"instrui (un person) en modos inteletal e sosial, tipal a un scola o universia","en":"educate, school, edify","fr":"éduquer, enseigner","he":"לחנך"}
+{"L":"educa","C":["n"],"en":"education, edification","fr":"(une) éducation, (un) enseignement","he":"חינוך, השכלה"}
+{"L":"educa ajuntada","C":["n"],"en":"further education","fr":"(l') enseignement supérieur","he":"לימודי המשך"}
+{"L":"educa coletiva","C":["n"],"en":"mass education","fr":"(une) éducation populaire","he":"חינוך חובה"}
+{"L":"educa de liseo","C":["n"],"en":"secondary education","fr":"(l') enseignement secondaire, (le) secondaire","he":"חינוך על-יסודי"}
+{"L":"educa de universia","C":["n"],"en":"higher education, tertiary education","fr":"(l') enseignement supérieur","he":"חינוך גבוה, השכלה גבוהה"}
+{"L":"educa prima","C":["n"],"en":"primary education","fr":"(l') enseignement primaire","he":"חינוך יסודי"}
+{"L":"coeduca","C":["vt"],"en":"coeducate","fr":"coéduquer","he":"לחנך במעורב"}
+{"L":"coeduca","C":["n"],"en":"coeducation","fr":"(une) coéducation","he":"חינוך מעורב"}
+{"L":"educable","C":["a"],"en":"educable","fr":"éducable","he":"בר-חינוך"}
+{"L":"educada","C":["a"],"en":"educated, schooled, learned","fr":"éduqué, instruit, enseigné","he":"מחונך, משכיל"}
+{"L":"educal","C":["a"],"en":"educational","fr":"éducatif","he":"חינוכי, השכלתי"}
+{"L":"educor","C":["n"],"en":"educator","fr":"(un) éducateur, (un) enseignant","he":"מחנך"}
+{"L":"noneducada","C":["a"],"en":"uneducated, unschooled, uncultured, ignorant, unskilled, menial","fr":"non éduqué, non instruit, non cultivé, inculte, ignorant","he":"חסר השכלה, בור"}
+{"L":"reeduca","C":["vt"],"en":"re-educate","fr":"rééduquer","he":"לחנך מחדש"}
+{"T":"r","L":"Edward, Lago","C":["n","jeo"],"d":"un lago a la frontera entre Uganda e la Republica Democrata de Congo","i":"Lago-Edward","en":"Lake Edward","fr":"(le) lac Édouard","he":"אגם אדוארד"}
+{"T":"r","L":"efedra","C":["n","pla"],"d":"un arboreta perene de zonas calda e seca, con troncetas trepante e folias pico e scamin","i":"#","t":"Ephedra","en":"ephedra (plant)","fr":"(un|une) éphèdre (plante)","he":"שרביטן (צמח)"}
+{"T":"r","L":"efedrina","C":["n","med"],"d":"un medisin otenida de alga efedras, usada per constrinje la tubos sangual e abri la broncos","en":"ephedrine (drug)","fr":"(l') éphédrine","he":"אפדרין (תרופה)"}
+{"T":"r","L":"efemera","C":["a"],"d":"esistente o usada per un periodo multe corta","en":"ephemeral","fr":"éphémère","he":"קצר ימים, בן-חלוף"}
+{"L":"efemera","C":["n","artr"],"d":"un inseto magra, con alas diafana e du o tre filetas longa a la coda, notada per sua vive multe corta","i":"#","t":"Ephemeroptera","en":"mayfly","fr":"(un) éphémère, (un) éphéméroptère (insecte)","he":"בריומאי (חרק)"}
+{"L":"efemeras","C":["n","pl"],"en":"ephemera","fr":"(des) ephemera","he":"בריומאים (חרקים)"}
+{"T":"r","L":"efeto","C":["n"],"d":"un cambia cual resulta de un ata o otra causa; un usa de sona o lumina per forti la ilude de un teatral o filma","da":"effekt","de":"Wirkung, Effekt","en":"effect; consequence, impact, footprint","es":"efecto","fr":"(un) effet","he":"אפקט, תוצא; רושם, אימפקט"}
+{"L":"efeto de Doppler","C":["n"],"d":"un cambia en frecuentia de sona, lus o otra ondas cuando la fonte e la oservor move a via de lunlotra","en":"Doppler effect","fr":"(un) effet Doppler","he":"אפקט דופלר"}
+{"L":"efeto de moda","C":["n"],"en":"bandwagon effect","fr":"(un) effet de mode","he":"אפקט העדר"}
+{"L":"efeto invernerial","C":["n"],"en":"greenhouse effect","fr":"(un) effet de serre","he":"אפקט החממה"}
+{"L":"efeto spesial","C":["n"],"en":"special effect","fr":"(un) effet spécial, (des) effets spéciaux","he":"אפקט מיוחד"}
+{"L":"efetosa","C":["a"],"d":"causante un efeto major o multe efetos","v":"eficas","en":"effective, to great effect (intentionally or otherwise)","fr":"efficace, efficient, performant","he":"מרשים, אימפקטי, בעל אפקט משמעותי"}
+{"L":"efetosia","C":["n"],"en":"effectiveness","fr":"(une) efficacité, (une) efficience","he":"היכולת ליצור אפקט משמעותי"}
+{"L":"en efeto","C":["av"],"en":"in effect, effectively","fr":"en effet, effectivement","he":"למעשה, בפועל, בעצם"}
+{"L":"posefeto","C":["n"],"en":"aftereffect","fr":"(un) effet secondaire","he":"תגובת לוואי, תוצא גרר"}
+{"T":"r","L":"eficas","C":["a"],"d":"susedosa en la produi de un resulta desirada o intendeda","v":"efetosa","en":"effective, efficacious (producing the desired effect)","fr":"efficace, efficient, performant","he":"אפקטיבי, יעיל"}
+{"L":"eficasia","C":["n"],"en":"effectiveness, efficacy","fr":"(une) efficacité, (une) efficience","he":"אפקטיביות, יעילות"}
+{"L":"noneficas","C":["a"],"en":"ineffective","fr":"inefficace","he":"לא אפקטיבי, לא יעיל"}
+{"T":"r","L":"efrata","C":["vt","gov"],"d":"entra a (un construida) nonlegal con intende crimin, spesial de fura","en":"burglarize|burgle","fr":"entrer par infraction dans|chez|en, cambrioler","he":"לפרוץ (למבנה)"}
+{"L":"efrata","C":["n"],"en":"burglary","fr":"(une) intrusion par effraction, (un) vol par effraction, (un) cambriolage","he":"פריצה (למבנה)"}
+{"L":"efrator","C":["n"],"en":"burglar","fr":"(un) voleur, (un) cambrioleur","he":"פורץ"}
 {"T":"r","L":"egal","C":["a","mat"],"d":"con la mesma cuantia, grandia, grado o valua; (un max) en cual la ecipos fini con un cuantia egal de puntos","da":"lige (ligeberettiget)","de":"gleich","en":"equal, equivalent, tantamount; tied, drawn","es":"igual","fr":"égal","he":"שווה, זהה, שווה ערך, שקיל; (ב)תיקו"}
 {"L":"egal","C":["n"],"en":"tie, draw (match result); deuce (tennis); toss-up","he":"תיקו"}
 {"L":"atenta egali","C":["v"],"en":"try to catch up, play catch-up","he":"לנסות להשתוות"}
@@ -9509,7 +9509,7 @@
 {"L":"enoteiste","C":["n"],"en":"henotheist"}
 {"T":"r","L":"enrola","C":["vnt","util"],"d":"move se a un posa curva e comfortosa","en":"curl up, roll up (into a ball), snuggle, furl","fr":"s'enrouler"}
 {"L":"enrola","C":["vt"],"d":"curvi (alga cosa) sur se per dona a lo un forma compata e simil a un bal; fa ce (un aparato, tipal un orolojo) funsiona par turna un clave o manico","en":"roll up, ball up, scrunch up, wad; wind, coil, wind up (mechanism)"}
-{"L":"enrola","C":["n"],"en":"roll; coil, skein"}
+{"L":"enrola","C":["n"],"en":"roll; coil, skein; scroll"}
 {"L":"enrola de piano","C":["n"],"d":"un enrola de paper perforada cual controla la moves de la teclas en un piano automata","en":"piano roll"}
 {"L":"desenrola","C":["vnt"],"en":"unroll, unwind, uncoil, unfurl"}
 {"L":"enrolador","C":["n"],"en":"winch, capstan, windlass"}
@@ -15620,15 +15620,15 @@
 {"L":"manual de instrui","C":["n"],"en":"training manual, instruction book","fr":"manuel d'instruction"}
 {"L":"manual de stilo","C":["n"],"en":"style guide, stylebook"}
 {"L":"manual prima","C":["n"],"en":"primer, basic guide"}
-{"T":"r","L":"manxa","C":["vt"],"d":"marca (un cosa o person) en un modo cual mali sua aspeta","en":"stain, blemish, blot, mar, tarnish, taint, sully, besmirch, stigmatize|is, deface, disfigure; smudge, smear","fr":"tacher"}
-{"L":"manxa","C":["n"],"i":"#","en":"stain, blemish, blot, blotch, spot, fleck; smudge, smear; marking (animals, plants)","es":"defecto, mancha, tachón, tacha, manchón, borrón","fr":"tache"}
-{"L":"manxa de inca","C":["n"],"i":"#","en":"inkblot"}
-{"L":"manxa de larmas","C":["n"],"en":"tearstain"}
-{"L":"manxa frotada","C":["n"],"en":"smudge, smear"}
-{"L":"manxa solal","C":["n"],"en":"sunspot"}
-{"L":"manxeta","C":["n"],"en":"speckle"}
-{"L":"manxosa","C":["a"],"en":"blotchy, smudgy, mottled, dappled"}
-{"L":"nonmanxada","C":["a"],"en":"unmarked, unblemished, unsullied, untainted, immaculate, pristine","fr":"immaculé"}
+{"T":"r","L":"manxa","C":["vt"],"d":"marca (un cosa o person) en un modo cual mali sua aspeta","en":"stain, blemish, blot, mar, tarnish, taint, sully, besmirch, stigmatize|is, deface, disfigure; smudge, smear","fr":"tacher, salir, maculer, ternir, abîmer, souiller, stigmatiser, défigurer"}
+{"L":"manxa","C":["n"],"i":"#","en":"stain, blemish, blot, blotch, spot, fleck; smudge, smear; marking (animals, plants)","es":"defecto, mancha, tachón, tacha, manchón, borrón","fr":"(une) tache, (une) salissure, (une) souillure"}
+{"L":"manxa de inca","C":["n"],"i":"#","en":"inkblot","fr":"(une) tache d'encre"}
+{"L":"manxa de larmas","C":["n"],"en":"tearstain","fr":"(une) tache de larme"}
+{"L":"manxa frotada","C":["n"],"en":"smudge, smear","fr":"(une) trace, (une) salissure, (une) tache"}
+{"L":"manxa solal","C":["n"],"en":"sunspot","fr":"(une) tache solaire"}
+{"L":"manxeta","C":["n"],"en":"speckle","fr":"(une) saleté, (une) tacheture, (une) moucheture, (une) tavelure"}
+{"L":"manxosa","C":["a"],"en":"blotchy, smudgy, mottled, dappled","fr":"barbouillé, sale, taché, tacheté, moucheté"}
+{"L":"nonmanxada","C":["a"],"en":"unmarked, unblemished, unsullied, untainted, immaculate, pristine","fr":"immaculé, sans tache"}
 {"T":"r","L":"maoisme","C":["n","gov"],"d":"la ideas comuniste de Mao Zedong, cual la formi un politica pasada de Jonguo","p":"maoïsme","en":"Maoism (politics)"}
 {"L":"maoiste","C":["a"],"p":"maoïste","en":"Maoist"}
 {"T":"r","L":"maori","C":["a","dem"],"d":"pertinente a la popla orijinal de Zeland Nova, o a sua lingua polinesian","en":"Maori"}
@@ -16989,6 +16989,7 @@
 {"L":"move","C":["n"],"en":"movement, move, motion, locomotion; movement (music)"}
 {"L":"move ajitada","C":["v"],"en":"fidget"}
 {"L":"move caracolin","C":["v"],"en":"move at a snail's pace, crawl along"}
+{"L":"move eterna","C":["n"],"en":"perpetual motion","fr":"(le) mouvement perpétuel"}
 {"L":"move furtiva","C":["v"],"en":"slink"}
 {"L":"move laborosa","C":["v"],"en":"move laboriously, manhandle"}
 {"L":"move sua casa","C":["v"],"en":"move house, move"}
@@ -23985,7 +23986,7 @@
 {"L":"sena vivante","C":["n"],"en":"tableau"}
 {"T":"r","L":"senario","C":["n","arte"],"d":"la testo per un teatral, filma o difusa de radio o televide","en":"script, screenplay, scenario"}
 {"L":"senariste","C":["n"],"en":"screenwriter, scriptwriter, scenarist"}
-{"T":"r","L":"senato","C":["n","gov"],"d":"un de alga legerias, como la asembla superior en la SUA, Frans e Roma antica","en":"senate"}
+{"T":"r","L":"senato","C":["n","gov"],"d":"un de alga legerias, como la Salon Alta en la SUA, Frans e Roma antica","en":"senate"}
 {"L":"senator","C":["n"],"en":"senator"}
 {"T":"r","L":"sene","C":["n","cim"],"d":"polvo o otra materia restante pos un arde","i":"#","da":"aske","de":"Asche","en":"ash, cinders","eo":"cindro","es":"ceniza","fr":"cendre","it":"cenere","nl":"as","pt":"cinza"}
 {"L":"seneria","C":["n"],"en":"crematorium, crematory"}
