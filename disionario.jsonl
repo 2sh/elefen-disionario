@@ -431,6 +431,7 @@
 {"L":"Agila","C":["n","ast"],"d":"un constela ecuatoral","en":"Aquila (constellation)","eo":"Aglo","fr":"Aigle (constellation)","he":"קבוצת הכוכבים נשר"}
 {"L":"agileta","C":["n"],"d":"un agila enfante","en":"eaglet","eo":"aglido","fr":"aiglon","he":"עיט צעיר"}
 {"L":"agilin","C":["a"],"en":"aquiline; eagle-eyed","eo":"agleca","fr":"aquilin","he":"נשרי"}
+{"L":"agilon","C":["n"],"d":"un sceleto lejera covreda con un materia magra, cual on vola en la venta a la fini de un filo longa","en":"kite (toy)","fr":"cerf-volant","he":"עפיפון"}
 {"T":"r","L":"aglutina","C":["vt","ling"],"d":"combina (morfemes semantical) per formi un parola nova","o":"de latina ad- (a) + glutinare (coli)","en":"agglutinate","eo":"aglutini, alglui","fr":"agglutiner","he":"ליצור מילים חדשות על ידי חיבור מילים או מיליות"}
 {"L":"aglutinante","C":["a","ling"],"en":"agglutinative","eo":"aglutina","fr":"agglutinant","he":"שפה שבה יוצרים מילים על ידי חיבור"}
 {"T":"r","L":"agnosia","C":["n","med"],"d":"un noncapasia de interprete sensas e donce de reconose cosas, tipal resultante de dana serebral","en":"agnosia","fr":"agnosie","he":"אגנוזיה, אל-הכר"}
@@ -1255,10 +1256,10 @@
 {"L":"anguli","C":["vt"],"en":"angle","fr":"angler","he":"להטות, לזוות"}
 {"L":"angulida","C":["a"],"en":"angled","fr":"anglé","he":"מוטה, מזוות"}
 {"T":"r","L":"angulometre","C":["n","util"],"d":"un strumento per mesura angulos","i":"#","en":"protractor","fr":"rapporteur (instrument)","he":"מד-זווית"}
-{"T":"r","L":"angusa","C":["vt","uma"],"d":"fa ce (algun) sufri multe en sua mente par un xoca o preocupa ansiosa","en":"distress, appal|ll, harrow","fr":"angoisser, inquiéter","he":"לגרום לייסורים, לגרום למצוקה"}
-{"L":"angusa","C":["n"],"en":"agony, anguish, anxiety, dismay, consternation, distress, stress (mental), tribulation","fr":"angoisse, anxiété, inquiétude","he":"ייסורים, סבל, עינוי, חרדה, לחץ, סטרס, מצוקה"}
-{"L":"angusada","C":["a"],"en":"distressed, anxious, agonized|is, anguished, in anguish","fr":"angoissé, anxieux, inquiet","he":"מיוסר, חרד, מעונה, סובל, לחוץ, שרוי במצוקה"}
-{"L":"angusante","C":["a"],"en":"distressing, appalling, harrowing, hurtful","fr":"angoissant, effroyable, épouvantable","he":"מייסר, מענה, גורם לסבל, מלחיץ"}
+{"T":"r","L":"angusa","C":["vt","uma"],"d":"fa ce (algun) sufri multe en sua mente par un xoca o preocupa ansiosa","en":"distress, appal|ll, harrow, upset","fr":"angoisser, inquiéter","he":"לגרום לייסורים, לגרום למצוקה"}
+{"L":"angusa","C":["n"],"en":"agony, anguish, anxiety, dismay, consternation, distress, upset, stress (mental), tribulation","fr":"angoisse, anxiété, inquiétude","he":"ייסורים, סבל, עינוי, חרדה, לחץ, סטרס, מצוקה"}
+{"L":"angusada","C":["a"],"en":"distressed, anxious, agonized|is, anguished, in anguish, upset","fr":"angoissé, anxieux, inquiet","he":"מיוסר, חרד, מעונה, סובל, לחוץ, שרוי במצוקה"}
+{"L":"angusante","C":["a"],"en":"distressing, appalling, harrowing, hurtful, upsetting","fr":"angoissant, effroyable, épouvantable","he":"מייסר, מענה, גורם לסבל, מלחיץ"}
 {"T":"r","L":"ani","C":["n","avia"],"d":"un avia briliante negra de America Sentral e Sude, en familia de cucu, con coda longa e beco grande e profonda","i":"#","t":"Crotophaga","en":"ani (bird)","fr":"ani (oiseau)","he":"אני (ציפור)"}
 {"T":"r","L":"anilina","C":["n","cim"],"d":"un licuida oliosa sin color, presente en catran de carbon, usada per fabrica tinjentes, medisines e plasticas","en":"aniline (substance)","fr":"aniline (substance)","he":"אנילין"}
 {"T":"r","L":"anima","C":["vnt","arte"],"d":"deveni vivente o parente vivente","en":"animate, come to life","fr":"s'animer","he":"להתעורר לחיים"}
@@ -2153,6 +2154,7 @@
 {"T":"r","L":"astrolojia","C":["n","mit"],"d":"la studia de la moves e locas relativa de ojetos sielal, interpretente los como afetante la mundo natural e umana","o":"de elinica aster (stela) + logos (razona)","en":"astrology","fr":"astrologie","he":"אסטרולוגיה"}
 {"L":"astrolojial","C":["a"],"en":"astrological","fr":"astrologique","he":"אסטרולוגי"}
 {"L":"astrolojiste","C":["n"],"en":"astrologer, astrologist","fr":"astrologue","he":"אסטרולוג"}
+{"T":"r","L":"astrometria","C":["n","ast"],"d":"la ramo de astronomia cual mesura la locas e moves de stelas e otra ojetos sielal","en":"astrometry"}
 {"T":"r","L":"astronauta","C":["n","ast"],"d":"un person instruida per viaja en spasio","i":"#","o":"de elinica aster (stela) + nautes (marinor)","en":"astronaut, cosmonaut, spaceman, spacewoman","fr":"astronaute","he":"אסטרונאוט"}
 {"T":"r","L":"astronautica","C":["n","ast"],"en":"astronautics","fr":"astronautique","he":"אסטרונאוטיקה"}
 {"T":"r","L":"astronomia","C":["n","ast"],"d":"la siensa cual studia la spasio, ojetos sielal, e la universo fisical intera","o":"de elinica aster (stela) + nomos (lege)","en":"astronomy","fr":"astronomie","he":"אסטרונומיה"}
@@ -2478,6 +2480,7 @@
 {"L":"on ave un problem","C":["esp"],"en":"there is a problem","fr":"il y a un problème","he":"ישנה בעיה"}
 {"L":"on no ave","C":["v"],"en":"there is not, there are not","fr":"il n'y a pas","he":"אין"}
 {"L":"avor","C":["n"],"en":"haver, one who has (property, etc)"}
+{"L":"reave","C":["vt"],"en":"have once again, have back"}
 {"T":"r","L":"avena","C":["n","pla","cos"],"d":"un planta sereal, cultivada en climas fria; la gran de esta, comeda par umanas e animales","i":"#","t":"Avena","da":"havre","de":"Hafer","en":"oat, oats","es":"avena","fr":"avoine","he":"שיבולת שועל"}
 {"T":"r","L":"aveni","C":["vnt"],"d":"(un ata) es fada, o reali se","da":"ske, hænde","de":"geschehen","en":"happen, occur, take place, transpire","es":"suceder, ocurrir, acontecer, pasar","fr":"se produire, se tenir, avoir lieu","he":"לקרות, להתרחש"}
 {"L":"aveni","C":["vt"],"en":"cause to happen, stage, hold (event)","fr":"faire se produire, faire se tenir (un événement)","he":"לגרום למשהו לקרות, להוציא לפועל; לקיים (אירוע)"}
@@ -4218,7 +4221,7 @@
 {"L":"camera ueb","C":["n"],"i":"#","en":"webcam","fr":"webcam","he":"מצלמת רשת"}
 {"L":"camera vijilante","C":["n"],"en":"CCTV camera","fr":"caméra de surveillance","he":"מצלמת אבטחה"}
 {"L":"cameror","C":["n"],"en":"camera operator, cameraman, camerawoman","fr":"cameraman","he":"(קולנוע) מפעיל מצלמה"}
-{"T":"r","L":"camerada","C":["n"],"d":"un acompanior ci ave la mesma interesas o es un membro de la mesma organiza; un sitadan de la mesma nasion o pais; un person con ci on pasa multe tempo o con ci on viaja","en":"comrade, companion, compatriot, crony, sidekick","fr":"camarade, compagnon, compatriote, copain","he":"חבר, שותף, עמית"}
+{"T":"r","L":"camerada","C":["n"],"d":"un acompanior ci ave la mesma interesas o es un membro de la mesma organiza; un sitadan de la mesma nasion o pais; un person con ci on pasa multe tempo o con ci on viaja","en":"comrade, companion, compatriot, crony, sidekick, pal","fr":"camarade, compagnon, compatriote, copain","he":"חבר, שותף, עמית"}
 {"L":"camerada de aparte","C":["n"],"en":"flatmate","fr":"colocataire, coloc (qui partage le même appartement)","he":"שותף לדירה"}
 {"L":"camerada de barco","C":["n"],"en":"shipmate","fr":"compagnon de bord","he":"שותף להפלגה"}
 {"L":"camerada de clase","C":["n"],"en":"classmate","fr":"camarade de classe","he":"חבר לכיתה, בן מחזור"}
@@ -5101,6 +5104,7 @@
 {"L":"cimrica","C":["a"],"en":"Welsh (person, language)","fr":"gallois","he":"ולשי, ולשית (שפה)"}
 {"L":"cimrica","C":["n"],"en":"Welsh (person, language)","fr":"Gallois (personne), gallois (langue)","he":"ולשי, ולשית (שפה)"}
 {"T":"r","L":"cincaju","C":["n","mam"],"d":"un mamal neotropical cual abita arbores e come frutas","i":"#","t":"Potos flavus","en":"kinkajou (animal)","fr":"kinkajou, potos (animal)","he":"דביבון לופת, קינקז'ו"}
+{"T":"r","L":"cinematica","C":["n","fis"],"d":"la ramo de mecanica cual studia la moves de ojetos sin refere a sua causas","en":"cinematics"}
 {"T":"r","L":"cinesiolojia","C":["n","med"],"d":"la studia de la mecanica de la move de la corpo","en":"kinesiology","fr":"kinésiologie, cinésiologie","he":"קינסיולוגיה"}
 {"L":"cinesiolojiste","C":["n"],"en":"kinesiologist","fr":"kinésiologue","he":"קינסיולוג"}
 {"T":"r","L":"cinestesia","C":["n","uma"],"d":"la persepi de la posa e move de la partes de la corpo par la organos sensal en la musculos e juntas","en":"kinesthesia|kinaesthesia","fr":"proprioception, kinesthésie","he":"קינסתזיה, חוש ניעות"}
@@ -5143,8 +5147,8 @@
 {"T":"r","L":"ciui","C":["n","pla","cos"],"d":"un planta trepante; la fruta de esta. con pel magra e pelosa, pulpa verde e semes negra","i":"ciui-planta","t":"Actinidia chinensis","en":"kiwi fruit, Chinese gooseberry (plant, fruit)","fr":"actinidia (plante); kiwi (son fruit)","he":"קיווי (צמח, פרי)"}
 {"T":"r","L":"cix","C":["n","cos"],"d":"un tarte con pleninte saborosa, densida con ovos","i":"#","en":"quiche","fr":"quiche","he":"קיש"}
 {"T":"r","L":"clac-clac","C":["esc"],"d":"un sona de bateta, como de mano a porte o pasos sur solo","en":"tap-tap, knock-knock","fr":"toc-toc","he":"טוק-טוק"}
-{"T":"r","L":"clace","C":["vnt","mus"],"d":"fa un sona continuante como ojetos cual cade sur un solo dur; un dansa en cual on bateta la solo con pesos de metal fisada a la ditos e talones de la sapatos","en":"clack, clatter; tap dance","fr":"claquer (bruit)","he":"לנקוש, להקיש; לרקוד סטפס)"}
-{"L":"clace","C":["n"],"en":"clack, clatter; tap dance","fr":"claquettes","he":"נקישה; סטפס (ריקוד)"}
+{"T":"r","L":"clace","C":["vnt","mus"],"d":"fa un sona continuante como ojetos cual cade sur un solo dur; un dansa en cual on bateta la solo con pesos de metal fisada a la ditos e talones de la sapatos","en":"clack, clatter, rattle; tap dance","fr":"claquer (bruit)","he":"לנקוש, להקיש; לרקוד סטפס)"}
+{"L":"clace","C":["n"],"en":"clack, clatter, rattle; tap dance","fr":"claquettes","he":"נקישה; סטפס (ריקוד)"}
 {"L":"clacor","C":["n"],"en":"tap dancer","fr":"danseur de claquettes","he":"רקדן סטפס"}
 {"T":"r","L":"claceta","C":["n","arte"],"d":"un aparato de du tabletas xarnierida cual on colpa contra lunlotra a la comensa de filma un sena, per aida sincroni la imaje e la sona","en":"clapperboard","fr":"clap (cinéma)","he":"קלאפר, נקש"}
 {"T":"r","L":"clado","C":["n","bio"],"d":"un grupo de organismes sur cual on crede ce los ia evolui de un asendente comun","en":"clade (biology)","fr":"clade (biologie)","he":"(ביולוגיה) ענף, קלייד"}
@@ -5678,7 +5682,7 @@
 {"L":"comesurable","C":["n"],"en":"commensurable","fr":"commensurable","he":"משותף מידה"}
 {"L":"comesurablia","C":["n"],"en":"commensurability","fr":"commensurabilité","he":"שיתוף-מידה"}
 {"L":"noncomesurable","C":["a"],"en":"incommensurable","fr":"incommensurable","he":"שאינו משותף-מידה"}
-{"T":"r","L":"cometa","C":["n","ast","spo"],"d":"un ojeto sielal, composada de un nucleo de jelo e polvo e, cuando prosima a la Sol, un coda de particulas; un sceleto lejera covreda con un materia magra, cual on vola en la venta a la fini de un filo longa","i":"#","en":"comet (astronomy); kite (toy)","fr":"comète; cerf-volant","he":"כוכב שביט; עפיפון"}
+{"T":"r","L":"cometa","C":["n","ast","spo"],"d":"un ojeto sielal, composada de un nucleo de jelo e polvo e, cuando prosima a la Sol, un coda de particulas","i":"#","en":"comet (astronomy)","fr":"comète","he":"כוכב שביט"}
 {"T":"r","L":"comforta","C":["vt"],"d":"aida (algun) a reposa, o a senti plu felis o destensada","en":"comfort, make comfortable","fr":"réconforter, mettre à l'aise","he":"לעשות שיהיה נוח"}
 {"L":"comforta","C":["n"],"da":"bekvemmelighed, velvære","de":"Behaglichkeit","en":"comfort","es":"comodidad, bienestar, alivio, consuelo","fr":"confort, réconfort","he":"נוחות"}
 {"L":"comfortada","C":["a"],"en":"comforted","fr":"conforté, réconforté","he":"מנוחם"}
@@ -8077,6 +8081,7 @@
 {"T":"r","L":"detrae","C":["vt"],"d":"nega o redui la valua persepida de (un cualia o ateni)","en":"detract","fr":"dénigrer, déprécier","he":"לגרוע מ, להפחית מ (תכונה או הישג)"}
 {"L":"detrae","C":["n"],"en":"detraction","fr":"dénigrement, dépréciation","he":"גריעה, הפחתה (של תכונה או הישג)"}
 {"T":"r","L":"detrito","C":["n"],"d":"pesos sperdeda de dejetada, tipal produida par erode o par la descomposa de organismes; pesos de petra, brice o beton restante pos un desconstrui","en":"detritus; debris, rubble","fr":"détritus, déchet, ordure","he":"בלית אורגנית, רקב; שפוכת, גרוסת"}
+{"L":"detritosa","C":["a"],"en":"rubble-filled; clastic (rock)"}
 {"T":"r","L":"detrivor","C":["a","bio"],"d":"(un organisme) cual come detrito","en":"detrivorous","fr":"détritivore","he":"אוכל רקב"}
 {"L":"detrivor","C":["n"],"en":"detrivore","fr":"détritivore","he":"אוכל רקב"}
 {"T":"r","L":"deuterio","C":["n","fis"],"d":"un isotopo stable de idrojen con masa sirca duple de lo de la isotopo normal","en":"deuterium (chemistry)","fr":"deutérium (chimie)","he":"דאוטריום, דיטריום, מימן כבד"}
@@ -9651,93 +9656,93 @@
 {"T":"r","L":"eosinofilia","C":["n","bio"],"d":"un grandi de la cuantia de eosinofilicas en la sangue, cual aveni en responde a alga alerjenes, drogas, parasitos, e en alga tipos de leucemia","en":"eosinophilia (medical)"}
 {"L":"eosinofilica","C":["a"],"en":"eosinophilic","fr":"éosinophile"}
 {"L":"eosinofilica","C":["n"],"d":"un selula blanca de la sangue cual conteni granetas fasil per tinje con eosin","en":"eosinophil","fr":"éosinophile"}
-{"T":"r","L":"eparina","C":["n","med"],"d":"un composada en la figato e otra texedas cual redui la coagula de sangue; un medisin con la mesma efetos","en":"heparin (medical)"}
-{"T":"r","L":"epatal","C":["a","anat","med"],"d":"pertinente a la figato","en":"hepatic"}
-{"T":"r","L":"epatica","C":["n","pla"],"d":"un planta peti, verde e sin flores, con talos folin o folias lobosa, e cual abita en zonas moiada","i":"#","t":"Marchantiophyta, Hepaticae","en":"liverwort, liverleaf, hepatic (plant)"}
-{"T":"r","L":"epatite","C":["n","med"],"d":"un inflama de la figato, tipal causada par un virus transmeteda en comedas o sangue","en":"hepatitis"}
-{"T":"r","L":"epe","C":["n","util"],"d":"un spada magra con punto agu, usada en dueles e scrima","i":"#","en":"épée (sword)"}
-{"T":"r","L":"epi-","C":["pf","tecn"],"d":"sur, a supra, a contra","en":"epi-"}
-{"T":"r","L":"epica","C":["a","arte"],"d":"pertinente a o en la stilo de poesias longa, tipal sur la aventuras de un eroe","en":"epic"}
-{"L":"epica","C":["n"],"en":"epic"}
-{"T":"r","L":"epicanto","C":["n","anat"],"d":"un plia de pel cual estende de la palpebra superior per covre la angulo interna de la oio, tipal en multe persones de Asia este","en":"epicanthus, epicanthic fold"}
-{"T":"r","L":"Epicuro","C":["n","fil"],"d":"un filosofiste de Elas antica e la fundor de epicurisme","en":"Epicurus (philosopher)"}
-{"L":"epicurisme","C":["n"],"en":"epicureanism"}
-{"L":"epicuriste","C":["n"],"en":"epicurean"}
-{"T":"r","L":"epidemica","C":["a","med"],"d":"pertinente a un maladia comunicable cual vasti en un comunia a un ves spesifada; (cualce fenomeno nondesirada) aveninte subita e vasta","en":"epidemic"}
-{"L":"epidemica","C":["n"],"en":"epidemic"}
-{"T":"r","L":"epidemiolojia","C":["n","med"],"d":"la siensa de epidemicas","en":"epidemiology"}
-{"L":"epidemiolojial","C":["a"],"en":"epidemiological"}
-{"L":"epidemiolojiste","C":["n"],"en":"epidemiologist"}
-{"T":"r","L":"epiderma","C":["n","anat"],"d":"la strato esterna de selulas covrente un organisme, como la surfas de la pel","i":"#","en":"epidermis"}
-{"L":"epidermal","C":["a"],"en":"epidermal"}
+{"T":"r","L":"eparina","C":["n","med"],"d":"un composada en la figato e otra texedas cual redui la coagula de sangue; un medisin con la mesma efetos","en":"heparin (medical)","fr":"héparine (médecine)"}
+{"T":"r","L":"epatal","C":["a","anat","med"],"d":"pertinente a la figato","en":"hepatic","fr":"hépatique"}
+{"T":"r","L":"epatica","C":["n","pla"],"d":"un planta peti, verde e sin flores, con talos folin o folias lobosa, e cual abita en zonas moiada","i":"#","t":"Marchantiophyta, Hepaticae","en":"liverwort, liverleaf, hepatic (plant)","fr":"anémone hépatique (plante)"}
+{"T":"r","L":"epatite","C":["n","med"],"d":"un inflama de la figato, tipal causada par un virus transmeteda en comedas o sangue","en":"hepatitis","fr":"hépatite"}
+{"T":"r","L":"epe","C":["n","util"],"d":"un spada magra con punto agu, usada en dueles e scrima","i":"#","en":"épée (sword)","fr":"épée"}
+{"T":"r","L":"epi-","C":["pf","tecn"],"d":"sur, a supra, a contra","en":"epi-","fr":"épi-"}
+{"T":"r","L":"epica","C":["a","arte"],"d":"pertinente a o en la stilo de poesias longa, tipal sur la aventuras de un eroe","en":"epic","fr":"épique"}
+{"L":"epica","C":["n"],"en":"epic","fr":"épopée"}
+{"T":"r","L":"epicanto","C":["n","anat"],"d":"un plia de pel cual estende de la palpebra superior per covre la angulo interna de la oio, tipal en multe persones de Asia este","en":"epicanthus, epicanthic fold","fr":"épicanthus"}
+{"T":"r","L":"Epicuro","C":["n","fil"],"d":"un filosofiste de Elas antica e la fundor de epicurisme","en":"Epicurus (philosopher)","fr":"Épicure (philosophe)"}
+{"L":"epicurisme","C":["n"],"en":"epicureanism","fr":"épicurisme"}
+{"L":"epicuriste","C":["n"],"en":"epicurean","fr":"épicurien"}
+{"T":"r","L":"epidemica","C":["a","med"],"d":"pertinente a un maladia comunicable cual vasti en un comunia a un ves spesifada; (cualce fenomeno nondesirada) aveninte subita e vasta","en":"epidemic","fr":"épidémique"}
+{"L":"epidemica","C":["n"],"en":"epidemic","fr":"épidémie"}
+{"T":"r","L":"epidemiolojia","C":["n","med"],"d":"la siensa de epidemicas","en":"epidemiology","fr":"épidémiologie"}
+{"L":"epidemiolojial","C":["a"],"en":"epidemiological","fr":"épidémiologique"}
+{"L":"epidemiolojiste","C":["n"],"en":"epidemiologist","fr":"épidémiologiste"}
+{"T":"r","L":"epiderma","C":["n","anat"],"d":"la strato esterna de selulas covrente un organisme, como la surfas de la pel","i":"#","en":"epidermis","fr":"épiderme"}
+{"L":"epidermal","C":["a"],"en":"epidermal","fr":"épidermique"}
 {"T":"r","L":"epididimo","C":["n","anat"],"d":"un de du dutos serpentin pos la testiculos, tra cual spermas pasa a la dutos seminal media","en":"epididymis (anatomy)"}
-{"T":"r","L":"epifania","C":["n","rel","mit"],"d":"un apare de un spirito divin o supranatural; un aveni subita de intui o revela","en":"epiphany"}
+{"T":"r","L":"epifania","C":["n","rel","mit"],"d":"un apare de un spirito divin o supranatural; un aveni subita de intui o revela","en":"epiphany","fr":"épiphanie"}
 {"L":"sera de epifania","C":["n"],"en":"Epiphany Eve, Twelfth Night"}
-{"T":"r","L":"epifenomeno","C":["n","fil","uma"],"d":"un state mental, regardada como un resulta ladal de la ativia de la serebro; un sintom ladal cual aveni simultan con un maladia, ma no es direta relatada a lo","en":"epiphenomenon"}
-{"T":"r","L":"epiglote","C":["n","anat"],"d":"un ala de cartilaje a la radis de la lingua, cual es depresada per covre la abri de la tracea cuando on engoli","en":"epiglottis"}
-{"L":"epiglotal","C":["a"],"en":"epiglottal"}
-{"L":"epiglotal","C":["n"],"en":"epiglottal (consonant)"}
-{"T":"r","L":"epigraf","C":["n","arte"],"d":"un enscrive sur un construida o moneta; un sita corta a la comensa de un libro o capitol, sujestante la tema","en":"epigraph"}
-{"T":"r","L":"epigram","C":["n","arte"],"d":"un comenta o poesia corta e astuta","en":"epigram"}
-{"L":"epigramal","C":["a"],"en":"epigrammatic"}
-{"L":"epigramor","C":["n"],"en":"epigrammatist"}
+{"T":"r","L":"epifenomeno","C":["n","fil","uma"],"d":"un state mental, regardada como un resulta ladal de la ativia de la serebro; un sintom ladal cual aveni simultan con un maladia, ma no es direta relatada a lo","en":"epiphenomenon","fr":"épiphénomène"}
+{"T":"r","L":"epiglote","C":["n","anat"],"d":"un ala de cartilaje a la radis de la lingua, cual es depresada per covre la abri de la tracea cuando on engoli","en":"epiglottis","fr":"épiglotte"}
+{"L":"epiglotal","C":["a"],"en":"epiglottal","fr":"épiglottal"}
+{"L":"epiglotal","C":["n"],"en":"epiglottal (consonant)","fr":"épiglottale (consonne)"}
+{"T":"r","L":"epigraf","C":["n","arte"],"d":"un enscrive sur un construida o moneta; un sita corta a la comensa de un libro o capitol, sujestante la tema","en":"epigraph","fr":"épigraphe"}
+{"T":"r","L":"epigram","C":["n","arte"],"d":"un comenta o poesia corta e astuta","en":"epigram","fr":"épigramme"}
+{"L":"epigramal","C":["a"],"en":"epigrammatic","fr":"épigrammatique"}
+{"L":"epigramor","C":["n"],"en":"epigrammatist","fr":"épigrammatiste"}
 {"T":"r","L":"epilesia","C":["n","med"],"d":"un maladia de nervos, marcada par episodios subita de disturba de la sensas, perde de consensia, o convulsas, relatada a ativia eletrical nonormal en la serebro","en":"epilepsy","fr":"épilepsie"}
 {"L":"antiepilesica","C":["n","med"],"d":"un medisin per combate epilesia","en":"antiepileptic"}
-{"L":"epilesica","C":["a"],"en":"epileptic"}
-{"T":"r","L":"epilogo","C":["n","arte"],"d":"un parte o parla a la fini de un libro o presenta teatral, cual servi como un comenta sur o conclui per la avenis presedente","en":"epilog|ue, afterword"}
-{"T":"r","L":"epinefrina","C":["n","bio","cim"],"d":"un ormon secreteda par la glandes suprarenal, tipal en states de stresa, aumentante la rapidias de sirculi de sangue, respira e metaboli de carboidratos, e preparante la musculos per ativia","en":"epinephrine, adrenaline, adrenalin"}
+{"L":"epilesica","C":["a"],"en":"epileptic","fr":"épileptique"}
+{"T":"r","L":"epilogo","C":["n","arte"],"d":"un parte o parla a la fini de un libro o presenta teatral, cual servi como un comenta sur o conclui per la avenis presedente","en":"epilog|ue, afterword","fr":"épilogue"}
+{"T":"r","L":"epinefrina","C":["n","bio","cim"],"d":"un ormon secreteda par la glandes suprarenal, tipal en states de stresa, aumentante la rapidias de sirculi de sangue, respira e metaboli de carboidratos, e preparante la musculos per ativia","en":"epinephrine, adrenaline, adrenalin","fr":"adrénaline, épinéphrine"}
 {"T":"r","L":"epiproto","C":["n","bio"],"d":"un protende de la area de la ano de alga insetos, usada en copula","en":"epiproct"}
-{"T":"r","L":"episcopalian","C":["a","rel"],"d":"pertinente a ramos de cristianisme cual promove governa par bispos, spesial lo en la SUA e Canada cual es derivada de la Eglesa Engles","en":"Episcopalian"}
-{"L":"episcopalian","C":["n"],"en":"Episcopalian"}
+{"T":"r","L":"episcopalian","C":["a","rel"],"d":"pertinente a ramos de cristianisme cual promove governa par bispos, spesial lo en la SUA e Canada cual es derivada de la Eglesa Engles","en":"Episcopalian","fr":"épiscopalien"}
+{"L":"episcopalian","C":["n"],"en":"Episcopalian","fr":"épiscopalien"}
 {"L":"episcopalianisme","C":["n"],"en":"Episcopalianism (Christianity)"}
-{"T":"r","L":"episentro","C":["n","tera"],"d":"la punto sur la surfas de la Tera cual es vertical supra la foco de un trematera","en":"epicenter|re"}
+{"T":"r","L":"episentro","C":["n","tera"],"d":"la punto sur la surfas de la Tera cual es vertical supra la foco de un trematera","en":"epicenter|re","fr":"épicentre"}
 {"T":"r","L":"episodio","C":["n","arte"],"d":"un situa cual aveni como parte de un serie plu grande; cada de un serie de naras o programes de radio o televisa","en":"episode, installment|instalment","fr":"épisode"}
-{"L":"episodio de caldi","C":["n"],"en":"hot flash, hot flush"}
-{"L":"episodial","C":["a"],"en":"episodic"}
-{"T":"r","L":"epistemolojia","C":["n","fil"],"d":"la teoria de sabe, spesial sua metodos, valuas e estende","en":"epistemology"}
-{"T":"r","L":"epistolografia","C":["n","arte"],"d":"la arte o pratica de scrive leteras","en":"epistolography"}
-{"T":"r","L":"epitelio","C":["n","anat"],"d":"la texeda magra cual formi la strato esterna de la surfas de la corpo, e cual fore la duto de dijesta o otra strutures vacua","en":"epithelium (anatomy)"}
-{"L":"epitelial","C":["a"],"en":"epithelial"}
-{"T":"r","L":"epiteto","C":["n","arte"],"d":"un ajetivo o descrive cual espresa un cualia tipal de un person o cosa spesifada","en":"epithet"}
+{"L":"episodio de caldi","C":["n"],"en":"hot flash, hot flush","fr":"épisode de chaleur, bouffée de chaleur"}
+{"L":"episodial","C":["a"],"en":"episodic","fr":"épisodique"}
+{"T":"r","L":"epistemolojia","C":["n","fil"],"d":"la teoria de sabe, spesial sua metodos, valuas e estende","en":"epistemology","fr":"épistémologie"}
+{"T":"r","L":"epistolografia","C":["n","arte"],"d":"la arte o pratica de scrive leteras","en":"epistolography","fr":"épistolographie"}
+{"T":"r","L":"epitelio","C":["n","anat"],"d":"la texeda magra cual formi la strato esterna de la surfas de la corpo, e cual fore la duto de dijesta o otra strutures vacua","en":"epithelium (anatomy)","fr":"épithélium"}
+{"L":"epitelial","C":["a"],"en":"epithelial","fr":"épithélial"}
+{"T":"r","L":"epiteto","C":["n","arte"],"d":"un ajetivo o descrive cual espresa un cualia tipal de un person o cosa spesifada","en":"epithet","fr":"épithète"}
 {"T":"r","L":"epoca","C":["n","tera","ist"],"d":"un periodo de tempo en istoria o la vive de un person, tipal marcada par avenis notable o cualias spesial; (en jeolojia) un divide major de tempo, plu ca un eda ma min ca un periodo","en":"epoch","fr":"époque"}
-{"T":"r","L":"eponim","C":["a"],"d":"(un cosa) nomida per un person; (un person) donante sua nom a alga cosa","en":"eponymous"}
-{"L":"eponim","C":["n"],"en":"eponym"}
-{"T":"r","L":"eposido","C":["n","cim"],"d":"un composada organica de cual sua molecula conteni un anelo de tre membros","en":"epoxide (chemistry)"}
-{"L":"eposidal","C":["a"],"en":"epoxy"}
-{"T":"r","L":"epsilon","C":["n"],"d":"la letera sinco de la alfabeta elinica","s":"Ε ε","en":"epsilon (Greek letter)"}
-{"T":"r","L":"Er","C":["n","jeo"],"c":"Dublin","d":"un pais en la isola grande a ueste de Britan Grande; esta isola, conteninte Er e Er Norde","i":"#","en":"Ireland (island); Ireland (country), Republic of Ireland"}
-{"L":"eres","C":["a"],"en":"Irish, Gaelic (person, language)"}
-{"L":"eres","C":["n","dem"],"en":"Irish, Gaelic (person, language)"}
-{"L":"Mar Eres","C":["n","jeo"],"d":"un mar entre Er e Britan","i":"#","en":"Irish Sea"}
-{"L":"Er Norde","C":["n","jeo"],"c":"Belfast","d":"la parte de la isola Er cual parteni a Britan","i":"#","en":"Northern Ireland"}
-{"T":"r","L":"era","C":["vnt"],"d":"no es coreta; ata en modo mal o noncoreta","en":"err, make a mistake","fr":"se tromper"}
-{"L":"era","C":["n"],"en":"error, mistake, solecism"}
-{"L":"era comica","C":["n"],"en":"blooper, outtake"}
-{"L":"era grande","C":["n"],"en":"big mistake, blunder"}
-{"L":"era sosial","C":["n"],"en":"gaffe, faux pas, solecism"}
-{"L":"erante","C":["a"],"en":"mistaken, wrong, erroneous, fallacious"}
-{"L":"ereta","C":["vnt"],"en":"slip, slip up, make a small mistake"}
-{"L":"ereta","C":["n"],"en":"slip, slip-up, booboo, boob, small mistake, glitch"}
-{"L":"ereta de parla","C":["n"],"en":"slip of the tongue"}
-{"L":"erosa","C":["a"],"en":"very wrong, badly mistaken, riddled with errors"}
-{"L":"nonerante","C":["a"],"en":"inerrant, infallible, unerring"}
-{"T":"r","L":"era","C":["n","tera"],"d":"(en jeolojia) un divide major de tempo, plu ca un periodo ma min ca un eon","en":"era (geology)"}
-{"T":"r","L":"eraldo","C":["n","ist"],"d":"un mesajor ofisial cual trae novas; un person o cosa regardada como un indica de avenis seguente; (istorial) un ofisial ci supravide la rituos de la stato","en":"herald"}
-{"L":"eraldia","C":["n"],"en":"heraldry"}
-{"L":"eraldial","C":["a"],"en":"heraldic"}
+{"T":"r","L":"eponim","C":["a"],"d":"(un cosa) nomida per un person; (un person) donante sua nom a alga cosa","en":"eponymous","fr":"éponyme"}
+{"L":"eponim","C":["n"],"en":"eponym","fr":"éponyme"}
+{"T":"r","L":"eposido","C":["n","cim"],"d":"un composada organica de cual sua molecula conteni un anelo de tre membros","en":"epoxide (chemistry)","fr":"époxyde (chimie)"}
+{"L":"eposidal","C":["a"],"en":"epoxy","fr":"époxyde"}
+{"T":"r","L":"epsilon","C":["n"],"d":"la letera sinco de la alfabeta elinica","s":"Ε ε","en":"epsilon (Greek letter)","fr":"epsilon (lettre grecque)"}
+{"T":"r","L":"Er","C":["n","jeo"],"c":"Dublin","d":"un pais en la isola grande a ueste de Britan Grande; esta isola, conteninte Er e Er Norde","i":"#","en":"Ireland (island); Ireland (country), Republic of Ireland","fr":"Irlande"}
+{"L":"eres","C":["a"],"en":"Irish, Gaelic (person, language)","fr":"irlandais, gaélique"}
+{"L":"eres","C":["n","dem"],"en":"Irish, Gaelic (person, language)","fr":"Irlandais (personne); irlandais, gaélique (langue)"}
+{"L":"Mar Eres","C":["n","jeo"],"d":"un mar entre Er e Britan","i":"#","en":"Irish Sea","fr":"mer d'Irlande"}
+{"L":"Er Norde","C":["n","jeo"],"c":"Belfast","d":"la parte de la isola Er cual parteni a Britan","i":"#","en":"Northern Ireland","fr":"Irlande du Nord"}
+{"T":"r","L":"era","C":["vnt"],"d":"no es coreta; ata en modo mal o noncoreta","en":"err, make a mistake","fr":"se tromper, se méprendre, faire une erreur"}
+{"L":"era","C":["n"],"en":"error, mistake, solecism","fr":"erreur, faute, méprise, bévue"}
+{"L":"era comica","C":["n"],"en":"blooper, outtake","fr":"bévue, bêtise, gaffe"}
+{"L":"era grande","C":["n"],"en":"big mistake, blunder","fr":"grosse erreur"}
+{"L":"era sosial","C":["n"],"en":"gaffe, faux pas, solecism","fr":"gaffe, faux pas, faute"}
+{"L":"erante","C":["a"],"en":"mistaken, wrong, erroneous, fallacious","fr":"trompé, faux, erroné"}
+{"L":"ereta","C":["vnt"],"en":"slip, slip up, make a small mistake","fr":"faire une bêtise, faire une bévue"}
+{"L":"ereta","C":["n"],"en":"slip, slip-up, booboo, boob, small mistake, glitch","fr":"bêtise, bévue, étourderie"}
+{"L":"ereta de parla","C":["n"],"en":"slip of the tongue","fr":"lapsus"}
+{"L":"erosa","C":["a"],"en":"very wrong, badly mistaken, riddled with errors","fr":"complètement faux, tout à fait erroné, rempli d'erreurs"}
+{"L":"nonerante","C":["a"],"en":"inerrant, infallible, unerring","fr":"infaillible"}
+{"T":"r","L":"era","C":["n","tera"],"d":"(en jeolojia) un divide major de tempo, plu ca un periodo ma min ca un eon","en":"era (geology)","fr":"ère (géologie)"}
+{"T":"r","L":"eraldo","C":["n","ist"],"d":"un mesajor ofisial cual trae novas; un person o cosa regardada como un indica de avenis seguente; (istorial) un ofisial ci supravide la rituos de la stato","en":"herald","fr":"héraut"}
+{"L":"eraldia","C":["n"],"en":"heraldry","fr":"héraldique"}
+{"L":"eraldial","C":["a"],"en":"heraldic","fr":"héradilque"}
 {"T":"r","L":"erba","C":["n","pla"],"d":"un planta, tipal corta, con folias longa e magra, cual crese savaje o es cultivada per nuri bestias o per crea campos sirca casas o de recrea; un area estendeda de estas; cualce planta de cual sua folias, semes o flores es usada en cosini o medica","i":"#","t":"Gramineae, Poaceae","da":"græs","de":"Gras","en":"grass; lawn; herb","es":"hierba, pasto","fr":"herbe"}
-{"L":"erba de cosini","C":["n"],"en":"herb"}
-{"L":"erba-de-mar","C":["n","pla"],"d":"un planta erbin cual abita en o prosima a la mar","i":"#","t":"Posidoniaceae, Zosteraceae, Hydrocharitaceae, Cymodoceaceae","en":"seagrass"}
-{"L":"erba-de-mate","C":["n","pla"],"d":"un spesie de ilex de cual on prepara la bevida mate","i":"#","t":"Ilex paraguariensis","en":"yerba maté"}
-{"L":"erba de san Jacobo","C":["n","pla"],"d":"un planta savaje comun, con flores jala","t":"Jacobaea vulgaris","en":"ragwort"}
-{"L":"desmalerbi","C":["vt"],"en":"weed"}
-{"L":"erbal","C":["a"],"en":"herbal"}
-{"L":"erbalisme","C":["n"],"en":"herbalism"}
-{"L":"erbaliste","C":["n"],"en":"herbalist"}
-{"L":"erberia","C":["n"],"en":"herbarium"}
-{"L":"erbin","C":["a"],"en":"grasslike, herbaceous"}
-{"L":"erbosa","C":["a"],"en":"grassy"}
-{"L":"estrae malerbas de","C":["v"],"en":"weed"}
+{"L":"erba de cosini","C":["n"],"en":"herb","fr":"plantes aromatiques"}
+{"L":"erba-de-mar","C":["n","pla"],"d":"un planta erbin cual abita en o prosima a la mar","i":"#","t":"Posidoniaceae, Zosteraceae, Hydrocharitaceae, Cymodoceaceae","en":"seagrass","fr":"herbier marin"}
+{"L":"erba-de-mate","C":["n","pla"],"d":"un spesie de ilex de cual on prepara la bevida mate","i":"#","t":"Ilex paraguariensis","en":"yerba maté","fr":"maté"}
+{"L":"erba de san Jacobo","C":["n","pla"],"d":"un planta savaje comun, con flores jala","t":"Jacobaea vulgaris","en":"ragwort","fr":"jacobée"}
+{"L":"desmalerbi","C":["vt"],"en":"weed","fr":"désherber, sarcler"}
+{"L":"erbal","C":["a"],"en":"herbal","fr":"herbal"}
+{"L":"erbalisme","C":["n"],"en":"herbalism","fr":"botanique"}
+{"L":"erbaliste","C":["n"],"en":"herbalist","fr":"botaniste"}
+{"L":"erberia","C":["n"],"en":"herbarium","fr":"herbier"}
+{"L":"erbin","C":["a"],"en":"grasslike, herbaceous","fr":"semblable à l'herbe, herbeux"}
+{"L":"erbosa","C":["a"],"en":"grassy","fr":"herbeux"}
+{"L":"estrae malerbas de","C":["v"],"en":"weed","fr":"sarcler, enlever les mauvaises herbes"}
 {"L":"malerba","C":["n"],"en":"weed","fr":"mauvaise herbe"}
 {"T":"r","L":"erbio","C":["n","cim"],"d":"la elemento cimical con numero atomal 68","s":"Er","en":"erbium (element)"}
 {"T":"r","L":"erbiside","C":["n","bio","util"],"d":"un materia venenosa a plantas, usada per destrui plantas nondesirada","en":"herbicide, weedkiller"}
@@ -12388,6 +12393,7 @@
 {"L":"grasia","C":["n"],"en":"gratitude, thanks, appreciation; grace (Christianity)"}
 {"L":"con grasias a","C":["prep"],"en":"thanks to"}
 {"L":"es grasiosa per","C":["v"],"en":"be grateful for, appreciate"}
+{"L":"grasiable","C":["av"],"en":"thankfully, mercifully"}
 {"L":"grasias","C":["esc","pl"],"en":"thanks, thank you"}
 {"L":"grasias a Dio","C":["esc"],"en":"thank God, thank goodness"}
 {"L":"grasias a la sielo","C":["esc"],"en":"thank heavens"}
@@ -12697,7 +12703,7 @@
 {"T":"r","L":"ibride","C":["a","bio"],"d":"composada de partes miscada; con jenitores de du spesies diferente","en":"hybrid, crossbred, mongrel","eo":"hibrida","fr":"hybride"}
 {"L":"ibride","C":["n"],"en":"hybrid, crossbreed, mongrel","eo":"hibrido","fr":"hybride"}
 {"L":"ibridi","C":["vnt"],"en":"hybridize|is, crossbreed","eo":"hibridiĝi"}
-{"L":"ibridi","C":["vt"],"en":"hybridize|is, crossbreed"}
+{"L":"ibridi","C":["vt"],"en":"hybridize|is, crossbreed, cross (one thing with another)"}
 {"L":"ibridi","C":["n"],"en":"hybridization|is","eo":"hibridiĝo; hibridigo"}
 {"T":"r","L":"ica","C":["vnt","bio"],"d":"fa nonvolente un spasma de la diaframa, subita cluinte la glote con un sona tipal","en":"hiccup, hiccough","eo":"singulti","fr":"avoir le hoquet"}
 {"L":"ica","C":["n"],"d":"un ata de ica","en":"hiccup","eo":"singulto"}
@@ -13404,6 +13410,7 @@
 {"L":"intero","C":["n"],"d":"un numero cual no es un frato","en":"integer"}
 {"T":"r","L":"interoga","C":["vt","gov"],"d":"demanda a (algun, spesial un suspetada o prisonida) en modo formal, completa o violente","en":"interrogate, examine, question"}
 {"L":"interoga","C":["n"],"i":"#","en":"interrogation, examination, questioning"}
+{"L":"interogor","C":["n"],"en":"interrogator"}
 {"T":"r","L":"interompe","C":["vt","gov"],"d":"para la progresa continuante de (un ativia o prosede); para (un parlor) par dise o fa alga cosa; rompe la continua de (un linia o surfas)","en":"interrupt, heckle; suspend, cut off; supervene"}
 {"L":"interompe","C":["n"],"en":"interruption, suspension, breakpoint, cut-off"}
 {"T":"r","L":"interpol","C":["n","gov"],"d":"un organiza con base en Paris, cual coordina la investiga de crimines internasional par la polisia de nasiones diversa","en":"interpol"}
@@ -13539,7 +13546,7 @@
 {"T":"r","L":"ioman","C":["n","ist","gov"],"d":"(istorial) un om ci posese e cultiva un propria nongrande, tipal en England; un servor en un casa nobil; (en alga marinas) un ofisior ci servi como un secretor o un parte de la corpo de comunica","en":"yeoman, beefeater"}
 {"T":"r","L":"ion","C":["n","cim","fis"],"d":"un atom o molecula con un carga eletrical par causa de un perde o gania de un o plu eletrones","p":"yon","en":"ion (chemistry)"}
 {"L":"ional","C":["a"],"p":"yonal","en":"ionic"}
-{"L":"ioni","C":["vnt"],"p":"yoni","en":"ionize|is"}
+{"L":"ioni","C":["vnt"],"d":"(un atom, molecula o sustantia) deveni convertida a un o plu iones, tipal par la perde de un o plu eletrones","p":"yoni","en":"ionize|is"}
 {"L":"ioni","C":["vt"],"en":"ionize|is"}
 {"L":"ioni","C":["n"],"en":"ionization|is"}
 {"T":"r","L":"ioni","C":["n","rel"],"d":"(en induisme) la vulva, tipal como simbol de la enerjia divin de reprodui, comun representada par un petra sirculo","en":"yoni (Hinduism)"}
@@ -13563,6 +13570,7 @@
 {"T":"r","L":"iperbara","C":["a","med"],"d":"de o con gas a presa plu grande ca normal","en":"hyperbaric"}
 {"T":"r","L":"iperbola","C":["n","mat"],"d":"un curva simetre e abrida, formida par la crusa de un cono sirculo con un plana a angulo plu peti con sua ase ca la lado de la cono","en":"hyperbola"}
 {"T":"r","L":"ipercinesia","C":["n","med"],"d":"un state en cual la musculos spasma","en":"hyperkinesia"}
+{"T":"r","L":"ipercolesterolemia","C":["n","med"],"d":"la presentia de tro multe colesterol en la sangue","en":"hypercholesterolemia|ae"}
 {"T":"r","L":"ipercubo","C":["n","mat"],"d":"un figur jeometrial en cuatro o plu dimensiones, analoja a un cubo en tre dimensiones","i":"#","en":"hypercube, tesseract"}
 {"T":"r","L":"ipereflexia","C":["n","med"],"d":"un responde tro rapida de la reflexes","en":"hyperreflexia (medical)"}
 {"T":"r","L":"iperemia","C":["n","med"],"d":"la crese de flue de sangue a texedas en la corpo","en":"hyperemia|ae"}
@@ -13996,7 +14004,7 @@
 {"T":"r","L":"jergo","C":["n","ling"],"d":"un tipo de parla o scrive cual conteni parolas e espresas regardada como multe nonformal, o cual es tipal restrinjeda a un contesto o grupo de persones spesifada; parolas o espresas usada par un profesa o grupo cual es difisil per comprende par otras","en":"slang, jargon, argot, cant, parlance","fr":"argot, jargon"}
 {"L":"jergosa","C":["a"],"en":"slangy, jargon-filled"}
 {"T":"r","L":"jerme","C":["vnt","bio"],"d":"(un planta) comensa crese","de":"Spross","en":"sprout, germinate","es":"brote, retoño, germen, renuevo, vástago","fr":"germer"}
-{"L":"jerme","C":["n","bio"],"i":"#","da":"spire, skud","en":"sprout (young shoot); germ (cereal); stub (entry)","fr":"germe, pousse"}
+{"L":"jerme","C":["n","bio"],"i":"#","da":"spire, skud","en":"sprouting, germination; sprout (young shoot); germ (cereal); stub (entry)","fr":"germe, pousse"}
 {"L":"jerme de radis","C":["n","bio"],"en":"sucker, shoot (from the roots)","fr":"surgeon"}
 {"T":"r","L":"jerontolojia","C":["n","med"],"d":"la studia de senese e la problemes de persones vea","en":"gerontology"}
 {"L":"jerontolojiste","C":["n"],"en":"gerontologist"}
@@ -16049,6 +16057,7 @@
 {"T":"r","L":"memoria","C":["n","uma","info"],"d":"la capasia par cual la mente reteni e recorda informa; la parte de un computador en cual datos o programes es retenida","en":"memory (as a capacity; including computer)"}
 {"L":"memoria de dura corta","C":["n"],"en":"short-term memory, STM"}
 {"L":"memoria de dura longa","C":["n"],"en":"long-term memory, LTM"}
+{"L":"memoria de pox","C":["n"],"en":"memory stick, memory key, USB stick, USB key"}
 {"L":"memoria de state solida","C":["n"],"en":"solid-state drive"}
 {"L":"memoria flax","C":["n"],"en":"flash memory"}
 {"L":"memoria sensal","C":["n"],"en":"sensory memory, very-short-term memory, VSTM"}
@@ -17895,6 +17904,7 @@
 {"T":"r","L":"nun","C":["pron"],"d":"no person","en":"no one, nobody"}
 {"T":"r","L":"Nunavut","C":["n","jeo"],"d":"un teritorio de Canada norde, bordante la Mar Artica e Baia Hudson","en":"Nunavut (Canadian territory)"}
 {"T":"r","L":"nunca","C":["av"],"d":"a no tempo en la pasada o futur; a no ves; tota no","an":"nunca, xamás, enxamás","da":"aldrig","de":"nie","en":"never, not ever","es":"nunca, jamás","fr":"jamais","gl":"nunca, xamais"}
+{"L":"nunca de sempre","C":["av"],"en":"never ever, absolutely never"}
 {"T":"r","L":"nuntxacu","C":["n","spo"],"d":"un arma de la artes militar de Nion, con du bastos juntada par un cadena, corda o banda de cuoro","i":"#","en":"nunchaku, nunchuk (weapon)"}
 {"T":"r","L":"nurage","C":["n","arci"],"d":"un construida megalital de Sardinia, con forma de tore","ca":"nurag","en":"nuraghe (tower)","es":"nuraga","fr":"nuraghe"}
 {"L":"nuragal","C":["a"],"en":"Nuragic (civilization|is)"}
@@ -19464,6 +19474,7 @@
 {"L":"paseria de plances","C":["n"],"i":"#","en":"boardwalk"}
 {"L":"paseria rolante","C":["n"],"en":"moving walkway, travelator"}
 {"L":"paseta","C":["vnt"],"en":"tiptoe, walk on one's toes"}
+{"L":"repasea","C":["vnt"],"en":"walk back"}
 {"T":"r","L":"paseamania","C":["n"],"d":"la pasatempo de pasea per distantias longa, tipal tra campania o forestas","en":"hiking"}
 {"L":"paseamanica","C":["n"],"en":"hiker"}
 {"T":"r","L":"pasiente","C":["a","uma"],"d":"capas de tolera un retarda o sufri sin deveni coler o turbada","en":"patient, easygoing"}
@@ -23202,7 +23213,7 @@
 {"T":"r","L":"salada","C":["n","cos"],"d":"un plato fria de miscas de vejetales ru o coceda, tipal spisida con olio, vinagra o otra ajuntas, e acompaniada a veses par carne, pex o otra ingredientes","i":"#","ca":"amanida","da":"salat","de":"Salat","en":"salad","eo":"salato","es":"ensalada","fr":"salade","it":"insalata","ja":"サラダ","nl":"salade","pt":"salada","ru":"салат"}
 {"L":"salada de col","C":["n"],"en":"coleslaw","fr":"coleslaw, salade de chou"}
 {"T":"r","L":"salamandra","C":["n","amf"],"d":"un amfibio simil a un triton, tipal con marcas briliante","i":"#","t":"{cuatro familias de","en":"salamander","fr":"salamandre"}
-{"T":"r","L":"salami","C":["n","cos"],"d":"un tipo de salsix multe spisosa, orijinante en Italia","en":"salami (food)","fr":"salami"}
+{"T":"r","L":"salami","C":["n","cos"],"d":"un tipo de salsix multe spisosa, orijinante en Italia","en":"salami, pepperoni (food)","fr":"salami"}
 {"T":"r","L":"salario","C":["n","mone"],"d":"un paia fisada e periodal par un empleor a un empleada, tipal a cada semana, cada duple de semanas o cada mense","en":"salary, wage, wages, stipend, paycheck, paycheque","fr":"salaire"}
 {"L":"con salario","C":["a"],"en":"paid, salaried, non-amateur, professional","fr":"salarié"}
 {"T":"r","L":"salda","C":["vt","mone"],"d":"paia (un deta o conta); compara detas e creditos en (un conta), tipal per serti ce los es egal","en":"balance, settle (account)","fr":"équilibrer les comptes"}
@@ -23939,7 +23950,7 @@
 {"L":"sementi","C":["vt"],"en":"cement"}
 {"T":"r","L":"semestre","C":["n"],"d":"un periodo de 15 a 18 semanas cual composa un unia de cursos en scola o universia","en":"semester, term"}
 {"L":"semestral","C":["a"],"en":"termly"}
-{"T":"r","L":"semetero","C":["n","arci","uma"],"d":"un area en cual mores es enterada","i":"#","en":"cemetery, graveyard, churchyard"}
+{"T":"r","L":"semetero","C":["n","arci","uma"],"d":"un area en cual mores es enterada","i":"#","en":"cemetery, graveyard, churchyard, burial site"}
 {"T":"r","L":"semi-","C":["pf","tecn"],"d":"dui","v":"emi-, dui-","en":"semi- (half)"}
 {"T":"r","L":"semiacual","C":["a","bio"],"d":"abitante e en acua e sur tera","en":"semiaquatic","he":"שחולק את זמנו בין מקור מים ליבשה; שגדל חלקית בתוך מים"}
 {"T":"r","L":"semianial","C":["a"],"d":"a du veses per anio","en":"semiannual, biannual (twice a year)"}
@@ -26664,8 +26675,9 @@
 {"L":"de tera a aira","C":["a"],"en":"surface-to-air, ground-to-air"}
 {"L":"de tera a tera","C":["a"],"en":"surface-to-surface, ground-to-surface"}
 {"L":"nonteral","C":["a"],"en":"unearthly"}
+{"L":"suprateran","C":["a"],"en":"overground, above-ground, superterranean, epigeal"}
 {"L":"sutera","C":["n"],"d":"un sala o nivel cual es partal o intera su la nivel de tera","i":"#","ca":"soterrani","da":"kælder","de":"Keller","en":"cellar, basement","eo":"kelo","es":"sótano, bodega (subterranea)","fr":"sous-sol, cave","it":"cantina","ja":"地下室","nl":"kelder","pt":"porão, cave, adega","ru":"подпол, подвал"}
-{"L":"suteran","C":["a"],"en":"subterranean, underground"}
+{"L":"suteran","C":["a"],"en":"subterranean, underground, hypogeal"}
 {"L":"teral","C":["a"],"en":"earthly"}
 {"L":"teran","C":["a"],"en":"terrestrial, Terran"}
 {"L":"teran","C":["n"],"en":"earthling, Terran"}
@@ -27410,7 +27422,7 @@
 {"L":"tobagonian","C":["n"],"en":"Tobagonian"}
 {"L":"trinidadian","C":["a"],"en":"Trinidadian"}
 {"L":"trinidadian","C":["n"],"en":"Trinidadian"}
-{"T":"r","L":"trinxa","C":["vt","util"],"d":"lasera, corti o talia (un cosa) a pesos peti; (metafor) vinse completa","en":"shred; thrash, thoroughly defeat","fr":"déchiqueter; émincer"}
+{"T":"r","L":"trinxa","C":["vt","util"],"d":"lasera, corti o talia (un cosa) a pesos peti; (metafor) vinse completa","en":"shred, cut up, tear up, rip up; thrash, thoroughly defeat","fr":"déchiqueter; émincer"}
 {"L":"trinxa","C":["n"],"en":"shred"}
 {"L":"trinxador","C":["n"],"i":"#","en":"shredder"}
 {"T":"r","L":"tripanosoma","C":["n"],"d":"un protozon parasital e uniselulal con un flajelo, cual infesta la sangue","i":"#","en":"trypanosome (organism)","fr":"trypanosome"}
