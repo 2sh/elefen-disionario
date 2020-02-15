@@ -3559,6 +3559,7 @@
 {"T":"r","L":"bondi","C":["vnt","spo"],"d":"core saltante; salta repetente, tipal sur un trampolin o materas","en":"bound, bounce, lope","fr":"bondir","he":"לקפץ, להקפיץ"}
 {"L":"bondi","C":["n"],"en":"bound","fr":"bon","he":"הקפצה"}
 {"L":"rebondi","C":["vnt"],"d":"move rapida a via de un surfas pos colpa lo; (lus) deveni refletada de un surfas","da":"springe, hoppe","de":"aufprallen","en":"rebound, bounce back, ricochet","eo":"resalti","es":"rebotar, botar, saltar, brincar, dar saltos, dar brincos","fr":"rebondir","he":"לקפוץ בחזרה","it":"rimbalzare","nl":"stuiteren","pt":"saltar, dar saltos"}
+{"T":"r","L":"boneta","C":["n","vest"],"d":"un xapo per femes, comun liada su la mento, con un borda cual ensirca la fas","en":"bonnet (hat)"}
 {"T":"r","L":"bongo","C":["n","mus"],"d":"cada de un duple de tambures peti, tipal tenida entre la jenos e tocada par la ditos","i":"#","en":"bongo (drum)","fr":"bongo (instrument de musique, percussion)","he":"בונגו (תוף)"}
 {"T":"r","L":"bongo","C":["n","mam"],"d":"un antilope de foresta, con pelo pal brun e bandetas blanca vertical, trovada en Africa sentral","i":"bongo-animal","t":"Tragelaphus eurycerus","en":"bongo (antelope)","fr":"bongo (antilope)","he":"בונגו (אנטילופה)"}
 {"T":"r","L":"bonobo","C":["n","mam"],"d":"un ximpanze con fas e capeles negra, trovada en la forestas tropical de Congo","i":"#","t":"Pan paniscus","en":"bonobo, pygmy chimpanzee","fr":"bonobo (singe)","he":"בונובו (שימפנזה)"}
@@ -6486,9 +6487,10 @@
 {"T":"r","L":"coraji","C":["vt"],"d":"dona suporta, autofida o espera a (algun), tipal per comensa o continua fa alga cosa difisil","en":"encourage, urge, exhort, embolden, foster, hearten","fr":"encourager, stimuler, exhorter, enhardir","he":"לעודד"}
 {"L":"coraji","C":["n"],"en":"encouragement, exhortation","fr":"encouragement, exhortation","he":"עידוד"}
 {"L":"corajinte","C":["a"],"en":"hortative, exhortative, exhortatory","fr":"encourageant, stimulant, prometteur","he":"מעודד"}
-{"L":"descoraji","C":["vt"],"en":"discourage, demoralize|is, dishearten, unnerve","fr":"décourager, démoraliser, accabler","he":"לערער (את הביטחון), לייאש, לרפות את ידיו (של מישהו)"}
+{"L":"descoraji","C":["vt"],"en":"discourage, demoralize|is, dishearten, unnerve, daunt","fr":"décourager, démoraliser, accabler","he":"לערער (את הביטחון), לייאש, לרפות את ידיו (של מישהו)"}
 {"L":"descoraji","C":["n"],"en":"discouragement, despondency","fr":"découragement, abattement, accablement, consternation","he":"ערעור (ביטחון); ייאוש, ריפיון ידיים, דכדוך"}
 {"L":"descorajida","C":["a"],"en":"discouraged, dejected, demoralized|is, disheartened, despondent, heartsick","fr":"découragé, démoralisé, accablé, effondré","he":"מיואש, מדוכדך"}
+{"L":"descorajinte","C":["a"],"en":"discouraging, demoralizing|is, daunting"}
 {"T":"r","L":"coral","C":["n","bio"],"d":"la materia dur secreteda par alga cnidarios de mar como un sceleto esterna, tipal forminte resifes grande en mares calda; un de la cnidarios fisada cual produi esta","i":"#","en":"coral","fr":"corail","he":"אלמוג"}
 {"L":"Mar Coral","C":["n","jeo"],"d":"un mar entre Australia norde-este e Papua Gine Nova","i":"#","en":"Coral Sea","fr":"mer de Corail","he":"ים האלמוגים"}
 {"T":"r","L":"corasa","C":["n","util"],"d":"(istorial) un armur composada de du platas, un per la peto e un per la dorso, liada con lunlotra; (en medica) un ventador cual enclui la corpo ma permete ce la membros es libre, e cual forsa aira a en e a estra la pulmones par cambias de presa","i":"#","en":"cuirass","fr":"cuirasse","he":"קיראס, שריון חזה"}
@@ -7051,6 +7053,9 @@
 {"T":"r","L":"cripto-","C":["pf","tecn"],"d":"secreta, ascondeda","en":"crypto-","fr":"crypto-","he":"(קידומת טכנית) סודי"}
 {"T":"r","L":"criptografia","C":["n","gov"],"d":"la arte de crea o solve sifras","en":"cryptography, cryptology","fr":"cryptographie, cryptologie","he":"קריפטוגרפיה, קריפטולוגיה"}
 {"L":"criptografiste","C":["n"],"en":"cryptographer, cryptologist","fr":"cryptographe, cryptologue","he":"קריפטוגרף, קריפטולוג"}
+{"T":"r","L":"criptoiudi","C":["a","rel"],"d":"ascondente sua iudisme per evita discriminas e menasas, spesial en la eda medieval","en":"crypto-Jewish"}
+{"L":"criptoiudi","C":["n"],"en":"crypto-Jew"}
+{"L":"criptoiudisme","C":["n"],"en":"crypoto-Judaism"}
 {"T":"r","L":"criptomone","C":["n","mone"],"d":"un sistem de mone dijital, usante tecnicas de sifri per regula la jenera de mone e per validi la intercambias","en":"cryptocurrency","fr":"cryptomonnaie","he":"מטבע מבוזר, מטבע קריפטו"}
 {"T":"r","L":"cripton","C":["n","cim"],"d":"la elemento cimical con numero atomal 36, un gas usada en alga tipos de lumina eletrica","s":"Kr (krypton)","en":"krypton","fr":"krypton","he":"קריפטון (יסוד)"}
 {"T":"r","L":"criptonita","C":["n","mit"],"d":"un mineral estrateran, capas de cansela la potias de Superman; cualce cosa cual redui multe la fortia de algun","en":"kryptonite","fr":"kryptonite","he":"קריפטונייט"}
@@ -8859,6 +8864,7 @@
 {"T":"r","L":"ebano","C":["n","pla"],"d":"un lenio negra o brun oscur; la arbor tropical cual produi esta","i":"#","t":"Ebenaceae","en":"ebony","es":"ébano","fr":"ébène","he":"הובנה (עץ)"}
 {"T":"r","L":"ebefrenia","C":["n","uma","med"],"d":"un varia cronica de scizofrenia, marcada par rie e condui enfantin","en":"hebephrenia (medical)","es":"hebefrenia, esquizofrenia desorganizada","fr":"hébéphrénie","he":"הבפרניה"}
 {"L":"ebefrenica","C":["a"],"en":"hebephrenic","es":"hebefrénica","fr":"hébéphrène, hébéphrénique","he":"הבפרני"}
+{"T":"r","L":"ebola","C":["n","med"],"d":"un maladia grave comunicable, marcada par febre e sangui interna","en":"Ebola, Ebola virus disease, Ebola hemorrhagic|ae fever"}
 {"T":"r","L":"ebonita","C":["n","tera"],"d":"cauxo vulcanida, cual deveni dur e negra","en":"ebonite (rubber)","es":"ebonita (caucho)","fr":"ébonite","he":"הבנית"}
 {"T":"r","L":"ec","C":["c"],"d":"de la eda comun","en":"CE, AD, anno domini","es":"EC, d.C.","fr":"après JC","he":"אחרי הספירה"}
 {"T":"r","L":"ecdisozon","C":["n"],"d":"un clado o suprafilo de animales cual inclui artropodos, nematodos e otras cual perde sua esosceleto","t":"Ecdysozoa","en":"ecdysozoon (pl. ecdysozoa) (organism)","es":"ecdisozoo (pl. ecdisozoos) (organismo)","fr":"ecdysozoaire","he":"אקדיסוזון (בעל חיים)"}
@@ -9937,6 +9943,7 @@
 {"T":"r","L":"esemplo","C":["n","fil"],"d":"un cosa cual representa sua spesie, tipo, grupo, etc, o cual mostra un regula jeneral","da":"eksemplar, model, prototype","de":"Urbild, Beispiel","en":"example, sample, exemplar, model, specimen","es":"prototipo, ejemplo, arquetipo, modelo, referencia, muestra, prueba, cale","fr":"exemple, modèle, archétype, illustration, paradigme, parangon"}
 {"L":"esempli","C":["vt"],"en":"exemplify, illustrate, epitomize|is","fr":"illustrer, être le modèle de"}
 {"L":"esemplo perfeta","C":["n"],"en":"perfect example, paragon, quintessence","fr":"parfait exemple, paradigme, parangon, quintessence"}
+{"L":"esemplor","C":["n"],"en":"exemplar, exemplary person, role model, trendsetter"}
 {"L":"per esemplo","C":["av"],"s":"pe","en":"for example, for instance","fr":"par exemple"}
 {"T":"r","L":"esenio","C":["n","ist","rel"],"d":"un membro de un seta antica de iudisme cual ia flori entre la sentenio du aec e la sentenio prima ec","en":"Essene","fr":"Essénien"}
 {"T":"r","L":"esense","C":["n","fil"],"d":"la cualia de alga cosa sin cual lo no pote esiste o es se; la parte o aspeta la plu importante de un problem o projeta","en":"essence, quintessence, quiddity; crux, gist","fr":"essence, quintessence; l'essentiel, le cœur, le point capital, le point crucial"}
@@ -10428,6 +10435,8 @@
 {"L":"evitor","C":["n"],"en":"avoider, evader"}
 {"L":"evitor de imposta","C":["n"],"en":"tax dodger"}
 {"L":"nonevitable","C":["a"],"en":"inevitable, unavoidable, inexorable"}
+{"L":"nonevitable","C":["n"],"en":"inevitability (something inevitable)"}
+{"L":"nonevitablia","C":["n"],"en":"inevitability, inexorability (quality)"}
 {"T":"r","L":"evoca","C":["vt","uma"],"d":"(un cosa) fa ce on recorda (un otra); fa ce algun ofre (un responde o reata)","en":"evoke, elicit, remind of, conjure up, call to mind","fr":"évoquer"}
 {"L":"evoca","C":["n"],"en":"evocation, connotation, resonance"}
 {"L":"evocante","C":["a"],"en":"evocative"}
@@ -11891,6 +11900,7 @@
 {"L":"galin","C":["a"],"en":"chickenlike"}
 {"T":"r","L":"gala","C":["n","spo","arte"],"d":"un diverti publica; un esibi de obras spesial","en":"show (entertainment)","es":"gala, espectáculo","fr":"spectacle"}
 {"T":"r","L":"galago","C":["n","mam"],"d":"un primate peti e noturna de Africa con oios multe grande","i":"#","t":"Galagidae","en":"galago, bushbaby, nagapie (primate)","es":"galágido, gálago"}
+{"T":"r","L":"galalito","C":["n","cim"],"d":"un plastica sinteseda de casena e formaldehido","en":"galalith, erinoid"}
 {"T":"r","L":"Galapagos, Isolas","C":["n","pl","jeo"],"d":"un arcipelago de isolas a la ecuator en la Mar Pasifica a ueste de Ecuador, a cual los parteni","i":"Isolas-Galapagos","en":"Galápagos Islands","es":"Islas Galápagos"}
 {"T":"r","L":"galasia","C":["n","ast"],"d":"un sistem de miliones o biliones de stelas, con gas e polvo, tenida par gravita","i":"#","en":"galaxy","es":"galaxia"}
 {"L":"galasial","C":["a"],"en":"galactic","es":"galáctico"}
@@ -20597,6 +20607,8 @@
 {"L":"pluvial de Magalan","C":["n","ani","avia"],"i":"pluvial-de-magalan","t":"Pluvianellus socialis","en":"Magellanic plover"}
 {"T":"r","L":"pm","C":["c"],"d":"pos mediadia","en":"p.m."}
 {"T":"r","L":"-pnea","C":["sf","n","med"],"d":"respira","en":"-pnea (breathing)"}
+{"T":"r","L":"pneumatica","C":["n","fis"],"d":"un ramo de injenia cual usa gases compresada, comun aira","en":"pneumatics"}
+{"L":"pneumatical","C":["a"],"en":"pneumatic"}
 {"T":"r","L":"pneumato-","C":["pf","tecn"],"d":"aira, respira, spirito","en":"pneumato- (air)"}
 {"T":"r","L":"pneumo-","C":["pf","tecn"],"d":"aira, respira, pulmones","en":"pneumo- (air)"}
 {"T":"r","L":"pneumonia","C":["n","med"],"d":"un inflama de la pulmon causada par un infeta par baterias o viruses","en":"pneumonia","fr":"pneumonie"}
@@ -22730,6 +22742,8 @@
 {"L":"Golfo Riga","C":["n","jeo"],"d":"un golfo entre Esti e Latvia, un estende de la Mar Baltica","i":"#","en":"Gulf of Riga"}
 {"T":"r","L":"rigatoni","C":["n","cos"],"d":"un pasta con forma de tubos corta","en":"rigatoni (food)"}
 {"T":"r","L":"rigodon","C":["n","mus"],"d":"un dansa vivosa per duples, en tempo duple o cuatruple, orijinante en Provensa","en":"rigaudon, rigadoon (dance)"}
+{"T":"r","L":"rigor","C":["n"],"d":"(en siensa) un atende sever a la constrinjes de lojica e bon pratica; (metafor) completa esplorante tota solves posible de un problem","en":"rigor|ur"}
+{"L":"rigorosa","C":["a"],"en":"rigorous; thorough, comprehensive, exhaustive"}
 {"T":"r","L":"rijida","C":["a","uma"],"d":"no fasil curvable o flexable o capas de cambia forma; no tan libre movente como normal o desirada; (un person o un parte de corpo) noncapas de move fasil e sin dole; (un person o sua condui) tensada e constrinjeda en modo de condui","da":"stiv","de":"starr, steif","en":"stiff, rigid","es":"tieso, rígido, duro, terco, entumecido, fuerte","fr":"rigide","it":"duro, rigido","nl":"stijf","pt":"rígido, duro"}
 {"L":"rijidi","C":["vnt"],"en":"stiffen, turn rigid"}
 {"L":"rijidi","C":["vt"],"en":"stiffen, turn rigid"}
@@ -26173,6 +26187,7 @@
 {"T":"r","L":"tagalog","C":["a","dem"],"d":"pertinente a un popla de Luzon sentral en la Pilipinas, o a sua lingua austronesian","en":"Tagalog (person, language)","es":"tagalo (persona, idioma)","fr":"tagalog"}
 {"L":"tagalog","C":["n"],"en":"Tagalog (person, language)","es":"tagalo (persona, idioma)"}
 {"T":"r","L":"tagete","C":["n","pla"],"d":"un planta en familia de elianto, con flores jala","t":"Tagetes","en":"marigold","es":"tagete, cempasúchil, cempoalxóchitl, cempaxochitl, cempoal, flor de muertos"}
+{"T":"r","L":"tagua","C":["n","pla"],"d":"un palma de un jenero de cual on usa semes per fabrica joalas e scultetas","t":"Phytelephas","en":"tagua palm, ivory palm, ivory-nut palm"}
 {"T":"r","L":"Tahiti","C":["n","jeo"],"d":"un isola en la Mar Pasifica sude-sentral, un de la Isolas Sosia cual formi un parte de Polinesia Franses","i":"#","en":"Tahiti","es":"Tahití","fr":"Tahiti"}
 {"L":"tahiti","C":["a"],"en":"Tahitian","es":"tahitiano","fr":"tahitien"}
 {"L":"tahiti","C":["n"],"en":"Tahitian","es":"tahitiano"}
@@ -27495,7 +27510,7 @@
 {"L":"trompetor","C":["n","avia"],"d":"un avia grande e sosial ci abita sur la tera en la forestas tropical de America Sude, con plumas negra e vose simil a un trompeta","i":"#","t":"Psophia","en":"trumpeter (bird)"}
 {"L":"trompi","C":["vt","mus"],"en":"trumpet, bray"}
 {"L":"trompon","C":["n"],"i":"#","en":"trombone","fr":"trombone"}
-{"T":"r","L":"tronco","C":["n","bio","anat"],"d":"la parte major de un arbor, distinguida de sua ramos e radises; un peso grande taliada de un arbor; la parte de la corpo de un umana o animal estra sua membros o testa; la parte major de un avion estra sua alas; la parte de un parola estra sua afisas","i":"#","en":"trunk (tree, torso), log; fuselage; frustum (geometry); stem (of word)","fr":"tronc; buche; torse; radical (d'un mot)"}
+{"T":"r","L":"tronco","C":["n","bio","anat"],"d":"la parte major de un arbor, distinguida de sua ramos e radises; un peso grande taliada de un arbor; la parte de la corpo de un umana o animal estra sua membros o testa; la parte major de un avion estra sua alas; la parte de un parola estra sua afisas","i":"#","en":"trunk (of tree), log; torso; fuselage; frustum (geometry); stem (of word)","fr":"tronc; buche; torse; radical (d'un mot)"}
 {"L":"tronceta","C":["n"],"en":"stem, stalk"}
 {"L":"troncetin","C":["a"],"en":"stalklike"}
 {"T":"r","L":"trono","C":["n","gov"],"d":"un seja ritual per un renor, bispo o otra person importante","i":"#","en":"throne","fr":"trône"}
