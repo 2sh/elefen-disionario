@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '15 febrero 2020';
+﻿var dataDeDatos = '16 febrero 2020';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"a (lettre de l'alphabet), la (note de la gamme)",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",da:"i, ved, på, hos, nær",de:"bei, mit, um",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",gl:"en (no mesmo lugar que)",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -6663,6 +6663,8 @@ var disionario = [
 {L:"corsu",C:["a"],en:"Corsican (person, language)",fr:"corse",he:"קורסיקאי, קורסיקאית (שפה)"},
 {L:"corsu",C:["n","dem"],en:"Corsican (person, language)",fr:"Corse (personne); corse (langue)",he:"קורסיקאי, קורסיקאית (שפה)"},
 {T:"r",L:"corseto",C:["n","vest"],d:"un veste streta cual suporta la dorso o magri la taie",i:"#",en:"corset, girdle, bodice",fr:"corset",he:"מחוך"},
+{L:"corseti",C:["vt"],en:"corset"},
+{L:"corsetida",C:["a"],en:"corseted"},
 {L:"corsetor",C:["n"],en:"corsetiere",fr:"corsetier, corsetière",he:"יצרן מחוכים"},
 {T:"r",L:"corta",C:["a"],d:"(un person, cosa o tempo) no longa, con poca distantia de un fini a la otra",da:"kort, kortfattet",de:"kurz",en:"short, brief, stubby",es:"corto, breve, escaso, conciso",fr:"court, bref, concis, serré",he:"קצר"},
 {L:"corta pos",C:["prep"],en:"shortly after",fr:"peu après, peu de temps après",he:"זמן קצר לאחר-מכן"},
@@ -9001,6 +9003,7 @@ var disionario = [
 {L:"noneducada",C:["a"],en:"uneducated, unschooled, uncultured, ignorant, unskilled, menial",fr:"non éduqué, non instruit, non cultivé, inculte, ignorant",he:"חסר השכלה, בור"},
 {L:"reeduca",C:["vt"],en:"re-educate",fr:"rééduquer",he:"לחנך מחדש"},
 {T:"r",L:"Edward, Lago",C:["n","jeo"],d:"un lago a la frontera entre Uganda e la Republica Democrata de Congo",i:"Lago-Edward",en:"Lake Edward",fr:"lac Édouard",he:"אגם אדוארד"},
+{T:"r",L:"edwardian",C:["a","ist","arte"],d:"pertinente a la periodo de Re Edward 7 de Britan e Er (1901-1910)",en:"Edwardian"},
 {T:"r",L:"efedra",C:["n","pla"],d:"un arboreta perene de zonas calda e seca, con troncetas trepante e folias pico e scamin",i:"#",t:"Ephedra",en:"ephedra (plant)",fr:"éphèdre (plante)",he:"שרביטן (צמח)"},
 {T:"r",L:"efedrina",C:["n","med"],d:"un medisin otenida de alga efedras, usada per constrinje la tubos sangual e abri la broncos",en:"ephedrine (drug)",fr:"éphédrine",he:"אפדרין (תרופה)"},
 {T:"r",L:"efemera",C:["a"],d:"esistente o usada per un periodo multe corta",en:"ephemeral",fr:"éphémère",he:"קצר ימים, בן-חלוף"},
@@ -22347,6 +22350,7 @@ var disionario = [
 {L:"relatas publica",C:["n"],en:"public relations"},
 {L:"sin relata con",C:["prep"],en:"irrespective of, regardless of"},
 {T:"r",L:"relativa",C:["a","fil","fis"],d:"esistente o posesente un cualia spesifada en compara con un otra cosa; regardada en relata o proportio con un otra cosa",en:"relative"},
+{L:"relativi",C:["vnt"],en:"relativize|is"},
 {L:"relativia",C:["n"],en:"relativity"},
 {L:"relativial",C:["a"],en:"relativistic"},
 {L:"relativisme",C:["n","fil","uma"],en:"relativism"},
