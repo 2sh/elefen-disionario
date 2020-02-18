@@ -9136,44 +9136,44 @@
 {"L":"preeleje","C":["vt"],"en":"preselect","fr":"opérer une présélection","he":"לבחור מראש"}
 {"L":"proelejal","C":["a"],"en":"pro-choice","fr":"pro-choix (aux USA, mouvement pour le libre choix de la contraception et le droit à l'avortement)","he":"שתומך בבחירה חופשית"}
 {"L":"reeleje","C":["vt"],"en":"re-elect","fr":"réélire","he":"לבחור שוב, לבחור מחדש"}
-{"T":"r","L":"elejia","C":["n","arte"],"d":"un poesia de refleta seria, tipal un lamenta pos un mori; un poesia elinica o latina, scriveda en duples elejial","en":"elegy","fr":"élégie"}
-{"L":"elejial","C":["a"],"en":"elegiac","fr":"élégiaque"}
-{"T":"r","L":"elemento","C":["n","cim"],"d":"un parte o aspeta fundal de alga cosa, spesial si esensal o tipal; cada de plu ca 100 materias cimical cual no pote es simplida e cual es la partes fundal de tota materias","da":"element","de":"Urstoff","en":"element (basic part, including chemical); factor","es":"elemento","fr":"élément"}
-{"T":"r","L":"eletrica","C":["n","fis"],"d":"un forma de enerjia cual resulta de la presentia de particulas cargada, como un cumula statical de carga o como un corente dinamical","da":"elektricitet","de":"Elektrizität","en":"electricity","es":"electricidad","fr":"électricité"}
-{"L":"eletrical","C":["a"],"en":"electrical, electric","fr":"électrique"}
-{"L":"eletrici","C":["vt"],"en":"electrify","fr":"électrifier"}
-{"L":"eletrici","C":["n"],"en":"electrification","fr":"électrification"}
-{"L":"eletricida","C":["a"],"en":"electrified, electric","fr":"électrifié"}
-{"L":"eletricinte","C":["a"],"en":"electrifying","fr":"électrifiant"}
-{"L":"eletriciste","C":["n"],"en":"electrician","fr":"électricien"}
-{"T":"r","L":"eletrocardiograf","C":["n","med"],"d":"un aparato per mesura e rejistra la ativia eletrical en la cor","en":"electrocardiograph, ECG scanner, EKG scanner","fr":"électrocardiographe, ECG"}
-{"L":"eletrocardiografia","C":["n"],"en":"electrocardiography","fr":"électrocardiographie"}
-{"T":"r","L":"eletrocardiogram","C":["n","med"],"d":"un rejistra creada par un eletrocardiograf","en":"electrocardiogram, ECG scan, EKG scan","fr":"électrocardiogramme"}
-{"T":"r","L":"eletrocuta","C":["vt","gov"],"d":"feri o mata (algun) par xoca eletrical","en":"electrocute","fr":"électrocuter"}
-{"L":"eletrocuta","C":["n"],"en":"electrocution","fr":"électrocution"}
-{"T":"r","L":"eletrodinamica","C":["n","fis"],"d":"la ramo de mecanica cual studia la interata de corentes eletrical con campos magnetal o con otra corentes eletrical","en":"electrodynamics","fr":"électrodynamique"}
-{"L":"eletrodinamical","C":["a"],"en":"electrodynamic","fr":"électrodynamique"}
-{"T":"r","L":"eletrodo","C":["n","fis"],"d":"un condutador tra cual eletrica entra a o sorti de un ojeto, materia o area","en":"electrode","fr":"électrode"}
-{"T":"r","L":"eletroensefalograf","C":["n","med"],"d":"un aparato per rejistra la ativia eletrical de la serebro","en":"electroencephalograph","fr":"électroencéphalographe, EEG"}
-{"L":"eletroensefalografia","C":["n"],"en":"electroencephalography","fr":"électroencéphalographie"}
-{"T":"r","L":"eletroensefalogram","C":["n","med"],"d":"un rejistra creada par un eletroensefalograf","en":"electroencephalogram","fr":"électroencéphalogramme"}
-{"T":"r","L":"eletrofisiolojia","C":["n","bio"],"d":"la ramo de fisiolojia cual studia la fenomenos eletrical asosiada con la funsiona de la nervos e corpo","en":"electrophysiology","fr":"électrophysiologie"}
-{"T":"r","L":"eletroforese","C":["n","cim"],"d":"la move de particulas cargada en un licuida o jelatin su influe de un campo eletrica","en":"electrophoresis","fr":"électrophorèse"}
-{"T":"r","L":"eletrolise","C":["vt","cim"],"d":"envia un corente eletrical tra (un licuida o disolve) cual conteni iones","en":"electrolyze|ys","fr":"électrolyser"}
-{"L":"eletrolise","C":["n"],"en":"electrolysis","fr":"électrolyse"}
-{"L":"eletrolisal","C":["a"],"en":"electrolytic","fr":"électrolytique"}
-{"T":"r","L":"eletrolito","C":["n","cim"],"d":"un licuida o jelatin cual conteni iones e cual pote es descomposada par eletrolise","en":"electrolyte","fr":"électrolyte"}
-{"T":"r","L":"eletromagnete","C":["n","fis"],"d":"un cor de metal mol, convertida a un magnete par la pasa de un corente eletrical tra un enrolada cual ensirca lo","en":"electromagnet","fr":"électroaimant"}
-{"L":"eletromagnetal","C":["a"],"en":"electromagnetic","fr":"électromagnétique"}
-{"L":"eletromagnetia","C":["n"],"en":"electromagnetism","fr":"électromagnétisme"}
-{"T":"r","L":"eletromecanica","C":["n","fis"],"d":"la siensa de aparatos macinal cual usa eletrica","en":"electromechanics","fr":"électromécanique"}
-{"L":"eletromecanical","C":["a"],"en":"electromechanical","fr":"électromécanique"}
-{"T":"r","L":"eletromotiva","C":["a","fis"],"d":"produinte un corente eletrical","en":"electromotive","fr":"électromoteur|électromotrice"}
-{"T":"r","L":"eletron","C":["n","fis"],"d":"un particula suatomal e stable, con carga eletrical negativa, trovada en tota atomes e funsionante como la portante xef de eletrica en solidas","en":"electron","fr":"électron"}
-{"T":"r","L":"eletronegativa","C":["a","fis","cim"],"d":"eletrical negativa; (un elemento) tendente gania eletrones e formi iones negativa","en":"electronegative","fr":"électronégatif"}
-{"T":"r","L":"eletronica","C":["n","fis","util"],"d":"la ramo de fisica e tecnolojia cual pertine a la desinia de sircuitos con transistores e microtelias, e a la condui e move de eletrones en condutadores, semicondutadores, gases o un vacua","en":"electronics (science)","fr":"électronique"}
-{"L":"eletronical","C":["a"],"en":"electronic","fr":"électronique"}
-{"L":"eletronicales","C":["n","pl"],"en":"electronics (components)","fr":"composants électroniques"}
+{"T":"r","L":"elejia","C":["n","arte"],"d":"un poesia de refleta seria, tipal un lamenta pos un mori; un poesia elinica o latina, scriveda en duples elejial","en":"elegy","fr":"élégie","he":"קינה, אלגיה"}
+{"L":"elejial","C":["a"],"en":"elegiac","fr":"élégiaque","he":"אלגי"}
+{"T":"r","L":"elemento","C":["n","cim"],"d":"un parte o aspeta fundal de alga cosa, spesial si esensal o tipal; cada de plu ca 100 materias cimical cual no pote es simplida e cual es la partes fundal de tota materias","da":"element","de":"Urstoff","en":"element (basic part, including chemical); factor","es":"elemento","fr":"élément","he":"יסוד, אלמנט"}
+{"T":"r","L":"eletrica","C":["n","fis"],"d":"un forma de enerjia cual resulta de la presentia de particulas cargada, como un cumula statical de carga o como un corente dinamical","da":"elektricitet","de":"Elektrizität","en":"electricity","es":"electricidad","fr":"électricité","he":"חשמל"}
+{"L":"eletrical","C":["a"],"en":"electrical, electric","fr":"électrique","he":"חשמלי"}
+{"L":"eletrici","C":["vt"],"en":"electrify","fr":"électrifier","he":"לחשמל (להקים תשתית חשמל)"}
+{"L":"eletrici","C":["n"],"en":"electrification","fr":"électrification","he":"חשמול (הקמת תשתית חשמל)"}
+{"L":"eletricida","C":["a"],"en":"electrified, electric","fr":"électrifié","he":"מחושמל"}
+{"L":"eletricinte","C":["a"],"en":"electrifying","fr":"électrifiant","he":"מחשמל"}
+{"L":"eletriciste","C":["n"],"en":"electrician","fr":"électricien","he":"חשמלאי"}
+{"T":"r","L":"eletrocardiograf","C":["n","med"],"d":"un aparato per mesura e rejistra la ativia eletrical en la cor","en":"electrocardiograph, ECG scanner, EKG scanner","fr":"électrocardiographe, ECG","he":"אלקטרוקרדיוגרף, רשם-לב חשמלי, (מכשיר) אק\"ג"}
+{"L":"eletrocardiografia","C":["n"],"en":"electrocardiography","fr":"électrocardiographie","he":"אלקטרוקרדיוגרפיה, רישום-לב חשמלי"}
+{"T":"r","L":"eletrocardiogram","C":["n","med"],"d":"un rejistra creada par un eletrocardiograf","en":"electrocardiogram, ECG scan, EKG scan","fr":"électrocardiogramme","he":"אלקטרוקרדיוגרם, רשמת-לב חשמלית, (בדיקת) אק\"ג"}
+{"T":"r","L":"eletrocuta","C":["vt","gov"],"d":"feri o mata (algun) par xoca eletrical","en":"electrocute","fr":"électrocuter","he":"לחשמל (אדם)"}
+{"L":"eletrocuta","C":["n"],"en":"electrocution","fr":"électrocution","he":"התחשמלות, חשמול (אדם)"}
+{"T":"r","L":"eletrodinamica","C":["n","fis"],"d":"la ramo de mecanica cual studia la interata de corentes eletrical con campos magnetal o con otra corentes eletrical","en":"electrodynamics","fr":"électrodynamique","he":"אלקטרודינמיקה"}
+{"L":"eletrodinamical","C":["a"],"en":"electrodynamic","fr":"électrodynamique","he":"אלקטרודינמי"}
+{"T":"r","L":"eletrodo","C":["n","fis"],"d":"un condutador tra cual eletrica entra a o sorti de un ojeto, materia o area","en":"electrode","fr":"électrode","he":"אלקטרודה"}
+{"T":"r","L":"eletroensefalograf","C":["n","med"],"d":"un aparato per rejistra la ativia eletrical de la serebro","en":"electroencephalograph","fr":"électroencéphalographe, EEG","he":"אלקטרואנצפלוגרף, רשם גלי מוח חשמלי, (מכשיר) אא\"ג"}
+{"L":"eletroensefalografia","C":["n"],"en":"electroencephalography","fr":"électroencéphalographie","he":"אלקטרואנצפלוגרפיה, רישום גלי מוח חשמלי"}
+{"T":"r","L":"eletroensefalogram","C":["n","med"],"d":"un rejistra creada par un eletroensefalograf","en":"electroencephalogram","fr":"électroencéphalogramme","he":"אלקטרואנצפלוגרם, רשמת גלי מוח חשמלית, (בדיקת) אא\"ג"}
+{"T":"r","L":"eletrofisiolojia","C":["n","bio"],"d":"la ramo de fisiolojia cual studia la fenomenos eletrical asosiada con la funsiona de la nervos e corpo","en":"electrophysiology","fr":"électrophysiologie","he":"אלקטרופיזיולוגיה"}
+{"T":"r","L":"eletroforese","C":["n","cim"],"d":"la move de particulas cargada en un licuida o jelatin su influe de un campo eletrica","en":"electrophoresis","fr":"électrophorèse","he":"אלקטרופורזה"}
+{"T":"r","L":"eletrolise","C":["vt","cim"],"d":"envia un corente eletrical tra (un licuida o disolve) cual conteni iones","en":"electrolyze|ys","fr":"électrolyser","he":"לעשות אלקטרוליזה"}
+{"L":"eletrolise","C":["n"],"en":"electrolysis","fr":"électrolyse","he":"אלקטרוליזה"}
+{"L":"eletrolisal","C":["a"],"en":"electrolytic","fr":"électrolytique","he":"אלקטרוליטי"}
+{"T":"r","L":"eletrolito","C":["n","cim"],"d":"un licuida o jelatin cual conteni iones e cual pote es descomposada par eletrolise","en":"electrolyte","fr":"électrolyte","he":"אלקטרוליט"}
+{"T":"r","L":"eletromagnete","C":["n","fis"],"d":"un cor de metal mol, convertida a un magnete par la pasa de un corente eletrical tra un enrolada cual ensirca lo","en":"electromagnet","fr":"électroaimant","he":"אלקטרומגנט"}
+{"L":"eletromagnetal","C":["a"],"en":"electromagnetic","fr":"électromagnétique","he":"אלקטרומגנטי"}
+{"L":"eletromagnetia","C":["n"],"en":"electromagnetism","fr":"électromagnétisme","he":"אלקטרומגנטיות"}
+{"T":"r","L":"eletromecanica","C":["n","fis"],"d":"la siensa de aparatos macinal cual usa eletrica","en":"electromechanics","fr":"électromécanique","he":"אלקטרומכניקה"}
+{"L":"eletromecanical","C":["a"],"en":"electromechanical","fr":"électromécanique","he":"אלקטרומכני"}
+{"T":"r","L":"eletromotiva","C":["a","fis"],"d":"produinte un corente eletrical","en":"electromotive","fr":"électromoteur|électromotrice","he":"אלקטרומניע"}
+{"T":"r","L":"eletron","C":["n","fis"],"d":"un particula suatomal e stable, con carga eletrical negativa, trovada en tota atomes e funsionante como la portante xef de eletrica en solidas","en":"electron","fr":"électron","he":"אלקטרון"}
+{"T":"r","L":"eletronegativa","C":["a","fis","cim"],"d":"eletrical negativa; (un elemento) tendente gania eletrones e formi iones negativa","en":"electronegative","fr":"électronégatif","he":"אלקטרונגטיבי"}
+{"T":"r","L":"eletronica","C":["n","fis","util"],"d":"la ramo de fisica e tecnolojia cual pertine a la desinia de sircuitos con transistores e microtelias, e a la condui e move de eletrones en condutadores, semicondutadores, gases o un vacua","en":"electronics (science)","fr":"électronique","he":"אלקטרוניקה"}
+{"L":"eletronical","C":["a"],"en":"electronic","fr":"électronique","he":"אלקטרוני"}
+{"L":"eletronicales","C":["n","pl"],"en":"electronics (components)","fr":"composants électroniques","he":"רכיבים אלקטרוניים"}
 {"T":"r","L":"eletroplaca","C":["vt","cim"],"d":"placa (un cosa metal) par eletrolise","en":"electroplate","fr":"électroplaquer, faire de la galvanoplastie"}
 {"L":"eletroplaca","C":["n"],"en":"electroplating","fr":"galvanoplastie, électroplacage"}
 {"T":"r","L":"eletropositiva","C":["a","fis","cim"],"d":"eletrical positiva; (un elemento) tendente perde eletrones e formi iones positiva","en":"electropositive","fr":"électropositif"}
@@ -19600,6 +19600,7 @@
 {"L":"patriota","C":["n"],"en":"patriot"}
 {"L":"nonpatriota","C":["a"],"en":"unpatriotic"}
 {"L":"patriotisme","C":["n"],"en":"patriotism"}
+{"T":"r","L":"patron","C":["n","util"],"d":"un peso formida de metal, lenio, plastica, carta, paper o otra materia, usada per gida la crea de formas cuando on pinti, talia, fora, etc","en":"pattern, template (for cutting or drawing round, etc)"}
 {"T":"r","L":"patrulia","C":["vt","gov"],"d":"garda o atende (un area) par pasea o viaja sirca o tra lo","en":"patrol"}
 {"L":"patrulia","C":["n"],"en":"patrol"}
 {"L":"patrulia furtiva","C":["vt"],"en":"prowl"}
@@ -24433,6 +24434,7 @@
 {"L":"sibercriminal","C":["n"],"en":"cybercriminal"}
 {"T":"r","L":"sibernetica","C":["n","info"],"d":"la siensa de comunica e controla en macinas e viventes","en":"cybernetics"}
 {"L":"sibernetical","C":["a"],"en":"cybernetic"}
+{"T":"r","L":"sibersecuria","C":["n"],"d":"securia contra atacas eletronica","en":"cybersecurity","es":"ciberseguridad"}
 {"T":"r","L":"siberspasio","C":["n","info"],"d":"la ambiente consetal en cual comunica tra redes de computadores aveni","en":"cyberspace"}
 {"T":"r","L":"sibila","C":["vt"],"d":"emete (un melodia o simil) como un sona alta e clar par forsa la respira tra un abri peti entre la labios o dentes; (un avia, macina o strumento) produi un sona alta e clar; (un cosa rapida movente) produi un sona simil","da":"fløjte","de":"pfeifen","en":"whistle","eo":"fajfi","es":"silbar, chiflar, pitar","fr":"siffler","it":"fischiare","nl":"fluiten","pt":"assobiar"}
 {"L":"sibila","C":["n"],"en":"whistle"}
