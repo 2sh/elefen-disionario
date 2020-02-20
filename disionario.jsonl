@@ -1293,7 +1293,7 @@
 {"T":"r","L":"anio","C":["n","ast"],"d":"un periodo de 365 o 366 dias; la periodo en cual un planeta completi un orbita sirca la Sol","an":"añu","da":"år","de":"Jahr","en":"year","es":"año","fr":"an, année","he":"שנה"}
 {"L":"anio de lus","C":["n"],"en":"light year","fr":"année-lumière","he":"שנת אור"}
 {"L":"anio de recolie","C":["n"],"en":"vintage","fr":"millésime","he":"שנת בציר, שנת ייצור"}
-{"L":"anio estendeda","C":["n"],"en":"leap year","fr":"année bissextile","he":"שנה מעוברת"}
+{"L":"anio estendeda","C":["n"],"en":"leap year","fr":"année bissextile, année embolismique","he":"שנה מעוברת"}
 {"L":"anial","C":["a"],"en":"annual, yearly","fr":"annuel","he":"שנתי"}
 {"L":"anios pasada","C":["n","pl"],"en":"years gone by, yesteryear","fr":"années passées","he":"שנים עברו"}
 {"L":"bon anio nova","C":["esc"],"en":"happy new year","fr":"bonne année"}
@@ -10311,7 +10311,7 @@
 {"T":"r","L":"eter","C":["n","cim"],"d":"un licuida flamable, bonodorosa e sin color, usada como un solvente e un anestesente","en":"ether","fr":"éther"}
 {"L":"eteri","C":["vt"],"en":"etherize","fr":"éthériser"}
 {"L":"eterin","C":["a"],"en":"ethereal","fr":"éthéré"}
-{"T":"r","L":"etera","C":["n","artr"],"d":"un papilio neotropical","t":"Hetaera","en":"hetaera (moth)","fr":"haetera (papillon)"}
+{"T":"r","L":"etera","C":["n","artr"],"d":"un papilio neotropical","t":"Haetera","en":"haetera (moth)","fr":"haetera (papillon)"}
 {"T":"r","L":"eterna","C":["a","fil"],"d":"sempre continuante, sin comensa o fini; valida per tota tempo; continuante per la vive intera de algun","en":"eternal, perpetual, ageless, everlasting; lifelong","fr":"éternel, perpétuel, à perpétuité"}
 {"L":"eterni","C":["vnt"],"en":"eternalize|is, memorialize|is, perpetuate","fr":"se perpétuer"}
 {"L":"eterni","C":["vt"],"en":"eternalize|is, memorialize|is, perpetuate","fr":"perpétuer"}
@@ -10460,187 +10460,187 @@
 {"T":"r","L":"eziditi","C":["a","dem"],"d":"pertinente a un etnico curdi con relijio e cultur antica","en":"Yazidi","fr":"yazidi, yazidi"}
 {"L":"eziditi","C":["n"],"en":"Yazidi","fr":"Yézidi, Yazidi (personne); yézidiste (adepte du yézidisme)"}
 {"L":"eziditisme","C":["n"],"en":"Yazidism (religion)","fr":"yézidisme (religion)"}
-{"T":"r","L":"f","C":["sim"],"d":"la letera ses de la alfabeta roman; la nota cuatro de la scala diatonica de C major","p":"ef","en":"f","es":"f","fr":"f"}
+{"T":"r","L":"f","C":["sim"],"d":"la letera ses de la alfabeta roman; la nota cuatro de la scala diatonica de C major","p":"ef","en":"f","es":"f","fr":"f (lettre de l'alphabet); fa (note de la gamme)"}
 {"T":"r","L":"fa","C":["vt"],"d":"reali o partisipa en (un ata)","n":"No usa `fa` per dise `crea` o `fabrica`.","da":"gøre","de":"machen, tun","en":"do, perform; commit (crime); have (shower, dream, etc.); take (shower, photo, etc.); hold (event); play (game, role)","es":"hacer, ejecutar, llevar a cabo, desempeñar, ocuparse en, emplearse en","fr":"faire"}
-{"L":"fa","C":["n"],"en":"doing, deed","es":"hecho"}
-{"L":"fa a","C":["v"],"u":"los ia fa la fol a re","en":"cause (someone or something) to become, make (someone or something) ...","es":"causar (algo, algo a alguien), llegar a ser"}
-{"L":"fa bon","C":["v"],"en":"do well; do good","es":"hacer el bien, estar bien, hacerlo bien"}
-{"L":"fa ce","C":["v"],"u":"no fa ce me rie; la anunsia ia fa ce el roji","en":"cause (something to happen or become), make (something happen), render, turn","es":"causar, hacer que"}
-{"L":"fa de","C":["v"],"u":"los ia fa de la fol un re","en":"make ... of (someone or something)","es":"hacer ... de (alguien o algo)"}
+{"L":"fa","C":["n"],"en":"doing, deed","es":"hecho","fr":"action"}
+{"L":"fa a","C":["v"],"u":"los ia fa la fol a re","en":"cause (someone or something) to become, make (someone or something) ...","es":"causar (algo, algo a alguien), llegar a ser","fr":"faire que (quelque chose ou quelqu'un) devienne, faire (quelque chose à quelqu'un)"}
+{"L":"fa bon","C":["v"],"en":"do well; do good","es":"hacer el bien, estar bien, hacerlo bien","fr":"aller bien"}
+{"L":"fa ce","C":["v"],"u":"no fa ce me rie; la anunsia ia fa ce el roji","en":"cause (something to happen or become), make (something happen), render, turn","es":"causar, hacer que","fr":"faire que (quelque chose arrive)"}
+{"L":"fa de","C":["v"],"u":"los ia fa de la fol un re","en":"make ... of (someone or something)","es":"hacer ... de (alguien o algo)","fr":"faire de (quelque chose ou quelqu'un)"}
 {"L":"desfa","C":["vt"],"en":"undo","es":"deshacer","fr":"défaire"}
-{"L":"desfa","C":["n"],"en":"undoing","es":"ruina, perdición"}
+{"L":"desfa","C":["n"],"en":"undoing","es":"ruina, perdición","fr":"annulation, dissolution, déconstruction"}
 {"L":"fada","C":["a"],"en":"done","es":"hecho","fr":"fait"}
 {"L":"fada","C":["n"],"en":"deed (past)","es":"hecho (pasado)","fr":"fait"}
 {"L":"fada realida","C":["n"],"en":"fait accompli","es":"hecho consumado","fr":"fait accompli"}
 {"L":"faor","C":["n"],"en":"doer","es":"emprendedor, ejecutor, realizador, fabricante, creador","fr":"faiseur"}
-{"L":"malfa","C":["vt"],"en":"do badly, bodge, botch, bungle, bumble, screw up, make a bad job of","es":"hacer mal, estropear, hacer una chapuza, arruinar"}
-{"L":"malfa","C":["n"],"en":"misfeed, bodge, botch"}
-{"L":"malfaor","C":["a"],"en":"bodger, botcher, bungler","es":"chapucero, inepto, manaza, torpe"}
-{"L":"refa","C":["vt"],"en":"redo, recommit, do over, do again","es":"rehacer","fr":"refaire"}
-{"L":"refa","C":["n"],"en":"redoing, do-over, retake"}
-{"T":"r","L":"fa","C":["n","mus"],"d":"la nota cuatro de la scala de C major, F, en la sistem de solfejo","en":"fa (musical note)","fr":"fa"}
+{"L":"malfa","C":["vt"],"en":"do badly, bodge, botch, bungle, bumble, screw up, make a bad job of","es":"hacer mal, estropear, hacer una chapuza, arruinar","fr":"mal faire, faire un mauvais travail, abîmer, gâcher"}
+{"L":"malfa","C":["n"],"en":"misfeed, bodge, botch","fr":"malfaçon, mauvais travail, gâchis"}
+{"L":"malfaor","C":["n"],"en":"bodger, botcher, bungler","es":"chapucero, inepto, manaza, torpe","fr":"malfaisant, gâcheur, bricoleur, maladroit"}
+{"L":"refa","C":["vt"],"en":"redo, recommit, do over, do again","es":"rehacer","fr":"refaire, recommencer"}
+{"L":"refa","C":["n"],"en":"redoing, do-over, retake","fr":"recommencement, réitération, réfection"}
+{"T":"r","L":"fa","C":["n","mus"],"d":"la nota cuatro de la scala de C major, F, en la sistem de solfejo","en":"fa (musical note)","fr":"fa (note de musique)"}
 {"T":"r","L":"fable","C":["n","arte"],"d":"un nara corta con sinifia moral, tipal per enfantes, con carateres como animales o fes","i":"#","en":"fable, legend, folktale, fairy tale, children's story","fr":"fable, légende, conte de fée"}
 {"L":"fable moral","C":["n"],"en":"moral fable, apolog|ue"}
 {"T":"r","L":"fabrica","C":["vt"],"d":"construi (un ojeto fisical) par prepara e combina sua partes","en":"make, craft, fabricate, manufacture","fr":"fabriquer"}
-{"L":"fabrica","C":["n"],"en":"fabrication, manufacture"}
-{"L":"fabrica de vitro","C":["n"],"en":"glasswork"}
-{"L":"fabrica par mano","C":["n"],"en":"handcraft, handicraft"}
+{"L":"fabrica","C":["n"],"en":"fabrication, manufacture","fr":"fabrication"}
+{"L":"fabrica de vitro","C":["n"],"en":"glasswork","fr":"verrerie"}
+{"L":"fabrica par mano","C":["n"],"en":"handcraft, handicraft","fr":"manufacture"}
 {"L":"fabricada","C":["a"],"en":"manufactured, fabricated, manmade","fr":"fabriqué"}
 {"L":"fabricada","C":["n"],"en":"artifact|artefact","fr":"artefact"}
-{"L":"fabricada a casa","C":["a"],"en":"homemade"}
+{"L":"fabricada a casa","C":["a"],"en":"homemade","fr":"fait maison"}
 {"L":"fabriceria","C":["n"],"i":"#","da":"fabrik","de":"Fabrik","en":"factory, manufacturing plant, workshop","es":"fábrica","fr":"fabrique, usine, atelier"}
 {"L":"fabriceria misera","C":["n"],"en":"sweatshop"}
 {"L":"fabricor","C":["n"],"en":"manufacturer, fabricator, maker, wright","fr":"fabriquant"}
-{"L":"fabricor de fusiles","C":["n"],"en":"gunsmith"}
-{"L":"fabricor de rotas","C":["n"],"en":"wheelwright"}
+{"L":"fabricor de fusiles","C":["n"],"en":"gunsmith","fr":"fabriquant d'armes"}
+{"L":"fabricor de rotas","C":["n"],"en":"wheelwright","fr":"charron"}
 {"L":"fabricor de vagones","C":["n"],"en":"wainwright"}
 {"L":"ojeto fabricada","C":["n"],"en":"artifact|artefact","fr":"artefact"}
 {"L":"prefabrica","C":["vt"],"en":"prefabricate","fr":"préfabriquer"}
-{"L":"prefabrica","C":["n"],"en":"prefabrication, prefab"}
+{"L":"prefabrica","C":["n"],"en":"prefabrication, prefab","fr":"préfabrication"}
 {"L":"prefabricada","C":["a"],"en":"prefabricated, prefab","fr":"préfabriqué"}
-{"L":"refabrica","C":["vt"],"en":"remake"}
-{"T":"r","L":"facir","C":["n","rel"],"d":"un astenor muslim o indu ci survive sola par carita","en":"fakir"}
-{"T":"r","L":"facocero","C":["n","mam"],"d":"un porco savaje de Africa sude, con dentones grande","i":"#","t":"Phacochoerus","en":"warthog"}
-{"T":"r","L":"facula","C":["n","ast"],"d":"un area briliante a la surfas de la Sol, liada a la apare seguente de manxas solal en la mesma area; un manxa briliante a la surfas de un planeta","en":"facula (astronomy)"}
-{"T":"r","L":"fago-","C":["pf","tecn"],"d":"come","en":"phago- (eating)"}
-{"T":"r","L":"fagosite","C":["n","bio"],"d":"un tipo de selula en la corpo, capas de enclui e asorbe baterias e otra selulas e particulas peti","en":"phagocyte"}
-{"L":"fagosital","C":["a"],"en":"phagocytic"}
-{"T":"r","L":"fagositose","C":["n","bio"],"d":"la consuma de baterias o otra materia par fagosites e amebas","en":"phagocytosis"}
+{"L":"refabrica","C":["vt"],"en":"remake","fr":"refabriquer"}
+{"T":"r","L":"facir","C":["n","rel"],"d":"un astenor muslim o indu ci survive sola par carita","en":"fakir","fr":"fakir"}
+{"T":"r","L":"facocero","C":["n","mam"],"d":"un porco savaje de Africa sude, con dentones grande","i":"#","t":"Phacochoerus","en":"warthog","fr":"phacochère"}
+{"T":"r","L":"facula","C":["n","ast"],"d":"un area briliante a la surfas de la Sol, liada a la apare seguente de manxas solal en la mesma area; un manxa briliante a la surfas de un planeta","en":"facula (astronomy)","fr":"facule (astronomie)"}
+{"T":"r","L":"fago-","C":["pf","tecn"],"d":"come","en":"phago- (eating)","fr":"phago- (se nourrir)"}
+{"T":"r","L":"fagosite","C":["n","bio"],"d":"un tipo de selula en la corpo, capas de enclui e asorbe baterias e otra selulas e particulas peti","en":"phagocyte","fr":"phagocyte"}
+{"L":"fagosital","C":["a"],"en":"phagocytic","fr":"phagocytaire"}
+{"T":"r","L":"fagositose","C":["n","bio"],"d":"la consuma de baterias o otra materia par fagosites e amebas","en":"phagocytosis","fr":"phagocytose"}
 {"T":"r","L":"faia","C":["n","pla"],"d":"un arbor grande con cortex lisa e gris, folias briliante, e lenio dur e pal con fibres delicata","i":"#","t":"Fagus","en":"beech","fr":"hêtre"}
-{"L":"noza de faia","C":["n"],"en":"beechnut"}
+{"L":"noza de faia","C":["n"],"en":"beechnut","fr":"faîne"}
 {"T":"r","L":"faiense","C":["n","arte"],"d":"seramica vitrin, tipal decorada","i":"#","en":"faience","fr":"faïence"}
-{"T":"r","L":"-faje","C":["sf","n","bio","med"],"d":"comor","en":"-phage (eater)"}
-{"T":"r","L":"-fajia","C":["sf","n","med"],"d":"come","en":"-phagia"}
-{"T":"r","L":"fajita","C":["n","cos"],"d":"un plato mexican, composada de bandas de carne spisida, vejetales axida, e ceso raspada, enrolada en un tortilia mol e comun servida con crema asida","i":"#","en":"fajita (food)"}
-{"T":"r","L":"falafel","C":["n","cos"],"d":"un bal fritada de xixes moleda o favas de visia, tradisional comeda en Asia sude-ueste","i":"#","en":"falafel (food)","es":"falafel (comida)"}
+{"T":"r","L":"-faje","C":["sf","n","bio","med"],"d":"comor","en":"-phage (eater)","fr":"-phage (qui se nourrit de)"}
+{"T":"r","L":"-fajia","C":["sf","n","med"],"d":"come","en":"-phagia","fr":"-phagie"}
+{"T":"r","L":"fajita","C":["n","cos"],"d":"un plato mexican, composada de bandas de carne spisida, vejetales axida, e ceso raspada, enrolada en un tortilia mol e comun servida con crema asida","i":"#","en":"fajita (food)","fr":"fajita"}
+{"T":"r","L":"falafel","C":["n","cos"],"d":"un bal fritada de xixes moleda o favas de visia, tradisional comeda en Asia sude-ueste","i":"#","en":"falafel (food)","es":"falafel (comida)","fr":"falafel"}
 {"T":"r","L":"falanje","C":["n","anat","med"],"d":"un fola densa de soldatos, polisiores o simil; (en medica) un dito o diton de mano o pede","en":"phalanx (crowd); phalange (anatomy)","fr":"phalange"}
-{"T":"r","L":"falaropo","C":["n","avia"],"d":"un avia vadante e nadante, con beco reta e pedes lobosa","i":"#","t":"Phalaropus","en":"phalarope (bird)"}
-{"T":"r","L":"falasia","C":["vt","fil"],"d":"crede erosa (alga cosa) par razona noncoreta","en":"believe fallaciously"}
-{"L":"falasia","C":["n"],"en":"fallacy"}
-{"L":"falasiosa","C":["a"],"en":"fallacious"}
+{"T":"r","L":"falaropo","C":["n","avia"],"d":"un avia vadante e nadante, con beco reta e pedes lobosa","i":"#","t":"Phalaropus","en":"phalarope (bird)","fr":"phalarope (oiseau)"}
+{"T":"r","L":"falasia","C":["vt","fil"],"d":"crede erosa (alga cosa) par razona noncoreta","en":"believe fallaciously","fr":"gober, avaler (croire quelque chose en étant dupé, berné), croire aveuglément"}
+{"L":"falasia","C":["n"],"en":"fallacy","fr":"illuson, tromperie"}
+{"L":"falasiosa","C":["a"],"en":"fallacious","fr":"fallacieux, illusoire, trompeur"}
 {"T":"r","L":"falcon","C":["n","avia"],"d":"un avia xasante, con alas longa e puntida e un beco con protende dentin, cual catura predas par tufa de supra","i":"#","t":"Falconinae","en":"hawk, falcon, kestrel, falconet","fr":"faucon"}
 {"L":"falconor","C":["n"],"en":"falconer","fr":"fauconnier"}
-{"L":"falconoria","C":["n"],"en":"falconry"}
+{"L":"falconoria","C":["n"],"en":"falconry","fr":"fauconnerie"}
 {"T":"r","L":"falda","C":["n","vest"],"d":"un veste esterna basa, liada sirca la taie e pendente sirca la gamas","i":"#","da":"skørt","de":"Rock","en":"skirt, kilt","es":"falda, vestido","fr":"jupe"}
-{"L":"falda de leto","C":["n"],"en":"valance"}
+{"L":"falda de leto","C":["n"],"en":"valance","fr":"frange de lit, lambrequin"}
 {"L":"falda scotes","C":["n"],"i":"#","en":"kilt","fr":"kilt"}
 {"L":"faldeta","C":["n"],"en":"petticoat, half-slip, underskirt","fr":"jupon"}
 {"L":"faldon","C":["n"],"i":"#","da":"forklæde","de":"Schürze","en":"apron; tail (coat)","es":"delantal","fr":"tablier"}
 {"T":"r","L":"falesa","C":["n","tera"],"d":"un fas presipe de roca, tipal a borda de mar","i":"#","da":"klint","de":"Klippe","en":"cliff","es":"acantilado, risco, precipicio, peñasco, escarpa","fr":"falaise"}
 {"T":"r","L":"fali","C":["vt","uma"],"d":"no susede ateni (un resulta desirada); es rejetada par (un proba o intervisa)","u":"el ia fali sua esaminas; tu fali comprende la problem","da":"fejle, ramme forbi","de":"versagen, fehlen","en":"fail (not succeed), fail to, flunk; break down; fault (tennis)","es":"fallar, fracasar, no tener éxito, reprobar examen, faltar, necesitar, quebrar(se), faltar, errar, hechar de menos","fr":"rater, échouer à, louper, manquer"}
 {"L":"fali","C":["n"],"en":"failure, fault, flaw, failing, lapse; miss; (surfing) wipeout","fr":"ratage, manque, défaut"}
-{"L":"fali de judi","C":["n"],"en":"lapse of judgement"}
-{"L":"fali moral","C":["n"],"en":"moral failure, moral lapse"}
+{"L":"fali de judi","C":["n"],"en":"lapse of judgement","fr":"manque de jugement"}
+{"L":"fali moral","C":["n"],"en":"moral failure, moral lapse","fr":"faiblesse, vice, défaut, défaillance"}
 {"L":"fali paia","C":["v"],"en":"fail to pay, default on payment","fr":"être en défaut de paiement"}
-{"L":"fali para","C":["v"],"en":"fail to stop, overshoot"}
-{"L":"falinte","C":["a"],"en":"failing"}
-{"L":"falor","C":["n"],"en":"failure (person)"}
+{"L":"fali para","C":["v"],"en":"fail to stop, overshoot","fr":"ne pas pouvoir s'arrêter, aller trop loin, dépasser"}
+{"L":"falinte","C":["a"],"en":"failing","fr":"défaillant"}
+{"L":"falor","C":["n"],"en":"failure (person)","fr":"faible, défaillant"}
 {"L":"nunca falinte","C":["a"],"en":"infallible","fr":"infaillible"}
-{"L":"sin fali","C":["a"],"en":"faultless, impeccable"}
-{"T":"r","L":"falia","C":["n","tera"],"d":"(en jeolojia) un rompe estendeda en un corpo de roca, marcada par un desloca relativa de stratos a cada lado de un plana spesifada","i":"#","ca":"falla","de":"Verwerfung","en":"fault (geology)","eo":"faŭlto","es":"falla","fr":"faille","it":"faglia","pt":"falha"}
-{"L":"falion","C":["n","tera"],"en":"rift"}
-{"L":"vale de falion","C":["n"],"en":"rift valley"}
-{"T":"r","L":"Falkland, Isolas","C":["n","pl","jeo"],"d":"un teritorio brites composada de plu ca 100 isolas en la Mar Atlantica","i":"isolas-falkland","en":"Falkland Islands","es":"Islas Malvinas","fr":"Îles Malouines"}
+{"L":"sin fali","C":["a"],"en":"faultless, impeccable","fr":"sans défaut, impeccable, infaillible, irréprochable, parfait"}
+{"T":"r","L":"falia","C":["n","tera"],"d":"(en jeolojia) un rompe estendeda en un corpo de roca, marcada par un desloca relativa de stratos a cada lado de un plana spesifada","i":"#","ca":"falla","de":"Verwerfung","en":"fault (geology)","eo":"faŭlto","es":"falla","fr":"faille, fente, fissure","it":"faglia","pt":"falha"}
+{"L":"falion","C":["n","tera"],"en":"rift","fr":"crevasse, faille, ravin"}
+{"L":"vale de falion","C":["n"],"en":"rift valley","fr":"gorge, vallée, défilé, ravin"}
+{"T":"r","L":"Falkland, Isolas","C":["n","pl","jeo"],"d":"un teritorio brites composada de plu ca 100 isolas en la Mar Atlantica","i":"isolas-falkland","v":"Isolas Malvina","en":"Falkland Islands","es":"Islas Malvinas","fr":"îles Malouines"}
 {"T":"r","L":"falo","C":["n","anat"],"d":"un penis o simbol de penis, spesial si erijeda, tipal usada per simboli fertilia o la potia mas","en":"phallus","es":"falo","fr":"phallus"}
-{"L":"falal","C":["a"],"en":"phallic (pertaining to the phallus)"}
+{"L":"falal","C":["a"],"en":"phallic (pertaining to the phallus)","fr":"phallique"}
 {"L":"falin","C":["a"],"en":"phallic (resembling the phallus)","es":"fálico","fr":"phallique"}
-{"T":"r","L":"falsa","C":["a","fil"],"d":"no coreta, no vera, erante; no sertida, no como lo pare","da":"falsk, forkert, fejlagtig","de":"falsch","en":"wrong, false, incorrect, untrue, fake, fallacious, counterfeit, bogus, mock, faux, pseudo-","es":"falso, fingido, simulado, no verdadero, postizo, incorrecto, equivocado","fr":"faux"}
-{"L":"falsa","C":["n"],"en":"fake (thing)"}
-{"L":"falsi","C":["vnt"],"en":"become false; be faked"}
-{"L":"falsi","C":["vt"],"en":"counterfeit, falsify, fake, forge (money, document)","fr":"falsifier, contrefaire, fausser"}
-{"L":"falsi","C":["n"],"en":"falsification, forgery","fr":"falsification"}
-{"L":"falsia","C":["n"],"en":"falseness, falsehood, untruth"}
-{"L":"falsor","C":["n"],"en":"counterfeiter, forger","fr":"contrefacteur, falsificateur"}
-{"T":"r","L":"falseto","C":["a","mus"],"d":"(un vose de cantor mas) nonormal alta","en":"falsetto","fr":"fausset"}
-{"L":"falseto","C":["n"],"en":"falsetto"}
-{"T":"r","L":"falxe","C":["n","util"],"d":"un util usada per corti sereales e erbas, con un lamina longa e curvida a la fini de un palo longa con un o du manicos corta","i":"#","en":"scythe","fr":"faux"}
+{"T":"r","L":"falsa","C":["a","fil"],"d":"no coreta, no vera, erante; no sertida, no como lo pare","da":"falsk, forkert, fejlagtig","de":"falsch","en":"wrong, false, incorrect, untrue, fake, fallacious, counterfeit, bogus, mock, faux, pseudo-","es":"falso, fingido, simulado, no verdadero, postizo, incorrecto, equivocado","fr":"faux, incorrect, contrefait, pseudo-"}
+{"L":"falsa","C":["n"],"en":"fake (thing)","fr":"contrefaçon, falsification, mystification, imposture"}
+{"L":"falsi","C":["vnt"],"en":"become false; be faked","fr":"se falsifier, être faussé"}
+{"L":"falsi","C":["vt"],"en":"counterfeit, falsify, fake, forge (money, document)","fr":"falsifier, contrefaire, fausser, truquer"}
+{"L":"falsi","C":["n"],"en":"falsification, forgery","fr":"falsification, contrefaçon, truquage"}
+{"L":"falsia","C":["n"],"en":"falseness, falsehood, untruth","fr":"fausseté, imposture, mensonge"}
+{"L":"falsor","C":["n"],"en":"counterfeiter, forger","fr":"faussaire, falsificateur, contrefacteur"}
+{"T":"r","L":"falseto","C":["a","mus"],"d":"(un vose de cantor mas) nonormal alta","en":"falsetto","fr":"fausset (musique)"}
+{"L":"falseto","C":["n"],"en":"falsetto","fr":"fausset (musique)"}
+{"T":"r","L":"falxe","C":["n","util"],"d":"un util usada per corti sereales e erbas, con un lamina longa e curvida a la fini de un palo longa con un o du manicos corta","i":"#","en":"scythe","fr":"faux (outil)"}
 {"L":"falxeta","C":["n"],"i":"#","en":"sickle","fr":"faucille"}
 {"L":"falxi","C":["vt"],"en":"reap, mow, scythe","fr":"faucher"}
 {"L":"falxor","C":["n"],"en":"reaper, harvestman","fr":"faucheur"}
 {"T":"r","L":"fama","C":["n","uma"],"d":"la state de es bon conoseda o discuteda par multe persones, spesial per atenis notable","en":"fame, renown, stardom","fr":"renom, renommée, célébrité"}
 {"L":"famosa","C":["a"],"da":"kendt","de":"berühmt","en":"famous, noted, renowned, historic","es":"famoso","fr":"fameux, célèbre"}
-{"L":"famosa","C":["n"],"en":"famous person, celebrity, personality"}
-{"L":"mal fama","C":["n"],"en":"infamy, notoriety","fr":"infamie, notoriété"}
-{"L":"malfamosa","C":["a"],"en":"infamous, notorious","fr":"infame, notoire, mal famé"}
+{"L":"famosa","C":["n"],"en":"famous person, celebrity, personality","fr":"célébrité (personne)"}
+{"L":"mal fama","C":["n"],"en":"infamy, notoriety","fr":"mauvaise réputation"}
+{"L":"malfamosa","C":["a"],"en":"infamous, notorious","fr":"de mauvaise réputation, suspect, louche, de mauvais renom"}
 {"T":"r","L":"fame","C":["a","bio","med"],"d":"sentinte o mostrante la nesesa de come","en":"hungry, ravenous, ravening","fr":"qui a faim, affamé"}
 {"L":"fami","C":["vnt"],"en":"starve, hunger, famish, go hungry","fr":"avoir faim, être affamé"}
-{"L":"fami","C":["vt"],"en":"starve, make hungry"}
+{"L":"fami","C":["vt"],"en":"starve, make hungry","fr":"affamer"}
 {"L":"famia","C":["n"],"en":"hunger","fr":"faim"}
 {"L":"famion","C":["n"],"en":"famine","fr":"famine"}
 {"T":"r","L":"familia","C":["n","uma"],"d":"un grupo de persones composada de persones relatada par sangue o sposi, ci abita con lunlotra; cada de la cuatro grupos de cartas de jua","i":"#","da":"familie","de":"Familie","en":"family, household; suit (cards)","es":"familia","fr":"famille"}
-{"L":"la familia Braun","C":["esp"],"n":"On pote dise ance `la Braunes`.","en":"the Brown family"}
-{"L":"familia fusada","C":["n"],"en":"stepfamily, blended family"}
-{"L":"familia real","C":["n"],"en":"royal family, royalty"}
+{"L":"la familia Braun","C":["esp"],"n":"On pote dise ance `la Braunes`.","en":"the Brown family","fr":"famille Braun, les Braun"}
+{"L":"familia fusada","C":["n"],"en":"stepfamily, blended family","fr":"famille recomposée"}
+{"L":"familia real","C":["n"],"en":"royal family, royalty","fr":"famille royale"}
 {"L":"familial","C":["a"],"en":"familial","es":"familiar","fr":"familial"}
-{"L":"familian","C":["n"],"en":"family member"}
+{"L":"familian","C":["n"],"en":"family member","fr":"membre d'une famille"}
 {"L":"familin","C":["a"],"en":"familiar","es":"familiar","fr":"familier"}
-{"L":"sufamilia","C":["n"],"en":"subfamily (biology)"}
-{"L":"suprafamilia","C":["n"],"en":"superfamily (biology)"}
-{"T":"r","L":"familiar","C":["a"],"d":"bon conoseda, car frecuente videda o esperiada","en":"familiar"}
-{"L":"familiari","C":["vnt"],"en":"become familiar"}
-{"L":"familiari","C":["vt"],"en":"familiarize|is"}
-{"L":"familiari","C":["n"],"en":"familiarization|is"}
-{"L":"refamiliari","C":["vnt"],"en":"become familiar again"}
-{"L":"refamiliari","C":["vt"],"en":"refamiliarize|is"}
-{"L":"refamiliari","C":["n"],"en":"refamiliarization|is"}
-{"T":"r","L":"fan","C":["n","spo"],"d":"un person con un interesa forte en un sporte, arte, etc; un person ci amira forte un ecipo de sporte o un person famosa","en":"fan, fanatic, aficionado","es":"fan (admirador), fanático, aficionado, entusiasta","fr":"fan"}
-{"L":"fanes","C":["n","pl"],"en":"fans, fandom","es":"admiradores, aficionados, fanáticos, seguidores"}
-{"L":"fania","C":["n"],"en":"fandom (quality)"}
-{"L":"fanin","C":["a"],"en":"fannish"}
-{"T":"r","L":"fandango","C":["n","mus"],"d":"un dansa vivosa de Espania per du persones, tipal acompaniada par castanietas o tambureta","en":"fandango (dance)","es":"fandango (baile)"}
-{"T":"r","L":"fanfara","C":["vnt","mus"],"d":"jua un melodia corta con strumentos como trompas, tipal per anunsia la ariva de un person importante","en":"sound a fanfare"}
+{"L":"sufamilia","C":["n"],"en":"subfamily (biology)","fr":"sous-famille (biologie)"}
+{"L":"suprafamilia","C":["n"],"en":"superfamily (biology)","fr":"superfamille (biologie)"}
+{"T":"r","L":"familiar","C":["a"],"d":"bon conoseda, car frecuente videda o esperiada","en":"familiar","fr":"familier"}
+{"L":"familiari","C":["vnt"],"en":"become familiar","fr":"se familiariser"}
+{"L":"familiari","C":["vt"],"en":"familiarize|is","fr":"familiariser"}
+{"L":"familiari","C":["n"],"en":"familiarization|is","fr":"familiarisation"}
+{"L":"refamiliari","C":["vnt"],"en":"become familiar again","fr":"se refamiliariser"}
+{"L":"refamiliari","C":["vt"],"en":"refamiliarize|is","fr":"refamiliariser"}
+{"L":"refamiliari","C":["n"],"en":"refamiliarization|is","fr":"refamiliarisation"}
+{"T":"r","L":"fan","C":["n","spo"],"d":"un person con un interesa forte en un sporte, arte, etc; un person ci amira forte un ecipo de sporte o un person famosa","en":"fan, fanatic, aficionado","es":"fan (admirador), fanático, aficionado, entusiasta","fr":"admirateur, fan, inconditionnel, passionné, adorateur, adulateur, groupie, idolâtre, aficionado"}
+{"L":"fanes","C":["n","pl"],"en":"fans, fandom","es":"admiradores, aficionados, fanáticos, seguidores","fr":"admirateurs, fans, groupies, idolâtres, aficionados"}
+{"L":"fania","C":["n"],"en":"fandom (quality)","fr":"admiration, adoration, idolâtrie"}
+{"L":"fanin","C":["a"],"en":"fannish","fr":"qui se comporte comme un admirateur, comme un idolâtre"}
+{"T":"r","L":"fandango","C":["n","mus"],"d":"un dansa vivosa de Espania per du persones, tipal acompaniada par castanietas o tambureta","en":"fandango (dance)","es":"fandango (baile)","fr":"fandango (danse)"}
+{"T":"r","L":"fanfara","C":["vnt","mus"],"d":"jua un melodia corta con strumentos como trompas, tipal per anunsia la ariva de un person importante","en":"sound a fanfare","fr":"jouer en fanfare"}
 {"L":"fanfara","C":["n"],"en":"fanfare","fr":"fanfare"}
 {"T":"r","L":"fango","C":["n","tera"],"d":"un materia mol e aderente, miscada de tera e acua","i":"#","da":"mudder","de":"Schlamm","en":"mud, mire","es":"lodo, fango, cieno","fr":"boue, fange"}
-{"L":"fango acuin","C":["n"],"en":"slurry"}
-{"L":"fangi","C":["vt"],"en":"muddy"}
+{"L":"fango acuin","C":["n"],"en":"slurry","fr":"gadoue, bourbier"}
+{"L":"fangi","C":["vt"],"en":"muddy","fr":"maculer de boue, embouer"}
 {"L":"fangosa","C":["a"],"en":"muddy, turbid","fr":"boueux, fangeux"}
-{"L":"fangosia","C":["n"],"en":"muddiness"}
-{"T":"r","L":"fantasia","C":["vt","uma"],"d":"imajina (un cosa cual on desira)","en":"fantasize|is, daydream","fr":"rêver (éveillé), fantasmer"}
-{"L":"fantasia","C":["n"],"en":"fantasy, daydream, reverie, woolgathering; escapism","fr":"fantaisie"}
-{"L":"fantasial","C":["a"],"en":"fanciful"}
-{"L":"fantasin","C":["a"],"en":"fantastic","fr":"fantastique"}
-{"L":"fantasior","C":["n"],"en":"dreamer, daydreamer","fr":"rêveur"}
+{"L":"fangosia","C":["n"],"en":"muddiness","fr":"caractère boueux, état boueux"}
+{"T":"r","L":"fantasia","C":["vt","uma"],"d":"imajina (un cosa cual on desira)","en":"fantasize|is, daydream","fr":"rêvasser, rêver (éveillé), fantasmer"}
+{"L":"fantasia","C":["n"],"en":"fantasy, daydream, reverie, woolgathering; escapism","fr":"rêverie, fantaisie, rêvasserie"}
+{"L":"fantasial","C":["a"],"en":"fanciful","fr":"de rêverie, de songe, chimérique, imaginaire, onirique, fantasmagorique"}
+{"L":"fantasin","C":["a"],"en":"fantastic","fr":"fantastique, chimérique, fantasmatique, onirique, fantasmagorique"}
+{"L":"fantasior","C":["n"],"en":"dreamer, daydreamer","fr":"rêveur, songeur"}
 {"T":"r","L":"fantasma","C":["n","mit","uma"],"d":"un alusina de un person mor, tipal como un imaje neblosa","i":"#","da":"spøgelse","de":"Gespenst, Geist","en":"ghost, phantom, specter|re, phantasm, spook, wraith","es":"fantasma, espectro, espíritu","fr":"fantôme"}
-{"L":"fantasma jemelin","C":["n"],"en":"doppelgänger"}
-{"L":"fantasma turbosa","C":["n"],"en":"poltergeist"}
-{"L":"fantasmin","C":["a"],"en":"ghostly, spectral"}
+{"L":"fantasma jemelin","C":["n"],"en":"doppelgänger","fr":"double"}
+{"L":"fantasma turbosa","C":["n"],"en":"poltergeist","fr":"poltergeist, esprit frappeur"}
+{"L":"fantasmin","C":["a"],"en":"ghostly, spectral","fr":"fantômatique"}
 {"L":"fantasmosa","C":["a"],"en":"haunted, spooky","fr":"hanté"}
-{"T":"r","L":"farade","C":["n","fis"],"d":"la unia internasional per mesura capasia eletrical","en":"farad (unit of capacitance)"}
-{"L":"microfarade","C":["n"],"en":"microfarad"}
+{"T":"r","L":"farade","C":["n","fis"],"d":"la unia internasional per mesura capasia eletrical","en":"farad (unit of capacitance)","fr":"farad (unité)"}
+{"L":"microfarade","C":["n"],"en":"microfarad","fr":"microfarad"}
 {"T":"r","L":"faraon","C":["n","ist","gov"],"d":"un renor en Egipte antica","i":"#","en":"pharaoh","es":"faraón","fr":"pharaon"}
-{"T":"r","L":"farenhait","C":["n","fis"],"d":"un scala de temperatur en cual acua jela a 32° e boli a 212°","v":"grado","en":"Fahrenheit"}
-{"T":"r","L":"farfulia","C":["vt"],"d":"pronunsia nonclar, como algun ci es enebriada o parla rapida a se","en":"mutter, mumble, slur"}
-{"L":"farfulia","C":["n"],"en":"mutter, mumble, slur"}
+{"T":"r","L":"farenhait","C":["n","fis"],"d":"un scala de temperatur en cual acua jela a 32° e boli a 212°","v":"grado","en":"Fahrenheit","fr":"Farenheit"}
+{"T":"r","L":"farfulia","C":["vt"],"d":"pronunsia nonclar, como algun ci es enebriada o parla rapida a se","en":"mutter, mumble, slur","fr":"marmonner, marmotter, bredouiller, grommeler, balbutier"}
+{"L":"farfulia","C":["n"],"en":"mutter, mumble, slur","fr":"marmonnage, bredouillement, balbutiement, grommellement"}
 {"T":"r","L":"farina","C":["n","cos"],"d":"un polvo produida par mole gran, tipal trigo, e usada per produi pan, tortas e pasta","da":"mel","de":"Mehl","en":"flour, farina","es":"harina","fr":"farine"}
-{"L":"farina de mais","C":["n"],"en":"cornflour, corn meal"}
-{"L":"farinin","C":["a"],"en":"floury, flourlike"}
+{"L":"farina de mais","C":["n"],"en":"cornflour, corn meal","fr":"farine de maïs"}
+{"L":"farinin","C":["a"],"en":"floury, flourlike","fr":"farineux"}
 {"L":"farinosa","C":["a"],"en":"floury","fr":"farineux"}
 {"T":"r","L":"farinje","C":["n","anat","ling"],"d":"un caveta membranosa pos la nas e boca, juntante los a la esofago","en":"pharynx"}
-{"L":"farinjal","C":["a"],"en":"pharyngeal"}
-{"L":"farinjal","C":["n"],"en":"pharyngeal (consonant)"}
-{"L":"farinjali","C":["vnt"],"en":"pharyngealize"}
-{"L":"farinjali","C":["vt"],"en":"pharyngealize"}
-{"L":"farinje bocal","C":["n"],"en":"oropharynx"}
-{"L":"farinje larinjal","C":["n"],"en":"laryngopharynx"}
-{"L":"farinje nasal","C":["n"],"en":"nasopharynx"}
-{"T":"r","L":"farinjite","C":["n","med"],"d":"un inflama de la farinje, causante dole de la garga","en":"pharyngitis","es":"faringitis"}
-{"T":"r","L":"fariseo","C":["n","ist","rel"],"d":"un membro de un seta antica de iudisme, notada per adere sever a leges relijial; un person moraliste o ipocrita","en":"pharisee","es":"fariseo"}
+{"L":"farinjal","C":["a"],"en":"pharyngeal","fr":"pharyngal"}
+{"L":"farinjal","C":["n"],"en":"pharyngeal (consonant)","fr":"pharyngale (consonne)"}
+{"L":"farinjali","C":["vnt"],"en":"pharyngealize","fr":"se pharyngaliser"}
+{"L":"farinjali","C":["vt"],"en":"pharyngealize","fr":"pharyngaliser"}
+{"L":"farinje bocal","C":["n"],"en":"oropharynx","fr":"oropharynx"}
+{"L":"farinje larinjal","C":["n"],"en":"laryngopharynx","fr":"laryngopharynx"}
+{"L":"farinje nasal","C":["n"],"en":"nasopharynx","fr":"nasopharynx"}
+{"T":"r","L":"farinjite","C":["n","med"],"d":"un inflama de la farinje, causante dole de la garga","en":"pharyngitis","es":"faringitis","fr":"pharyngite"}
+{"T":"r","L":"fariseo","C":["n","ist","rel"],"d":"un membro de un seta antica de iudisme, notada per adere sever a leges relijial; un person moraliste o ipocrita","en":"pharisee","es":"fariseo","fr":"pharisien"}
 {"T":"r","L":"farmacodinamica","C":["n"],"d":"la ramo de farmacolojia cual studia la efetos de medisines e sua modos de ata en la corpo","ca":"farmacodinàmica","en":"pharmacodynamics","es":"farmacodinámica","fr":"pharmacodynamique"}
-{"T":"r","L":"farmacolojia","C":["n","med"],"d":"la ramo de medica cual studia la usas e efetos de drogas","en":"pharmacology"}
-{"L":"farmacolojial","C":["a"],"en":"pharmacological"}
-{"L":"farmacolojiste","C":["n"],"en":"pharmacologist"}
+{"T":"r","L":"farmacolojia","C":["n","med"],"d":"la ramo de medica cual studia la usas e efetos de drogas","en":"pharmacology","fr":"pharmacologie"}
+{"L":"farmacolojial","C":["a"],"en":"pharmacological","fr":"pharmacologique"}
+{"L":"farmacolojiste","C":["n"],"en":"pharmacologist","fr":"pharmacologue, pharmacologiste"}
 {"T":"r","L":"farmasia","C":["n","arci"],"d":"un boteca do on prepara o vende medisin","i":"#","en":"pharmacy, chemist, drugstore, apothecary, dispensary","fr":"pharmacie"}
 {"L":"farmasial","C":["a"],"en":"pharmaceutical","fr":"pharmaceutique"}
-{"L":"farmasiste","C":["n"],"en":"pharmacist, chemist, druggist, apothecary","fr":"pharmacien, apothicaire"}
+{"L":"farmasiste","C":["n"],"en":"pharmacist, chemist, druggist, apothecary","fr":"pharmacien, apothicaire (vx)"}
 {"T":"r","L":"faro","C":["n","arci"],"d":"un tore o otra strutur prosima a un costa, con lampa alta e forte per gida barcones; un lampa a fronte de un veculo per lumina la via; cualce lampa o foco per sinia o gida","i":"#","en":"lighthouse; beacon; headlight, headlamp","fr":"phare; fanal"}
-{"T":"r","L":"faro","C":["n","spo"],"d":"un jua de cartas en cual on aposta sur la ordina en cual la cartas va apare","en":"faro (card game)"}
-{"T":"r","L":"Faro, Isolas","C":["n","pl","jeo"],"d":"un grupo de isolas en la Mar Atlantica norde, parteninte a Danmarc ma cuasi autonom","i":"isolas-faro","en":"Faroe Islands, Faeroe Islands"}
-{"L":"faroisce","C":["a"],"en":"Faroese, Faeroese"}
-{"L":"faroisce","C":["n"],"en":"Faroese, Faeroese"}
-{"T":"r","L":"farsa","C":["n","arte"],"d":"un presenta comedial con carateres bruta o stupida e situas nonprobable o asurda","en":"farce, physical comedy, knockabout comedy, slapstick, burlesque, vaudeville, buffoonery","fr":"farce (comédie), charade"}
-{"L":"farsin","C":["a"],"en":"farcical"}
-{"T":"r","L":"farsi","C":["a","dem"],"d":"pertinente a la lingua de Iran e otra rejiones, o la popla ci parla lo","en":"Farsi, Persian (person, language)","fr":"perse; persan"}
-{"L":"farsi","C":["n"],"en":"Farsi, Persian (person, language)","fr":"Perse; persan"}
+{"T":"r","L":"faro","C":["n","spo"],"d":"un jua de cartas en cual on aposta sur la ordina en cual la cartas va apare","en":"faro (card game)","fr":"faro (jeu de cartes)"}
+{"T":"r","L":"Faro, Isolas","C":["n","pl","jeo"],"d":"un grupo de isolas en la Mar Atlantica norde, parteninte a Danmarc ma cuasi autonom","i":"isolas-faro","en":"Faroe Islands, Faeroe Islands","fr":"îles Féroé"}
+{"L":"faroisce","C":["a"],"en":"Faroese, Faeroese","fr":"féroïen"}
+{"L":"faroisce","C":["n"],"en":"Faroese, Faeroese","fr":"Féroïen"}
+{"T":"r","L":"farsa","C":["n","arte"],"d":"un presenta comedial con carateres bruta o stupida e situas nonprobable o asurda","en":"farce, physical comedy, knockabout comedy, slapstick, burlesque, vaudeville, buffoonery","fr":"farce (comédie), vaudeville, comédie burlesque"}
+{"L":"farsin","C":["a"],"en":"farcical","fr":"burlesque, vaudevillesque, grotesque, bouffon"}
+{"T":"r","L":"farsi","C":["a","dem"],"d":"pertinente a la lingua de Iran e otra rejiones, o la popla ci parla lo","en":"Farsi, Persian (person, language)","fr":"perse, farsi, persan"}
+{"L":"farsi","C":["n"],"en":"Farsi, Persian (person, language)","fr":"Perse, Farsi (personne); persan, farsi (langue)"}
 {"T":"r","L":"fas","C":["n","anat"],"d":"la parte fronte de la testa de un person, de la capeles asta la colo, o la parte simil de un animal; la lado de un moneta cual mostra la imaje de un person; la parte de un orolojo o aparato mesurante cual indica la ora o mesura","i":"#","da":"ansigt","de":"Gesicht","en":"face, physiognomy, visage; dial (watch, clock, compass); heads (coin)","es":"cara","fr":"visage, face; cadran (d'une montre, d'une boussole); face (d'une pièce de monnaie)"}
 {"L":"a fas de","C":["prep"],"en":"opposite, facing","fr":"en face de"}
 {"L":"con fas a fas con","C":["prep"],"en":"face to face with","fr":"face à face avec"}
@@ -11325,7 +11325,7 @@
 {"T":"r","L":"-fon","C":["sf","n","fis","arte","util"],"d":"sona","en":"-phone (sound)"}
 {"T":"r","L":"fonda","C":["n","util"],"d":"un arma simple, fabricada de un banda o anelo de cuoro o stofa, usada per lansa petras o otra misiles peti","i":"#","en":"sling, catapult (weapon)"}
 {"L":"fondeta","C":["n"],"en":"slingshot"}
-{"T":"r","L":"fonde","C":["vnt","fis"],"d":"deveni licuida par caldi","da":"smelte","de":"schmeltzen","en":"melt, smelt","eo":"fandiĝi","es":"fundirse, derretirse, disolverse","fr":"fondre, se dissoudre"}
+{"T":"r","L":"fonde","C":["vnt","fis"],"d":"deveni licuida par caldi","da":"smelte","de":"schmeltzen","en":"melt, smelt; render (fat)","eo":"fandiĝi","es":"fundirse, derretirse, disolverse","fr":"fondre, se dissoudre"}
 {"L":"fonde","C":["vt"],"en":"melt","eo":"fandi","es":"fundir, derretir, disolver","fr":"fondre"}
 {"L":"fonde nucleal","C":["n"],"en":"nuclear meltdown"}
 {"L":"fondable","C":["a"],"en":"meltable, fusible"}
@@ -13307,6 +13307,8 @@
 {"T":"r","L":"insenso","C":["n","uma"],"d":"un resina, spise o otra cosa cual on arde per la odor plasente cual lo produi","i":"#","en":"incense"}
 {"T":"r","L":"inserta","C":["vt","bio","med"],"d":"pone (un basteta o jerme) en un ranur en la tronco o talo de un planta vivente; (en medica) transplanta sirurjial (un peso de texeda vivente); pone (un cosa) per formi un parte de un cosa plu grande","en":"graft; insert, inset"}
 {"L":"inserta","C":["n"],"en":"graft; insert, inset"}
+{"L":"dia insertada","C":["n"],"en":"intercalary day, leap day"}
+{"L":"mense insertada","C":["n"],"en":"intercalary month"}
 {"L":"inserta de oso","C":["n"],"en":"bone graft"}
 {"L":"inserta de pel","C":["n"],"en":"skin graft"}
 {"T":"r","L":"insesto","C":["n","gov"],"d":"seso entre persones clasida como tro prosima relatada per sposi; la crimin de copula con un jenitor, enfante, conaseda o otra relatada prosima","en":"incest"}
@@ -15535,6 +15537,7 @@
 {"T":"r","L":"maluro","C":["n","avia"],"d":"un troglodite de Australia","i":"#","t":"Maluridae","en":"Australian wren"}
 {"T":"r","L":"malva","C":["a","col"],"d":"con color pal purpur","i":"#","en":"mauve (color|ur)","fr":"mauve"}
 {"L":"malva","C":["n","pla"],"d":"un planta erbin con talos pelosa, flores ros o purpur, e frutas discin","i":"malva-planta","t":"Malva","en":"mallow (plant)","fr":"mauve"}
+{"T":"r","L":"Malvina, Isolas","C":["n","pl","jeo"],"d":"un otra nom per la Isolas Falkland","i":"isolas-falkland","v":"Isolas Falkland","en":"Falkland Islands","es":"Islas Malvinas","fr":"îles Malouines"}
 {"T":"r","L":"mama","C":["n"],"d":"(nonformal) madre","en":"(colloquial) mum, mom, mummy, mommy, mama (mother)","es":"mamá","fr":"maman"}
 {"T":"r","L":"mamal","C":["n"],"d":"un animal vertebrato, distinguida par ave capeles o pelo e par la secrete de lete par femas per nuri enfantes","t":"Mammalia","da":"pattedyr","de":"Säugetier","en":"mammal","es":"mamífero","fr":"mammifère"}
 {"T":"r","L":"mambo","C":["n","mus","rel"],"d":"un dansa de America latina, simil a la rumba; un prete fema de vudu","en":"mambo (dance)"}
@@ -26082,7 +26085,7 @@
 {"L":"survive","C":["n"],"en":"survival"}
 {"L":"survivente","C":["a"],"en":"surviving, extant"}
 {"L":"survivor","C":["n"],"en":"survivor, holdover"}
-{"T":"r","L":"susede","C":["vt","uma","mone","gov"],"d":"ateni (un gol o resulta desirada); deveni la ocupor nova de un posto pos la resinia, mori, etc de (un otra person)","u":"el ia susede sua esaminas; me ia susede abri la botela; Kennedy ia susede Eisenhower","da":"lykkes","de":"Erfolg haben","en":"succeed (at), manage to, achieve, accomplish; pass (test)","eo":"sukcesi","es":"tener éxito, alcanzar el éxito, lograr el éxito, salir bién librado, tener fortuna, prosperar, medrar","fr":"succéder","it":"aver successo","nl":"gelukken","pt":"prosperar, ter sucesso, ser bem sucedido, ter êxito, obter triunfo"}
+{"T":"r","L":"susede","C":["vt","uma","mone","gov"],"d":"ateni (un gol o resulta desirada); deveni la ocupor nova de un posto pos la resinia, mori, etc de (un otra person)","u":"el ia susede sua esaminas; me ia susede abri la botela; Kennedy ia susede Eisenhower","da":"lykkes","de":"Erfolg haben","en":"succeed (at), manage to, achieve, accomplish; pass (test)","eo":"sukcesi","es":"tener éxito, alcanzar el éxito, lograr el éxito, salir bién librado, tener fortuna, prosperar, medrar","fr":"réussir à; succéder à","it":"aver successo","nl":"gelukken","pt":"prosperar, ter sucesso, ser bem sucedido, ter êxito, obter triunfo"}
 {"L":"susede","C":["n"],"da":"succes","de":"Erfolg","en":"success, achievement, accomplishment","eo":"sukceso","es":"exito, triunfo, logro","fr":"succès","it":"successo","nl":"succes","pt":"sucesso, êxito, triunfo, logro"}
 {"L":"nonsusedosa","C":["a"],"en":"unsuccessful"}
 {"L":"suprasusede","C":["vt"],"en":"overachieve"}
