@@ -1745,6 +1745,7 @@
 {"L":"ariva","C":["n"],"da":"ankomst","de":"Ankunft","en":"arrival; advent (including religious)","es":"llegada, arribo, venida","fr":"arrivée","he":"הגעה; (נצרות) ציפייה"}
 {"L":"ariveria","C":["n"],"en":"arrivals hall","fr":"hall d'arrivée","he":"אולם קבלת הפנים"}
 {"L":"arivor","C":["n"],"en":"arrival (person), newcomer","fr":"arrivant, nouvel arrivant","he":"האדם שהגיע"}
+{"L":"reariva","C":["vnt"],"en":"arrive back, get back"}
 {"T":"r","L":"Arizona","C":["n","jeo"],"d":"un stato en la SUA sude-ueste","en":"Arizona (US state)","fr":"Arizona (État des USA)","he":"אריזונה"}
 {"T":"r","L":"arjentifer","C":["a","tera"],"d":"(un roca o mineral) conteninte arjento","de":"Silber","en":"argentiferous","fr":"argentifère","he":"שמכיל את המתכת כסף"}
 {"T":"r","L":"Arjentina","C":["n","jeo"],"c":"Buenos Aires","d":"un pais cual ocupa la plu de la parte sude de America Sude, entre Txile e la Mar Atlantica","i":"#","en":"Argentina","fr":"argentine","he":"ארגנטינה"}
@@ -9225,7 +9226,8 @@
 {"T":"r","L":"eliofilia","C":["n","bio"],"d":"un atrae a lus de sol","en":"heliophilia (biology)","fr":"héliophilie (biologie)","he":"(ביולוגיה) משיכה לאור השמש"}
 {"L":"eliofilica","C":["a"],"en":"heliophilic","fr":"héliophile","he":"(ביולוגיה) נמשך לאור השמש"}
 {"L":"eliofilica","C":["n"],"en":"heliophile","fr":"héliophile","he":"(ביולוגיה) נמשך לאור השמש"}
-{"T":"r","L":"eliosentral","C":["a","ast"],"d":"con la Sol como sua sentro, como en la model moderna de la sistem solal; (en astronomia) mesurada de o regardada en relata a la sentro de la Sol","en":"heliocentric","fr":"héliocentrique","he":"הליוצנטרי"}
+{"T":"r","L":"eliosentrisme","C":["n","ast"],"d":"la model moderna de la sistem solal, con la Sol como sua sentro","en":"heliocentrism, heliocentricism"}
+{"T":"r","L":"eliosentriste","C":["a"],"en":"heliocentric","fr":"héliocentrique","he":"הליוצנטרי"}
 {"T":"r","L":"eliotropo","C":["a"],"d":"un purpur pal","en":"heliotrope (color|ur)","fr":"héliotrope, violet (couleur)","he":"סגול בהיר"}
 {"L":"eliotropo","C":["n","pla"],"d":"un planta en familia de boraja, cultivada per sua flores blu o purpur cual es usada en parfum","en":"heliotrope (plant)","fr":"héliotrope (plante)","he":"עוקץ העקרב (צמח)"}
 {"T":"r","L":"eliporto","C":["n"],"d":"un airoporto per elicotores","en":"heliport","fr":"héliport","he":"שדה תעופה למסוקים"}
@@ -9298,41 +9300,41 @@
 {"L":"nova emerjinte","C":["a"],"en":"newly emergent, up-and-coming","fr":"qui vient (juste) d'émerger, venant juste d'apparaître","he":"הפציע לאחרונה"}
 {"L":"reemerji","C":["vt"],"en":"re-emerge","fr":"réémerger","he":"להגיח מחדש"}
 {"T":"r","L":"-emese","C":["sf","n","med"],"d":"vomiti","en":"-emesis (vomiting)","fr":"-émèse (vomir)","he":"(סיומת טכנית) הקאה"}
-{"T":"r","L":"emete","C":["vt","fis","cim"],"d":"produi e descarga (alga cosa, spesial gas o radioativia)","en":"emit, effuse, give off","fr":"émettre, diffuser"}
-{"L":"emete","C":["n"],"en":"emission, emanation","fr":"émission, diffusion"}
-{"L":"emetador","C":["n"],"en":"emitter; exhaust (system)","fr":"émetteur (appareil), échappement (système)"}
-{"T":"r","L":"emfisema","C":["n","med"],"d":"un maladia en cual la alveolos de la pulmones es danada e grandida, causante respira difisil","en":"emphysema (medical)","fr":"emphysème (médecine)"}
-{"T":"r","L":"emi-","C":["pf","tecn"],"d":"dui","v":"semi-, dui-","en":"hemi-","fr":"semi-, hémi-, mi-"}
-{"T":"r","L":"-emia","C":["sf","n","med"],"d":"disturba medical de sangue","en":"-emia|ae (blood)","fr":"-émie, -hémie (sang)"}
-{"L":"-emica","C":["sf","a","med"],"en":"-emic|ae","fr":"-émique, -hémique"}
-{"T":"r","L":"emiplejia","C":["a"],"d":"un paralise de un lado de la corpo","en":"hemiplegia","fr":"hémiplégie"}
-{"L":"emiplejica","C":["a"],"en":"hemiplegic","fr":"hémiplégique"}
-{"T":"r","L":"emisfera","C":["n","mat","tera"],"d":"un dui de un sfera; un dui de la Tera, tipal o la parte norde e la parte sude como divideda par la ecuator, o la parte este o la parte ueste divideda par cualce linia entre la polos (per esemplo la mundos vea e nova); cada de la du partes, destra e sinistra, de la serebro","en":"hemisphere","fr":"hémisphère"}
-{"T":"r","L":"emo","C":["a","mus"],"d":"pertinente a un jenero de roc cual asentua la espresa de emosias, o a la cultur de sua presentores e fanes","en":"emo (music)"}
-{"L":"emo","C":["n","mus"],"en":"emo (music)"}
-{"T":"r","L":"emo","C":["c"],"d":"en mea opina","en":"IMO, IMHO","fr":"à mon avis, à mon humble avis"}
-{"T":"r","L":"emo-","C":["pf","tecn","med","bio"],"d":"sangue","en":"hemo-|ae (blood)","fr":"hémo- (sang)"}
-{"T":"r","L":"emofilia","C":["n","med"],"d":"un state en cual la sangue no coagula bon, tal ce la sufror sangui grave an pos un feri minor","en":"hemophilia|ae","fr":"hémophilie"}
-{"L":"emofilica","C":["a"],"en":"hemophiliac|ae","fr":"hémophile"}
-{"L":"emofilica","C":["n"],"en":"hemophiliac|ae","fr":"(un|une) hémophile"}
-{"T":"r","L":"emoglobina","C":["n","bio"],"d":"un protena roja cual transporta osijen en la sangue de vertebratos","en":"hemoglobin|ae","fr":"hémoglobine"}
-{"T":"r","L":"emoji","C":["n"],"d":"un imaje dijital e peti, usada per espresa un idea o emosia en comunica eletronical","ca":"emoji","en":"emoji","es":"emoji","fr":"emoji, émoticône","it":"emoji"}
-{"T":"r","L":"emolitica","C":["a","med"],"d":"pertinente a la rompe o destrui de selulas roja de sangue","en":"hemolytic|ae","fr":"hémolytique"}
-{"T":"r","L":"emopatolojia","C":["n","med"],"d":"la studia e trata de la selulas ematopoiesal","en":"hemopathology|ae","fr":"hémopathologie"}
-{"L":"emopatolojial","C":["a"],"en":"hemopathological|ae","fr":"hémopathologique"}
-{"T":"r","L":"emoraje","C":["vt","med"],"d":"un perde de sangue de un duto sangual rompeda, spesial cuando grave","en":"hemorrhage|haemorrhage","fr":"avoir une hémorragie"}
-{"L":"emoraje","C":["n"],"en":"hemorrhage|haemorrhage","fr":"hémorragie"}
-{"L":"emorajal","C":["a"],"en":"hemorrhagic|ae","fr":"hémorragique"}
-{"T":"r","L":"emoroide","C":["n","med"],"d":"un vena o grupo de venas inflada en la area anal","en":"hemorrhoid|ae","fr":"hémorroïde"}
-{"T":"r","L":"emosia","C":["vt","uma"],"d":"afeta la sentis de (algun) par felisi, tristi, coleri, asusta, etc","en":"affect, move (emotionally)","fr":"émouvoir"}
-{"L":"emosia","C":["n"],"en":"emotion, sentiment, emotiveness, emotivity","fr":"émotion, sentiment, émotivité"}
-{"L":"emosial","C":["a"],"en":"emotional","fr":"émotionnel"}
-{"L":"emosiante","C":["a"],"en":"moving, emotive","fr":"émouvant"}
-{"L":"emosiosa","C":["a"],"en":"sentimental, emotional, labile","fr":"sensible, émotif"}
-{"L":"emosiosia","C":["n"],"en":"sentimentality","fr":"sensibilité, émotivité"}
-{"L":"nonemosiada","C":["a"],"en":"unmoved","fr":"non ému, non affecté"}
-{"L":"nonemosiosa","C":["a"],"en":"unemotional, unfeeling, cold","fr":"insensibilité, froideur"}
-{"T":"r","L":"emosicon","C":["n","info"],"d":"un representa de un espresa de fas, tapeda como un serie spesial de sinias, usada per espresa emosias en comunica eletronical","en":"emoticon","fr":"émoticône"}
+{"T":"r","L":"emete","C":["vt","fis","cim"],"d":"produi e descarga (alga cosa, spesial gas o radioativia)","en":"emit, effuse, give off","fr":"émettre, diffuser","he":"לפלוט"}
+{"L":"emete","C":["n"],"en":"emission, emanation","fr":"émission, diffusion","he":"פליטה"}
+{"L":"emetador","C":["n"],"en":"emitter; exhaust (system)","fr":"émetteur (appareil), échappement (système)","he":"פולט (אור, קרינה); צינור פליטה, אגזוז"}
+{"T":"r","L":"emfisema","C":["n","med"],"d":"un maladia en cual la alveolos de la pulmones es danada e grandida, causante respira difisil","en":"emphysema (medical)","fr":"emphysème (médecine)","he":"נפחת"}
+{"T":"r","L":"emi-","C":["pf","tecn"],"d":"dui","v":"semi-, dui-","en":"hemi-","fr":"semi-, hémi-, mi-","he":"(קידומת טכנית) חצי"}
+{"T":"r","L":"-emia","C":["sf","n","med"],"d":"disturba medical de sangue","en":"-emia|ae (blood)","fr":"-émie, -hémie (sang)","he":"(סיומת טכנית) מחלת דם"}
+{"L":"-emica","C":["sf","a","med"],"en":"-emic|ae","fr":"-émique, -hémique","he":"(סיומת טכנית) חולה במחלת דם"}
+{"T":"r","L":"emiplejia","C":["a"],"d":"un paralise de un lado de la corpo","en":"hemiplegia","fr":"hémiplégie","he":"המיפלגיה, שיתוק חצי גוף"}
+{"L":"emiplejica","C":["a"],"en":"hemiplegic","fr":"hémiplégique","he":"משותק בחצי גוף"}
+{"T":"r","L":"emisfera","C":["n","mat","tera"],"d":"un dui de un sfera; un dui de la Tera, tipal o la parte norde e la parte sude como divideda par la ecuator, o la parte este o la parte ueste divideda par cualce linia entre la polos (per esemplo la mundos vea e nova); cada de la du partes, destra e sinistra, de la serebro","en":"hemisphere","fr":"hémisphère","he":"המיספרה, חצי כדור"}
+{"T":"r","L":"emo","C":["a","mus"],"d":"pertinente a un jenero de roc cual asentua la espresa de emosias, o a la cultur de sua presentores e fanes","en":"emo (music)","he":"(מוזיקה) אימו"}
+{"L":"emo","C":["n","mus"],"en":"emo (music)","he":"(מוזיקה) אימו"}
+{"T":"r","L":"emo","C":["c"],"d":"en mea opina","en":"IMO, IMHO","fr":"à mon avis, à mon humble avis","he":"(קיצור) לדעתי"}
+{"T":"r","L":"emo-","C":["pf","tecn","med","bio"],"d":"sangue","en":"hemo-|ae (blood)","fr":"hémo- (sang)","he":"(קידומת טכנית) דם"}
+{"T":"r","L":"emofilia","C":["n","med"],"d":"un state en cual la sangue no coagula bon, tal ce la sufror sangui grave an pos un feri minor","en":"hemophilia|ae","fr":"hémophilie","he":"המופיליה, דממת"}
+{"L":"emofilica","C":["a"],"en":"hemophiliac|ae","fr":"hémophile","he":"המופילי"}
+{"L":"emofilica","C":["n"],"en":"hemophiliac|ae","fr":"(un|une) hémophile","he":"המופילי"}
+{"T":"r","L":"emoglobina","C":["n","bio"],"d":"un protena roja cual transporta osijen en la sangue de vertebratos","en":"hemoglobin|ae","fr":"hémoglobine","he":"המוגלובין"}
+{"T":"r","L":"emoji","C":["n"],"d":"un imaje dijital e peti, usada per espresa un idea o emosia en comunica eletronical","ca":"emoji","en":"emoji","es":"emoji","fr":"emoji, émoticône","he":"אימוג'י","it":"emoji"}
+{"T":"r","L":"emolitica","C":["a","med"],"d":"pertinente a la rompe o destrui de selulas roja de sangue","en":"hemolytic|ae","fr":"hémolytique","he":"המוליטי"}
+{"T":"r","L":"emopatolojia","C":["n","med"],"d":"la studia e trata de la selulas ematopoiesal","en":"hemopathology|ae","fr":"hémopathologie","he":"המטופתולוגיה"}
+{"L":"emopatolojial","C":["a"],"en":"hemopathological|ae","fr":"hémopathologique","he":"המטופתולוגי"}
+{"T":"r","L":"emoraje","C":["vt","med"],"d":"un perde de sangue de un duto sangual rompeda, spesial cuando grave","en":"hemorrhage|haemorrhage","fr":"avoir une hémorragie","he":"לדמם"}
+{"L":"emoraje","C":["n"],"en":"hemorrhage|haemorrhage","fr":"hémorragie","he":"דימום, דמם"}
+{"L":"emorajal","C":["a"],"en":"hemorrhagic|ae","fr":"hémorragique","he":"דמי (מדמם)"}
+{"T":"r","L":"emoroide","C":["n","med"],"d":"un vena o grupo de venas inflada en la area anal","en":"hemorrhoid|ae","fr":"hémorroïde","he":"טחור"}
+{"T":"r","L":"emosia","C":["vt","uma"],"d":"afeta la sentis de (algun) par felisi, tristi, coleri, asusta, etc","en":"affect, move (emotionally)","fr":"émouvoir","he":"לרגש"}
+{"L":"emosia","C":["n"],"en":"emotion, sentiment, emotiveness, emotivity","fr":"émotion, sentiment, émotivité","he":"רגש, סנטימנט"}
+{"L":"emosial","C":["a"],"en":"emotional","fr":"émotionnel","he":"רגשי"}
+{"L":"emosiante","C":["a"],"en":"moving, emotive","fr":"émouvant","he":"מרגש, נוגע ללב"}
+{"L":"emosiosa","C":["a"],"en":"sentimental, emotional, labile","fr":"sensible, émotif","he":"רגשני, סנטימנטלי"}
+{"L":"emosiosia","C":["n"],"en":"sentimentality","fr":"sensibilité, émotivité","he":"רגשנות, סנטימנטליות"}
+{"L":"nonemosiada","C":["a"],"en":"unmoved","fr":"non ému, non affecté","he":"לא מתרגש"}
+{"L":"nonemosiosa","C":["a"],"en":"unemotional, unfeeling, cold","fr":"insensibilité, froideur","he":"חסר רגשות"}
+{"T":"r","L":"emosicon","C":["n","info"],"d":"un representa de un espresa de fas, tapeda como un serie spesial de sinias, usada per espresa emosias en comunica eletronical","en":"emoticon","fr":"émoticône","he":"אמוטיקון, רגשון, פרצופון"}
 {"T":"r","L":"emosite","C":["n","bio"],"d":"un selula de sangue","en":"hemocyte|haemocyte, blood cell","fr":"hémocyte"}
 {"T":"r","L":"emositoblasto","C":["n","bio"],"d":"un de la selulas de sangue cual produi plu selulas de sangue, tipal en la medulas de la osos","en":"hemocytoblast|ae"}
 {"T":"r","L":"emostase","C":["n","med"],"d":"la sesa de un flue de sangue","en":"hemostasis|ae (medical)","fr":"hémostasie"}
@@ -11206,181 +11208,181 @@
 {"L":"flaxador","C":["n"],"en":"flash (camera)","fr":"flash (photographie)"}
 {"L":"flaxi","C":["vnt"],"en":"flash","fr":"flasher"}
 {"L":"flaxi","C":["vt"],"en":"flash","fr":"flasher"}
-{"T":"r","L":"flebite","C":["n","med"],"d":"un inflama de la mures de un vena","en":"phlebitis (medical)"}
-{"L":"flebitica","C":["a"],"en":"phlebitic"}
-{"T":"r","L":"flebotomia","C":["n","med"],"d":"la abri sirurjial de un vena, per estrae sangue o introdui acua, medisin, nurintes o otra licuidas","i":"#","en":"phlebotomy"}
-{"L":"flebotomiste","C":["n"],"en":"phlebotomist"}
-{"T":"r","L":"flerovio","C":["n","cim"],"d":"la elemento cimical con numero atomal 114","s":"Fl","en":"flerovium (element)"}
+{"T":"r","L":"flebite","C":["n","med"],"d":"un inflama de la mures de un vena","en":"phlebitis (medical)","fr":"phlébite"}
+{"L":"flebitica","C":["a"],"en":"phlebitic","fr":"phlébitique"}
+{"T":"r","L":"flebotomia","C":["n","med"],"d":"la abri sirurjial de un vena, per estrae sangue o introdui acua, medisin, nurintes o otra licuidas","i":"#","en":"phlebotomy","fr":"phlébotomie"}
+{"L":"flebotomiste","C":["n"],"en":"phlebotomist","fr":"phlébotomiste"}
+{"T":"r","L":"flerovio","C":["n","cim"],"d":"la elemento cimical con numero atomal 114","s":"Fl","en":"flerovium (element)","fr":"flérovium (élément)"}
 {"T":"r","L":"flexa","C":["n","spo"],"d":"un basto, agu a la fronte e con plumas o simil a la retro, xutada de un arco como un arma o per sporte","i":"#","da":"pil","de":"Pfeil","en":"arrow","es":"flecha","fr":"flèche"}
-{"L":"Flexa","C":["n","ast"],"d":"un constela en la sielo norde","en":"Sagitta (constellation)"}
-{"L":"flexin","C":["a"],"en":"arrowlike, arrow-shaped"}
-{"L":"flexor","C":["n"],"en":"fletcher"}
-{"T":"r","L":"flexador","C":["n","anat"],"d":"un musculo de cual sua contrae curvi un membro o otra parte de la corpo","en":"flexor (muscle)"}
+{"L":"Flexa","C":["n","ast"],"d":"un constela en la sielo norde","en":"Sagitta (constellation)","fr":"Flèche (constellation)"}
+{"L":"flexin","C":["a"],"en":"arrowlike, arrow-shaped","fr":"en forme de flèche"}
+{"L":"flexor","C":["n"],"en":"fletcher","fr":"fabricant de flèches"}
+{"T":"r","L":"flexador","C":["n","anat"],"d":"un musculo de cual sua contrae curvi un membro o otra parte de la corpo","en":"flexor (muscle)","fr":"fléchisseur (muscle)"}
 {"T":"r","L":"flexe","C":["vt"],"d":"curvi (un membro o junta); fa ce (un musculo) protende par contrae lo","en":"flex (limb, muscle)","fr":"fléchir"}
-{"L":"flexe","C":["n"],"en":"flection, flexion"}
-{"L":"flexable","C":["a"],"d":"capas de curvi; fasil cambiable per responde a situas nova","en":"flexible, supple, bendy, limber, pliable, pliant; versatile, protean","fr":"souple"}
-{"L":"flexablia","C":["n"],"en":"flexibility"}
-{"T":"r","L":"flirta","C":["vnt","uma"],"d":"condui en modo intendeda per atrae sesal algun; finje un atrae per algun","en":"flirt"}
-{"L":"flirta","C":["n"],"en":"flirtation"}
-{"L":"flirta con","C":["esp"],"en":"flirt with, chat up"}
-{"L":"flirtante","C":["a"],"en":"flirtatious, flirty, saucy, fresh, coquettish"}
-{"L":"flirtor","C":["n"],"en":"flirt, coquette"}
+{"L":"flexe","C":["n"],"en":"flection, flexion","fr":"flexion"}
+{"L":"flexable","C":["a"],"d":"capas de curvi; fasil cambiable per responde a situas nova","en":"flexible, supple, bendy, limber, pliable, pliant; versatile, protean","fr":"souple, flexible; polyvalent, protéiforme"}
+{"L":"flexablia","C":["n"],"en":"flexibility","fr":"flexibilité"}
+{"T":"r","L":"flirta","C":["vnt","uma"],"d":"condui en modo intendeda per atrae sesal algun; finje un atrae per algun","en":"flirt","fr":"fleureter, flirter, conter fleurette, faire la cour"}
+{"L":"flirta","C":["n"],"en":"flirtation","fr":"flirt, cour, drague"}
+{"L":"flirta con","C":["esp"],"en":"flirt with, chat up","fr":"courtiser, fleureter avec, flirter avec, conter fleurette à, faire la cour à"}
+{"L":"flirtante","C":["a"],"en":"flirtatious, flirty, saucy, fresh, coquettish","fr":"avenant, galant, affectueux, amène, courtisan"}
+{"L":"flirtor","C":["n"],"en":"flirt, coquette","fr":"galant, séducteur, flirt"}
 {"T":"r","L":"floco","C":["n"],"d":"un peso peti, plata e magra de un cosa, tipal rompeda de un otra; un peso de petra dur, usada como un util par umanas preistorial","en":"flake, floccule","fr":"flocon"}
-{"L":"floco de mais","C":["n"],"en":"cornflake"}
-{"L":"floco de neva","C":["n"],"i":"#","en":"snowflake"}
-{"L":"flocosa","C":["a"],"en":"flaky"}
-{"T":"r","L":"floema","C":["n","bio"],"d":"la texeda vascular en plantas cual transporta zucar e otra produidas a su de la folias","en":"phloem (botany)"}
+{"L":"floco de mais","C":["n"],"en":"cornflake","fr":"flocon de maïs, pétale de maïs, cornflake"}
+{"L":"floco de neva","C":["n"],"i":"#","en":"snowflake","fr":"flocon de neige"}
+{"L":"flocosa","C":["a"],"en":"flaky","fr":"floconneux"}
+{"T":"r","L":"floema","C":["n","bio"],"d":"la texeda vascular en plantas cual transporta zucar e otra produidas a su de la folias","en":"phloem (botany)","fr":"phloème (botanique)"}
 {"T":"r","L":"flor","C":["n","bio"],"d":"la parte de un planta cual conteni la semes, tipal ensircada par petales e sepales colorosa","da":"blomst","de":"Blume","en":"flower, bloom, blossom","es":"flor","fr":"fleur"}
-{"L":"flor de boton","C":["n"],"en":"boutonnière, buttonhole"}
+{"L":"flor de boton","C":["n"],"en":"boutonnière, buttonhole","fr":"boutonnière"}
 {"L":"flor de pascua","C":["n"],"en":"poinsettia"}
-{"L":"desflori","C":["vt"],"en":"deflower"}
-{"L":"floreria","C":["n"],"i":"#","en":"florist (shop)"}
-{"L":"floreta","C":["n"],"en":"floret"}
-{"L":"flori","C":["vnt"],"en":"flower, flourish, bloom, blossom; prosper, thrive"}
-{"L":"flori","C":["n"],"en":"flowering; inflorescence"}
-{"L":"florin","C":["a"],"en":"flowerlike"}
-{"L":"florin","C":["n"],"en":"florin, guilder"}
-{"L":"floriste","C":["n"],"en":"florist"}
-{"L":"florosa","C":["a"],"en":"flowery, floral (design)"}
-{"T":"r","L":"Flores","C":["n","jeo"],"d":"un isola en Indonesia","en":"Flores (island)"}
-{"L":"Mar Flores","C":["n","jeo"],"d":"un mar a norde de Flores","i":"#","en":"Flores Sea"}
-{"T":"r","L":"Florida","C":["n","jeo"],"d":"un stato en la SUA sude-este, con un penisola cual estende en la Mar Atlantica e la Golfo Mexico","en":"Florida (US state)"}
-{"L":"Streta Florida","C":["n","jeo"],"d":"un streta entre Florida e Cuba","i":"#","en":"Florida Strait"}
+{"L":"desflori","C":["vt"],"en":"deflower","fr":"déflorer"}
+{"L":"floreria","C":["n"],"i":"#","en":"florist (shop)","fr":"boutique de fleuriste"}
+{"L":"floreta","C":["n"],"en":"floret","fr":"fleuron"}
+{"L":"flori","C":["vnt"],"en":"flower, flourish, bloom, blossom; prosper, thrive","fr":"fleurir, s'épanouir, se développer, prospérer"}
+{"L":"flori","C":["n"],"en":"flowering; inflorescence","fr":"floraison, inflorescence"}
+{"L":"florin","C":["a"],"en":"flowerlike","fr":"en forme de fleur, floral"}
+{"L":"florin","C":["n"],"en":"florin, guilder","fr":"florin"}
+{"L":"floriste","C":["n"],"en":"florist","fr":"fleuriste"}
+{"L":"florosa","C":["a"],"en":"flowery, floral (design)","fr":"fleuri, floral"}
+{"T":"r","L":"Flores","C":["n","jeo"],"d":"un isola en Indonesia","en":"Flores (island)","fr":"Florès (île)"}
+{"L":"Mar Flores","C":["n","jeo"],"d":"un mar a norde de Flores","i":"#","en":"Flores Sea","fr":"mer de Florès"}
+{"T":"r","L":"Florida","C":["n","jeo"],"d":"un stato en la SUA sude-este, con un penisola cual estende en la Mar Atlantica e la Golfo Mexico","en":"Florida (US state)","fr":"Floride"}
+{"L":"Streta Florida","C":["n","jeo"],"d":"un streta entre Florida e Cuba","i":"#","en":"Florida Strait","fr":"détroit de Floride"}
 {"T":"r","L":"flota","C":["vnt"],"d":"reposa o move sur un licuida sin afonda; es libre suspendeda en un licuida o gas","da":"flyde","de":"flössen","en":"float","es":"flotar","fr":"flotter"}
-{"L":"flota","C":["n"],"d":"un ata de flota; un ojeto vacua o inflada per aida flota; un boia peti usada per pexores; un strutur su un avion de mar cual permete ce lo enaira de sur acua","en":"flotation, floatation; float"}
-{"L":"flota en aira","C":["vnt"],"en":"hover, levitate"}
-{"L":"fenetra flotante","C":["n"],"en":"popup window"}
-{"L":"flotante","C":["a"],"en":"floating, buoyant, afloat"}
-{"L":"flotante","C":["n"],"en":"flotsam"}
-{"T":"r","L":"flotila","C":["n","vec"],"d":"un grupo de barcones o otra veculos cual viaja o es poseseda en junta","en":"fleet (ships or other vehicles)"}
-{"T":"r","L":"flox","C":["n","pla"],"d":"un planta peti de America Norde cual ave tipal grupos densa de flores bonodorosa e colorosa","i":"#","t":"Phlox","en":"phlox (plant)"}
-{"T":"r","L":"flue","C":["vnt","fis","cim","info","tera"],"d":"(un licuida, gas o eletrica) move continuante en un corente; (datos, tipal audio o video) es continuante transmeteda en la interede","da":"flyde (med en strøm)","de":"fliessen, strömen","en":"flow, stream, course","es":"fluir, correr, flotar, ondear","fr":"couler, suivre le courant"}
-{"L":"flue","C":["vt"],"en":"flow, stream; feed (into a machine)"}
-{"L":"flue","C":["n"],"en":"flow; flux; stream (data), feed (news, software)"}
-{"L":"flue de aira","C":["n"],"en":"airflow"}
-{"L":"flue de fango","C":["n"],"en":"mudslide"}
-{"L":"autoflue","C":["vnt"],"en":"word-wrap"}
-{"L":"autoflue","C":["vt"],"en":"word-wrap"}
-{"L":"autoflue","C":["n"],"en":"word wrap"}
-{"L":"con la flue","C":["av"],"en":"downstream, downriver"}
-{"L":"contra la flue","C":["av"],"en":"upstream, upriver"}
-{"L":"fluente","C":["a"],"en":"flowing, fluent, fluid"}
-{"L":"fluente","C":["n"],"en":"fluid"}
-{"L":"flueta","C":["vnt"],"en":"dribble, trickle"}
-{"L":"flueta","C":["vt"],"en":"dribble, trickle"}
-{"L":"flueta","C":["n"],"en":"dribble, trickle"}
-{"L":"flueta de aira","C":["n"],"en":"draft|draught"}
-{"L":"nonfluente","C":["a"],"en":"non-fluent, faltering, broken, halting (speech)"}
-{"L":"reflue","C":["n"],"en":"reflux (chemistry)"}
-{"L":"supraflue","C":["vnt"],"en":"overflow"}
-{"L":"supraflue","C":["n"],"en":"overflow, run-off"}
-{"L":"suprafluente","C":["a"],"en":"superfluous, excessive"}
+{"L":"flota","C":["n"],"d":"un ata de flota; un ojeto vacua o inflada per aida flota; un boia peti usada per pexores; un strutur su un avion de mar cual permete ce lo enaira de sur acua","en":"flotation, floatation; float","fr":"flottement, flottaison; bouchon (pêche); flotteur"}
+{"L":"flota en aira","C":["vnt"],"en":"hover, levitate","fr":"flotter, voltiger, léviter"}
+{"L":"fenetra flotante","C":["n"],"en":"popup window","fr":"fenêtre intruse, pop-up"}
+{"L":"flotante","C":["a"],"en":"floating, buoyant, afloat","fr":"flottant"}
+{"L":"flotante","C":["n"],"en":"flotsam","fr":"épave"}
+{"T":"r","L":"flotila","C":["n","vec"],"d":"un grupo de barcones o otra veculos cual viaja o es poseseda en junta","en":"fleet (ships or other vehicles)","fr":"flotte, flotille"}
+{"T":"r","L":"flox","C":["n","pla"],"d":"un planta peti de America Norde cual ave tipal grupos densa de flores bonodorosa e colorosa","i":"#","t":"Phlox","en":"phlox (plant)","fr":"phlox (plante)"}
+{"T":"r","L":"flue","C":["vnt","fis","cim","info","tera"],"d":"(un licuida, gas o eletrica) move continuante en un corente; (datos, tipal audio o video) es continuante transmeteda en la interede","da":"flyde (med en strøm)","de":"fliessen, strömen","en":"flow, stream, course","es":"fluir, correr, flotar, ondear","fr":"couler, suivre le courant, s'écouler, se déverser, fluer, se diffuser"}
+{"L":"flue","C":["vt"],"en":"flow, stream; feed (into a machine)","fr":"faire s'écouler, déverser, diffuser, alimenter"}
+{"L":"flue","C":["n"],"en":"flow; flux; stream (data), feed (news, software)","fr":"flot, flux, courant, diffusion"}
+{"L":"flue de aira","C":["n"],"en":"airflow","fr":"courant d'air"}
+{"L":"flue de fango","C":["n"],"en":"mudslide","fr":"coulée de boue"}
+{"L":"autoflue","C":["vnt"],"en":"word-wrap","fr":"faire un retour à la ligne automatique"}
+{"L":"autoflue","C":["vt"],"en":"word-wrap","fr":"retourner à la ligne"}
+{"L":"autoflue","C":["n"],"en":"word wrap","fr":"retour à la ligne automatique"}
+{"L":"con la flue","C":["av"],"en":"downstream, downriver","fr":"dans le sens du flot, dans le sens du courant"}
+{"L":"contra la flue","C":["av"],"en":"upstream, upriver","fr":"à contre-courant, vers l'amont, à contre-sens"}
+{"L":"fluente","C":["a"],"en":"flowing, fluent, fluid","fr":"fluide"}
+{"L":"fluente","C":["n"],"en":"fluid","fr":"fluide"}
+{"L":"flueta","C":["vnt"],"en":"dribble, trickle","fr":"ruisseler, s'écouler en un filet d'eau"}
+{"L":"flueta","C":["vt"],"en":"dribble, trickle","fr":"faire ruisseler, faire s'écouler comme un filet d'eau"}
+{"L":"flueta","C":["n"],"en":"dribble, trickle","fr":"filet d'eau"}
+{"L":"flueta de aira","C":["n"],"en":"draft|draught","fr":"courant d'air"}
+{"L":"nonfluente","C":["a"],"en":"non-fluent, faltering, broken, halting (speech)","fr":"non fluide, haché, hésitant (élocution)"}
+{"L":"reflue","C":["n"],"en":"reflux (chemistry)","fr":"reflux (chimie)"}
+{"L":"supraflue","C":["vnt"],"en":"overflow","fr":"déborder"}
+{"L":"supraflue","C":["n"],"en":"overflow, run-off","fr":"débordement, trop-plein, déversoir, surplus, excédent"}
+{"L":"suprafluente","C":["a"],"en":"superfluous, excessive","fr":"superflu, excessif"}
 {"T":"r","L":"fluor","C":["n","cim"],"d":"la elemento cimical con numero atomal 9, un gas pal jala e venenosa cual scalda la pel si on toca lo","s":"F","en":"fluorine","fr":"fluor"}
-{"L":"fluori","C":["vt"],"en":"fluorinate"}
-{"T":"r","L":"fluorese","C":["vnt","fis"],"d":"(un materia) brilia par radia emeteda cuando lo es colpada par raios X o lus ultravioleta","en":"fluoresce"}
-{"L":"fluorese","C":["n"],"en":"fluorescence"}
-{"L":"fluoresente","C":["a"],"en":"fluorescent"}
-{"T":"r","L":"fluorido","C":["n","cim"],"d":"un composada de fluor con un otra elemento o grupos","en":"fluoride"}
-{"L":"fluorido de sodio","C":["n","cim"],"en":"sodium fluoride; fluoride (in water or toothpaste)"}
-{"T":"r","L":"fluorita","C":["n","tera"],"d":"un mineral composada de fluorido de calsio","en":"fluorite"}
-{"T":"r","L":"fluorocarbono","C":["n","cim"],"d":"un composada formida par sustitui atomes de fluor per un o plu de la atomes de idrojen en un idrocarbono","en":"fluorocarbon"}
-{"T":"r","L":"fluoroscopio","C":["n","util","med"],"d":"un strumento con scermo fluoresente per regarda imajes de raio X","en":"fluoroscope"}
-{"T":"r","L":"fluoxetina","C":["n","cim","med"],"d":"un antidepresante de la clase de inibadores spesifada de recatura serotonina","en":"fluoxetine, prozac, sarafem"}
-{"T":"r","L":"flutua","C":["vnt"],"d":"(un cuantia) leva e cade nonperiodal","en":"fluctuate"}
-{"L":"flutuante","C":["a"],"en":"fluctuating, remittent"}
-{"L":"nonflutuante","C":["a"],"en":"unremittent"}
-{"T":"r","L":"fo","C":["n","cos"],"d":"un sopa de bulion de bove, spises e talietas con talias magra de bove o gal, orijinante en Vietnam","en":"pho (soup)"}
-{"T":"r","L":"fobia","C":["n","uma"],"d":"un teme estrema o nonrazonada de alga cosa","en":"phobia"}
-{"L":"-fobia","C":["sf","n","uma"],"d":"teme","en":"-phobia (fear)"}
-{"L":"fobica","C":["a"],"en":"phobic"}
-{"L":"-fobica","C":["sf","a"],"en":"-phobic"}
-{"L":"-fobica","C":["sf","n"],"en":"-phobe"}
-{"T":"r","L":"foca","C":["vnt","fis"],"d":"deveni consentrada como un raio agu de lus o enerjia; deveni capas de vide clar; (un person) atende forte con sua mente","en":"focus (light, energy, attention)"}
-{"L":"foca","C":["vt"],"en":"focus (light, energy, attention)"}
-{"L":"foca","C":["n"],"en":"focus; centerpiece|re"}
-{"L":"desfoca","C":["vnt"],"en":"defocus, unfocus"}
-{"L":"focada","C":["a"],"en":"focused, in focus; intent"}
-{"L":"focal","C":["a"],"en":"focal"}
-{"L":"nonfocada","C":["a"],"en":"unfocused, out of focus"}
+{"L":"fluori","C":["vt"],"en":"fluorinate","fr":"fluorer"}
+{"T":"r","L":"fluorese","C":["vnt","fis"],"d":"(un materia) brilia par radia emeteda cuando lo es colpada par raios X o lus ultravioleta","en":"fluoresce","fr":"fluorescer, briller par fluorescence"}
+{"L":"fluorese","C":["n"],"en":"fluorescence","fr":"fluorescence"}
+{"L":"fluoresente","C":["a"],"en":"fluorescent","fr":"fluorescent"}
+{"T":"r","L":"fluorido","C":["n","cim"],"d":"un composada de fluor con un otra elemento o grupos","en":"fluoride","fr":"fluoride"}
+{"L":"fluorido de sodio","C":["n","cim"],"en":"sodium fluoride; fluoride (in water or toothpaste)","fr":"fluorure de sodium"}
+{"T":"r","L":"fluorita","C":["n","tera"],"d":"un mineral composada de fluorido de calsio","en":"fluorite","fr":"fluorite"}
+{"T":"r","L":"fluorocarbono","C":["n","cim"],"d":"un composada formida par sustitui atomes de fluor per un o plu de la atomes de idrojen en un idrocarbono","en":"fluorocarbon","fr":"fluorocarbure"}
+{"T":"r","L":"fluoroscopio","C":["n","util","med"],"d":"un strumento con scermo fluoresente per regarda imajes de raio X","en":"fluoroscope","fr":"fluoroscope"}
+{"T":"r","L":"fluoxetina","C":["n","cim","med"],"d":"un antidepresante de la clase de inibadores spesifada de recatura serotonina","en":"fluoxetine, prozac, sarafem","fr":"fluoxétine (Prozac, Saratem)"}
+{"T":"r","L":"flutua","C":["vnt"],"d":"(un cuantia) leva e cade nonperiodal","en":"fluctuate","fr":"fluctuer"}
+{"L":"flutuante","C":["a"],"en":"fluctuating, remittent","fr":"fluctuant, rémittent"}
+{"L":"nonflutuante","C":["a"],"en":"unremittent","fr":"irrémittent"}
+{"T":"r","L":"fo","C":["n","cos"],"d":"un sopa de bulion de bove, spises e talietas con talias magra de bove o gal, orijinante en Vietnam","en":"pho (soup)","fr":"pho  (soupe)"}
+{"T":"r","L":"fobia","C":["n","uma"],"d":"un teme estrema o nonrazonada de alga cosa","en":"phobia","fr":"phobie"}
+{"L":"-fobia","C":["sf","n","uma"],"d":"teme","en":"-phobia (fear)","fr":"-phobie"}
+{"L":"fobica","C":["a"],"en":"phobic","fr":"phobique"}
+{"L":"-fobica","C":["sf","a"],"en":"-phobic","fr":"-phobique"}
+{"L":"-fobica","C":["sf","n"],"en":"-phobe","fr":"-phobe"}
+{"T":"r","L":"foca","C":["vnt","fis"],"d":"deveni consentrada como un raio agu de lus o enerjia; deveni capas de vide clar; (un person) atende forte con sua mente","en":"focus (light, energy, attention)","fr":"se focaliser, se concentrer, faire le point"}
+{"L":"foca","C":["vt"],"en":"focus (light, energy, attention)","fr":"focaliser, concentrer"}
+{"L":"foca","C":["n"],"en":"focus; centerpiece|re","fr":"foyer, pièce maîtresse"}
+{"L":"desfoca","C":["vnt"],"en":"defocus, unfocus","fr":"défocaliser"}
+{"L":"focada","C":["a"],"en":"focused, in focus; intent","fr":"focalisé, concentré; attentif, absorbé"}
+{"L":"focal","C":["a"],"en":"focal","fr":"focal"}
+{"L":"nonfocada","C":["a"],"en":"unfocused, out of focus","fr":"non focalisé, flou"}
 {"T":"r","L":"foca","C":["n","mam"],"d":"un mamal con corpo idrodinamical ci come pexes e reveni a tera per reposa o reprodui","i":"#","t":"Phocidae, Otariidae","en":"seal (animal)","fr":"phoque"}
-{"T":"r","L":"focatxia","C":["n","cos"],"d":"un pan italian, preparada con fermento e olio de oliva e saborida con erbas","i":"#","en":"focaccia (bread)"}
+{"T":"r","L":"focatxia","C":["n","cos"],"d":"un pan italian, preparada con fermento e olio de oliva e saborida con erbas","i":"#","en":"focaccia (bread)","fr":"fougasse, focaccia"}
 {"T":"r","L":"foco","C":["n","fis","util"],"d":"un arde o combusta, en cual materias combina cimical con osijen de la aira e emete tipal lus, caldia e fuma; un emosia forte e apena controlable","da":"ild, ildebrand","de":"Feuer","en":"fire; passion","es":"fuego, lumbre","fr":"feu; passion"}
-{"L":"foco de festa","C":["n"],"i":"#","en":"bonfire (celebratory)"}
-{"L":"foco de jardin","C":["n"],"en":"bonfire (of rubbish)"}
-{"L":"foco fol","C":["n"],"en":"will-o'-the-wisp, ignis fatuus"}
-{"L":"focador","C":["n"],"en":"lighter; torch"}
-{"L":"focon","C":["n"],"d":"un foco grande cual destrui multe tera o propria","en":"blaze, conflagration","es":"incendio, quemazón"}
-{"L":"focon savaje","C":["n"],"en":"wildfire, grass fire, forest fire"}
-{"L":"focos artal","C":["n","pl"],"en":"fireworks"}
-{"L":"focosa","C":["a"],"en":"fiery, passionate, sensual"}
-{"T":"r","L":"fode","C":["vt"],"d":"(nonformal) copula con (algun)","en":"(colloquial) fuck, screw, shag, bonk, lay (have sex with)","fr":"baiser"}
+{"L":"foco de festa","C":["n"],"i":"#","en":"bonfire (celebratory)","fr":"feu de joie"}
+{"L":"foco de jardin","C":["n"],"en":"bonfire (of rubbish)","fr":"feu de jardinage, fait de brûler des herbes"}
+{"L":"foco fol","C":["n"],"en":"will-o'-the-wisp, ignis fatuus","fr":"feu follet"}
+{"L":"focador","C":["n"],"en":"lighter; torch","fr":"briquet; torche, flambeau"}
+{"L":"focon","C":["n"],"d":"un foco grande cual destrui multe tera o propria","en":"blaze, conflagration","es":"incendio, quemazón","fr":"incendie, brasier, feu"}
+{"L":"focon savaje","C":["n"],"en":"wildfire, grass fire, forest fire","fr":"incendie de forêt"}
+{"L":"focos artal","C":["n","pl"],"en":"fireworks","fr":"feu d'artifice"}
+{"L":"focosa","C":["a"],"en":"fiery, passionate, sensual","fr":"ardent, brûlant, fougueux, passionné, sensuel"}
+{"T":"r","L":"fode","C":["vt"],"d":"(nonformal) copula con (algun)","en":"(colloquial) fuck, screw, shag, bonk, lay (have sex with)","fr":"baiser, coucher avec, forniquer avec"}
 {"L":"fodeda","C":["a"],"en":"fucking (colloquial intensifier)","fr":"putain de"}
-{"L":"fodeta","C":["vt"],"d":"(nonformal) masturba","en":"(colloquial) jerk off, wank, diddle (masturbate)","fr":"(se) branler"}
+{"L":"fodeta","C":["vt"],"d":"(nonformal) masturba","en":"(colloquial) jerk off, wank, diddle (masturbate)","fr":"masturber, branler"}
 {"T":"r","L":"fol","C":["a","uma"],"d":"sin bon judi, nonsaja; asurda","da":"tosset, skør","de":"töricht","en":"foolish, silly, crazy, idiotic, daft, dotty, fatuous, inane, madcap","es":"absurdo, tonto, necio, bobo, zonzo, estúpido","fr":"idiot, fou"}
-{"L":"fol","C":["n"],"en":"fool, dupe, imbecile, idiot, loony, moron, nincompoop, numpty, airhead, bimbo, chump, twit, goon"}
-{"L":"folia","C":["n"],"en":"silliness, foolishness, madness, folly"}
-{"T":"r","L":"fola","C":["n"],"d":"un cuantia grande de persones colieda, tipal en modo nonorganizada","i":"#","en":"crowd, throng, concourse","fr":"foule"}
-{"L":"foleta","C":["n"],"en":"scrum"}
-{"L":"foli","C":["vt"],"en":"crowd, pack, clutter, huddle"}
-{"L":"folida","C":["a"],"en":"crowded, packed, cluttered"}
-{"L":"suprafoli","C":["vt"],"en":"overcrowd"}
-{"L":"suprafolida","C":["a"],"en":"overcrowded"}
-{"T":"r","L":"folclor","C":["n","arte"],"d":"la credes, costumes e naras tradisional de un comunia, pasada de un jenera a la seguente; un colie de credes popular de un loca, popla o ocupa","en":"folklore, lore"}
+{"L":"fol","C":["n"],"en":"fool, dupe, imbecile, idiot, loony, moron, nincompoop, numpty, airhead, bimbo, chump, twit, goon","fr":"idiot, fou"}
+{"L":"folia","C":["n"],"en":"silliness, foolishness, madness, folly","fr":"folie, démence, confusion mentale"}
+{"T":"r","L":"fola","C":["n"],"d":"un cuantia grande de persones colieda, tipal en modo nonorganizada","i":"#","en":"crowd, throng, concourse","fr":"foule, cohue"}
+{"L":"foleta","C":["n"],"en":"scrum","fr":"mêlée"}
+{"L":"foli","C":["vt"],"en":"crowd, pack, clutter, huddle","fr":"encombrer, entasser, agglutiner"}
+{"L":"folida","C":["a"],"en":"crowded, packed, cluttered","fr":"encombré, entassé, tassé, bondé, surpeuplé"}
+{"L":"suprafoli","C":["vt"],"en":"overcrowd","fr":"surcharger, encombrer"}
+{"L":"suprafolida","C":["a"],"en":"overcrowded","fr":"surpeuplé"}
+{"T":"r","L":"folclor","C":["n","arte"],"d":"la credes, costumes e naras tradisional de un comunia, pasada de un jenera a la seguente; un colie de credes popular de un loca, popla o ocupa","en":"folklore, lore","fr":"folklore, coutumes, tradition"}
 {"T":"r","L":"folia","C":["n","bio"],"d":"un parte plata de un planta, tipal verde, juntada a un talo o tronceta, e capas de fotosintese; un peso de paper o otra materia multe magra","i":"#","da":"blad; ark (papir)","de":"Blatt","en":"leaf, blade (grass), frond; leaf, sheet (paper)","es":"hoja; hoja, pliego, lámina, sábana, capa","fr":"feuille"}
-{"L":"folia avisante","C":["n"],"en":"handbill, flyer"}
-{"L":"folia cascadente de stilo","C":["n","info"],"en":"cascading stylesheet","ru":"CSS, каскадные таблицы стилей (термин в веб-программировании; язык описания внешнего вида документа, написанного с использованием языка разметки)"}
-{"L":"folia de stilo","C":["n","info"],"en":"stylesheet","ru":"Файл стилей (Файл, содержащий указания на то, как следует отображать данные, переданные сервером браузеру)"}
-{"L":"desfoli","C":["vt"],"en":"exfoliate, defoliate, shed skin"}
-{"L":"desfoli","C":["n"],"en":"exfoliation, shedding of skin"}
-{"L":"desfolinte","C":["n"],"en":"exfoliant, defoliant"}
-{"L":"folias","C":["n","pl"],"en":"leaves, foliage"}
-{"L":"folieta","C":["n"],"en":"leaflet, handout"}
-{"L":"folin","C":["a"],"en":"leaflike"}
-{"L":"folin","C":["n"],"en":"phyllo, filo (pastry)"}
-{"L":"foliosa","C":["a"],"en":"leafy"}
-{"T":"r","L":"foliculo","C":["n","anat"],"d":"un saco, caveta o glande peti, spesial lo cual ensirca la radis de un capel","en":"follicle"}
-{"T":"r","L":"folio","C":["n"],"d":"un libro de paper per desinia; un colie de documentos sur un person, aveni o sujeto spesifada; un libro fabricada de paper pliada o de pajes grande","en":"sketchbook, dossier, binder; folio (book size)"}
-{"L":"folio de calcula","C":["n"],"en":"spreadsheet"}
-{"T":"r","L":"-fon","C":["sf","n","fis","arte","util"],"d":"sona","en":"-phone (sound)"}
-{"T":"r","L":"fonda","C":["n","util"],"d":"un arma simple, fabricada de un banda o anelo de cuoro o stofa, usada per lansa petras o otra misiles peti","i":"#","en":"sling, catapult (weapon)"}
-{"L":"fondeta","C":["n"],"en":"slingshot"}
+{"L":"folia avisante","C":["n"],"en":"handbill, flyer","fr":"prospectus, dépliant, flyer"}
+{"L":"folia cascadente de stilo","C":["n","info"],"en":"cascading stylesheet","fr":"feuilles de style en cascade","ru":"CSS, каскадные таблицы стилей (термин в веб-программировании; язык описания внешнего вида документа, написанного с использованием языка разметки)"}
+{"L":"folia de stilo","C":["n","info"],"en":"stylesheet","fr":"feuille de style","ru":"Файл стилей (Файл, содержащий указания на то, как следует отображать данные, переданные сервером браузеру)"}
+{"L":"desfoli","C":["vt"],"en":"exfoliate, defoliate, shed skin","fr":"exfolier, défolier, peler"}
+{"L":"desfoli","C":["n"],"en":"exfoliation, shedding of skin","fr":"exfoliation, défoliation, pelade"}
+{"L":"desfolinte","C":["n"],"en":"exfoliant, defoliant","fr":"exfoliant, défoliant"}
+{"L":"folias","C":["n","pl"],"en":"leaves, foliage","fr":"feuilles, feuillage"}
+{"L":"folieta","C":["n"],"en":"leaflet, handout","fr":"feuillet, brochure"}
+{"L":"folin","C":["a"],"en":"leaflike","fr":"en forme de feuille, semblable à une feuille"}
+{"L":"folin","C":["n"],"en":"phyllo, filo (pastry)","fr":"pâte phyllo, filo (pâtisserie)"}
+{"L":"foliosa","C":["a"],"en":"leafy","fr":"feuillu"}
+{"T":"r","L":"foliculo","C":["n","anat"],"d":"un saco, caveta o glande peti, spesial lo cual ensirca la radis de un capel","en":"follicle","fr":"follicule"}
+{"T":"r","L":"folio","C":["n"],"d":"un libro de paper per desinia; un colie de documentos sur un person, aveni o sujeto spesifada; un libro fabricada de paper pliada o de pajes grande","en":"sketchbook, dossier, binder; folio (book size)","fr":"carnet à dessin; dossier; folio (taille de livres)"}
+{"L":"folio de calcula","C":["n"],"en":"spreadsheet","fr":"feuille de calcul"}
+{"T":"r","L":"-fon","C":["sf","n","fis","arte","util"],"d":"sona","en":"-phone (sound)","fr":"-phone"}
+{"T":"r","L":"fonda","C":["n","util"],"d":"un arma simple, fabricada de un banda o anelo de cuoro o stofa, usada per lansa petras o otra misiles peti","i":"#","en":"sling, catapult (weapon)","fr":"fronde, catapulte"}
+{"L":"fondeta","C":["n"],"en":"slingshot","fr":"lance-pierre"}
 {"T":"r","L":"fonde","C":["vnt","fis"],"d":"deveni licuida par caldi","da":"smelte","de":"schmeltzen","en":"melt, smelt; render (fat)","eo":"fandiĝi","es":"fundirse, derretirse, disolverse","fr":"fondre, se dissoudre"}
-{"L":"fonde","C":["vt"],"en":"melt","eo":"fandi","es":"fundir, derretir, disolver","fr":"fondre"}
-{"L":"fonde nucleal","C":["n"],"en":"nuclear meltdown"}
-{"L":"fondable","C":["a"],"en":"meltable, fusible"}
-{"L":"fondable","C":["n"],"en":"fuse (electric)"}
-{"L":"fondador","C":["n"],"en":"smelter"}
-{"L":"fondeda","C":["a"],"en":"molten"}
-{"L":"fonderia","C":["n"],"en":"foundry"}
-{"T":"r","L":"fondo","C":["n"],"d":"la surfas la plu basa de un cosa; la parte de un sena o imaje cual es tipal plu distante de la regardor e cual formi un ambiente per la atores o ojetos xef; la situa esistente cuando alga cosa aveni","da":"bund","de":"Boden","en":"bottom, underside, floor (of sea); background, backdrop","es":"fondo, base, fundamento, asiento","fr":"fond"}
-{"L":"en la fondo","C":["a"],"en":"background, backdrop, in the background, as the backdrop"}
-{"L":"fondo de flores","C":["n"],"en":"flowerbed"}
-{"L":"fondo de mar","C":["n"],"en":"seabed, sea floor, ocean bottom, ocean floor"}
-{"L":"fondo de pede","C":["n"],"i":"#","en":"sole"}
-{"L":"fondo de rio","C":["n"],"en":"river bottom, river bed"}
-{"L":"fondo de semes","C":["n"],"en":"seedbed"}
-{"L":"fondal","C":["a"],"en":"background, backing"}
-{"T":"r","L":"fondu","C":["n","cos"],"d":"un plato composada de pesos peti de pan o otra comedas cual es sumerjida en salsa, olio, bulion o xocolada calda","i":"#","en":"fondue"}
-{"T":"r","L":"fonem","C":["n","ling"],"d":"cada de la unias de sona persepal distinguable en un lingua spesifada","en":"phoneme"}
-{"L":"fonemal","C":["a"],"en":"phonemic"}
-{"T":"r","L":"fonetica","C":["n","ling"],"d":"la studia e clasi de sonas de parla","en":"phonetics"}
-{"L":"fonetica oreal","C":["n"],"en":"auditory phonetics"}
-{"L":"fonetical","C":["a"],"en":"phonetic"}
-{"T":"r","L":"-fonia","C":["sf","n","fis","arte","med"],"d":"sona o vose","en":"-phony (sound)"}
-{"T":"r","L":"fono-","C":["pf","tecn","fis","arte","util"],"d":"sona","en":"phono-"}
-{"T":"r","L":"fonograf","C":["n","util","mus"],"d":"un macina cual permete oia la sonas rejistrada sur un disco de plastica","i":"#","en":"phonograph, gramophone, record player"}
-{"T":"r","L":"fonolojia","C":["n","ling"],"d":"la ramo de linguistica cual studia la sistemes de sona de un lingua o linguas jeneral","en":"phonology"}
-{"L":"fonolojial","C":["a"],"en":"phonological"}
-{"T":"r","L":"fonotatica","C":["n","ling"],"d":"la studia de la regulas de ordina fonemes en un lingua","en":"phonotactics"}
-{"T":"r","L":"fontanel","C":["n","anat"],"d":"la spasio entre la osos de la cranio de un feto o bebe, do la osi e sutures no es completida","en":"fontanelle (anatomy)"}
-{"T":"r","L":"fonte","C":["n","tera","arci"],"d":"un loca do acua o olio emerji de su la tera; un strutur ornal de cual jetas de acua es pompida en la aira; la orijina de alga cosa","i":"#","en":"fountain, fount, fountainhead, spring, well, source"}
-{"L":"fonte de inca","C":["n"],"en":"inkwell"}
-{"L":"fonte de potia","C":["n"],"en":"power source, power supply"}
-{"L":"fonte de revenu","C":["n"],"en":"source of income, moneymaker, earner"}
-{"L":"fonte de rio","C":["n"],"en":"headwater"}
-{"L":"fonti","C":["vnt"],"en":"spring, well, originate"}
-{"L":"fontosa","C":["a"],"en":"original (work, idea)"}
-{"T":"r","L":"fontina","C":["n","cos"],"d":"un ceso italian e pal jala","en":"fontina (cheese)"}
+{"L":"fonde","C":["vt"],"en":"melt","eo":"fandi","es":"fundir, derretir, disolver","fr":"fondre, faire fondre, dissoudre"}
+{"L":"fonde nucleal","C":["n"],"en":"nuclear meltdown","fr":"fusion nucléaire"}
+{"L":"fondable","C":["a"],"en":"meltable, fusible","fr":"fusible, soluble"}
+{"L":"fondable","C":["n"],"en":"fuse (electric)","fr":"fusible"}
+{"L":"fondador","C":["n"],"en":"smelter","fr":"four de fonderie, fourneau de fonderie"}
+{"L":"fondeda","C":["a"],"en":"molten","fr":"fondu, dissous"}
+{"L":"fonderia","C":["n"],"en":"foundry","fr":"fonderie"}
+{"T":"r","L":"fondo","C":["n"],"d":"la surfas la plu basa de un cosa; la parte de un sena o imaje cual es tipal plu distante de la regardor e cual formi un ambiente per la atores o ojetos xef; la situa esistente cuando alga cosa aveni","da":"bund","de":"Boden","en":"bottom, underside, floor (of sea); background, backdrop","es":"fondo, base, fundamento, asiento","fr":"fond; base, fondation, siège; toile de fond"}
+{"L":"en la fondo","C":["a"],"en":"background, backdrop, in the background, as the backdrop","fr":"en fond"}
+{"L":"fondo de flores","C":["n"],"en":"flowerbed","fr":"parterre de fleurs, plate-bande, lit de fleurs"}
+{"L":"fondo de mar","C":["n"],"en":"seabed, sea floor, ocean bottom, ocean floor","fr":"fond marin, fond océanique, plancher océanique"}
+{"L":"fondo de pede","C":["n"],"i":"#","en":"sole","fr":"semelle"}
+{"L":"fondo de rio","C":["n"],"en":"river bottom, river bed","fr":"lit de rivière, fond de rivière"}
+{"L":"fondo de semes","C":["n"],"en":"seedbed","fr":"lit de semence"}
+{"L":"fondal","C":["a"],"en":"background, backing","fr":"de fond, fondamental"}
+{"T":"r","L":"fondu","C":["n","cos"],"d":"un plato composada de pesos peti de pan o otra comedas cual es sumerjida en salsa, olio, bulion o xocolada calda","i":"#","en":"fondue","fr":"fondue"}
+{"T":"r","L":"fonem","C":["n","ling"],"d":"cada de la unias de sona persepal distinguable en un lingua spesifada","en":"phoneme","fr":"phonème"}
+{"L":"fonemal","C":["a"],"en":"phonemic","fr":"phonémique, phonématique"}
+{"T":"r","L":"fonetica","C":["n","ling"],"d":"la studia e clasi de sonas de parla","en":"phonetics","fr":"phonétique"}
+{"L":"fonetica oreal","C":["n"],"en":"auditory phonetics","fr":"phonétique auditive"}
+{"L":"fonetical","C":["a"],"en":"phonetic","fr":"phonétique"}
+{"T":"r","L":"-fonia","C":["sf","n","fis","arte","med"],"d":"sona o vose","en":"-phony (sound)","fr":"-phonie"}
+{"T":"r","L":"fono-","C":["pf","tecn","fis","arte","util"],"d":"sona","en":"phono-","fr":"phono-"}
+{"T":"r","L":"fonograf","C":["n","util","mus"],"d":"un macina cual permete oia la sonas rejistrada sur un disco de plastica","i":"#","en":"phonograph, gramophone, record player","fr":"phonographe, gramophone, tourne-disque, électrophone, pick-up"}
+{"T":"r","L":"fonolojia","C":["n","ling"],"d":"la ramo de linguistica cual studia la sistemes de sona de un lingua o linguas jeneral","en":"phonology","fr":"phonologie"}
+{"L":"fonolojial","C":["a"],"en":"phonological","fr":"phonologique"}
+{"T":"r","L":"fonotatica","C":["n","ling"],"d":"la studia de la regulas de ordina fonemes en un lingua","en":"phonotactics","fr":"phonotactique, phonotaxe"}
+{"T":"r","L":"fontanel","C":["n","anat"],"d":"la spasio entre la osos de la cranio de un feto o bebe, do la osi e sutures no es completida","en":"fontanelle (anatomy)","fr":"fontanelle (anatomie)"}
+{"T":"r","L":"fonte","C":["n","tera","arci"],"d":"un loca do acua o olio emerji de su la tera; un strutur ornal de cual jetas de acua es pompida en la aira; la orijina de alga cosa","i":"#","en":"fountain, fount, fountainhead, spring, well, source","fr":"fontaine, source, origine, générateur, point de départ, principe, provenance"}
+{"L":"fonte de inca","C":["n"],"en":"inkwell","fr":"encrier"}
+{"L":"fonte de potia","C":["n"],"en":"power source, power supply","fr":"alimentation, source (électrique)"}
+{"L":"fonte de revenu","C":["n"],"en":"source of income, moneymaker, earner","fr":"source de revenus, gagne-pain"}
+{"L":"fonte de rio","C":["n"],"en":"headwater","fr":"source d'une rivière"}
+{"L":"fonti","C":["vnt"],"en":"spring, well, originate","fr":"provenir, prendre sa source, être originaire de, naître, jaillir de, trouver son origine dans"}
+{"L":"fontosa","C":["a"],"en":"original (work, idea)","fr":"original, originel, initial (œuvre, idée...)"}
+{"T":"r","L":"fontina","C":["n","cos"],"d":"un ceso italian e pal jala","en":"fontina (cheese)","fr":"fontine (fromage italien)"}
 {"T":"r","L":"fora","C":["vt","util"],"d":"crea un buco en o tra (alga cosa), usante un aparato jirante","en":"drill, bore","fr":"percer"}
 {"L":"fora","C":["n"],"d":"un ata de fora; un buco forada tra un cosa","en":"hole","es":"agujero"}
 {"L":"forador","C":["n"],"i":"#","de":"Bohrer","en":"drill (tool)","es":"taladro, barrena","fr":"perceuse"}
@@ -13261,7 +13263,10 @@
 {"L":"informada","C":["a"],"en":"informed, apprised, privy"}
 {"L":"informor","C":["n"],"en":"informer, informant, stool pigeon, stoolie"}
 {"L":"informosa","C":["a"],"en":"informative"}
-{"L":"malinforma","C":["vt"],"en":"misinform"}
+{"L":"desinforma","C":["vt"],"d":"malinforma con intende de confusa o engana","en":"disinform"}
+{"L":"desinforma","C":["n"],"en":"disinformation, fake news"}
+{"L":"malinforma","C":["vt"],"d":"dona informa noncoreta, par era o con intende","en":"misinform"}
+{"L":"malinforma","C":["n"],"en":"misinformation"}
 {"L":"noninformada","C":["a"],"en":"uninformed"}
 {"L":"reinforma","C":["vt"],"p":"reïnforma","en":"reacquaint"}
 {"T":"r","L":"informatica","C":["n","info"],"d":"la studia de prosede informa per reteni e reprende lo; la studia de la prinsipes e usa de computadores","en":"information science, computer science"}
@@ -25596,7 +25601,7 @@
 {"L":"stasion de labora","C":["n"],"en":"workstation"}
 {"L":"stasion final","C":["n"],"en":"terminal, terminus"}
 {"L":"stasion spasial","C":["n"],"i":"#","en":"space station"}
-{"L":"stasioni","C":["vt"],"en":"station, deploy, post (soldier, etc.)"}
+{"L":"stasioni","C":["vt"],"en":"station, deploy, base, post (soldier, etc.)"}
 {"L":"sustasion","C":["n"],"en":"substation"}
 {"T":"r","L":"state","C":["n","fis","cim"],"d":"la forma o cualia de la esiste de un person o cosa a un tempo spesifada","da":"kondition, tilstand, status","de":"Zustand","en":"state (of affairs), condition; going; status","eo":"stato","es":"condición, estado, estatus, posición, situación, estado o posición social","fr":"condition","it":"condizione, stato","nl":"toestand","pt":"estado, condição, circunstância, situação, posição"}
 {"L":"state presente","C":["n"],"en":"present state, status quo"}
@@ -26737,6 +26742,8 @@
 {"L":"teori","C":["n"],"en":"theorization|is"}
 {"L":"teorial","C":["a"],"en":"theoretical, theoretic"}
 {"L":"teoriste","C":["n"],"en":"theorist"}
+{"T":"r","L":"teosentrisme","C":["n","rel"],"d":"un sistem de crede con un dio o dios a sua foca","en":"theocentrism"}
+{"L":"teosentriste","C":["a"],"en":"theocentric"}
 {"T":"r","L":"teosofia","C":["n","fil"],"d":"un filosofia cual sujesta ce la conose de Dio pote es atenida par intui direta, estasia spirital o simil","en":"theosophy"}
 {"L":"teosofiste","C":["n"],"en":"theosophist"}
 {"T":"r","L":"tepida","C":["a"],"d":"alga calda, ma no multe","ca":"tebi","da":"varm","de":"warm","en":"warm, lukewarm, tepid","es":"tibio","fr":"tiède","it":"caldo","ja":"あたたかい","nl":"warm","pt":"morno, tépido","ru":"тёплый"}
