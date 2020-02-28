@@ -9335,49 +9335,49 @@
 {"L":"nonemosiada","C":["a"],"en":"unmoved","fr":"non ému, non affecté","he":"לא מתרגש"}
 {"L":"nonemosiosa","C":["a"],"en":"unemotional, unfeeling, cold","fr":"insensibilité, froideur","he":"חסר רגשות"}
 {"T":"r","L":"emosicon","C":["n","info"],"d":"un representa de un espresa de fas, tapeda como un serie spesial de sinias, usada per espresa emosias en comunica eletronical","en":"emoticon","fr":"émoticône","he":"אמוטיקון, רגשון, פרצופון"}
-{"T":"r","L":"emosite","C":["n","bio"],"d":"un selula de sangue","en":"hemocyte|haemocyte, blood cell","fr":"hémocyte"}
-{"T":"r","L":"emositoblasto","C":["n","bio"],"d":"un de la selulas de sangue cual produi plu selulas de sangue, tipal en la medulas de la osos","en":"hemocytoblast|ae"}
-{"T":"r","L":"emostase","C":["n","med"],"d":"la sesa de un flue de sangue","en":"hemostasis|ae (medical)","fr":"hémostasie"}
-{"L":"emostasal","C":["a"],"en":"hemostatic|ae","fr":"hémostatique"}
-{"T":"r","L":"emostasiolojia","C":["n","med"],"en":"hemostasiology|ae","fr":"hémostasiologie"}
-{"T":"r","L":"emotoxina","C":["n","bio"],"d":"un toxina cual afeta la sangue","en":"hemotoxin|ae","fr":"hémotoxine"}
-{"T":"r","L":"empapa","C":["vt"],"d":"pone (un cosa) en un licuida cual lo va asorbe partal; (metafor) ensenia un dogma a (algun)","en":"soak, drench, waterlog, macerate; indoctrinate","fr":"tremper, macérer; endoctriner"}
-{"L":"empapa","C":["n"],"en":"soaking, drenching, maceration; indoctrination","fr":"trempage, macération; endoctrinement"}
-{"L":"empapada","C":["a"],"en":"soaked, drenched, sodden, soggy","fr":"trempé, détrempé, macéré"}
-{"T":"r","L":"empatia","C":["vt","uma"],"d":"comprende e comparti la emosias de (un otra person)","en":"empathize|is with","fr":"avoir de l'empathie avec"}
-{"L":"empatia","C":["n"],"en":"empathy","fr":"empathie"}
-{"L":"empatica","C":["a"],"en":"empathic, empathetic","fr":"empathique"}
-{"L":"nonempatica","C":["a"],"en":"non-empathic, hard-hearted","fr":"dénué d'empathie, sans cœur, au cœur sec"}
-{"T":"r","L":"empanada","C":["n"],"d":"un comeda de pasta plenida con carne, ceso, mais, etc, e fritada, comun en Espania e paises en Sude America","en":"empanada","es":"empanada","fr":"empanada"}
-{"L":"empanadeta","C":["n"],"en":"empanadilla","es":"empanadilla","fr":"empanadilla"}
-{"T":"r","L":"empirical","C":["a","fil"],"d":"fundida sur esperias e oservas sertable, en loca de sola teoria o lojica","en":"empirical, objective","fr":"empirique"}
-{"L":"empiricalia","C":["n"],"en":"objectivity","fr":"empirisme"}
-{"L":"empiricalisme","C":["n"],"en":"empiricism","fr":"empirisme"}
-{"L":"empiricaliste","C":["n"],"en":"empiricist","fr":"empiriste"}
-{"T":"r","L":"emplea","C":["vt","mone"],"d":"furni labora a (algun) e paia a el per lo","en":"employ (person), hire","fr":"employer (une personne)"}
-{"L":"emplea","C":["n"],"da":"arbejde, stilling, job, beskæftigelse","de":"Job","en":"employment, job","es":"trabajo, tarea, faena, empleo, ocupación","fr":"emploi, travail, occupation"}
-{"L":"emplea a stranjer","C":["v"],"en":"outsource","fr":"employer|embaucher un étranger"}
-{"L":"emplea a stranjer","C":["n"],"en":"outsourcing","fr":"fait d'embaucher un étranger"}
-{"L":"emplea con salario","C":["n"],"en":"salaried employment","fr":"emploi salarié"}
-{"L":"autoempleada","C":["a"],"en":"self-employed","fr":"autoemployé"}
-{"L":"con tro multe empleadas","C":["a"],"en":"overstaffed","fr":"qui a trop d'emplois"}
-{"L":"con tro poca empleadas","C":["a"],"en":"understaffed","fr":"qui n'a pas assez d'emplois"}
-{"L":"desemplea","C":["vt"],"en":"dismiss, fire, sack, lay off (employee)","fr":"mettre à la porte, congédier, licencier, renvoyer, débaucher (un employé), virer"}
-{"L":"desemplea","C":["n"],"en":"dismissal, sacking, layoff","fr":"licenciement, renvoi, mise à la porte"}
-{"L":"empleable","C":["a"],"en":"employable","fr":"employable, qu'on peut embaucher"}
-{"L":"empleablia","C":["n"],"en":"employability","fr":"employabilité"}
-{"L":"empleada","C":["a"],"en":"employed","fr":"employé"}
-{"L":"empleada","C":["n"],"en":"employee, hireling, staffer","fr":"employé"}
-{"L":"empleada tempora","C":["n"],"en":"temporary employee, temp","fr":"intérimaire, vacataire, employé temporaire"}
-{"L":"empleadas","C":["n","pl"],"en":"employees, staff, personnel","fr":"personnel"}
-{"L":"empleor","C":["n"],"en":"employer, boss","fr":"employé"}
-{"L":"empleor de boteca","C":["n"],"en":"retail clerk, sales clerk, shop assistant"}
-{"L":"nonemplea","C":["n"],"en":"unemployment","fr":"chômage"}
-{"L":"nonempleada","C":["a"],"en":"unemployed, jobless","fr":"au chômage, chômeur, sans emploi"}
-{"T":"r","L":"emporta","C":["vt","mone","gov"],"d":"(un nasion) trae (un ben o servi) de un otra nasion per vende interna; introdui (un idea) de un loca o contesto diferente; (en informatica) usa (datos) produida par un otra program","en":"import","fr":"importer"}
-{"L":"emporta","C":["n"],"en":"importation","fr":"import, importation"}
-{"L":"emporta nonlegal","C":["v"],"en":"import illegally, bootleg","fr":"faire de la contrebande"}
-{"L":"emportor","C":["n"],"en":"importer","fr":"importer (commerce)"}
+{"T":"r","L":"emosite","C":["n","bio"],"d":"un selula de sangue","en":"hemocyte|haemocyte, blood cell","fr":"hémocyte","he":"תא דם"}
+{"T":"r","L":"emositoblasto","C":["n","bio"],"d":"un de la selulas de sangue cual produi plu selulas de sangue, tipal en la medulas de la osos","en":"hemocytoblast|ae","he":"המוציטובלסט"}
+{"T":"r","L":"emostase","C":["n","med"],"d":"la sesa de un flue de sangue","en":"hemostasis|ae (medical)","fr":"hémostasie","he":"עצירת דימום"}
+{"L":"emostasal","C":["a"],"en":"hemostatic|ae","fr":"hémostatique","he":"המוסטטי"}
+{"T":"r","L":"emostasiolojia","C":["n","med"],"en":"hemostasiology|ae","fr":"hémostasiologie","he":"חקר קרישת דם"}
+{"T":"r","L":"emotoxina","C":["n","bio"],"d":"un toxina cual afeta la sangue","en":"hemotoxin|ae","fr":"hémotoxine","he":"המוטוקסין"}
+{"T":"r","L":"empapa","C":["vt"],"d":"pone (un cosa) en un licuida cual lo va asorbe partal; (metafor) ensenia un dogma a (algun)","en":"soak, drench, waterlog, macerate; indoctrinate","fr":"tremper, macérer; endoctriner","he":"להשרות, להספיג; לשטוף את המוח"}
+{"L":"empapa","C":["n"],"en":"soaking, drenching, maceration; indoctrination","fr":"trempage, macération; endoctrinement","he":"השרייה; שטיפת מוח"}
+{"L":"empapada","C":["a"],"en":"soaked, drenched, sodden, soggy","fr":"trempé, détrempé, macéré","he":"מושרה, ספוג, רווי"}
+{"T":"r","L":"empatia","C":["vt","uma"],"d":"comprende e comparti la emosias de (un otra person)","en":"empathize|is with","fr":"avoir de l'empathie avec","he":"לחוש אמפתיה, להזדהות"}
+{"L":"empatia","C":["n"],"en":"empathy","fr":"empathie","he":"אמפתיה"}
+{"L":"empatica","C":["a"],"en":"empathic, empathetic","fr":"empathique","he":"אמפתי"}
+{"L":"nonempatica","C":["a"],"en":"non-empathic, hard-hearted","fr":"dénué d'empathie, sans cœur, au cœur sec","he":"לא אמפתי, אטום לב"}
+{"T":"r","L":"empanada","C":["n"],"d":"un comeda de pasta plenida con carne, ceso, mais, etc, e fritada, comun en Espania e paises en Sude America","en":"empanada","es":"empanada","fr":"empanada","he":"אמפנדה (מאכל)"}
+{"L":"empanadeta","C":["n"],"en":"empanadilla","es":"empanadilla","fr":"empanadilla","he":"אמפנדה קטנה"}
+{"T":"r","L":"empirical","C":["a","fil"],"d":"fundida sur esperias e oservas sertable, en loca de sola teoria o lojica","en":"empirical, objective","fr":"empirique","he":"אמפירי, נסותי"}
+{"L":"empiricalia","C":["n"],"en":"objectivity","fr":"empirisme","he":"אמפיריציזם, אמפיריזם, נסותנות"}
+{"L":"empiricalisme","C":["n"],"en":"empiricism","fr":"empirisme","he":"אמפיריציזם, אמפיריזם, נסותנות"}
+{"L":"empiricaliste","C":["n"],"en":"empiricist","fr":"empiriste","he":"אמפיריציסט"}
+{"T":"r","L":"emplea","C":["vt","mone"],"d":"furni labora a (algun) e paia a el per lo","en":"employ (person), hire","fr":"employer (une personne)","he":"להעסיק"}
+{"L":"emplea","C":["n"],"da":"arbejde, stilling, job, beskæftigelse","de":"Job","en":"employment, job","es":"trabajo, tarea, faena, empleo, ocupación","fr":"emploi, travail, occupation","he":"העסקה; תעסוקה, עבודה"}
+{"L":"emplea a stranjer","C":["v"],"en":"outsource","fr":"employer|embaucher un étranger","he":"להעסיק במיקור חוץ"}
+{"L":"emplea a stranjer","C":["n"],"en":"outsourcing","fr":"fait d'embaucher un étranger","he":"מיקור חוץ"}
+{"L":"emplea con salario","C":["n"],"en":"salaried employment","fr":"emploi salarié","he":"עבודה עם משכורת"}
+{"L":"autoempleada","C":["a"],"en":"self-employed","fr":"autoemployé","he":"(עובד) עצמאי"}
+{"L":"con tro multe empleadas","C":["a"],"en":"overstaffed","fr":"qui a trop d'emplois","he":"עם עודף בעובדים"}
+{"L":"con tro poca empleadas","C":["a"],"en":"understaffed","fr":"qui n'a pas assez d'emplois","he":"עם מחסור בעובדים"}
+{"L":"desemplea","C":["vt"],"en":"dismiss, fire, sack, lay off (employee)","fr":"mettre à la porte, congédier, licencier, renvoyer, débaucher (un employé), virer","he":"לפטר"}
+{"L":"desemplea","C":["n"],"en":"dismissal, sacking, layoff","fr":"licenciement, renvoi, mise à la porte","he":"פיטורים, פיטורין"}
+{"L":"empleable","C":["a"],"en":"employable","fr":"employable, qu'on peut embaucher","he":"בר-העסקה"}
+{"L":"empleablia","C":["n"],"en":"employability","fr":"employabilité","he":"מסוגלות תעסוקתית, תעסוקתיות"}
+{"L":"empleada","C":["a"],"en":"employed","fr":"employé","he":"מועסק"}
+{"L":"empleada","C":["n"],"en":"employee, hireling, staffer","fr":"employé","he":"מועסק, עובד"}
+{"L":"empleada tempora","C":["n"],"en":"temporary employee, temp","fr":"intérimaire, vacataire, employé temporaire","he":"עובד זמני"}
+{"L":"empleadas","C":["n","pl"],"en":"employees, staff, personnel","fr":"personnel","he":"חבר עובדים, סגל"}
+{"L":"empleor","C":["n"],"en":"employer, boss","fr":"employé","he":"מעסיק, מעביד"}
+{"L":"empleor de boteca","C":["n"],"en":"retail clerk, sales clerk, shop assistant","he":"עובד בחנות"}
+{"L":"nonemplea","C":["n"],"en":"unemployment","fr":"chômage","he":"אבטלה"}
+{"L":"nonempleada","C":["a"],"en":"unemployed, jobless","fr":"au chômage, chômeur, sans emploi","he":"מובטל"}
+{"T":"r","L":"emporta","C":["vt","mone","gov"],"d":"(un nasion) trae (un ben o servi) de un otra nasion per vende interna; introdui (un idea) de un loca o contesto diferente; (en informatica) usa (datos) produida par un otra program","en":"import","fr":"importer","he":"לייבא"}
+{"L":"emporta","C":["n"],"en":"importation","fr":"import, importation","he":"יבוא"}
+{"L":"emporta nonlegal","C":["v"],"en":"import illegally, bootleg","fr":"faire de la contrebande","he":"הברחה"}
+{"L":"emportor","C":["n"],"en":"importer","fr":"importer (commerce)","he":"יבואן"}
 {"T":"r","L":"emprende","C":["vt","mone","gov"],"d":"dedica se a (un taxe o encarga) e comensa lo","en":"undertake, take on, take over","fr":"entreprendre"}
 {"L":"emprende","C":["n"],"en":"undertaking, venture, enterprise (project)","fr":"entreprise"}
 {"L":"emprendor","C":["n"],"en":"entrepreneur","fr":"entrepreneur"}
@@ -11383,209 +11383,209 @@
 {"L":"fonti","C":["vnt"],"en":"spring, well, originate","fr":"provenir, prendre sa source, être originaire de, naître, jaillir de, trouver son origine dans"}
 {"L":"fontosa","C":["a"],"en":"original (work, idea)","fr":"original, originel, initial (œuvre, idée...)"}
 {"T":"r","L":"fontina","C":["n","cos"],"d":"un ceso italian e pal jala","en":"fontina (cheese)","fr":"fontine (fromage italien)"}
-{"T":"r","L":"fora","C":["vt","util"],"d":"crea un buco en o tra (alga cosa), usante un aparato jirante","en":"drill, bore","fr":"percer"}
-{"L":"fora","C":["n"],"d":"un ata de fora; un buco forada tra un cosa","en":"hole","es":"agujero"}
-{"L":"forador","C":["n"],"i":"#","de":"Bohrer","en":"drill (tool)","es":"taladro, barrena","fr":"perceuse"}
-{"L":"forador arcin","C":["n"],"en":"bow drill"}
-{"L":"forador colonin","C":["n"],"i":"#","en":"drill press"}
-{"L":"forador de mano","C":["n"],"en":"hand drill"}
-{"L":"forador engranada","C":["n"],"i":"#","en":"breast drill, eggbeater drill"}
-{"L":"forador percusente","C":["n"],"en":"hammer drill"}
+{"T":"r","L":"fora","C":["vt","util"],"d":"crea un buco en o tra (alga cosa), usante un aparato jirante","en":"drill, bore","fr":"percer, transpercer, trouer, perforer, tarauder, forer"}
+{"L":"fora","C":["n"],"d":"un ata de fora; un buco forada tra un cosa","en":"hole","es":"agujero","fr":"percement, perforation, taraudage, forage"}
+{"L":"forador","C":["n"],"i":"#","de":"Bohrer","en":"drill (tool)","es":"taladro, barrena","fr":"perceuse, chignole, foret, foreuse, fraiseuse, taraud, taraudeuse, tarière, vilebrequin, vrille, drille"}
+{"L":"forador arcin","C":["n"],"en":"bow drill","fr":"perceuse à arc"}
+{"L":"forador colonin","C":["n"],"i":"#","en":"drill press","fr":"perceuse à colonne"}
+{"L":"forador de mano","C":["n"],"en":"hand drill","fr":"perceuse manuelle, chignole"}
+{"L":"forador engranada","C":["n"],"i":"#","en":"breast drill, eggbeater drill","fr":"chignolle à manivelle"}
+{"L":"forador percusente","C":["n"],"en":"hammer drill","fr":"perceuse à percussion"}
 {"L":"forador puiable","C":["n"],"en":"push drill"}
-{"L":"forosa","C":["a"],"en":"porous"}
-{"L":"punto de forador","C":["n"],"en":"drill bit"}
-{"T":"r","L":"foraje","C":["vt","bio"],"d":"xerca (comedas o furnis) en un area","en":"forage, scavenge, rummage"}
-{"L":"forajor","C":["n"],"en":"scavenger"}
-{"T":"r","L":"forame","C":["n","anat"],"d":"un abri, boca o pasaje, tipal en un oso","en":"foramen (anatomy)"}
-{"T":"r","L":"forbe","C":["n","pla"],"d":"un planta florinte e erbin cual no es un graminoide, per esemplo trefolia, elianto, lil de dia, o ascelpia","en":"forb, phorb"}
+{"L":"forosa","C":["a"],"en":"porous","fr":"poreux"}
+{"L":"punto de forador","C":["n"],"en":"drill bit","fr":"mèche, foret"}
+{"T":"r","L":"foraje","C":["vt","bio"],"d":"xerca (comedas o furnis) en un area","en":"forage, scavenge, rummage","fr":"fouiller"}
+{"L":"forajor","C":["n"],"en":"scavenger","fr":"fouilleur"}
+{"T":"r","L":"forame","C":["n","anat"],"d":"un abri, boca o pasaje, tipal en un oso","en":"foramen (anatomy)","fr":"foramen (anatomie)"}
+{"T":"r","L":"forbe","C":["n","pla"],"d":"un planta florinte e erbin cual no es un graminoide, per esemplo trefolia, elianto, lil de dia, o ascelpia","en":"forb, phorb","fr":"phorbe"}
 {"T":"r","L":"force","C":["n","cos"],"d":"un util con du o plu dentes agu, usada per leva comedas a la boca o per teni los pos talia los; un util simil, usada per escava o leva cosas en un jardin o cultiveria; un punto do un curso divide a du partes","i":"#","da":"gaffel","de":"Gabel","en":"fork","es":"tenedor, trinche, horquilla, horcón","fr":"fourchette"}
-{"L":"force de ajusta","C":["n"],"i":"#","en":"tuning fork"}
-{"L":"force de ferovia","C":["n"],"en":"points, switch"}
-{"L":"forci","C":["vnt"],"en":"fork, bifurcate"}
-{"L":"forci","C":["vt"],"en":"fork, bifurcate"}
-{"L":"forci","C":["n"],"en":"fork, bifurcation, crotch"}
-{"L":"forcin","C":["a"],"en":"forklike, fork-shaped, forked"}
-{"L":"forcon","C":["n"],"i":"#","en":"pitchfork"}
-{"L":"forcor","C":["n"],"en":"forker"}
-{"L":"forcor de ferovia","C":["n"],"en":"pointsman, switchman"}
+{"L":"force de ajusta","C":["n"],"i":"#","en":"tuning fork","fr":"diapason"}
+{"L":"force de ferovia","C":["n"],"en":"points, switch","fr":"aiguillage"}
+{"L":"forci","C":["vnt"],"en":"fork, bifurcate","fr":"bifurquer, diverger, être aiguillé"}
+{"L":"forci","C":["vt"],"en":"fork, bifurcate","fr":"faire bifurquer, aiguiller, orienter"}
+{"L":"forci","C":["n"],"en":"fork, bifurcation, crotch","fr":"fourche, bifurcation"}
+{"L":"forcin","C":["a"],"en":"forklike, fork-shaped, forked","fr":"fourchu"}
+{"L":"forcon","C":["n"],"i":"#","en":"pitchfork","fr":"fourche"}
+{"L":"forcor","C":["n"],"en":"forker","fr":"fourcheur"}
+{"L":"forcor de ferovia","C":["n"],"en":"pointsman, switchman","fr":"aiguilleur"}
 {"T":"r","L":"fore","C":["vt","vest"],"d":"covre la surfas interna de (un veste o contenador) con un strato de materia diferente","en":"line","fr":"doubler, fourrer (un vêtement)"}
-{"L":"fore","C":["n"],"en":"(internal) lining"}
-{"T":"r","L":"forense","C":["a","med","gov"],"d":"pertinente a la usa de siensa en investiga un crimin; pertinente a cortes legal","en":"forensic"}
-{"L":"forensia","C":["n"],"en":"forensics"}
-{"T":"r","L":"foresta","C":["n","bio"],"d":"un area grande, xef covreda con arbores e subosce","i":"#","da":"skov","de":"Wald","en":"forest, large wood","es":"bosque, selva","fr":"forêt"}
-{"L":"foresta orijinal","C":["n"],"en":"virgin forest"}
-{"L":"foresta pluvosa","C":["n"],"en":"rainforest"}
-{"L":"cultiva de foresta","C":["n"],"en":"forestry"}
-{"L":"desforesti","C":["vt"],"en":"deforest"}
-{"L":"desforesti","C":["n"],"en":"deforestation, forest clearance"}
-{"L":"foresti","C":["vt"],"en":"forest"}
-{"L":"forestor","C":["n"],"en":"forester"}
-{"L":"forestosa","C":["a"],"en":"forested, wooded"}
-{"L":"reforesti","C":["vt"],"en":"reforest"}
-{"T":"r","L":"-foria","C":["sf","n","uma","med"],"d":"senti o emosia","en":"-phoria (feeling)"}
-{"L":"-forica","C":["sf","a","uma","med"],"en":"-phoric"}
+{"L":"fore","C":["n"],"en":"(internal) lining","fr":"doublure (d'un vêtement)"}
+{"T":"r","L":"forense","C":["a","med","gov"],"d":"pertinente a la usa de siensa en investiga un crimin; pertinente a cortes legal","en":"forensic","fr":"légal"}
+{"L":"forensia","C":["n"],"en":"forensics","fr":"médecine légale"}
+{"T":"r","L":"foresta","C":["n","bio"],"d":"un area grande, xef covreda con arbores e subosce","i":"#","da":"skov","de":"Wald","en":"forest, large wood","es":"bosque, selva","fr":"forêt, bois, futaie, sylve"}
+{"L":"foresta orijinal","C":["n"],"en":"virgin forest","fr":"forêt vierge, forêt primaire"}
+{"L":"foresta pluvosa","C":["n"],"en":"rainforest","fr":"forêt tropicale humide"}
+{"L":"cultiva de foresta","C":["n"],"en":"forestry","fr":"sylviculture, Eaux et Forêts"}
+{"L":"desforesti","C":["vt"],"en":"deforest","fr":"déforester, déboiser"}
+{"L":"desforesti","C":["n"],"en":"deforestation, forest clearance","fr":"déforestation, déboisement"}
+{"L":"foresti","C":["vt"],"en":"forest","fr":"boiser, planter"}
+{"L":"forestor","C":["n"],"en":"forester","fr":"reboiseur, forestier"}
+{"L":"forestosa","C":["a"],"en":"forested, wooded","fr":"boisé"}
+{"L":"reforesti","C":["vt"],"en":"reforest","fr":"reboiser"}
+{"T":"r","L":"-foria","C":["sf","n","uma","med"],"d":"senti o emosia","en":"-phoria (feeling)","fr":"-phorie"}
+{"L":"-forica","C":["sf","a","uma","med"],"en":"-phoric","fr":"-phorique"}
 {"T":"r","L":"forja","C":["vt","fis","util"],"d":"fabrica o formi (un ojeto metal) par caldi lo en un foco o forno e bate o marteli lo","en":"forge (metal)","fr":"forger"}
-{"L":"forjeria","C":["n"],"en":"forge, smithy"}
-{"L":"forjor","C":["n"],"i":"#","en":"smith, blacksmith"}
+{"L":"forjeria","C":["n"],"en":"forge, smithy","fr":"forge"}
+{"L":"forjor","C":["n"],"i":"#","en":"smith, blacksmith","fr":"forgeron"}
 {"T":"r","L":"forma","C":["n"],"d":"la aspeta de la contorno de un cosa en du o tre dimensiones; la posa de la partes de un cosa; la fortia e sania de la corpo de un person; la regulas de condui en sosia cortes","da":"form, facon","de":"Form, Gestalt","en":"form, shape, format, formation","es":"forma, figura, estado, condición","fr":"forme"}
-{"L":"-forma","C":["sf","a","bio","med","mat"],"d":"con forma de","en":"-form"}
-{"L":"forma completa","C":["n"],"en":"full form, expansion (of abbreviation)"}
-{"L":"forma de corpo","C":["n"],"en":"body shape, physique"}
-{"L":"forma de onda","C":["n"],"en":"waveform"}
-{"L":"bon forma","C":["n"],"en":"well-formedness; fitness (physical)"}
-{"L":"bonformida","C":["a"],"en":"well-formed"}
-{"L":"con forma de","C":["prep"],"en":"with the shape of, shaped like"}
-{"L":"de forma duple","C":["a"],"en":"dual-format"}
-{"L":"desformi","C":["vnt"],"en":"deform, buckle"}
-{"L":"desformi","C":["vt"],"en":"deform, buckle"}
-{"L":"desformi","C":["n"],"en":"deformation, deformity"}
-{"L":"en bon forma","C":["a"],"en":"in good shape, fit (physically)"}
-{"L":"en forma de","C":["prep"],"en":"in the form of, taking the form of"}
-{"L":"formable","C":["a"],"en":"formable, ductile"}
-{"L":"formi","C":["vnt"],"en":"form, shape"}
-{"L":"formi","C":["vt"],"en":"form, shape"}
-{"L":"formi","C":["n"],"en":"forming, formation"}
-{"L":"forminte","C":["a"],"en":"forming, formative"}
-{"L":"formosa","C":["a"],"en":"full-figured, buxom, curvaceous, voluptuous, rubenesque, zaftig"}
-{"L":"malformi","C":["vnt"],"en":"deform, disfigure"}
-{"L":"malformi","C":["vt"],"en":"deform, disfigure"}
-{"L":"malformi","C":["n"],"en":"deformation, malformation"}
-{"L":"malformida","C":["a"],"en":"deformed, malformed, misshapen, grotesque"}
-{"L":"sin forma","C":["a"],"en":"without form, formless, amorphous"}
-{"T":"r","L":"formal","C":["a","uma"],"d":"fada seguente la regulas de tradision o cortesia","en":"formal, by the book, pro forma; solemn, prim; smart, dressy"}
-{"L":"formali","C":["vnt"],"en":"become formal, become formalized|is"}
-{"L":"formali","C":["vt"],"en":"formalize|is"}
-{"L":"formalia","C":["n"],"en":"formality"}
-{"L":"nonformal","C":["a"],"en":"informal"}
-{"L":"nonformalia","C":["n"],"en":"informality"}
-{"T":"r","L":"formaldehido","C":["n","cim"],"d":"un gas malodorosa sin color en un disolve, produida par osidi metanol","en":"formaldehyde"}
-{"T":"r","L":"formalin","C":["n","cim"],"d":"un solve de formaldehido en acua, usada como un conservante per esemplos biolojial","en":"formalin (substance)"}
-{"T":"r","L":"formato","C":["n","arte","mus","info"],"d":"la forma o strutur de un libro, filma, fix o simil","en":"format"}
-{"L":"formati","C":["vt"],"en":"format"}
-{"L":"reformati","C":["vt"],"en":"reformat"}
-{"T":"r","L":"formica","C":["n","artr"],"d":"un inseto peti, comun con picador, cual abita tipal en colonias sosial con un o plu reas reproduinte","i":"#","t":"Formicidae","da":"myre","de":"Ameise","en":"ant","es":"hormiga","fr":"forme"}
-{"L":"formicosa","C":["a"],"en":"tingling, tingly, prickly, feeling pins and needles"}
-{"T":"r","L":"formica","C":["n","util"],"d":"un lamina de plastica dur, usada per surfases de portes, tables de cosina, etc","en":"formica (plastic)"}
-{"T":"r","L":"formicaleon","C":["n","ins"],"d":"un inseto cual sembla un libela, de cual la larvas construi cavetas cono per trapi formicas e otra predas","t":"Myrmeleontidae","en":"antlion (insect)"}
-{"T":"r","L":"formicor","C":["n","mam","avia"],"d":"un mamal ci come formicas e termites, con beco longa e lingua aderosa; un avia insetivor con gamas longa e coda corta, trovada en la forestas tropical de America Sude","i":"#, formicor-avia","t":"Vermilingua {;} Thamnophilidae","en":"anteater; antbird"}
+{"L":"-forma","C":["sf","a","bio","med","mat"],"d":"con forma de","en":"-form","fr":"-forme"}
+{"L":"forma completa","C":["n"],"en":"full form, expansion (of abbreviation)","fr":"mot entier, mot en toutes lettres"}
+{"L":"forma de corpo","C":["n"],"en":"body shape, physique","fr":"physique"}
+{"L":"forma de onda","C":["n"],"en":"waveform","fr":"forme d'onde"}
+{"L":"bon forma","C":["n"],"en":"well-formedness; fitness (physical)","fr":"bonne forme, pleine forme"}
+{"L":"bonformida","C":["a"],"en":"well-formed","fr":"en bonne forme, en pleine forme"}
+{"L":"con forma de","C":["prep"],"en":"with the shape of, shaped like","fr":"en forme de"}
+{"L":"de forma duple","C":["a"],"en":"dual-format","fr":"en double format"}
+{"L":"desformi","C":["vnt"],"en":"deform, buckle","fr":"se déformer, se fausser, se tordre"}
+{"L":"desformi","C":["vt"],"en":"deform, buckle","fr":"déformer, fausser, tordre"}
+{"L":"desformi","C":["n"],"en":"deformation, deformity","fr":"déformation, altération, difformité, distorsion"}
+{"L":"en bon forma","C":["a"],"en":"in good shape, fit (physically)","fr":"en bonne forme physique"}
+{"L":"en forma de","C":["prep"],"en":"in the form of, taking the form of","fr":"en forme de, se transformant en, prenant la forme de"}
+{"L":"formable","C":["a"],"en":"formable, ductile","fr":"façonnable, malléable, ductile"}
+{"L":"formi","C":["vnt"],"en":"form, shape","fr":"se former, prendre forme"}
+{"L":"formi","C":["vt"],"en":"form, shape","fr":"former, donner forme, façonner, modeler"}
+{"L":"formi","C":["n"],"en":"forming, formation","fr":"mise en forme, formation, façonnage, modelage"}
+{"L":"forminte","C":["a"],"en":"forming, formative","fr":"formant, formateur"}
+{"L":"formosa","C":["a"],"en":"full-figured, buxom, curvaceous, voluptuous, rubenesque, zaftig","fr":"qui a des formes, plantureux, tout en courbes"}
+{"L":"malformi","C":["vnt"],"en":"deform, disfigure","fr":"s'altérer, se dégrader, enlaidir, se gâter"}
+{"L":"malformi","C":["vt"],"en":"deform, disfigure","fr":"altérer, dégrader, défigurer, enlaidir, gâter"}
+{"L":"malformi","C":["n"],"en":"deformation, malformation","fr":"déformation, malformation, difformité"}
+{"L":"malformida","C":["a"],"en":"deformed, malformed, misshapen, grotesque","fr":"déformé, difforme, défiguré"}
+{"L":"sin forma","C":["a"],"en":"without form, formless, amorphous","fr":"informe, sans forme"}
+{"T":"r","L":"formal","C":["a","uma"],"d":"fada seguente la regulas de tradision o cortesia","en":"formal, by the book, pro forma; solemn, prim; smart, dressy","fr":"formel, en règle, dans les formes, à la lettre, selon les règles, conventionnel, correct; solennel, cérémonieux, officiel; élégant, stylé"}
+{"L":"formali","C":["vnt"],"en":"become formal, become formalized|is","fr":"se normaliser, se formaliser, se régulariser"}
+{"L":"formali","C":["vt"],"en":"formalize|is","fr":"normaliser, formaliser, régulariser"}
+{"L":"formalia","C":["n"],"en":"formality","fr":"formalité"}
+{"L":"nonformal","C":["a"],"en":"informal","fr":"informel"}
+{"L":"nonformalia","C":["n"],"en":"informality","fr":"informalité"}
+{"T":"r","L":"formaldehido","C":["n","cim"],"d":"un gas malodorosa sin color en un disolve, produida par osidi metanol","en":"formaldehyde","fr":"formaldéhyde"}
+{"T":"r","L":"formalin","C":["n","cim"],"d":"un solve de formaldehido en acua, usada como un conservante per esemplos biolojial","en":"formalin (substance)","fr":"méthanal (substance)"}
+{"T":"r","L":"formato","C":["n","arte","mus","info"],"d":"la forma o strutur de un libro, filma, fix o simil","en":"format","fr":"format, taille, gabarit"}
+{"L":"formati","C":["vt"],"en":"format","fr":"formater"}
+{"L":"reformati","C":["vt"],"en":"reformat","fr":"reformater"}
+{"T":"r","L":"formica","C":["n","artr"],"d":"un inseto peti, comun con picador, cual abita tipal en colonias sosial con un o plu reas reproduinte","i":"#","t":"Formicidae","da":"myre","de":"Ameise","en":"ant","es":"hormiga","fr":"fourmi"}
+{"L":"formicosa","C":["a"],"en":"tingling, tingly, prickly, feeling pins and needles","fr":"qui picote, qui ressent des fourmillements"}
+{"T":"r","L":"formica","C":["n","util"],"d":"un lamina de plastica dur, usada per surfases de portes, tables de cosina, etc","en":"formica (plastic)","fr":"formica (plastique)"}
+{"T":"r","L":"formicaleon","C":["n","ins"],"d":"un inseto cual sembla un libela, de cual la larvas construi cavetas cono per trapi formicas e otra predas","t":"Myrmeleontidae","en":"antlion (insect)","fr":"fourmilion, fourmi-lion (insecte)"}
+{"T":"r","L":"formicor","C":["n","mam","avia"],"d":"un mamal ci come formicas e termites, con beco longa e lingua aderosa; un avia insetivor con gamas longa e coda corta, trovada en la forestas tropical de America Sude","i":"#, formicor-avia","t":"Vermilingua {;} Thamnophilidae","en":"anteater; antbird","fr":"fourmilier (mammifère); fourmilier (passereau)"}
 {"T":"r","L":"formula","C":["vt","mat"],"d":"crea (un proposa o stratejia) en modo metodosa; espresa (un idea) en modo sistemosa e esata","en":"formulate","fr":"formuler"}
-{"L":"formula","C":["n"],"d":"un ata de formula; un relata matematical espresada en simboles; un metodo esata per ateni alga cosa; (en gramatica) un serie corta de parolas cual formi un unia consetal e es tipal un parte de un proposa","en":"formula, formulation; phrase (grammar)"}
-{"L":"formula ajetivin","C":["n"],"d":"un formula de cual sua nucleo es un ajetivo","en":"adjective phrase"}
-{"L":"formula de loda","C":["n"],"en":"doxology"}
-{"L":"formula de preposada","C":["n"],"d":"un formula nomin cual es introduida par un preposada","en":"preposition phrase"}
-{"L":"formula nomin","C":["n"],"d":"un formula de cual sua nucleo es un nom","en":"noun phrase"}
-{"L":"formula verbin","C":["n"],"d":"un formula de cual sua nucleo es un verbo","en":"verb phrase"}
-{"L":"formulin","C":["a"],"en":"formulaic"}
-{"L":"reformula","C":["vt"],"en":"reformulate"}
-{"T":"r","L":"formulario","C":["n","info"],"d":"un serie de demandas, tipal primida e con respondes elejable, per colie informa","en":"form (to fill), questionnaire"}
-{"T":"r","L":"fornix","C":["n","anat","med"],"d":"un strutur voltin o arcin en la corpo","en":"fornix"}
+{"L":"formula","C":["n"],"d":"un ata de formula; un relata matematical espresada en simboles; un metodo esata per ateni alga cosa; (en gramatica) un serie corta de parolas cual formi un unia consetal e es tipal un parte de un proposa","en":"formula, formulation; phrase (grammar)","fr":"formule, formulation, groupe (grammaire)"}
+{"L":"formula ajetivin","C":["n"],"d":"un formula de cual sua nucleo es un ajetivo","en":"adjective phrase","fr":"groupe adjectivale"}
+{"L":"formula de loda","C":["n"],"en":"doxology","fr":"formule laudative"}
+{"L":"formula de preposada","C":["n"],"d":"un formula nomin cual es introduida par un preposada","en":"preposition phrase","fr":"groupe nominal prépositionnel"}
+{"L":"formula nomin","C":["n"],"d":"un formula de cual sua nucleo es un nom","en":"noun phrase","fr":"groupe nominale"}
+{"L":"formula verbin","C":["n"],"d":"un formula de cual sua nucleo es un verbo","en":"verb phrase","fr":"groupe verbal"}
+{"L":"formulin","C":["a"],"en":"formulaic","fr":"qui ressemble à une formule"}
+{"L":"reformula","C":["vt"],"en":"reformulate","fr":"reformuler"}
+{"T":"r","L":"formulario","C":["n","info"],"d":"un serie de demandas, tipal primida e con respondes elejable, per colie informa","en":"form (to fill), questionnaire","fr":"formulaire, questionnaire"}
+{"T":"r","L":"fornix","C":["n","anat","med"],"d":"un strutur voltin o arcin en la corpo","en":"fornix","fr":"fornix"}
 {"T":"r","L":"forno","C":["n","util","cos"],"d":"un comparte encluida per coce o caldi comedas o seramicas","i":"#","da":"ovn","de":"Ofen","en":"oven","es":"horno","fr":"four"}
-{"L":"Forno","C":["n","ast"],"d":"un constela en la sielo sude","en":"Fornax (constellation)"}
-{"L":"forni","C":["vt"],"da":"bage","de":"backen","en":"bake, cook (in oven)","es":"hornear, cocer al horno","fr":"faire cuire (au four)"}
-{"L":"forni","C":["n"],"en":"baking"}
-{"L":"fornida","C":["a"],"en":"baked"}
-{"L":"fornida","C":["n"],"en":"bake, baked food"}
-{"L":"forno de microonda","C":["n"],"en":"microwave oven"}
-{"L":"fornon","C":["n"],"en":"furnace, kiln"}
-{"L":"fornor","C":["n","avia"],"d":"un person ci forni pan; un avia peti de la tropicos de America, de cual alga membros construi nidos de fango cual sembla fornos","i":"#","t":"Furnariidae","en":"baker; ovenbird, woodcreeper"}
+{"L":"Forno","C":["n","ast"],"d":"un constela en la sielo sude","en":"Fornax (constellation)","fr":"Fourneau (constellation)"}
+{"L":"forni","C":["vt"],"da":"bage","de":"backen","en":"bake, cook (in oven)","es":"hornear, cocer al horno","fr":"enfourner, faire cuire (au four)"}
+{"L":"forni","C":["n"],"en":"baking","fr":"cuisson au four"}
+{"L":"fornida","C":["a"],"en":"baked","fr":"cuit au four"}
+{"L":"fornida","C":["n"],"en":"bake, baked food","fr":"nourriture cuite au four"}
+{"L":"forno de microonda","C":["n"],"en":"microwave oven","fr":"four à micro-onde"}
+{"L":"fornon","C":["n"],"en":"furnace, kiln","fr":"fourneau"}
+{"L":"fornor","C":["n","avia"],"d":"un person ci forni pan; un avia peti de la tropicos de America, de cual alga membros construi nidos de fango cual sembla fornos","i":"#","t":"Furnariidae","en":"baker; ovenbird, woodcreeper","fr":"boulanger (personne); fournier (oiseau)"}
 {"T":"r","L":"foro","C":["n","gov","ist"],"d":"un loca, tipal en la interede, do on pote intercambia ideas e opinas sur un tema spesifada; (en sites roman antica) un plaza publica per comersia e debate","i":"#","en":"forum; (internet) message board, bulletin board","fr":"forum"}
-{"T":"r","L":"foromanica","C":["a","info"],"d":"(un person) ci posta comentas frecuente a un foro spesifada","en":"forumite"}
-{"L":"foromanica","C":["n"],"en":"forumite, regular commenter"}
-{"T":"r","L":"foronido","C":["n"],"d":"un membro de un filo de animales de mar cual usa un lofofora per filtri sua comedas, e construi tubos vertical de citina per suporta e proteje","i":"#","t":"Phoronida","en":"phoronid (organism)"}
-{"T":"r","L":"forsa","C":["vt"],"d":"fa ce (algun) fa alga cosa contra sua vole; fa ce (un regula, imposta, multa, etc) es obedida o paiada","en":"force (strongly or physically), enforce, coerce, necessitate, compel; impose (something), inflict, levy, wreak","fr":"forcer (physiquement)"}
-{"L":"forsa","C":["n"],"en":"coercion"}
-{"L":"forsa a via","C":["v"],"en":"drive away, force back, repel, ward off"}
-{"L":"forsa se","C":["v"],"en":"exert oneself"}
-{"L":"forsada","C":["a"],"en":"forced, compulsory"}
-{"T":"r","L":"forsitia","C":["n","pla"],"d":"un arboreta eurasian, de cual sua flores briliante jala apare en primavera, ante la folias","i":"#","t":"Forsythia","en":"forsythia (plant)"}
-{"T":"r","L":"forte","C":["a","fis","gov"],"d":"con la potia nesesada per move cosas pesosa o fa otra taxes difisil; capas de fa un ata spesifada en modo bon e potiosa; capas de resiste; difisil per para o restrinje; multe intensa; produinte multe ruido","da":"stærk; høj (lyd)","de":"stark, kräftig; laut","en":"strong, robust, sturdy, burly, formidable; loud, vehement, forte, stentorian, booming, vociferous, punchy","es":"fuerte, ruidoso, escandaloso, recio","fr":"fort"}
-{"L":"forte","C":["av"],"en":"strongly, robustly; loudly, vehemently"}
-{"L":"forte","C":["n"],"en":"force (including in physics)"}
-{"L":"forte de aira","C":["n"],"en":"air force (military)"}
-{"L":"forte nonresistable","C":["n"],"en":"overwhelming force, juggernaut"}
-{"L":"fortador","C":["n"],"en":"amplifier"}
-{"L":"fortes militar","C":["n","pl"],"en":"armed forces"}
-{"L":"forti","C":["vnt"],"en":"grow strong, be reinforced; be consolidated"}
-{"L":"forti","C":["vt"],"en":"strengthen, fortify, reinforce, brace, potentiate; consolidate"}
-{"L":"forti","C":["n"],"en":"strengthening, bracing, consolidation; fortition"}
-{"L":"fortia","C":["n"],"da":"styrke, kraft, modstandskraft","de":"Kraft","en":"strength, force, effort, exertion, fortitude, brawn","es":"fuerza, fortaleza, vigor","fr":"force"}
-{"L":"fortia de vive","C":["n"],"en":"life force, life energy, vital force, élan vital"}
-{"L":"fortiosa","C":["a"],"en":"forceful, forcible"}
-{"L":"multe forte","C":["a"],"en":"very strong; very loud, fortissimo"}
-{"L":"nonforte","C":["a"],"en":"insubstantial"}
-{"L":"prefortador","C":["n"],"en":"preamplifier, preamp"}
-{"T":"r","L":"fortres","C":["n","gov"],"d":"un construida o vila forte e bon protejeda, tipal con intendes militar","i":"#","en":"fortress, blockhouse, fort, fortification, stronghold, keep"}
-{"L":"fortres de site","C":["n"],"en":"citadel"}
-{"T":"r","L":"fortuna","C":["n","uma","mit"],"d":"la acasia, o bon o mal, regardada como un potia esterna cual afeta la condui de umanas","da":"chance, mulighed","de":"Zufall","en":"fortune, chance, fate, destiny, lot, luck","es":"suerte, fortuna, casualidad, acaso, azar","fr":"chance"}
-{"L":"bon fortuna","C":["n"],"en":"good luck"}
-{"L":"bon fortuna nonespetada","C":["n"],"en":"windfall"}
-{"L":"fortunosa","C":["a"],"en":"lucky, fortunate, auspicious, fortuitous, well off"}
-{"L":"fortunosa","C":["av"],"en":"fortunately"}
-{"L":"mal fortuna","C":["n"],"en":"bad luck, misfortune, mishap, unfortunate occurrence, accident, adversity, woe"}
-{"L":"malfortunosa","C":["a"],"en":"unlucky, unfortunate, inauspicious, hapless, lamentable, poor, underprivileged"}
-{"L":"malfortunosa","C":["n"],"en":"underdog"}
+{"T":"r","L":"foromanica","C":["a","info"],"d":"(un person) ci posta comentas frecuente a un foro spesifada","en":"forumite","fr":"qui poste régulièrement sur un forum"}
+{"L":"foromanica","C":["n"],"en":"forumite, regular commenter","fr":"quelqu'un qui poste régulièrement sur un forum"}
+{"T":"r","L":"foronido","C":["n"],"d":"un membro de un filo de animales de mar cual usa un lofofora per filtri sua comedas, e construi tubos vertical de citina per suporta e proteje","i":"#","t":"Phoronida","en":"phoronid (organism)","fr":"phoronide (organisme)"}
+{"T":"r","L":"forsa","C":["vt"],"d":"fa ce (algun) fa alga cosa contra sua vole; fa ce (un regula, imposta, multa, etc) es obedida o paiada","en":"force (strongly or physically), enforce, coerce, necessitate, compel; impose (something), inflict, levy, wreak","fr":"forcer (physiquement), imposer, contraindre, obliger, mettre en demeure; imposer, infliger, exiger"}
+{"L":"forsa","C":["n"],"en":"coercion","fr":"contrainte, coercition"}
+{"L":"forsa a via","C":["v"],"en":"drive away, force back, repel, ward off","fr":"repousser"}
+{"L":"forsa se","C":["v"],"en":"exert oneself","fr":"faire effort, se forcer, déployer des efforts"}
+{"L":"forsada","C":["a"],"en":"forced, compulsory","fr":"forcé, obligatoire"}
+{"T":"r","L":"forsitia","C":["n","pla"],"d":"un arboreta eurasian, de cual sua flores briliante jala apare en primavera, ante la folias","i":"#","t":"Forsythia","en":"forsythia (plant)","fr":"forsythia (plante)"}
+{"T":"r","L":"forte","C":["a","fis","gov"],"d":"con la potia nesesada per move cosas pesosa o fa otra taxes difisil; capas de fa un ata spesifada en modo bon e potiosa; capas de resiste; difisil per para o restrinje; multe intensa; produinte multe ruido","da":"stærk; høj (lyd)","de":"stark, kräftig; laut","en":"strong, robust, sturdy, burly, formidable; loud, vehement, forte, stentorian, booming, vociferous, punchy","es":"fuerte, ruidoso, escandaloso, recio","fr":"fort, robuste, solide, costaud; puissant, énergique, dynamique"}
+{"L":"forte","C":["av"],"en":"strongly, robustly; loudly, vehemently","fr":"fort, fortement, puissamment, avec force, avec énergie"}
+{"L":"forte","C":["n"],"en":"force (including in physics)","fr":"force, robustesse, solidité, puissance, énergie, dynamisme"}
+{"L":"forte de aira","C":["n"],"en":"air force (military)","fr":"force aérienne"}
+{"L":"forte nonresistable","C":["n"],"en":"overwhelming force, juggernaut","fr":"force irrésistible"}
+{"L":"fortador","C":["n"],"en":"amplifier","fr":"amplificateur"}
+{"L":"fortes militar","C":["n","pl"],"en":"armed forces","fr":"forces armées"}
+{"L":"forti","C":["vnt"],"en":"grow strong, be reinforced; be consolidated","fr":"se renforcer, se consolider, s'affirmer, s'affermir, se fortifier, se raffermir, se solidifier"}
+{"L":"forti","C":["vt"],"en":"strengthen, fortify, reinforce, brace, potentiate; consolidate","fr":"renforcer, consolider, affirmer, affermir, fortifier, raffermir, solidifier"}
+{"L":"forti","C":["n"],"en":"strengthening, bracing, consolidation; fortition","fr":"renforcement, consolidification, affirmation, affermissement"}
+{"L":"fortia","C":["n"],"da":"styrke, kraft, modstandskraft","de":"Kraft","en":"strength, force, effort, exertion, fortitude, brawn","es":"fuerza, fortaleza, vigor","fr":"force, vigueur, énergie, dynamisme"}
+{"L":"fortia de vive","C":["n"],"en":"life force, life energy, vital force, élan vital","fr":"force vitale, énergie vitale, élan vital"}
+{"L":"fortiosa","C":["a"],"en":"forceful, forcible","fr":"énergique, vigoureux"}
+{"L":"multe forte","C":["a"],"en":"very strong; very loud, fortissimo","fr":"très fort, très puissant"}
+{"L":"nonforte","C":["a"],"en":"insubstantial","fr":"inconsistant"}
+{"L":"prefortador","C":["n"],"en":"preamplifier, preamp","fr":"préamplificateur"}
+{"T":"r","L":"fortres","C":["n","gov"],"d":"un construida o vila forte e bon protejeda, tipal con intendes militar","i":"#","en":"fortress, blockhouse, fort, fortification, stronghold, keep","fr":"fort, forteresse, fortification"}
+{"L":"fortres de site","C":["n"],"en":"citadel","fr":"citadelle"}
+{"T":"r","L":"fortuna","C":["n","uma","mit"],"d":"la acasia, o bon o mal, regardada como un potia esterna cual afeta la condui de umanas","da":"chance, mulighed","de":"Zufall","en":"fortune, chance, fate, destiny, lot, luck","es":"suerte, fortuna, casualidad, acaso, azar","fr":"destin (bon ou mauvais), sort, fortune (bonne ou mauvaise), destinée, fatalité, providence, fatum"}
+{"L":"bon fortuna","C":["n"],"en":"good luck","fr":"chance, bonne fortune"}
+{"L":"bon fortuna nonespetada","C":["n"],"en":"windfall","fr":"coup de chance, aubaine"}
+{"L":"fortunosa","C":["a"],"en":"lucky, fortunate, auspicious, fortuitous, well off","fr":"chanceux, veinard"}
+{"L":"fortunosa","C":["av"],"en":"fortunately","fr":"heureusement"}
+{"L":"mal fortuna","C":["n"],"en":"bad luck, misfortune, mishap, unfortunate occurrence, accident, adversity, woe","fr":"malchance, infortune, adversité, accident"}
+{"L":"malfortunosa","C":["a"],"en":"unlucky, unfortunate, inauspicious, hapless, lamentable, poor, underprivileged","fr":"malchanceux, infortuné"}
+{"L":"malfortunosa","C":["n"],"en":"underdog","fr":"outsider"}
 {"T":"r","L":"fosena","C":["n","mam"],"d":"un balena peti e multe intelijente, con dentes, un beco nonagu e ronda, e un pina dorsal triangulo","i":"#","t":"Phocoenidae","en":"porpoise","fr":"marsouin"}
-{"T":"r","L":"fosfato","C":["n","cim"],"d":"un sal o ester de asida de fosfor","en":"phosphate (chemistry)"}
-{"T":"r","L":"fosfolipido","C":["a","bio","cim"],"d":"parteninte a la clase de lipidos de cual sua molecula conteni un grupo de fosfato","en":"phospholipid (chemistry)"}
+{"T":"r","L":"fosfato","C":["n","cim"],"d":"un sal o ester de asida de fosfor","en":"phosphate (chemistry)","fr":"phosphate (chimie)"}
+{"T":"r","L":"fosfolipido","C":["a","bio","cim"],"d":"parteninte a la clase de lipidos de cual sua molecula conteni un grupo de fosfato","en":"phospholipid (chemistry)","fr":"phospholipide (chimie)"}
 {"T":"r","L":"fosfor","C":["n","cim"],"d":"la elemento cimical con numero atomal 15, un nonmetal combustable e venenosa; un basteta de lenio o carton cual fini con un composada cual ensende cuando on frica lo contra un surfas ru, usada per inisia un foco","s":"P (phosphorus)","da":"tændstik","de":"Streichholz","en":"phosphorus (element); match, matchstick","es":"fósforo, cerilla, cerillo (Mex.)","fr":"phosphore; allumette"}
-{"T":"r","L":"fosforese","C":["vnt"],"d":"emete lus o radia sin combusta o caldia persepable","en":"phosphoresce"}
-{"L":"fosforesente","C":["a"],"en":"phosphorescent"}
+{"T":"r","L":"fosforese","C":["vnt"],"d":"emete lus o radia sin combusta o caldia persepable","en":"phosphoresce","fr":"être phosphorescent, phosphorescer"}
+{"L":"fosforesente","C":["a"],"en":"phosphorescent","fr":"phosphorescent"}
 {"T":"r","L":"fosil","C":["n","bio","tera"],"d":"la restas o impresa de un organisme preistorial, petrida o moldida en petra","i":"#","en":"fossil","fr":"fossile"}
-{"L":"fosili","C":["vnt"],"en":"fossilize|is"}
-{"L":"fosili","C":["vt"],"en":"fossilize|is"}
-{"L":"fosili","C":["n"],"en":"fossilization|is"}
+{"L":"fosili","C":["vnt"],"en":"fossilize|is","fr":"se fossiliser"}
+{"L":"fosili","C":["vt"],"en":"fossilize|is","fr":"fossiliser"}
+{"L":"fosili","C":["n"],"en":"fossilization|is","fr":"fossilisation"}
 {"T":"r","L":"foso","C":["n","tera"],"d":"un canal magra escavada en la tera, tipal longo un via o a la borda de un campo e usada per drena; un canal simil sirca un castel; un escavada magra usada per proteje soldatos en un gera; un depresa en un oso","i":"#","en":"ditch, trench, moat; fossa (anatomy)","fr":"fossé"}
-{"L":"foseta","C":["n"],"en":"rut, wheel track"}
-{"L":"foson","C":["n"],"i":"#","en":"gully, ravine, arroyo"}
-{"T":"r","L":"fostrot","C":["n","mus"],"d":"un dansa de balo simil a un valsa, ma con tempo {4/4}; un peso de musica scriveda per esta dansa","en":"foxtrot (dance, music)"}
-{"T":"r","L":"foto","C":["n","arte"],"d":"un imaje creada par usa un camera","i":"#","da":"fotografi","de":"Photo","en":"photo, photograph, shot, snapshot, still","es":"fotografía, foto","fr":"photo"}
-{"L":"foto airal","C":["n"],"en":"aerial photograph"}
-{"L":"foto distante","C":["n"],"en":"long shot"}
-{"L":"foto personal","C":["n"],"en":"portrait"}
-{"L":"foto pos aresta","C":["n"],"en":"mugshot"}
-{"L":"foto prosima","C":["n"],"en":"closeup"}
-{"L":"fa un foto","C":["n"],"en":"take a photo"}
-{"L":"fotor","C":["n"],"en":"photographer"}
-{"T":"r","L":"foto-","C":["pf","tecn"],"d":"lus o fotografia","en":"photo- (light, photography)"}
-{"T":"r","L":"fotocimical","C":["a","cim"],"d":"pertinente a o causada par la ativia cimical de lus","en":"photochemical"}
-{"T":"r","L":"fotocopia","C":["vt","util"],"d":"fa un copia de (un documento fisical), usante la efeto de lus sur un surfas spesial preparada","en":"photocopy, xerox"}
-{"L":"fotocopia","C":["n"],"en":"photocopy"}
+{"L":"foseta","C":["n"],"en":"rut, wheel track","fr":"ornière"}
+{"L":"foson","C":["n"],"i":"#","en":"gully, ravine, arroyo","fr":"ravin"}
+{"T":"r","L":"fostrot","C":["n","mus"],"d":"un dansa de balo simil a un valsa, ma con tempo {4/4}; un peso de musica scriveda per esta dansa","en":"foxtrot (dance, music)","fr":"foxtrot (dance, musique)"}
+{"T":"r","L":"foto","C":["n","arte"],"d":"un imaje creada par usa un camera","i":"#","da":"fotografi","de":"Photo","en":"photo, photograph, shot, snapshot, still","es":"fotografía, foto","fr":"photo, photographie"}
+{"L":"foto airal","C":["n"],"en":"aerial photograph","fr":"photographie aérienne"}
+{"L":"foto distante","C":["n"],"en":"long shot","fr":"photo à distance, photo au téléobjectif"}
+{"L":"foto personal","C":["n"],"en":"portrait","fr":"portrait"}
+{"L":"foto pos aresta","C":["n"],"en":"mugshot","fr":"photographie d’identité judiciaire"}
+{"L":"foto prosima","C":["n"],"en":"closeup","fr":"gros plan"}
+{"L":"fa un foto","C":["n"],"en":"take a photo","fr":"photographier"}
+{"L":"fotor","C":["n"],"en":"photographer","fr":"photographe"}
+{"T":"r","L":"foto-","C":["pf","tecn"],"d":"lus o fotografia","en":"photo- (light, photography)","fr":"photo-"}
+{"T":"r","L":"fotocimical","C":["a","cim"],"d":"pertinente a o causada par la ativia cimical de lus","en":"photochemical","fr":"photochimique"}
+{"T":"r","L":"fotocopia","C":["vt","util"],"d":"fa un copia de (un documento fisical), usante la efeto de lus sur un surfas spesial preparada","en":"photocopy, xerox","fr":"photocopier"}
+{"L":"fotocopia","C":["n"],"en":"photocopy","fr":"fotocopie"}
 {"T":"r","L":"fotografia","C":["n","arte"],"d":"la arte e siensa de usa cameras e crea fotos","en":"photography","fr":"photographie"}
-{"L":"fotografia a intervales","C":["n"],"en":"timelapse photography"}
-{"L":"fotografia prosima","C":["n"],"en":"closeup photography, macro photography"}
-{"L":"fotografi","C":["vt"],"en":"photograph"}
-{"L":"fotografial","C":["a"],"en":"photographic"}
-{"L":"fotografiste","C":["n"],"en":"photographer"}
-{"T":"r","L":"fotograva","C":["n","arte"],"d":"un imaje produida par grava un foto a un placa metal","en":"photogravure, heliogravure"}
-{"T":"r","L":"fotojen","C":["a","arte","bio"],"d":"(un person, etc) aspeta atraente o bela en fotos o filma; (en biolojia) (un organisme o texeda) produinte o emetente lus","en":"photogenic"}
-{"T":"r","L":"fotojornalisme","C":["n","arte"],"d":"la arte o pratica de comunica novas par fotos, spesial en jornales","en":"photojournalism"}
-{"L":"fotojornaliste","C":["a"],"en":"photojournalistic"}
-{"L":"fotojornaliste","C":["n"],"en":"photojournalist"}
-{"T":"r","L":"fotomanica","C":["a","arte"],"d":"zelosa sur fotografia","en":"enthusiastic about photography"}
-{"L":"fotomanica","C":["n"],"en":"shutterbug, photography enthusiast"}
-{"T":"r","L":"foton","C":["n","fis"],"d":"un particula representante un cuanto de lus o otra radia eletromagnetal","en":"photon"}
-{"T":"r","L":"fotonica","C":["n"],"en":"Photonics"}
-{"T":"r","L":"fotorealisme","C":["n","arte"],"d":"la arte de crea desinias o depintas tan detaliosa e realin como fotos, tipal de vive comun","en":"photorealism"}
-{"L":"fotorealiste","C":["a"],"en":"photorealistic"}
-{"L":"fotorealiste","C":["n"],"en":"photorealist"}
-{"T":"r","L":"fotoresetador","C":["n"],"d":"un selula o organo cual responde a lus","en":"photoreceptor"}
-{"T":"r","L":"fotoselula","C":["n"],"d":"un aparato cual jenera eletrica cuando lo reseta lus","en":"photocell, photoelectric cell"}
-{"T":"r","L":"fotosensante","C":["a"],"d":"respondente a lus en modo cimical o eletrical","en":"photosensitive"}
-{"T":"r","L":"fotosintese","C":["vt","bio"],"d":"la prosede par cual plantas verde e alga otra organismes usa lus per sintese nurintes de diosido de carbono e acua, con osijen como un suproduida","en":"photosynthesize"}
-{"L":"fotosintese","C":["n"],"en":"photosynthesis"}
-{"T":"r","L":"fototrof","C":["a","bio"],"d":"(un organisme) usante enerjia de lus per sintese composadas organica per nuri se","en":"phototrophic (biology)"}
-{"L":"fototrof","C":["n"],"en":"phototroph"}
-{"L":"fototrofia","C":["n"],"en":"phototrophia"}
-{"T":"r","L":"fototropo","C":["a","bio"],"d":"(un planta) turnante en responde a lus","en":"phototropic (botany)"}
-{"L":"fototropia","C":["n"],"en":"phototropism"}
-{"T":"r","L":"fotovoltaica","C":["a"],"d":"pertinente a la produi de corentes eletrical a la junta de du sustantias esposada a lus","en":"photovoltaic"}
-{"L":"efeto fotovoltaica","C":["n"],"en":"photovoltaic effect"}
-{"L":"enerjia solal fotovoltaica","C":["n"],"i":"#","en":"photovoltaics"}
-{"L":"selula fotovoltaica","C":["n"],"en":"photovoltaic cell"}
-{"T":"r","L":"fovea","C":["n","anat"],"d":"un depresa peti en la retina do la capasia de vide es la plu agu","en":"fovea (anatomy)"}
+{"L":"fotografia a intervales","C":["n"],"en":"timelapse photography","fr":"photographie en accéléré"}
+{"L":"fotografia prosima","C":["n"],"en":"closeup photography, macro photography","fr":"macrophotographie"}
+{"L":"fotografi","C":["vt"],"en":"photograph","fr":"photographier"}
+{"L":"fotografial","C":["a"],"en":"photographic","fr":"photographique"}
+{"L":"fotografiste","C":["n"],"en":"photographer","fr":"photographe"}
+{"T":"r","L":"fotograva","C":["n","arte"],"d":"un imaje produida par grava un foto a un placa metal","en":"photogravure, heliogravure","fr":"photogravure"}
+{"T":"r","L":"fotojen","C":["a","arte","bio"],"d":"(un person, etc) aspeta atraente o bela en fotos o filma; (en biolojia) (un organisme o texeda) produinte o emetente lus","en":"photogenic","fr":"photogénique"}
+{"T":"r","L":"fotojornalisme","C":["n","arte"],"d":"la arte o pratica de comunica novas par fotos, spesial en jornales","en":"photojournalism","fr":"photojournalisme, photoreportage"}
+{"L":"fotojornaliste","C":["a"],"en":"photojournalistic","fr":"photojournalistique"}
+{"L":"fotojornaliste","C":["n"],"en":"photojournalist","fr":"photojournaliste, photoreporter"}
+{"T":"r","L":"fotomanica","C":["a","arte"],"d":"zelosa sur fotografia","en":"enthusiastic about photography","fr":"passionné de photographie"}
+{"L":"fotomanica","C":["n"],"en":"shutterbug, photography enthusiast","fr":"passionné de photographie"}
+{"T":"r","L":"foton","C":["n","fis"],"d":"un particula representante un cuanto de lus o otra radia eletromagnetal","en":"photon","fr":"photon"}
+{"T":"r","L":"fotonica","C":["n"],"en":"Photonics","fr":"photonique"}
+{"T":"r","L":"fotorealisme","C":["n","arte"],"d":"la arte de crea desinias o depintas tan detaliosa e realin como fotos, tipal de vive comun","en":"photorealism","fr":"photoréalisme, hyperréalisme"}
+{"L":"fotorealiste","C":["a"],"en":"photorealistic","fr":"photoréaliste, hyperréaliste"}
+{"L":"fotorealiste","C":["n"],"en":"photorealist","fr":"photoréaliste, hyperréaliste"}
+{"T":"r","L":"fotoresetador","C":["n"],"d":"un selula o organo cual responde a lus","en":"photoreceptor","fr":"photorésepteur"}
+{"T":"r","L":"fotoselula","C":["n"],"d":"un aparato cual jenera eletrica cuando lo reseta lus","en":"photocell, photoelectric cell","fr":"cellule photoélectrique"}
+{"T":"r","L":"fotosensante","C":["a"],"d":"respondente a lus en modo cimical o eletrical","en":"photosensitive","fr":"photosensible"}
+{"T":"r","L":"fotosintese","C":["vt","bio"],"d":"la prosede par cual plantas verde e alga otra organismes usa lus per sintese nurintes de diosido de carbono e acua, con osijen como un suproduida","en":"photosynthesize","fr":"photosynthétiser"}
+{"L":"fotosintese","C":["n"],"en":"photosynthesis","fr":"photosyntèse"}
+{"T":"r","L":"fototrof","C":["a","bio"],"d":"(un organisme) usante enerjia de lus per sintese composadas organica per nuri se","en":"phototrophic (biology)","fr":"phototrophe"}
+{"L":"fototrof","C":["n"],"en":"phototroph","fr":"phototrophe"}
+{"L":"fototrofia","C":["n"],"en":"phototrophia","fr":"phototrophie"}
+{"T":"r","L":"fototropo","C":["a","bio"],"d":"(un planta) turnante en responde a lus","en":"phototropic (botany)","fr":"phototrope"}
+{"L":"fototropia","C":["n"],"en":"phototropism","fr":"phototropisme"}
+{"T":"r","L":"fotovoltaica","C":["a"],"d":"pertinente a la produi de corentes eletrical a la junta de du sustantias esposada a lus","en":"photovoltaic","fr":"photovoltaïque"}
+{"L":"efeto fotovoltaica","C":["n"],"en":"photovoltaic effect","fr":"effet photovoltaïque"}
+{"L":"enerjia solal fotovoltaica","C":["n"],"i":"#","en":"photovoltaics","fr":"énergie solaire"}
+{"L":"selula fotovoltaica","C":["n"],"en":"photovoltaic cell","fr":"cellule photovoltaïque"}
+{"T":"r","L":"fovea","C":["n","anat"],"d":"un depresa peti en la retina do la capasia de vide es la plu agu","en":"fovea (anatomy)","fr":"fovéa (anatomie)"}
 {"T":"r","L":"Foxe","C":["n"],"p":"focs","en":"Foxe"}
-{"L":"Baia Foxe","C":["n","jeo"],"d":"un baia a sude de la Isola Baffin","i":"#","en":"Foxe Basin"}
-{"L":"Streta Foxe","C":["n","jeo"],"d":"un streta entre la Baia Foxe e la Baia Hudson","i":"#","en":"Foxe Channel"}
+{"L":"Baia Foxe","C":["n","jeo"],"d":"un baia a sude de la Isola Baffin","i":"#","en":"Foxe Basin","fr":"bassin de Foxe"}
+{"L":"Streta Foxe","C":["n","jeo"],"d":"un streta entre la Baia Foxe e la Baia Hudson","i":"#","en":"Foxe Channel","fr":"détroit de Foxe"}
 {"T":"r","L":"fractur","C":["n","arte"],"d":"un stilo deutx de leteras gotica","i":"#","en":"fraktur (lettering)"}
 {"T":"r","L":"frajil","C":["a"],"d":"fasil per rompe, dana o destrui; no forte o durante","da":"skrøbelig, sart","de":"zerbrechlich","en":"fragile, frail, brittle, delicate, sensitive, flimsy, frangible, labile, easily damaged","es":"frágil, delicado","fr":"fragile"}
 {"L":"frajilia","C":["n"],"en":"fragility"}
@@ -27333,7 +27333,7 @@
 {"T":"r","L":"transpone","C":["vt","mus","mat"],"d":"fa ce (du o plu cosas) intercambia sua locas; composa o jua (musica) en un otra tonalia; (en matematica) move (un terma), cambiante sua sinia, a la otra lado de un egali","en":"transpose","fr":"transposer"}
 {"L":"transpone","C":["n"],"en":"transposition","fr":"transposition"}
 {"T":"r","L":"transporta","C":["vt","vec"],"d":"(un veculo) porta (persones o benes) de un loca a un otra; (un person) es infetada con (un maladia) e ave la capasia de transmete lo a otras","en":"transport, convey; carry, harbor|ur (disease)","fr":"transporter"}
-{"L":"transporta","C":["n"],"en":"transport, transportation","fr":"transport"}
+{"L":"transporta","C":["n"],"en":"transport, transportation, transit","fr":"transport"}
 {"L":"transporta par avion","C":["v"],"en":"transport by air, airlift"}
 {"L":"transportador","C":["n"],"en":"conveyor, transporter"}
 {"L":"transportor","C":["n"],"en":"transporter, carrier, courier (person)","fr":"transporteur"}
