@@ -1351,14 +1351,14 @@
 {"T":"r","L":"antartica","C":["a","jeo"],"d":"pertinente a la continente sirca la polo sude, de cual la plu es a sude de la sirculo antartica e cuasi tota es covreda par glasias","en":"Antarctic","fr":"antarctique","he":"אנטרקטי"}
 {"L":"Antartica","C":["n","jeo"],"i":"#","en":"Antarctica, Antarctic","fr":"Antarctique","he":"יבשת אנטרקטיקה"}
 {"L":"Mar Antartica","C":["n","jeo"],"i":"#","en":"Antarctic Ocean, Southern Ocean","fr":"océan Antarctique","he":"האוקיינוס הדרומי"}
-{"T":"r","L":"ante","C":["prep"],"d":"a, o prosima a, la fronte de (alga cosa), o plu fronte ca lo","g":"preposadas#ante","n":"Multe cosas ave un lado evidente major con cual los fasa la mundo. En otra casos, `ante` indica simple la lado plu prosima a la parlor.","u":"mea peto es ante mea dorso; un can dormi ante la boteca; la casa sta ante un colina","da":"før, foran","de":"vor","en":"in front of, before (in space)","eo":"antaŭ","es":"antes de, delante de, enfrente de, ante","fr":"devant","he":"לפני, מלפנים, מול"}
+{"T":"r","L":"ante","C":["prep"],"d":"a, o prosima a, la fronte de (alga cosa), o plu fronte ca lo","g":"preposadas#ante","n":"Multe cosas ave un lado evidente major con cual los fasa la mundo. En otra casos, `ante` indica simple la lado plu prosima a la parlor.","u":"mea peto es ante mea dorso; un can dormi ante la boteca; la casa sta ante un colina","da":"før, foran","de":"vor","en":"in front of, before (in space)","eo":"antaŭ","es":"delante de","fr":"devant","he":"לפני, מלפנים, מול"}
 {"T":"s","d":"movente per ateni la fronte de (alga cosa)","n":"Per espresa esta en modo plu clar, on pote dise `a ante`.","u":"me veni ante tu per demanda per tua pardona","en":"(moving) to the front of, in front of","eo":"antaŭ -n","fr":"au devant de (avec mouvement)","he":"ללפני, בפני"}
-{"T":"s","d":"en la tempo presedente (alga cosa)","n":"Per introdui un proposa suordinada, usa `ante cuando` en loca. La averbo con la sinifia `a un tempo plu temprana` es `a ante`.","u":"janero veni ante febrero; me espera fini la labora ante la reposa de sol","v":"cuando","da":"før, forinden, tidligere end","de":"vor","en":"before (in time), earlier than, prior to, ahead of","eo":"antaŭ","es":"antes","fr":"avant","he":"לפני, בטרם, קודם"}
+{"T":"s","d":"en la tempo presedente (alga cosa)","n":"Per introdui un proposa suordinada, usa `ante cuando` en loca. La averbo con la sinifia `a un tempo plu temprana` es `a ante`.","u":"janero veni ante febrero; me espera fini la labora ante la reposa de sol","v":"cuando","da":"før, forinden, tidligere end","de":"vor","en":"before (in time), earlier than, prior to, ahead of","eo":"antaŭ","es":"antes de","fr":"avant","he":"לפני, בטרם, קודם"}
 {"L":"ante-","C":["pf","tecn"],"d":"ante, a ante, a fronte","en":"ante-","fr":"anté-","he":"(קידומת טכנית) לפני, קדימה"}
 {"L":"ante fini de","C":["prep"],"u":"el va fini la labora ante fini de lundi","en":"by (at the latest), no later than","fr":"au plus tard à, au plus tard le","he":"-עד, לא מאוחר מ-, לכל המאוחר ב"}
 {"L":"ante tota","C":["av"],"en":"above all","eo":"antaŭ ĉio","fr":"avant tout","he":"מעל הכל, יותר מכל"}
 {"L":"a ante","C":["prep"],"d":"indicante ce un move ateni, o vole ateni, la fronte de la cosa spesifada o un tempo cual presede la tempo spesifada","u":"el ia lansa la bal a ante la arbores; par macina de tempo, el ia viaja a ante sua nase","en":"(moving) to the front of, in front of","eo":"antaŭ -n","fr":"vers l'avant de (avec mouvement)","he":"ללפני, בפני"}
-{"L":"a ante","C":["av"],"d":"a la fronte (de un cosa sujestada par la contesto); movente en dirije a la fronte; movente en la dirije cual on fasa; a un tempo presedente","da":"fremad","de":"vorwarts","en":"(located) in front, ahead; (moving) forward, forwards, forth; (occurring) before, beforehand, formerly, previously, earlier, ago","eo":"antaŭe; antaŭen","es":"adelante, hacia adelante, delante, por delante","fr":"en avant, au-devant (avec mouvement)","gl":"diante, cara a adiante, diante, por diante","he":"מקדימה, בחזית, בראש; קדימה, הלאה, לפנים; מקודם, קודם לכן, לפני כן, בעבר"}
+{"L":"a ante","C":["av"],"d":"a la fronte (de un cosa sujestada par la contesto); movente en dirije a la fronte; movente en la dirije cual on fasa; a un tempo presedente","da":"fremad","de":"vorwarts","en":"(located) in front, ahead; (moving) forward, forwards, forth; (occurring) before, beforehand, formerly, previously, earlier, ago","eo":"antaŭe; antaŭen","es":"delante, antes; adelante, por delante","fr":"en avant, au-devant (avec mouvement)","gl":"diante, cara a adiante, diante, por diante","he":"מקדימה, בחזית, בראש; קדימה, הלאה, לפנים; מקודם, קודם לכן, לפני כן, בעבר"}
 {"L":"a ante","C":["esc"],"en":"onward, onwards, on we go","fr":"en avant","he":"!קדימה!, הלאה"}
 {"L":"a du dias a ante","C":["av"],"en":"two days before, two days earlier","fr":"deux jours avant, deux jours auparavant","he":"לפני יומיים"}
 {"L":"a du dias ante aora","C":["av"],"en":"two days ago","fr":"il y a deux jours","he":"לפני יומיים"}
@@ -7248,12 +7248,12 @@
 {"T":"r","L":"cuando","C":["av"],"d":"(demandante o introduinte un suproposa ajetivin) a cual tempo","u":"cuando nos va parti?; me no sabe cuando me va reveni; febrero, cuando la aira es fria","da":"hvornår","de":"als, wenn","en":"(interrogative) when; (relative) at which time","es":"cuándo","fr":"quand, à quel moment ... ?","he":"מתי; כש-"}
 {"L":"cuando","C":["sj"],"d":"(introduinte un suproposa averbin) a la tempo a cual, o (pos un preposada) la tempo a cual","u":"nos va parti cuando la sol reposa; me ia come ante cuando vos ia ariva","en":"when","es":"cuando","fr":"quand, lorsque, alors que, au moment où","he":"בזמן ש, כש-"}
 {"L":"a cuando","C":["sj"],"d":"a la momento cuando (alga cosa aveni)","en":"as (at the moment when)","fr":"au moment où, à l'instant où, alors que, tandis que","he":"בזמן ש, ברגע ש","ru":"когда, в тот момент когда"}
-{"L":"ante cuando","C":["sj"],"de":"bevor","en":"before (the time when)","eo":"antaŭ ol","fr":"avant que","he":"לפני ש"}
+{"L":"ante cuando","C":["sj"],"de":"bevor","en":"before (the time when)","eo":"antaŭ ol","es":"antes de que","fr":"avant que","he":"לפני ש"}
 {"L":"asta cuando","C":["sj"],"en":"until, till (the time when)","es":"hasta que","fr":"jusqu'à ce que","he":"עד ש"}
 {"L":"de cuando","C":["sj"],"en":"since the time when, ever since","fr":"depuis que","he":"מאז ש","ru":"с той поры как, с тех пор как, как только"}
 {"L":"en cuando","C":["sj"],"d":"en un parte de, o tota de, la tempo cuando (alga cosa aveni)","da":"mens, medens","de":"während","en":"while, whilst, as, during the time when","es":"mientras, mientras que","fr":"pendant que, alors que, tandis que","he":"בזמן ש, בעוד ש"}
 {"L":"estra cuando","C":["sj"],"en":"except when, unless","fr":"sauf quand","he":"חוץ מ (הזמן ש)"}
-{"L":"pos cuando","C":["sj"],"ca":"després que","de":"nachdem","en":"after (the time when)","eo":"post kiam","es":"después que","fr":"après que, depuis que","he":"לאחר, אחרי ש","ja":"後に","pt":"pois que, depois","ru":"после"}
+{"L":"pos cuando","C":["sj"],"ca":"després que","de":"nachdem","en":"after (the time when)","eo":"post kiam","es":"después de que, después que","fr":"après que, depuis que","he":"לאחר, אחרי ש","ja":"後に","pt":"pois que, depois","ru":"после"}
 {"L":"sempre cuando","C":["sj"],"en":"whenever","fr":"à chaque fois que, toutes les fois que","he":"בכל פעם ש, בכל שעה ש, כל אימת ש"}
 {"T":"r","L":"cuantia","C":["n"],"d":"un mesura de cuanto, usada egal per cosas individua contable o noncontable, tipal espresada con numeros","da":"kvantitet","de":"Menge, Quantität","en":"quantity, amount, magnitude; number (quantity, not position in sequence)","es":"cantidad, magnitud, suma, valor","fr":"quantité, nombre","he":"כמות, מידה, שיעור"}
 {"L":"cuantia de abitores","C":["n"],"en":"population (figure)","fr":"population, démographie","he":"שיעור האוכלוסייה"}
@@ -9377,39 +9377,39 @@
 {"L":"emporta","C":["n"],"en":"importation","fr":"import, importation","he":"יבוא"}
 {"L":"emporta nonlegal","C":["v"],"en":"import illegally, bootleg","fr":"faire de la contrebande","he":"הברחה"}
 {"L":"emportor","C":["n"],"en":"importer","fr":"importer (commerce)","he":"יבואן"}
-{"T":"r","L":"emprende","C":["vt","mone","gov"],"d":"dedica se a (un taxe o encarga) e comensa lo","en":"undertake, take on, take over","fr":"entreprendre"}
-{"L":"emprende","C":["n"],"en":"undertaking, venture, enterprise (project)","fr":"entreprise"}
-{"L":"emprendor","C":["n"],"en":"entrepreneur","fr":"entrepreneur"}
-{"T":"r","L":"empresta","C":["vt","mone"],"d":"prende e usa (un cosa cual parteni a un otra person) con intende de redona lo a pos; prende e usa (mone) de un person o banco, con acorda ce on va repaia lo","da":"låne (fra)","de":"borgen","en":"borrow","es":"pedir prestado, tomar prestado, solicitar en prestamo","fr":"faire un emprunt à, emprunter (de)"}
-{"L":"emprestor","C":["n"],"en":"borrower","fr":"emprunteur"}
-{"T":"r","L":"emu","C":["n","avia"],"d":"un avia grande de Australia, capas de core rapida ma no de vola, simil a un astruzo","i":"#","t":"Dromaius novaehollandiae","en":"emu (bird)","fr":"émeu"}
-{"T":"r","L":"emulsion","C":["n","cim"],"d":"un sperde de gotas pico de un licuida en un otra en cual lo no es disolvable o miscable","en":"emulsion","fr":"émulsion"}
-{"L":"emulsioni","C":["vnt"],"en":"emulsify","fr":"s'émulsifier, s'émulsionner"}
-{"L":"emulsioni","C":["vt"],"en":"emulsify","fr":"émulsionner, émulsifier"}
-{"T":"r","L":"en","C":["prep"],"d":"a interna de; esente (o parente es) encluida o ensircada par","g":"preposadas#en","u":"mea cor es en mea peto; ideas en la mente; nos es en peril; nos es en acorda; vive en felisia; los senta en un sirculo","da":"ind, inde, inden for","de":"in","en":"in (a place or condition), inside, within","eo":"en","es":"en, dentro de","fr":"dans, à l'intérieur de, en"}
-{"T":"s","d":"entrante a","u":"el ia cade en la rio","en":"(moving) into","eo":"en -n","fr":"à, en (mouvement)"}
-{"T":"s","d":"pos la comensa e ante la fini de (un aveni o situa)","u":"en la note; en febrero; en 1770; el ia scrive la libro en sola tre semanas; el ia spende du anios en scrive la prefas","v":"cuando","da":"mens, medens, under","de":"in, während","en":"in, during (a period of time)","eo":"dum","es":"en, durante","fr":"en, dans, pendant (durée)"}
-{"T":"s","d":"espresada o fada par usa (un lingua, media o modo)","u":"un jornal en franses; parla en modo aidosa","en":"in (a language, medium or manner)","eo":"en, per","fr":"en"}
-{"L":"a en","C":["prep"],"en":"into","fr":"à, en (direction, mouvement)"}
-{"L":"a en","C":["av"],"en":"within, inside, herein","fr":"dedans, à l'intérieur"}
-{"L":"de en","C":["prep"],"en":"from within, coming out of","fr":"de, d'en (provenance)"}
-{"L":"de en","C":["av"],"en":"from within","fr":"de l'intérieur, de dedans"}
-{"T":"r","L":"en","C":["n","mone"],"d":"la unia de mone en Nion","en":"yen (currency)","eo":"eno","fr":"yen (monnaie)"}
-{"T":"r","L":"en-","C":["pf","tecn"],"d":"en, a en","en":"en-, in-","fr":"en-, in-, em-, im-"}
-{"T":"r","L":"-en","C":["sf","n","cim"],"d":"idrocarbono nonsaturada","en":"-ene (chemistry)","fr":"-ène (chimie)"}
-{"T":"r","L":"enaira","C":["vnt","vec"],"d":"comensa vola","en":"take off, lift off, blast off","fr":"s'envoler"}
-{"L":"enaira","C":["n"],"en":"take-off, lift-off, blast-off","fr":"envol"}
-{"T":"r","L":"enama","C":["vt","uma"],"d":"(un person) fa ce (algun) comensa ama el","en":"enamor|ur, infatuate, win the love of, cause to fall in love","fr":"rendre amoureux, charmer, séduire, faire tourner la tête, plaire à"}
-{"L":"enama","C":["n"],"en":"infatuation","fr":"séduction"}
-{"L":"desenama","C":["vt"],"en":"disenamor|ur, cause to fall out of love","fr":"cesser de séduire, cesser de se faire aimer, ne plus se faire aimer, déplaire à"}
-{"L":"desenamada","C":["a"],"en":"disenamored|ur","fr":"qui n'aime plus"}
-{"L":"deveni desenamada par","C":["v"],"en":"fall out of love with","fr":"commencer à ne plus aimer"}
-{"L":"deveni enamada par","C":["v"],"en":"fall in love with","fr":"tomber amoureux de"}
-{"L":"enamada","C":["a"],"en":"enamored|ur, infatuated, in love, moonstruck, smitten","fr":"énamouré, amoureux, entiché, épris"}
-{"L":"es desenamada par","C":["v"],"en":"be disenamored|ur with","fr":"ne plus être amoureux de"}
-{"L":"es enamada par","C":["v"],"en":"be enamored|ur with, be infatuated with, be in love with, have a crush on","fr":"être amoureux de"}
-{"T":"r","L":"encalia","C":["vnt","vec"],"d":"(un barco, viajor o animal) deveni trapida a un plaia sin modo de sorti","en":"wash up, run aground, become beached, become stranded, become marooned","fr":"s'échouer (bateau)"}
-{"L":"encalia","C":["vt"],"en":"beach, strand, maroon","fr":"échouement (bateau)"}
+{"T":"r","L":"emprende","C":["vt","mone","gov"],"d":"dedica se a (un taxe o encarga) e comensa lo","en":"undertake, take on, take over","fr":"entreprendre","he":"ליזום"}
+{"L":"emprende","C":["n"],"en":"undertaking, venture, enterprise (project)","fr":"entreprise","he":"יוזמה"}
+{"L":"emprendor","C":["n"],"en":"entrepreneur","fr":"entrepreneur","he":"יזם"}
+{"T":"r","L":"empresta","C":["vt","mone"],"d":"prende e usa (un cosa cual parteni a un otra person) con intende de redona lo a pos; prende e usa (mone) de un person o banco, con acorda ce on va repaia lo","da":"låne (fra)","de":"borgen","en":"borrow","es":"pedir prestado, tomar prestado, solicitar en prestamo","fr":"faire un emprunt à, emprunter (de)","he":"לשאול (לקחת בהשאלה); ללוות"}
+{"L":"emprestor","C":["n"],"en":"borrower","fr":"emprunteur","he":"שואל (לוקח בהשאלה); לווה"}
+{"T":"r","L":"emu","C":["n","avia"],"d":"un avia grande de Australia, capas de core rapida ma no de vola, simil a un astruzo","i":"#","t":"Dromaius novaehollandiae","en":"emu (bird)","fr":"émeu","he":"אמו (ציפור)"}
+{"T":"r","L":"emulsion","C":["n","cim"],"d":"un sperde de gotas pico de un licuida en un otra en cual lo no es disolvable o miscable","en":"emulsion","fr":"émulsion","he":"תחליב, אמולסיה"}
+{"L":"emulsioni","C":["vnt"],"en":"emulsify","fr":"s'émulsifier, s'émulsionner","he":"להפוך לתחליב"}
+{"L":"emulsioni","C":["vt"],"en":"emulsify","fr":"émulsionner, émulsifier","he":"ליצור תחליב"}
+{"T":"r","L":"en","C":["prep"],"d":"a interna de; esente (o parente es) encluida o ensircada par","g":"preposadas#en","u":"mea cor es en mea peto; ideas en la mente; nos es en peril; nos es en acorda; vive en felisia; los senta en un sirculo","da":"ind, inde, inden for","de":"in","en":"in (a place or condition), inside, within","eo":"en","es":"en, dentro de","fr":"dans, à l'intérieur de, en","he":"ב-, בתוך"}
+{"T":"s","d":"entrante a","u":"el ia cade en la rio","en":"(moving) into","eo":"en -n","fr":"à, en (mouvement)","he":"לתוך, אל תוך"}
+{"T":"s","d":"pos la comensa e ante la fini de (un aveni o situa)","u":"en la note; en febrero; en 1770; el ia scrive la libro en sola tre semanas; el ia spende du anios en scrive la prefas","v":"cuando","da":"mens, medens, under","de":"in, während","en":"in, during (a period of time)","eo":"dum","es":"en, durante","fr":"en, dans, pendant (durée)","he":"במשך, במהלך"}
+{"T":"s","d":"espresada o fada par usa (un lingua, media o modo)","u":"un jornal en franses; parla en modo aidosa","en":"in (a language, medium or manner)","eo":"en, per","fr":"en","he":"ב-"}
+{"L":"a en","C":["prep"],"en":"into","fr":"à, en (direction, mouvement)","he":"לתוך, אל תוך"}
+{"L":"a en","C":["av"],"en":"within, inside, herein","fr":"dedans, à l'intérieur","he":"בפנים, פנימה"}
+{"L":"de en","C":["prep"],"en":"from within, coming out of","fr":"de, d'en (provenance)","he":"מתוך"}
+{"L":"de en","C":["av"],"en":"from within","fr":"de l'intérieur, de dedans","he":"מבפנים"}
+{"T":"r","L":"en","C":["n","mone"],"d":"la unia de mone en Nion","en":"yen (currency)","eo":"eno","fr":"yen (monnaie)","he":"ין (מטבע)"}
+{"T":"r","L":"en-","C":["pf","tecn"],"d":"en, a en","en":"en-, in-","fr":"en-, in-, em-, im-","he":"(קידומת טכנית) בתוך, לתוך"}
+{"T":"r","L":"-en","C":["sf","n","cim"],"d":"idrocarbono nonsaturada","en":"-ene (chemistry)","fr":"-ène (chimie)","he":"(סיומת טכנית) פחמימן בלתי רווי"}
+{"T":"r","L":"enaira","C":["vnt","vec"],"d":"comensa vola","en":"take off, lift off, blast off","fr":"s'envoler","he":"להמריא"}
+{"L":"enaira","C":["n"],"en":"take-off, lift-off, blast-off","fr":"envol","he":"המראה"}
+{"T":"r","L":"enama","C":["vt","uma"],"d":"(un person) fa ce (algun) comensa ama el","en":"enamor|ur, infatuate, win the love of, cause to fall in love","fr":"rendre amoureux, charmer, séduire, faire tourner la tête, plaire à","he":"לגרום להתאהבות"}
+{"L":"enama","C":["n"],"en":"infatuation","fr":"séduction","he":"התאהבות"}
+{"L":"desenama","C":["vt"],"en":"disenamor|ur, cause to fall out of love","fr":"cesser de séduire, cesser de se faire aimer, ne plus se faire aimer, déplaire à","he":"לגרום לסיום האהבה"}
+{"L":"desenamada","C":["a"],"en":"disenamored|ur","fr":"qui n'aime plus","he":"כבר לא מאוהב"}
+{"L":"deveni desenamada par","C":["v"],"en":"fall out of love with","fr":"commencer à ne plus aimer","he":"להפסיק לאהוב את"}
+{"L":"deveni enamada par","C":["v"],"en":"fall in love with","fr":"tomber amoureux de","he":"להתאהב ב"}
+{"L":"enamada","C":["a"],"en":"enamored|ur, infatuated, in love, moonstruck, smitten","fr":"énamouré, amoureux, entiché, épris","he":"מאוהב"}
+{"L":"es desenamada par","C":["v"],"en":"be disenamored|ur with","fr":"ne plus être amoureux de","he":"להיות כבר לא מאוהב ב"}
+{"L":"es enamada par","C":["v"],"en":"be enamored|ur with, be infatuated with, be in love with, have a crush on","fr":"être amoureux de","he":"להיות מאוהב ב"}
+{"T":"r","L":"encalia","C":["vnt","vec"],"d":"(un barco, viajor o animal) deveni trapida a un plaia sin modo de sorti","en":"wash up, run aground, become beached, become stranded, become marooned","fr":"s'échouer (bateau)","he":"להישטף לחוף"}
+{"L":"encalia","C":["vt"],"en":"beach, strand, maroon","fr":"échouement (bateau)","he":"לנטוש בחוף"}
 {"T":"r","L":"encanta","C":["vt","mit"],"d":"deleta forte (algun); influe o controla (algun) par deleta el","en":"enchant, bewitch, beguile, cast a spell, captivate, charm, enrapture, ravish, jinx, transfix","fr":"ensorceler, captiver, enchanter, charmer, séduire, lancer un sort, ravir"}
 {"L":"encanta","C":["n"],"en":"spell, incantation, enchantment, charm, jinx, juju","fr":"charme, enchantement, sort, séduction, ravissement"}
 {"L":"desencanta","C":["vt"],"en":"disenchant","fr":"casser le charme, cesser de séduire, cesser d'enchanter, désenchanter"}
@@ -11914,149 +11914,149 @@
 {"L":"futuriste","C":["n"],"en":"futurist","es":"futurista","fr":"futuriste"}
 {"T":"r","L":"futurolojia","C":["n","uma"],"d":"la predise sistemosa de la futur, tipal par estrapola tendes presente","en":"futurology","fr":"futurologie"}
 {"L":"futurolojiste","C":["n"],"en":"futurologist","fr":"futurologue"}
-{"T":"r","L":"g","C":["sim"],"d":"la letera sete de la alfabeta roman; la nota sinco de la scala diatonica de C major","p":"ge","en":"g"}
-{"T":"r","L":"gaba","C":["n","bio","cim"],"d":"la neurotransmetador xef en la sistem de nervos de mamales (un corti de `asida gama-aminobutirica`)","en":"GABA (biology)","es":"GABA (biología)"}
-{"T":"r","L":"gabardina","C":["n","vest"],"d":"un sarja lisa e durante, tipal de lana o coton; un jacon de esta stofa","en":"gabardine (fabric)","es":"gabardina"}
-{"T":"r","L":"Gabon","C":["n","jeo"],"c":"Libreville","d":"un pais en Africa ueste, a la costa de la Mar Atlantica","i":"#","en":"Gabon","es":"Gabón"}
-{"L":"gabones","C":["a"],"en":"Gabonese","es":"gabonés"}
-{"L":"gabones","C":["n","dem"],"en":"Gabonese","es":"gabonés"}
-{"T":"r","L":"gado","C":["n","pex"],"d":"un pex grande de mar con vibrisa peti sur sua mento","i":"#","t":"Gadidae","en":"cod (fish)","es":"bacalao"}
-{"T":"r","L":"gadolinio","C":["n","cim"],"d":"la elemento cimical con numero atomal 64","s":"Gd","en":"gadolinium (element)","es":"gadolinio (elemento)"}
-{"T":"r","L":"gadures","C":["a","dem"],"d":"pertinente a un lingua romanica de Sardinia norde-este, prosima relatada a corsu, o a la popla ci parla lo","en":"Gallurese (person, language)","es":"gallurés (persona, lengua)"}
-{"L":"gadures","C":["n"],"en":"Gallurese (person, language)","es":"gallurés (persona, lengua)"}
-{"T":"r","L":"gailica","C":["a","ling"],"d":"pertinente a un lingua celta de Scotland, o a la popla ci parla lo","en":"Scottish Gaelic, Scots Gaelic","es":"gaélico escocés"}
-{"L":"gailica","C":["n"],"en":"Scottish Gaelic, Scots Gaelic","es":"gaélico escocés"}
+{"T":"r","L":"g","C":["sim"],"d":"la letera sete de la alfabeta roman; la nota sinco de la scala diatonica de C major","p":"ge","en":"g","fr":"g (lettre de l'alphabet); sol (note de la gamme)"}
+{"T":"r","L":"gaba","C":["n","bio","cim"],"d":"la neurotransmetador xef en la sistem de nervos de mamales (un corti de `asida gama-aminobutirica`)","en":"GABA (biology)","es":"GABA (biología)","fr":"acide γ-aminobutyrique, GABA (biologie)"}
+{"T":"r","L":"gabardina","C":["n","vest"],"d":"un sarja lisa e durante, tipal de lana o coton; un jacon de esta stofa","en":"gabardine (fabric)","es":"gabardina","fr":"gabardine (tissu)"}
+{"T":"r","L":"Gabon","C":["n","jeo"],"c":"Libreville","d":"un pais en Africa ueste, a la costa de la Mar Atlantica","i":"#","en":"Gabon","es":"Gabón","fr":"Gabon"}
+{"L":"gabones","C":["a"],"en":"Gabonese","es":"gabonés","fr":"gabonais"}
+{"L":"gabones","C":["n","dem"],"en":"Gabonese","es":"gabonés","fr":"Gabonais (personne)"}
+{"T":"r","L":"gado","C":["n","pex"],"d":"un pex grande de mar con vibrisa peti sur sua mento","i":"#","t":"Gadidae","en":"cod (fish)","es":"bacalao","fr":"morue (poisson)"}
+{"T":"r","L":"gadolinio","C":["n","cim"],"d":"la elemento cimical con numero atomal 64","s":"Gd","en":"gadolinium (element)","es":"gadolinio (elemento)","fr":"gadolinium (élément)"}
+{"T":"r","L":"gadures","C":["a","dem"],"d":"pertinente a un lingua romanica de Sardinia norde-este, prosima relatada a corsu, o a la popla ci parla lo","en":"Gallurese (person, language)","es":"gallurés (persona, lengua)","fr":"gallurais"}
+{"L":"gadures","C":["n"],"en":"Gallurese (person, language)","es":"gallurés (persona, lengua)","fr":"Gallurais (personne); gallurais (langue)"}
+{"T":"r","L":"gailica","C":["a","ling"],"d":"pertinente a un lingua celta de Scotland, o a la popla ci parla lo","en":"Scottish Gaelic, Scots Gaelic","es":"gaélico escocés","fr":"gaélique écossais"}
+{"L":"gailica","C":["n"],"en":"Scottish Gaelic, Scots Gaelic","es":"gaélico escocés","fr":"gaélique écossais"}
 {"T":"r","L":"gaina","C":["n","util"],"d":"un covrente per la lama de un cotel, spada o cosa simil; un strutur de texeda en un organisme cual abrasa streta un otra","i":"#","da":"skede, hylster","de":"Scheide","en":"sheath; casing (of cable, sausage); spathe (anatomy)","es":"vaina, espata","fr":"gaine"}
-{"L":"gaina de cordeta","C":["n"],"en":"aglet","es":"herrete"}
-{"L":"gaini","C":["vt"],"en":"sheathe","es":"envainar"}
+{"L":"gaina de cordeta","C":["n"],"en":"aglet","es":"herrete","fr":"aglet"}
+{"L":"gaini","C":["vt"],"en":"sheathe","es":"envainar","fr":"gainer"}
 {"T":"r","L":"gal","C":["n","avia"],"d":"un avia domada elevada per sua ovos o carne","i":"#","t":"Gallus gallus","da":"kylling","de":"Huhn","en":"chicken","es":"pollo","fr":"poulet; poule; coq"}
-{"L":"gal de venta","C":["n"],"i":"#","en":"weathercock","es":"veleta"}
-{"L":"gal de xasor","C":["n"],"en":"cacciatore (food)"}
-{"L":"gal fema","C":["n"],"en":"hen","es":"gallina"}
-{"L":"gal fema joven","C":["n"],"en":"pullet","es":"polla"}
-{"L":"gal mas","C":["n"],"en":"cock, cockerel, rooster","es":"gallo"}
-{"L":"galeta","C":["n"],"i":"#","en":"chick, chicken","es":"pollo"}
-{"L":"galin","C":["a"],"en":"chickenlike"}
-{"T":"r","L":"gala","C":["n","spo","arte"],"d":"un diverti publica; un esibi de obras spesial","en":"show (entertainment)","es":"gala, espectáculo","fr":"spectacle"}
-{"T":"r","L":"galago","C":["n","mam"],"d":"un primate peti e noturna de Africa con oios multe grande","i":"#","t":"Galagidae","en":"galago, bushbaby, nagapie (primate)","es":"galágido, gálago"}
-{"T":"r","L":"galalito","C":["n","cim"],"d":"un plastica sinteseda de casena e formaldehido","en":"galalith, erinoid"}
-{"T":"r","L":"Galapagos, Isolas","C":["n","pl","jeo"],"d":"un arcipelago de isolas a la ecuator en la Mar Pasifica a ueste de Ecuador, a cual los parteni","i":"Isolas-Galapagos","en":"Galápagos Islands","es":"Islas Galápagos"}
-{"T":"r","L":"galasia","C":["n","ast"],"d":"un sistem de miliones o biliones de stelas, con gas e polvo, tenida par gravita","i":"#","en":"galaxy","es":"galaxia"}
-{"L":"galasial","C":["a"],"en":"galactic","es":"galáctico"}
-{"L":"intergalasial","C":["a"],"en":"intergalactic","es":"intergaláctico"}
-{"T":"r","L":"galatosa","C":["n","cim"],"d":"un zucar cual es un composante de latosa e multe polisacaridos","en":"galactose (sugar)","es":"galactosa"}
-{"T":"r","L":"galea","C":["n","vec","ist"],"d":"un barco antica, basa e plata con un o plu velas e un, du o tre linias de remos, usada per gera, comersia e piratia","i":"#","en":"galley (ship)","es":"galera (barco)"}
-{"L":"galeon","C":["n"],"en":"galleon (ship)","es":"galeón (barco)"}
-{"T":"r","L":"galeria","C":["n","arci"],"d":"un sala o construida per esibi o vende obras de arte; un sala o pasaje longa, partal abrida a un lado","i":"#","en":"gallery, showroom (art); cloister (architecture)","es":"galería, sala de exposición, sala de exposiciones (arte); soportal (arquitectura)"}
-{"L":"galerieta","C":["n"],"en":"portfolio (of work)","es":"portfolio"}
-{"T":"r","L":"galia","C":["n","pla"],"d":"un planta erbosa con flores peti, jala o blanca, e spirales de folias magra, istorial usada per pleni materases","i":"#","t":"Galium","en":"bedstraw, galium (plant)"}
-{"T":"r","L":"Galia","C":["n","jeo"],"d":"un area en Europa antica, corespondente a la loca moderna de Frans, Beljia, Nederland sude, Deutxland sude-ueste, e Italia norde","i":"#","en":"Gaul (ancient region)"}
-{"L":"galo","C":["a"],"en":"Gaulish, Gallic; Gaul"}
-{"L":"galo","C":["n"],"en":"Gaulish; Gaul"}
-{"T":"r","L":"galinago","C":["n","avia"],"d":"un avia vadante de pantanes e prados umida, con plumas brun, un beco longa e reta, e tipal un vola de cortea cual inclui un sona palpitante","i":"#","t":"Coenocorypha, Gallinago, Lymnocryptes","en":"snipe (bird)"}
-{"T":"r","L":"galio","C":["n","cim"],"d":"la elemento cimical con numero atomal 31","s":"Ga","en":"gallium (element)","es":"galio"}
-{"T":"r","L":"Galisia","C":["n","jeo"],"d":"un parte autonom de la norde-ueste de Espania; un rena antica en esta loca","i":"#","en":"Galicia (Spanish region)","es":"Galicia (región española)"}
-{"L":"galego","C":["a"],"en":"Galician","es":"gallego"}
-{"L":"galego","C":["n","dem"],"en":"Galician","es":"gallego"}
-{"T":"r","L":"galon","C":["n","mat"],"d":"un unia tradisional de volum per licuidas, egal a sirca cuatro litres","en":"gallon"}
-{"T":"r","L":"galopa","C":["vnt","bio"],"d":"la rapidia la plu alta de un cavalo o otra cuatropede, con tota pedes enairante a cada paso","en":"gallop","es":"galopar"}
-{"L":"galopa","C":["n"],"en":"gallop","es":"galope"}
-{"L":"duigalopa","C":["vnt"],"en":"canter","es":"ir a galope sostenido, ir a medio galope"}
-{"L":"duigalopa","C":["n"],"en":"canter","es":"galope sostenido, medio galope"}
-{"T":"r","L":"galvanica","C":["a"],"d":"pertinente a corentes eletrical produida par ativia cimical","en":"galvanic","es":"galvánico"}
+{"L":"gal de venta","C":["n"],"i":"#","en":"weathercock","es":"veleta","fr":"girouette"}
+{"L":"gal de xasor","C":["n"],"en":"cacciatore (food)","fr":"poulet chasseur, poulet à la cacciatore (cuisine)","it":"pollo alla cacciatora"}
+{"L":"gal fema","C":["n"],"en":"hen","es":"gallina","fr":"poule"}
+{"L":"gal fema joven","C":["n"],"en":"pullet","es":"polla","fr":"poulette"}
+{"L":"gal mas","C":["n"],"en":"cock, cockerel, rooster","es":"gallo","fr":"coq"}
+{"L":"galeta","C":["n"],"i":"#","en":"chick, chicken","es":"pollo","fr":"poulet"}
+{"L":"galin","C":["a"],"en":"chickenlike","fr":"semblable à un poulet"}
+{"T":"r","L":"gala","C":["n","spo","arte"],"d":"un diverti publica; un esibi de obras spesial","en":"show (entertainment)","es":"gala, espectáculo","fr":"spectacle; gala"}
+{"T":"r","L":"galago","C":["n","mam"],"d":"un primate peti e noturna de Africa con oios multe grande","i":"#","t":"Galagidae","en":"galago, bushbaby, nagapie (primate)","es":"galágido, gálago","fr":"galago (primate)"}
+{"T":"r","L":"galalito","C":["n","cim"],"d":"un plastica sinteseda de casena e formaldehido","en":"galalith, erinoid","fr":"galalithe"}
+{"T":"r","L":"Galapagos, Isolas","C":["n","pl","jeo"],"d":"un arcipelago de isolas a la ecuator en la Mar Pasifica a ueste de Ecuador, a cual los parteni","i":"Isolas-Galapagos","en":"Galápagos Islands","es":"Islas Galápagos","fr":"îles Galapagos"}
+{"T":"r","L":"galasia","C":["n","ast"],"d":"un sistem de miliones o biliones de stelas, con gas e polvo, tenida par gravita","i":"#","en":"galaxy","es":"galaxia","fr":"galaxie"}
+{"L":"galasial","C":["a"],"en":"galactic","es":"galáctico","fr":"galactique"}
+{"L":"intergalasial","C":["a"],"en":"intergalactic","es":"intergaláctico","fr":"intergalactique"}
+{"T":"r","L":"galatosa","C":["n","cim"],"d":"un zucar cual es un composante de latosa e multe polisacaridos","en":"galactose (sugar)","es":"galactosa","fr":"galactose"}
+{"T":"r","L":"galea","C":["n","vec","ist"],"d":"un barco antica, basa e plata con un o plu velas e un, du o tre linias de remos, usada per gera, comersia e piratia","i":"#","en":"galley (ship)","es":"galera (barco)","fr":"galère"}
+{"L":"galeon","C":["n"],"en":"galleon (ship)","es":"galeón (barco)","fr":"galion"}
+{"T":"r","L":"galeria","C":["n","arci"],"d":"un sala o construida per esibi o vende obras de arte; un sala o pasaje longa, partal abrida a un lado","i":"#","en":"gallery, showroom (art); cloister (architecture)","es":"galería, sala de exposición, sala de exposiciones (arte); soportal (arquitectura)","fr":"galerie"}
+{"L":"galerieta","C":["n"],"en":"portfolio (of work)","es":"portfolio","fr":"portefeuille"}
+{"T":"r","L":"galia","C":["n","pla"],"d":"un planta erbosa con flores peti, jala o blanca, e spirales de folias magra, istorial usada per pleni materases","i":"#","t":"Galium","en":"bedstraw, galium (plant)","fr":"gaillet (plante)"}
+{"T":"r","L":"Galia","C":["n","jeo"],"d":"un area en Europa antica, corespondente a la loca moderna de Frans, Beljia, Nederland sude, Deutxland sude-ueste, e Italia norde","i":"#","en":"Gaul (ancient region)","fr":"Gaule"}
+{"L":"galo","C":["a"],"en":"Gaulish, Gallic; Gaul","fr":"gaulois"}
+{"L":"galo","C":["n"],"en":"Gaulish; Gaul","fr":"Gaulois (personne); gaulois (langue)"}
+{"T":"r","L":"galinago","C":["n","avia"],"d":"un avia vadante de pantanes e prados umida, con plumas brun, un beco longa e reta, e tipal un vola de cortea cual inclui un sona palpitante","i":"#","t":"Coenocorypha, Gallinago, Lymnocryptes","en":"snipe (bird)","fr":"bécassine"}
+{"T":"r","L":"galio","C":["n","cim"],"d":"la elemento cimical con numero atomal 31","s":"Ga","en":"gallium (element)","es":"galio","fr":"gallium (élément)"}
+{"T":"r","L":"Galisia","C":["n","jeo"],"d":"un parte autonom de la norde-ueste de Espania; un rena antica en esta loca","i":"#","en":"Galicia (Spanish region)","es":"Galicia (región española)","fr":"Galicie (région espagnole)"}
+{"L":"galego","C":["a"],"en":"Galician","es":"gallego","fr":"galicien"}
+{"L":"galego","C":["n","dem"],"en":"Galician","es":"gallego","fr":"Galicien (personne); galicien (langue)"}
+{"T":"r","L":"galon","C":["n","mat"],"d":"un unia tradisional de volum per licuidas, egal a sirca cuatro litres","en":"gallon","fr":"gallon (unité de capacité britanique)"}
+{"T":"r","L":"galopa","C":["vnt","bio"],"d":"la rapidia la plu alta de un cavalo o otra cuatropede, con tota pedes enairante a cada paso","en":"gallop","es":"galopar","fr":"galoper"}
+{"L":"galopa","C":["n"],"en":"gallop","es":"galope","fr":"galop"}
+{"L":"duigalopa","C":["vnt"],"en":"canter","es":"ir a galope sostenido, ir a medio galope","fr":"aller au petit galop"}
+{"L":"duigalopa","C":["n"],"en":"canter","es":"galope sostenido, medio galope","fr":"petit galop"}
+{"T":"r","L":"galvanica","C":["a"],"d":"pertinente a corentes eletrical produida par ativia cimical","en":"galvanic","es":"galvánico","fr":"galvanique"}
 {"T":"r","L":"gama","C":["n","anat"],"d":"cada de la membros sur cual un person o animal sta o pasea; la parte magra de un vitro, entre la pede e la bol","i":"#","da":"ben","de":"Bein","en":"leg; stem (glass)","es":"pierna","fr":"jambe"}
-{"L":"gama alta","C":["n"],"en":"upper leg"}
-{"L":"gama basa","C":["n"],"en":"lower leg, shank"}
-{"L":"gama de porte","C":["n"],"en":"doorpost, jamb","es":"umbral, jamba"}
-{"L":"con gamas arcida","C":["a"],"en":"bowlegged, bandylegged","es":"patizambo, estevado, chueco"}
-{"L":"gami","C":["vt"],"en":"stride","es":"dar zancadas, andar a trancos, caminar con pasos largos"}
-{"L":"gami","C":["n"],"en":"stride","es":"zancada, tranco, paso largo"}
-{"L":"gamon","C":["n"],"i":"#","en":"stilt","es":"zanco"}
-{"T":"r","L":"gama","C":["n"],"d":"la letera tre de la alfabeta elinica","s":"Γ γ","en":"gamma (Greek letter)"}
-{"T":"r","L":"-gama","C":["sf","a","uma","bio"],"d":"sposi, copula o reprodui","en":"-gamous","es":"-gamo"}
-{"L":"-gamia","C":["sf","n","uma","bio"],"en":"-gamy (marriage, mating)","es":"-gamia"}
-{"T":"r","L":"gamalonga","C":["n","artr"],"d":"un arania con corpo sferin e gamas longa e magra","i":"#","t":"Phalangium","en":"daddy longlegs, harvester, harvestman (arachnid)"}
+{"L":"gama alta","C":["n"],"en":"upper leg","fr":"cuisse"}
+{"L":"gama basa","C":["n"],"en":"lower leg, shank","fr":"mollet, jambe"}
+{"L":"gama de porte","C":["n"],"en":"doorpost, jamb","es":"umbral, jamba","fr":"montant de porte"}
+{"L":"con gamas arcida","C":["a"],"en":"bowlegged, bandylegged","es":"patizambo, estevado, chueco","fr":"aux jambes arquées"}
+{"L":"gami","C":["vt"],"en":"stride","es":"dar zancadas, andar a trancos, caminar con pasos largos","fr":"faire de grandes enjambées, marcher à grands pas"}
+{"L":"gami","C":["n"],"en":"stride","es":"zancada, tranco, paso largo","fr":"grande enjambée, grand pas"}
+{"L":"gamon","C":["n"],"i":"#","en":"stilt","es":"zanco","fr":"pilotis"}
+{"T":"r","L":"gama","C":["n"],"d":"la letera tre de la alfabeta elinica","s":"Γ γ","en":"gamma (Greek letter)","fr":"Γ γ, gamma (lettre grecque)"}
+{"T":"r","L":"-gama","C":["sf","a","uma","bio"],"d":"sposi, copula o reprodui","en":"-gamous","es":"-gamo","fr":"-game"}
+{"L":"-gamia","C":["sf","n","uma","bio"],"en":"-gamy (marriage, mating)","es":"-gamia","fr":"-gamie"}
+{"T":"r","L":"gamalonga","C":["n","artr"],"d":"un arania con corpo sferin e gamas longa e magra","i":"#","t":"Phalangium","en":"daddy longlegs, harvester, harvestman (arachnid)","fr":"faucheux (arachnide)"}
 {"T":"r","L":"gamba","C":["n","artr"],"d":"un crustaseo peti e libre nadante, con corpo longa, valuada como un comeda","i":"#","t":"Caridea","en":"shrimp, prawn","fr":"crevette"}
-{"T":"r","L":"Gambia","C":["n","jeo"],"c":"Banjul","d":"un pais a la costa de Africa ueste","i":"#","en":"Gambia"}
-{"L":"gambian","C":["a"],"en":"Gambian"}
-{"L":"gambian","C":["n"],"en":"Gambian"}
-{"T":"r","L":"gamelan","C":["n","mus"],"d":"un bande cual jua musica tradisional de Indonesia, tipal incluinte multe strumentos de percute de bronze","i":"#","en":"gamelan"}
-{"T":"r","L":"gameta","C":["n","bio"],"d":"un selula matur aploide, mas o fema, cual pote uni con un de la otra seso per formi un zigoto","en":"gamete"}
-{"T":"r","L":"gametofite","C":["n","bio"],"d":"la fase de developa cual produi gametas en moses e epaticas","en":"gametophyte"}
-{"T":"r","L":"gamo","C":["n","mam"],"d":"un servo eurasian con cornos palmin e raminte, tipal con un pelo brun rojin con marcas blanca en la estate","t":"Dama dama, Cervus dama","en":"fallow deer"}
-{"T":"r","L":"gan","C":["n","dem"],"d":"un dialeto de xines, parlada par sirca 20 milion persones, xef en la provinse Jiangxi","en":"Gan (language)"}
-{"T":"r","L":"Gana","C":["n","jeo"],"c":"Accra","d":"un pais en Africa ueste, con costa sude a la Mar Atlantica","i":"#","en":"Ghana","es":"Ghana"}
-{"L":"ganaian","C":["a"],"en":"Ghanaian","es":"ghanés"}
-{"L":"ganaian","C":["n"],"en":"Ghanaian","es":"ghanés"}
-{"T":"r","L":"ganax","C":["n","cos"],"d":"un pleninte bateda de xocolada e crema, usada en tortas e confetos","en":"ganache (food)","es":"ganache"}
-{"T":"r","L":"gang","C":["n","gov"],"d":"un grupo organizada de criminales; un grupo de jovenes envolveda en crimin o violentia minor; un grupo de jovenes ci asosia con lunlotra; un grupo organizada de persones ci labora par mano","en":"gang","es":"pandilla"}
-{"L":"gangor","C":["n"],"en":"gang member"}
-{"T":"r","L":"ganga","C":["n","avia"],"d":"un avia con plumas brunin, nidinte sur tera en desertos, comente semes, e relatada a pijones","t":"Pteroclidae","en":"sandgrouse","es":"ganga"}
-{"T":"r","L":"Ganga, Rio","C":["n","jeo"],"d":"un rio en Barat norde e Bangladex cual comensa en la Montes Himalaia e fini en la Golfo Bengala","i":"Rio-Ganga","en":"Ganges River","es":"río Ganges"}
-{"T":"r","L":"ganglio","C":["n","anat"],"d":"un strutur composada de un cuantia de corpos de neurones, tipal forminte un infla a la fibre; un masa bon definida de materia gris en la sistem de nervos sentral","en":"ganglion (biology)","es":"ganglio (anatomía)"}
-{"T":"r","L":"gangrena","C":["n","med"],"d":"la mori e descomposa local de texeda, cual resulta de sangue blocida o un infeta baterial","en":"gangrene"}
-{"L":"gangrenosa","C":["a"],"en":"gangrenous"}
-{"T":"r","L":"gangster","C":["n","gov"],"d":"un membro de un gang de criminales violente","i":"#","en":"gangster, mobster, racketeer"}
+{"T":"r","L":"Gambia","C":["n","jeo"],"c":"Banjul","d":"un pais a la costa de Africa ueste","i":"#","en":"Gambia","fr":"Gambie"}
+{"L":"gambian","C":["a"],"en":"Gambian","fr":"gambien"}
+{"L":"gambian","C":["n"],"en":"Gambian","fr":"Gambien"}
+{"T":"r","L":"gamelan","C":["n","mus"],"d":"un bande cual jua musica tradisional de Indonesia, tipal incluinte multe strumentos de percute de bronze","i":"#","en":"gamelan","fr":"gamelan"}
+{"T":"r","L":"gameta","C":["n","bio"],"d":"un selula matur aploide, mas o fema, cual pote uni con un de la otra seso per formi un zigoto","en":"gamete","fr":"gamète"}
+{"T":"r","L":"gametofite","C":["n","bio"],"d":"la fase de developa cual produi gametas en moses e epaticas","en":"gametophyte","fr":"gamétophyte"}
+{"T":"r","L":"gamo","C":["n","mam"],"d":"un servo eurasian con cornos palmin e raminte, tipal con un pelo brun rojin con marcas blanca en la estate","t":"Dama dama, Cervus dama","en":"fallow deer","fr":"daim"}
+{"T":"r","L":"gan","C":["n","dem"],"d":"un dialeto de xines, parlada par sirca 20 milion persones, xef en la provinse Jiangxi","en":"Gan (language)","fr":"gan (langue)"}
+{"T":"r","L":"Gana","C":["n","jeo"],"c":"Accra","d":"un pais en Africa ueste, con costa sude a la Mar Atlantica","i":"#","en":"Ghana","es":"Ghana","fr":"Ghana"}
+{"L":"ganaian","C":["a"],"en":"Ghanaian","es":"ghanés","fr":"ghanéen"}
+{"L":"ganaian","C":["n"],"en":"Ghanaian","es":"ghanés","fr":"Ghanéen (personne)"}
+{"T":"r","L":"ganax","C":["n","cos"],"d":"un pleninte bateda de xocolada e crema, usada en tortas e confetos","en":"ganache (food)","es":"ganache","fr":"ganache (cuisine)"}
+{"T":"r","L":"gang","C":["n","gov"],"d":"un grupo organizada de criminales; un grupo de jovenes envolveda en crimin o violentia minor; un grupo de jovenes ci asosia con lunlotra; un grupo organizada de persones ci labora par mano","en":"gang","es":"pandilla","fr":"gang"}
+{"L":"gangor","C":["n"],"en":"gang member","fr":"membre d'un gang"}
+{"T":"r","L":"ganga","C":["n","avia"],"d":"un avia con plumas brunin, nidinte sur tera en desertos, comente semes, e relatada a pijones","t":"Pteroclidae","en":"sandgrouse","es":"ganga","fr":"ganga (oiseau)"}
+{"T":"r","L":"Ganga, Rio","C":["n","jeo"],"d":"un rio en Barat norde e Bangladex cual comensa en la Montes Himalaia e fini en la Golfo Bengala","i":"Rio-Ganga","en":"Ganges River","es":"río Ganges","fr":"Gange"}
+{"T":"r","L":"ganglio","C":["n","anat"],"d":"un strutur composada de un cuantia de corpos de neurones, tipal forminte un infla a la fibre; un masa bon definida de materia gris en la sistem de nervos sentral","en":"ganglion (biology)","es":"ganglio (anatomía)","fr":"ganglion"}
+{"T":"r","L":"gangrena","C":["n","med"],"d":"la mori e descomposa local de texeda, cual resulta de sangue blocida o un infeta baterial","en":"gangrene","fr":"gangrène"}
+{"L":"gangrenosa","C":["a"],"en":"gangrenous","fr":"gangréneux"}
+{"T":"r","L":"gangster","C":["n","gov"],"d":"un membro de un gang de criminales violente","i":"#","en":"gangster, mobster, racketeer","fr":"gangster"}
 {"T":"r","L":"gania","C":["vt","mone"],"d":"oteni (mone) per labora o servi, o par interesa o profita; susede (un concurso o desacorda); ariva puntual per usa (un bus, tren o avion)","en":"earn, gain; win (game); catch (bus, etc.)","fr":"gagner"}
-{"L":"gania la tempo","C":["v"],"en":"save time"}
-{"L":"difisil ganiada","C":["a"],"en":"hard-won, close-fought, closely fought"}
-{"L":"ganiada","C":["a"],"en":"earned, gained, won"}
-{"L":"ganior","C":["n"],"en":"winner"}
-{"L":"nonreganiable","C":["a"],"en":"irrecoverable"}
-{"L":"regania","C":["vt"],"en":"regain, recoup, recover (money)"}
-{"L":"reganiable","C":["a"],"en":"recoverable"}
-{"L":"sin ganior","C":["a"],"en":"tied, drawn (match)"}
+{"L":"gania la tempo","C":["v"],"en":"save time","fr":"gagner du temps"}
+{"L":"difisil ganiada","C":["a"],"en":"hard-won, close-fought, closely fought","fr":"durement gagné"}
+{"L":"ganiada","C":["a"],"en":"earned, gained, won","fr":"gagné"}
+{"L":"ganior","C":["n"],"en":"winner","fr":"gagnant"}
+{"L":"nonreganiable","C":["a"],"en":"irrecoverable","fr":"irrécupérable, irrémédiable, irréparable"}
+{"L":"regania","C":["vt"],"en":"regain, recoup, recover (money)","fr":"regagner, récupérer, recouvrer"}
+{"L":"reganiable","C":["a"],"en":"recoverable","fr":"regagnable, récupérable, recouvrable"}
+{"L":"sin ganior","C":["a"],"en":"tied, drawn (match)","fr":"nul (match)"}
 {"T":"r","L":"ganso","C":["n","avia"],"d":"un avia grande de acua con colo longa, gamas corta, pedes membranosa, e beco corta e larga; (metafor) un person sosial torpe; (metafor) un person tecnical sabosa ma osesente","i":"#","t":"Anser, Branta, Chen","en":"goose; geek, nerd","fr":"oie"}
-{"L":"ganso mas","C":["n"],"en":"gander"}
-{"L":"ganseta","C":["n"],"en":"gosling"}
+{"L":"ganso mas","C":["n"],"en":"gander","fr":"jars"}
+{"L":"ganseta","C":["n"],"en":"gosling","fr":"oison"}
 {"L":"gansi","C":["vnt"],"d":"esplora o discute zelosa un tema multe tecnical o spesialidi","en":"geek out"}
-{"L":"gansin","C":["a"],"en":"gooselike; geeky"}
+{"L":"gansin","C":["a"],"en":"gooselike; geeky","fr":"semblable à une oie"}
 {"T":"r","L":"ganto","C":["n","vest"],"d":"un covrente per la mano cual proteje contra fria o susia, tipal con partes separada per cada dito e la diton; un covrente simil en boxe, basebal e otra sportes","i":"#","da":"handske","de":"Handschuh","en":"glove","es":"guante","fr":"gant"}
-{"L":"ganto de armur","C":["n"],"en":"gauntlet"}
-{"L":"ganto de boxe","C":["n"],"i":"#","en":"boxing glove"}
-{"L":"ganto de cosini","C":["n"],"i":"#","en":"oven glove"}
-{"L":"ganteta","C":["n"],"i":"#","en":"mitten"}
-{"L":"ganton","C":["n"],"en":"muff"}
+{"L":"ganto de armur","C":["n"],"en":"gauntlet","fr":"gantelet"}
+{"L":"ganto de boxe","C":["n"],"i":"#","en":"boxing glove","fr":"gant de boxe"}
+{"L":"ganto de cosini","C":["n"],"i":"#","en":"oven glove","fr":"manique"}
+{"L":"ganteta","C":["n"],"i":"#","en":"mitten","fr":"mitaine"}
+{"L":"ganton","C":["n"],"en":"muff","fr":"manchon"}
 {"T":"r","L":"gara","C":["n","anat"],"d":"un ungia curva e puntida a cada dito de la pede de avias, lezardos e alga mamales; un onca simil a la gama de un inseto; la pinse de alga artropodos; un aparato simil usada per teni o leva","i":"#","en":"claw, talon","fr":"griffe"}
-{"L":"gari","C":["vt"],"en":"claw, scrabble at"}
+{"L":"gari","C":["vt"],"en":"claw, scrabble at","fr":"griffer"}
 {"T":"r","L":"garaje","C":["n","arci"],"d":"un construida per reteni veculos; un loca en cual on manteni e repara veculos","i":"#","en":"garage","es":"garaje","fr":"garage"}
-{"L":"garaje partal","C":["n"],"en":"carport"}
-{"T":"r","L":"garantia","C":["vt","mone"],"d":"promete formal, tipal en un documento, ce (constrinjes spesifada) va es realida, tipal ce (un produida) va es reparada o recambiada si lo no ave un cualia o dura spesifada; (en lege) promete formal, tipal en un documento, ce on va paia (la deta) de un otra o completi (la obliga) de un otra en caso de fali","en":"guarantee, ensure"}
-{"L":"garantia","C":["n"],"en":"guarantee, warranty, guaranty; collateral, security, surety; bail"}
-{"L":"garantia de cualia","C":["n"],"en":"guarantee of quality, hallmark, imprimatur"}
-{"L":"garantior","C":["n"],"en":"bondsman, surety"}
+{"L":"garaje partal","C":["n"],"en":"carport","fr":"abri de voiture"}
+{"T":"r","L":"garantia","C":["vt","mone"],"d":"promete formal, tipal en un documento, ce (constrinjes spesifada) va es realida, tipal ce (un produida) va es reparada o recambiada si lo no ave un cualia o dura spesifada; (en lege) promete formal, tipal en un documento, ce on va paia (la deta) de un otra o completi (la obliga) de un otra en caso de fali","en":"guarantee, ensure","fr":"garantir, assurer"}
+{"L":"garantia","C":["n"],"en":"guarantee, warranty, guaranty; collateral, security, surety; bail","fr":"garantie, caution"}
+{"L":"garantia de cualia","C":["n"],"en":"guarantee of quality, hallmark, imprimatur","fr":"garantie (de qualité)"}
+{"L":"garantior","C":["n"],"en":"bondsman, surety","fr":"garant, répondant, caution (personne)"}
 {"T":"r","L":"garda","C":["vt","gov"],"d":"atende (un person o cosa) per proteje o controla el o lo; reteni (mone) per usa futur","da":"beskytte, våge, overvåge","de":"bewachen, hüten","en":"guard, stand guard; save (money)","es":"proteger, resguardar, vigilar, monitorear, cuidar","fr":"garder"}
-{"L":"garda","C":["n"],"en":"guard; guardianship, tutelage"}
-{"L":"garda la casa","C":["v"],"en":"housesit"}
-{"L":"garda se contra","C":["v"],"en":"beware of"}
+{"L":"garda","C":["n"],"en":"guard; guardianship, tutelage","fr":"garde (action)"}
+{"L":"garda la casa","C":["v"],"en":"housesit","fr":"garder, faire du gardiennage"}
+{"L":"garda se contra","C":["v"],"en":"beware of","fr":"prendre garde à, se méfier de, faire attention à"}
 {"L":"gardada","C":["n"],"en":"ward (person)"}
-{"L":"gardador","C":["n"],"en":"guard (device), burglar alarm"}
-{"L":"gardor","C":["n"],"en":"guard (person), sentry; warder, jailer, gaoler; guardian, custodian, warden; watchdog (metaphor)"}
-{"L":"gardor de pisina","C":["n"],"en":"lifeguard"}
-{"L":"gardor de plaia","C":["n"],"en":"lifeguard"}
-{"T":"r","L":"gardacorpo","C":["n","vn"],"d":"un person o grupo empleada per acompania e proteje un person importante o famosa","en":"bodyguard"}
-{"T":"r","L":"gardacosta","C":["n","vn"],"d":"un organiza cual atende acuas costal per aida persones o barcos en peril e per preveni contrabanda; un person tal empleada","en":"coastguard"}
-{"T":"r","L":"gardafoco","C":["n","vn"],"d":"un scermo protejente ante un foco; un strutur basa sirca un ximineria per preveni la cade de carbon o lenio ardente","en":"fireguard, fender"}
-{"T":"r","L":"gardaforesta","C":["n","vn"],"d":"un person ci patrulia e manteni un foresta o parce natural","en":"forest ranger, park ranger"}
-{"T":"r","L":"gardamano","C":["n","vn"],"d":"un veste o aparato cual proteje la mano, per esemplo como parte de un arma","en":"hand guard"}
-{"T":"r","L":"gardaporte","C":["n","vn"],"d":"un person ci garda la entra de un construida; un empleada ci aida persones estra un otel","en":"doorkeeper, commissionaire"}
-{"T":"r","L":"gardaporton","C":["n","vn"],"d":"un person ci garda un porton e controla ci pasa tra lo","en":"gatekeeper"}
-{"T":"r","L":"gardaxasa","C":["n","vn"],"d":"un empleada ci eleva e proteje animales xasada","en":"gamekeeper"}
-{"T":"r","L":"gardenia","C":["n","pla"],"d":"un arbor o arboreta con flores grande, bonodorosa e blanca o jala","i":"#","t":"Gardenia","en":"gardenia (plant)"}
+{"L":"gardador","C":["n"],"en":"guard (device), burglar alarm","fr":"alarme, matériel de surveillance"}
+{"L":"gardor","C":["n"],"en":"guard (person), sentry; warder, jailer, gaoler; guardian, custodian, warden; watchdog (metaphor)","fr":"garde (personne), gardien, sentinelle, geôlier, tuteur"}
+{"L":"gardor de pisina","C":["n"],"en":"lifeguard","fr":"surveillant de baignade"}
+{"L":"gardor de plaia","C":["n"],"en":"lifeguard","fr":"surveillant de plage"}
+{"T":"r","L":"gardacorpo","C":["n","vn"],"d":"un person o grupo empleada per acompania e proteje un person importante o famosa","en":"bodyguard","fr":"garde du corps"}
+{"T":"r","L":"gardacosta","C":["n","vn"],"d":"un organiza cual atende acuas costal per aida persones o barcos en peril e per preveni contrabanda; un person tal empleada","en":"coastguard","fr":"garde-côte"}
+{"T":"r","L":"gardafoco","C":["n","vn"],"d":"un scermo protejente ante un foco; un strutur basa sirca un ximineria per preveni la cade de carbon o lenio ardente","en":"fireguard, fender","fr":"garde-feu"}
+{"T":"r","L":"gardaforesta","C":["n","vn"],"d":"un person ci patrulia e manteni un foresta o parce natural","en":"forest ranger, park ranger","fr":"garde forestier"}
+{"T":"r","L":"gardamano","C":["n","vn"],"d":"un veste o aparato cual proteje la mano, per esemplo como parte de un arma","en":"hand guard","fr":"garde (d'une épée), protège-main"}
+{"T":"r","L":"gardaporte","C":["n","vn"],"d":"un person ci garda la entra de un construida; un empleada ci aida persones estra un otel","en":"doorkeeper, commissionaire","fr":"portier"}
+{"T":"r","L":"gardaporton","C":["n","vn"],"d":"un person ci garda un porton e controla ci pasa tra lo","en":"gatekeeper","fr":"portier, gardien"}
+{"T":"r","L":"gardaxasa","C":["n","vn"],"d":"un empleada ci eleva e proteje animales xasada","en":"gamekeeper","fr":"garde-chasse"}
+{"T":"r","L":"gardenia","C":["n","pla"],"d":"un arbor o arboreta con flores grande, bonodorosa e blanca o jala","i":"#","t":"Gardenia","en":"gardenia (plant)","fr":"gardenia (plante)"}
 {"T":"r","L":"garga","C":["n","anat"],"d":"la pasaje a dorso de la boca, a interna de la colo","da":"strube","de":"Kehle","en":"throat","es":"garganta","fr":"gorge"}
-{"L":"gargal","C":["a"],"en":"throaty, guttural"}
-{"T":"r","L":"gargara","C":["vt"],"d":"lava la boca e garga con (un licuida) par espira tra lo","en":"gargle"}
-{"L":"gargara","C":["n"],"en":"gargle"}
-{"T":"r","L":"gargarosa","C":["n","avia"],"d":"un pinson brun con fronte roja","i":"#","t":"Acanthis flammea","en":"redpoll (bird)"}
-{"T":"r","L":"gargola","C":["n","arte","arci"],"d":"un fas o figur siselida de un umana o animal monstrin, protendente de un construida e tipal funsionante como un beco per move la pluve a via de la mur","i":"#","en":"gargoyle"}
-{"T":"r","L":"garifuna","C":["a","dem"],"d":"pertinente a un popla de desende miscada african e american original, de ci multe ia migra a America Sentral e la Statos Unida, o a sua lingua","en":"Garifuna"}
-{"L":"garifuna","C":["n"],"en":"Garifuna (person, language)"}
-{"T":"r","L":"garlanda","C":["n","vest"],"d":"un sirculo de flores e folias, portada sur la testa o pendeda como un orna","i":"#","en":"garland, wreath, festoon, swag"}
-{"L":"garlanda sintilinte","C":["n"],"en":"tinsel"}
-{"L":"garlandi","C":["vt"],"en":"garland, wreathe, festoon"}
-{"T":"r","L":"garnison","C":["n","gov","arci"],"d":"la soldatos encargada con proteje un fortres o vila; la construida cual los ocupa","en":"garrison"}
-{"T":"r","L":"garota","C":["n","util"],"d":"un filo o corda usada per strangula algun","en":"garotte"}
-{"L":"garoti","C":["vt"],"en":"garotte"}
+{"L":"gargal","C":["a"],"en":"throaty, guttural","fr":"guttural"}
+{"T":"r","L":"gargara","C":["vt"],"d":"lava la boca e garga con (un licuida) par espira tra lo","en":"gargle","fr":"se gargariser avec"}
+{"L":"gargara","C":["n"],"en":"gargle","fr":"gargarisme"}
+{"T":"r","L":"gargarosa","C":["n","avia"],"d":"un pinson brun con fronte roja","i":"#","t":"Acanthis flammea","en":"redpoll (bird)","fr":"sizerain flammé (oiseau)"}
+{"T":"r","L":"gargola","C":["n","arte","arci"],"d":"un fas o figur siselida de un umana o animal monstrin, protendente de un construida e tipal funsionante como un beco per move la pluve a via de la mur","i":"#","en":"gargoyle","fr":"gargouille"}
+{"T":"r","L":"garifuna","C":["a","dem"],"d":"pertinente a un popla de desende miscada african e american original, de ci multe ia migra a America Sentral e la Statos Unida, o a sua lingua","en":"Garifuna","fr":"garifuna"}
+{"L":"garifuna","C":["n"],"en":"Garifuna (person, language)","fr":"Garifuna (personne); garifuna (langue)"}
+{"T":"r","L":"garlanda","C":["n","vest"],"d":"un sirculo de flores e folias, portada sur la testa o pendeda como un orna","i":"#","en":"garland, wreath, festoon, swag","fr":"guirlande de fleurs, couronne de fleurs"}
+{"L":"garlanda sintilinte","C":["n"],"en":"tinsel","fr":"guirlande"}
+{"L":"garlandi","C":["vt"],"en":"garland, wreathe, festoon","fr":"mettre une guirlande sur, décorer d'une guirlande"}
+{"T":"r","L":"garnison","C":["n","gov","arci"],"d":"la soldatos encargada con proteje un fortres o vila; la construida cual los ocupa","en":"garrison","fr":"garnison"}
+{"T":"r","L":"garota","C":["n","util"],"d":"un filo o corda usada per strangula algun","en":"garotte","fr":"garrot"}
+{"L":"garoti","C":["vt"],"en":"garotte","fr":"garrotter"}
 {"T":"r","L":"gas","C":["n","fis"],"d":"un materia fluente como aira, cual estende libre per pleni cualce spasio, sin relata a sua cuantia","da":"gas","de":"Gas","en":"gas","es":"gas","fr":"gaz"}
 {"L":"gas invernerial","C":["n"],"en":"greenhouse gas"}
 {"L":"gas nosiva","C":["n"],"en":"toxic gas, fumes"}
@@ -21008,7 +21008,7 @@
 {"T":"s","d":"en la tempo seguente (alga cosa)","g":"preposadas#pos","n":"Per introdui un proposa suordinada, usa `pos cuando` en loca. La averbo con la sinifia `a un tempo plu tarda` es `a pos`.","u":"desembre veni pos novembre; nos esperia la tona pos la lampo; me va reveni pos du dias; pos come, el ia dormi","v":"cuando","ca":"després de","da":"efter, siden","de":"nach","en":"after, later than, since; in (e.g. one week's time)","eo":"post","es":"después de","fr":"après","it":"dopo","nl":"na","pt":"após, depois de","ru":"после, за"}
 {"L":"pos-","C":["pf"],"d":"pos, plu tarda","u":"posenebria; posalveolal","en":"post- (happening later or located behind)"}
 {"L":"a pos","C":["prep"],"u":"la gato ia core a pos la sofa","en":"behind, to behind"}
-{"L":"a pos","C":["av"],"d":"a la retro (de un cosa sujestada par la contesto); movente en dirije a la retro; movente en la dirije cual on no fasa; en la tempo seguente","en":"behind, at the back, at the rear; (moving) to the back; backward, backwards; (time) afterward, afterwards, later, then, next, subsequently, since","eo":"malantaŭe; malantaŭen; poste"}
+{"L":"a pos","C":["av"],"d":"a la retro (de un cosa sujestada par la contesto); movente en dirije a la retro; movente en la dirije cual on no fasa; en la tempo seguente","en":"behind, at the back, at the rear; (moving) to the back; backward, backwards; (time) afterward, afterwards, later, then, next, subsequently, since","eo":"malantaŭe; malantaŭen; poste","es":"detrás, después"}
 {"L":"e a pos?","C":["esc"],"en":"and then?, and what happened next?"}
 {"L":"de pos","C":["prep"],"u":"mea madre abita asi de pos la mori de sua sposo","en":"from behind; since (time)"}
 {"L":"de pos","C":["av"],"en":"from behind"}
@@ -24382,7 +24382,7 @@
 {"L":"nonsesante","C":["a"],"en":"unceasing, incessant, continual, non-stop","fr":"incessant"}
 {"L":"sin sesa","C":["a"],"en":"unceasing, incessant, continual, non-stop","fr":"incessant"}
 {"T":"r","L":"sesamo","C":["n","pla","cos"],"d":"un planta alta de zonas tropical e sutropical de Africa e Asia, cultivada per sua semes; la semes de esta, comeda o usada per sua olio","i":"#","t":"Sesamum","da":"sesamfrø","de":"Sesam, Sesamsamen","en":"sesame (plant, seeds)","eo":"sezamo","es":"sésamo","fr":"sésame","it":"sesamo","nl":"sesam","pt":"sésamo"}
-{"T":"r","L":"sesarea","C":["n","med"],"d":"un sirurjia per aida pari un bebe par talia tra la mur de la adomen e la utero de la madre","en":"Cesarean|Caesarean section"}
+{"T":"r","L":"sesarea","C":["n","med"],"d":"un sirurjia per aida pari un bebe par talia tra la mur de la adomen e la utero de la madre","en":"Cesarean|Caesarean section, C-section"}
 {"T":"r","L":"sesaspara","C":["n","vn"],"d":"un acorda tempora de sesa combate","en":"ceasefire, truce, armistice","fr":"cessez-le-feu, armistice"}
 {"T":"r","L":"sesio","C":["n","cim"],"d":"la elemento cimical con numero atomal 55","s":"Cs (caesium)","en":"cesium|ae","fr":"césium"}
 {"T":"r","L":"sesion","C":["n","bio"],"d":"cada de la partes en cual un cosa es o pote es divideda; un periodo dedicada a un aveni; (en zolojia) cada de un serie de unias de anatomia de cual la corpo o membros de alga animales es composada","da":"afdeling, udsnit, sektion","de":"Abschnitt","en":"section, segment; session; period (part of a school day)","eo":"sekcio, segmento; sesio","es":"sección, segmento","fr":"section, segment","it":"sezione","nl":"snee","pt":"seção, segmento"}
