@@ -6046,6 +6046,7 @@
 {"T":"r","L":"cono","C":["a","mat"],"d":"(un cosa tridimensional) con un forma cual diminui de un funda sirculo asta un punto","i":"#","en":"conic, conical","fr":"conique","he":"חרוטי, קוני"}
 {"L":"cono","C":["n"],"da":"kegle","de":"Kegel, Konus","en":"cone","es":"cono","fr":"cône","he":"חרוט, קונוס"}
 {"L":"cono de pino","C":["n"],"i":"#","en":"pinecone","fr":"pomme de pin, cône de pin","he":"איצטרובל"}
+{"L":"cono de trafica","C":["n"],"en":"traffic cone, highway cone"}
 {"T":"r","L":"conom","C":["n","ist"],"d":"(en Roma antica) un nom personal, tipal pasada a desendentes","en":"cognomen","fr":"cognomen (chez les Romains)","he":"(רומא העתיקה) שם שעובר בירושה"}
 {"T":"r","L":"conopofaje","C":["n","avia"],"d":"un avia peti de America Sentral e Sude, con coda corta e gamas longa, notada per come moscetas e otra insetos peti","i":"#","t":"Conopophagidae","en":"gnateater (bird)","fr":"conopophage","he":"ציפור ממשפחת היורקניים"}
 {"T":"r","L":"conose","C":["vt"],"d":"sabe ce on ia esperia ja (un cosa o loca); es consensa de (algun) pos interelata con el","u":"me conose tua sore; tu conose Roma?; el conose la problem ma no sabe la detalias","v":"sabe","da":"kennen","en":"know (person, place, etc.), be acquainted with, be familiar with (by experience rather than learning), cognize","es":"conocer","fr":"connaître, être familier de","he":"להכיר"}
@@ -6212,6 +6213,7 @@
 {"L":"consuleria","C":["n"],"en":"consulate","fr":"consulat","he":"קונסוליה"}
 {"T":"r","L":"consulta","C":["vt","gov"],"d":"xerca informa o consela de (un esperta o libro); discute con (algun) ante ata","en":"consult","fr":"consulter","he":"להתייעץ, להיוועץ"}
 {"L":"consulta","C":["n"],"en":"consultation","fr":"consultation","he":"ייעוץ, התייעצות"}
+{"L":"consulteria","C":["n"],"en":"consulting room, consultation area"}
 {"T":"r","L":"consuma","C":["vt","cos","mone"],"d":"come o bevi (un comeda o bevida); compra (un ben o servi); usa completa (un recurso); asorbe tota la atende e enerjia de (algun)","da":"forbruge, bruge","de":"verbrauchen","en":"consume, deplete, expend, exhaust, use up, spend, ingest","es":"consumir, gastar, agotar, vaciar, usar por completo, acabar con","fr":"consommer, dépenser, épuiser","he":"לצרוך, לכלות, למצות"}
 {"L":"consuma","C":["n"],"en":"consumption, depletion; footprint (software)","fr":"consommation, dépense, épuisement","he":"צריכה, מיצוי"}
 {"L":"consumante","C":["a"],"en":"consuming","fr":"épuisant","he":"צורך, מכלה"}
@@ -11853,11 +11855,11 @@
 {"T":"r","L":"furcula","C":["n","anat"],"d":"un oso forcin entre la colo e peto de un avia","i":"#","en":"wishbone, furcula","fr":"furcula, fourchette (os)"}
 {"T":"r","L":"furgon","C":["n","vec"],"d":"un veculo caxin e covreda, simil a un camion peti, usada per transporta persones o benes","i":"#","en":"van","fr":"fourgon, van"}
 {"L":"furgoneta","C":["n"],"en":"people carrier, minivan, MPV","fr":"fourgonnette, camionnette"}
-{"T":"r","L":"furia","C":["vnt","uma"],"d":"deveni estrema coler e cisa violente","en":"be furious, be enraged, go berserk, run amok, rampage","fr":"être fou furieux, enrager, devenir fou, écumer, fulminer, exploser, s'emporter, se déchaîner, tempêter"}
+{"T":"r","L":"furia","C":["vnt","uma"],"d":"deveni estrema coler e cisa violente","en":"be furious, be enraged, go berserk, run amok, rampage","fr":"être fou furieux, enrager, devenir fou, écumer, fulminer, exploser, s'emporter, se déchaîner, tempêter, furibonder"}
 {"L":"furia","C":["vt"],"en":"infuriate, enrage","fr":"faire enrager, rendre fou, exaspérer, faire sortir de ses gonds"}
 {"L":"furia","C":["n"],"en":"fury, rage, apoplexy","fr":"folie furieuse, rage, fureur, furie, délire, emportement"}
 {"L":"furia publica","C":["n"],"en":"furore, outcry","fr":"tollé, huée, bronca"}
-{"L":"furiosa","C":["a"],"en":"furious, livid, raging, enraged, apoplectic, berserk","fr":"furieux, fou furieux, enragé, hors de soi, exaspéré"}
+{"L":"furiosa","C":["a"],"en":"furious, livid, raging, enraged, apoplectic, berserk","fr":"furieux, fou furieux, enragé, hors de soi, exaspéré, forcené, furibond, déchaîné"}
 {"T":"r","L":"furlan","C":["a","dem"],"d":"pertinente a la popla de un area de Europa aora divideda entre Slovenia e Italia norde-este, o a sua lingua romanica","en":"Furlan, Friulian (person, language)","fr":"frioulan"}
 {"L":"furlan","C":["n"],"en":"Furlan, Friulian (person, language)","fr":"Frioulan (personne); frioulen (langue)"}
 {"T":"r","L":"furlong","C":["n"],"d":"un oti de milia, 201 metres, un distantia comun en corsas de cavalos","en":"furlong (unit of length)","fr":"stade (unité de mesure = 201,168 mètres)"}
@@ -12058,239 +12060,239 @@
 {"T":"r","L":"garota","C":["n","util"],"d":"un filo o corda usada per strangula algun","en":"garotte","fr":"garrot"}
 {"L":"garoti","C":["vt"],"en":"garotte","fr":"garrotter"}
 {"T":"r","L":"gas","C":["n","fis"],"d":"un materia fluente como aira, cual estende libre per pleni cualce spasio, sin relata a sua cuantia","da":"gas","de":"Gas","en":"gas","es":"gas","fr":"gaz"}
-{"L":"gas invernerial","C":["n"],"en":"greenhouse gas"}
-{"L":"gas nosiva","C":["n"],"en":"toxic gas, fumes"}
-{"L":"gasal","C":["a"],"en":"gaseous (of a gas)"}
-{"L":"gasi","C":["vnt"],"en":"become gaseous"}
-{"L":"gasi","C":["vt"],"en":"make gaseous; gas, expose to gas"}
-{"L":"gasin","C":["a"],"en":"gaseous (like a gas)"}
-{"L":"gasosa","C":["a"],"en":"gaseous (full of gas), gassy; carbonated, fizzy"}
+{"L":"gas invernerial","C":["n"],"en":"greenhouse gas","fr":"gaz à effet de serre"}
+{"L":"gas nosiva","C":["n"],"en":"toxic gas, fumes","fr":"gaz toxique, émanations toxiques, fumées toxiques"}
+{"L":"gasal","C":["a"],"en":"gaseous (of a gas)","fr":"gazeux"}
+{"L":"gasi","C":["vnt"],"en":"become gaseous","fr":"se gazéifier, devenir gazeux"}
+{"L":"gasi","C":["vt"],"en":"make gaseous; gas, expose to gas","fr":"gazéifier, rendre gazeux; gazer"}
+{"L":"gasin","C":["a"],"en":"gaseous (like a gas)","fr":"gazeux (semblable à un gaz)"}
+{"L":"gasosa","C":["a"],"en":"gaseous (full of gas), gassy; carbonated, fizzy","fr":"gazeux, gazéifié, pétillant"}
 {"T":"r","L":"gasolina","C":["n","cim"],"d":"petrolio refinada, usada como un combustable per alga motores","en":"gasoline, petrol","es":"gasolina","fr":"essence"}
-{"L":"gasolineria","C":["n"],"i":"#","en":"gas station, petrol station","es":"gasolinera, estación de servicio, bencinera, bomba, grifo, servicentro"}
-{"T":"r","L":"gasolio","C":["n","cim"],"d":"petrolio refinada plu pesosa ca gasolina, usada per alga motores","en":"diesel","fr":"gazole"}
-{"T":"r","L":"gasometre","C":["n","util"],"d":"un tance per reserva e mesura gas","en":"gasometer"}
-{"T":"r","L":"gaspatxo","C":["n","cos"],"d":"un sopa fria de tomate e otra vejetales, orijinante en Espania","en":"gazpacho (soup)","es":"gazpacho"}
-{"T":"r","L":"gasta","C":["vnt","vest"],"d":"deveni danada, erodeda o destruida par frica o usa","en":"wear out, age; fray, unravel"}
-{"L":"gasta","C":["vt"],"en":"wear out, age; fray, unravel"}
-{"L":"gastada","C":["a"],"en":"worn out, shabby, threadbare, frayed, dilapidated, rundown; (tire|tyre) bald"}
-{"L":"gastada par gera","C":["a"],"en":"war-torn"}
-{"L":"gastada par clima","C":["a"],"en":"weathered, weatherbeaten"}
-{"T":"r","L":"gastral","C":["a","anat"],"d":"pertinente a la stomaco","en":"gastric"}
-{"T":"r","L":"gastraljia","C":["n","med"],"d":"un dole de la stomaco","en":"gastralgia"}
-{"T":"r","L":"gastrite","C":["n","med"],"d":"un inflama de la strato interna de la stomaco","en":"gastritis"}
-{"T":"r","L":"gastroenterite","C":["n","med"],"d":"un inflama de la stomaco e intestines, causante vomita e diarea","en":"gastroenteritis"}
-{"T":"r","L":"gastroenterolojia","C":["n","med"],"d":"la ramo de medica cual studia desordinas de la stomaco e intestines","en":"gastroenterology"}
-{"L":"gastroenterolojiste","C":["n"],"en":"gastroenterologist"}
-{"T":"r","L":"gastrointestinal","C":["a","med"],"d":"pertinente a la stomaco e intestines","en":"gastrointestinal"}
-{"T":"r","L":"gastropodo","C":["n"],"d":"un membro de un grupo grande de moluscos, como caracoles, limasas e businos","t":"Gastropoda","en":"gastropod"}
-{"T":"r","L":"gastrotrico","C":["n","mol"],"d":"un membro de un filo de vermes multe peti, comun en mares e lagos","i":"#","t":"Gastrotricha","en":"gastrotrich (worm)"}
-{"T":"r","L":"gatilio","C":["n","util"],"d":"un aparato peti cual relasa un mola o simil per inisia alga cosa, tipal la ensende de un fusil","i":"#","en":"trigger"}
-{"L":"gatili","C":["vt"],"en":"trigger, set off"}
-{"T":"r","L":"gatiliomanica","C":["a","uma"],"d":"tendente reata violente, tipal usante un fusil","en":"trigger-happy"}
+{"L":"gasolineria","C":["n"],"i":"#","en":"gas station, petrol station","es":"gasolinera, estación de servicio, bencinera, bomba, grifo, servicentro","fr":"station service"}
+{"T":"r","L":"gasolio","C":["n","cim"],"d":"petrolio refinada plu pesosa ca gasolina, usada per alga motores","en":"diesel","fr":"gazole, fuel"}
+{"T":"r","L":"gasometre","C":["n","util"],"d":"un tance per reserva e mesura gas","en":"gasometer","fr":"gazomètre"}
+{"T":"r","L":"gaspatxo","C":["n","cos"],"d":"un sopa fria de tomate e otra vejetales, orijinante en Espania","ca":"gaspatxo","en":"gazpacho (soup)","es":"gazpacho","fr":"gaspacho, gazpacho"}
+{"T":"r","L":"gasta","C":["vnt","vest"],"d":"deveni danada, erodeda o destruida par frica o usa","en":"wear out, age; fray, unravel","fr":"se dégrader, se délabrer, tomber en ruine, s'effilocher, s'user, se détériorer, s'abîmer, s'esquinter, se gâter, s'altérer"}
+{"L":"gasta","C":["vt"],"en":"wear out, age; fray, unravel","fr":"dégrader, user, effilocher, détériorer, abîmer, esquinter, gâter, altérer"}
+{"L":"gastada","C":["a"],"en":"worn out, shabby, threadbare, frayed, dilapidated, rundown; (tire|tyre) bald","fr":"dégradé, usé, effiloché, détérioré, abîmé, esquinté, gâté, altéré"}
+{"L":"gastada par gera","C":["a"],"en":"war-torn","fr":"déchiré par la guerre"}
+{"L":"gastada par clima","C":["a"],"en":"weathered, weatherbeaten","fr":"dévasté, détruit, saccagé (par le mauvais temps)"}
+{"T":"r","L":"gastral","C":["a","anat"],"d":"pertinente a la stomaco","en":"gastric","fr":"gastrique"}
+{"T":"r","L":"gastraljia","C":["n","med"],"d":"un dole de la stomaco","en":"gastralgia","fr":"gastralgie, mal à l'estomac"}
+{"T":"r","L":"gastrite","C":["n","med"],"d":"un inflama de la strato interna de la stomaco","en":"gastritis","fr":"gastrite"}
+{"T":"r","L":"gastroenterite","C":["n","med"],"d":"un inflama de la stomaco e intestines, causante vomita e diarea","en":"gastroenteritis","fr":"gastroentérite"}
+{"T":"r","L":"gastroenterolojia","C":["n","med"],"d":"la ramo de medica cual studia desordinas de la stomaco e intestines","en":"gastroenterology","fr":"gastroentérologie"}
+{"L":"gastroenterolojiste","C":["n"],"en":"gastroenterologist","fr":"gastroentérologue"}
+{"T":"r","L":"gastrointestinal","C":["a","med"],"d":"pertinente a la stomaco e intestines","en":"gastrointestinal","fr":"gastrointestinal"}
+{"T":"r","L":"gastropodo","C":["n"],"d":"un membro de un grupo grande de moluscos, como caracoles, limasas e businos","t":"Gastropoda","en":"gastropod","fr":"gastéropode"}
+{"T":"r","L":"gastrotrico","C":["n","mol"],"d":"un membro de un filo de vermes multe peti, comun en mares e lagos","i":"#","t":"Gastrotricha","en":"gastrotrich (worm)","fr":"gastrotriche (ver)"}
+{"T":"r","L":"gatilio","C":["n","util"],"d":"un aparato peti cual relasa un mola o simil per inisia alga cosa, tipal la ensende de un fusil","i":"#","en":"trigger","fr":"gâchette, détente, déchencheur"}
+{"L":"gatili","C":["vt"],"en":"trigger, set off","fr":"déclencher"}
+{"T":"r","L":"gatiliomanica","C":["a","uma"],"d":"tendente reata violente, tipal usante un fusil","en":"trigger-happy","fr":"maniaque de la gâchette, forcené, à réaction violente"}
 {"T":"r","L":"gato","C":["n","mam"],"d":"un mamal peti, carnivor e domada con pelo suave, beco corta, e talones retirable; cualce membro de esta familia, como un leon o tigre","i":"#","t":"Felis catus","da":"kat","de":"Katze","en":"cat","es":"gato","fr":"chat"}
-{"L":"gato de nove codas","C":["n"],"en":"cat o' nine tails (whip)"}
-{"L":"gateta","C":["n"],"en":"kitten, kitty, pussy, puss"}
-{"T":"r","L":"gauda","C":["n","cos"],"d":"un ceso dur, plata e ronda de Nederland, tipal con casca jala","en":"gouda (cheese)"}
-{"T":"r","L":"gaulteria","C":["n","pla"],"d":"un planta sempreverde cual produi un olio bonodorosa mentin","i":"#","t":"Gaultheria","en":"wintergreen (plant)"}
-{"T":"r","L":"gaus","C":["n","fis"],"d":"un unia de indui magnetal, egal a un desmili de un tesla","en":"gauss (unit of induction)"}
-{"T":"r","L":"gavia","C":["n","avia"],"d":"un avia de acua, grande e tufante, con beco puntida e plumas negra e gris","i":"#","t":"Gavia","en":"loon, diver (bird)"}
-{"T":"r","L":"gavota","C":["n","avia"],"d":"un avia de mar con alas longa, pedes membranosa, e vose xiliante, tipal con plumas blanca e dorso negra o gris","i":"#","t":"Laridae","en":"gull, seagull"}
-{"T":"r","L":"gavota","C":["n","mus"],"d":"un dansa de Frans de rapidia media, popular en la sentenio 18; un musica per esta","en":"gavotte (dance, music)"}
-{"T":"r","L":"gaxa","C":["n","cos"],"d":"un comeda semilicuida de avena o otra sereal, bolida en lete o acua; cualce comeda con forma de pulpa bultosa","i":"#","en":"gruel, porridge, mush","fr":"bouillie"}
-{"L":"gaxa de avena","C":["n"],"en":"porridge, oatmeal"}
+{"L":"gato de nove codas","C":["n"],"en":"cat o' nine tails (whip)","fr":"chat à neuf queues (fouet)"}
+{"L":"gateta","C":["n"],"en":"kitten, kitty, pussy, puss","fr":"chaton"}
+{"T":"r","L":"gauda","C":["n","cos"],"d":"un ceso dur, plata e ronda de Nederland, tipal con casca jala","en":"gouda (cheese)","fr":"gouda (fromage)"}
+{"T":"r","L":"gaulteria","C":["n","pla"],"d":"un planta sempreverde cual produi un olio bonodorosa mentin","i":"#","t":"Gaultheria","en":"wintergreen (plant)","fr":"gaulthérie (plante)"}
+{"T":"r","L":"gaus","C":["n","fis"],"d":"un unia de indui magnetal, egal a un desmili de un tesla","en":"gauss (unit of induction)","fr":"gauss (ancienne unité d'induction)"}
+{"T":"r","L":"gavia","C":["n","avia"],"d":"un avia de acua, grande e tufante, con beco puntida e plumas negra e gris","i":"#","t":"Gavia","en":"loon, diver (bird)","fr":"plongeon (oiseau aquatique)"}
+{"T":"r","L":"gavota","C":["n","avia"],"d":"un avia de mar con alas longa, pedes membranosa, e vose xiliante, tipal con plumas blanca e dorso negra o gris","i":"#","t":"Laridae","en":"gull, seagull","fr":"mouette"}
+{"T":"r","L":"gavota","C":["n","mus"],"d":"un dansa de Frans de rapidia media, popular en la sentenio 18; un musica per esta","en":"gavotte (dance, music)","fr":"gavotte (danse, musique)"}
+{"T":"r","L":"gaxa","C":["n","cos"],"d":"un comeda semilicuida de avena o otra sereal, bolida en lete o acua; cualce comeda con forma de pulpa bultosa","i":"#","en":"gruel, porridge, mush","fr":"bouillie, gruau, porridge"}
+{"L":"gaxa de avena","C":["n"],"en":"porridge, oatmeal","fr":"porridge, boullie d'avoine"}
 {"L":"gaxa de favas","C":["n"],"en":"bean porridge; baked beans"}
-{"L":"gaxa de orzo","C":["n"],"en":"barley porridge"}
+{"L":"gaxa de orzo","C":["n"],"en":"barley porridge","fr":"boullie d'orge"}
 {"L":"gaxa de pisos","C":["n"],"en":"mashed peas, mushy peas"}
 {"L":"gaxa de ris","C":["n"],"en":"rice porridge; rice pudding"}
 {"L":"gaxa de torta","C":["n"],"en":"cake batter, cake mix"}
-{"L":"gaxi","C":["vnt"],"en":"mush"}
-{"L":"gaxi","C":["vt"],"en":"mush; (colloquial) bodge, botch, bungle, make a mess of (a piece of work, etc)"}
-{"L":"gaxin","C":["a"],"en":"mushy, sloppy"}
-{"L":"gaxin","C":["n"],"en":"mush, pap, slop"}
-{"T":"r","L":"gaza","C":["n","vest"],"d":"un stofa de seda, lino o coton magra e diafana; esta stofa usada per proteje feris","en":"gauze"}
-{"L":"gaza de ceso","C":["n"],"en":"cheesecloth"}
-{"T":"r","L":"Gaza","C":["n","jeo"],"d":"un teritorio de Filastin","i":"#","en":"Gaza, Gaza strip","es":"Gaza, Franja de Gaza"}
-{"T":"r","L":"gazela","C":["n","mam"],"d":"un antilope peti e magra con cornos curva e pelo jalin brun e blanca a la adomen","i":"#","t":"Gazella","en":"gazelle","es":"gacela"}
-{"T":"r","L":"gazi","C":["a"],"d":"un geror muslim veteran","en":"Ghazi"}
-{"L":"gazi","C":["n"],"en":"Ghazi"}
+{"L":"gaxi","C":["vnt"],"en":"mush","fr":"bouillir, être en ébullition"}
+{"L":"gaxi","C":["vt"],"en":"mush; (colloquial) bodge, botch, bungle, make a mess of (a piece of work, etc)","fr":"faire bouillir, mettre à bouillir; bâcler, gâcher, bousiller, cochonner, saloper, saboter, massacrer (une œuvre)"}
+{"L":"gaxin","C":["a"],"en":"mushy, sloppy","fr":"pâteux, bâclé, négligé"}
+{"L":"gaxin","C":["n"],"en":"mush, pap, slop","fr":"gâchis, bâclage, saccage, sabotage, cochonnerie, massacre (d'une œuvre)"}
+{"T":"r","L":"gaza","C":["n","vest"],"d":"un stofa de seda, lino o coton magra e diafana; esta stofa usada per proteje feris","en":"gauze","fr":"gaze"}
+{"L":"gaza de ceso","C":["n"],"en":"cheesecloth","fr":"étamine (étoffe)"}
+{"T":"r","L":"Gaza","C":["n","jeo"],"d":"un teritorio de Filastin","i":"#","en":"Gaza, Gaza strip","es":"Gaza, Franja de Gaza","fr":"Gaza, bande de Gaza"}
+{"T":"r","L":"gazela","C":["n","mam"],"d":"un antilope peti e magra con cornos curva e pelo jalin brun e blanca a la adomen","i":"#","t":"Gazella","en":"gazelle","es":"gacela","fr":"gazelle"}
+{"T":"r","L":"gazi","C":["a"],"d":"un geror muslim veteran","en":"Ghazi","fr":"ghazi"}
+{"L":"gazi","C":["n"],"en":"Ghazi","fr":"ghazi"}
 {"T":"r","L":"ge","C":["a","uma"],"d":"omosesal; pertinente a omosesales e omosesalia","en":"gay, queer, homosexual","fr":"gay"}
-{"L":"ge","C":["n"],"en":"gay, queer, homosexual"}
-{"L":"antige","C":["a"],"p":"antigé","en":"anti-gay"}
-{"T":"r","L":"geco","C":["n","ret"],"d":"un lezardo noturna e comun ruidosa, con cuxinetas aderente a sua pedes per aida trepa sur surfases lisa","i":"#","t":"Gekkonidae","en":"gecko"}
-{"T":"r","L":"Genova","C":["n","jeo"],"d":"un site en Liguria","en":"Genoa (Italian city)"}
-{"L":"genoves","C":["a"],"en":"Genoese"}
-{"L":"genoves","C":["n","dem"],"en":"Genoese"}
-{"T":"r","L":"Georgia","C":["n","jeo"],"d":"un stato en la SUA sude-este","p":"djordja","en":"Georgia (US state)"}
-{"T":"r","L":"gepardo","C":["n","mam"],"d":"un gato grande, manxada, e multe rapida de Africa e partes de Asia","i":"#","t":"Acinonyx jubatus","en":"cheetah"}
+{"L":"ge","C":["n"],"en":"gay, queer, homosexual","fr":"gay"}
+{"L":"antige","C":["a"],"p":"antigé","en":"anti-gay","fr":"antigay, homophobe"}
+{"T":"r","L":"geco","C":["n","ret"],"d":"un lezardo noturna e comun ruidosa, con cuxinetas aderente a sua pedes per aida trepa sur surfases lisa","i":"#","t":"Gekkonidae","en":"gecko","fr":"gecko"}
+{"T":"r","L":"Genova","C":["n","jeo"],"d":"un site en Liguria","en":"Genoa (Italian city)","fr":"Gênes"}
+{"L":"genoves","C":["a"],"en":"Genoese","fr":"génois"}
+{"L":"genoves","C":["n","dem"],"en":"Genoese","fr":"Génois (personne); génois (langue)"}
+{"T":"r","L":"Georgia","C":["n","jeo"],"d":"un stato en la SUA sude-este","p":"djordja","en":"Georgia (US state)","fr":"Georgie (État des USA)"}
+{"T":"r","L":"gepardo","C":["n","mam"],"d":"un gato grande, manxada, e multe rapida de Africa e partes de Asia","i":"#","t":"Acinonyx jubatus","en":"cheetah","fr":"guépard"}
 {"T":"r","L":"gera","C":["vnt","gov"],"d":"partisipa en un disputa con armas entre nasiones, statos o grupos diferente","en":"war, make war, wage war","fr":"faire la guerre"}
 {"L":"gera","C":["n"],"da":"krig","de":"Krieg","en":"war, warfare","es":"guerra","fr":"guerre"}
-{"L":"gera biolojial","C":["n"],"en":"biological warfare"}
-{"L":"gera cimical","C":["n"],"en":"chemical warfare"}
-{"L":"gera fria","C":["n"],"en":"cold war"}
-{"L":"gera interna","C":["n"],"en":"civil war, internecine war"}
-{"L":"gera lampin","C":["n"],"en":"blitzkrieg"}
-{"L":"gera mundal","C":["n"],"en":"world war"}
-{"L":"gera nucleal","C":["n"],"en":"nuclear warfare"}
-{"L":"gera psicolojial","C":["n"],"en":"psychological warfare"}
-{"L":"declara un gera contra","C":["v"],"en":"wage war on"}
-{"L":"geror","C":["n"],"en":"warrior"}
-{"L":"gerosa","C":["a"],"en":"bellicose, warlike"}
-{"L":"posgeral","C":["a"],"en":"post-war"}
-{"L":"pregeral","C":["a"],"en":"pre-war"}
-{"L":"progeral","C":["a"],"en":"pro-war"}
-{"T":"r","L":"gerilia","C":["n","gov"],"d":"un membro de un grupo peti e autonom ci partisipa en combate, tipal contra un forte militar plu grande","en":"guerrilla"}
-{"L":"gera de gerilia","C":["n"],"en":"guerrilla warfare"}
-{"T":"r","L":"germanica","C":["a","ling"],"d":"pertinente a un ramo de la familia de linguas indoeuropean cual inclui engles, deutx, nederlandes, frisce, dansce, norsce, svensce e gotica; pertinente a la poplas ci parla esta linguas","en":"Germanic, Teutonic"}
-{"L":"germanica","C":["n"],"en":"Germanic, Teutonic"}
-{"T":"r","L":"germanio","C":["n","cim"],"d":"la elemento cimical con numero atomal 32","s":"Ge","en":"germanium (element)"}
-{"T":"r","L":"Gernsi","C":["n","jeo"],"d":"un isola brites en la Manga, a norde-este de Jersi","i":"#","en":"Guernsey"}
-{"L":"gernsies","C":["a"],"en":"Sarnian (person); Guernésiais (language)"}
-{"L":"gernsies","C":["n"],"en":"Sarnian (person); Guernésiais (language)"}
-{"T":"r","L":"geser","C":["n","tera"],"d":"un fonte calda en cual acua boli a veses, ejetante un colona alta de acua e vapor en la aira; cualce jeta simil de licuida","i":"#","en":"geyser; gusher, uprush, blowout (oil)"}
-{"T":"r","L":"gestalt","C":["n","uma"],"d":"(en psicolojia) un intera organizada cual funsiona como plu ca la soma de sua partes","en":"gestalt"}
-{"T":"r","L":"gestapo","C":["n","gov","ist"],"d":"un polisia secreta e cruel en Deutxland en la rena de la Nazis","en":"gestapo"}
-{"T":"r","L":"geto","C":["n","uma","ist"],"d":"un parte de un site, tipal un visineria misera, ocupada par un popla o poplas minor; (istorial) la parte iudi de un site","en":"ghetto"}
-{"T":"r","L":"gexa","C":["n","ist"],"d":"un fem nion cual servi como un ospitor, divertinte omes con conversa, dansa e canta","i":"#","en":"geisha"}
-{"T":"r","L":"gi","C":["n","cos"],"d":"bur clarida, preparada de la lete de un bove o bufalo, usada en cosini barati","en":"ghee (butter)"}
-{"T":"r","L":"gibon","C":["n","mam"],"d":"un primate peti e magra con brasos longa e forte e crias alta de `u-u`, abitante la arbores de la forestas de Asia sude-este","i":"#","t":"Hylobatidae","en":"gibbon"}
-{"T":"r","L":"gida","C":["vt"],"d":"mostra la via a (algun); dirije o influe la atas de (algun); fa ce (un person o animal) acompania on par teni el a la mano, con un corda, etc; opera e controla la dirije e rapidia de (un veculo)","da":"lede, styre, drive","de":"führen; antreiben","en":"guide, lead, head; conduct, convey; usher, herd, wrangle; drive (vehicle), steer, helm","es":"guiar; conducir (vehículo)","fr":"guider; conduire (un véhicule)"}
-{"L":"gida","C":["n"],"en":"guidance, leadership"}
-{"L":"gidador","C":["n"],"en":"guide (device)"}
-{"L":"gidor","C":["n"],"en":"guide, leader, usher, docent; driver (vehicle), chauffeur"}
-{"L":"gidor de museo","C":["n"],"en":"museum guide"}
-{"L":"gidor de turi","C":["n"],"en":"tour guide"}
-{"L":"malgida","C":["vt"],"en":"misguide, mislead, lead astray"}
-{"L":"malgidada","C":["a"],"en":"misguided, misled, wrong-headed"}
-{"L":"malgidante","C":["a"],"en":"misleading, specious"}
-{"T":"r","L":"giga-","C":["pf"],"d":"{10^9}","en":"giga- (a thousand million)"}
-{"T":"r","L":"gilotin","C":["n","util"],"d":"un macina con un lama pesosa cual lisca vertical en du ranures, usada per destesti persones; un aparato per talia paper, vejetales, etc, con un lama movable liada a un funda fisada","i":"#","en":"guillotine"}
-{"L":"gilotini","C":["vt"],"en":"guillotine"}
-{"T":"r","L":"gimnosperma","C":["n","pla"],"d":"un planta con semes nonprotejeda par un ovario o fruta","en":"gymnosperm (botany)"}
-{"T":"r","L":"ginco","C":["n","pla"],"d":"un arbor caduca, relatada a la arbores conifer, con folias vanin e flores jala, orijinante en Jonguo","i":"#","t":"Ginkgo biloba","en":"ginkgo (tree)"}
-{"T":"r","L":"Gine","C":["n","jeo"],"c":"Conakry","d":"un pais a la costa ueste de Africa","i":"#","en":"Guinea"}
-{"L":"ginean","C":["a"],"en":"Guinean"}
-{"L":"ginean","C":["n","dem"],"en":"Guinean"}
-{"L":"Golfo Gine","C":["n","jeo"],"d":"la parte norde-este e ecuatoral de la Mar Atlantica sude, prosima a Africa sentral","i":"#","en":"Gulf of Guinea"}
-{"L":"Gine Ecuatoral","C":["n","jeo"],"c":"Malabo","d":"un pais peti en Africa ueste a lado de la Mar Ginean e composada de alga isolas e un colonia a la costa","i":"gine-ecuatoral","v":"ecuatoginean","en":"Equatorial Guinea"}
-{"L":"ecuatoginean","C":["a"],"v":"Gine Ecuatoral","en":"Ecuatorial Guinean, Ecuatoginean"}
-{"L":"ecuatoginean","C":["n"],"en":"Ecuatorial Guinean, Ecuatoginean"}
-{"L":"Gine Nova","C":["n","jeo"],"d":"un isola grande en la Mar Pasifica sude-ueste, a norde de Australia","i":"#","en":"New Guinea"}
-{"L":"Gine-Bisau","C":["n","jeo"],"c":"Bissau","d":"un pais a la costa ueste de Africa","i":"gine-bisau","en":"Guinea-Bissau"}
-{"T":"r","L":"gingam","C":["n","vest"],"d":"un stofa de coton lejera, tipal con cuadros blanca e colorida","en":"gingham"}
-{"L":"de gingam","C":["a"],"en":"(made of) gingham"}
-{"T":"r","L":"ginia","C":["vnt","uma"],"d":"(un oio) clui e abri rapida, per indica ce alga cosa es un broma o un secreta, o per siniali amosia; (ambos oios) clui e abri rapida","i":"#","en":"wink, blink, nictate"}
-{"L":"ginia","C":["n"],"en":"wink, blink (eyes)"}
+{"L":"gera biolojial","C":["n"],"en":"biological warfare","fr":"guerre bactériologique"}
+{"L":"gera cimical","C":["n"],"en":"chemical warfare","fr":"guerre chimique"}
+{"L":"gera fria","C":["n"],"en":"cold war","fr":"guerre froide"}
+{"L":"gera interna","C":["n"],"en":"civil war, internecine war","fr":"guerre civile, guerre intestine"}
+{"L":"gera lampin","C":["n"],"en":"blitzkrieg","fr":"guerre éclair"}
+{"L":"gera mundal","C":["n"],"en":"world war","fr":"guerre mondiale"}
+{"L":"gera nucleal","C":["n"],"en":"nuclear warfare","fr":"guerre nucléaire"}
+{"L":"gera psicolojial","C":["n"],"en":"psychological warfare","fr":"guerre psychologique"}
+{"L":"declara un gera contra","C":["v"],"en":"wage war on","fr":"déclarer la guerre contre"}
+{"L":"geror","C":["n"],"en":"warrior","fr":"guerrier"}
+{"L":"gerosa","C":["a"],"en":"bellicose, warlike","fr":"belliqueux"}
+{"L":"posgeral","C":["a"],"en":"post-war","fr":"d'après-guerre"}
+{"L":"pregeral","C":["a"],"en":"pre-war","fr":"d'avant-guerre"}
+{"L":"progeral","C":["a"],"en":"pro-war","fr":"partisan de la guerre, pour la guerre"}
+{"T":"r","L":"gerilia","C":["n","gov"],"d":"un membro de un grupo peti e autonom ci partisipa en combate, tipal contra un forte militar plu grande","en":"guerrilla","fr":"guérilla"}
+{"L":"gera de gerilia","C":["n"],"en":"guerrilla warfare","fr":"guerre de guérilla"}
+{"T":"r","L":"germanica","C":["a","ling"],"d":"pertinente a un ramo de la familia de linguas indoeuropean cual inclui engles, deutx, nederlandes, frisce, dansce, norsce, svensce e gotica; pertinente a la poplas ci parla esta linguas","en":"Germanic, Teutonic","fr":"germanique"}
+{"L":"germanica","C":["n"],"en":"Germanic, Teutonic","fr":"Germain, Teuton (personne); germanique (langue)"}
+{"T":"r","L":"germanio","C":["n","cim"],"d":"la elemento cimical con numero atomal 32","s":"Ge","en":"germanium (element)","fr":"germanium (élément)"}
+{"T":"r","L":"Gernsi","C":["n","jeo"],"d":"un isola brites en la Manga, a norde-este de Jersi","i":"#","en":"Guernsey","fr":"Guernesey"}
+{"L":"gernsies","C":["a"],"en":"Sarnian (person); Guernésiais (language)","fr":"guernesiais"}
+{"L":"gernsies","C":["n"],"en":"Sarnian (person); Guernésiais (language)","fr":"Guernesiais (personne); guernesiais (langue)"}
+{"T":"r","L":"geser","C":["n","tera"],"d":"un fonte calda en cual acua boli a veses, ejetante un colona alta de acua e vapor en la aira; cualce jeta simil de licuida","i":"#","en":"geyser; gusher, uprush, blowout (oil)","fr":"geyser"}
+{"T":"r","L":"gestalt","C":["n","uma"],"d":"(en psicolojia) un intera organizada cual funsiona como plu ca la soma de sua partes","en":"gestalt","fr":"gestalt"}
+{"T":"r","L":"gestapo","C":["n","gov","ist"],"d":"un polisia secreta e cruel en Deutxland en la rena de la Nazis","en":"gestapo","fr":"gestapo"}
+{"T":"r","L":"geto","C":["n","uma","ist"],"d":"un parte de un site, tipal un visineria misera, ocupada par un popla o poplas minor; (istorial) la parte iudi de un site","en":"ghetto","fr":"ghetto"}
+{"T":"r","L":"gexa","C":["n","ist"],"d":"un fem nion cual servi como un ospitor, divertinte omes con conversa, dansa e canta","i":"#","en":"geisha","fr":"geisha"}
+{"T":"r","L":"gi","C":["n","cos"],"d":"bur clarida, preparada de la lete de un bove o bufalo, usada en cosini barati","en":"ghee (butter)","fr":"beurre clarifié, ghee (beurre)"}
+{"T":"r","L":"gibon","C":["n","mam"],"d":"un primate peti e magra con brasos longa e forte e crias alta de `u-u`, abitante la arbores de la forestas de Asia sude-este","i":"#","t":"Hylobatidae","en":"gibbon","fr":"gibbon"}
+{"T":"r","L":"gida","C":["vt"],"d":"mostra la via a (algun); dirije o influe la atas de (algun); fa ce (un person o animal) acompania on par teni el a la mano, con un corda, etc; opera e controla la dirije e rapidia de (un veculo)","da":"lede, styre, drive","de":"führen; antreiben","en":"guide, lead, head; conduct, convey; usher, herd, wrangle; drive (vehicle), steer, helm","es":"guiar; conducir (vehículo)","fr":"guider, diriger; orienter, transmettre; conduire (un véhicule)"}
+{"L":"gida","C":["n"],"en":"guidance, leadership","fr":"guidage, direction, orientation, transmission; conduite (d'un véhicule)"}
+{"L":"gidador","C":["n"],"en":"guide (device)","fr":"guide (outil, manuel, instructions)"}
+{"L":"gidor","C":["n"],"en":"guide, leader, usher, docent; driver (vehicle), chauffeur","fr":"guide, leader (personne); chauffeur, conducteur (d'un véhicule)"}
+{"L":"gidor de museo","C":["n"],"en":"museum guide","fr":"guide de musée"}
+{"L":"gidor de turi","C":["n"],"en":"tour guide","fr":"guide (pour touristes) (personne)"}
+{"L":"malgida","C":["vt"],"en":"misguide, mislead, lead astray","fr":"mal guider, mal diriger, faire égarer, induire en erreur"}
+{"L":"malgidada","C":["a"],"en":"misguided, misled, wrong-headed","fr":"mal guidé, mal dirigé, égaré, induit en erreur"}
+{"L":"malgidante","C":["a"],"en":"misleading, specious","fr":"guidant mal, dirigeant mal, faisant égarer, induisant en erreur"}
+{"T":"r","L":"giga-","C":["pf"],"d":"{10^9}","en":"giga- (a thousand million)","fr":"giga- (milliard)"}
+{"T":"r","L":"gilotin","C":["n","util"],"d":"un macina con un lama pesosa cual lisca vertical en du ranures, usada per destesti persones; un aparato per talia paper, vejetales, etc, con un lama movable liada a un funda fisada","i":"#","en":"guillotine","fr":"guillotine"}
+{"L":"gilotini","C":["vt"],"en":"guillotine","fr":"guillotiner"}
+{"T":"r","L":"gimnosperma","C":["n","pla"],"d":"un planta con semes nonprotejeda par un ovario o fruta","en":"gymnosperm (botany)","fr":"gymnosperme"}
+{"T":"r","L":"ginco","C":["n","pla"],"d":"un arbor caduca, relatada a la arbores conifer, con folias vanin e flores jala, orijinante en Jonguo","i":"#","t":"Ginkgo biloba","en":"ginkgo (tree)","fr":"ginkgo biloba"}
+{"T":"r","L":"Gine","C":["n","jeo"],"c":"Conakry","d":"un pais a la costa ueste de Africa","i":"#","en":"Guinea","fr":"Guinée"}
+{"L":"ginean","C":["a"],"en":"Guinean","fr":"guinéen"}
+{"L":"ginean","C":["n","dem"],"en":"Guinean","fr":"Guinéen (personne)"}
+{"L":"Golfo Gine","C":["n","jeo"],"d":"la parte norde-este e ecuatoral de la Mar Atlantica sude, prosima a Africa sentral","i":"#","en":"Gulf of Guinea","fr":"golfe de Guinée"}
+{"L":"Gine Ecuatoral","C":["n","jeo"],"c":"Malabo","d":"un pais peti en Africa ueste a lado de la Mar Ginean e composada de alga isolas e un colonia a la costa","i":"gine-ecuatoral","v":"ecuatoginean","en":"Equatorial Guinea","fr":"Guinée équatoriale"}
+{"L":"ecuatoginean","C":["a"],"v":"Gine Ecuatoral","en":"Ecuatorial Guinean, Ecuatoginean","fr":"de Guinée équatoriale, équatoguinéen"}
+{"L":"ecuatoginean","C":["n"],"en":"Ecuatorial Guinean, Ecuatoginean","fr":"Équatoguinéen (personne)"}
+{"L":"Gine Nova","C":["n","jeo"],"d":"un isola grande en la Mar Pasifica sude-ueste, a norde de Australia","i":"#","en":"New Guinea","fr":"Nouvelle-Guinée"}
+{"L":"Gine-Bisau","C":["n","jeo"],"c":"Bissau","d":"un pais a la costa ueste de Africa","i":"gine-bisau","en":"Guinea-Bissau","fr":"Guinée-Bissao, Guinée-Bissau"}
+{"T":"r","L":"gingam","C":["n","vest"],"d":"un stofa de coton lejera, tipal con cuadros blanca e colorida","en":"gingham","fr":"vichy (tissu)"}
+{"L":"de gingam","C":["a"],"en":"(made of) gingham","fr":"en vichy (tissu)"}
+{"T":"r","L":"ginia","C":["vnt","uma"],"d":"(un oio) clui e abri rapida, per indica ce alga cosa es un broma o un secreta, o per siniali amosia; (ambos oios) clui e abri rapida","i":"#","en":"wink, blink, nictate","fr":"cligner de l'œil, ciller les yeux"}
+{"L":"ginia","C":["n"],"en":"wink, blink (eyes)","fr":"clin d'œil, cillement d'œil"}
 {"T":"r","L":"gitar","C":["n","mus"],"d":"un strumento musical de cordetas, con trastes, lados curva e ses o des-du cordetas, juada par la ditos o un plectro","i":"#","da":"guitar","de":"Gitarre","en":"guitar","es":"guitarra","fr":"guitare"}
-{"L":"gitar acustical","C":["n","mus"],"en":"acoustic guitar"}
-{"L":"gitar baso","C":["n","mus"],"en":"bass guitar"}
-{"L":"gitar eletrical","C":["n","mus"],"d":"un gitar con sensadores eletrica, tipal con un corpo solida","i":"#","en":"electric guitar"}
-{"L":"gitariste","C":["n","mus"],"en":"guitarist"}
-{"T":"r","L":"gladiator","C":["n","ist","spo"],"d":"(en Roma antica) un om instruida per combate con armas en un stadion, contra otra omes o animales savaje","i":"#","en":"gladiator"}
-{"T":"r","L":"gladiolo","C":["n","pla"],"d":"un planta en familia de iris, con folias spadin e spigas de flores colorosa","i":"#","t":"Gladiolus","en":"gladiolus"}
-{"T":"r","L":"glamor","C":["n","uma"],"d":"la cualia atraente o stimulante par cual alga persones o cosas pare spesial; un belia o encanta cual es sesal atraente","en":"glamour, pizzazz"}
-{"L":"glamori","C":["vt"],"en":"glamorize|is"}
-{"L":"glamorosa","C":["a"],"en":"glamorous"}
+{"L":"gitar acustical","C":["n","mus"],"en":"acoustic guitar","fr":"guitare acoustique"}
+{"L":"gitar baso","C":["n","mus"],"en":"bass guitar","fr":"basse, guitare basse"}
+{"L":"gitar eletrical","C":["n","mus"],"d":"un gitar con sensadores eletrica, tipal con un corpo solida","i":"#","en":"electric guitar","fr":"guitare électrique"}
+{"L":"gitariste","C":["n","mus"],"en":"guitarist","fr":"guitariste"}
+{"T":"r","L":"gladiator","C":["n","ist","spo"],"d":"(en Roma antica) un om instruida per combate con armas en un stadion, contra otra omes o animales savaje","i":"#","en":"gladiator","fr":"gladiateur"}
+{"T":"r","L":"gladiolo","C":["n","pla"],"d":"un planta en familia de iris, con folias spadin e spigas de flores colorosa","i":"#","t":"Gladiolus","en":"gladiolus","fr":"glaïeul"}
+{"T":"r","L":"glamor","C":["n","uma"],"d":"la cualia atraente o stimulante par cual alga persones o cosas pare spesial; un belia o encanta cual es sesal atraente","en":"glamour, pizzazz","fr":"charme, pouvoir de séduction, piquant"}
+{"L":"glamori","C":["vt"],"en":"glamorize|is","fr":"charmer, séduire, attirer"}
+{"L":"glamorosa","C":["a"],"en":"glamorous","fr":"charmeur, séducteur, attirant, charmant, séduisant, attachant"}
 {"T":"r","L":"glande","C":["n","anat"],"d":"un organo cual secrete cimicales spesial per usa en la corpo o per descarga a estra; la fini ronda de un penis o clitoris","en":"gland; glans","fr":"glande"}
-{"L":"glande salival","C":["n"],"en":"salivary gland"}
-{"L":"glande suprarenal","C":["n"],"en":"adrenal gland"}
-{"L":"glandal","C":["a"],"en":"glandular"}
-{"T":"r","L":"glareola","C":["n","avia"],"d":"un avia insetivor con alas longa e coda forcin, relatada a la pluviales","i":"#","t":"Glareola, Stiltia","en":"pratincole (bird)"}
-{"T":"r","L":"glasa","C":["vt"],"d":"covre (comedas o stofa) con un strato lisa e briliante","en":"glaze, ice, frost"}
-{"L":"glasa","C":["n"],"en":"glaze, icing, frosting"}
-{"L":"glasa fondente","C":["a"],"en":"fondant"}
-{"L":"glasada","C":["a"],"en":"glazed, glossy"}
-{"T":"r","L":"glasia","C":["n","tera"],"d":"un masa o rio lenta de jelo, formida par la cumula e compati de neva sur montes o prosima a la polos; un covre de jelo sur un area grande, tipal en zonas prosima a la polos","i":"#","en":"glacier, icecap"}
-{"L":"glasia polal","C":["n"],"en":"polar icecap"}
-{"L":"glasi","C":["vnt"],"en":"glaciate"}
-{"L":"glasi","C":["vt"],"en":"glaciate"}
-{"L":"glasi","C":["n"],"en":"glaciation"}
-{"L":"glasial","C":["a"],"en":"glacial"}
-{"L":"glasida","C":["a"],"en":"glaciated"}
-{"T":"r","L":"glasiolojia","C":["n","tera"],"d":"la studia de glasias","en":"glaciology"}
-{"L":"glasiolojiste","C":["n"],"en":"glaciologist"}
-{"T":"r","L":"glasnost","C":["n","ist","gov"],"d":"(en la URSS pasada) la politica o pratica de governa plu abrida a la sitadanes, inisiada par Mikhail Gorbachov en 1985","en":"glasnost"}
-{"T":"r","L":"glaucoma","C":["n","med"],"d":"un state de presa plu grande ca normal en la oio, gradal causante la perde de vide","en":"glaucoma"}
-{"T":"r","L":"gleditsia","C":["n","pla"],"d":"un arbor en familia de piso, con spinas longa e folias filisin","i":"#","t":"Gleditsia","en":"honey locust (tree)"}
-{"T":"r","L":"gli","C":["n","mus"],"d":"un canta en tre o plu partes, tipal sin strumentos","en":"glee (music)"}
-{"T":"r","L":"glica","C":["vnt","cim"],"d":"(un molecula de zucar) deveni liada a un molecula de protena o lipido sin regula enzimal","en":"glycate"}
-{"L":"glica","C":["n"],"en":"glycation"}
-{"L":"glicada","C":["a"],"en":"glycated"}
-{"T":"r","L":"glico-","C":["pf","tecn"],"d":"pertinente a o produinte zucar","en":"glyco-"}
-{"T":"r","L":"glicojen","C":["n","bio"],"d":"un materia deponeda en la texedas como un reserva de carboidratos","en":"glycogen (biology)"}
-{"T":"r","L":"glicolica","C":["n","cim"],"d":"un composada cristal, trovada en cana de zucar, uvas nonmatur e betas zucarosa, cual ave multe usas industrial","en":"glycolic acid"}
-{"T":"r","L":"glifo","C":["n","ling"],"d":"un simbol direta per un parola o espresa, en formas la plu antica de scrive; (en informatica) la representa grafica de un sinia","i":"#","en":"glyph, pictogram, pictograph"}
-{"T":"r","L":"glifosato","C":["n","cim"],"d":"un composada artifis usada como un erbiside forte","en":"glyphosate"}
-{"T":"r","L":"glisemia","C":["n","med"],"d":"la presentia de glucosa en la sangue","en":"glycemia|ae"}
-{"L":"glisemial","C":["a"],"en":"glycemic|ae"}
-{"L":"indise glisemial","C":["n"],"en":"glycemic|ae index"}
-{"T":"r","L":"gliseria","C":["n","pla"],"en":"manna grass"}
-{"T":"r","L":"gliserol","C":["n","cim"],"d":"un licuida viscosa, dulse e sin color, formida como un suproduida en la fabrica de sapon","en":"glycerol, glycerin, glycerine"}
-{"T":"r","L":"glisina","C":["n","pla"],"d":"un arboreta trepante, con grupos pendente de flores pal bluin lila","i":"#","t":"Wisteria","en":"wisteria (plant)"}
-{"T":"r","L":"globo","C":["n","ast"],"d":"un representa sfera de la Tera, Luna o constelas; cualce ojeto aprosima sfera","i":"#","en":"globe"}
-{"L":"globo con crus","C":["n"],"en":"orb, orb and cross, globus cruciger"}
-{"L":"globo de oio","C":["n"],"en":"eyeball"}
-{"L":"global","C":["a"],"en":"global, worldwide"}
-{"L":"globali","C":["vnt"],"en":"globalize|is"}
-{"L":"globali","C":["vt"],"en":"globalize|is"}
-{"L":"globali","C":["n"],"en":"globalization|is"}
-{"L":"globalisme","C":["n"],"en":"globalism"}
-{"L":"globaliste","C":["n"],"en":"globalist"}
-{"L":"globin","C":["a"],"en":"globular"}
-{"T":"r","L":"globulina","C":["n","bio"],"d":"un protena simple cual es un parte major de sero sangual","en":"globulin (protein)"}
-{"T":"r","L":"glocenspil","C":["n","mus"],"d":"un strumento de percute con un serie de pesos metal, colpada par marteletas","i":"#","en":"glockenspiel"}
-{"T":"r","L":"glomerulo","C":["n","anat"],"d":"un grupo de capilares sirca la fini de un tubeta de ren, do produidas dejetada es filtrida de la sangue","en":"glomerulus (anatomy)"}
-{"L":"glomerulal","C":["a"],"en":"glomerular"}
-{"T":"r","L":"gloria","C":["n","uma"],"d":"un onora alta ganiada par atenis notable; belia o dinia grande","en":"glory, magnificence, majesty"}
-{"L":"glori","C":["v"],"en":"glorify"}
-{"L":"gloriosa","C":["a"],"en":"glorious, magnificent, majestic"}
-{"T":"r","L":"glosa","C":["n","ling"],"d":"un tradui, esplica, interprete o parafrase de un parola, frase o pasaje de leteratur","en":"gloss, annotation"}
-{"L":"gloseria","C":["n"],"en":"glossary"}
-{"T":"r","L":"gloso-","C":["pf","tecn","anat","med"],"d":"con forma de lingua","en":"glosso-"}
-{"L":"-gloso","C":["sf","tecn","anat","med"],"d":"con forma de lingua","en":"-glossus"}
-{"T":"r","L":"glote","C":["n","anat","ling"],"d":"la parte de la larinje composada de la plias vosal e la pasaje entre los","en":"glottis"}
-{"L":"glotal","C":["a"],"en":"glottal"}
-{"L":"glotal","C":["n"],"en":"glottal (consonant)"}
-{"T":"r","L":"gloton","C":["a","uma"],"d":"abituada a come suprabundante","en":"gluttonous"}
-{"L":"gloton","C":["n"],"en":"glutton"}
-{"L":"glotonia","C":["n"],"en":"gluttony"}
-{"T":"r","L":"glucagon","C":["n","cim","bio"],"d":"un ormon formida en la pancreas cual promove la rompe de glicojen per produi glucosa en la figato","en":"glucagon"}
-{"T":"r","L":"glucosa","C":["n","bio"],"d":"un zucar simple, importante como un fonte de enerjia en organismes e un composante de multe carboidratos","en":"glucose, blood sugar"}
-{"T":"r","L":"glu-glu","C":["esc","onom"],"d":"la sona fada par un pavo o pavon","en":"gobble (turkey, peacock)"}
-{"T":"r","L":"gluma","C":["n","bio"],"d":"la casca de un seme de gran","en":"husk, chaff"}
-{"L":"desglumi","C":["vt"],"en":"winnow, remove chaff from"}
-{"T":"r","L":"gluon","C":["n","fis"],"d":"un particula suatomal sin masa, sur cual on ipotese ce lo lia cuarces a lunlotra","en":"gluon (particle)"}
-{"T":"r","L":"glutamato","C":["n","cim"],"d":"un sal o ester de asida glutaminal","en":"glutamate (chemistry)"}
-{"T":"r","L":"glutamina","C":["n","cim"],"d":"un aminoasida idrofilica cual es un composante de la plu de protenas","en":"glutamine (amino acid)"}
-{"L":"glutaminal","C":["a"],"en":"glutamic"}
-{"T":"r","L":"gluten","C":["n","pla","cos"],"d":"un misca de du protenas presente en granes, spesial trigo, cual causa la trama elastica de pasta","en":"gluten"}
+{"L":"glande salival","C":["n"],"en":"salivary gland","fr":"glande salivaire"}
+{"L":"glande suprarenal","C":["n"],"en":"adrenal gland","fr":"glande surrénale"}
+{"L":"glandal","C":["a"],"en":"glandular","fr":"glandulaire"}
+{"T":"r","L":"glareola","C":["n","avia"],"d":"un avia insetivor con alas longa e coda forcin, relatada a la pluviales","i":"#","t":"Glareola, Stiltia","en":"pratincole (bird)","fr":"glaréole (oiseau)"}
+{"T":"r","L":"glasa","C":["vt"],"d":"covre (comedas o stofa) con un strato lisa e briliante","en":"glaze, ice, frost","fr":"glacer"}
+{"L":"glasa","C":["n"],"en":"glaze, icing, frosting","fr":"glaçage"}
+{"L":"glasa fondente","C":["a"],"en":"fondant","fr":"fondant"}
+{"L":"glasada","C":["a"],"en":"glazed, glossy","fr":"glacé"}
+{"T":"r","L":"glasia","C":["n","tera"],"d":"un masa o rio lenta de jelo, formida par la cumula e compati de neva sur montes o prosima a la polos; un covre de jelo sur un area grande, tipal en zonas prosima a la polos","i":"#","en":"glacier, icecap","fr":"glacier"}
+{"L":"glasia polal","C":["n"],"en":"polar icecap","fr":"calotte polaire"}
+{"L":"glasi","C":["vnt"],"en":"glaciate","fr":"glacer, se glacer"}
+{"L":"glasi","C":["vt"],"en":"glaciate","fr":"glacer"}
+{"L":"glasi","C":["n"],"en":"glaciation","fr":"glaciation"}
+{"L":"glasial","C":["a"],"en":"glacial","fr":"glacial"}
+{"L":"glasida","C":["a"],"en":"glaciated","fr":"glacé"}
+{"T":"r","L":"glasiolojia","C":["n","tera"],"d":"la studia de glasias","en":"glaciology","fr":"glaciologie"}
+{"L":"glasiolojiste","C":["n"],"en":"glaciologist","fr":"glaciologue"}
+{"T":"r","L":"glasnost","C":["n","ist","gov"],"d":"(en la URSS pasada) la politica o pratica de governa plu abrida a la sitadanes, inisiada par Mikhail Gorbachov en 1985","en":"glasnost","fr":"glasnost"}
+{"T":"r","L":"glaucoma","C":["n","med"],"d":"un state de presa plu grande ca normal en la oio, gradal causante la perde de vide","en":"glaucoma","fr":"glaucome"}
+{"T":"r","L":"gleditsia","C":["n","pla"],"d":"un arbor en familia de piso, con spinas longa e folias filisin","i":"#","t":"Gleditsia","en":"honey locust (tree)","fr":"gleditsia (arbre)"}
+{"T":"r","L":"gli","C":["n","mus"],"d":"un canta en tre o plu partes, tipal sin strumentos","en":"glee (music)","fr":"glee (musique)"}
+{"T":"r","L":"glica","C":["vnt","cim"],"d":"(un molecula de zucar) deveni liada a un molecula de protena o lipido sin regula enzimal","en":"glycate","fr":"opérer une glycation"}
+{"L":"glica","C":["n"],"en":"glycation","fr":"glycation"}
+{"L":"glicada","C":["a"],"en":"glycated","fr":"glyqué"}
+{"T":"r","L":"glico-","C":["pf","tecn"],"d":"pertinente a o produinte zucar","en":"glyco-","fr":"glyco"}
+{"T":"r","L":"glicojen","C":["n","bio"],"d":"un materia deponeda en la texedas como un reserva de carboidratos","en":"glycogen (biology)","fr":"glycogène (biologie)"}
+{"T":"r","L":"glicolica","C":["n","cim"],"d":"un composada cristal, trovada en cana de zucar, uvas nonmatur e betas zucarosa, cual ave multe usas industrial","en":"glycolic acid","fr":"acide glycolique"}
+{"T":"r","L":"glifo","C":["n","ling"],"d":"un simbol direta per un parola o espresa, en formas la plu antica de scrive; (en informatica) la representa grafica de un sinia","i":"#","en":"glyph, pictogram, pictograph","fr":"glyphe, pictogramme"}
+{"T":"r","L":"glifosato","C":["n","cim"],"d":"un composada artifis usada como un erbiside forte","en":"glyphosate","fr":"glyphosate"}
+{"T":"r","L":"glisemia","C":["n","med"],"d":"la presentia de glucosa en la sangue","en":"glycemia|ae","fr":"glycémie"}
+{"L":"glisemial","C":["a"],"en":"glycemic|ae","fr":"glycémique"}
+{"L":"indise glisemial","C":["n"],"en":"glycemic|ae index","fr":"index glycémique"}
+{"T":"r","L":"gliseria","C":["n","pla"],"en":"manna grass","fr":"glycérie"}
+{"T":"r","L":"gliserol","C":["n","cim"],"d":"un licuida viscosa, dulse e sin color, formida como un suproduida en la fabrica de sapon","en":"glycerol, glycerin, glycerine","fr":"glycérine"}
+{"T":"r","L":"glisina","C":["n","pla"],"d":"un arboreta trepante, con grupos pendente de flores pal bluin lila","i":"#","t":"Wisteria","en":"wisteria (plant)","fr":"glycine (plante)"}
+{"T":"r","L":"globo","C":["n","ast"],"d":"un representa sfera de la Tera, Luna o constelas; cualce ojeto aprosima sfera","i":"#","en":"globe","fr":"globe, sphère, boule"}
+{"L":"globo con crus","C":["n"],"en":"orb, orb and cross, globus cruciger","fr":"orbe, orbe crucigère"}
+{"L":"globo de oio","C":["n"],"en":"eyeball","fr":"globe oculaire"}
+{"L":"global","C":["a"],"en":"global, worldwide","fr":"global, mondial"}
+{"L":"globali","C":["vnt"],"en":"globalize|is","fr":"se globaliser"}
+{"L":"globali","C":["vt"],"en":"globalize|is","fr":"globaliser"}
+{"L":"globali","C":["n"],"en":"globalization|is","fr":"globalisation"}
+{"L":"globalisme","C":["n"],"en":"globalism","fr":"globalisme"}
+{"L":"globaliste","C":["n"],"en":"globalist","fr":"globaliste"}
+{"L":"globin","C":["a"],"en":"globular","fr":"globulaire"}
+{"T":"r","L":"globulina","C":["n","bio"],"d":"un protena simple cual es un parte major de sero sangual","en":"globulin (protein)","fr":"globuline (protéine)"}
+{"T":"r","L":"glocenspil","C":["n","mus"],"d":"un strumento de percute con un serie de pesos metal, colpada par marteletas","i":"#","en":"glockenspiel","fr":"glockenspiel"}
+{"T":"r","L":"glomerulo","C":["n","anat"],"d":"un grupo de capilares sirca la fini de un tubeta de ren, do produidas dejetada es filtrida de la sangue","en":"glomerulus (anatomy)","fr":"glomérule, néphron (anatomie)"}
+{"L":"glomerulal","C":["a"],"en":"glomerular","fr":"glomérulaire"}
+{"T":"r","L":"gloria","C":["n","uma"],"d":"un onora alta ganiada par atenis notable; belia o dinia grande","en":"glory, magnificence, majesty","fr":"gloire"}
+{"L":"glori","C":["v"],"en":"glorify","fr":"glorifier"}
+{"L":"gloriosa","C":["a"],"en":"glorious, magnificent, majestic","fr":"glorieux, majestueux, magnifique, splendide, grandiose, rayonnant, prestigieux, triomphal"}
+{"T":"r","L":"glosa","C":["n","ling"],"d":"un tradui, esplica, interprete o parafrase de un parola, frase o pasaje de leteratur","en":"gloss, annotation","fr":"glose, annotation, commentaire"}
+{"L":"gloseria","C":["n"],"en":"glossary","fr":"glossaire"}
+{"T":"r","L":"gloso-","C":["pf","tecn","anat","med"],"d":"con forma de lingua","en":"glosso-","fr":"gloss-, glosso-"}
+{"L":"-gloso","C":["sf","tecn","anat","med"],"d":"con forma de lingua","en":"-glossus","fr":"-glotte"}
+{"T":"r","L":"glote","C":["n","anat","ling"],"d":"la parte de la larinje composada de la plias vosal e la pasaje entre los","en":"glottis","fr":"glotte"}
+{"L":"glotal","C":["a"],"en":"glottal","fr":"glottal"}
+{"L":"glotal","C":["n"],"en":"glottal (consonant)","fr":"glottale (consonne)"}
+{"T":"r","L":"gloton","C":["a","uma"],"d":"abituada a come suprabundante","en":"gluttonous","fr":"glouton"}
+{"L":"gloton","C":["n"],"en":"glutton","fr":"glouton"}
+{"L":"glotonia","C":["n"],"en":"gluttony","fr":"gloutonnerie"}
+{"T":"r","L":"glucagon","C":["n","cim","bio"],"d":"un ormon formida en la pancreas cual promove la rompe de glicojen per produi glucosa en la figato","en":"glucagon","fr":"glucagon"}
+{"T":"r","L":"glucosa","C":["n","bio"],"d":"un zucar simple, importante como un fonte de enerjia en organismes e un composante de multe carboidratos","en":"glucose, blood sugar","fr":"glucose, glycémie"}
+{"T":"r","L":"glu-glu","C":["esc","onom"],"d":"la sona fada par un pavo o pavon","en":"gobble (turkey, peacock)","fr":"glou-glou, gloussement"}
+{"T":"r","L":"gluma","C":["n","bio"],"d":"la casca de un seme de gran","en":"husk, chaff","fr":"balle (d'un grain)"}
+{"L":"desglumi","C":["vt"],"en":"winnow, remove chaff from","fr":"monder, émonder"}
+{"T":"r","L":"gluon","C":["n","fis"],"d":"un particula suatomal sin masa, sur cual on ipotese ce lo lia cuarces a lunlotra","en":"gluon (particle)","fr":"gluon (particule)"}
+{"T":"r","L":"glutamato","C":["n","cim"],"d":"un sal o ester de asida glutaminal","en":"glutamate (chemistry)","fr":"glutamate (chimie)"}
+{"T":"r","L":"glutamina","C":["n","cim"],"d":"un aminoasida idrofilica cual es un composante de la plu de protenas","en":"glutamine (amino acid)","fr":"glutamine (acide aminé)"}
+{"L":"glutaminal","C":["a"],"en":"glutamic","fr":"glutamique"}
+{"T":"r","L":"gluten","C":["n","pla","cos"],"d":"un misca de du protenas presente en granes, spesial trigo, cual causa la trama elastica de pasta","en":"gluten","fr":"gluten"}
 {"T":"r","L":"gluteo","C":["n","anat"],"d":"cada de la du partes carnosa cual formi la area retro e basa de la tronco de un person; un parte simil de un animal; cada de la tre musculos en esta area cual move la coxa","i":"#","da":"balde","de":"Gesässbacke","en":"buttock, gluteus","es":"nalga, asentadera, trasero","fr":"fesse"}
-{"L":"gluteos","C":["n","pl"],"da":"ende, bag, bagdel","en":"buttocks, backside, behind, bottom, rear"}
-{"T":"r","L":"gnais","C":["n","tera"],"d":"un roca mutada con strutur stratida, tipal composada de feldspato, cuarzo e mica","en":"gneiss (geology)"}
-{"T":"r","L":"gnatostomulido","C":["n"],"d":"un membro de un filo peti de animales multe peti de mar","i":"#","t":"Gnathostomulida","en":"gnathostomulid (organism)"}
-{"T":"r","L":"gneto","C":["n","pla"],"d":"un planta perene de la tropicos, cisa la prima polenida par insetos","i":"#","t":"Gnetum","en":"gnetum (plant)"}
+{"L":"gluteos","C":["n","pl"],"da":"ende, bag, bagdel","en":"buttocks, backside, behind, bottom, rear","fr":"fessier, fesses"}
+{"T":"r","L":"gnais","C":["n","tera"],"d":"un roca mutada con strutur stratida, tipal composada de feldspato, cuarzo e mica","en":"gneiss (geology)","fr":"gneiss (géologie)"}
+{"T":"r","L":"gnatostomulido","C":["n"],"d":"un membro de un filo peti de animales multe peti de mar","i":"#","t":"Gnathostomulida","en":"gnathostomulid (organism)","fr":"gnathostomulide (organisme)"}
+{"T":"r","L":"gneto","C":["n","pla"],"d":"un planta perene de la tropicos, cisa la prima polenida par insetos","i":"#","t":"Gnetum","en":"gnetum (plant)","fr":"gnète, gnetum (plante)"}
 {"T":"r","L":"gnomon","C":["n","util","mat"],"d":"la parte vertical de un orolojo de sol, de cual sua ombra indica la ora; la forma creada cuando on sutrae un paralelogram de un angulo de un paralelogram plu grande","en":"gnomon","fr":"gnomon"}
-{"T":"r","L":"gnostica","C":["a","fil","rel"],"d":"pertinente a sajia mistica e secreta; (istorial) pertinente a un grupo de filosofias o relijios antica cual ia asentua la developa de la spirito umana par la revela de sabe vera","en":"gnostic"}
-{"L":"gnostica","C":["n"],"en":"gnostic"}
-{"L":"gnosticisme","C":["n"],"en":"gnosticism"}
-{"T":"r","L":"gnu","C":["n","mam"],"d":"un antilope de Africa con testa longa, barba, crinera, e dorso inclinada","i":"#","t":"Connochaetes","en":"gnu, wildebeest"}
-{"T":"r","L":"go","C":["n","spo"],"d":"un jua de table de Nion, con la gol de gania teritorio","i":"#","en":"go (game)"}
-{"T":"r","L":"Gobi","C":["n","jeo"],"en":"Gobi"}
-{"L":"Deserto Gobi","C":["n","jeo"],"d":"un deserto a la plano alta su Mongol sude e Jonguo norde","i":"#","en":"Gobi Desert"}
-{"T":"r","L":"gobio","C":["n","pex"],"d":"un pex peti de mar, tipal con ventosa","i":"#","t":"Gobiidae","en":"goby (fish)"}
-{"T":"r","L":"gofer","C":["n","mam"],"d":"un rodente tunelinte con poxes foreda con pelo estra sua jenas, de America Norde","i":"#","t":"Geomyidae","en":"gopher (rodent)"}
-{"T":"r","L":"gol","C":["n","spo"],"d":"(en sportes) un area de un campo a cual on atenta dirije la bal per gania puntos; un gania de puntos en esta modo; la ojeto de la intende de algun; un resulta desirada","i":"#","en":"goal, target"}
-{"L":"fa un gol","C":["v"],"en":"score a goal"}
-{"L":"golor","C":["n"],"en":"goalkeeper, goaltender, goalie"}
-{"T":"r","L":"golem","C":["n","mit"],"d":"(en mitos iudi) un corpo de arjila, animada par majia","i":"#","en":"golem (mythology)"}
+{"T":"r","L":"gnostica","C":["a","fil","rel"],"d":"pertinente a sajia mistica e secreta; (istorial) pertinente a un grupo de filosofias o relijios antica cual ia asentua la developa de la spirito umana par la revela de sabe vera","en":"gnostic","fr":"gnostique"}
+{"L":"gnostica","C":["n"],"en":"gnostic","fr":"gnostique"}
+{"L":"gnosticisme","C":["n"],"en":"gnosticism","fr":"gnosticisme"}
+{"T":"r","L":"gnu","C":["n","mam"],"d":"un antilope de Africa con testa longa, barba, crinera, e dorso inclinada","i":"#","t":"Connochaetes","en":"gnu, wildebeest","fr":"gnou"}
+{"T":"r","L":"go","C":["n","spo"],"d":"un jua de table de Nion, con la gol de gania teritorio","i":"#","en":"go (game)","fr":"go (jeu)"}
+{"T":"r","L":"Gobi","C":["n","jeo"],"en":"Gobi","fr":"Gobi"}
+{"L":"Deserto Gobi","C":["n","jeo"],"d":"un deserto a la plano alta su Mongol sude e Jonguo norde","i":"#","en":"Gobi Desert","fr":"désert de Gobi"}
+{"T":"r","L":"gobio","C":["n","pex"],"d":"un pex peti de mar, tipal con ventosa","i":"#","t":"Gobiidae","en":"goby (fish)","fr":"gobie (poisson)"}
+{"T":"r","L":"gofer","C":["n","mam"],"d":"un rodente tunelinte con poxes foreda con pelo estra sua jenas, de America Norde","i":"#","t":"Geomyidae","en":"gopher (rodent)","fr":"géomys (rongeur)"}
+{"T":"r","L":"gol","C":["n","spo"],"d":"(en sportes) un area de un campo a cual on atenta dirije la bal per gania puntos; un gania de puntos en esta modo; la ojeto de la intende de algun; un resulta desirada","i":"#","en":"goal, target","fr":"but"}
+{"L":"fa un gol","C":["v"],"en":"score a goal","fr":"marquer un but"}
+{"L":"golor","C":["n"],"en":"goalkeeper, goaltender, goalie","fr":"gardien de but"}
+{"T":"r","L":"golem","C":["n","mit"],"d":"(en mitos iudi) un corpo de arjila, animada par majia","i":"#","en":"golem (mythology)","fr":"golem"}
 {"T":"r","L":"goleta","C":["n","vec"],"d":"un barcon de vela con du o plu mastos, de cual la anterior es tipal min grande ca la otra","i":"#","en":"schooner (ship)","fr":"goélette"}
-{"T":"r","L":"golf","C":["n","spo"],"d":"un sporte juada sur un campo grande, do on usa un baston spesial per colpa un bal a en un buco peti en la tera, con gol de usa tan poca colpas como posible","i":"#","en":"golf (sport)"}
-{"L":"golferia","C":["n"],"en":"golf course"}
-{"L":"golfor","C":["n"],"en":"golfer"}
-{"T":"r","L":"golfo","C":["n","tera"],"d":"un parte de un mar cuasi ensircada par tera, con boca streta","en":"gulf"}
-{"T":"r","L":"goma","C":["n","pla"],"d":"un secrete viscosa de alga arbores e arboretas cual duri cuando secida e de cual on fabrica aderentes e otra produidas; cualce otra sustantia simil","en":"gum"}
-{"L":"goma de cansela","C":["n"],"i":"#","en":"eraser"}
-{"L":"goma de mastica","C":["n"],"i":"#","en":"chewing gum"}
-{"L":"gomin","C":["a"],"en":"gummy, chewy"}
+{"T":"r","L":"golf","C":["n","spo"],"d":"un sporte juada sur un campo grande, do on usa un baston spesial per colpa un bal a en un buco peti en la tera, con gol de usa tan poca colpas como posible","i":"#","en":"golf (sport)","fr":"golf"}
+{"L":"golferia","C":["n"],"en":"golf course","fr":"parcours de golf"}
+{"L":"golfor","C":["n"],"en":"golfer","fr":"golfeur"}
+{"T":"r","L":"golfo","C":["n","tera"],"d":"un parte de un mar cuasi ensircada par tera, con boca streta","en":"gulf","fr":"golfe"}
+{"T":"r","L":"goma","C":["n","pla"],"d":"un secrete viscosa de alga arbores e arboretas cual duri cuando secida e de cual on fabrica aderentes e otra produidas; cualce otra sustantia simil","en":"gum","fr":"gomme (matière)"}
+{"L":"goma de cansela","C":["n"],"i":"#","en":"eraser","fr":"gomme (pour effacer)"}
+{"L":"goma de mastica","C":["n"],"i":"#","en":"chewing gum","fr":"chewing gum"}
+{"L":"gomin","C":["a"],"en":"gummy, chewy","fr":"gommeux, moelleux"}
 {"T":"r","L":"gombo","C":["n","pla","cos"],"d":"un planta en familia de malva, con cascas longa e crestida, de la tropicos de la mundo vea; la cascas comable de esta","i":"#","t":"Abelmoschus esculentus","en":"okra, gumbo (plant)"}
 {"T":"r","L":"gonada","C":["n","bio"],"d":"un organo cual produi gametas, per dise un ovario o testiculo","en":"gonad"}
 {"T":"r","L":"gondola","C":["n","vec"],"d":"un barceta longa e magra con fondo plana, usada en la canales de Venezia","i":"#","en":"gondola"}
