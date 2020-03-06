@@ -191,18 +191,18 @@
 {"T":"r","L":"Aconcagua, Monte","C":["n","jeo"],"d":"la monte la plu grande estra Asia, en la Andes de Arjentina","en":"Aconcagua","fr":"Aconcagua (mont)","he":"אקונגווה (הר בארגנטינה)"}
 {"T":"r","L":"aconito","C":["n","pla"],"d":"un planta venenosa con flores de forma elmin","i":"#","o":"de elinica akoniton","t":"Aconitum","en":"aconite, monkshood, wolfsbane (plant)","eo":"akonito","fr":"aconite","he":"אקוניטון (צמח)"}
 {"T":"r","L":"acorda","C":["vt","gov","ling"],"d":"ave la mesma opina (con algun) sur; es coerente (con alga cosa); dise ce on va (fa un ata)","u":"el ia acorda canta","da":"være enig, blive enig","de":"übereinstimmung","en":"agree to, consent, assent, accede, be in agreement (about), concur, accord; agree (grammar); match up, correspond, tally (with); be compatible","eo":"konsenti pri","es":"acordar, concordar, consentir, estar de acuerdo, ponerse de acuerdo","fr":"être d'accord, consentir","gl":"acordar, concordar, consentir, estar de acordo, poñerse de acordo","he":"להסכים; להתאים, להלום"}
-{"L":"acorda","C":["n","mus","ling"],"d":"armonia de opina; un grupo de notas armoniosa cual sona en junta; un cambia a la infleta de un parola, refletante un otra parola a cual lo relata","en":"agreement, accordance, consent, consensus, concord, congruence, congruity, compatibility; entente; chord (music)","eo":"konsento, konkordo, akordo, interkonsento; akordo","fr":"accord","he":"הסכמה, הסכם; התאמה, הלימה"}
+{"L":"acorda","C":["n","mus","ling"],"d":"armonia de opina; un grupo de notas armoniosa cual sona en junta; un cambia a la infleta de un parola, refletante un otra parola a cual lo relata","en":"agreement, accordance, consent, consensus, concord, congruence, congruity, compatibility; entente; chord (music)","eo":"konsento, konkordo, akordo, interkonsento; akordo","fr":"accord, accordage","he":"הסכמה, הסכם; התאמה, הלימה"}
 {"L":"acorda con testa","C":["esp"],"en":"nod one's head","eo":"kapjesi","fr":"acquiescement, hochement de tête","he":"להנהן"}
 {"L":"acorda de coesiste","C":["n"],"en":"modus vivendi, agreement to coexist","fr":"modus vivendi, arrangement, compromis","he":"מודוס ויוונדי, הסכם בין צדדים חלוקים"}
 {"L":"acorda de nonrevela","C":["n"],"en":"non-disclosure agreement","fr":"accord de non-divulgation","he":"הסכם לשמירת סודיות"}
 {"L":"acorda formal","C":["n"],"d":"un deside negosiada e tipal obligante par lege","en":"formal agreement, contract, deal, covenant, convention, terms","eo":"kontrakto, interkonsento","fr":"contrat, accord, compromis","he":"חוזה, הסכם רשמי"}
 {"L":"acorda unida","C":["n"],"en":"unanimity","eo":"unuanimeco","fr":"consensus, unanimité","he":"תמימות דעים, אחדות דעים"}
-{"L":"acordable","C":["a","info"],"d":"(aparatos o programes) capas de coesiste sin problemes","en":"compatible","eo":"kongrua","fr":"compatible","he":"תואם, הולם"}
+{"L":"acordable","C":["a","info"],"d":"(aparatos o programes) capas de coesiste sin problemes","en":"compatible","eo":"kongrua","fr":"compatible, accordable","he":"תואם, הולם"}
 {"L":"acordada","C":["a"],"en":"agreed, consensual","eo":"konsentita, interkonsenta","fr":"consensuel","he":"מוסכם, שבהסכמה"}
 {"L":"acordante","C":["a"],"en":"agreeing; compatible, congruent, congruous; in tune","eo":"konsenta, konsentanta; interkonsenta","fr":"consentant","he":"מסכים; מתאים; (מוזיקה) לא מזייף"}
-{"L":"desacorda","C":["vt"],"en":"disagree, conflict, clash, contravene","eo":"malkonsenti, konflikti","fr":"être en désaccord, ne pas être du même avis","he":"לחלוק, להתנגד; (צבעים) להתנגש"}
-{"L":"desacorda","C":["n"],"en":"disagreement, discord, discordance, discordancy, dissonance, clash, conflict, contention","eo":"malkonsento, malakordo, disonanco, konflikto","fr":"désaccord, discorde","he":"מחלוקת, סכסוך, קונפליקט"}
-{"L":"desacordante","C":["a"],"en":"disagreeing, discordant, dissonant, out of tune, clashing","eo":"malkonsenta, malakorda, disonanca","fr":"discordant, en désaccord","he":"לא מסכים, לא מתאים; צורם, מזייף"}
+{"L":"desacorda","C":["vt"],"en":"disagree (about), conflict, clash, contravene, object","eo":"malkonsenti, konflikti","fr":"être en désaccord, ne pas être du même avis, désaccorder","he":"לחלוק, להתנגד; (צבעים) להתנגש"}
+{"L":"desacorda","C":["n"],"en":"disagreement, discord, discordance, discordancy, dissonance, clash, conflict, contention","eo":"malkonsento, malakordo, disonanco, konflikto","fr":"désaccord, discorde, dissonance","he":"מחלוקת, סכסוך, קונפליקט"}
+{"L":"desacordante","C":["a"],"en":"disagreeing, discordant, dissonant, out of tune, clashing","eo":"malkonsenta, malakorda, disonanca","fr":"discordant, en désaccord, dissonant, pas accordé, mal accordé","he":"לא מסכים, לא מתאים; צורם, מזייף"}
 {"L":"en acorda unida","C":["a"],"en":"unanimous","eo":"unuanima","fr":"unanime, consensuel","he":"בתמימות דעים, באחדות דעים"}
 {"L":"formal acordada","C":["a"],"en":"formally agreed, contractual","eo":"formale konsentita, kontraktita","fr":"contractuel","he":"חוזי, שבהסכם רשמי"}
 {"L":"nonacorda","C":["n"],"en":"incongruity; incompatibility","fr":"incompatibilité, inconciliabilité","he":"חוסר התאמה, אי-הלימה"}
@@ -2550,6 +2550,7 @@
 {"T":"r","L":"avionica","C":["n","fis"],"d":"eletronica aplicada a aviones","en":"avionics","fr":"avionique, électronique des avions","he":"אוויוניקה (מערכות אלקטרוניות במטוסים)"}
 {"T":"r","L":"avisa","C":["vt","gov"],"d":"informa (algun) sur alga cosa, tipal en modo formal, ofisial o automata","en":"advise, notify, give notice, alert","es":"avisar","fr":"aviser","he":"לייעץ; להודיע"}
 {"L":"avisa","C":["n"],"en":"advice, warning, notice, notification, alert, bulletin, prompt; caveat, proviso; clue (in a treasure hunt or similar game)","fr":"avis, avertissement, notification, note","he":"עצה; הודעה, אזהרה"}
+{"L":"avisa de para","C":["n"],"en":"stop sign"}
 {"L":"avisa de via","C":["n"],"en":"road sign, street sign","fr":"panneau routier","he":"תמרור"}
 {"L":"avisa vidable","C":["n"],"en":"visual alert","fr":"alarme visuelle","he":"הודעה ויזואלית"}
 {"L":"aviseta","C":["vt"],"en":"hint, tip","fr":"faire allusion à, laisser entendre, insinuer, suggérer","he":"לרמוז"}
@@ -4227,7 +4228,7 @@
 {"L":"camera ueb","C":["n"],"i":"#","en":"webcam","fr":"webcam","he":"מצלמת רשת"}
 {"L":"camera vijilante","C":["n"],"en":"CCTV camera","fr":"caméra de surveillance","he":"מצלמת אבטחה"}
 {"L":"cameror","C":["n"],"en":"camera operator, cameraman, camerawoman","fr":"cameraman","he":"(קולנוע) מפעיל מצלמה"}
-{"T":"r","L":"camerada","C":["n"],"d":"un acompanior ci ave la mesma interesas o es un membro de la mesma organiza; un sitadan de la mesma nasion o pais; un person con ci on pasa multe tempo o con ci on viaja","en":"comrade, companion, compatriot, crony, sidekick, pal","fr":"camarade, compagnon, compatriote, copain","he":"חבר, שותף, עמית"}
+{"T":"r","L":"camerada","C":["n"],"d":"un acompanior ci ave la mesma interesas o es un membro de la mesma organiza; un sitadan de la mesma nasion o pais; un person con ci on pasa multe tempo o con ci on viaja","en":"comrade, companion, compatriot, crony, sidekick, pal, mate, buddy","fr":"camarade, compagnon, compatriote, copain","he":"חבר, שותף, עמית"}
 {"L":"camerada de aparte","C":["n"],"en":"flatmate","fr":"colocataire, coloc (qui partage le même appartement)","he":"שותף לדירה"}
 {"L":"camerada de barco","C":["n"],"en":"shipmate","fr":"compagnon de bord","he":"שותף להפלגה"}
 {"L":"camerada de clase","C":["n"],"en":"classmate","fr":"camarade de classe","he":"חבר לכיתה, בן מחזור"}
@@ -4733,6 +4734,7 @@
 {"L":"carta blanca","C":["n","mone"],"en":"carte blanche","fr":"carte blanche","he":"יד חופשית, חופש פעולה"}
 {"L":"carta de banca","C":["n","mone"],"en":"bank card","fr":"carte bancaire","he":"כרטיס בנקאי, כרטיס בנקט"}
 {"L":"carta de credito","C":["n","mone"],"en":"credit card","fr":"carte de crédit","he":"כרטיס אשראי"}
+{"L":"carta de debito","C":["n","mone"],"en":"debit card"}
 {"L":"carta de identia","C":["n","gov"],"en":"identity card, ID card","fr":"carte d'identité","he":"תעודת זהות"}
 {"L":"carta de jua","C":["n","spo"],"en":"playing card","fr":"carte à jouer","he":"קלף משחק"}
 {"L":"carta de memoria","C":["n","info"],"en":"memory card","fr":"carte mémoire","he":"כרטיס זיכרון"}
@@ -5378,7 +5380,7 @@
 {"L":"codigi","C":["n"],"en":"encoding (action)","fr":"encodage, cryptage, codification","he":"קידוד"}
 {"L":"codigida","C":["a"],"en":"coded","fr":"codé, encodé, codifié","he":"מקודד"}
 {"L":"codigida par color","C":["a"],"en":"color-coded|ur","fr":"codé par un code couleur","he":"מקודד לפי צבע"}
-{"L":"codigor","C":["n"],"en":"coder (programmer)","fr":"encodeur (programmeur)"}
+{"L":"codigor","C":["n"],"en":"coder, hacker (programmer)","fr":"encodeur (programmeur)"}
 {"L":"permanente codigida","C":["a"],"en":"hard-coded","fr":"codé en dur","he":"(מחשבים) מובנה, קבוע"}
 {"T":"r","L":"codo","C":["n","anat"],"d":"la junta entre la braso alta e la braso basa; la parte de un veste cual covre esta; alga cosa cual sembla esta; un mesura antica de longia, egal a sirca 44 cm","i":"#","en":"elbow; cubit","he":"מרפק; אמה (יחידת מידה)"}
 {"T":"r","L":"codon","C":["n","bio","cim"],"d":"un serie de tre nucleotidos cual formi un unia de la codigo jenetical en un molecula de adn o arn","en":"codon (genetics)","fr":"codon (biochimie)","he":"(גנטיקה) קודון"}
@@ -5883,7 +5885,9 @@
 {"L":"descomuta","C":["vnt"],"en":"switch off, turn off, shut off, shut down, disconnect (machine); disable (software feature)","fr":"déconnecter, arrêter, mettre à l'arrêt, débrancher, désactiver","he":"להיכבות, להיפסק, להיעצר, להתנתק, להינתק"}
 {"L":"descomuta","C":["vt"],"en":"switch off, turn off, shut off, shut down, disconnect (machine); disable (software feature)","fr":"fermer, déconnecter, arrêter, mettre à l'arrêt, débrancher, désactiver","he":"לכבות, להפסיק, לעצור, לנתק, להשבית (מכונה)"}
 {"L":"descomuta","C":["n"],"en":"shutoff, disconnection","fr":"fermeture, mise à l'arrêt, interruption, déconnexion, désactivation","he":"כיבוי, הפסקה, עצירה, ניתוק, השבתה (של מכונה)"}
+{"L":"descomutable","C":["a"],"en":"switch-offable, disconnectable, able to be switched off"}
 {"L":"descomutada","C":["a"],"en":"off, switched off, turned off; disconnected, offline; disabled","fr":"fermé, arrêté, mis à l'arrêt, interrompu, déconnecté, désactivé","he":"כבוי, מכובה, מופסק, מנותק, מושבת"}
+{"L":"nondescomutable","C":["a"],"en":"unswitch-offable; addictive, moreish (metaphor)"}
 {"L":"recomuta","C":["vt"],"en":"reconnect, switch back on","fr":"redémarrer, remettre en route, reconnecter","he":"לחבר שוב, להדליק שוב"}
 {"T":"r","L":"con","C":["prep"],"d":"acompaniada par (un otra person o cosa)","g":"preposadas#con","u":"me jua tenis con mea sore; el nada con la flue","da":"med, sammen med","de":"mit","en":"with, in the company of, going along with","eo":"kun","es":"con, en compañia de, acompañado por","fr":"avec, en compagnie de","he":"עם"}
 {"T":"s","d":"posesente o incluinte (un cosa o cualia)","u":"cafe con lete; un can con oreas longa; tu roji con embarasa","en":"with (having or including)","eo":"kun","es":"con, por","fr":"à, avec","he":"עם"}
@@ -6940,7 +6944,7 @@
 {"L":"noncrede","C":["n"],"en":"disbelief, incredulity","fr":"incroyance, mécréance, méfiance, incrédulité","he":"אי אמונה, ספקנות, כפירה"}
 {"L":"noncredente","C":["a"],"en":"disbelieving, incredulous","fr":"incroyant, mécréant, méfiant, incrédule","he":"חסר אמונה, ספקני"}
 {"L":"noncredor","C":["n"],"en":"non-believer, infidel","fr":"agnostique, non-croyant, athée, infidèle, incroyant","he":"חסר אמונה, ספקן, כופר"}
-{"T":"r","L":"credito","C":["n","mone"],"d":"la capasia de un person per oteni benes o servis ante paia, fundida sur la fida ce el va paia en la futur; la mone prestada en un tal acorda","da":"kredit","de":"Kredit","en":"credit (money)","es":"crédito","fr":"crédit","he":"אשראי, קרדיט"}
+{"T":"r","L":"credito","C":["n","mone"],"d":"la capasia de un person per oteni benes o servis ante paia, fundida sur la fida ce el va paia en la futur; la mone prestada en un tal acorda; (en contablia) un entrada en la colona destra de un conta","da":"kredit","de":"Kredit","en":"credit (money)","es":"crédito","fr":"crédit","he":"אשראי, קרדיט"}
 {"L":"creditor","C":["n"],"en":"creditor","fr":"créancier","he":"נושה, מלווה"}
 {"L":"par credito","C":["av"],"en":"on credit","fr":"à crédit","he":"באשראי, בקרדיט"}
 {"T":"r","L":"crema","C":["a","col","cos"],"d":"jala ma multe pal","i":"#","en":"cream (color|ur)","fr":"crème (couleur)","he":"קרם (צבע)"}
@@ -7344,7 +7348,7 @@
 {"T":"r","L":"cuieta","C":["a"],"d":"produinte poca o no sona","da":"stille, sagte, lydløs","de":"ruhig","en":"quiet, calm, soft, faint, stealthy","es":"silencioso, callado, suave, leve, quieto, tranquilo","fr":"calme, tranquille, doux, léger, discret, ténu (d'une intensité sonore faible)","he":"שקט, עמום"}
 {"L":"cuieta","C":["av"],"en":"quietly, calmly, softly, faintly, stealthily; pianissimo","fr":"calmement, tranquillement, doucement, faiblement; pianissimo","he":"בשקט"}
 {"L":"cuieti","C":["vnt"],"en":"quieten, calm, calm down","fr":"se calmer, s'apaiser, se tranquilliser","he":"לשקוט"}
-{"L":"cuieti","C":["vt"],"en":"quieten, calm, calm down","fr":"calmer, apaiser, tranquilliser","he":"להשקיט"}
+{"L":"cuieti","C":["vt"],"en":"quieten, calm, calm down, subdue","fr":"calmer, apaiser, tranquilliser","he":"להשקיט"}
 {"L":"cuietia","C":["n"],"en":"quiet, calm, quietness, calmness","fr":"calme, tranquillité, apaisement","he":"שקט"}
 {"L":"cuietisme","C":["n"],"en":"quietism","fr":"quiétisme","he":"(נצרות) קווייטיזם"}
 {"L":"cuietiste","C":["n"],"en":"quietist","fr":"quiétiste","he":"(נצרות) קווייטיסט"}
@@ -7663,6 +7667,7 @@
 {"L":"debili","C":["vt"],"en":"weaken, enfeeble, debilitate, enervate","fr":"affaiblir, atténuer, fragiliser, dégrader, diminuer, fatiguer","he":"להחליש, להתיש, לדלדל","ru":"ослаблять; притуплять (чувства, боль и тп)"}
 {"L":"debili","C":["n"],"en":"attenuation, debilitation, enervation","fr":"affaiblissement, atténuation, fragilisation, dégradation","he":"החלשה, התשה, דלדול","ru":"ослабление"}
 {"L":"debilia","C":["n"],"en":"weakness, frailty, infirmity","fr":"faiblesse, infirmité, fragilité, vulnérabilité","he":"חולשה","ru":"слабость"}
+{"T":"r","L":"debito","C":["n","mone"],"d":"(en contablia) un entrada en la colona sinistra de un conta","en":"debit (money)"}
 {"T":"r","L":"debua","C":["vnt"],"d":"(un person, presenta o produida) apare publica a la ves prima","en":"debut, premiere","fr":"débuter, faire ses débuts","he":"להופיע לראשונה, לקיים הצגת בכורה"}
 {"L":"debua","C":["n"],"en":"debut, premiere","fr":"début, débuts, première","he":"הצגת בכורה, הקרנת בכורה, פרימיירה"}
 {"L":"debuante","C":["n"],"en":"debutant, debutante","fr":"débutant, débutante","he":"דביוטנטית"}
@@ -8125,6 +8130,7 @@
 {"L":"sudevelopada","C":["a"],"en":"underdeveloped","fr":"sous-développé","he":"שאינו מפותח מספיק"}
 {"T":"r","L":"deveni","C":["vl"],"d":"comensa es; cambia se a","u":"me deveni vea; la eruga ia deveni un papilio","da":"blive","de":"werden","en":"become, get, grow, turn","es":"hacerse, ponerse, llegar a ser, convertirse en, volverse","fr":"devenir","he":"להפוך ל, להיעשות"}
 {"T":"r","L":"devia","C":["vnt"],"d":"move a via de un curso","en":"deviate, stray, swerve, go off course","fr":"dévier","he":"לסטות, לחרוג"}
+{"L":"devia","C":["vt"],"en":"cause to deviate, derail, hijack"}
 {"L":"devia","C":["n"],"en":"deviation, aberration, detour, discrepancy, swerve","fr":"déviation","he":"סטייה, חריגה; סתירה, אי-התאמה"}
 {"L":"deviante","C":["a"],"en":"deviant, deviating, deviated, stray, astray, awry, aberrant, errant","fr":"déviant","he":"סוטה; חריג"}
 {"L":"nondeviante","C":["a"],"en":"undeviating, unswerving","fr":"non déviant","he":"שאינו סוטה, שאינו חורג"}
@@ -9989,6 +9995,7 @@
 {"L":"eserse adomenal","C":["n"],"en":"abdominal exercise, sit-ups","fr":"exercice abdominal"}
 {"L":"eserse con pesas","C":["n"],"en":"weight training","fr":"entraînement au lever de poids"}
 {"L":"eserse fisical","C":["n"],"en":"physical exercise, calisthenics","fr":"exercice physique"}
+{"L":"eserses de scola","C":["n"],"en":"school exercises, homework"}
 {"L":"esersor","C":["n"],"en":"exerciser","fr":"pratiquant, celui ou celle qui s'entraîne, celui ou celle qui s'exerce"}
 {"L":"esersosa","C":["a"],"en":"strenuous","fr":"pratiquant, qui pratique sérieusement, persévérant"}
 {"T":"r","L":"eseta","C":["vt"],"d":"spesifa (un person o cosa) como no parteninte a un categoria o grupo","en":"except, spare","fr":"excepter"}
@@ -10421,6 +10428,7 @@
 {"T":"r","L":"eurosetica","C":["a","gov"],"d":"oposada a la crese de la potia de la Uni European","en":"euroskeptic|eurosceptic","fr":"eurosceptique"}
 {"L":"eurosetica","C":["n"],"en":"euroskeptic|eurosceptic","fr":"eurosceptique"}
 {"T":"r","L":"eurozona","C":["n","mone"],"d":"la grupo de nasiones de la Uni European de cual sua unia de mone es la euro","en":"eurozone, euro area","fr":"zone euro, eurozone"}
+{"T":"r","L":"Euscadi","C":["n","jeo"],"d":"un comunia autonom en Espania norde","en":"Basque Country, Basque Autonomous Community","fr":"(communauté autonome du) Pays basque"}
 {"T":"r","L":"Euscaleria","C":["n","jeo"],"d":"la rejion de Frans e Espania sirca la fini ueste de la Montes Pirineo do la popla euscara abita","i":"#","en":"Basque Country","fr":"pays basque"}
 {"L":"euscara","C":["a"],"en":"Basque (person, language)","fr":"basque"}
 {"L":"euscara","C":["n"],"en":"Basque (person, language)","fr":"Basque (personne); basque (langue)"}
@@ -12476,117 +12484,117 @@
 {"L":"antigravita","C":["n"],"en":"antigravity","fr":"antigravité"}
 {"L":"gravital","C":["a"],"en":"gravitational","fr":"gravitationnel"}
 {"T":"r","L":"graviton","C":["n","fis"],"d":"un cuanto ipotesal de gravita, regardada como un particula","en":"graviton","fr":"graviton"}
-{"T":"r","L":"grebe","C":["n","avia"],"d":"un avia acual e tufante con colo longa, ditos lobosa, e coda multe corta","i":"#","t":"Podicipedidae","en":"grebe (bird)"}
-{"T":"r","L":"gregorian","C":["a","ist"],"d":"pertinente a la periodo de Pape Gregorio 13, tipal a la calendario introduida par el en 1582, ancora usada par cuasi tota nasiones oji","en":"Gregorian"}
-{"T":"r","L":"Grenada","C":["n","jeo"],"c":"St George's","d":"un pais de isolas de la Mar Caribe sude-este","i":"#","en":"Grenada"}
-{"L":"grenadian","C":["a"],"en":"Grenadian"}
-{"L":"grenadian","C":["n","dem"],"en":"Grenadian"}
-{"T":"r","L":"Grenadine, Isolas","C":["n","pl","jeo"],"d":"un cadena de isolas peti en la Mar Caribe","i":"Isolas-Grenadine","en":"Grenadine Islands"}
+{"T":"r","L":"grebe","C":["n","avia"],"d":"un avia acual e tufante con colo longa, ditos lobosa, e coda multe corta","i":"#","t":"Podicipedidae","en":"grebe (bird)","fr":"grèbe (oiseau)"}
+{"T":"r","L":"gregorian","C":["a","ist"],"d":"pertinente a la periodo de Pape Gregorio 13, tipal a la calendario introduida par el en 1582, ancora usada par cuasi tota nasiones oji","en":"Gregorian","fr":"grégorien"}
+{"T":"r","L":"Grenada","C":["n","jeo"],"c":"St George's","d":"un pais de isolas de la Mar Caribe sude-este","i":"#","en":"Grenada","fr":"île de la Grenade"}
+{"L":"grenadian","C":["a"],"en":"Grenadian","fr":"grenadien"}
+{"L":"grenadian","C":["n","dem"],"en":"Grenadian","fr":"Grenadien (personne)"}
+{"T":"r","L":"Grenadine, Isolas","C":["n","pl","jeo"],"d":"un cadena de isolas peti en la Mar Caribe","i":"Isolas-Grenadine","en":"Grenadine Islands","fr":"Grenadines (archipel)"}
 {"T":"r","L":"greve","C":["vnt","gov"],"d":"(empleadas) refusa labora como un forma de protesta organizada, tipal per oteni beneficas de sua empleor","i":"#","da":"strejke","de":"Streik","en":"strike (protest)","fr":"se mettre en grève"}
 {"L":"greve","C":["n"],"en":"strike","es":"huelga, paro laboral","fr":"grève"}
 {"L":"greve nonlegal","C":["n"],"en":"wildcat strike"}
-{"L":"grevor","C":["n"],"i":"#","en":"striker, picketer"}
-{"T":"r","L":"grifon","C":["n","mit"],"d":"un monstro con corpo de leon e testa e alas de agila","i":"#","en":"griffin, griffon, gryphon"}
-{"T":"r","L":"grilia","C":["n","arci","util"],"d":"un strutur de bandas de lenio o metal crusante, con spasios cuadro o diamantin a entre, usada como un serca, scermo, brasador, etc; un sinia de du linias vertical e du linias orizonal crusante, con sinifias diversa","i":"#","s":"#","en":"grill, grillwork, grid, gridiron, grate, lattice, latticework, trellis; broiler; hash sign, hashtag; number sign; pound sign (US: weight)"}
-{"L":"grilia de ximineria","C":["n"],"en":"grate (fireplace)"}
-{"L":"grili","C":["vt"],"en":"grill, barbecue, broil, charbroil; add a hash sign to, hashtag; crosshatch"}
-{"L":"grilin","C":["a"],"en":"gridlike, crisscross, hatching, crosshatching"}
+{"L":"grevor","C":["n"],"i":"#","en":"striker, picketer","fr":"gréviste"}
+{"T":"r","L":"grifon","C":["n","mit"],"d":"un monstro con corpo de leon e testa e alas de agila","i":"#","en":"griffin, griffon, gryphon","fr":"griffon"}
+{"T":"r","L":"grilia","C":["n","arci","util"],"d":"un strutur de bandas de lenio o metal crusante, con spasios cuadro o diamantin a entre, usada como un serca, scermo, brasador, etc; un sinia de du linias vertical e du linias orizonal crusante, con sinifias diversa","i":"#","s":"#","en":"grill, grillwork, grid, gridiron, grate, lattice, latticework, trellis; broiler; hash sign, hashtag; number sign; pound sign (US: weight)","fr":"grille, treillis; dièse, # (signe hashtag)"}
+{"L":"grilia de ximineria","C":["n"],"en":"grate (fireplace)","fr":"grille (de cheminée)"}
+{"L":"grili","C":["vt"],"en":"grill, barbecue, broil, charbroil; add a hash sign to, hashtag; crosshatch","fr":"faire griller au barbecue; mettre un #, hashtaguer; hachurer"}
+{"L":"grilin","C":["a"],"en":"gridlike, crisscross, hatching, crosshatching","fr":"hachuré, entrecroisé, en croisillon, en forme de grille"}
 {"T":"r","L":"grilo","C":["n","artr"],"d":"un inseto en familia de locusta, de cual la mas produi un grinse ruidosa","i":"#","t":"Ensifera","da":"fårekylling","de":"Grashüpfer","en":"cricket (insect)","es":"saltamontes, chapulín","fr":"grillon"}
 {"L":"grilo verde","C":["n","artr"],"d":"un locusta grande e tipal verde","i":"#","t":"Tettigoniidae","en":"katydid, bush cricket","fr":"grande sauterelle"}
-{"T":"r","L":"grima","C":["vnt","uma"],"d":"un espresa de fas, indicante coleria, tristia, consentra o mal umor","en":"grimace, frown, scowl, glower, glare, sneer; grin (skull)"}
-{"L":"grima","C":["n"],"i":"#","en":"grimace, frown, scowl, glower, glare, sneer; grin (skull)","fr":"grimacer"}
-{"T":"r","L":"grinse","C":["vnt"],"d":"fa un sona alta e forte, tipal causada par la raspa de un cosa o parte contra un otra","en":"creak (high-pitched), squeak, chirp, grate","fr":"grincer"}
-{"L":"grinse","C":["n"],"en":"creak (high-pitched), squeak, chirp, grate"}
-{"L":"grinsente","C":["a"],"en":"creaking, creaky, squeaky"}
-{"T":"r","L":"grio","C":["n","arte"],"d":"un membro de un casta de poesistes, musicistes e narores ci manteni un tradision de istoria bocal en partes de Africa ueste","en":"griot (storyteller)"}
+{"T":"r","L":"grima","C":["vnt","uma"],"d":"un espresa de fas, indicante coleria, tristia, consentra o mal umor","en":"grimace, frown, scowl, glower, glare, sneer; grin (skull)","fr":"grimacer, se renfrogner, froncer les sourcils, avoir une mine attristée, avoir un regard noir, avoir un mauvais regard"}
+{"L":"grima","C":["n"],"i":"#","en":"grimace, frown, scowl, glower, glare, sneer; grin (skull)","fr":"mine renfrognée, froncement de sourcils, mine attristée, expression de mauvaise humeur, regard noir, mauvais regard"}
+{"T":"r","L":"grinse","C":["vnt"],"d":"fa un sona alta e forte, tipal causada par la raspa de un cosa o parte contra un otra","en":"creak (high-pitched), squeak, chirp, grate","fr":"grincer, geindre, crisser"}
+{"L":"grinse","C":["n"],"en":"creak (high-pitched), squeak, chirp, grate","fr":"grincement"}
+{"L":"grinsente","C":["a"],"en":"creaking, creaky, squeaky","fr":"grinçant"}
+{"T":"r","L":"grio","C":["n","arte"],"d":"un membro de un casta de poesistes, musicistes e narores ci manteni un tradision de istoria bocal en partes de Africa ueste","en":"griot (storyteller)","fr":"griot (conteur)"}
 {"T":"r","L":"gripe","C":["n","med"],"d":"un infeta virusal e multe comunicable de la pulmones, causante febre, dole e cataro","en":"influenza, flu","fr":"grippe"}
-{"L":"gripe avial","C":["n"],"en":"avian flu, bird flu"}
-{"L":"gripe porcal","C":["n"],"en":"swine flu"}
+{"L":"gripe avial","C":["n"],"en":"avian flu, bird flu","fr":"grippe aviaire"}
+{"L":"gripe porcal","C":["n"],"en":"swine flu","fr":"grippe porcine"}
 {"T":"r","L":"gris","C":["a","col"],"d":"con color entre negra e blanca, como sene","i":"#","da":"grå","de":"grau","en":"gray|grey, grizzled","es":"gris","fr":"gris"}
-{"L":"gris","C":["n"],"en":"gray|grey"}
-{"L":"grisi","C":["vnt"],"en":"gray|grey, turn gray|grey, grizzle"}
-{"L":"grisi","C":["vt"],"en":"gray|grey, turn gray|grey, grizzle"}
-{"L":"grisin","C":["a"],"en":"grayish|greyish"}
-{"L":"grisin brun","C":["a"],"en":"grayish|greyish brown, dun"}
-{"T":"r","L":"grog","C":["n","cos"],"d":"un bevida de acua e rum o un otra distilada, tipal calda e dulse","en":"grog (drink)"}
-{"T":"r","L":"Gronland","C":["n","jeo"],"d":"un otra nom per Calalitnunat","i":"Calalitnunat","v":"Calalitnunat","en":"Greenland"}
-{"L":"gronlandes","C":["a"],"en":"Greenlandic (person, language)"}
-{"L":"gronlandes","C":["n"],"v":"calalit","en":"Greenlander"}
-{"L":"Mar Gronland","C":["n","jeo"],"d":"un mar a este de Calalitnunat, un parte de la Mar Atlantica","i":"#","en":"Greenland Sea"}
+{"L":"gris","C":["n"],"en":"gray|grey","fr":"gris"}
+{"L":"grisi","C":["vnt"],"en":"gray|grey, turn gray|grey, grizzle","fr":"griser, devenir gris"}
+{"L":"grisi","C":["vt"],"en":"gray|grey, turn gray|grey, grizzle","fr":"griser"}
+{"L":"grisin","C":["a"],"en":"grayish|greyish","fr":"grisâtre"}
+{"L":"grisin brun","C":["a"],"en":"grayish|greyish brown, dun","fr":"d'un brun grisâtre"}
+{"T":"r","L":"grog","C":["n","cos"],"d":"un bevida de acua e rum o un otra distilada, tipal calda e dulse","en":"grog (drink)","fr":"grog"}
+{"T":"r","L":"Gronland","C":["n","jeo"],"d":"un otra nom per Calalitnunat","i":"Calalitnunat","v":"Calalitnunat","en":"Greenland","fr":"Groenland"}
+{"L":"gronlandes","C":["a"],"en":"Greenlandic (person, language)","fr":"groenlandais"}
+{"L":"gronlandes","C":["n"],"v":"calalit","en":"Greenlander","fr":"Groenlandais (personne)"}
+{"L":"Mar Gronland","C":["n","jeo"],"d":"un mar a este de Calalitnunat, un parte de la Mar Atlantica","i":"#","en":"Greenland Sea","fr":"mer du Groenland"}
 {"T":"r","L":"grosela","C":["n","pla","cos"],"d":"un arboreta eurasian cual produi bacas peti negra, roja o blanca; la bacas comable de esta","t":"Ribes","v":"uva seca","en":"edible currant","fr":"groseiller; groseille"}
 {"L":"grosela negra","C":["n","pla"],"i":"#","t":"Ribes nigrum","en":"blackcurrant","fr":"cassis"}
-{"L":"grosela roja","C":["n","pla"],"i":"#","t":"Ribes rubrum","en":"redcurrant"}
-{"L":"grosela spinosa","C":["n","pla"],"i":"#","t":"Ribes uva-crispa","en":"gooseberry"}
-{"T":"r","L":"grr","C":["esc","onom"],"d":"un sona fada par animales como leones, tigres e canes, indicante coleria o menasa","en":"grrr (growling)"}
+{"L":"grosela roja","C":["n","pla"],"i":"#","t":"Ribes rubrum","en":"redcurrant","fr":"groseillier à grappes; groseille"}
+{"L":"grosela spinosa","C":["n","pla"],"i":"#","t":"Ribes uva-crispa","en":"gooseberry","fr":"groseillier à maquereau; groseille à maquereau"}
+{"T":"r","L":"grr","C":["esc","onom"],"d":"un sona fada par animales como leones, tigres e canes, indicante coleria o menasa","en":"grrr (growling)","fr":"grr (grognement)"}
 {"T":"r","L":"gru","C":["n","avia","util"],"d":"un avia alta, con gamas e colo longa, tipal con plumas blanca o gris, notada per sua dansas de cortea complicada; un macina grande e alta, usada per move ojetos pesosa, tipal par suspende los de un braso longa","i":"#, gru-construi","t":"Gruidae","en":"crane (bird, machine)","fr":"grue"}
-{"L":"Gru","C":["n","ast"],"d":"un constela en la sielo sude","en":"Grus (constellation)"}
-{"L":"gru cavaletin","C":["n"],"en":"gantry"}
-{"T":"r","L":"grunje","C":["a","mus"],"d":"un moda de roc, con gitar ruidosa e voses ru","en":"grunge (music)"}
-{"L":"grunje","C":["n"],"en":"grunge (music)"}
-{"T":"r","L":"grupi","C":["n","mus"],"d":"un person, tipal un fem joven, ci segue un grupo musical o otra selebradas, e ci espera encontra los o developa un relata con los","en":"groupie"}
+{"L":"Gru","C":["n","ast"],"d":"un constela en la sielo sude","en":"Grus (constellation)","fr":"Grue (constellation)"}
+{"L":"gru cavaletin","C":["n"],"en":"gantry","fr":"portique de manutention)"}
+{"T":"r","L":"grunje","C":["a","mus"],"d":"un moda de roc, con gitar ruidosa e voses ru","en":"grunge (music)","fr":"grunge (musique)"}
+{"L":"grunje","C":["n"],"en":"grunge (music)","fr":"grunge (musique)"}
+{"T":"r","L":"grupi","C":["n","mus"],"d":"un person, tipal un fem joven, ci segue un grupo musical o otra selebradas, e ci espera encontra los o developa un relata con los","en":"groupie","fr":"groupie"}
 {"T":"r","L":"grupo","C":["n"],"d":"un cuantia de persones o cosas prosima a lunlotra o clasida con lunlotra","da":"gruppe; parti (samling af produkter)","de":"Gruppe","en":"group, bunch, batch, troop, cohort, posse, cluster, clump","es":"grupo, equipo","fr":"groupe"}
-{"L":"grupo de odia","C":["n"],"en":"hate group"}
-{"L":"grupo escluinte","C":["n"],"en":"clique, coterie"}
-{"L":"grupo laborante","C":["n"],"en":"working group, working party"}
-{"L":"grupo propre","C":["n"],"en":"ingroup"}
-{"L":"desgrupi","C":["vnt"],"en":"ungroup, disband"}
-{"L":"grupal","C":["a"],"en":"group, as a group"}
-{"L":"grupi","C":["vnt"],"en":"group, form a group"}
-{"L":"grupi","C":["vt"],"en":"group, form a group"}
-{"L":"grupor","C":["n"],"en":"grouper (fish)"}
-{"L":"sugrupo","C":["n"],"en":"subgroup"}
-{"L":"supragrupo","C":["n"],"en":"supergroup, umbrella group"}
-{"T":"r","L":"guacamole","C":["n","cos"],"d":"un plato de avocado maxada con oniones, tomates e txilis axida, e spises","en":"guacamole (food)"}
-{"T":"r","L":"Guadelupe","C":["n","jeo"],"d":"un grupo de isolas en la Mar Caribe, governada par Frans","i":"#","en":"Guadeloupe"}
-{"L":"guadelupean","C":["a"],"en":"Guadeloupean"}
-{"T":"r","L":"guaiava","C":["n","pla","cos"],"d":"un arbor nativa de Mexico, America Sentral e la norde de America Sude; la fruta tropical e comable de esta, pal orania, con pulpa rosa e jusosa e un odor forte e dulse","i":"#","t":"Psidium","en":"guava (tree, fruit)"}
-{"T":"r","L":"Guam","C":["n","jeo"],"d":"la isola la plu grande de la Isolas Majel, governada par la SUA","i":"#","en":"Guam (island)"}
-{"L":"guamanian","C":["a"],"en":"Guamanian"}
-{"L":"guamanian","C":["n","dem"],"en":"Guamanian"}
-{"T":"r","L":"Guangdong","C":["n","jeo"],"d":"un provinsia de Xina sude","i":"#","en":"Guangdong"}
-{"L":"guangdong","C":["n","dem"],"d":"la lingua de la popla de la provinse Guangdong en Jonguo sude","en":"Guang Dong Wa (language)"}
-{"T":"r","L":"guano","C":["n","bio"],"d":"un fertilinte composada de la fece de avias de mar e ciroteros; un fertilinte artifis simil, tipal preparada de pexes","en":"guano"}
-{"T":"r","L":"guarani","C":["a","dem"],"d":"pertinente a un popla de americanes orijinal de Paraguai, o a sua lingua","en":"Guarani (person, language)"}
-{"L":"guarani","C":["n","dem"],"en":"Guarani (person, language)"}
-{"T":"r","L":"Guatemala","C":["n","jeo"],"c":"la Site Guatemala","d":"un pais en America Sentral cual borda la Mar Pasifica con costa corta a la Mar Caribe","i":"#","en":"Guatemala"}
-{"L":"guatemalteca","C":["a"],"en":"Guatemalan"}
-{"L":"guatemalteca","C":["n","dem"],"en":"Guatemalan"}
-{"T":"r","L":"Guayaquil","C":["n","jeo"],"en":"Guayaquil","es":"Guayaquil"}
-{"L":"Golfo Guayaquil","C":["n","jeo"],"d":"un golfo a ueste de Ecuador, un estende de la Mar Pasifica","i":"#","en":"Gulf of Guayaquil","es":"Golfo de Guayaquil"}
-{"T":"r","L":"Gudjarat","C":["n","jeo"],"d":"un provinse de Barat","i":"#","en":"Gujarat (Indian state)"}
-{"L":"gudjarati","C":["a","dem"],"en":"Gujarati (person, language)"}
-{"L":"gudjarati","C":["n"],"en":"Gujarati (person, language)"}
-{"T":"r","L":"gugli","C":["vt","info"],"d":"xerca informa sur (un person o cosa) a la interede, usante la programes de la compania Google","en":"google (search for)"}
-{"T":"r","L":"gugli","C":["n","spo"],"d":"(en criceta) un bal lansada con bondi enganosa","en":"googly (cricket)"}
-{"T":"r","L":"gugol","C":["n","mat"],"d":"des a la potia 100","en":"googol (number)","es":"gúgol (número)"}
-{"T":"r","L":"gugolplex","C":["n","mat"],"d":"des a la potia gugol; (metafor) cualce cuantia enorme","en":"googolplex (number)","es":"gúgolplex (número)"}
-{"T":"r","L":"guaiaco","C":["n","pla"],"d":"un arbor sempreverde de la Caribe e America tropical, istorial importante per sua lenio dur e oliosa","en":"guiacum","es":"guayacán, guayaco"}
-{"T":"r","L":"Guian Franses","C":["n","jeo"],"d":"un pais en America Sude norde, governada par Frans","i":"#","en":"French Guiana","es":"Guayana Francesa"}
-{"L":"guianes","C":["a"],"en":"Guianan, French Guianan","es":"francoguyanés"}
-{"L":"guianes","C":["n","dem"],"en":"Guianan, French Guianan","es":"francoguyanés"}
-{"T":"r","L":"Guiana","C":["n","jeo"],"c":"Georgetown","d":"un pais a la costa norde-este de America Sude","i":"#","en":"Guyana","es":"Guyana"}
-{"L":"guianan","C":["a"],"en":"Guyanese","es":"guyanés"}
-{"L":"guianan","C":["n"],"en":"Guyanese","es":"guyanés"}
-{"T":"r","L":"gul","C":["n","mit"],"d":"(en mitos) un mal fantasma ci ruba tombas e come corpos mor","en":"ghoul (mythology)","es":"gul"}
-{"T":"r","L":"gulag","C":["n","gov"],"d":"un campo de labora en la sistem mantenida en la Uni Soviet de 1930 a 1955, tipal usada per prisonidas political, en cual multe persones ia mori; cualce loca simil","en":"gulag","es":"gulag"}
-{"T":"r","L":"gulax","C":["n","cos"],"d":"un sopa o ragu de bove, paprica e onion, orijinante en Magiar","i":"#","en":"goulash, gulyás (soup)","es":"gulash"}
-{"T":"r","L":"gulo","C":["n","mam"],"d":"un mamal carnivor con corpo grande ma gamas corta, pelo longa e brun, e coda brosin, nativa de la tundra e forestas norde de Europa, Asia e America Norde","i":"#","t":"Gulo gulo","en":"wolverine (animal)","es":"glotón, carcayú (animal)"}
-{"T":"r","L":"gundi","C":["n","mam"],"d":"un rodente peti e sosial, abitante rejiones rocosa en la desertos de Africa norde e este","i":"#","t":"Ctenodactylidae","en":"gundi (rodent)","es":"gundi (roedor)"}
-{"T":"r","L":"gupi","C":["n","pex"],"d":"un pex peti de acua dulse, comun trovada en acuerias","i":"#","t":"Poecilia reticulata","en":"guppy (fish)","es":"guppy, lebistes, pez millón"}
-{"T":"r","L":"guptan","C":["a","ist"],"d":"pertinente a la dinastia indu fundida en 320 cual ia rena la plu de Barat norde tra un periodo","i":"#","en":"Guptan (dynasty)","es":"Gupta (dinastía)"}
-{"T":"r","L":"gurami","C":["n","pex"],"d":"un pex colorosa de Asia, popular en acuerias","i":"#","t":"Osphronemidae","en":"gourami (fish)","es":"gurami"}
-{"T":"r","L":"gurduara","C":["n","rel"],"d":"la construida do sices congrega per adora e instrui relijiosa","en":"gurdwara"}
-{"T":"r","L":"gurgula","C":["vnt"],"d":"crea un sona como acua corente de un botela, un stomaco fame, o un paso en fango","en":"gurgle, glug, squelch"}
-{"L":"gurgula","C":["vt"],"en":"gurgle, glug, squelch"}
-{"L":"gurgula","C":["n"],"en":"gurgle, glug, squelch"}
-{"T":"r","L":"gurme","C":["n","cos"],"d":"un person con multe sabes e esperia de comedas de cualia alta","en":"gourmet, gastronome, epicure, epicurean"}
-{"T":"r","L":"guru","C":["n","rel"],"d":"(en budisme e induisme) un instruor relijiosa","i":"#","en":"guru"}
-{"T":"r","L":"gusta","C":["vt","uma"],"d":"senti ce (un person o cosa) es bon, simpatiosa, sasiante, plasente, etc","u":"me gusta leje; me gusta esta canta","da":"lide, glæde sig over","de":"gern haben","en":"like, enjoy, be fond of","es":"agradar, gustar, disfrutar de, gozar de","fr":"aimer bien"}
-{"L":"me gusta lo","C":["esp"],"de":"es gefällt mir","en":"I like it","eo":"ĝi plaĉas al mi","es":"me gusta","fr":"je l'aime, ça me plaît"}
-{"L":"gusta","C":["n"],"en":"enjoyment","es":"goce, gozo, disfrute, placer"}
-{"L":"gustable","C":["a"],"en":"likable|likeable, enjoyable, pleasant, agreeable, welcome, groovy"}
-{"L":"no gusta","C":["v"],"en":"dislike","es":"no gustar, desagradar, tener aversión a"}
-{"L":"nongusta","C":["n"],"en":"dislike","es":"antipatía, desagrado, fastidio"}
+{"L":"grupo de odia","C":["n"],"en":"hate group","fr":"cabale"}
+{"L":"grupo escluinte","C":["n"],"en":"clique, coterie","fr":"clan, clique, coterie, cabale, bande, faction, secte"}
+{"L":"grupo laborante","C":["n"],"en":"working group, working party","fr":"groupe de travail"}
+{"L":"grupo propre","C":["n"],"en":"ingroup","fr":"classe sociale"}
+{"L":"desgrupi","C":["vnt"],"en":"ungroup, disband","fr":"se dégrouper"}
+{"L":"grupal","C":["a"],"en":"group, as a group","fr":"de groupe, relatif à un groupe"}
+{"L":"grupi","C":["vnt"],"en":"group, form a group","fr":"se regrouper, se grouper, se rassembler, se réunir, se rallier"}
+{"L":"grupi","C":["vt"],"en":"group, form a group","fr":"regrouper, rassembler, réunir"}
+{"L":"grupor","C":["n"],"en":"grouper (fish)","fr":"mérou (poisson)"}
+{"L":"sugrupo","C":["n"],"en":"subgroup","fr":"sous-groupe"}
+{"L":"supragrupo","C":["n"],"en":"supergroup, umbrella group","fr":"groupe supérieur"}
+{"T":"r","L":"guacamole","C":["n","cos"],"d":"un plato de avocado maxada con oniones, tomates e txilis axida, e spises","en":"guacamole (food)","fr":"guacamole"}
+{"T":"r","L":"Guadelupe","C":["n","jeo"],"d":"un grupo de isolas en la Mar Caribe, governada par Frans","i":"#","en":"Guadeloupe","fr":"Guadeloupe"}
+{"L":"guadelupean","C":["a"],"en":"Guadeloupean","fr":"guadeloupéen"}
+{"T":"r","L":"guaiava","C":["n","pla","cos"],"d":"un arbor nativa de Mexico, America Sentral e la norde de America Sude; la fruta tropical e comable de esta, pal orania, con pulpa rosa e jusosa e un odor forte e dulse","i":"#","t":"Psidium","en":"guava (tree, fruit)","fr":"goyavier; goyave"}
+{"T":"r","L":"Guam","C":["n","jeo"],"d":"la isola la plu grande de la Isolas Majel, governada par la SUA","i":"#","en":"Guam (island)","fr":"île de Guam"}
+{"L":"guamanian","C":["a"],"en":"Guamanian","fr":"guamien"}
+{"L":"guamanian","C":["n","dem"],"en":"Guamanian","fr":"Guamien"}
+{"T":"r","L":"Guangdong","C":["n","jeo"],"d":"un provinsia de Xina sude","i":"#","en":"Guangdong","fr":"Guangdong"}
+{"L":"guangdong","C":["n","dem"],"d":"la lingua de la popla de la provinse Guangdong en Jonguo sude","en":"Guang Dong Wa (language)","fr":"cantonais (langue)"}
+{"T":"r","L":"guano","C":["n","bio"],"d":"un fertilinte composada de la fece de avias de mar e ciroteros; un fertilinte artifis simil, tipal preparada de pexes","en":"guano","fr":"guano"}
+{"T":"r","L":"guarani","C":["a","dem"],"d":"pertinente a un popla de americanes orijinal de Paraguai, o a sua lingua","en":"Guarani (person, language)","fr":"guarani"}
+{"L":"guarani","C":["n","dem"],"en":"Guarani (person, language)","fr":"Guarani (personne); guarani (langue)"}
+{"T":"r","L":"Guatemala","C":["n","jeo"],"c":"la Site Guatemala","d":"un pais en America Sentral cual borda la Mar Pasifica con costa corta a la Mar Caribe","i":"#","en":"Guatemala","fr":"Guatemala"}
+{"L":"guatemalteca","C":["a"],"en":"Guatemalan","fr":"guatémaltèque"}
+{"L":"guatemalteca","C":["n","dem"],"en":"Guatemalan","fr":"Guatémaltèque (personne)"}
+{"T":"r","L":"Guayaquil","C":["n","jeo"],"en":"Guayaquil","es":"Guayaquil","fr":"Guayaquil"}
+{"L":"Golfo Guayaquil","C":["n","jeo"],"d":"un golfo a ueste de Ecuador, un estende de la Mar Pasifica","i":"#","en":"Gulf of Guayaquil","es":"Golfo de Guayaquil","fr":"golfe de Guayaquil"}
+{"T":"r","L":"Gudjarat","C":["n","jeo"],"d":"un provinse de Barat","i":"#","en":"Gujarat (Indian state)","fr":"Gujarat (État de l'Inde)"}
+{"L":"gudjarati","C":["a","dem"],"en":"Gujarati (person, language)","fr":"gujarati"}
+{"L":"gudjarati","C":["n"],"en":"Gujarati (person, language)","fr":"Gujarati (personne); gujarati (langue)"}
+{"T":"r","L":"gugli","C":["vt","info"],"d":"xerca informa sur (un person o cosa) a la interede, usante la programes de la compania Google","en":"google (search for)","fr":"googler, googliser"}
+{"T":"r","L":"gugli","C":["n","spo"],"d":"(en criceta) un bal lansada con bondi enganosa","en":"googly (cricket)","fr":"googly (cricket)"}
+{"T":"r","L":"gugol","C":["n","mat"],"d":"des a la potia 100","en":"googol (number)","es":"gúgol (número)","fr":"gogol (nombre = {10^100})"}
+{"T":"r","L":"gugolplex","C":["n","mat"],"d":"des a la potia gugol; (metafor) cualce cuantia enorme","en":"googolplex (number)","es":"gúgolplex (número)","fr":"gogolplex (nombre)"}
+{"T":"r","L":"guaiaco","C":["n","pla"],"d":"un arbor sempreverde de la Caribe e America tropical, istorial importante per sua lenio dur e oliosa","en":"guiacum","es":"guayacán, guayaco","fr":"guaiacum"}
+{"T":"r","L":"Guian Franses","C":["n","jeo"],"d":"un pais en America Sude norde, governada par Frans","i":"#","en":"French Guiana","es":"Guayana Francesa","fr":"Guyane"}
+{"L":"guianes","C":["a"],"en":"Guianan, French Guianan","es":"francoguyanés","fr":"guyanais"}
+{"L":"guianes","C":["n","dem"],"en":"Guianan, French Guianan","es":"francoguyanés","fr":"Guyanais"}
+{"T":"r","L":"Guiana","C":["n","jeo"],"c":"Georgetown","d":"un pais a la costa norde-este de America Sude","i":"#","en":"Guyana","es":"Guyana","fr":"Guyana"}
+{"L":"guianan","C":["a"],"en":"Guyanese","es":"guyanés","fr":"guyanien"}
+{"L":"guianan","C":["n"],"en":"Guyanese","es":"guyanés","fr":"Guyanien"}
+{"T":"r","L":"gul","C":["n","mit"],"d":"(en mitos) un mal fantasma ci ruba tombas e come corpos mor","en":"ghoul (mythology)","es":"gul","fr":"goule"}
+{"T":"r","L":"gulag","C":["n","gov"],"d":"un campo de labora en la sistem mantenida en la Uni Soviet de 1930 a 1955, tipal usada per prisonidas political, en cual multe persones ia mori; cualce loca simil","en":"gulag","es":"gulag","fr":"goulag"}
+{"T":"r","L":"gulax","C":["n","cos"],"d":"un sopa o ragu de bove, paprica e onion, orijinante en Magiar","i":"#","en":"goulash, gulyás (soup)","es":"gulash","fr":"goulash, goulache"}
+{"T":"r","L":"gulo","C":["n","mam"],"d":"un mamal carnivor con corpo grande ma gamas corta, pelo longa e brun, e coda brosin, nativa de la tundra e forestas norde de Europa, Asia e America Norde","i":"#","t":"Gulo gulo","en":"wolverine (animal)","es":"glotón, carcayú (animal)","fr":"carcajou, glouton"}
+{"T":"r","L":"gundi","C":["n","mam"],"d":"un rodente peti e sosial, abitante rejiones rocosa en la desertos de Africa norde e este","i":"#","t":"Ctenodactylidae","en":"gundi (rodent)","es":"gundi (roedor)","fr":"goundi (rongeur)"}
+{"T":"r","L":"gupi","C":["n","pex"],"d":"un pex peti de acua dulse, comun trovada en acuerias","i":"#","t":"Poecilia reticulata","en":"guppy (fish)","es":"guppy, lebistes, pez millón","fr":"guppy (poisson)"}
+{"T":"r","L":"guptan","C":["a","ist"],"d":"pertinente a la dinastia indu fundida en 320 cual ia rena la plu de Barat norde tra un periodo","i":"#","en":"Guptan (dynasty)","es":"Gupta (dinastía)","fr":"Gupta (dynastie)"}
+{"T":"r","L":"gurami","C":["n","pex"],"d":"un pex colorosa de Asia, popular en acuerias","i":"#","t":"Osphronemidae","en":"gourami (fish)","es":"gurami","fr":"gourami (poisson)"}
+{"T":"r","L":"gurduara","C":["n","rel"],"d":"la construida do sices congrega per adora e instrui relijiosa","en":"gurdwara","fr":"gurdwara"}
+{"T":"r","L":"gurgula","C":["vnt"],"d":"crea un sona como acua corente de un botela, un stomaco fame, o un paso en fango","en":"gurgle, glug, squelch","fr":"gargouiller"}
+{"L":"gurgula","C":["vt"],"en":"gurgle, glug, squelch","fr":"faire gargouiller"}
+{"L":"gurgula","C":["n"],"en":"gurgle, glug, squelch","fr":"gargouillis"}
+{"T":"r","L":"gurme","C":["n","cos"],"d":"un person con multe sabes e esperia de comedas de cualia alta","en":"gourmet, gastronome, epicure, epicurean","fr":"gourmet, gastronome"}
+{"T":"r","L":"guru","C":["n","rel"],"d":"(en budisme e induisme) un instruor relijiosa","i":"#","en":"guru","fr":"gourou"}
+{"T":"r","L":"gusta","C":["vt","uma"],"d":"senti ce (un person o cosa) es bon, simpatiosa, sasiante, plasente, etc","u":"me gusta leje; me gusta esta canta","da":"lide, glæde sig over","de":"gern haben","en":"like, enjoy, be fond of","es":"agradar, gustar, disfrutar de, gozar de","fr":"aimer bien, se régaler (de), apprécier, goûter, priser, affectionner, adorer, raffoler (de)"}
+{"L":"me gusta lo","C":["esp"],"de":"es gefällt mir","en":"I like it","eo":"ĝi plaĉas al mi","es":"me gusta","fr":"j'aime ça, ça me plaît, je me régale, j'apprécie, j'adore, j'en raffole"}
+{"L":"gusta","C":["n"],"en":"enjoyment","es":"goce, gozo, disfrute, placer","fr":"régal, plaisir, jouissance, agrément"}
+{"L":"gustable","C":["a"],"en":"likable|likeable, enjoyable, pleasant, agreeable, welcome, groovy","fr":"plaisant, agréable, délicieux, savoureux, succulent"}
+{"L":"no gusta","C":["v"],"en":"dislike","es":"no gustar, desagradar, tener aversión a","fr":"ne pas goûter, ne pas aimer, détester, exécrer, avoir horreur de, avoir de l'aversion pour"}
+{"L":"nongusta","C":["n"],"en":"dislike","es":"antipatía, desagrado, fastidio","fr":"dégoût, répugnance, aversion, antipathie, désagrément, détestation, répulsion"}
 {"T":"r","L":"h","C":["sim"],"d":"la letera oto de la alfabeta roman","p":"hax","en":"h"}
 {"T":"r","L":"ha","C":["esc"],"d":"espresante ce on es surprendeda, ce on ia vinse, ce on ia fa un descovre, o un otra reata simil","en":"ha"}
 {"L":"ha ha","C":["esc"],"d":"espresante un rie","en":"ha ha (laughing)","es":"ja, ja, ja (riendo)"}
@@ -13179,8 +13187,8 @@
 {"L":"induisme","C":["n"],"en":"Hinduism"}
 {"L":"induiste","C":["a"],"en":"Hindu"}
 {"L":"induiste","C":["n"],"en":"Hindu"}
-{"T":"r","L":"indui","C":["vt","uma","gov","fil"],"d":"introdui (algun) a un rol o organiza en modo formal; susede convinse (algun) a fa alga cosa; (en medica) fa ce un nase comensa par metodos artifis, tipal par medisin; (en lojica) deriva un lege jeneral par considera casos individua; (un corpo prosima e eletrical o magnetal) produi un state eletrical o magnetal","en":"induce, induct, inaugurate, swear in"}
-{"L":"indui","C":["n"],"en":"induction, inductance; inauguration"}
+{"T":"r","L":"indui","C":["vt","uma","gov","fil"],"d":"introdui (algun) a un rol o organiza en modo formal; susede convinse (algun) a fa alga cosa; (en medica) fa ce un nase comensa par metodos artifis, tipal par medisin; (en lojica) deriva un lege jeneral par considera casos individua; (un corpo prosima e eletrical o magnetal) produi un state eletrical o magnetal","en":"induce, induct, inaugurate, invest, swear in"}
+{"L":"indui","C":["n"],"en":"induction, inductance; inauguration, investiture"}
 {"L":"indui magnetal","C":["n"],"en":"magnetic induction, magnetic flux density"}
 {"L":"induinte","C":["a"],"en":"inductive, inaugural","fr":"inductif"}
 {"T":"r","L":"industani","C":["a","ling"],"d":"un grupo de dialetos parlada en Barat norde-ueste e Pacistan, en familia de linguas indoeuropean","en":"Hindustani"}
@@ -13587,7 +13595,7 @@
 {"L":"invia","C":["n"],"en":"envy"}
 {"L":"inviable","C":["a"],"en":"enviable"}
 {"L":"inviosa","C":["a"],"en":"envious"}
-{"T":"r","L":"invita","C":["vt","uma"],"d":"demanda de (algun), en modo cortes, formal o amin, ce el fa alga cosa o vade a alga loca","da":"invitere","de":"einladen","en":"invite; co-opt","es":"invitar, convidar","fr":"inviter"}
+{"T":"r","L":"invita","C":["vt","uma"],"d":"demanda de (algun), en modo cortes, formal o amin, ce el fa alga cosa o vade a alga loca","da":"invitere","de":"einladen","en":"invite; co-opt; call on","es":"invitar, convidar","fr":"inviter"}
 {"L":"invita","C":["n"],"en":"invitation; overture (to communication, negotiation)"}
 {"L":"invitada","C":["a"],"en":"invited"}
 {"L":"invitada","C":["n"],"en":"guest"}
@@ -13764,7 +13772,7 @@
 {"L":"isoli","C":["vt"],"en":"isolate, insulate, sequester, quarantine"}
 {"L":"isoli","C":["n"],"en":"isolation, insulation, quarantine, insularity"}
 {"L":"isoli acustical","C":["v"],"en":"soundproof"}
-{"L":"isolida","C":["a"],"en":"isolated, insulated; out of the way"}
+{"L":"isolida","C":["a"],"en":"isolated, insulated; remote, out of the way"}
 {"L":"isolida par neva","C":["a"],"en":"snowed in"}
 {"L":"isolinte","C":["a"],"en":"isolating"}
 {"L":"isolinte","C":["n"],"en":"isolator (substance)"}
@@ -20017,7 +20025,7 @@
 {"L":"Golfo Persian","C":["n","jeo"],"d":"un golfo entre Arabia e Iran","i":"#","en":"Persian Gulf"}
 {"L":"persian","C":["a"],"en":"Persian"}
 {"T":"r","L":"persil","C":["n","pla","cos"],"d":"un planta duanial con flores blanca e folias bonodorosa, usada como un erba en cosini","i":"#","t":"Petroselinum crispum","en":"parsley (plant)"}
-{"T":"r","L":"persiste","C":["vnt"],"d":"continua esiste; continua firma o ostinosa con un opina o curso de ata an con difisiles, oposas o falis","en":"persist, persevere, linger"}
+{"T":"r","L":"persiste","C":["vnt"],"d":"continua esiste; continua firma o ostinosa con un opina o curso de ata an con difisiles, oposas o falis","en":"persist, persevere, linger, stick (around)"}
 {"L":"persiste","C":["vt"],"en":"persist, persevere, linger"}
 {"L":"persiste","C":["n"],"en":"persistence, perseverance, tenacity"}
 {"L":"persistente","C":["a"],"en":"persistent, lingering, tenacious"}
@@ -20065,6 +20073,7 @@
 {"T":"r","L":"perverti","C":["vt","uma"],"d":"gida (algun) de lo cual es regardada como coreta, natural, asetable o legal","en":"pervert"}
 {"L":"perverti","C":["n"],"en":"perversion"}
 {"L":"pervertida","C":["a"],"en":"perverse, perverted"}
+{"L":"pervertida","C":["n"],"en":"pervert"}
 {"L":"pervertinte","C":["a"],"en":"perverting, perversive"}
 {"T":"r","L":"perxa","C":["n","util"],"d":"un cosa sur cual un avia atera o reposa, tipal un ramo de un arbor o un bara en un caje; un loca, tipal alta o perilosa, sur cual un person o cosa sta o senta","en":"perch (support)"}
 {"L":"perxi","C":["vt"],"en":"perch"}
@@ -20098,6 +20107,7 @@
 {"L":"pesta","C":["n"],"d":"un maladia comunicable cual estende rapida tra un popla e mata multe, tipal causada par un bateria e marcada par bubones, febre, delirio e infeta de la pulmones; un cuantia nonormal grande de insetos o otra animales cual infesta un area e causa dana","en":"pestilence, plague, bane"}
 {"L":"Pesta Negra","C":["n"],"en":"Black Death"}
 {"T":"r","L":"peste","C":["n","bio"],"d":"un inseto destruinte o otra animal cual ataca cultivas, comedas, bestias, etc; (nonformal) un person o cosa iritante","en":"pest (creature); (colloquial) pest, nuisance, hassle, pain in the neck"}
+{"L":"pesti","C":["vt"],"en":"hassle, bother, be a nuisance to, be a hassle to, be a pain in the neck for (someone)"}
 {"T":"r","L":"pestiside","C":["n","bio"],"d":"un composada cimical usada per destrui insetos e otra organismes cual dana cultivas, comedas e bestias","en":"pesticide"}
 {"T":"r","L":"pesto","C":["n","cos"],"d":"un salsa de folias craseda de basil, semes de pino, alio, parmesan e olio de oliva, tipal servida con pasta","en":"pesto (sauce)"}
 {"T":"r","L":"peta","C":["vt","bio"],"d":"(nonformal) flatule","en":"(colloquial) fart","fr":"péter"}
@@ -22553,7 +22563,7 @@
 {"L":"reputa","C":["n"],"en":"reputation"}
 {"L":"bonreputada","C":["a"],"en":"reputable, of good repute"}
 {"L":"malreputa","C":["n"],"en":"disrepute"}
-{"L":"malreputada","C":["a"],"en":"disreputable, of ill repute"}
+{"L":"malreputada","C":["a"],"en":"disreputable, unsavory|ur, of ill repute"}
 {"L":"reputada","C":["a"],"en":"reputed"}
 {"T":"r","L":"rescate","C":["n","mone","gov"],"d":"un cuantia de mone o otra paia esijeda o paiada per la relasa de un prisonida","en":"ransom"}
 {"L":"rescate finansial","C":["n"],"en":"bailout"}
@@ -22665,7 +22675,7 @@
 {"L":"restorisme","C":["n"],"en":"restorationism; irredentism (restoration of territories)"}
 {"L":"restoriste","C":["n"],"en":"irredentist"}
 {"L":"restoror","C":["n"],"en":"restorer"}
-{"T":"r","L":"restrinje","C":["vt","gov","uma"],"d":"limita; manteni (un person o cosa) su sua controla; priva (un person o cosa) de move o ata libre; declara ce (algun) no es elejable; elimina (algun) de un concurso","en":"restrict, confine, cramp, curtail; disqualify; restrain, immobilize|is"}
+{"T":"r","L":"restrinje","C":["vt","gov","uma"],"d":"limita; manteni (un person o cosa) su sua controla; priva (un person o cosa) de move o ata libre; declara ce (algun) no es elejable; elimina (algun) de un concurso","en":"restrict, confine, cramp, curtail; disqualify; restrain, immobilize|is, subdue"}
 {"L":"restrinje","C":["n"],"en":"restriction, confinement, control, interment; condition, precondition, provision, clause, term, stricture, trammel"}
 {"L":"restrinje limital","C":["n"],"en":"boundary condition"}
 {"L":"autorestrinje","C":["n"],"en":"self-restraint, self-control"}
@@ -23013,7 +23023,7 @@
 {"T":"r","L":"ronda","C":["a","mat"],"d":"con forma simil a un sirculo o sfera; alga obesa","ca":"rodó","da":"rund","de":"rund","en":"round; pudgy, chubby, tubby, rotund","eo":"ronda","es":"redonda, circular, esférica","fr":"rond","it":"intorno","ja":"丸い","nl":"rond","pt":"redondo, circular, esférico","ru":"круглый"}
 {"L":"ronda","C":["n"],"en":"round (music, drinks, contest); circle (of friends), ring (of people), bevy, posse, troop, troupe"}
 {"L":"rondi","C":["vnt"],"en":"round"}
-{"L":"rondi","C":["vt"],"en":"round"}
+{"L":"rondi","C":["vt"],"en":"round; purse (lips)"}
 {"L":"rondia","C":["n"],"en":"roundness"}
 {"T":"r","L":"rondin","C":["n","avia"],"d":"un avia cantante e migrante, con coda forcin e alas longa e puntida, cual pote vola rapida per xasa insetos","i":"#","t":"Hirundinidae","en":"swallow (bird)"}
 {"L":"Rondin","C":["n","ast"],"en":"Apus (constellation)"}
