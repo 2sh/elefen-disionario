@@ -9518,32 +9518,32 @@
 {"T":"r","L":"enferno","C":["n","rel","mit"],"d":"(en alga relijios) un loca spirital do persones mal es punida pos mori","da":"helvede","de":"Hölle","en":"hell, hellfire, inferno, perdition, underworld","es":"infierno","fr":"enfer","he":"גיהנום, שאול, תופת"}
 {"L":"enfernal","C":["a"],"en":"infernal","fr":"infernal","he":"גיהנומי"}
 {"L":"enfernin","C":["a"],"en":"hellish, damned, damn, blasted, bloody","fr":"infernal, semblable à l'enfer","he":"נורא, איום, ארור"}
-{"T":"r","L":"enflue","C":["vnt"],"d":"flue a en; (datos o testo) entra a un computador","en":"flow in","fr":"s'écouler (vers l'intérieur), se jeter, entrer (données dans un ordinateur)"}
-{"L":"enflue","C":["vt"],"en":"input","fr":"faire couler, verser, remplir, déverser, entrer (des données dans un ordinateur)"}
-{"L":"enflue","C":["n"],"en":"inflow, influx, input, intake; flow (tide)","fr":"influx, flux (de la marée)"}
-{"T":"r","L":"enforsa","C":["vt","gov"],"d":"forsa la obedi de (un lege, regula o obliga)","en":"enforce, apply, implement, bring to bear","fr":"imposer, contraindre, faire appliquer de force"}
-{"L":"enforsa","C":["n"],"en":"enforcement, application, implementation","fr":"contrainte, application forcée"}
-{"L":"enforsable","C":["a"],"en":"enforceable","fr":"contraignable"}
-{"L":"enforsada","C":["a"],"en":"enforced, in effect","fr":"forcé, contraint"}
-{"L":"enforsor","C":["n"],"en":"enforcer","fr":"contraigneur"}
-{"L":"enforsor de corte","C":["n"],"en":"bailiff","fr":"huissier, gouverneur, régisseur"}
-{"L":"nonenforsable","C":["a"],"en":"unenforceable","fr":"non contraignable"}
-{"L":"reenforsa","C":["vt"],"en":"re-enforce","fr":"recontraindre"}
-{"T":"r","L":"engana","C":["vt","uma"],"d":"fa ce (algun) crede alga cosa cual no es vera, tipal per ateni un vantaje personal","en":"deceive, hoax, bluff, bilk, trick, inveigle, delude","fr":"tromper, duper"}
-{"L":"engana","C":["n"],"en":"deception, subterfuge, hoax, bluff, bunco, deceit, delusion, duplicity, con, feint, humbug, setup, skulduggery, wile","fr":"tromperie, duperie, duplicité"}
-{"L":"engana sposal","C":["n"],"en":"cuckoldry","fr":"tromperie (d'un conjoint)"}
-{"L":"enganor","C":["n"],"en":"cheat, hoaxer, deceiver, con man, con artist, swindler"}
-{"L":"enganosa","C":["a"],"en":"deceitful, deceptive, duplicitous, devious, sneaky, underhanded, deceitful, duplicitous, illusive","fr":"trompeur, hypocrite, sournois, faux"}
-{"L":"nonenganante","C":["a"],"en":"guileless, artless","fr":"sincère, naturel, direct"}
-{"T":"r","L":"England","C":["n","jeo"],"c":"London","d":"un pais de Europa cual formi la parte la plu grande e la plu sude de Britan","i":"#","en":"England","fr":"Angleterre"}
-{"L":"engles","C":["a"],"en":"English (person, language)","fr":"anglais"}
-{"L":"engles","C":["n","dem"],"en":"English; Englishman, Englishwoman","fr":"Anglais (personne); anglais (langue)"}
-{"L":"engles estuarial","C":["n"],"d":"un dialeto fonetical de engles, parlada par un cuantia grande de persones de London e rejiones este longo la Rio Thames","en":"Estuary English"}
-{"L":"engles prescriveda","C":["n"],"en":"standard English","fr":"anglais standard"}
-{"L":"englesi","C":["vnt"],"en":"anglicize|is","fr":"s'angliciser"}
-{"L":"englesi","C":["vt"],"en":"anglicize|is","fr":"angliciser"}
-{"L":"englesi","C":["n"],"en":"anglicization|is","fr":"anglicisation"}
-{"L":"englesisme","C":["n"],"en":"anglicism","fr":"anglicisme"}
+{"T":"r","L":"enflue","C":["vnt"],"d":"flue a en; (datos o testo) entra a un computador","en":"flow in","fr":"s'écouler (vers l'intérieur), se jeter, entrer (données dans un ordinateur)","he":"לזרום פנימה"}
+{"L":"enflue","C":["vt"],"en":"input","fr":"faire couler, verser, remplir, déverser, entrer (des données dans un ordinateur)","he":"להזרים פנימה"}
+{"L":"enflue","C":["n"],"en":"inflow, influx, input, intake; flow (tide)","fr":"influx, flux (de la marée)","he":"שטף, זרימה (פנימה)"}
+{"T":"r","L":"enforsa","C":["vt","gov"],"d":"forsa la obedi de (un lege, regula o obliga)","en":"enforce, apply, implement, bring to bear","fr":"imposer, contraindre, faire appliquer de force","he":"לאכוף"}
+{"L":"enforsa","C":["n"],"en":"enforcement, application, implementation","fr":"contrainte, application forcée","he":"אכיפה"}
+{"L":"enforsable","C":["a"],"en":"enforceable","fr":"contraignable","he":"שניתן לאכיפה, אכיף"}
+{"L":"enforsada","C":["a"],"en":"enforced, in effect","fr":"forcé, contraint","he":"נאכף"}
+{"L":"enforsor","C":["n"],"en":"enforcer","fr":"contraigneur","he":"אוכף (מבצע אכיפה)"}
+{"L":"enforsor de corte","C":["n"],"en":"bailiff","fr":"huissier, gouverneur, régisseur","he":"מוציא לפועל (מטעם בית המשפט)"}
+{"L":"nonenforsable","C":["a"],"en":"unenforceable","fr":"non contraignable","he":"שאינו ניתן לאכיפה, לא אכיף"}
+{"L":"reenforsa","C":["vt"],"en":"re-enforce","fr":"recontraindre","he":"לאכוף מחדש"}
+{"T":"r","L":"engana","C":["vt","uma"],"d":"fa ce (algun) crede alga cosa cual no es vera, tipal per ateni un vantaje personal","en":"deceive, hoax, bluff, bilk, trick, inveigle, delude","fr":"tromper, duper","he":"לרמות, להונות, להתל, לבלף, לתעתע, להוליך שולל"}
+{"L":"engana","C":["n"],"en":"deception, subterfuge, hoax, bluff, bunco, deceit, delusion, duplicity, con, feint, humbug, setup, skulduggery, wile","fr":"tromperie, duperie, duplicité","he":"רמאות, תרמית, נוכלות, הונאה, תעתוע, הולכת שולל, תכסיס, תחבולה, בלוף"}
+{"L":"engana sposal","C":["n"],"en":"cuckoldry","fr":"tromperie (d'un conjoint)","he":"בגידה בנישואים"}
+{"L":"enganor","C":["n"],"en":"cheat, hoaxer, deceiver, con man, con artist, swindler","he":"רמאי, נוכל, מתחזה, שרלטן"}
+{"L":"enganosa","C":["a"],"en":"deceitful, deceptive, duplicitous, devious, sneaky, underhanded, illusive","fr":"trompeur, hypocrite, sournois, faux","he":"ערמומי, נכלולי, מוליך שולל, דו-פרצופי, תעתעני"}
+{"L":"nonenganante","C":["a"],"en":"guileless, artless","fr":"sincère, naturel, direct","he":"ישר, הגון"}
+{"T":"r","L":"England","C":["n","jeo"],"c":"London","d":"un pais de Europa cual formi la parte la plu grande e la plu sude de Britan","i":"#","en":"England","fr":"Angleterre","he":"אנגליה"}
+{"L":"engles","C":["a"],"en":"English (person, language)","fr":"anglais","he":"אנגלי"}
+{"L":"engles","C":["n","dem"],"en":"English; Englishman, Englishwoman","fr":"Anglais (personne); anglais (langue)","he":"(אדם) אנגלי; אנגלית (שפה)"}
+{"L":"engles estuarial","C":["n"],"d":"un dialeto fonetical de engles, parlada par un cuantia grande de persones de London e rejiones este longo la Rio Thames","en":"Estuary English","he":"אנגלית שפך התמזה"}
+{"L":"engles prescriveda","C":["n"],"en":"standard English","fr":"anglais standard","he":"אנגלית תקנית"}
+{"L":"englesi","C":["vnt"],"en":"anglicize|is","fr":"s'angliciser","he":"להתאנגלז"}
+{"L":"englesi","C":["vt"],"en":"anglicize|is","fr":"angliciser","he":"לאנגלז"}
+{"L":"englesi","C":["n"],"en":"anglicization|is","fr":"anglicisation","he":"אינגלוז, אנגליזציה"}
+{"L":"englesisme","C":["n"],"en":"anglicism","fr":"anglicisme","he":"ביטוי אנגלי"}
 {"T":"r","L":"engoli","C":["vt"],"d":"permete ce (un comeda, bevida o simil) desende la garga; (un sustantia o forte) covre o enclui completa (un person o cosa)","da":"synke, sluge","de":"schlucken","en":"swallow, gulp, guzzle, scoff, swig, swill; engulf, envelop","es":"tragar, engullir, deglutir","fr":"avaler"}
 {"T":"r","L":"engrana","C":["vnt","util","vec"],"d":"(piniones) interlia per move un macina o veculo; entra a un combate o batalia","i":"#","en":"engage (gear, enemy)","fr":"embrayer, s'engager"}
 {"L":"engrana","C":["vt"],"en":"engage (gear, enemy)","fr":"engager (le combat, les vitesses d'un moteur)"}
@@ -12736,237 +12736,237 @@
 {"L":"huti","C":["n"],"en":"Houthi (Islam)","fr":"houthi"}
 {"T":"r","L":"hutu","C":["a","dem"],"d":"pertinente a la popla major de Ruanda e Burundi, o a sua lingua bantu","en":"Hutu (person, language)","fr":"hutu"}
 {"L":"hutu","C":["n"],"en":"Hutu (person, language)","fr":"Hutu (personnes); hutu (langue)"}
-{"T":"r","L":"i","C":["sim"],"d":"la letera nove de la alfabeta roman, e sua nom","p":"i","en":"i","es":"i"}
-{"T":"r","L":"i","C":["esc"],"d":"espresante un teme subita","en":"eek"}
-{"T":"r","L":"-i","C":["sf","vnt"],"d":"ajuntada a un ajetivo o nom per formi un verbo nontransitiva per la ata de deveni tal, o, pos ajunta un ojeto, la ata de fa ce la ojeto deveni tal","u":"la acua profondi; la visitores grupi","en":"become, -en, -esce, -ify, -ize|is","eo":"-iĝi, -igi"}
-{"L":"-i","C":["sf","vt"],"u":"me pleni la caxa; on grupi la visitores","en":"cause (someone or something) to become"}
-{"L":"-i","C":["sf","n"],"u":"dui, tri, cuatri","en":"(fractional number)"}
+{"T":"r","L":"i","C":["sim"],"d":"la letera nove de la alfabeta roman, e sua nom","p":"i","en":"i","es":"i","fr":"i"}
+{"T":"r","L":"i","C":["esc"],"d":"espresante un teme subita","en":"eek","fr":"hi!"}
+{"T":"r","L":"-i","C":["sf","vnt"],"d":"ajuntada a un ajetivo o nom per formi un verbo nontransitiva per la ata de deveni tal, o, pos ajunta un ojeto, la ata de fa ce la ojeto deveni tal","u":"la acua profondi; la visitores grupi","en":"become, -en, -esce, -ify, -ize|is","eo":"-iĝi, -igi","fr":"-ir, -ifier, devenir (tel)"}
+{"L":"-i","C":["sf","vt"],"u":"me pleni la caxa; on grupi la visitores","en":"cause (someone or something) to become","fr":"faire que (quelque chose ou quelqu'un) devienne tel, rendre tel"}
+{"L":"-i","C":["sf","n"],"u":"dui, tri, cuatri","en":"(fractional number)","fr":"-ième (nombre fractionnel)"}
 {"T":"r","L":"-i","C":["sf","vt"],"d":"ajuntada a un nom per formi un verbo transitiva per la ata de usa (un util) o aplica (un materia)","u":"el botoni sua jacon; me va telefoni la detalias a tu; on ia pinti la mur; me va buri la pan","en":"make use of (tool), apply (substance) to"}
-{"T":"r","L":"-i","C":["sf","vt"],"d":"ajuntada a un cuanti peti de nomes per formi un verbo transitiva per la ata de emete (un licuida corpal)","u":"urini; vomiti sangue","en":"emit (bodily fluid)"}
-{"T":"r","L":"-i","C":["sf","a"],"d":"ajuntada a un nom jeografial per formi un ajetivo pertinente a la loca","u":"arabi","v":"-an, -es, -ica, -sce","en":"-i (pertaining to a region)"}
-{"L":"-i","C":["sf","n"],"d":"nominte un abitor o lingua de un rejion spesifada","en":"-i (pertaining to a region)"}
-{"T":"r","L":"ia","C":["av","prev"],"d":"usada direta ante un verbo finita per indica ce esta refere a un situa pasada","u":"me ia espera ce tu es asi","en":"(indicating that a finite verb is in the past tense) -ed, did (happen), have (happened)","eo":"-is"}
-{"L":"ia ta","C":["av","prev"],"d":"usada direta ante un verbo finita per indica ce esta refere a un situa nonreal cual ta es pasada si lo ta es real","u":"si me ta sabe acel, me no ia ta parla","en":"would have (past hypothetical)","eo":"-intus"}
-{"T":"r","L":"-ia","C":["sf","n"],"d":"ajuntada a un ajetivo o nom per nomi la cualia astrata de es tal; ajuntada a nomes de postos (e cosas simil) per nomi la estende de la posto en tempo o spasio","u":"felisia; en mea enfantia; la jornal de la bispia","en":"-ness, -ity, -hood, -ship (abstract quality)","eo":"-eco"}
-{"T":"r","L":"-ia","C":["sf","n","med"],"d":"maladia","en":"-y, -ia (disease)"}
-{"T":"r","L":"i-aa","C":["esc","onom"],"d":"un sona forte e desacordante como lo fada par un asino o mulo","en":"eeyore, hee haw, bray"}
-{"T":"r","L":"iac","C":["n","mam"],"d":"un mamal grande en familia de bove, de Asia sentral","i":"#","t":"Bos grunniens, Bos mutus","en":"yak","eo":"gruntbovo, poefago"}
-{"T":"r","L":"Iaman","C":["n","jeo"],"c":"Sana","d":"un pais en Asia sude-ueste","i":"#","en":"Yemen","eo":"Jemeno","es":"Yemen"}
-{"L":"iamani","C":["a"],"en":"Yemeni"}
-{"L":"iamani","C":["n"],"en":"Yemeni"}
-{"T":"r","L":"iambo","C":["n","ling"],"d":"(en poesia) un serie de du silabas de cual la prima es corta o nonasentuada e la seguente es longa o asentuada","en":"iamb, iambus (poetry)","eo":"jambo"}
-{"L":"iambal","C":["a"],"en":"iambic","eo":"jamba"}
-{"T":"r","L":"ianci","C":["a","dem"],"d":"(demotica) un abitor de la SUA, o (plu esata) sua statos norde-este","en":"(colloquial) Yankee (American)","eo":"jankia","es":"yanqui"}
-{"L":"ianci","C":["n"],"en":"(colloquial) Yankee (American)","eo":"jankio","es":"yanqui"}
-{"T":"r","L":"iang","C":["n"],"d":"(en filosofia xines) la prinsipe ativa mas de la universo","en":"yang (philosophy)","eo":"jango"}
-{"T":"r","L":"iard","C":["n","mat"],"d":"un unia de longia nonmetral, egal a 36 ditones o 0,9144 metres","en":"yard (unit of length)"}
-{"T":"r","L":"-iase","C":["sf","n","med"],"d":"maladia","en":"-iase (disease)"}
+{"T":"r","L":"-i","C":["sf","vt"],"d":"ajuntada a un cuanti peti de nomes per formi un verbo transitiva per la ata de emete (un licuida corpal)","u":"urini; vomiti sangue","en":"emit (bodily fluid)","fr":"émettre (un fluide corporel)"}
+{"T":"r","L":"-i","C":["sf","a"],"d":"ajuntada a un nom jeografial per formi un ajetivo pertinente a la loca","u":"arabi","v":"-an, -es, -ica, -sce","en":"-i (pertaining to a region)","fr":"-i (appartenant à une région)"}
+{"L":"-i","C":["sf","n"],"d":"nominte un abitor o lingua de un rejion spesifada","en":"-i (pertaining to a region)","fr":"-i (appartenant à une région)"}
+{"T":"r","L":"ia","C":["av","prev"],"d":"usada direta ante un verbo finita per indica ce esta refere a un situa pasada","u":"me ia espera ce tu es asi","en":"(indicating that a finite verb is in the past tense) -ed, did (happen), have (happened)","eo":"-is","fr":"indication d'un passé"}
+{"L":"ia ta","C":["av","prev"],"d":"usada direta ante un verbo finita per indica ce esta refere a un situa nonreal cual ta es pasada si lo ta es real","u":"si me ta sabe acel, me no ia ta parla","en":"would have (past hypothetical)","eo":"-intus","fr":"indication d'un passé hypothétique"}
+{"T":"r","L":"-ia","C":["sf","n"],"d":"ajuntada a un ajetivo o nom per nomi la cualia astrata de es tal; ajuntada a nomes de postos (e cosas simil) per nomi la estende de la posto en tempo o spasio","u":"felisia; en mea enfantia; la jornal de la bispia","en":"-ness, -ity, -hood, -ship (abstract quality)","eo":"-eco","fr":"-té, -eur (qualité)"}
+{"T":"r","L":"-ia","C":["sf","n","med"],"d":"maladia","en":"-y, -ia (disease)","fr":"-ie (maladie)"}
+{"T":"r","L":"i-aa","C":["esc","onom"],"d":"un sona forte e desacordante como lo fada par un asino o mulo","en":"eeyore, hee haw, bray","fr":"hi han!"}
+{"T":"r","L":"iac","C":["n","mam"],"d":"un mamal grande en familia de bove, de Asia sentral","i":"#","t":"Bos grunniens, Bos mutus","en":"yak","eo":"gruntbovo, poefago","fr":"yack (mâle), dri (femelle)"}
+{"T":"r","L":"Iaman","C":["n","jeo"],"c":"Sana","d":"un pais en Asia sude-ueste","i":"#","en":"Yemen","eo":"Jemeno","es":"Yemen","fr":"Yémen"}
+{"L":"iamani","C":["a"],"en":"Yemeni","fr":"yéménite"}
+{"L":"iamani","C":["n"],"en":"Yemeni","fr":"Yéménite (personne)"}
+{"T":"r","L":"iambo","C":["n","ling"],"d":"(en poesia) un serie de du silabas de cual la prima es corta o nonasentuada e la seguente es longa o asentuada","en":"iamb, iambus (poetry)","eo":"jambo","fr":"iambe (métrique)"}
+{"L":"iambal","C":["a"],"en":"iambic","eo":"jamba","fr":"iambique"}
+{"T":"r","L":"ianci","C":["a","dem"],"d":"(demotica) un abitor de la SUA, o (plu esata) sua statos norde-este","en":"(colloquial) Yankee (American)","eo":"jankia","es":"yanqui","fr":"yankee"}
+{"L":"ianci","C":["n"],"en":"(colloquial) Yankee (American)","eo":"jankio","es":"yanqui","fr":"yankee"}
+{"T":"r","L":"iang","C":["n"],"d":"(en filosofia xines) la prinsipe ativa mas de la universo","en":"yang (philosophy)","eo":"jango","fr":"yang"}
+{"T":"r","L":"iard","C":["n","mat"],"d":"un unia de longia nonmetral, egal a 36 ditones o 0,9144 metres","en":"yard (unit of length)","fr":"yard, verge (unité de longueur anglo-saxonne)"}
+{"T":"r","L":"-iase","C":["sf","n","med"],"d":"maladia","en":"-iase (disease)","fr":"-iase (maladie)"}
 {"T":"r","L":"iate","C":["n","vec"],"d":"un barcon de grandia media, con o sin velas e cabina, usada per corsa o viaja per plaser","i":"#","en":"yacht; cruiser (pleasure boat)","eo":"jakto","es":"yate","fr":"yacht"}
-{"L":"iator","C":["n"],"en":"yachtsman, yachtswoman","eo":"jaktisto"}
-{"T":"r","L":"-iatria","C":["sf","n","med","uma"],"d":"dotores e trata medical","en":"-iatry"}
-{"L":"-iatrica","C":["sf","a","med","uma"],"en":"-iatric"}
-{"T":"r","L":"iatrojen","C":["a"],"d":"pertinente a un disturba medical causada par un mediciste","en":"iatrogenic (caused by doctors)"}
-{"T":"r","L":"Iaue","C":["n","rel"],"d":"un forma de la nom ivri de Dio, usada en la Biblia","en":"Yahweh, Jehovah"}
-{"T":"r","L":"Iberia","C":["n","jeo"],"d":"la penisola de Europa sude-ueste cual conteni Espania e Portugal","i":"#","en":"Iberia","eo":"Iberio, Iberujo","es":"Iberia"}
-{"L":"iberian","C":["a"],"en":"Iberian","es":"ibérico"}
-{"L":"iberian","C":["n"],"en":"Iberian","es":"ibérico"}
-{"T":"r","L":"ibex","C":["n","mam"],"d":"un capra savaje de montania, con barba e cornos longa e spesa","i":"#","t":"Capra ibex","en":"ibex (goat)","eo":"ibekso","es":"íbice"}
-{"T":"r","L":"ibis","C":["n","avia"],"d":"un avia vadante con gamas longa, colo longa, e beco longa e curvida","i":"#","t":"Threskiornithinae","en":"ibis (bird)","eo":"ibiso","es":"ibis"}
+{"L":"iator","C":["n"],"en":"yachtsman, yachtswoman","eo":"jaktisto","fr":"pilote d'un yacht, yachtsman, yachtswoman"}
+{"T":"r","L":"-iatria","C":["sf","n","med","uma"],"d":"dotores e trata medical","en":"-iatry","fr":"-iatrie"}
+{"L":"-iatrica","C":["sf","a","med","uma"],"en":"-iatric","fr":"-iatrique"}
+{"T":"r","L":"iatrojen","C":["a"],"d":"pertinente a un disturba medical causada par un mediciste","en":"iatrogenic (caused by doctors)","fr":"iatrogène"}
+{"T":"r","L":"Iaue","C":["n","rel"],"d":"un forma de la nom ivri de Dio, usada en la Biblia","en":"Yahweh, Jehovah","fr":"Yahweh, Yahvé, Iahvé, Jéhovah, YHWH"}
+{"T":"r","L":"Iberia","C":["n","jeo"],"d":"la penisola de Europa sude-ueste cual conteni Espania e Portugal","i":"#","en":"Iberia","eo":"Iberio, Iberujo","es":"Iberia","fr":"péninsule ibérique"}
+{"L":"iberian","C":["a"],"en":"Iberian","es":"ibérico","fr":"ibérique"}
+{"L":"iberian","C":["n"],"en":"Iberian","es":"ibérico","fr":"Ibérique"}
+{"T":"r","L":"ibex","C":["n","mam"],"d":"un capra savaje de montania, con barba e cornos longa e spesa","i":"#","t":"Capra ibex","en":"ibex (goat)","eo":"ibekso","es":"íbice","fr":"bouquetin"}
+{"T":"r","L":"ibis","C":["n","avia"],"d":"un avia vadante con gamas longa, colo longa, e beco longa e curvida","i":"#","t":"Threskiornithinae","en":"ibis (bird)","eo":"ibiso","es":"ibis","fr":"ibis"}
 {"T":"r","L":"ibisco","C":["n","pla"],"d":"un planta grande en familia de malva, con flores briliante colorida","i":"#","t":"Hibiscus","en":"hibiscus (plant)","eo":"hibisko","es":"hibisco","fr":"hibiscus"}
 {"T":"r","L":"ibride","C":["a","bio"],"d":"composada de partes miscada; con jenitores de du spesies diferente","en":"hybrid, crossbred, mongrel","eo":"hibrida","fr":"hybride"}
 {"L":"ibride","C":["n"],"en":"hybrid, crossbreed, mongrel","eo":"hibrido","fr":"hybride"}
-{"L":"ibridi","C":["vnt"],"en":"hybridize|is, crossbreed","eo":"hibridiĝi"}
-{"L":"ibridi","C":["vt"],"en":"hybridize|is, crossbreed, cross (one thing with another)"}
-{"L":"ibridi","C":["n"],"en":"hybridization|is","eo":"hibridiĝo; hibridigo"}
-{"T":"r","L":"ica","C":["vnt","bio"],"d":"fa nonvolente un spasma de la diaframa, subita cluinte la glote con un sona tipal","en":"hiccup, hiccough","eo":"singulti","fr":"avoir le hoquet"}
-{"L":"ica","C":["n"],"d":"un ata de ica","en":"hiccup","eo":"singulto"}
-{"T":"r","L":"-ica","C":["sf","a"],"d":"ajuntada a un nom jeografial per formi un ajetivo pertinente a la loca","u":"cimrica","v":"-an, -es, -i, -sce","en":"-ic, -ish (pertaining to a region)"}
-{"L":"-ica","C":["sf","n"],"d":"nominte un abitor o lingua de un rejion spesifada","en":"-ic, -ish (pertaining to a region)"}
-{"T":"r","L":"-ica","C":["sf","a","med"],"d":"ajuntada a un nom de un maladia medical o psicolojial con la coda `-ia`, per formi un ajetivo descrivente un person ci sufri de la maladia, e un nom per un tal person","u":"alerjica","en":"-ic, -iac (suffering from a medical condition)"}
-{"L":"-ica","C":["sf","n","med"],"en":"-ic, -iac (suffering from a medical condition)"}
-{"T":"r","L":"-ica","C":["sf","n","cim"],"d":"indicante un valentia plu alta","en":"-ic (chemical valency)"}
-{"T":"r","L":"icebana","C":["n","arte"],"d":"la arte nion de ordina creosa flores taliada","en":"ikebana (flower arrangement)"}
-{"T":"r","L":"icon","C":["n","rel","info"],"d":"un depinta santa; un person o ojeto adorada; un imaje peti cual representa un program o util","i":"#","en":"icon","eo":"ikono; piktogramo"}
-{"L":"iconin","C":["a"],"d":"onorada como un icon","en":"iconic","eo":"ikoneca"}
-{"T":"r","L":"iconoclasia","C":["n","uma"],"d":"la ata de ataca o rejeta la credes e valuas tradisional; la destrui o rejeta de imajes relijiosa","en":"iconoclasm"}
-{"L":"iconoclasiste","C":["a"],"en":"iconoclastic"}
-{"L":"iconoclasiste","C":["n"],"en":"iconoclast"}
-{"T":"r","L":"icor","C":["n","med","mit"],"d":"(en mitos elinica) la sangue de la dios; un suda de sangue e pus","en":"ichor (mythology, medical)"}
-{"T":"r","L":"icosaedro","C":["a","mat"],"d":"(un ojeto) solida con dudes fases plana","en":"icosahedral"}
-{"L":"icosaedro","C":["n"],"en":"icosahedron"}
-{"T":"r","L":"ictiolojia","C":["n","bio"],"d":"la ramo de zolojia cual studia pexes","en":"ichthyology"}
-{"L":"ictiolojiste","C":["n"],"en":"ichthyologist"}
-{"T":"r","L":"ictiosauro","C":["n","dino"],"d":"un retil maral e estinguida de la mesozoica, cual sembla un delfin","i":"#","t":"Ichthyosauria","en":"ichthyosaur, ichthyosaurus"}
-{"T":"r","L":"id","C":["n","uma"],"d":"(en la teoria psicoanalisal de Freud) la parte de la mente cual conteni la instintos e memorias represada","en":"id (psychology)","eo":"ĝio"}
-{"T":"r","L":"Idaho","C":["n","jeo"],"d":"un stato en la SUA norde-ueste","p":"aídaho","en":"Idaho (US state)"}
+{"L":"ibridi","C":["vnt"],"en":"hybridize|is, crossbreed","eo":"hibridiĝi","fr":"s'hybrider"}
+{"L":"ibridi","C":["vt"],"en":"hybridize|is, crossbreed, cross (one thing with another)","fr":"hybrider"}
+{"L":"ibridi","C":["n"],"en":"hybridization|is","eo":"hibridiĝo; hibridigo","fr":"hybridation"}
+{"T":"r","L":"ica","C":["vnt","bio"],"d":"fa nonvolente un spasma de la diaframa, subita cluinte la glote con un sona tipal","en":"hiccup, hiccough","eo":"singulti","fr":"avoir le hoquet, hoqueter"}
+{"L":"ica","C":["n"],"d":"un ata de ica","en":"hiccup","eo":"singulto","fr":"hoquet"}
+{"T":"r","L":"-ica","C":["sf","a"],"d":"ajuntada a un nom jeografial per formi un ajetivo pertinente a la loca","u":"cimrica","v":"-an, -es, -i, -sce","en":"-ic, -ish (pertaining to a region)","fr":"-ique, -ais (appartenant à une région)"}
+{"L":"-ica","C":["sf","n"],"d":"nominte un abitor o lingua de un rejion spesifada","en":"-ic, -ish (pertaining to a region)","fr":"-ique, -ais (appartenant à une région)"}
+{"T":"r","L":"-ica","C":["sf","a","med"],"d":"ajuntada a un nom de un maladia medical o psicolojial con la coda `-ia`, per formi un ajetivo descrivente un person ci sufri de la maladia, e un nom per un tal person","u":"alerjica","en":"-ic, -iac (suffering from a medical condition)","fr":"-ique, -iaque"}
+{"L":"-ica","C":["sf","n","med"],"en":"-ic, -iac (suffering from a medical condition)","fr":"-ique, -iaque"}
+{"T":"r","L":"-ica","C":["sf","n","cim"],"d":"indicante un valentia plu alta","en":"-ic (chemical valency)","fr":"-ique"}
+{"T":"r","L":"icebana","C":["n","arte"],"d":"la arte nion de ordina creosa flores taliada","en":"ikebana (flower arrangement)","fr":"ikebana, ikébana"}
+{"T":"r","L":"icon","C":["n","rel","info"],"d":"un depinta santa; un person o ojeto adorada; un imaje peti cual representa un program o util","i":"#","en":"icon","eo":"ikono; piktogramo","fr":"icône; pictogramme"}
+{"L":"iconin","C":["a"],"d":"onorada como un icon","en":"iconic","eo":"ikoneca","fr":"iconique"}
+{"T":"r","L":"iconoclasia","C":["n","uma"],"d":"la ata de ataca o rejeta la credes e valuas tradisional; la destrui o rejeta de imajes relijiosa","en":"iconoclasm","fr":"iconoclasme, iconoclasie"}
+{"L":"iconoclasiste","C":["a"],"en":"iconoclastic","fr":"iconoclaste"}
+{"L":"iconoclasiste","C":["n"],"en":"iconoclast","fr":"iconoclaste"}
+{"T":"r","L":"icor","C":["n","med","mit"],"d":"(en mitos elinica) la sangue de la dios; un suda de sangue e pus","en":"ichor (mythology, medical)","fr":"ichor"}
+{"T":"r","L":"icosaedro","C":["a","mat"],"d":"(un ojeto) solida con dudes fases plana","en":"icosahedral","fr":"icosaédrique"}
+{"L":"icosaedro","C":["n"],"en":"icosahedron","fr":"icosaèdre"}
+{"T":"r","L":"ictiolojia","C":["n","bio"],"d":"la ramo de zolojia cual studia pexes","en":"ichthyology","fr":"ichtyologie"}
+{"L":"ictiolojiste","C":["n"],"en":"ichthyologist","fr":"ichtyologue"}
+{"T":"r","L":"ictiosauro","C":["n","dino"],"d":"un retil maral e estinguida de la mesozoica, cual sembla un delfin","i":"#","t":"Ichthyosauria","en":"ichthyosaur, ichthyosaurus","fr":"ichtyosaure"}
+{"T":"r","L":"id","C":["n","uma"],"d":"(en la teoria psicoanalisal de Freud) la parte de la mente cual conteni la instintos e memorias represada","en":"id (psychology)","eo":"ĝio","fr":"le ça"}
+{"T":"r","L":"Idaho","C":["n","jeo"],"d":"un stato en la SUA norde-ueste","p":"aídaho","en":"Idaho (US state)","fr":"Idaho (État des USA)"}
 {"T":"r","L":"idea","C":["n","fil","uma"],"d":"un pensa, conseta, opina, crede o intende","da":"ide","de":"Idee","en":"idea, concept, issue, notion","eo":"ideo","es":"idea, concepto, pensamiento, opinion","fr":"idée"}
-{"L":"ideas","C":["n","pl"],"en":"ideas"}
-{"L":"ideas asetada","C":["n","pl"],"en":"received wisdom"}
-{"T":"r","L":"ideal","C":["a","fil"],"d":"desirada o perfeta, ma comun esistente sola en la imajina","en":"ideal","eo":"ideala"}
-{"L":"ideal","C":["n"],"en":"ideal","eo":"idealo"}
-{"L":"ideali","C":["vnt"],"d":"deveni ideal","en":"idealize|is","eo":"idealiĝi"}
-{"L":"ideali","C":["vt"],"en":"idealize|is","eo":"idealigi"}
-{"L":"ideali","C":["n"],"d":"un ata de ideali","en":"idealization|is","eo":"idealiĝo; idealigo"}
-{"L":"idealia","C":["n"],"en":"ideality","eo":"idealeco"}
-{"L":"idealisme","C":["n"],"d":"un crede cual inclui la espera ce la ideal es realable; un filosofia cual sujesta ce tota realia es nonmaterial","en":"idealism","eo":"idealismo"}
-{"L":"idealiste","C":["a"],"en":"idealistic, quixotic","eo":"idealisma"}
-{"L":"idealiste","C":["n"],"en":"idealist","eo":"idealisto"}
+{"L":"ideas","C":["n","pl"],"en":"ideas","fr":"idées"}
+{"L":"ideas asetada","C":["n","pl"],"en":"received wisdom","fr":"idées reçues"}
+{"T":"r","L":"ideal","C":["a","fil"],"d":"desirada o perfeta, ma comun esistente sola en la imajina","en":"ideal","eo":"ideala","fr":"idéal"}
+{"L":"ideal","C":["n"],"en":"ideal","eo":"idealo","fr":"idéal"}
+{"L":"ideali","C":["vnt"],"d":"deveni ideal","en":"idealize|is","eo":"idealiĝi","fr":"s'idéaliser"}
+{"L":"ideali","C":["vt"],"en":"idealize|is","eo":"idealigi","fr":"idéaliser"}
+{"L":"ideali","C":["n"],"d":"un ata de ideali","en":"idealization|is","eo":"idealiĝo; idealigo","fr":"idéalisation"}
+{"L":"idealia","C":["n"],"en":"ideality","eo":"idealeco","fr":"idéalité"}
+{"L":"idealisme","C":["n"],"d":"un crede cual inclui la espera ce la ideal es realable; un filosofia cual sujesta ce tota realia es nonmaterial","en":"idealism","eo":"idealismo","fr":"idéalisme"}
+{"L":"idealiste","C":["a"],"en":"idealistic, quixotic","eo":"idealisma","fr":"idéaliste"}
+{"L":"idealiste","C":["n"],"en":"idealist","eo":"idealisto","fr":"idéaliste"}
 {"T":"r","L":"identia","C":["n","uma"],"d":"la fato de es lo cual on es, e la cualias (incluinte la nom) cual distingui on de otras","da":"identitet","de":"Identität","en":"identity, ID","eo":"identeco","es":"identidad","fr":"identité"}
-{"L":"identia de jenero","C":["n"],"en":"gender identity"}
-{"L":"identia sesal","C":["n"],"en":"sexual identity"}
+{"L":"identia de jenero","C":["n"],"en":"gender identity","fr":"identité sexuelle"}
+{"L":"identia sesal","C":["n"],"en":"sexual identity","fr":"identité sexuelle"}
 {"L":"autoidentia","C":["n"],"en":"self-identity"}
 {"T":"r","L":"identica","C":["a"],"d":"simil en tota detalias; esata la mesma","en":"identical","eo":"identa","fr":"identique"}
 {"T":"r","L":"identifia","C":["vt","uma"],"d":"trova o indica la identia de; indica la identia de (la usor) cuando on comensa usa un program","en":"identify, designate","fr":"identifier"}
-{"L":"identifia","C":["n"],"en":"identification, designation"}
-{"L":"desidentifia","C":["vt","info"],"en":"deidentify"}
-{"L":"desidentifia se","C":["vt","info"],"en":"deidentify oneself, log out (software)","eo":"elsaluti, adiaŭi"}
-{"L":"identifia se","C":["v"],"en":"identify oneself, log in (software)","eo":"ensaluti, saluti"}
-{"L":"identifiable","C":["a"],"en":"identifiable"}
-{"L":"identifiada","C":["a"],"en":"identified, designated; logged in (software)"}
-{"L":"identifiante","C":["n"],"en":"identifier"}
-{"L":"malidentifia","C":["vt"],"en":"misidentify"}
-{"T":"r","L":"ideogram","C":["n","ling"],"d":"un sinia scriveda cual simboli un idea sin indica la pronunsia","i":"#","en":"ideogram, ideograph"}
-{"T":"r","L":"ideolojia","C":["n","fil","gov"],"d":"un sistem de ideas e ideales","en":"ideology","eo":"ideologio"}
-{"L":"ideolojial","C":["a"],"en":"ideological"}
-{"L":"ideolojiste","C":["n"],"en":"ideologist"}
-{"T":"r","L":"ides","C":["a","dem"],"d":"pertinente a un lingua relatada a deutx, parlada par iudis en multe partes de la mundo","en":"Yiddish","eo":"jida"}
-{"L":"ides","C":["n"],"en":"Yiddish","eo":"jido, la judgermana"}
-{"T":"r","L":"idilio","C":["n","arte"],"d":"un sena o loca pasosa, felis o depintin, tipal presentada en un poesia","en":"idyll","eo":"idilio"}
-{"L":"idilin","C":["a"],"en":"idyllic","eo":"idilia"}
-{"T":"r","L":"idiografia","C":["n"],"d":"la studia o descovre de fatos siensal, contrastada con leges jeneral","en":"idiography"}
-{"L":"idiografial","C":["a"],"en":"idiographic"}
-{"T":"r","L":"idiom","C":["n","ling"],"d":"un espresa con sinifia no deduable de sua parolas composante","en":"idiom","eo":"idiotismo"}
-{"L":"idiomal","C":["a"],"en":"idiomatic"}
-{"T":"r","L":"idiopatia","C":["n","med"],"d":"un maladia o sindrom cual comensa spontan o de cual sua causa no es conoseda","en":"idiopathy"}
-{"L":"idiopatica","C":["a"],"en":"idiopathic"}
-{"T":"r","L":"-ido","C":["sf","n","cim"],"d":"un composada de sal","en":"-ide (salt)"}
+{"L":"identifia","C":["n"],"en":"identification, designation","fr":"identification"}
+{"L":"desidentifia","C":["vt","info"],"en":"deidentify","fr":"désidentifier"}
+{"L":"desidentifia se","C":["vt","info"],"en":"deidentify oneself, log out (software)","eo":"elsaluti, adiaŭi","fr":"se désidentifier, se déconnecter"}
+{"L":"identifia se","C":["v"],"en":"identify oneself, log in (software)","eo":"ensaluti, saluti","fr":"s'identifier, se connecter"}
+{"L":"identifiable","C":["a"],"en":"identifiable","fr":"identifiable"}
+{"L":"identifiada","C":["a"],"en":"identified, designated; logged in (software)","fr":"identifié, connecté"}
+{"L":"identifiante","C":["n"],"en":"identifier","fr":"identifiant"}
+{"L":"malidentifia","C":["vt"],"en":"misidentify","fr":"faire une mauvaise identification"}
+{"T":"r","L":"ideogram","C":["n","ling"],"d":"un sinia scriveda cual simboli un idea sin indica la pronunsia","i":"#","en":"ideogram, ideograph","fr":"idéogramme"}
+{"T":"r","L":"ideolojia","C":["n","fil","gov"],"d":"un sistem de ideas e ideales","en":"ideology","eo":"ideologio","fr":"idéologie"}
+{"L":"ideolojial","C":["a"],"en":"ideological","fr":"idéologique"}
+{"L":"ideolojiste","C":["n"],"en":"ideologist","fr":"idéologue"}
+{"T":"r","L":"ides","C":["a","dem"],"d":"pertinente a un lingua relatada a deutx, parlada par iudis en multe partes de la mundo","en":"Yiddish","eo":"jida","fr":"yiddish"}
+{"L":"ides","C":["n"],"en":"Yiddish","eo":"jido, la judgermana","fr":"yiddish"}
+{"T":"r","L":"idilio","C":["n","arte"],"d":"un sena o loca pasosa, felis o depintin, tipal presentada en un poesia","en":"idyll","eo":"idilio","fr":"idylle"}
+{"L":"idilin","C":["a"],"en":"idyllic","eo":"idilia","fr":"idyllique"}
+{"T":"r","L":"idiografia","C":["n"],"d":"la studia o descovre de fatos siensal, contrastada con leges jeneral","en":"idiography","fr":"idiographie"}
+{"L":"idiografial","C":["a"],"en":"idiographic","fr":"idiographique"}
+{"T":"r","L":"idiom","C":["n","ling"],"d":"un espresa con sinifia no deduable de sua parolas composante","en":"idiom","eo":"idiotismo","fr":"idiotisme, expression idiomatique"}
+{"L":"idiomal","C":["a"],"en":"idiomatic","fr":"idiomatique"}
+{"T":"r","L":"idiopatia","C":["n","med"],"d":"un maladia o sindrom cual comensa spontan o de cual sua causa no es conoseda","en":"idiopathy","fr":"idiopathie"}
+{"L":"idiopatica","C":["a"],"en":"idiopathic","fr":"idiopathique"}
+{"T":"r","L":"-ido","C":["sf","n","cim"],"d":"un composada de sal","en":"-ide (salt)","fr":"-ide"}
 {"T":"r","L":"idol","C":["n","mit","rel"],"d":"un imaje de un dio o diva usada como un ojeto de adora","i":"#","en":"idol; heartthrob","eo":"idolo","fr":"idole"}
-{"L":"idoli","C":["vnt"],"en":"be idolized|is","eo":"idoliĝi"}
-{"L":"idoli","C":["vt"],"en":"idolize","eo":"idoligi"}
-{"L":"idoli","C":["n"],"en":"idolatry","eo":"idoligo"}
-{"L":"idolinte","C":["a"],"en":"idolatrous"}
-{"L":"idolor","C":["n"],"en":"idolater, idol worshiper|worshipper"}
-{"T":"r","L":"idra","C":["n","nonv"],"d":"un cnidario pico de acua dulse, con corpo troncetin e un anelo de tentaculos sirca sua boca","i":"#","t":"Hydra","en":"hydra (organism)"}
-{"L":"Idra","C":["n","mit"],"d":"(en mitos elinica) un serpente con multe testas cual recrese si on talia los a via","i":"Idra-mito","en":"Hydra (mythology)"}
-{"L":"Idra","C":["n","ast"],"d":"la constela la plu grande","en":"Hydra (constellation)","eo":"Hidro"}
-{"L":"Idra Mas","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Hydrus (constellation)","eo":"Virhidro"}
-{"T":"r","L":"idrante","C":["n","util"],"d":"un tubo vertical de acua, con un boceta a cual on pote lia un mangera per combate focos","i":"#","en":"hydrant, fire hydrant, fire plug"}
-{"T":"r","L":"idrata","C":["vnt","cim"],"d":"asorbe o combina con acua","en":"hydrate, moisturize","eo":"hidratiĝi"}
-{"L":"idrata","C":["vt"],"en":"hydrate, moisturize"}
-{"L":"idrata","C":["n"],"en":"hydration","eo":"hidratiĝo; hidratigo"}
-{"L":"desidrata","C":["vnt"],"d":"perde un cuantia grande de acua","en":"dehydrate","eo":"senakviĝi, malhidratiĝi"}
-{"L":"desidrata","C":["n"],"en":"dehydration","eo":"senakviĝo, malhidratiĝo; senakvigo, malhidratigo"}
-{"L":"idratador","C":["n"],"en":"hydrator"}
-{"L":"idratante","C":["a"],"en":"moisturizing|is"}
-{"L":"idratante","C":["n"],"d":"un sustantia cual fa ce la pel deveni min seca","en":"moisturizer|is"}
-{"L":"reidrata","C":["vnt"],"p":"reïdrata","en":"rehydrate"}
-{"L":"reidrata","C":["vt"],"en":"rehydrate"}
-{"T":"r","L":"idrato","C":["n","cim"],"d":"un sustantia cual conteni acua o sua elementos composante","en":"hydrate"}
-{"L":"idrato de cloral","C":["n"],"en":"chloral hydrate"}
-{"T":"r","L":"idraulica","C":["n","fis"],"d":"la ramo de siensa e tecnolojia cual studia la move de licuidas tra tubos e canales","en":"hydraulics"}
-{"L":"idraulical","C":["a"],"en":"hydraulic"}
-{"T":"r","L":"idro-","C":["pf","tecn"],"d":"acua","en":"hydro- (water)"}
-{"T":"r","L":"idrocarbono","C":["n","cim"],"d":"un composada de idrojen e carbono, como cualce de los cual es la composantes xef de petrolio","en":"hydrocarbon"}
-{"L":"idrocarbonal","C":["a"],"en":"hydrocarbon"}
-{"T":"r","L":"idroclorica","C":["a","cim"],"en":"hydrochloric"}
-{"L":"asida idroclorica","C":["n"],"d":"un disolve forte asida de clorido de idrojen en acua","en":"hydrochloric acid"}
-{"T":"r","L":"idroclorido","C":["n","cim"],"d":"un composada de un alcalin organica con asida idroclorica","en":"hydrochloride"}
-{"T":"r","L":"idrodinamica","C":["n","fis"],"d":"la studia de la cualias de acua e otra licuidas movente, e spesial la interata entre la acua e corpos solida cual move tra lo","en":"hydrodynamics"}
-{"L":"idrodinamical","C":["a"],"en":"hydrodynamic; streamlined"}
-{"T":"r","L":"idroeletrica","C":["n"],"d":"eletrica jenerada par enerjia idraulical","i":"#","en":"hydroelectricity"}
-{"L":"idroeletrical","C":["a"],"en":"hydroelectric"}
-{"T":"r","L":"idrofilia","C":["n","cim","bio"],"d":"la tende per misca con acua, disolve en lo, o deveni moiada par lo","en":"hydrophilia"}
-{"L":"idrofilica","C":["a"],"d":"con la cualias de idrofilia","en":"hydrophilic"}
-{"L":"idrofilica","C":["n"],"d":"un cosa o organisme idrofilica","en":"hydrophile"}
-{"T":"r","L":"idrofobia","C":["n","uma"],"d":"un teme estrema o nonrazonada de acua","en":"hydrophobia"}
-{"L":"idrofobica","C":["a"],"d":"con la cualias de idrofobia","en":"hydrophobic"}
-{"L":"idrofobica","C":["n"],"d":"un person idrofobica","en":"hydrophobe"}
-{"T":"r","L":"idrografia","C":["n","tera"],"d":"la siensa de mesura e mapa acuas grande, como mares, lagos e rios","en":"hydrography"}
-{"L":"idrografial","C":["a"],"en":"hydrographical"}
-{"L":"idrografiste","C":["n"],"en":"hydrographer"}
+{"L":"idoli","C":["vnt"],"en":"be idolized|is","eo":"idoliĝi","fr":"être idolâtré"}
+{"L":"idoli","C":["vt"],"en":"idolize","eo":"idoligi","fr":"idolâtrer"}
+{"L":"idoli","C":["n"],"en":"idolatry","eo":"idoligo","fr":"idolâtrie"}
+{"L":"idolinte","C":["a"],"en":"idolatrous","fr":"idolâtre"}
+{"L":"idolor","C":["n"],"en":"idolater, idol worshiper|worshipper","fr":"idolâtre, adorateur"}
+{"T":"r","L":"idra","C":["n","nonv"],"d":"un cnidario pico de acua dulse, con corpo troncetin e un anelo de tentaculos sirca sua boca","i":"#","t":"Hydra","en":"hydra (organism)","fr":"hydre (organisme)"}
+{"L":"Idra","C":["n","mit"],"d":"(en mitos elinica) un serpente con multe testas cual recrese si on talia los a via","i":"Idra-mito","en":"Hydra (mythology)","fr":"Hydre (mythologie)"}
+{"L":"Idra","C":["n","ast"],"d":"la constela la plu grande","en":"Hydra (constellation)","eo":"Hidro","fr":"Hydre (constellation)"}
+{"L":"Idra Mas","C":["n","ast"],"d":"un constela peti en la sielo sude","en":"Hydrus (constellation)","eo":"Virhidro","fr":"Hydre mâle"}
+{"T":"r","L":"idrante","C":["n","util"],"d":"un tubo vertical de acua, con un boceta a cual on pote lia un mangera per combate focos","i":"#","en":"hydrant, fire hydrant, fire plug","fr":"bouche d'incendie, prise d'incendie"}
+{"T":"r","L":"idrata","C":["vnt","cim"],"d":"asorbe o combina con acua","en":"hydrate, moisturize","eo":"hidratiĝi","fr":"s'hydrater, s'humidifier"}
+{"L":"idrata","C":["vt"],"en":"hydrate, moisturize","fr":"hydrater, humidifier"}
+{"L":"idrata","C":["n"],"en":"hydration","eo":"hidratiĝo; hidratigo","fr":"humidification, hydratation"}
+{"L":"desidrata","C":["vnt"],"d":"perde un cuantia grande de acua","en":"dehydrate","eo":"senakviĝi, malhidratiĝi","fr":"se déshydrater, se dessécher"}
+{"L":"desidrata","C":["n"],"en":"dehydration","eo":"senakviĝo, malhidratiĝo; senakvigo, malhidratigo","fr":"dessèchement, déshydratation"}
+{"L":"idratador","C":["n"],"en":"hydrator","fr":"humidificateur, hydrateur"}
+{"L":"idratante","C":["a"],"en":"moisturizing|is","fr":"humidifiant, hydratant"}
+{"L":"idratante","C":["n"],"d":"un sustantia cual fa ce la pel deveni min seca","en":"moisturizer|is","fr":"hydratant"}
+{"L":"reidrata","C":["vnt"],"p":"reïdrata","en":"rehydrate","fr":"se réhumidifier, se réhydrater"}
+{"L":"reidrata","C":["vt"],"en":"rehydrate","fr":"réhumidifier, réhydrater"}
+{"T":"r","L":"idrato","C":["n","cim"],"d":"un sustantia cual conteni acua o sua elementos composante","en":"hydrate","fr":"hydrate"}
+{"L":"idrato de cloral","C":["n"],"en":"chloral hydrate","fr":"chlorhydrate"}
+{"T":"r","L":"idraulica","C":["n","fis"],"d":"la ramo de siensa e tecnolojia cual studia la move de licuidas tra tubos e canales","en":"hydraulics","fr":"hydraulique"}
+{"L":"idraulical","C":["a"],"en":"hydraulic","fr":"hydraulique"}
+{"T":"r","L":"idro-","C":["pf","tecn"],"d":"acua","en":"hydro- (water)","fr":"hydro-"}
+{"T":"r","L":"idrocarbono","C":["n","cim"],"d":"un composada de idrojen e carbono, como cualce de los cual es la composantes xef de petrolio","en":"hydrocarbon","fr":"hydrocarbure, hydrocarbone"}
+{"L":"idrocarbonal","C":["a"],"en":"hydrocarbon","fr":"hydrocarburé"}
+{"T":"r","L":"idroclorica","C":["a","cim"],"en":"hydrochloric","fr":"chlorhydrique"}
+{"L":"asida idroclorica","C":["n"],"d":"un disolve forte asida de clorido de idrojen en acua","en":"hydrochloric acid","fr":"acide chlorhydrique"}
+{"T":"r","L":"idroclorido","C":["n","cim"],"d":"un composada de un alcalin organica con asida idroclorica","en":"hydrochloride","fr":"chlorure d’hydrogène (HCl)"}
+{"T":"r","L":"idrodinamica","C":["n","fis"],"d":"la studia de la cualias de acua e otra licuidas movente, e spesial la interata entre la acua e corpos solida cual move tra lo","en":"hydrodynamics","fr":"hydrodynamique"}
+{"L":"idrodinamical","C":["a"],"en":"hydrodynamic; streamlined","fr":"hydrodynamique"}
+{"T":"r","L":"idroeletrica","C":["n"],"d":"eletrica jenerada par enerjia idraulical","i":"#","en":"hydroelectricity","fr":"hydroélectricité"}
+{"L":"idroeletrical","C":["a"],"en":"hydroelectric","fr":"hydroélectrique"}
+{"T":"r","L":"idrofilia","C":["n","cim","bio"],"d":"la tende per misca con acua, disolve en lo, o deveni moiada par lo","en":"hydrophilia","fr":"hydrophlie"}
+{"L":"idrofilica","C":["a"],"d":"con la cualias de idrofilia","en":"hydrophilic","fr":"hydrophile"}
+{"L":"idrofilica","C":["n"],"d":"un cosa o organisme idrofilica","en":"hydrophile","fr":"hydrophile"}
+{"T":"r","L":"idrofobia","C":["n","uma"],"d":"un teme estrema o nonrazonada de acua","en":"hydrophobia","fr":"hydrophobie"}
+{"L":"idrofobica","C":["a"],"d":"con la cualias de idrofobia","en":"hydrophobic","fr":"hydrophobique"}
+{"L":"idrofobica","C":["n"],"d":"un person idrofobica","en":"hydrophobe","fr":"hydrophobe"}
+{"T":"r","L":"idrografia","C":["n","tera"],"d":"la siensa de mesura e mapa acuas grande, como mares, lagos e rios","en":"hydrography","fr":"hydrographie"}
+{"L":"idrografial","C":["a"],"en":"hydrographical","fr":"hydrographique"}
+{"L":"idrografiste","C":["n"],"en":"hydrographer","fr":"hydrographe"}
 {"T":"r","L":"idrojen","C":["n","cim"],"d":"la elemento cimical con numero atomal 1, un gas sin color o odor, multe flamable","s":"H (hydrogen)","en":"hydrogen","eo":"hidrogeno","fr":"hydrogène"}
-{"T":"r","L":"idrolase","C":["n","bio","cim"],"d":"un enzima cual catalise la idrolise de lias variosa","en":"hydrolase"}
-{"T":"r","L":"idrolise","C":["vt","cim"],"d":"rompe (un composada) par un reata cimical con acua","en":"hydrolyze|ys","eo":"hidrolizi"}
-{"L":"idrolise","C":["n"],"en":"hydrolysis","eo":"hidrolizo"}
-{"T":"r","L":"idrolojia","C":["n"],"d":"la studia de la cualias e moves de la acua de la Tera","en":"hydrology"}
-{"L":"idrolojiste","C":["n"],"en":"hydrologist"}
-{"T":"r","L":"idromel","C":["n","cos"],"d":"un bevida alcolosa, de miel fermentada e acua","en":"mead (drink)"}
-{"T":"r","L":"idroplana","C":["n","vec"],"d":"un barco de motor con veletas per leva se e crese sua rapidia","en":"hydrofoil"}
-{"T":"r","L":"idroponia","C":["n"],"d":"la crese de plantas en arena, calculos o licuida, con nurintes ma sin tera","en":"hydroponics"}
-{"L":"idroponial","C":["a"],"en":"hydroponic"}
-{"T":"r","L":"idrosa","C":["a","cim","tera"],"d":"conteninte acua como un composante","en":"hydrous"}
-{"L":"nonidrosa","C":["a"],"en":"anhydrous"}
-{"T":"r","L":"idrosefalia","C":["n","med"],"d":"un maladia en cual licuida serebrospinal colie en la serebro, tipal en enfantes, cual grandi la testa e pote dana la serebro","en":"hydrocephalus, water on the brain"}
-{"L":"idrosefalica","C":["a"],"en":"hydrocephalic"}
-{"T":"r","L":"idrosfera","C":["n","tera"],"d":"la colie de lagos, mares e otra acuas sur la surfas de la Tera","en":"hydrosphere"}
-{"T":"r","L":"idrosido","C":["n","cim"],"d":"un composada metal cual conteni la ion {OH⁻} o la grupo {-OH}","en":"hydroxide"}
-{"L":"idrosido de potasio","C":["n","cim"],"en":"potassium hydroxide, caustic potash, lye"}
-{"L":"idrosido de sodio","C":["n"],"en":"sodium hydroxide, caustic soda, lye"}
-{"T":"r","L":"idrosil","C":["a","cim"],"d":"de o pertinente a la radis {-OH}, en alcoles e multe otra composadas organica","en":"hydroxyl (chemistry)"}
-{"T":"r","L":"idrosilase","C":["n","bio","cim"],"d":"un enzima cual introdui un grupo idrosil a un composada organica","en":"hydroxylase"}
-{"T":"r","L":"idrostatica","C":["n","fis"],"d":"un ramo de mecanica cual studia la ecuilibra de licuidas e la presa aplicada par licuida reposante","en":"hydrostatics"}
-{"L":"idrostatical","C":["a"],"en":"hydrostatic"}
-{"T":"r","L":"idroterapia","C":["n"],"d":"la usa de eserses en un pisina per trata artrite o paralise partal","en":"hydrotherapy"}
-{"T":"r","L":"idrotermal","C":["a"],"d":"pertinente a la ativia de acua a la crosta de la Tera","en":"hydrothermal"}
-{"T":"r","L":"idrozon","C":["n","nonv"],"d":"un membro de un clase de cnidarios cual inclui idras e fisalias","en":"hydrozoon (pl. hydrozoa) (organism)"}
-{"T":"r","L":"ie","C":["esc"],"d":"corajinte o aprobante","en":"yeah, yay"}
-{"T":"r","L":"iena","C":["n","mam"],"d":"un mamal canin, con crinera erijeda e gamas anterior plu longa ca la posteriores","i":"#","t":"Hyaenidae","en":"hyena","eo":"hieno"}
-{"L":"ienin","C":["a"],"en":"hyena-like"}
+{"T":"r","L":"idrolase","C":["n","bio","cim"],"d":"un enzima cual catalise la idrolise de lias variosa","en":"hydrolase","fr":"hydrolase"}
+{"T":"r","L":"idrolise","C":["vt","cim"],"d":"rompe (un composada) par un reata cimical con acua","en":"hydrolyze|ys","eo":"hidrolizi","fr":"hydrolyser"}
+{"L":"idrolise","C":["n"],"en":"hydrolysis","eo":"hidrolizo","fr":"hydrolyse"}
+{"T":"r","L":"idrolojia","C":["n"],"d":"la studia de la cualias e moves de la acua de la Tera","en":"hydrology","fr":"hydrologie"}
+{"L":"idrolojiste","C":["n"],"en":"hydrologist","fr":"hydrologue"}
+{"T":"r","L":"idromel","C":["n","cos"],"d":"un bevida alcolosa, de miel fermentada e acua","en":"mead (drink)","fr":"hydromel"}
+{"T":"r","L":"idroplana","C":["n","vec"],"d":"un barco de motor con veletas per leva se e crese sua rapidia","en":"hydrofoil","fr":"hydroptère"}
+{"T":"r","L":"idroponia","C":["n"],"d":"la crese de plantas en arena, calculos o licuida, con nurintes ma sin tera","en":"hydroponics","fr":"hydroponie"}
+{"L":"idroponial","C":["a"],"en":"hydroponic","fr":"hydroponique"}
+{"T":"r","L":"idrosa","C":["a","cim","tera"],"d":"conteninte acua como un composante","en":"hydrous","fr":"hydrique"}
+{"L":"nonidrosa","C":["a"],"en":"anhydrous","fr":"anhydre"}
+{"T":"r","L":"idrosefalia","C":["n","med"],"d":"un maladia en cual licuida serebrospinal colie en la serebro, tipal en enfantes, cual grandi la testa e pote dana la serebro","en":"hydrocephalus, water on the brain","fr":"hydrocéphale"}
+{"L":"idrosefalica","C":["a"],"en":"hydrocephalic","fr":"hydrocéphale, hydrocéphalique"}
+{"T":"r","L":"idrosfera","C":["n","tera"],"d":"la colie de lagos, mares e otra acuas sur la surfas de la Tera","en":"hydrosphere","fr":"hydrosphère"}
+{"T":"r","L":"idrosido","C":["n","cim"],"d":"un composada metal cual conteni la ion {OH⁻} o la grupo {-OH}","en":"hydroxide","fr":"hydroxyde"}
+{"L":"idrosido de potasio","C":["n","cim"],"en":"potassium hydroxide, caustic potash, lye","fr":"hydroxyde de potassium, potasse caustique"}
+{"L":"idrosido de sodio","C":["n"],"en":"sodium hydroxide, caustic soda, lye","fr":"hydroxyde de sodium, soude caustique"}
+{"T":"r","L":"idrosil","C":["a","cim"],"d":"de o pertinente a la radis {-OH}, en alcoles e multe otra composadas organica","en":"hydroxyl (chemistry)","fr":"hydroxyle (chimie)"}
+{"T":"r","L":"idrosilase","C":["n","bio","cim"],"d":"un enzima cual introdui un grupo idrosil a un composada organica","en":"hydroxylase","fr":"hydroxylase"}
+{"T":"r","L":"idrostatica","C":["n","fis"],"d":"un ramo de mecanica cual studia la ecuilibra de licuidas e la presa aplicada par licuida reposante","en":"hydrostatics","fr":"hydrostatique"}
+{"L":"idrostatical","C":["a"],"en":"hydrostatic","fr":"hydrostatique"}
+{"T":"r","L":"idroterapia","C":["n"],"d":"la usa de eserses en un pisina per trata artrite o paralise partal","en":"hydrotherapy","fr":"hydrothérapie"}
+{"T":"r","L":"idrotermal","C":["a"],"d":"pertinente a la ativia de acua a la crosta de la Tera","en":"hydrothermal","fr":"hydrothermal"}
+{"T":"r","L":"idrozon","C":["n","nonv"],"d":"un membro de un clase de cnidarios cual inclui idras e fisalias","en":"hydrozoon (pl. hydrozoa) (organism)","fr":"hydrozoaire (organisme)"}
+{"T":"r","L":"ie","C":["esc"],"d":"corajinte o aprobante","en":"yeah, yay","fr":"ouais!"}
+{"T":"r","L":"iena","C":["n","mam"],"d":"un mamal canin, con crinera erijeda e gamas anterior plu longa ca la posteriores","i":"#","t":"Hyaenidae","en":"hyena","eo":"hieno","fr":"hyène"}
+{"L":"ienin","C":["a"],"en":"hyena-like","fr":"semblable à une hyène"}
 {"T":"r","L":"ier","C":["av"],"d":"a la dia ante oji","da":"i går","de":"Gestern","en":"yesterday","eo":"hieraŭ","es":"ayer","fr":"hier"}
-{"L":"ier","C":["n"],"en":"yesterday","eo":"hieraŭ, hieraŭo"}
-{"L":"a la dia ante ier","C":["av"],"en":"the day before yesterday","eo":"antaŭhieraŭ"}
-{"T":"r","L":"ierarcia","C":["n","gov"],"d":"un sistem de organiza cual representa persones o cosas como relativa superior, inferior o egal, en acorda con sua state o grado","en":"hierarchy","eo":"hierarkio"}
-{"L":"ierarcial","C":["a"],"en":"hierarchic, hierarchical","eo":"hierarkia"}
-{"T":"r","L":"ieratica","C":["a"],"d":"pertinente a pretes, spesial los de Egipte antica; pertinente a la scrive cuasi ieroglifal de Egipte antica; pertinente a un stilo de arte de Egipte e Elas antica cual segue metodos relijiosa","i":"#","en":"hieratic (writing, art)"}
-{"T":"r","L":"Ierevan","C":["n","jeo"],"d":"la site capital de Haiastan","en":"Yerevan"}
-{"T":"r","L":"ierofante","C":["n","ist","rel"],"d":"(en Elas antica) un prete major ci ia interprete misterios santa","en":"hierophant"}
-{"T":"r","L":"ieroglifo","C":["n","ling"],"d":"un imaje stilida cual representa un parola o sona, como los usada per scrive en Egipte antica e otra locas","i":"#","en":"hieroglyph","eo":"hieroglifo"}
-{"L":"ieroglifal","C":["a"],"en":"hieroglyphic","eo":"hieroglifa"}
-{"T":"r","L":"Ieruxalim","C":["n","jeo"],"d":"un site cual e Israel e Filastin reclama como sua capital","en":"Jerusalem"}
-{"T":"r","L":"ieti","C":["n","mit"],"d":"un primate lejendal sur cual on dise ce lo abita en Himalaia","i":"#","en":"yeti"}
-{"T":"r","L":"ifen","C":["n","ling"],"d":"un linia orizonal corta, usada per junta parolas cual indica un sinifia combinada, o per divide un parola entre du linias de testo","s":"-","v":"sinia de junta","en":"hyphen"}
-{"L":"ifenable","C":["a"],"en":"hyphenatable"}
-{"L":"ifeni","C":["vt"],"en":"hyphenate"}
-{"L":"ifeni","C":["n"],"en":"hyphenation"}
-{"T":"r","L":"-ifer","C":["sf","n","bio"],"d":"produinte, portante","en":"-ifer (producing, carrying)"}
-{"T":"r","L":"iftar","C":["n","rel"],"d":"un come comeda par muslimes pos la reposa de sol en ramadan","en":"iftar (meal)"}
-{"T":"r","L":"iglu","C":["n","arci"],"d":"un casa cupolin de inuites, tipal construida con blocos de neva solida","i":"#","en":"igloo"}
-{"T":"r","L":"iguana","C":["n","ret"],"d":"un lezardo grande e verdin de America tropical, con cresta spinosa sur la dorso","i":"#","t":"Iguana","en":"iguana"}
-{"T":"r","L":"iguanodon","C":["n","dino"],"d":"un dinosauro erbivor e partal bipede de la temprana de la cretasica, con coda larga e rijida e diton spinin","i":"#","t":"Iguanodon","en":"iguanodon"}
-{"T":"r","L":"iii","C":["esc","onom"],"d":"un sona alta como lo fada par un cavalo","en":"neigh, whinny (horse)","eo":"hen"}
+{"L":"ier","C":["n"],"en":"yesterday","eo":"hieraŭ, hieraŭo","fr":"veille"}
+{"L":"a la dia ante ier","C":["av"],"en":"the day before yesterday","eo":"antaŭhieraŭ","fr":"avant-hier"}
+{"T":"r","L":"ierarcia","C":["n","gov"],"d":"un sistem de organiza cual representa persones o cosas como relativa superior, inferior o egal, en acorda con sua state o grado","en":"hierarchy","eo":"hierarkio","fr":"hiérarchie"}
+{"L":"ierarcial","C":["a"],"en":"hierarchic, hierarchical","eo":"hierarkia","fr":"hiérarchique"}
+{"T":"r","L":"ieratica","C":["a"],"d":"pertinente a pretes, spesial los de Egipte antica; pertinente a la scrive cuasi ieroglifal de Egipte antica; pertinente a un stilo de arte de Egipte e Elas antica cual segue metodos relijiosa","i":"#","en":"hieratic (writing, art)","fr":"hiératique"}
+{"T":"r","L":"Ierevan","C":["n","jeo"],"d":"la site capital de Haiastan","en":"Yerevan","fr":"Érévan"}
+{"T":"r","L":"ierofante","C":["n","ist","rel"],"d":"(en Elas antica) un prete major ci ia interprete misterios santa","en":"hierophant","fr":"hiérophante"}
+{"T":"r","L":"ieroglifo","C":["n","ling"],"d":"un imaje stilida cual representa un parola o sona, como los usada per scrive en Egipte antica e otra locas","i":"#","en":"hieroglyph","eo":"hieroglifo","fr":"hiéroglyphe"}
+{"L":"ieroglifal","C":["a"],"en":"hieroglyphic","eo":"hieroglifa","fr":"hiéroglyphique"}
+{"T":"r","L":"Ieruxalim","C":["n","jeo"],"d":"un site cual e Israel e Filastin reclama como sua capital","en":"Jerusalem","fr":"Jérusalem"}
+{"T":"r","L":"ieti","C":["n","mit"],"d":"un primate lejendal sur cual on dise ce lo abita en Himalaia","i":"#","en":"yeti","fr":"yéti"}
+{"T":"r","L":"ifen","C":["n","ling"],"d":"un linia orizonal corta, usada per junta parolas cual indica un sinifia combinada, o per divide un parola entre du linias de testo","s":"-","v":"sinia de junta","en":"hyphen","fr":"trait d'union"}
+{"L":"ifenable","C":["a"],"en":"hyphenatable","fr":"qu'on peut couper (mot)"}
+{"L":"ifeni","C":["vt"],"en":"hyphenate","fr":"couper (un mot)"}
+{"L":"ifeni","C":["n"],"en":"hyphenation","fr":"coupure de mots, césure de mots"}
+{"T":"r","L":"-ifer","C":["sf","n","bio"],"d":"produinte, portante","en":"-ifer (producing, carrying)","fr":"-ifère"}
+{"T":"r","L":"iftar","C":["n","rel"],"d":"un come comeda par muslimes pos la reposa de sol en ramadan","en":"iftar (meal)","fr":"iftar"}
+{"T":"r","L":"iglu","C":["n","arci"],"d":"un casa cupolin de inuites, tipal construida con blocos de neva solida","i":"#","en":"igloo","fr":"igloo"}
+{"T":"r","L":"iguana","C":["n","ret"],"d":"un lezardo grande e verdin de America tropical, con cresta spinosa sur la dorso","i":"#","t":"Iguana","en":"iguana","fr":"iguane"}
+{"T":"r","L":"iguanodon","C":["n","dino"],"d":"un dinosauro erbivor e partal bipede de la temprana de la cretasica, con coda larga e rijida e diton spinin","i":"#","t":"Iguanodon","en":"iguanodon","fr":"iguanodon"}
+{"T":"r","L":"iii","C":["esc","onom"],"d":"un sona alta como lo fada par un cavalo","en":"neigh, whinny (horse)","eo":"hen","fr":"hiii! (hennissement)"}
 {"T":"r","L":"i-i-i","C":["esc","onom"],"d":"un sona alta como lo fada par un simia","en":"ee-ee-ee, ook (monkey)"}
-{"T":"r","L":"iin","C":["n"],"d":"(en filosofia xines) la prinsipe pasiva fema de la universo","en":"yin (philosophy)","eo":"jino"}
-{"T":"r","L":"iin-iang","C":["n"],"d":"(en filosofia xines) la interdepende de fortes oposada en la mundo natural","i":"#","en":"yin-yang","eo":"jino-jango, jinjango"}
-{"T":"r","L":"ijenia","C":["n","med"],"d":"la states o praticas cual aida la manteni de sania e la preveni de maladias, tipal par limpia","en":"hygiene, sanitation","eo":"higieno"}
-{"L":"ijeni","C":["vt"],"en":"sanitize|is","eo":"higienigi, purigi"}
-{"L":"ijenial","C":["a"],"en":"hygienic, sanitary (pertaining to hygiene)","eo":"higiena"}
-{"L":"ijeniosa","C":["a"],"en":"hygienic, sanitary (behaving hygienically)"}
-{"L":"ijeninte","C":["n"],"en":"sanitizer|is"}
-{"L":"ijeniste","C":["n"],"en":"hygienist"}
-{"L":"nonijeniosa","C":["a"],"en":"unhygienic, unsanitary"}
-{"T":"r","L":"-il","C":["sf","n","cim"],"d":"un radical cimical","en":"-yl (chemistry)"}
-{"T":"r","L":"ilario","C":["a","uma"],"d":"estrema divertinte e comica","en":"hilarious, uproarious","eo":"ridiga"}
-{"L":"ilaria","C":["n"],"d":"la cualia de un cosa ilario; la felisia ruidosa cual lo causa","en":"hilarity, mirth","eo":"ridigeco, gajegeco"}
-{"T":"r","L":"ileo","C":["n","anat"],"d":"la parte tre de la intestin magra","en":"ileum (anatomy)","eo":"ileo"}
-{"T":"r","L":"ilex","C":["n","pla"],"d":"un arboreta perene, con bacas roja e folias spinosa de verde oscur","i":"#","t":"Ilex","en":"holly","eo":"ilekso"}
-{"T":"r","L":"Iliada","C":["n","arte"],"d":"un poesia epica en elinica antica sur la Gera Troian, tradisional atribuida a Homero","en":"Iliad (poem)","eo":"Iliado"}
-{"T":"r","L":"ilio","C":["n","anat"],"d":"la oso grande e larga cual formi la parte superior de cada dui de la pelvis","en":"ilium (anatomy)","eo":"ilio"}
-{"L":"ilial","C":["a"],"en":"iliac"}
-{"L":"ilial","C":["n","anat","med"],"d":"un musculo liante la ilio a la tibia","en":"iliacus (muscle)"}
-{"T":"r","L":"Ilio","C":["n","jeo"],"d":"un nom antica de la site Troia","v":"Troia","en":"Ilium, Ilion (ancient Troy)","eo":"Iliono"}
-{"T":"r","L":"Iliria","C":["n","jeo","ist"],"d":"un rejion antica longo la costa este de la Mar Adriatica","i":"oscan","en":"Illyria"}
-{"L":"ilirian","C":["a","ist","dem"],"en":"Illyrian"}
-{"T":"r","L":"Illinois","C":["n","jeo"],"d":"un stato en la SUA norde-sentral","p":"ilinoí","en":"Illinois (US state)"}
-{"T":"r","L":"ilote","C":["n","ist"],"d":"un membro de un clase de campanianes feudal en Sparta antica, con grado entre sclavos e sitadanes","en":"helot (social class)"}
-{"T":"r","L":"ilude","C":["vt","uma"],"d":"fa ce (algun) ave un crede o persepi falsa; engana (algun)","en":"delude","eo":"iluzii, trompi"}
-{"L":"ilude","C":["n"],"en":"delusion, illusion, figment","eo":"iluzio"}
-{"L":"ilude de grandiosia","C":["n"],"en":"delusion of grandeur"}
-{"L":"ilude de paranoia","C":["n"],"en":"delusion of paranoia"}
-{"L":"ilude de vide","C":["n"],"en":"optical illusion, visual illusion","eo":"vidiluzio"}
-{"L":"desilude","C":["vt"],"d":"fa ce (algun) perde un ilude, comun en modo deludente","en":"disillusion","eo":"seniluziigi"}
-{"L":"desilude","C":["n"],"en":"disillusionment","eo":"seniluziigo"}
-{"L":"iludente","C":["a"],"en":"illusive, illusory"}
-{"L":"iludiste","C":["n"],"en":"illusionist"}
+{"T":"r","L":"iin","C":["n"],"d":"(en filosofia xines) la prinsipe pasiva fema de la universo","en":"yin (philosophy)","eo":"jino","fr":"yin"}
+{"T":"r","L":"iin-iang","C":["n"],"d":"(en filosofia xines) la interdepende de fortes oposada en la mundo natural","i":"#","en":"yin-yang","eo":"jino-jango, jinjango","fr":"yin-yang"}
+{"T":"r","L":"ijenia","C":["n","med"],"d":"la states o praticas cual aida la manteni de sania e la preveni de maladias, tipal par limpia","en":"hygiene, sanitation","eo":"higieno","fr":"hygiène, prophylaxie, salubrité, antisepsie"}
+{"L":"ijeni","C":["vt"],"en":"sanitize|is","eo":"higienigi, purigi","fr":"assainir, purifier"}
+{"L":"ijenial","C":["a"],"en":"hygienic, sanitary (pertaining to hygiene)","eo":"higiena","fr":"d'hygiène, hygiénique, prophylactique, antiseptique, sanitaire"}
+{"L":"ijeniosa","C":["a"],"en":"hygienic, sanitary (behaving hygienically)","fr":"d'hygiène, hygiénique, sain, salubre, prophylactique, antiseptique"}
+{"L":"ijeninte","C":["n"],"en":"sanitizer|is","fr":"purificateur"}
+{"L":"ijeniste","C":["n"],"en":"hygienist","fr":"hygiéniste"}
+{"L":"nonijeniosa","C":["a"],"en":"unhygienic, unsanitary","fr":"non hygiénique, malsain, insalubre"}
+{"T":"r","L":"-il","C":["sf","n","cim"],"d":"un radical cimical","en":"-yl (chemistry)","fr":"-yl"}
+{"T":"r","L":"ilario","C":["a","uma"],"d":"estrema divertinte e comica","en":"hilarious, uproarious","eo":"ridiga","fr":"hilare, gai"}
+{"L":"ilaria","C":["n"],"d":"la cualia de un cosa ilario; la felisia ruidosa cual lo causa","en":"hilarity, mirth","eo":"ridigeco, gajegeco","fr":"hilarité, gaieté"}
+{"T":"r","L":"ileo","C":["n","anat"],"d":"la parte tre de la intestin magra","en":"ileum (anatomy)","eo":"ileo","fr":"iléon (anatomie)"}
+{"T":"r","L":"ilex","C":["n","pla"],"d":"un arboreta perene, con bacas roja e folias spinosa de verde oscur","i":"#","t":"Ilex","en":"holly","eo":"ilekso","fr":"houx"}
+{"T":"r","L":"Iliada","C":["n","arte"],"d":"un poesia epica en elinica antica sur la Gera Troian, tradisional atribuida a Homero","en":"Iliad (poem)","eo":"Iliado","fr":"Iliade"}
+{"T":"r","L":"ilio","C":["n","anat"],"d":"la oso grande e larga cual formi la parte superior de cada dui de la pelvis","en":"ilium (anatomy)","eo":"ilio","fr":"ilium (anatomie)"}
+{"L":"ilial","C":["a"],"en":"iliac","fr":"iliaque"}
+{"L":"ilial","C":["n","anat","med"],"d":"un musculo liante la ilio a la tibia","en":"iliacus (muscle)","fr":"iliaque (muscle)"}
+{"T":"r","L":"Ilio","C":["n","jeo"],"d":"un nom antica de la site Troia","v":"Troia","en":"Ilium, Ilion (ancient Troy)","eo":"Iliono","fr":"Troie, Ilion"}
+{"T":"r","L":"Iliria","C":["n","jeo","ist"],"d":"un rejion antica longo la costa este de la Mar Adriatica","i":"oscan","en":"Illyria","fr":"Illyrie"}
+{"L":"ilirian","C":["a","ist","dem"],"en":"Illyrian","fr":"illyrien"}
+{"T":"r","L":"Illinois","C":["n","jeo"],"d":"un stato en la SUA norde-sentral","p":"ilinoí","en":"Illinois (US state)","fr":"Illinois (État des USA)"}
+{"T":"r","L":"ilote","C":["n","ist"],"d":"un membro de un clase de campanianes feudal en Sparta antica, con grado entre sclavos e sitadanes","en":"helot (social class)","fr":"ilote"}
+{"T":"r","L":"ilude","C":["vt","uma"],"d":"fa ce (algun) ave un crede o persepi falsa; engana (algun)","en":"delude","eo":"iluzii, trompi","fr":"ilusionner, tromper"}
+{"L":"ilude","C":["n"],"en":"delusion, illusion, figment","eo":"iluzio","fr":"illusion, tromperie"}
+{"L":"ilude de grandiosia","C":["n"],"en":"delusion of grandeur","fr":"folie des grandeurs"}
+{"L":"ilude de paranoia","C":["n"],"en":"delusion of paranoia","fr":"délire paranoïaque"}
+{"L":"ilude de vide","C":["n"],"en":"optical illusion, visual illusion","eo":"vidiluzio","fr":"illusion d'optique, illusion visuelle"}
+{"L":"desilude","C":["vt"],"d":"fa ce (algun) perde un ilude, comun en modo deludente","en":"disillusion","eo":"seniluziigi","fr":"désillusionner, détromper"}
+{"L":"desilude","C":["n"],"en":"disillusionment","eo":"seniluziigo","fr":"désillusion"}
+{"L":"iludente","C":["a"],"en":"illusive, illusory","fr":"illusoire, trompeur"}
+{"L":"iludiste","C":["n"],"en":"illusionist","fr":"illusionniste, prestidigitateur, magicien"}
 {"T":"r","L":"im-","C":["pf"],"d":"en, a en","en":"im- (in, into)"}
 {"T":"r","L":"im-","C":["pf"],"d":"no, non-","en":"im- (not)"}
 {"T":"r","L":"imago","C":["n","bio"],"d":"la forma final developada de un inseto, tipal con alas; (en psicolojia de Jung) un imaje nonconsensa e idealida cual influe la condui","en":"imago (biology, psychology)"}
