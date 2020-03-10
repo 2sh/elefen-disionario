@@ -9544,24 +9544,24 @@
 {"L":"englesi","C":["vt"],"en":"anglicize|is","fr":"angliciser","he":"לאנגלז"}
 {"L":"englesi","C":["n"],"en":"anglicization|is","fr":"anglicisation","he":"אינגלוז, אנגליזציה"}
 {"L":"englesisme","C":["n"],"en":"anglicism","fr":"anglicisme","he":"ביטוי אנגלי"}
-{"T":"r","L":"engoli","C":["vt"],"d":"permete ce (un comeda, bevida o simil) desende la garga; (un sustantia o forte) covre o enclui completa (un person o cosa)","da":"synke, sluge","de":"schlucken","en":"swallow, gulp, guzzle, scoff, swig, swill; engulf, envelop","es":"tragar, engullir, deglutir","fr":"avaler"}
-{"T":"r","L":"engrana","C":["vnt","util","vec"],"d":"(piniones) interlia per move un macina o veculo; entra a un combate o batalia","i":"#","en":"engage (gear, enemy)","fr":"embrayer, s'engager"}
-{"L":"engrana","C":["vt"],"en":"engage (gear, enemy)","fr":"engager (le combat, les vitesses d'un moteur)"}
-{"L":"engrana","C":["n"],"da":"tandhjul","de":"Zahnrad","en":"engagement (gear, combat); gear (setting)","es":"engranaje, engrane","fr":"engagement; vitesse (de moteur)"}
-{"L":"engrana de avansa","C":["n"],"en":"drive, forward gear","fr":"marche avant"}
-{"L":"engrana de retira","C":["n"],"en":"reverse, reverse gear","fr":"marche arrière"}
-{"L":"engrana mor","C":["n"],"en":"neutral (gear)","fr":"point mort"}
-{"L":"engrana prima","C":["n"],"en":"first gear","fr":"première (vitesse)"}
-{"L":"desengrana","C":["vnt"],"en":"disengage (gear, enemy)","fr":"se désengager, débrayer"}
-{"L":"desengrana","C":["vt"],"en":"disengage (gear, enemy)","fr":"débrayer, désengager"}
-{"L":"desengrana","C":["n"],"en":"disengagement","fr":"débrayage, désengagement"}
-{"L":"engranada","C":["a"],"en":"engaged (gear)","fr":"embrayé"}
-{"L":"engranada a cuatro rotas","C":["n"],"en":"four-wheel drive, all-wheel drive, four-by-four","fr":"4×4, quatre roues motrices"}
-{"L":"engranador","C":["n"],"en":"gearbox, transmission","fr":"boite à vitesse"}
-{"L":"supraengrana","C":["n"],"en":"overdrive","fr":"surrégime"}
-{"T":"r","L":"enigma","C":["n","fil"],"d":"un person o cosa misteriosa o difisil per comprende","ca":"endevinalla","en":"enigma, conundrum, puzzle, riddle","es":"adivinanza","fr":"énigme, devinette","it":"enigma","pt":"enigma"}
-{"L":"enigmosa","C":["a"],"en":"enigmatic"}
-{"T":"r","L":"enlinia","C":["a","info"],"d":"liada a un computador o rede de computadores; (un servi o ata) disponable o fada en la interede","en":"online","fr":"en ligne"}
+{"T":"r","L":"engoli","C":["vt"],"d":"permete ce (un comeda, bevida o simil) desende la garga; (un sustantia o forte) covre o enclui completa (un person o cosa)","da":"synke, sluge","de":"schlucken","en":"swallow, gulp, guzzle, scoff, swig, swill; engulf, envelop","es":"tragar, engullir, deglutir","fr":"avaler","he":"לבלוע"}
+{"T":"r","L":"engrana","C":["vnt","util","vec"],"d":"(piniones) interlia per move un macina o veculo; entra a un combate o batalia","i":"#","en":"engage (gear, enemy)","fr":"embrayer, s'engager","he":"להשתלב (הילוכים, גלגלי שיניים); לפתוח בקרב"}
+{"L":"engrana","C":["vt"],"en":"engage (gear, enemy)","fr":"engager (le combat, les vitesses d'un moteur)","he":"לשלב (הילוך, גלגלי שיניים); לפתוח בקרב"}
+{"L":"engrana","C":["n"],"da":"tandhjul","de":"Zahnrad","en":"engagement (gear, combat); gear (setting)","es":"engranaje, engrane","fr":"engagement; vitesse (de moteur)","he":"שילוב (הילוך, גלגלי שיניים); הילוך; פתיחה בקרב"}
+{"L":"engrana de avansa","C":["n"],"en":"drive, forward gear","fr":"marche avant","he":"הילוך קדמי"}
+{"L":"engrana de retira","C":["n"],"en":"reverse, reverse gear","fr":"marche arrière","he":"הילוך אחורי"}
+{"L":"engrana mor","C":["n"],"en":"neutral (gear)","fr":"point mort","he":"הילוך סרק, ניוטרל"}
+{"L":"engrana prima","C":["n"],"en":"first gear","fr":"première (vitesse)","he":"הילוך ראשון"}
+{"L":"desengrana","C":["vnt"],"en":"disengage (gear, enemy)","fr":"se désengager, débrayer","he":"להיפרד (גלגלי שיניים); להתנתק, לחדול (ממגע עם האויב)"}
+{"L":"desengrana","C":["vt"],"en":"disengage (gear, enemy)","fr":"débrayer, désengager","he":"להפריד (גלגלי שיניים); לנתק מגע (עם האויב)"}
+{"L":"desengrana","C":["n"],"en":"disengagement","fr":"débrayage, désengagement","he":"הפרדה, שחרור (של גלגלי שיניים); ניתוק מגע (עם האויב)"}
+{"L":"engranada","C":["a"],"en":"engaged (gear)","fr":"embrayé","he":"(הילוך) משולב"}
+{"L":"engranada a cuatro rotas","C":["n"],"en":"four-wheel drive, all-wheel drive, four-by-four","fr":"4×4, quatre roues motrices","he":"הנעה כפולה"}
+{"L":"engranador","C":["n"],"en":"gearbox, transmission","fr":"boite à vitesse","he":"תיבת הילוכים, גיר"}
+{"L":"supraengrana","C":["n"],"en":"overdrive","fr":"surrégime","he":"הילוך מופלג, הילוך שיוט"}
+{"T":"r","L":"enigma","C":["n","fil"],"d":"un person o cosa misteriosa o difisil per comprende","ca":"endevinalla","en":"enigma, conundrum, puzzle, riddle","es":"adivinanza","fr":"énigme, devinette","he":"אניגמה, חידה, תעלומה, מסתורין","it":"enigma","pt":"enigma"}
+{"L":"enigmosa","C":["a"],"en":"enigmatic","he":"אניגמטי, חידתי, עלום, מסתורי"}
+{"T":"r","L":"enlinia","C":["a","info"],"d":"liada a un computador o rede de computadores; (un servi o ata) disponable o fada en la interede","en":"online","fr":"en ligne","he":"מקוון, אונליין"}
 {"T":"r","L":"enorme","C":["a"],"d":"con estracomun multe grandia, cuantia o estende","da":"stor, enorm, gigantisk","de":"ungeheuer, riesig","en":"enormous, giant, huge, vast, immense, colossal, tremendous, prodigious, terrific","es":"enorme, inmenso, gigantesco","fr":"énorme, démesuré, gigantesque, immense, colossal, vaste"}
 {"L":"enorme","C":["av"],"en":"enormously, hugely, vastly","fr":"énormément, immensément, démesurément, colossalement"}
 {"L":"enormia","C":["n"],"en":"vastness, enormity, immensity, bulk","fr":"immensité, démesure, vastitude, énormité, ampleur"}
@@ -12967,136 +12967,136 @@
 {"L":"desilude","C":["n"],"en":"disillusionment","eo":"seniluziigo","fr":"désillusion"}
 {"L":"iludente","C":["a"],"en":"illusive, illusory","fr":"illusoire, trompeur"}
 {"L":"iludiste","C":["n"],"en":"illusionist","fr":"illusionniste, prestidigitateur, magicien"}
-{"T":"r","L":"im-","C":["pf"],"d":"en, a en","en":"im- (in, into)"}
-{"T":"r","L":"im-","C":["pf"],"d":"no, non-","en":"im- (not)"}
-{"T":"r","L":"imago","C":["n","bio"],"d":"la forma final developada de un inseto, tipal con alas; (en psicolojia de Jung) un imaje nonconsensa e idealida cual influe la condui","en":"imago (biology, psychology)"}
+{"T":"r","L":"im-","C":["pf"],"d":"en, a en","en":"im- (in, into)","fr":"im- (à l'intérieur)"}
+{"T":"r","L":"im-","C":["pf"],"d":"no, non-","en":"im- (not)","fr":"im- (négation)"}
+{"T":"r","L":"imago","C":["n","bio"],"d":"la forma final developada de un inseto, tipal con alas; (en psicolojia de Jung) un imaje nonconsensa e idealida cual influe la condui","en":"imago (biology, psychology)","fr":"imago"}
 {"T":"r","L":"imaje","C":["n","arte","info"],"d":"un representa vidal, real o mental de un person o cosa, como un sculta, depinta, desinia o foto; cada de la fotos individua en un serie cual formi un video; un fix cual conteni la strutur e contenidas intera de un disco","da":"billede","de":"Bild","en":"image, picture, depiction, graphic, illustration, painting, drawing, photo; frame (movie); disk image","eo":"figuro, bildo","es":"cuadro, imagen, pintura, retrato, fotografía","fr":"image"}
-{"L":"imaje esajerada","C":["n"],"en":"caricature"}
-{"L":"imaje matrisin","C":["n","info"],"en":"bitmap image, raster image","eo":"rastruma bildo"}
-{"L":"imaje vetoral","C":["n"],"en":"vector image, vector graphic"}
-{"L":"imajes","C":["n","pl"],"en":"images, imagery"}
-{"L":"imajeta","C":["n"],"d":"un varia reduida de un imaje, como en catalogos de imajes","en":"thumbnail image"}
-{"L":"imaji","C":["vnt"],"en":"appear as an image","eo":"bildiĝi"}
-{"L":"imaji","C":["vt"],"en":"image, picture, depict, illustrate","eo":"bildigi"}
-{"L":"imaji","C":["n"],"d":"la crea de imajes, spesial en siensa","en":"imaging"}
-{"L":"imajia","C":["n"],"d":"la cualia de imajes o cosas usada como imajes o simboles","en":"imagery (quality held by items used as images or symbols)"}
-{"L":"imajin","C":["a"],"en":"pictorial"}
-{"L":"imajor","C":["n"],"en":"illustrator"}
-{"L":"posimaje","C":["n"],"en":"afterimage"}
+{"L":"imaje esajerada","C":["n"],"en":"caricature","fr":"caricature"}
+{"L":"imaje matrisin","C":["n","info"],"en":"bitmap image, raster image","eo":"rastruma bildo","fr":"image matricielle"}
+{"L":"imaje vetoral","C":["n"],"en":"vector image, vector graphic","fr":"image vectorielle"}
+{"L":"imajes","C":["n","pl"],"en":"images, imagery","fr":"images, imagerie"}
+{"L":"imajeta","C":["n"],"d":"un varia reduida de un imaje, como en catalogos de imajes","en":"thumbnail image","fr":"vignette (image miniature)"}
+{"L":"imaji","C":["vnt"],"en":"appear as an image","eo":"bildiĝi","fr":"apparaître comme une image"}
+{"L":"imaji","C":["vt"],"en":"image, picture, depict, illustrate","eo":"bildigi","fr":"illustrer, peindre, dépeindre, dessiner"}
+{"L":"imaji","C":["n"],"d":"la crea de imajes, spesial en siensa","en":"imaging","fr":"création d'images, conception graphique"}
+{"L":"imajia","C":["n"],"d":"la cualia de imajes o cosas usada como imajes o simboles","en":"imagery (quality held by items used as images or symbols)","fr":"image"}
+{"L":"imajin","C":["a"],"en":"pictorial","fr":"pictural"}
+{"L":"imajor","C":["n"],"en":"illustrator","fr":"illustrateur"}
+{"L":"posimaje","C":["n"],"en":"afterimage","fr":"image différée"}
 {"T":"r","L":"imajina","C":["vt","uma"],"d":"conseti o formi un imaje mental de (un cosa)","da":"forestille","de":"sich vorstellen","en":"imagine, fancy, ideate, visualize|is; dream up, think up, think of, come up with, hit on","eo":"imagi","es":"imaginar, imaginar que, figurarse que","fr":"imaginer"}
-{"L":"imajina","C":["n"],"en":"imagination, ideation","eo":"imago, imagipovo"}
-{"L":"imajina usosa","C":["n"],"en":"useful fiction"}
-{"L":"imajinable","C":["a"],"en":"imaginable, conceivable"}
-{"L":"imajinal","C":["a"],"d":"esistente sola en la imajina","en":"imaginary (including number), fictional, fictitious, fanciful, chimeric, chimerical","eo":"imaga, fantazia, fikcia, ĥimera"}
-{"L":"imajinosa","C":["a"],"en":"imaginative"}
-{"L":"nonimajinable","C":["a"],"en":"unimaginable, inconceivable, unfathomable"}
-{"T":"r","L":"imam","C":["n","rel"],"d":"un person ci gida preas en un mascita","en":"imam (Islam)"}
-{"T":"r","L":"imantico","C":["n","avia"],"d":"un avia vadante con beco longa, plumas negra e blanca, e gamas longa e rojin","i":"#","t":"Himantopus","en":"stilt (bird)","eo":"himantopo"}
-{"T":"r","L":"imen","C":["n","anat"],"d":"un membrana cual clui partal la abri de la vajina, de cual sua presentia es tradisional tratada como sinia de virjinia","en":"hymen, maidenhead (anatomy)","eo":"himeno"}
+{"L":"imajina","C":["n"],"en":"imagination, ideation","eo":"imago, imagipovo","fr":"imagination"}
+{"L":"imajina usosa","C":["n"],"en":"useful fiction","fr":"fiction utile"}
+{"L":"imajinable","C":["a"],"en":"imaginable, conceivable","fr":"imaginable, concevable"}
+{"L":"imajinal","C":["a"],"d":"esistente sola en la imajina","en":"imaginary (including number), fictional, fictitious, fanciful, chimeric, chimerical","eo":"imaga, fantazia, fikcia, ĥimera","fr":"imaginaire, fictif, fantaisiste, chimérique"}
+{"L":"imajinosa","C":["a"],"en":"imaginative","fr":"imaginatif, inventif, visionnaire"}
+{"L":"nonimajinable","C":["a"],"en":"unimaginable, inconceivable, unfathomable","fr":"inimaginable, inconcevable"}
+{"T":"r","L":"imam","C":["n","rel"],"d":"un person ci gida preas en un mascita","en":"imam (Islam)","fr":"imam"}
+{"T":"r","L":"imantico","C":["n","avia"],"d":"un avia vadante con beco longa, plumas negra e blanca, e gamas longa e rojin","i":"#","t":"Himantopus","en":"stilt (bird)","eo":"himantopo","fr":"échasse (oiseau)"}
+{"T":"r","L":"imen","C":["n","anat"],"d":"un membrana cual clui partal la abri de la vajina, de cual sua presentia es tradisional tratada como sinia de virjinia","en":"hymen, maidenhead (anatomy)","eo":"himeno","fr":"hymen (anatomie)"}
 {"T":"r","L":"imita","C":["vt","arte"],"d":"copia la model de (alga cosa); fa ce sua propre modo de condui o parla sembla lo de (un otra person)","da":"efterligne","de":"nachmachen","en":"imitate, mimic, emulate, impersonate, do an impression of","eo":"imiti","es":"imitar, copiar","fr":"imiter"}
-{"L":"imita","C":["n"],"en":"imitation, mimicry, emulation, impersonation, impression","eo":"imito, imitado"}
-{"L":"imitador","C":["n"],"en":"emulator (software)"}
-{"L":"imitor","C":["n"],"en":"impressionist, mimic, impersonator","eo":"imitanto, imitisto"}
-{"L":"nonimitable","C":["a"],"en":"inimitable"}
-{"T":"r","L":"imno","C":["n","rel"],"d":"un canta o poesia formal de loda","en":"hymn, anthem, paean","eo":"himno"}
-{"T":"r","L":"imobila","C":["n","mone"],"d":"un propria nonmovable, tipal un construida e la tera ensircante","n":"`Imobila` es un nom contable.","en":"property, premises, piece of real estate, homestead, realty","eo":"domhavaĵo, terhavaĵo"}
-{"L":"con imobila","C":["a"],"en":"propertied, landed"}
-{"L":"imobilor","C":["n"],"en":"landowner, property owner"}
-{"T":"r","L":"impala","C":["n","mam"],"d":"un antilope de Africa este e sude, con moves refinada e cornos curva como un lira","i":"#","t":"Aepyceros melampus","en":"impala (antelope)","eo":"impalo"}
-{"T":"r","L":"impasto","C":["n","arte"],"d":"la tecnica de aplica un pinta tan densa ce lo protende de un surfas","en":"impasto (painting technique)"}
+{"L":"imita","C":["n"],"en":"imitation, mimicry, emulation, impersonation, impression","eo":"imito, imitado","fr":"imitation"}
+{"L":"imitador","C":["n"],"en":"emulator (software)","fr":"émulateur (informatique)"}
+{"L":"imitor","C":["n"],"en":"impressionist, mimic, impersonator","eo":"imitanto, imitisto","fr":"imitateur"}
+{"L":"nonimitable","C":["a"],"en":"inimitable","fr":"inimitable"}
+{"T":"r","L":"imno","C":["n","rel"],"d":"un canta o poesia formal de loda","en":"hymn, anthem, paean","eo":"himno","fr":"hymne"}
+{"T":"r","L":"imobila","C":["n","mone"],"d":"un propria nonmovable, tipal un construida e la tera ensircante","n":"`Imobila` es un nom contable.","en":"property, premises, piece of real estate, homestead, realty","eo":"domhavaĵo, terhavaĵo","fr":"propriété immobilière"}
+{"L":"con imobila","C":["a"],"en":"propertied, landed","fr":"terrien, foncier"}
+{"L":"imobilor","C":["n"],"en":"landowner, property owner","fr":"propriétaire foncier"}
+{"T":"r","L":"impala","C":["n","mam"],"d":"un antilope de Africa este e sude, con moves refinada e cornos curva como un lira","i":"#","t":"Aepyceros melampus","en":"impala (antelope)","eo":"impalo","fr":"impala (antilope)"}
+{"T":"r","L":"impasto","C":["n","arte"],"d":"la tecnica de aplica un pinta tan densa ce lo protende de un surfas","en":"impasto (painting technique)","fr":"empâtement (technique pictorale)"}
 {"T":"r","L":"impedi","C":["vt"],"d":"bloci (un person o cosa) per retarda o para el o lo","de":"verhindern","en":"impede, hinder, prevent, hamper, deter, preclude, thwart; obstruct, block, congest, be in the way","eo":"malhelpi, obstrukci","fr":"empêcher"}
-{"L":"impedi","C":["n"],"en":"blockade, obstacle, congestion, obstruction, impediment, hindrance","eo":"malhelpo, obstrukco"}
-{"L":"impedida","C":["a"],"en":"congested","eo":"obstrukcita, ŝtopita"}
-{"L":"impedinte","C":["a"],"en":"impeding, hindering, inimical"}
-{"L":"nonimpedida","C":["a"],"en":"unimpeded, unhindered, unobstructed, undeterred"}
+{"L":"impedi","C":["n"],"en":"blockade, obstacle, congestion, obstruction, impediment, hindrance","eo":"malhelpo, obstrukco","fr":"obstacle, empêchement, obstruction"}
+{"L":"impedida","C":["a"],"en":"congested","eo":"obstrukcita, ŝtopita","fr":"empêché, obstrué, embarrassé"}
+{"L":"impedinte","C":["a"],"en":"impeding, hindering, inimical","fr":"empêchant, faisant obstacle, hostile, adverse, embarrassant, contraire"}
+{"L":"nonimpedida","C":["a"],"en":"unimpeded, unhindered, unobstructed, undeterred","fr":"sans empêchement, sans obstacle, sans entrave"}
 {"T":"r","L":"impenia","C":["vt","mone"],"d":"lasa (un ojeto) en la posese de un prestor per garantia la mone prestada","en":"pawn, hock","eo":"lombardi","fr":"mettre en gage"}
-{"L":"impenieria","C":["n"],"i":"#","en":"pawnshop","eo":"lombardejo"}
-{"L":"impenior","C":["n"],"en":"pawnbroker","eo":"lombardisto"}
+{"L":"impenieria","C":["n"],"i":"#","en":"pawnshop","eo":"lombardejo","fr":"bureau de prêteur sur gage, mont-de-piété"}
+{"L":"impenior","C":["n"],"en":"pawnbroker","eo":"lombardisto","fr":"prêteur sur gage"}
 {"T":"r","L":"impero","C":["n","gov"],"d":"un grupo grande de statos o paises su un autoria suprema","en":"empire","eo":"imperio","fr":"empire"}
-{"L":"imperal","C":["a"],"en":"imperial","eo":"imperia"}
-{"L":"imperalisme","C":["n"],"en":"imperialism"}
-{"L":"imperaliste","C":["a"],"en":"imperialist"}
+{"L":"imperal","C":["a"],"en":"imperial","eo":"imperia","fr":"impérial"}
+{"L":"imperalisme","C":["n"],"en":"imperialism","fr":"impérialisme"}
+{"L":"imperaliste","C":["a"],"en":"imperialist","fr":"impérialiste"}
 {"L":"imperor","C":["n"],"en":"emperor","eo":"imperiestro","fr":"empereur"}
-{"L":"imperoresa","C":["n"],"en":"empress","eo":"imperiestrino"}
-{"T":"r","L":"impetigo","C":["n","med"],"d":"un infeta baterial e comunicable de pel, causante pustulas e ulseras jala e crostida","en":"impetigo (medical)"}
-{"T":"r","L":"implanta","C":["vt","bio","med"],"d":"introdui (un cosa) en la corpo de un organisme, tipal par sirurjia","en":"implant","eo":"enplanti"}
-{"L":"implanta","C":["n"],"en":"implantation","eo":"enplanto"}
-{"L":"implantada","C":["a"],"en":"implanted","eo":"enplantita"}
-{"L":"implantada","C":["n"],"en":"implant","eo":"enplantaĵo"}
-{"T":"r","L":"implica","C":["vt","fil"],"d":"(un fato) sujesta la veria de (un otra fato) en segue lojical; mostra la envolve de (algun) en un crimin","en":"imply, entail; implicate, incriminate, involve","eo":"implici, impliki"}
-{"L":"implica","C":["n"],"en":"implication, incrimination","eo":"implico; impliko"}
-{"L":"implicada","C":["a"],"en":"implied, implicit, default, tacit","eo":"implicita"}
-{"L":"implicada","C":["n","info"],"en":"default value","eo":"implicita valoro"}
-{"L":"par implica","C":["av"],"en":"by default"}
-{"T":"r","L":"implode","C":["vnt","fis"],"d":"colasa violente a en se","en":"implode","eo":"implodi, enfali"}
-{"L":"implode","C":["vt"],"en":"implode"}
-{"L":"implode","C":["n"],"en":"implosion","eo":"implodo"}
-{"L":"implodente","C":["a"],"en":"implosive"}
-{"T":"r","L":"importa","C":["vnt","gov"],"d":"es valuada per sua influe o efeto profonda","en":"be important, matter, have import, have significance","eo":"gravi","fr":"importer, avoir d'importance"}
-{"L":"importa","C":["n"],"de":"wichtig","en":"importance, significance; salience, prominence","eo":"graveco"}
-{"L":"importante","C":["a"],"d":"valuada per sua influe o efeto profonda","da":"vigtig","en":"important, significant, momentous; salient, prominent, consequential","eo":"grava","es":"importante","fr":"important"}
-{"L":"lo no importa","C":["esc"],"en":"it's not important, never mind, whatever","eo":"ne gravas"}
-{"L":"nonimportante","C":["a"],"en":"unimportant, insignificant, trite, trivial, inconsequential","eo":"malgrava, negrava"}
-{"L":"suprema importante","C":["a"],"en":"paramount"}
-{"T":"r","L":"imposta","C":["vt","gov","mone"],"d":"(un governa) comanda ce un sitadan o comersia contribui a la stato un parte de (sua propre revenu) o la custa de (alga benes o servis)","en":"tax","eo":"imposti"}
-{"L":"imposta","C":["n"],"da":"skat","de":"Steuer","en":"tax, taxation","eo":"imposto","es":"impuesto"}
-{"L":"imposta de ben","C":["n"],"en":"duty, goods tax"}
-{"L":"imposta de corpora","C":["n"],"en":"corporate tax"}
-{"L":"imposta de duana","C":["n"],"en":"imports tax, border tax, customs duty"}
-{"L":"imposta de emporta","C":["n"],"en":"imports tax, border tax, customs duty"}
-{"L":"imposta de erita","C":["n"],"en":"inheritance tax"}
-{"L":"imposta de imobila","C":["n"],"en":"property tax"}
-{"L":"imposta de revenu","C":["n"],"en":"income tax"}
-{"L":"imposta de valua ajuntada","C":["n"],"en":"value-added tax, VAT","eo":"aldonvalora imposto, AVI"}
-{"L":"imposta de vende","C":["n"],"en":"sales tax"}
-{"L":"imposta interna","C":["n"],"en":"inland tax, excise"}
-{"L":"imposta regresante","C":["n"],"en":"regressive tax"}
-{"L":"imposta tro multe","C":["v"],"en":"overtax"}
-{"L":"impostable","C":["a"],"en":"taxable","eo":"impostita"}
-{"L":"impostor","C":["n"],"en":"taxman, publican"}
-{"L":"nonimpostable","C":["a"],"en":"untaxable"}
-{"L":"sin imposta","C":["a"],"en":"taxfree","eo":"senimposta"}
-{"L":"surimposta","C":["vt"],"d":"imposta plu (alga cosa ja impostada)","en":"surtax","eo":"superimposti"}
-{"L":"surimposta","C":["n"],"en":"surtax","eo":"superimposto"}
-{"T":"r","L":"impresa","C":["vt","gov"],"d":"fa (un marca o desinia) sur un cosa par presa; fa un efeto a la sensas o mente de (algun); fa ce (algun) senti amira o respeta","en":"impress, imprint, emboss, stamp; make an impression, come across (as); instil, inculcate","eo":"stampi, impresi, imponi"}
-{"L":"impresa","C":["n"],"i":"#","en":"impression, imprint, print","eo":"premsigno"}
-{"L":"impresa de dito","C":["n"],"en":"fingerprint (imprint)","eo":"fingrospuro"}
-{"L":"impresa de diton","C":["n"],"en":"thumbprint (imprint)"}
-{"L":"impresa de pede","C":["n"],"i":"#","en":"footprint","eo":"piedmarko, piedspuro"}
-{"L":"impresa de ungula","C":["n"],"en":"hoofprint, hoofmark"}
-{"L":"impresable","C":["a"],"en":"impressionable","eo":"impresiĝema"}
-{"L":"impresablia","C":["n"],"en":"impressionability","eo":"impresiĝemo"}
-{"L":"impresador","C":["n"],"en":"stamp","eo":"stampilo"}
-{"L":"impresante","C":["a"],"en":"impressive, sonorous","eo":"impresa; impona"}
-{"L":"impresisme","C":["n"],"d":"un stilo de depinta artal cual catura la impresa vidal de un sena en la lus de un momento definida","en":"Impressionism (art)","eo":"impresionismo"}
-{"L":"impresiste","C":["n"],"en":"Impressionist","eo":"impresionisto"}
-{"L":"impresor","C":["n"],"en":"printmaker"}
+{"L":"imperoresa","C":["n"],"en":"empress","eo":"imperiestrino","fr":"impératrice"}
+{"T":"r","L":"impetigo","C":["n","med"],"d":"un infeta baterial e comunicable de pel, causante pustulas e ulseras jala e crostida","en":"impetigo (medical)","fr":"impétigo (médecine)"}
+{"T":"r","L":"implanta","C":["vt","bio","med"],"d":"introdui (un cosa) en la corpo de un organisme, tipal par sirurjia","en":"implant","eo":"enplanti","fr":"implanter"}
+{"L":"implanta","C":["n"],"en":"implantation","eo":"enplanto","fr":"implantation"}
+{"L":"implantada","C":["a"],"en":"implanted","eo":"enplantita","fr":"implanté"}
+{"L":"implantada","C":["n"],"en":"implant","eo":"enplantaĵo","fr":"implant"}
+{"T":"r","L":"implica","C":["vt","fil"],"d":"(un fato) sujesta la veria de (un otra fato) en segue lojical; mostra la envolve de (algun) en un crimin","en":"imply, entail; implicate, incriminate, involve","eo":"implici, impliki","fr":"impliquer, entraîner"}
+{"L":"implica","C":["n"],"en":"implication, incrimination","eo":"implico; impliko","fr":"implication"}
+{"L":"implicada","C":["a"],"en":"implied, implicit, default, tacit","eo":"implicita","fr":"impliqué"}
+{"L":"implicada","C":["n","info"],"en":"default value","eo":"implicita valoro","fr":"valeur par défaut"}
+{"L":"par implica","C":["av"],"en":"by default","fr":"par défaut"}
+{"T":"r","L":"implode","C":["vnt","fis"],"d":"colasa violente a en se","en":"implode","eo":"implodi, enfali","fr":"imploser"}
+{"L":"implode","C":["vt"],"en":"implode","fr":"faire imploser"}
+{"L":"implode","C":["n"],"en":"implosion","eo":"implodo","fr":"implosion"}
+{"L":"implodente","C":["a"],"en":"implosive","fr":"implosif"}
+{"T":"r","L":"importa","C":["vnt","gov"],"d":"es valuada per sua influe o efeto profonda","en":"be important, matter, have import, have significance","eo":"gravi","fr":"importer, avoir de l'importance, être primordial"}
+{"L":"importa","C":["n"],"de":"wichtig","en":"importance, significance; salience, prominence","eo":"graveco","fr":"importance"}
+{"L":"importante","C":["a"],"d":"valuada per sua influe o efeto profonda","da":"vigtig","en":"important, significant, momentous; salient, prominent, consequential","eo":"grava","es":"importante","fr":"important, primordial, grave"}
+{"L":"lo no importa","C":["esc"],"en":"it's not important, never mind, whatever","eo":"ne gravas","fr":"ce n'est pas important, ce n'est pas grave"}
+{"L":"nonimportante","C":["a"],"en":"unimportant, insignificant, trite, trivial, inconsequential","eo":"malgrava, negrava","fr":"sans importance, sans gravité, sans conséquence, insignifiant, banal"}
+{"L":"suprema importante","C":["a"],"en":"paramount","fr":"primordial, extrêmement important, suprême"}
+{"T":"r","L":"imposta","C":["vt","gov","mone"],"d":"(un governa) comanda ce un sitadan o comersia contribui a la stato un parte de (sua propre revenu) o la custa de (alga benes o servis)","en":"tax","eo":"imposti","fr":"imposer, taxer, lever des impôts"}
+{"L":"imposta","C":["n"],"da":"skat","de":"Steuer","en":"tax, taxation","eo":"imposto","es":"impuesto","fr":"imposition, taxation"}
+{"L":"imposta de ben","C":["n"],"en":"duty, goods tax","fr":"impôt sur les biens, impôt sur la propriété"}
+{"L":"imposta de corpora","C":["n"],"en":"corporate tax","fr":"impôt sur les sociétés"}
+{"L":"imposta de duana","C":["n"],"en":"imports tax, border tax, customs duty","fr":"droits de douane, taxe douanière"}
+{"L":"imposta de emporta","C":["n"],"en":"imports tax, border tax, customs duty","fr":"droits de douane, taxe d'importation"}
+{"L":"imposta de erita","C":["n"],"en":"inheritance tax","fr":"droits de succession"}
+{"L":"imposta de imobila","C":["n"],"en":"property tax","fr":"taxe immobilière, taxe foncière"}
+{"L":"imposta de revenu","C":["n"],"en":"income tax","fr":"impôt sur le revenu"}
+{"L":"imposta de valua ajuntada","C":["n"],"en":"value-added tax, VAT","eo":"aldonvalora imposto, AVI","fr":"TVA, taxe sur la valeur ajoutée"}
+{"L":"imposta de vende","C":["n"],"en":"sales tax","fr":"taxe de vente"}
+{"L":"imposta interna","C":["n"],"en":"inland tax, excise","fr":"taxe intérieure, accise (taxe)"}
+{"L":"imposta regresante","C":["n"],"en":"regressive tax","fr":"impôt régressif, taxe régressive"}
+{"L":"imposta tro multe","C":["v"],"en":"overtax","fr":"surtaxer"}
+{"L":"impostable","C":["a"],"en":"taxable","eo":"impostita","fr":"imposable, taxable"}
+{"L":"impostor","C":["n"],"en":"taxman, publican","fr":"percepteur, releveur d'impôt"}
+{"L":"nonimpostable","C":["a"],"en":"untaxable","fr":"non imposable"}
+{"L":"sin imposta","C":["a"],"en":"taxfree","eo":"senimposta","fr":"détaxé, libre de taxe, sans taxe, exempt d'impôt"}
+{"L":"surimposta","C":["vt"],"d":"imposta plu (alga cosa ja impostada)","en":"surtax","eo":"superimposti","fr":"surtaxer, mettre un supplément de taxe à"}
+{"L":"surimposta","C":["n"],"en":"surtax","eo":"superimposto","fr":"surtaxe, surimposition"}
+{"T":"r","L":"impresa","C":["vt","gov"],"d":"fa (un marca o desinia) sur un cosa par presa; fa un efeto a la sensas o mente de (algun); fa ce (algun) senti amira o respeta","en":"impress, imprint, emboss, stamp; make an impression, come across (as); instil, inculcate","eo":"stampi, impresi, imponi","fr":"mettre une marque sur, laisser son empreinte sur, estamper, impressionner, frapper"}
+{"L":"impresa","C":["n"],"i":"#","en":"impression, imprint, print","eo":"premsigno","fr":"impression, empreinte"}
+{"L":"impresa de dito","C":["n"],"en":"fingerprint (imprint)","eo":"fingrospuro","fr":"empreinte digitale"}
+{"L":"impresa de diton","C":["n"],"en":"thumbprint (imprint)","fr":"empreinte du pouce"}
+{"L":"impresa de pede","C":["n"],"i":"#","en":"footprint","eo":"piedmarko, piedspuro","fr":"empreinte de pied, trace"}
+{"L":"impresa de ungula","C":["n"],"en":"hoofprint, hoofmark","fr":"empreinte de sabot"}
+{"L":"impresable","C":["a"],"en":"impressionable","eo":"impresiĝema","fr":"impressionnable"}
+{"L":"impresablia","C":["n"],"en":"impressionability","eo":"impresiĝemo","fr":"impressionnabilité"}
+{"L":"impresador","C":["n"],"en":"stamp","eo":"stampilo","fr":"sceau, timbre, cachet, estampille, marque, poinçon, empreinte"}
+{"L":"impresante","C":["a"],"en":"impressive, sonorous","eo":"impresa; impona","fr":"impressionnant"}
+{"L":"impresisme","C":["n"],"d":"un stilo de depinta artal cual catura la impresa vidal de un sena en la lus de un momento definida","en":"Impressionism (art)","eo":"impresionismo","fr":"impressionnisme"}
+{"L":"impresiste","C":["n"],"en":"Impressionist","eo":"impresionisto","fr":"impressionniste"}
+{"L":"impresor","C":["n"],"en":"printmaker","fr":"graveur"}
 {"L":"nonimpresada","C":["a"],"en":"unimpressed, blasé, indifferent","eo":"indiferenta"}
 {"L":"posimpresa","C":["n"],"en":"afterimage, afterimpression"}
-{"T":"r","L":"improvisa","C":["vt","arte"],"d":"crea e presenta (un obra) en modo spontan o sin prepara; construi (un cosa) de la materias cual es acaso disponable","en":"improvise, extemporize, ad-lib; jam; cobble together","eo":"improvizi; marmeladi"}
-{"L":"improvisa","C":["n"],"en":"improvisation, extemporization, ad-lib","eo":"improvizo"}
-{"L":"improvisada","C":["a"],"en":"improvised, impromptu, extemporary, extemporaneous, freeform, ad-lib","eo":"improvizita"}
-{"T":"r","L":"impulsa","C":["vt","uma","fis"],"d":"(un forsa corta e subita) causa la move de (un cosa) o un ata instintosa de (un person)","en":"impel","eo":"impulsi"}
-{"L":"impulsa","C":["n"],"d":"un ata de impulsa, o la forsa cual fa lo","en":"impulse, impulsion, impetus","eo":"impulso"}
-{"T":"r","L":"imune","C":["a","med","bio"],"d":"protejeda contra la efetos de (un venena, infeta, obliga, etc)","en":"immune, unsusceptible","eo":"imuna"}
-{"L":"autoimune","C":["a"],"d":"pertinente a maladias causada par anticorpos contra sustantias natural presente en un corpo","p":"autoïmune","en":"autoimmune"}
-{"L":"autoimunia","C":["n"],"en":"autoimmunity"}
-{"L":"imuni","C":["vnt"],"en":"become immune, develop immunity"}
-{"L":"imuni","C":["vt"],"en":"immunize|is"}
-{"L":"imuni","C":["n"],"en":"immunization|is"}
-{"L":"imunia","C":["n"],"en":"immunity","eo":"imuneco"}
-{"L":"imunial","C":["a"],"en":"immune (of the immune system)"}
-{"L":"sistem imunial","C":["n"],"en":"immune system"}
-{"T":"r","L":"imunodebil","C":["a","med"],"en":"immunodeficient"}
-{"L":"imunodebilia","C":["n"],"d":"un fali de la sistem imunial de proteje la corpo contra infeta, causada par la manca de un prosede o sustantia","en":"immunodeficiency, immune deficiency"}
-{"T":"r","L":"imunoglobulina","C":["n","bio"],"d":"cada de un clase de protenas cual funsiona como anticorpos en la sistem imunial de un organisme","en":"immunoglobulin"}
-{"T":"r","L":"imunojen","C":["a","med"],"d":"capas de crea un responde imunial","en":"immunogenic"}
-{"L":"imunojen","C":["n"],"en":"immunogen"}
-{"T":"r","L":"imunolojia","C":["n","bio"],"d":"la ramo de medica e biolojia cual studia imunia","en":"immunology"}
-{"L":"imunolojiste","C":["n"],"en":"immunologist"}
-{"T":"r","L":"imunosupresante","C":["a","med"],"en":"immunosuppressive"}
-{"L":"imunosupresante","C":["n","med"],"d":"un medisin cual supresa la ativia de la sistem imunial","en":"immunosuppressant"}
-{"T":"r","L":"imunoterapia","C":["n","med"],"d":"la trata o preveni de maladias par stimula respondes imunial","en":"immunotherapy"}
+{"T":"r","L":"improvisa","C":["vt","arte"],"d":"crea e presenta (un obra) en modo spontan o sin prepara; construi (un cosa) de la materias cual es acaso disponable","en":"improvise, extemporize, ad-lib; jam; cobble together","eo":"improvizi; marmeladi","fr":"improviser"}
+{"L":"improvisa","C":["n"],"en":"improvisation, extemporization, ad-lib","eo":"improvizo","fr":"improvisation"}
+{"L":"improvisada","C":["a"],"en":"improvised, impromptu, extemporary, extemporaneous, freeform, ad-lib","eo":"improvizita","fr":"improvisé, impromptu, au pied levé, sans préparation"}
+{"T":"r","L":"impulsa","C":["vt","uma","fis"],"d":"(un forsa corta e subita) causa la move de (un cosa) o un ata instintosa de (un person)","en":"impel","eo":"impulsi","fr":"inciter, pousser à, exhorter, encourager, convier à"}
+{"L":"impulsa","C":["n"],"d":"un ata de impulsa, o la forsa cual fa lo","en":"impulse, impulsion, impetus","eo":"impulso","fr":"incitation, impulsion, exhortation"}
+{"T":"r","L":"imune","C":["a","med","bio"],"d":"protejeda contra la efetos de (un venena, infeta, obliga, etc)","en":"immune, unsusceptible","eo":"imuna","fr":"immun, immunisé"}
+{"L":"autoimune","C":["a"],"d":"pertinente a maladias causada par anticorpos contra sustantias natural presente en un corpo","p":"autoïmune","en":"autoimmune","fr":"auto-immun"}
+{"L":"autoimunia","C":["n"],"en":"autoimmunity","fr":"auto-immunité"}
+{"L":"imuni","C":["vnt"],"en":"become immune, develop immunity","fr":"s'immuniser"}
+{"L":"imuni","C":["vt"],"en":"immunize|is","fr":"immuniser"}
+{"L":"imuni","C":["n"],"en":"immunization|is","fr":"immunisation"}
+{"L":"imunia","C":["n"],"en":"immunity","eo":"imuneco","fr":"immunité"}
+{"L":"imunial","C":["a"],"en":"immune (of the immune system)","fr":"immunitaire"}
+{"L":"sistem imunial","C":["n"],"en":"immune system","fr":"système immunitaire"}
+{"T":"r","L":"imunodebil","C":["a","med"],"en":"immunodeficient","fr":"immunodéficient"}
+{"L":"imunodebilia","C":["n"],"d":"un fali de la sistem imunial de proteje la corpo contra infeta, causada par la manca de un prosede o sustantia","en":"immunodeficiency, immune deficiency","fr":"immunodéficience"}
+{"T":"r","L":"imunoglobulina","C":["n","bio"],"d":"cada de un clase de protenas cual funsiona como anticorpos en la sistem imunial de un organisme","en":"immunoglobulin","fr":"immunoglobuline"}
+{"T":"r","L":"imunojen","C":["a","med"],"d":"capas de crea un responde imunial","en":"immunogenic","fr":"antigénique"}
+{"L":"imunojen","C":["n"],"en":"immunogen","fr":"antigène"}
+{"T":"r","L":"imunolojia","C":["n","bio"],"d":"la ramo de medica e biolojia cual studia imunia","en":"immunology","fr":"immunologie"}
+{"L":"imunolojiste","C":["n"],"en":"immunologist","fr":"immunologue"}
+{"T":"r","L":"imunosupresante","C":["a","med"],"en":"immunosuppressive","fr":"immunosuppresseur"}
+{"L":"imunosupresante","C":["n","med"],"d":"un medisin cual supresa la ativia de la sistem imunial","en":"immunosuppressant","fr":"immunosuppresseur"}
+{"T":"r","L":"imunoterapia","C":["n","med"],"d":"la trata o preveni de maladias par stimula respondes imunial","en":"immunotherapy","fr":"immunothérapie"}
 {"T":"r","L":"in-","C":["pf"],"d":"en, a en","en":"in- (in, into)"}
 {"T":"r","L":"in-","C":["pf"],"d":"no, non-","en":"in- (not)"}
 {"T":"r","L":"-in","C":["sf","a"],"d":"ajuntada a un ajetivo o nom per formi un ajetivo descrivente un person o cosa con cualias o tendes simil","u":"amin; serpentin","en":"-ish, -like, -y (similar to)","eo":"-eca"}
