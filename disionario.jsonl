@@ -12356,6 +12356,7 @@
 {"L":"gradiente sosial","C":["n"],"en":"social gradient","fr":"gradient social"}
 {"L":"gradiente termal","C":["n"],"en":"thermal gradient, temperature gradient","fr":"gradient de température, gradient thermique"}
 {"T":"r","L":"grado","C":["n"],"d":"la cuantia, nivel o estende a cual alga cosa aveni o es presente; un unia per mesura angulos; un nivel en un scala, serie o prosede, o en la ierarcia de un organiza o sosia; cada de la surfases orizonal cual formi un scalera","da":"grad","de":"Grad; Stufe","en":"degree, extent; rank, echelon; stair, tread, step; stage, step (process)","es":"grado, rango","fr":"degré; marche; pas"}
+{"L":"a alga grado","C":["av"],"en":"to some extent, to some degree; (in polite questions) at all"}
 {"L":"de grado du","C":["a"],"en":"secondary, second-degree","fr":"secondaire, du second degré"}
 {"L":"de grado prima","C":["a"],"en":"primary, first-degree","fr":"primaire, du premier degré"}
 {"L":"de grado tre","C":["a"],"en":"tertiary, third-degree","fr":"tertiaire, du troisième degré"}
@@ -13303,110 +13304,110 @@
 {"T":"r","L":"infrastrutur","C":["n","arci"],"d":"la strutures fundal nesesada per la funsiona de un sosia o emprendes (construidas, vias, transportas, sentros eletrical, etc)","en":"infrastructure","fr":"infrastructure"}
 {"T":"r","L":"infusa","C":["vt","cos"],"d":"empapa (te, erbas, etc) en licuida per estrae la sabor o cualias saninte","i":"#","en":"infuse, brew (tea, coffee)","fr":"faire infuser"}
 {"L":"infusa","C":["n"],"en":"infusion, brew","fr":"infusion"}
-{"T":"r","L":"ingrediente","C":["n","cos"],"d":"un cosa cual on combina con otra cosas per produi un comeda; un parte o elemento nesesada per produi alga cosa","en":"ingredient","es":"ingrediente"}
-{"T":"r","L":"inguin","C":["n","anat"],"d":"la area entre la adomen e un coxa; (en arciteta) la borda curva formida par du voltas crusante","en":"groin, crotch, crutch","es":"ingle, entrepierna"}
-{"L":"inguinal","C":["a"],"en":"inguinal","es":"inguinal, inguinario"}
+{"T":"r","L":"ingrediente","C":["n","cos"],"d":"un cosa cual on combina con otra cosas per produi un comeda; un parte o elemento nesesada per produi alga cosa","en":"ingredient","es":"ingrediente","fr":"ingrédient"}
+{"T":"r","L":"inguin","C":["n","anat"],"d":"la area entre la adomen e un coxa; (en arciteta) la borda curva formida par du voltas crusante","en":"groin, crotch, crutch","es":"ingle, entrepierna","fr":"aine, entrejambe"}
+{"L":"inguinal","C":["a"],"en":"inguinal","es":"inguinal, inguinario","fr":"inguinal"}
 {"T":"r","L":"Inguxetia","C":["n","jeo"],"d":"un republica autonom en Caucaso en Rusia sude-ueste","i":"Txetxnia","en":"Ingushetia","es":"Ingusetia","fr":"Ingouchie"}
-{"L":"ingux","C":["a"],"en":"Ingush (person, language)"}
-{"L":"ingux","C":["n"],"en":"Ingush (person, language)"}
-{"T":"r","L":"inibi","C":["vt","bio","cim"],"d":"retarda o preveni un prosede fisiolojial o reata cimical; redui la ativia de (un enzima o otra ajente)","en":"inhibit (process, reaction)"}
-{"L":"inibador","C":["n"],"en":"inhibitor"}
-{"L":"inibador spesifada de recatura serotonina","C":["n"],"en":"selective serotonin reuptake inhibitor (SSRI)"}
-{"L":"inibador de recatura serotonina e norepinefina","C":["n"],"en":"serotonin–norepinephrine reuptake inhibitor (SNRI)"}
-{"L":"inibador de monoamina osidasal","C":["n"],"en":"monoamine oxidase inhibitor (MAOI)"}
-{"T":"r","L":"iniora","C":["vt","uma"],"d":"refusa intendente nota o reconose (un person o cosa); no considera (un cosa importante); (en lege) rejeta (un condena) como sin funda","en":"ignore, flout, disregard, snub"}
-{"L":"iniorable","C":["a"],"en":"negligible"}
-{"L":"iniorada","C":["a"],"en":"ignored, unheeded, unregarded, disregarded"}
-{"L":"inioror","C":["n"],"en":"ignorer"}
-{"L":"inioror de lege","C":["n"],"en":"lawbreaker, scofflaw"}
-{"T":"r","L":"inisia","C":["vt","info"],"d":"fa ce (un ata o prosede) comensa","en":"initiate, start, ignite, kickstart; take the initiative; boot (software), initialize|is"}
-{"L":"inisia","C":["n"],"en":"initiation, ignition; booting, bootstrapping"}
-{"L":"inisia duple","C":["v"],"en":"dual-boot (software)"}
-{"L":"inisia multiple","C":["v"],"en":"multiboot (software)"}
-{"L":"inisia pronto","C":["n"],"en":"instant-on"}
-{"L":"inisiador","C":["n"],"en":"starter, ignition (for engine)"}
-{"L":"inisial","C":["a"],"en":"initial, leading, opening, preliminary, precursory; default, startup; inchoate"}
-{"L":"inisial","C":["av"],"en":"initially; by default"}
-{"L":"inisial","C":["n"],"en":"initial (letter); default; preliminary, prelim"}
-{"L":"inisiales ornal","C":["n","pl"],"en":"monogram"}
-{"L":"inisior","C":["n"],"en":"initiator, starter (person)"}
-{"L":"reinisia","C":["vt"],"p":"reïnisia","en":"restart, reset, reboot"}
-{"L":"reinisia","C":["n"],"en":"restart, reset, reboot"}
-{"T":"r","L":"injenia","C":["vt","fis"],"d":"desinia e fabrica (un macina o strutur)","en":"engineer"}
-{"L":"injenia","C":["n"],"en":"ingenuity, engineering"}
-{"L":"injenior","C":["n"],"en":"engineer"}
-{"L":"injenior de sona","C":["n"],"en":"sound engineer"}
-{"L":"injeniosa","C":["a"],"en":"ingenious"}
-{"L":"suprainjenia","C":["vt"],"en":"overengineer"}
-{"T":"r","L":"injeta","C":["vt","med"],"d":"forsa (un licuida, spesial un droga o vasin) a en la corpo de un person o animal con un siringa o otra aparato","en":"inject; mainline"}
-{"L":"injeta","C":["n"],"en":"injection"}
-{"T":"r","L":"inonda","C":["vt","tera","info"],"d":"covre o sumerji (un loca) con acua; (metafor) fa ce (algun) ave tro multe de un cosa, tipal problemes o labora","en":"inundate, flood, drown; overwhelm, overpower","fr":"inonder"}
+{"L":"ingux","C":["a"],"en":"Ingush (person, language)","fr":"ingouche"}
+{"L":"ingux","C":["n"],"en":"Ingush (person, language)","fr":"Ingouche (personne); ingouche (langue)"}
+{"T":"r","L":"inibi","C":["vt","bio","cim"],"d":"retarda o preveni un prosede fisiolojial o reata cimical; redui la ativia de (un enzima o otra ajente)","en":"inhibit (process, reaction)","fr":"inhiber"}
+{"L":"inibador","C":["n"],"en":"inhibitor","fr":"inhibitor"}
+{"L":"inibador spesifada de recatura serotonina","C":["n"],"en":"selective serotonin reuptake inhibitor (SSRI)","fr":"inhibiteur specifique de la recapture de la sérotonine (ISRS)"}
+{"L":"inibador de recatura serotonina e norepinefina","C":["n"],"en":"serotonin–norepinephrine reuptake inhibitor (SNRI)","fr":"inhibiteur specifique de la recapture de la sérotonine (ISRS)"}
+{"L":"inibador de monoamina osidasal","C":["n"],"en":"monoamine oxidase inhibitor (MAOI)","fr":"inhibiteur de monoamine oxydase (IMAO)"}
+{"T":"r","L":"iniora","C":["vt","uma"],"d":"refusa intendente nota o reconose (un person o cosa); no considera (un cosa importante); (en lege) rejeta (un condena) como sin funda","en":"ignore, flout, disregard, snub","fr":"ignorer, dédaigner, mépriser, snober"}
+{"L":"iniorable","C":["a"],"en":"negligible","fr":"méprisable, négligeable"}
+{"L":"iniorada","C":["a"],"en":"ignored, unheeded, unregarded, disregarded","fr":"ignoré, dédaigné, méprisé, snobé"}
+{"L":"inioror","C":["n"],"en":"ignorer","fr":"dédaigneur, mépriseur"}
+{"L":"inioror de lege","C":["n"],"en":"lawbreaker, scofflaw","fr":"quelqu'un qui méprise la loi, hors-la-loi"}
+{"T":"r","L":"inisia","C":["vt","info"],"d":"fa ce (un ata o prosede) comensa","en":"initiate, start, ignite, kickstart; take the initiative; boot (software), initialize|is","fr":"initier, faire commencer, faire démarrer; prendre l'initiative; amorcer, booter (informatique), initialiser"}
+{"L":"inisia","C":["n"],"en":"initiation, ignition; booting, bootstrapping","fr":"initiation, allumage, mise à feu; démarrage, amorçage, initialisation"}
+{"L":"inisia duple","C":["v"],"en":"dual-boot (software)","fr":"faire un double amorçable (informatique)"}
+{"L":"inisia multiple","C":["v"],"en":"multiboot (software)","fr":"faire un amorçage multiple (informatique)"}
+{"L":"inisia pronto","C":["n"],"en":"instant-on","fr":"démarrage rapide"}
+{"L":"inisiador","C":["n"],"en":"starter, ignition (for engine)","fr":"démarreur, starter"}
+{"L":"inisial","C":["a"],"en":"initial, leading, opening, preliminary, precursory; default, startup; inchoate","fr":"initial, de démarrage, de départ, d'ouverture, de début, de commencement, d'origine, préliminaire; par défaut"}
+{"L":"inisial","C":["av"],"en":"initially; by default","fr":"au départ, au démarrage, initialement, d'abord; par défaut"}
+{"L":"inisial","C":["n"],"en":"initial (letter); default; preliminary, prelim","fr":"initiale (lettre); valeur par défaut; préalable, préliminaire"}
+{"L":"inisiales ornal","C":["n","pl"],"en":"monogram","fr":"monogramme"}
+{"L":"inisior","C":["n"],"en":"initiator, starter (person)","fr":"initiateur (personne)"}
+{"L":"reinisia","C":["vt"],"p":"reïnisia","en":"restart, reset, reboot","fr":"redémarrer"}
+{"L":"reinisia","C":["n"],"en":"restart, reset, reboot","fr":"redémarrage"}
+{"T":"r","L":"injenia","C":["vt","fis"],"d":"desinia e fabrica (un macina o strutur)","en":"engineer","fr":"concevoir et fabriquer (une machine o une structure)"}
+{"L":"injenia","C":["n"],"en":"ingenuity, engineering","fr":"ingéniosité, ingénierie"}
+{"L":"injenior","C":["n"],"en":"engineer","fr":"ingénieur"}
+{"L":"injenior de sona","C":["n"],"en":"sound engineer","fr":"ingénieur du son"}
+{"L":"injeniosa","C":["a"],"en":"ingenious","fr":"ingénieux"}
+{"L":"suprainjenia","C":["vt"],"en":"overengineer","fr":"faire de la suringénierie sur"}
+{"T":"r","L":"injeta","C":["vt","med"],"d":"forsa (un licuida, spesial un droga o vasin) a en la corpo de un person o animal con un siringa o otra aparato","en":"inject; mainline","fr":"injecter"}
+{"L":"injeta","C":["n"],"en":"injection","fr":"injection"}
+{"T":"r","L":"inonda","C":["vt","tera","info"],"d":"covre o sumerji (un loca) con acua; (metafor) fa ce (algun) ave tro multe de un cosa, tipal problemes o labora","en":"inundate, flood, drown; overwhelm, overpower","fr":"inonder, noyer; noyer sous, écraser sous, accabler de"}
 {"L":"inonda","C":["n"],"i":"#","da":"oversvømmelse","de":"Flut","en":"inundation, flood","es":"inundación, diluvio, avenida de agua, crecida, creciente, torrente","fr":"inondation, déluge"}
-{"L":"inonda de informa","C":["n"],"en":"information overload"}
-{"L":"inonda de mercato","C":["n"],"en":"dumping (economic)"}
-{"L":"inondada","C":["a"],"en":"inundated, flooded, awash"}
-{"L":"inondada con lus","C":["a"],"en":"floodlit"}
-{"L":"inondante","C":["a"],"en":"inundating, overwhelming"}
-{"L":"mori par inonda","C":["v"],"en":"drown, be drowned"}
-{"L":"mori par inonda","C":["n"],"en":"drowning"}
+{"L":"inonda de informa","C":["n"],"en":"information overload","fr":"surinformation, surcharge d'information"}
+{"L":"inonda de mercato","C":["n"],"en":"dumping (economic)","fr":"dumping (économie)"}
+{"L":"inondada","C":["a"],"en":"inundated, flooded, awash","fr":"inondé"}
+{"L":"inondada con lus","C":["a"],"en":"floodlit","fr":"inondé de lumière"}
+{"L":"inondante","C":["a"],"en":"inundating, overwhelming","fr":"inondant; écrasant, accablant"}
+{"L":"mori par inonda","C":["v"],"en":"drown, be drowned","fr":"se noyer, être noyé"}
+{"L":"mori par inonda","C":["n"],"en":"drowning","fr":"noyade"}
 {"T":"r","L":"inosente","C":["a","gov"],"d":"no intendente causa dole o sufri o otra problemes","da":"uskyldig","de":"unschuldig","en":"innocent (not intending harm)","es":"inocente","fr":"innocent"}
-{"T":"r","L":"inova","C":["vt","arte"],"d":"introdui metodos, ideas o produidas nova","en":"innovate"}
-{"L":"inova","C":["n"],"en":"innovation"}
-{"L":"inovor","C":["n"],"en":"innovator"}
-{"L":"inovosa","C":["a"],"en":"innovative, promethean"}
-{"T":"r","L":"insenso","C":["n","uma"],"d":"un resina, spise o otra cosa cual on arde per la odor plasente cual lo produi","i":"#","en":"incense"}
-{"T":"r","L":"inserta","C":["vt","bio","med"],"d":"pone (un basteta o jerme) en un ranur en la tronco o talo de un planta vivente; (en medica) transplanta sirurjial (un peso de texeda vivente); pone (un cosa) per formi un parte de un cosa plu grande","en":"graft; insert, inset"}
-{"L":"inserta","C":["n"],"en":"graft; insert, inset"}
-{"L":"dia insertada","C":["n"],"en":"intercalary day, leap day"}
-{"L":"mense insertada","C":["n"],"en":"intercalary month"}
-{"L":"inserta de oso","C":["n"],"en":"bone graft"}
-{"L":"inserta de pel","C":["n"],"en":"skin graft"}
-{"T":"r","L":"insesto","C":["n","gov"],"d":"seso entre persones clasida como tro prosima relatada per sposi; la crimin de copula con un jenitor, enfante, conaseda o otra relatada prosima","en":"incest"}
-{"L":"insestal","C":["a"],"en":"incestuous"}
-{"T":"r","L":"insetiside","C":["n","cim"],"d":"un materia usada per mata insetos","en":"insecticide"}
-{"T":"r","L":"insetivor","C":["a","bio"],"d":"(un organisme) cual come insetos","en":"insectivorous"}
-{"L":"insetivor","C":["n"],"en":"insectivore"}
+{"T":"r","L":"inova","C":["vt","arte"],"d":"introdui metodos, ideas o produidas nova","en":"innovate","fr":"innover"}
+{"L":"inova","C":["n"],"en":"innovation","fr":"innovation"}
+{"L":"inovor","C":["n"],"en":"innovator","fr":"innovateur"}
+{"L":"inovosa","C":["a"],"en":"innovative, promethean","fr":"innovant, inventif, innovateur"}
+{"T":"r","L":"insenso","C":["n","uma"],"d":"un resina, spise o otra cosa cual on arde per la odor plasente cual lo produi","i":"#","en":"incense","fr":"encens"}
+{"T":"r","L":"inserta","C":["vt","bio","med"],"d":"pone (un basteta o jerme) en un ranur en la tronco o talo de un planta vivente; (en medica) transplanta sirurjial (un peso de texeda vivente); pone (un cosa) per formi un parte de un cosa plu grande","en":"graft; insert, inset","fr":"greffer, transplanter, insérer, incorporer, implanter"}
+{"L":"inserta","C":["n"],"en":"graft; insert, inset","fr":"greffe, transplantation, insertion, incorporation, implantation"}
+{"L":"dia insertada","C":["n"],"en":"intercalary day, leap day","fr":"jour intercalaire (lors d'une année bissextile)"}
+{"L":"mense insertada","C":["n"],"en":"intercalary month","fr":"mois intercalaire (dans un calendrier luni-solaire)"}
+{"L":"inserta de oso","C":["n"],"en":"bone graft","fr":"greffe osseuse"}
+{"L":"inserta de pel","C":["n"],"en":"skin graft","fr":"greffe de peau"}
+{"T":"r","L":"insesto","C":["n","gov"],"d":"seso entre persones clasida como tro prosima relatada per sposi; la crimin de copula con un jenitor, enfante, conaseda o otra relatada prosima","en":"incest","fr":"inceste"}
+{"L":"insestal","C":["a"],"en":"incestuous","fr":"incestueux"}
+{"T":"r","L":"insetiside","C":["n","cim"],"d":"un materia usada per mata insetos","en":"insecticide","fr":"insecticide"}
+{"T":"r","L":"insetivor","C":["a","bio"],"d":"(un organisme) cual come insetos","en":"insectivorous","fr":"insectivore"}
+{"L":"insetivor","C":["n"],"en":"insectivore","fr":"insectivore"}
 {"T":"r","L":"inseto","C":["n","artr"],"d":"un artropodo peti con ses gamas e tipal un o du duples de alas","t":"Insecta","da":"insekt","de":"Insekt","en":"insect","es":"insecto","fr":"insecte"}
-{"T":"r","L":"insinia","C":["n","gov"],"d":"un marca distinguinte de alga cosa, tipal un state en un forte militar o otra organiza","en":"insignia, badge"}
-{"L":"insinia de libro","C":["n"],"en":"bookplate, exlibris"}
-{"T":"r","L":"insinua","C":["vt","gov"],"d":"sujesta (un cosa mal o culpable) en modo nondireta e nonplasente","en":"insinuate, intimate"}
-{"L":"insinua","C":["n"],"en":"insinuation, intimation, innuendo"}
-{"T":"r","L":"insiste","C":["vt","gov"],"d":"declara forte (ce alga cosa es vera) o demanda forte (ce on fa alga cosa), no asetante un refusa","en":"insist"}
-{"L":"insiste","C":["n"],"en":"insistence"}
-{"L":"insistente","C":["a"],"en":"insistent, pushy"}
-{"T":"r","L":"insonia","C":["n","med"],"d":"la noncapasia abitual de dormi","en":"insomnia"}
-{"L":"insonica","C":["a"],"en":"insomniac"}
-{"L":"insonica","C":["n"],"en":"insomniac"}
-{"T":"r","L":"inspira","C":["vt","arte"],"d":"fa ce (algun) ave la motiva o capasia per fa o senti alga cosa, tipal positiva","en":"inspire, arouse (interest, action)"}
-{"L":"inspira","C":["n"],"en":"inspiration"}
-{"L":"inspirante","C":["a"],"en":"inspiring, inspirational"}
-{"L":"inspiror","C":["n"],"en":"luminary"}
-{"T":"r","L":"instala","C":["vt","fis","info","gov"],"d":"pone o fisa (macinas o aparatos) per usa; carga un computador con (un program); pone (algun) en un rol de autoria, tipal con rituo","en":"install; ensconce"}
-{"L":"instala","C":["n"],"en":"installation"}
-{"L":"desinstala","C":["vt"],"en":"uninstall, deinstall"}
-{"L":"reinstala","C":["vt"],"p":"reïnstala","en":"reinstall"}
-{"T":"r","L":"instante","C":["a"],"d":"(un aveni) ocupante no tempo o un tempo estrema corta","en":"instant, instantaneous, immediate"}
-{"L":"instante","C":["av"],"en":"instantly, instantaneously, immediately"}
-{"L":"instante","C":["n"],"d":"un tempo estrema corta; un momento minima","en":"instant (of time)"}
-{"T":"r","L":"instinto","C":["n","bio","uma"],"d":"un propensa inata de condui en un animal; un modo de ata o pensa natural o intuinte; un capasia natural","en":"instinct"}
-{"L":"instintosa","C":["a"],"en":"instinctive, instinctual"}
-{"L":"senti instintosa","C":["n"],"en":"gut feeling"}
-{"T":"r","L":"institui","C":["vt","gov"],"d":"fundi o comensa (un program, sistem o organiza, o un person en un rol)","en":"institute, establish, set up"}
-{"L":"institui","C":["n"],"en":"institution (action)"}
-{"L":"institual","C":["a"],"en":"institutional"}
-{"L":"instituida","C":["n"],"d":"un organiza per ateni goles en arte, siensa, instrui o aida","en":"institute, institution, establishment (organization|is)"}
-{"L":"reinstitui","C":["vt"],"p":"reïnstitui","en":"re-establish"}
-{"T":"r","L":"instrui","C":["vt","uma"],"d":"mostra o esplica a (un person o animal) como on fa alga cosa","u":"instrui algun sur la regulas","v":"ensenia","da":"undervise","de":"lehren","en":"instruct, teach, brief, train (including animals)","es":"enseñar, instruir","fr":"enseigner à"}
-{"L":"instrui","C":["n"],"en":"instruction, teaching, training, tuition, howto, brief, briefing"}
-{"L":"autoinstruida","C":["a"],"p":"autoïnstruida","en":"self-taught, autodidact"}
-{"L":"instrual","C":["a"],"en":"instructional"}
-{"L":"instruida","C":["a"],"en":"instructed, trained"}
-{"L":"instruinte","C":["a"],"en":"instructive, instructional, educational, didactic"}
-{"L":"instruor","C":["n"],"en":"instructor, trainer, coach, docent"}
-{"L":"noninstruable","C":["a"],"en":"untrainable, ineducable"}
-{"L":"noninstruida","C":["a"],"en":"untrained, unskilled"}
-{"L":"reinstrui","C":["vt"],"p":"reïnstrui","en":"retrain"}
-{"T":"r","L":"insulina","C":["n","bio"],"d":"un ormon produida par la pancreas cual regula la cuantia de glucosa en la sangue","en":"insulin"}
+{"T":"r","L":"insinia","C":["n","gov"],"d":"un marca distinguinte de alga cosa, tipal un state en un forte militar o otra organiza","en":"insignia, badge","fr":"insigne, badge"}
+{"L":"insinia de libro","C":["n"],"en":"bookplate, exlibris","fr":"ex-libris"}
+{"T":"r","L":"insinua","C":["vt","gov"],"d":"sujesta (un cosa mal o culpable) en modo nondireta e nonplasente","en":"insinuate, intimate","fr":"insinuer, faire allusion"}
+{"L":"insinua","C":["n"],"en":"insinuation, intimation, innuendo","fr":"insinuation, allusion"}
+{"T":"r","L":"insiste","C":["vt","gov"],"d":"declara forte (ce alga cosa es vera) o demanda forte (ce on fa alga cosa), no asetante un refusa","en":"insist","fr":"insister"}
+{"L":"insiste","C":["n"],"en":"insistence","fr":"insistance"}
+{"L":"insistente","C":["a"],"en":"insistent, pushy","fr":"insistant"}
+{"T":"r","L":"insonia","C":["n","med"],"d":"la noncapasia abitual de dormi","en":"insomnia","fr":"insomnie"}
+{"L":"insonica","C":["a"],"en":"insomniac","fr":"insomniaque"}
+{"L":"insonica","C":["n"],"en":"insomniac","fr":"insomniaque"}
+{"T":"r","L":"inspira","C":["vt","arte"],"d":"fa ce (algun) ave la motiva o capasia per fa o senti alga cosa, tipal positiva","en":"inspire, arouse (interest, action)","fr":"inspirer, susciter (un intérêt, une action)"}
+{"L":"inspira","C":["n"],"en":"inspiration","fr":"inspiration"}
+{"L":"inspirante","C":["a"],"en":"inspiring, inspirational","fr":"inspirant"}
+{"L":"inspiror","C":["n"],"en":"luminary","fr":"inspirateur"}
+{"T":"r","L":"instala","C":["vt","fis","info","gov"],"d":"pone o fisa (macinas o aparatos) per usa; carga un computador con (un program); pone (algun) en un rol de autoria, tipal con rituo","en":"install; ensconce","fr":"installer"}
+{"L":"instala","C":["n"],"en":"installation","fr":"installation"}
+{"L":"desinstala","C":["vt"],"en":"uninstall, deinstall","fr":"désinstaller"}
+{"L":"reinstala","C":["vt"],"p":"reïnstala","en":"reinstall","fr":"réinstaller"}
+{"T":"r","L":"instante","C":["a"],"d":"(un aveni) ocupante no tempo o un tempo estrema corta","en":"instant, instantaneous, immediate","fr":"instantané, immédiat, bref, subit"}
+{"L":"instante","C":["av"],"en":"instantly, instantaneously, immediately","fr":"aussitôt, instantanément, immédiatement, subitement, brièvement"}
+{"L":"instante","C":["n"],"d":"un tempo estrema corta; un momento minima","en":"instant (of time)","fr":"instant"}
+{"T":"r","L":"instinto","C":["n","bio","uma"],"d":"un propensa inata de condui en un animal; un modo de ata o pensa natural o intuinte; un capasia natural","en":"instinct","fr":"instinct"}
+{"L":"instintosa","C":["a"],"en":"instinctive, instinctual","fr":"instinctif"}
+{"L":"senti instintosa","C":["n"],"en":"gut feeling","fr":"sentiment viscéral, ressenti instinctif, intuition"}
+{"T":"r","L":"institui","C":["vt","gov"],"d":"fundi o comensa (un program, sistem o organiza, o un person en un rol)","en":"institute, establish, set up","fr":"instituer, établir"}
+{"L":"institui","C":["n"],"en":"institution (action)","fr":"institution (action)"}
+{"L":"institual","C":["a"],"en":"institutional","fr":"institutionnel"}
+{"L":"instituida","C":["n"],"d":"un organiza per ateni goles en arte, siensa, instrui o aida","en":"institute, institution, establishment (organization|is)","fr":"institut, institution, établissement (organisation)"}
+{"L":"reinstitui","C":["vt"],"p":"reïnstitui","en":"re-establish","fr":"réétablir"}
+{"T":"r","L":"instrui","C":["vt","uma"],"d":"mostra o esplica a (un person o animal) como on fa alga cosa","u":"instrui algun sur la regulas","v":"ensenia","da":"undervise","de":"lehren","en":"instruct, teach, brief, train (including animals)","es":"enseñar, instruir","fr":"enseigner à, instruire"}
+{"L":"instrui","C":["n"],"en":"instruction, teaching, training, tuition, howto, brief, briefing","fr":"instruction, enseignement, entraînement, guide (manuel), exposé"}
+{"L":"autoinstruida","C":["a"],"p":"autoïnstruida","en":"self-taught, autodidact","fr":"autodidacte"}
+{"L":"instrual","C":["a"],"en":"instructional","fr":"instructif, didactique, éducatif"}
+{"L":"instruida","C":["a"],"en":"instructed, trained","fr":"instruit, entraîné"}
+{"L":"instruinte","C":["a"],"en":"instructive, instructional, educational, didactic","fr":"instructeur, didactique, éducatif"}
+{"L":"instruor","C":["n"],"en":"instructor, trainer, coach, docent","fr":"instructeur, entraîneur, maître, professeur"}
+{"L":"noninstruable","C":["a"],"en":"untrainable, ineducable","fr":"qu'on ne peut éduquer, inéducable"}
+{"L":"noninstruida","C":["a"],"en":"untrained, unskilled","fr":"non instruit, non entraîné"}
+{"L":"reinstrui","C":["vt"],"p":"reïnstrui","en":"retrain","fr":"réinstruire"}
+{"T":"r","L":"insulina","C":["n","bio"],"d":"un ormon produida par la pancreas cual regula la cuantia de glucosa en la sangue","en":"insulin","fr":"insuline"}
 {"T":"r","L":"insulta","C":["vt","uma"],"d":"parla a o trata (algun) con despeta o desrespeta","da":"fornærmelse, hån","en":"insult, vituperate","fr":"insulter"}
 {"L":"insulta","C":["n"],"de":"Beleidigung","en":"insult, invective, putdown","es":"insulto, ofensa, falta de respeto","fr":"insulte"}
 {"T":"r","L":"intalio","C":["n","arte"],"d":"un desinia taliada o gravada en un cosa","i":"#","en":"intaglio (art technique)"}
@@ -16748,6 +16749,7 @@
 {"L":"modo de parla","C":["n"],"en":"way of speaking, parlance"}
 {"L":"modo de susta","C":["n"],"en":"livelihood, living"}
 {"L":"modo de vive","C":["n"],"en":"way of life, lifestyle, approach to life"}
+{"L":"en cualce modo","C":["av"],"en":"in any way; (in polite questions) by any chance, at all"}
 {"L":"en multe modos","C":["av"],"en":"in many ways, multiply"}
 {"L":"en no modo","C":["av"],"en":"by no means, in no way"}
 {"L":"en no otra modo ca","C":["av"],"en":"in no other way than, just, simply, purely"}
@@ -18669,8 +18671,8 @@
 {"T":"r","L":"orzo","C":["n","pla","cos"],"d":"un sereal con capelones ru estendente de la spigas, xef usada per prepara bir o como comeda de bestias","i":"#","t":"Hordeum vulgare","en":"barley"}
 {"L":"orzo descascida","C":["n"],"en":"pearl barley"}
 {"T":"r","L":"osa","C":["vt","uma"],"d":"es sufisinte corajosa per fa (alga cosa)","en":"dare, venture","es":"atreverse a, osar"}
-{"L":"osa","C":["n"],"en":"daring, audacity, boldness","es":"atrevimiento, osadía, audacia, valentía"}
-{"L":"osante","C":["a"],"en":"daring, audacious, bold","es":"osado, intrépido, audaz"}
+{"L":"osa","C":["n"],"en":"daring, audacity, boldness, pluck","es":"atrevimiento, osadía, audacia, valentía"}
+{"L":"osante","C":["a"],"en":"daring, audacious, bold, plucky","es":"osado, intrépido, audaz"}
 {"L":"ososia","C":["n"],"en":"chutzpah; derring-do","es":"descaro, desfachatez"}
 {"T":"r","L":"-osa","C":["sf","a"],"d":"plen de o con multe de (un cosa o cualia)","u":"zucarosa","en":"-ful, -ous, -y (full of, containing much or many)"}
 {"T":"r","L":"-osa","C":["sf","n","cim"],"d":"zucar o otra carboidrato","en":"-ose (chemistry)"}
