@@ -6403,6 +6403,7 @@
 {"L":"controlor","C":["n"],"en":"controller (person)","fr":"contrôleur (personne)","he":"מבקר, מפקח, אחראי"}
 {"L":"noncontrolable","C":["a"],"en":"uncontrollable, intractable; berserk, haywire, runaway, out of control","fr":"incontrôlable, ingérable, hors de contrôle","he":"בלתי נשלט"}
 {"L":"noncontrolada","C":["a"],"en":"uncontrolled","fr":"incontrôlé","he":"לא בפיקוח, לא מבוקר"}
+{"L":"prende controla de","C":["v"],"en":"take control of, take over, occupy","fr":"prendre le contrôle de, reprendre, occuper"}
 {"L":"su controla de","C":["prep"],"en":"under the control of, subject to","fr":"sous le pouvoir de, sous la domination de, sujet à","he":"תחת השליטה של"}
 {"T":"r","L":"controlamanica","C":["a","uma"],"d":"un person ci senti un nesesa osesente de controla se e otras en cada situa","en":"control freak","fr":"dominateur compulsif","he":"חולה שליטה"}
 {"L":"controlamanica","C":["n"],"en":"control freak","fr":"dominateur compulsif","he":"חולה שליטה"}
@@ -8862,7 +8863,7 @@
 {"L":"dura","C":["n"],"da":"varighed, udholdenhed","de":"Dauer, Zeit","en":"endurance, stamina, staying power, durability","es":"duración","fr":"durée, cours, période, persistance","he":"סיבולת, כושר עמידה, כושר התמדה, כוח עמידה"}
 {"L":"dura plu longa ca","C":["v"],"en":"outlast","fr":"durer plus longtemps que, dépasser en durée","he":"להאריך חיים אחרי"}
 {"L":"dura tra","C":["v"],"en":"last for, endure for (a specified time)","fr":"durer, persister (+ une durée de temps)","he":"להחזיק מעמד במשך"}
-{"L":"durante","C":["a"],"n":"","da":"robust, holdbar, stærk","de":"dauerhaft","en":"durable, resilient, robust, sturdy, hardy, strong, tough, lasting, long-lasting","es":"durable, resistente, robusto, fuerte","fr":"durable, solide, robuste","he":"חסון, איתן, קשוח, מחזיק מעמד"}
+{"L":"durante","C":["a"],"n":"","da":"robust, holdbar, stærk","de":"dauerhaft","en":"durable, resilient, robust, sturdy, hardy, strong, tough, lasting, long-lasting, long-term","es":"durable, resistente, robusto, fuerte","fr":"durable, solide, robuste","he":"חסון, איתן, קשוח, מחזיק מעמד"}
 {"T":"r","L":"dura-","C":["pf","tecn"],"d":"dur, firma","en":"dura- (hard)","he":"(קידומת טכנית) קשה"}
 {"T":"r","L":"duramadre","C":["n","anat"],"d":"la membrana dur esterna cual envelopa la serebro e la medula spinal","en":"dura mater (anatomy)","fr":"dure-mère, pachyméninges (anatomie)","he":"(אנטומיה) הקרום הקשה, קרום הדורה"}
 {"T":"r","L":"durzi","C":["a","rel"],"d":"pertinente a la seta de islam trovada en Lubnan e Suria, o a sua membros","en":"Druze (Islam)","fr":"druze","he":"דרוזי"}
@@ -13410,208 +13411,208 @@
 {"T":"r","L":"insulina","C":["n","bio"],"d":"un ormon produida par la pancreas cual regula la cuantia de glucosa en la sangue","en":"insulin","fr":"insuline"}
 {"T":"r","L":"insulta","C":["vt","uma"],"d":"parla a o trata (algun) con despeta o desrespeta","da":"fornærmelse, hån","en":"insult, vituperate","fr":"insulter"}
 {"L":"insulta","C":["n"],"de":"Beleidigung","en":"insult, invective, putdown","es":"insulto, ofensa, falta de respeto","fr":"insulte"}
-{"T":"r","L":"intalio","C":["n","arte"],"d":"un desinia taliada o gravada en un cosa","i":"#","en":"intaglio (art technique)"}
-{"T":"r","L":"intarsia","C":["vt","arte","arci"],"d":"decora (un mobila o simil) con pesos peti de lenio colorida o otra materia","i":"#","en":"inlay"}
-{"L":"intarsia","C":["n"],"en":"intarsia, inlay, marquetry"}
-{"T":"r","L":"intata","C":["a"],"d":"no danada o descapasida; en bon state completa","en":"intact"}
-{"T":"r","L":"integra","C":["vnt","mat"],"d":"(un cosa) combina con un otra afin los deveni un unia intera","en":"integrate"}
-{"L":"integra","C":["vt"],"d":"combina; (en matematica) trova la integral de","en":"integrate"}
-{"L":"integra","C":["n"],"en":"integration"}
-{"L":"desintegra","C":["vnt"],"en":"disintegrate, crumble, unravel"}
-{"L":"desintegra","C":["n"],"en":"disintegration"}
-{"L":"desintegrable","C":["a"],"en":"disintegratable, crumbly, friable"}
-{"L":"integrada","C":["a"],"en":"integrated, inbuilt, built-in"}
-{"L":"integral","C":["a"],"en":"integral"}
-{"L":"integral","C":["n","mat"],"d":"un funsiona de cual un otra es la derivada, espresante la area su la curva de la graf de la otra funsiona","en":"integral"}
-{"L":"reintegra","C":["vt"],"p":"reïntegra","en":"reintegrate"}
-{"L":"reintegra","C":["n"],"en":"reintegration"}
-{"T":"r","L":"inteleto","C":["n","uma"],"d":"la capasia de razona e comprende, spesial regardante cosas astrata o academial; la potias mental de un person","en":"intellect; noesis"}
-{"L":"inteleto artifis","C":["n"],"en":"artificial intelligence"}
-{"L":"inteletal","C":["a"],"en":"intellectual; noetic"}
-{"L":"inteletalisme","C":["n"],"en":"intellectualism"}
-{"L":"inteleti","C":["vt"],"en":"intellectualize|is"}
-{"L":"inteletosa","C":["n"],"en":"intellectual (person)"}
-{"L":"inteletosas","C":["n","pl"],"en":"intellectuals, intelligentsia"}
+{"T":"r","L":"intalio","C":["n","arte"],"d":"un desinia taliada o gravada en un cosa","i":"#","en":"intaglio (art technique)","fr":"gravure (art)"}
+{"T":"r","L":"intarsia","C":["vt","arte","arci"],"d":"decora (un mobila o simil) con pesos peti de lenio colorida o otra materia","i":"#","en":"inlay","fr":"marqueter, incruster"}
+{"L":"intarsia","C":["n"],"en":"intarsia, inlay, marquetry","fr":"marqueterie, marquèterie"}
+{"T":"r","L":"intata","C":["a"],"d":"no danada o descapasida; en bon state completa","en":"intact","fr":"intact"}
+{"T":"r","L":"integra","C":["vnt","mat"],"d":"(un cosa) combina con un otra afin los deveni un unia intera","en":"integrate","fr":"s'intégrer"}
+{"L":"integra","C":["vt"],"d":"combina; (en matematica) trova la integral de","en":"integrate","fr":"intégrer"}
+{"L":"integra","C":["n"],"en":"integration","fr":"intégration"}
+{"L":"desintegra","C":["vnt"],"en":"disintegrate, crumble, unravel","fr":"se désintégrer, s'effriter, s'effilocher"}
+{"L":"desintegra","C":["n"],"en":"disintegration","fr":"désintégration"}
+{"L":"desintegrable","C":["a"],"en":"disintegratable, crumbly, friable","fr":"désintégrable, effritable, friable"}
+{"L":"integrada","C":["a"],"en":"integrated, inbuilt, built-in","fr":"intégré"}
+{"L":"integral","C":["a"],"en":"integral","fr":"intégral"}
+{"L":"integral","C":["n","mat"],"d":"un funsiona de cual un otra es la derivada, espresante la area su la curva de la graf de la otra funsiona","en":"integral","fr":"intégrale (mathématique)"}
+{"L":"reintegra","C":["vt"],"p":"reïntegra","en":"reintegrate","fr":"réintégrer"}
+{"L":"reintegra","C":["n"],"en":"reintegration","fr":"réintégrer"}
+{"T":"r","L":"inteleto","C":["n","uma"],"d":"la capasia de razona e comprende, spesial regardante cosas astrata o academial; la potias mental de un person","en":"intellect; noesis","fr":"intellect, intelligence, capacité mentale, raison"}
+{"L":"inteleto artifis","C":["n"],"en":"artificial intelligence","fr":"intelligence artificielle"}
+{"L":"inteletal","C":["a"],"en":"intellectual; noetic","fr":"intellectuel"}
+{"L":"inteletalisme","C":["n"],"en":"intellectualism","fr":"intellectualisme"}
+{"L":"inteleti","C":["vt"],"en":"intellectualize|is","fr":"intellectualiser"}
+{"L":"inteletosa","C":["n"],"en":"intellectual (person)","fr":"intellectuel (personne)"}
+{"L":"inteletosas","C":["n","pl"],"en":"intellectuals, intelligentsia","fr":"intellectuels, intelligentsia"}
 {"T":"r","L":"intelijente","C":["a","uma"],"d":"capas de oteni e aplica la sabe; capas de comprende, aprende, developa o aplica ideas","da":"intelligent","de":"intelligent","en":"intelligent, intellectual, smart, clever","es":"inteligente","fr":"intelligent"}
-{"L":"esamina de intelijentia","C":["n"],"en":"intelligence test, IQ test"}
-{"L":"intelijentia","C":["n"],"en":"intelligence, astuteness, intellect"}
-{"L":"intelijentia proportial","C":["n"],"en":"intelligence quotient, IQ"}
-{"L":"nonintelijente","C":["a"],"en":"unintelligent, obtuse"}
+{"L":"esamina de intelijentia","C":["n"],"en":"intelligence test, IQ test","fr":"QI, quotient intellectuel"}
+{"L":"intelijentia","C":["n"],"en":"intelligence, astuteness, intellect","fr":"intelligence"}
+{"L":"intelijentia proportial","C":["n"],"en":"intelligence quotient, IQ","fr":"QI, quotient intellectuel"}
+{"L":"nonintelijente","C":["a"],"en":"unintelligent, obtuse","fr":"sans intelligence, obtus, inintelligent, bête, stupide, idiot, niais"}
 {"T":"r","L":"intende","C":["vt","uma"],"d":"ave (un resulta) como la gol o ojeto de un projeta o scema o atas jeneral; (un usa de un parola) vole indica (un sinifia)","da":"have i sinde, agte","de":"beabsichtigen","en":"intend, plan, mean (to do)","es":"tener intención de, tener el propósito de, intentar, querer decir, querer lograr","fr":"prévoir, planifier; vouloir dire"}
-{"L":"intende","C":["n"],"en":"intent, intention, purpose, aim, motive, plan"}
-{"L":"bonintendente","C":["a"],"en":"well-intentioned, well-meaning"}
-{"L":"con intende ce","C":["sj"],"en":"so that, in order that (indicating intended result)"}
-{"L":"con intende de","C":["prep"],"en":"for, with the intention of"}
-{"L":"intendeda","C":["a"],"en":"intended, intentional, deliberate, premeditated, meant, willful|wilful; earmarked"}
-{"L":"intendente","C":["a"],"en":"intentional, deliberate, on purpose, purposeful"}
-{"L":"malintendente","C":["a"],"en":"ill-willed, cruel"}
-{"L":"nonintendeda","C":["a"],"en":"unintended, inadvertent, unplanned, collateral"}
-{"T":"r","L":"intensa","C":["a"],"d":"de fortia o grado estrema; multe consentrada","en":"intense, intensive; intent; formidable"}
-{"L":"desintensi","C":["vnt"],"en":"reduce, assuage"}
-{"L":"desintensi","C":["vt"],"en":"reduce, assuage"}
-{"L":"intensi","C":["vnt"],"en":"intensify, heighten"}
-{"L":"intensi","C":["vt"],"en":"intensify"}
-{"L":"intensi","C":["n"],"en":"intensification"}
-{"L":"intensia","C":["n"],"en":"intensity"}
-{"T":"r","L":"inter-","C":["pf","tecn"],"d":"entre","u":"interata, internasional","en":"inter- (between, mutually)"}
-{"T":"r","L":"intera","C":["a"],"d":"con no parte mancante; completa unida; no rompeda o dejenerada","en":"entire, whole, total"}
-{"L":"intera","C":["av"],"en":"entirely, wholly, totally, utterly, quite"}
-{"L":"intera","C":["n"],"en":"whole, entirety, totality"}
+{"L":"intende","C":["n"],"en":"intent, intention, purpose, aim, motive, plan","fr":"intention, but, objectif, dessein, motivation, motif, plan"}
+{"L":"bonintendente","C":["a"],"en":"well-intentioned, well-meaning","fr":"bien intentionné"}
+{"L":"con intende ce","C":["sj"],"en":"so that, in order that (indicating intended result)","fr":"de sorte que, de façon que, pour que, afin que"}
+{"L":"con intende de","C":["prep"],"en":"for, with the intention of","fr":"dans le dessein de, dans l'intention de"}
+{"L":"intendeda","C":["a"],"en":"intended, intentional, deliberate, premeditated, meant, willful|wilful; earmarked","fr":"intentionnel, délibéré, prémédité, conscient, réfléchi, voulu"}
+{"L":"intendente","C":["a"],"en":"intentional, deliberate, on purpose, purposeful","fr":"intentionnel, délibéré, à propos, exprès"}
+{"L":"malintendente","C":["a"],"en":"ill-willed, cruel","fr":"malintentionné, avec de mauvaises intentions, cruel"}
+{"L":"nonintendeda","C":["a"],"en":"unintended, inadvertent, unplanned, collateral","fr":"non voulu, par inadvertance, non prévu, collatéral"}
+{"T":"r","L":"intensa","C":["a"],"d":"de fortia o grado estrema; multe consentrada","en":"intense, intensive; intent; formidable","fr":"intense, intensif; formidable"}
+{"L":"desintensi","C":["vnt"],"en":"reduce, assuage","fr":"se réduire, s'apaiser, se calmer"}
+{"L":"desintensi","C":["vt"],"en":"reduce, assuage","fr":"réduire, apaiser, calmer"}
+{"L":"intensi","C":["vnt"],"en":"intensify, heighten","fr":"s'intensifier, s'élever, augmenter, monter"}
+{"L":"intensi","C":["vt"],"en":"intensify","fr":"intensifier, élever, augmenter, faire monter"}
+{"L":"intensi","C":["n"],"en":"intensification","fr":"intensification"}
+{"L":"intensia","C":["n"],"en":"intensity","fr":"intensité"}
+{"T":"r","L":"inter-","C":["pf","tecn"],"d":"entre","u":"interata, internasional","en":"inter- (between, mutually)","fr":"inter-"}
+{"T":"r","L":"intera","C":["a"],"d":"con no parte mancante; completa unida; no rompeda o dejenerada","en":"entire, whole, total","fr":"entier, tout entier, total, intégral"}
+{"L":"intera","C":["av"],"en":"entirely, wholly, totally, utterly, quite","fr":"entièrement, totalement, intégralement"}
+{"L":"intera","C":["n"],"en":"whole, entirety, totality","fr":"intégralité, totalité, total, somme, ensemble"}
 {"T":"r","L":"interesa","C":["vt","uma","mone"],"d":"stimula la curiosia o atende de (algun)","en":"interest, be of interest to","fr":"intéresser"}
 {"L":"interesa","C":["n"],"d":"un senti de curiosia; mone periodal paiada a un taso spesifada, per la usa de mone prestada o per pospone la repaia de un deta","u":"el ave un interesa grande a arte medieval","da":"interesse","de":"Interesse","en":"interest (including money), attention; return (on investment), yield, payoff; sake","es":"interés, fascinación, atracción","fr":"intérêt"}
-{"L":"interesa composada","C":["n"],"en":"compound interest"}
-{"L":"desinteresa","C":["vt"],"en":"disinterest, fail to interest"}
-{"L":"desinteresa","C":["n"],"en":"disinterest"}
-{"L":"desinteresada","C":["a"],"en":"disinterested"}
-{"L":"interesada","C":["a"],"en":"interested"}
-{"L":"interesante","C":["a"],"en":"interesting, fascinating"}
-{"L":"noninteresante","C":["a"],"en":"uninteresting"}
-{"L":"per sua propre interesa","C":["esp"],"en":"for its own interest, for its own sake"}
-{"T":"r","L":"interfas","C":["n","info"],"d":"la loca a cual du sistemes, sujetos, organizas, etc encontra e interata con lunlotra; (en fisica) un surfas entre du partes de materia o spasio; un aparato o program cual permete ce un usor comunica con un computador","en":"interface"}
-{"L":"interfas de usor","C":["n"],"en":"user interface"}
-{"L":"interfas grafica de usor","C":["n"],"en":"graphical user interface, GUI"}
-{"T":"r","L":"interfere","C":["vnt","uma"],"d":"partisipa o interveni (en un ata) sin invita o nesesa; preveni la continua o susede (de un prosede o ata)","da":"indgribe, hindre","de":"hindern","en":"interfere, interlope, meddle, hinder, tamper, jigger","es":"interferir, estorbar, obstruir, impedir, obstaculizar","fr":"se mêler à"}
-{"L":"interfere","C":["n"],"en":"interference"}
-{"L":"interferador","C":["n"],"en":"interference device, jammer"}
-{"L":"interferente","C":["a"],"en":"interfering, meddling, meddlesome"}
-{"L":"interferor","C":["n"],"en":"meddler, busybody, interloper"}
-{"T":"r","L":"interferon","C":["n","med","cim"],"d":"un protena relasada par selulas animal, tipal en responde a un virus, cual ave la capasia de retarda o preveni la reprodui de viruses","en":"interferon (protein)"}
-{"T":"r","L":"interjeta","C":["vt","ling"],"d":"dise (alga cosa) subita, tipal a lado o como un interompe","en":"interject"}
-{"L":"interjeta","C":["n"],"en":"interjection"}
+{"L":"interesa composada","C":["n"],"en":"compound interest","fr":"intérêt composé"}
+{"L":"desinteresa","C":["vt"],"en":"disinterest, fail to interest","fr":"se désintéresser de, manquer d'intérêt pour"}
+{"L":"desinteresa","C":["n"],"en":"disinterest","fr":"désintérêt"}
+{"L":"desinteresada","C":["a"],"en":"disinterested","fr":"désintéressé"}
+{"L":"interesada","C":["a"],"en":"interested","fr":"intéressé"}
+{"L":"interesante","C":["a"],"en":"interesting, fascinating","fr":"intéressant, captivant, passionnant, fascinant"}
+{"L":"noninteresante","C":["a"],"en":"uninteresting","fr":"inintéressant"}
+{"L":"per sua propre interesa","C":["esp"],"en":"for its own interest, for its own sake","fr":"pour son intérêt personnel"}
+{"T":"r","L":"interfas","C":["n","info"],"d":"la loca a cual du sistemes, sujetos, organizas, etc encontra e interata con lunlotra; (en fisica) un surfas entre du partes de materia o spasio; un aparato o program cual permete ce un usor comunica con un computador","en":"interface","fr":"interface"}
+{"L":"interfas de usor","C":["n"],"en":"user interface","fr":"interface utilisateur (informatique)"}
+{"L":"interfas grafica de usor","C":["n"],"en":"graphical user interface, GUI","fr":"interface graphique, GUI (informatique)"}
+{"T":"r","L":"interfere","C":["vnt","uma"],"d":"partisipa o interveni (en un ata) sin invita o nesesa; preveni la continua o susede (de un prosede o ata)","da":"indgribe, hindre","de":"hindern","en":"interfere, interlope, meddle, hinder, tamper, jigger","es":"interferir, estorbar, obstruir, impedir, obstaculizar","fr":"se mêler à, interférer, s'ingérer, s'immiscer"}
+{"L":"interfere","C":["n"],"en":"interference","fr":"interférence, ingérence, intrusion"}
+{"L":"interferador","C":["n"],"en":"interference device, jammer","fr":"dispositif d'interférence, brouilleur"}
+{"L":"interferente","C":["a"],"en":"interfering, meddling, meddlesome","fr":"interférant"}
+{"L":"interferor","C":["n"],"en":"meddler, busybody, interloper","fr":"intrus, importun, gêneur, indésirable"}
+{"T":"r","L":"interferon","C":["n","med","cim"],"d":"un protena relasada par selulas animal, tipal en responde a un virus, cual ave la capasia de retarda o preveni la reprodui de viruses","en":"interferon (protein)","fr":"interféron (protéine)"}
+{"T":"r","L":"interjeta","C":["vt","ling"],"d":"dise (alga cosa) subita, tipal a lado o como un interompe","en":"interject","fr":"couper, interrompre, lancer"}
+{"L":"interjeta","C":["n"],"en":"interjection","fr":"interjection"}
 {"T":"r","L":"interna","C":["a","mat"],"d":"situada en alga cosa, sin estende ultra sua limitas; pertinente a un tal situa; (en jeografia) no prosima a mares","da":"indre, interiør, intern","de":"inner","en":"inner, interior, internal; inland","es":"interno, interior, íntimo, recóndito, profundo","fr":"intérieur"}
-{"L":"interna","C":["n"],"en":"inside, interior, hinterland","fr":"intérieur"}
-{"L":"a interna","C":["av"],"en":"inside, within"}
-{"L":"a interna de","C":["prep"],"en":"inside, within, in the interior of"}
-{"L":"interni","C":["vnt"],"en":"internalize|is, interiorize|is"}
-{"L":"interni","C":["vt"],"en":"internalize|is, interiorize|is, take in; embed"}
-{"L":"interniste","C":["n","med"],"d":"un mediciste ci spesiali sur maladias adulte","en":"internist (medical)"}
-{"L":"la plu interna","C":["a"],"en":"innermost"}
-{"T":"r","L":"intero","C":["a","mat"],"en":"integer, integral"}
-{"L":"intero","C":["n"],"d":"un numero cual no es un frato","en":"integer"}
-{"T":"r","L":"interoga","C":["vt","gov"],"d":"demanda a (algun, spesial un suspetada o prisonida) en modo formal, completa o violente","en":"interrogate, examine, question"}
-{"L":"interoga","C":["n"],"i":"#","en":"interrogation, examination, questioning"}
-{"L":"interogor","C":["n"],"en":"interrogator"}
-{"T":"r","L":"interompe","C":["vt","gov"],"d":"para la progresa continuante de (un ativia o prosede); para (un parlor) par dise o fa alga cosa; rompe la continua de (un linia o surfas)","en":"interrupt, heckle; suspend, cut off; supervene"}
-{"L":"interompe","C":["n"],"en":"interruption, suspension, breakpoint, cut-off"}
-{"T":"r","L":"interpol","C":["n","gov"],"d":"un organiza con base en Paris, cual coordina la investiga de crimines internasional par la polisia de nasiones diversa","en":"interpol"}
-{"T":"r","L":"interpola","C":["vt","mat"],"d":"introdui (alga cosa) entre puntos fisada; introdui (parolas) en un libro o otra testo; (en matematica) introdui (un valua o terma) en un serie par estima o calcula lo de valuas ambiente conoseda","en":"interpolate"}
-{"L":"interpola","C":["n"],"en":"interpolation"}
-{"T":"r","L":"interprete","C":["vt","ling","arte"],"d":"esplica la sinifia de (informa, parolas o atas); comprende ce (un ata, modo o condui) ave un sinifia spesifada; tradui simultan (la parla de un otra person) a un otra lingua; presenta (un rol de drama o un peso de musica) en modo cual indica la comprende individua par la artiste de la ideas de la creor","en":"interpret, construe"}
-{"L":"interprete","C":["n"],"en":"interpretation, rendition"}
-{"L":"interpretable","C":["a"],"en":"interpretable, open to interpretation, ambiguous, equivocal"}
-{"L":"interpretador","C":["n"],"en":"interpreter (software)"}
-{"L":"interpretal","C":["a"],"en":"interpretational, hermeneutic"}
-{"L":"interpreteda","C":["a"],"en":"interpreted, interpretive"}
-{"L":"interpretor","C":["n"],"en":"interpreter (person)"}
-{"L":"malinterprete","C":["vt"],"en":"misinterpret, misapprehend, misconstrue"}
-{"L":"reinterprete","C":["vt"],"p":"reïnterprete","en":"reinterpret"}
-{"T":"r","L":"intersepi","C":["vt","fis","mat"],"d":"impedi (un person o cosa) de continua a sua destina; (en fisica) para o verje (lus o otra radia eletromagnetal); (en matematica) (un linia o surfas) marca o talia un parte de (un linia, surfas o spasio)","en":"intercept"}
-{"L":"intersepi","C":["n"],"en":"interception"}
-{"T":"r","L":"interstisio","C":["n","cim","bio"],"d":"un spasio interveninte, tipal multe peti","en":"interstice"}
-{"L":"interstisial","C":["a"],"en":"interstitial"}
+{"L":"interna","C":["n"],"en":"inside, interior, hinterland","fr":"intérieur, interne"}
+{"L":"a interna","C":["av"],"en":"inside, within","fr":"dedans, à l'intérieur"}
+{"L":"a interna de","C":["prep"],"en":"inside, within, in the interior of","fr":"à l'intérieur de"}
+{"L":"interni","C":["vnt"],"en":"internalize|is, interiorize|is","fr":"s'intérioriser"}
+{"L":"interni","C":["vt"],"en":"internalize|is, interiorize|is, take in; embed","fr":"intérioriser, rentrer, emmener à l'intérieur, intégrer"}
+{"L":"interniste","C":["n","med"],"d":"un mediciste ci spesiali sur maladias adulte","en":"internist (medical)","fr":"interne (médecine)"}
+{"L":"la plu interna","C":["a"],"en":"innermost","fr":"le plus à l'intérieur, le plus profond, le plus intime, le plus secret"}
+{"T":"r","L":"intero","C":["a","mat"],"en":"integer, integral","fr":"entier (mathématique)"}
+{"L":"intero","C":["n"],"d":"un numero cual no es un frato","en":"integer","fr":"entier (mathématique)"}
+{"T":"r","L":"interoga","C":["vt","gov"],"d":"demanda a (algun, spesial un suspetada o prisonida) en modo formal, completa o violente","en":"interrogate, examine, question","fr":"interroger, questionner"}
+{"L":"interoga","C":["n"],"i":"#","en":"interrogation, examination, questioning","fr":"interrogation, interrogatoire"}
+{"L":"interogor","C":["n"],"en":"interrogator","fr":"questionneur, interrogateur, celui|celle qui interroge, examinateur"}
+{"T":"r","L":"interompe","C":["vt","gov"],"d":"para la progresa continuante de (un ativia o prosede); para (un parlor) par dise o fa alga cosa; rompe la continua de (un linia o surfas)","en":"interrupt, heckle; suspend, cut off; supervene","fr":"interrompre, suspendre, couper"}
+{"L":"interompe","C":["n"],"en":"interruption, suspension, breakpoint, cut-off","fr":"interrompre, suspension, coupure"}
+{"T":"r","L":"interpol","C":["n","gov"],"d":"un organiza con base en Paris, cual coordina la investiga de crimines internasional par la polisia de nasiones diversa","en":"interpol","fr":"interpol"}
+{"T":"r","L":"interpola","C":["vt","mat"],"d":"introdui (alga cosa) entre puntos fisada; introdui (parolas) en un libro o otra testo; (en matematica) introdui (un valua o terma) en un serie par estima o calcula lo de valuas ambiente conoseda","en":"interpolate","fr":"interpoler"}
+{"L":"interpola","C":["n"],"en":"interpolation","fr":"interpolation"}
+{"T":"r","L":"interprete","C":["vt","ling","arte"],"d":"esplica la sinifia de (informa, parolas o atas); comprende ce (un ata, modo o condui) ave un sinifia spesifada; tradui simultan (la parla de un otra person) a un otra lingua; presenta (un rol de drama o un peso de musica) en modo cual indica la comprende individua par la artiste de la ideas de la creor","en":"interpret, construe","fr":"interpréter, donner une interprétation de, traduire; jouer, donner une représentation de"}
+{"L":"interprete","C":["n"],"en":"interpretation, rendition","fr":"interprétation, traduction"}
+{"L":"interpretable","C":["a"],"en":"interpretable, open to interpretation, ambiguous, equivocal","fr":"sujet à interprétation, interprétable, ambigu, équivoque"}
+{"L":"interpretador","C":["n"],"en":"interpreter (software)","fr":"interpréteur (informatique)"}
+{"L":"interpretal","C":["a"],"en":"interpretational, hermeneutic","fr":"interprétatif, herméneutique, explicatif"}
+{"L":"interpreteda","C":["a"],"en":"interpreted, interpretive","fr":"interprété"}
+{"L":"interpretor","C":["n"],"en":"interpreter (person)","fr":"interprète (personne)"}
+{"L":"malinterprete","C":["vt"],"en":"misinterpret, misapprehend, misconstrue","fr":"mal interpréter, mal comprendre, se méprendre sur"}
+{"L":"reinterprete","C":["vt"],"p":"reïnterprete","en":"reinterpret","fr":"réinterpréter"}
+{"T":"r","L":"intersepi","C":["vt","fis","mat"],"d":"impedi (un person o cosa) de continua a sua destina; (en fisica) para o verje (lus o otra radia eletromagnetal); (en matematica) (un linia o surfas) marca o talia un parte de (un linia, surfas o spasio)","en":"intercept","fr":"intercepter"}
+{"L":"intersepi","C":["n"],"en":"interception","fr":"interception"}
+{"T":"r","L":"interstisio","C":["n","cim","bio"],"d":"un spasio interveninte, tipal multe peti","en":"interstice","fr":"interstice"}
+{"L":"interstisial","C":["a"],"en":"interstitial","fr":"interstitiel"}
 {"T":"r","L":"interval","C":["n","mus"],"d":"un tempo o spasio interveninte; un pausa en un taxe o ata longa","da":"interval","de":"Abstand","en":"interval (including musical), interlude, intermission","es":"intervalo","fr":"intervalle"}
-{"T":"r","L":"interveni","C":["vnt","gov"],"d":"vade a entre per aida, o per preveni o cambia la curso de avenis o sua resulta; aveni en la tempo entre du otra avenis","en":"intervene, intercede"}
-{"L":"interveni","C":["n"],"en":"intervention, intercession"}
-{"T":"r","L":"intervisa","C":["vt","gov"],"d":"conversa con (algun) per oteni consela, per furni informa a escutores o regardores, o per esamina un aspiror per emplea","en":"interview; debrief"}
-{"L":"intervisa","C":["n"],"en":"interview; debrief"}
-{"L":"intervisa pratical","C":["n"],"en":"audition"}
-{"L":"intervisor","C":["n"],"en":"interviewer"}
+{"T":"r","L":"interveni","C":["vnt","gov"],"d":"vade a entre per aida, o per preveni o cambia la curso de avenis o sua resulta; aveni en la tempo entre du otra avenis","en":"intervene, intercede","fr":"intervenir, intercéder"}
+{"L":"interveni","C":["n"],"en":"intervention, intercession","fr":"intervention, intercession"}
+{"T":"r","L":"intervisa","C":["vt","gov"],"d":"conversa con (algun) per oteni consela, per furni informa a escutores o regardores, o per esamina un aspiror per emplea","en":"interview; debrief","fr":"s'entretenir avec, interviewer, interroger, avoir une entrevue avec, avoir un entretien avec"}
+{"L":"intervisa","C":["n"],"en":"interview; debrief","fr":"entretien, interview, dialogue, conversation"}
+{"L":"intervisa pratical","C":["n"],"en":"audition","fr":"entretien, audition"}
+{"L":"intervisor","C":["n"],"en":"interviewer","fr":"interviewer"}
 {"T":"r","L":"intestin","C":["n","anat"],"d":"(en vertebratos) la canal de dijesta entre la stomaco e la ano; (en nonvertebratos) la canal de dijesta entre la boca e la ano","da":"tarme, indvolde","de":"Darm, Gedärme","en":"intestine, bowel","es":"intestinos, tripa(s), viscera(s)","fr":"intestin"}
-{"L":"intestin magra","C":["n"],"en":"small intestine"}
-{"L":"intestin spesa","C":["n"],"en":"large intestine"}
-{"L":"intestinal","C":["a"],"en":"intestinal"}
-{"L":"intestines","C":["n","pl"],"en":"intestines, guts, viscera, entrails; offal, chitterlings"}
-{"T":"r","L":"intima","C":["a","uma"],"d":"(un person) bon conoseda, familiar, amin; (un loca) con ambiente nonformal e amin; personal e privata","en":"intimate, close"}
-{"L":"intima","C":["n"],"en":"insider"}
-{"L":"intimia","C":["n"],"en":"intimacy"}
-{"T":"r","L":"intra-","C":["pf","tecn"],"d":"en, interna","en":"intra- (inner)"}
-{"T":"r","L":"intramural","C":["a"],"d":"locada o aveninte a interna de un mur","en":"intramural"}
-{"T":"r","L":"intrarede","C":["n","info"],"d":"un rede local e restrinjeda, tipal privata ma asededa con un surfador","en":"intranet"}
-{"T":"r","L":"intrauteral","C":["a","med"],"d":"en la utero","en":"intrauterine"}
-{"T":"r","L":"intravenal","C":["a","med"],"d":"aveninte en la venas; introduida a un vena","en":"intravenous"}
-{"T":"r","L":"intro-","C":["pf","tecn"],"d":"en, interna","en":"intro- (inner)"}
-{"T":"r","L":"introdui","C":["vt"],"d":"presenta (alga cosa) per sua usa o funsiona prima; presenta (un idea o lege nova) per debate; trae un sujeto nova a la atende de (algun); trae (un planta, animal o maladia) a un loca nova; pone (un cosa) a en un otra cosa","n":"","en":"introduce (substance, topic, law), insert, institute; broach, bring up (topic)"}
-{"L":"introdui","C":["n"],"en":"insertion, introduction; prelude, overture, prolegomenon"}
-{"L":"introdui gradal","C":["vt"],"en":"phase in"}
-{"L":"introduable","C":["a"],"en":"introducible, able to be introduced"}
-{"L":"introduinte","C":["a"],"en":"introductory"}
-{"L":"reintrodui","C":["vt"],"p":"reïntrodui","en":"reintroduce, reinsert"}
-{"T":"r","L":"introjeta","C":["vt","uma"],"d":"adota nonconsensa un idea o disposa de (un otra person)","en":"introject (psychology)"}
-{"L":"introjeta","C":["n"],"en":"introjection"}
-{"T":"r","L":"introspeta","C":["vnt","uma"],"d":"esamina la pensas o sentis cual on esperia en se","en":"introspect"}
-{"L":"introspeta","C":["n"],"en":"introspection"}
-{"L":"introspetante","C":["a"],"en":"introspective"}
-{"T":"r","L":"introverti","C":["vnt","uma"],"d":"es o deveni consernada par sua propre pensas e sentis, tipal en modo timida o neurosica","en":"be introverted"}
-{"L":"introverti","C":["n"],"en":"introversion, reserve"}
-{"L":"introvertida","C":["a"],"en":"introverted, introvert, reserved"}
-{"L":"introvertida","C":["n"],"en":"introvert"}
-{"T":"r","L":"intrui","C":["vnt","gov","tera"],"d":"pone se, con intende, en un loca o situa do on no es bonvenida; introdui (alga cosa) a un situa con efetos negativa; (roca magmal) deveni forsada a en un forma preesistente","en":"intrude, encroach, impinge, trespass"}
-{"L":"intrui","C":["vt"],"en":"intrude, impose"}
-{"L":"intrui","C":["n"],"en":"intrusion, encroachment, trespassing"}
-{"L":"intruor","C":["n"],"en":"intruder, trespasser"}
-{"L":"intruosa","C":["a"],"en":"intrusive"}
-{"T":"r","L":"intuba","C":["vt","med"],"d":"introdui un tubo en (un person o parte de corpo, spesial la tracea per respira)","en":"intubate"}
-{"L":"intuba","C":["n"],"en":"intubation"}
-{"T":"r","L":"intui","C":["vt","uma"],"d":"comprende o solve par instinto","en":"intuit"}
-{"L":"intui","C":["n"],"en":"intuition, insight"}
-{"L":"contra intui","C":["a"],"en":"counterintuitive"}
-{"L":"intuable","C":["a"],"en":"intuitable, intuitive (design)"}
-{"L":"intuosa","C":["a"],"en":"intuitive, insightful (person)"}
-{"L":"intuosia","C":["n"],"en":"intuitiveness, insightfulness, common sense"}
-{"L":"nonintuable","C":["a"],"en":"unintuitable, unintuitive (design)"}
-{"L":"nonintuosa","C":["a"],"en":"unintuitive (person)"}
-{"T":"r","L":"inuit","C":["a","dem"],"d":"pertinente a la popla orijinal de la norde de Canada e partes de Calalitnunat e Alaska, o a sua lingua","en":"Inuit, Eskimo"}
-{"L":"inuit","C":["n"],"en":"Inuit, Eskimo"}
-{"T":"r","L":"invade","C":["vt","gov"],"d":"entra a (un pais, nasion o rejion) per vinse o ocupa lo; (un parasito o maladia) entra a e estende a en (un organisme o parte de la corpo); entra a un area privata sin permete; (animales) entra a e domina un area","en":"invade, trespass, raid; overrun (with)"}
-{"L":"invade","C":["n"],"en":"invasion, incursion, raid, foray"}
-{"L":"invadente","C":["a"],"en":"invading, invasive"}
-{"L":"invador","C":["n"],"en":"invader, trespasser, raider"}
-{"T":"r","L":"inventa","C":["vt","arte"],"d":"crea o desinia (un cosa nova); crea (un idea, nom, nara, etc), tipal per engana","da":"opfinde","de":"erfinden","en":"invent, devise, contrive, concoct, come up with","es":"inventar","fr":"inventer"}
-{"L":"inventa","C":["n"],"en":"invention (action)"}
-{"L":"inventada","C":["a"],"en":"invented, devised, contrived, concocted"}
-{"L":"inventada","C":["n"],"en":"invention (product), brainchild"}
-{"L":"inventor","C":["n"],"en":"inventor"}
-{"L":"inventosa","C":["a"],"en":"inventive, creative, original"}
-{"L":"inventosia","C":["n"],"en":"inventiveness, creativity, originality"}
-{"L":"reinventa","C":["vt"],"p":"reïnventa","en":"reinvent"}
-{"L":"reinventa","C":["n"],"en":"reinvention"}
+{"L":"intestin magra","C":["n"],"en":"small intestine","fr":"intestin grêle"}
+{"L":"intestin spesa","C":["n"],"en":"large intestine","fr":"gros intestin"}
+{"L":"intestinal","C":["a"],"en":"intestinal","fr":"intestinal"}
+{"L":"intestines","C":["n","pl"],"en":"intestines, guts, viscera, entrails; offal, chitterlings","fr":"intestins, viscères, entrailles, boyaux, abats"}
+{"T":"r","L":"intima","C":["a","uma"],"d":"(un person) bon conoseda, familiar, amin; (un loca) con ambiente nonformal e amin; personal e privata","en":"intimate, close","fr":"intime, personnel, privé"}
+{"L":"intima","C":["n"],"en":"insider","fr":"intime"}
+{"L":"intimia","C":["n"],"en":"intimacy","fr":"intimité"}
+{"T":"r","L":"intra-","C":["pf","tecn"],"d":"en, interna","en":"intra- (inner)","fr":"intra-"}
+{"T":"r","L":"intramural","C":["a"],"d":"locada o aveninte a interna de un mur","en":"intramural","fr":"intra-muros"}
+{"T":"r","L":"intrarede","C":["n","info"],"d":"un rede local e restrinjeda, tipal privata ma asededa con un surfador","en":"intranet","fr":"intranet"}
+{"T":"r","L":"intrauteral","C":["a","med"],"d":"en la utero","en":"intrauterine","fr":"intra-utérin"}
+{"T":"r","L":"intravenal","C":["a","med"],"d":"aveninte en la venas; introduida a un vena","en":"intravenous","fr":"intraveineux"}
+{"T":"r","L":"intro-","C":["pf","tecn"],"d":"en, interna","en":"intro- (inner)","fr":"intro-"}
+{"T":"r","L":"introdui","C":["vt"],"d":"presenta (alga cosa) per sua usa o funsiona prima; presenta (un idea o lege nova) per debate; trae un sujeto nova a la atende de (algun); trae (un planta, animal o maladia) a un loca nova; pone (un cosa) a en un otra cosa","n":"","en":"introduce (substance, topic, law), insert, institute; broach, bring up (topic)","fr":"introduire, insérer; présenter; aborder (un sujet)"}
+{"L":"introdui","C":["n"],"en":"insertion, introduction; prelude, overture, prolegomenon","fr":"insertion, introduction, préface, présentation, avertissement; prélude, ouverture"}
+{"L":"introdui gradal","C":["vt"],"en":"phase in","fr":"introduire progressivement"}
+{"L":"introduable","C":["a"],"en":"introducible, able to be introduced","fr":"qu'on peut introduire, présentable"}
+{"L":"introduinte","C":["a"],"en":"introductory","fr":"introductif, introducteur, introductoire"}
+{"L":"reintrodui","C":["vt"],"p":"reïntrodui","en":"reintroduce, reinsert","fr":"réintroduire, réinsérer"}
+{"T":"r","L":"introjeta","C":["vt","uma"],"d":"adota nonconsensa un idea o disposa de (un otra person)","en":"introject (psychology)","fr":"introjecter (psychologie)"}
+{"L":"introjeta","C":["n"],"en":"introjection","fr":"introjection"}
+{"T":"r","L":"introspeta","C":["vnt","uma"],"d":"esamina la pensas o sentis cual on esperia en se","en":"introspect","fr":"introspecter, faire une introspection"}
+{"L":"introspeta","C":["n"],"en":"introspection","fr":"introspection"}
+{"L":"introspetante","C":["a"],"en":"introspective","fr":"introspectif"}
+{"T":"r","L":"introverti","C":["vnt","uma"],"d":"es o deveni consernada par sua propre pensas e sentis, tipal en modo timida o neurosica","en":"be introverted","fr":"être introverti"}
+{"L":"introverti","C":["n"],"en":"introversion, reserve","fr":"introversion, réserve"}
+{"L":"introvertida","C":["a"],"en":"introverted, introvert, reserved","fr":"introverti, réservé, renfermé"}
+{"L":"introvertida","C":["n"],"en":"introvert","fr":"introverti"}
+{"T":"r","L":"intrui","C":["vnt","gov","tera"],"d":"pone se, con intende, en un loca o situa do on no es bonvenida; introdui (alga cosa) a un situa con efetos negativa; (roca magmal) deveni forsada a en un forma preesistente","en":"intrude, encroach, impinge, trespass","fr":"s'introduire, faire intrusion, s'immiscer, s'imposer"}
+{"L":"intrui","C":["vt"],"en":"intrude, impose","fr":"imposer, infliger"}
+{"L":"intrui","C":["n"],"en":"intrusion, encroachment, trespassing","fr":"intrusion"}
+{"L":"intruor","C":["n"],"en":"intruder, trespasser","fr":"intrus"}
+{"L":"intruosa","C":["a"],"en":"intrusive","fr":"intrusif"}
+{"T":"r","L":"intuba","C":["vt","med"],"d":"introdui un tubo en (un person o parte de corpo, spesial la tracea per respira)","en":"intubate","fr":"intuber"}
+{"L":"intuba","C":["n"],"en":"intubation","fr":"intubation"}
+{"T":"r","L":"intui","C":["vt","uma"],"d":"comprende o solve par instinto","en":"intuit","fr":"avoir l'intuition de, sentir par intuition, comprendre intuitivement"}
+{"L":"intui","C":["n"],"en":"intuition, insight","fr":"intuition"}
+{"L":"contra intui","C":["a"],"en":"counterintuitive","fr":"contre-intuitif"}
+{"L":"intuable","C":["a"],"en":"intuitable, intuitive (design)","fr":"intuitif (concept)"}
+{"L":"intuosa","C":["a"],"en":"intuitive, insightful (person)","fr":"intuitif (personne)"}
+{"L":"intuosia","C":["n"],"en":"intuitiveness, insightfulness, common sense","fr":"intuitivité, aptitude à l'intuition"}
+{"L":"nonintuable","C":["a"],"en":"unintuitable, unintuitive (design)","fr":"non intuitif (concept)"}
+{"L":"nonintuosa","C":["a"],"en":"unintuitive (person)","fr":"non-intuitif (personne)"}
+{"T":"r","L":"inuit","C":["a","dem"],"d":"pertinente a la popla orijinal de la norde de Canada e partes de Calalitnunat e Alaska, o a sua lingua","en":"Inuit, Eskimo","fr":"inuit, eskimo, esquimau, esquimaude"}
+{"L":"inuit","C":["n"],"en":"Inuit, Eskimo","fr":"Inuit, Esquimau, Eskimo"}
+{"T":"r","L":"invade","C":["vt","gov"],"d":"entra a (un pais, nasion o rejion) per vinse o ocupa lo; (un parasito o maladia) entra a e estende a en (un organisme o parte de la corpo); entra a un area privata sin permete; (animales) entra a e domina un area","en":"invade, trespass, raid; overrun (with)","fr":"envahir, pénétrer sans autorisation dans, faire incursion dans; infester, se propager dans; occuper, se répandre, coloniser"}
+{"L":"invade","C":["n"],"en":"invasion, incursion, raid, foray","fr":"invasion, incursion, infestation, occupation, colonisation, raid, razzia"}
+{"L":"invadente","C":["a"],"en":"invading, invasive","fr":"envahissant, invasif"}
+{"L":"invador","C":["n"],"en":"invader, trespasser, raider","fr":"envahisseur, intrus, occupant, colonisateur"}
+{"T":"r","L":"inventa","C":["vt","arte"],"d":"crea o desinia (un cosa nova); crea (un idea, nom, nara, etc), tipal per engana","da":"opfinde","de":"erfinden","en":"invent, devise, contrive, concoct, come up with","es":"inventar","fr":"inventer, imaginer, concevoir, trouver, découvrir"}
+{"L":"inventa","C":["n"],"en":"invention (action)","fr":"invention, conception (action)"}
+{"L":"inventada","C":["a"],"en":"invented, devised, contrived, concocted","fr":"inventé, imaginé, conçu"}
+{"L":"inventada","C":["n"],"en":"invention (product), brainchild","fr":"invention (produit), idée originale"}
+{"L":"inventor","C":["n"],"en":"inventor","fr":"inventeur"}
+{"L":"inventosa","C":["a"],"en":"inventive, creative, original","fr":"inventif, créatif"}
+{"L":"inventosia","C":["n"],"en":"inventiveness, creativity, originality","fr":"inventivité, créativité"}
+{"L":"reinventa","C":["vt"],"p":"reïnventa","en":"reinvent","fr":"réinventer"}
+{"L":"reinventa","C":["n"],"en":"reinvention","fr":"réinvention"}
 {"T":"r","L":"inverno","C":["n","tera"],"d":"la saison la plu fria (de desembre a marto en la emisfera norde, e de junio a setembre en la emisfera sude); (en astronomia) la periodo entre la solstisio de inverno e la ecuinote de primavera","i":"#","da":"vinter","de":"Winter","en":"winter","es":"invierno","fr":"hiver"}
-{"L":"invernal","C":["a"],"en":"winter, hibernal"}
-{"L":"inverneria","C":["n"],"en":"greenhouse, glasshouse, hothouse"}
-{"L":"inverni","C":["vt"],"en":"hibernate, winter"}
-{"L":"inverni","C":["n"],"en":"hibernation"}
-{"L":"invernin","C":["a"],"en":"wintry"}
-{"L":"invernosa","C":["a"],"en":"wintry"}
-{"L":"mediainverno","C":["n"],"en":"midwinter"}
-{"T":"r","L":"inversa","C":["vt","mat"],"d":"pone en la dirije o ordina oposante, tipal con la alta a la basa e la basa a la alta","en":"invert, upend, turn upside-down, overturn; capsize"}
-{"L":"inversa","C":["n"],"en":"inverse; inversion"}
+{"L":"invernal","C":["a"],"en":"winter, hibernal","fr":"hivernal"}
+{"L":"inverneria","C":["n"],"en":"greenhouse, glasshouse, hothouse","fr":"serre"}
+{"L":"inverni","C":["vt"],"en":"hibernate, winter","fr":"hiverner, hiberner"}
+{"L":"inverni","C":["n"],"en":"hibernation","fr":"hivernage, hibernation"}
+{"L":"invernin","C":["a"],"en":"wintry","fr":"d'hiver, hivernal"}
+{"L":"invernosa","C":["a"],"en":"wintry","fr":"hivernal"}
+{"L":"mediainverno","C":["n"],"en":"midwinter","fr":"plein hiver, fort de l'hiver, cœur de l'hiver"}
+{"T":"r","L":"inversa","C":["vt","mat"],"d":"pone en la dirije o ordina oposante, tipal con la alta a la basa e la basa a la alta","en":"invert, upend, turn upside-down, overturn; capsize","fr":"inverser"}
+{"L":"inversa","C":["n"],"en":"inverse; inversion","fr":"inversion"}
 {"L":"inversada","C":["a"],"da":"omvendt","de":"verkehrt","en":"inverted, upside-down, overturned; capsized","es":"de cabeza, invertida, patas arriba, al revés, en desorden","fr":"inversé"}
-{"L":"inversador","C":["n"],"en":"inverter; moldboard|ul"}
+{"L":"inversador","C":["n"],"en":"inverter; moldboard|ul","fr":"inverseur"}
 {"T":"r","L":"investi","C":["vt","mone"],"d":"usa (mone) en un emprende finansial con la espeta de profita; compra (asiones o propria) con la espeta de profita; (metafor) dona (sua tempo, labora o enerjia) a un projeta con la espeta de un resulta valuada","da":"investere","de":"investieren","en":"invest","es":"investir, colocar fondos","fr":"investir"}
-{"L":"investi","C":["n"],"en":"investment"}
-{"L":"investor","C":["n"],"en":"investor, stakeholder"}
+{"L":"investi","C":["n"],"en":"investment","fr":"investissement"}
+{"L":"investor","C":["n"],"en":"investor, stakeholder","fr":"investisseur"}
 {"L":"investor otimiste","C":["n"],"en":"bull"}
 {"L":"investor pesimiste","C":["n"],"en":"bear"}
-{"L":"suprainvesti","C":["vt"],"en":"overinvest"}
-{"L":"suprainvesti","C":["n"],"en":"overinvestment"}
-{"L":"suinvesti","C":["vt"],"en":"underinvest"}
-{"L":"suinvesti","C":["n"],"en":"underinvestment"}
-{"T":"r","L":"investiga","C":["vt","gov"],"d":"atenta descovre e esamina fatos en modo formal o sistemal, per trova la veria de (un aveni o situa); rexerca o studia per descovre fatos o informa; atenta determina la carater, atas o istoria de (un person)","en":"investigate"}
-{"L":"investiga","C":["n"],"en":"investigation, inquiry, enquiry"}
-{"L":"investiga judal","C":["n"],"en":"judicial inquiry, inquest"}
-{"L":"investigor","C":["n"],"en":"investigator; inspector (police)"}
-{"L":"noninvestigada","C":["a"],"en":"uninvestigated, unscreened"}
-{"L":"reinvestiga","C":["vt"],"p":"reïnvestiga","en":"reinvestigate"}
-{"T":"r","L":"invia","C":["vt","uma"],"d":"desira ave (un poseseda o otra cualia valuada) de un otra person","en":"envy"}
-{"L":"invia","C":["n"],"en":"envy"}
-{"L":"inviable","C":["a"],"en":"enviable"}
-{"L":"inviosa","C":["a"],"en":"envious"}
-{"T":"r","L":"invita","C":["vt","uma"],"d":"demanda de (algun), en modo cortes, formal o amin, ce el fa alga cosa o vade a alga loca","da":"invitere","de":"einladen","en":"invite; co-opt; call on","es":"invitar, convidar","fr":"inviter"}
-{"L":"invita","C":["n"],"en":"invitation; overture (to communication, negotiation)"}
-{"L":"invitada","C":["a"],"en":"invited"}
-{"L":"invitada","C":["n"],"en":"guest"}
-{"L":"invitante","C":["a"],"en":"inviting, appetizing|is"}
-{"L":"noninvitante","C":["a"],"en":"uninviting, unappetizing|is"}
+{"L":"suprainvesti","C":["vt"],"en":"overinvest","fr":"surinvestir"}
+{"L":"suprainvesti","C":["n"],"en":"overinvestment","fr":"surinvestissement"}
+{"L":"suinvesti","C":["vt"],"en":"underinvest","fr":"sous-investir"}
+{"L":"suinvesti","C":["n"],"en":"underinvestment","fr":"sous-investissement"}
+{"T":"r","L":"investiga","C":["vt","gov"],"d":"atenta descovre e esamina fatos en modo formal o sistemal, per trova la veria de (un aveni o situa); rexerca o studia per descovre fatos o informa; atenta determina la carater, atas o istoria de (un person)","en":"investigate","fr":"enquêter, faire une recherche, s'informer sur"}
+{"L":"investiga","C":["n"],"en":"investigation, inquiry, enquiry","fr":"enquête"}
+{"L":"investiga judal","C":["n"],"en":"judicial inquiry, inquest","fr":"enquête judiciaire"}
+{"L":"investigor","C":["n"],"en":"investigator; inspector (police)","fr":"inspecteur (police)"}
+{"L":"noninvestigada","C":["a"],"en":"uninvestigated, unscreened","fr":"non enquêté"}
+{"L":"reinvestiga","C":["vt"],"p":"reïnvestiga","en":"reinvestigate","fr":"enquêter de nouveau"}
+{"T":"r","L":"invia","C":["vt","uma"],"d":"desira ave (un poseseda o otra cualia valuada) de un otra person","en":"envy","fr":"envier, jalouser"}
+{"L":"invia","C":["n"],"en":"envy","fr":"envie, jalousie"}
+{"L":"inviable","C":["a"],"en":"enviable","fr":"enviable, jalousable"}
+{"L":"inviosa","C":["a"],"en":"envious","fr":"envieux, jaloux"}
+{"T":"r","L":"invita","C":["vt","uma"],"d":"demanda de (algun), en modo cortes, formal o amin, ce el fa alga cosa o vade a alga loca","da":"invitere","de":"einladen","en":"invite; co-opt; call on","es":"invitar, convidar","fr":"inviter, convier"}
+{"L":"invita","C":["n"],"en":"invitation; overture (to communication, negotiation)","fr":"invitation"}
+{"L":"invitada","C":["a"],"en":"invited","fr":"invité"}
+{"L":"invitada","C":["n"],"en":"guest","fr":"invité"}
+{"L":"invitante","C":["a"],"en":"inviting, appetizing|is","fr":"invitant, qui invite, attirant"}
+{"L":"noninvitante","C":["a"],"en":"uninviting, unappetizing|is","fr":"qui n'invite pas, inattirant"}
 {"T":"r","L":"iocto-","C":["pf","tecn"],"d":"{10₋₂₄}","en":"yocto-"}
 {"T":"r","L":"iodle","C":["vt"],"d":"canta (alga cosa), rapida alternante entre vose normal e falseto","en":"yodel"}
 {"L":"iodle","C":["n"],"en":"yodeling|ll"}
@@ -26692,7 +26693,7 @@
 {"L":"supratempo","C":["n"],"en":"overtime (work)"}
 {"L":"tempador","C":["n","util"],"en":"timer (device)"}
 {"L":"tempal","C":["a"],"en":"temporal (of time)"}
-{"T":"r","L":"tempora","C":["a"],"d":"esistente tra sola un periodo limitada o corta; no permanente","da":"midlertidig","de":"zeitweilig","en":"temporary, ephemeral, interim, fleeting, transient, makeshift, provisional, transitional","es":"temporal, transitorio, pasajero, transiente","fr":"temporaire","it":"temporaneo","nl":"tijdelijk","pt":"temporário, passageiro, transitório"}
+{"T":"r","L":"tempora","C":["a"],"d":"esistente tra sola un periodo limitada o corta; no permanente","da":"midlertidig","de":"zeitweilig","en":"temporary, ephemeral, interim, fleeting, transient, makeshift, provisional, transitional, short-term","es":"temporal, transitorio, pasajero, transiente","fr":"temporaire","it":"temporaneo","nl":"tijdelijk","pt":"temporário, passageiro, transitório"}
 {"L":"tempora","C":["av"],"en":"temporarily"}
 {"T":"r","L":"temprana","C":["a"],"d":"aveninte o fada ante la tempo normal o espetada","da":"tidlig, for tidlig","de":"vorzeitig","en":"early","es":"temprano, prematuro, primitivo, primigenio, demasiado pronto","fr":"tôt","it":"presto","nl":"vroeg","pt":"precoce, prematuro"}
 {"L":"temprana","C":["n"],"d":"la parte prosima a la comensa de un periodo spesifada","u":"en la temprana de 1974","en":"early part"}
