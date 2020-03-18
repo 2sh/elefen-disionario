@@ -1,4 +1,4 @@
-﻿var dataDeDatos = '16 marto 2020';
+﻿var dataDeDatos = '17 marto 2020';
 var disionario = [
 {T:"r",L:"a",C:["sim"],d:"la letera prima de la alfabeta roman, e sua nom; la nota ses de la scala diatonica de C major",p:"a",en:"a",es:"a",fr:"a (lettre de l'alphabet), la (note de la gamme)",he:"האות הראשונה באלפבית הלטיני"},
 {T:"r",L:"a",C:["prep"],d:"indicante un loca o tempo como un punto simple",g:"preposadas#a",u:"nos senta a la table; la barco es a mar; me va parti a la fini de la semana; a 26 julio 1887; a la ora des-sinco",da:"i, ved, på, hos, nær",de:"bei, mit, um",en:"at, in, on (a point in space or time)",eo:"ĉe, en, je",es:"a, en (un punto en el tiempo o en el espacio)",fr:"à",gl:"en (no mesmo lugar que)",he:"ב-, אצל",ru:"в, на, за (сидим за столом)"},
@@ -13811,6 +13811,7 @@ var disionario = [
 {L:"israeli",C:["n","dem"],en:"Israeli",fr:"Israélien"},
 {T:"r",L:"istamina",C:["n","med"],d:"un composada cimical cual selulas relasa en responde a un feri o en reatas de alerjia e inflama",en:"histamine",fr:"histamine"},
 {L:"antiistaminal",C:["a","med"],en:"antihistamine",fr:"antihistaminique"},
+{L:"antiistaminal",C:["n","med"],en:"antihistamine",fr:"antihistaminique"},
 {T:"r",L:"-iste",C:["sf","a"],d:"ajuntada a un nom per nomi un aderor de un sistem de crede o un person prejudosa, alternante con `-isme`; ajuntada a la nom de un campo de studia con la coda `-ia` o `-ica` per nomi un artiste, siensiste o membro de un profesa; ajuntada a un nom de strumento per nomi un musiciste; ance usada en alga parolas internasional per persones",u:"femiste; otimiste; jeolojiste; gitariste; jornaliste; turiste",en:"-ist",fr:"-iste"},
 {T:"r",L:"ister-",C:["pf","tecn"],d:"utero",en:"hyster- (womb)",fr:"hyster-"},
 {T:"r",L:"isterectomia",C:["n","med"],d:"un sirurjia per estrae la intera o un parte de la utero",en:"hysterectomy (surgery)",fr:"hystérectomie"},
@@ -14946,6 +14947,7 @@ var disionario = [
 {T:"r",L:"Lietuva",C:["n","jeo"],c:"Vilnius",d:"un pais a la costa sude-este de la Mar Baltica",i:"#",en:"Lithuania"},
 {L:"lietuvisce",C:["a"],en:"Lithuanian"},
 {L:"lietuvisce",C:["n","dem"],en:"Lithuanian"},
+{T:"r",L:"liga",C:["n","spo"],d:"un organiza de ecipos cual jua contra lunlotra en un torneo de sporte",en:"league (for sport championship)"},
 {T:"r",L:"ligamento",C:["n","anat"],d:"un banda corta de texeda dur, flexable e fibrosa cual junta du osos o cartilajes; un plia membranin cual suporta o manteni la loca de un organo",en:"ligament, sinew"},
 {T:"r",L:"ligase",C:["n","bio","cim"],d:"un enzima cual lia du moleculas con lias covalente",en:"ligase"},
 {T:"r",L:"lignito",C:["n","cim"],d:"un carbon brun e mol, formida de torba natural compresada",en:"lignite, brown coal"},
