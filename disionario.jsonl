@@ -8326,6 +8326,7 @@
 {"T":"r","L":"diosido","C":["n","cim"],"d":"un osido conteninte du atomes de osijen","en":"dioxide","fr":"dioxyde","he":"דו-תחמוצת"}
 {"L":"diosido de carbono","C":["n"],"en":"carbon dioxide","fr":"dioxyde de carbone","he":"פחמן דו-חמצני"}
 {"L":"diosido de silico","C":["n"],"en":"silicon dioxide, silica","fr":"dioxyde de silicium","he":"סיליקה, צורן דו-חמצני"}
+{"T":"r","L":"diosijen","C":["n","cim"],"d":"un molecula comun en aira, composada de du atomes de osijen","en":"dioxygen"}
 {"T":"r","L":"diosina","C":["n","cim"],"d":"un composada nosiva cual es un suproduida de alga prosedes de fabrica","en":"dioxin (substance)","fr":"dioxine","he":"דיאוקסין"}
 {"T":"r","L":"diplo-","C":["pf","tecn"],"d":"duple","en":"diplo- (double)","fr":"diplo- (double)","he":"(קידומת טכנית) כפול"}
 {"T":"r","L":"diploide","C":["a","bio"],"d":"(un selula o nucleo) conteninte du grupos completa de cromosomas, un de cada jenitor; (un organisme) composada de selulas diploide","en":"diploid","fr":"diploïde","he":"(ביולוגיה) דיפלואידי, דו-סדרתי"}
@@ -9636,45 +9637,45 @@
 {"L":"ensofla","C":["n"],"en":"sniff, snort, insufflation","fr":"reniflement, insufflation, inspiration, aspiration","he":"רחרוח, הסנפה"}
 {"L":"ensoflable","C":["a"],"en":"sniffable","fr":"renifflable, inspirable, insufflable, aspirable","he":"שניתן להסנפה"}
 {"L":"ensoflable","C":["n"],"en":"snuff","fr":"tabac à priser","he":"טבק הרחה"}
-{"T":"r","L":"enspira","C":["vt","bio"],"d":"fa ce (aira, gas o fuma) entra a se par respira","en":"inhale, breathe in, toke","fr":"inspirer, inhaler"}
-{"L":"enspira","C":["n"],"en":"inhalation, inspiration, inspir"}
-{"L":"enspira subita","C":["v"],"en":"gasp","fr":"brusque inspiration"}
-{"L":"enspira subita","C":["n"],"en":"gasp","fr":"inspirer brusquement, reprendre son souffle"}
-{"L":"enspirable","C":["a"],"en":"inhalable","fr":"inhalable, inspirable"}
-{"L":"enspirador","C":["n"],"en":"inhaler","fr":"inhalateur"}
-{"L":"enspireta","C":["vt"],"en":"gasp","fr":"halèter"}
-{"L":"enspireta","C":["n"],"en":"gasp","fr":"halètement"}
-{"T":"r","L":"entablamento","C":["n","arci"],"d":"un lintel continuante en un construida de stilo antica roman o elinica, suportada par colonas o un mur","i":"#","en":"entablature","fr":"entablement"}
-{"T":"r","L":"-ente","C":["sf","a"],"d":"ajuntada a un verbo per formi la partisipio ativa","n":"Esta varia de `-nte` es usada sola con la verbo `es`.","u":"esente","en":"-ing","fr":"-ant"}
-{"L":"-ente","C":["sf","n"],"en":"-ing","fr":"-ant"}
-{"T":"r","L":"entera","C":["vt","uma"],"d":"pone o asconde (un cosa) su la tera; pone (un corpo mor) en la tera, un tomba o la mar, tipal con rituos funeral","en":"bury, inter","fr":"enterrer, inhumer"}
-{"L":"entera","C":["n"],"en":"burial","fr":"enterrement, inhumation"}
-{"L":"desentera","C":["vt"],"en":"unearth, disinter, exhume, dig up","fr":"déterrer, exhumer"}
-{"L":"desentera","C":["n"],"en":"unearthing, exhumation","fr":"exhumation, déterrement"}
-{"L":"entereria","C":["n"],"en":"landfill (site)","fr":"décharge (site)"}
-{"L":"enteror","C":["n"],"en":"gravedigger","fr":"fossoyeur"}
-{"T":"r","L":"enterite","C":["n","med"],"d":"un inflama de la intestin, tipal en la intestin magra, comun causante diarea","en":"enteritis","fr":"entérite"}
-{"T":"r","L":"entomolojia","C":["n","bio"],"d":"la ramo de zolojia cual studia insetos","en":"entomology","fr":"entomologie"}
-{"L":"entomolojiste","C":["n"],"en":"entomologist","fr":"entomologiste"}
-{"T":"r","L":"entoprocto","C":["n"],"d":"un membro de un filo de animales acual, formida como copas con troncetas longa","i":"#","t":"Entoprocta","en":"entoproct (organism)","fr":"entoprocte (organisme)"}
-{"T":"r","L":"entra","C":["vnt"],"d":"veni o vade a en (un loca); presenta sua identia per comensa usa un program o loca de rede","u":"entra a un sala; entra a un loca de rede","da":"gå ind","de":"hereinkommen","en":"enter, go in, come in; log in (software)","es":"entrar, penetrar, ingresar","fr":"entrer, pénétrer, s'introduire; s'identifier, se loguer (informatique)"}
-{"L":"entra","C":["vt"],"d":"fa o permete ce (un person o cosa) entra a un local; fa ce (datos) entra a un aparato","en":"admit, cause to enter, allow entry (to place); enter, input (data)","fr":"faire entrer, introduire, admettre; entrer (une donnée)"}
-{"L":"entra","C":["n"],"i":"#","en":"admission (to place), admittance; entrance, entry, entryway, ingress, check-in, threshold, concourse","fr":"admission; entrée, introduction; seuil, hall"}
-{"L":"entra par forsa","C":["v"],"en":"break in","fr":"forcer l'entrée, pénétrer de force"}
-{"L":"entrada","C":["n"],"en":"entry (in list)","fr":"entrée (d'une liste)"}
-{"L":"reentra","C":["vnt"],"en":"re-enter, go back in","fr":"rentrer, se réintroduire"}
-{"L":"reentra","C":["vt"],"en":"readmit","fr":"réadmettre"}
-{"L":"reentra","C":["n"],"en":"re-entry; readmittance","fr":"réadmission"}
-{"L":"suentrada","C":["n"],"en":"subentry (in list)","fr":"sous-entrée (d'une liste)"}
-{"T":"r","L":"entre","C":["prep"],"d":"a, en o tra la spasio o tempo cual separa (du o plu ojetos, areas o avenis)","g":"preposadas#entre","u":"viaja entre Paris e Madrid; comunica entre comunias; tu es entre amis; entre la geras mundal","da":"mellem, imellem, blandt","de":"zwischen","en":"between, among, amongst, amid, amidst, betwixt, twixt; within (a group)","eo":"inter","es":"entre, en medio de","fr":"entre, parmi, au milieu de"}
-{"T":"s","d":"(un cuantia) divideda par (un otra)","u":"100 entre 4 es 25","en":"divided by, per, out of","fr":"divisé en, divisé par"}
-{"L":"entre-","C":["pf","tecn"],"d":"entre","en":"inter- (between)","fr":"inter-, entre-"}
-{"L":"entre cual","C":["esp"],"en":"between which, within which (relative)","fr":"entre lesquels, à l'intérieur duquel"}
-{"L":"entre la du","C":["av"],"en":"between the two, in between","fr":"entre les deux"}
-{"L":"a entre","C":["av"],"en":"in between","fr":"au milieu de, entre"}
-{"T":"r","L":"entregama","C":["n","anat"],"d":"la parte de la corpo umana entre la gamas do los junta se a la tronco; la parte corespondente de un veste","en":"crotch, crutch","fr":"entrejambe"}
-{"T":"r","L":"entreseno","C":["n","anat"],"d":"la area entre la senos de un fem","i":"escota","en":"cleavage","fr":"décolleté"}
-{"T":"r","L":"entretempo","C":["av"],"d":"en la periodo interveninte; en la mesma periodo (como un otra aveni ja descriveda)","en":"meanwhile, meantime, in the meantime, in the interim","fr":"entre-temps, pendant ce temps"}
+{"T":"r","L":"enspira","C":["vt","bio"],"d":"fa ce (aira, gas o fuma) entra a se par respira","en":"inhale, breathe in, toke","fr":"inspirer, inhaler","he":"לשאוף (אוויר)"}
+{"L":"enspira","C":["n"],"en":"inhalation, inspiration, inspir","he":"שאיפה, אינהלציה"}
+{"L":"enspira subita","C":["v"],"en":"gasp","fr":"brusque inspiration","he":"להתנשם, להתנשף"}
+{"L":"enspira subita","C":["n"],"en":"gasp","fr":"inspirer brusquement, reprendre son souffle","he":"התנשמות, התנשפות"}
+{"L":"enspirable","C":["a"],"en":"inhalable","fr":"inhalable, inspirable","he":"שניתן לשאיפה"}
+{"L":"enspirador","C":["n"],"en":"inhaler","fr":"inhalateur","he":"משאף"}
+{"L":"enspireta","C":["vt"],"en":"gasp","fr":"halèter","he":"לשאוף קלות"}
+{"L":"enspireta","C":["n"],"en":"gasp","fr":"halètement","he":"שאיפה קלה, שכטה"}
+{"T":"r","L":"entablamento","C":["n","arci"],"d":"un lintel continuante en un construida de stilo antica roman o elinica, suportada par colonas o un mur","i":"#","en":"entablature","fr":"entablement","he":"אנטבלטורה"}
+{"T":"r","L":"-ente","C":["sf","a"],"d":"ajuntada a un verbo per formi la partisipio ativa","n":"Esta varia de `-nte` es usada sola con la verbo `es`.","u":"esente","en":"-ing","fr":"-ant","he":"(סיומת) צורת בינוני"}
+{"L":"-ente","C":["sf","n"],"en":"-ing","fr":"-ant","he":"(סיומת) צורת בינוני"}
+{"T":"r","L":"entera","C":["vt","uma"],"d":"pone o asconde (un cosa) su la tera; pone (un corpo mor) en la tera, un tomba o la mar, tipal con rituos funeral","en":"bury, inter","fr":"enterrer, inhumer","he":"לקבור, לטמון"}
+{"L":"entera","C":["n"],"en":"burial","fr":"enterrement, inhumation","he":"קבורה, טמינה"}
+{"L":"desentera","C":["vt"],"en":"unearth, disinter, exhume, dig up","fr":"déterrer, exhumer","he":"להוציא, לחשוף (מהאדמה, מהקבר)"}
+{"L":"desentera","C":["n"],"en":"unearthing, exhumation","fr":"exhumation, déterrement","he":"הוצאה, חשיפה (מהאדמה, מהקבר)"}
+{"L":"entereria","C":["n"],"en":"landfill (site)","fr":"décharge (site)","he":"מטמנה"}
+{"L":"enteror","C":["n"],"en":"gravedigger","fr":"fossoyeur","he":"קברן"}
+{"T":"r","L":"enterite","C":["n","med"],"d":"un inflama de la intestin, tipal en la intestin magra, comun causante diarea","en":"enteritis","fr":"entérite","he":"דלקת מעיים"}
+{"T":"r","L":"entomolojia","C":["n","bio"],"d":"la ramo de zolojia cual studia insetos","en":"entomology","fr":"entomologie","he":"אנטומולוגיה"}
+{"L":"entomolojiste","C":["n"],"en":"entomologist","fr":"entomologiste","he":"אנטומולוג"}
+{"T":"r","L":"entoprocto","C":["n"],"d":"un membro de un filo de animales acual, formida como copas con troncetas longa","i":"#","t":"Entoprocta","en":"entoproct (organism)","fr":"entoprocte (organisme)","he":"אנטרופרוקטה (בעל-חיים)"}
+{"T":"r","L":"entra","C":["vnt"],"d":"veni o vade a en (un loca); presenta sua identia per comensa usa un program o loca de rede","u":"entra a un sala; entra a un loca de rede","da":"gå ind","de":"hereinkommen","en":"enter, go in, come in; log in (software)","es":"entrar, penetrar, ingresar","fr":"entrer, pénétrer, s'introduire; s'identifier, se loguer (informatique)","he":"להיכנס"}
+{"L":"entra","C":["vt"],"d":"fa o permete ce (un person o cosa) entra a un local; fa ce (datos) entra a un aparato","en":"admit, cause to enter, allow entry (to place); enter, input (data)","fr":"faire entrer, introduire, admettre; entrer (une donnée)","he":"להכניס; לקבל (למקום או מוסד)"}
+{"L":"entra","C":["n"],"i":"#","en":"admission (to place), admittance; entrance, entry, entryway, ingress, check-in, threshold, concourse","fr":"admission; entrée, introduction; seuil, hall","he":"כניסה; הכנסה; קבלה (למקום)"}
+{"L":"entra par forsa","C":["v"],"en":"break in","fr":"forcer l'entrée, pénétrer de force","he":"לפרוץ (פנימה)"}
+{"L":"entrada","C":["n"],"en":"entry (in list)","fr":"entrée (d'une liste)","he":"ערך (מילוני), רישום, רשומה, עיול"}
+{"L":"reentra","C":["vnt"],"en":"re-enter, go back in","fr":"rentrer, se réintroduire","he":"להיכנס שוב"}
+{"L":"reentra","C":["vt"],"en":"readmit","fr":"réadmettre","he":"להכניס שוב, לקבל שוב (למקום)"}
+{"L":"reentra","C":["n"],"en":"re-entry; readmittance","fr":"réadmission","he":"כניסה מחדש; הכנסה מחדש, קבלה מחדש (למקום)"}
+{"L":"suentrada","C":["n"],"en":"subentry (in list)","fr":"sous-entrée (d'une liste)","he":"ערך משני"}
+{"T":"r","L":"entre","C":["prep"],"d":"a, en o tra la spasio o tempo cual separa (du o plu ojetos, areas o avenis)","g":"preposadas#entre","u":"viaja entre Paris e Madrid; comunica entre comunias; tu es entre amis; entre la geras mundal","da":"mellem, imellem, blandt","de":"zwischen","en":"between, among, amongst, amid, amidst, betwixt, twixt; within (a group)","eo":"inter","es":"entre, en medio de","fr":"entre, parmi, au milieu de","he":"בין; בקרב, בינות"}
+{"T":"s","d":"(un cuantia) divideda par (un otra)","u":"100 entre 4 es 25","en":"divided by, per, out of","fr":"divisé en, divisé par","he":"מחולק ב"}
+{"L":"entre-","C":["pf","tecn"],"d":"entre","en":"inter- (between)","fr":"inter-, entre-","he":"(קידומת טכנית) בין"}
+{"L":"entre cual","C":["esp"],"en":"between which, within which (relative)","fr":"entre lesquels, à l'intérieur duquel","he":"שביניהם, שבקרבם"}
+{"L":"entre la du","C":["av"],"en":"between the two, in between","fr":"entre les deux","he":"בין השניים, בין השתיים"}
+{"L":"a entre","C":["av"],"en":"in between","fr":"au milieu de, entre","he":"בין לבין"}
+{"T":"r","L":"entregama","C":["n","anat"],"d":"la parte de la corpo umana entre la gamas do los junta se a la tronco; la parte corespondente de un veste","en":"crotch, crutch","fr":"entrejambe","he":"מפשעה"}
+{"T":"r","L":"entreseno","C":["n","anat"],"d":"la area entre la senos de un fem","i":"escota","en":"cleavage","fr":"décolleté","he":"(אזור ה) מחשוף"}
+{"T":"r","L":"entretempo","C":["av"],"d":"en la periodo interveninte; en la mesma periodo (como un otra aveni ja descriveda)","en":"meanwhile, meantime, in the meantime, in the interim","fr":"entre-temps, pendant ce temps","he":"בינתיים"}
 {"T":"r","L":"entretexe","C":["vt","arte"],"d":"lia (cosas longa e magra, como filos, capeles, bandas o ditos) par texe los con lunlotra","i":"#","en":"interweave, interlace, interleave, interlock, intertwine, entwine, dovetail","fr":"entrelacer, tisser, tresser"}
 {"L":"entretexable","C":["a"],"en":"interlacing, interlocking","fr":"entrelaçable, tissable, tressable"}
 {"L":"entretexeda","C":["a"],"en":"interwoven, interlaced","fr":"entrelacé, tissé, tressé"}
@@ -11254,6 +11255,7 @@
 {"L":"floco de mais","C":["n"],"en":"cornflake","fr":"flocon de maïs, pétale de maïs, cornflake"}
 {"L":"floco de neva","C":["n"],"i":"#","en":"snowflake","fr":"flocon de neige"}
 {"L":"flocosa","C":["a"],"en":"flaky","fr":"floconneux"}
+{"T":"r","L":"flojisto","C":["n","cim"],"d":"un materia sur cual cimicistes de la sentenio 18 ia suposa ce lo esiste en tota cosas combustable, e cual es relasada cuando la cosa arde","en":"phlogiston"}
 {"T":"r","L":"floema","C":["n","bio"],"d":"la texeda vascular en plantas cual transporta zucar e otra produidas a su de la folias","en":"phloem (botany)","fr":"phloème (botanique)"}
 {"T":"r","L":"flor","C":["n","bio"],"d":"la parte de un planta cual conteni la semes, tipal ensircada par petales e sepales colorosa","da":"blomst","de":"Blume","en":"flower, bloom, blossom","es":"flor","fr":"fleur"}
 {"L":"flor de boton","C":["n"],"en":"boutonnière, buttonhole","fr":"boutonnière"}
@@ -11807,6 +11809,7 @@
 {"T":"r","L":"fula","C":["a","dem"],"d":"de o pertinente a un de la etnicos la plu grande en la Sahel e Africa ueste, o a sua lingua","en":"Fula, Fulani (person, language)","fr":"peul"}
 {"L":"fula","C":["n"],"en":"Fula, Fulani (person, language)","fr":"Peul (personne); peul (langue)"}
 {"T":"r","L":"fulcro","C":["n","fis"],"d":"la punto sur cual un lever resta o pivote","en":"fulcrum, pivot","fr":"point d'appui, pivot, axe"}
+{"T":"r","L":"fulereno","C":["n","cim"],"d":"un molecula composada de multe atomes de carbono en forma de sfero vacua","en":"fullerene"}
 {"T":"r","L":"fulgoro","C":["n","artr"],"d":"un inseto peti e comun cual suca plantas e salta cuando disturbada","i":"#","t":"Fulgoromorpha","en":"planthopper (insect)","fr":"cicadelle (insecte)"}
 {"T":"r","L":"fuma","C":["n","cim"],"d":"un suspende vidable de carbono o otra particulas en la aira, tipal emeteda de un cosa ardente; un cuantia de gas cual odori forte o es perilosa si enspirada","i":"#","da":"røg","de":"Rauch","en":"smoke, fume","es":"humo","fr":"fumée"}
 {"L":"fumeria","C":["n"],"en":"smokehouse|smokery","fr":"fumerie"}
@@ -13420,8 +13423,8 @@
 {"T":"r","L":"integra","C":["vnt","mat"],"d":"(un cosa) combina con un otra afin los deveni un unia intera","en":"integrate","fr":"s'intégrer"}
 {"L":"integra","C":["vt"],"d":"combina; (en matematica) trova la integral de","en":"integrate","fr":"intégrer"}
 {"L":"integra","C":["n"],"en":"integration","fr":"intégration"}
-{"L":"desintegra","C":["vnt"],"en":"disintegrate, crumble, unravel","fr":"se désintégrer, s'effriter, s'effilocher"}
-{"L":"desintegra","C":["n"],"en":"disintegration","fr":"désintégration"}
+{"L":"desintegra","C":["vnt"],"en":"disintegrate, crumble, unravel; decay (radioactively)","fr":"se désintégrer, s'effriter, s'effilocher"}
+{"L":"desintegra","C":["n"],"en":"disintegration; decay (radioactive)","fr":"désintégration"}
 {"L":"desintegrable","C":["a"],"en":"disintegratable, crumbly, friable","fr":"désintégrable, effritable, friable"}
 {"L":"integrada","C":["a"],"en":"integrated, inbuilt, built-in","fr":"intégré"}
 {"L":"integral","C":["a"],"en":"integral","fr":"intégral"}
@@ -14000,61 +14003,61 @@
 {"T":"r","L":"jenera","C":["vt","fis","bio"],"d":"fa ce (un emosia o situa) aveni o developa; produi (enerjia, tipal eletrical); produi (un grupo o segue de cosas) par fa operas matematical o lojical a un grupo prima","en":"generate","fr":"générer"}
 {"L":"jenera","C":["n"],"en":"generation","fr":"génération"}
 {"L":"jenerador","C":["n"],"en":"generator","fr":"générateur"}
-{"L":"jenerante","C":["a"],"en":"generating, generative"}
+{"L":"jenerante","C":["a"],"en":"generating, generative","fr":"générateur"}
 {"L":"rejenera","C":["vt"],"en":"regenerate","fr":"régénérer"}
 {"L":"rejenera","C":["n"],"en":"regeneration","fr":"régénération"}
 {"T":"r","L":"jeneral","C":["a","fil"],"d":"afetante o consernante tota o la plu de persones, locas o cosas; no spesialida o limitada en sua estende de tema, aplica, ativia, etc; vera per tota o la plu de casos; pertinente a un clase o grupo de cosas","en":"general, generic","fr":"général"}
 {"L":"jeneral","C":["av"],"en":"generally, in general, as a rule, on the whole, largely, widely, overall, mostly, for the most part","fr":"généralement, en général"}
 {"L":"jeneral","C":["n","gov"],"d":"un comandor de un armada, o un ofisior de alta grado","i":"#","en":"general (officer)","fr":"général (grade)"}
 {"L":"jenerali","C":["vnt"],"en":"generalize|is","fr":"se généraliser"}
-{"L":"jenerali","C":["vt"],"en":"generalize|is"}
+{"L":"jenerali","C":["vt"],"en":"generalize|is","fr":"généraliser"}
 {"L":"jenerali","C":["n"],"en":"generalization|is","fr":"généralisation"}
-{"L":"jeneraliste","C":["n"],"en":"generalist"}
+{"L":"jeneraliste","C":["n"],"en":"generalist","fr":"généraliste"}
 {"T":"r","L":"jenero","C":["n","bio","arte","ling"],"d":"un clase de cosas con cualias compartida, dividable en clases suordinada; (en biolojia) un categoria tasonomial supra un spesie e su un familia; un forma de arte, musica o leteratur con cualias compartida en stilo o tema; pertinente a la identia como mas o fema; (en gramatica) un clase de nomes cual inclui mas, fema, neutra comun, etc","en":"genus, kind, type, genre; gender (male or female, grammatical)","fr":"genre"}
 {"L":"de jenero fluente","C":["a"],"d":"(un person) de ci sua jenero varia con la pasa de tempo","en":"gender-fluid"}
-{"L":"jeneral","C":["a"],"d":"pertinente a un jenero","en":"generic (of a genus)"}
+{"L":"jeneral","C":["a"],"d":"pertinente a un jenero","en":"generic (of a genus)","fr":"général, de genre, générique"}
 {"L":"sujenero","C":["n"],"en":"subgenus","fr":"sous-genre"}
 {"T":"r","L":"jenerosa","C":["a","uma"],"d":"(un person) volente donante plu de alga cosa como mone o tempo ca on espeta o nesesa","da":"gavmild, generøs","de":"freigebig","en":"generous, charitable, magnanimous, big-hearted, bountiful, munificent, liberal","es":"generoso, caritativo","fr":"généreux, charitable, magnanime"}
 {"L":"jenerosia","C":["n"],"en":"generosity, largess|largesse, magnanimity, munificence","fr":"générosité, largesse, magnanimité"}
-{"T":"r","L":"jenese","C":["n"],"d":"la orijina de alga cosa o sua modo de formi","en":"genesis"}
+{"T":"r","L":"jenese","C":["n"],"d":"la orijina de alga cosa o sua modo de formi","en":"genesis","fr":"genèse, génèse, origine"}
 {"L":"-jenese","C":["sf","n","med","bio","uma"],"d":"causa o orijina","en":"-genesis (origin)","fr":"-génèse"}
 {"T":"r","L":"jenetica","C":["n","bio"],"d":"la studia de erita e la varia de cualias eritada","en":"genetics","fr":"(la) génétique"}
 {"L":"jenetical","C":["a"],"en":"genetic, inborn","fr":"génétique"}
 {"L":"jenetical alterada","C":["a"],"en":"genetically modified, GM","fr":"génétiquement modifié"}
 {"L":"jeneticiste","C":["n"],"en":"geneticist","fr":"généticien"}
 {"T":"r","L":"jenio","C":["n","arte"],"d":"algun ci ave capasias multe spesial de inteleto o crea","en":"genius (person), mastermind","fr":"génie"}
-{"L":"jenia","C":["n"],"en":"genius (quality), flair, exceptional talent"}
+{"L":"jenia","C":["n"],"en":"genius (quality), flair, exceptional talent","fr":"génie"}
 {"T":"r","L":"jeniseri","C":["n","gov","ist"],"d":"un soldato turces de la gardores de la sultan entre la sentenios 14 e 19, orijinal elejeda de sclavos joven prendeda de familias cristian","i":"#","en":"janissary (soldier)","fr":"janissaire"}
-{"T":"r","L":"jenita","C":["vt","bio"],"d":"fa ce un enfante es consepida e naseda, par reprodui","en":"beget, father","es":"papá, mamá, padre, madre, progenitor, progenitora","fr":"engendrer"}
+{"T":"r","L":"jenita","C":["vt","bio"],"d":"fa ce un enfante es consepida e naseda, par reprodui","en":"beget, father","es":"papá, mamá, padre, madre, progenitor, progenitora","fr":"engendrer, enfanter"}
 {"L":"jenital","C":["a"],"en":"genital","fr":"génital"}
 {"L":"jenitales","C":["n","pl"],"en":"genitals, genitalia, pudenda","fr":"parties génitales"}
 {"L":"jenitor","C":["n"],"da":"forældre","de":"Elternteil","en":"parent","fr":"parent (père ou mère)"}
-{"L":"jenitor de batiza","C":["n"],"en":"godparent"}
+{"L":"jenitor de batiza","C":["n"],"en":"godparent","fr":"parrain, marraine"}
 {"L":"jenitor futur","C":["n"],"en":"parent-to-be","fr":"futur parent"}
-{"L":"con un jenitor","C":["a"],"en":"one-parent, single-parent (child, family)"}
-{"L":"estrajenitor","C":["n"],"en":"stepparent"}
-{"L":"jenitoria","C":["n"],"en":"parenthood"}
+{"L":"con un jenitor","C":["a"],"en":"one-parent, single-parent (child, family)","fr":"uniparental"}
+{"L":"estrajenitor","C":["n"],"en":"stepparent","fr":"beau-parent, beau-père, belle-mère"}
+{"L":"jenitoria","C":["n"],"en":"parenthood","fr":"parentalité"}
 {"T":"r","L":"jenitiva","C":["a","ling"],"en":"genitive (grammar)","fr":"génitif"}
 {"L":"jenitiva","C":["n"],"d":"un caso gramatical cual indica posese o asosia prosima","en":"genitive (grammar)","fr":"génitif"}
-{"T":"r","L":"jenitoriside","C":["vt","gov"],"d":"mata (sua propre jenitor)","en":"commit parenticide, commit parricide"}
-{"L":"jenitoriside","C":["n"],"en":"parenticide, parricide (action)"}
-{"L":"jenitorisidor","C":["n"],"en":"parenticide, parricide (person)"}
+{"T":"r","L":"jenitoriside","C":["vt","gov"],"d":"mata (sua propre jenitor)","en":"commit parenticide, commit parricide","fr":"commettre un parricide"}
+{"L":"jenitoriside","C":["n"],"en":"parenticide, parricide (action)","fr":"parricide"}
+{"L":"jenitorisidor","C":["n"],"en":"parenticide, parricide (person)","fr":"parricide"}
 {"T":"r","L":"jenjiva","C":["n","anat"],"d":"la area de carne firma sirca la radises de la dentes","en":"gum, gums (anatomy)","fr":"gencive"}
 {"L":"jenjival","C":["a"],"en":"gingival","fr":"gingival"}
-{"L":"jenjivite","C":["n"],"en":"gingivitis"}
+{"L":"jenjivite","C":["n"],"en":"gingivitis","fr":"gengivite"}
 {"T":"r","L":"jeno","C":["n","anat"],"d":"la junta entre la coxa e la gama basa en umanas, o la junta analoja en otra animales","i":"#","da":"knæ","de":"Knie","en":"knee","es":"rodilla","fr":"genou"}
 {"L":"con jenos valga","C":["a"],"en":"knock-kneed","fr":"qui a les genoux cagneux"}
 {"L":"con jenos vara","C":["a"],"en":"bowlegged","fr":"qui a les jambes arquées"}
 {"L":"jenos","C":["n","pl"],"en":"knees, lap","fr":"genoux"}
-{"T":"r","L":"jenom","C":["n","bio"],"d":"la colie completa de jenes o materia jenetical en un selula o organisme","en":"genome"}
-{"T":"r","L":"jenomica","C":["n","bio"],"d":"la studia siensal de la strutur, funsiona, evolui, mapa e edita de jenomes","en":"genomics"}
+{"T":"r","L":"jenom","C":["n","bio"],"d":"la colie completa de jenes o materia jenetical en un selula o organisme","en":"genome","fr":"génome"}
+{"T":"r","L":"jenomica","C":["n","bio"],"d":"la studia siensal de la strutur, funsiona, evolui, mapa e edita de jenomes","en":"genomics","fr":"génomique"}
 {"T":"r","L":"jenoside","C":["n","gov"],"d":"la mata intendente de un grupo grande de persones de un etnico o nasion spesifada","i":"#","en":"genocide","fr":"génocide"}
-{"T":"r","L":"jenotipo","C":["n","bio"],"d":"la composa jenetical de un organisme individua","en":"genotype"}
+{"T":"r","L":"jenotipo","C":["n","bio"],"d":"la composa jenetical de un organisme individua","en":"genotype","fr":"génotype"}
 {"T":"r","L":"jentil","C":["a","uma"],"d":"(un person) con cualias umil, amable e compatiosa","da":"mild, blid","de":"sanft, mild","en":"gentle, kind, genteel, graceful (socially)","es":"suave, gentil, manso, apacible, afable, dulce","fr":"gentil, affable, social"}
 {"L":"jentilia","C":["n"],"en":"gentleness, kindness, grace (social)","fr":"gentillesse"}
 {"T":"r","L":"jeo-","C":["pf","tecn"],"d":"tera","en":"geo- (Earth)","fr":"géo-"}
 {"T":"r","L":"jeocimica","C":["n","cim","tera"],"d":"la studia de la composa cimical de la Tera e sua rocas e minerales","en":"geochemistry","fr":"géochimie"}
-{"T":"r","L":"jeocucu","C":["n","avia"],"d":"un avia de la deserto de Mexico e la SUA sude-ueste, notada per core multe rapida","i":"#","t":"Geococcyx","en":"roadrunner (bird)"}
+{"T":"r","L":"jeocucu","C":["n","avia"],"d":"un avia de la deserto de Mexico e la SUA sude-ueste, notada per core multe rapida","i":"#","t":"Geococcyx","en":"roadrunner (bird)","fr":"géocoucou (oiseau)"}
 {"T":"r","L":"jeodesia","C":["n","mat"],"d":"la ramo de matematica cual studia la forma e area de la Tera o partes grande de lo","en":"geodesy","fr":"géodésie"}
 {"L":"jeodesial","C":["a"],"en":"geodesic, geodetic","fr":"géodésique"}
 {"T":"r","L":"jeodo","C":["n","tera"],"d":"un roca con un caveta peti, interna stratida con cristales o otra materia mineral","i":"#","en":"geode (geology)","fr":"géode"}
@@ -14063,59 +14066,59 @@
 {"T":"r","L":"jeografia","C":["n","tera"],"d":"la studia de la cualias de la Tera e sua atmosfera, e de la ativia umana como lo afeta e es afetada par estas, incluinte la distribui de poplas e recursos, usa de tera, e industrias","en":"geography","fr":"géographie"}
 {"L":"jeografial","C":["a"],"en":"geographical","fr":"géographique"}
 {"L":"jeografiste","C":["n"],"en":"geographer","fr":"géographe"}
-{"T":"r","L":"jeolocali","C":["vt","info"],"d":"identifia la loca jeografial de (un person o aparato) par infotecnolojia","en":"geolocate","fr":"géolocalizer"}
+{"T":"r","L":"jeolocali","C":["vt","info"],"d":"identifia la loca jeografial de (un person o aparato) par infotecnolojia","en":"geolocate","fr":"géolocaliser"}
 {"L":"jeolocali","C":["n"],"en":"geolocation","fr":"géolocalisation"}
 {"T":"r","L":"jeolojia","C":["n","tera"],"d":"la siensa de la strutur e materia de la Tera o otra planetas, sua istoria, e la prosedes cual afeta lo","en":"geology","fr":"géologie"}
 {"L":"jeolojial","C":["a"],"en":"geological","fr":"géologique"}
 {"L":"jeolojiste","C":["n"],"en":"geologist","fr":"géologue"}
-{"T":"r","L":"jeomansia","C":["n","rel"],"d":"predise par esamina la forma de un plenimano de tera, o la organiza de puntos acaso","en":"geomancy (divination)"}
+{"T":"r","L":"jeomansia","C":["n","rel"],"d":"predise par esamina la forma de un plenimano de tera, o la organiza de puntos acaso","en":"geomancy (divination)","fr":"géomancie"}
 {"T":"r","L":"jeometre","C":["vt","tera"],"d":"esamina e arcivi la area e cualis de (un parte de tera) per construi un mapa, desinia o descrive","en":"survey (land)","fr":"faire un relevé topographique"}
 {"L":"jeometror","C":["n"],"en":"surveyor (land)","fr":"géomètre, topographe"}
 {"T":"r","L":"jeometria","C":["n","mat"],"d":"la ramo de matematica cual studia la cualias e relatas de puntos, linias, surfases, solidas e analojas en dimensiones plu alta","en":"geometry","fr":"géométrie"}
-{"L":"jeometria euclidal","C":["n"],"en":"Euclidean geometry"}
-{"L":"jeometria noneuclidal","C":["n"],"en":"non-Euclidean geometry"}
+{"L":"jeometria euclidal","C":["n"],"en":"Euclidean geometry","fr":"géométrie euclidienne"}
+{"L":"jeometria noneuclidal","C":["n"],"en":"non-Euclidean geometry","fr":"géométrie non-euclidienne"}
 {"L":"jeometrial","C":["a"],"en":"geometrical","fr":"géométrique"}
 {"L":"jeometriste","C":["n"],"en":"geometrician","fr":"géomètre"}
-{"T":"r","L":"jeometrido","C":["n","artr"],"d":"cualce de un familia grande de papilios de cual sua erugas peti move sur du duples de pedes, como si los mesura pasiente la tera","i":"#","en":"geometrid moth"}
-{"T":"r","L":"jeomorfolojia","C":["n","tera"],"d":"la studia de la cualias fisical de la surfas de la Tera e la relatas de estas con sua strutures jeolojial","en":"geomorphology"}
-{"T":"r","L":"jeopolitica","C":["n","gov"],"d":"politica, spesial relatas internasional, como afetada par jeografia","en":"geopolitics"}
-{"L":"jeopolitical","C":["a"],"en":"geopolitic, geopolitical"}
-{"T":"r","L":"jeosentral","C":["a","ast"],"d":"con la Tera como sua sentro, como en astronomia antica; (en astronomia) mesurada en relata a la sentro de la Sol","en":"geocentric"}
-{"T":"r","L":"jeosincrona","C":["a","ast"],"d":"(la orbita de un satelite) con un periodo de jira sincrona con la jira de la Tera","en":"geosynchronous"}
-{"T":"r","L":"jeostable","C":["a","ast"],"d":"(un satelite artifis) movente en orbita jeosincrona en la plana de la ecuator, e tal no movente en relata a un punto fisada sur la surfas","en":"geostationary"}
-{"T":"r","L":"jeotermal","C":["a","tera"],"d":"pertinente a o produida par la caldia interna de la Tera","en":"geothermal"}
+{"T":"r","L":"jeometrido","C":["n","artr"],"d":"cualce de un familia grande de papilios de cual sua erugas peti move sur du duples de pedes, como si los mesura pasiente la tera","i":"#","en":"geometrid moth","fr":"phalène, géomètre, géométridé (papillon)"}
+{"T":"r","L":"jeomorfolojia","C":["n","tera"],"d":"la studia de la cualias fisical de la surfas de la Tera e la relatas de estas con sua strutures jeolojial","en":"geomorphology","fr":"géomorphologie"}
+{"T":"r","L":"jeopolitica","C":["n","gov"],"d":"politica, spesial relatas internasional, como afetada par jeografia","en":"geopolitics","fr":"géopolitique"}
+{"L":"jeopolitical","C":["a"],"en":"geopolitic, geopolitical","fr":"géopolitique"}
+{"T":"r","L":"jeosentral","C":["a","ast"],"d":"con la Tera como sua sentro, como en astronomia antica; (en astronomia) mesurada en relata a la sentro de la Sol","en":"geocentric","fr":"géocentrique"}
+{"T":"r","L":"jeosincrona","C":["a","ast"],"d":"(la orbita de un satelite) con un periodo de jira sincrona con la jira de la Tera","en":"geosynchronous","fr":"géosynchrone"}
+{"T":"r","L":"jeostable","C":["a","ast"],"d":"(un satelite artifis) movente en orbita jeosincrona en la plana de la ecuator, e tal no movente en relata a un punto fisada sur la surfas","en":"geostationary","fr":"géostationnaire"}
+{"T":"r","L":"jeotermal","C":["a","tera"],"d":"pertinente a o produida par la caldia interna de la Tera","en":"geothermal","fr":"géothermique"}
 {"T":"r","L":"jeranio","C":["n","pla"],"d":"un planta o arboreta con fruta longa e streta como la beco de un gru","i":"#","t":"Geranium","en":"geranium","fr":"géranium"}
-{"T":"r","L":"jerbil","C":["n","mam"],"d":"un rodente musin e tunelinte, ajustada a vive en locas seca","i":"#","en":"gerbil"}
+{"T":"r","L":"jerbil","C":["n","mam"],"d":"un rodente musin e tunelinte, ajustada a vive en locas seca","i":"#","en":"gerbil","fr":"gerbille"}
 {"T":"r","L":"jerboa","C":["n","mam"],"d":"un rodente de la deserto, con gamas anterior multe longa cual permete ce lo pasea vertical e salta longa, trovada de Africa norde a Asia sentral","i":"#","t":"Dipodidae","en":"jerboa (rodent)","fr":"gerboise"}
 {"T":"r","L":"jergo","C":["n","ling"],"d":"un tipo de parla o scrive cual conteni parolas e espresas regardada como multe nonformal, o cual es tipal restrinjeda a un contesto o grupo de persones spesifada; parolas o espresas usada par un profesa o grupo cual es difisil per comprende par otras","en":"slang, jargon, argot, cant, parlance","fr":"argot, jargon"}
-{"L":"jergosa","C":["a"],"en":"slangy, jargon-filled"}
+{"L":"jergosa","C":["a"],"en":"slangy, jargon-filled","fr":"argotique, jargonnier"}
 {"T":"r","L":"jerme","C":["vnt","bio"],"d":"(un planta) comensa crese","de":"Spross","en":"sprout, germinate","es":"brote, retoño, germen, renuevo, vástago","fr":"germer"}
 {"L":"jerme","C":["n","bio"],"i":"#","da":"spire, skud","en":"sprouting, germination; sprout (young shoot); germ (cereal); stub (entry)","fr":"germe, pousse"}
 {"L":"jerme de radis","C":["n","bio"],"en":"sucker, shoot (from the roots)","fr":"surgeon"}
-{"T":"r","L":"jerontolojia","C":["n","med"],"d":"la studia de senese e la problemes de persones vea","en":"gerontology"}
-{"L":"jerontolojiste","C":["n"],"en":"gerontologist"}
-{"T":"r","L":"Jersey Nova","C":["n","jeo"],"d":"un stato en la SUA norde-este, bordante la Mar Atlantica","p":"djerzi","en":"New Jersey (US state)"}
-{"T":"r","L":"Jersi","C":["n","jeo"],"d":"la isola la plu grande de la Isolas de la Manga","i":"#","en":"Jersey"}
-{"L":"jersies","C":["a"],"en":"Jèrriais (language)"}
-{"L":"jersies","C":["n"],"en":"Jèrriais; Jerseyman (person)"}
-{"T":"r","L":"jerundio","C":["n","ling"],"d":"un forma verbal cual funsiona como un nom, como `nada` en `nada es un bon eserse`","en":"gerund"}
+{"T":"r","L":"jerontolojia","C":["n","med"],"d":"la studia de senese e la problemes de persones vea","en":"gerontology","fr":"gérontologie"}
+{"L":"jerontolojiste","C":["n"],"en":"gerontologist","fr":"gérontologue"}
+{"T":"r","L":"Jersey Nova","C":["n","jeo"],"d":"un stato en la SUA norde-este, bordante la Mar Atlantica","p":"djerzi","en":"New Jersey (US state)","fr":"New Jersey (État des USA)"}
+{"T":"r","L":"Jersi","C":["n","jeo"],"d":"la isola la plu grande de la Isolas de la Manga","i":"#","en":"Jersey","fr":"Jersey"}
+{"L":"jersies","C":["a"],"en":"Jèrriais (language)","fr":"jersiais"}
+{"L":"jersies","C":["n"],"en":"Jèrriais; Jerseyman (person)","fr":"Jersiais (personne); jersiais (langue)"}
+{"T":"r","L":"jerundio","C":["n","ling"],"d":"un forma verbal cual funsiona como un nom, como `nada` en `nada es un bon eserse`","en":"gerund","fr":"gérondif"}
 {"T":"r","L":"jeso","C":["n","arte","arci","med"],"d":"un materia blanca usada en sculta, construi e medica","en":"plaster (material), gesso; gypsum","fr":"plâtre; gypse"}
 {"L":"jesi","C":["vt"],"en":"plaster","fr":"plâtrer"}
-{"L":"jesor","C":["n"],"en":"plasterer"}
+{"L":"jesor","C":["n"],"en":"plasterer","fr":"plâtrier"}
 {"L":"molda de jeso","C":["n"],"en":"plaster cast","fr":"moule à plâtre"}
 {"T":"r","L":"jesta","C":["vnt","bio"],"d":"ave un feto en la utero, de conseti asta nase","en":"gestate","es":"gesticular, hacer gestos, hacer ademanes, manotear","fr":"être porté (par l'utérus)"}
 {"L":"jesta","C":["n"],"en":"gestation","fr":"gestation"}
 {"T":"r","L":"jesti","C":["vt","ling"],"d":"move un parte de la corpo, spesial la mano o la testa, per espresa (un idea, emosia o intende)","i":"#","da":"bevæge, gestikulere","de":"Gesten machen","en":"gesture, gesticulate; beckon","fr":"faire signe à, gesticuler"}
 {"L":"jesti","C":["n"],"en":"gesture","fr":"geste"}
-{"T":"r","L":"jesuita","C":["a","rel"],"d":"pertinente a la Sosia de Jesus, un ordina de pretes fundida par San Ignasio de Loyola, San Fransisco de Xavier e otras en 1534 per labora como misionores","en":"Jesuit"}
+{"T":"r","L":"jesuita","C":["a","rel"],"d":"pertinente a la Sosia de Jesus, un ordina de pretes fundida par San Ignasio de Loyola, San Fransisco de Xavier e otras en 1534 per labora como misionores","en":"Jesuit","fr":"jésuite"}
 {"L":"jesuita","C":["n"],"en":"Jesuit","fr":"jésuite"}
 {"T":"r","L":"Jesus","C":["n","rel"],"d":"la person sentral de cristianisme, videda par cristianes como la maxia e la fio de dio","i":"#","en":"Jesus","fr":"Jésus"}
 {"T":"r","L":"jeta","C":["vnt","fis"],"d":"(un licuida) deveni ejetada tra un abrida, en la forma de un corente rapida o de multe gotas peti","en":"jet, squirt, spurt, spout, gush, spray","fr":"gicler, jaillir"}
-{"L":"jeta","C":["vt"],"en":"jet, squirt, spurt, spout, gush, spray"}
+{"L":"jeta","C":["vt"],"en":"jet, squirt, spurt, spout, gush, spray","fr":"faire gicler, faire jaillir, éclabousser"}
 {"L":"jeta","C":["n"],"en":"jet, squirt, spurt, spout, gush, spray, outpouring","fr":"giclée"}
-{"T":"r","L":"jeto","C":["n","vec"],"d":"un avion propulsada par la ejeta a retro de un jeta de gas","i":"#","en":"jet, jet plane"}
-{"L":"motor de jeto","C":["n"],"en":"jet engine","fr":"jet"}
-{"T":"r","L":"jezail","C":["n","util"],"d":"(istorial) un moscete simple afgani","en":"jezail"}
+{"T":"r","L":"jeto","C":["n","vec"],"d":"un avion propulsada par la ejeta a retro de un jeta de gas","i":"#","en":"jet, jet plane","fr":"jet"}
+{"L":"motor de jeto","C":["n"],"en":"jet engine","fr":"moteur à réaction"}
+{"T":"r","L":"jezail","C":["n","util"],"d":"(istorial) un moscete simple afgani","en":"jezail","fr":"(fusil) djézaïl"}
 {"T":"r","L":"jiba","C":["n"],"i":"#","en":"hump, hunch (back)","fr":"bosse"}
 {"L":"jiba lentinte","C":["n"],"en":"speed hump, speed bump"}
 {"L":"jibosa","C":["a"],"en":"humped, hunched; gibbous (moon)","fr":"bossu; gibeuse (lune)"}
@@ -17359,6 +17362,7 @@
 {"T":"r","L":"nanomedica","C":["n"],"d":"la usa de nanotecnolojia per diagnose, trata e preveni maladias","en":"nanomedicine","es":"nanomedicina","fr":"nanomédecine"}
 {"T":"r","L":"nanoparticula","C":["n"],"d":"cualce particula microscopial con min ca sirca 100 nanometres de diametre","en":"nanoparticle","es":"nanopartícula","fr":"nanoparticule"}
 {"T":"r","L":"nanotecnolojia","C":["n"],"d":"la siensa e tecnolojia de crea e manipula nanoparticulas","en":"nanotechnology","es":"nanotecnología","fr":"nanotechnologie"}
+{"T":"r","L":"nanotubo","C":["n","cim"],"d":"un molecula composada de multe atomes de carbono en forma de tubo","en":"nanotube"}
 {"T":"r","L":"napalm","C":["n","cim"],"d":"un jelatin aderente e multe flamable, usada en bombas e lansaflamas","en":"napalm (liquid)","es":"napalm (líquido)"}
 {"T":"r","L":"nara","C":["vt","arte"],"d":"reporta sur (avenis real o imajinada), en parla o scrive, ma tipal per diverti","en":"narrate, tell, relate (story)","es":"narrar, contar","fr":"narrer"}
 {"L":"nara","C":["n"],"da":"digt, opdigt, opspind, skønlitteratur","de":"Dichtung","en":"narration, story, tale, chronicle","es":"narración, historia, ficción, cuento, crónica","fr":"narration, conte"}
@@ -24084,6 +24088,8 @@
 {"T":"r","L":"semiconduta","C":["vt"],"en":"semiconduct"}
 {"L":"semicondutador","C":["n","fis","info"],"d":"un materia solida de cual sua capasia de conduta eletrica es entre lo de un isolador e lo de la plu de metales, usada en sircuitos eletronical","en":"semiconductor","fr":"semiconducteur"}
 {"L":"semicondutante","C":["a"],"en":"semiconducting, semiconductive"}
+{"T":"r","L":"semidesintegra","C":["vnt"],"d":"(un isotopo) perde un dui de sua radioativia","en":"decay by one half-life"}
+{"L":"periodo de semidesintegra","C":["n","cim"],"d":"la tempo en cual la radioativia de un isotopo spesifada descrese a la dui de sua valua orijinal","en":"half-life"}
 {"T":"r","L":"semilicuida","C":["a","fis"],"d":"con un densia entre solida e licuida","en":"semiliquid"}
 {"L":"semilicuida","C":["n"],"en":"semiliquid"}
 {"T":"r","L":"semimensal","C":["a"],"d":"a du veses per mense","en":"semimonthly (twice a month)"}
