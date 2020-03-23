@@ -8209,6 +8209,7 @@
 {"T":"r","L":"diaspora","C":["n","uma"],"d":"un sperde de un popla de sua loca orijinal a tra la mundo","en":"diaspora","fr":"diaspora","he":"פזורה, גולה, תפוצה"}
 {"T":"r","L":"diastole","C":["n","bio"],"d":"la fase en la bateta de cor cuando la musculo reposa e permete ce la cameras pleni con sangue","en":"diastole (biology)","fr":"diastole (biologie)","he":"דיאסטולה"}
 {"L":"diastolal","C":["a"],"en":"diastolic","fr":"diastolique","he":"דיאסטולי"}
+{"T":"r","L":"diatomal","C":["a","cim"],"d":"diatomic","en":"composada de du atomes"}
 {"T":"r","L":"diatomea","C":["n","bio"],"d":"un alge uniselulal, con mur de silica","i":"#","t":"Bacillariophyceae","en":"diatom (organism)","fr":"diatomée (organisme)","he":"אצה צורנית"}
 {"T":"r","L":"diatonica","C":["a","mus"],"d":"usante notas de un sola tonalia sin cambias cromatica","en":"diatonic","fr":"diatonique","he":"דיאטוני"}
 {"T":"r","L":"diazepam","C":["n","med"],"d":"un medisin per destensa la musculos e calmi ansia","en":"diazepam, valium","fr":"diazépam, valium","he":"דיאזפאם, ואליום (תרופה)"}
@@ -9176,6 +9177,7 @@
 {"T":"r","L":"elejia","C":["n","arte"],"d":"un poesia de refleta seria, tipal un lamenta pos un mori; un poesia elinica o latina, scriveda en duples elejial","en":"elegy","fr":"élégie","he":"קינה, אלגיה"}
 {"L":"elejial","C":["a"],"en":"elegiac","fr":"élégiaque","he":"אלגי"}
 {"T":"r","L":"elemento","C":["n","cim"],"d":"un parte o aspeta fundal de alga cosa, spesial si esensal o tipal; cada de plu ca 100 materias cimical cual no pote es simplida e cual es la partes fundal de tota materias","da":"element","de":"Urstoff","en":"element (basic part, including chemical); factor","es":"elemento","fr":"élément","he":"יסוד, אלמנט"}
+{"L":"elemental","C":["a"],"d":"pertinente a elementos","en":"elemental"}
 {"T":"r","L":"eletrica","C":["n","fis"],"d":"un forma de enerjia cual resulta de la presentia de particulas cargada, como un cumula statical de carga o como un corente dinamical","da":"elektricitet","de":"Elektrizität","en":"electricity","es":"electricidad","fr":"électricité","he":"חשמל"}
 {"L":"eletrical","C":["a"],"en":"electrical, electric","fr":"électrique","he":"חשמלי"}
 {"L":"eletrici","C":["vt"],"en":"electrify","fr":"électrifier","he":"לחשמל (להקים תשתית חשמל)"}
@@ -9449,7 +9451,7 @@
 {"L":"encargada","C":["n"],"en":"commission (authorized|is group); deputy","fr":"commission, délégation","he":"ממונה, אחראי (בעל תחום אחריות); ועדה, משלחת"}
 {"T":"r","L":"encefalina","C":["n","bio","cim"],"d":"cada de du composadas cual esiste natural en la serebro, relatada a la endorfinas con efetos simil","en":"enkephalin (biology)","fr":"enképhaline","he":"(ביולוגיה) אנקפלין"}
 {"T":"r","L":"enclave","C":["n","gov"],"d":"un area o rejion ensircada par un teritorio plu grande, de cual sua abitores es distinguida par cultur, relijio, lingua o etnico; cualce loca o grupo cual difere de los cual ensirca lo","en":"enclave","fr":"enclave","he":"מובלעת"}
-{"T":"r","L":"enclui","C":["vt"],"d":"ensirca a tota lados; restrinje (algun) par pone el en un sala cluida; separa (un comunia) de la mundo esterna","en":"enclose, shut in, encapsulate, encase","fr":"enfermer, enclore, clore","he":"לסגור, לעטוף (מכל צדדיו)"}
+{"T":"r","L":"enclui","C":["vt"],"d":"ensirca a tota lados; restrinje (algun) par pone el en un sala cluida; separa (un comunia) de la mundo esterna","en":"enclose, shut in, encapsulate, encase; lock down (a community)","fr":"enfermer, enclore, clore","he":"לסגור, לעטוף (מכל צדדיו)"}
 {"T":"r","L":"encontra","C":["vt"],"d":"veni a la presentia o acompania de (algun), en modo acaso o organizada; (du cosas) deveni tocante lunlotra","da":"møde","de":"treffen","en":"meet, encounter, come across, hook up with","es":"encontrarse, reunirse, cruzarse con uno","fr":"rencontrer","he":"לפגוש"}
 {"L":"encontra","C":["n"],"en":"meeting, date, appointment, rendezvous, encounter; briefing, assignation; session (therapy, music); match (sport)","fr":"rendez-vous, séance, réunion, rencontre, match (rencontre sportive)","he":"פגישה, מפגש, דייט, תור (לרופא וכו'), סשן"}
 {"L":"encontra acaso","C":["v"],"en":"stumble upon","fr":"tomber sur, rencontrer par hasard","he":"לפגוש במקרה, להיתקל"}
@@ -9676,41 +9678,41 @@
 {"T":"r","L":"entregama","C":["n","anat"],"d":"la parte de la corpo umana entre la gamas do los junta se a la tronco; la parte corespondente de un veste","en":"crotch, crutch","fr":"entrejambe","he":"מפשעה"}
 {"T":"r","L":"entreseno","C":["n","anat"],"d":"la area entre la senos de un fem","i":"escota","en":"cleavage","fr":"décolleté","he":"(אזור ה) מחשוף"}
 {"T":"r","L":"entretempo","C":["av"],"d":"en la periodo interveninte; en la mesma periodo (como un otra aveni ja descriveda)","en":"meanwhile, meantime, in the meantime, in the interim","fr":"entre-temps, pendant ce temps","he":"בינתיים"}
-{"T":"r","L":"entretexe","C":["vt","arte"],"d":"lia (cosas longa e magra, como filos, capeles, bandas o ditos) par texe los con lunlotra","i":"#","en":"interweave, interlace, interleave, interlock, intertwine, entwine, dovetail","fr":"entrelacer, tisser, tresser"}
-{"L":"entretexable","C":["a"],"en":"interlacing, interlocking","fr":"entrelaçable, tissable, tressable"}
-{"L":"entretexeda","C":["a"],"en":"interwoven, interlaced","fr":"entrelacé, tissé, tressé"}
-{"T":"r","L":"entropia","C":["n","fis"],"d":"(en fisica) un mesura de la cuantia de enerjia cual no es disponable per fa labora; (metafor) un desende a desordina o acasia en un sistem","en":"entropy","fr":"entropie"}
-{"T":"r","L":"enurese","C":["n","med"],"d":"urini nonvolente, tipal par enfantes a note","en":"enuresis, bedwetting","fr":"énurésie"}
-{"T":"r","L":"envelopa","C":["n","util"],"d":"un paper pliada e selable per conteni un letera o documento","i":"#","da":"kuvert","de":"Briefumschlag","en":"envelope","es":"sobre, cubierta, forro","fr":"enveloppe"}
-{"T":"r","L":"envia","C":["vt"],"d":"fa ce (un person o cosa) vade a un destina spesifada, incluinte par metodos eletronical","da":"sende, udsende","de":"senden","en":"send, dispatch, transmit, transfer, submit","es":"enviar, despachar, transmitir, remitir, expedir, lanzar","fr":"envoyer, expédier, transmettre, transférer"}
-{"L":"envia","C":["n"],"en":"transmission","fr":"envoi, transmission, expédition"}
-{"L":"envia a mar","C":["v"],"en":"launch (a ship)","fr":"lancer (un bateau)"}
-{"L":"envia a via","C":["v"],"en":"send away, send off, dismiss","fr":"renvoyer"}
-{"L":"enviada","C":["a"],"en":"sent","fr":"envoyé, expédié, transmis"}
-{"L":"enviada","C":["n"],"en":"envoy, emissary","fr":"envoyé, émissaire, messager"}
-{"L":"enviador","C":["n"],"en":"transmitter","fr":"transmetteur"}
-{"L":"envior","C":["n"],"en":"sender","fr":"expéditeur, envoyeur"}
-{"L":"nonreenviable","C":["a"],"en":"non-returnable, unreturnable","fr":"non retournable, non réexpédiable"}
-{"L":"reenvia","C":["vt"],"en":"send back, return, recommit, resubmit","fr":"renvoyer, réexpédier"}
-{"L":"reenviable","C":["a"],"en":"returnable","fr":"retournable, renvoyable, réexpédiable"}
-{"T":"r","L":"envolve","C":["vt"],"d":"covre o enclui (un person o cosa) en un materia mol, como paper o stofa; fa ce (un person o grupo) partisipa en alga cosa","da":"pakke","de":"wickeln","en":"wrap, wrap up, envelop, swaddle; involve, embroil, enlist, engage, commandeer","es":"envolver, enrollar, abrigar, cubrir, tapar","fr":"envelopper"}
-{"L":"envolve","C":["n"],"en":"involvement","fr":"enveloppement"}
-{"L":"envolve en leto","C":["v"],"en":"tuck into bed","fr":"rentrer dans son lit"}
-{"L":"desenvolve","C":["vt"],"en":"unwrap","fr":"ouvrir, sortir de l'enveloppe, déballer, défaire"}
-{"L":"envolveda","C":["a"],"en":"wrapped; involved","fr":"enveloppé, engagé, impliqué"}
-{"L":"es envolveda en","C":["v"],"en":"be involved in, be wrapped up in, be party to, be engaged in","fr":"s'impliquer dans, s'engager dans, être engagé dans"}
-{"L":"reenvolve","C":["vt"],"en":"rewrap; re-engage","fr":"renvelopper, réengager, s'impliquer à nouveau"}
-{"T":"r","L":"entxilada","C":["n","cos"],"d":"un tortilia plenida con carne o ceso e servida con salsa de txili","en":"enchilada (food)","fr":"enchilada (cuisine)"}
-{"T":"r","L":"enzima","C":["n","bio","cim"],"d":"un materia produida par un organisme, cual funsiona como un catalisente per un reata biocimical spesifada","en":"enzyme","fr":"enzyme"}
-{"L":"enzimal","C":["a"],"en":"enzymatic","fr":"enzymatique"}
-{"T":"r","L":"enzimolojia","C":["n","bio"],"d":"la ramo de biocimica cual studia enzimas","en":"enzymology","fr":"enzymologie"}
-{"T":"r","L":"eon","C":["n","tera","ast"],"d":"un periodo nondefinida ma multe longa de tempo; (en astronomia e jeolojia) un periodo de bilion anios; (en jeolojia) un divide major de tempo, plu ca un era","en":"eon|ae","fr":"éon"}
-{"T":"r","L":"eosene","C":["a","tera"],"d":"pertinente a la epoca du de la tersiaria, entre la paleosene e la oligosene","en":"Eocene (geology)","fr":"Éocène"}
-{"L":"eosene","C":["n"],"en":"Eocene (geology)","fr":"Éocène (période géologique)"}
-{"T":"r","L":"eosin","C":["n","cim"],"d":"un tinje roja e fluoresente","en":"eosin (dye)","fr":"éosine"}
-{"T":"r","L":"eosinofilia","C":["n","bio"],"d":"un grandi de la cuantia de eosinofilicas en la sangue, cual aveni en responde a alga alerjenes, drogas, parasitos, e en alga tipos de leucemia","en":"eosinophilia (medical)"}
-{"L":"eosinofilica","C":["a"],"en":"eosinophilic","fr":"éosinophile"}
-{"L":"eosinofilica","C":["n"],"d":"un selula blanca de la sangue cual conteni granetas fasil per tinje con eosin","en":"eosinophil","fr":"éosinophile"}
+{"T":"r","L":"entretexe","C":["vt","arte"],"d":"lia (cosas longa e magra, como filos, capeles, bandas o ditos) par texe los con lunlotra","i":"#","en":"interweave, interlace, interleave, interlock, intertwine, entwine, dovetail","fr":"entrelacer, tisser, tresser","he":"לשזור, לקלוע, לשלב (זה בזה)"}
+{"L":"entretexable","C":["a"],"en":"interlacing, interlocking","fr":"entrelaçable, tissable, tressable","he":"שניתן לשילוב (זה בזה)"}
+{"L":"entretexeda","C":["a"],"en":"interwoven, interlaced","fr":"entrelacé, tissé, tressé","he":"שזור, קלוע, משולב (זה בזה)"}
+{"T":"r","L":"entropia","C":["n","fis"],"d":"(en fisica) un mesura de la cuantia de enerjia cual no es disponable per fa labora; (metafor) un desende a desordina o acasia en un sistem","en":"entropy","fr":"entropie","he":"אנטרופיה"}
+{"T":"r","L":"enurese","C":["n","med"],"d":"urini nonvolente, tipal par enfantes a note","en":"enuresis, bedwetting","fr":"énurésie","he":"הרטבת לילה"}
+{"T":"r","L":"envelopa","C":["n","util"],"d":"un paper pliada e selable per conteni un letera o documento","i":"#","da":"kuvert","de":"Briefumschlag","en":"envelope","es":"sobre, cubierta, forro","fr":"enveloppe","he":"מעטפה"}
+{"T":"r","L":"envia","C":["vt"],"d":"fa ce (un person o cosa) vade a un destina spesifada, incluinte par metodos eletronical","da":"sende, udsende","de":"senden","en":"send, dispatch, transmit, transfer, submit","es":"enviar, despachar, transmitir, remitir, expedir, lanzar","fr":"envoyer, expédier, transmettre, transférer","he":"לשלוח, למסור, להעביר, לשדר"}
+{"L":"envia","C":["n"],"en":"transmission","fr":"envoi, transmission, expédition","he":"שליחה, מסירה, העברה, שידור"}
+{"L":"envia a mar","C":["v"],"en":"launch (a ship)","fr":"lancer (un bateau)","he":"להשיק (אונייה)"}
+{"L":"envia a via","C":["v"],"en":"send away, send off, dismiss","fr":"renvoyer","he":"לשלח, לסלק"}
+{"L":"enviada","C":["a"],"en":"sent","fr":"envoyé, expédié, transmis","he":"נשלח, נמסר, הועבר, שודר"}
+{"L":"enviada","C":["n"],"en":"envoy, emissary","fr":"envoyé, émissaire, messager","he":"שליח"}
+{"L":"enviador","C":["n"],"en":"transmitter","fr":"transmetteur","he":"משדר"}
+{"L":"envior","C":["n"],"en":"sender","fr":"expéditeur, envoyeur","he":"שולח, מוען"}
+{"L":"nonreenviable","C":["a"],"en":"non-returnable, unreturnable","fr":"non retournable, non réexpédiable","he":"שאינו ניתן להחזרה"}
+{"L":"reenvia","C":["vt"],"en":"send back, return, recommit, resubmit","fr":"renvoyer, réexpédier","he":"לשלוח שוב, לשדר שוב"}
+{"L":"reenviable","C":["a"],"en":"returnable","fr":"retournable, renvoyable, réexpédiable","he":"שניתן להחזרה"}
+{"T":"r","L":"envolve","C":["vt"],"d":"covre o enclui (un person o cosa) en un materia mol, como paper o stofa; fa ce (un person o grupo) partisipa en alga cosa","da":"pakke","de":"wickeln","en":"wrap, wrap up, envelop, swaddle; involve, embroil, enlist, engage, commandeer","es":"envolver, enrollar, abrigar, cubrir, tapar","fr":"envelopper","he":"לעטוף, לכרוך, לחבוש; לערב"}
+{"L":"envolve","C":["n"],"en":"involvement","fr":"enveloppement","he":"עיטוף, כריכה, חבישה; עירוב"}
+{"L":"envolve en leto","C":["v"],"en":"tuck into bed","fr":"rentrer dans son lit","he":"לעטוף בשמיכה, להשכיב לישון"}
+{"L":"desenvolve","C":["vt"],"en":"unwrap","fr":"ouvrir, sortir de l'enveloppe, déballer, défaire","he":"להסיר את העטיפה"}
+{"L":"envolveda","C":["a"],"en":"wrapped; involved","fr":"enveloppé, engagé, impliqué","he":"עטוף, כרוך, חבוש; מעורב"}
+{"L":"es envolveda en","C":["v"],"en":"be involved in, be wrapped up in, be party to, be engaged in","fr":"s'impliquer dans, s'engager dans, être engagé dans","he":"להיות מעורב ב, להיות חלק מ"}
+{"L":"reenvolve","C":["vt"],"en":"rewrap; re-engage","fr":"renvelopper, réengager, s'impliquer à nouveau","he":"לעטוף שוב; לערב שוב"}
+{"T":"r","L":"entxilada","C":["n","cos"],"d":"un tortilia plenida con carne o ceso e servida con salsa de txili","en":"enchilada (food)","fr":"enchilada (cuisine)","he":"אנצ'ילדה (מאכל)"}
+{"T":"r","L":"enzima","C":["n","bio","cim"],"d":"un materia produida par un organisme, cual funsiona como un catalisente per un reata biocimical spesifada","en":"enzyme","fr":"enzyme","he":"אנזים"}
+{"L":"enzimal","C":["a"],"en":"enzymatic","fr":"enzymatique","he":"אנזימטי"}
+{"T":"r","L":"enzimolojia","C":["n","bio"],"d":"la ramo de biocimica cual studia enzimas","en":"enzymology","fr":"enzymologie","he":"אנזימולוגיה"}
+{"T":"r","L":"eon","C":["n","tera","ast"],"d":"un periodo nondefinida ma multe longa de tempo; (en astronomia e jeolojia) un periodo de bilion anios; (en jeolojia) un divide major de tempo, plu ca un era","en":"eon|ae","fr":"éon","he":"(גאולוגיה, אסטרונומיה) עידן, תקופה"}
+{"T":"r","L":"eosene","C":["a","tera"],"d":"pertinente a la epoca du de la tersiaria, entre la paleosene e la oligosene","en":"Eocene (geology)","fr":"Éocène","he":"(גאולוגיה) שקשור לתקופת האאוקן"}
+{"L":"eosene","C":["n"],"en":"Eocene (geology)","fr":"Éocène (période géologique)","he":"(גאולוגיה) אאוקן"}
+{"T":"r","L":"eosin","C":["n","cim"],"d":"un tinje roja e fluoresente","en":"eosin (dye)","fr":"éosine","he":"(כימיה) אאוזין"}
+{"T":"r","L":"eosinofilia","C":["n","bio"],"d":"un grandi de la cuantia de eosinofilicas en la sangue, cual aveni en responde a alga alerjenes, drogas, parasitos, e en alga tipos de leucemia","en":"eosinophilia (medical)","he":"אאוזינופיליה"}
+{"L":"eosinofilica","C":["a"],"en":"eosinophilic","fr":"éosinophile","he":"אאוזינופילי"}
+{"L":"eosinofilica","C":["n"],"d":"un selula blanca de la sangue cual conteni granetas fasil per tinje con eosin","en":"eosinophil","fr":"éosinophile","he":"אאוזינופיל"}
 {"T":"r","L":"eparina","C":["n","med"],"d":"un composada en la figato e otra texedas cual redui la coagula de sangue; un medisin con la mesma efetos","en":"heparin (medical)","fr":"héparine (médecine)"}
 {"T":"r","L":"epatal","C":["a","anat","med"],"d":"pertinente a la figato","en":"hepatic","fr":"hépatique"}
 {"T":"r","L":"epatica","C":["n","pla"],"d":"un planta peti, verde e sin flores, con talos folin o folias lobosa, e cual abita en zonas moiada","i":"#","t":"Marchantiophyta, Hepaticae","en":"liverwort, liverleaf, hepatic (plant)","fr":"anémone hépatique (plante)"}
@@ -10447,6 +10449,9 @@
 {"L":"euscara","C":["n"],"en":"Basque (person, language)","fr":"Basque (personne); basque (langue)"}
 {"T":"r","L":"eutanasia","C":["vt","uma"],"d":"mata (un organisme) en modo compatiosa","en":"euthanize|is, euthanase","fr":"euthanasier"}
 {"L":"eutanasia","C":["n"],"en":"euthanasia","fr":"euthanasie"}
+{"T":"r","L":"eutrofica","C":["a","bio"],"d":"(un lago o otra corpo de acua) rica con nurintes e donce suportante un cuantia densa de plantas, de cual sua descomposa mata viventes animal par priva los de osijen","en":"eutrophic"}
+{"L":"eutrofici","C":["vnt"],"en":"eutrophicate"}
+{"L":"eutrofici","C":["n"],"en":"eutrophication"}
 {"T":"r","L":"Eva","C":["n","rel"],"d":"un nom fema, incluinte de la fem prima en la Biblia","i":"#","en":"Eve","fr":"Ève"}
 {"T":"r","L":"evacua","C":["vt"],"d":"move (algun) de un loca perilosa a un loca plu secur; fa ce persones sorti de (un loca perilosa)","en":"evacuate","fr":"évacuer"}
 {"L":"evacua","C":["n"],"en":"evacuation","fr":"evacuation"}
@@ -11133,7 +11138,7 @@
 {"L":"a fini","C":["av"],"en":"at last, finally, eventually","fr":"enfin, finalement, éventuellement"}
 {"L":"a fini de","C":["prep"],"en":"at the end of","fr":"à la fin de, au bout de"}
 {"L":"es a fini de fa","C":["v"],"en":"have just done","fr":"venir juste de faire"}
-{"L":"final","C":["a"],"en":"last, final, hindmost","fr":"final"}
+{"L":"final","C":["a"],"d":"pertinente a la fini de alga cosa; aveninte a la fini de un serie, sujestante ce la serie no va continua plu en la futur","v":"ultima","en":"last, final, hindmost","fr":"final, ultime"}
 {"L":"final","C":["av"],"de":"schliesslich, endlich","en":"finally, at last, in the end","es":"finalmente, por fin, pasando el tiempo, con el tiempo, eventualmente","fr":"enfin, pour finir, au bout du compte"}
 {"L":"final","C":["n"],"en":"final, finale","fr":"final, finale"}
 {"L":"finalisme","C":["n"],"en":"finalism","fr":"finalisme"}
@@ -13673,6 +13678,7 @@
 {"L":"iperinfla","C":["n"],"en":"hyperinflation","fr":"hyperinflation"}
 {"T":"r","L":"iperlia","C":["n","info"],"d":"(en informatica) un lia de un fix o testo a un otra loca o fix, comun ativida par clica a un parola o imaje sur la scermo","en":"hyperlink","fr":"hyperlien"}
 {"T":"r","L":"iperlipidemia","C":["n","med"],"d":"un consentra nonormal de lipidos en la sangue","en":"hyperlipidemia|ae (medical)","fr":"hyperlipidémie (médecine)"}
+{"T":"r","L":"ipernatremia","C":["n","med"],"d":"la presentia de tro multe sodio en la sangue","en":"ipernatremia|ae"}
 {"T":"r","L":"iperope","C":["a","med"],"d":"no capas de vide clar si ojetos es tro prosima a la oios","en":"far-sighted, long-sighted","fr":"hypermétrope"}
 {"L":"iperopia","C":["n"],"en":"far-sightedness, long-sightedness","fr":"hypermétropie"}
 {"T":"r","L":"iperostose","C":["n","med"],"d":"un crese suprabundante de oso","en":"hyperostosis (medical)","fr":"hyperostose (médecine)"}
@@ -13740,6 +13746,7 @@
 {"L":"ipotese","C":["n"],"en":"hypothesis","fr":"hypothèse"}
 {"L":"ipotesal","C":["a"],"en":"hypothetical","fr":"hypothétique"}
 {"T":"r","L":"ipotiroidia","C":["n","med"],"d":"ativia nonormal reduida de la tiroide, lentinte la crese e developa mental","en":"hypothyroidism (medical)","fr":"hypothyroïdie"}
+{"T":"r","L":"ipovolemia","C":["n","med"],"d":"un volum reduida de sangue sirculinte en la corpo","en":"hypovolemia|ae"}
 {"T":"r","L":"Irac","C":["n","jeo"],"c":"Baghdad","d":"un pais en Asia sude-ueste","i":"#","en":"Iraq","fr":"Irak"}
 {"L":"iraci","C":["a"],"en":"Iraqi","fr":"irakien"}
 {"L":"iraci","C":["n"],"en":"Iraqi","fr":"Irakien"}
@@ -13805,6 +13812,7 @@
 {"L":"isomorfe","C":["n"],"d":"un materia o organisme cual coresponde esata en forma con un otra","en":"isomorph","fr":"isomorphe"}
 {"T":"r","L":"isosele","C":["a","mat"],"d":"(un triangulo) con du lados de longia egal","en":"isosceles","fr":"isocèle"}
 {"T":"r","L":"isostasia","C":["n","tera"],"d":"la ecuilibra cual esiste entre partes de la crosta de la Tera, cual condui como si composada de blocos flotante sur la litosfera","en":"isostasy (geology)","fr":"isostasie"}
+{"T":"r","L":"isotonica","C":["a","bio","cim"],"d":"(du disolves) con la mesma presa osmosal, spesial en un selula o licuida en la corpo","en":"isotonic"}
 {"T":"r","L":"isotopo","C":["a","cim"],"d":"de o pertinente a cada de du o plu formas de la mesma elemento cual ave un cuantia egal de protones ma cuantias diferente de neutrones, tipal un forma radioativa","en":"isotopic","fr":"isotope"}
 {"L":"isotopo","C":["n"],"en":"isotope","fr":"isotope"}
 {"L":"isotopia","C":["n"],"en":"isotopy","fr":"isotopie"}
@@ -14120,109 +14128,109 @@
 {"L":"motor de jeto","C":["n"],"en":"jet engine","fr":"moteur à réaction"}
 {"T":"r","L":"jezail","C":["n","util"],"d":"(istorial) un moscete simple afgani","en":"jezail","fr":"(fusil) djézaïl"}
 {"T":"r","L":"jiba","C":["n"],"i":"#","en":"hump, hunch (back)","fr":"bosse"}
-{"L":"jiba lentinte","C":["n"],"en":"speed hump, speed bump"}
+{"L":"jiba lentinte","C":["n"],"en":"speed hump, speed bump","fr":"ralentisseur, dos d'âne, gendarme couché"}
 {"L":"jibosa","C":["a"],"en":"humped, hunched; gibbous (moon)","fr":"bossu; gibeuse (lune)"}
-{"T":"r","L":"Jibraltar","C":["n","jeo"],"d":"un teritorio brites a la punto la plu sude de la penisola iberian","i":"#","en":"Gibraltar"}
-{"L":"jibraltarian","C":["a"],"en":"Gibraltarian"}
-{"L":"jibraltarian","C":["n"],"en":"Gibraltarian"}
-{"L":"Streta Jibraltar","C":["n","jeo"],"d":"un streta entre Espania e Magrib","i":"#","en":"Strait of Gibraltar"}
-{"T":"r","L":"jiga","C":["n","mus"],"d":"un dansa vivosa con saltas; un musica per esta","en":"jig, gigue (dance, music)"}
-{"L":"jigor","C":["n"],"en":"jigger (dancer)"}
+{"T":"r","L":"Jibraltar","C":["n","jeo"],"d":"un teritorio brites a la punto la plu sude de la penisola iberian","i":"#","en":"Gibraltar","fr":"Gibraltar"}
+{"L":"jibraltarian","C":["a"],"en":"Gibraltarian","fr":"gibraltarien"}
+{"L":"jibraltarian","C":["n"],"en":"Gibraltarian","fr":"Gibraltarien"}
+{"L":"Streta Jibraltar","C":["n","jeo"],"d":"un streta entre Espania e Magrib","i":"#","en":"Strait of Gibraltar","fr":"détroit de Gibraltar"}
+{"T":"r","L":"jiga","C":["n","mus"],"d":"un dansa vivosa con saltas; un musica per esta","en":"jig, gigue (dance, music)","fr":"gigue"}
+{"L":"jigor","C":["n"],"en":"jigger (dancer)","fr":"danseur de gigue"}
 {"T":"r","L":"jigante","C":["a"],"d":"con multe plu grandia, cuantia o estende ca normal","en":"giant, gigantic, gargantuan, humongous, jumbo, whopping","fr":"géant, gigantesque"}
 {"L":"jigante","C":["n"],"en":"giant; whopper","fr":"géant"}
-{"L":"jigante de gas","C":["n"],"en":"gas giant (planet)"}
-{"L":"jigantia","C":["n"],"en":"giantism, gigantism"}
-{"T":"r","L":"jigolo","C":["n","uma"],"d":"un om joven ci un fem plu vea paia per es un acompanior o amor","en":"gigolo"}
-{"T":"r","L":"jin","C":["n","cos"],"d":"un bevida alcolosa, distilada de gran o malta e spisida con bacas de juniper","en":"gin"}
+{"L":"jigante de gas","C":["n"],"en":"gas giant (planet)","fr":"géante gazeuse (planète)"}
+{"L":"jigantia","C":["n"],"en":"giantism, gigantism","fr":"gigantisme"}
+{"T":"r","L":"jigolo","C":["n","uma"],"d":"un om joven ci un fem plu vea paia per es un acompanior o amor","en":"gigolo","fr":"gigolo"}
+{"T":"r","L":"jin","C":["n","cos"],"d":"un bevida alcolosa, distilada de gran o malta e spisida con bacas de juniper","en":"gin","fr":"gin"}
 {"T":"r","L":"jina","C":["n","vest"],"d":"un pantalon de denim","i":"#","da":"jeans, cowboybukser","en":"jeans","eo":"ĝinzo","fr":"jean"}
-{"L":"jina corta","C":["n"],"en":"jean shorts, denim shorts, jorts"}
-{"T":"r","L":"jinarca","C":["n","uma"],"d":"un fem renante o membro de un grupo de femes renante","en":"gynarch (governor)"}
-{"L":"jinarcia","C":["n"],"en":"gynarchy"}
-{"T":"r","L":"jinasio","C":["n","arci"],"d":"un salon o construida furnida per jinasta, juas o otra eserse; (en alga nasiones) un scola cual prepara studiantes per entra a universia","i":"#","en":"gymnasium, gym","fr":"gymnase"}
+{"L":"jina corta","C":["n"],"en":"jean shorts, denim shorts, jorts","fr":"short en jean"}
+{"T":"r","L":"jinarca","C":["n","uma"],"d":"un fem renante o membro de un grupo de femes renante","en":"gynarch (governor)","fr":"matriarche, gynarque"}
+{"L":"jinarcia","C":["n"],"en":"gynarchy","fr":"matriarcat, gynarchie, gynocratie, gynécocratie"}
+{"T":"r","L":"jinasio","C":["n","arci"],"d":"un salon o construida furnida per jinasta, juas o otra eserse; (en alga nasiones) un scola cual prepara studiantes per entra a universia","i":"#","en":"gymnasium, gym","fr":"gymnase; lycée"}
 {"T":"r","L":"jinasta","C":["n","spo"],"d":"un person instruida o capas en jinastia","i":"#","en":"gymnast, acrobat","fr":"gymnaste, acrobate"}
-{"L":"jinastia","C":["n"],"da":"gymnastik","de":"Gymnastik","en":"gymnastics, acrobatics","es":"gimnasia","fr":"(la) gymnastique"}
+{"L":"jinastia","C":["n"],"da":"gymnastik","de":"Gymnastik","en":"gymnastics, acrobatics","es":"gimnasia","fr":"gymnastique"}
 {"L":"jinastia de aira","C":["n"],"en":"aerobatics","fr":"voltige aérienne"}
-{"L":"jinastial","C":["a"],"en":"gymnastic, acrobatic (of acrobatics)"}
-{"L":"jinastin","C":["a"],"en":"gymnastic, acrobatic (like an acrobat)"}
-{"T":"r","L":"jineco-","C":["pf","tecn"],"d":"fema, fem","en":"gyneco-|ae (female)"}
-{"T":"r","L":"jinecolojia","C":["n","med"],"d":"la ramo de fisiolojia e medica cual studia la funsiona e maladias de femes, spesial la sistem de reprodui","en":"gynecology|ae"}
-{"L":"jinecolojial","C":["a"],"en":"gynecological|ae"}
-{"L":"jinecolojiste","C":["n"],"en":"gynecologist|ae"}
-{"T":"r","L":"jinecomastia","C":["n","med"],"d":"la grandi de la senos de un om, tipal causada par un nonecuilibra ormonal","en":"gynecomastia|ae"}
-{"T":"r","L":"jinefilia","C":["n","uma"],"d":"un atrae estrema o nonrazonada a femes","en":"gynephilia"}
-{"L":"jinefilica","C":["a"],"en":"gynephilic"}
-{"L":"jinefilica","C":["n"],"en":"gynephile"}
-{"T":"r","L":"jinefobia","C":["n","uma"],"d":"un teme estrema o nonrazonada de femes o cosas fema","en":"gynephobia"}
-{"L":"jinefobica","C":["a"],"en":"gynephobic"}
-{"L":"jinefobica","C":["n"],"en":"gynephobe"}
-{"T":"r","L":"jineseo","C":["n","bio"],"d":"la parte fema de un flor","en":"gynoecium (botany)"}
+{"L":"jinastial","C":["a"],"en":"gymnastic, acrobatic (of acrobatics)","fr":"gymnastique, acrobatique"}
+{"L":"jinastin","C":["a"],"en":"gymnastic, acrobatic (like an acrobat)","fr":"comme un gymnaste, comme un acrobate"}
+{"T":"r","L":"jineco-","C":["pf","tecn"],"d":"fema, fem","en":"gyneco-|ae (female)","fr":"gynéco-, gyné-, gyno-"}
+{"T":"r","L":"jinecolojia","C":["n","med"],"d":"la ramo de fisiolojia e medica cual studia la funsiona e maladias de femes, spesial la sistem de reprodui","en":"gynecology|ae","fr":"gynécologie"}
+{"L":"jinecolojial","C":["a"],"en":"gynecological|ae","fr":"gynécologique"}
+{"L":"jinecolojiste","C":["n"],"en":"gynecologist|ae","fr":"gynécologue"}
+{"T":"r","L":"jinecomastia","C":["n","med"],"d":"la grandi de la senos de un om, tipal causada par un nonecuilibra ormonal","en":"gynecomastia|ae","fr":"gynécomastie"}
+{"T":"r","L":"jinefilia","C":["n","uma"],"d":"un atrae estrema o nonrazonada a femes","en":"gynephilia","fr":"gynophilie"}
+{"L":"jinefilica","C":["a"],"en":"gynephilic","fr":"gynophile"}
+{"L":"jinefilica","C":["n"],"en":"gynephile","fr":"gynophile"}
+{"T":"r","L":"jinefobia","C":["n","uma"],"d":"un teme estrema o nonrazonada de femes o cosas fema","en":"gynephobia","fr":"gynophobie, gynéphobie"}
+{"L":"jinefobica","C":["a"],"en":"gynephobic","fr":"gynophobe, gynéphobe"}
+{"L":"jinefobica","C":["n"],"en":"gynephobe","fr":"gynophobe, gynéphobe"}
+{"T":"r","L":"jineseo","C":["n","bio"],"d":"la parte fema de un flor","en":"gynoecium (botany)","fr":"gynécée (botanique)"}
 {"T":"r","L":"jinesta","C":["n","pla"],"d":"un arboreta florosa con talos longa e poca folias peti","i":"#","t":"Chamaecytisus, Cytisus, Genista, {etc","en":"broom (plant)","fr":"genêt"}
 {"T":"r","L":"jinjer","C":["n","pla","cos"],"d":"un planta de Asia sude-este cual sembla bambu; un spise calda e odorosa, preparada de la rizoma de esta planta","i":"#","t":"Zingiber","da":"ingefær","de":"Ingwer","en":"ginger (plant, spice)","es":"jengibre","fr":"gingembre"}
-{"T":"r","L":"jino-","C":["pf","tecn"],"d":"fema, fem","en":"gyno- (female)"}
+{"T":"r","L":"jino-","C":["pf","tecn"],"d":"fema, fem","en":"gyno- (female)","fr":"gyno-, gyné-"}
 {"T":"r","L":"jinsen","C":["n","pla"],"d":"un planta nativa de Asia este e America Norde; un tuber de esta planta, sur cual alga tradisiones crede ce lo aida contra maladias","i":"#","t":"Panax","da":"ginseng","de":"Ginseng","en":"ginseng (plant, root)","es":"ginseng","fr":"ginseng"}
-{"T":"r","L":"jip","C":["n","vec"],"d":"un auto forte e durante, engranada a cuatro rotas, orijinal fabricada per usas militar","i":"#","en":"jeep"}
-{"T":"r","L":"jira","C":["vnt"],"d":"move en sirculos repeteda sur un ase sentral","i":"#","u":"rotas jira; la Tera jira dial","v":"turna","en":"turn (in repeated circles), rotate, revolve, spin, whirl, twirl, swirl, gyrate, gyre, stir, pivot, swivel, swill","es":"girarse, rotarse","fr":"tourner sur soi-même"}
-{"L":"jira","C":["vt"],"d":"fa ce (alga cosa) jira; (nonformal) turi en (un auto, comun furada) per plaser","en":"rotate, spin, stir; (colloquial) joyride, take (a stolen car) for a spin","es":"girar, rotar"}
+{"T":"r","L":"jip","C":["n","vec"],"d":"un auto forte e durante, engranada a cuatro rotas, orijinal fabricada per usas militar","i":"#","en":"jeep","fr":"jeep"}
+{"T":"r","L":"jira","C":["vnt"],"d":"move en sirculos repeteda sur un ase sentral","i":"#","u":"rotas jira; la Tera jira dial","v":"turna","en":"turn (in repeated circles), rotate, revolve, spin, whirl, twirl, swirl, gyrate, gyre, stir, pivot, swivel, swill","es":"girarse, rotarse","fr":"tourner sur soi-même, pivoter, être en rotation, être en révolution, tourbillonner"}
+{"L":"jira","C":["vt"],"d":"fa ce (alga cosa) jira; (nonformal) turi en (un auto, comun furada) per plaser","en":"rotate, spin, stir; (colloquial) joyride, take (a stolen car) for a spin","es":"girar, rotar","fr":"faire tourner, faire pivoter, mettre en rotation, faire tourbillonner"}
 {"L":"jira","C":["n"],"en":"spin, gyration","fr":"rotation"}
 {"L":"jira minima","C":["v"],"en":"idle (engine)","fr":"tourner au ralenti (moteur)"}
-{"L":"jirante","C":["a"],"en":"rotating, rotary"}
-{"L":"jirante","C":["n"],"en":"whirligig"}
+{"L":"jirante","C":["a"],"en":"rotating, rotary","fr":"rotatif, circulaire, giratoire, rotatoire, tournant"}
+{"L":"jirante","C":["n"],"en":"whirligig","fr":"toupie, girouette"}
 {"L":"jireta","C":["n"],"en":"spinning top","fr":"toupie"}
-{"L":"jireta de mano","C":["n"],"en":"hand top, fidget spinner"}
+{"L":"jireta de mano","C":["n"],"en":"hand top, fidget spinner","fr":"toupie"}
 {"L":"jireta ivri","C":["n"],"i":"#","en":"dreidel"}
 {"T":"r","L":"jirabroca","C":["n","vn"],"d":"un util de fora, con manivel e caveta per teni un broca","en":"brace (of brace and bit)","fr":"vilebrequin"}
 {"T":"r","L":"jirafa","C":["n","mam"],"d":"un mamal grande de Africa con colo longa e pelo de pesos brun separada par linias plu pal","i":"#","t":"Giraffa camelopardalis","en":"giraffe","fr":"girafe"}
-{"L":"Jirafa","C":["n","ast"],"d":"un constela de la sielo norde","en":"Camelopardalis (constellation)"}
+{"L":"Jirafa","C":["n","ast"],"d":"un constela de la sielo norde","en":"Camelopardalis (constellation)","fr":"Girafe (constellation)"}
 {"T":"r","L":"jiro","C":["n","anat"],"d":"un plia o cresta entre du fesures a la surfas de la serebro","en":"gyrus (anatomy)","fr":"circonvolution cérébrale"}
 {"T":"r","L":"jiroscopio","C":["n","util"],"d":"un aparato composada de un rota o disco montada per jira rapida sirca un ase capas de cambia sua dirije, usada per manteni stablia","i":"#","en":"gyroscope","fr":"gyroscope"}
 {"T":"r","L":"joala","C":["n","vest"],"d":"un ojeto per orna la corpo, tipal incluinte un o plu jemes, como un anelo, brasaleta, colareta o orealeta","v":"jem","en":"piece of jewelry|jewellery, jewel","fr":"bijou"}
 {"L":"joala majiosa","C":["n"],"en":"amulet, talisman","fr":"amulette"}
-{"L":"joala perforante","C":["n"],"en":"piercing"}
-{"L":"joalas","C":["n","pl"],"en":"jewelry|jewellery"}
-{"L":"joaleria","C":["n"],"en":"jewelry|jewellery store, jeweler's|ll shop"}
+{"L":"joala perforante","C":["n"],"en":"piercing","fr":"piercing"}
+{"L":"joalas","C":["n","pl"],"en":"jewelry|jewellery","fr":"bijoux"}
+{"L":"joaleria","C":["n"],"en":"jewelry|jewellery store, jeweler's|ll shop","fr":"joaillerie, bijouterie"}
 {"L":"joalor","C":["n"],"en":"jeweler|ll","fr":"bijoutier, joaillier"}
-{"T":"r","L":"joce","C":["n","spo"],"d":"un cavalor ci compete en corsas, tipal como un carera","i":"#","en":"jockey"}
+{"T":"r","L":"joce","C":["n","spo"],"d":"un cavalor ci compete en corsas, tipal como un carera","i":"#","en":"jockey","fr":"jockey"}
 {"T":"r","L":"jogla","C":["vt","spo"],"d":"lansa e catura repetente (bales o otra ojetos), tipal per diverti","i":"#","en":"juggle","fr":"jongler"}
 {"L":"joglor","C":["n"],"en":"juggler","fr":"jongleur"}
 {"T":"r","L":"joia","C":["vt","uma"],"d":"senti plaser o felisia en (un ativia o aveni)","en":"enjoy, rejoice, be joyous, have fun","fr":"se réjouir"}
 {"L":"joia","C":["n"],"en":"joy, fun, enjoyment, frivolity, gaiety","fr":"joie"}
 {"L":"joia","C":["esc"],"en":"cheers, enjoy"}
 {"L":"joiosa","C":["a"],"en":"joyous, joyful, merry, fun, exuberant, ebullient, exultant, gleeful, mirthful","fr":"joyeux, gai, allègre, enjoué, plein d'entrain, guilleret"}
-{"L":"sin joia","C":["a"],"en":"joyless"}
-{"T":"r","L":"joistic","C":["n","vec","info"],"d":"un controlador per aviones; un controlador per juas video","i":"#","en":"joystick"}
+{"L":"sin joia","C":["a"],"en":"joyless","fr":"triste, morne, affligé, malheureux, sombre, désenchanté, maussade, neurasthénique"}
+{"T":"r","L":"joistic","C":["n","vec","info"],"d":"un controlador per aviones; un controlador per juas video","i":"#","en":"joystick","fr":"manche à balai (aviation); manette de jeu, joystick"}
 {"T":"r","L":"joncila","C":["n","pla"],"d":"un narsiso con grupos de flores jala, peti e bonodorosa, de Europa sude e Africa norde-este","i":"#","t":"Narcissus jonquilla","en":"jonquil (plant)","fr":"jonquille"}
-{"T":"r","L":"Jonguo","C":["n","jeo"],"c":"Beijing","d":"un pais en Asia este, la plu poplada e la pais tre de la plu grandes de mundo","i":"#","v":"Xina","en":"China"}
-{"L":"jonguo","C":["a"],"en":"Chinese"}
-{"L":"jonguo","C":["n","dem"],"en":"Chinese"}
-{"T":"r","L":"Jorjia","C":["n","jeo"],"d":"un otra nom per Sacartvelo","i":"Sacartvelo","v":"Sacartvelo","en":"Georgia (Caucasus)"}
-{"L":"jorjian","C":["a"],"en":"Georgian (person, language)"}
-{"L":"jorjian","C":["n"],"en":"Georgian (person, language)"}
+{"T":"r","L":"Jonguo","C":["n","jeo"],"c":"Beijing","d":"un pais en Asia este, la plu poplada e la pais tre de la plu grandes de mundo","i":"#","v":"Xina","en":"China","fr":"Chine"}
+{"L":"jonguo","C":["a"],"en":"Chinese","fr":"chinois"}
+{"L":"jonguo","C":["n","dem"],"en":"Chinese","fr":"Chinois"}
+{"T":"r","L":"Jorjia","C":["n","jeo"],"d":"un otra nom per Sacartvelo","i":"Sacartvelo","v":"Sacartvelo","en":"Georgia (Caucasus)","fr":"Géorgie"}
+{"L":"jorjian","C":["a"],"en":"Georgian (person, language)","fr":"géorgien"}
+{"L":"jorjian","C":["n"],"en":"Georgian (person, language)","fr":"Géorgien (personne); géorgien (langue)"}
 {"T":"r","L":"jornal","C":["n","arte","info"],"d":"un publici periodal, conteninte articles e imajes sur un tema o campo spesifada; un arcivo dial de novas e avenis","i":"#","da":"magasin (blad), avis","de":"Zeitschrift, Zeitung","en":"journal, magazine, gazette","es":"revista, periódico, diario","fr":"journal, magazine"}
 {"L":"jornal de ativia","C":["n"],"en":"log (software)"}
-{"L":"jornal de contas","C":["n"],"en":"daybook, journal (accounting)"}
+{"L":"jornal de contas","C":["n"],"en":"daybook, journal (accounting)","fr":"livre de compte"}
 {"L":"jornal de prosegues","C":["n"],"en":"proceedings (society)"}
-{"L":"jornal de scandal","C":["n"],"en":"tabloid newspaper"}
-{"L":"jornal de viaja","C":["n"],"en":"log, logbook"}
-{"L":"jornal dial","C":["n"],"i":"#","en":"newspaper"}
-{"L":"jornal personal","C":["n"],"en":"diary"}
-{"L":"jornaleria","C":["n"],"en":"newsstand, newsagent (shop)"}
-{"L":"jornalisme","C":["n"],"en":"journalism"}
-{"L":"jornalisme fotografial","C":["n"],"en":"photojournalism"}
-{"L":"jornaliste","C":["a"],"en":"journalistic"}
-{"L":"jornaliste","C":["n"],"en":"journalist, correspondent, newspaperman, newspaperwoman"}
-{"L":"jornalistes","C":["n","pl"],"en":"journalists, media, press"}
-{"T":"r","L":"jotun","C":["n","mit"],"d":"(en mitolojia norsce) un membro de un raza de jigantes ci ia oposa tipal la dios de la aesir e spesial la dio Tor","en":"jotun, jotunn, jötunn, jötnar"}
+{"L":"jornal de scandal","C":["n"],"en":"tabloid newspaper","fr":"journal à sensation"}
+{"L":"jornal de viaja","C":["n"],"en":"log, logbook","fr":"journal de voyage"}
+{"L":"jornal dial","C":["n"],"i":"#","en":"newspaper","fr":"journal, quotidien"}
+{"L":"jornal personal","C":["n"],"en":"diary","fr":"journal intime"}
+{"L":"jornaleria","C":["n"],"en":"newsstand, newsagent (shop)","fr":"kiosque à journaux, marchand de journaux"}
+{"L":"jornalisme","C":["n"],"en":"journalism","fr":"journalisme"}
+{"L":"jornalisme fotografial","C":["n"],"en":"photojournalism","fr":"photojournalisme"}
+{"L":"jornaliste","C":["a"],"en":"journalistic","fr":"journalistique, éditorial"}
+{"L":"jornaliste","C":["n"],"en":"journalist, correspondent, newspaperman, newspaperwoman","fr":"journaliste"}
+{"L":"jornalistes","C":["n","pl"],"en":"journalists, media, press","fr":"presse, journaux, médias, éditorialistes"}
+{"T":"r","L":"jotun","C":["n","mit"],"d":"(en mitolojia norsce) un membro de un raza de jigantes ci ia oposa tipal la dios de la aesir e spesial la dio Tor","en":"jotun, jotunn, jötunn, jötnar","fr":"jötunn"}
 {"T":"r","L":"jovedi","C":["n"],"d":"la dia entre mercurdi e venerdi en cada semana","en":"Thursday","eo":"ĵaŭdo","fr":"jeudi"}
 {"T":"r","L":"joven","C":["a","bio"],"d":"de un eda nonadulte; con cualias comun per persones nonadulte","da":"ung","de":"jung","en":"young, youthful; boyish, girlish","es":"joven","fr":"jeune"}
-{"L":"joven","C":["n"],"i":"#","en":"youth, young person, youngster, juvenile; guy, gal; cub (animal)"}
-{"L":"jovenal","C":["a"],"en":"juvenile, young people's"}
-{"L":"jovenia","C":["n"],"en":"youth, youthfulness, girlhood, boyhood"}
-{"L":"jovenin","C":["a"],"en":"youthlike, juvenile (behavior|ur); youthful (appearance)"}
-{"L":"la plu joven","C":["a"],"en":"youngest"}
-{"L":"plu joven","C":["a"],"en":"younger"}
-{"L":"rejoveni","C":["vnt"],"en":"rejuvenate"}
-{"L":"rejoveni","C":["vt"],"en":"rejuvenate"}
-{"L":"rejoveni","C":["n"],"en":"rejuvenation"}
+{"L":"joven","C":["n"],"i":"#","en":"youth, young person, youngster, juvenile; guy, gal; cub (animal)","fr":"jeune"}
+{"L":"jovenal","C":["a"],"en":"juvenile, young people's","fr":"des jeunes, juvénil"}
+{"L":"jovenia","C":["n"],"en":"youth, youthfulness, girlhood, boyhood","fr":"jeunesse"}
+{"L":"jovenin","C":["a"],"en":"youthlike, juvenile (behavior|ur); youthful (appearance)","fr":"juvénile, jeune"}
+{"L":"la plu joven","C":["a"],"en":"youngest","fr":"cadet (le plus jeune)"}
+{"L":"plu joven","C":["a"],"en":"younger","fr":"plus jeune"}
+{"L":"rejoveni","C":["vnt"],"en":"rejuvenate","fr":"(se) rajeunir, devenir plus jeune"}
+{"L":"rejoveni","C":["vt"],"en":"rejuvenate","fr":"rafraîchir, rajeunir (transitif)"}
+{"L":"rejoveni","C":["n"],"en":"rejuvenation","fr":"rajeunissement"}
 {"T":"r","L":"jua","C":["vnt","spo","uma"],"d":"ata per diverti e recrea en loca de un intende seria o pratical","da":"spille","de":"spielen, Spass machen","en":"play, gambol, frolic; fool, trifle, dabble","es":"jugar, juguetear, recrearse, divertirse, retozar, travesear","fr":"jouer"}
 {"L":"jua","C":["vt"],"d":"partisipa en (un sporte o concurso); produi musica a (un strumento); presenta (un peso de musica)","en":"play (game, sport, music, instrument)"}
 {"L":"jua","C":["n"],"da":"spil (i sport o. lign.)","de":"Spiel","en":"game, recreation","es":"juego, deporte","fr":"jeu"}
@@ -20870,6 +20878,7 @@
 {"T":"r","L":"pompa","C":["n","util"],"d":"un aparato cual usa suca o presa per leva o move licuidas, compresa gases o forsa aira en ojetos inflable como numaticos; un aparato biolojial en selulas cual transporta iones tra un membrana selulal contra un gradiente de consentra","ca":"bomba","da":"pumpe","de":"Pumpe","en":"pump","eo":"pumpilo","es":"bomba","fr":"pompe","it":"pompa","ja":"ポンプ","nl":"pomp","pt":"bomba","ru":"насос"}
 {"L":"Pompa","C":["n","ast"],"en":"Antlia (constellation)"}
 {"L":"pompa de insulina","C":["n"],"en":"insulin pump"}
+{"L":"pompa sodio-potasio","C":["n","bio","cim"],"d":"un enzima trovada en la membrana de tota selulas de animales, cual regula la cuantia de sodio e potasio en la selulas","en":"sodium-potassium pump"}
 {"L":"pomperia","C":["n"],"i":"#","en":"fire station, fire department"}
 {"L":"pompi","C":["vt"],"en":"pump"}
 {"L":"pompi","C":["n"],"i":"pompa-eserse","en":"pumping; push-up (exercise)"}
@@ -21210,9 +21219,10 @@
 {"L":"prende la propria de","C":["v"],"en":"expropriate"}
 {"L":"prende la rol de","C":["v"],"en":"take the role of, be cast as"}
 {"L":"prende sua tempo","C":["v"],"en":"take one's time"}
-{"L":"desprendable","C":["a"],"en":"disposable, expendable"}
+{"L":"desprendable","C":["a"],"en":"disposable, expendable, dispensable"}
 {"L":"desprende","C":["vt"],"en":"get rid of, throw away, discard, dispense with, dispose of, waive"}
 {"L":"desprende","C":["n"],"en":"disposal"}
+{"L":"nondesprendable","C":["a"],"en":"indispensable"}
 {"L":"nonreprendable","C":["a"],"en":"irretrievable"}
 {"L":"prendor","C":["n"],"en":"taker, catcher"}
 {"L":"reprendable","C":["a"],"en":"retrievable"}
@@ -21422,6 +21432,7 @@
 {"L":"proctolojiste","C":["n"],"en":"proctologist"}
 {"T":"r","L":"proctoscopio","C":["n","med","util"],"d":"un util medical con lampa per esamina la ano e reto","en":"proctoscope"}
 {"L":"proctoscopi","C":["n"],"en":"proctoscopy"}
+{"T":"r","L":"prodroga","C":["n","med"],"d":"un composada biolojial nonativa cual pote es metabolida en la corpo per produi un droga o medisin","en":"prodrug"}
 {"T":"r","L":"produi","C":["vt","gov"],"d":"fabrica (un cosa) de partes o materias; crea o formi (un cosa) par un prosede fisical, cimical o biolojial; crea (un cosa) par capasia mental o creosa","en":"produce"}
 {"L":"produi","C":["n"],"en":"production"}
 {"L":"produi a stranjer","C":["v"],"en":"outsource"}
@@ -24089,7 +24100,7 @@
 {"L":"semicondutador","C":["n","fis","info"],"d":"un materia solida de cual sua capasia de conduta eletrica es entre lo de un isolador e lo de la plu de metales, usada en sircuitos eletronical","en":"semiconductor","fr":"semiconducteur"}
 {"L":"semicondutante","C":["a"],"en":"semiconducting, semiconductive"}
 {"T":"r","L":"semidesintegra","C":["vnt"],"d":"(un isotopo) perde un dui de sua radioativia","en":"decay by one half-life"}
-{"L":"periodo de semidesintegra","C":["n","cim"],"d":"la tempo en cual la radioativia de un isotopo spesifada descrese a la dui de sua valua orijinal","en":"half-life"}
+{"L":"periodo de semidesintegra","C":["n","cim"],"d":"la tempo en cual la radioativia de un isotopo spesifada descrese a la dui de sua valua orijinal","v":"semivive","en":"half-life"}
 {"T":"r","L":"semilicuida","C":["a","fis"],"d":"con un densia entre solida e licuida","en":"semiliquid"}
 {"L":"semilicuida","C":["n"],"en":"semiliquid"}
 {"T":"r","L":"semimensal","C":["a"],"d":"a du veses per mense","en":"semimonthly (twice a month)"}
@@ -24115,6 +24126,7 @@
 {"T":"r","L":"semitono","C":["n","mus"],"d":"un dui de un tono, un dudesi de un otava","en":"semitone"}
 {"T":"r","L":"semitransparente","C":["a","fis"],"d":"diafana; partal transparente","en":"semitransparent"}
 {"T":"r","L":"semivaluosa","C":["a","mone"],"d":"(un mineral) cual pote es usada como un jem ma es min valuada ca otra jemes","en":"semiprecious"}
+{"T":"r","L":"semivive","C":["n","cim"],"d":"la periodo de semidesintegra de un isotopo spesifada","en":"half-life"}
 {"T":"r","L":"semivocal","C":["a","ling"],"d":"(un sona de vose) entre un vocal e un consonante, como `i` en `ia` o `u` en `ueste`","en":"semivocalic"}
 {"L":"semivocal","C":["n"],"en":"semivowel, glide"}
 {"T":"r","L":"semola","C":["n","cos"],"d":"la granes dur cual resta pos la molini de farina, usada en gaxas e pasta","en":"semolina (grains, dessert)"}
@@ -24523,6 +24535,7 @@
 {"L":"siani","C":["vnt"],"en":"turn cyan"}
 {"L":"siani","C":["vnt"],"en":"turn cyan"}
 {"T":"r","L":"sianido","C":["n","cim"],"d":"un asida usada como un venena o per la estrae de oro e arjento","en":"cyanide"}
+{"T":"r","L":"sianoacrilato","C":["n","cim"],"d":"cualce de un clase de composadas cual es fasil polimerida, usada per fabrica colas estrema aderente","en":"cyanoacrylate"}
 {"T":"r","L":"sianogram","C":["n","arci","util"],"d":"un desinia tecnical primida sur paper blu, o primida con inca blu sur paper blanca; (metafor) cualce cosa cual ata como un model, scema o projeta","i":"#","en":"blueprint"}
 {"T":"r","L":"sianose","C":["n","med"],"d":"un malcolori bluin de la pel cual resulta de sirculi debil de sangue o un manca de osijen en la sangue","en":"cyanosis (medical)"}
 {"T":"r","L":"siatica","C":["a","anat"],"d":"pertinente a la nervo grande cual pasa de la spina dorsal a la gama","en":"sciatic (anatomy)"}
@@ -27321,6 +27334,7 @@
 {"T":"r","L":"tragulo","C":["n","mam"],"d":"un mamal peti servin con dentones corta, tipal noturna e trovada en la forestas tropical de Africa e Asia sude","i":"#","t":"Tragulidae","en":"chevrotain, mouse deer","fr":"chevrotain"}
 {"T":"r","L":"trajedia","C":["n","arte"],"d":"un aveni causante multe sufri, destrui e angusa; un teatral cual trata un tal aveni e fini tipal en modo triste","en":"tragedy","fr":"tragédie"}
 {"L":"trajedial","C":["a"],"en":"tragic","fr":"tragique"}
+{"L":"trajediste","C":["n"],"en":"tragedian"}
 {"T":"r","L":"trajicomedia","C":["n","arte"],"d":"un novela o teatral cual conteni elementos de e comedia e trajedia","en":"tragicomedy","fr":"tragicomédie"}
 {"L":"trajicomedial","C":["a"],"en":"tragicomic","fr":"tragicomique"}
 {"T":"r","L":"tram","C":["n","vec"],"d":"un veculo per pasajores cual usa eletrica furnida par un cordon eletrical a supra, tipal movente sur reles","i":"#","ca":"tramvia","de":"Straßenbahn","en":"trolley car, tram, streetcar","eo":"tramo","es":"tranvía","fr":"tramway, tram","ja":"台車","pt":"metrô","ru":"трамвай"}
@@ -27944,7 +27958,7 @@
 {"L":"ulserada","C":["a"],"en":"ulcerated, frostbitten"}
 {"L":"ulsereta","C":["n"],"en":"canker sore, aphthous ulcer"}
 {"L":"ulserosa","C":["a"],"en":"ulcerous"}
-{"T":"r","L":"ultima","C":["a","fil"],"d":"esente o aveninte a la fini de un prosede; esente la esemplo la plu bon o la plu estrema","da":"sidste","de":"letzte","en":"ultimate (final or most extreme), last; utmost, prime; eventual","eo":"lasta, fina","es":"último, final","fr":"bout","it":"ultimo","nl":"laatste","pt":"último","ru":"окончательный, последний"}
+{"T":"r","L":"ultima","C":["a","fil"],"d":"esente o aveninte a la fini de un prosede, o como la aveni la plu resente en un serie cual va estende probable plu en la futur; esente la esemplo la plu bon o la plu estrema","v":"final","da":"sidste","de":"letzte","en":"ultimate (final or most extreme), last; utmost, prime; eventual","eo":"lasta, fina","es":"último, final","fr":"dernier","it":"ultimo","nl":"laatste","pt":"último","ru":"окончательный, последний"}
 {"L":"ultima","C":["av"],"ca":"finalment","de":"zuletzt","en":"ultimately, eventually, after all","eo":"laste, fine","es":"finalmente","fr":"enfin","ja":"最後に","pt":"finalmente"}
 {"L":"anteultima","C":["a"],"en":"penultimate, second from last, last but one"}
 {"L":"cuasi ultima","C":["a"],"en":"penultimate, second from last, last but one"}
