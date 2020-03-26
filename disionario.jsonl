@@ -14852,8 +14852,10 @@
 {"L":"ante leva de sol","C":["a"],"en":"predawn","fr":"avant le lever du soleil"}
 {"L":"levada","C":["a"],"en":"leavened","fr":"levé (fermenté)"}
 {"L":"levada natural","C":["n"],"en":"sourdough","fr":"pain au levain"}
-{"L":"levor","C":["n"],"en":"lifter","fr":"personne qui se lève (de son lit)"}
+{"L":"levor","C":["n"],"en":"riser (from bed)","fr":"personne qui se lève (de son lit)"}
 {"L":"levor de pesas","C":["n"],"en":"weightlifter","fr":"haltérophile"}
+{"L":"levor tarda","C":["n"],"en":"late riser","fr":"lève-tard"}
+{"L":"levor temprana","C":["n"],"en":"early riser","fr":"lève-tôt"}
 {"L":"releva","C":["vnt"],"en":"rise again","fr":"se relever"}
 {"L":"releva","C":["vt"],"en":"re-raise, raise again","fr":"relever, lever de nouveau"}
 {"T":"r","L":"levacarga","C":["n","vn","vec"],"d":"un veculo usada per leva cargas pesosa","i":"#","en":"lift truck, forklift truck, sideloader, stacker truck","fr":"chariot élévateur"}
@@ -14874,187 +14876,187 @@
 {"T":"r","L":"lezardo","C":["n","ret"],"d":"un retil ma no un serpente, tipal con corpo e coda longa e pel ru, scamosa o spinosa","t":"Lacertilia, {ma no serpentes","da":"firben","de":"Eidechse","en":"lizard","es":"lagarto","fr":"lézard"}
 {"L":"Lezardo","C":["n","ast"],"d":"un constela de la sielo norde","en":"Lacerta (constellation)","fr":"Lézard (constellation)"}
 {"T":"r","L":"lfn","C":["c"],"d":"Lingua Franca Nova","n":"Esta lingua ia es orijinal conoseda como `LFN`, ma oji la spele `elefen` es prefereda.","en":"Elefen, LFN","fr":"lfn, elefen, lingua franca nova"}
-{"T":"r","L":"lia","C":["vt"],"d":"fisa (un person o cosa) con corda o banda a alga cosa; formi (un noda); crea un junta o relata entre (persones o cosas); junta (cosas) per transmete enerjia, informa, etc","da":"binde","de":"binden, verbinden","en":"tie, bind, strap, tether, lash, moor; connect, link, plug in; liaise; associate (mentally)","es":"atar, amarrar, liar, ligar, enlazar, vincular, unir, juntar, vendar, ceñir","fr":"lier, attacher, nouer"}
-{"L":"lia","C":["n"],"d":"un ata de lia; un cosa liante; un bretela per teni un calsa o calseta","en":"link, bond, connection, ligation, linkage; liaison; covenant; suspender (UK), garter (US); association (mental)","fr":"lien, connexion, joint"}
-{"L":"lia a tera","C":["v"],"en":"ground, earth (an electrical device)"}
-{"L":"lia con filo","C":["n"],"en":"wired connection"}
-{"L":"lia la gamas de","C":["v"],"en":"bind the legs of, hobble, hogtie"}
-{"L":"lia la manos e pedes de","C":["v"],"en":"hogtie"}
-{"L":"lia sin filo","C":["n"],"en":"wireless connection"}
-{"L":"lia tubal","C":["n"],"en":"tubal ligation (medical)"}
-{"L":"deslia","C":["vt"],"p":"deslía","en":"untie, unbind, disconnect, unplug"}
-{"L":"desliada","C":["a"],"en":"untied, unbound"}
-{"L":"interlia","C":["vt","fis"],"d":"lia (du cosas) con lunlotra","en":"interconnect, interlink"}
-{"L":"interliada","C":["a"],"en":"interconnected, interlinked"}
-{"L":"liada","C":["a"],"en":"bound, tied"}
-{"L":"liador","C":["n"],"en":"plug (electric), connector"}
-{"L":"liante","C":["a"],"en":"connecting, connective"}
+{"T":"r","L":"lia","C":["vt"],"d":"fisa (un person o cosa) con corda o banda a alga cosa; formi (un noda); crea un junta o relata entre (persones o cosas); junta (cosas) per transmete enerjia, informa, etc","da":"binde","de":"binden, verbinden","en":"tie, bind, strap, tether, lash, moor; connect, link, plug in; liaise; associate (mentally)","es":"atar, amarrar, liar, ligar, enlazar, vincular, unir, juntar, vendar, ceñir","fr":"lier, attacher, nouer; (faire) joindre, relier; connecter, brancher; faire un lien avec, faire une relation avec, relier (une idée avec une autre, par association d'idées)"}
+{"L":"lia","C":["n"],"d":"un ata de lia; un cosa liante; un bretela per teni un calsa o calseta","en":"link, bond, connection, ligation, linkage; liaison; covenant; suspender (UK), garter (US); association (mental)","fr":"lien, connexion, joint; ligature; association (d'idées); bretelles"}
+{"L":"lia a tera","C":["v"],"en":"ground, earth (an electrical device)","fr":"brancher à la terre (électricité)"}
+{"L":"lia con filo","C":["n"],"en":"wired connection","fr":"connexion filaire"}
+{"L":"lia la gamas de","C":["v"],"en":"bind the legs of, hobble, hogtie","fr":"lier les jambes de"}
+{"L":"lia la manos e pedes de","C":["v"],"en":"hogtie","fr":"ligoter, lier les mains et les pieds de"}
+{"L":"lia sin filo","C":["n"],"en":"wireless connection","fr":"connexion sans fil"}
+{"L":"lia tubal","C":["n"],"en":"tubal ligation (medical)","fr":"ligature des trompes"}
+{"L":"deslia","C":["vt"],"p":"deslía","en":"untie, unbind, disconnect, unplug","fr":"délier, déconnecter, débrancher"}
+{"L":"desliada","C":["a"],"en":"untied, unbound","fr":"délié"}
+{"L":"interlia","C":["vt","fis"],"d":"lia (du cosas) con lunlotra","en":"interconnect, interlink","fr":"interconnecter, relier, interrelier (deux ou plusieurs choses entre elles)"}
+{"L":"interliada","C":["a"],"en":"interconnected, interlinked","fr":"interconnecté, relié, interrelié"}
+{"L":"liada","C":["a"],"en":"bound, tied","fr":"lié, attaché, ligoté"}
+{"L":"liador","C":["n"],"en":"plug (electric), connector","fr":"prise (électrique), connecteur"}
+{"L":"liante","C":["a"],"en":"connecting, connective","fr":"connectif, qui relie, de connexion"}
 {"L":"liante","C":["n"],"en":"ligature"}
-{"L":"nonliada","C":["a"],"en":"unconnected, disjointed"}
-{"L":"sulia","C":["vt"],"d":"(un satelite) transmete (datos) a la tera","en":"downlink"}
-{"L":"sulia","C":["n"],"en":"downlink"}
-{"L":"supralia","C":["vt"],"d":"transmete (datos) a un satelite o otra comunicador supra la tera","en":"uplink"}
-{"L":"supralia","C":["n"],"en":"uplink"}
-{"L":"verbo liante","C":["n"],"d":"un verbo nontransitiva cual es sempre acompaniada par un completinte ajetivin o nomin, como en `los es libros`, `acel pare riable`, `me senti felis`","en":"linking verb, copula"}
-{"T":"r","L":"liama","C":["n","mam"],"d":"un mamal en familia de camel, usada per transporta cargas en la Andes e valuada per sua lana suave","i":"#","t":"Lama glama","en":"llama (animal)","fr":"lama"}
-{"T":"r","L":"liana","C":["n","pla"],"d":"un planta leniosa e trepante cual pende de arbores, tipal en forestas pluvosa tropical","en":"liana (plant)","fr":"liane"}
-{"T":"r","L":"liase","C":["n","bio","cim"],"d":"un enzima cual fende lias variosa par modos otra ca idrolise e osidi","en":"lyase"}
+{"L":"nonliada","C":["a"],"en":"unconnected, disjointed","fr":"non connecté, déconnecté, disjoint, délié"}
+{"L":"sulia","C":["vt"],"d":"(un satelite) transmete (datos) a la tera","en":"downlink","fr":"transmettre par liaison descendante (d'un satellite à la Terre)"}
+{"L":"sulia","C":["n"],"en":"downlink","fr":"liaison descendante (d'un satellite à la Terre)"}
+{"L":"supralia","C":["vt"],"d":"transmete (datos) a un satelite o otra comunicador supra la tera","en":"uplink","fr":"transmettre par liaison montante (de la Terre à un satellite)"}
+{"L":"supralia","C":["n"],"en":"uplink","fr":"liaison montante (de la Terre à un satellite)"}
+{"L":"verbo liante","C":["n"],"d":"un verbo nontransitiva cual es sempre acompaniada par un completinte ajetivin o nomin, como en `los es libros`, `acel pare riable`, `me senti felis`","en":"linking verb, copula","fr":"verbe d'état, verbe attributif, copule"}
+{"T":"r","L":"liama","C":["n","mam"],"d":"un mamal en familia de camel, usada per transporta cargas en la Andes e valuada per sua lana suave","i":"#","t":"Lama glama","en":"llama (animal)","fr":"lama (animal)"}
+{"T":"r","L":"liana","C":["n","pla"],"d":"un planta leniosa e trepante cual pende de arbores, tipal en forestas pluvosa tropical","en":"liana (plant)","fr":"liane (plante)"}
+{"T":"r","L":"liase","C":["n","bio","cim"],"d":"un enzima cual fende lias variosa par modos otra ca idrolise e osidi","en":"lyase","fr":"lyase"}
 {"T":"r","L":"libela","C":["n","artr"],"d":"un inseto rapida volante e xasante, con du duples de alas grande e transparente","i":"#","t":"Odonata","en":"dragonfly, damselfly","fr":"libellule"}
-{"T":"r","L":"Liberia","C":["n","jeo"],"c":"Monrovia","d":"un pais a la costa de la Mar Atlantica en Africa ueste","i":"#","en":"Liberia"}
-{"L":"liberian","C":["a"],"en":"Liberian"}
-{"L":"liberian","C":["n","dem"],"en":"Liberian"}
-{"T":"r","L":"libertarisme","C":["n","gov"],"d":"un politica estrema libraliste cual recomenda intervenis minima par la governa en la vives de sitadanes","en":"libertarianism"}
-{"L":"libertariste","C":["a"],"en":"libertarian"}
-{"L":"libertariste","C":["n"],"en":"libertarian"}
-{"T":"r","L":"Libia","C":["n","jeo"],"c":"Tripoli","d":"un pais en Africa norde en la deserto Sahara, con costa a la Mar Mediteraneo","i":"#","en":"Libya"}
-{"L":"libi","C":["a"],"en":"Libyan"}
-{"L":"libi","C":["n","dem"],"en":"Libyan"}
-{"T":"r","L":"libido","C":["n","bio","uma"],"d":"la desira sesal","en":"libido, sex drive, lust"}
-{"L":"libidal","C":["a"],"en":"libidinal"}
-{"L":"libidosa","C":["a"],"en":"libidinous, lustful, randy, horny"}
-{"L":"libidosa","C":["n"],"en":"sexpot, voluptuary"}
-{"L":"sin libido","C":["a"],"en":"frigid"}
-{"L":"tro libidosa","C":["a"],"en":"oversexed"}
-{"T":"r","L":"libra","C":["n","fis"],"d":"un unia de pesa usada en alga paises, egal a 0,4536 kg","en":"pound (weight)"}
+{"T":"r","L":"Liberia","C":["n","jeo"],"c":"Monrovia","d":"un pais a la costa de la Mar Atlantica en Africa ueste","i":"#","en":"Liberia","fr":"Liberia"}
+{"L":"liberian","C":["a"],"en":"Liberian","fr":"libérien"}
+{"L":"liberian","C":["n","dem"],"en":"Liberian","fr":"Libérien (personne)"}
+{"T":"r","L":"libertarisme","C":["n","gov"],"d":"un politica estrema libraliste cual recomenda intervenis minima par la governa en la vives de sitadanes","en":"libertarianism","fr":"libertarisme"}
+{"L":"libertariste","C":["a"],"en":"libertarian","fr":"libertarien"}
+{"L":"libertariste","C":["n"],"en":"libertarian","fr":"libertarien"}
+{"T":"r","L":"Libia","C":["n","jeo"],"c":"Tripoli","d":"un pais en Africa norde en la deserto Sahara, con costa a la Mar Mediteraneo","i":"#","en":"Libya","fr":"Libye"}
+{"L":"libi","C":["a"],"en":"Libyan","fr":"libyen"}
+{"L":"libi","C":["n","dem"],"en":"Libyan","fr":"Libyen"}
+{"T":"r","L":"libido","C":["n","bio","uma"],"d":"la desira sesal","en":"libido, sex drive, lust","fr":"libido, désir (sexuel)"}
+{"L":"libidal","C":["a"],"en":"libidinal","fr":"libidinal"}
+{"L":"libidosa","C":["a"],"en":"libidinous, lustful, randy, horny","fr":"libidineux"}
+{"L":"libidosa","C":["n"],"en":"sexpot, voluptuary","fr":"personne sexy, personne voluptueuse, personne libidineuse"}
+{"L":"sin libido","C":["a"],"en":"frigid","fr":"frigide"}
+{"L":"tro libidosa","C":["a"],"en":"oversexed","fr":"obsédé par le sexe, obsédé sexuel, sex-addict"}
+{"T":"r","L":"libra","C":["n","fis"],"d":"un unia de pesa usada en alga paises, egal a 0,4536 kg","en":"pound (weight)","fr":"(une) livre (mesure de poids)"}
 {"T":"r","L":"libre","C":["a","gov"],"d":"no controlada par un otra; capas de ata como on desira","da":"fri","de":"frei","en":"free, at liberty, at large; freelance","es":"libre","fr":"libre"}
-{"L":"libre","C":["n"],"en":"freeman, freewoman"}
-{"L":"libral","C":["a"],"d":"(educa o artes) studiada per sua propre interesa, e no per benefica pratical","en":"liberal (education, arts)"}
-{"L":"libralisme","C":["n"],"en":"liberalism"}
-{"L":"libraliste","C":["a"],"en":"liberal, laissez-faire (politics)"}
-{"L":"libraliste","C":["n"],"en":"liberal"}
-{"L":"libre con garantia","C":["a"],"en":"free on bail, out on bail"}
-{"L":"libri","C":["vnt"],"en":"free, liberate, release, emancipate, unleash, rid"}
-{"L":"libri","C":["vt"],"en":"free, liberate, release, emancipate, unleash, rid"}
-{"L":"libri","C":["n"],"en":"liberation, emancipation, release; quittance"}
-{"L":"libri con garantia","C":["vt"],"en":"release on bail"}
-{"L":"libri de sclavia","C":["n"],"en":"freedom from slavery, manumission"}
-{"L":"libria","C":["n"],"en":"freedom, liberty, leeway"}
-{"L":"libria de jornalisme","C":["n"],"en":"freedom of the press"}
-{"L":"libria limitada","C":["n"],"en":"parole"}
-{"L":"libria oservada","C":["n"],"en":"probation"}
-{"L":"libror","C":["n"],"en":"liberator"}
-{"L":"nonlibre","C":["a"],"en":"unfree, restricted, captive"}
-{"L":"nonlibria","C":["n"],"en":"captivity"}
+{"L":"libre","C":["n"],"en":"freeman, freewoman","fr":"personne libre (homme libre, femme libre)"}
+{"L":"libral","C":["a"],"d":"(educa o artes) studiada per sua propre interesa, e no per benefica pratical","en":"liberal (education, arts)","fr":"digne d'un homme libre, libéral (éducation libérale, arts libéraux)"}
+{"L":"libralisme","C":["n"],"en":"liberalism","fr":"libéralisme"}
+{"L":"libraliste","C":["a"],"en":"liberal, laissez-faire (politics)","fr":"libéral (politique)"}
+{"L":"libraliste","C":["n"],"en":"liberal","fr":"libéral (politique)"}
+{"L":"libre con garantia","C":["a"],"en":"free on bail, out on bail","fr":"en liberté sous caution"}
+{"L":"libri","C":["vnt"],"en":"free, liberate, release, emancipate, unleash, rid","fr":"se libérer, devenir libre, s'émanciper, retrouver sa liberté, être relâché"}
+{"L":"libri","C":["vt"],"en":"free, liberate, release, emancipate, unleash, rid","fr":"libérer, rendre libre, émanciper, rendre sa liberté à, mettre en liberté, relâcher; affranchir (de l'esclavage)"}
+{"L":"libri","C":["n"],"en":"liberation, emancipation, release; quittance","fr":"libération, émancipation"}
+{"L":"libri con garantia","C":["vt"],"en":"release on bail","fr":"libérer sous caution"}
+{"L":"libri de sclavia","C":["n"],"en":"freedom from slavery, manumission","fr":"affranchissement (de l'esclavage)"}
+{"L":"libria","C":["n"],"en":"freedom, liberty, leeway","fr":"liberté"}
+{"L":"libria de jornalisme","C":["n"],"en":"freedom of the press","fr":"liberté de la presse, liberté d'expression"}
+{"L":"libria limitada","C":["n"],"en":"parole","fr":"liberté sur parole"}
+{"L":"libria oservada","C":["n"],"en":"probation","fr":"liberté surveillée"}
+{"L":"libror","C":["n"],"en":"liberator","fr":"libérateur"}
+{"L":"nonlibre","C":["a"],"en":"unfree, restricted, captive","fr":"non libre, captif"}
+{"L":"nonlibria","C":["n"],"en":"captivity","fr":"privation de liberté, captivité"}
 {"T":"r","L":"libro","C":["n"],"d":"un obra scriveda o primida, composada de pajes colida o coseda a lunlotra a un lado e reliada","i":"#","da":"bog","de":"Buch","en":"book","es":"libro","fr":"livre"}
-{"L":"libro anial","C":["n"],"en":"yearbook, annual"}
-{"L":"libro de aprende","C":["n"],"en":"textbook"}
-{"L":"libro de cantas","C":["n"],"en":"songbook"}
-{"L":"libro de consulta","C":["n"],"en":"reference book"}
-{"L":"libro de contas","C":["n"],"en":"ledger"}
-{"L":"libro de cuoro","C":["n"],"en":"leather-bound book"}
-{"L":"libro de eserse","C":["n"],"en":"exercise book, practice book"}
-{"L":"libro de fables","C":["n"],"en":"story book"}
-{"L":"libro de fato","C":["n"],"en":"non-fiction book"}
-{"L":"libro de imajina","C":["n"],"en":"fiction book"}
-{"L":"libro de imnos","C":["n"],"en":"hymn book, hymnal"}
-{"L":"libro de mapas","C":["n"],"en":"atlas"}
-{"L":"libro de modeles","C":["n"],"en":"copybook"}
-{"L":"libro de notas","C":["n"],"en":"notebook"}
-{"L":"libro de pox","C":["n"],"en":"pocketbook, small notebook"}
-{"L":"libro de preas","C":["n"],"en":"prayer book, book of prayer"}
-{"L":"libro de resetas","C":["n"],"en":"recipe book, cookbook"}
-{"L":"libro de scola","C":["n"],"en":"schoolbook"}
-{"L":"libro de stratejia","C":["n"],"en":"playbook"}
-{"L":"libro de viaja","C":["n"],"en":"travel guide; travelog|ue"}
-{"L":"libro de xeces","C":["n"],"en":"checkbook|chequebook"}
-{"L":"libro dur","C":["n"],"en":"hardback, hardcover"}
-{"L":"libro enrolada","C":["n"],"i":"#","en":"scroll"}
+{"L":"libro anial","C":["n"],"en":"yearbook, annual","fr":"annale, annuaire"}
+{"L":"libro de aprende","C":["n"],"en":"textbook","fr":"livre éducatif"}
+{"L":"libro de cantas","C":["n"],"en":"songbook","fr":"recueil de chants, recueil de chansons"}
+{"L":"libro de consulta","C":["n"],"en":"reference book","fr":"livre de référence, livre de chevet"}
+{"L":"libro de contas","C":["n"],"en":"ledger","fr":"recueil de contes"}
+{"L":"libro de cuoro","C":["n"],"en":"leather-bound book","fr":"livre relié en cuir, livre à couverture de cuir"}
+{"L":"libro de eserse","C":["n"],"en":"exercise book, practice book","fr":"cahier"}
+{"L":"libro de fables","C":["n"],"en":"story book","fr":"recueil de fables"}
+{"L":"libro de fato","C":["n"],"en":"non-fiction book","fr":"enquête, histoire vraie, biographie, autobiographie, relation, compte-rendu"}
+{"L":"libro de imajina","C":["n"],"en":"fiction book","fr":"livre de fiction, roman"}
+{"L":"libro de imnos","C":["n"],"en":"hymn book, hymnal","fr":"recueil de cantiques"}
+{"L":"libro de mapas","C":["n"],"en":"atlas","fr":"atlas"}
+{"L":"libro de modeles","C":["n"],"en":"copybook","fr":"cahier d'écrture"}
+{"L":"libro de notas","C":["n"],"en":"notebook","fr":"carnet de notes"}
+{"L":"libro de pox","C":["n"],"en":"pocketbook, small notebook","fr":"livre de poche, livre au format de poche, manuel"}
+{"L":"libro de preas","C":["n"],"en":"prayer book, book of prayer","fr":"missel, livre de messe"}
+{"L":"libro de resetas","C":["n"],"en":"recipe book, cookbook","fr":"livre de cuisine, recueil de recettes"}
+{"L":"libro de scola","C":["n"],"en":"schoolbook","fr":"livre scolaire, manuel scolaire"}
+{"L":"libro de stratejia","C":["n"],"en":"playbook","fr":"playbook"}
+{"L":"libro de viaja","C":["n"],"en":"travel guide; travelog|ue","fr":"guide (de voyage)"}
+{"L":"libro de xeces","C":["n"],"en":"checkbook|chequebook","fr":"carnet de chèque, chéquier"}
+{"L":"libro dur","C":["n"],"en":"hardback, hardcover","fr":"disque dur"}
+{"L":"libro enrolada","C":["n"],"i":"#","en":"scroll","fr":"rouleau, volumen (manuscrit roulé)"}
 {"L":"libro mol","C":["n"],"i":"#","en":"paperback, softback"}
-{"L":"libro nonvendeda","C":["n"],"en":"remaindered book, unsold book"}
-{"L":"libreria","C":["n"],"i":"#","en":"bookshop"}
-{"L":"libreta","C":["n"],"en":"booklet, pamphlet, brochure; libretto"}
-{"L":"libreta de fosfores","C":["n"],"en":"book of matches, matchbook"}
-{"L":"libron","C":["n"],"en":"tome"}
-{"T":"r","L":"libromanica","C":["a","uma"],"d":"un person ci ama libros e leje","en":"book fanatic, bookworm"}
-{"L":"libromanica","C":["n"],"en":"book fanatic, bookworm"}
+{"L":"libro nonvendeda","C":["n"],"en":"remaindered book, unsold book","fr":"(livre) invendu"}
+{"L":"libreria","C":["n"],"i":"#","en":"bookshop","fr":"librairie"}
+{"L":"libreta","C":["n"],"en":"booklet, pamphlet, brochure; libretto","fr":"livret, fascicule, brochure, opuscule, plaquette, libelle; livret (musique)"}
+{"L":"libreta de fosfores","C":["n"],"en":"book of matches, matchbook","fr":"pochette d'allumettes"}
+{"L":"libron","C":["n"],"en":"tome","fr":"volume, tome, ouvrage, somme, pavé"}
+{"T":"r","L":"libromanica","C":["a","uma"],"d":"un person ci ama libros e leje","en":"book fanatic, bookworm","fr":"bibliophile"}
+{"L":"libromanica","C":["n"],"en":"book fanatic, bookworm","fr":"bibliophilie"}
 {"T":"r","L":"licen","C":["n","pla"],"d":"un planta simple e lenta cresente, tipal abitante sur rocas, mures e arbores","i":"#","t":"Ascomycota, Basidiomycota","en":"lichen (plant)","fr":"lichen"}
 {"T":"r","L":"liciris","C":["n","pla","cos"],"d":"un planta en familia de piso; un materia negra e bonodorinte, produida par vapori la jus de la radis de esta planta; un confeto saborida con esta","i":"#","t":"Glycyrrhiza glabra","en":"licorice|liquorice","fr":"réglisse"}
-{"T":"r","L":"licopodio","C":["n","pla"],"d":"un planta cual sembla mos, con talos raminte e folias nondivideda","i":"#","t":"Lycopodiaceae","en":"clubmoss (plant)"}
+{"T":"r","L":"licopodio","C":["n","pla"],"d":"un planta cual sembla mos, con talos raminte e folias nondivideda","i":"#","t":"Lycopodiaceae","en":"clubmoss (plant)","fr":"lycopode"}
 {"T":"r","L":"licor","C":["n","cos"],"d":"un bevida alcolosa forte e dulse, tipal bevida pos un come","en":"liqueur","fr":"liqueur"}
-{"T":"r","L":"Lictenstain","C":["n","jeo"],"c":"Vaduz","d":"un pais peti en la Alpes, entre Suiz e Osteraic","i":"#","en":"Liechtenstein"}
-{"L":"lictenstaines","C":["a"],"en":"Liechtenstein"}
-{"L":"lictenstaines","C":["n","dem"],"en":"Liechtensteiner"}
+{"T":"r","L":"Lictenstain","C":["n","jeo"],"c":"Vaduz","d":"un pais peti en la Alpes, entre Suiz e Osteraic","i":"#","en":"Liechtenstein","fr":"Liechtenstein"}
+{"L":"lictenstaines","C":["a"],"en":"Liechtenstein","fr":"du Liechtenstein, liechtensteinois"}
+{"L":"lictenstaines","C":["n","dem"],"en":"Liechtensteiner","fr":"Liechtensteinois, habitant du Liechtenstein"}
 {"T":"r","L":"licuida","C":["a","fis"],"d":"con un coere como acua o olio, libre corente ma con volum constante; (metafor) cualce cosa cual move libre","da":"væske","en":"liquid (including assets), fluid","es":"líquido","fr":"liquide"}
 {"L":"licuida","C":["n"],"de":"Flüssigkeit","en":"liquid, fluid","fr":"liquide"}
-{"L":"licuida de coreti","C":["n"],"en":"correction fluid, whiteout"}
-{"L":"licuidador","C":["n"],"en":"liquidizer|is, blender"}
-{"L":"licuidi","C":["vnt"],"en":"liquefy, liquify, liquidize|is; liquidate"}
-{"L":"licuidi","C":["vt"],"en":"liquefy, liquify, liquidize|is; liquidate"}
-{"L":"licuidi","C":["n"],"en":"liquidation"}
-{"L":"licuidia","C":["n"],"en":"liquidity"}
+{"L":"licuida de coreti","C":["n"],"en":"correction fluid, whiteout","fr":"liquide correcteur, correcteur liquide, blanco, tipex"}
+{"L":"licuidador","C":["n"],"en":"liquidizer|is, blender","fr":"mixeur, blender"}
+{"L":"licuidi","C":["vnt"],"en":"liquefy, liquify, liquidize|is; liquidate","fr":"se liquéfier; être liquidé"}
+{"L":"licuidi","C":["vt"],"en":"liquefy, liquify, liquidize|is; liquidate","fr":"liquéfier; liquider"}
+{"L":"licuidi","C":["n"],"en":"liquidation","fr":"liquéfaction; liquidation"}
+{"L":"licuidia","C":["n"],"en":"liquidity","fr":"liquidité"}
 {"L":"licuidor","C":["n"],"en":"liquidator"}
-{"T":"r","L":"Lidia","C":["n","jeo","ist"],"d":"un rejion antica de Anatolia ueste, florinte en la sentenio 7 aec","i":"#","en":"Lydia"}
-{"T":"r","L":"Lietuva","C":["n","jeo"],"c":"Vilnius","d":"un pais a la costa sude-este de la Mar Baltica","i":"#","en":"Lithuania"}
-{"L":"lietuvisce","C":["a"],"en":"Lithuanian"}
-{"L":"lietuvisce","C":["n","dem"],"en":"Lithuanian"}
-{"T":"r","L":"liga","C":["n","spo"],"d":"un organiza de ecipos cual jua contra lunlotra en un torneo de sporte","en":"league (for sport championship)"}
-{"T":"r","L":"ligamento","C":["n","anat"],"d":"un banda corta de texeda dur, flexable e fibrosa cual junta du osos o cartilajes; un plia membranin cual suporta o manteni la loca de un organo","en":"ligament, sinew"}
-{"T":"r","L":"ligase","C":["n","bio","cim"],"d":"un enzima cual lia du moleculas con lias covalente","en":"ligase"}
-{"T":"r","L":"lignito","C":["n","cim"],"d":"un carbon brun e mol, formida de torba natural compresada","en":"lignite, brown coal"}
-{"T":"r","L":"Liguria","C":["n","jeo"],"d":"la parte de Italia norde-ueste cual estende longo la costa mediteranean de Toscana a la borda de Frans","i":"#","en":"Liguria"}
-{"L":"ligurian","C":["a"],"en":"Ligurian"}
-{"L":"ligurian","C":["n"],"en":"Ligurian"}
-{"L":"Mar Liguria","C":["n","jeo"],"i":"#","en":"Ligurian Sea"}
-{"T":"r","L":"ligustro","C":["n","pla"],"d":"un arboreta en familia de olivo, con flores peti e blanca e bacas venenosa","i":"#","t":"Ligustrum","en":"privet (plant)"}
-{"T":"r","L":"lil","C":["n","pla"],"d":"un planta cual crese de un bulbo, con flores grande e trompetin","i":"#","t":"Lilium","en":"lily","fr":"lis"}
-{"L":"lil de dia","C":["n","pla"],"d":"un planta perene eurasian con flores grande e colorosa cual abri per sola un dia","t":"Hemerocallis","en":"daylily"}
-{"L":"lil-de-mar","C":["n","ani"],"d":"un ecinodermato fisada, con corpo peti sur tronceta longa e sesionida, con brasos plumin per catura comedas","i":"#","t":"Bourgueticrinida","en":"sea lily"}
-{"L":"lil de neva","C":["n","pla"],"i":"#","t":"Galanthus","en":"snowdrop"}
-{"L":"lil tigrin","C":["n","pla"],"i":"#","t":"Lilium lancifolium","en":"tiger lily"}
-{"T":"r","L":"lila","C":["a","col"],"d":"pal rosin violeta","i":"#","en":"lilac (color|ur)"}
+{"T":"r","L":"Lidia","C":["n","jeo","ist"],"d":"un rejion antica de Anatolia ueste, florinte en la sentenio 7 aec","i":"#","en":"Lydia","fr":"Lydie"}
+{"T":"r","L":"Lietuva","C":["n","jeo"],"c":"Vilnius","d":"un pais a la costa sude-este de la Mar Baltica","i":"#","en":"Lithuania","fr":"Lithuanie"}
+{"L":"lietuvisce","C":["a"],"en":"Lithuanian","fr":"lithuanien"}
+{"L":"lietuvisce","C":["n","dem"],"en":"Lithuanian","fr":"Lithuanien"}
+{"T":"r","L":"liga","C":["n","spo"],"d":"un organiza de ecipos cual jua contra lunlotra en un torneo de sporte","en":"league (for sport championship)","fr":"ligue sportive"}
+{"T":"r","L":"ligamento","C":["n","anat"],"d":"un banda corta de texeda dur, flexable e fibrosa cual junta du osos o cartilajes; un plia membranin cual suporta o manteni la loca de un organo","en":"ligament, sinew","fr":"ligament, tendon"}
+{"T":"r","L":"ligase","C":["n","bio","cim"],"d":"un enzima cual lia du moleculas con lias covalente","en":"ligase","fr":"ligase"}
+{"T":"r","L":"lignito","C":["n","cim"],"d":"un carbon brun e mol, formida de torba natural compresada","en":"lignite, brown coal","fr":"lignite"}
+{"T":"r","L":"Liguria","C":["n","jeo"],"d":"la parte de Italia norde-ueste cual estende longo la costa mediteranean de Toscana a la borda de Frans","i":"#","en":"Liguria","fr":"Ligurie"}
+{"L":"ligurian","C":["a"],"en":"Ligurian","fr":"ligure, ligurien"}
+{"L":"ligurian","C":["n"],"en":"Ligurian","fr":"Ligure, Ligurien (personne); ligure, ligurien (langue)"}
+{"L":"Mar Liguria","C":["n","jeo"],"i":"#","en":"Ligurian Sea","fr":"mer Ligure, mer de Ligurie, mer Ligurienne"}
+{"T":"r","L":"ligustro","C":["n","pla"],"d":"un arboreta en familia de olivo, con flores peti e blanca e bacas venenosa","i":"#","t":"Ligustrum","en":"privet (plant)","fr":"troène, troëne"}
+{"T":"r","L":"lil","C":["n","pla"],"d":"un planta cual crese de un bulbo, con flores grande e trompetin","i":"#","t":"Lilium","en":"lily","fr":"lys, lis"}
+{"L":"lil de dia","C":["n","pla"],"d":"un planta perene eurasian con flores grande e colorosa cual abri per sola un dia","t":"Hemerocallis","en":"daylily","fr":"hémérocalle"}
+{"L":"lil-de-mar","C":["n","ani"],"d":"un ecinodermato fisada, con corpo peti sur tronceta longa e sesionida, con brasos plumin per catura comedas","i":"#","t":"Bourgueticrinida","en":"sea lily","fr":"crinoïde, lys-de-mer"}
+{"L":"lil de neva","C":["n","pla"],"i":"#","t":"Galanthus","en":"snowdrop","fr":"perce-neige"}
+{"L":"lil tigrin","C":["n","pla"],"i":"#","t":"Lilium lancifolium","en":"tiger lily","fr":"lis tigré"}
+{"T":"r","L":"lila","C":["a","col"],"d":"pal rosin violeta","i":"#","en":"lilac (color|ur)","fr":"lilas (couleur)"}
 {"L":"lila","C":["n"],"d":"un arboreta en familia de olivo, con flores violeta, ros o blanca e bonodorosa","i":"lila-planta","t":"Syringa","en":"lilac (plant)","fr":"lilas"}
-{"T":"r","L":"lim","C":["n","pla","cos"],"d":"un arbor de la jenero _Citrus_; la fruta de esta","i":"#","t":"Citrus × aurantifolia, Citrus × latifollia","en":"lime (tree, fruit)"}
-{"L":"limeta","C":["n","pla","cos"],"i":"#","t":"Citrus × limetta","en":"sweet lime, sweet lemon, sweet limetta"}
-{"L":"limon","C":["n","pla","cos"],"i":"#","t":"Citrus × limon","en":"lemon"}
-{"L":"limonin","C":["a"],"en":"lemony, lemonlike"}
-{"L":"limonosa","C":["a"],"en":"lemony"}
+{"T":"r","L":"lim","C":["n","pla","cos"],"d":"un arbor de la jenero _Citrus_; la fruta de esta","i":"#","t":"Citrus × aurantifolia, Citrus × latifollia","en":"lime (tree, fruit)","fr":"limettier (arbre); lime (fruit)"}
+{"L":"limeta","C":["n","pla","cos"],"i":"#","t":"Citrus × limetta","en":"sweet lime, sweet lemon, sweet limetta","fr":"limettier doux (arbre); limette, citron doux, lime méditerranéenne (fruit)"}
+{"L":"limon","C":["n","pla","cos"],"i":"#","t":"Citrus × limon","en":"lemon","fr":"citronnier (arbre); citron (fruit)"}
+{"L":"limonin","C":["a"],"en":"lemony, lemonlike","fr":"citronné"}
+{"L":"limonosa","C":["a"],"en":"lemony","fr":"citronné"}
 {"T":"r","L":"lima","C":["n","util"],"d":"un util con surfas ru, comun de aser, usada per lisa o formi un materia dur","i":"#","da":"fil (redskab)","de":"Feile","en":"file (tool)","es":"lima","fr":"lime"}
-{"L":"lima de emeri","C":["n"],"i":"#","en":"emery board"}
-{"L":"lima de ungia","C":["n"],"en":"nail file"}
-{"L":"limi","C":["vt"],"en":"file (smoothe)"}
+{"L":"lima de emeri","C":["n"],"i":"#","en":"emery board","fr":"papier de verre, toile émeri"}
+{"L":"lima de ungia","C":["n"],"en":"nail file","fr":"lime à ongle"}
+{"L":"limi","C":["vt"],"en":"file (smoothe)","fr":"limer"}
 {"T":"r","L":"limasa","C":["n","mol"],"d":"un molusco con pel durante, simil a caracoles ma sin conca","i":"#","t":"Gastropoda","en":"slug","fr":"limace"}
-{"T":"r","L":"limbica","C":["a","anat"],"d":"pertinente a un sistem de nervos en la serebro cual es asosiada con instintos e emosias","en":"limbic"}
-{"T":"r","L":"limbo","C":["n","rel"],"d":"(en alga formas de cristianisme) la abita de la spiritos de enfantes nonbatizada o de bon persones ci ia mori ante la aveni de Cristo","en":"limbo (religion)"}
-{"T":"r","L":"limbo","C":["n","mus"],"d":"un dansa de la Indias Ueste en cual on curvi a retro per pasa su un bara orizonal","i":"#","en":"limbo (dance)"}
-{"T":"r","L":"Limburg","C":["n","jeo"],"d":"un provinse de Nederland e de Beljia","en":"Limburg (Dutch or Belgian province)"}
-{"L":"limburgan","C":["a"],"en":"Limburgish, Limburgian"}
-{"T":"r","L":"limeric","C":["n"],"d":"un poesia comica e tipal vulgar, con sinco linias rimante en la sistem AABBA, de cual sua du linias prima e la final es longa e la otras es corta, popularida par Edward Lear","en":"limerick"}
+{"T":"r","L":"limbica","C":["a","anat"],"d":"pertinente a un sistem de nervos en la serebro cual es asosiada con instintos e emosias","en":"limbic","fr":"limbique"}
+{"T":"r","L":"limbo","C":["n","rel"],"d":"(en alga formas de cristianisme) la abita de la spiritos de enfantes nonbatizada o de bon persones ci ia mori ante la aveni de Cristo","en":"limbo (religion)","fr":"limbes"}
+{"T":"r","L":"limbo","C":["n","mus"],"d":"un dansa de la Indias Ueste en cual on curvi a retro per pasa su un bara orizonal","i":"#","en":"limbo (dance)","fr":"limbo (danse)"}
+{"T":"r","L":"Limburg","C":["n","jeo"],"d":"un provinse de Nederland e de Beljia","en":"Limburg (Dutch or Belgian province)","fr":"Limbourg"}
+{"L":"limburgan","C":["a"],"en":"Limburgish, Limburgian","fr":"Limbourgeois (personne); limbourgeois (langue)"}
+{"T":"r","L":"limeric","C":["n"],"d":"un poesia comica e tipal vulgar, con sinco linias rimante en la sistem AABBA, de cual sua du linias prima e la final es longa e la otras es corta, popularida par Edward Lear","en":"limerick","fr":"limerick (forme poétique fixe anglaise)"}
 {"T":"r","L":"limfa","C":["n","bio"],"d":"un licuida sin color, conteninte selulas blanca de sangue, cual bani la texedas e drena tra la sistem limfal a la sistem sangual","en":"lymph","fr":"lymphe"}
-{"L":"limfal","C":["a"],"en":"lymphatic"}
-{"T":"r","L":"limfo-","C":["pf","tecn"],"d":"limfa","en":"lympho- (lymph)"}
-{"T":"r","L":"limfoblasto","C":["n","bio"],"d":"un selula nonormal, semblante un limfosite grande, produida en cuantias grande en un forma de leucemia","en":"lymphoblast (biology)"}
-{"T":"r","L":"limfoide","C":["a","bio"],"d":"pertinente a la texedas cual produi limfosites e anticorpos, incluinte la nodas limfal, la timo, la tonsiles e la spleno","en":"lymphoid"}
-{"T":"r","L":"limfoma","C":["n","med"],"d":"un canser de la nodas limfal","en":"lymphoma"}
-{"L":"limfoma de Hodgkin","C":["n","med"],"d":"un maladia de la texedas limfal, tipal remediable","p":"hodjcin","en":"Hodgkin's lymphoma"}
-{"T":"r","L":"limfopoiese","C":["n","bio"],"d":"la prosede de jenera limfosites","en":"lymphopoiesis (biology)"}
-{"T":"r","L":"limfosite","C":["n","bio"],"d":"un forma de leucosite peti con un sola nucleo ronda","en":"lymphocyte, white blood cell"}
-{"L":"limfosite B","C":["n"],"en":"B-cell"}
-{"L":"limfosite NK","C":["n"],"en":"natural killer cell"}
-{"L":"limfosite T","C":["n"],"en":"T-cell"}
-{"L":"limfosital","C":["a"],"en":"lymphocytic"}
-{"T":"r","L":"limina","C":["n"],"d":"la punto de entra a un casa o sala; un grandia o intensia cual produi un reata o alga otra aveni cuando on esede lo","en":"threshold"}
-{"L":"suliminal","C":["a"],"en":"subliminal"}
-{"T":"r","L":"limita","C":["vt"],"d":"no permete ce (un person o cosa) estende ultra un punto, nivel, cuantia o grandia spesifada","en":"limit, delimit; cap (price)","fr":"limiter"}
-{"L":"limita","C":["n"],"da":"grænse, begrænsning","de":"Grenze","en":"limit, boundary, bound, frontier, delimitation, threshold, cut-off, limitation","es":"límite, frontera, borde"}
-{"L":"limita de tempo","C":["n"],"en":"deadline, time limit"}
-{"L":"limita masima","C":["n"],"en":"upper limit, cap, ceiling"}
-{"L":"limitada","C":["a"],"en":"limited, finite, bounded"}
-{"L":"limital","C":["a"],"en":"borderline (just on the edge, personality disorder)"}
-{"L":"limitas","C":["n","pl"],"en":"limits, bounds, extent, ambit, scope"}
-{"L":"nonlimitada","C":["a"],"en":"unlimited, infinite, boundless, unbounded, countless, innumerable"}
-{"L":"pone un limita","C":["v"],"en":"impose a limit, draw the line"}
-{"L":"sin limita","C":["a"],"en":"unlimited, limitless, infinite, boundless, unbounded, countless, innumerable"}
-{"T":"r","L":"limonada","C":["n","cos"],"d":"un bevida preparada de jus de limon, acua e zucar","i":"#","en":"lemonade","fr":"citron"}
-{"T":"r","L":"limpa","C":["a"],"d":"sin susia o manxas; lavada; con bon ijenia; sin contaminantes","da":"ren (ikke beskidt)","de":"sauber","en":"clean","es":"limpio, aseado","fr":"propre"}
-{"L":"limpi","C":["vnt"],"en":"become clean, clean up"}
-{"L":"limpi","C":["vt"],"en":"clean, clean up, wipe; mop; sweep (chimney)"}
-{"L":"limpi etnical","C":["n"],"en":"ethnic cleansing"}
-{"L":"limpia","C":["n"],"en":"cleanliness"}
-{"L":"limpida","C":["a"],"en":"cleaned"}
-{"L":"limpor","C":["n"],"en":"cleaner (person), scrubwoman, charwoman, charlady"}
-{"L":"limpor de sala","C":["n"],"en":"chambermaid"}
-{"L":"nonlimpa","C":["a"],"en":"unclean"}
-{"T":"r","L":"limpibota","C":["n","vn"],"d":"un person empleada per brilia sapatos e botas","en":"bootblack, boots"}
+{"L":"limfal","C":["a"],"en":"lymphatic","fr":"lymphatique"}
+{"T":"r","L":"limfo-","C":["pf","tecn"],"d":"limfa","en":"lympho- (lymph)","fr":"lympho-"}
+{"T":"r","L":"limfoblasto","C":["n","bio"],"d":"un selula nonormal, semblante un limfosite grande, produida en cuantias grande en un forma de leucemia","en":"lymphoblast (biology)","fr":"lymphoblaste (biologie)"}
+{"T":"r","L":"limfoide","C":["a","bio"],"d":"pertinente a la texedas cual produi limfosites e anticorpos, incluinte la nodas limfal, la timo, la tonsiles e la spleno","en":"lymphoid","fr":"lymphoïde"}
+{"T":"r","L":"limfoma","C":["n","med"],"d":"un canser de la nodas limfal","en":"lymphoma","fr":"lymphome"}
+{"L":"limfoma de Hodgkin","C":["n","med"],"d":"un maladia de la texedas limfal, tipal remediable","p":"hodjcin","en":"Hodgkin's lymphoma","fr":"lymphome de Hodgkin, maladie de Hodgkin"}
+{"T":"r","L":"limfopoiese","C":["n","bio"],"d":"la prosede de jenera limfosites","en":"lymphopoiesis (biology)","fr":"leucopoïèse, leucocytopoïèse (biologie)"}
+{"T":"r","L":"limfosite","C":["n","bio"],"d":"un forma de leucosite peti con un sola nucleo ronda","en":"lymphocyte, white blood cell","fr":"lymphocyte"}
+{"L":"limfosite B","C":["n"],"en":"B-cell","fr":"lymphocyte B"}
+{"L":"limfosite NK","C":["n"],"en":"natural killer cell","fr":"lymphocyte NK"}
+{"L":"limfosite T","C":["n"],"en":"T-cell","fr":"lymphocyte T"}
+{"L":"limfosital","C":["a"],"en":"lymphocytic","fr":"lymphocytaire"}
+{"T":"r","L":"limina","C":["n"],"d":"la punto de entra a un casa o sala; un grandia o intensia cual produi un reata o alga otra aveni cuando on esede lo","en":"threshold","fr":"seuil"}
+{"L":"suliminal","C":["a"],"en":"subliminal","fr":"subliminal"}
+{"T":"r","L":"limita","C":["vt"],"d":"no permete ce (un person o cosa) estende ultra un punto, nivel, cuantia o grandia spesifada","en":"limit, delimit; cap (price)","fr":"limiter, délimiter"}
+{"L":"limita","C":["n"],"da":"grænse, begrænsning","de":"Grenze","en":"limit, boundary, bound, frontier, delimitation, threshold, cut-off, limitation","es":"límite, frontera, borde","fr":"limite, frontière, délimitation, confins, bornes, démarcation, orée, lisière, seuil"}
+{"L":"limita de tempo","C":["n"],"en":"deadline, time limit","fr":"délai"}
+{"L":"limita masima","C":["n"],"en":"upper limit, cap, ceiling","fr":"limite supérieure, borne supérieure, plafond"}
+{"L":"limitada","C":["a"],"en":"limited, finite, bounded","fr":"limité, fini, borné"}
+{"L":"limital","C":["a"],"en":"borderline (just on the edge, personality disorder)","fr":"borderline, à état limite"}
+{"L":"limitas","C":["n","pl"],"en":"limits, bounds, extent, ambit, scope","fr":"étendue, portée"}
+{"L":"nonlimitada","C":["a"],"en":"unlimited, infinite, boundless, unbounded, countless, innumerable","fr":"illimité, infini, immense, incommensurable, innombrable, sans fin, sans limite, insondable, interminable"}
+{"L":"pone un limita","C":["v"],"en":"impose a limit, draw the line","fr":"poser des limites"}
+{"L":"sin limita","C":["a"],"en":"unlimited, limitless, infinite, boundless, unbounded, countless, innumerable","fr":"illimité, infini, immense, incommensurable, innombrable, sans fin, sans limite, insondable, interminable"}
+{"T":"r","L":"limonada","C":["n","cos"],"d":"un bevida preparada de jus de limon, acua e zucar","i":"#","en":"lemonade","fr":"citronnade"}
+{"T":"r","L":"limpa","C":["a"],"d":"sin susia o manxas; lavada; con bon ijenia; sin contaminantes","da":"ren (ikke beskidt)","de":"sauber","en":"clean","es":"limpio, aseado","fr":"propre, nettoyé"}
+{"L":"limpi","C":["vnt"],"en":"become clean, clean up","fr":"se nettoyer, devenir propre"}
+{"L":"limpi","C":["vt"],"en":"clean, clean up, wipe; mop; sweep (chimney)","fr":"nettoyer, essuyer, balayer, ramoner"}
+{"L":"limpi etnical","C":["n"],"en":"ethnic cleansing","fr":"nettoyage ethnique"}
+{"L":"limpia","C":["n"],"en":"cleanliness","fr":"propreté"}
+{"L":"limpida","C":["a"],"en":"cleaned","fr":"propre, nettoyé, essuyé, balayé"}
+{"L":"limpor","C":["n"],"en":"cleaner (person), scrubwoman, charwoman, charlady","fr":"balayeur, femme de ménage, technicien de surface"}
+{"L":"limpor de sala","C":["n"],"en":"chambermaid","fr":"femme de chambre, camériste"}
+{"L":"nonlimpa","C":["a"],"en":"unclean","fr":"sale, malpropre, impur, immonde"}
+{"T":"r","L":"limpibota","C":["n","vn"],"d":"un person empleada per brilia sapatos e botas","en":"bootblack, boots","fr":"cireur (de chaussures)"}
 {"T":"r","L":"limusin","C":["n","vec"],"d":"un auto grande e lusosa, spesial con gidor profesal","i":"#","en":"limousine, limo","fr":"limousine"}
 {"T":"r","L":"lince","C":["n","mam"],"d":"un gato savaje con pelo jalin brun, coda corta e oreas con mexa","i":"#","t":"Lynx","en":"lynx"}
 {"L":"Lince","C":["n","ast"],"d":"un constela en la sielo norde","en":"Lynx (constellation)"}
