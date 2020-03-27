@@ -333,7 +333,7 @@
 {"L":"adoror","C":["n"],"en":"adorer, worshiper|worshipper, devotee","eo":"adoranto","fr":"adorateur","he":"מעריץ, סוגד, אוהד"}
 {"T":"r","L":"adormi","C":["vnt"],"d":"comensa dormi","en":"fall asleep, go to sleep","eo":"endormiĝi, ekdormi","fr":"s'endormir","he":"להירדם"}
 {"L":"adormi","C":["vt"],"en":"send to sleep, put to sleep","eo":"endormigi","fr":"endormir","he":"להרדים"}
-{"L":"adorminte","C":["n","med"],"d":"un medisin per aida la dormi","en":"sleeping pill, hypnotic","fr":"hypnotique, sédatif","he":"כדור שינה"}
+{"L":"adorminte","C":["n","med"],"d":"un medisin per aida la dormi","en":"sleeping pill, hypnotic","fr":"somnifère, sédatif","he":"כדור שינה"}
 {"T":"r","L":"adota","C":["vt","gov"],"d":"prende legal (un enfante de otras) e eleva el como sua propre; deside usa (un condui, opina o lingua) como sua propre","en":"adopt, espouse; take up","eo":"adopti","fr":"adopter","he":"לאמץ, לסגל"}
 {"L":"adota","C":["n"],"en":"adoption","eo":"adopto","fr":"adoption","he":"אימוץ"}
 {"L":"adotada","C":["a"],"en":"adopted","eo":"adoptita","fr":"adoptif, adopté","he":"מאומץ"}
@@ -1085,6 +1085,7 @@
 {"L":"sindrom amoc","C":["n"],"d":"un maladia mental marcada par un esplode acaso de ataca contra persones par un person solitar, tipal pos un periodo de preocupa ansiosa, orijinal notada en alga cultures de Malaisia","en":"amok syndrome","fr":"amok (médecine)","he":"תסמונת אמוק"}
 {"T":"r","L":"amonia","C":["n","cim"],"d":"un gas sin color ma con odor forte, cual on pote disolve en acua per limpi","en":"ammonia","fr":"ammoniac","he":"אמוניה"}
 {"T":"r","L":"amonio","C":["n","cim"],"d":"la cation presente en disolves de amonia e en sales derivada de amonia","en":"ammonium","fr":"ammonium","he":"אמוניום"}
+{"T":"r","L":"amonito","C":["n","mol"],"d":"un sefalopodo maral de un grupo estinguida","en":"ammonite"}
 {"T":"r","L":"amorti","C":["vt","mone"],"d":"fa ce (un cosa) deveni min forte o intensa; fa ce (un sona) deveni plu cuieta o min clar; redui o estingui (un deta) par paias periodal","o":"de latina ad (a) + mors (moria)","en":"muffle, deaden, dampen; amortize|is, absorb (cost)","fr":"amortir","he":"לעמעם, לשכך; להשקיט; לצמצם חוב"}
 {"L":"amorti","C":["n"],"en":"amortization|is","fr":"amortissement","he":"עמעום, שיכוך; השקטה; צמצום חוב"}
 {"L":"amortador","C":["n"],"en":"shock absorber","fr":"amortisseur","he":"בולם זעזועים"}
@@ -1948,7 +1949,7 @@
 {"T":"r","L":"asende","C":["vt"],"d":"vade en dirije a la punto la plu alta de (un cosa)","da":"klatre, gå op ad/af","de":"ersteigen","en":"ascend, rise, climb, go up, mount","es":"subir, trepar, escalar, ascender","fr":"monter, gravir","gl":"subir, rubir, escalar, ascender","he":"לעלות, להתרומם"}
 {"L":"asende","C":["n"],"en":"ascent, ascension, rise, upswing, upturn","fr":"ascension, montée, progression, hausse, élévation","he":"עליה, מעלה, התרוממות"}
 {"L":"asendador","C":["n"],"i":"#","da":"elevator","de":"Fahrstuhl","en":"elevator, lift","es":"elevador, ascensor","fr":"ascenseur","gl":"elevador, ascensor","he":"מעלית"}
-{"L":"asendente","C":["a"],"en":"ascending, ascendant, rising, upward, upswept","fr":"ascendant, montant en progression","he":"עולה, מתרומם, כלפי מעלה"}
+{"L":"asendente","C":["a"],"en":"ascending, ascendant, rising, upward, upswept; ancestral","fr":"ascendant, montant en progression; ancestral","he":"עולה, מתרומם, כלפי מעלה"}
 {"L":"asendente","C":["n"],"en":"ancestor, forebear, forefather; ascender, upstroke","fr":"ascendant, ancêtre, aïeul","he":"אב קדמון"}
 {"L":"asendente","C":["prep"],"en":"up, towards the top of","fr":"au haut de, au sommet de, vers le haut de","he":"לראש ה-"}
 {"T":"r","L":"asendeplato","C":["n","vn","cos"],"d":"un asendador peti cual porta platos e comedas entre la niveles de un construida","en":"dumb waiter","fr":"monte-plat","he":"מעלית צלחות במסעדה או מלון"}
@@ -4472,6 +4473,7 @@
 {"T":"r","L":"capas","C":["a"],"d":"con la potia, sabe, metodos o bon momento per fa alga cosa","da":"dygtig, kompetent","de":"fähig","en":"able, capable, skilled, skillful|skilful, proficient, accomplished, adept, adroit, competent, professional, amenable, efficient","es":"capaz, hábil, competente","fr":"capable, apte, habile","he":"מסוגל, כשיר, מיומן"}
 {"L":"capas de era","C":["a"],"en":"capable of error, fallible","fr":"faillible","he":"שעשוי לטעות"}
 {"L":"capas de susede","C":["a"],"en":"capable of success, viable","fr":"viable, probant, pertinent, approprié","he":"ישומי, מעשי"}
+{"L":"capas de vola","C":["a"],"en":"able to fly, fledged"}
 {"L":"ave la capasia","C":["v"],"en":"be qualified","fr":"avoir la capacité de, l'aptitude à, être capable de, être apte à, être qualifié pour","he":"להיות מסוגל, להיות מוכשר, להיות מתאים"}
 {"L":"capasi","C":["vnt"],"en":"grow capable","fr":"se qualifier, acquérir une compétence, devenir capable, devenir apte, acquérir une qualification","he":"לרכוש מיומנות"}
 {"L":"capasi","C":["vt"],"en":"enable, empower","fr":"permettre, habiliter, rendre apte, rendre capable, qualifier, donner une compétence","he":"לאפשר"}
@@ -5172,6 +5174,7 @@
 {"T":"r","L":"citon","C":["n","ist","vest"],"d":"un camison de lana, usada en Elas antica","en":"chiton (garment)","fr":"chiton (vêtement antique)","he":"כיתון (טוניקה יוונית)"}
 {"T":"r","L":"ciui","C":["n","avia"],"d":"un avia nonvolante de Zeland Nova, con plumas capelin e un beco curvida con narinas sensosa a la fini","i":"#","t":"Apteryx","en":"kiwi (bird)","fr":"kiwi (oiseau)","he":"קיווי (ציפור)"}
 {"T":"r","L":"ciui","C":["n","pla","cos"],"d":"un planta trepante; la fruta de esta. con pel magra e pelosa, pulpa verde e semes negra","i":"ciui-planta","t":"Actinidia chinensis","en":"kiwi fruit, Chinese gooseberry (plant, fruit)","fr":"actinidia (plante); kiwi (son fruit)","he":"קיווי (צמח, פרי)"}
+{"T":"r","L":"civa","C":["n","rel","arci"],"d":"un sala, construida completa o partal sutera, usada par americanes orijinal de la pueblos per rituos relijiosa","en":"kiva"}
 {"T":"r","L":"cix","C":["n","cos"],"d":"un tarte con pleninte saborosa, densida con ovos","i":"#","en":"quiche","fr":"quiche","he":"קיש"}
 {"T":"r","L":"clac-clac","C":["esc"],"d":"un sona de bateta, como de mano a porte o pasos sur solo","en":"tap-tap, knock-knock","fr":"toc-toc","he":"טוק-טוק"}
 {"T":"r","L":"clace","C":["vnt","mus"],"d":"fa un sona continuante como ojetos cual cade sur un solo dur; un dansa en cual on bateta la solo con pesos de metal fisada a la ditos e talones de la sapatos","en":"clack, clatter, rattle; tap dance","fr":"claquer (bruit)","he":"לנקוש, להקיש; לרקוד סטפס)"}
@@ -6648,6 +6651,8 @@
 {"L":"corno alpan","C":["n"],"d":"un strumento de venta de lenio, multe longa e sin valvas, usada per siniali en la Alpes","i":"#","en":"Alphorn, Alpenhorn","fr":"cor des Alpes","he":"קרן אלפים"}
 {"L":"corno de abunda","C":["n"],"i":"#","en":"cornucopia, horn of plenty","fr":"corne d'abondance","he":"קרן השפע"}
 {"L":"corno de servo","C":["n"],"i":"#","en":"antler","fr":"ramure","he":"קרן אייל"}
+{"L":"corni","C":["vt"],"en":"behorn, give horns to"}
+{"L":"cornida","C":["a"],"en":"horned"}
 {"L":"cornin","C":["a"],"en":"horny, hornlike","fr":"en forme de corne, cornu","he":"קרני"}
 {"T":"r","L":"coro","C":["n","mus"],"d":"un grupo organizada de cantores","i":"#","en":"chorus, choir","fr":"chœur","he":"מקהלה"}
 {"L":"coral","C":["a"],"en":"choral","fr":"choral","he":"מקהלתי"}
@@ -7037,6 +7042,8 @@
 {"L":"cresta sajital","C":["n"],"en":"sagittal crest","fr":"crête sagittale (anatomie)","he":"(אנטומיה) רכס סגיטלי"}
 {"L":"cresta spumosa","C":["n"],"en":"whitecap","fr":"moutons (vagues)","he":"גל מקציף"}
 {"L":"cresti","C":["vnt"],"en":"crest (wave)","fr":"moutonner (vagues)","he":"(גל) להגיע לשיא, להגיע לפסגה"}
+{"L":"cresti","C":["vt"],"en":"give a crest to"}
+{"L":"crestida","C":["a"],"en":"crested"}
 {"T":"r","L":"creta","C":["n","util"],"d":"un calcario blanca e mol, derivada de sceletos de organismes de mar; un materia simil, usada per scrive o desinia sur un mureta negra","da":"kridt","de":"Kreide","en":"chalk","es":"tiza, yeso, gis","fr":"craie","he":"גיר"}
 {"L":"creti","C":["vt"],"en":"chalk (up)","fr":"frotter avec de la craie, couvrir de craie, passer de la craie sur","he":"לכתוב בגיר"}
 {"T":"r","L":"cretasica","C":["a","tera"],"d":"pertinente a la periodo final de la eda mesozoica, entre la jurasica e tersiaria","en":"Cretaceous (geology)","fr":"du Crétacé (géologie)","he":"(גאולוגיה) קרטיקון"}
@@ -7245,7 +7252,7 @@
 {"L":"de cual ... sua","C":["esp"],"u":"me no ave plu la caxa de cual tu ia trova sua covrente","en":"whose, of which","fr":"dont, de qui, duquel, de laquelle, desquels, de quoi","he":"שאת... שלו/שלה"}
 {"L":"sur cual ... lo","C":["esp"],"n":"","u":"sur cual el ia demanda esce me gusta lo?; esta es la libro sur cual me ia dise ce me va mostra lo a tu","en":"(interrogative) about what ... it?; (relative) which, that ... it","fr":"à propos de quoi... ? au sujet de quoi ... ? (interrogative); à propos de quoi..., au sujet de quoi... (relative)","he":"בקשר למה; שעליו/שאודותיו"}
 {"T":"r","L":"cualce","C":["d"],"d":"un o alga, asentuante ce la eleje entre la posibles no importa","u":"prende cualce carta; cualce vestes va sufisi","en":"any (at all), whichever (you like), arbitrary","fr":"quelque, un ... quel qu'il soit, n'importe quel ..., peu importe quel ...","he":"כלשהו, איזשהו"}
-{"L":"cualce","C":["pron"],"en":"any (no matter which), whichever; so-and-so","fr":"quiconque, n'importe qui, qui que ce soit, quoi que ce soit","he":"כל דבר, כל אחד (לא משנה מי)"}
+{"L":"cualce","C":["pron"],"en":"any (no matter which), whichever; so-and-so","fr":"quiconque, n'importe qui, qui que ce soit, quoi que ce soit, n'importe lequel, n'importe laquelle","he":"כל דבר, כל אחד (לא משנה מי)"}
 {"L":"cualces","C":["pron","pl"],"en":"any (people or things, optional plural pronoun)","fr":"n'importe lesquels","he":"כל דבר, כל אחד (לא משנה מי)"}
 {"L":"cualce cosa","C":["pron"],"en":"anything (at all), whatever (you like)","fr":"n'importe quoi, peu importe","he":"כל דבר (לא משנה מה)"}
 {"L":"cualce cosa cual","C":["sj"],"en":"whatever, anything which","fr":"quel que soit ce qui...","he":"כל דבר ש"}
@@ -8985,6 +8992,8 @@
 {"T":"r","L":"ectopia","C":["n","med"],"d":"un loca o posa nonormal de un organo","en":"ectopia (medical)","fr":"ectopie (médecine)","he":"(רפואה) אקטופיה"}
 {"L":"ectopica","C":["a","med"],"en":"ectopic","fr":"ectopique","he":"(רפואה) אקטופי, שלא במקומו"}
 {"T":"r","L":"ectoplasma","C":["n","bio"],"d":"la strato esterna, clar e la plu viscosa de sitoplasma en selulas amebin","en":"ectoplasm","fr":"ectoplasme","he":"(ביולוגיה) אקטופלזמה"}
+{"T":"r","L":"ectotermal","C":["a","bio"],"d":"(un animal) con sangue fria, e de cual sua temperatur depende de la ambiente","en":"ectothermic, ectothermal"}
+{"L":"ectotermal","C":["n"],"en":"ectotherm"}
 {"T":"r","L":"Ecuador","C":["n","jeo"],"c":"Quito","d":"un pais en America Sude norde-ueste, con costa a la Mar Pasifica","i":"#","en":"Ecuador","fr":"Équateur (pays)","he":"אקוודור"}
 {"L":"ecuadoran","C":["a"],"en":"Ecuadoran","fr":"équatorien","he":"אקוודורי"}
 {"L":"ecuadoran","C":["n"],"en":"Ecuadoran","fr":"Équatorien","he":"אקוודורי"}
@@ -9505,6 +9514,8 @@
 {"L":"endoscopial","C":["a"],"en":"endoscopic","fr":"endoscopique","he":"אנדוסקופי"}
 {"T":"r","L":"endostilo","C":["n","bio"],"d":"(en alga animales primitiva, como lampreas) un ranur con silios a la mur ventral de la farinje, cual produi muco per colie particulas de nurintes","en":"endostyle (anatomy)","fr":"glande thyroïde (anatomie)","he":"אנדוסטיל"}
 {"T":"r","L":"endotelio","C":["n","bio","anat"],"d":"la texeda cual formi un strato de selulas forente multe organos e cavetas de corpo, spesial la cor, la dutos sangual e la dutos limfal","en":"endothelium (anatomy)","fr":"endothélium (anatomie)","he":"אנדותל"}
+{"T":"r","L":"endotermal","C":["a","bio"],"d":"(un animal) con sangue calda, e capas de jenera caldia interna","en":"endothermic, endothermal"}
+{"L":"endotermal","C":["n"],"en":"endotherm"}
 {"T":"r","L":"enea-","C":["pf","mat"],"d":"nove","en":"ennea-","fr":"ennéa- (neuf)","he":"(קידומת טכנית) תשע"}
 {"T":"r","L":"enebria","C":["vt","bio","uma"],"d":"(un droga o alcol) fa ce (algun) perde controla de sua condui e capasias","i":"#","en":"intoxicate, inebriate","fr":"soûler","he":"לשכר"}
 {"L":"enebria","C":["n"],"en":"intoxication, inebriation, drunkenness","fr":"ébriété","he":"שיכרון, השתכרות"}
@@ -13249,7 +13260,7 @@
 {"L":"nonindustrial","C":["a"],"en":"non-industrial","fr":"non industriel"}
 {"T":"r","L":"inere","C":["vnt","fil"],"d":"esiste esensal o permanente (en alga cosa)","en":"inhere (be an essential or permanent feature)","fr":"être inhérent à, faire partie intégrante de, faire pleinement partie de"}
 {"L":"ave la inere de","C":["v"],"en":"inherently have, consist in","fr":"consister en"}
-{"L":"inerente","C":["a"],"en":"inherent, immanent","fr":"inhérent, immanent"}
+{"L":"inerente","C":["a"],"en":"inherent, immanent, intrinsic","fr":"inhérent, immanent"}
 {"T":"r","L":"inerte","C":["a","cim"],"d":"sin la capas o fortia per move; nonativa","en":"inert, inactive, quiescent","fr":"inerte, inactif, non actif, quiescent"}
 {"L":"inertia","C":["n"],"en":"inertia, quiescence","fr":"inertie, quiescence"}
 {"L":"inertial","C":["a"],"en":"inertial","fr":"inertiel"}
@@ -14382,9 +14393,11 @@
 {"T":"r","L":"Kattegat","C":["n","jeo"],"d":"un streta entre Noria e Danmarc","i":"#","en":"Kattegat","es":"Categat, Kattegat","fr":"(détroit de) Cattégat"}
 {"T":"r","L":"Kentucky","C":["n","jeo"],"d":"un stato en la SUA sude-este","p":"centaci","en":"Kentucky (US state)","es":"Kentucky (estado de Estos Unidos)","fr":"Kentucky (Étroit des USA)"}
 {"T":"r","L":"Kerguelen, Isolas","C":["n","pl","jeo"],"d":"un grupo de isolas en la sude de la Mar Indian","en":"Kerguelen Islands","es":"Islas Kerguelen","fr":"îles Kerguélen"}
+{"T":"r","L":"kg","C":["c"],"d":"cilogram","en":"kg","fr":"kg"}
 {"T":"r","L":"Kilimanjaro, Monte","C":["n","jeo"],"d":"un volcan estinguida en Tanzania norde","en":"Mount Kilimanjaro","es":"Kilimanjaro, Monte","fr":"Kilimanjaro, Kilimanjaro"}
 {"T":"r","L":"Kivu, Lago","C":["n","jeo"],"d":"un lago en Africa sentral, entre Ruanda e la Republica Democrata de Congo","en":"Lake Kivu","es":"Lago Kivu","fr":"lac Kivu"}
 {"T":"r","L":"Kizilkum, Deserto","C":["n","jeo"],"d":"un deserto en Asia sentral, entre la Rio Amudarya e Rio Syrdarya","i":"Deserto-Kizilkum","en":"Kyzylkum, Qyzylqum","es":"Kizilkum","fr":"désert du Kyzylkoum, Kyzyl-Koum"}
+{"T":"r","L":"km","C":["c"],"d":"cilometre","en":"km","fr":"km"}
 {"T":"r","L":"Kobenhavn","C":["n","jeo"],"d":"la site capital de Danmarc","en":"Copenhagen","es":"Copenhague","fr":"Copenhague"}
 {"T":"r","L":"Kongzi","C":["n","fil","gov"],"d":"un filosofiste e politiciste de Jonguo antica e la fundor de la filosofia sosial la plu influente en Jonguo (551-479 aec)","i":"#","p":"kongtsi","v":"confuzisme","en":"Confucius (philosopher)","es":"Confucio (filósofo)","fr":"Confucius (philosophe)"}
 {"T":"r","L":"Kyushu","C":["n","jeo"],"d":"la isola la plu sude de Nion","i":"#","en":"Kyushu","es":"Kyushu","fr":"Kyushu, Kyūshū"}
@@ -15058,265 +15071,265 @@
 {"L":"nonlimpa","C":["a"],"en":"unclean","fr":"sale, malpropre, impur, immonde"}
 {"T":"r","L":"limpibota","C":["n","vn"],"d":"un person empleada per brilia sapatos e botas","en":"bootblack, boots","fr":"cireur (de chaussures)"}
 {"T":"r","L":"limusin","C":["n","vec"],"d":"un auto grande e lusosa, spesial con gidor profesal","i":"#","en":"limousine, limo","fr":"limousine"}
-{"T":"r","L":"lince","C":["n","mam"],"d":"un gato savaje con pelo jalin brun, coda corta e oreas con mexa","i":"#","t":"Lynx","en":"lynx"}
-{"L":"Lince","C":["n","ast"],"d":"un constela en la sielo norde","en":"Lynx (constellation)"}
-{"L":"lince rojin","C":["n","mam"],"i":"#","t":"Lynx rufus","en":"bobcat"}
-{"T":"r","L":"lineta","C":["n","avia"],"d":"un pinson brun e gris con fronte e peto rojin","i":"#","t":"Linaria","en":"linnet, twite (bird)"}
-{"T":"r","L":"linga","C":["n","rel"],"d":"(en induisme) un simbol de enerjia divin, tipal en la forma de un falo, adorada como un simbol de Xiva","en":"linga, lingam (Hinduism)"}
-{"T":"r","L":"lingua","C":["n","anat","ling"],"d":"la organo musculosa en la boca de un mamal, usada per proba, leca, engoli e (en umanas) parla; la organo corespondente en otra vertebratos; la organo corespondente en insetos; la metodo de comunica umana, parlada o scriveda, composada de la usa de parolas en un modo struturida e costumal","i":"#","da":"tunge; sprog","de":"Zunge; Sprache","en":"tongue; language; speech (ability)","es":"lengua; lenguaje, idioma","fr":"langue"}
-{"L":"lingua aidante","C":["n"],"en":"auxiliary language"}
-{"L":"lingua construida","C":["n"],"en":"constructed language, conlang, artificial language"}
-{"L":"lingua de asembla","C":["n"],"en":"assembly language"}
-{"L":"lingua de marca","C":["n","info"],"en":"markup language"}
-{"L":"lingua de programi","C":["n","info"],"en":"programming language"}
-{"L":"lingua de sinia","C":["n"],"en":"sign language","eo":"gestlingvo, signolingvo"}
-{"L":"lingua desiniada","C":["n"],"en":"planned language, artificial language"}
-{"L":"lingua franca nova","C":["n"],"en":"Lingua Franca Nova"}
-{"L":"interlingua","C":["n"],"en":"international language; Interlingua"}
-{"L":"lingual","C":["a"],"en":"lingual (of the tongue); linguistic (of language)"}
-{"L":"linguiste","C":["n"],"en":"linguist"}
-{"L":"lingua prima","C":["n"],"en":"first language, native language, native tongue, mother tongue"}
-{"T":"r","L":"linguaje","C":["n","ling"],"d":"la stilo de vocabulo e frases elejeda per espresa en parla o scrive","en":"language (style), wording"}
-{"T":"r","L":"linguine","C":["n","cos"],"d":"pasta con forma de bandas streta","i":"#","en":"linguine (food)"}
-{"T":"r","L":"linguistica","C":["n","ling"],"d":"la siensa de linguas e sua strutur, incluinte la studia de morfolojia, sintatica, fonetica e semantica","en":"linguistics"}
-{"L":"linguistica computal","C":["n","ling"],"en":"computational linguistics"}
-{"L":"interlinguistica","C":["n","ling"],"d":"la studia de aspetas diversa de comunica lingual entre persones ci no pote comprende lunlotra en sua propre linguas","en":"interlinguistics","eo":"interlingvistiko"}
+{"T":"r","L":"lince","C":["n","mam"],"d":"un gato savaje con pelo jalin brun, coda corta e oreas con mexa","i":"#","t":"Lynx","en":"lynx","fr":"lynx"}
+{"L":"Lince","C":["n","ast"],"d":"un constela en la sielo norde","en":"Lynx (constellation)","fr":"Lynx (constellation)"}
+{"L":"lince rojin","C":["n","mam"],"i":"#","t":"Lynx rufus","en":"bobcat","fr":"lynx roux"}
+{"T":"r","L":"lineta","C":["n","avia"],"d":"un pinson brun e gris con fronte e peto rojin","i":"#","t":"Linaria","en":"linnet, twite (bird)","fr":"linotte"}
+{"T":"r","L":"linga","C":["n","rel"],"d":"(en induisme) un simbol de enerjia divin, tipal en la forma de un falo, adorada como un simbol de Xiva","en":"linga, lingam (Hinduism)","fr":"lingam (hindouisme)"}
+{"T":"r","L":"lingua","C":["n","anat","ling"],"d":"la organo musculosa en la boca de un mamal, usada per proba, leca, engoli e (en umanas) parla; la organo corespondente en otra vertebratos; la organo corespondente en insetos; la metodo de comunica umana, parlada o scriveda, composada de la usa de parolas en un modo struturida e costumal","i":"#","da":"tunge; sprog","de":"Zunge; Sprache","en":"tongue; language; speech (ability)","es":"lengua; lenguaje, idioma","fr":"langue; langue, idiome; élocution"}
+{"L":"lingua aidante","C":["n"],"en":"auxiliary language","fr":"langue auxiliaire"}
+{"L":"lingua construida","C":["n"],"en":"constructed language, conlang, artificial language","fr":"langue construite, langue artificielle"}
+{"L":"lingua de asembla","C":["n"],"en":"assembly language","fr":"langage d'assemblage, assembleur (informatique)"}
+{"L":"lingua de marca","C":["n","info"],"en":"markup language","fr":"langage de balisage, langage balisé, langage à balises (informatique)"}
+{"L":"lingua de programi","C":["n","info"],"en":"programming language","fr":"langage de programmation"}
+{"L":"lingua de sinia","C":["n"],"en":"sign language","eo":"gestlingvo, signolingvo","fr":"langue des signes"}
+{"L":"lingua desiniada","C":["n"],"en":"planned language, artificial language","fr":"langue planifiée"}
+{"L":"lingua franca nova","C":["n"],"en":"Lingua Franca Nova","fr":"lingua franca nova"}
+{"L":"interlingua","C":["n"],"en":"international language; Interlingua","fr":"langue internationale; interlingua (nom de plusieurs langues construites)"}
+{"L":"lingual","C":["a"],"en":"lingual (of the tongue); linguistic (of language)","fr":"lingual, linguistique"}
+{"L":"linguiste","C":["n"],"en":"linguist","fr":"linguiste"}
+{"L":"lingua prima","C":["n"],"en":"first language, native language, native tongue, mother tongue","fr":"langue natale"}
+{"T":"r","L":"linguaje","C":["n","ling"],"d":"la stilo de vocabulo e frases elejeda per espresa en parla o scrive","en":"language (style), wording","fr":"style, langage, niveau de langue, élocution, façon de s'exprimer, vocabulaire"}
+{"T":"r","L":"linguine","C":["n","cos"],"d":"pasta con forma de bandas streta","i":"#","en":"linguine (food)","fr":"linguine (pâtes)"}
+{"T":"r","L":"linguistica","C":["n","ling"],"d":"la siensa de linguas e sua strutur, incluinte la studia de morfolojia, sintatica, fonetica e semantica","en":"linguistics","fr":"linguistique"}
+{"L":"linguistica computal","C":["n","ling"],"en":"computational linguistics","fr":"linguistique informatique"}
+{"L":"interlinguistica","C":["n","ling"],"d":"la studia de aspetas diversa de comunica lingual entre persones ci no pote comprende lunlotra en sua propre linguas","en":"interlinguistics","eo":"interlingvistiko","fr":"interlinguistique"}
 {"T":"r","L":"linia","C":["n"],"d":"un marca o banda longa e streta; (en matematica) un estende continuante de longia sin largia; un cuantia de persones o cosas en un tal forma","da":"linie","de":"Linie","en":"line, row; rank (chess)","es":"línea","fr":"ligne"}
-{"L":"duilinia","C":["n"],"d":"un dui de un linia de poesia, segueda par un pausa corta","en":"hemistich"}
-{"L":"linia de arbores","C":["n"],"en":"treeline"}
-{"L":"linia de comandas","C":["n","info"],"en":"command line (software)"}
-{"L":"linia de familia","C":["n"],"en":"lineage, family line, line of descent, bloodline, pedigree"}
-{"L":"linia de neva","C":["n"],"en":"snowline"}
-{"L":"linia de sangue","C":["n"],"en":"bloodline, pedigree"}
-{"L":"linia direta","C":["n"],"en":"direct line, hotline"}
-{"L":"linia media","C":["n"],"en":"midline"}
-{"L":"linia orizonal","C":["n"],"en":"horizontal line, dash"}
-{"L":"en linia reta","C":["av"],"en":"in a straight line, in a beeline, as the crow flies"}
-{"L":"lini","C":["vt"],"en":"line (mark lines on)"}
-{"L":"linial","C":["a"],"en":"linear, lineal"}
-{"L":"linida","C":["a"],"en":"lined (marked with lines)"}
-{"L":"nonlinial","C":["a"],"en":"non-linear"}
-{"L":"sulini","C":["vt"],"en":"underline, underscore"}
-{"L":"sulini","C":["n"],"en":"underlining"}
-{"L":"sulinia","C":["n"],"en":"underline, underscore (character)"}
-{"L":"vade en linia reta a","C":["v"],"en":"make a beeline for"}
-{"T":"r","L":"linioio","C":["n","vest"],"d":"un macia aplicada como un linia sirca la oios afin los pare plu grande o notable","i":"#","en":"eyeliner"}
+{"L":"duilinia","C":["n"],"d":"un dui de un linia de poesia, segueda par un pausa corta","en":"hemistich","fr":"hémistiche"}
+{"L":"linia de arbores","C":["n"],"en":"treeline","fr":"ligne d'arbres, rangée d'arbres"}
+{"L":"linia de comandas","C":["n","info"],"en":"command line (software)","fr":"ligne de commande (informatique)"}
+{"L":"linia de familia","C":["n"],"en":"lineage, family line, line of descent, bloodline, pedigree","fr":"lignage, pedigree, aïeux, famille, filiation, lignée, parenté, sang, souche"}
+{"L":"linia de neva","C":["n"],"en":"snowline","fr":"limite des neiges éternelles"}
+{"L":"linia de sangue","C":["n"],"en":"bloodline, pedigree","fr":"lignée, pedigree"}
+{"L":"linia direta","C":["n"],"en":"direct line, hotline","fr":"droite ligne, ligne directe"}
+{"L":"linia media","C":["n"],"en":"midline","fr":"ligne médiane"}
+{"L":"linia orizonal","C":["n"],"en":"horizontal line, dash","fr":"ligne horizontale, tiret"}
+{"L":"en linia reta","C":["av"],"en":"in a straight line, in a beeline, as the crow flies","fr":"à vol d'oiseau, en ligne droite"}
+{"L":"lini","C":["vt"],"en":"line (mark lines on)","fr":"ligner, tracer des lignes"}
+{"L":"linial","C":["a"],"en":"linear, lineal","fr":"linéaire"}
+{"L":"linida","C":["a"],"en":"lined (marked with lines)","fr":"ligné, où l'on a tracé des lignes"}
+{"L":"nonlinial","C":["a"],"en":"non-linear","fr":"non-linéaire"}
+{"L":"sulini","C":["vt"],"en":"underline, underscore","fr":"souligner"}
+{"L":"sulini","C":["n"],"en":"underlining","fr":"soulignement"}
+{"L":"sulinia","C":["n"],"en":"underline, underscore (character)","fr":"souligné, trait de soulignement, tiret bas"}
+{"L":"vade en linia reta a","C":["v"],"en":"make a beeline for","fr":"aller droit (à, en), aller tout droit, aller directement"}
+{"T":"r","L":"linioio","C":["n","vest"],"d":"un macia aplicada como un linia sirca la oios afin los pare plu grande o notable","i":"#","en":"eyeliner","fr":"eyeliner, eye-liner"}
 {"T":"r","L":"lino","C":["n","pla","util","vest"],"d":"un planta con flores blu, cultivada per sua semes e per la fibre de stofa cual on prepara de sua troncetas; un seme de esta, usada per fabrica olio o pasta","i":"#","t":"Linum usitatissimum","da":"hør","de":"Lein","en":"flax, linseed (plant)","es":"lino","fr":"lin"}
-{"L":"linosa","C":["a"],"en":"treated with linseed"}
-{"L":"olio de lino","C":["n"],"en":"linseed oil"}
-{"L":"pasta de lino","C":["n"],"en":"putty"}
-{"L":"seme de lino","C":["n"],"en":"linseed"}
-{"L":"stofa de lino","C":["n"],"en":"linen"}
-{"T":"r","L":"linolio","C":["n","arci"],"d":"un materia composada de un fondo de lona, stratida con un prepara de olio de lino e suber polvida, usada per covre la solo en construidas","en":"linoleum, lino"}
-{"T":"r","L":"lintel","C":["n","arci"],"d":"un suporta orizonal de lenio, petra, beton o aser supra un porte o fenetra","i":"#","en":"lintel, transom"}
-{"T":"r","L":"linxa","C":["vt","gov"],"d":"(un manada de persones) mata (algun), tipal par pende, per un ofende alegada, con o sin litiga","en":"lynch"}
-{"L":"linxa","C":["n"],"en":"lynching"}
-{"T":"r","L":"lipase","C":["n","bio","cim"],"d":"un enzima de la pancreas cual catalise la redui de gras o asidas grasal","en":"lipase"}
-{"T":"r","L":"lipido","C":["a","bio","cim"],"d":"parteninte a un clase de composadas organica cual es asidas grasosa o sua derivadas, e es nondisolvable en acua ma disolvable en solventes organica, incluinte multe olios natural, siras e steroides","en":"lipid (chemistry)"}
-{"L":"lipido","C":["n"],"en":"lipid"}
-{"T":"r","L":"lipo-","C":["pf","tecn"],"d":"gras","en":"lipo- (fat)"}
-{"T":"r","L":"lipoprotena","C":["n","cim","bio"],"d":"cualce de un grupo de protenas disolvable cual combina con lipidos en la sangue e transporta los","en":"lipoprotein"}
-{"T":"r","L":"liposuca","C":["n","med"],"d":"un tecnica en sirurjia cosmetica per estrae gras de su la pel par suca","en":"liposuction"}
-{"T":"r","L":"lira","C":["n","mus"],"d":"un arpa peti con forma de U, usada en Elas antica e Africa este moderna","i":"#","en":"lyre"}
-{"L":"Lira","C":["n","ast"],"d":"un constela peti","en":"Lyra (constellation)"}
-{"T":"r","L":"lira","C":["n","mone"],"d":"la unia de mone en Turcia, e istorial en Italia","en":"lira (currency)"}
-{"T":"r","L":"lirica","C":["a","arte"],"d":"(leteratur, arte o musica) espresante la emosias de la creor en modo bela e imajinosa","en":"lyrical, lyric"}
-{"T":"r","L":"liriodendro","C":["n","pla"],"d":"un arbor de America Norde, con folias grande e lobosa e flores grande con forma de tulpas","i":"#","t":"Liriodendron","en":"tulip tree"}
-{"T":"r","L":"liron","C":["n","mam"],"d":"un rodente musin, con coda pelosa o brosin, de cual alga spesies es notada per sua invernis estendeda","i":"#","t":"Gliridae","en":"dormouse"}
+{"L":"linosa","C":["a"],"en":"treated with linseed","fr":"traité à l'huile de lin"}
+{"L":"olio de lino","C":["n"],"en":"linseed oil","fr":"huile de lin"}
+{"L":"pasta de lino","C":["n"],"en":"putty","fr":"mastic"}
+{"L":"seme de lino","C":["n"],"en":"linseed","fr":"graine de lin"}
+{"L":"stofa de lino","C":["n"],"en":"linen","fr":"lin (tissu)"}
+{"T":"r","L":"linolio","C":["n","arci"],"d":"un materia composada de un fondo de lona, stratida con un prepara de olio de lino e suber polvida, usada per covre la solo en construidas","en":"linoleum, lino","fr":"linoléum"}
+{"T":"r","L":"lintel","C":["n","arci"],"d":"un suporta orizonal de lenio, petra, beton o aser supra un porte o fenetra","i":"#","en":"lintel, transom","fr":"linteau"}
+{"T":"r","L":"linxa","C":["vt","gov"],"d":"(un manada de persones) mata (algun), tipal par pende, per un ofende alegada, con o sin litiga","en":"lynch","fr":"lyncher"}
+{"L":"linxa","C":["n"],"en":"lynching","fr":"lynchage"}
+{"T":"r","L":"lipase","C":["n","bio","cim"],"d":"un enzima de la pancreas cual catalise la redui de gras o asidas grasal","en":"lipase","fr":"lipase"}
+{"T":"r","L":"lipido","C":["a","bio","cim"],"d":"parteninte a un clase de composadas organica cual es asidas grasosa o sua derivadas, e es nondisolvable en acua ma disolvable en solventes organica, incluinte multe olios natural, siras e steroides","en":"lipid (chemistry)","fr":"lipidique"}
+{"L":"lipido","C":["n"],"en":"lipid","fr":"lipide"}
+{"T":"r","L":"lipo-","C":["pf","tecn"],"d":"gras","en":"lipo- (fat)","fr":"lipo-"}
+{"T":"r","L":"lipoprotena","C":["n","cim","bio"],"d":"cualce de un grupo de protenas disolvable cual combina con lipidos en la sangue e transporta los","en":"lipoprotein","fr":"lipoprotéine"}
+{"T":"r","L":"liposuca","C":["n","med"],"d":"un tecnica en sirurjia cosmetica per estrae gras de su la pel par suca","en":"liposuction","fr":"liposuccion"}
+{"T":"r","L":"lira","C":["n","mus"],"d":"un arpa peti con forma de U, usada en Elas antica e Africa este moderna","i":"#","en":"lyre","fr":"lyre"}
+{"L":"Lira","C":["n","ast"],"d":"un constela peti","en":"Lyra (constellation)","fr":"Lyre (constellation)"}
+{"T":"r","L":"lira","C":["n","mone"],"d":"la unia de mone en Turcia, e istorial en Italia","en":"lira (currency)","fr":"lire (monnaie)"}
+{"T":"r","L":"lirica","C":["a","arte"],"d":"(leteratur, arte o musica) espresante la emosias de la creor en modo bela e imajinosa","en":"lyrical, lyric","fr":"lyrique"}
+{"T":"r","L":"liriodendro","C":["n","pla"],"d":"un arbor de America Norde, con folias grande e lobosa e flores grande con forma de tulpas","i":"#","t":"Liriodendron","en":"tulip tree","fr":"tulipier (arbre)"}
+{"T":"r","L":"liron","C":["n","mam"],"d":"un rodente musin, con coda pelosa o brosin, de cual alga spesies es notada per sua invernis estendeda","i":"#","t":"Gliridae","en":"dormouse","fr":"loir"}
 {"T":"r","L":"lisa","C":["a"],"d":"con surfas o coere sin bultos o indentes persepable","da":"glat, blød","de":"glatt","en":"smooth, sleek; crisp (cloth, paper)","es":"liso, terzo, igual, parejo, llano","fr":"lisse"}
-{"L":"lisador","C":["n","util"],"i":"#","en":"smoother, sander"}
-{"L":"lisador de banda","C":["n","util"],"en":"belt sander"}
-{"L":"lisi","C":["vnt"],"en":"smoothe, streamline; sand (wood)"}
-{"L":"lisi","C":["vt"],"en":"smoothe, streamline; sand (wood)"}
-{"L":"lisia","C":["n"],"en":"smoothness"}
-{"T":"r","L":"Lisboa","C":["n","jeo"],"d":"la site capital de Portugal","en":"Lisbon"}
+{"L":"lisador","C":["n","util"],"i":"#","en":"smoother, sander","fr":"ponceuse"}
+{"L":"lisador de banda","C":["n","util"],"en":"belt sander","fr":"ponceuse à bande"}
+{"L":"lisi","C":["vnt"],"en":"smoothe, streamline; sand (wood)","fr":"se lisser, devenir lisse; se poncer"}
+{"L":"lisi","C":["vt"],"en":"smoothe, streamline; sand (wood)","fr":"lisser, rendre lisse; poncer"}
+{"L":"lisia","C":["n"],"en":"smoothness","fr":"lisseté, douceur, velouté, lisseur"}
+{"T":"r","L":"Lisboa","C":["n","jeo"],"d":"la site capital de Portugal","en":"Lisbon","fr":"Lisbonne"}
 {"T":"r","L":"lisca","C":["vnt"],"d":"move nonimpedida longo un surfas lisa","da":"glide, skride","de":"gleiten","en":"slide, slip, glide, coast, swipe","es":"deslizar, resbalar, deslizarse, resbalarse, patinar","fr":"glisser"}
-{"L":"lisca","C":["vt"],"en":"slide, slip, push"}
-{"L":"lisca","C":["n"],"en":"slip, glide"}
-{"L":"lisca de tera","C":["n"],"en":"landslide, landslip"}
-{"L":"lisca e pone","C":["v"],"en":"drag and drop (software)"}
-{"L":"lisca sur acua","C":["v"],"en":"aquaplane"}
-{"L":"liscable","C":["a"],"en":"slidable, sliding"}
-{"L":"liscador","C":["n","vec"],"i":"#","en":"slider; hovercraft"}
-{"L":"liscante","C":["n","mus"],"en":"glissando"}
-{"L":"lisceta","C":["vnt"],"en":"glitch, goof, slip, slip up"}
-{"L":"lisceta","C":["n"],"en":"glitch, goof, booboo, boob, slip, slip-up"}
-{"L":"liscosa","C":["a"],"d":"(un cosa) tan lisa, moiada o melmosa ce on no pote fasil teni lo o sta sur lo","en":"slippery, slick"}
-{"L":"liscosia","C":["n"],"en":"slipperiness"}
-{"L":"nonliscosa","C":["a"],"en":"non-slip"}
-{"T":"r","L":"liscasapato","C":["n","vn","util"],"i":"#","en":"shoehorn"}
-{"T":"r","L":"liscatera","C":["n","vn","tera"],"en":"landslide, landslip"}
-{"T":"r","L":"liscor","C":["n","mam"],"d":"un marsupio peti australasian, con pel entre sua gamas anterior e posterior cual el usa per vola de arbor a arbor","i":"#","t":"Petaurus","en":"flying possum, flying phalanger, glider (marsupial)"}
-{"T":"r","L":"lise","C":["n","cim","med"],"d":"descomposa o desintegra","en":"lysis"}
-{"L":"-lise","C":["sf","n","cim","med"],"d":"descomposa o desintegra","en":"-lysis (decomposition)"}
-{"L":"-lisica","C":["sf","a","med"],"d":"desintegra de un selula","en":"-lytic"}
-{"T":"r","L":"lisensa","C":["vt","gov"],"d":"dona un permete formal o ofisial a (algun) per posese, usa o fa alga cosa","en":"license"}
-{"L":"lisensa","C":["n"],"en":"license|ce, permit"}
-{"L":"lisensa de primi","C":["n"],"en":"imprimatur"}
-{"L":"lisensada","C":["a"],"en":"licensed"}
-{"L":"nonlisensada","C":["a"],"en":"unlicensed"}
-{"T":"r","L":"liseo","C":["n","gov"],"d":"un scola per adolesentes con edas cual depende de la nasion, ma tipal completida a 18 anios","en":"high school, secondary school, lycee, lyceum"}
-{"T":"r","L":"lisosoma","C":["n","bio"],"d":"un organeta en la sitoplasma de selulas eucariotal cual conteni enzimas degradante encluida par un membrana","en":"lysosome (biology)"}
-{"T":"r","L":"lista","C":["vt"],"d":"scrive o dise (un cuantia de nomes o otra cosas) en serie","en":"list, itemize|is","fr":"lister"}
+{"L":"lisca","C":["vt"],"en":"slide, slip, push","fr":"faire glisser"}
+{"L":"lisca","C":["n"],"en":"slip, glide","fr":"glissade"}
+{"L":"lisca de tera","C":["n"],"en":"landslide, landslip","fr":"glissement de terrain, éboulement"}
+{"L":"lisca e pone","C":["v"],"en":"drag and drop (software)","fr":"glisser-déposer, glisser-déplacer, faire glisser (un fichier, un dossier) (informatique)"}
+{"L":"lisca sur acua","C":["v"],"en":"aquaplane","fr":"glisser sur l'eau, faire un aquaplanage, faire un aquaplaning"}
+{"L":"liscable","C":["a"],"en":"slidable, sliding","fr":"coulissant, glissant"}
+{"L":"liscador","C":["n","vec"],"i":"#","en":"slider; hovercraft","fr":"véhicule à coussin d'air, aéroglisseur, hydroglisseur"}
+{"L":"liscante","C":["n","mus"],"en":"glissando","fr":"glissando"}
+{"L":"lisceta","C":["vnt"],"en":"glitch, goof, slip, slip up","fr":"faire un lapsus, faire une gaffe, commettre une maladresse"}
+{"L":"lisceta","C":["n"],"en":"glitch, goof, booboo, boob, slip, slip-up","fr":"lapsus, gaffe, bévue, maladresse"}
+{"L":"liscosa","C":["a"],"d":"(un cosa) tan lisa, moiada o melmosa ce on no pote fasil teni lo o sta sur lo","en":"slippery, slick","fr":"glissant, insaisissable"}
+{"L":"liscosia","C":["n"],"en":"slipperiness","fr":"caractère glissant, caractère insaisissable"}
+{"L":"nonliscosa","C":["a"],"en":"non-slip","fr":"non glissant, qui ne glisse pas, stable, solide, fixe, ferme"}
+{"T":"r","L":"liscasapato","C":["n","vn","util"],"i":"#","en":"shoehorn","fr":"chausse-pied, chaussepied"}
+{"T":"r","L":"liscatera","C":["n","vn","tera"],"en":"landslide, landslip","fr":"glissement de terrain, éboulement"}
+{"T":"r","L":"liscor","C":["n","mam"],"d":"un marsupio peti australasian, con pel entre sua gamas anterior e posterior cual el usa per vola de arbor a arbor","i":"#","t":"Petaurus","en":"flying possum, flying phalanger, glider (marsupial)","fr":"planeur (marsupial)"}
+{"T":"r","L":"lise","C":["n","cim","med"],"d":"descomposa o desintegra","en":"lysis","fr":"lyse"}
+{"L":"-lise","C":["sf","n","cim","med"],"d":"descomposa o desintegra","en":"-lysis (decomposition)","fr":"-lyse"}
+{"L":"-lisica","C":["sf","a","med"],"d":"desintegra de un selula","en":"-lytic","fr":"-lytique"}
+{"T":"r","L":"lisensa","C":["vt","gov"],"d":"dona un permete formal o ofisial a (algun) per posese, usa o fa alga cosa","en":"license","fr":"autoriser, délivrer un permis"}
+{"L":"lisensa","C":["n"],"en":"license|ce, permit","fr":"permis, licence"}
+{"L":"lisensa de primi","C":["n"],"en":"imprimatur","fr":"imprimatur"}
+{"L":"lisensada","C":["a"],"en":"licensed","fr":"permis, autorisé, disposant d'un permis, possédant d'un permis"}
+{"L":"nonlisensada","C":["a"],"en":"unlicensed","fr":"non permis, non autorisé, dépourvu de permis, ne possédant pas d'un permis"}
+{"T":"r","L":"liseo","C":["n","gov"],"d":"un scola per adolesentes con edas cual depende de la nasion, ma tipal completida a 18 anios","en":"high school, secondary school, lycee, lyceum","fr":"lycée, collège"}
+{"T":"r","L":"lisosoma","C":["n","bio"],"d":"un organeta en la sitoplasma de selulas eucariotal cual conteni enzimas degradante encluida par un membrana","en":"lysosome (biology)","fr":"lysosome"}
+{"T":"r","L":"lista","C":["vt"],"d":"scrive o dise (un cuantia de nomes o otra cosas) en serie","en":"list, itemize|is","fr":"lister, faire la liste de, inventorier, faire l'inventaire de, répertorier"}
 {"L":"lista","C":["n"],"da":"liste","de":"Verzeichnis","en":"list","es":"lista","fr":"liste"}
-{"L":"lista cadente","C":["n"],"en":"drop-down list"}
-{"L":"lista de benes","C":["n"],"en":"inventory"}
-{"L":"lista de contenidas","C":["n"],"en":"packing slip, (ship's) manifest"}
-{"L":"lista de desiradas","C":["n"],"en":"wish list"}
-{"L":"lista de eras","C":["n"],"en":"errata"}
-{"L":"lista de medisines","C":["n"],"en":"formulary"}
-{"L":"lista de salarios","C":["n"],"en":"payroll"}
-{"L":"lista de sertis","C":["n"],"en":"checklist"}
-{"L":"lista negra","C":["n"],"en":"blacklist"}
-{"L":"nonlistada","C":["a"],"en":"unlisted"}
-{"L":"pone en lista negra","C":["v"],"en":"blacklist"}
-{"T":"r","L":"litania","C":["n"],"d":"un serie de preas o suplicas","en":"litany"}
-{"T":"r","L":"litica","C":["a"],"d":"pertinente a petra","en":"lithic"}
-{"L":"-litica","C":["sf"],"d":"pertinente a petra","en":"-lithic"}
+{"L":"lista cadente","C":["n"],"en":"drop-down list","fr":"menu déroulant, liste déroulante (informatique)"}
+{"L":"lista de benes","C":["n"],"en":"inventory","fr":"inventaire"}
+{"L":"lista de contenidas","C":["n"],"en":"packing slip, (ship's) manifest","fr":"bon de livraison"}
+{"L":"lista de desiradas","C":["n"],"en":"wish list","fr":"liste de vœux, liste de désirs"}
+{"L":"lista de eras","C":["n"],"en":"errata","fr":"errata, erratum"}
+{"L":"lista de medisines","C":["n"],"en":"formulary","fr":"ordonnance"}
+{"L":"lista de salarios","C":["n"],"en":"payroll","fr":"feuille de paie"}
+{"L":"lista de sertis","C":["n"],"en":"checklist","fr":"liste de contrôle"}
+{"L":"lista negra","C":["n"],"en":"blacklist","fr":"liste noire"}
+{"L":"nonlistada","C":["a"],"en":"unlisted","fr":"non listé"}
+{"L":"pone en lista negra","C":["v"],"en":"blacklist","fr":"blacklister, placer en liste noire, inscrire comme persona non grata"}
+{"T":"r","L":"litania","C":["n"],"d":"un serie de preas o suplicas","en":"litany","fr":"litanie, kyrielle"}
+{"T":"r","L":"litica","C":["a"],"d":"pertinente a petra","en":"lithic","fr":"lithique"}
+{"L":"-litica","C":["sf"],"d":"pertinente a petra","en":"-lithic","fr":"-lithique"}
 {"T":"r","L":"litiga","C":["vt","gov"],"d":"prende (un alega o disputa) a un corte legal; comensa un prosede legal contra (algun)","en":"litigate, prosecute, sue, take to court, arraign, try, proceed against","fr":"poursuivre (en justice)"}
 {"L":"litiga","C":["n"],"da":"retsag","de":"Prozess","en":"litigation, suit, lawsuit, trial, prosecution, case (law)","eo":"proceso","es":"proceso (juicio)","fr":"procès (criminel, civil)","pt":"judicial, processo judicial, processo legal, ação"}
-{"L":"litiga falsa","C":["n"],"en":"mock trial"}
-{"L":"litiga nonconcluinte","C":["n"],"en":"mistrial"}
-{"L":"litigable","C":["a"],"en":"accountable, responsible, actionable"}
-{"L":"litigor","C":["n"],"en":"litigator, litigant"}
+{"L":"litiga falsa","C":["n"],"en":"mock trial","fr":"fausse accusation, faux procès"}
+{"L":"litiga nonconcluinte","C":["n"],"en":"mistrial","fr":"non-lieu, nullité du procès, annulation du procès"}
+{"L":"litigable","C":["a"],"en":"accountable, responsible, actionable","fr":"responsable, dont la responsabilité est engagée"}
+{"L":"litigor","C":["n"],"en":"litigator, litigant","fr":"plaignant, accusateur, plaideur"}
 {"L":"litigor de stato","C":["n"],"en":"state attorney (civil law)","fr":"procureur (droit civil)"}
-{"L":"litigosa","C":["a"],"en":"litigious"}
-{"L":"prelitigal","C":["a"],"en":"pretrial"}
-{"T":"r","L":"litio","C":["n","cim"],"d":"la elemento cimical con numero atomal 3, un metal mol e arjentin blanca, usada per trata mania","s":"Li","en":"lithium"}
-{"T":"r","L":"lito-","C":["pf","tecn"],"d":"petra","en":"litho- (stone)"}
-{"T":"r","L":"-lito","C":["sf","n","tecn"],"d":"petra","en":"-lith (stone)"}
+{"L":"litigosa","C":["a"],"en":"litigious","fr":"litigieux"}
+{"L":"prelitigal","C":["a"],"en":"pretrial","fr":"préliminaire, d'avant-procès"}
+{"T":"r","L":"litio","C":["n","cim"],"d":"la elemento cimical con numero atomal 3, un metal mol e arjentin blanca, usada per trata mania","s":"Li","en":"lithium","fr":"lithium"}
+{"T":"r","L":"lito-","C":["pf","tecn"],"d":"petra","en":"litho- (stone)","fr":"litho-"}
+{"T":"r","L":"-lito","C":["sf","n","tecn"],"d":"petra","en":"-lith (stone)","fr":"-lithe"}
 {"T":"r","L":"litografia","C":["n","arte"],"d":"la prosede de primi de un surfas plana, tratada per repulsa inca estra do on intende","i":"#","en":"lithography"}
 {"L":"litografi","C":["vt"],"en":"lithograph"}
 {"L":"litografi","C":["n"],"en":"lithograph"}
-{"T":"r","L":"litolojia","C":["n","tera"],"d":"la studia de la cualias fisical de rocas","en":"lithology"}
-{"T":"r","L":"litorina","C":["n","mol"],"d":"un caracol de mar, peti e comable","i":"#","t":"Littorina","en":"winkle, periwinkle (mollusk|mollusc)"}
-{"T":"r","L":"litosfera","C":["n","tera"],"d":"la parte rijida e esterna de la Tera o otra planetas","en":"lithosphere, mantle (geology)"}
-{"T":"r","L":"litote","C":["n","ling"],"d":"un espresa ironiosa cual presenta la negativa de la oposada, como `no mal` per dise `bon`","en":"litotes (rhetoric)"}
-{"T":"r","L":"litotrof","C":["a","bio"],"d":"atraeda a minerales per nuri","en":"lithotrophic (biology)"}
-{"L":"litotrof","C":["n"],"en":"lithotroph"}
-{"L":"litotrofia","C":["n"],"en":"lithotrophia"}
-{"T":"r","L":"litre","C":["n","mat"],"d":"un unia metral de volum, egal a 1000 sentimetres cubida","en":"liter|re (unit of capacity)"}
-{"L":"cilolitre","C":["n"],"en":"kiloliter|re"}
-{"L":"decalitre","C":["n"],"en":"decaliter|re"}
-{"L":"desilitre","C":["n"],"en":"deciliter|re"}
-{"L":"ectolitre","C":["n"],"en":"hectoliter|re"}
-{"L":"mililitre","C":["n"],"en":"milliliter|re"}
-{"L":"sentilitre","C":["n"],"en":"centiliter|re"}
-{"T":"r","L":"liturjia","C":["n","rel"],"d":"un ordina per gida la adora relijiosa publica, tipal en cristianisme","en":"liturgy"}
-{"L":"liturjial","C":["a"],"en":"liturgical"}
-{"T":"r","L":"litvac","C":["a","dem"],"d":"pertinente a iudis con asendentes en la Duxia Grande de Lietuva","en":"Litvak"}
-{"L":"litvac","C":["n"],"en":"Litvak, Lithuanian Jew"}
-{"T":"r","L":"litxi","C":["n","pla","cos"],"d":"un arbor xines; la fruta peti e ronda de esta","i":"#","t":"Litchi chinensis","en":"lychee (tree, fruit)"}
-{"T":"r","L":"livermorio","C":["n","cim"],"d":"la elemento cimical con numero atomal 116","s":"Lv","en":"livermorium (element)"}
-{"T":"r","L":"lixivia","C":["vnt","tera"],"d":"(materia) sorti de un solida par disolve en un licuida","en":"leach (drain)"}
-{"L":"lixivia","C":["vt","tera"],"en":"leach (drain)"}
-{"L":"lixivia","C":["n"],"en":"leaching"}
-{"L":"lixiviada","C":["n"],"en":"leachate"}
-{"T":"r","L":"lo","C":["pron"],"d":"representante un cosa o situa; ance usada como un sujeto pupetin cuando la sujeto vera es la clima o ambiente jeneral, o apare plu tarda en la frase como un proposa suordinada","da":"den, det","en":"it"}
-{"L":"lo cual","C":["esp"],"u":"lo cual resta parteni a tu; me va esplica lo cual me crede","en":"that which, what"}
-{"T":"r","L":"lobe","C":["n","bio","anat"],"d":"un parte cuasi ronda e plata de alga cosa, tipal un de un duple juntada o separada par un fesur; cada de la du partes de la serebro o serebreta","en":"lobe"}
-{"L":"lobe de orea","C":["n"],"i":"#","en":"earlobe"}
-{"L":"lobosa","C":["a"],"en":"lobed"}
-{"T":"r","L":"lobotomia","C":["n"],"d":"un talia sirurjial de la lobe fronte de la serebro, istorial usada per trata alga maladias mental","en":"lobotomy"}
-{"L":"lobotomi","C":["vt"],"en":"lobotomize|is"}
-{"T":"r","L":"loca","C":["vt"],"d":"pone (un person o cosa) en un area, ordina, situa o contesto spesifada","en":"locate, place, site, position"}
-{"L":"loca","C":["n"],"da":"sted, lokalitet","de":"Lage","en":"place, location, position, spot, site, locale","es":"lugar, localidad, sitio","fr":"endroit, lieu"}
-{"L":"loca bela","C":["n"],"en":"beauty spot (place with beautiful scenery)"}
-{"L":"loca de nase","C":["n"],"en":"birthplace"}
-{"L":"loca de note","C":["n"],"en":"nightclub, night spot"}
-{"L":"loca de orienta","C":["n"],"en":"landmark (navigation)"}
-{"L":"loca misera","C":["n"],"en":"wretched place, hellhole, dump"}
-{"L":"loca ueb","C":["n"],"en":"website"}
-{"L":"en no loca","C":["av"],"en":"nowhere"}
-{"L":"en no otra loca","C":["av"],"en":"nowhere else"}
-{"L":"en un otra loca","C":["av"],"en":"somewhere else"}
-{"L":"desloca","C":["vt"],"en":"dislocate, displace, offset, shift"}
-{"L":"desloca","C":["n"],"en":"dislocation, displacement, offset, shift"}
-{"L":"desloca blu","C":["n"],"en":"blue shift"}
-{"L":"desloca de vocales","C":["n"],"en":"vowel shift"}
-{"L":"desloca roja","C":["n"],"en":"red shift"}
-{"L":"deslocada","C":["a"],"en":"dislocated, displaced, askew, awry"}
-{"L":"en loca de","C":["prep"],"da":"i stedet for, hellere end","de":"dafür, anstatt","en":"instead of, in place of, rather than","es":"en lugar de, por, más bien que","fr":"au lieu de"}
-{"L":"en loca","C":["av"],"en":"instead"}
+{"T":"r","L":"litolojia","C":["n","tera"],"d":"la studia de la cualias fisical de rocas","en":"lithology","fr":"lithologie"}
+{"T":"r","L":"litorina","C":["n","mol"],"d":"un caracol de mar, peti e comable","i":"#","t":"Littorina","en":"winkle, periwinkle (mollusk|mollusc)","fr":"bigorneau"}
+{"T":"r","L":"litosfera","C":["n","tera"],"d":"la parte rijida e esterna de la Tera o otra planetas","en":"lithosphere, mantle (geology)","fr":"lithosphère, manteau (géologie)"}
+{"T":"r","L":"litote","C":["n","ling"],"d":"un espresa ironiosa cual presenta la negativa de la oposada, como `no mal` per dise `bon`","en":"litotes (rhetoric)","fr":"litote"}
+{"T":"r","L":"litotrof","C":["a","bio"],"d":"atraeda a minerales per nuri","en":"lithotrophic (biology)","fr":"lithotrophe"}
+{"L":"litotrof","C":["n"],"en":"lithotroph","fr":"lithotrophe"}
+{"L":"litotrofia","C":["n"],"en":"lithotrophia","fr":"lithotrophie"}
+{"T":"r","L":"litre","C":["n","mat"],"d":"un unia metral de volum, egal a 1000 sentimetres cubida","en":"liter|re (unit of capacity)","fr":"litre"}
+{"L":"cilolitre","C":["n"],"en":"kiloliter|re","fr":"kilolitre"}
+{"L":"decalitre","C":["n"],"en":"decaliter|re","fr":"décalitre"}
+{"L":"desilitre","C":["n"],"en":"deciliter|re","fr":"décilitre"}
+{"L":"ectolitre","C":["n"],"en":"hectoliter|re","fr":"hectolitre"}
+{"L":"mililitre","C":["n"],"en":"milliliter|re","fr":"millilitre"}
+{"L":"sentilitre","C":["n"],"en":"centiliter|re","fr":"centilitre"}
+{"T":"r","L":"liturjia","C":["n","rel"],"d":"un ordina per gida la adora relijiosa publica, tipal en cristianisme","en":"liturgy","fr":"liturgie"}
+{"L":"liturjial","C":["a"],"en":"liturgical","fr":"liturgique"}
+{"T":"r","L":"litvac","C":["a","dem"],"d":"pertinente a iudis con asendentes en la Duxia Grande de Lietuva","en":"Litvak","fr":"litvak"}
+{"L":"litvac","C":["n"],"en":"Litvak, Lithuanian Jew","fr":"Litvak, Juif lithuanien"}
+{"T":"r","L":"litxi","C":["n","pla","cos"],"d":"un arbor xines; la fruta peti e ronda de esta","i":"#","t":"Litchi chinensis","en":"lychee (tree, fruit)","fr":"litchi (arbre, fruit)"}
+{"T":"r","L":"livermorio","C":["n","cim"],"d":"la elemento cimical con numero atomal 116","s":"Lv","en":"livermorium (element)","fr":"livermorium (élément)"}
+{"T":"r","L":"lixivia","C":["vnt","tera"],"d":"(materia) sorti de un solida par disolve en un licuida","en":"leach (drain)","fr":"lixivier (opérer une lixiviation)"}
+{"L":"lixivia","C":["vt","tera"],"en":"leach (drain)","fr":"lixivier"}
+{"L":"lixivia","C":["n"],"en":"leaching","fr":"lixiviation"}
+{"L":"lixiviada","C":["n"],"en":"leachate","fr":"lixiviel"}
+{"T":"r","L":"lo","C":["pron"],"d":"representante un cosa o situa; ance usada como un sujeto pupetin cuando la sujeto vera es la clima o ambiente jeneral, o apare plu tarda en la frase como un proposa suordinada","da":"den, det","en":"it","fr":"il (neutre), cela, ça"}
+{"L":"lo cual","C":["esp"],"u":"lo cual resta parteni a tu; me va esplica lo cual me crede","en":"that which, what","fr":"ce qui, ce que"}
+{"T":"r","L":"lobe","C":["n","bio","anat"],"d":"un parte cuasi ronda e plata de alga cosa, tipal un de un duple juntada o separada par un fesur; cada de la du partes de la serebro o serebreta","en":"lobe","fr":"lobe"}
+{"L":"lobe de orea","C":["n"],"i":"#","en":"earlobe","fr":"lobe de l'oreille"}
+{"L":"lobosa","C":["a"],"en":"lobed","fr":"lobé"}
+{"T":"r","L":"lobotomia","C":["n"],"d":"un talia sirurjial de la lobe fronte de la serebro, istorial usada per trata alga maladias mental","en":"lobotomy","fr":"lobotomie"}
+{"L":"lobotomi","C":["vt"],"en":"lobotomize|is","fr":"lobotomiser"}
+{"T":"r","L":"loca","C":["vt"],"d":"pone (un person o cosa) en un area, ordina, situa o contesto spesifada","en":"locate, place, site, position","fr":"loger, placer, assigner, caser, établir, poster"}
+{"L":"loca","C":["n"],"da":"sted, lokalitet","de":"Lage","en":"place, location, position, spot, site, locale","es":"lugar, localidad, sitio","fr":"endroit, lieu, position, site"}
+{"L":"loca bela","C":["n"],"en":"beauty spot (place with beautiful scenery)","fr":"belvédère, point de vue"}
+{"L":"loca de nase","C":["n"],"en":"birthplace","fr":"lieu de naissance"}
+{"L":"loca de note","C":["n"],"en":"nightclub, night spot","fr":"boîte de nuit"}
+{"L":"loca de orienta","C":["n"],"en":"landmark (navigation)","fr":"point de repère, balise"}
+{"L":"loca misera","C":["n"],"en":"wretched place, hellhole, dump","fr":"taudis, lieu misérable, trou à rat, masure"}
+{"L":"loca ueb","C":["n"],"en":"website","fr":"site web, site internet"}
+{"L":"en no loca","C":["av"],"en":"nowhere","fr":"nulle part"}
+{"L":"en no otra loca","C":["av"],"en":"nowhere else","fr":"nulle part ailleurs"}
+{"L":"en un otra loca","C":["av"],"en":"somewhere else, elsewhere","fr":"ailleurs"}
+{"L":"desloca","C":["vt"],"en":"dislocate, displace, offset, shift","fr":"déplacer, délocaliser, décaler"}
+{"L":"desloca","C":["n"],"en":"dislocation, displacement, offset, shift","fr":"déplacement, délocalisation, décalage"}
+{"L":"desloca blu","C":["n"],"en":"blue shift","fr":"décalage vers le bleu"}
+{"L":"desloca de vocales","C":["n"],"en":"vowel shift","fr":"changement vocalique"}
+{"L":"desloca roja","C":["n"],"en":"red shift","fr":"décalage vers le rouge"}
+{"L":"deslocada","C":["a"],"en":"dislocated, displaced, askew, awry","fr":"déplacé, décalé, mal placé, de travers"}
+{"L":"en loca de","C":["prep"],"da":"i stedet for, hellere end","de":"dafür, anstatt","en":"instead of, in place of, rather than","es":"en lugar de, por, más bien que","fr":"au lieu de, en place de, en guise de"}
+{"L":"en loca","C":["av"],"en":"instead","fr":"à la place, en lieu et place"}
 {"L":"local","C":["a"],"da":"lokal","de":"örtlich, Lokal-","en":"local","es":"local","fr":"local"}
-{"L":"locali","C":["vnt"],"en":"localize"}
-{"L":"locali","C":["vt"],"en":"trace, track, pinpoint"}
-{"L":"locali","C":["n"],"en":"localization|is"}
-{"L":"localisme","C":["n"],"en":"localism, parochialism"}
-{"L":"popla local","C":["n"],"en":"local people, local population, locals"}
-{"L":"reloca","C":["vt"],"en":"move, relocate; translate (geometry)"}
-{"L":"reloca","C":["n"],"en":"move, relocation; translation (geometry)"}
-{"L":"reloca se","C":["v"],"en":"relocate, move house"}
-{"L":"relocali","C":["vt"],"en":"relocalize|is, resettle"}
-{"L":"relocor","C":["n"],"en":"removals specialist, removal man"}
-{"T":"r","L":"locativa","C":["a","ling"],"en":"locative (grammar)"}
-{"L":"locativa","C":["n"],"d":"un caso gramatical cual indica presentia a un loca","en":"locative (grammar)"}
-{"T":"r","L":"loco","C":["a","uma"],"d":"(un person) no seguente la normas de sosia, en modo cisa perilosa a se o a otra persones; (nonformal) estrema fol o bizara","en":"crazy, insane, mad, wacky, nuts, bonkers","fr":"fou"}
-{"L":"loco","C":["n"],"en":"loony, nutter","fr":"fou"}
-{"L":"loci","C":["vnt"],"en":"go crazy, go nuts, go bonkers"}
-{"T":"r","L":"locomotiva","C":["n","vec"],"d":"un veculo propulsada cual move sur reles, usada per tira trenes","i":"#","en":"locomotive, engine"}
-{"L":"locomotiva de vapor","C":["n"],"en":"steam locomotive"}
-{"L":"locomotivor","C":["n"],"en":"engine driver, train engineer"}
-{"T":"r","L":"locusta","C":["n","artr"],"d":"un inseto grande de la tropicos, con la capasia forte de vola","i":"#","t":"Caelifera","da":"græshoppe","en":"locust, grasshopper","fr":"criquet"}
-{"L":"locusta solitar","C":["n"],"en":"grasshopper (when not swarming)"}
-{"L":"locusta xamante","C":["n","artr"],"t":"Acridoidea","en":"locust"}
-{"T":"r","L":"loda","C":["vt","rel","uma"],"d":"espresa amira o aproba de; espresa bon desiras a (un person) pos un aveni spesial; espresa respeta e grasia a (un dio o diva)","da":"rose, prise","de":"loben","en":"praise, laud, glorify, exalt, commend, extol, eulogize|is; compliment, congratulate, flatter","es":"alabar, elogiar, encomiar, cumplimentar, lisonjear","fr":"louer, complimenter, féliciter"}
-{"L":"loda","C":["n"],"en":"praise, kudos, compliment, congratulation, glory, exaltation, eulogy, panegyric, encomium, citation, commendation"}
-{"L":"loda duple","C":["vt"],"en":"praise twice, give two thumbs up to"}
-{"L":"loda falsa","C":["n"],"en":"false praise, hype, puffery"}
-{"L":"loda zelosa","C":["v"],"en":"praise enthusiastically, rave about"}
-{"L":"con loda masima","C":["av"],"en":"with the highest praise, summa cum laude"}
-{"L":"lodable","C":["a"],"en":"laudable, praiseworthy, commendable"}
-{"L":"lodante","C":["a"],"en":"praising, flattering"}
-{"L":"lodas","C":["esc"],"en":"congratulations, my compliments; hail (greeting)"}
-{"L":"nonlodada","C":["a"],"en":"unpraised, unsung"}
-{"L":"nonlodante","C":["a"],"en":"unflattering"}
-{"T":"r","L":"loden","C":["n","vest"],"d":"un stofa spesa e secur contra acua, tipal verde oscur","en":"loden (fabric)"}
-{"T":"r","L":"loes","C":["n","tera"],"d":"un tera laxe compatida, orijinal deponeda par la venta, tipal regardada como la tera la plu bon per cultiva","en":"loess (soil)"}
-{"T":"r","L":"lofio","C":["n","pex"],"d":"un pex pexorin cual abita la fondos de mares","t":"Lophius","en":"monkfish"}
-{"T":"r","L":"lofofora","C":["n","bio"],"d":"un strutur coronin con tentaculos de silios, sirca la boca de alga animales de mar peti","en":"lophophore (biology)"}
-{"T":"r","L":"lofotrocozon","C":["n","mol"],"d":"un membro de un suprafilo cual inclui braciopodos, moluscos e anelidos","en":"lophotrochozoon (pl. lophotrochozoa) (organism)"}
-{"T":"r","L":"logaritmo","C":["n","mat"],"d":"un cuantia representante la potia a cual on debe leva un numero fisada per produi un numero spesifada","en":"logarithm"}
-{"L":"logaritmal","C":["a"],"en":"logarithmic"}
-{"T":"r","L":"logo","C":["n","mone","gov"],"d":"un simbol o otra desinia adotada par un organiza per marca sua produidas, uniformas, veculos, etc","en":"logo, emblem"}
-{"T":"r","L":"logo-","C":["pf","tecn"],"d":"parolas","en":"logo- (words)"}
-{"T":"r","L":"logofilia","C":["n","uma"],"d":"la ama de parolas","en":"logophilia, love of words"}
-{"L":"logofilica","C":["a"],"en":"logophilic, word-loving"}
-{"L":"logofilica","C":["n"],"en":"logophile, lover of words"}
-{"T":"r","L":"logografia","C":["n"],"d":"un forma de scrive usante imajes per representa parolas","en":"logography"}
-{"T":"r","L":"logogram","C":["n"],"d":"un imaje cual representa un parola","en":"logogram"}
-{"T":"r","L":"Logudoro","C":["n","jeo"],"d":"un rena antica e rejion moderna en Sardinia norde-sentral","en":"Logudoro (Sardinian region)"}
-{"L":"logudores","C":["a"],"en":"Logudorese (person, language)"}
-{"L":"logudores","C":["n"],"en":"Logudorese (person, language)"}
-{"T":"r","L":"lojia","C":["n","arci"],"d":"un galeria o sala con un o plu lados abrida, tipal a la jardin; un area privata de un teatro o simil, reservada per un grupo de persones","i":"#","en":"loggia, veranda; box (theater|re)"}
-{"L":"lojia de acusada","C":["n"],"en":"dock (in court)","fr":"banc des accusés"}
-{"L":"lojia de atestor","C":["n"],"i":"#","en":"witness stand, witness box"}
-{"L":"lojia de juria","C":["n"],"en":"jury box"}
-{"T":"r","L":"-lojia","C":["sf","n"],"d":"studia, siensa","en":"-logy (study)"}
+{"L":"locali","C":["vnt"],"en":"localize","fr":"se situer, se trouver"}
+{"L":"locali","C":["vt"],"en":"trace, track, pinpoint","fr":"localiser, tracer, repérer, situer"}
+{"L":"locali","C":["n"],"en":"localization|is","fr":"localisation, situation"}
+{"L":"localisme","C":["n"],"en":"localism, parochialism","fr":"localisme, provincialisme, esprit de clocher"}
+{"L":"popla local","C":["n"],"en":"local people, local population, locals","fr":"population locale, gens du coin, indigènes, autochtones, résidents, riverains"}
+{"L":"reloca","C":["vt"],"en":"move, relocate; translate (geometry)","fr":"reloger; opérer une translation (géométrie)"}
+{"L":"reloca","C":["n"],"en":"move, relocation; translation (geometry)","fr":"relogement; translation (géométrie)"}
+{"L":"reloca se","C":["v"],"en":"relocate, move house","fr":"se reloger, déménager"}
+{"L":"relocali","C":["vt"],"en":"relocalize|is, resettle","fr":"relocaliser, réinstaller"}
+{"L":"relocor","C":["n"],"en":"removals specialist, removal man","fr":"déménageur, entreprise de déménagement"}
+{"T":"r","L":"locativa","C":["a","ling"],"en":"locative (grammar)","fr":"locatif (grammaire)"}
+{"L":"locativa","C":["n"],"d":"un caso gramatical cual indica presentia a un loca","en":"locative (grammar)","fr":"locatif (grammaire)"}
+{"T":"r","L":"loco","C":["a","uma"],"d":"(un person) no seguente la normas de sosia, en modo cisa perilosa a se o a otra persones; (nonformal) estrema fol o bizara","en":"crazy, insane, mad, wacky, nuts, bonkers","fr":"fou, cinglé, farfelu, dérangé, désaxé, dingue, insensé, timbré"}
+{"L":"loco","C":["n"],"en":"loony, nutter","fr":"fou, cinglé, farfelu, dérangé, désaxé, dingue, insensé, timbré"}
+{"L":"loci","C":["vnt"],"en":"go crazy, go nuts, go bonkers","fr":"devenir fou, devenir cinglé, perdre la tête, perdre les pédales, perdre la boule"}
+{"T":"r","L":"locomotiva","C":["n","vec"],"d":"un veculo propulsada cual move sur reles, usada per tira trenes","i":"#","en":"locomotive, engine","fr":"locomotive"}
+{"L":"locomotiva de vapor","C":["n"],"en":"steam locomotive","fr":"locomotive à vapeur"}
+{"L":"locomotivor","C":["n"],"en":"engine driver, train engineer","fr":"conducteur de train"}
+{"T":"r","L":"locusta","C":["n","artr"],"d":"un inseto grande de la tropicos, con la capasia forte de vola","i":"#","t":"Caelifera","da":"græshoppe","en":"locust, grasshopper","fr":"sauterelle, criquet, cigale, grillon"}
+{"L":"locusta solitar","C":["n"],"en":"grasshopper (when not swarming)","fr":"sauteriau (criquet en phase solitaire)"}
+{"L":"locusta xamante","C":["n","artr"],"t":"Acridoidea","en":"locust","fr":"locuste (criquet en phase grégaire)"}
+{"T":"r","L":"loda","C":["vt","rel","uma"],"d":"espresa amira o aproba de; espresa bon desiras a (un person) pos un aveni spesial; espresa respeta e grasia a (un dio o diva)","da":"rose, prise","de":"loben","en":"praise, laud, glorify, exalt, commend, extol, eulogize|is; compliment, congratulate, flatter","es":"alabar, elogiar, encomiar, cumplimentar, lisonjear","fr":"louer, complimenter, féliciter, congratuler, remercier, saluer, applaudir"}
+{"L":"loda","C":["n"],"en":"praise, kudos, compliment, congratulation, glory, exaltation, eulogy, panegyric, encomium, citation, commendation","fr":"éloge, louange, compliment, panégyrique, remerciements"}
+{"L":"loda duple","C":["vt"],"en":"praise twice, give two thumbs up to","fr":"redoubler d'éloges"}
+{"L":"loda falsa","C":["n"],"en":"false praise, hype, puffery","fr":"fausse louange, faux éloge"}
+{"L":"loda zelosa","C":["v"],"en":"praise enthusiastically, rave about","fr":"s'extasier, vanter, parler avec enthousiasme, faire un éloge dithyrambique, dire le plus grand bien de quelqu'un"}
+{"L":"con loda masima","C":["av"],"en":"with the highest praise, summa cum laude","fr":"avec la plus haute distinction"}
+{"L":"lodable","C":["a"],"en":"laudable, praiseworthy, commendable","fr":"louable, recommendable"}
+{"L":"lodante","C":["a"],"en":"praising, flattering","fr":"élogieux, flatteur"}
+{"L":"lodas","C":["esc"],"en":"congratulations, my compliments; hail (greeting)","fr":"félicitations, mes compliments, bravo"}
+{"L":"nonlodada","C":["a"],"en":"unpraised, unsung","fr":"méconnu, non reconnu"}
+{"L":"nonlodante","C":["a"],"en":"unflattering","fr":"peu élogieux, peu flatteur"}
+{"T":"r","L":"loden","C":["n","vest"],"d":"un stofa spesa e secur contra acua, tipal verde oscur","en":"loden (fabric)","fr":"loden (tissu)"}
+{"T":"r","L":"loes","C":["n","tera"],"d":"un tera laxe compatida, orijinal deponeda par la venta, tipal regardada como la tera la plu bon per cultiva","en":"loess (soil)","fr":"lœss, loess, limon"}
+{"T":"r","L":"lofio","C":["n","pex"],"d":"un pex pexorin cual abita la fondos de mares","t":"Lophius","en":"monkfish","fr":"lotte, baudroie"}
+{"T":"r","L":"lofofora","C":["n","bio"],"d":"un strutur coronin con tentaculos de silios, sirca la boca de alga animales de mar peti","en":"lophophore (biology)","fr":"lophophore"}
+{"T":"r","L":"lofotrocozon","C":["n","mol"],"d":"un membro de un suprafilo cual inclui braciopodos, moluscos e anelidos","en":"lophotrochozoon (pl. lophotrochozoa) (organism)","fr":"lophotrochozoaire"}
+{"T":"r","L":"logaritmo","C":["n","mat"],"d":"un cuantia representante la potia a cual on debe leva un numero fisada per produi un numero spesifada","en":"logarithm","fr":"logarithme"}
+{"L":"logaritmal","C":["a"],"en":"logarithmic","fr":"logarithmique"}
+{"T":"r","L":"logo","C":["n","mone","gov"],"d":"un simbol o otra desinia adotada par un organiza per marca sua produidas, uniformas, veculos, etc","en":"logo, emblem","fr":"logo, emblème, symbole graphique, logotype"}
+{"T":"r","L":"logo-","C":["pf","tecn"],"d":"parolas","en":"logo- (words)","fr":"logo-"}
+{"T":"r","L":"logofilia","C":["n","uma"],"d":"la ama de parolas","en":"logophilia, love of words","fr":"logophilie"}
+{"L":"logofilica","C":["a"],"en":"logophilic, word-loving","fr":"amoureux des mots, logophile"}
+{"L":"logofilica","C":["n"],"en":"logophile, lover of words","fr":"amoureux des mots, logophile"}
+{"T":"r","L":"logografia","C":["n"],"d":"un forma de scrive usante imajes per representa parolas","en":"logography","fr":"logographie"}
+{"T":"r","L":"logogram","C":["n"],"d":"un imaje cual representa un parola","en":"logogram","fr":"logogramme (idéogramme, pictogramme, hiéroglyphe)"}
+{"T":"r","L":"Logudoro","C":["n","jeo"],"d":"un rena antica e rejion moderna en Sardinia norde-sentral","en":"Logudoro (Sardinian region)","fr":"Logudoro (région de Sardaigne)"}
+{"L":"logudores","C":["a"],"en":"Logudorese (person, language)","fr":"logudorese"}
+{"L":"logudores","C":["n"],"en":"Logudorese (person, language)","fr":"Logudorese (personne); logudorese (langue)"}
+{"T":"r","L":"lojia","C":["n","arci"],"d":"un galeria o sala con un o plu lados abrida, tipal a la jardin; un area privata de un teatro o simil, reservada per un grupo de persones","i":"#","en":"loggia, veranda; box (theater|re)","fr":"loggia, véranda; box (de théâtre)"}
+{"L":"lojia de acusada","C":["n"],"en":"dock (in court)","fr":"banc des accusés, box des accusés"}
+{"L":"lojia de atestor","C":["n"],"i":"#","en":"witness stand, witness box","fr":"banc des témoins"}
+{"L":"lojia de juria","C":["n"],"en":"jury box","fr":"banc des jurés, banc du jury"}
+{"T":"r","L":"-lojia","C":["sf","n"],"d":"studia, siensa","en":"-logy (study)","fr":"-logie"}
 {"T":"r","L":"lojica","C":["n","fil"],"d":"un modo de razona cual segue prinsipes sever de validia; un sistem de prinsipes simil a aritmetica, usada per calcula con bitios en computadores","da":"logik","de":"Logik","en":"logic","es":"lógica","fr":"logique"}
-{"L":"es lojical","C":["v"],"en":"make sense"}
-{"L":"lojical","C":["a"],"en":"logical; Boolean"}
-{"L":"lojicalia","C":["n"],"en":"logicality"}
-{"L":"lojiciste","C":["n"],"en":"logician"}
-{"L":"nonlojical","C":["a"],"en":"illogical"}
-{"L":"nonlojicalia","C":["n"],"en":"illogicality"}
-{"T":"r","L":"lojistica","C":["n","gov"],"d":"la coordina detaliosa de un prosede complicada cual envolve multe persones, complesos o furnis","en":"logistics"}
-{"L":"lojistical","C":["a"],"en":"logistical"}
-{"T":"r","L":"lolardo","C":["n","rel"],"d":"un credor de lolardisme","en":"Lollard"}
-{"L":"lolardisme","C":["n"],"d":"un promove cristian preprotestante, fundida par John Wycliffe, cual ia esiste de la media de la sentenio 14 asta la sentenio 16","en":"Lollardism, Lollardy"}
-{"T":"r","L":"lolio","C":["n","pla"],"d":"un segal eurasian","i":"#","t":"Lolium","en":"ryegrass, darnel"}
-{"T":"r","L":"lom","C":["n","tera"],"d":"un tera fertil de arjila e arena con umo","en":"loam (soil)"}
-{"L":"lomosa","C":["a"],"en":"loamy"}
-{"T":"r","L":"Lombardia","C":["n","jeo"],"d":"un rejion de Italia norde-sentral, entre la Alpes e la Rio Po","i":"#","en":"Lombardy (Italian region)"}
-{"L":"lombard","C":["a"],"en":"Lombard"}
-{"L":"lombard","C":["n"],"en":"Lombard"}
-{"T":"r","L":"lombo","C":["n","anat"],"d":"la parte de la corpo a ambos lados de la spina dorsal, entre la costelas la plu basa e la osos de anca","en":"loin, loins, lower back"}
-{"L":"lombal","C":["a"],"en":"lumbar"}
-{"T":"r","L":"lomen","C":["n","cos"],"d":"un plato xines con talietas de trigo e vejetales","i":"#","en":"lo mein (food)"}
-{"T":"r","L":"lona","C":["n","vest"],"d":"un stofa forte, bruta e nonblancida, fabricada de canaba, lino, coton o simil, usada per produi velas, tendas e surfases per depinta con pinta de olio","en":"canvas, sailcloth"}
-{"L":"lona catranida","C":["n"],"en":"tarpaulin, tarp"}
-{"L":"lona de polietilen","C":["n"],"en":"polythene tarpaulin, polytarp"}
-{"L":"de lona","C":["a"],"en":"canvas"}
+{"L":"es lojical","C":["v"],"en":"make sense","fr":"être logique, faire sens"}
+{"L":"lojical","C":["a"],"en":"logical; Boolean","fr":"logique; booléen"}
+{"L":"lojicalia","C":["n"],"en":"logicality","fr":"logique"}
+{"L":"lojiciste","C":["n"],"en":"logician","fr":"logicien"}
+{"L":"nonlojical","C":["a"],"en":"illogical","fr":"illogique"}
+{"L":"nonlojicalia","C":["n"],"en":"illogicality","fr":"illogisme"}
+{"T":"r","L":"lojistica","C":["n","gov"],"d":"la coordina detaliosa de un prosede complicada cual envolve multe persones, complesos o furnis","en":"logistics","fr":"logistique"}
+{"L":"lojistical","C":["a"],"en":"logistical","fr":"logistique"}
+{"T":"r","L":"lolardo","C":["n","rel"],"d":"un credor de lolardisme","en":"Lollard","fr":"lollard"}
+{"L":"lolardisme","C":["n"],"d":"un promove cristian preprotestante, fundida par John Wycliffe, cual ia esiste de la media de la sentenio 14 asta la sentenio 16","en":"Lollardism, Lollardy","fr":"lollardisme"}
+{"T":"r","L":"lolio","C":["n","pla"],"d":"un segal eurasian","i":"#","t":"Lolium","en":"ryegrass, darnel","fr":"ivraie"}
+{"T":"r","L":"lom","C":["n","tera"],"d":"un tera fertil de arjila e arena con umo","en":"loam (soil)","fr":"terreau, limon"}
+{"L":"lomosa","C":["a"],"en":"loamy","fr":"limoneux, riche en terreau"}
+{"T":"r","L":"Lombardia","C":["n","jeo"],"d":"un rejion de Italia norde-sentral, entre la Alpes e la Rio Po","i":"#","en":"Lombardy (Italian region)","fr":"Lombardie"}
+{"L":"lombard","C":["a"],"en":"Lombard","fr":"lombard"}
+{"L":"lombard","C":["n"],"en":"Lombard","fr":"Lombard"}
+{"T":"r","L":"lombo","C":["n","anat"],"d":"la parte de la corpo a ambos lados de la spina dorsal, entre la costelas la plu basa e la osos de anca","en":"loin, loins, lower back","fr":"lombaires, reins"}
+{"L":"lombal","C":["a"],"en":"lumbar","fr":"lombaire"}
+{"T":"r","L":"lomen","C":["n","cos"],"d":"un plato xines con talietas de trigo e vejetales","i":"#","en":"lo mein (food)","fr":"lo mein (cuisine)"}
+{"T":"r","L":"lona","C":["n","vest"],"d":"un stofa forte, bruta e nonblancida, fabricada de canaba, lino, coton o simil, usada per produi velas, tendas e surfases per depinta con pinta de olio","en":"canvas, sailcloth","fr":"canevas (toile), toile à voile"}
+{"L":"lona catranida","C":["n"],"en":"tarpaulin, tarp","fr":"bâche, toile de bâche"}
+{"L":"lona de polietilen","C":["n"],"en":"polythene tarpaulin, polytarp","fr":"bâche en polyéthylène"}
+{"L":"de lona","C":["a"],"en":"canvas","fr":"en canevas"}
 {"T":"r","L":"longa","C":["a"],"d":"con estende grande en spasio o tempo","da":"lang","de":"lang","en":"long","es":"largo, extenso, tardo","fr":"long"}
 {"L":"longa","C":["av"],"en":"long, for a long time, for a long way"}
 {"L":"como longa","C":["esp"],"en":"how long"}
@@ -15426,6 +15439,7 @@
 {"T":"r","L":"lutesio","C":["n","cim"],"d":"la elemento cimical con numero atomal 71, un metal arjentin blanca de la serie de lantanidos","s":"Lu","en":"lutetium (element)"}
 {"T":"r","L":"luto","C":["n","mus"],"d":"un strumento de cordetas con colo longa, corpo ronda, e fronte plana como un ovo duida","i":"#","en":"lute","fr":"luth"}
 {"L":"luto arabi","C":["n"],"en":"oud, arabian lute"}
+{"L":"lutin","C":["a"],"en":"lutelike, lute-shaped"}
 {"L":"lutiste","C":["n"],"en":"lutist, lute player"}
 {"T":"r","L":"lutra","C":["n","mam"],"d":"un mamal semiacual en familia de mustela, con corpo longa, pelo densa, e pedes membranosa","i":"#","t":"Lutrinae","en":"otter","fr":"loutre"}
 {"T":"r","L":"lux","C":["n","fis"],"d":"un unia internasional de lumina, egal a un lumen per metre cuadrida","en":"lux (unit of light)"}
@@ -15945,6 +15959,7 @@
 {"T":"r","L":"masi-","C":["pf","tecn"],"d":"la plu grande cual es posible","en":"maxi-"}
 {"T":"r","L":"masif","C":["n","tera"],"d":"un strutur jeolojial de montes interliada como un unia","en":"massif (geology)"}
 {"T":"r","L":"masila","C":["n","anat"],"d":"un oso supra la mandibula","en":"maxilla (bone)"}
+{"L":"premasila","C":["n","anat"],"d":"un osto ante la masila cual porta tipal dentes","en":"premaxilla|ae"}
 {"T":"r","L":"masima","C":["a"],"d":"tan grande, alta, intensa o multe como posible, permeteda o atenida","en":"maximum, maximal, most"}
 {"L":"masima","C":["av"],"en":"at most","gl":"todo o máis, cando máis, non máis que, o máximo"}
 {"L":"masima","C":["n"],"en":"maximum, most"}
@@ -16314,6 +16329,7 @@
 {"L":"mervelia","C":["vt"],"en":"astonish, amaze"}
 {"L":"mervelia","C":["n"],"en":"marvel, miracle"}
 {"L":"merveliosa","C":["a"],"en":"marvelous|ll, wonderful, awe-inspiring, awesome, majestic, magnificent, glorious, superb, splendid, sublime","fr":"merveilleux"}
+{"T":"r","L":"mesa","C":["n","tera"],"d":"un colina isolida con un culmina plata e lados presipe, trovada en rejiones con stratos orizonal","en":"mesa (hill)"}
 {"T":"r","L":"mesaje","C":["n","info","ling"],"d":"un comunica parlada, scriveda o rejistrada, enviada o lasada per un resetor ci on no pote contata direta","da":"meddelelse","de":"Botschaft","en":"message","es":"mensaje, nota, recado, comunicación","fr":"message"}
 {"L":"mesaje pronto","C":["n"],"en":"instant message"}
 {"L":"mesajeta","C":["n"],"en":"text message, text, SMS"}
@@ -16972,6 +16988,7 @@
 {"T":"r","L":"monotono","C":["n"],"d":"un sona continuante, spesial de vose, cual no cambia la altia de sua tono","en":"monotone"}
 {"L":"monotonia","C":["n"],"en":"monotony"}
 {"L":"monotonosa","C":["a"],"en":"monotonous, dull, tedious, boring, stodgy"}
+{"T":"r","L":"monotreme","C":["n","mam"],"d":"un categoria de mamal ci pone ovos ma dona lete, incluinte sola la ecidnas e la ornitorincos","en":"monotreme"}
 {"T":"r","L":"monson","C":["n","tera"],"d":"un venta saisonal en Asia sude e sude-ueste, ventante de la sude-ueste entre maio e setembre e traente multe pluve, o de la sude-este entre otobre e april e traente aira seca","i":"#","en":"monsoon","fr":"mousson"}
 {"T":"r","L":"monstro","C":["n","mit"],"d":"un animal imajinada cual es tipal grande, fea e asustante; (metafor) un person multe cruel o mal","i":"#","en":"monster","fr":"monstre"}
 {"L":"monstro de Gila","C":["n","ret"],"d":"un lezardo venenosa de Mexico e la SUA sude-ueste","i":"#","t":"Heloderma suspectum","en":"Gila monster (lizard)"}
@@ -17083,6 +17100,7 @@
 {"L":"mososa","C":["a"],"en":"mossy"}
 {"T":"r","L":"mosaica","C":["a","arte"],"d":"pertinente a imajes o motifes produida par posa pesos peti de petra, telia, vitro, etc","i":"#","en":"mosaic"}
 {"L":"mosaica","C":["n"],"en":"mosaic"}
+{"T":"r","L":"mosasauro","C":["n","ret"],"d":"un membro de un grupo de retiles grande e vivente a mar, ma estinguida","en":"mosasaur"}
 {"T":"r","L":"Mosambic","C":["n","jeo"],"c":"Maputo","d":"un pais a la costa este de Africa sude","i":"#","en":"Mozambique"}
 {"L":"mosambican","C":["a"],"en":"Mozambican"}
 {"L":"mosambican","C":["n"],"en":"Mozambican"}
@@ -18546,7 +18564,7 @@
 {"T":"r","L":"orco","C":["n","arte","mit"],"d":"un membro de un rasa mital de organismes umanin, descriveda como fea, gerosa e malvolente, orijinante en la obras de JRR Tolkien","i":"#","en":"orc (mythology)"}
 {"L":"orceta","C":["n"],"en":"goblin, gremlin"}
 {"T":"r","L":"ordina","C":["vt","rel","mus"],"d":"pone (cosas, persones o nomes) en un serie usosa, como par grandia, prestijia, la alfabeta, etc; pone (cosas o persones) en categorias usosa; pone cosas en un modo plasente o bela; encarga (algun) con la cargas de un prete o otra rol relijiosa","en":"order, sort, sequence, arrange, rank, grade, prioritize|is; tidy, neaten, groom; ordain (religious)","fr":"ranger, classer; ordonner (prêtre)"}
-{"L":"ordina","C":["n"],"da":"sekvens","de":"Reihenfolge","en":"order (including monks), arrangement (including music), sequence; ordination (religious)","es":"secuencia, orden","fr":"ordre"}
+{"L":"ordina","C":["n"],"da":"sekvens","de":"Reihenfolge","en":"order (including monks), arrangement (including music), sequence, configuration; ordination (religious)","es":"secuencia, orden","fr":"ordre"}
 {"L":"ordina de la dia","C":["n"],"en":"order of the day, agenda"}
 {"L":"ordina de viaja","C":["n"],"en":"itinerary, travel plans"}
 {"L":"ordina mundal nova","C":["n"],"en":"new world order"}
@@ -18590,7 +18608,7 @@
 {"L":"nonorganica","C":["a"],"en":"inorganic"}
 {"T":"r","L":"organisme","C":["n","bio"],"d":"un animal, un planta, o un vivente uniselulal","en":"organism"}
 {"T":"r","L":"organiza","C":["vt","gov"],"d":"coordina la ativias de (un person o grupo) per funsiona como un unia per ateni intendes o goles spesifada","da":"organisere","de":"organisieren","en":"organize|is, arrange, mount","es":"organizar","fr":"organiser"}
-{"L":"organiza","C":["n"],"da":"klub, forening, samfund","en":"organization|is, arrangement, setup; institute, society, club, entity","es":"organización; club, sociedad","fr":"organisation; société, club"}
+{"L":"organiza","C":["n"],"da":"klub, forening, samfund","en":"organization|is, arrangement, setup, configuration; institute, society, club, entity","es":"organización; club, sociedad","fr":"organisation; société, club"}
 {"L":"organiza nongovernal","C":["n"],"en":"non-governmental organization|is, NGO"}
 {"L":"desorganiza","C":["vt"],"en":"disorganize|is"}
 {"L":"desorganiza","C":["n"],"en":"disorganization|is"}
@@ -18681,6 +18699,7 @@
 {"L":"orida","C":["a"],"en":"gold-plated, gold-filled"}
 {"L":"oror","C":["n"],"en":"goldsmith"}
 {"L":"orosa","C":["a"],"en":"golden, (made of) gold"}
+{"T":"r","L":"orojenia","C":["n","tera"],"d":"la prosedes jeolojial cual formi montanias","en":"orogeny"}
 {"T":"r","L":"orolojia","C":["n"],"d":"la studia de la mesura de tempo; la arte de fabrica orolojos","en":"horology"}
 {"T":"r","L":"orolojo","C":["n","util"],"d":"un aparato per mesura la tempo, indicante oras, minutos e cisa secondos","i":"#","da":"ur","de":"Uhr","en":"clock","es":"reloj","fr":"horloge"}
 {"L":"orolojo de acua","C":["n"],"en":"water clock, clepsydra"}
@@ -20227,7 +20246,7 @@
 {"L":"petrocimical","C":["n"],"en":"petrochemical"}
 {"T":"r","L":"petrodolar","C":["n","mone"],"d":"un unia ipotesal de mone cual refere a la profita ganiada par un nasion par la esporta de petrolio","en":"petrodollar"}
 {"T":"r","L":"petrografia","C":["n"],"d":"la siensa cual descrive e clasi rocas, spesial par microscopi; la usa de simboles enscriveda sur rocas","en":"petrography"}
-{"T":"r","L":"petrogram","C":["n"],"d":"un simbol enscriveda sur un roca","en":"petrogram"}
+{"T":"r","L":"petrogram","C":["n"],"d":"un simbol enscriveda sur un roca","en":"petrogram, petroglyph"}
 {"T":"r","L":"petrolio","C":["n","tera"],"d":"un licuida de idrocarbonos miscada cual esiste en alga stratos de petra e pote es estraeda e refinada per produi carburantes como gasolina, cerosen e gasolio","da":"olie, petroleum","de":"Erdöl","en":"(crude) oil, petroleum","es":"petróleo, petróleo crudo, crudo, aceite crudo","fr":"pétrole"}
 {"T":"r","L":"petrolojia","C":["n","tera"],"d":"la ramo de siensa cual studia la orijina, strutur e composa de petras","en":"petrology"}
 {"T":"r","L":"petronia","C":["n","avia"],"d":"un membro de un jenero de pasaros, tipal en Africa","i":"#","t":"Petronia","en":"rock sparrow, petronia (bird)"}
@@ -20714,6 +20733,7 @@
 {"L":"pluma covrente","C":["n","anat"],"en":"covert"}
 {"L":"pluma reminte","C":["n","anat"],"en":"remige, flight feather"}
 {"L":"desplumi","C":["vt"],"en":"pluck (feathers)","fr":"déplumer, plumer"}
+{"L":"plen plumida","C":["a"],"en":"fully feathered, fully fledged"}
 {"L":"plumas","C":["n","pl"],"en":"feathers, plumage"}
 {"L":"plumi","C":["vt"],"en":"feather, fletch","fr":"couvrir de plumes"}
 {"L":"plumin","C":["a"],"en":"feathery, featherlike, pinnate","fr":"plumeux"}
@@ -26683,6 +26703,7 @@
 {"T":"r","L":"telenovela","C":["n","arte"],"d":"un serie dramosa a radio o televisa cual presenta tipal la avenis dial en la vives de la mesma grupo de carateres","i":"#","en":"soap opera, soap, TV serial, telenovela"}
 {"T":"r","L":"teleolojia","C":["n","fil"],"d":"la esplica de un cosa o aveni par sua intendes o usas","en":"teleology"}
 {"L":"teleolojial","C":["a"],"en":"teleological"}
+{"T":"r","L":"teleoste","C":["n","pex"],"d":"un membro de la infraclase la plu grande en la clase de pexes con pinas raiosa, con un premasila movable","en":"teleost"}
 {"T":"r","L":"telepatia","C":["n","mit"],"d":"la comunica suposada de pensas o ideas par otra modos ca la sensas normal","en":"telepathy"}
 {"L":"telepatica","C":["a"],"en":"telepathic"}
 {"L":"telepatica","C":["n"],"en":"telepath"}
@@ -27001,6 +27022,7 @@
 {"T":"r","L":"tetraplejia","C":["n","med"],"d":"un paralise de tota cuatro membros de la corpo","en":"tetraplegia, quadriplegia"}
 {"L":"tetraplejica","C":["a"],"en":"tetraplegic, quadriplegic"}
 {"L":"tetraplejica","C":["n"],"en":"tetraplegic, quadriplegic"}
+{"T":"r","L":"tetrapoda","C":["n","ani"],"d":"un vertebrato, tipal con cuatro pedes, e spesial un membro de un grupo cual conteni tota la vertebratos plu developada ca pexes, incluinte serpentes","t":"Tetrapoda","en":"tetrapod"}
 {"T":"r","L":"tetrarca","C":["n","gov"],"d":"un de la cuatro renores de un tetrarcia","en":"tetrarch (governor)"}
 {"L":"tetrarcia","C":["n"],"d":"un governa con tetra renores autonom","en":"tetrarchy"}
 {"T":"r","L":"tetrasiclina","C":["n","med"],"d":"un antimicrobial per trata infetas","en":"tetracycline (antibiotic)"}
@@ -27292,6 +27314,7 @@
 {"T":"r","L":"tortilia","C":["n","cos"],"d":"(en cosini mexican) un crepe de farina, tipal de mais, usada en multe platos mexican; (en cosini espaniol) un omeleta spesa, plenida con patatas e otra vejetales","i":"#","en":"tortilla (food)","fr":"tortilla"}
 {"T":"r","L":"tortora","C":["n","avia"],"d":"un pijon peti de la mundo vea con vose dulse, notada per sua mostra de ama per sua spos","i":"#","t":"Streptopelia","en":"turtledove, collared dove","eo":"turto","es":"tórtola","fr":"tourterelle"}
 {"T":"r","L":"tortuga","C":["n","ret"],"d":"un retil lenta, con casca cupolin en cual lo pote retira sua testa e gamas","i":"#","t":"Testudines","da":"skildpadde","de":"Schildkröte","en":"tortoise, turtle","es":"tortuga","fr":"tortue","it":"tartaruga, testuggine","nl":"schildpad","pt":"tartaruga"}
+{"L":"tortuga lutin","C":["n"],"t":"Dermochelys coriacea","en":"leatherback turtle, lute turtle"}
 {"T":"r","L":"tortura","C":["vt","gov"],"d":"causa un dole sever a (algun); causa un sufri mental multe grande a (algun)","i":"#","da":"torturere","de":"foltern","en":"torture, torment","es":"torturar, atormentar","fr":"torturer","it":"torturare, tormentare","nl":"folteren","pt":"torturar, atormentar"}
 {"L":"tortura","C":["n"],"en":"torture, torment","fr":"torture"}
 {"L":"torturor","C":["n"],"en":"torturer","fr":"tortionnaire"}
@@ -28358,6 +28381,8 @@
 {"T":"r","L":"valciria","C":["n","mit"],"d":"(en mitos norsce antica) un de la femes ci condui gerores matada a Valhala","i":"#","en":"Valkyrie (mythology)"}
 {"T":"r","L":"vale","C":["n","tera"],"d":"un rejion de tera basa entre colinas o montes, tipal con un rio o rieta","i":"#","ca":"vall","da":"dal","de":"Tal","en":"valley, vale, dale","eo":"valo","es":"valle","fr":"vallée","it":"valle, vallata","ja":"谷","nl":"vallei","pt":"vale","ru":"долина"}
 {"L":"a vale","C":["av"],"en":"down, downhill, downstream, downward, downwards"}
+{"L":"vale maral","C":["n"],"en":"oceanic trench"}
+{"L":"vale tetonical","C":["n"],"en":"rift valley"}
 {"L":"valeta","C":["n"],"en":"dell, glen"}
 {"T":"r","L":"Valensia","C":["n","jeo"],"d":"un site a la costa este de Espania","en":"Valencia"}
 {"L":"Comunia Valensian","C":["n","jeo"],"i":"Valensia","en":"Valencian Community"}
