@@ -9614,7 +9614,7 @@
 {"L":"enrola","C":["vt"],"d":"curvi (alga cosa) sur se per dona a lo un forma compata e simil a un bal; fa ce (un aparato, tipal un orolojo) funsiona par turna un clave o manico","en":"roll up, ball up, scrunch up, wad; wind, coil, wind up (mechanism)","fr":"enrouler; remonter (un ressort)","he":"ללפף, לכרוך, לגלגל (סביב), לכדר; (מנגנון) למתוח"}
 {"L":"enrola","C":["n"],"en":"roll; coil, skein; scroll","fr":"enroulement, remontage (d'un ressort)","he":"ליפוף, כריכה, כידור; התלפפות, התכדרות; (מנגנון) מתיחה; גליל (נייר, בד), סליל, מגילה"}
 {"L":"enrola de piano","C":["n"],"d":"un enrola de paper perforada cual controla la moves de la teclas en un piano automata","en":"piano roll","fr":"carte perforée, ruban perforé (pour instrument de musique mécanique)","he":"גליל לפיאנולה"}
-{"L":"desenrola","C":["vnt"],"en":"unroll, unwind, uncoil, unfurl","fr":"dérouler, dévider, débobiner","he":"(גליל, סליל) להתפרש"}
+{"L":"desenrola","C":["vnt"],"en":"unroll, unwind, uncoil, unfurl; wind down (mechanism)","fr":"dérouler, dévider, débobiner","he":"(גליל, סליל) להתפרש"}
 {"L":"enrolador","C":["n"],"en":"winch, capstan, windlass","fr":"dérouleur","he":"כננת"}
 {"T":"r","L":"enscrive","C":["vt","arte","ist"],"d":"scrive o siseli (parolas o simboles) sur alga cosa, spesial como un arcivo formal o permanente; organiza, par paia a ante, ce (algun) va reseta periodal un jornal o simil; rejistra (algun) per partisipa en alga cosa, spesial per deveni un soldato, un membro de un instituida, o un studiante en un curso","en":"inscribe, subscribe, register (for activity), enlist, enroll|enrol, empanel, impanel, recruit, matriculate","fr":"inscrire, s'inscrire, abonner, s'abonner, enrôler, s'enrôler","he":"לחרות, לחקוק; לעשות מינוי; לרשום (לארגון או פעילות); לגייס, לחייל"}
 {"L":"enscrive","C":["n"],"en":"inscription, subscription, sub, registration, enlistment, enrollment|enrolment, conscription","fr":"inscription, enregistrement, enrôlement, recrutement","he":"הקדשה (חרותה); מינוי; רישום (לארגון או פעילות); גיוס, חיול"}
@@ -15660,146 +15660,146 @@
 {"T":"r","L":"Malvina, Isolas","C":["n","pl","jeo"],"d":"un otra nom per la Isolas Falkland","i":"isolas-falkland","v":"Isolas Falkland","en":"Falkland Islands","es":"Islas Malvinas","fr":"îles Malouines"}
 {"T":"r","L":"mama","C":["n"],"d":"(nonformal) madre","en":"(colloquial) mum, mom, mummy, mommy, mama (mother)","es":"mamá","fr":"maman"}
 {"T":"r","L":"mamal","C":["n"],"d":"un animal vertebrato, distinguida par ave capeles o pelo e par la secrete de lete par femas per nuri enfantes","t":"Mammalia","da":"pattedyr","de":"Säugetier","en":"mammal","es":"mamífero","fr":"mammifère"}
-{"T":"r","L":"mambo","C":["n","mus","rel"],"d":"un dansa de America latina, simil a la rumba; un prete fema de vudu","en":"mambo (dance)"}
-{"T":"r","L":"mamela","C":["n","anat"],"d":"la organo cual secrete lete en mamales fea; (nonformal) un seno","i":"#","en":"udder, mammary gland; (colloquial) boob, tit, knocker (breast)","fr":"mammelle"}
-{"L":"a mamela","C":["a"],"en":"suckling"}
-{"L":"mamelal","C":["a"],"en":"mammary"}
-{"T":"r","L":"mamograf","C":["n","med"],"d":"un radiograf usada per deteta tumores de seno","en":"mammograph"}
-{"L":"mamografi","C":["vt"],"en":"mammograph"}
-{"L":"mamografia","C":["n"],"en":"mammography"}
-{"T":"r","L":"mamogram","C":["n","med"],"d":"un imaje produida par un mamograf","en":"mammogram"}
+{"T":"r","L":"mambo","C":["n","mus","rel"],"d":"un dansa de America latina, simil a la rumba; un prete fema de vudu","en":"mambo (dance)","fr":"mambo (danse)"}
+{"T":"r","L":"mamela","C":["n","anat"],"d":"la organo cual secrete lete en mamales fema; (nonformal) un seno","i":"#","en":"udder, mammary gland; (colloquial) boob, tit, knocker (breast)","fr":"mamelle, pis"}
+{"L":"a mamela","C":["a"],"en":"suckling","fr":"au pis, qui tète encore"}
+{"L":"mamelal","C":["a"],"en":"mammary","fr":"mammaire"}
+{"T":"r","L":"mamograf","C":["n","med"],"d":"un radiograf usada per deteta tumores de seno","en":"mammograph","fr":"mammographe"}
+{"L":"mamografi","C":["vt"],"en":"mammograph","fr":"mammographier"}
+{"L":"mamografia","C":["n"],"en":"mammography","fr":"mammographie"}
+{"T":"r","L":"mamogram","C":["n","med"],"d":"un imaje produida par un mamograf","en":"mammogram","fr":"mammogramme"}
 {"T":"r","L":"mamute","C":["n","mam"],"d":"un elefante grande estinguida de la plestosene","i":"#","t":"Mammuthus","en":"mammoth, mastodon","fr":"mammouth"}
-{"L":"mamute lanosa","C":["n","mam"],"t":"Mammuthus primigenius","en":"woolly mammoth"}
-{"T":"r","L":"Man, Isola","C":["n","jeo"],"d":"un isola en la Mar Eres cual es un colonia de la Corona Brites con governa autonom","i":"Isola-Man","v":"manes","en":"Isle of Man"}
-{"L":"manes","C":["a"],"v":"Man","en":"Manx"}
-{"L":"manes","C":["n"],"en":"Manx"}
-{"T":"r","L":"mana","C":["n"],"d":"(en la Biblia) un comeda miraclosa furnida a la ivris en la tera savaje","en":"manna (miracle food)"}
-{"T":"r","L":"manacin","C":["n","avia"],"d":"un avia peti de America tropical","i":"#","t":"Pipridae","en":"manakin (bird)"}
-{"T":"r","L":"manada","C":["n","bio","uma"],"d":"un grupo grande de animales; un grupo grande de umanas, tipal no gustada par la parlor","i":"#","en":"herd, drove, mob (people, monkeys), pack (wolves), pride (lions), flock (birds), gaggle (geese), school (fish), pod (whales), swarm (insects), horde (barbarians); rabble, riffraff, hoi polloi"}
-{"L":"manadi","C":["vnt"],"en":"flock","fr":"troupeau, horde"}
-{"L":"manador","C":["n"],"en":"drover, herdsman"}
+{"L":"mamute lanosa","C":["n","mam"],"t":"Mammuthus primigenius","en":"woolly mammoth","fr":"mammouth laineux"}
+{"T":"r","L":"Man, Isola","C":["n","jeo"],"d":"un isola en la Mar Eres cual es un colonia de la Corona Brites con governa autonom","i":"Isola-Man","v":"manes","en":"Isle of Man","fr":"île de Man"}
+{"L":"manes","C":["a"],"v":"Man","en":"Manx","fr":"mannois"}
+{"L":"manes","C":["n"],"en":"Manx","fr":"Mannois"}
+{"T":"r","L":"mana","C":["n"],"d":"(en la Biblia) un comeda miraclosa furnida a la ivris en la tera savaje","en":"manna (miracle food)","fr":"manne"}
+{"T":"r","L":"manacin","C":["n","avia"],"d":"un avia peti de America tropical","i":"#","t":"Pipridae","en":"manakin (bird)","fr":"manakin (oiseau)"}
+{"T":"r","L":"manada","C":["n","bio","uma"],"d":"un grupo grande de animales; un grupo grande de umanas, tipal no gustada par la parlor","i":"#","en":"herd, drove, mob (people, monkeys), pack (wolves), pride (lions), flock (birds), gaggle (geese), school (fish), pod (whales), swarm (insects), horde (barbarians); rabble, riffraff, hoi polloi","fr":"troupeau, meute, essaim, harde, cheptel, ban, colonie; troupe, bande, horde"}
+{"L":"manadi","C":["vnt"],"en":"flock","fr":"s'attrouper, se mettre en horde, en meute, essaimer"}
+{"L":"manador","C":["n"],"en":"drover, herdsman","fr":"berger, bouvier, vacher, gardien de troupeau, pâtre"}
 {"T":"r","L":"manati","C":["n","mam"],"d":"un mamal de mar con coda plata e ronda, cual abita la estuarios de la Mar Atlantica tropical","i":"#","t":"Trichechus","en":"manatee, sea cow","fr":"lamantin"}
 {"T":"r","L":"manca","C":["vnt"],"d":"(un person o cosa nesesada) es intera o partal asente","u":"me ia trova la rota mancante; un rota manca de la auto","da":"mangle","de":"fehlen","en":"be missing, be wanting, be lacking, fall short","es":"carecer de, faltar, necesitar","fr":"manquer"}
-{"L":"manca","C":["n"],"en":"lack, deficiency, insufficiency, dearth, scarcity, deficit, shortage, shortfall, shortcoming","fr":"manque"}
-{"L":"mancante","C":["a"],"en":"missing, wanting, lacking, scarce, scant, meager|re, sparse","fr":"manquant"}
-{"T":"r","L":"mancala","C":["n","spo"],"d":"un de un grupo de juas en cual on move calculos sirca un table de cavetas per catura los de la otra juor","i":"#","en":"mancala (game)"}
-{"T":"r","L":"mandala","C":["n","rel"],"d":"(en budisme e induisme) un desinia jeometrial cual representa la universo","i":"#","en":"mandala (Buddhism, Hinduism)"}
-{"T":"r","L":"mandarin","C":["n","gov","ist","avia"],"d":"un ofisior de Jonguo antica; un avia peti de Australia, con bandas blanca e negra a la fas","i":"mandarin-jonguo, #","t":"Taeniopygia guttata","en":"mandarin (official); zebra finch (bird)"}
+{"L":"manca","C":["n"],"en":"lack, deficiency, insufficiency, dearth, scarcity, deficit, shortage, shortfall, shortcoming","fr":"manque, déficience, insuffisance, déficit"}
+{"L":"mancante","C":["a"],"en":"missing, wanting, lacking, scarce, scant, meager|re, sparse","fr":"manquant, déficient, insuffisant, déficitaire"}
+{"T":"r","L":"mancala","C":["n","spo"],"d":"un de un grupo de juas en cual on move calculos sirca un table de cavetas per catura los de la otra juor","i":"#","en":"mancala (game)","fr":"mancala, awalé (jeu)"}
+{"T":"r","L":"mandala","C":["n","rel"],"d":"(en budisme e induisme) un desinia jeometrial cual representa la universo","i":"#","en":"mandala (Buddhism, Hinduism)","fr":"mandala"}
+{"T":"r","L":"mandarin","C":["n","gov","ist","avia"],"d":"un ofisior de Jonguo antica; un avia peti de Australia, con bandas blanca e negra a la fas","i":"mandarin-jonguo, #","t":"Taeniopygia guttata","en":"mandarin (official); zebra finch (bird)","fr":"mandarin"}
 {"T":"r","L":"mandarino","C":["n","pla"],"d":"un arbor cual produi mandarinas","t":"Citrus reticulata","en":"mandarin tree","fr":"mandarinier"}
 {"L":"mandarina","C":["n","pla","cos"],"d":"un fruta sitrica","i":"#","da":"mandarin (frugt)","de":"Mandarine","en":"mandarin, mandarine, clementine","es":"mandarina, tangerina","fr":"mandarine"}
-{"T":"r","L":"Mandeb, Streta","C":["n","jeo"],"d":"un streta a la abri de la Mar Roja","i":"Streta-Mandeb","en":"Mandeb Strait, Bab-el-Mandeb"}
-{"T":"r","L":"mandibula","C":["n","anat"],"d":"la osos de vertebratos cual formi la strutur de la boca","en":"jaw, jawbone, mandible"}
-{"T":"r","L":"mandinca","C":["a","dem"],"d":"pertinente a un popla abitante xef en Senegal, Gambia e Siera Leon, e sua lingua","en":"Mandinka (person, language)"}
-{"L":"mandinca","C":["n"],"en":"Mandinka (person, language)"}
-{"T":"r","L":"Mandju","C":["n","jeo"],"d":"un rejion montaniosa de Jonguo norde-este","i":"#","en":"Manchuria (Chinese region)"}
-{"L":"mandju","C":["a","dem"],"en":"Manchu"}
-{"T":"r","L":"mandola","C":["n","mus"],"d":"un strumento de cordetas cual sembla un mandolin grande","i":"#","en":"mandola (musical instrument)"}
-{"T":"r","L":"mandolin","C":["n","mus"],"d":"un strumento musical cual sembla un luto peti","i":"#","en":"mandolin (musical instrument)"}
-{"T":"r","L":"mandragora","C":["n","pla"],"d":"un planta mediteranean, con flores blanca o purpur, bacas grande e jala, e un radis cual pote sembla la forma de un person e ia es usada en sorsoria","i":"#","t":"Mandragora","en":"mandrake (plant)"}
-{"T":"r","L":"mandril","C":["n","mam"],"d":"un babuin grande de Africa ueste, con un fas roja e blu, e la mas avente un posterior blu","i":"#","en":"mandrill (monkey)"}
-{"T":"r","L":"maneja","C":["vt"],"d":"gida (un organiza), controla (suordinadas), opera (un macina), usa (un util)","en":"manage, operate (machinery), run (organization|is), helm, administer, administrate, handle (tool); cope with"}
+{"T":"r","L":"Mandeb, Streta","C":["n","jeo"],"d":"un streta a la abri de la Mar Roja","i":"Streta-Mandeb","en":"Mandeb Strait, Bab-el-Mandeb","fr":"Bab-el-Mandeb (détroit)"}
+{"T":"r","L":"mandibula","C":["n","anat"],"d":"la osos de vertebratos cual formi la strutur de la boca","en":"jaw, jawbone, mandible","fr":"mandibule"}
+{"T":"r","L":"mandinca","C":["a","dem"],"d":"pertinente a un popla abitante xef en Senegal, Gambia e Siera Leon, e sua lingua","en":"Mandinka (person, language)","fr":"mandinka, mandingue"}
+{"L":"mandinca","C":["n"],"en":"Mandinka (person, language)","fr":"mandika, mandingue (langue)"}
+{"T":"r","L":"Mandju","C":["n","jeo"],"d":"un rejion montaniosa de Jonguo norde-este","i":"#","en":"Manchuria (Chinese region)","fr":"Mandchourie"}
+{"L":"mandju","C":["a","dem"],"en":"Manchu","fr":"mandchou"}
+{"T":"r","L":"mandola","C":["n","mus"],"d":"un strumento de cordetas cual sembla un mandolin grande","i":"#","en":"mandola (musical instrument)","fr":"mandole, mandore (instrument de musique)"}
+{"T":"r","L":"mandolin","C":["n","mus"],"d":"un strumento musical cual sembla un luto peti","i":"#","en":"mandolin (musical instrument)","fr":"mandoline"}
+{"T":"r","L":"mandragora","C":["n","pla"],"d":"un planta mediteranean, con flores blanca o purpur, bacas grande e jala, e un radis cual pote sembla la forma de un person e ia es usada en sorsoria","i":"#","t":"Mandragora","en":"mandrake (plant)","fr":"mandragore"}
+{"T":"r","L":"mandril","C":["n","mam"],"d":"un babuin grande de Africa ueste, con un fas roja e blu, e la mas avente un posterior blu","i":"#","en":"mandrill (monkey)","fr":"mandrill (primate)"}
+{"T":"r","L":"maneja","C":["vt"],"d":"gida (un organiza), controla (suordinadas), opera (un macina), usa (un util)","en":"manage, operate (machinery), run (organization|is), helm, administer, administrate, handle (tool); cope with","fr":"gérer, diriger, faire marcher, administrer, s'occuper de, piloter, manœuvrer, manier (un outil); gérer, affronter, faire face, s'adapter à, lutter contre, remédier à"}
 {"L":"maneja de casa","C":["n"],"en":"housekeeping","fr":"ménage"}
-{"L":"maneja de contas","C":["n"],"en":"account management"}
-{"L":"maneja de linguas","C":["n"],"en":"language planning","eo":"lingvoplanado"}
-{"L":"maneja sin","C":["v"],"en":"do without, manage without"}
-{"L":"malmaneja","C":["vt"],"en":"mismanage, mishandle"}
-{"L":"manejable","C":["a"],"en":"manageable, tractable"}
-{"L":"manejablia","C":["n"],"en":"manageability, tractability"}
-{"L":"manejal","C":["a"],"en":"administrative"}
-{"L":"manejor","C":["n"],"en":"manager, administrator, operator, steward, seneschal"}
-{"L":"manejor de casa","C":["n"],"en":"housekeeper"}
-{"L":"manejor de servores","C":["n"],"en":"butler"}
-{"L":"nonmanejable","C":["a"],"en":"unmanageable"}
-{"T":"r","L":"manera","C":["n","uma"],"d":"la modo en cual on condui, spesial la modo la plu bon","en":"manner, way of behaving, mannerism"}
+{"L":"maneja de contas","C":["n"],"en":"account management","fr":"tenue des comptes"}
+{"L":"maneja de linguas","C":["n"],"en":"language planning","eo":"lingvoplanado","fr":"langue planifiée"}
+{"L":"maneja sin","C":["v"],"en":"do without, manage without","fr":"faire sans, se débrouiller sans"}
+{"L":"malmaneja","C":["vt"],"en":"mismanage, mishandle","fr":"mal gérer, mal diriger"}
+{"L":"manejable","C":["a"],"en":"manageable, tractable","fr":"gérable, dont on peut s'occuper, administrable"}
+{"L":"manejablia","C":["n"],"en":"manageability, tractability","fr":"gestion, administration"}
+{"L":"manejal","C":["a"],"en":"administrative","fr":"gestionnaire, administratif"}
+{"L":"manejor","C":["n"],"en":"manager, administrator, operator, steward, seneschal","fr":"administrateur, directeur, gérant"}
+{"L":"manejor de casa","C":["n"],"en":"housekeeper","fr":"employé de maison, homme de ménage, femme de ménage"}
+{"L":"manejor de servores","C":["n"],"en":"butler","fr":"majordome, intendant, maître d'hôtel"}
+{"L":"nonmanejable","C":["a"],"en":"unmanageable","fr":"ingérable, incontrôlable"}
+{"T":"r","L":"manera","C":["n","uma"],"d":"la modo en cual on condui, spesial la modo la plu bon","en":"manner, way of behaving, mannerism","fr":"manière, manières, comportement, façon de se comporter"}
 {"L":"de bon maneras","C":["a"],"en":"well-mannered","fr":"qui a de bonnes manières"}
 {"L":"de mal maneras","C":["a"],"en":"ill-mannered, uncouth","fr":"qui a de mauvaises manières"}
-{"T":"r","L":"manga","C":["n","vest","util"],"d":"la parte de un veste cual covre tota o un parte de la braso; un saco ensircante la braso cual mesura la presa de sangue","i":"#","en":"sleeve; cuff (blood pressure)","fr":"manche"}
-{"L":"manga de camisa","C":["n"],"en":"shirtsleeve"}
-{"L":"manga de venta","C":["n"],"i":"#","en":"windsock"}
+{"T":"r","L":"manga","C":["n","vest","util"],"d":"la parte de un veste cual covre tota o un parte de la braso; un saco ensircante la braso cual mesura la presa de sangue","i":"#","en":"sleeve; cuff (blood pressure)","fr":"manche (de vêtement)"}
+{"L":"manga de camisa","C":["n"],"en":"shirtsleeve","fr":"manche de chemise"}
+{"L":"manga de venta","C":["n"],"i":"#","en":"windsock","fr":"manche à air"}
 {"L":"la Manga","C":["n","jeo"],"i":"#","en":"English Channel","fr":"la Manche"}
-{"L":"Isolas de la Manga","C":["n","pl","jeo"],"en":"Channel Islands"}
+{"L":"Isolas de la Manga","C":["n","pl","jeo"],"en":"Channel Islands","fr":"îles Anglo-Normandes"}
 {"L":"sin manga","C":["a"],"en":"sleeveless","fr":"sans manches"}
-{"T":"r","L":"manga","C":["n","arte"],"d":"un jenero de cartunes o leteratur grafica, orijinante en Nion","i":"manga-cartun","en":"manga (cartoon)"}
-{"T":"r","L":"manganes","C":["n","cim"],"d":"la elemento cimical con numero atomal 25, un metal dur e gris","s":"Mn","en":"manganese (element)"}
-{"T":"r","L":"mangera","C":["n","util"],"d":"un tubo flexable, tipal usada per acui plantas o estingui focones","i":"#","en":"hose, hosepipe, flexible tube","fr":"manchette"}
-{"L":"mangeri","C":["vt"],"en":"hose, hose down"}
-{"T":"r","L":"mango","C":["n","pla","cos"],"d":"un arbor de Barat; la fruta de esta","i":"#","t":"Mangifera","en":"mango","fr":"mangue, manguier"}
+{"T":"r","L":"manga","C":["n","arte"],"d":"un jenero de cartunes o leteratur grafica, orijinante en Nion","i":"manga-cartun","en":"manga (cartoon)","fr":"manga"}
+{"T":"r","L":"manganes","C":["n","cim"],"d":"la elemento cimical con numero atomal 25, un metal dur e gris","s":"Mn","en":"manganese (element)","fr":"manganèse (élément)"}
+{"T":"r","L":"mangera","C":["n","util"],"d":"un tubo flexable, tipal usada per acui plantas o estingui focones","i":"#","en":"hose, hosepipe, flexible tube","fr":"tuyau d'arrosage, tuyau, manche"}
+{"L":"mangeri","C":["vt"],"en":"hose, hose down","fr":"arroser"}
+{"T":"r","L":"mango","C":["n","pla","cos"],"d":"un arbor de Barat; la fruta de esta","i":"#","t":"Mangifera","en":"mango","fr":"manguier (arbre); mangue (fruit)"}
 {"T":"r","L":"mangoste","C":["n","mam"],"d":"un mamal peti e carnivor, con corpo e coda longa con pelo de bandas, de Africa e Asia tropical","i":"#","t":"Herpestidae","en":"mongoose","fr":"mangouste"}
-{"T":"r","L":"Mani","C":["n","rel"],"d":"un profeta de la rejion de Irac e Iran, 216-274 ec, ci ia fundi manisme","en":"Mani (prophet)"}
-{"L":"manisme","C":["n"],"en":"manicheanism|ae"}
-{"L":"maniste","C":["a"],"en":"manichean|ae"}
-{"L":"maniste","C":["n"],"en":"manichean|ae"}
-{"T":"r","L":"mania","C":["n","uma"],"d":"un maladia mental, marcada par periodos de stimula, ajita, estasia, deludes e iperativia; un pasatempo abitual cual causa multe stimula","en":"mania, addiction, fanaticism; craze, furore"}
-{"L":"-mania","C":["sf","n","uma","med"],"d":"mania","en":"-mania (medical, enthusiasm)"}
-{"L":"manica","C":["a"],"en":"manic, maniacal, fanatical; hectic, frantic"}
-{"L":"manica","C":["n"],"en":"maniac, fanatic, junkie; addict; (colloquial) geek, nerd"}
-{"L":"-manica","C":["sf","a","uma","med"],"en":"-manic"}
-{"T":"r","L":"maniate","C":["n","gov","mone"],"d":"un person rica e potiosa, spesial un comersior","en":"magnate, tycoon, mogul"}
-{"T":"r","L":"manicin","C":["n","vest"],"d":"un pupa usada per mostra vestes; un person ci porta vestes per mostra los a otras","i":"#","en":"mannequin (dummy, fashion model)"}
-{"T":"r","L":"manico","C":["n","util"],"d":"la parte de un cosa par cual on porta o controla lo","i":"#","da":"håndtag","de":"Griff, Henkel, Handkurbel","en":"handle (for holding), hilt (sword, knife), grip; handlebar; handhold","es":"manija, mango, asa, tirador, puño, manubrio","fr":"poignée"}
+{"T":"r","L":"Mani","C":["n","rel"],"d":"un profeta de la rejion de Irac e Iran, 216-274 ec, ci ia fundi manisme","en":"Mani (prophet)","fr":"Mani"}
+{"L":"manisme","C":["n"],"en":"manicheanism|ae","fr":"manichéisme"}
+{"L":"maniste","C":["a"],"en":"manichean|ae","fr":"manichéen"}
+{"L":"maniste","C":["n"],"en":"manichean|ae","fr":"manichéen, manichéiste"}
+{"T":"r","L":"mania","C":["n","uma"],"d":"un maladia mental, marcada par periodos de stimula, ajita, estasia, deludes e iperativia; un pasatempo abitual cual causa multe stimula","en":"mania, addiction, fanaticism; craze, furore","fr":"manie, obsession, folie, fureur"}
+{"L":"-mania","C":["sf","n","uma","med"],"d":"mania","en":"-mania (medical, enthusiasm)","fr":"-manie"}
+{"L":"manica","C":["a"],"en":"manic, maniacal, fanatical; hectic, frantic","fr":"maniaque, fanatique"}
+{"L":"manica","C":["n"],"en":"maniac, fanatic, junkie; addict; (colloquial) geek, nerd","fr":"maniaque, fanatique, toxicomane, drogué"}
+{"L":"-manica","C":["sf","a","uma","med"],"en":"-manic","fr":"-mane, -maniaque"}
+{"T":"r","L":"maniate","C":["n","gov","mone"],"d":"un person rica e potiosa, spesial un comersior","en":"magnate, tycoon, mogul","fr":"magnat"}
+{"T":"r","L":"manicin","C":["n","vest"],"d":"un pupa usada per mostra vestes; un person ci porta vestes per mostra los a otras","i":"#","en":"mannequin (dummy, fashion model)","fr":"mannequin, modèle de mode, top model"}
+{"T":"r","L":"manico","C":["n","util"],"d":"la parte de un cosa par cual on porta o controla lo","i":"#","da":"håndtag","de":"Griff, Henkel, Handkurbel","en":"handle (for holding), hilt (sword, knife), grip; handlebar; handhold","es":"manija, mango, asa, tirador, puño, manubrio","fr":"poignée, manche, queue"}
 {"L":"manico de porte","C":["n"],"en":"door handle, doorknob","fr":"poignée de porte"}
-{"L":"manico de scopa","C":["n"],"en":"broomstick"}
-{"L":"manicos","C":["n","pl"],"en":"handles, handlebars"}
-{"T":"r","L":"manicura","C":["n","vest"],"d":"un trata cosmetica de la manos, spesial la ditos","i":"#","en":"manicure","fr":"manucure"}
-{"L":"manicuror","C":["n"],"en":"manicurist"}
-{"T":"r","L":"manioca","C":["n","pla","cos"],"d":"un arbor de America tropical; la radis de esta, usada como un comeda pos sutrae sianido de la pulpa","i":"#","t":"Manihot esculenta","en":"manioc, cassava (tree, root)"}
+{"L":"manico de scopa","C":["n"],"en":"broomstick","fr":"manche à balai"}
+{"L":"manicos","C":["n","pl"],"en":"handles, handlebars","fr":"poignées"}
+{"T":"r","L":"manicura","C":["n","vest"],"d":"un trata cosmetica de la manos, spesial la ditos","i":"#","en":"manicure","fr":"manucure (soin)"}
+{"L":"manicuror","C":["n"],"en":"manicurist","fr":"manucure (personne)"}
+{"T":"r","L":"manioca","C":["n","pla","cos"],"d":"un arbor de America tropical; la radis de esta, usada como un comeda pos sutrae sianido de la pulpa","i":"#","t":"Manihot esculenta","en":"manioc, cassava (tree, root)","fr":"manioc"}
 {"T":"r","L":"manipula","C":["vt"],"d":"usa o controla en modo destrosa","en":"manipulate","fr":"manipuler"}
 {"L":"manipula","C":["n"],"en":"manipulation","fr":"manipulation"}
-{"L":"manipula de opina","C":["n"],"en":"manipulation of opinion, spin"}
-{"L":"manipula distritos elejal","C":["v"],"en":"gerrymander"}
-{"L":"manipula par autoduta","C":["v"],"en":"gaslight"}
-{"L":"manipulor","C":["n"],"en":"manipulator"}
-{"T":"r","L":"Manitoba","C":["n","jeo"],"d":"un provinse de Canada sentral","en":"Manitoba (Canadian province)"}
-{"T":"r","L":"manitu","C":["n","rel"],"d":"(en alga poplas algoncian) la bon o mal spirito de vive","i":"#","p":"manitú","en":"manitou (life force)"}
+{"L":"manipula de opina","C":["n"],"en":"manipulation of opinion, spin","fr":"manipulation de l'opinion"}
+{"L":"manipula distritos elejal","C":["v"],"en":"gerrymander","fr":"découper les circonscriptions électorales dans un but politique"}
+{"L":"manipula par autoduta","C":["v"],"en":"gaslight","fr":"faire douter, jeter le doute"}
+{"L":"manipulor","C":["n"],"en":"manipulator","fr":"manipulateur"}
+{"T":"r","L":"Manitoba","C":["n","jeo"],"d":"un provinse de Canada sentral","en":"Manitoba (Canadian province)","fr":"Manitoba"}
+{"T":"r","L":"manitu","C":["n","rel"],"d":"(en alga poplas algoncian) la bon o mal spirito de vive","i":"#","p":"manitú","en":"manitou (life force)","fr":"manitou"}
 {"T":"r","L":"manivel","C":["n","util"],"d":"un parte ortogonal fisada a un ase, usada per turna la ase","i":"#","en":"crank, crank handle","fr":"manivelle"}
-{"L":"arbor de maniveles","C":["n"],"en":"crankshaft"}
-{"L":"maniveli","C":["vt"],"en":"crank"}
-{"T":"r","L":"Mannar, Golfo","C":["n","jeo"],"d":"un golfo entre Barat e Srilanca","i":"Golfo-Mannar","en":"Gulf of Mannar"}
+{"L":"arbor de maniveles","C":["n"],"en":"crankshaft","fr":"arbre-manivelle, vilebrequin"}
+{"L":"maniveli","C":["vt"],"en":"crank","fr":"tourner une manivelle"}
+{"T":"r","L":"Mannar, Golfo","C":["n","jeo"],"d":"un golfo entre Barat e Srilanca","i":"Golfo-Mannar","en":"Gulf of Mannar","fr":"golfe de Mannar"}
 {"T":"r","L":"mano","C":["n","anat"],"d":"la parte final de un braso, incluinte la palma e la ditos","i":"#","da":"hånd","de":"Hand","en":"hand; handful","es":"mano","fr":"main"}
 {"L":"mano plen","C":["n"],"en":"handful","fr":"poignée"}
 {"L":"con mano destra","C":["av"],"en":"(done) right-handed","fr":"avec la main droite"}
-{"L":"con mano en mano","C":["a"],"en":"hand in hand","fr":"la main dans la main"}
+{"L":"con mano en mano","C":["a"],"en":"hand in hand","fr":"main dans la main"}
 {"L":"con mano sinistra","C":["av"],"en":"(done) left-handed","fr":"avec la main gauche"}
 {"L":"con manos libre","C":["av"],"en":"hands free","fr":"avec les mains libres"}
-{"L":"de mano destra","C":["a"],"en":"right-handed (person)"}
-{"L":"de mano sinistra","C":["a"],"en":"left-handed (person)"}
-{"L":"fabricada par mano","C":["a"],"en":"made by hand, handmade"}
-{"L":"mani","C":["vt"],"d":"palpa o manipula par mano","en":"handle"}
-{"L":"manodestra","C":["n","na"],"en":"right-hander"}
-{"L":"manosinistra","C":["n","na"],"en":"left-hander, southpaw"}
+{"L":"de mano destra","C":["a"],"en":"right-handed (person)","fr":"droitier"}
+{"L":"de mano sinistra","C":["a"],"en":"left-handed (person)","fr":"gaucher"}
+{"L":"fabricada par mano","C":["a"],"en":"made by hand, handmade","fr":"fait main"}
+{"L":"mani","C":["vt"],"d":"palpa o manipula par mano","en":"handle","fr":"manier, manipuler (toucher)"}
+{"L":"manodestra","C":["n","na"],"en":"right-hander","fr":"droitier"}
+{"L":"manosinistra","C":["n","na"],"en":"left-hander, southpaw","fr":"gaucher"}
 {"L":"par mano","C":["a"],"en":"by hand, manual, freehand","fr":"à la main"}
-{"L":"sur manos e jenos","C":["a"],"en":"on one's hands and knees, on all fours"}
+{"L":"sur manos e jenos","C":["a"],"en":"on one's hands and knees, on all fours","fr":"à quatre pattes"}
 {"T":"r","L":"manobra","C":["vt","gov"],"d":"move en un modo cual nesesa capasia e atende","en":"maneuver|manoeuvre","fr":"manœuvrer"}
 {"L":"manobra","C":["n"],"en":"maneuver|manoeuvre","fr":"manœuvre"}
-{"L":"manobra plu bon ca","C":["v"],"en":"outmaneuver|outmanoeuvre"}
-{"T":"r","L":"manometre","C":["n","util"],"d":"un strumento per mesura la presa sur un colona de licuida","en":"manometer (pressure-measuring tool)"}
-{"T":"r","L":"manoscrito","C":["n","arte","mus"],"d":"un libro, documento o musica, scriveda par mano; un testo cual no es ancora publicida","en":"manuscript, autograph, codex, typescript"}
-{"T":"r","L":"manteni","C":["vt"],"d":"fa ce (un cosa o situa) continua con la mesma cualia, tipal bon; furni la nesesadas per vive o funsiona a (un person o cosa)","da":"holde, beholde","de":"behalten","en":"maintain, keep (in the same state), preserve; monitor","es":"mantener, conservar, preservar","fr":"maintenir"}
-{"L":"manteni","C":["n"],"en":"maintenance, preservation, upkeep","fr":"maintenance"}
-{"L":"mantenida","C":["a"],"en":"maintained, kept"}
-{"L":"mantenor","C":["n"],"en":"janitor, caretaker, maintenance engineer, groundskeeper, groundsman","fr":"agent de maintenance"}
-{"L":"mantenor de eglesa","C":["n"],"en":"sexton"}
-{"T":"r","L":"manticor","C":["n","mit"],"d":"un animal mital con corpo de leon, fas de umana, e picador de scorpion","i":"#","en":"manticore (mythology)"}
-{"T":"r","L":"mantis","C":["n","artr"],"d":"un inseto xasante, con brasos pliada como manos preante","i":"#","t":"Mantodea","da":"knæler (insekt)","de":"Gottesanbeterin","en":"mantis (insect)","es":"mantis","fr":"mante"}
-{"T":"r","L":"mantos","C":["n","ins"],"d":"un inseto sin alas de Africa sude, semblante un mantis","t":"Mantophasmatidae","en":"mantos, mantophasmatidae"}
-{"T":"r","L":"mantra","C":["n","rel"],"d":"un parola o sona repeteda per aida medita, orijinante en induisme e budisme","en":"mantra (meditation)"}
-{"T":"r","L":"manual","C":["n","util"],"d":"un libro de instruis","en":"handbook, manual, reference book, guide, guidebook, vade mecum","fr":"manuel (livre)"}
-{"L":"manual de instrui","C":["n"],"en":"training manual, instruction book","fr":"manuel d'instruction"}
-{"L":"manual de stilo","C":["n"],"en":"style guide, stylebook"}
-{"L":"manual prima","C":["n"],"en":"primer, basic guide"}
+{"L":"manobra plu bon ca","C":["v"],"en":"outmaneuver|outmanoeuvre","fr":"déjouer, prendre le dessus, manœuvrer pour prendre le dessus"}
+{"T":"r","L":"manometre","C":["n","util"],"d":"un strumento per mesura la presa sur un colona de licuida","en":"manometer (pressure-measuring tool)","fr":"manomètre"}
+{"T":"r","L":"manoscrito","C":["n","arte","mus"],"d":"un libro, documento o musica, scriveda par mano; un testo cual no es ancora publicida","en":"manuscript, autograph, codex, typescript","fr":"manuscrit, codex"}
+{"T":"r","L":"manteni","C":["vt"],"d":"fa ce (un cosa o situa) continua con la mesma cualia, tipal bon; furni la nesesadas per vive o funsiona a (un person o cosa)","da":"holde, beholde","de":"behalten","en":"maintain, keep (in the same state), preserve; monitor","es":"mantener, conservar, preservar","fr":"garder, conserver, maintenir, préserver; garder en observation, garder sous surveillance médicale"}
+{"L":"manteni","C":["n"],"en":"maintenance, preservation, upkeep","fr":"conservation, préservation, sauvegarde, maintien"}
+{"L":"mantenida","C":["a"],"en":"maintained, kept","fr":"maintenu, conservé, préservé, sauvegardé"}
+{"L":"mantenor","C":["n"],"en":"janitor, caretaker, maintenance engineer, groundskeeper, groundsman","fr":"agent de maintenance, gardien"}
+{"L":"mantenor de eglesa","C":["n"],"en":"sexton","fr":"sacristain, bedeau"}
+{"T":"r","L":"manticor","C":["n","mit"],"d":"un animal mital con corpo de leon, fas de umana, e picador de scorpion","i":"#","en":"manticore (mythology)","fr":"manticore, mantichore (mythologie)"}
+{"T":"r","L":"mantis","C":["n","artr"],"d":"un inseto xasante, con brasos pliada como manos preante","i":"#","t":"Mantodea","da":"knæler (insekt)","de":"Gottesanbeterin","en":"mantis (insect)","es":"mantis","fr":"mante religieuse (insecte)"}
+{"T":"r","L":"mantos","C":["n","ins"],"d":"un inseto sin alas de Africa sude, semblante un mantis","t":"Mantophasmatidae","en":"mantos, mantophasmatidae","fr":"mantophasmatodea, gladiateur (insecte)"}
+{"T":"r","L":"mantra","C":["n","rel"],"d":"un parola o sona repeteda per aida medita, orijinante en induisme e budisme","en":"mantra (meditation)","fr":"mantra"}
+{"T":"r","L":"manual","C":["n","util"],"d":"un libro de instruis","en":"handbook, manual, reference book, guide, guidebook, vade mecum","fr":"manuel (livre), guide, mémento, mode d'emploi, notice"}
+{"L":"manual de instrui","C":["n"],"en":"training manual, instruction book","fr":"notice, mode d'emploi, manuel d'instruction"}
+{"L":"manual de stilo","C":["n"],"en":"style guide, stylebook","fr":"charte graphique"}
+{"L":"manual prima","C":["n"],"en":"primer, basic guide","fr":"guide élémentaire, manuel de base"}
 {"T":"r","L":"manxa","C":["vt"],"d":"marca (un cosa o person) en un modo cual mali sua aspeta","en":"stain, blemish, blot, mar, tarnish, taint, sully, besmirch, stigmatize|is, deface, disfigure; smudge, smear","fr":"tacher, salir, maculer, ternir, abîmer, souiller, stigmatiser, défigurer"}
-{"L":"manxa","C":["n"],"i":"#","en":"stain, blemish, blot, blotch, spot, fleck; smudge, smear; marking (animals, plants)","es":"defecto, mancha, tachón, tacha, manchón, borrón","fr":"(une) tache, (une) salissure, (une) souillure"}
-{"L":"manxa de inca","C":["n"],"i":"#","en":"inkblot","fr":"(une) tache d'encre"}
-{"L":"manxa de larmas","C":["n"],"en":"tearstain","fr":"(une) tache de larme"}
-{"L":"manxa frotada","C":["n"],"en":"smudge, smear","fr":"(une) trace, (une) salissure, (une) tache"}
-{"L":"manxa solal","C":["n"],"en":"sunspot","fr":"(une) tache solaire"}
-{"L":"manxeta","C":["n"],"en":"speckle","fr":"(une) saleté, (une) tacheture, (une) moucheture, (une) tavelure"}
+{"L":"manxa","C":["n"],"i":"#","en":"stain, blemish, blot, blotch, spot, fleck; smudge, smear; marking (animals, plants)","es":"defecto, mancha, tachón, tacha, manchón, borrón","fr":"tache, salissure, souillure"}
+{"L":"manxa de inca","C":["n"],"i":"#","en":"inkblot","fr":"tache d'encre"}
+{"L":"manxa de larmas","C":["n"],"en":"tearstain","fr":"tache de larme"}
+{"L":"manxa frotada","C":["n"],"en":"smudge, smear","fr":"trace, salissure, tache"}
+{"L":"manxa solal","C":["n"],"en":"sunspot","fr":"tache solaire"}
+{"L":"manxeta","C":["n"],"en":"speckle","fr":"saleté, tacheture, moucheture, tavelure"}
 {"L":"manxosa","C":["a"],"en":"blotchy, smudgy, mottled, dappled","fr":"barbouillé, sale, taché, tacheté, moucheté"}
 {"L":"nonmanxada","C":["a"],"en":"unmarked, unblemished, unsullied, untainted, immaculate, pristine","fr":"immaculé, sans tache"}
-{"T":"r","L":"maoisme","C":["n","gov"],"d":"la ideas comuniste de Mao Zedong, cual la formi un politica pasada de Jonguo","p":"maoïsme","en":"Maoism (politics)"}
-{"L":"maoiste","C":["a"],"p":"maoïste","en":"Maoist"}
-{"T":"r","L":"maori","C":["a","dem"],"d":"pertinente a la popla orijinal de Zeland Nova, o a sua lingua polinesian","en":"Maori"}
-{"L":"maori","C":["n"],"en":"Maori"}
+{"T":"r","L":"maoisme","C":["n","gov"],"d":"la ideas comuniste de Mao Zedong, cual la formi un politica pasada de Jonguo","p":"maoïsme","en":"Maoism (politics)","fr":"maoïsme"}
+{"L":"maoiste","C":["a"],"p":"maoïste","en":"Maoist","fr":"maoïste"}
+{"T":"r","L":"maori","C":["a","dem"],"d":"pertinente a la popla orijinal de Zeland Nova, o a sua lingua polinesian","en":"Maori","fr":"maori"}
+{"L":"maori","C":["n"],"en":"Maori","fr":"Maori"}
 {"T":"r","L":"mapa","C":["vt","util"],"d":"crea un scema bidimensional per representa (un rejion de tera o mar)","i":"#","en":"map, chart"}
 {"L":"mapa","C":["n"],"da":"kort, landkort","de":"Landkarte","en":"map, mapping, chart","es":"mapa","fr":"carte"}
 {"L":"mapa de releva","C":["n"],"en":"relief map"}
@@ -20714,7 +20714,7 @@
 {"L":"ploreta","C":["n"],"en":"whimper","fr":"gémissement"}
 {"L":"plorosa","C":["n"],"en":"crybaby"}
 {"T":"r","L":"ploton","C":["n","gov"],"d":"un sudivide de un compania de soldatos","en":"platoon","fr":"peloton"}
-{"T":"r","L":"plu","C":["d"],"d":"un cuantia, grandia o grado ajuntada a un cuantia, grandia o grado esistente o normal","u":"plu tempo; plu problemes; un plu peso de torta","da":"mere, flere","en":"more, additional, extra, further, other, another","fr":"plus de; encore un"}
+{"T":"r","L":"plu","C":["d"],"d":"un cuantia, grandia o grado ajuntada a un cuantia, grandia o grado esistente o normal","u":"plu tempo; plu problemes; un plu peso de torta","da":"mere, flere","en":"more, additional, extra, further, other, another","fr":"plus de; encore un; supplémentaire, nouveau, autre"}
 {"L":"plu","C":["av"],"u":"plu fria ca","ca":"més","da":"mere, -ere","de":"mehr","en":"more; any more, any further, any longer; in addition, besides, moreover, furthermore","eo":"pli","es":"mas","fr":"plus","ja":"もっと","pt":"mais","ru":"больше"}
 {"L":"plu","C":["cj"],"en":"plus (arithmetic)"}
 {"L":"plu ... plu","C":["esp"],"u":"plu me deveni vea, min me recorda; plu me leje, min me sabe; plu me senta, plu me deveni fria","en":"the more ... the more","eo":"ju pli ... des pli"}
@@ -25890,6 +25890,7 @@
 {"L":"stranjeri","C":["n"],"en":"estrangement, alienation"}
 {"T":"r","L":"stratejia","C":["n","gov"],"d":"un projeta per ata, desiniada per ateni un gol major; la arte de crea un projeta de esta tipo, spesial per intendes militar","en":"strategy, stratagem"}
 {"L":"stratejia nova","C":["n"],"en":"new strategy, initiative"}
+{"L":"strateji","C":["vt"],"en":"strategize|is"}
 {"L":"stratejial","C":["a"],"en":"strategic"}
 {"L":"stratejiste","C":["n"],"en":"strategist"}
 {"T":"r","L":"strato","C":["n","fis","tera"],"d":"un covrente de materia, como pinta, sur un surfas o corpo; un nube cual formi un covrente continuante e orizonal de gris, tipal con pluve o neva; (en fisica) cada de un grupo de orbitas sirca la nucleo de un atom, abitada par eletrones","da":"lag","de":"Lage, Schicht","en":"layer, ply; coat (paint), coating; stratus (cloud); shell (electron)","eo":"tavolo","es":"capa, estrato","fr":"couche","it":"strato","nl":"laag","pt":"camada, nível, estrato"}
