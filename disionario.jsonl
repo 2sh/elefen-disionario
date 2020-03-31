@@ -334,6 +334,8 @@
 {"T":"r","L":"adormi","C":["vnt"],"d":"comensa dormi","en":"fall asleep, go to sleep","eo":"endormiĝi, ekdormi","fr":"s'endormir","he":"להירדם"}
 {"L":"adormi","C":["vt"],"en":"send to sleep, put to sleep","eo":"endormigi","fr":"endormir","he":"להרדים"}
 {"L":"adorminte","C":["n","med"],"d":"un medisin per aida la dormi","en":"sleeping pill, hypnotic","fr":"somnifère, sédatif","he":"כדור שינה"}
+{"L":"adormor tarda","C":["n"],"en":"night owl (person who goes to bed late)","fr":"couche-tard"}
+{"L":"adormor temprana","C":["n"],"en":"person who goes to bed early","fr":"couche-tôt"}
 {"T":"r","L":"adota","C":["vt","gov"],"d":"prende legal (un enfante de otras) e eleva el como sua propre; deside usa (un condui, opina o lingua) como sua propre","en":"adopt, espouse; take up","eo":"adopti","fr":"adopter","he":"לאמץ, לסגל"}
 {"L":"adota","C":["n"],"en":"adoption","eo":"adopto","fr":"adoption","he":"אימוץ"}
 {"L":"adotada","C":["a"],"en":"adopted","eo":"adoptita","fr":"adoptif, adopté","he":"מאומץ"}
@@ -2496,8 +2498,8 @@
 {"L":"reaveni","C":["vnt"],"en":"reoccur, recur, happen again","fr":"se reproduire","he":"לקרות שוב, להתרחש שוב"}
 {"L":"reaveni","C":["vt"],"en":"cause to happen again, restage","fr":"faire se reproduire","he":"לגרום למשהו לקרות שוב; לקיים שוב (אירוע)"}
 {"L":"reaveni","C":["n"],"en":"recurrence","fr":"récurrence, répétition, retour","he":"חזרה, הישנות, התרחשות חוזרת ונשנית"}
-{"T":"r","L":"aventura","C":["vnt"],"d":"partisipa en un ata stimulante, noncomun o perilosa; esplora un teritorio nonconoseda","en":"adventure","fr":"s'aventurer","he":"להשתתף בהרפתקה"}
-{"L":"aventura","C":["n"],"en":"adventure, escapade","fr":"aventure","he":"הרפתקה"}
+{"T":"r","L":"aventura","C":["vnt"],"d":"partisipa en un ata stimulante, noncomun o perilosa; esplora un teritorio nonconoseda","en":"adventure, quest","fr":"s'aventurer","he":"להשתתף בהרפתקה"}
+{"L":"aventura","C":["n"],"en":"adventure, escapade, quest","fr":"aventure","he":"הרפתקה"}
 {"L":"aventurante","C":["a"],"en":"adventurous (person)","fr":"aventureux (personne)","he":"הרפתקני"}
 {"L":"aventuror","C":["n"],"en":"adventurer, adventurist","fr":"aventurier","he":"הרפתקן"}
 {"L":"aventurosa","C":["a"],"en":"adventurous (activity)","fr":"aventureux (activité)","he":"(פעילות) הרפתקנית"}
@@ -7363,6 +7365,9 @@
 {"L":"cubi","C":["vnt"],"en":"become a cube","fr":"devenir un cube","he":"לעלות בחזקת שלוש"}
 {"L":"cubi","C":["vt"],"en":"cube","fr":"cuber, élever au cube","he":"להעלות בחזקת שלוש"}
 {"L":"cubida","C":["a"],"en":"cubed, to the third power","fr":"cubé, élevé au cube","he":"בחזקת שלוש"}
+{"L":"cubin","C":["a"],"en":"cuboid, cubelike, cube-shaped"}
+{"T":"r","L":"cuboide","C":["a","mat"],"en":"cuboidal"}
+{"L":"cuboide","C":["n"],"d":"un paralelepipedo con ses fases retangulo","en":"cuboid, orthohedron"}
 {"T":"r","L":"cucabura","C":["n","avia"],"d":"un avia pexor de Australia e Gine Nova, notada per sua clama multe forte","i":"#","t":"Dacelo","en":"kookaburra","fr":"kookaburra, martin-chasseur (oiseau)","he":"קוקברה (ציפור)"}
 {"T":"r","L":"cucaraxa","C":["n","artr"],"d":"un inseto simil a un scarabe con antenas e gamas longa, tipal regardada como pestes en cosinas e otra locas","i":"#","t":"Blattaria","da":"kakerlak","de":"Schabe","en":"cockroach, roach","es":"cucaracha","fr":"cancrelat, blatte, cafard","he":"תיקן, מקק, ג'וק"}
 {"T":"r","L":"cuci","C":["n","info"],"d":"un dato enviada par un servador a un surfador, reenviada sempre cuando la surfador reasede la mesma servador, e usada per identifia la usor","en":"cookie (web)","fr":"cookie (informatique)","he":"(מחשבים) קוקית"}
@@ -8420,7 +8425,7 @@
 {"L":"disci","C":["vt"],"en":"dial (phone number)","fr":"composer (un numéro de téléphone)","he":"לחייג"}
 {"L":"discin","C":["a"],"en":"disclike, disc-shaped","fr":"en forme de disque","he":"דמוי דיסק"}
 {"T":"r","L":"discografia","C":["n","mus"],"d":"un lista de obras musical o otra rejistras","en":"discography","fr":"discographie","he":"דיסקוגרפיה"}
-{"T":"r","L":"discoteca","C":["n","mus"],"d":"un loca do on dansa a musica pop","i":"disco","en":"disco, discotheque","fr":"discothèque (boîte de nuit, dancing)","he":"דיסקוטק, מועדון לילה"}
+{"T":"r","L":"discoteca","C":["n","mus"],"d":"un loca do on dansa a musica pop","i":"disco","en":"disco, discotheque, nightclub","fr":"discothèque (boîte de nuit, dancing)","he":"דיסקוטק, מועדון לילה"}
 {"T":"r","L":"discreta","C":["a"],"d":"parlante o atante cauta e atendente, tipal per evita ofende o gania vantaje","en":"discreet","fr":"discret|discrète","he":"דיסקרטי, מוצנע, זהיר"}
 {"L":"nondiscreta","C":["a"],"en":"indiscreet","fr":"indiscret|indiscrète","he":"לא דיסקרטי, חסר טקט"}
 {"L":"nondiscreta","C":["n"],"en":"indiscreet person, bigmouth","fr":"indiscret, m'as-tu-vu fanfaron, vantard","he":"(אדם) לא דיסקרטי, חסר טקט, פטפטן"}
@@ -13041,6 +13046,7 @@
 {"L":"imajinal","C":["a"],"d":"esistente sola en la imajina","en":"imaginary (including number), fictional, fictitious, fanciful, chimeric, chimerical","eo":"imaga, fantazia, fikcia, ĥimera","fr":"imaginaire, fictif, fantaisiste, chimérique"}
 {"L":"imajinosa","C":["a"],"en":"imaginative","fr":"imaginatif, inventif, visionnaire"}
 {"L":"nonimajinable","C":["a"],"en":"unimaginable, inconceivable, unfathomable","fr":"inimaginable, inconcevable"}
+{"L":"nonimajinosa","C":["a"],"en":"unimaginative"}
 {"T":"r","L":"imam","C":["n","rel"],"d":"un person ci gida preas en un mascita","en":"imam (Islam)","fr":"imam"}
 {"T":"r","L":"imantico","C":["n","avia"],"d":"un avia vadante con beco longa, plumas negra e blanca, e gamas longa e rojin","i":"#","t":"Himantopus","en":"stilt (bird)","eo":"himantopo","fr":"échasse (oiseau)"}
 {"T":"r","L":"imen","C":["n","anat"],"d":"un membrana cual clui partal la abri de la vajina, de cual sua presentia es tradisional tratada como sinia de virjinia","en":"hymen, maidenhead (anatomy)","eo":"himeno","fr":"hymen (anatomie)"}
@@ -13496,7 +13502,7 @@
 {"L":"intendeda","C":["a"],"en":"intended, intentional, deliberate, premeditated, meant, willful|wilful; earmarked","fr":"intentionnel, délibéré, prémédité, conscient, réfléchi, voulu"}
 {"L":"intendente","C":["a"],"en":"intentional, deliberate, on purpose, purposeful","fr":"intentionnel, délibéré, à propos, exprès"}
 {"L":"malintendente","C":["a"],"en":"ill-willed, cruel","fr":"malintentionné, avec de mauvaises intentions, cruel"}
-{"L":"nonintendeda","C":["a"],"en":"unintended, inadvertent, unplanned, collateral","fr":"non voulu, par inadvertance, non prévu, collatéral"}
+{"L":"nonintendeda","C":["a"],"en":"unintended, unintentional, inadvertent, unplanned, collateral","fr":"non voulu, par inadvertance, non prévu, collatéral"}
 {"T":"r","L":"intensa","C":["a"],"d":"de fortia o grado estrema; multe consentrada","en":"intense, intensive; intent; formidable","fr":"intense, intensif; formidable"}
 {"L":"desintensi","C":["vnt"],"en":"reduce, assuage","fr":"se réduire, s'apaiser, se calmer"}
 {"L":"desintensi","C":["vt"],"en":"reduce, assuage","fr":"réduire, apaiser, calmer"}
@@ -14867,10 +14873,7 @@
 {"L":"ante leva de sol","C":["a"],"en":"predawn","fr":"avant le lever du soleil"}
 {"L":"levada","C":["a"],"en":"leavened","fr":"levé (fermenté)"}
 {"L":"levada natural","C":["n"],"en":"sourdough","fr":"pain au levain"}
-{"L":"levor","C":["n"],"en":"riser (from bed)","fr":"personne qui se lève (de son lit)"}
 {"L":"levor de pesas","C":["n"],"en":"weightlifter","fr":"haltérophile"}
-{"L":"levor tarda","C":["n"],"en":"late riser","fr":"lève-tard"}
-{"L":"levor temprana","C":["n"],"en":"early riser","fr":"lève-tôt"}
 {"L":"releva","C":["vnt"],"en":"rise again","fr":"se relever"}
 {"L":"releva","C":["vt"],"en":"re-raise, raise again","fr":"relever, lever de nouveau"}
 {"T":"r","L":"levacarga","C":["n","vn","vec"],"d":"un veculo usada per leva cargas pesosa","i":"#","en":"lift truck, forklift truck, sideloader, stacker truck","fr":"chariot élévateur"}
@@ -15091,7 +15094,7 @@
 {"L":"lingual","C":["a"],"en":"lingual (of the tongue); linguistic (of language)","fr":"lingual, linguistique"}
 {"L":"linguiste","C":["n"],"en":"linguist","fr":"linguiste"}
 {"L":"lingua prima","C":["n"],"en":"first language, native language, native tongue, mother tongue","fr":"langue natale"}
-{"T":"r","L":"linguaje","C":["n","ling"],"d":"la stilo de vocabulo e frases elejeda per espresa en parla o scrive","en":"language (style), wording","fr":"style, langage, niveau de langue, élocution, façon de s'exprimer, vocabulaire"}
+{"T":"r","L":"linguaje","C":["n","ling"],"d":"la stilo de vocabulo e frases elejeda per espresa en parla o scrive","en":"language (style), wording","fr":"style, langage, (niveau de) langue, élocution, façon de s'exprimer, vocabulaire"}
 {"T":"r","L":"linguine","C":["n","cos"],"d":"pasta con forma de bandas streta","i":"#","en":"linguine (food)","fr":"linguine (pâtes)"}
 {"T":"r","L":"linguistica","C":["n","ling"],"d":"la siensa de linguas e sua strutur, incluinte la studia de morfolojia, sintatica, fonetica e semantica","en":"linguistics","fr":"linguistique"}
 {"L":"linguistica computal","C":["n","ling"],"en":"computational linguistics","fr":"linguistique informatique"}
@@ -15384,7 +15387,7 @@
 {"T":"r","L":"luje","C":["n","vec"],"d":"un treneta lejera usada en concursos","i":"#","en":"luge (toboggan)","fr":"luge"}
 {"L":"luji","C":["vnt"],"en":"luge","fr":"faire de la luge"}
 {"T":"r","L":"lumbago","C":["n","med"],"d":"dole de lombo","en":"lumbago (medical)","fr":"lumbago"}
-{"T":"r","L":"lumen","C":["n","fis"],"d":"un unia internasional de lumina","en":"lumen (unit of light)","fr":"lumen (unité de mesure de flux lumineux )"}
+{"T":"r","L":"lumen","C":["n","fis"],"d":"un unia internasional de lumina; la parte vacua en un strutur tubo en un organisme o selula","en":"lumen (unit of light, tubular cavity)","fr":"lumen (unité de mesure de flux lumineux)"}
 {"T":"r","L":"lumina","C":["vt"],"d":"furni lus a; fa ce (alga cosa) conteni plu lus; (metafor) dona sajia a","en":"illuminate, light, enlighten, brighten, highlight","fr":"éclairer, allumer, illuminer, faire entrer la lumière dans"}
 {"L":"lumina","C":["n"],"en":"illumination (action, result), highlight; enlightenment","fr":"éclairage, illumination; éveil (spirituel), illumination, réalisation"}
 {"L":"lumina fondal","C":["n"],"en":"backlight, backlighting","fr":"rétroéclairage"}
@@ -15747,7 +15750,7 @@
 {"L":"manipula","C":["n"],"en":"manipulation","fr":"manipulation"}
 {"L":"manipula de opina","C":["n"],"en":"manipulation of opinion, spin","fr":"manipulation de l'opinion"}
 {"L":"manipula distritos elejal","C":["v"],"en":"gerrymander","fr":"découper les circonscriptions électorales dans un but politique"}
-{"L":"manipula par autoduta","C":["v"],"en":"gaslight","fr":"faire douter, jeter le doute"}
+{"L":"manipula par autoduta","C":["v"],"en":"gaslight","fr":"faire douter, jeter le doute chez (quelqu'un), manipuler (quelqu'un) par détournement cognitif"}
 {"L":"manipulor","C":["n"],"en":"manipulator","fr":"manipulateur"}
 {"T":"r","L":"Manitoba","C":["n","jeo"],"d":"un provinse de Canada sentral","en":"Manitoba (Canadian province)","fr":"Manitoba"}
 {"T":"r","L":"manitu","C":["n","rel"],"d":"(en alga poplas algoncian) la bon o mal spirito de vive","i":"#","p":"manitú","en":"manitou (life force)","fr":"manitou"}
@@ -15800,135 +15803,135 @@
 {"L":"maoiste","C":["a"],"p":"maoïste","en":"Maoist","fr":"maoïste"}
 {"T":"r","L":"maori","C":["a","dem"],"d":"pertinente a la popla orijinal de Zeland Nova, o a sua lingua polinesian","en":"Maori","fr":"maori"}
 {"L":"maori","C":["n"],"en":"Maori","fr":"Maori"}
-{"T":"r","L":"mapa","C":["vt","util"],"d":"crea un scema bidimensional per representa (un rejion de tera o mar)","i":"#","en":"map, chart"}
+{"T":"r","L":"mapa","C":["vt","util"],"d":"crea un scema bidimensional per representa (un rejion de tera o mar)","i":"#","en":"map, chart","fr":"cartographier, tracer une carte (géographique), dessiner un plan"}
 {"L":"mapa","C":["n"],"da":"kort, landkort","de":"Landkarte","en":"map, mapping, chart","es":"mapa","fr":"carte"}
-{"L":"mapa de releva","C":["n"],"en":"relief map"}
-{"L":"mapa linial","C":["n"],"en":"linear mapping"}
-{"L":"mapada","C":["a"],"en":"mapped, charted"}
-{"L":"nonmapada","C":["a"],"en":"unmapped, uncharted"}
+{"L":"mapa de releva","C":["n"],"en":"relief map","fr":"carte en relief"}
+{"L":"mapa linial","C":["n"],"en":"linear mapping","fr":"application linéaire"}
+{"L":"mapada","C":["a"],"en":"mapped, charted","fr":"cartographié, répertorié sur une carte"}
+{"L":"nonmapada","C":["a"],"en":"unmapped, uncharted","fr":"non cartographié, non répertorié sur une carte"}
 {"T":"r","L":"mar","C":["n","tera"],"d":"un corpo grande de acua salin cual covre la plu de la surfas de la Tera","i":"#","da":"hav, ocean","de":"Meer, Ozean","en":"sea, ocean","es":"mar, oceano","fr":"mer, océan"}
-{"L":"mar alta","C":["n"],"en":"high seas, open ocean, open sea, main"}
-{"L":"a mar","C":["av"],"en":"at sea, offshore"}
-{"L":"en la mar","C":["av"],"en":"in the sea, overboard"}
-{"L":"maral","C":["a"],"en":"marine, oceanic, maritime, seagoing"}
-{"L":"mareria","C":["n"],"en":"oceanarium"}
-{"L":"marin","C":["a"],"en":"sealike, salty, briny, brackish"}
-{"L":"marin","C":["n","cim","cos"],"d":"acua salosa, como en la mar","en":"brine, salty water","fr":"marinade"}
+{"L":"mar alta","C":["n"],"en":"high seas, open ocean, open sea, main","fr":"haute mer"}
+{"L":"a mar","C":["av"],"en":"at sea, offshore","fr":"en mer, au large"}
+{"L":"en la mar","C":["av"],"en":"in the sea, overboard","fr":"à la mer, dans la mer,  par-dessus bord"}
+{"L":"maral","C":["a"],"en":"marine, oceanic, maritime, seagoing","fr":"marin, maritime, océanique, navigant"}
+{"L":"mareria","C":["n"],"en":"oceanarium","fr":"océanorium, océanarium, parc marin, aquarium marin, marinarium"}
+{"L":"marin","C":["a"],"en":"sealike, salty, briny, brackish","fr":"marin"}
+{"L":"marin","C":["n","cim","cos"],"d":"acua salosa, como en la mar","en":"brine, salty water","fr":"marinade, solution saline"}
 {"L":"marini","C":["vt"],"en":"marinate in brine, marinade, pickle, brine","fr":"mariner"}
 {"L":"marinida","C":["a"],"en":"marinated, marinaded, pickled, brined","fr":"mariné"}
-{"L":"maror","C":["n"],"en":"seafarer, sailor"}
-{"L":"su mar","C":["a"],"en":"submarine, undersea"}
-{"L":"su mar","C":["av"],"en":"under the sea"}
-{"L":"transmaral","C":["a"],"en":"transoceanic"}
-{"T":"r","L":"marabu","C":["n","avia"],"d":"un siconia grande de Africa, con beco grande","i":"#","p":"marabú","t":"Leptoptilos crumeniferus","en":"marabou (bird)"}
-{"T":"r","L":"marabut","C":["n","rel"],"d":"un eremita o monce muslim, tipal en Africa norde","en":"marabout (monk)"}
-{"T":"r","L":"maraca","C":["n","mus"],"d":"un strumento de percute, composada de un zuca vacuida, plenida con favas seca, calculos o ojetos simil","i":"#","en":"maraca (musical instrument)"}
-{"T":"r","L":"Maracaibo, Lago","C":["n","jeo"],"d":"un lago grande en Venezuela, liada a la Mar Caribe","i":"Lago-Maracaibo","en":"Lake Maracaibo"}
-{"T":"r","L":"Marajo","C":["n","jeo"],"d":"un isola en la boca de la Rio Amazona en Brasil","i":"#","en":"Marajó (island)"}
-{"T":"r","L":"marania","C":["vt"],"d":"trapi (alga cosa) en un masa complicada","en":"entangle, tangle, mat, snarl, mess up","fr":"emmêler, enchevêtrer, embrouiller"}
-{"L":"marania","C":["n"],"en":"tangle, mess; thicket"}
-{"L":"desmarania","C":["vt"],"en":"disentangle, untangle, unravel, unsnarl"}
-{"L":"maraniada","C":["a"],"en":"tangled, matted, messy"}
-{"L":"maraniada en jelo","C":["a"],"en":"icebound"}
-{"L":"maraniada en trafica","C":["a"],"en":"stuck in traffic"}
-{"T":"r","L":"maranta","C":["n","pla"],"d":"un erba de la isolas de la Mar Caribe, de cual on pote estrae amidon","i":"#","t":"Maranta arundinacea","en":"arrowroot (plant)"}
-{"T":"r","L":"marascino","C":["n","cos"],"d":"un bevida alcolosa dulse e forte, preparada de serisas peti e amarga","en":"maraschino (drink)"}
-{"T":"r","L":"marati","C":["a","dem"],"d":"pertinente a la popla de Maharashatra en Barat sentral, o a sua lingua indoarian","en":"Marathi (person, language)"}
-{"L":"marati","C":["n"],"en":"Marathi (person, language)"}
+{"L":"maror","C":["n"],"en":"seafarer, sailor","fr":"marin, matelot"}
+{"L":"su mar","C":["a"],"en":"submarine, undersea","fr":"sous-marin"}
+{"L":"su mar","C":["av"],"en":"under the sea","fr":"sous la mer"}
+{"L":"transmaral","C":["a"],"en":"transoceanic","fr":"transocéanique, transmarin, ultramarin"}
+{"T":"r","L":"marabu","C":["n","avia"],"d":"un siconia grande de Africa, con beco grande","i":"#","p":"marabú","t":"Leptoptilos crumeniferus","en":"marabou (bird)","fr":"marabout (oiseau)"}
+{"T":"r","L":"marabut","C":["n","rel"],"d":"un eremita o monce muslim, tipal en Africa norde","en":"marabout (monk)","fr":"marabout (personne)"}
+{"T":"r","L":"maraca","C":["n","mus"],"d":"un strumento de percute, composada de un zuca vacuida, plenida con favas seca, calculos o ojetos simil","i":"#","en":"maraca (musical instrument)","fr":"maraca (instrument de musique)"}
+{"T":"r","L":"Maracaibo, Lago","C":["n","jeo"],"d":"un lago grande en Venezuela, liada a la Mar Caribe","i":"Lago-Maracaibo","en":"Lake Maracaibo","fr":"lac Maracaibo"}
+{"T":"r","L":"Marajo","C":["n","jeo"],"d":"un isola en la boca de la Rio Amazona en Brasil","i":"#","en":"Marajó (island)","fr":"île de Marajó"}
+{"T":"r","L":"marania","C":["vt"],"d":"trapi (alga cosa) en un masa complicada","en":"entangle, tangle, mat, snarl, mess up","fr":"camoufler, dissimuler, emmêler, embrouiller, enchevêtrer, noyer (cacher quelque chose au milieu d'autres)"}
+{"L":"marania","C":["n"],"en":"tangle, mess; thicket","fr":"camouflage, dissimulation, emmêlement, embrouillamini, écheveau, enchevêtrement"}
+{"L":"desmarania","C":["vt"],"en":"disentangle, untangle, unravel, unsnarl","fr":"démêler, tirer, débrouiller"}
+{"L":"maraniada","C":["a"],"en":"tangled, matted, messy","fr":"emmêlé, camouflé, noyé, enchevêtré"}
+{"L":"maraniada en jelo","C":["a"],"en":"icebound","fr":"pris dans les glaces"}
+{"L":"maraniada en trafica","C":["a"],"en":"stuck in traffic","fr":"pris dans les encombrements, pris dans les bouchons"}
+{"T":"r","L":"maranta","C":["n","pla"],"d":"un erba de la isolas de la Mar Caribe, de cual on pote estrae amidon","i":"#","t":"Maranta arundinacea","en":"arrowroot (plant)","fr":"arrowroot, marantacée (plante)"}
+{"T":"r","L":"marascino","C":["n","cos"],"d":"un bevida alcolosa dulse e forte, preparada de serisas peti e amarga","en":"maraschino (drink)","fr":"marasquin"}
+{"T":"r","L":"marati","C":["a","dem"],"d":"pertinente a la popla de Maharashatra en Barat sentral, o a sua lingua indoarian","en":"Marathi (person, language)","fr":"marathi"}
+{"L":"marati","C":["n"],"en":"Marathi (person, language)","fr":"Marathi (personne); marathi (langue)"}
 {"T":"r","L":"maraton","C":["n","spo"],"d":"un corsa de core de 26 milias e 385 iardes (42,195 cilometres); cualce taxe difisil cual ocupa un tempo longa","en":"marathon","fr":"marathon"}
-{"T":"r","L":"marca","C":["vt","ling"],"d":"decora (un cosa o person) con un manxa, figur o simbol per indica sua identia; (un cualia) es tipal de (un cosa o person); (en informatica) usa un mus o teclador per spesifa (alga cosa) como la ojeto de la opera seguente","da":"mærke","en":"mark, stamp, characterize|is, typify; select, flag, highlight (text)","fr":"marquer"}
-{"L":"marca","C":["n"],"d":"un cualia o manxa distinguinte; un nom comersial de un organiza o corpora","i":"#","de":"Spur","en":"mark, stamp, brand (commercial), characterization|is, identifier; marking (animals, plants)","es":"marca","fr":"marque"}
-{"L":"marca comersial","C":["n"],"en":"trademark"}
-{"L":"marca como paiada","C":["v"],"en":"frank, mark as paid"}
-{"L":"marca de colpa","C":["n"],"en":"weal, wheal, welt"}
-{"L":"marca de cualia","C":["n"],"en":"hallmark"}
-{"L":"marca de orea","C":["n"],"en":"earmark"}
-{"L":"marca de paia","C":["n"],"en":"mark of payment, frank, franking mark"}
-{"L":"marca distinguinte","C":["n"],"en":"distinguishing mark, hallmark, trademark"}
-{"L":"marca postal","C":["n"],"en":"postmark"}
-{"L":"desmarca","C":["vt"],"en":"unmark, deselect"}
-{"L":"marcada","C":["a"],"en":"marked"}
-{"L":"marcada par","C":["a"],"en":"characterized|is by, involving"}
-{"L":"marcador","C":["n"],"en":"marker, stamp"}
-{"T":"r","L":"Marcesas, Isolas","C":["n","pl","jeo"],"d":"un grupo de isolas volcanal en la Mar Pasifica sude, un parte de Polinesia Franses","i":"Isolas-Marcesas","en":"Marquesas Islands","fr":"Îles Marquises"}
+{"T":"r","L":"marca","C":["vt","ling"],"d":"decora (un cosa o person) con un manxa, figur o simbol per indica sua identia; (un cualia) es tipal de (un cosa o person); (en informatica) usa un mus o teclador per spesifa (alga cosa) como la ojeto de la opera seguente","da":"mærke","en":"mark, stamp, characterize|is, typify; select, flag, highlight (text)","fr":"marquer, estampiller, caractériser, étiqueter, sélectionner, mettre en avant, mettre en valeur | évidence | exergue | lumière | relief | surbrillance, souligner, surligner, faire ressortir"}
+{"L":"marca","C":["n"],"d":"un cualia o manxa distinguinte; un nom comersial de un organiza o corpora","i":"#","de":"Spur","en":"mark, stamp, brand (commercial), characterization|is, identifier; marking (animals, plants)","es":"marca","fr":"marque, repère, balise, cachet, identifiant, indice, marquage (du bétail, d'un arbre)"}
+{"L":"marca comersial","C":["n"],"en":"trademark","fr":"marque (commerciale)"}
+{"L":"marca como paiada","C":["v"],"en":"frank, mark as paid","fr":"facturer"}
+{"L":"marca de colpa","C":["n"],"en":"weal, wheal, welt","fr":"ecchymose, marque de coup, trace de coup, bleu, contusion, meurtrissure"}
+{"L":"marca de cualia","C":["n"],"en":"hallmark","fr":"label de qualité, signe de qualité"}
+{"L":"marca de orea","C":["n"],"en":"earmark","fr":"marque distinctive, marque auriculaire (bétail)"}
+{"L":"marca de paia","C":["n"],"en":"mark of payment, frank, franking mark","fr":"facture"}
+{"L":"marca distinguinte","C":["n"],"en":"distinguishing mark, hallmark, trademark","fr":"marque distinctive, label de qualité, marque (commerciale)"}
+{"L":"marca postal","C":["n"],"en":"postmark","fr":"cachet de la poste, oblitération"}
+{"L":"desmarca","C":["vt"],"en":"unmark, deselect","fr":"désélectionner, enlever la marque de"}
+{"L":"marcada","C":["a"],"en":"marked","fr":"marqué, sélectionné, oblitéré"}
+{"L":"marcada par","C":["a"],"en":"characterized|is by, involving","fr":"caractérisé par, repéré par, impliquant"}
+{"L":"marcador","C":["n"],"en":"marker, stamp","fr":"marqueur, indicateur, balise, jalon, repère"}
+{"T":"r","L":"Marcesas, Isolas","C":["n","pl","jeo"],"d":"un grupo de isolas volcanal en la Mar Pasifica sude, un parte de Polinesia Franses","i":"Isolas-Marcesas","en":"Marquesas Islands","fr":"îles Marquises"}
 {"T":"r","L":"marci","C":["n","gov","ist"],"d":"(en alga nasiones european) un nobil de grado supra un conte e su un duxe","en":"marquess, marquis, margrave","fr":"marquis"}
 {"L":"marcesa","C":["n"],"en":"marchioness, marquise","fr":"marquise"}
 {"L":"marcia","C":["n"],"d":"(istorial) la area renada par un marci","en":"march (land)","fr":"marquisat"}
-{"T":"r","L":"marea","C":["vnt","med"],"d":"ave un sensa de jira e perde de ecuilibra","en":"feel dizzy, feel giddy, feel woozy","fr":"attraper le mal de mer"}
-{"L":"marea","C":["vt"],"en":"make dizzy","fr":"donner le mal de mer à"}
-{"L":"mareada","C":["a"],"en":"dizzy, giddy, groggy, woozy","fr":"qui a le mal de mer"}
-{"L":"mareante","C":["a"],"en":"dizzying","fr":"qui donne le mal de mer"}
+{"T":"r","L":"marea","C":["vnt","med"],"d":"ave un sensa de jira e perde de ecuilibra","en":"feel dizzy, feel giddy, feel woozy","fr":"attraper le mal de mer, avoir le mal de mer, être nauséeux, avoir la nausée"}
+{"L":"marea","C":["vt"],"en":"make dizzy","fr":"donner le mal de mer à, donner la nausée à, rendre nauséeux"}
+{"L":"mareada","C":["a"],"en":"dizzy, giddy, groggy, woozy","fr":"qui a le mal de mer, nauséeux"}
+{"L":"mareante","C":["a"],"en":"dizzying","fr":"qui donne le mal de mer, nauséeux"}
 {"T":"r","L":"marea","C":["n","ast","tera"],"d":"la leva e cade de la mar par la atrae de la Luna e la Sol","da":"tidevand","de":"Gezeiten","en":"tide","es":"marea, corriente, pleamar","fr":"marée"}
 {"L":"marea alta","C":["n"],"en":"high tide","fr":"marée haute"}
 {"L":"marea basa","C":["n"],"en":"low tide","fr":"marée basse"}
-{"L":"marea forte","C":["n"],"en":"riptide"}
-{"L":"mareal","C":["a"],"en":"tidal"}
+{"L":"marea forte","C":["n"],"en":"riptide","fr":"grande marée, forte marée"}
+{"L":"mareal","C":["a"],"en":"tidal","fr":"de la marée, de marée, marégraphique"}
 {"T":"r","L":"marexal","C":["n","gov"],"d":"un ofisior de grado la plu alta en la fortes militar de alga nasiones; un xef de polisia o de pompores; un ofisior xef de un aveni publica","en":"marshal (officer)","fr":"maréchal"}
-{"T":"r","L":"marga","C":["n","tera"],"d":"un tera composada de arjila e calce, usada en la pasada como fertilinte","en":"marl (soil)"}
-{"T":"r","L":"margarina","C":["n","cos"],"d":"un sustitua per bur, preparada de olios vejetal o gras de animales","en":"margarine, marge, oleo"}
+{"T":"r","L":"marga","C":["n","tera"],"d":"un tera composada de arjila e calce, usada en la pasada como fertilinte","en":"marl (soil)","fr":"marne (sol)"}
+{"T":"r","L":"margarina","C":["n","cos"],"d":"un sustitua per bur, preparada de olios vejetal o gras de animales","en":"margarine, marge, oleo","fr":"margarine"}
 {"T":"r","L":"margarita","C":["n","pla"],"d":"un planta peti, con flores blanca con sentro jala","i":"#","t":"Bellis","en":"daisy (plant)","fr":"marguerite"}
-{"T":"r","L":"margarita","C":["n","cos"],"d":"un coctel preparada con tecila e jus sitrica","en":"margarita (drink)"}
-{"T":"r","L":"Margarita","C":["n","jeo"],"d":"un isola en la Mar Caribe, prosima a la costa de Venezuela","en":"Margarita Island","fr":"Île de Margarita"}
-{"T":"r","L":"Mariana","C":["n","jeo"],"en":"Mariana"}
-{"L":"Isolas Mariana","C":["n","pl","jeo"],"d":"un grupo de isolas en la Mar Pasifica ueste, incluinte Guam","i":"isolas-mariana","en":"Marianas","fr":"Îles Mariannes"}
-{"T":"r","L":"mariatxi","C":["n","mus"],"d":"un stilo de musica mexican, tipal presentada par un grupo peti de musicistes vagante","i":"#","en":"mariachi (music)"}
+{"T":"r","L":"margarita","C":["n","cos"],"d":"un coctel preparada con tecila e jus sitrica","en":"margarita (drink)","fr":"margarita (boisson)"}
+{"T":"r","L":"Margarita","C":["n","jeo"],"d":"un isola en la Mar Caribe, prosima a la costa de Venezuela","en":"Margarita Island","fr":"Margarita (île)"}
+{"T":"r","L":"Mariana","C":["n","jeo"],"en":"Mariana","fr":"Mariannes"}
+{"L":"Isolas Mariana","C":["n","pl","jeo"],"d":"un grupo de isolas en la Mar Pasifica ueste, incluinte Guam","i":"isolas-mariana","en":"Marianas","fr":"îles Mariannes"}
+{"T":"r","L":"mariatxi","C":["n","mus"],"d":"un stilo de musica mexican, tipal presentada par un grupo peti de musicistes vagante","i":"#","en":"mariachi (music)","fr":"mariachi (musique)"}
 {"T":"r","L":"marieta","C":["n","artr"],"d":"un scarabe peti con dorso cupolin, tipal roja o jala con marcas negra","i":"#","t":"Coccinellidae","en":"ladybird, ladybug, lady beetle","fr":"coccinelle"}
-{"T":"r","L":"marimba","C":["n","mus"],"d":"un xilofon african","i":"#","en":"marimba (musical instrument)"}
-{"T":"r","L":"marina","C":["n","vec","gov"],"d":"la ramo de la fortes militar cual opera a mar; un grupo multe grande de barcones, su un comandor; un grupo de veculos simil","i":"#","en":"navy, fleet, armada","fr":"marine"}
-{"L":"marinal","C":["a"],"en":"naval"}
-{"L":"marineta","C":["n"],"en":"flotilla","fr":"flotille"}
-{"L":"marinor","C":["n"],"en":"sailor, seaman, mariner; marine","fr":"marin"}
-{"L":"nonmarinor","C":["n"],"en":"non-sailor, landlubber"}
-{"T":"r","L":"marinara","C":["n","cos"],"d":"un salsa italian preparada de tomates, oniones e spises","en":"marinara (sauce)"}
+{"T":"r","L":"marimba","C":["n","mus"],"d":"un xilofon african","i":"#","en":"marimba (musical instrument)","fr":"marimba (instrument de musique)"}
+{"T":"r","L":"marina","C":["n","vec","gov"],"d":"la ramo de la fortes militar cual opera a mar; un grupo multe grande de barcones, su un comandor; un grupo de veculos simil","i":"#","en":"navy, fleet, armada","fr":"marine, flotte"}
+{"L":"marinal","C":["a"],"en":"naval","fr":"naval"}
+{"L":"marineta","C":["n"],"en":"flotilla","fr":"flottille"}
+{"L":"marinor","C":["n"],"en":"sailor, seaman, mariner; marine","fr":"marin, matelot, marinier"}
+{"L":"nonmarinor","C":["n"],"en":"non-sailor, landlubber","fr":"non marin, terrien, marin d'eau douce"}
+{"T":"r","L":"marinara","C":["n","cos"],"d":"un salsa italian preparada de tomates, oniones e spises","en":"marinara (sauce)","fr":"(sauce) marinara"}
 {"T":"r","L":"marioneta","C":["n","arte"],"d":"un pupa operada de supra par cordetas fisada a sua membros","i":"#","en":"marionette","fr":"marionnette"}
 {"L":"marionetor","C":["n"],"en":"marionettist","fr":"marionnettiste"}
-{"T":"r","L":"marjin","C":["n"],"d":"un borda streta, tipal a lado de un paje primida","en":"margin","fr":"marge"}
+{"T":"r","L":"marjin","C":["n"],"d":"un borda streta, tipal a lado de un paje primida","en":"margin","fr":"marge; petits fonds (marge intérieure, typographie), grands fonds (marge extérieure, typographie)"}
 {"L":"marjinal","C":["a"],"en":"marginal","fr":"marginal"}
-{"L":"marjini","C":["vt"],"en":"marginalize|is"}
-{"L":"marjini","C":["n"],"en":"marginalization|is"}
-{"T":"r","L":"marlin","C":["n","pex"],"d":"un pex grande e comable de mares calda, con corpo longida, beco con forma de lansia, e pina dorsal longa e rijida cual formi un cresta a ante","i":"#","t":"Istiophoridae","en":"marlin (fish)"}
-{"T":"r","L":"Marmara","C":["n","jeo"],"en":"Marmara (island)"}
-{"L":"Mar Marmara","C":["n","jeo"],"d":"un mar peti entre Turcia european e Turcia asian","i":"#","en":"Marmara Sea"}
-{"T":"r","L":"marmelada","C":["n","cos"],"d":"un comeda de frutas sitrica, preparada par boli en zucar","en":"marmalade"}
+{"L":"marjini","C":["vt"],"en":"marginalize|is","fr":"marginaliser, mettre à la marge"}
+{"L":"marjini","C":["n"],"en":"marginalization|is","fr":"marginalisation"}
+{"T":"r","L":"marlin","C":["n","pex"],"d":"un pex grande e comable de mares calda, con corpo longida, beco con forma de lansia, e pina dorsal longa e rijida cual formi un cresta a ante","i":"#","t":"Istiophoridae","en":"marlin (fish)","fr":"marlin (poisson)"}
+{"T":"r","L":"Marmara","C":["n","jeo"],"en":"Marmara (island)","fr":"Marmara (île)"}
+{"L":"Mar Marmara","C":["n","jeo"],"d":"un mar peti entre Turcia european e Turcia asian","i":"#","en":"Marmara Sea","fr":"mer de Marmara"}
+{"T":"r","L":"marmelada","C":["n","cos"],"d":"un comeda de frutas sitrica, preparada par boli en zucar","en":"marmalade","fr":"marmelade"}
 {"T":"r","L":"marmo","C":["n","tera","arci"],"d":"un forma cristal de calcario, usada en sculta e arciteta","i":"#","en":"marble","fr":"marbre"}
-{"L":"de marmo","C":["a"],"en":"(made of) marble","fr":"en marbre"}
-{"T":"r","L":"marmota","C":["n","mam"],"d":"un rodente grande, sosial e tunelinte, tipal abitante montania","i":"#","en":"marmot (rodent)"}
-{"T":"r","L":"Maroco","C":["n","jeo"],"d":"un otra nom per Magrib","i":"Magrib","v":"Magrib","en":"Morocco"}
-{"L":"marocan","C":["a"],"en":"Moroccan"}
-{"L":"marocan","C":["n"],"en":"Moroccan"}
-{"T":"r","L":"marolojia","C":["n","tera"],"d":"la ramo de siensa cual studia la cualias e fenomenos fisical e biolojial de la mar","en":"oceanology, oceanography"}
-{"L":"marolojiste","C":["n"],"en":"oceanologist, oceanographer"}
-{"T":"r","L":"marsupio","C":["n","mam"],"d":"un pox cual proteje ovos, enfantes o strutures de reprodui, spesial la pox de un marsupial fema","en":"marsupium, pouch"}
-{"L":"marsupial","C":["a"],"en":"marsupial"}
-{"L":"marsupial","C":["n","mam"],"t":"Marsupialia","en":"marsupial"}
+{"L":"de marmo","C":["a"],"en":"(made of) marble","fr":"en marbre, marmoréen"}
+{"T":"r","L":"marmota","C":["n","mam"],"d":"un rodente grande, sosial e tunelinte, tipal abitante montania","i":"#","en":"marmot (rodent)","fr":"marmotte"}
+{"T":"r","L":"Maroco","C":["n","jeo"],"d":"un otra nom per Magrib","i":"Magrib","v":"Magrib","en":"Morocco","fr":"Maroc"}
+{"L":"marocan","C":["a"],"en":"Moroccan","fr":"marocain"}
+{"L":"marocan","C":["n"],"en":"Moroccan","fr":"Marocain"}
+{"T":"r","L":"marolojia","C":["n","tera"],"d":"la ramo de siensa cual studia la cualias e fenomenos fisical e biolojial de la mar","en":"oceanology, oceanography","fr":"océanologie, océanographie"}
+{"L":"marolojiste","C":["n"],"en":"oceanologist, oceanographer","fr":"océanologue, océanographe"}
+{"T":"r","L":"marsupio","C":["n","mam"],"d":"un pox cual proteje ovos, enfantes o strutures de reprodui, spesial la pox de un marsupial fema","en":"marsupium, pouch","fr":"marsupium, poche ventrale, poche marsupiale"}
+{"L":"marsupial","C":["a"],"en":"marsupial","fr":"marsupial"}
+{"L":"marsupial","C":["n","mam"],"t":"Marsupialia","en":"marsupial","fr":"marsupial"}
 {"T":"r","L":"Marte","C":["n","ast"],"d":"la planeta cuatro de la Sol, peti e roja; la dio de gera de la romanes antica","i":"#","s":"♂","en":"Mars (mythology, planet)","fr":"Mars (dieu, planète)"}
 {"L":"martan","C":["a"],"en":"Martian","fr":"martien"}
-{"L":"martan","C":["n"],"i":"#","en":"Martian"}
+{"L":"martan","C":["n"],"i":"#","en":"Martian","fr":"Martien"}
 {"T":"r","L":"martedi","C":["n"],"d":"la dia entre lundi e mercurdi en cada semana","en":"Tuesday","eo":"mardo","fr":"mardi"}
 {"T":"r","L":"martel","C":["n","util"],"d":"un util con testa metal pesosa, usada per rompe cosas, colpa clos, etc; un parte de un fusil o otra macina cual colpa un otra per funsiona lo; un oso peti en la orea media cual transmete vibras de la timpan a la inco","i":"#","da":"hammer","de":"Hammer","en":"hammer, mallet; hammer, dog, cock (gun); malleus","es":"martillo","fr":"marteau; chien (d'arme à feu)"}
-{"L":"martel de aira","C":["n"],"en":"pneumatic drill, jackhammer"}
-{"L":"martel mol","C":["n"],"d":"un spesie de martel, usada con un sisel o per colpa lenio sin marca lo","i":"#","en":"mallet"}
-{"L":"martelable","C":["a"],"en":"malleable"}
-{"L":"marteleta","C":["n"],"d":"un basto con testa cuxinida, usada per jua alga strumentos de percute","en":"mallet; gavel"}
+{"L":"martel de aira","C":["n"],"en":"pneumatic drill, jackhammer","fr":"marteau-piqueur"}
+{"L":"martel mol","C":["n"],"d":"un spesie de martel, usada con un sisel o per colpa lenio sin marca lo","i":"#","en":"mallet","fr":"maillet"}
+{"L":"martelable","C":["a"],"en":"malleable","fr":"martelable, malléable"}
+{"L":"marteleta","C":["n"],"d":"un basto con testa cuxinida, usada per jua alga strumentos de percute","en":"mallet; gavel","fr":"maillet (baguette, musique)"}
 {"L":"marteli","C":["vt"],"en":"hammer","fr":"marteler"}
-{"L":"martelon","C":["n"],"en":"sledgehammer"}
-{"T":"r","L":"martes","C":["n","mam"],"d":"un mamal mustelin, cual abita arbores e es xasada per sua pelo","i":"#","t":"Martes","en":"marten (animal)"}
-{"T":"r","L":"martin","C":["n","avia"],"d":"un avia insetivor cual vola rapida, en familia de rondin","i":"#","t":"Hirundinidae","en":"martin (bird)","fr":"martinet"}
-{"T":"r","L":"martini","C":["n","cos"],"d":"un coctel de jin o vodca e vermute, tipal con un oliva o peso de limon","i":"#","en":"martini (drink)"}
-{"T":"r","L":"Martinic","C":["n","jeo"],"d":"un isola franses en la Mar Caribe","i":"#","en":"Martinique (island)"}
-{"L":"martinices","C":["a"],"en":"Martiniquan"}
-{"L":"martinices","C":["n","dem"],"en":"Martiniquan"}
-{"T":"r","L":"martir","C":["n","rel"],"d":"un person matada per sua relijio o otra credes","en":"martyr"}
-{"L":"martiri","C":["vnt"],"en":"martyr"}
-{"L":"martiri","C":["vt"],"en":"martyr"}
-{"L":"martiria","C":["n"],"en":"martyrdom"}
-{"T":"r","L":"marto","C":["n"],"d":"la mense tre de la calendario gregorian","en":"March","eo":"marto","fr":"Mars (mois)"}
-{"T":"r","L":"marxisme","C":["n"],"en":"Marxism"}
-{"L":"marxiste","C":["n"],"en":"Marxist"}
-{"T":"r","L":"marxa","C":["vnt"],"d":"pasea en modo militar; pasea rapida con intende; prosegue en modo organizada","i":"#","en":"march; stride"}
-{"L":"marxa","C":["n"],"en":"march"}
-{"L":"marxa funeral","C":["n"],"en":"funeral march"}
-{"T":"r","L":"Maryland","C":["n","jeo"],"d":"un stato en la SUA norde-este, a la Baia Chesapeake","en":"Maryland (US state)"}
+{"L":"martelon","C":["n"],"en":"sledgehammer","fr":"masse"}
+{"T":"r","L":"martes","C":["n","mam"],"d":"un mamal mustelin, cual abita arbores e es xasada per sua pelo","i":"#","t":"Martes","en":"marten (animal)","fr":"martre (animal)"}
+{"T":"r","L":"martin","C":["n","avia"],"d":"un avia insetivor cual vola rapida, en familia de rondin","i":"#","t":"Hirundinidae","en":"martin (bird)","fr":"martinet (oiseau)"}
+{"T":"r","L":"martini","C":["n","cos"],"d":"un coctel de jin o vodca e vermute, tipal con un oliva o peso de limon","i":"#","en":"martini (drink)","fr":"martini"}
+{"T":"r","L":"Martinic","C":["n","jeo"],"d":"un isola franses en la Mar Caribe","i":"#","en":"Martinique (island)","fr":"Martinique"}
+{"L":"martinices","C":["a"],"en":"Martiniquan","fr":"martiniquais"}
+{"L":"martinices","C":["n","dem"],"en":"Martiniquan","fr":"Martiniquais"}
+{"T":"r","L":"martir","C":["n","rel"],"d":"un person matada per sua relijio o otra credes","en":"martyr","fr":"martyr (personne)"}
+{"L":"martiri","C":["vnt"],"en":"martyr","fr":"être un martyr, subir le martyr"}
+{"L":"martiri","C":["vt"],"en":"martyr","fr":"martyriser"}
+{"L":"martiria","C":["n"],"en":"martyrdom","fr":"martyr (action)"}
+{"T":"r","L":"marto","C":["n"],"d":"la mense tre de la calendario gregorian","en":"March","eo":"marto","fr":"mars (mois)"}
+{"T":"r","L":"marxisme","C":["n"],"en":"Marxism","fr":"marxisme"}
+{"L":"marxiste","C":["n"],"en":"Marxist","fr":"marxiste"}
+{"T":"r","L":"marxa","C":["vnt"],"d":"pasea en modo militar; pasea rapida con intende; prosegue en modo organizada","i":"#","en":"march; stride","fr":"marcher (militaire, sportive), défiler, faire une procession"}
+{"L":"marxa","C":["n"],"en":"march","fr":"marche"}
+{"L":"marxa funeral","C":["n"],"en":"funeral march","fr":"marche funèbre"}
+{"T":"r","L":"Maryland","C":["n","jeo"],"d":"un stato en la SUA norde-este, a la Baia Chesapeake","en":"Maryland (US state)","fr":"Maryland (État des USA)"}
 {"T":"r","L":"mas","C":["a","bio","uma"],"d":"de la seso cual produi spermas capas de fertili ovos de un fema matur; (un planta) cual ave androseos ma no ave jineseos fertil","da":"mandlig, maskulin","de":"männlich","en":"male","es":"macho, varón, masculino, varonil, de hombres, de varones","fr":"mâle"}
 {"L":"mas","C":["n"],"en":"male"}
 {"L":"desmasi","C":["vnt"],"en":"emasculate"}
@@ -16045,6 +16048,7 @@
 {"L":"matriarcial","C":["a"],"en":"matriarchal"}
 {"T":"r","L":"matrilinia","C":["n"],"d":"un linia de familia cual segue la madres","en":"matrilineage"}
 {"L":"matrilinial","C":["a"],"en":"matrilineal"}
+{"T":"r","L":"matrilocal","C":["a","uma"],"d":"(un sposia) en cual la sposes abita con la familia de la sposa","en":"matrilocal"}
 {"T":"r","L":"matrioxca","C":["n","arte"],"d":"cada de un colie de pupas de lenio vacuida e colorosa pintida, desiniada afin cada pote es caxida en un otra, tipal fabricada en Rusia o otra paises slavica","i":"#","en":"matryoshka (doll)"}
 {"T":"r","L":"matris","C":["n","mat"],"d":"un table de cuantias o espresas en linias e colonas, regardada como un cosa singular","en":"matrix (mathematical), two-dimensional array"}
 {"T":"r","L":"matur","C":["a","bio"],"d":"completa developada; adulte; capas de reprodui; (fruta, gran, ceso, uisce, etc) sufisinte developada per es colieda o comeda","da":"voksen","de":"reif","en":"mature, ripe; adult, grown-up; aged","es":"maduro, adulto","fr":"mûr"}
@@ -17831,7 +17835,7 @@
 {"L":"nobilia","C":["n"],"en":"nobility"}
 {"T":"r","L":"noca","C":["n","anat"],"d":"un parte de la dito a la junta do la oso es prosima a la surfas, spesial do la dito es juntada a la mano; un protende de la junta carpal o tarsal de un animal","i":"#","en":"knuckle; fetlock"}
 {"T":"r","L":"noda","C":["vt","util"],"d":"torse (un corda o sinta) a sirca e streti lo per fisa lo a un otra ojeto, o a la corda mesma","en":"knot, tie a knot in"}
-{"L":"noda","C":["n"],"d":"un anelo tensada de corda o sinta; un punto do un curva traversa se o un otra curva; un aparato liada a un rede de computadores","i":"#","en":"knot, node, burl; node (graph, computing, etc)"}
+{"L":"noda","C":["n"],"d":"un anelo tensada de corda o sinta; un punto do un curva traversa se o un otra curva; un aparato liada a un rede de computadores","i":"#","en":"knot, node, burl; lump (in throat from emotion); node (graph, computing, etc)"}
 {"L":"noda de capeles","C":["n"],"i":"#","en":"topknot"}
 {"L":"noda limfal","C":["n"],"en":"lymph node"}
 {"L":"noda liscante","C":["n"],"en":"slipknot"}
@@ -19449,6 +19453,7 @@
 {"L":"parente","C":["av"],"en":"apparently, ostensibly"}
 {"T":"r","L":"-parese","C":["sf","n","med"],"d":"paralise partal","en":"-paresis (medical)"}
 {"T":"r","L":"parfe","C":["n","cos"],"d":"un deser composada de niveles de crema jelada, frutas, etc, servida en un vitro alta; un deser calda e rica, composada de crema bateda, ovos e tipal frutas","i":"#","en":"parfait (dessert)"}
+{"T":"r","L":"parflexa","C":["n","util"],"d":"un ojeto cultural, fabricada de la pel de un bison, spesial un saco","en":"parfleche"}
 {"T":"r","L":"parfum","C":["n","vest"],"d":"un licuida bonodorosa, tipal preparada de olios esensal estraeda de flores e spises, usada per dona un odor plasente a la corpo o vestes","i":"#","en":"perfume, cologne, scent"}
 {"L":"parfumeria","C":["n"],"en":"perfumery"}
 {"L":"parfumi","C":["vt"],"en":"perfume, scent"}
@@ -19742,6 +19747,7 @@
 {"L":"patriarcial","C":["a"],"en":"patriarchal"}
 {"T":"r","L":"patrilinia","C":["n"],"d":"un linia de familia cual segue la padres","en":"patrilineage"}
 {"L":"patrilinial","C":["a"],"en":"patrilineal"}
+{"T":"r","L":"patrilocal","C":["a","uma"],"d":"(un sposia) en cual la sposes abita con la familia de la sposo","en":"patrilocal"}
 {"T":"r","L":"patriota","C":["a","gov"],"d":"avente o espresante un dedica a e suporta forte per sua pais o nasion","en":"patriotic"}
 {"L":"patriota","C":["n"],"en":"patriot"}
 {"L":"nonpatriota","C":["a"],"en":"unpatriotic"}
@@ -21623,7 +21629,7 @@
 {"T":"r","L":"promontania","C":["n","tera"],"d":"un tera alta e streta cual estende en un corpo grande de acua","en":"promontory, headland"}
 {"T":"r","L":"promove","C":["vt","gov"],"d":"suporta o coraji (un caso, move o emprende); atenta influe politicistes sur (un caso)","en":"promote, support, espouse, advocate, encourage, lobby for, promulgate, purvey, proselytize|is, market"}
 {"L":"promove","C":["n"],"en":"promotion, advocacy, hype; movement (community with a cause or direction)"}
-{"L":"promovor","C":["n"],"en":"promoter, lobbyist"}
+{"L":"promovor","C":["n"],"en":"promoter, lobbyist, advocate"}
 {"L":"promovor de odia","C":["n"],"en":"hatemonger"}
 {"L":"promovores","C":["n","pl"],"en":"lobby"}
 {"T":"r","L":"prona","C":["a","anat"],"d":"reposa plata, con fas o palma a su","i":"#","en":"prone, face down, palm down"}
@@ -25872,6 +25878,7 @@
 {"T":"r","L":"straba","C":["a","med"],"d":"con un alinia nonormal de la oios","en":"strabismic, cross-eyed, boss-eyed, wall-eyed"}
 {"L":"converjente straba","C":["a"],"en":"cross-eyed, esotropic"}
 {"L":"diverjente straba","C":["a"],"en":"wall-eyed, exotropic"}
+{"L":"strabi","C":["vnt"],"en":"go cross-eyed"}
 {"L":"strabia","C":["n"],"en":"strabismus, squint (strabismic)"}
 {"T":"r","L":"strada","C":["n","arci","vec"],"d":"un via publica en un site o vila, tipal con casas o otra construidas a un o ambos lados","i":"#","da":"gade, vej","de":"Strasse, Weg","en":"street (city), thoroughfare","eo":"strato","es":"calle, camino, carretera, vía","fr":"rue, route","it":"via, strada","nl":"straat, landweg","pt":"rua, estrada"}
 {"L":"stradeta","C":["n"],"i":"#","en":"alley, alleyway, side street (city)"}
@@ -27547,6 +27554,7 @@
 {"L":"traversal","C":["n"],"en":"crosspiece; transept"}
 {"L":"traversante","C":["a"],"en":"crossing, traversing"}
 {"L":"traversante","C":["prep"],"en":"crossing, across"}
+{"T":"r","L":"travua","C":["n","vec"],"d":"un tipo simple de treno, formida de du palos juntada, e tirada par un can o cavalo","en":"travois"}
 {"T":"r","L":"tre","C":["d","mat"],"d":"1 + 2; la numero entre du e cuatro","ca":"tres","da":"tre","de":"drei","en":"three","es":"tres","fr":"trois","it":"tre","ja":"三","nl":"drie","pt":"três","ru":"три"}
 {"L":"tre","C":["a"],"en":"third (ordinal)","fr":"troisième"}
 {"L":"tre-","C":["pf"],"en":"great-great-(grandparent)"}
@@ -28578,6 +28586,8 @@
 {"L":"revelia","C":["vt"],"en":"reawaken"}
 {"L":"veliada","C":["a"],"da":"vågen","de":"wach","en":"awake, wakeful","eo":"veka","es":"despierto, alerta","fr":"réveillé","it":"sveglio","nl":"wakker","pt":"acordado"}
 {"L":"veliador","C":["n","util"],"i":"#","ca":"despertador","de":"Wecker","en":"alarm clock","eo":"vekhorloĝo","fr":"réveil","ja":"目覚まし時計","pt":"despertador","ru":"будильник"}
+{"L":"velior tarda","C":["n"],"en":"late riser","fr":"lève-tard"}
+{"L":"velior temprana","C":["n"],"en":"early riser, early bird, morning person","fr":"lève-tôt"}
 {"T":"r","L":"velo","C":["n","vest"],"d":"un peso de stofa delicata, usada par femes per proteje o asconde la fas; un cosa simil cual asconde, desembla o oscuri alga cosa","i":"#","da":"slør","de":"Schleier","en":"veil","eo":"vualo","es":"velo","fr":"(un) voile","it":"velo","nl":"sluier","pt":"véu"}
 {"L":"desveli","C":["vt"],"en":"unveil","fr":"dévoiler"}
 {"L":"desveli","C":["n"],"en":"unveiling","fr":"dévoilement"}
@@ -29218,6 +29228,7 @@
 {"L":"es un bonvolor","C":["v"],"en":"volunteer"}
 {"L":"malvole","C":["n"],"en":"ill will, malice, malevolence, maliciousness, malignance, malignancy, acrimony"}
 {"L":"malvolente","C":["a"],"en":"malicious, malevolent, malign, malignant, sinister, evil, wicked, dastardly, mean-spirited, virulent"}
+{"L":"nonvoleda","C":["a"],"en":"unwilled, involuntary, unintentional"}
 {"L":"nonvolente","C":["a"],"en":"unwilling, reluctant, indisposed"}
 {"L":"ta vole","C":["v"],"d":"espresante cortes un desira o un ofre","u":"me ta vole du biletas, per favore; me ta vole aida, ma me es ja ocupada","en":"would like to (polite)"}
 {"L":"voleda","C":["a"],"en":"willed, voluntary, deliberate, intended, intentional"}
