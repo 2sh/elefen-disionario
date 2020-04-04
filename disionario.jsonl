@@ -2750,7 +2750,7 @@
 {"L":"Baltica","C":["n","jeo"],"en":"Baltic (region)","fr":"Baltique (région)","he":"באלטי"}
 {"L":"Mar Baltica","C":["n","jeo"],"d":"un mar a norde de Deutxland e Polsca, a sude de Sveria e Suomi","i":"#","en":"Baltic Sea","fr":"mer Baltique","he":"הים הבאלטי"}
 {"T":"r","L":"balustre","C":["n","arci"],"d":"un de un serie de colonas corta cual suporta un rel","i":"#","en":"baluster, railing","fr":"balustre, balustrade, rampe, garde-fou","he":"עמוד מעקה"}
-{"T":"r","L":"bambola","C":["vnt"],"d":"move en modo nonstable de lado a lado, como si a punto de cade; move en modo torpe o perilida en acua o fango","en":"wobble, totter, teeter, be unsteady; stagger, reel, bumble, lurch, toddle, walk unsteadily; flounder, flail","fr":"tituber, trébucher, chanceler, tanguer, vaciller, zigzaguer","he":"להתנודד"}
+{"T":"r","L":"bambola","C":["vnt"],"d":"move en modo nonstable de lado a lado, como si a punto de cade; move en modo torpe o perilida en acua o fango","en":"wobble, totter, teeter, be unsteady; stagger, reel, bumble, lurch, toddle, walk unsteadily; flounder, flail, falter","fr":"tituber, trébucher, chanceler, tanguer, vaciller, zigzaguer","he":"להתנודד"}
 {"L":"bambolante","C":["a"],"en":"tottering, staggering; tipsy","fr":"titubant,  trébuchant, vacillant, tanguant, pompette, éméché","he":"מתנודד; מבוסם"}
 {"T":"r","L":"bambu","C":["n","pla"],"d":"un erba leniosa e jigante cual abita xef la tropicos; la talo de esta, usada per fabrica mobilas","i":"#","p":"bambú","t":"Bambusa, Arundinaria, Dendrocalamus","da":"bambus","de":"Bambus","en":"bamboo (plant, stem)","es":"bambú (planta, tallo)","fr":"bambou","he":"במבוק"}
 {"T":"r","L":"banana","C":["n","pla","cos"],"d":"un arbor tropical con folias multe grande e frutas cual crese en grupos; la fruta comable de esta, longa e curva con pulpa mol e pel jala cuando matur","i":"#","t":"Musa","da":"banan","de":"Banane","en":"banana (plant, fruit)","es":"plátano, banana","fr":"banane; bananier","he":"בננה"}
@@ -4135,6 +4135,7 @@
 {"T":"r","L":"caldera","C":["n","util"],"d":"un contenador, tipal metal e con manico, usada per boli licuidas o coce comedas","i":"#","en":"kettle, boiler","fr":"bouilloire, chaudière","he":"קומקום"}
 {"L":"caldera de te","C":["n"],"en":"tea kettle","fr":"bouilloire à thé","he":"קומקום תה"}
 {"L":"calderon","C":["n"],"en":"cauldron","fr":"chaudron, chaudière","he":"קדרה"}
+{"T":"r","L":"caldimano","C":["n","vn"],"d":"un aparato o paceta peti cual on teni en sua manos o gantos per caldi la manos","en":"hand warmer, glove warmer"}
 {"T":"r","L":"caldiplato","C":["n","vn"],"d":"un aparato, tipal con scafales, en cual on pone platos per caldi los","en":"plate warmer","fr":"réchauffe-plat","he":"פלטת חימום"}
 {"T":"r","L":"Caledonia Nova","C":["n","jeo"],"d":"un isola e teritorio de Frans en la sude de la Mar Pasifica, a este de Australia","i":"caledonia-nova","en":"New Caledonia","fr":"Nouvelle-Calédonie","he":"קלדוניה החדשה"}
 {"L":"caledonian","C":["a"],"en":"Caledonian","fr":"calédonien, néocalédonien","he":"קלדוני"}
@@ -4371,7 +4372,7 @@
 {"L":"canin","C":["a"],"en":"canine, doglike","fr":"canin, semblable à un chien","he":"כלבי"}
 {"T":"r","L":"cana","C":["n","pla"],"d":"un planta alta con folias magra en familia de erba, cual abita acua o pantanes; la tronceta vacua e juntada de esta o un planta simil; un palo simil, usada per pexa, orijinal fabricada de cana","i":"#","t":"Phragmites, Arundo {e multe otra jeneros","en":"reed, cane; rod (fishing)","fr":"roseau, canne (à pêche)","he":"קנה (צמח); חכה"}
 {"L":"cana de zucar","C":["n","pla"],"t":"Saccharum","en":"sugarcane","fr":"canne à sucre","he":"קנה סוכר"}
-{"T":"r","L":"canaba","C":["n","pla"],"d":"un planta alta con tronceta rijida e vertical e folias divideda e sierin; la fibre de esta, usada per fabrica cordas e stofas; un prepara secida de la flores o otra partes de esta planta, o un estraeda resinosa de esta, usada como un droga","i":"#","t":"Cannabis sativa","da":"hamp, canabis","de":"Hanf","en":"hemp, cannabis, marihuana, marijuana (plant, material, drug)","es":"cáñamo, mariguana, canabis, sisal","fr":"chanvre, cannabis, marijuana","gl":"marihuana","he":"קנאביס (צמח); מריחואנה, גראס"}
+{"T":"r","L":"canaba","C":["n","pla"],"d":"un planta alta con tronceta rijida e vertical e folias divideda e sierin; la fibre de esta, usada per fabrica cordas e stofas; un prepara secida de la flores o otra partes de esta planta, o un estraeda resinosa de esta, usada como un droga","i":"#","t":"Cannabis sativa","da":"hamp, canabis","de":"Hanf","en":"hemp, cannabis, marihuana, marijuana, pot (plant, material, drug)","es":"cáñamo, mariguana, canabis, sisal","fr":"chanvre, cannabis, marijuana","gl":"marihuana","he":"קנאביס (צמח); מריחואנה, גראס"}
 {"L":"canabor","C":["n"],"en":"cannabis user, pothead, stoner","fr":"consommateur de cannabis","he":"מעשן גראס, \"סטלן\""}
 {"T":"r","L":"canabinoide","C":["n","med"],"d":"cada de un grupo de composadas cual inclui la ingrediente ativa de canaba, usada como un medisin o un droga recreal","en":"cannabinoid (drug)","fr":"cannabinoïde (drogue)","he":"קנאבינואיד"}
 {"T":"r","L":"canada","C":["a","dem"],"d":"pertinente a un lingua dravidian relatada a telugu, e la popla ci parla lo","en":"Kannada (person, language)","fr":"kannara","he":"קאנדה (שפה)"}
@@ -4972,6 +4973,7 @@
 {"L":"cauteri","C":["n"],"en":"cauterization|is","fr":"cautérisation","he":"(רפואה) צריבה, חריכה"}
 {"L":"cauterador","C":["n"],"en":"cautery","fr":"cautère","he":"(רפואה) צורב"}
 {"T":"r","L":"cauxo","C":["n","cim"],"d":"un materia dur e elastica, composada de la latex de un planta tropical o par sintese","da":"gummi","de":"Gummi","en":"rubber","es":"hule, caucho, goma","fr":"caoutchouc","he":"גומי"}
+{"L":"cauxo spumin","C":["n"],"en":"foam rubber, sponge rubber, expanded rubber"}
 {"L":"cauxi","C":["vt"],"en":"rubberize|is","fr":"caoutchouter","he":"לצפות בגומי"}
 {"L":"cauxi","C":["n"],"en":"rubberization|is","fr":"caoutchoutage","he":"ציפוי בגומי"}
 {"T":"r","L":"cava","C":["n","tera","anat"],"d":"un cambra grande, tipal de orijina natural, en la lado de un colina o un falesa, tipal estende su la tera; un strutur artifis cual sembla esta","da":"hule","de":"Höhle","en":"cave, grotto","es":"cueva","fr":"grotte","he":"מערה"}
@@ -5726,7 +5728,7 @@
 {"L":"es comfortada par","C":["v"],"en":"be comforted by, take comfort in","fr":"être conforté par","he":"להתנחם ב"}
 {"L":"noncomfortosa","C":["a"],"en":"uncomfortable","fr":"inconfortable, mal à l'aise","he":"לא נוח"}
 {"T":"r","L":"comica","C":["a","arte"],"d":"causante rie o diverti","da":"morsom, komisk","de":"komisch","en":"comical, funny, humorous, risible, wacky, zany","es":"divertido, cómico, gracioso, divertido, chistoso","fr":"drôle, comique, amusant, cocasse, risible, marrant","he":"קומי, מצחיק, הומוריסטי"}
-{"T":"r","L":"comision","C":["n","gov"],"d":"un grupo de persones ci es ofisial encargada con un funsiona spesifada; un paia, tipal un proportio fisada de la valua pertinente, donada a un ajente en un intercambia comersial","en":"commission (committee, payment)","fr":"commission","he":"ועדה, משלחת; עמלה, קומיסיון"}
+{"T":"r","L":"comision","C":["n","gov"],"d":"un grupo de persones ci es ofisial encargada con un funsiona spesifada; un paia, tipal un proportio fisada de la valua pertinente, donada a un ajente en un intercambia comersial","en":"commission (committee); commission (payment), brokerage, markup","fr":"commission","he":"ועדה, משלחת; עמלה, קומיסיון"}
 {"L":"comisionor","C":["n"],"en":"commissioner","fr":"commissionnaire","he":"חבר ועדה; נציב, ממונה"}
 {"T":"r","L":"comite","C":["n","gov"],"d":"un grupo de persones asiniada a un funsiona spesifada, tipal composada de membros de un grupo plu grande","da":"komite, udvalg","de":"Ausschuss","en":"board, committee; panel (experts)","es":"comité","fr":"comité","he":"ועדה, מועצה; פאנל"}
 {"L":"comite de vila","C":["n"],"en":"town council","fr":"conseil municipal","he":"מועצת העיר"}
@@ -6872,7 +6874,7 @@
 {"L":"covreda","C":["a"],"en":"covered, overcast","fr":"couvert, recouvert","he":"מכוסה"}
 {"L":"covrente","C":["a"],"en":"covering, coating","fr":"couvrant, enveloppant","he":"מכסה"}
 {"L":"covrente","C":["prep"],"en":"covering, coating, all over","fr":"couvrant, recouvrant, tout autour de, enveloppant","he":"(מילת יחס) מכסה"}
-{"L":"covrente","C":["n"],"de":"Deckel","en":"cover, covering, lid, top","fr":"couverture, couvercle","he":"מכסה"}
+{"L":"covrente","C":["n"],"de":"Deckel","en":"cover, covering, lid, top, cap","fr":"couverture, couvercle","he":"מכסה"}
 {"L":"covrente desfisable","C":["n"],"en":"slipcover","fr":"housse","he":"כיסוי בד"}
 {"L":"covreta","C":["vt"],"d":"covre lejera o partal","en":"dust, sprinkle, strew","fr":"napper, poudrer, saupoudrer","he":"לזרות, לבזוק, לפזר"}
 {"L":"covreta","C":["n"],"d":"un covre lejera o partal; un abri o talia en un veste, covrente un fisador o un pox; la plia de stofa su esta","en":"dusting, sprinkling; placket; fly, flies","fr":"nappage, saupoudrage; patte, rabat (couture)","he":"זרייה, בזיקה; (בגדים( פריפה"}
@@ -7767,7 +7769,7 @@
 {"L":"defetiste","C":["n"],"en":"defeatist","fr":"défaitiste","he":"תבוסתן","ru":"пораженец"}
 {"L":"sin defeta","C":["a"],"en":"undefeated","fr":"invaincu","he":"שלא הובס"}
 {"T":"r","L":"defeto","C":["n","info"],"d":"un nonperfeta; un problem peti","da":"defekt, skade","de":"Fehler","en":"defect, glitch, flaw, bug","es":"defecto, falla, imperfección, error, falta, tacha","fr":"défaut, déficience, défaillance","he":"פגם, ליקוי, דפקט, באג, תקל","ru":"дефект, глюк, баг"}
-{"L":"defetosa","C":["a"],"en":"defective, faulty, flawed","fr":"imparfait, faillible","he":"פגום, לקוי, תקול, דפוק","ru":"дефектный, глючный, баговатый"}
+{"L":"defetosa","C":["a"],"en":"defective, faulty, flawed, unsound","fr":"imparfait, faillible","he":"פגום, לקוי, תקול, דפוק","ru":"дефектный, глючный, баговатый"}
 {"L":"defetosa","C":["n"],"en":"dud","fr":"raté","he":"(מכשיר) נפל"}
 {"L":"desdefetador","C":["n"],"en":"debugger","fr":"débugueur, débogueur","he":"תוכנת ניפוי","ru":"дебагер (программа, позволяющая выявлять ошибки в другой программе)"}
 {"L":"desdefeti","C":["vt"],"en":"debug","fr":"débuguer","he":"(מחשבים) לנפות, לדבג","ru":"отлаживать (программу), дебажить, выявлять ошибки в программе"}
@@ -7884,6 +7886,8 @@
 {"T":"r","L":"denge","C":["n","med"],"d":"un maladia de la tropicos, causada par un virus transmeteda par moscetas, cual causa subita febre e dole intensa de la juntas","en":"dengue, dengue fever","fr":"dengue","he":"קדחת הדנגי"}
 {"T":"r","L":"denim","C":["n","vest"],"d":"un stofa durante de sarja de coton, tipal blu","en":"denim, jean","fr":"denim, jean","he":"דנים (בד)"}
 {"L":"de denim","C":["a"],"en":"(made of) denim, jean","fr":"en denim, en jean","he":"עשוי מדנים"}
+{"T":"r","L":"denisovan","C":["a","uma"],"d":"pertinente a un spesie estinguida de umanas, ci ia abita entre Sibir e Asia sude-este en la tarda de la paleolitica","en":"Denisovan"}
+{"L":"denisovan","C":["n"],"en":"Denisovan"}
 {"T":"r","L":"denova","C":["av"],"d":"a un plu ves; reocupante un state pasada","da":"igen, en gang til","de":"noch einmal","en":"again, anew, afresh","es":"otra vez, de nuevo, una vez más, repetidas veces, repetidamente","fr":"de nouveau, à nouveau, encore, derechef","he":"שוב, עוד פעם, מחדש"}
 {"T":"r","L":"densa","C":["a","fis"],"d":"conteninte un cuantia grande e compatida de cosas o persones prosima a lunlotra; (un licuida) no fasil fluente; (un nebla) opaca","da":"tæt, kraftig, tyk, intens","de":"dicht","en":"dense, thick","es":"denso, concentrado, espeso, intenso","fr":"dense, concentré, compact, épais, massif, tassé, serré, touffu","he":"דחוס; סמיך"}
 {"L":"densi","C":["vnt"],"en":"thicken, condense","fr":"se densifier, se compresser, se concentrer, s'épaissir, se tasser, se reserrer, se serrer","he":"להידחס; להפוך לסמיך; להתעבות"}
@@ -9245,9 +9249,10 @@
 {"L":"eletromecanical","C":["a"],"en":"electromechanical","fr":"électromécanique","he":"אלקטרומכני"}
 {"T":"r","L":"eletromotiva","C":["a","fis"],"d":"produinte un corente eletrical","en":"electromotive","fr":"électromoteur|électromotrice","he":"אלקטרומניע"}
 {"T":"r","L":"eletron","C":["n","fis"],"d":"un particula suatomal e stable, con carga eletrical negativa, trovada en tota atomes e funsionante como la portante xef de eletrica en solidas","en":"electron","fr":"électron","he":"אלקטרון"}
+{"L":"eletronal","C":["a"],"en":"electronic (pertaining to electrons)"}
 {"T":"r","L":"eletronegativa","C":["a","fis","cim"],"d":"eletrical negativa; (un elemento) tendente gania eletrones e formi iones negativa","en":"electronegative","fr":"électronégatif","he":"אלקטרונגטיבי"}
 {"T":"r","L":"eletronica","C":["n","fis","util"],"d":"la ramo de fisica e tecnolojia cual pertine a la desinia de sircuitos con transistores e microtelias, e a la condui e move de eletrones en condutadores, semicondutadores, gases o un vacua","en":"electronics (science)","fr":"électronique","he":"אלקטרוניקה"}
-{"L":"eletronical","C":["a"],"en":"electronic","fr":"électronique","he":"אלקטרוני"}
+{"L":"eletronical","C":["a"],"en":"electronic (pertaining to electronics)","fr":"électronique","he":"אלקטרוני"}
 {"L":"eletronicales","C":["n","pl"],"en":"electronics (components)","fr":"composants électroniques","he":"רכיבים אלקטרוניים"}
 {"T":"r","L":"eletroplaca","C":["vt","cim"],"d":"placa (un cosa metal) par eletrolise","en":"electroplate","fr":"électroplaquer, faire de la galvanoplastie","he":"לצפות באלקטרוליזה"}
 {"L":"eletroplaca","C":["n"],"en":"electroplating","fr":"galvanoplastie, électroplacage","he":"ציפוי אלקטרוליטי"}
@@ -13846,7 +13851,7 @@
 {"L":"isoli","C":["vt"],"en":"isolate, insulate, sequester, quarantine","fr":"isoler, confiner, mettre en quarantaine"}
 {"L":"isoli","C":["n"],"en":"isolation, insulation, quarantine, insularity","fr":"isolation, confinement, quarantaine"}
 {"L":"isoli acustical","C":["v"],"en":"soundproof","fr":"faire une isolation acoustique"}
-{"L":"isolida","C":["a"],"en":"isolated, insulated; remote, out of the way","fr":"isolé, confiné, en quarantaine"}
+{"L":"isolida","C":["a"],"en":"isolated, insulated; remote, secluded, out of the way","fr":"isolé, confiné, en quarantaine"}
 {"L":"isolida par neva","C":["a"],"en":"snowed in","fr":"bloqué par la neige, isolé à cause de la neige"}
 {"L":"isolinte","C":["a"],"en":"isolating","fr":"isolant"}
 {"L":"isolinte","C":["n"],"en":"isolator (substance)"}
@@ -16339,246 +16344,246 @@
 {"L":"mervelia","C":["vt"],"en":"astonish, amaze","fr":"émerveiller, étonner"}
 {"L":"mervelia","C":["n"],"en":"marvel, miracle","fr":"merveille, étonnement, miracle, prodige"}
 {"L":"merveliosa","C":["a"],"en":"marvelous|ll, wonderful, awe-inspiring, awesome, majestic, magnificent, glorious, superb, splendid, sublime","fr":"merveilleux, magnifique, superbe, splendide, sublime, majestueux, prodigieux"}
-{"T":"r","L":"mesa","C":["n","tera"],"d":"un colina isolida con un culmina plata e lados presipe, trovada en rejiones con stratos orizonal","en":"mesa (hill)"}
-{"T":"r","L":"mesaje","C":["n","info","ling"],"d":"un comunica parlada, scriveda o rejistrada, enviada o lasada per un resetor ci on no pote contata direta","da":"meddelelse","de":"Botschaft","en":"message","es":"mensaje, nota, recado, comunicación","fr":"message"}
-{"L":"mesaje pronto","C":["n"],"en":"instant message"}
-{"L":"mesajeta","C":["n"],"en":"text message, text, SMS"}
-{"L":"mesaji","C":["vt"],"en":"message, send as a message, text"}
-{"L":"mesaji","C":["n"],"en":"messaging, texting"}
-{"L":"mesaji pronto","C":["n"],"en":"instant messaging"}
-{"L":"mesajor","C":["n"],"en":"messenger, courier"}
-{"T":"r","L":"mescal","C":["n","cos"],"d":"un bevida de alcol, distilada de la sava de un agave","en":"mescal, mezcal (drink)"}
-{"T":"r","L":"mescalina","C":["n","uma"],"d":"un droga enebriante cual produi alusinas, preparada de la cacto peote","en":"mescaline (drug)"}
-{"T":"r","L":"mescite","C":["n","pla"],"d":"un arboreta spinosa en familia de piso, trovada en la SUA sude-ueste e Mexico","i":"#","t":"Prosopis","en":"mesquite, mezquite (plant)"}
-{"T":"r","L":"mesensefalo","C":["n","anat"],"d":"un parte de la sistem de nervos, asosiada con vide, oia, controla de move, velia, e regula de temperatur","en":"midbrain, mesencephalon (anatomy)"}
-{"T":"r","L":"mesenterio","C":["n","anat"],"d":"un plia de la peritoneo cual afisa la stomaco, intestin magra, pancreas, spleno e otra organos a la mur posterior de la adomen","en":"mesentery (anatomy)"}
+{"T":"r","L":"mesa","C":["n","tera"],"d":"un colina isolida con un culmina plata e lados presipe, trovada en rejiones con stratos orizonal","en":"mesa (hill)","fr":"mesa (plateau)"}
+{"T":"r","L":"mesaje","C":["n","info","ling"],"d":"un comunica parlada, scriveda o rejistrada, enviada o lasada per un resetor ci on no pote contata direta","da":"meddelelse","de":"Botschaft","en":"message","es":"mensaje, nota, recado, comunicación","fr":"message, note, communication"}
+{"L":"mesaje pronto","C":["n"],"en":"instant message","fr":"message instantané"}
+{"L":"mesajeta","C":["n"],"en":"text message, text, SMS","fr":"texto, SMS"}
+{"L":"mesaji","C":["vt"],"en":"message, send as a message, text","fr":"envoyer un message"}
+{"L":"mesaji","C":["n"],"en":"messaging, texting","fr":"envoi d'un message"}
+{"L":"mesaji pronto","C":["n"],"en":"instant messaging","fr":"envoi d'un message instantané"}
+{"L":"mesajor","C":["n"],"en":"messenger, courier","fr":"messager, coursier"}
+{"T":"r","L":"mescal","C":["n","cos"],"d":"un bevida de alcol, distilada de la sava de un agave","en":"mescal, mezcal (drink)","fr":"mescal, mezcal"}
+{"T":"r","L":"mescalina","C":["n","uma"],"d":"un droga enebriante cual produi alusinas, preparada de la cacto peote","en":"mescaline (drug)","fr":"mescaline"}
+{"T":"r","L":"mescite","C":["n","pla"],"d":"un arboreta spinosa en familia de piso, trovada en la SUA sude-ueste e Mexico","i":"#","t":"Prosopis","en":"mesquite, mezquite (plant)","fr":"mesquite, prosopis (plante)"}
+{"T":"r","L":"mesensefalo","C":["n","anat"],"d":"un parte de la sistem de nervos, asosiada con vide, oia, controla de move, velia, e regula de temperatur","en":"midbrain, mesencephalon (anatomy)","fr":"mésencéphale"}
+{"T":"r","L":"mesenterio","C":["n","anat"],"d":"un plia de la peritoneo cual afisa la stomaco, intestin magra, pancreas, spleno e otra organos a la mur posterior de la adomen","en":"mesentery (anatomy)","fr":"mésentère"}
 {"T":"r","L":"mesma","C":["a","pren"],"d":"no diferente; no cambiada","n":"`Mesma` es tipal presededa par `la`, `esta` o `acel`.","da":"samme","de":"selbe, gleich","en":"same, identical","es":"mismo, igual","fr":"même"}
-{"L":"mesma","C":["av"],"d":"no otra ca (la presedente)","n":"La averbo `mesma` asentua forte la nom o pronom cual presede direta lo.","da":"selv","de":"selbst","en":"-self (emphasising the preceding noun or pronoun)","fr":"-même (accentuant le substantif ou pronom précédent)"}
-{"L":"el mesma","C":["pron"],"en":"he himself, she herself (non-reflexive)","es":"él mismo"}
-{"L":"en la mesma modo","C":["av"],"en":"in the same way"}
-{"L":"la re mesma","C":["n"],"en":"the king himself"}
-{"L":"lo es la mesma per cadun","C":["esp"],"en":"one size fits all"}
-{"L":"lo mesma","C":["pron"],"en":"it itself (non-reflexive)"}
-{"L":"los mesma","C":["pron"],"en":"they themselves (non-reflexive)"}
-{"L":"me mesma","C":["pron"],"en":"I myself (emphatic)","es":"mí mismo"}
-{"L":"nos mesma","C":["pron"],"en":"we ourselves (emphatic)"}
-{"L":"par sola se mesma","C":["av"],"en":"singlehandedly"}
-{"L":"se mesma","C":["pron"],"en":"himself, herself, itself, themselves (emphatically reflexive)"}
-{"L":"tu mesma","C":["pron"],"en":"you yourself"}
-{"L":"un sola mesma","C":["a","pren"],"en":"one and the same"}
-{"L":"vos mesma","C":["pron"],"en":"you yourselves"}
-{"T":"r","L":"meso-","C":["pf","tecn"],"d":"media","en":"meso- (middle)"}
-{"T":"r","L":"Mesoamerica","C":["n","jeo"],"d":"la rejion sentral de America, de Mexico sentral a Nicaragua, spesial como un rejion de sivilias antica e cultures nativa ante la ariva de la espanioles","en":"Mesoamerica"}
-{"L":"mesoamerican","C":["a"],"en":"Mesoamerican"}
-{"T":"r","L":"mesofilia","C":["n","bio"],"d":"la prefere par un organisme per abita en un ambiente de temperatur media","en":"mesophilia (biology)"}
-{"L":"mesofilica","C":["a"],"en":"mesophilic"}
-{"L":"mesofilica","C":["n"],"en":"mesophile"}
-{"T":"r","L":"mesolitica","C":["a","tera"],"d":"pertinente a la parte media de la eda de petra, entre la paleolitica e la neolitica","en":"Mesolithic (geology)"}
-{"L":"mesolitica","C":["n"],"en":"Mesolithic (geology)"}
-{"T":"r","L":"mesomisetozon","C":["n","bio"],"d":"un membro de un grupo peti de organismes entre fungos e animales, de cual la plu es parasitos de pexes o otra animales","i":"#","t":"Mesomycetozoea","en":"mesomycetozoon (pl. mesomycetomozoea) (organism)"}
-{"T":"r","L":"meson","C":["n","fis"],"d":"un particula suatomal cual ave un masa entre los de un eletron e un proton, e cual produi un interata forte cual lia nucleones a lunlotra en la nucleo atomal","en":"meson (particle)"}
-{"T":"r","L":"Mesopotamia","C":["n","jeo","ist"],"d":"un rejion de Asia sude-ueste antica, spesial entre la rios Tigris e Eufrates","i":"#","en":"Mesopotamia"}
-{"T":"r","L":"mesotelio","C":["n","anat"],"d":"la epitelio cual fore la pleuras, peritoneo e pericardio","en":"mesothelium (anatomy)"}
-{"L":"mesotelial","C":["a"],"en":"mesothelial"}
-{"T":"r","L":"mesotelioma","C":["n","med"],"d":"un canser de la texeda mesotelial, asosiada con esposa a asbesto","en":"mesothelioma"}
-{"T":"r","L":"mesozoica","C":["a","tera"],"d":"pertinente a la eda entre la paleozoica e senozoica, conteninte la triasica, jurasica e cretasica","en":"Mesozoic (geology)"}
-{"L":"mesozoica","C":["n"],"en":"Mesozoic (geology)"}
-{"T":"r","L":"mesozon","C":["n","bio"],"d":"un verme pico cual es un parasito interna de nonvertebratos maral","en":"mesozoan (worm)"}
-{"T":"r","L":"mestre","C":["n","gov"],"d":"un person con capasia en un arte o otra ativia, tipal instruinte otras; (istorial) un person per ci sclavos labora","en":"master; teacher, mentor; maestro, virtuoso","fr":"maître (qui a le savoir)"}
-{"L":"mestre de selebras","C":["n"],"en":"master of ceremonies, MC, emcee, showman"}
-{"L":"mestral","C":["a"],"en":"master"}
-{"L":"mestresa","C":["n"],"d":"(istorial) un mestre fema","en":"mistress"}
-{"L":"mestri","C":["vt"],"en":"master"}
-{"L":"mestria","C":["n"],"en":"mastery"}
-{"L":"mestrin","C":["a"],"en":"masterful, masterly"}
+{"L":"mesma","C":["av"],"d":"no otra ca (la presedente)","n":"La averbo `mesma` asentua forte la nom o pronom cual presede direta lo.","da":"selv","de":"selbst","en":"-self (emphasising the preceding noun or pronoun)","fr":"-même (accentuant le pronom précédent), même (accentuant le substantif précédent)"}
+{"L":"el mesma","C":["pron"],"en":"he himself, she herself (non-reflexive)","es":"él mismo","fr":"lui-même, elle-même"}
+{"L":"en la mesma modo","C":["av"],"en":"in the same way","fr":"de même, de la même façon, ainsi, aussi, de la même manière, de la sorte, pareillement, partant"}
+{"L":"la re mesma","C":["n"],"en":"the king himself","fr":"le roi lui-même"}
+{"L":"lo es la mesma per cadun","C":["esp"],"en":"one size fits all","fr":"c'est ainsi pour tout le monde"}
+{"L":"lo mesma","C":["pron"],"en":"it itself (non-reflexive)","fr":"cela même"}
+{"L":"los mesma","C":["pron"],"en":"they themselves (non-reflexive)","fr":"eux-mêmes, elles-mêmes"}
+{"L":"me mesma","C":["pron"],"en":"I myself (emphatic)","es":"mí mismo","fr":"moi-même"}
+{"L":"nos mesma","C":["pron"],"en":"we ourselves (emphatic)","fr":"nous-mêmes"}
+{"L":"par sola se mesma","C":["av"],"en":"singlehandedly","fr":"par soi-même, tout seul, toute seule"}
+{"L":"se mesma","C":["pron"],"en":"himself, herself, itself, themselves (emphatically reflexive)","fr":"soi-même, lui-même, elle-même"}
+{"L":"tu mesma","C":["pron"],"en":"you yourself","fr":"toi-même, vous-même"}
+{"L":"un sola mesma","C":["a","pren"],"en":"one and the same","fr":"un seul et même, une seule et même"}
+{"L":"vos mesma","C":["pron"],"en":"you yourselves","fr":"toi-même"}
+{"T":"r","L":"meso-","C":["pf","tecn"],"d":"media","en":"meso- (middle)","fr":"méso-"}
+{"T":"r","L":"Mesoamerica","C":["n","jeo"],"d":"la rejion sentral de America, de Mexico sentral a Nicaragua, spesial como un rejion de sivilias antica e cultures nativa ante la ariva de la espanioles","en":"Mesoamerica","fr":"Mésoamérique, Méso-Amérique"}
+{"L":"mesoamerican","C":["a"],"en":"Mesoamerican","fr":"mésoaméricain"}
+{"T":"r","L":"mesofilia","C":["n","bio"],"d":"la prefere par un organisme per abita en un ambiente de temperatur media","en":"mesophilia (biology)","fr":"mésophilie"}
+{"L":"mesofilica","C":["a"],"en":"mesophilic","fr":"mésophile"}
+{"L":"mesofilica","C":["n"],"en":"mesophile","fr":"mésophile"}
+{"T":"r","L":"mesolitica","C":["a","tera"],"d":"pertinente a la parte media de la eda de petra, entre la paleolitica e la neolitica","en":"Mesolithic (geology)","fr":"Mésolithique"}
+{"L":"mesolitica","C":["n"],"en":"Mesolithic (geology)","fr":"mésolithique"}
+{"T":"r","L":"mesomisetozon","C":["n","bio"],"d":"un membro de un grupo peti de organismes entre fungos e animales, de cual la plu es parasitos de pexes o otra animales","i":"#","t":"Mesomycetozoea","en":"mesomycetozoon (pl. mesomycetomozoea) (organism)","fr":"mésomycétozoaire"}
+{"T":"r","L":"meson","C":["n","fis"],"d":"un particula suatomal cual ave un masa entre los de un eletron e un proton, e cual produi un interata forte cual lia nucleones a lunlotra en la nucleo atomal","en":"meson (particle)","fr":"méson"}
+{"T":"r","L":"Mesopotamia","C":["n","jeo","ist"],"d":"un rejion de Asia sude-ueste antica, spesial entre la rios Tigris e Eufrates","i":"#","en":"Mesopotamia","fr":"Mésopotamie"}
+{"T":"r","L":"mesotelio","C":["n","anat"],"d":"la epitelio cual fore la pleuras, peritoneo e pericardio","en":"mesothelium (anatomy)","fr":"mésothélium"}
+{"L":"mesotelial","C":["a"],"en":"mesothelial","fr":"mésothélial"}
+{"T":"r","L":"mesotelioma","C":["n","med"],"d":"un canser de la texeda mesotelial, asosiada con esposa a asbesto","en":"mesothelioma","fr":"mésothéliome"}
+{"T":"r","L":"mesozoica","C":["a","tera"],"d":"pertinente a la eda entre la paleozoica e senozoica, conteninte la triasica, jurasica e cretasica","en":"Mesozoic (geology)","fr":"Mésozoïque"}
+{"L":"mesozoica","C":["n"],"en":"Mesozoic (geology)","fr":"mésozoïque"}
+{"T":"r","L":"mesozon","C":["n","bio"],"d":"un verme pico cual es un parasito interna de nonvertebratos maral","en":"mesozoan (worm)","fr":"mésozoaire"}
+{"T":"r","L":"mestre","C":["n","gov"],"d":"un person con capasia en un arte o otra ativia, tipal instruinte otras; (istorial) un person per ci sclavos labora","en":"master; teacher, mentor; maestro, virtuoso","fr":"maître (qui a le savoir); maestro, virtuose"}
+{"L":"mestre de selebras","C":["n"],"en":"master of ceremonies, MC, emcee, showman","fr":"maître de cérémonie"}
+{"L":"mestral","C":["a"],"en":"master","fr":"magistral"}
+{"L":"mestresa","C":["n"],"d":"(istorial) un mestre fema","en":"mistress","fr":"maîtresse"}
+{"L":"mestri","C":["vt"],"en":"master","fr":"maîtriser"}
+{"L":"mestria","C":["n"],"en":"mastery","fr":"maîtrise"}
+{"L":"mestrin","C":["a"],"en":"masterful, masterly","fr":"magistral"}
 {"T":"r","L":"mesura","C":["vt","mat"],"d":"trova la grandia, cuantia o grado de (alga cosa) par usa un strumento o aparato marcada con unias normal o par compara lo con un ojeto de grandia conoseda","da":"måle","de":"messen","en":"measure","es":"medir","fr":"mesurer"}
-{"L":"mesura","C":["n"],"en":"measure, measurement, dimension; bar (music)"}
-{"L":"mesurable","C":["a"],"en":"measurable"}
-{"L":"mesurador","C":["n"],"en":"measuring device, meter, gauge"}
-{"L":"mesuras","C":["n","pl"],"en":"measurements, dimensions"}
-{"L":"nonmesurable","C":["a"],"en":"immeasurable, unfathomable"}
-{"L":"nonmesurada","C":["a"],"en":"unmeasured"}
-{"T":"r","L":"met-","C":["pf","tecn","cim"],"d":"nominte alcanos e otra idrocarbonos con un atom de carbono","en":"meth- (chemistry)"}
-{"T":"r","L":"meta-","C":["pf","tecn"],"d":"indicante un nivel plu alta o transendente; ance usada en modos diversa en termas tecnical","en":"meta-"}
-{"T":"r","L":"metaboli","C":["vnt","bio"],"d":"(comeda) muta en la corpo per manteni la vive","en":"metabolize|is"}
-{"L":"metaboli","C":["vt"],"en":"metabolize|is"}
-{"L":"metaboli","C":["n"],"en":"metabolism"}
-{"L":"metabolal","C":["a"],"en":"metabolic"}
-{"T":"r","L":"metabolite","C":["n","bio"],"d":"un materia formida en o nesesada per metaboli","en":"metabolite (biology)"}
-{"T":"r","L":"metacarpo","C":["n","anat"],"d":"la grupo de sinco osos en la mano, entre la polso e la ditos","en":"metacarpus (bones)"}
-{"L":"metacarpal","C":["a"],"en":"metacarpal"}
-{"T":"r","L":"metacualona","C":["n","med"],"d":"un medisin calminte e adorminte","en":"methaqualone, quaalude (drug)"}
-{"T":"r","L":"metadatos","C":["n","pl","info"],"d":"datos cual descrive e furni informa sur otra datos, per esemplo en un catalogo de documentos","en":"metadata"}
-{"T":"r","L":"metadon","C":["n","med"],"d":"un paradole sinteseda, simil a morfina, usada per trata la usa abitual de morfina o eroina","en":"methadone (painkiller)"}
-{"T":"r","L":"metafase","C":["n","bio"],"d":"la fase du de la divide de selulas","en":"metaphase"}
-{"T":"r","L":"metafisica","C":["n","fil"],"d":"la ramo de filosofia cual studia la prinsipes prima de cosas, incluinte consetas astrata como esiste, sabe, materia, causa, identia, tempo e spasio","en":"metaphysics"}
-{"L":"metafisical","C":["a"],"en":"metaphysical"}
-{"L":"metafisiciste","C":["n"],"en":"metaphysician"}
-{"T":"r","L":"metafor","C":["a","ling"],"d":"(un parola o espresa) pertinente a un ojeto a cual lo no es leteral aplicable; (un cosa) videda como un representa o simbol de un otra, tipal astrata","en":"metaphorical, metaphoric, figurative"}
-{"L":"metafor","C":["n"],"en":"metaphor, trope"}
+{"L":"mesura","C":["n"],"en":"measure, measurement, dimension; bar (music)","fr":"mesure, dimension; mesure (musique)"}
+{"L":"mesurable","C":["a"],"en":"measurable","fr":"mesurable"}
+{"L":"mesurador","C":["n"],"en":"measuring device, meter, gauge","fr":"instrument de mesure, mètre, gabarit"}
+{"L":"mesuras","C":["n","pl"],"en":"measurements, dimensions","fr":"mesures, dimensions"}
+{"L":"nonmesurable","C":["a"],"en":"immeasurable, unfathomable","fr":"non mesurable, incommensurable"}
+{"L":"nonmesurada","C":["a"],"en":"unmeasured","fr":"non mesuré"}
+{"T":"r","L":"met-","C":["pf","tecn","cim"],"d":"nominte alcanos e otra idrocarbonos con un atom de carbono","en":"meth- (chemistry)","fr":"meth-"}
+{"T":"r","L":"meta-","C":["pf","tecn"],"d":"indicante un nivel plu alta o transendente; ance usada en modos diversa en termas tecnical","en":"meta-","fr":"méta-"}
+{"T":"r","L":"metaboli","C":["vnt","bio"],"d":"(comeda) muta en la corpo per manteni la vive","en":"metabolize|is","fr":"se métaboliser"}
+{"L":"metaboli","C":["vt"],"en":"metabolize|is","fr":"métaboliser"}
+{"L":"metaboli","C":["n"],"en":"metabolism","fr":"métabolisme"}
+{"L":"metabolal","C":["a"],"en":"metabolic","fr":"métabolique"}
+{"T":"r","L":"metabolite","C":["n","bio"],"d":"un materia formida en o nesesada per metaboli","en":"metabolite (biology)","fr":"métabolite"}
+{"T":"r","L":"metacarpo","C":["n","anat"],"d":"la grupo de sinco osos en la mano, entre la polso e la ditos","en":"metacarpus (bones)","fr":"métacarpe"}
+{"L":"metacarpal","C":["a"],"en":"metacarpal","fr":"métacarpien"}
+{"T":"r","L":"metacualona","C":["n","med"],"d":"un medisin calminte e adorminte","en":"methaqualone, quaalude (drug)","fr":"méthaqualone"}
+{"T":"r","L":"metadatos","C":["n","pl","info"],"d":"datos cual descrive e furni informa sur otra datos, per esemplo en un catalogo de documentos","en":"metadata","fr":"métadonnées"}
+{"T":"r","L":"metadon","C":["n","med"],"d":"un paradole sinteseda, simil a morfina, usada per trata la usa abitual de morfina o eroina","en":"methadone (painkiller)","fr":"méthadone"}
+{"T":"r","L":"metafase","C":["n","bio"],"d":"la fase du de la divide de selulas","en":"metaphase","fr":"métaphase"}
+{"T":"r","L":"metafisica","C":["n","fil"],"d":"la ramo de filosofia cual studia la prinsipes prima de cosas, incluinte consetas astrata como esiste, sabe, materia, causa, identia, tempo e spasio","en":"metaphysics","fr":"métaphysique"}
+{"L":"metafisical","C":["a"],"en":"metaphysical","fr":"métaphysique"}
+{"L":"metafisiciste","C":["n"],"en":"metaphysician","fr":"métaphysicien"}
+{"T":"r","L":"metafor","C":["a","ling"],"d":"(un parola o espresa) pertinente a un ojeto a cual lo no es leteral aplicable; (un cosa) videda como un representa o simbol de un otra, tipal astrata","en":"metaphorical, metaphoric, figurative","fr":"métaphorique, figuré"}
+{"L":"metafor","C":["n"],"en":"metaphor, trope","fr":"métaphore"}
 {"T":"r","L":"metal","C":["a","fis"],"d":"(un materia) solida, tipal dur, briliante, martelable, fusable, e formable sin rompe o frati","en":"metal, metallic","fr":"en métal, métallique"}
 {"L":"metal","C":["n"],"da":"metal","de":"Metall","en":"metal","es":"metal","fr":"métal"}
-{"L":"metal resiclable","C":["n"],"en":"scrap, scrap metal"}
-{"L":"arte de metal","C":["n"],"en":"metalwork, metalworking"}
-{"L":"metalin","C":["a"],"en":"metallic, metal-like"}
-{"L":"metalor","C":["n"],"en":"metalworker"}
-{"L":"nonmetal","C":["a"],"en":"non-metal"}
-{"L":"nonmetal","C":["n"],"en":"non-metal"}
-{"T":"r","L":"metalurjia","C":["n","fis"],"d":"la ramo de siensa e tecnolojia cual studia la cualias de metales e sua produi e puri","en":"metallurgy"}
-{"L":"metalurjial","C":["a"],"en":"metallurgical"}
-{"L":"metalurjiste","C":["n"],"en":"metallurgist"}
-{"T":"r","L":"metamfetamina","C":["n","cim"],"d":"un droga sinteseda con efetos plu forte ca amfetamina","en":"methamphetamine, meth"}
+{"L":"metal resiclable","C":["n"],"en":"scrap, scrap metal","fr":"ferraille, métal recyclable"}
+{"L":"arte de metal","C":["n"],"en":"metalwork, metalworking","fr":"ferronnerie"}
+{"L":"metalin","C":["a"],"en":"metallic, metal-like","fr":"métallique, semblable au métal"}
+{"L":"metalor","C":["n"],"en":"metalworker","fr":"ferronnier"}
+{"L":"nonmetal","C":["a"],"en":"non-metal","fr":"non métallique"}
+{"L":"nonmetal","C":["n"],"en":"non-metal","fr":"matière non métallique"}
+{"T":"r","L":"metalurjia","C":["n","fis"],"d":"la ramo de siensa e tecnolojia cual studia la cualias de metales e sua produi e puri","en":"metallurgy","fr":"métallurgie"}
+{"L":"metalurjial","C":["a"],"en":"metallurgical","fr":"métallurgique"}
+{"L":"metalurjiste","C":["n"],"en":"metallurgist","fr":"métallurgiste"}
+{"T":"r","L":"metamfetamina","C":["n","cim"],"d":"un droga sinteseda con efetos plu forte ca amfetamina","en":"methamphetamine, meth","fr":"méthamphétamine"}
 {"T":"r","L":"metano","C":["n","cim"],"d":"un gas flamable sin color e odor, cual es la composante xef de gas natural","en":"methane","fr":"méthane"}
-{"T":"r","L":"metanol","C":["n","cim"],"d":"un alcol venenosa, flamable, volatil e sin color, fabricada par distila de lenio o par osidi metano","en":"methanol"}
-{"T":"r","L":"metastase","C":["vnt","med"],"d":"(un canser) apare como un crese nova, a distantia de la loca de la crese prima","en":"metastasize|is (medical)"}
-{"L":"metastase","C":["n"],"en":"metastasis"}
-{"T":"r","L":"metatarso","C":["n","anat"],"d":"la grupo de osos en la pede, entre la talo e la ditos","en":"metatarsus (bones)"}
-{"L":"metatarsal","C":["a"],"en":"metatarsal"}
-{"T":"r","L":"metatese","C":["vnt","ling","cim"],"d":"(fonemes o leteras) intercambia sua locas en un parola; (du composadas cimical) intercambia iones","en":"metathesize|is"}
-{"L":"metatese","C":["n"],"en":"metathesis"}
-{"T":"r","L":"metazon","C":["n"],"d":"un divide major de la rena de animales, composada de tota animales estra la protozones e sponjas, per dise animales multiselulal con texedas distinguida","t":"Metazoa, Animalia","en":"metazoon (pl. metazoa) (member of the animal kingdom)"}
-{"T":"r","L":"meteor","C":["n","ast"],"d":"un corpo peti de materia de spasio cual entra a la atmosfera de tera, incandesente como un resulta de frica e aspetante como un banda de lus","en":"meteor"}
-{"L":"meteorin","C":["a"],"en":"meteoric"}
-{"T":"r","L":"meteorite","C":["n","ast"],"d":"un meteor cual ia survive sua pasaje tra la atmosfera e ia colpa la tera","en":"meteorite"}
-{"T":"r","L":"meteorolojia","C":["n","tera"],"d":"un siensa cual studia la prosedes e fenomenos de la atmosfera, tipal per predise la clima local","en":"meteorology"}
-{"L":"meteorolojial","C":["a"],"en":"meteorological"}
-{"L":"meteorolojiste","C":["n"],"en":"meteorologist"}
-{"T":"r","L":"metil","C":["n"],"d":"la radical {-CH₃}, derivada de metano e presente en multe composadas organica","en":"methyl (chemistry)"}
+{"T":"r","L":"metanol","C":["n","cim"],"d":"un alcol venenosa, flamable, volatil e sin color, fabricada par distila de lenio o par osidi metano","en":"methanol","fr":"méthanol"}
+{"T":"r","L":"metastase","C":["vnt","med"],"d":"(un canser) apare como un crese nova, a distantia de la loca de la crese prima","en":"metastasize|is (medical)","fr":"se métastaser"}
+{"L":"metastase","C":["n"],"en":"metastasis","fr":"métastase"}
+{"T":"r","L":"metatarso","C":["n","anat"],"d":"la grupo de osos en la pede, entre la talo e la ditos","en":"metatarsus (bones)","fr":"métatarse"}
+{"L":"metatarsal","C":["a"],"en":"metatarsal","fr":"métatarsien"}
+{"T":"r","L":"metatese","C":["vnt","ling","cim"],"d":"(fonemes o leteras) intercambia sua locas en un parola; (du composadas cimical) intercambia iones","en":"metathesize|is","fr":"subir une métathèse"}
+{"L":"metatese","C":["n"],"en":"metathesis","fr":"métathèse"}
+{"T":"r","L":"metazon","C":["n"],"d":"un divide major de la rena de animales, composada de tota animales estra la protozones e sponjas, per dise animales multiselulal con texedas distinguida","t":"Metazoa, Animalia","en":"metazoon (pl. metazoa) (member of the animal kingdom)","fr":"métazoaire"}
+{"T":"r","L":"meteor","C":["n","ast"],"d":"un corpo peti de materia de spasio cual entra a la atmosfera de tera, incandesente como un resulta de frica e aspetante como un banda de lus","en":"meteor","fr":"météore"}
+{"L":"meteorin","C":["a"],"en":"meteoric","fr":"météorique"}
+{"T":"r","L":"meteorite","C":["n","ast"],"d":"un meteor cual ia survive sua pasaje tra la atmosfera e ia colpa la tera","en":"meteorite","fr":"météorite"}
+{"T":"r","L":"meteorolojia","C":["n","tera"],"d":"un siensa cual studia la prosedes e fenomenos de la atmosfera, tipal per predise la clima local","en":"meteorology","fr":"météorologie"}
+{"L":"meteorolojial","C":["a"],"en":"meteorological","fr":"météorologique"}
+{"L":"meteorolojiste","C":["n"],"en":"meteorologist","fr":"météorologiste"}
+{"T":"r","L":"metil","C":["n"],"d":"la radical {-CH₃}, derivada de metano e presente en multe composadas organica","en":"methyl (chemistry)","fr":"méthyl"}
 {"T":"r","L":"metodo","C":["n","fil","rel"],"d":"un modo spesifada per fa alga cosa, tipal sistemosa o bon fundida","da":"metode, måde, teknik","de":"Methode","en":"method, manner, way, technique, means, approach","es":"método, manera, modo, forma (de hacer), técnica","fr":"méthode"}
-{"L":"metodisme","C":["n"],"en":"Methodism (Christianity)"}
-{"L":"metodiste","C":["a"],"en":"Methodist"}
-{"L":"metodiste","C":["n"],"en":"Methodist"}
-{"L":"metodosa","C":["a"],"en":"methodical"}
-{"L":"par sua propre metodo","C":["av"],"en":"on one's own terms"}
-{"T":"r","L":"metodolojia","C":["n","fil"],"d":"un sistem de metodos usada en un campo de studia o investiga","en":"methodology"}
-{"L":"metodolojial","C":["a","fil"],"en":"methodological"}
-{"T":"r","L":"metonim","C":["a","ling"],"d":"(un parola, nom o espresa) sustituinte per un otra cosa con cual lo es prosima asosiada","en":"metonym (substitution of name)"}
-{"L":"metonimia","C":["n"],"en":"metonymy"}
-{"T":"r","L":"metraje","C":["n","arte"],"d":"un colie de pesos de filma rejistrada, tipal ante edita los","en":"footage (film)"}
+{"L":"metodisme","C":["n"],"en":"Methodism (Christianity)","fr":"méthodisme"}
+{"L":"metodiste","C":["a"],"en":"Methodist","fr":"méthodiste"}
+{"L":"metodiste","C":["n"],"en":"Methodist","fr":"méthodiste"}
+{"L":"metodosa","C":["a"],"en":"methodical","fr":"méthodique"}
+{"L":"par sua propre metodo","C":["av"],"en":"on one's own terms","fr":"selon ses propres méthodes"}
+{"T":"r","L":"metodolojia","C":["n","fil"],"d":"un sistem de metodos usada en un campo de studia o investiga","en":"methodology","fr":"méthodologie"}
+{"L":"metodolojial","C":["a","fil"],"en":"methodological","fr":"méthodologique"}
+{"T":"r","L":"metonim","C":["a","ling"],"d":"(un parola, nom o espresa) sustituinte per un otra cosa con cual lo es prosima asosiada","en":"metonym (substitution of name)","fr":"métonyme"}
+{"L":"metonimia","C":["n"],"en":"metonymy","fr":"métonymie"}
+{"T":"r","L":"metraje","C":["n","arte"],"d":"un colie de pesos de filma rejistrada, tipal ante edita los","en":"footage (film)","fr":"footage, extraits (cinéma)"}
 {"T":"r","L":"metre","C":["n"],"d":"la unia fundal de longia en la sistem internasional; la ritmo de un poesia","en":"meter|re (unit of length, poetry)","fr":"mètre"}
-{"L":"cilometre","C":["n"],"en":"kilometer|re"}
-{"L":"cilometres","C":["n","pl"],"en":"mileage (distance traveled|ll)"}
-{"L":"decametre","C":["n"],"en":"decameter|re"}
-{"L":"desimetre","C":["n"],"en":"decimeter|re"}
-{"L":"ectometre","C":["n"],"en":"hectometer|re"}
-{"L":"metral","C":["a"],"en":"metric"}
-{"L":"micrometre","C":["n"],"d":"un milioni de un metre; un aparato per mesura distantia o angulos multe peti, usante un spesie de vise","en":"micrometer|re (unit of length); micrometer (measuring tool)"}
-{"L":"milimetre","C":["n"],"en":"millimeter|re"}
-{"L":"nanometre","C":["n"],"en":"nanometer|re"}
-{"L":"nonmetral","C":["a"],"en":"non-metric, imperial"}
-{"L":"sentimetre","C":["n"],"en":"centimeter|re"}
-{"T":"r","L":"-metre","C":["sf","n","util"],"d":"util o aparato de mesura","en":"-meter (measuring tool)"}
-{"L":"-metri","C":["sf","vt"],"d":"usa la util o aparato indicada per mesura (alga cosa)","u":"cronometri, telemetri","en":"measure"}
-{"T":"r","L":"-metria","C":["sf","n","mat"],"d":"mesura","en":"-metry (measuring)"}
+{"L":"cilometre","C":["n"],"en":"kilometer|re","fr":"kilomètre"}
+{"L":"cilometres","C":["n","pl"],"en":"mileage (distance traveled|ll)","fr":"kilométrage"}
+{"L":"decametre","C":["n"],"en":"decameter|re","fr":"décamètre"}
+{"L":"desimetre","C":["n"],"en":"decimeter|re","fr":"décimètre"}
+{"L":"ectometre","C":["n"],"en":"hectometer|re","fr":"hectomètre"}
+{"L":"metral","C":["a"],"en":"metric","fr":"métrique"}
+{"L":"micrometre","C":["n"],"d":"un milioni de un metre; un aparato per mesura distantia o angulos multe peti, usante un spesie de vise","en":"micrometer|re (unit of length); micrometer (measuring tool)","fr":"micron, micromètre"}
+{"L":"milimetre","C":["n"],"en":"millimeter|re","fr":"millimètre"}
+{"L":"nanometre","C":["n"],"en":"nanometer|re","fr":"nanomètre"}
+{"L":"nonmetral","C":["a"],"en":"non-metric, imperial","fr":"non métrique, qui n'appartient pas au système métrique"}
+{"L":"sentimetre","C":["n"],"en":"centimeter|re","fr":"centimètre"}
+{"T":"r","L":"-metre","C":["sf","n","util"],"d":"util o aparato de mesura","en":"-meter (measuring tool)","fr":"-mètre (outil de mesure)"}
+{"L":"-metri","C":["sf","vt"],"d":"usa la util o aparato indicada per mesura (alga cosa)","u":"cronometri, telemetri","en":"measure","fr":"-métrer (mesurer)"}
+{"T":"r","L":"-metria","C":["sf","n","mat"],"d":"mesura","en":"-metry (measuring)","fr":"-métrie"}
 {"T":"r","L":"metro","C":["n","vec"],"d":"un ferovia su tera","i":"#","en":"underground, subway (railway)","fr":"métro"}
-{"T":"r","L":"metronomo","C":["n","util","mus"],"d":"un aparato usada par musicistes per indica la tempo par tictacis o luses periodal","i":"#","en":"metronome"}
+{"T":"r","L":"metronomo","C":["n","util","mus"],"d":"un aparato usada par musicistes per indica la tempo par tictacis o luses periodal","i":"#","en":"metronome","fr":"métronome"}
 {"T":"r","L":"mexa","C":["n","util"],"d":"un colie peti de capeles, fibres, erba, etc; un banda de materia porosa tra cual licuida combustable es traeda a la flama de un candela, lampa, etc; un banda de materia longo cual un flama move per esplode un bomba o foco artal","i":"#","en":"lock (hair), tuft, hank, wisp; wick; fuse (bomb)","fr":"mèche"}
-{"L":"con mexa","C":["a"],"en":"tufted"}
-{"L":"mexin","C":["a"],"en":"tuftlike, tufty"}
-{"L":"mexon","C":["n"],"en":"tress, long lock (hair)"}
-{"T":"r","L":"Mexico","C":["n","jeo"],"c":"la Site Mexico","d":"un pais en America Norde sude-ueste con costas longa a la Mar Mexico e la Mar Pasifica, a sude de la SUA","i":"#","en":"Mexico"}
-{"L":"Golfo Mexico","C":["n","jeo"],"d":"un estende grande de la Mar Atlantica ueste, con la SUA a norde, Mexico a ueste e sude, e Cuba a sude-este","i":"#","en":"Gulf of Mexico"}
-{"L":"mexican","C":["a"],"en":"Mexican"}
-{"L":"mexican","C":["n","dem"],"en":"Mexican"}
-{"L":"Mexico Nova","C":["n","jeo"],"d":"un stato en la SUA sude-ueste, bordante Mexico","en":"New Mexico (US state)"}
-{"T":"r","L":"mezuza","C":["n","rel"],"d":"un pergamin enscriveda con testos relijiosa e afisada en un caxa a la palo de porte de un casa iudi","en":"mezuzah (parchment)"}
-{"T":"r","L":"mi","C":["n","mus"],"d":"la nota tre de la scala de C major, E, en la sistem de solfejo","en":"mi (musical note)","fr":"mi"}
-{"T":"r","L":"Miama","C":["n","jeo"],"c":"Nay Pyi Taw","d":"un pais en Asia sude-este a la Golfo Bengala","i":"#","v":"Burma","en":"Myanmar, Burma"}
-{"L":"miama","C":["a"],"v":"burman","en":"Burmese (person, language)"}
-{"L":"miama","C":["n"],"en":"Burmese (person, language)"}
-{"T":"r","L":"miasma","C":["n","cim"],"d":"un aira nonsana, odorosa e contaminada","en":"miasma (vapor|ur)"}
-{"T":"r","L":"miastenia","C":["n","med"],"d":"un malada cual causa un debilia nonormal de alga musculos","en":"myasthenia (medical)"}
-{"T":"r","L":"miau","C":["esc","onom"],"d":"la sona fada par un gato","en":"miaow, meow"}
-{"L":"miaui","C":["vnt"],"en":"miaow, meow, mew"}
-{"T":"r","L":"miau-iau","C":["a","dem"],"d":"pertinente a un popla tradisional abitante en viletas isolida en la montanias de Asia sude-este, o a sua lingua","en":"Miao-Yao, Hmong-Mien (person, language)"}
-{"L":"miau-iau","C":["n"],"en":"Miao-Yao, Hmong-Mien (person, language)"}
-{"T":"r","L":"mica","C":["n","tera"],"d":"un mineral briliante de silica, con stratos peti, usada como un isolinte","i":"#","en":"mica (mineral)"}
-{"T":"r","L":"Michigan","C":["n","jeo"],"d":"un stato en la SUA norde-sentral, con bordas a la Lago Michigan e la Lago Superior","p":"míxigan","en":"Michigan (US state)"}
-{"L":"Lago Michigan","C":["n","jeo"],"d":"un de la sinco Lagos Grande de America Norde","i":"#","en":"Lake Michigan"}
-{"T":"r","L":"micolojia","C":["n"],"d":"la studia siensal de fungos","en":"mycology"}
-{"L":"micolojial","C":["a"],"en":"mycological"}
-{"L":"micolojiste","C":["n"],"en":"mycologist"}
-{"T":"r","L":"micose","C":["n","med"],"d":"un maladia de infeta par un fungo","en":"mycosis"}
-{"L":"micosica","C":["a"],"en":"mycotic"}
-{"T":"r","L":"micro-","C":["pf","tecn"],"d":"peti; {10⁻⁶}","en":"micro- (small, a millionth)"}
-{"T":"r","L":"microarciteta","C":["n","info"],"d":"(en informatica) la desinia de la reali de la lojica fundal en un prosedador","en":"microarchitecture"}
-{"T":"r","L":"microbio","C":["n","bio","info"],"d":"un organisme multe peti, como un ameba, bateria o virus; un malfunsiona de un aparato, subita e tipal tempora","en":"microbe, bug, germ, virus; glitch, defect (electronic)"}
-{"L":"antimicrobial","C":["a","med"],"en":"antimicrobial, antibiotic, antiseptic, germicide"}
-{"L":"antimicrobial","C":["n","med"],"d":"un medisin per mata microbios","en":"antimicrobial, antibiotic, antiseptic, germicide"}
-{"L":"sin microbios","C":["a"],"en":"germfree"}
-{"L":"supramicrobio","C":["n"],"d":"un patojen capas de resiste multe antimicrobiales","en":"superbug"}
-{"T":"r","L":"microbiolojia","C":["n","bio"],"d":"la ramo de siensa cual studia microbios","en":"microbiology"}
-{"L":"microbiolojiste","C":["n"],"en":"microbiologist"}
-{"T":"r","L":"microbireria","C":["n"],"d":"un bireria autonom cual produi bir en cuantias peti","en":"microbrewery, craft brewery"}
-{"T":"r","L":"microcosmo","C":["n","fil"],"d":"un loca, situa o comunia regardada como un esemplo miniatur de un cosa multe plu grande","en":"microcosm"}
-{"T":"r","L":"microcredito","C":["n","mone"],"d":"la presta de cuantias peti de mone con interesa basa a un comersia nova en la mundo developante","en":"microcredit"}
-{"T":"r","L":"microfilma","C":["n","util"],"d":"un filma conteninte fotos peti de pajes de un jornal, catalogo o otra documento, multe usada per arcivi informas ante la eda de computadores","en":"microfilm"}
+{"L":"con mexa","C":["a"],"en":"tufted","fr":"pourvu d'une mèche"}
+{"L":"mexin","C":["a"],"en":"tuftlike, tufty","fr":"en forme de mèche"}
+{"L":"mexon","C":["n"],"en":"tress, long lock (hair)","fr":"tresse, longue mèche"}
+{"T":"r","L":"Mexico","C":["n","jeo"],"c":"la Site Mexico","d":"un pais en America Norde sude-ueste con costas longa a la Mar Mexico e la Mar Pasifica, a sude de la SUA","i":"#","en":"Mexico","fr":"Mexique"}
+{"L":"Golfo Mexico","C":["n","jeo"],"d":"un estende grande de la Mar Atlantica ueste, con la SUA a norde, Mexico a ueste e sude, e Cuba a sude-este","i":"#","en":"Gulf of Mexico","fr":"golfe du Mexique"}
+{"L":"mexican","C":["a"],"en":"Mexican","fr":"mexicain"}
+{"L":"mexican","C":["n","dem"],"en":"Mexican","fr":"Mexicain"}
+{"L":"Mexico Nova","C":["n","jeo"],"d":"un stato en la SUA sude-ueste, bordante Mexico","en":"New Mexico (US state)","fr":"Nouveau-Mexique (État des USA)"}
+{"T":"r","L":"mezuza","C":["n","rel"],"d":"un pergamin enscriveda con testos relijiosa e afisada en un caxa a la palo de porte de un casa iudi","en":"mezuzah (parchment)","fr":"mezouzah"}
+{"T":"r","L":"mi","C":["n","mus"],"d":"la nota tre de la scala de C major, E, en la sistem de solfejo","en":"mi (musical note)","fr":"mi (note de la gamme)"}
+{"T":"r","L":"Miama","C":["n","jeo"],"c":"Nay Pyi Taw","d":"un pais en Asia sude-este a la Golfo Bengala","i":"#","v":"Burma","en":"Myanmar, Burma","fr":"Birmanie, Myanmar"}
+{"L":"miama","C":["a"],"v":"burman","en":"Burmese (person, language)","fr":"birman"}
+{"L":"miama","C":["n"],"en":"Burmese (person, language)","fr":"Birman (personne); birman (langue)"}
+{"T":"r","L":"miasma","C":["n","cim"],"d":"un aira nonsana, odorosa e contaminada","en":"miasma (vapor|ur)","fr":"miasme"}
+{"T":"r","L":"miastenia","C":["n","med"],"d":"un malada cual causa un debilia nonormal de alga musculos","en":"myasthenia (medical)","fr":"myasthénie"}
+{"T":"r","L":"miau","C":["esc","onom"],"d":"la sona fada par un gato","en":"miaow, meow","fr":"miaou"}
+{"L":"miaui","C":["vnt"],"en":"miaow, meow, mew","fr":"miauler"}
+{"T":"r","L":"miau-iau","C":["a","dem"],"d":"pertinente a un popla tradisional abitante en viletas isolida en la montanias de Asia sude-este, o a sua lingua","en":"Miao-Yao, Hmong-Mien (person, language)","fr":"hmong-mien, miao-yao"}
+{"L":"miau-iau","C":["n"],"en":"Miao-Yao, Hmong-Mien (person, language)","fr":"Hmong-Mien, Miao-Yao (personne); hmong-mien, miao-yao (langue)"}
+{"T":"r","L":"mica","C":["n","tera"],"d":"un mineral briliante de silica, con stratos peti, usada como un isolinte","i":"#","en":"mica (mineral)","fr":"mica (minéral)"}
+{"T":"r","L":"Michigan","C":["n","jeo"],"d":"un stato en la SUA norde-sentral, con bordas a la Lago Michigan e la Lago Superior","p":"míxigan","en":"Michigan (US state)","fr":"Michigan (État des USA)"}
+{"L":"Lago Michigan","C":["n","jeo"],"d":"un de la sinco Lagos Grande de America Norde","i":"#","en":"Lake Michigan","fr":"lac Michigan"}
+{"T":"r","L":"micolojia","C":["n"],"d":"la studia siensal de fungos","en":"mycology","fr":"mycologie"}
+{"L":"micolojial","C":["a"],"en":"mycological","fr":"mycologique"}
+{"L":"micolojiste","C":["n"],"en":"mycologist","fr":"mycologue"}
+{"T":"r","L":"micose","C":["n","med"],"d":"un maladia de infeta par un fungo","en":"mycosis","fr":"mycose"}
+{"L":"micosica","C":["a"],"en":"mycotic","fr":"mycotique"}
+{"T":"r","L":"micro-","C":["pf","tecn"],"d":"peti; {10⁻⁶}","en":"micro- (small, a millionth)","fr":"micro-"}
+{"T":"r","L":"microarciteta","C":["n","info"],"d":"(en informatica) la desinia de la reali de la lojica fundal en un prosedador","en":"microarchitecture","fr":"microarchitecture"}
+{"T":"r","L":"microbio","C":["n","bio","info"],"d":"un organisme multe peti, como un ameba, bateria o virus; un malfunsiona de un aparato, subita e tipal tempora","en":"microbe, bug, germ, virus; glitch, defect (electronic)","fr":"microbe"}
+{"L":"antimicrobial","C":["a","med"],"en":"antimicrobial, antibiotic, antiseptic, germicide","fr":"antimicrobien, antibiotique, antiseptique"}
+{"L":"antimicrobial","C":["n","med"],"d":"un medisin per mata microbios","en":"antimicrobial, antibiotic, antiseptic, germicide","fr":"antimicrobien, antibiotique, antiseptique"}
+{"L":"sin microbios","C":["a"],"en":"germfree","fr":"sans microbe"}
+{"L":"supramicrobio","C":["n"],"d":"un patojen capas de resiste multe antimicrobiales","en":"superbug","fr":"supermicrobe"}
+{"T":"r","L":"microbiolojia","C":["n","bio"],"d":"la ramo de siensa cual studia microbios","en":"microbiology","fr":"microbiologie"}
+{"L":"microbiolojiste","C":["n"],"en":"microbiologist","fr":"microbiologiste"}
+{"T":"r","L":"microbireria","C":["n"],"d":"un bireria autonom cual produi bir en cuantias peti","en":"microbrewery, craft brewery","fr":"microbrasserie, brasserie artisanale"}
+{"T":"r","L":"microcosmo","C":["n","fil"],"d":"un loca, situa o comunia regardada como un esemplo miniatur de un cosa multe plu grande","en":"microcosm","fr":"microcosme"}
+{"T":"r","L":"microcredito","C":["n","mone"],"d":"la presta de cuantias peti de mone con interesa basa a un comersia nova en la mundo developante","en":"microcredit","fr":"microcrédit"}
+{"T":"r","L":"microfilma","C":["n","util"],"d":"un filma conteninte fotos peti de pajes de un jornal, catalogo o otra documento, multe usada per arcivi informas ante la eda de computadores","en":"microfilm","fr":"microfilm"}
 {"T":"r","L":"microfon","C":["n","util"],"d":"un aparato per cambia ondas de sona a varias de enerjia eletrical, cual pote alora es grandida, transmeteda o rejistrada","i":"#","en":"microphone, mic, mike","fr":"microphone"}
-{"T":"r","L":"microlito","C":["n","tera"],"d":"un petra peti, formida per usa como un parte de un util como un lansia","i":"#","en":"microlith (geology)"}
-{"T":"r","L":"micron","C":["n"],"d":"un unia de longia egal a un milioni de un metre, usada en alga campos de siensa e tecnolojia, e formal nomida un micrometre","en":"micron (unit of length)"}
-{"T":"r","L":"Micronesia","C":["n","jeo"],"d":"un colie de isolas en la Mar Pasifica a norde de Melanesia e a ueste de Polinesia","i":"#","en":"Micronesia"}
-{"L":"micronesian","C":["a"],"en":"Micronesian"}
-{"L":"micronesian","C":["n"],"en":"Micronesian"}
-{"L":"Statos Federada de Micronesia","C":["n","pl","jeo"],"c":"Palikir","d":"un pais composada de sentos de isolas en Micronesia","en":"Federated States of Micronesia"}
+{"T":"r","L":"microlito","C":["n","tera"],"d":"un petra peti, formida per usa como un parte de un util como un lansia","i":"#","en":"microlith (geology)","fr":"microlithe"}
+{"T":"r","L":"micron","C":["n"],"d":"un unia de longia egal a un milioni de un metre, usada en alga campos de siensa e tecnolojia, e formal nomida un micrometre","en":"micron (unit of length)","fr":"micron, micromètre"}
+{"T":"r","L":"Micronesia","C":["n","jeo"],"d":"un colie de isolas en la Mar Pasifica a norde de Melanesia e a ueste de Polinesia","i":"#","en":"Micronesia","fr":"Micronésie"}
+{"L":"micronesian","C":["a"],"en":"Micronesian","fr":"micronésien"}
+{"L":"micronesian","C":["n"],"en":"Micronesian","fr":"Micronésien"}
+{"L":"Statos Federada de Micronesia","C":["n","pl","jeo"],"c":"Palikir","d":"un pais composada de sentos de isolas en Micronesia","en":"Federated States of Micronesia","fr":"États fédérés de Micronésie"}
 {"T":"r","L":"microonda","C":["n","fis"],"d":"un onda eletromagnetal con longia de onda entre 0,001 e 0,3 metres, plu corta ca ondas de radio ma plu longa ca ondas infraroja, usada en comunica e per coce","i":"#","en":"microwave","fr":"micro-onde"}
-{"L":"microondador","C":["n"],"d":"un forno de microonda","en":"microwave (oven)"}
-{"T":"r","L":"microplastica","C":["n","cim"],"d":"pesos pico de plastica dejetada en la ambiente","en":"microplastic"}
+{"L":"microondador","C":["n"],"d":"un forno de microonda","en":"microwave (oven)","fr":"four à micro-ondes"}
+{"T":"r","L":"microplastica","C":["n","cim"],"d":"pesos pico de plastica dejetada en la ambiente","en":"microplastic","fr":"microplastique"}
 {"T":"r","L":"microscopio","C":["n","util","bio"],"d":"un aparato otical, usada per vide ojetos multe peti, como selulas, tipal grandinte los a alga sentos de veses","i":"#","da":"mikroskop","de":"Mikroskop","en":"microscope","es":"microscopio","fr":"microscope"}
-{"L":"Microscopio","C":["n","ast"],"d":"un constela minor en la sielo sude","en":"Microscopium (constellation)"}
-{"L":"microscopi","C":["vt"],"en":"examine with a microscope"}
-{"L":"microscopi","C":["n"],"en":"microscopy"}
-{"L":"microscopial","C":["a"],"en":"microscopic"}
-{"T":"r","L":"microsefalia","C":["n","med"],"d":"un malformi jenetical, marcada par un testa nonormal peti e un developa noncompleta de la serebro","en":"microcephaly (medical)"}
-{"L":"microsefalica","C":["a"],"en":"microcephalic, microcephalous"}
-{"T":"r","L":"microsirurjia","C":["n"],"d":"sirurjia usante un microscopio e strumentos peti","en":"microsurgery"}
-{"T":"r","L":"microtelia","C":["n","fis","info"],"d":"un telieta de materia semicondutante, usada per fabrica un sircuito integrada","i":"#","en":"microchip, chip"}
-{"T":"r","L":"microtomo","C":["n","med"],"d":"un strumento per talia sesiones multe magra per esamina su un microscopio","en":"microtome (slicing tool)"}
-{"L":"microtomia","C":["n"],"en":"microtomy"}
+{"L":"Microscopio","C":["n","ast"],"d":"un constela minor en la sielo sude","en":"Microscopium (constellation)","fr":"Microscope (constellation)"}
+{"L":"microscopi","C":["vt"],"en":"examine with a microscope","fr":"examiner au microscope"}
+{"L":"microscopi","C":["n"],"en":"microscopy","fr":"microscopie"}
+{"L":"microscopial","C":["a"],"en":"microscopic","fr":"microscopique"}
+{"T":"r","L":"microsefalia","C":["n","med"],"d":"un malformi jenetical, marcada par un testa nonormal peti e un developa noncompleta de la serebro","en":"microcephaly (medical)","fr":"microcéphalie"}
+{"L":"microsefalica","C":["a"],"en":"microcephalic, microcephalous","fr":"microcéphale"}
+{"T":"r","L":"microsirurjia","C":["n"],"d":"sirurjia usante un microscopio e strumentos peti","en":"microsurgery","fr":"microchirurgie"}
+{"T":"r","L":"microtelia","C":["n","fis","info"],"d":"un telieta de materia semicondutante, usada per fabrica un sircuito integrada","i":"#","en":"microchip, chip","fr":"micropuce (électronique)"}
+{"T":"r","L":"microtomo","C":["n","med"],"d":"un strumento per talia sesiones multe magra per esamina su un microscopio","en":"microtome (slicing tool)","fr":"microtome"}
+{"L":"microtomia","C":["n"],"en":"microtomy","fr":"microtomie"}
 {"T":"r","L":"miel","C":["n","cos"],"d":"un licuida viscosa, dulse e jalin brun, produida par abeas e otra insetos, de netar colieda de flores","i":"#","da":"honning","de":"Honig","en":"honey","es":"miel","fr":"miel"}
-{"L":"mielin","C":["n"],"en":"honey, sweetheart"}
-{"T":"r","L":"mielada","C":["n"],"d":"un sustantia dulse e viscosa escreteda par afidos sur folias e talos","i":"#","en":"honeydew (substance)"}
-{"T":"r","L":"mielifaje","C":["n","avia"],"d":"un avia cantante de Australasia con lingua longa e brosin per come netar","i":"#","t":"Meliphagidae","en":"honeyeater (bird)"}
-{"T":"r","L":"mielin","C":["n","bio"],"d":"un gaina blanca e isolinte sirca multe fibres neuronal, cual grandi la rapidia de transmete impulsas","en":"myelin (biology)"}
-{"T":"r","L":"mieloide","C":["a","anat","med"],"d":"pertinente a la medula de osos; (leucemia) marcada par la sperde nonormal de limfosites orijinante en la medula de osos","en":"myeloid (anatomy)"}
-{"T":"r","L":"mieloma","C":["n","med"],"d":"un tumor canserosa de la medula de oso","en":"myeloma (medical)"}
-{"T":"r","L":"mielosite","C":["n","bio"],"d":"un selula joven, tipal locada en la medula de osos","en":"myelocyte (biology)"}
-{"T":"r","L":"migra","C":["vnt","bio","uma"],"d":"move de un parte o situa a un otra; (un animal, tipal un avia o pex) move de un rejion a un otra, tipal periodal e seguente la saisones; (un person) move de un rejion o pais per relocali en un otra, spesial per trova emplea","en":"migrate"}
-{"L":"migra","C":["vt"],"en":"migrate"}
-{"L":"migra","C":["n"],"en":"migration, immigration, emigration"}
-{"L":"migra a","C":["v"],"en":"immigrate to"}
-{"L":"migra de","C":["v"],"en":"emigrate from"}
-{"L":"migrante","C":["a"],"en":"migrating"}
-{"L":"migrante","C":["n"],"en":"migrant"}
-{"L":"migror","C":["n"],"en":"immigrant, emigrant"}
+{"L":"mielin","C":["n"],"en":"honey, sweetheart","fr":"mon chéri, mon amour, mon ange"}
+{"T":"r","L":"mielada","C":["n"],"d":"un sustantia dulse e viscosa escreteda par afidos sur folias e talos","i":"#","en":"honeydew (substance)","fr":"miellat"}
+{"T":"r","L":"mielifaje","C":["n","avia"],"d":"un avia cantante de Australasia con lingua longa e brosin per come netar","i":"#","t":"Meliphagidae","en":"honeyeater (bird)","fr":"méliphage (oiseau)"}
+{"T":"r","L":"mielin","C":["n","bio"],"d":"un gaina blanca e isolinte sirca multe fibres neuronal, cual grandi la rapidia de transmete impulsas","en":"myelin (biology)","fr":"myéline"}
+{"T":"r","L":"mieloide","C":["a","anat","med"],"d":"pertinente a la medula de osos; (leucemia) marcada par la sperde nonormal de limfosites orijinante en la medula de osos","en":"myeloid (anatomy)","fr":"myéloïde"}
+{"T":"r","L":"mieloma","C":["n","med"],"d":"un tumor canserosa de la medula de oso","en":"myeloma (medical)","fr":"myélome"}
+{"T":"r","L":"mielosite","C":["n","bio"],"d":"un selula joven, tipal locada en la medula de osos","en":"myelocyte (biology)","fr":"myélocyte"}
+{"T":"r","L":"migra","C":["vnt","bio","uma"],"d":"move de un parte o situa a un otra; (un animal, tipal un avia o pex) move de un rejion a un otra, tipal periodal e seguente la saisones; (un person) move de un rejion o pais per relocali en un otra, spesial per trova emplea","en":"migrate","fr":"migrer"}
+{"L":"migra","C":["vt"],"en":"migrate","fr":"faire migrer"}
+{"L":"migra","C":["n"],"en":"migration, immigration, emigration","fr":"migration (immigration, émigration)"}
+{"L":"migra a","C":["v"],"en":"immigrate to","fr":"immigrer en"}
+{"L":"migra de","C":["v"],"en":"emigrate from","fr":"émigrer de"}
+{"L":"migrante","C":["a"],"en":"migrating","fr":"migrant"}
+{"L":"migrante","C":["n"],"en":"migrant","fr":"migrant"}
+{"L":"migror","C":["n"],"en":"immigrant, emigrant","fr":"migrant (immigrant, émigrant)"}
 {"T":"r","L":"migrania","C":["n","med"],"d":"un dole de testa palpitante e reveninte cual afeta tipal un lado de la testa e es comun acompaniada par nausea e disturbas de vide","en":"migraine","fr":"migraine"}
 {"T":"r","L":"mil","C":["d","mat"],"d":"1000, {10³}","da":"tusinde","de":"tausend","en":"(a) thousand","es":"mil, millar","fr":"mille"}
-{"L":"mil","C":["a"],"en":"thousandth (ordinal)"}
-{"L":"desmili","C":["vnt"],"en":"split into ten thousand"}
-{"L":"desmili","C":["vt"],"en":"split into ten thousand"}
-{"L":"desmili","C":["n"],"en":"ten-thousandth (fraction)"}
-{"L":"miles","C":["n","pl"],"en":"thousands"}
-{"L":"mili","C":["vnt"],"en":"split into a thousand parts"}
-{"L":"mili","C":["vt"],"en":"split into a thousand parts"}
-{"L":"mili","C":["n"],"en":"thousandth (fraction)"}
-{"L":"mili-","C":["pf","tecn"],"d":"un mili de","en":"milli- (a thousandth)"}
-{"T":"r","L":"milan","C":["n","avia"],"d":"un avia xasante con alas longa e coda divideda","i":"#","t":"Elaninae, Milvinae","en":"kite (bird)"}
-{"T":"r","L":"milenio","C":["n"],"d":"un periodo de mil anios","en":"millennium"}
-{"L":"milenialisme","C":["n"],"en":"millennialism"}
-{"T":"r","L":"milflor","C":["n","arte"],"d":"un motif de flores e folias usada en tapetos, porselana o otra ornas; un tipo de vitro ornal, fabricada par fusa e talia bastos de vitro diversa","i":"#","en":"millefleurs, millefiori (art)"}
-{"T":"r","L":"milfolia","C":["n","pla"],"d":"un planta eurasian en familia de margarita, con folias plumin e flores peti, bonodorosa e blanca, jala o rosa","i":"#","t":"Achillea millefolium","en":"yarrow (plant)"}
-{"T":"r","L":"milia","C":["n"],"d":"un unia per mesura distantia","en":"mile"}
-{"L":"milia engles","C":["n"],"d":"un unia de 1,609 km","en":"English mile"}
-{"L":"milia maral","C":["n"],"en":"nautical mile"}
-{"L":"milia roman antica","C":["n"],"d":"un unia de 1000 pasos par la pede sinistra, egal a 1,481 km","en":"Roman mile"}
-{"T":"r","L":"milio","C":["n","pla"],"d":"un planta sereal cual crese rapida e es cultivada en paises calda e rejiones con tera povre","t":"Gramineae, {spesial","en":"millet (plant)"}
+{"L":"mil","C":["a"],"en":"thousandth (ordinal)","fr":"millième"}
+{"L":"desmili","C":["vnt"],"en":"split into ten thousand","fr":"se diviser en dix mille parties"}
+{"L":"desmili","C":["vt"],"en":"split into ten thousand","fr":"diviser en dix mille parties"}
+{"L":"desmili","C":["n"],"en":"ten-thousandth (fraction)","fr":"dix millième"}
+{"L":"miles","C":["n","pl"],"en":"thousands","fr":"millier"}
+{"L":"mili","C":["vnt"],"en":"split into a thousand parts","fr":"se diviser en mille parties"}
+{"L":"mili","C":["vt"],"en":"split into a thousand parts","fr":"diviser en mille parties"}
+{"L":"mili","C":["n"],"en":"thousandth (fraction)","fr":"millième"}
+{"L":"mili-","C":["pf","tecn"],"d":"un mili de","en":"milli- (a thousandth)","fr":"milli-"}
+{"T":"r","L":"milan","C":["n","avia"],"d":"un avia xasante con alas longa e coda divideda","i":"#","t":"Elaninae, Milvinae","en":"kite (bird)","fr":"milan (oiseau)"}
+{"T":"r","L":"milenio","C":["n"],"d":"un periodo de mil anios","en":"millennium","fr":"millénaire"}
+{"L":"milenialisme","C":["n"],"en":"millennialism","fr":"millénarisme"}
+{"T":"r","L":"milflor","C":["n","arte"],"d":"un motif de flores e folias usada en tapetos, porselana o otra ornas; un tipo de vitro ornal, fabricada par fusa e talia bastos de vitro diversa","i":"#","en":"millefleurs, millefiori (art)","fr":"millefleurs (art)"}
+{"T":"r","L":"milfolia","C":["n","pla"],"d":"un planta eurasian en familia de margarita, con folias plumin e flores peti, bonodorosa e blanca, jala o rosa","i":"#","t":"Achillea millefolium","en":"yarrow (plant)","fr":"achillée millefeuille (plante)"}
+{"T":"r","L":"milia","C":["n"],"d":"un unia per mesura distantia","en":"mile","fr":"mille (unité de mesure de distance)"}
+{"L":"milia engles","C":["n"],"d":"un unia de 1,609 km","en":"English mile","fr":"mille anglais"}
+{"L":"milia maral","C":["n"],"en":"nautical mile","fr":"mille nautique"}
+{"L":"milia roman antica","C":["n"],"d":"un unia de 1000 pasos par la pede sinistra, egal a 1,481 km","en":"Roman mile","fr":"mille romain"}
+{"T":"r","L":"milio","C":["n","pla"],"d":"un planta sereal cual crese rapida e es cultivada en paises calda e rejiones con tera povre","t":"Gramineae, {spesial","en":"millet (plant)","fr":"millet (plante)"}
 {"T":"r","L":"milion","C":["d","mat"],"d":"{1(~)000(~)000}, {10⁶}","n":"On dise `du milion`, `des milion`, etc, (no `du miliones`), esata como on dise `du mil`.","da":"million","de":"Million","en":"(a) million","es":"millón","fr":"million"}
-{"L":"milion","C":["a"],"en":"millionth (ordinal)"}
-{"L":"miliones","C":["n","pl"],"en":"millions"}
-{"L":"du milion","C":["d"],"en":"two million"}
-{"L":"milioni","C":["vnt"],"en":"split into a million parts"}
-{"L":"milioni","C":["vt"],"en":"split into a million parts"}
-{"L":"milioni","C":["n"],"en":"millionth (fraction)"}
-{"L":"milionor","C":["n"],"en":"millionaire"}
+{"L":"milion","C":["a"],"en":"millionth (ordinal)","fr":"millionième"}
+{"L":"miliones","C":["n","pl"],"en":"millions","fr":"millions"}
+{"L":"du milion","C":["d"],"en":"two million","fr":"deux millions"}
+{"L":"milioni","C":["vnt"],"en":"split into a million parts","fr":"se diviser en un million de parties"}
+{"L":"milioni","C":["vt"],"en":"split into a million parts","fr":"diviser en un million de parties"}
+{"L":"milioni","C":["n"],"en":"millionth (fraction)","fr":"millionième (fraction)"}
+{"L":"milionor","C":["n"],"en":"millionaire","fr":"millionnaire"}
 {"T":"r","L":"milipede","C":["n","artr"],"d":"un nonvertebrato con corpo longa de multe sesiones, de cual la plu ave du duples de gamas","i":"#","t":"Diplopoda","en":"millipede","fr":"mille-pattes"}
 {"T":"r","L":"militar","C":["a","gov"],"d":"pertinente a soldatos o fortes armada","da":"militærisk","de":"militärisch","en":"military, militaristic","es":"militar","fr":"militaire"}
 {"L":"militar","C":["n"],"en":"serviceman, servicewoman; (the) military (organization|is)"}
@@ -16873,6 +16878,7 @@
 {"L":"moldur de solo","C":["n"],"en":"baseboard, skirting board"}
 {"L":"moldur merlonin","C":["n"],"en":"dentil (architecture)","fr":"denticule"}
 {"L":"moldurador","C":["n"],"i":"#","en":"router (carpentry tool)","fr":"défonceuse"}
+{"L":"molduri","C":["vt"],"en":"frame (one thing within another)"}
 {"T":"r","L":"mole","C":["vt"],"d":"redui (alga cosa) a polvo o particulas peti par crase","da":"male, kværne","en":"grind, pound, pulverize|is, reduce to powder; gnash (teeth)","es":"moler, machacar","fr":"moudre"}
 {"L":"molador","C":["n"],"en":"grinder"}
 {"T":"r","L":"molecula","C":["n","cim"],"d":"un grupo de atomes liada a lunlotra como la unia la plu fundal de un composada cimical capas de partisipa en reatas cimical","da":"molekyle","de":"Molekül","en":"molecule","es":"molécula","fr":"molécule"}
@@ -19121,6 +19127,7 @@
 {"T":"r","L":"paleolinguistica","C":["n","ling"],"d":"la ramo de linguistica cual studia linguas preistorial","en":"paleolinguistics|ae"}
 {"T":"r","L":"paleolitica","C":["a","uma"],"d":"pertinente a la parte temprana de la eda de petra","en":"Paleolithic|ae"}
 {"L":"paleolitica","C":["n"],"en":"Paleolithic|ae"}
+{"T":"r","L":"paleomagnetisme","C":["n","tera"],"d":"la ramo de jeofisica cual studia la magnetisme induida par la campo magnetal de la Tera cuando rocas ia deveni formida","en":"paleomagnetism|palaeomagnetism"}
 {"T":"r","L":"paleontolojia","C":["n","tera"],"d":"la siensa e studia de animales e plantas fosilida","en":"paleontology|ae"}
 {"L":"paleontolojial","C":["a"],"en":"paleontological|ae"}
 {"L":"paleontolojiste","C":["n"],"en":"paleontologist|ae"}
@@ -19386,6 +19393,8 @@
 {"L":"paralise","C":["n","med"],"en":"paralysis"}
 {"L":"paralise serebral","C":["n","med"],"en":"cerebral palsy"}
 {"L":"paraliseda","C":["n","med"],"en":"paralytic"}
+{"T":"r","L":"paramagnete","C":["n","fis"],"d":"un ojeto o sustantia cual es debil atraeda par la polos de un magnete, ma cual reteni no magnetisme permanente","en":"paramagnet"}
+{"L":"paramagnetal","C":["a"],"en":"paramagnetic"}
 {"T":"r","L":"paramar","C":["n","vn"],"d":"un longa mur cual preveni deluvias par la mar","i":"#","en":"dyke, dike, levee, sea embankment"}
 {"T":"r","L":"paramediciste","C":["n","med"],"d":"un person instruida sur medica, tipal sur aida urjente, ma no normal un dotor medical","en":"paramedic"}
 {"T":"r","L":"paramesio","C":["n","bio"],"d":"un animal uniselulal, abitante acua dulse e covreda con silios","i":"#","en":"paramecium (organism)"}
@@ -22719,10 +22728,12 @@
 {"L":"resiste","C":["n"],"en":"resistance, unwillingness"}
 {"L":"nonresistable","C":["a"],"en":"irresistible, compelling, overwhelming"}
 {"L":"resistable","C":["a"],"en":"resistible"}
-{"L":"resistador","C":["n"],"en":"resistor"}
+{"L":"resistador","C":["n"],"en":"resistor (electric)"}
 {"L":"resistente","C":["a"],"en":"resistant, unwilling"}
 {"L":"resistente","C":["n"],"en":"resistance (movement)"}
 {"L":"resistente a foco","C":["a"],"en":"flame-retardant"}
+{"L":"resistor","C":["n"],"en":"resister, resistor (person)"}
+{"L":"resistores","C":["n","pl"],"en":"resistance (movement)"}
 {"T":"r","L":"resita","C":["vt","arte"],"d":"repete a vose (un poesia o nara) de memoria ante escutores; dise (un lista de nomes, fatos, etc) en ordina spesifada","en":"recite"}
 {"L":"resita","C":["n"],"en":"recitation"}
 {"T":"r","L":"resolve","C":["vt","uma","cim"],"d":"separa (alga cosa) a sua composantes; redui (alga cosa) par analise a sua elementos plu simple","en":"resolve (into parts)"}
@@ -23275,6 +23286,7 @@
 {"L":"(tu) sabe","C":["esc"],"en":"you know (filler)","es":"sabes (muletilla)"}
 {"T":"r","L":"sabetota","C":["n","vn"],"d":"un person ci irita otras par condui como si el es multe saja o sabosa","en":"know-all, know-it-all, smart aleck, smartarse, smartass, smartypants, wiseguy, wiseacre","es":"sabelotodo, sabihondo, sabidillo, resabido"}
 {"T":"r","L":"sabor","C":["n","bio","cos"],"d":"la cualia de alga cosa esperiada par la sensas cimical de la lingua, tipal con detalias ajuntada par la sensa de ole","da":"smag","de":"Geschmack","en":"taste, flavor|ur","eo":"gusto","es":"sabor, gusto, regusto, resabio, sazón, condimento","fr":"saveur","it":"sapore","nl":"smaak","pt":"gosto, sabor, paladar"}
+{"L":"sabor per conosor","C":["n"],"en":"acquired taste"}
 {"L":"sabor persistente","C":["n"],"en":"aftertaste","es":"regusto"}
 {"L":"con sabor","C":["a"],"en":"flavored|ur","es":"aromatizado, con sabor"}
 {"L":"con sabor agu","C":["a"],"en":"sharp-tasting, pungent, tangy","es":"picante"}
@@ -23550,7 +23562,7 @@
 {"L":"vinsentian","C":["n"],"en":"Vincentian, Vincy"}
 {"T":"r","L":"san","C":["a","dem"],"d":"pertinente a un popla nativa de Africa sude, spesial de la deserto Kalahari, o a sua linguas","en":"Bushman, San (person, language)"}
 {"L":"san","C":["n"],"en":"Bushman, San (person, language)"}
-{"T":"r","L":"sana","C":["a","med"],"d":"(un organisme) en bon state e enerjiosa, no malada e sin descapasia","da":"sund, rask","de":"gesund","en":"healthy, hale, salubrious","eo":"sana","es":"sano, saludable","fr":"sain","it":"sano","nl":"gezond","pt":"são, saudável"}
+{"T":"r","L":"sana","C":["a","med"],"d":"(un organisme) en bon state e enerjiosa, no malada e sin descapasia","da":"sund, rask","de":"gesund","en":"healthy, hale, salubrious, sound","eo":"sana","es":"sano, saludable","fr":"sain","it":"sano","nl":"gezond","pt":"são, saudável"}
 {"L":"mental sana","C":["a"],"en":"sane"}
 {"L":"nonsana","C":["a"],"en":"unhealthy"}
 {"L":"sani","C":["vnt"],"en":"heal, become healthy, get better, recover, recuperate, convalesce"}
@@ -23996,7 +24008,7 @@
 {"L":"desecuri","C":["vt"],"en":"unlock, untether","fr":"verrouiller"}
 {"L":"desecuri la polsos de","C":["v"],"en":"uncuff"}
 {"L":"desecuri la talos de","C":["v"],"en":"unshackle"}
-{"L":"nonsecur","C":["a"],"en":"insecure, unsafe, loose"}
+{"L":"nonsecur","C":["a"],"en":"insecure, unsafe, unsound, loose"}
 {"L":"nonsecuria","C":["n"],"en":"insecurity"}
 {"L":"nonsecurida","C":["a"],"en":"unsecured, unlocked, untethered"}
 {"L":"securable","C":["a"],"en":"securable, lockable, lockup"}
@@ -25672,6 +25684,7 @@
 {"L":"spuma de mar","C":["n"],"en":"sea foam; meerschaum"}
 {"L":"spuma de sapon","C":["n"],"en":"soapsuds"}
 {"L":"spuma susia","C":["n"],"en":"scum"}
+{"L":"spumin","C":["a"],"en":"foamlike"}
 {"L":"spumosa","C":["a"],"en":"foamy, frothy, sudsy"}
 {"T":"r","L":"sputa","C":["vt","bio"],"d":"emete (saliva, comeda o licuida) de la boca con fortia; declara en modo combatosa o violente; emete (sintiles o gras calda) con un serie de sonas corta e esplodente","da":"spytte","de":"spucken","en":"spit, expectorate","eo":"kraĉi","es":"escupir","fr":"cracher","it":"sputare","nl":"spuwen, spugen","pt":"cuspir"}
 {"L":"sputa","C":["n"],"en":"spit, sputum"}
@@ -26503,7 +26516,7 @@
 {"L":"asida tanica","C":["n"],"en":"tannic acid"}
 {"T":"r","L":"tanin","C":["n","bio","cim"],"d":"un materia organica, jala o brun e amarga, presente en alga texedas de plantas e usada per produi cuoro e inca","en":"tannin","fr":"tanin"}
 {"T":"r","L":"tanje","C":["vt","mat"],"d":"toca lejera; es un tanjente a","en":"touch lightly, be tangential to, brush against, graze; strum (guitar)","fr":"être tangent à"}
-{"L":"tanjente","C":["a"],"en":"tangential, peripheral","fr":"tangent"}
+{"L":"tanjente","C":["a"],"en":"tangential, peripheral, incidental","fr":"tangent"}
 {"L":"tanjente","C":["n"],"d":"un linia o plana reta cual toca un curva a un punto, sin traversa esta si on estende lo; un funsiona trigonometrial, egal (en un triangulo reta) a la longia de la lado oposante la angulo agu pertinente, divideda par la longia de la lado tocada par esta angulo","en":"tangent","fr":"tangente"}
 {"T":"r","L":"tanjerino","C":["n"],"d":"un arbor cual produi tanjerinas","en":"tangerine (tree)"}
 {"L":"tanjerina","C":["n","pla","cos"],"d":"un fruta sitrica peti con casca laxe, tipal con casca orania-roja intensa","i":"#","t":"Citrus × tangerina","en":"tangerine (fruit)"}
@@ -26925,7 +26938,7 @@
 {"L":"terosa","C":["a"],"en":"earthy"}
 {"T":"r","L":"tera-","C":["pf","tecn"],"d":"{10¹²}","en":"tera- (a million million)"}
 {"T":"r","L":"teracota","C":["n","arci"],"d":"un losa sin vernis, tipal brunin roja, usada xef como un materia ornal de construi e en modeles","i":"#","en":"terracotta"}
-{"T":"r","L":"terapia","C":["n","med","uma"],"d":"un trata medical, intendeda per lejeri o remedia un disturba o maladia","en":"therapy"}
+{"T":"r","L":"terapia","C":["n","med","uma"],"d":"un trata medical, intendeda per lejeri o remedia un disturba o maladia","en":"therapy, rehabilitation, rehab"}
 {"L":"terapiste","C":["n"],"en":"therapist"}
 {"T":"r","L":"teraplen","C":["n","vec"],"d":"un colineta artifis sur cual un via, ferovia o canal traversa un area basa o acuosa","en":"embankment"}
 {"T":"r","L":"teratofobia","C":["n","uma"],"d":"un teme de persones malformida, o de pari un enfante malformida","en":"teratophobia"}
@@ -28876,7 +28889,8 @@
 {"T":"r","L":"viable","C":["a"],"en":"viable"}
 {"L":"viablia","C":["n"],"en":"viability"}
 {"T":"r","L":"viaduto","C":["n"],"d":"un spesie de ponte longa, tipal con un serie de arcos, par cual un via o ferovia traversa un vale, un otra tera basa, o un otra via o ferovia","i":"#","en":"viaduct; overpass, flyover","fr":"viaduc"}
-{"T":"r","L":"viaja","C":["vnt","spo"],"d":"vade, tipal tra un distantia longa","ca":"viatjar","da":"rejse, ride, køre","de":"reisen","en":"travel","eo":"vojaĝi","es":"viajar","fr":"voyager","it":"viaggiare","ja":"旅する","nl":"rijden","pt":"viajar","ru":"путешествовать"}
+{"T":"r","L":"viaja","C":["vnt","spo"],"d":"vade, tipal tra un distantia longa","ca":"viatjar","da":"rejse, ride, køre","de":"reisen","en":"travel, journey","eo":"vojaĝi","es":"viajar","fr":"voyager","it":"viaggiare","ja":"旅する","nl":"rijden","pt":"viajar","ru":"путешествовать"}
+{"L":"viaja","C":["vt"],"en":"cause to travel, drive (vehicle, person)"}
 {"L":"viaja","C":["n"],"de":"Fahrt","en":"journey, trip, voyage, drive","eo":"vojaĝo","es":"viaje, jornada, travesía, recorrido, jira","fr":"voyage","it":"viaggio","nl":"reis","pt":"viagem, jornanda"}
 {"L":"viaja dial","C":["v"],"en":"commute","fr":"faire la navette"}
 {"L":"viaja dial","C":["n"],"en":"commute","fr":"navette"}
