@@ -5023,7 +5023,7 @@
 {"L":"caxa de pan","C":["n"],"en":"breadbox, bread bin","fr":"corbeille à pain","he":"ארגז לחם"}
 {"L":"caxa de Pandora","C":["n"],"en":"Pandora's box","fr":"boîte de Pandore","he":"תיבת פנדורה"}
 {"L":"caxa de posta","C":["n"],"i":"#","en":"mailbox, postbox","fr":"boîte aux lettres","he":"תיבת דואר"}
-{"L":"caxa de utiles","C":["n"],"en":"toolbox","fr":"boîte à outils","he":"ארגז כלים"}
+{"L":"caxa de utiles","C":["n"],"en":"toolbox, toolkit","fr":"boîte à outils","he":"ארגז כלים"}
 {"L":"caxa rejistrante","C":["n"],"i":"#","en":"cash register, till","fr":"caisse enregistreuse","he":"קופה רושמת"}
 {"L":"caxa secur","C":["n"],"i":"#","en":"safe, locker, strongbox","fr":"coffre-fort","he":"כספת"}
 {"L":"caxeta","C":["n"],"en":"drawer; cassette","fr":"cassette","he":"מגירה; קלטת, קסטה"}
@@ -8513,7 +8513,9 @@
 {"T":"r","L":"disposa","C":["vt","uma"],"d":"fa ce (algun) tende a un condui o state spesifada","en":"dispose (someone to), predispose, incline","fr":"prédisposer (quelqu'un à), incliner (quelqu'un à)","he":"להטות, להשפיע (על מישהו)"}
 {"L":"disposa","C":["n"],"en":"disposition, predisposition, attitude, approach, stance","fr":"prédisposition, disposition à, penchant pour, propension à, inclination pour","he":"נטייה, גישה, עמדה, השקפה"}
 {"L":"disposa mental","C":["n"],"en":"mental attitude, mindset, mentality","fr":"disposition mentale, prédisposition","he":"דפוס חשיבה, מנטליות, אופי, מזג"}
+{"L":"bondisposada","C":["a"],"en":"good-natured, kindly"}
 {"L":"disposada","C":["a"],"en":"inclined, disposed, predisposed","fr":"enclin à, porté à, sujet à","he":"נוטה (למחשבה או מעשה מסוימים)"}
+{"L":"maldisposada","C":["a"],"en":"bad-natured, malevolent, malicious"}
 {"T":"r","L":"disprosio","C":["n","cim"],"d":"la elemento cimical con numero atomal 66","s":"Dy (dysprosium)","en":"dysprosium (element)","fr":"dysprosium (élément)","he":"דיספרוסיום (יסוד)"}
 {"T":"r","L":"disputa","C":["vt","fil"],"d":"discute (alga cosa) sur cual on no acorda, tipal en modo emosial","en":"dispute, quarrel over, argue about, contest, row, impugn","fr":"se disputer au sujet de, discuter sur, débattre sur, polémiquer au sujet de","he":"להתווכח, לחלוק על"}
 {"L":"disputa","C":["n"],"da":"argument","de":"Streit","en":"dispute, quarrel, argument, debate, conflict, strife, row, feud, dust-up, fracas, wrangle","es":"discusión, disputa, polémica","fr":"dispute, débat, controverse, délibération","he":"ויכוח, סכסוך, מחלוקת, עימות, קונפליקט, ריב, מריבה, התנצחות"}
@@ -9279,7 +9281,7 @@
 {"L":"eliceta","C":["n"],"en":"twiddly bit (curly decorative feature)","fr":"frise","he":"עיטור סלילי"}
 {"T":"r","L":"elicotor","C":["n","vec"],"d":"un tipo de volador cual usa du o plu rotores per asende e propulsa se","i":"#","en":"helicopter","fr":"hélicoptère","he":"מסוק, הליקופטר"}
 {"L":"elicotor de ataca","C":["n"],"en":"helicopter gunship","fr":"hélicoptère de combat","he":"מסוק קרב"}
-{"L":"elicotori","C":["vt"],"en":"(transport by) helicopter","fr":"transporter par hélicoptère","he":"להעביר במסוק"}
+{"L":"elicotori","C":["vt"],"en":"(transport by) helicopter, airlift","fr":"transporter par hélicoptère","he":"להעביר במסוק"}
 {"T":"r","L":"elidi","C":["vt","ling"],"d":"omete (un sona o silaba) cuando on parla","en":"elide","fr":"élider","he":"להשמיט, להבליע (צליל או הברה)"}
 {"L":"elidi","C":["n"],"en":"elision","fr":"élision","he":"השמטה, הבלעה (של צליל או הברה)"}
 {"T":"r","L":"elimina","C":["vt"],"d":"sutrae o esclui completa","en":"eliminate, annihilate, obliterate, eradicate, exterminate, extirpate, purge, expunge; knock out (from contest)","fr":"éliminer, anihiler, anéantir, éradiquer, exterminer, extirper, purger, effacer","he":"לחסל, להשמיד, להכחיד, למגר, להכרית; לנפות (מתחרה)"}
@@ -11205,7 +11207,7 @@
 {"T":"r","L":"finita","C":["a","mat"],"d":"con limitas o bordas; no estendente sin fini","en":"finite, bounded","fr":"fini, limité, borné"}
 {"T":"r","L":"finitiva","C":["a","ling"],"d":"(un verbo) cual ave un sujeto (espresada o implicada) e pote funsiona como la verbo xef de un proposa major","en":"finite (grammar)"}
 {"L":"nonfinitiva","C":["a"],"en":"non-finite"}
-{"T":"r","L":"finje","C":["vt","uma"],"d":"ata o parla en un modo cual presenta (un cosa falsa) como vera; imita (un cualia o person) ,u: el ia finje dormi; el ia finje ce el dormi; el ia finje un maladia; el ia finje sua padre","da":"simulere, foregive","de":"vorgeben","en":"pretend, act, fake, feign, bluff; pose as, impersonate; affect, assume, purport","es":"fingir, actuar, pretender, representar","fr":"feindre, simuler, faire semblant de, prétendre, prétendre être, simuler"}
+{"T":"r","L":"finje","C":["vt","uma"],"d":"ata o parla en un modo cual presenta (un cosa falsa) como vera; imita (un cualia o person)","u":"el ia finje dormi; el ia finje ce el dormi; el ia finje un maladia; el ia finje sua padre","da":"simulere, foregive","de":"vorgeben","en":"pretend, act, fake, feign, bluff; pose as, impersonate; affect, assume, purport","es":"fingir, actuar, pretender, representar","fr":"feindre, simuler, faire semblant de, prétendre, prétendre être, simuler"}
 {"L":"finje","C":["n"],"en":"pretense|ce, bluff, impersonation, feint, sham, act","fr":"simulacre, feinte, simulation, invention, bluff, faux-semblant"}
 {"L":"finje superioria","C":["esp"],"en":"condescend, patronize|is, talk down to, look down on, look down one's nose at, put on airs","fr":"prendre un air condescendant"}
 {"L":"finje un maladia","C":["v"],"en":"malinger, fake an illness","fr":"feindre une maladie"}
@@ -25604,7 +25606,7 @@
 {"L":"spirali","C":["vnt"],"en":"spiral, coil, swirl"}
 {"L":"spirali","C":["vt"],"en":"spiral, coil, swirl"}
 {"T":"r","L":"spirea","C":["n","pla"],"d":"un arboreta en familia de rosa, con grupos de flores peti, blanca o ros","t":"Spiraea","en":"spirea|ae (plant)"}
-{"T":"r","L":"spirito","C":["n","fil","rel"],"d":"la parte nonfisical de un person cual es la loca de emosias e carater; un esente supranatural","da":"sjæl, ånd","de":"Seele","en":"spirit, soul, atman","eo":"spirito, animo","es":"alma, espíritu","fr":"âme","it":"anima","nl":"ziel, geest","pt":"alma, espírito, fantasma"}
+{"T":"r","L":"spirito","C":["n","fil","rel"],"d":"la parte nonfisical de un person cual es la loca de emosias e carater; un esente supranatural","da":"sjæl, ånd","de":"Seele","en":"spirit, soul, atman","eo":"spirito","es":"espíritu","fr":"esprit","it":"anima","nl":"ziel, geest","pt":"espírito, fantasma"}
 {"L":"spirito de la eda","C":["n"],"en":"zeitgeist"}
 {"L":"despiriti","C":["vt"],"en":"dispirit"}
 {"L":"despiritinte","C":["a"],"en":"dispiriting, soul-destroying"}
