@@ -17225,7 +17225,7 @@
 {"L":"mua","C":["n"],"en":"pout, moue","fr":"moue"}
 {"T":"r","L":"mucilajo","C":["n"],"d":"un disolve viscosa, estraeda de plantas e usada en medisines e colas","en":"mucilage","fr":"mucilage"}
 {"T":"r","L":"muco","C":["n","bio"],"d":"un materia mol e viscosa, secreteda par membranas e glandes per lubrica, proteje, etc; cualce otra materia simil","en":"mucus, phlegm; goo, goop, gloop, glop","fr":"mucus"}
-{"L":"muco acuin","C":["n"],"en":"rheum","fr":"rhume"}
+{"L":"muco acuin","C":["n"],"en":"rheum","fr":"rhume, goutte au nez"}
 {"L":"muco nasal","C":["n"],"en":"nasal mucus, snot, bogey, booger","fr":"mucus, morve"}
 {"L":"mucin","C":["a"],"en":"gooey, goopy, gloopy","fr":"muqueux, gluant"}
 {"L":"mucosa","C":["a"],"en":"mucous, snotty","fr":"muqueux, morveux"}
@@ -17239,213 +17239,213 @@
 {"L":"mufin cavetin","C":["n"],"en":"popover","fr":"brioche"}
 {"L":"mufinor","C":["n"],"en":"muffin seller, muffinman","fr":"vendeur de muffin"}
 {"T":"r","L":"mufti","C":["n","rel"],"d":"un esperta de lege muslim ci ave la potia de deside sur desacordas relijiosa","en":"mufti (Islamic scholar)","fr":"mufti"}
-{"T":"r","L":"mugre","C":["n"],"d":"cualce materia susia e repulsante, como fango o olio, o polvo cumulada","i":"#","en":"filth, grime, sludge, muck, mess"}
-{"L":"mugrosa","C":["a"],"en":"filthy, squalid, grimy, mucky, messy"}
-{"T":"r","L":"mugul","C":["a","ist"],"d":"pertinente a la dinastia muslim de orijina mongol, fundida par la seguores de Timur, cual ia governa multe de Barat entre la sentenios 16 e 19","i":"#","en":"Mughal, Mogul (dynasty)"}
-{"L":"mugul","C":["n"],"en":"Mughal, Mogul (dynasty)"}
-{"T":"r","L":"Muhammad","C":["n","rel"],"d":"un profeta arabi e la fundor de islam, vivente de sirca 570 a 632","en":"Muhammad, Mohammed, Muhammed"}
-{"T":"r","L":"mujil","C":["n","pex"],"d":"un pex, xef trovada en mares, e un fonte importante de comeda per umanas","i":"#","t":"Mugilidae","en":"mullet (fish)"}
-{"T":"r","L":"mul","C":["n","mol"],"d":"un bivalvo con concas brun o oscur purpur","i":"#","t":"Mytilidae","en":"mussel (mollusk|mollusc)","fr":"moule (animal)"}
-{"T":"r","L":"mula","C":["n","rel"],"d":"un muslim saja sur teolojia e leges","en":"mullah (Islam)"}
-{"T":"r","L":"muladi","C":["n","dem"],"d":"un muslim, tipal con asendentes miscada, de Andalusia en la eda medieval","en":"muladi (Islam)"}
-{"T":"r","L":"mulato","C":["n","ist"],"d":"(aora insultante) un person con jenitores o asendentes de razas blanca e negra","en":"(derogatory) mulatto"}
-{"T":"r","L":"muleta","C":["n","util"],"d":"un baston con un peso orizonal, usada par persones ci no pasea fasil per move sua pesa de la gamas a la corpo alta; (metafor) cualce otra cosa usada per suporta o calmi","i":"#","en":"crutch (support stick)"}
-{"T":"r","L":"mulo","C":["n","mam"],"d":"un enfante de asino mas e cavalo fema, normal steril e comun usada per tira aparatos de cultiva; cualce otra animal ibride e steril","i":"#","en":"mule"}
-{"L":"mulin","C":["a"],"en":"mulish, stubborn"}
-{"L":"mulor","C":["n"],"en":"muleteer"}
-{"T":"r","L":"multa","C":["vt","mone","gov"],"d":"puni (algun) par fa ce el paia un cuantia de mone, tipal per un ata criminal","en":"fine, penalize"}
-{"L":"multa","C":["n"],"en":"fine, penalty, ticket, forfeit, forfeiture"}
-{"T":"r","L":"multe","C":["d"],"d":"un cuantia grande de","da":"mange, meget","de":"viel, viele","en":"many, much, numerous, myriad, a host of, a multitude of","es":"mucho, muchos","fr":"beaucoup de"}
-{"L":"multe","C":["av"],"d":"a grado forte","da":"meget (grad)","de":"viel, sehr","en":"very, really, greatly","es":"mucho, muy","fr":"beaucoup, très"}
-{"L":"multe","C":["pron"],"en":"much, many (singular or plural)","es":"mucho, muchos"}
-{"L":"multes","C":["pron","pl"],"en":"(people or things, optional plural pronoun)","es":"muchos"}
-{"L":"multe min","C":["a"],"en":"many fewer, much less"}
-{"L":"multe min","C":["av"],"en":"much less"}
-{"L":"multe plu","C":["a"],"en":"many more, much more"}
-{"L":"multe plu","C":["av"],"en":"much more"}
-{"L":"es plu multe ca","C":["v"],"en":"outnumber"}
-{"L":"multia","C":["n"],"en":"multitude, host"}
-{"L":"tan multe como posible","C":["esp"],"en":"as many as possible, as much as possible"}
-{"T":"r","L":"multi-","C":["pf","tecn"],"d":"multe o plu ca un","en":"multi-"}
-{"T":"r","L":"multibandal","C":["a","mus"],"d":"pertinente a la misca de bandas de sona cual ia es rejistrada en modo separada","en":"multitrack"}
-{"T":"r","L":"multicanalal","C":["a","info"],"d":"con multe canales de comunica o televisa","en":"multichannel"}
-{"T":"r","L":"multicolorosa","C":["a","col"],"d":"con multe colores","en":"multicolored|ur, multicolor|ur, polychromatic, variegated, motley, mottled, pied, dappled"}
-{"T":"r","L":"multicoral","C":["a","util"],"d":"(un corda eletrical) composada de multe filos; (un computador) conteninte plu ca un prosedador e donce capas de esecuta plu ca un comanda a la mesma tempo","en":"multicore"}
-{"T":"r","L":"multicultural","C":["a","uma"],"d":"pertinente a plu ca un cultur","en":"multicultural, cosmopolitan"}
-{"L":"multiculturalisme","C":["n"],"d":"la suporta en un sosia per la presenta de cultures o grupos etnica diversa; un filosofia cual sujesta ce cultures diversa pote aida en la developa de comprende","en":"multiculturalism"}
-{"T":"r","L":"multidimensional","C":["a","fis"],"d":"con plu ca un dimension","en":"multidimensional"}
-{"T":"r","L":"multidirijal","C":["a"],"d":"con plu ca un dirije","en":"multidirectional"}
-{"T":"r","L":"multietnical","C":["a","uma"],"d":"pertinente a plu ca un etnico","en":"multiethnic"}
-{"T":"r","L":"multifasal","C":["a","fis"],"d":"con plu ca un fase","en":"multiphase, multiphasic"}
-{"T":"r","L":"multifasetal","C":["a","fis"],"d":"con multe fasetas","en":"multifaceted"}
-{"T":"r","L":"multigradal","C":["a"],"d":"con multe grados o pasos","en":"multistage"}
-{"T":"r","L":"multijuoral","C":["a","info"],"d":"(un jua eletronical) capas de es juada par multe persones a la mesma tempo","en":"multiplayer"}
-{"T":"r","L":"multiladal","C":["a","mat"],"d":"con multe lados","en":"multilateral, many-sided"}
-{"L":"multiladalisme","C":["n"],"en":"multilateralism"}
-{"T":"r","L":"multilingual","C":["a","ling"],"d":"capas de parla, o presentada en, plu ca du linguas","en":"multilingual"}
-{"L":"multilingual","C":["n"],"en":"polyglot"}
-{"L":"multilingualisme","C":["n"],"en":"multilingualism"}
-{"T":"r","L":"multilinial","C":["a"],"d":"con plu ca un linia","en":"multilinial"}
-{"T":"r","L":"multimedial","C":["a","arte"],"d":"presentada en plu ca un media","en":"multimedia"}
-{"L":"multimedialia","C":["n"],"en":"multimedia"}
-{"T":"r","L":"multinasional","C":["a","gov"],"d":"incluinte plu ca un pais, o persones de plu ca un pais","en":"multinational"}
-{"L":"multinasional","C":["n"],"d":"un compania cual opera en plu ca un pais","en":"multinational"}
-{"T":"r","L":"multinivelal","C":["a","arci"],"d":"con plu ca un nivel","en":"multilevel, multistory|multistorey"}
-{"T":"r","L":"multipartital","C":["a"],"d":"con plu ca un partito","en":"multiparty, multipartite"}
+{"T":"r","L":"mugre","C":["n"],"d":"cualce materia susia e repulsante, como fango o olio, o polvo cumulada","i":"#","en":"filth, grime, sludge, muck, mess","fr":"boue, bouillasse, saleté, crasse, (la) vase, fange, gadoue"}
+{"L":"mugrosa","C":["a"],"en":"filthy, squalid, grimy, mucky, messy","fr":"boueux, vaseux, plein de saleté, plein de crasse, couvert de gadoue, couvert de fange"}
+{"T":"r","L":"mugul","C":["a","ist"],"d":"pertinente a la dinastia muslim de orijina mongol, fundida par la seguores de Timur, cual ia governa multe de Barat entre la sentenios 16 e 19","i":"#","en":"Mughal, Mogul (dynasty)","fr":"mogol, moghol"}
+{"L":"mugul","C":["n"],"en":"Mughal, Mogul (dynasty)","fr":"Moghol, Mogol (dynastie)"}
+{"T":"r","L":"Muhammad","C":["n","rel"],"d":"un profeta arabi e la fundor de islam, vivente de sirca 570 a 632","en":"Muhammad, Mohammed, Muhammed","fr":"Mahomet"}
+{"T":"r","L":"mujil","C":["n","pex"],"d":"un pex, xef trovada en mares, e un fonte importante de comeda per umanas","i":"#","t":"Mugilidae","en":"mullet (fish)","fr":"mulet, muge (poisson)"}
+{"T":"r","L":"mul","C":["n","mol"],"d":"un bivalvo con concas brun o oscur purpur","i":"#","t":"Mytilidae","en":"mussel (mollusk|mollusc)","fr":"moule (mollusque)"}
+{"T":"r","L":"mula","C":["n","rel"],"d":"un muslim saja sur teolojia e leges","en":"mullah (Islam)","fr":"mollah"}
+{"T":"r","L":"muladi","C":["n","dem"],"d":"un muslim, tipal con asendentes miscada, de Andalusia en la eda medieval","en":"muladi (Islam)","fr":"muladi"}
+{"T":"r","L":"mulato","C":["n","ist"],"d":"(aora insultante) un person con jenitores o asendentes de razas blanca e negra","en":"(derogatory) mulatto","fr":"mulâtre, métis, sang mêlé"}
+{"T":"r","L":"muleta","C":["n","util"],"d":"un baston con un peso orizonal, usada par persones ci no pasea fasil per move sua pesa de la gamas a la corpo alta; (metafor) cualce otra cosa usada per suporta o calmi","i":"#","en":"crutch (support stick)","fr":"béquille, soutien, support"}
+{"T":"r","L":"mulo","C":["n","mam"],"d":"un enfante de asino mas e cavalo fema, normal steril e comun usada per tira aparatos de cultiva; cualce otra animal ibride e steril","i":"#","en":"mule","fr":"mule, mulet"}
+{"L":"mulin","C":["a"],"en":"mulish, stubborn","fr":"semblable à une mule"}
+{"L":"mulor","C":["n"],"en":"muleteer","fr":"muletier"}
+{"T":"r","L":"multa","C":["vt","mone","gov"],"d":"puni (algun) par fa ce el paia un cuantia de mone, tipal per un ata criminal","en":"fine, penalize","fr":"pénaliser, donner une amende à, condamner (quelqu'un) à une amende"}
+{"L":"multa","C":["n"],"en":"fine, penalty, ticket, forfeit, forfeiture","fr":"amende, peine pécuniaire, contravention"}
+{"T":"r","L":"multe","C":["d"],"d":"un cuantia grande de","da":"mange, meget","de":"viel, viele","en":"many, much, numerous, myriad, a host of, a multitude of","es":"mucho, muchos","fr":"beaucoup de, un grand nombre de, nombre de, force, moult, quantité de"}
+{"L":"multe","C":["av"],"d":"a grado forte","da":"meget (grad)","de":"viel, sehr","en":"very, really, greatly","es":"mucho, muy","fr":"beaucoup, très, vraiment"}
+{"L":"multe","C":["pron"],"en":"much, many (singular or plural)","es":"mucho, muchos","fr":"beaucoup, une grande quantité"}
+{"L":"multes","C":["pron","pl"],"en":"(people or things, optional plural pronoun)","es":"muchos","fr":"beaucoup"}
+{"L":"multe min","C":["a"],"en":"many fewer, much less","fr":"bien moins de, beaucoup moins de"}
+{"L":"multe min","C":["av"],"en":"much less","fr":"bien moins, beaucoup moins"}
+{"L":"multe plu","C":["a"],"en":"many more, much more","fr":"beaucoup plus de, bien plus de"}
+{"L":"multe plu","C":["av"],"en":"much more","fr":"beaucoup plus, bien plus"}
+{"L":"es plu multe ca","C":["v"],"en":"outnumber","fr":"être en plus grand nombre que, être plus nombreux que, surpasser en nombre, dépasser en nombre, l'emporter en nombre sur"}
+{"L":"multia","C":["n"],"en":"multitude, host","fr":"multitude, foule, grand nombre, grande quantité"}
+{"L":"tan multe como posible","C":["esp"],"en":"as many as possible, as much as possible","fr":"autant que possible, aussi nombreux que possible"}
+{"T":"r","L":"multi-","C":["pf","tecn"],"d":"multe o plu ca un","en":"multi-","fr":"multi-, pluri-"}
+{"T":"r","L":"multibandal","C":["a","mus"],"d":"pertinente a la misca de bandas de sona cual ia es rejistrada en modo separada","en":"multitrack","fr":"multipiste"}
+{"T":"r","L":"multicanalal","C":["a","info"],"d":"con multe canales de comunica o televisa","en":"multichannel","fr":"multicanal"}
+{"T":"r","L":"multicolorosa","C":["a","col"],"d":"con multe colores","en":"multicolored|ur, multicolor|ur, polychromatic, variegated, motley, mottled, pied, dappled","fr":"multicolore, bariolé, polychrome, bigarré, chamarré"}
+{"T":"r","L":"multicoral","C":["a","util"],"d":"(un corda eletrical) composada de multe filos; (un computador) conteninte plu ca un prosedador e donce capas de esecuta plu ca un comanda a la mesma tempo","en":"multicore","fr":"multicœur"}
+{"T":"r","L":"multicultural","C":["a","uma"],"d":"pertinente a plu ca un cultur","en":"multicultural, cosmopolitan","fr":"multiculturel, cosmopolite"}
+{"L":"multiculturalisme","C":["n"],"d":"la suporta en un sosia per la presenta de cultures o grupos etnica diversa; un filosofia cual sujesta ce cultures diversa pote aida en la developa de comprende","en":"multiculturalism","fr":"multiculturalisme"}
+{"T":"r","L":"multidimensional","C":["a","fis"],"d":"con plu ca un dimension","en":"multidimensional","fr":"multidimensionnel"}
+{"T":"r","L":"multidirijal","C":["a"],"d":"con plu ca un dirije","en":"multidirectional","fr":"multidirectionnel"}
+{"T":"r","L":"multietnical","C":["a","uma"],"d":"pertinente a plu ca un etnico","en":"multiethnic","fr":"métissé, pluriethnique, multiethnique"}
+{"T":"r","L":"multifasal","C":["a","fis"],"d":"con plu ca un fase","en":"multiphase, multiphasic","fr":"multiphasique"}
+{"T":"r","L":"multifasetal","C":["a","fis"],"d":"con multe fasetas","en":"multifaceted","fr":"multifacette"}
+{"T":"r","L":"multigradal","C":["a"],"d":"con multe grados o pasos","en":"multistage","fr":"multiétage, à étages multiples, à niveaux multiples, à degrés multiples, à plusieurs étages | niveaux | degrés"}
+{"T":"r","L":"multijuoral","C":["a","info"],"d":"(un jua eletronical) capas de es juada par multe persones a la mesma tempo","en":"multiplayer","fr":"multijoueur"}
+{"T":"r","L":"multiladal","C":["a","mat"],"d":"con multe lados","en":"multilateral, many-sided","fr":"multilatéral"}
+{"L":"multiladalisme","C":["n"],"en":"multilateralism","fr":"multilatéralisme"}
+{"T":"r","L":"multilingual","C":["a","ling"],"d":"capas de parla, o presentada en, plu ca du linguas","en":"multilingual","fr":"multilingue, plurilingue"}
+{"L":"multilingual","C":["n"],"en":"polyglot","fr":"polyglotte"}
+{"L":"multilingualisme","C":["n"],"en":"multilingualism","fr":"multilinguisme, plurilinguisme"}
+{"T":"r","L":"multilinial","C":["a"],"d":"con plu ca un linia","en":"multilinial","fr":"mulilinéaire"}
+{"T":"r","L":"multimedial","C":["a","arte"],"d":"presentada en plu ca un media","en":"multimedia","fr":"multimédia"}
+{"L":"multimedialia","C":["n"],"en":"multimedia","fr":"multimédia"}
+{"T":"r","L":"multinasional","C":["a","gov"],"d":"incluinte plu ca un pais, o persones de plu ca un pais","en":"multinational","fr":"multinational"}
+{"L":"multinasional","C":["n"],"d":"un compania cual opera en plu ca un pais","en":"multinational","fr":"multinationale"}
+{"T":"r","L":"multinivelal","C":["a","arci"],"d":"con plu ca un nivel","en":"multilevel, multistory|multistorey","fr":"à niveaux multiples, multiniveau"}
+{"T":"r","L":"multipartital","C":["a"],"d":"con plu ca un partito","en":"multiparty, multipartite","fr":"multipartite"}
 {"T":"r","L":"multiple","C":["a","mat"],"d":"con plu ca un parte, elemento o membro","en":"multiple","fr":"multiple"}
-{"L":"multiple","C":["av"],"en":"multiply"}
-{"L":"multiple","C":["n"],"en":"multiple (number)"}
+{"L":"multiple","C":["av"],"en":"multiply","fr":"de nombreuses façons, de multiples façons, de plusieurs manières, de multiples manières"}
+{"L":"multiple","C":["n"],"en":"multiple (number)","fr":"multiple (nombre)"}
 {"L":"multipli","C":["vnt"],"en":"become multiple","es":"reproducirse","fr":"se multiplier"}
 {"L":"multipli","C":["vt"],"da":"gange, multiplicere","de":"multiplizieren","en":"multiply","es":"multiplicar","fr":"multiplier"}
-{"L":"multipli","C":["n"],"en":"multiplication; product"}
-{"L":"multiplida","C":["n"],"en":"multiplicand"}
-{"L":"multiplida par","C":["prep"],"en":"multiplied by, times"}
-{"L":"multiplinte","C":["n"],"en":"multiplier"}
-{"T":"r","L":"multipleso","C":["n"],"d":"un composada complicada con multe elementos","en":"multiplex"}
-{"L":"multiplesal","C":["a"],"en":"multiplex"}
-{"T":"r","L":"multipolal","C":["a"],"d":"con multe polos o estremas; (un sosia) polalida en multe dirijes","en":"multipolar"}
-{"T":"r","L":"multirazal","C":["a","gov"],"d":"pertinente a plu ca un raza","en":"multiracial"}
-{"T":"r","L":"multiselulal","C":["a","bio"],"d":"composada de plu ca un selula","en":"multicellular"}
-{"T":"r","L":"multistratal","C":["a"],"d":"con plu ca un strato","en":"multilayered"}
-{"T":"r","L":"multitaxal","C":["a","util"],"d":"capas de fa plu ca un taxe a la mesma tempo","en":"multitasking"}
-{"L":"multitaxia","C":["n"],"en":"multitasking"}
-{"T":"r","L":"multiterenal","C":["a","vec"],"d":"(un veculo) capas de funsiona en terenos cual no conveni a veculos normal","en":"off-road, all-terrain"}
-{"L":"multiterenal","C":["n"],"en":"off-road vehicle, all-terrain vehicle, sport utility vehicle, SUV, four-wheel drive, four-by-four"}
-{"T":"r","L":"multiusal","C":["a","util"],"d":"usable en multe modos","en":"multipurpose, multifunctional, versatile, general-purpose"}
-{"T":"r","L":"multiusoral","C":["a","info"],"d":"(un sistem) capas de es usada par multe persones a la mesma tempo","en":"multiuser"}
-{"T":"r","L":"multivalente","C":["a"],"d":"con multe aplicas, sinifias o valuas","en":"multivalent"}
-{"T":"r","L":"multivariante","C":["a","mat"],"d":"con plu ca un cuantia variable","en":"multivariate, multivariant"}
-{"T":"r","L":"multiverso","C":["n","fis"],"d":"un colie ipotesal de universos posible, incluinte lo cual nos abita","en":"multiverse"}
+{"L":"multipli","C":["n"],"en":"multiplication; product","fr":"multiplication, produit"}
+{"L":"multiplida","C":["n"],"en":"multiplicand","fr":"multiplicande"}
+{"L":"multiplida par","C":["prep"],"en":"multiplied by, times","fr":"multiplié par, fois"}
+{"L":"multiplinte","C":["n"],"en":"multiplier","fr":"multiplicateur"}
+{"T":"r","L":"multipleso","C":["n"],"d":"un composada complicada con multe elementos","en":"multiplex","fr":"multiplexe"}
+{"L":"multiplesal","C":["a"],"en":"multiplex","fr":"multiplexe"}
+{"T":"r","L":"multipolal","C":["a"],"d":"con multe polos o estremas; (un sosia) polalida en multe dirijes","en":"multipolar","fr":"multipolaire"}
+{"T":"r","L":"multirazal","C":["a","gov"],"d":"pertinente a plu ca un raza","en":"multiracial","fr":"multiracial"}
+{"T":"r","L":"multiselulal","C":["a","bio"],"d":"composada de plu ca un selula","en":"multicellular","fr":"multicellulaire, pluricellulaire"}
+{"T":"r","L":"multistratal","C":["a"],"d":"con plu ca un strato","en":"multilayered","fr":"multicouche, à couches multiples, à plusieurs couches, à plusieurs niveaux"}
+{"T":"r","L":"multitaxal","C":["a","util"],"d":"capas de fa plu ca un taxe a la mesma tempo","en":"multitasking","fr":"multitâche"}
+{"L":"multitaxia","C":["n"],"en":"multitasking","fr":"multitâche"}
+{"T":"r","L":"multiterenal","C":["a","vec"],"d":"(un veculo) capas de funsiona en terenos cual no conveni a veculos normal","en":"off-road, all-terrain","fr":"tout-terrain"}
+{"L":"multiterenal","C":["n"],"en":"off-road vehicle, all-terrain vehicle, sport utility vehicle, SUV, four-wheel drive, four-by-four","fr":"tout-terrain, 4×4 (quatre-quatre), SUV"}
+{"T":"r","L":"multiusal","C":["a","util"],"d":"usable en multe modos","en":"multipurpose, multifunctional, versatile, general-purpose","fr":"multiusage, multifonction"}
+{"T":"r","L":"multiusoral","C":["a","info"],"d":"(un sistem) capas de es usada par multe persones a la mesma tempo","en":"multiuser","fr":"multi-utilisateur"}
+{"T":"r","L":"multivalente","C":["a"],"d":"con multe aplicas, sinifias o valuas","en":"multivalent","fr":"polyvalent"}
+{"T":"r","L":"multivariante","C":["a","mat"],"d":"con plu ca un cuantia variable","en":"multivariate, multivariant","fr":"multivarié"}
+{"T":"r","L":"multiverso","C":["n","fis"],"d":"un colie ipotesal de universos posible, incluinte lo cual nos abita","en":"multiverse","fr":"multivers"}
 {"T":"r","L":"mundo","C":["n"],"d":"la Tera, con tota sua paises, poplas e partes natural; un parte spesifada de esta, como la mundo antica, la mundo de animales, o un mundo de ideas strana; un otra planeta simil a la Tera; la fenomeno de interatas sosial umana","da":"verden","de":"Welt","en":"world","es":"mundo","fr":"monde"}
-{"L":"mundo consumiste","C":["n"],"en":"material world"}
-{"L":"mundo de sonia","C":["n"],"en":"dream world"}
-{"L":"de la mundo","C":["a"],"en":"cosmopolitan"}
-{"L":"la plu grande de mundo","C":["a"],"en":"the world's largest"}
-{"L":"mundal","C":["a"],"en":"world, worldly (pertaining to the world)"}
-{"L":"nonmundal","C":["a"],"en":"unworldly"}
-{"L":"sumundo","C":["n"],"en":"underworld"}
-{"T":"r","L":"muni","C":["vt","gov"],"d":"furni baletas, cartuxes o bombas a (algun)","en":"supply with ammunition"}
-{"L":"muni","C":["n"],"en":"ammunition, ammo, munition"}
-{"T":"r","L":"munisipa","C":["n","gov"],"d":"un site o vila corporada, con governa local","en":"municipality"}
-{"L":"munisipal","C":["n"],"en":"municipal, civic"}
-{"T":"r","L":"munster","C":["n","cos"],"d":"un ceso mol de Frans norde-este","en":"munster, muenster (cheese)"}
-{"T":"r","L":"muon","C":["n","fis"],"d":"un particula suatomal e nonstable en la mesma clase como un eletron, ma con masa plu grande a sirca 200 veses","en":"muon (particle)"}
+{"L":"mundo consumiste","C":["n"],"en":"material world","fr":"monde matériel"}
+{"L":"mundo de sonia","C":["n"],"en":"dream world","fr":"monde rêvé"}
+{"L":"de la mundo","C":["a"],"en":"cosmopolitan","fr":"du monde, cosmopolite"}
+{"L":"la plu grande de mundo","C":["a"],"en":"the world's largest","fr":"le plus grand du monde"}
+{"L":"mundal","C":["a"],"en":"world, worldly (pertaining to the world)","fr":"mondial, mondain (du monde)"}
+{"L":"nonmundal","C":["a"],"en":"unworldly","fr":"qui n'est pas du monde, non mondain"}
+{"L":"sumundo","C":["n"],"en":"underworld","fr":"monde souterrain, inframonde"}
+{"T":"r","L":"muni","C":["vt","gov"],"d":"furni baletas, cartuxes o bombas a (algun)","en":"supply with ammunition","fr":"munir, donner des munitions, fournir des munitions, armer"}
+{"L":"muni","C":["n"],"en":"ammunition, ammo, munition","fr":"munition"}
+{"T":"r","L":"munisipa","C":["n","gov"],"d":"un site o vila corporada, con governa local","en":"municipality","fr":"municipalité"}
+{"L":"munisipal","C":["n"],"en":"municipal, civic","fr":"municipal, civique"}
+{"T":"r","L":"munster","C":["n","cos"],"d":"un ceso mol de Frans norde-este","en":"munster, muenster (cheese)","fr":"munster"}
+{"T":"r","L":"muon","C":["n","fis"],"d":"un particula suatomal e nonstable en la mesma clase como un eletron, ma con masa plu grande a sirca 200 veses","en":"muon (particle)","fr":"muon (particule)"}
 {"T":"r","L":"mur","C":["n","arci"],"d":"un lado vertical de un construida o sala; un strutur vertical e continuante de brices o petras cual ensirca o divide un area de tera; alga cosa usada como un parador per proteje o restrinje","i":"#","da":"væg","de":"Wand, Mauer","en":"wall; bulkhead (ship)","es":"pared, muro, tapia","fr":"mur"}
 {"L":"mur contra esplodes","C":["n"],"en":"blast wall"}
-{"L":"mural","C":["a"],"en":"mural (pertaining to a wall)"}
-{"L":"mural","C":["n"],"en":"mural"}
-{"L":"muraliste","C":["n"],"en":"muralist (artist)"}
-{"L":"mureta","C":["n"],"d":"un mur interna e lejera; un surfas vertical sur cual on afisa paperes o scrive","en":"partition; board"}
-{"L":"mureta blanca","C":["n"],"en":"whiteboard"}
-{"L":"mureta de avisas","C":["n"],"en":"message board, bulletin board, noticeboard"}
+{"L":"mural","C":["a"],"en":"mural (pertaining to a wall)","fr":"mural"}
+{"L":"mural","C":["n"],"en":"mural","fr":"fresque, peinture murale"}
+{"L":"muraliste","C":["n"],"en":"muralist (artist)","fr":"muraliste, graffeur"}
+{"L":"mureta","C":["n"],"d":"un mur interna e lejera; un surfas vertical sur cual on afisa paperes o scrive","en":"partition; board","fr":"muret, panneau d'affichage"}
+{"L":"mureta blanca","C":["n"],"en":"whiteboard","fr":"tableau blanc"}
+{"L":"mureta de avisas","C":["n"],"en":"message board, bulletin board, noticeboard","fr":"panneau d'affichage, panneau d'annonces"}
 {"L":"mureta negra","C":["n"],"i":"#","en":"blackboard, chalkboard","fr":"tableau noir"}
-{"L":"muron","C":["n"],"en":"rampart, defensive wall, city wall; bulkhead, retaining wall","es":"muralla"}
-{"L":"muron de mar","C":["n"],"en":"seawall"}
-{"L":"muron de tera","C":["n"],"en":"earthwork"}
-{"T":"r","L":"Muritania","C":["n","jeo"],"c":"Nuakshut","d":"un pais en Africa ueste con costa a la Mar Atlantica","i":"#","en":"Mauritania"}
-{"L":"muritani","C":["a"],"en":"Mauritanian"}
-{"L":"muritani","C":["n"],"en":"Mauritanian"}
-{"T":"r","L":"murmura","C":["vnt"],"d":"produi un sona tan cuieta o basa ce lo es cuasi nonoiable","en":"murmur, mumble, burble","fr":"murmurer"}
-{"L":"murmura","C":["vt"],"en":"murmur, mumble, burble","fr":"murmurer"}
-{"L":"murmura","C":["n"],"en":"murmur, mumble, burble"}
+{"L":"muron","C":["n"],"en":"rampart, defensive wall, city wall; bulkhead, retaining wall","es":"muralla","fr":"muraille, rempart, mur d'enceinte, fortifications"}
+{"L":"muron de mar","C":["n"],"en":"seawall","fr":"digue, mur de protection"}
+{"L":"muron de tera","C":["n"],"en":"earthwork","fr":"terre-plein"}
+{"T":"r","L":"Muritania","C":["n","jeo"],"c":"Nuakshut","d":"un pais en Africa ueste con costa a la Mar Atlantica","i":"#","en":"Mauritania","fr":"Mauritanie"}
+{"L":"muritani","C":["a"],"en":"Mauritanian","fr":"mauritanien"}
+{"L":"muritani","C":["n"],"en":"Mauritanian","fr":"Mauritanien"}
+{"T":"r","L":"murmura","C":["vnt"],"d":"produi un sona tan cuieta o basa ce lo es cuasi nonoiable","en":"murmur, mumble, burble","fr":"murmurer, chuchoter"}
+{"L":"murmura","C":["vt"],"en":"murmur, mumble, burble","fr":"murmurer, chuchoter"}
+{"L":"murmura","C":["n"],"en":"murmur, mumble, burble","fr":"murmure, chuchotement"}
 {"T":"r","L":"mus","C":["n","mam","info"],"d":"un rodente peti con beco puntida, oreas e oios grande, e coda longa; un aparato peti cual on manipula per interata con un cursor a la scermo de un computador","i":"#, mus-de-computador","t":"Mus","da":"mus","de":"Maus","en":"mouse","es":"ratón","fr":"souris"}
-{"L":"musin","C":["a"],"en":"mouselike, mousy"}
+{"L":"musin","C":["a"],"en":"mouselike, mousy","fr":"semblable à une souris"}
 {"T":"r","L":"musa","C":["n","mit"],"d":"cualce de nove divas, fias de Zeus e Mnemosine, ci representa la artes e siensas; un person ci inspira un artiste","en":"muse","fr":"muse"}
-{"T":"r","L":"musaca","C":["n","cos"],"d":"un plato elinica de melonjena, tomates e oveta axida a picos, fornida o fritada, con salsa de ceso","en":"moussaka (food)"}
+{"T":"r","L":"musaca","C":["n","cos"],"d":"un plato elinica de melonjena, tomates e oveta axida a picos, fornida o fritada, con salsa de ceso","en":"moussaka (food)","fr":"moussaka"}
 {"T":"r","L":"musarania","C":["n","mam"],"d":"un mamal insetivor, peti e musin, con beco longa e puntida e oios peti","i":"#","t":"Soricidae","en":"shrew (animal)","fr":"musaraigne"}
 {"T":"r","L":"muscada","C":["n","pla","cos"],"d":"un arbor de la isolas de Malucu; un spise preparada de la semes de esta","i":"#","t":"Myristica","en":"nutmeg","fr":"muscade"}
-{"T":"r","L":"muscari","C":["n","pla"],"d":"un planta relatada a jasinto, con flores tipal blu e con forma de vaso","t":"Muscari","en":"grape hyacinth (plant)"}
-{"T":"r","L":"muscarina","C":["n","cim"],"d":"un cimica natural trovada en alga xampiniones","en":"muscarine"}
-{"T":"r","L":"muscatel","C":["n","pla","cos"],"d":"un varia de uva con odor muscosa; un vino preparada de esta","en":"muscat, muscatel (grape, wine)"}
+{"T":"r","L":"muscari","C":["n","pla"],"d":"un planta relatada a jasinto, con flores tipal blu e con forma de vaso","t":"Muscari","en":"grape hyacinth (plant)","fr":"jacinthe à grappes, muscari"}
+{"T":"r","L":"muscarina","C":["n","cim"],"d":"un cimica natural trovada en alga xampiniones","en":"muscarine","fr":"muscarine"}
+{"T":"r","L":"muscatel","C":["n","pla","cos"],"d":"un varia de uva con odor muscosa; un vino preparada de esta","en":"muscat, muscatel (grape, wine)","fr":"muscat"}
 {"T":"r","L":"musco","C":["n","mam"],"d":"un mamal peti, solitar e servin de Asia, sin cornos, ma con dentones longa; un materia rojin brun con odor forte, secreteda par la musco mas, e usada en crea parfumes; un materia simil de otra animales","i":"#","t":"Moschus","en":"musk deer; musk","fr":"musc"}
-{"L":"muscosa","C":["a"],"en":"musky"}
+{"L":"muscosa","C":["a"],"en":"musky","fr":"musqué"}
 {"T":"r","L":"musculo","C":["n","anat"],"d":"un banda o faxo de texeda fibrosa en la corpo de un animal, capas de contrae per move o manteni la posa de partes de corpo","da":"muskel","de":"Muskel","en":"muscle","es":"músculo","fr":"muscle"}
-{"L":"musculal","C":["a"],"en":"muscular"}
-{"L":"musculor","C":["n"],"en":"muscleman, strongman, he-man"}
-{"L":"musculos","C":["n","pl"],"en":"muscles, musculature"}
-{"L":"musculosa","C":["a"],"d":"con musculos grande","i":"#","en":"muscular, muscly, brawny, beefy, musclebound"}
-{"L":"musculosia","C":["n"],"en":"muscularity, brawn"}
-{"T":"r","L":"musculosceletal","C":["a"],"d":"pertinente a la sistem de musculos e sceleto","en":"musculoskeletal"}
-{"T":"r","L":"muse","C":["n","cos"],"d":"un comeda lejera, preparada de crema e blanca de ovo bateda; cualce cosa con densia simil, tipal usada per lava o per stili capeles","en":"mousse (food)"}
-{"T":"r","L":"muselina","C":["n","vest"],"d":"un stofa de coton multe lejera e simple texeda","en":"muslin (fabric)"}
-{"L":"de muselina","C":["a"],"en":"(made of) muslin"}
-{"T":"r","L":"museo","C":["n","arci"],"d":"un construida en cual on conserva e esibi ojetos de interesa istorial, siensal, artiste o cultural","i":"#","da":"museum","de":"Museum","en":"museum","es":"museo","fr":"muscle"}
+{"L":"musculal","C":["a"],"en":"muscular","fr":"musculaire"}
+{"L":"musculor","C":["n"],"en":"muscleman, strongman, he-man","fr":"monsieur-muscle"}
+{"L":"musculos","C":["n","pl"],"en":"muscles, musculature","fr":"muscles, musculature"}
+{"L":"musculosa","C":["a"],"d":"con musculos grande","i":"#","en":"muscular, muscly, brawny, beefy, musclebound","fr":"musclé, baraqué, costaud, robuste, bien bâti, solide"}
+{"L":"musculosia","C":["n"],"en":"muscularity, brawn","fr":"robustesse, musculature"}
+{"T":"r","L":"musculosceletal","C":["a"],"d":"pertinente a la sistem de musculos e sceleto","en":"musculoskeletal","fr":"musculosquelettique"}
+{"T":"r","L":"muse","C":["n","cos"],"d":"un comeda lejera, preparada de crema e blanca de ovo bateda; cualce cosa con densia simil, tipal usada per lava o per stili capeles","en":"mousse (food)","fr":"mousse, émulsion"}
+{"T":"r","L":"muselina","C":["n","vest"],"d":"un stofa de coton multe lejera e simple texeda","en":"muslin (fabric)","fr":"mousseline (tissu)"}
+{"L":"de muselina","C":["a"],"en":"(made of) muslin","fr":"en mousseline"}
+{"T":"r","L":"museo","C":["n","arci"],"d":"un construida en cual on conserva e esibi ojetos de interesa istorial, siensal, artiste o cultural","i":"#","da":"museum","de":"Museum","en":"museum","es":"museo","fr":"musée"}
 {"T":"r","L":"musica","C":["n","mus"],"d":"sonas de vose o strumentos, combinada en modo bela, armoniosa e emosial espresosa; un pasaje de esta","da":"musik","de":"Musik","en":"music","es":"música","fr":"musique"}
-{"L":"musica de asendador","C":["n"],"en":"muzak, elevator music, lift music"}
-{"L":"musica de folclor","C":["n"],"en":"folk music"}
-{"L":"musica de salon","C":["n"],"en":"chamber music"}
-{"L":"musica en conserta","C":["n"],"en":"live music"}
-{"L":"musica pop","C":["n"],"en":"pop music"}
-{"L":"musica rap","C":["n"],"en":"rap music"}
-{"L":"musica roc","C":["n"],"en":"rock music"}
-{"L":"musical","C":["a"],"en":"musical"}
-{"L":"musiciste","C":["n"],"en":"musician"}
-{"L":"musiciste suportante","C":["n"],"en":"supporting musician, sideman"}
-{"T":"r","L":"musicolojia","C":["n","mus"],"d":"la studia academial de musica","en":"musicology"}
-{"L":"musicolojiste","C":["n"],"en":"musicologist"}
+{"L":"musica de asendador","C":["n"],"en":"muzak, elevator music, lift music","fr":"musique d'ambiance"}
+{"L":"musica de folclor","C":["n"],"en":"folk music","fr":"musique folklorique"}
+{"L":"musica de salon","C":["n"],"en":"chamber music","fr":"musique de chambre"}
+{"L":"musica en conserta","C":["n"],"en":"live music","fr":"concert"}
+{"L":"musica pop","C":["n"],"en":"pop music","fr":"pop music"}
+{"L":"musica rap","C":["n"],"en":"rap music","fr":"rap"}
+{"L":"musica roc","C":["n"],"en":"rock music","fr":"rock"}
+{"L":"musical","C":["a"],"en":"musical","fr":"musical"}
+{"L":"musiciste","C":["n"],"en":"musician","fr":"musicien"}
+{"L":"musiciste suportante","C":["n"],"en":"supporting musician, sideman","fr":"musciens supplétifs"}
+{"T":"r","L":"musicolojia","C":["n","mus"],"d":"la studia academial de musica","en":"musicology","fr":"musicologie"}
+{"L":"musicolojiste","C":["n"],"en":"musicologist","fr":"musicologue"}
 {"T":"r","L":"musli","C":["n","cos"],"d":"un misca de sereal (tipal avena), frutas secida e nozas, tipal comeda con lete a la come de matina","i":"#","en":"muesli, granola","fr":"muesli"}
-{"T":"r","L":"mustang","C":["n","mam"],"d":"un cavalo savaje american, desendente de los domada par colonistes espaniol en la sentenio 16","en":"mustang (horse)"}
-{"T":"r","L":"mustax","C":["n","vest"],"d":"un banda de capeles cresente supra la labio alta","i":"#","en":"mustache|moustache","fr":"moutache"}
+{"T":"r","L":"mustang","C":["n","mam"],"d":"un cavalo savaje american, desendente de los domada par colonistes espaniol en la sentenio 16","en":"mustang (horse)","fr":"mustang (cheval)"}
+{"T":"r","L":"mustax","C":["n","vest"],"d":"un banda de capeles cresente supra la labio alta","i":"#","en":"mustache|moustache","fr":"moustache"}
 {"T":"r","L":"mustela","C":["n","mam"],"d":"un mamal carnivor, peti e magra","i":"#","t":"Mustela","en":"weasel","fr":"belette"}
-{"L":"mustelin","C":["a"],"en":"weaselly, weasel-like"}
-{"T":"r","L":"muta","C":["vnt","cim","bio"],"d":"cambia sua forma o natur; (en biolojia) cambia sua jenes","en":"mutate, transform, transmute"}
-{"L":"muta","C":["vt"],"en":"mutate, transform, transmute, transfigure, transmogrify"}
-{"L":"muta","C":["n"],"en":"mutation, transformation, metamorphosis, transmutation, transfiguration"}
-{"L":"muta sua pel","C":["v"],"en":"shed one's skin"}
-{"L":"muta sua pelo","C":["v"],"en":"molt|ul"}
-{"L":"muta sua plumas","C":["v"],"en":"molt|ul"}
-{"L":"mutable","C":["a"],"en":"mutable, changeable"}
-{"L":"mutablia","C":["n"],"en":"mutability"}
-{"L":"mutada","C":["a"],"en":"mutated"}
-{"L":"mutada","C":["n"],"en":"mutant"}
-{"L":"mutador","C":["n"],"en":"transformer"}
-{"L":"mutisme","C":["n"],"en":"metamorphism (geology)"}
-{"L":"nonmutable","C":["a"],"en":"immutable"}
-{"L":"nonmutablia","C":["n"],"en":"immutability"}
-{"T":"r","L":"mutaforma","C":["n"],"d":"un esente cual pote muta sua forma fisical, tipal volente, como trovada en mitos e fantasias","de":"formwandler","en":"shape-shifter","it":"mutaforma"}
-{"L":"mutaformi","C":["vnt"],"d":"muta sua forma fisical, tipal par un capasia inerente o par majia, como trovada en mitos e fantasias","en":"shape-shift, metamorphose"}
-{"L":"mutaformia","C":["n"],"d":"la capasia, inerente o majial, per cambia sua forma fisical, como trovada en mitos e fantasias","en":"shape-shifting, metamorphosis"}
-{"T":"r","L":"mutajen","C":["a","bio","cim"],"d":"capas de inisia o aselera muta jenetical","en":"mutagenic (genetics)"}
-{"L":"mutajen","C":["n"],"en":"mutagen"}
-{"T":"r","L":"mutila","C":["vt","uma"],"d":"malformi (un person o cosa) par feri o dana","en":"mutilate, mangle"}
-{"L":"mutila","C":["n"],"en":"mutilation"}
+{"L":"mustelin","C":["a"],"en":"weaselly, weasel-like","fr":"semblable à une belette"}
+{"T":"r","L":"muta","C":["vnt","cim","bio"],"d":"cambia sua forma o natur; (en biolojia) cambia sua jenes","en":"mutate, transform, transmute","fr":"muter, se transformer, se changer, se métamorphoser, se modifier, se transfigurer, muer"}
+{"L":"muta","C":["vt"],"en":"mutate, transform, transmute, transfigure, transmogrify","fr":"transmuter, transformer, changer, métamorphoser, modifier, transfigurer"}
+{"L":"muta","C":["n"],"en":"mutation, transformation, metamorphosis, transmutation, transfiguration","fr":"changement, transformation, modification, mutation, transmutation, transfiguration, mue"}
+{"L":"muta sua pel","C":["v"],"en":"shed one's skin","fr":"muer, changer de peau"}
+{"L":"muta sua pelo","C":["v"],"en":"molt|ul","fr":"muer, perdre son pelage"}
+{"L":"muta sua plumas","C":["v"],"en":"molt|ul","fr":"muer, renouveler son plumage"}
+{"L":"mutable","C":["a"],"en":"mutable, changeable","fr":"mutable, changeable, modifiable, transformable"}
+{"L":"mutablia","C":["n"],"en":"mutability","fr":"mutabilité, capacité à changer, possibilité de changer, possibilité de modifier, instabilité, muabilité"}
+{"L":"mutada","C":["a"],"en":"mutated","fr":"changé, modifier, transformé"}
+{"L":"mutada","C":["n"],"en":"mutant","fr":"mutant"}
+{"L":"mutador","C":["n"],"en":"transformer","fr":"transformateur"}
+{"L":"mutisme","C":["n"],"en":"metamorphism (geology)","fr":"métamorphisme (géologie)"}
+{"L":"nonmutable","C":["a"],"en":"immutable","fr":"immuable, fixe, inchangeable, invariable, qu'on ne peut modifier, inaltérable, stable"}
+{"L":"nonmutablia","C":["n"],"en":"immutability","fr":"immuabilité, fixité, stabilité, invariabilité"}
+{"T":"r","L":"mutaforma","C":["n"],"d":"un esente cual pote muta sua forma fisical, tipal volente, como trovada en mitos e fantasias","de":"formwandler","en":"shape-shifter","fr":"métamorphe","it":"mutaforma"}
+{"L":"mutaformi","C":["vnt"],"d":"muta sua forma fisical, tipal par un capasia inerente o par majia, como trovada en mitos e fantasias","en":"shape-shift, metamorphose","fr":"se métamorphoser"}
+{"L":"mutaformia","C":["n"],"d":"la capasia, inerente o majial, per cambia sua forma fisical, como trovada en mitos e fantasias","en":"shape-shifting, metamorphosis","fr":"métamorphose"}
+{"T":"r","L":"mutajen","C":["a","bio","cim"],"d":"capas de inisia o aselera muta jenetical","en":"mutagenic (genetics)","fr":"mutagène"}
+{"L":"mutajen","C":["n"],"en":"mutagen","fr":"mutagène"}
+{"T":"r","L":"mutila","C":["vt","uma"],"d":"malformi (un person o cosa) par feri o dana","en":"mutilate, mangle","fr":"mutiler"}
+{"L":"mutila","C":["n"],"en":"mutilation","fr":"mutilation"}
 {"T":"r","L":"mutua","C":["a","uma"],"d":"esperiada o fada par cada de du o plu persones o grupos a lunlotra","da":"gensidig","de":"gegenseitig","en":"mutual, reciprocal","es":"mutuo, recíproco","fr":"mutuel"}
-{"L":"mutua","C":["av"],"en":"mutually, reciprocally, to each other, to one another"}
-{"L":"mutui","C":["vnt"],"en":"mutualize|is"}
-{"L":"mutui","C":["vt"],"en":"mutualize|is"}
-{"T":"r","L":"muu","C":["esc","onom"],"d":"la sona basa fada par un bove","en":"moo (cow)"}
-{"L":"mui","C":["vt"],"en":"moo, low"}
-{"L":"mui","C":["n"],"en":"mooing, lowing"}
-{"T":"r","L":"muxu","C":["n","cos"],"d":"un comeda, orijinante en Jonguo norde, de porco trinxada e ovos, fritada en olio, con fungos e otra ingredientes","en":"mu shu, moo shu (food)"}
-{"T":"r","L":"n","C":["sim"],"d":"la letera 14 de la alfabeta roman","p":"en","en":"n"}
-{"T":"r","L":"n","C":["c"],"d":"numero","en":"n., no.","es":"nº"}
-{"T":"r","L":"nabatea","C":["a","dem","ist"],"d":"pertinente a un popla antica de Arabia ci ia formi un rena autonom de 312 aec, o a sua dialeto de arami","i":"#","en":"Nabatean (person, language)","es":"nabateo (persona, lengua)"}
-{"L":"nabatea","C":["n"],"en":"Nabatean (person, language)","es":"nabateo (persona, lengua)"}
+{"L":"mutua","C":["av"],"en":"mutually, reciprocally, to each other, to one another","fr":"mutuellement, réciproquement, l'un l'autre"}
+{"L":"mutui","C":["vnt"],"en":"mutualize|is","fr":"se mutualiser, être partagé, être mis en commun"}
+{"L":"mutui","C":["vt"],"en":"mutualize|is","fr":"partager, mettre en commun, mutualiser"}
+{"T":"r","L":"muu","C":["esc","onom"],"d":"la sona basa fada par un bove","en":"moo (cow)","fr":"meuh (vache)"}
+{"L":"mui","C":["vt"],"en":"moo, low","fr":"meugler, beugler, mugir"}
+{"L":"mui","C":["n"],"en":"mooing, lowing","fr":"meuglement, beuglement, mugissement"}
+{"T":"r","L":"muxu","C":["n","cos"],"d":"un comeda, orijinante en Jonguo norde, de porco trinxada e ovos, fritada en olio, con fungos e otra ingredientes","en":"mu shu, moo shu (food)","fr":"mu shu, moo shu (cuisine)"}
+{"T":"r","L":"n","C":["sim"],"d":"la letera 14 de la alfabeta roman","p":"en","en":"n","fr":"n (lettre de l'alphabet)"}
+{"T":"r","L":"n","C":["c"],"d":"numero","en":"n., no.","es":"nº","fr":"n°"}
+{"T":"r","L":"nabatea","C":["a","dem","ist"],"d":"pertinente a un popla antica de Arabia ci ia formi un rena autonom de 312 aec, o a sua dialeto de arami","i":"#","en":"Nabatean (person, language)","es":"nabateo (persona, lengua)","fr":"nabatéen"}
+{"L":"nabatea","C":["n"],"en":"Nabatean (person, language)","es":"nabateo (persona, lengua)","fr":"Nabatéen (personne); nabatéen (langue)"}
 {"T":"r","L":"nabo","C":["n","pla","cos"],"d":"un planta en familia de col; la radis comable de esta","i":"#","t":"Brassica rapa","en":"turnip","es":"nabo","fr":"navet"}
-{"T":"r","L":"nacre","C":["n"],"d":"un sustantia lisa e opalin cual formi la stratos interna de la conca de alga moluscos, usada per orna","en":"nacre, mother-of-pearl (substance)","es":"nácar, madreperla"}
-{"L":"nacrin","C":["a"],"en":"nacreous","es":"nacarado"}
+{"T":"r","L":"nacre","C":["n"],"d":"un sustantia lisa e opalin cual formi la stratos interna de la conca de alga moluscos, usada per orna","en":"nacre, mother-of-pearl (substance)","es":"nácar, madreperla","fr":"nacre"}
+{"L":"nacrin","C":["a"],"en":"nacreous","es":"nacarado","fr":"nacré"}
 {"T":"r","L":"nada","C":["vnt","spo"],"d":"propulsa se tra acua par sua gamas e brasos, o (per pexes o otra animales acual) par sua pinas, codas o otra moves de la corpo","i":"#","da":"svømme","de":"schwimmen","en":"swim","es":"nadar","fr":"nager"}
 {"L":"nada","C":["n"],"en":"swim","es":"baño, natación","fr":"nage, natation"}
 {"L":"naderia","C":["n"],"en":"swimming baths, swimming complex, natatorium","es":"piscina","fr":"piscine"}
 {"L":"nador","C":["n"],"en":"swimmer","es":"nadador","fr":"nageur"}
-{"T":"r","L":"nadene","C":["a","dem"],"d":"pertinente a un popla orijinal de partes ueste de Canada e la SUA, o a sua linguas","en":"Na-Dene (person, language)","es":"na-dené (persona, lengua)"}
-{"L":"nadene","C":["n"],"en":"Na-Dene (person, language)","es":"na-dené (persona, lengua)"}
+{"T":"r","L":"nadene","C":["a","dem"],"d":"pertinente a un popla orijinal de partes ueste de Canada e la SUA, o a sua linguas","en":"Na-Dene (person, language)","es":"na-dené (persona, lengua)","fr":"na-dené"}
+{"L":"nadene","C":["n"],"en":"Na-Dene (person, language)","es":"na-dené (persona, lengua)","fr":"Na-Dené (personne); na-dené (langue)"}
 {"T":"r","L":"nadir","C":["n","ast"],"d":"(en astronomia) la punto de la sfera de la sielo direta su un oservor; (metafor) la tempo la plu basa en la fortunas de un person o organiza","en":"nadir (astronomy, misfortune)","es":"nadir","fr":"nadir"}
-{"T":"r","L":"nafta","C":["n","cim"],"d":"un olio flamable cual conteni idrocarbonos, otenida par la distila seca de materias organica como carbon, xel o petrolio","en":"naphtha (oil)","es":"nafta"}
-{"T":"r","L":"naftalina","C":["n","cim"],"d":"un composada organica con la formula {C₁₀H₈}, tipal usada per repulsa papilios de vestes","en":"naphthalina (substance)","es":"naftalina"}
-{"T":"r","L":"naftol","C":["n","cim"],"d":"un materia cristal derivada de naftalina, usada per fabrica antisepsicas e tinjentes","en":"naphthol (substance)","es":"naftol (sustancia)"}
-{"T":"r","L":"naive","C":["a","uma"],"d":"mostrante un manca de esperia, sajia o bon judi; natural, nonfinjosa, inosente","en":"naive, ingenuous, trusting, innocent, unsophisticated, jejune","es":"ingenuo, inocente, cándido","fr":"naïf"}
-{"L":"naive","C":["n"],"en":"simpleton","es":"simplón, mentecato"}
+{"T":"r","L":"nafta","C":["n","cim"],"d":"un olio flamable cual conteni idrocarbonos, otenida par la distila seca de materias organica como carbon, xel o petrolio","en":"naphtha (oil)","es":"nafta","fr":"naphte"}
+{"T":"r","L":"naftalina","C":["n","cim"],"d":"un composada organica con la formula {C₁₀H₈}, tipal usada per repulsa papilios de vestes","en":"naphthalina (substance)","es":"naftalina","fr":"naphtaline"}
+{"T":"r","L":"naftol","C":["n","cim"],"d":"un materia cristal derivada de naftalina, usada per fabrica antisepsicas e tinjentes","en":"naphthol (substance)","es":"naftol (sustancia)","fr":"naphtol (substance)"}
+{"T":"r","L":"naive","C":["a","uma"],"d":"mostrante un manca de esperia, sajia o bon judi; natural, nonfinjosa, inosente","en":"naive, ingenuous, trusting, innocent, unsophisticated, jejune","es":"ingenuo, inocente, cándido","fr":"naïf, ingénu, innocent, candide"}
+{"L":"naive","C":["n"],"en":"simpleton","es":"simplón, mentecato","fr":"naïf, ingénu, innocent, candide"}
 {"L":"naivia","C":["n"],"en":"naivety, naiveness, innocence, ingenuousness","es":"ingenuidad, inocencia","fr":"naïveté"}
-{"T":"r","L":"Namib, Deserto","C":["n","jeo"],"d":"un deserto en Namibia en Africa sude-ueste a la costa de la Mar Atlantica","i":"Deserto-Namib","en":"Namib Desert","es":"Desierto del Namib"}
-{"T":"r","L":"Namibia","C":["n","jeo"],"c":"Windhoek","d":"un pais en Africa sude-ueste, xef composada de deserto, con costa a la Mar Atlantica","i":"#","en":"Namibia","es":"Namibia"}
-{"L":"namibian","C":["a"],"en":"Namibian","es":"namibio"}
-{"L":"namibian","C":["n","dem"],"en":"Namibian","es":"namibio"}
-{"T":"r","L":"nana","C":["n"],"d":"(nonformal) un enfantor","en":"(colloquial) nanny (carer)","es":"niñera, canguro, nana"}
-{"T":"r","L":"nano","C":["n"],"d":"un person estrema o noncomun peti; (en fables) un membro de un raza mital de viventes corta e umanin, jeneral capas de mina e metalurjia","i":"#","en":"dwarf (including mythology), midget, gnome","es":"enano","fr":"nain"}
-{"L":"nanin","C":["a"],"en":"dwarflike; dwarf (planet)"}
-{"L":"nanisme","C":["n"],"en":"dwarfism","es":"enanismo"}
-{"T":"r","L":"nano-","C":["pf","tecn"],"d":"multe peti; {10₋₉}","en":"nano- (tiny, a thousand-millionth)","es":"nano- (minúsculo, una milmillonésima)"}
+{"T":"r","L":"Namib, Deserto","C":["n","jeo"],"d":"un deserto en Namibia en Africa sude-ueste a la costa de la Mar Atlantica","i":"Deserto-Namib","en":"Namib Desert","es":"Desierto del Namib","fr":"désert du Namib"}
+{"T":"r","L":"Namibia","C":["n","jeo"],"c":"Windhoek","d":"un pais en Africa sude-ueste, xef composada de deserto, con costa a la Mar Atlantica","i":"#","en":"Namibia","es":"Namibia","fr":"Namibie"}
+{"L":"namibian","C":["a"],"en":"Namibian","es":"namibio","fr":"namibien"}
+{"L":"namibian","C":["n","dem"],"en":"Namibian","es":"namibio","fr":"Namibien"}
+{"T":"r","L":"nana","C":["n"],"d":"(nonformal) un enfantor","en":"(colloquial) nanny (carer)","es":"niñera, canguro, nana","fr":"nounou"}
+{"T":"r","L":"nano","C":["n"],"d":"un person estrema o noncomun peti; (en fables) un membro de un raza mital de viventes corta e umanin, jeneral capas de mina e metalurjia","i":"#","en":"dwarf (including mythology), midget, gnome","es":"enano","fr":"nain, personne de petite taille"}
+{"L":"nanin","C":["a"],"en":"dwarflike; dwarf (planet)","fr":"de petite taille"}
+{"L":"nanisme","C":["n"],"en":"dwarfism","es":"enanismo","fr":"nanisme"}
+{"T":"r","L":"nano-","C":["pf","tecn"],"d":"multe peti; {10₋₉}","en":"nano- (tiny, a thousand-millionth)","es":"nano- (minúsculo, una milmillonésima)","fr":"nano-"}
 {"T":"r","L":"nanomedica","C":["n"],"d":"la usa de nanotecnolojia per diagnose, trata e preveni maladias","en":"nanomedicine","es":"nanomedicina","fr":"nanomédecine"}
 {"T":"r","L":"nanoparticula","C":["n"],"d":"cualce particula microscopial con min ca sirca 100 nanometres de diametre","en":"nanoparticle","es":"nanopartícula","fr":"nanoparticule"}
 {"T":"r","L":"nanotecnolojia","C":["n"],"d":"la siensa e tecnolojia de crea e manipula nanoparticulas","en":"nanotechnology","es":"nanotecnología","fr":"nanotechnologie"}
