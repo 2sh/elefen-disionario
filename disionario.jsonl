@@ -17578,267 +17578,267 @@
 {"L":"desnazi","C":["n"],"en":"denazification","fr":"dénazification"}
 {"L":"nazisme","C":["n"],"en":"Nazism","fr":"nazisme"}
 {"T":"r","L":"nb","C":["c"],"d":"nota bon","en":"NB, nota bene","fr":"NB, nota bene"}
-{"T":"r","L":"ne","C":["n","mus"],"d":"un flauta de Asia sude-ueste","i":"#","en":"nay, ney (flute)"}
-{"T":"r","L":"neandertalan","C":["a","uma"],"d":"pertinente a un spesie estinguida de umanas, ci ia abita Europa e Asia sude-ueste entre sirca {120(~)000} e {35(~)000} anios ante aora","i":"#","en":"Neanderthal"}
-{"L":"neandertalan","C":["n"],"en":"Neanderthal"}
+{"T":"r","L":"ne","C":["n","mus"],"d":"un flauta de Asia sude-ueste","i":"#","en":"nay, ney (flute)","fr":"ney, nay, naï, nâi (flûte)"}
+{"T":"r","L":"neandertalan","C":["a","uma"],"d":"pertinente a un spesie estinguida de umanas, ci ia abita Europa e Asia sude-ueste entre sirca {120(~)000} e {35(~)000} anios ante aora","i":"#","en":"Neanderthal","fr":"Néanderthal"}
+{"L":"neandertalan","C":["n"],"en":"Neanderthal","fr":"de Néanderthal, néanderthalien"}
 {"T":"r","L":"nebla","C":["n","tera"],"d":"un nube densa de gotas peti de acua, suspendeda en la atmosfera prosima a la tera, cual restrinje la vide","i":"#","da":"tåge","de":"Nebel","en":"fog","es":"niebla","fr":"brouillard"}
-{"L":"nebla fumosa","C":["n"],"en":"smog"}
-{"L":"nebla jelada","C":["n"],"en":"frozen fog, rime"}
-{"L":"desneblador","C":["n"],"en":"demister, defogger"}
-{"L":"desnebli","C":["vnt"],"en":"demist, defog; deblur"}
-{"L":"desnebli","C":["vt"],"en":"demist, defog; deblur"}
-{"L":"neblador","C":["n"],"en":"mister, nebulizer|is"}
-{"L":"nebleta","C":["n"],"en":"mist, haze"}
-{"L":"nebli","C":["vnt"],"en":"mist up, fog up, steam up; blur"}
-{"L":"nebli","C":["vt"],"en":"mist up, fog up, steam up; blur"}
-{"L":"neblosa","C":["a"],"en":"nebulous, foggy, vague, fuzzy, bleary, hazy; blurry (image, vision)"}
-{"T":"r","L":"Nebraska","C":["n","jeo"],"d":"un stato en la SUA sentral","en":"Nebraska (US state)"}
+{"L":"nebla fumosa","C":["n"],"en":"smog","fr":"brouillard, pollution, brume, purée de pois"}
+{"L":"nebla jelada","C":["n"],"en":"frozen fog, rime","fr":"brouillard givrant"}
+{"L":"desneblador","C":["n"],"en":"demister, defogger","fr":"désembueur, dégivreur"}
+{"L":"desnebli","C":["vnt"],"en":"demist, defog; deblur","fr":"se désembuer"}
+{"L":"desnebli","C":["vt"],"en":"demist, defog; deblur","fr":"désembuer"}
+{"L":"neblador","C":["n"],"en":"mister, nebulizer|is","fr":"nébuliseur, nébulisateur, vaporisateur, pulvérisateur"}
+{"L":"nebleta","C":["n"],"en":"mist, haze","fr":"brume, buée"}
+{"L":"nebli","C":["vnt"],"en":"mist up, fog up, steam up; blur","fr":"s'embuer, se brouiller"}
+{"L":"nebli","C":["vt"],"en":"mist up, fog up, steam up; blur","fr":"embuer, embrumer, brouiller"}
+{"L":"neblosa","C":["a"],"en":"nebulous, foggy, vague, fuzzy, bleary, hazy; blurry (image, vision)","fr":"nébuleux, embrumé; trouble, flou"}
+{"T":"r","L":"Nebraska","C":["n","jeo"],"d":"un stato en la SUA sentral","en":"Nebraska (US state)","fr":"Nébraska (État des USA)"}
 {"T":"r","L":"nebulosa","C":["n","ast"],"d":"un nube de gas e polvo en spasio, vidable en la sielo a note","i":"#","en":"nebula","fr":"nébuleuse"}
-{"T":"r","L":"necator","C":["n","med"],"d":"un nematodo parasital cual abita la intestines de umanas e otra animales","i":"#","t":"Necator","en":"hookworm"}
-{"T":"r","L":"necatoriase","C":["n","med"],"d":"un maladia causada par la infesta par necatores de la intestines de un person o animal","en":"hookworm, necatoriasis (disease)"}
-{"T":"r","L":"necro-","C":["pf","tecn","bio"],"d":"mor, moria","en":"necro- (death)"}
-{"T":"r","L":"necrofilia","C":["n","uma"],"d":"la desira de copula con persones mor","en":"necrophilia"}
-{"L":"necrofilica","C":["a"],"en":"necrophiliac"}
-{"L":"necrofilica","C":["n"],"en":"necrophiliac, necrophile"}
-{"T":"r","L":"necrofobia","C":["n","uma"],"d":"un teme estrema o nonrazonada de mori o moria","en":"necrophobia"}
-{"L":"necrofobica","C":["a"],"en":"necrophobic"}
-{"L":"necrofobica","C":["n"],"en":"necrophobe"}
+{"T":"r","L":"necator","C":["n","med"],"d":"un nematodo parasital cual abita la intestines de umanas e otra animales","i":"#","t":"Necator","en":"hookworm","fr":"nécator"}
+{"T":"r","L":"necatoriase","C":["n","med"],"d":"un maladia causada par la infesta par necatores de la intestines de un person o animal","en":"hookworm, necatoriasis (disease)","fr":"nécatoriase"}
+{"T":"r","L":"necro-","C":["pf","tecn","bio"],"d":"mor, moria","en":"necro- (death)","fr":"nécro-"}
+{"T":"r","L":"necrofilia","C":["n","uma"],"d":"la desira de copula con persones mor","en":"necrophilia","fr":"nécrophilie"}
+{"L":"necrofilica","C":["a"],"en":"necrophiliac","fr":"nécrophile"}
+{"L":"necrofilica","C":["n"],"en":"necrophiliac, necrophile","fr":"nécrophile"}
+{"T":"r","L":"necrofobia","C":["n","uma"],"d":"un teme estrema o nonrazonada de mori o moria","en":"necrophobia","fr":"nécrophobe"}
+{"L":"necrofobica","C":["a"],"en":"necrophobic","fr":"nécrophobe"}
+{"L":"necrofobica","C":["n"],"en":"necrophobe","fr":"nécrophobe"}
 {"T":"r","L":"necromansia","C":["n","mit"],"d":"la comunica suposada con persones mor, spesial per predise la futur","en":"necromancy (divination)","fr":"nécromancie"}
-{"L":"necromansiste","C":["n"],"en":"necromancer"}
-{"T":"r","L":"necropoli","C":["n","arci","uma"],"d":"un semetero grande de un site antica","en":"necropolis"}
-{"T":"r","L":"necrose","C":["n","med"],"d":"la mori de tota o un parte grande de la selulas en un organo o texeda, causada par maladia, feri o sangue nonsufisinte","en":"necrosis (medical)"}
-{"L":"necrosica","C":["a"],"en":"necrotic"}
-{"T":"r","L":"Nederland","C":["n","jeo"],"c":"Amsterdam","d":"un pais en Europa ueste con costa a la Mar Norde","i":"#","en":"Netherlands, Holland","fr":"Pays Bas"}
-{"L":"nederlandes","C":["a"],"en":"Dutch, Netherlandish"}
-{"L":"nederlandes","C":["n","dem"],"en":"Dutch, Netherlandish"}
-{"T":"r","L":"nefrite","C":["n","med"],"d":"un inflama de la renes","en":"nephritis (medical)"}
-{"L":"nefritica","C":["a"],"en":"nephritic"}
-{"T":"r","L":"nefro-","C":["pf","tecn"],"d":"renes","en":"nephro- (kidney)"}
-{"T":"r","L":"nefron","C":["n","anat"],"d":"un de la unias funsional en la ren, composada de un glomerulo e sua tubeta asosiada, tra cual la filtrida glomerulal pasa ante emerji como urina","en":"nephron"}
-{"T":"r","L":"nega","C":["vt"],"d":"refusa confesa la veria o esiste de (alga cosa); fa ce (alga cosa) no esiste plu o sesa funsiona","da":"nægte, benægte","de":"leugnen","en":"negate, deny, repudiate, nullify, annul, rescind, overrule, countermand, disavow, disclaim","es":"negar, denegar, rehusar","fr":"nier"}
-{"L":"nega","C":["n"],"en":"negation, denial, repudiation, annulment, disavowal","fr":"négation"}
-{"L":"nega con testa","C":["v"],"en":"shake one's head"}
-{"L":"negable","C":["a"],"en":"deniable"}
-{"L":"nonegable","C":["a"],"en":"undeniable","fr":"indéniable"}
-{"L":"nonegada","C":["a"],"en":"undenied"}
+{"L":"necromansiste","C":["n"],"en":"necromancer","fr":"nécromancien"}
+{"T":"r","L":"necropoli","C":["n","arci","uma"],"d":"un semetero grande de un site antica","en":"necropolis","fr":"nécropole"}
+{"T":"r","L":"necrose","C":["n","med"],"d":"la mori de tota o un parte grande de la selulas en un organo o texeda, causada par maladia, feri o sangue nonsufisinte","en":"necrosis (medical)","fr":"nécrose"}
+{"L":"necrosica","C":["a"],"en":"necrotic","fr":"nécrotique"}
+{"T":"r","L":"Nederland","C":["n","jeo"],"c":"Amsterdam","d":"un pais en Europa ueste con costa a la Mar Norde","i":"#","en":"Netherlands, Holland","fr":"Pays-Bas"}
+{"L":"nederlandes","C":["a"],"en":"Dutch, Netherlandish","fr":"néerlandais, hollandais, des Pays-Bas"}
+{"L":"nederlandes","C":["n","dem"],"en":"Dutch, Netherlandish","fr":"Néerlandais, Hollandais (personne); néerlandais (langue)"}
+{"T":"r","L":"nefrite","C":["n","med"],"d":"un inflama de la renes","en":"nephritis (medical)","fr":"néphrite"}
+{"L":"nefritica","C":["a"],"en":"nephritic","fr":"néphrétique"}
+{"T":"r","L":"nefro-","C":["pf","tecn"],"d":"renes","en":"nephro- (kidney)","fr":"néphro-"}
+{"T":"r","L":"nefron","C":["n","anat"],"d":"un de la unias funsional en la ren, composada de un glomerulo e sua tubeta asosiada, tra cual la filtrida glomerulal pasa ante emerji como urina","en":"nephron","fr":"néphron"}
+{"T":"r","L":"nega","C":["vt"],"d":"refusa confesa la veria o esiste de (alga cosa); fa ce (alga cosa) no esiste plu o sesa funsiona","da":"nægte, benægte","de":"leugnen","en":"negate, deny, repudiate, nullify, annul, rescind, overrule, countermand, disavow, disclaim","es":"negar, denegar, rehusar","fr":"nier, dénier, démentir, réfuter, disconvenir, renier, répudier, désavouer"}
+{"L":"nega","C":["n"],"en":"negation, denial, repudiation, annulment, disavowal","fr":"négation, dénégation, réfutation, reniement, répudiation, désaveu"}
+{"L":"nega con testa","C":["v"],"en":"shake one's head","fr":"nier par un hochement de tête"}
+{"L":"negable","C":["a"],"en":"deniable","fr":"niable, réfutable"}
+{"L":"nonegable","C":["a"],"en":"undeniable","fr":"indéniable, non niable, non réfutable"}
+{"L":"nonegada","C":["a"],"en":"undenied","fr":"non nié, non désavoué, non renié"}
 {"T":"r","L":"negativa","C":["a","fil","fis","arte"],"d":"(un espresa) desacordante o negante; depresante o pesimiste; (un resulta de proba) indicante la manca de un sustantia o cualia; (un numero) min ca zero; con la carga eletrical de eletrones; (en fotografia) mostrante colores reversada de la orijinal","da":"negativ","de":"negativ","en":"negative","es":"negativo","fr":"négatif"}
 {"L":"negativa","C":["n"],"en":"negative (photography)","fr":"négatif (photographie)"}
-{"L":"negativia","C":["n"],"en":"negativity"}
-{"L":"negativisme","C":["n"],"d":"la tende de es negativa o setica, sin ofre sujestas o solves","en":"negativism"}
+{"L":"negativia","C":["n"],"en":"negativity","fr":"négativité"}
+{"L":"negativisme","C":["n"],"d":"la tende de es negativa o setica, sin ofre sujestas o solves","en":"negativism","fr":"négativisme"}
 {"T":"r","L":"negosia","C":["vt","mone","gov"],"d":"atenta ateni un acorda o compromete par discute con otras; trova un modo tra o ultra un ostaculo o via difisil","en":"negotiate; haggle, bargain","fr":"négocier"}
 {"L":"negosia","C":["n"],"da":"forretning","de":"Handel","en":"negotiation","es":"negocio, comercio","fr":"négociation"}
 {"L":"negosior","C":["n"],"en":"negotiator","fr":"négociateur"}
-{"L":"renegosia","C":["vt"],"en":"renegotiate"}
+{"L":"renegosia","C":["vt"],"en":"renegotiate","fr":"renégocier"}
 {"T":"r","L":"negra","C":["a","col"],"d":"con la color la plu oscur, como resulta de la asentia o asorbe completa de lus","i":"#","da":"sort","de":"schwartz","en":"black","es":"negro","fr":"noir"}
-{"L":"negra","C":["n"],"en":"black"}
-{"L":"negri","C":["vnt"],"en":"blacken, char, scorch, singe","fr":"noircir"}
-{"L":"negri","C":["vt"],"en":"blacken, char, scorch, singe"}
-{"L":"Foresta Negra","C":["n","jeo"],"d":"un cadena de montes forestosa en Deutxland sude-ueste","i":"#","de":"Schwarzwald","en":"Black Forest"}
-{"L":"Mar Negra","C":["n","jeo"],"d":"un mar cuasi contenida par tera, a sude de Ucraina e Rusia, a ueste de Sacartvelo, a norde de Turcia, e a este de Balgaria e Romania","i":"#","en":"Black Sea"}
-{"T":"r","L":"negrisil","C":["n","vn"],"d":"un cosmetica per oscuri e spesi la siles","en":"mascara (cosmetic)"}
-{"T":"r","L":"negroide","C":["a"],"d":"(ofendente e no plu usada) de la raza de Africa sude e partes de Asia sude","en":"(derogatory) negroid"}
+{"L":"negra","C":["n"],"en":"black","fr":"noir"}
+{"L":"negri","C":["vnt"],"en":"blacken, char, scorch, singe","fr":"noircir (devenir noir)"}
+{"L":"negri","C":["vt"],"en":"blacken, char, scorch, singe","fr":"noircir (rendre noir)"}
+{"L":"Foresta Negra","C":["n","jeo"],"d":"un cadena de montes forestosa en Deutxland sude-ueste","i":"#","de":"Schwarzwald","en":"Black Forest","fr":"Forêt-Noire"}
+{"L":"Mar Negra","C":["n","jeo"],"d":"un mar cuasi contenida par tera, a sude de Ucraina e Rusia, a ueste de Sacartvelo, a norde de Turcia, e a este de Balgaria e Romania","i":"#","en":"Black Sea","fr":"mer Noire"}
+{"T":"r","L":"negrisil","C":["n","vn"],"d":"un cosmetica per oscuri e spesi la siles","en":"mascara (cosmetic)","fr":"mascara"}
+{"T":"r","L":"negroide","C":["a"],"d":"(ofendente e no plu usada) de la raza de Africa sude e partes de Asia sude","en":"(derogatory) negroid","fr":"négroïde"}
 {"T":"r","L":"nelumbo","C":["n","pla"],"d":"un planta acual con folias grande e flores grande e solitar cual crese sur troncetas capas de estende a du metres supra la surfas de la acua","i":"#","t":"Nelumbo","en":"lotus (plant)","fr":"lotus"}
 {"T":"r","L":"nematodo","C":["n"],"d":"un membro de un filo de animales variosa cual abita locas diversa, e cual ave sistemes tubo de dijesta, con bucos a ambos finis","i":"#","t":"Nematoda","en":"roundworm, nematode","fr":"nematode, ascaride, ascaris, ver rond"}
-{"T":"r","L":"nematomorfo","C":["n"],"d":"un membro de un filo de animales parasital, con formas simil a nematodos","i":"#","t":"Nematomorpha","en":"nematomorph (organism)"}
-{"T":"r","L":"nemerteo","C":["n"],"d":"un membro de un filo de vermes con forma de sinta","i":"#","t":"Nemertea","en":"nemertean (worm)"}
-{"T":"r","L":"neo-","C":["pf","tecn"],"d":"nova","en":"neo- (new)"}
-{"T":"r","L":"neoclasica","C":["a","arte","arci","mus"],"en":"neoclassical"}
-{"L":"neoclasicisme","C":["n"],"d":"un renase de un moda clasica de arte, leteratur, arciteta o musica","en":"neoclassicism"}
-{"L":"neoclasiciste","C":["n"],"en":"neoclassicist"}
-{"T":"r","L":"neocolonial","C":["a","gov"],"en":"neocolonial"}
-{"L":"neocolonialisme","C":["n"],"d":"la usa de presa economial, political o cultural per controla o influe otra nasiones, spesial dependentes pasada","en":"neocolonialism"}
-{"L":"neocolonialiste","C":["a"],"en":"neocolonialist"}
-{"L":"neocolonialiste","C":["n"],"en":"neocolonialist"}
-{"T":"r","L":"neodimio","C":["n","cim"],"d":"la elemento cimical con numero atomal 60, un metal blanca arjentin","s":"Nd","en":"neodymium (element)"}
-{"T":"r","L":"neolitica","C":["a","uma"],"d":"pertinente a la parte la plu tarda de la eda de petra","en":"Neolithic"}
-{"L":"neolitica","C":["n"],"en":"Neolithic"}
-{"T":"r","L":"neon","C":["n","cim"],"d":"la elemento cimical con numero atomal 10, un gas inerte; un forma de lumina cual usa esta gas","s":"Ne","da":"neon","de":"Neon","en":"neon","es":"neón"}
-{"T":"r","L":"neopagan","C":["a","rel"],"d":"un aderor de paganisme moderna o reviveda","en":"neopagan"}
-{"L":"neopaganisme","C":["n","rel"],"d":"un forma moderna o reviveda de paganisme","en":"neopaganism"}
-{"T":"r","L":"neoplasma","C":["n","med"],"d":"un crese nova e nonormal de texeda, tipal causada par canser","en":"neoplasm (medical)"}
-{"T":"r","L":"neotenia","C":["n"],"d":"la reteni de cualias joven en un animal adulte","en":"neoteny (biology)"}
-{"T":"r","L":"neotropico","C":["n","tera"],"d":"la tropico de la mundo nova, pd America Norde e Sude","en":"neotropics"}
-{"L":"neotropical","C":["a"],"en":"neotropica"}
-{"T":"r","L":"Nepal","C":["n","jeo"],"c":"Catmandu","d":"un pais montaniosa sin costa en Asia sude, en la Montes Himalaia","i":"#","en":"Nepal"}
-{"L":"nepali","C":["a"],"en":"Nepali, Nepalese"}
-{"L":"nepali","C":["n","dem"],"en":"Nepali, Nepalese"}
-{"T":"r","L":"nepentes","C":["n","pla"],"d":"un planta con un pox grande con forma de carafa a cual lo atrae insetos per trapi e asorbe los per nuri se","i":"#","t":"Nepenthes","en":"pitcher plant"}
-{"T":"r","L":"nepeta","C":["n","pla"],"d":"un planta en familia de menta, con odor cual atrae gatos","i":"#","t":"Nepeta","en":"catnip (plant)"}
+{"T":"r","L":"nematomorfo","C":["n"],"d":"un membro de un filo de animales parasital, con formas simil a nematodos","i":"#","t":"Nematomorpha","en":"nematomorph (organism)","fr":"nématomorphe"}
+{"T":"r","L":"nemerteo","C":["n"],"d":"un membro de un filo de vermes con forma de sinta","i":"#","t":"Nemertea","en":"nemertean (worm)","fr":"némerte, némertien (ver)"}
+{"T":"r","L":"neo-","C":["pf","tecn"],"d":"nova","en":"neo- (new)","fr":"néo-"}
+{"T":"r","L":"neoclasica","C":["a","arte","arci","mus"],"en":"neoclassical","fr":"néoclassique"}
+{"L":"neoclasicisme","C":["n"],"d":"un renase de un moda clasica de arte, leteratur, arciteta o musica","en":"neoclassicism","fr":"néoclassicisme"}
+{"L":"neoclasiciste","C":["n"],"en":"neoclassicist","fr":"néoclassique"}
+{"T":"r","L":"neocolonial","C":["a","gov"],"en":"neocolonial","fr":"néocolonial"}
+{"L":"neocolonialisme","C":["n"],"d":"la usa de presa economial, political o cultural per controla o influe otra nasiones, spesial dependentes pasada","en":"neocolonialism","fr":"néocolonialisme"}
+{"L":"neocolonialiste","C":["a"],"en":"neocolonialist","fr":"néocolonialiste"}
+{"L":"neocolonialiste","C":["n"],"en":"neocolonialist","fr":"néocolonialiste"}
+{"T":"r","L":"neodimio","C":["n","cim"],"d":"la elemento cimical con numero atomal 60, un metal blanca arjentin","s":"Nd","en":"neodymium (element)","fr":"néodyme (élément)"}
+{"T":"r","L":"neolitica","C":["a","uma"],"d":"pertinente a la parte la plu tarda de la eda de petra","en":"Neolithic","fr":"néolithique"}
+{"L":"neolitica","C":["n"],"en":"Neolithic","fr":"Néolithique"}
+{"T":"r","L":"neon","C":["n","cim"],"d":"la elemento cimical con numero atomal 10, un gas inerte; un forma de lumina cual usa esta gas","s":"Ne","da":"neon","de":"Neon","en":"neon","es":"neón","fr":"néon"}
+{"T":"r","L":"neopagan","C":["a","rel"],"d":"un aderor de paganisme moderna o reviveda","en":"neopagan","fr":"néopaïen"}
+{"L":"neopaganisme","C":["n","rel"],"d":"un forma moderna o reviveda de paganisme","en":"neopaganism","fr":"néopaganisme"}
+{"T":"r","L":"neoplasma","C":["n","med"],"d":"un crese nova e nonormal de texeda, tipal causada par canser","en":"neoplasm (medical)","fr":"néoplasme"}
+{"T":"r","L":"neotenia","C":["n"],"d":"la reteni de cualias joven en un animal adulte","en":"neoteny (biology)","fr":"néoténie"}
+{"T":"r","L":"neotropico","C":["n","tera"],"d":"la tropico de la mundo nova, pd America Norde e Sude","en":"neotropics","fr":"néotropique"}
+{"L":"neotropical","C":["a"],"en":"neotropica","fr":"néotropical"}
+{"T":"r","L":"Nepal","C":["n","jeo"],"c":"Catmandu","d":"un pais montaniosa sin costa en Asia sude, en la Montes Himalaia","i":"#","en":"Nepal","fr":"Népal"}
+{"L":"nepali","C":["a"],"en":"Nepali, Nepalese","fr":"népalais"}
+{"L":"nepali","C":["n","dem"],"en":"Nepali, Nepalese","fr":"Népalais, Népali (personne); népalais, népali (langue)"}
+{"T":"r","L":"nepentes","C":["n","pla"],"d":"un planta con un pox grande con forma de carafa a cual lo atrae insetos per trapi e asorbe los per nuri se","i":"#","t":"Nepenthes","en":"pitcher plant","fr":"népenthès"}
+{"T":"r","L":"nepeta","C":["n","pla"],"d":"un planta en familia de menta, con odor cual atrae gatos","i":"#","t":"Nepeta","en":"catnip (plant)","fr":"népète, népéta, cataire, herbe aux chats (plante)"}
 {"T":"r","L":"nervo","C":["n","anat"],"d":"un fibre blancin, o un faxa de estas, cual transmete siniales entre la serebro o medula spinal e otra partes de la corpo","da":"nerve","de":"Nerv","en":"nerve","es":"nervio","fr":"nerf"}
 {"L":"nervo otical","C":["n"],"en":"optic nerve","fr":"nerf optique"}
 {"L":"nervo serebral","C":["n"],"en":"cerebral nerve","fr":"nerf cérébral"}
-{"L":"nervo siatica","C":["n"],"en":"sciatic nerve"}
-{"L":"nerval","C":["a"],"en":"nervous (of the nerves)"}
+{"L":"nervo siatica","C":["n"],"en":"sciatic nerve","fr":"nerf sciatique"}
+{"L":"nerval","C":["a"],"en":"nervous (of the nerves)","fr":"nerveux (anatomie)"}
 {"L":"nervosa","C":["a"],"en":"nervous, jumpy","fr":"nerveux"}
-{"L":"nervosia","C":["n"],"en":"nervousness"}
+{"L":"nervosia","C":["n"],"en":"nervousness","fr":"nervosité"}
 {"T":"r","L":"nesesa","C":["vt","bio"],"d":"desira forte ave o fa (un cosa) car lo es multe importante o esensal","u":"el va nesesa un seja; me nesesa dormi; lo nesesa ce nos escuta","da":"behøve, kræve","de":"benötigen, erfordern","en":"need, require, lack; need to, have to, must (physical or essential); necessitate, entail","es":"necesitar, requerir, faltar, hacer falta","fr":"avoir besoin, nécessiter"}
-{"L":"nesesa","C":["n"],"en":"need (state)","fr":"besoin"}
-{"L":"nesesa adota","C":["vt"],"en":"resort to, have recourse to"}
+{"L":"nesesa","C":["n"],"en":"need (state)","fr":"besoin, nécessité"}
+{"L":"nesesa adota","C":["vt"],"en":"resort to, have recourse to","fr":"avoir recours à"}
 {"L":"nesesada","C":["a"],"da":"nødvendig, tiltrængt","de":"notwendig, erforderlich","en":"needed, required, necessary, indispensable, must-have, requisite, incumbent","es":"necesario, requerido, necesitado","fr":"nécessaire"}
 {"L":"nesesada","C":["av"],"en":"necessarily","fr":"nécessairement"}
-{"L":"nesesada","C":["n"],"en":"necessity, need, requirement, must-have, must, prerequisite, wherewithal"}
-{"L":"nonesesada","C":["a"],"en":"unnecessary, undue, dispensable"}
-{"T":"r","L":"-nesia","C":["sf","n","tera"],"d":"isolas","en":"-nesia (islands)"}
-{"T":"r","L":"neta","C":["a","mone"],"d":"la cuantia cual resta pos sutrae un imposta, desconta o otra paia","en":"net|nett (money)","fr":"net"}
-{"L":"neta","C":["av"],"en":"net|nett (money)"}
+{"L":"nesesada","C":["n"],"en":"necessity, need, requirement, must-have, must, prerequisite, wherewithal","fr":"nécessaire, indispensable"}
+{"L":"nonesesada","C":["a"],"en":"unnecessary, undue, dispensable","fr":"non nécessaire, superflu, non indispensable"}
+{"T":"r","L":"-nesia","C":["sf","n","tera"],"d":"isolas","en":"-nesia (islands)","fr":"-nésie"}
+{"T":"r","L":"neta","C":["a","mone"],"d":"la cuantia cual resta pos sutrae un imposta, desconta o otra paia","en":"net|nett (money)","fr":"net (prix)"}
+{"L":"neta","C":["av"],"en":"net|nett (money)","fr":"net (au prix net)"}
 {"T":"r","L":"netar","C":["n","bio"],"d":"un licuida zucarosa secreteda par plantas, cual coraji poleni par insetos e es colieda par abeas per crea miel","en":"nectar","fr":"nectar"}
-{"T":"r","L":"netarina","C":["n","pla","cos","avia"],"d":"un varia de pesca con casca lisa e magra; un avia cantante peti e briliante colorida de la mundo vea, con beco longa e curvida a su, cual come netar e sembla un colibri, ma no es capas de flota en aira","i":"netarina-planta, #","t":"Prunus persica {;} Nectariniidae","en":"nectarine (peach); sunbird (bird)"}
-{"T":"r","L":"netbal","C":["n","spo"],"d":"un sporte juada entre du ecipos de sete juores, en cual on reseta puntos per lansa un bal tra un tubo de rede a cada fini de la campo","en":"netball"}
-{"L":"netbalor","C":["n"],"en":"netball player"}
-{"T":"r","L":"nete","C":["n","uma"],"d":"un enfante de un enfante","en":"grandchild"}
+{"T":"r","L":"netarina","C":["n","pla","cos","avia"],"d":"un varia de pesca con casca lisa e magra; un avia cantante peti e briliante colorida de la mundo vea, con beco longa e curvida a su, cual come netar e sembla un colibri, ma no es capas de flota en aira","i":"netarina-planta, #","t":"Prunus persica {;} Nectariniidae","en":"nectarine (peach); sunbird (bird)","fr":"nectarine (pêche); arachnothère, arachnotères, nectariniidé, souïmanga (oiseau)"}
+{"T":"r","L":"netbal","C":["n","spo"],"d":"un sporte juada entre du ecipos de sete juores, en cual on reseta puntos per lansa un bal tra un tubo de rede a cada fini de la campo","en":"netball","fr":"netball (sport)"}
+{"L":"netbalor","C":["n"],"en":"netball player","fr":"joueur de netball, joueuse de netball"}
+{"T":"r","L":"nete","C":["n","uma"],"d":"un enfante de un enfante","en":"grandchild","fr":"petit-enfant"}
 {"L":"duneta","C":["n"],"d":"un dunete fema","en":"great-granddaughter","fr":"arrière-petite-fille"}
-{"L":"dunete","C":["n"],"d":"un enfante de un nete","en":"great-grandchild"}
+{"L":"dunete","C":["n"],"d":"un enfante de un nete","en":"great-grandchild","fr":"arrière-petit-enfant"}
 {"L":"duneto","C":["n"],"d":"un dunete mas","en":"great-grandson","fr":"arrière-petit-fils"}
 {"L":"neta","C":["n"],"d":"un nete fema","en":"granddaughter","fr":"petite-fille"}
 {"L":"netisme","C":["n"],"en":"nepotism","fr":"népotisme"}
 {"L":"neto","C":["n"],"d":"un nete mas","en":"grandson","fr":"petit-fils"}
 {"L":"treneta","C":["n"],"d":"un trenete fema","en":"great-great-granddaughter","fr":"arrière-arrière-petite-fille"}
-{"L":"trenete","C":["n"],"d":"un enfante de un dunete","en":"great-great-grandchild"}
+{"L":"trenete","C":["n"],"d":"un enfante de un dunete","en":"great-great-grandchild","fr":"arrière-arrière-petit-enfant"}
 {"L":"treneto","C":["n"],"d":"un trenete mas","en":"great-great-grandson","fr":"arrière-arrière-petit-fils"}
-{"T":"r","L":"netsuce","C":["n","vest"],"d":"un orna siselida de ivor o lenio cual sembla un boton, usada en Nion per suspende cosas de la sintur de un cimono","i":"#","en":"netsuke (sculpture)"}
-{"T":"r","L":"netunio","C":["n","cim"],"d":"la elemento cimical con numero atomal 93, un metal radioativa","s":"Np (neptunium)","en":"neptunium (element)"}
+{"T":"r","L":"netsuce","C":["n","vest"],"d":"un orna siselida de ivor o lenio cual sembla un boton, usada en Nion per suspende cosas de la sintur de un cimono","i":"#","en":"netsuke (sculpture)","fr":"netsuke"}
+{"T":"r","L":"netunio","C":["n","cim"],"d":"la elemento cimical con numero atomal 93, un metal radioativa","s":"Np (neptunium)","en":"neptunium (element)","fr":"neptunium (élément)"}
 {"T":"r","L":"Netuno","C":["n","ast","mit"],"d":"la dio de acua e la mar en mitolojia roman; la planeta oto de la sistem solal","i":"#","s":"♆","en":"Neptune (mythology, planet)","fr":"Neptune"}
-{"T":"r","L":"neuraljia","C":["n","med"],"d":"un dole forte tra la curso de un nervo, tipal en la testa o fas","en":"neuralgia"}
-{"L":"neuraljia siatica","C":["n"],"en":"sciatic neuralgia, sciatica"}
-{"L":"neuraljica","C":["a"],"en":"neuralgic"}
-{"T":"r","L":"neurastenia","C":["n","med"],"d":"un maladia marcada par fatiga, dole de testa e iritablia, asosiada con alga maladias mental","en":"neurasthenia"}
-{"L":"neurastenica","C":["a"],"en":"neurasthenic"}
-{"T":"r","L":"neurite","C":["n","med"],"d":"un inflama de la nervos periferial","en":"neuritis (medical)"}
-{"L":"neuritica","C":["a"],"en":"neuritic"}
-{"T":"r","L":"neuro-","C":["pf","tecn","bio"],"d":"sistem de nervos, medula spinal o serebro","en":"neuro- (nerve)"}
-{"T":"r","L":"neurobiolojia","C":["n","bio"],"d":"la ramo de biolojia cual studia la sistem de nervos","en":"neurobiology"}
-{"L":"neurobiolojiste","C":["n"],"en":"neurobiologist"}
-{"T":"r","L":"neurofisiolojia","C":["n","bio"],"d":"la ramo de fisiolojia cual studia la sistem de nervos","en":"neurophysiology"}
-{"L":"neurofisiolojiste","C":["n"],"en":"neurophysiologist"}
-{"T":"r","L":"neurolinguistica","C":["n","ling"],"d":"la ramo de linguistica cual studia la relata entre linguas e la strutur e funsiona de la serebro","en":"neurolinguistics"}
-{"L":"neurolinguistical","C":["a"],"en":"neurolinguistic"}
-{"T":"r","L":"neurolojia","C":["n","med"],"d":"la ramo de medica o biolojia cual studia la anatomia, funsionas e maladias de nervos e la sistem de nervos","en":"neurology"}
-{"L":"neurolojial","C":["a"],"en":"neurological"}
-{"L":"neurolojiste","C":["n","med"],"en":"neurologist"}
-{"T":"r","L":"neuropsiciatria","C":["n","uma"],"d":"la ramo de psiciatria cual pertine a disturbas resultante de maladias de la sistem de nervos","en":"neuropsychiatry"}
-{"T":"r","L":"neuron","C":["n","anat"],"d":"un selula spesialida en la transmete de impulsas de nervos","i":"#","en":"neuron"}
-{"L":"neuron de sensa","C":["n"],"en":"sensory neuron"}
-{"L":"motoneuron","C":["n","anat"],"d":"un neuron cual transmete siniales a la musculos","en":"motoneuron, motor neuron"}
-{"L":"neuronal","C":["a"],"d":"pertinente a neurones","en":"neuronal, neural, neurological"}
-{"T":"r","L":"neuropatia","C":["n","med"],"d":"un maladia de nervos periferial, tipal causante debilia o nonsensosia","en":"neuropathy"}
-{"L":"neuropatica","C":["a"],"en":"neuropathic"}
-{"T":"r","L":"neuropeptido","C":["n","bio"],"d":"cada de un grupo de polipeptidos corta cual ata como neurotransmetadores","en":"neuropeptide"}
-{"T":"r","L":"neurose","C":["n","med"],"d":"un maladia mental marcada par ansia, depresa e osese","en":"neurosis, psychoneurosis, hangup"}
-{"L":"neurosica","C":["a"],"en":"neurotic"}
-{"L":"neurosica","C":["n"],"en":"neurotic"}
-{"T":"r","L":"neurosiensa","C":["n","bio"],"d":"un o tota de la siensas cual studia la strutur e funsiona de la sistem de nervos e la serebro","en":"neuroscience"}
-{"L":"neurosiensiste","C":["n"],"en":"neuroscientist"}
-{"T":"r","L":"neurosirurjia","C":["n","med"],"d":"sirurjia a la sistem de nervos, tipal la serebro o medula spinal","en":"neurosurgery"}
-{"L":"neurosirurjial","C":["a"],"en":"neurosurgical"}
-{"L":"neurosirurjiste","C":["n"],"en":"neurosurgeon"}
-{"T":"r","L":"neurotoxina","C":["n","cim","bio"],"d":"un toxina cual afeta la sistem de nervos","en":"neurotoxin"}
-{"T":"r","L":"neurotransmete","C":["vt","bio"],"d":"envia (un impulsa) tra un sinapse entre neurones","en":"neurotransmit"}
-{"L":"neurotransmete","C":["n"],"en":"neurotransmission"}
-{"L":"neurotransmetador","C":["n"],"d":"un cimical cual es relasada a la fini de un neuron e vade ultra la sinapse per stimula la selula seguente","en":"neurotransmitter"}
+{"T":"r","L":"neuraljia","C":["n","med"],"d":"un dole forte tra la curso de un nervo, tipal en la testa o fas","en":"neuralgia","fr":"névralgie"}
+{"L":"neuraljia siatica","C":["n"],"en":"sciatic neuralgia, sciatica","fr":"névralgie sciatique, sciatique"}
+{"L":"neuraljica","C":["a"],"en":"neuralgic","fr":"névralgique"}
+{"T":"r","L":"neurastenia","C":["n","med"],"d":"un maladia marcada par fatiga, dole de testa e iritablia, asosiada con alga maladias mental","en":"neurasthenia","fr":"neurasthénie"}
+{"L":"neurastenica","C":["a"],"en":"neurasthenic","fr":"neurasthénique"}
+{"T":"r","L":"neurite","C":["n","med"],"d":"un inflama de la nervos periferial","en":"neuritis (medical)","fr":"névrite"}
+{"L":"neuritica","C":["a"],"en":"neuritic","fr":"névritique"}
+{"T":"r","L":"neuro-","C":["pf","tecn","bio"],"d":"sistem de nervos, medula spinal o serebro","en":"neuro- (nerve)","fr":"neuro-, névro-"}
+{"T":"r","L":"neurobiolojia","C":["n","bio"],"d":"la ramo de biolojia cual studia la sistem de nervos","en":"neurobiology","fr":"neurobiologie"}
+{"L":"neurobiolojiste","C":["n"],"en":"neurobiologist","fr":"neurobiologiste"}
+{"T":"r","L":"neurofisiolojia","C":["n","bio"],"d":"la ramo de fisiolojia cual studia la sistem de nervos","en":"neurophysiology","fr":"neurophysiologie"}
+{"L":"neurofisiolojiste","C":["n"],"en":"neurophysiologist","fr":"neurophysiologue"}
+{"T":"r","L":"neurolinguistica","C":["n","ling"],"d":"la ramo de linguistica cual studia la relata entre linguas e la strutur e funsiona de la serebro","en":"neurolinguistics","fr":"neurolinguistique"}
+{"L":"neurolinguistical","C":["a"],"en":"neurolinguistic","fr":"neurolinguistique"}
+{"T":"r","L":"neurolojia","C":["n","med"],"d":"la ramo de medica o biolojia cual studia la anatomia, funsionas e maladias de nervos e la sistem de nervos","en":"neurology","fr":"neurologie"}
+{"L":"neurolojial","C":["a"],"en":"neurological","fr":"neurologique"}
+{"L":"neurolojiste","C":["n","med"],"en":"neurologist","fr":"neurologue"}
+{"T":"r","L":"neuropsiciatria","C":["n","uma"],"d":"la ramo de psiciatria cual pertine a disturbas resultante de maladias de la sistem de nervos","en":"neuropsychiatry","fr":"neuropsychiatrie"}
+{"T":"r","L":"neuron","C":["n","anat"],"d":"un selula spesialida en la transmete de impulsas de nervos","i":"#","en":"neuron","fr":"neurone"}
+{"L":"neuron de sensa","C":["n"],"en":"sensory neuron","fr":"neurone sensoriel, neurone récepteur"}
+{"L":"motoneuron","C":["n","anat"],"d":"un neuron cual transmete siniales a la musculos","en":"motoneuron, motor neuron","fr":"motoneurone"}
+{"L":"neuronal","C":["a"],"d":"pertinente a neurones","en":"neuronal, neural, neurological","fr":"neuronal, neurologique"}
+{"T":"r","L":"neuropatia","C":["n","med"],"d":"un maladia de nervos periferial, tipal causante debilia o nonsensosia","en":"neuropathy","fr":"neuropathie"}
+{"L":"neuropatica","C":["a"],"en":"neuropathic","fr":"neuropathique"}
+{"T":"r","L":"neuropeptido","C":["n","bio"],"d":"cada de un grupo de polipeptidos corta cual ata como neurotransmetadores","en":"neuropeptide","fr":"neuropeptide"}
+{"T":"r","L":"neurose","C":["n","med"],"d":"un maladia mental marcada par ansia, depresa e osese","en":"neurosis, psychoneurosis, hangup","fr":"névrose, psychonévrose"}
+{"L":"neurosica","C":["a"],"en":"neurotic","fr":"névrotique"}
+{"L":"neurosica","C":["n"],"en":"neurotic","fr":"névrosé"}
+{"T":"r","L":"neurosiensa","C":["n","bio"],"d":"un o tota de la siensas cual studia la strutur e funsiona de la sistem de nervos e la serebro","en":"neuroscience","fr":"neuroscience"}
+{"L":"neurosiensiste","C":["n"],"en":"neuroscientist","fr":"neuroscientifique"}
+{"T":"r","L":"neurosirurjia","C":["n","med"],"d":"sirurjia a la sistem de nervos, tipal la serebro o medula spinal","en":"neurosurgery","fr":"neurochirurgie"}
+{"L":"neurosirurjial","C":["a"],"en":"neurosurgical","fr":"neurochirurgical"}
+{"L":"neurosirurjiste","C":["n"],"en":"neurosurgeon","fr":"neurochirurgien"}
+{"T":"r","L":"neurotoxina","C":["n","cim","bio"],"d":"un toxina cual afeta la sistem de nervos","en":"neurotoxin","fr":"neurotoxine"}
+{"T":"r","L":"neurotransmete","C":["vt","bio"],"d":"envia (un impulsa) tra un sinapse entre neurones","en":"neurotransmit","fr":"neurotransmettre"}
+{"L":"neurotransmete","C":["n"],"en":"neurotransmission","fr":"neurotransmission"}
+{"L":"neurotransmetador","C":["n"],"d":"un cimical cual es relasada a la fini de un neuron e vade ultra la sinapse per stimula la selula seguente","en":"neurotransmitter","fr":"neurotransmetteur"}
 {"T":"r","L":"neuton","C":["n","fis"],"d":"un unia internasional de fortia, egal a {100(~)000} dines, la fortia capas de aselera un masa de un cilogram par un metre per secondo per secondo","en":"newton (unit of force)","fr":"newton"}
-{"T":"r","L":"neutra","C":["a","gov","bio"],"d":"no aidante o suportante la un lado o la otra en un desacorda, disputa, gera, etc; (un color) blanda; (un cimical) no asida e no alcalin; (un animal) sin organos sesal developada, o pos la estrae de estas; (un nom en alga linguas) sin jenero gramatical","da":"kønsløs","de":"geschechtslos","en":"neutral; neuter","es":"neutro","fr":"neutre"}
-{"L":"neutri","C":["vnt"],"en":"neutralize|is, neuter, spay","fr":"neutraliser"}
-{"L":"neutri","C":["vt"],"en":"neutralize|is, neuter, spay"}
-{"L":"neutria","C":["n"],"en":"neutrality","fr":"neutralité"}
+{"T":"r","L":"neutra","C":["a","gov","bio"],"d":"no aidante o suportante la un lado o la otra en un desacorda, disputa, gera, etc; (un color) blanda; (un cimical) no asida e no alcalin; (un animal) sin organos sesal developada, o pos la estrae de estas; (un nom en alga linguas) sin jenero gramatical","da":"kønsløs","de":"geschechtslos","en":"neutral; neuter","es":"neutro","fr":"neutre; castré, stérilisé (animal)"}
+{"L":"neutri","C":["vnt"],"en":"neutralize|is, neuter, spay","fr":"devenir neutre, se neutraliser; être stérilisé, être castré"}
+{"L":"neutri","C":["vt"],"en":"neutralize|is, neuter, spay","fr":"neutraliser; stériliser, castrer"}
+{"L":"neutria","C":["n"],"en":"neutrality","fr":"neutralité; stérilisation, castration (état)"}
 {"T":"r","L":"neutrino","C":["n","fis"],"d":"un particula suatomal e neutra, con un masa prosima a zero e un jira de intero duida, cual interata rara con materia normal","en":"neutrino","fr":"neutrino"}
-{"T":"r","L":"neutrofilia","C":["n","bio"],"en":"neutrophilia"}
-{"L":"neutrofilica","C":["a"],"d":"(un selula o sua contenidas) capas de es fasil colorida par tinjentes neutra","en":"neutrophilic"}
-{"L":"neutrofilica","C":["n"],"en":"neutrophile"}
+{"T":"r","L":"neutrofilia","C":["n","bio"],"en":"neutrophilia","fr":"neutrophilie"}
+{"L":"neutrofilica","C":["a"],"d":"(un selula o sua contenidas) capas de es fasil colorida par tinjentes neutra","en":"neutrophilic","fr":"neutrophile"}
+{"L":"neutrofilica","C":["n"],"en":"neutrophile","fr":"neutrophile"}
 {"T":"r","L":"neutron","C":["n","fis"],"d":"un particula suatomal con sirca la mesma masa como un proton, ma sin carga eletrical","en":"neutron","fr":"neutron"}
-{"L":"antineutron","C":["n"],"en":"antineutron"}
-{"L":"neutronal","C":["a"],"en":"neutronic"}
-{"T":"r","L":"neva","C":["vnt","tera"],"d":"vapor de acua en la atmosfera, jelada como cristales de jelo, e cadente en flocos blanca e lejera, o reposante sur la tera como un strato blanca","i":"#","da":"sne","de":"Schnee","en":"snow","es":"nieve","fr":"neiger"}
+{"L":"antineutron","C":["n"],"en":"antineutron","fr":"antineutron"}
+{"L":"neutronal","C":["a"],"en":"neutronic","fr":"neutronique"}
+{"T":"r","L":"neva","C":["vnt","tera"],"d":"vapor de acua en la atmosfera, jelada como cristales de jelo, e cadente en flocos blanca e lejera, o reposante sur la tera como un strato blanca","i":"#","da":"sne","de":"Schnee","en":"snow","es":"nevar","fr":"neiger"}
 {"L":"neva","C":["n"],"en":"snow","fr":"neige"}
-{"L":"neva dejelada","C":["v"],"en":"sleet"}
-{"L":"neva dejelada","C":["n"],"en":"sleet; slush"}
-{"L":"neva fondeda","C":["n"],"en":"snowmelt"}
-{"L":"desnevi","C":["vt"],"en":"clear snow from"}
-{"L":"neveta","C":["vnt"],"en":"snow lightly, flurry"}
-{"L":"neveta","C":["n"],"en":"snow shower, flurry, dusting"}
-{"L":"nevin","C":["a"],"en":"snowy, snow-white"}
-{"L":"nevon","C":["n"],"en":"snowstorm, whiteout, heavy snow, deep snow"}
+{"L":"neva dejelada","C":["v"],"en":"sleet","fr":"tomber de la neige fondue"}
+{"L":"neva dejelada","C":["n"],"en":"sleet; slush","fr":"neige fondue"}
+{"L":"neva fondeda","C":["n"],"en":"snowmelt","fr":"neige fondue"}
+{"L":"desnevi","C":["vt"],"en":"clear snow from","fr":"déneiger"}
+{"L":"neveta","C":["vnt"],"en":"snow lightly, flurry","fr":"floconner, commencer à neiger, neiger légèrement, tomber une neige légère"}
+{"L":"neveta","C":["n"],"en":"snow shower, flurry, dusting","fr":"neige légère, flocons de neige"}
+{"L":"nevin","C":["a"],"en":"snowy, snow-white","fr":"neigeux, comme la neige"}
+{"L":"nevon","C":["n"],"en":"snowstorm, whiteout, heavy snow, deep snow","fr":"grosse neige, neige abondante"}
 {"L":"nevosa","C":["a"],"en":"snowy","fr":"neigeux"}
-{"T":"r","L":"Nevada","C":["n","jeo"],"d":"un stato en la SUA sude-ueste","en":"Nevada (US state)"}
-{"T":"r","L":"Nevis","C":["n","jeo"],"d":"un de la isolas a norde-ueste de la Mar Caribe","en":"Nevis"}
-{"T":"r","L":"nevo","C":["n","med"],"d":"un marca malcolorida e pico altida sur la pel","i":"#","en":"mole (on skin), birthmark, nevus|ae, beauty spot, beauty mark","fr":"naevus"}
-{"L":"nevo cosmetica","C":["n"],"en":"beauty spot, beauty mark"}
-{"T":"r","L":"Newfoundland","C":["n","jeo"],"d":"un isola grande en Canada este, a la boca de la Rio San Laurent","en":"Newfoundland"}
-{"L":"Newfoundland e Labrador","C":["n","jeo"],"d":"un provinse de Canada este, bordante la Mar Atlantica","en":"Newfoundland and Labrador (Canadian province)"}
-{"T":"r","L":"niama","C":["n","pla","cos"],"d":"un tuber amidonosa e comable de un planta tropical; esta planta","i":"#","t":"Dioscorea","en":"yam (plant, tuber)"}
-{"T":"r","L":"niasina","C":["n","cim"],"d":"un vitamina de la grupo B, trovada en lete, jerme de trigo e carne, e sinteseda de triptofan en la corpo, cual preveni pelagra","en":"niacin, nicotinic acid"}
-{"T":"r","L":"nicab","C":["n","vest"],"d":"un vela portada par alga femes muslim en publica, cual covre tota la fas estra la oios","i":"#","en":"niqab (veil)"}
-{"T":"r","L":"Nicaragua","C":["n","jeo"],"c":"Managua","d":"un pais en America Sentral, con costas a la Mar Atlantica e la Mar Pasifica","i":"#","en":"Nicaragua"}
-{"L":"nicaraguan","C":["a"],"en":"Nicaraguan"}
-{"L":"nicaraguan","C":["n"],"en":"Nicaraguan"}
-{"T":"r","L":"nicel","C":["n","cim"],"d":"la elemento cimical con numero atomal 28, un metal blanca arjentin","s":"Ni","en":"nickel"}
-{"L":"niceli","C":["vt"],"en":"nickel-plate"}
-{"L":"nicelida","C":["a"],"en":"nickel-plated"}
-{"T":"r","L":"nicotina","C":["n","cim"],"d":"un licuida oliosa cual es la parte ativa xef de tabaco, e cual ata como un stimulante","en":"nicotine"}
-{"T":"r","L":"nictofilia","C":["n","bio","uma"],"d":"un prefere forte per oscuria o la note","en":"nyctophilia"}
-{"L":"nictofilica","C":["a"],"en":"nyctophilic"}
-{"L":"nictofilica","C":["n"],"en":"nyctophile"}
+{"T":"r","L":"Nevada","C":["n","jeo"],"d":"un stato en la SUA sude-ueste","en":"Nevada (US state)","fr":"Névada (État des USA)"}
+{"T":"r","L":"Nevis","C":["n","jeo"],"d":"un de la isolas a norde-ueste de la Mar Caribe","en":"Nevis","fr":"Niévès"}
+{"T":"r","L":"nevo","C":["n","med"],"d":"un marca malcolorida e pico altida sur la pel","i":"#","en":"mole (on skin), birthmark, nevus|ae, beauty spot, beauty mark","fr":"naevus, grain de beauté"}
+{"L":"nevo cosmetica","C":["n"],"en":"beauty spot, beauty mark","fr":"mouche (cosmétique)"}
+{"T":"r","L":"Newfoundland","C":["n","jeo"],"d":"un isola grande en Canada este, a la boca de la Rio San Laurent","en":"Newfoundland","fr":"Terre-Neuve"}
+{"L":"Newfoundland e Labrador","C":["n","jeo"],"d":"un provinse de Canada este, bordante la Mar Atlantica","en":"Newfoundland and Labrador (Canadian province)","fr":"Terre-Neuve-et-Labrador (province canadienne)"}
+{"T":"r","L":"niama","C":["n","pla","cos"],"d":"un tuber amidonosa e comable de un planta tropical; esta planta","i":"#","t":"Dioscorea","en":"yam (plant, tuber)","fr":"igname"}
+{"T":"r","L":"niasina","C":["n","cim"],"d":"un vitamina de la grupo B, trovada en lete, jerme de trigo e carne, e sinteseda de triptofan en la corpo, cual preveni pelagra","en":"niacin, nicotinic acid","fr":"acide nicotinique, niacine"}
+{"T":"r","L":"nicab","C":["n","vest"],"d":"un vela portada par alga femes muslim en publica, cual covre tota la fas estra la oios","i":"#","en":"niqab (veil)","fr":"niqab"}
+{"T":"r","L":"Nicaragua","C":["n","jeo"],"c":"Managua","d":"un pais en America Sentral, con costas a la Mar Atlantica e la Mar Pasifica","i":"#","en":"Nicaragua","fr":"Nicaragua"}
+{"L":"nicaraguan","C":["a"],"en":"Nicaraguan","fr":"nicaraguayen"}
+{"L":"nicaraguan","C":["n"],"en":"Nicaraguan","fr":"Nicaraguayen"}
+{"T":"r","L":"nicel","C":["n","cim"],"d":"la elemento cimical con numero atomal 28, un metal blanca arjentin","s":"Ni","en":"nickel","fr":"nickel"}
+{"L":"niceli","C":["vt"],"en":"nickel-plate","fr":"nickeler"}
+{"L":"nicelida","C":["a"],"en":"nickel-plated","fr":"nickelé"}
+{"T":"r","L":"nicotina","C":["n","cim"],"d":"un licuida oliosa cual es la parte ativa xef de tabaco, e cual ata como un stimulante","en":"nicotine","fr":"nicotine"}
+{"T":"r","L":"nictofilia","C":["n","bio","uma"],"d":"un prefere forte per oscuria o la note","en":"nyctophilia","fr":"nyctophilie"}
+{"L":"nictofilica","C":["a"],"en":"nyctophilic","fr":"nyctophile"}
+{"L":"nictofilica","C":["n"],"en":"nyctophile","fr":"nyctophile"}
 {"T":"r","L":"nido","C":["n","bio"],"d":"un strutur o loca creada o elejeda par un avia per pone ovos e proteje enfantes; cualce loca usada par un animal o person per proteje o securia","i":"#","da":"rede, bo (en fugls rede)","de":"Nest, Höhle","en":"nest, roost, aerie|eyrie; hive; den, lair, burrow; hideaway, hideout, retreat, home","es":"nido, guarida, escondrijo, covacha","fr":"nid"}
 {"L":"nido de abeas","C":["n"],"en":"beehive","fr":"ruche"}
-{"L":"nido de formicas","C":["n"],"en":"ant nest"}
+{"L":"nido de formicas","C":["n"],"en":"ant nest","fr":"nid de fourmis"}
 {"L":"nidi","C":["vt"],"en":"nest, build a nest (for)","fr":"nidifier"}
-{"L":"nidi se","C":["esp"],"en":"nestle, snuggle down, ensconce oneself","fr":"se nicher"}
-{"L":"nidida","C":["a"],"en":"snug, cozy|cosy (person)"}
+{"L":"nidi se","C":["esp"],"en":"nestle, snuggle down, ensconce oneself","fr":"se nicher, faire son nid"}
+{"L":"nidida","C":["a"],"en":"snug, cozy|cosy (person)","fr":"confortable, douillet, bien au chaud"}
 {"L":"nidin","C":["a"],"en":"snug, cozy|cosy (place)","fr":"douillet"}
-{"L":"nidinia","C":["n"],"en":"snugness, coziness|cosiness"}
-{"L":"nidor","C":["n"],"en":"nestling (bird)"}
-{"T":"r","L":"Nietzsche, Friedrich","C":["n","fil"],"d":"un filosofiste deutx, notada per sua critica de la relijio e cultur de sua eda, e un fonte importante de esistentialisme (1844-1900)","i":"Nietzsche","p":"frídric nitxe","en":"Friedrich Nietzsche"}
-{"T":"r","L":"nihilisme","C":["n","fil"],"d":"la filosofia cual promove la idea ce no cosa ave sinifia o realia, o ce vive es sin sinifia","en":"nihilism"}
-{"L":"nihiliste","C":["a"],"en":"nihilist, nihilistic"}
-{"L":"nihiliste","C":["n"],"en":"nihilist"}
-{"T":"r","L":"nihonio","C":["n","cim"],"d":"la elemento cimical con numero atomal 113","s":"Nh","en":"nihonium (element)"}
-{"T":"r","L":"Nijer","C":["n","jeo"],"c":"Niamey","d":"un pais sin costa en Africa ueste a la borda la plu sude de la Deserto Sahara","i":"#","en":"Niger"}
-{"L":"nijerien","C":["a"],"en":"Nigerien (of Niger)"}
-{"L":"nijerien","C":["n"],"en":"Nigerien (of Niger)"}
-{"L":"Rio Nijer","C":["n","jeo"],"d":"un rio en Africa norde-ueste cual comensa en Siera Leon, flue tra Mali, Nijer e Nijeria, e fini en la Golfo Ginea","i":"#","en":"Niger River"}
-{"T":"r","L":"Nijeria","C":["n","jeo"],"c":"Abuja","d":"un pais a la costa de Africa ueste, bordada a la norde par la Rio Nijer","i":"#","en":"Nigeria"}
-{"L":"nijerian","C":["a"],"en":"Nigerian (of Nigeria)"}
-{"L":"nijerian","C":["n","dem"],"en":"Nigerian (of Nigeria)"}
-{"T":"r","L":"Nilo, Rio","C":["n","jeo"],"d":"un rio en Africa este, la plu longa en la mundo, cual comensa en Africa este-sentral, flue a norde tra Uganda, Sudan, Sudan Sude e Misre, e fini en la Mar Mediteraneo","i":"Rio-Nilo","en":"River Nile"}
+{"L":"nidinia","C":["n"],"en":"snugness, coziness|cosiness","fr":"confort, bien-être"}
+{"L":"nidor","C":["n"],"en":"nestling (bird)","fr":"oisillon"}
+{"T":"r","L":"Nietzsche, Friedrich","C":["n","fil"],"d":"un filosofiste deutx, notada per sua critica de la relijio e cultur de sua eda, e un fonte importante de esistentialisme (1844-1900)","i":"Nietzsche","p":"frídric nitxe","en":"Friedrich Nietzsche","fr":"Friedrich Nietzsche"}
+{"T":"r","L":"nihilisme","C":["n","fil"],"d":"la filosofia cual promove la idea ce no cosa ave sinifia o realia, o ce vive es sin sinifia","en":"nihilism","fr":"nihilisme"}
+{"L":"nihiliste","C":["a"],"en":"nihilist, nihilistic","fr":"nihiliste"}
+{"L":"nihiliste","C":["n"],"en":"nihilist","fr":"nihiliste"}
+{"T":"r","L":"nihonio","C":["n","cim"],"d":"la elemento cimical con numero atomal 113","s":"Nh","en":"nihonium (element)","fr":"nihonium (élément)"}
+{"T":"r","L":"Nijer","C":["n","jeo"],"c":"Niamey","d":"un pais sin costa en Africa ueste a la borda la plu sude de la Deserto Sahara","i":"#","en":"Niger","fr":"Niger"}
+{"L":"nijerien","C":["a"],"en":"Nigerien (of Niger)","fr":"nigérien, du Niger"}
+{"L":"nijerien","C":["n"],"en":"Nigerien (of Niger)","fr":"Nigérien, habitant du Niger"}
+{"L":"Rio Nijer","C":["n","jeo"],"d":"un rio en Africa norde-ueste cual comensa en Siera Leon, flue tra Mali, Nijer e Nijeria, e fini en la Golfo Ginea","i":"#","en":"Niger River","fr":"fleuve Niger"}
+{"T":"r","L":"Nijeria","C":["n","jeo"],"c":"Abuja","d":"un pais a la costa de Africa ueste, bordada a la norde par la Rio Nijer","i":"#","en":"Nigeria","fr":"Nigéria"}
+{"L":"nijerian","C":["a"],"en":"Nigerian (of Nigeria)","fr":"nigérian, du Nigéria"}
+{"L":"nijerian","C":["n","dem"],"en":"Nigerian (of Nigeria)","fr":"Nigérian, habitant du Nigéria"}
+{"T":"r","L":"Nilo, Rio","C":["n","jeo"],"d":"un rio en Africa este, la plu longa en la mundo, cual comensa en Africa este-sentral, flue a norde tra Uganda, Sudan, Sudan Sude e Misre, e fini en la Mar Mediteraneo","i":"Rio-Nilo","en":"River Nile","fr":"Nil"}
 {"T":"r","L":"nilon","C":["n","cim","vest"],"d":"un polimer sintesal, elastica e lejera ma forte, produida como filos, telas o ojetos moldida","en":"nylon","fr":"nylon"}
-{"T":"r","L":"nilotica","C":["a","dem"],"d":"pertinente a un grupo de linguas parlada en Africa ueste e en la rejion de la Rio Nilo","en":"Nilotic (languages)"}
-{"T":"r","L":"nimbo","C":["a","tera"],"d":"(un nube) grande, gris e capas de produi pluve","i":"#","en":"nimbus (cloud)"}
+{"T":"r","L":"nilotica","C":["a","dem"],"d":"pertinente a un grupo de linguas parlada en Africa ueste e en la rejion de la Rio Nilo","en":"Nilotic (languages)","fr":"nilotique (langue)"}
+{"T":"r","L":"nimbo","C":["a","tera"],"d":"(un nube) grande, gris e capas de produi pluve","i":"#","en":"nimbus (cloud)","fr":"de nimbus"}
 {"L":"nimbo","C":["n"],"en":"nimbus (cloud)","fr":"nimbus"}
-{"T":"r","L":"nimfa","C":["n","mit"],"d":"un organisme mital ci pare como un fem joven bela e abita bosces, lagos o rios; la forma nonmatur de un inseto cual no cambia multe en cuando lo adulti","i":"#","en":"nymph"}
-{"L":"nimfa de acua","C":["n"],"i":"#","en":"naiad"}
-{"L":"nimfa de bosce","C":["n"],"en":"dryad"}
-{"L":"nimfa de mar","C":["n"],"en":"nereid"}
+{"T":"r","L":"nimfa","C":["n","mit"],"d":"un organisme mital ci pare como un fem joven bela e abita bosces, lagos o rios; la forma nonmatur de un inseto cual no cambia multe en cuando lo adulti","i":"#","en":"nymph","fr":"nymphe"}
+{"L":"nimfa de acua","C":["n"],"i":"#","en":"naiad","fr":"naïade"}
+{"L":"nimfa de bosce","C":["n"],"en":"dryad","fr":"dryade"}
+{"L":"nimfa de mar","C":["n"],"en":"nereid","fr":"néréide"}
 {"T":"r","L":"nimfea","C":["n","pla"],"d":"un planta con folias grande e ronda cual flota sur la acua, con flores grande","i":"#","t":"Nymphaeaceae","en":"water lily","fr":"nénuphar, nymphéa"}
-{"T":"r","L":"nimfomania","C":["n","uma"],"d":"un libido forte e noncontrolable en alga femes","en":"nymphomania"}
-{"L":"nimfomanica","C":["a"],"en":"nymphomaniac"}
-{"L":"nimfomanica","C":["n"],"en":"nymphomaniac, nympho"}
-{"T":"r","L":"ninja","C":["n","spo"],"d":"un person capas en ninjutsu","i":"#","en":"ninja, shinobi (ninjutsu expert)"}
-{"T":"r","L":"ninjutsu","C":["n","spo"],"d":"la arte tradisional en Nion de furtivia, camofla e sabota, developada en la eda feudal per spia, aora usada como un arte militar","en":"ninjutsu (martial art)"}
-{"T":"r","L":"niobio","C":["n","cim"],"d":"la elemento cimical con numero atomal 41, un metal gris arjentin","s":"Nb","en":"niobium (element)"}
-{"T":"r","L":"nioci","C":["n"],"d":"en la cosini italian, un bal de pasta preparada de patata, semola o farina, tipal servida con un salsa","en":"gnocchi"}
-{"T":"r","L":"Nion","C":["n","jeo"],"c":"Tocio","d":"un pais en Asia este, composada de un cadena de isolas en la Mar Pasifica","i":"#","v":"Japan","en":"Japan"}
-{"L":"nion","C":["a"],"en":"Japanese"}
-{"L":"nion","C":["n","dem"],"en":"Japanese"}
-{"T":"r","L":"nirvana","C":["n","rel"],"d":"la gol ultima de budisme, un state transendente en cual sufri, desira e ego desapare e on es librida de la efetos de carma e la sicle de mori e renase; (metafor) un state ideal de felisia perfeta","en":"nirvana (Buddhism)"}
-{"T":"r","L":"nistagmo","C":["n","med"],"d":"un disturba medical en cual la oios move rapida e nonvolente","en":"nystagmus (medical)"}
-{"T":"r","L":"nitrato","C":["n","cim"],"d":"un sal o ester de asida nitrica","en":"nitrate"}
-{"L":"nitrato de potasio","C":["n"],"en":"potassium nitrate, saltpeter|re"}
-{"T":"r","L":"nitrica","C":["a","cim"],"d":"pertinente a o conteninte nitrojen con valentia alta","en":"nitric"}
-{"T":"r","L":"nitrito","C":["n","cim"],"d":"un sal o ester de asida nitrosa","en":"nitrite"}
-{"T":"r","L":"nitrogliserina","C":["n","cim"],"d":"un licuida jala e esplodente, usada en dinamite e como un vasodilatante","en":"nitroglycerine, nitro"}
+{"T":"r","L":"nimfomania","C":["n","uma"],"d":"un libido forte e noncontrolable en alga femes","en":"nymphomania","fr":"nymphmanie"}
+{"L":"nimfomanica","C":["a"],"en":"nymphomaniac","fr":"nymphomane"}
+{"L":"nimfomanica","C":["n"],"en":"nymphomaniac, nympho","fr":"nymphomane"}
+{"T":"r","L":"ninja","C":["n","spo"],"d":"un person capas en ninjutsu","i":"#","en":"ninja, shinobi (ninjutsu expert)","fr":"ninja"}
+{"T":"r","L":"ninjutsu","C":["n","spo"],"d":"la arte tradisional en Nion de furtivia, camofla e sabota, developada en la eda feudal per spia, aora usada como un arte militar","en":"ninjutsu (martial art)","fr":"ninjutsu"}
+{"T":"r","L":"niobio","C":["n","cim"],"d":"la elemento cimical con numero atomal 41, un metal gris arjentin","s":"Nb","en":"niobium (element)","fr":"niobium (élément)"}
+{"T":"r","L":"nioci","C":["n"],"d":"en la cosini italian, un bal de pasta preparada de patata, semola o farina, tipal servida con un salsa","en":"gnocchi","fr":"gnocchi"}
+{"T":"r","L":"Nion","C":["n","jeo"],"c":"Tocio","d":"un pais en Asia este, composada de un cadena de isolas en la Mar Pasifica","i":"#","v":"Japan","en":"Japan","fr":"Japon"}
+{"L":"nion","C":["a"],"en":"Japanese","fr":"japonais"}
+{"L":"nion","C":["n","dem"],"en":"Japanese","fr":"Japonais (personne); japonais (langue)"}
+{"T":"r","L":"nirvana","C":["n","rel"],"d":"la gol ultima de budisme, un state transendente en cual sufri, desira e ego desapare e on es librida de la efetos de carma e la sicle de mori e renase; (metafor) un state ideal de felisia perfeta","en":"nirvana (Buddhism)","fr":"nirvana, nirvâna, nirvāna"}
+{"T":"r","L":"nistagmo","C":["n","med"],"d":"un disturba medical en cual la oios move rapida e nonvolente","en":"nystagmus (medical)","fr":"nystagmus (médecine)"}
+{"T":"r","L":"nitrato","C":["n","cim"],"d":"un sal o ester de asida nitrica","en":"nitrate","fr":"nitrate"}
+{"L":"nitrato de potasio","C":["n"],"en":"potassium nitrate, saltpeter|re","fr":"salpêtre, nitrate de potassium"}
+{"T":"r","L":"nitrica","C":["a","cim"],"d":"pertinente a o conteninte nitrojen con valentia alta","en":"nitric","fr":"nitrique"}
+{"T":"r","L":"nitrito","C":["n","cim"],"d":"un sal o ester de asida nitrosa","en":"nitrite","fr":"nitrite"}
+{"T":"r","L":"nitrogliserina","C":["n","cim"],"d":"un licuida jala e esplodente, usada en dinamite e como un vasodilatante","en":"nitroglycerine, nitro","fr":"nitroglycérine"}
 {"T":"r","L":"nitrojen","C":["n","cim"],"d":"la elemento cimical con numero atomal 7, un gas sin odor e color, nonreatante, e composante sirca 78 persentos de la atmosfera de la Tera","s":"N","da":"kvælstof","de":"Stickstoff","en":"nitrogen","es":"nitrógeno","fr":"azote"}
-{"L":"nitrojenosa","C":["a"],"en":"nitrogenous"}
-{"T":"r","L":"nitrosa","C":["a","cim"],"d":"pertinente a o conteninte nitrojen con valentia basa","en":"nitrous"}
-{"T":"r","L":"Niue","C":["n","jeo"],"c":"Alofi","d":"un isola e teritorio autonom de Zeland Nova en la Mar Pasifica sude, a este de Tonga","i":"#","p":"nyúe","en":"Niue"}
-{"L":"niue","C":["a"],"en":"Niuean"}
-{"L":"niue","C":["n"],"en":"Niuean"}
+{"L":"nitrojenosa","C":["a"],"en":"nitrogenous","fr":"azoté, azotique"}
+{"T":"r","L":"nitrosa","C":["a","cim"],"d":"pertinente a o conteninte nitrojen con valentia basa","en":"nitrous","fr":"nitreux"}
+{"T":"r","L":"Niue","C":["n","jeo"],"c":"Alofi","d":"un isola e teritorio autonom de Zeland Nova en la Mar Pasifica sude, a este de Tonga","i":"#","p":"nyúe","en":"Niue","fr":"Niue, Nioué, Niué"}
+{"L":"niue","C":["a"],"en":"Niuean","fr":"niuéen"}
+{"L":"niue","C":["n"],"en":"Niuean","fr":"Niuéen"}
 {"T":"r","L":"nivel","C":["n"],"d":"un plano o linia orizonal, en relata a sua distantia supra o su un otra punto; la altia o profondia de un loca, rio, etc; cada de la solos de un construida o barcon; cade de la locas en un scala o ierarcia","da":"jævn, ens, flad","en":"floor, story|storey, deck (ship); level, tier (scale, hierarchy)","es":"nivel","fr":"niveau, étage, pont (de bateau)"}
 {"L":"nivel de mar","C":["n"],"en":"sea level","fr":"niveau de la mer"}
-{"L":"nivel de oio","C":["n"],"en":"eye level"}
-{"L":"nivel de tera","C":["n"],"en":"ground floor, ground level","fr":"rez de chaussée"}
-{"L":"nivel de vive","C":["n"],"en":"standard of living"}
-{"L":"nivel prima","C":["n"],"en":"first floor (above ground level)","fr":"premier étage"}
+{"L":"nivel de oio","C":["n"],"en":"eye level","fr":"niveau du regard, niveau des yeux"}
+{"L":"nivel de tera","C":["n"],"en":"ground floor, ground level","fr":"rez-de-chaussée"}
+{"L":"nivel de vive","C":["n"],"en":"standard of living","fr":"niveau de vie"}
+{"L":"nivel prima","C":["n"],"en":"first floor (above ground level)","fr":"premier étage (au-dessus du rez-de-chaussée)"}
 {"L":"niveleta","C":["n"],"d":"un area plana a la culmina o media de un scalera","en":"landing","fr":"palier"}
-{"T":"r","L":"nix","C":["n","arci","bio"],"d":"un alcova peti o basa, comun usada per mostra scultas o ornas; un situa comfortosa e conveninte de vive o emplea; (en ecolojia) la rol de un tipo de organisme en sua comunia","i":"#","en":"niche (alcove, ecological)","fr":"niche"}
+{"T":"r","L":"nix","C":["n","arci","bio"],"d":"un alcova peti o basa, comun usada per mostra scultas o ornas; un situa comfortosa e conveninte de vive o emplea; (en ecolojia) la rol de un tipo de organisme en sua comunia","i":"#","en":"niche (alcove, ecological)","fr":"niche (alcôve, écologique)"}
 {"T":"r","L":"no","C":["d"],"d":"zero, la manca completa de","u":"no person ia responde; el ia trova no problemes","de":"kein","en":"no","es":"no","fr":"aucun, aucune, pas de"}
 {"L":"no","C":["av","prev"],"d":"indicante la reversa o manca de un cualia o ata","u":"me no ia comprende; la can no es en la jardin","da":"ikke","de":"nicht","en":"not","es":"no","fr":"ne ... pas"}
 {"L":"no","C":["cj"],"u":"me vole esta, no acel","en":"not, and not"}
