@@ -4318,7 +4318,6 @@
 {"T":"r","L":"Campeche","C":["n","jeo"],"p":"campetxe","en":"Campeche (Mexican state)","fr":"Campeche (État du Mexique)","he":"קמפצ'ה (מדינה במקסיקו)"}
 {"L":"Baia Campeche","C":["n","jeo"],"d":"un baia a este de Mexico, entre Campeche e Veracruz","i":"#","en":"Bay of Campeche, Campeche Sound","fr":"baie de Campêche","he":"מפרץ קמפצ'ה"}
 {"T":"r","L":"campefaje","C":["n","avia"],"d":"un avia cantante, simil a un lanio, tipal con plumas gris, negra o blanca, e semblante un cucu cuando el vola","i":"#","t":"Campephagidae","en":"cuckoo shrike","fr":"coucou pie-grièche, campéphagidé","he":"חנקני הקוקיה (ציפור)"}
-{"T":"r","L":"Campetxe","C":["n","jeo"],"d":"un stato de Mexico sude-este","en":"Campeche","fr":"Campeche (État du Mexique)"}
 {"T":"r","L":"campidanes","C":["a","dem"],"d":"pertinente a un dialeto de sarda de Sardinia sude","en":"Campidanese (language)","fr":"campidanais (relatif au Campidano, région de la Sardaigne)","he":"קאמפידנזה (שפה)"}
 {"L":"campidanes","C":["n"],"en":"Campidanese (language)","fr":"Campidanais (personne), le campidanais (langue)","he":"קאמפידנזה (שפה)"}
 {"T":"r","L":"campion","C":["n","spo"],"d":"un sportor ci ia vinse tota concursores; un person ci batalia o disputa per benefica un caso o un otra person","en":"champion (including of a cause), champ, winner, prize-winner; paladin (knight)","fr":"champion","he":"אלוף"}
@@ -4876,9 +4875,9 @@
 {"T":"r","L":"castanieta","C":["n","mus"],"d":"un strumento peti, composada de du pesos concava de lenio, ivor o plastica, juntada par un corda e clicada contra lunlotra par la ditos","i":"#","en":"castanets","fr":"castagnettes","he":"קסטנייטה, ערמונית (כלי נגינה)"}
 {"T":"r","L":"castel","C":["n","arci"],"d":"un construida grande, fortida contra ataca par mures spesa, merlones, tores, e cisa un foso; (metafor) un casa grande e gloriosa, tipal parteninte a un nobil; un peso de xace cual sembla un tore merlonida","i":"#","en":"castle","fr":"château","he":"טירה, מצודה, מבצר; (שחמט) צריח"}
 {"L":"castel de salta","C":["n"],"en":"bouncy castle","fr":"jeu gonflable (structure gonflable pour enfants)","he":"טירה מתנפחת"}
-{"T":"r","L":"Castelia","C":["n","jeo"],"d":"un rejion en Espania norde-sentral; un rena autonom en la eda medieval","i":"#","en":"Castile (Spanish region)","fr":"Castille","he":"קסטיליה"}
-{"L":"castelian","C":["a","dem"],"d":"pertinente a la popla de Espania norde-sentral, o a sua dialeto de espaniol cual es ance la model jeneral per espaniol en Espania","en":"Castellano, Castilian (person, language)","fr":"castillan","he":"קסטיליאני"}
-{"L":"castelian","C":["n"],"en":"Castellano, Castilian (person, language)","fr":"Castillan (personne), le castillan (langue)","he":"קסטיליאני, קסטיליאנית (ניב ספרדי)"}
+{"T":"r","L":"Castille","C":["n","jeo"],"d":"un rejion en Espania norde-sentral; un rena autonom en la eda medieval","i":"castelia","p":"castíe","en":"Castile (Spanish region)","fr":"Castille","he":"קסטיליה"}
+{"L":"castellan","C":["a","dem"],"d":"pertinente a la popla de Espania norde-sentral, o a sua dialeto de espaniol cual es ance la model jeneral per espaniol en Espania","p":"casteán","en":"Castellano, Castilian (person, language)","fr":"castillan","he":"קסטיליאני"}
+{"L":"castellan","C":["n"],"en":"Castellano, Castilian (person, language)","fr":"Castillan (personne), le castillan (langue)","he":"קסטיליאני, קסטיליאנית (ניב ספרדי)"}
 {"T":"r","L":"castor","C":["n","mam"],"d":"un rodente grande e semiacual con coda larga, notada per sua abitua de rode tra troncos de arbores per come la cortex e construi pararios e abitadas","i":"#","t":"Castor","en":"beaver","fr":"castor","he":"בונה (מכרסם)"}
 {"T":"r","L":"castra","C":["vt","bio"],"d":"sutrae la testiculos de; (metafor) sutrae la potia, vivosia o enerjia de","en":"castrate","fr":"castrer","he":"לסרס"}
 {"L":"castra","C":["n"],"en":"castration","fr":"castration","he":"סירוס"}
@@ -6046,7 +6045,7 @@
 {"L":"congoles","C":["a"],"en":"Congolese","fr":"congolais","he":"קונגולזי"}
 {"L":"congoles","C":["n"],"en":"Congolese","fr":"Congolais (personne), congolais (langue)","he":"קונגולזי"}
 {"L":"Republica de Congo","C":["n"],"c":"Brazzaville","d":"un pais a norde e ueste de la Rio Congo","i":"#","en":"Republic of the Congo","fr":"république du Congo","he":"הרפובליקה של קונגו"}
-{"L":"Republica Democrata de Congo","C":["n"],"c":"Kinshasa","d":"un pais a sude e este de la Rio Congo","i":"#","v":"Zair","en":"Democratic Republic of the Congo","fr":"république démocratique du  COngo","he":"הרפובליקה הדמוקרטית של קונגו"}
+{"L":"Republica Democrata de Congo","C":["n"],"c":"Kinshasa","d":"un pais a sude e este de la Rio Congo","i":"#","v":"Zair","en":"Democratic Republic of the Congo","fr":"république démocratique du Congo","he":"הרפובליקה הדמוקרטית של קונגו"}
 {"L":"Rio Congo","C":["n","jeo"],"d":"un rio major en Africa sentral cual comensa en la norde de la Republica Democrata de Congo e fini en la Mar Atlantica","i":"#","en":"Congo River","fr":"Congo (fleuve)","he":"נהר קונגו"}
 {"T":"r","L":"congrega","C":["n","rel"],"d":"un grupo de persones asemblada per adora relijiosa, tipal e abitual a un loca spesifada; (en alga universias) un asembla de membros major","en":"congregation (religious, administrative), flock","fr":"congrégation (religion)","he":"(דת) קהילה, ציבור"}
 {"L":"congrega de sorsores","C":["n"],"en":"coven","fr":"cabale, clique","he":"מפגש מכשפות"}
@@ -17061,7 +17060,7 @@
 {"L":"moreria","C":["n"],"en":"morgue, mortuary","fr":"morgue, funérarium"}
 {"L":"mori","C":["vnt"],"da":"dø","de":"sterben","en":"die, perish, pass away","es":"morir(se), extinguirse, apagarse, marchitarse (plantas)","fr":"mourir, décéder, périr, disparaître, trépasser"}
 {"L":"mori","C":["vt"],"en":"deaden","fr":"amortir, étouffer (un bruit)"}
-{"L":"mori","C":["n"],"en":"death, dying, decease, demise, fatality, casualty, mortality","fr":"mort, décès, disparition, trépas"}
+{"L":"mori","C":["n"],"en":"death, dying, decease, demise, fatality, casualty, mortality","fr":"mort, décès, disparition, trépas, mortalité (quantité)"}
 {"L":"mori de famia","C":["v"],"en":"starve","fr":"mourir de faim, crever de faim, mourir d'inanition"}
 {"L":"mori de famia","C":["n"],"en":"starvation","fr":"famine, inanition"}
 {"L":"mori e destrui","C":["n"],"en":"death and destruction, carnage","fr":"mort et destruction, carnage, massacre, extermination"}
@@ -17841,158 +17840,158 @@
 {"T":"r","L":"nix","C":["n","arci","bio"],"d":"un alcova peti o basa, comun usada per mostra scultas o ornas; un situa comfortosa e conveninte de vive o emplea; (en ecolojia) la rol de un tipo de organisme en sua comunia","i":"#","en":"niche (alcove, ecological)","fr":"niche (alcôve, écologique)"}
 {"T":"r","L":"no","C":["d"],"d":"zero, la manca completa de","u":"no person ia responde; el ia trova no problemes","de":"kein","en":"no","es":"no","fr":"aucun, aucune, pas de"}
 {"L":"no","C":["av","prev"],"d":"indicante la reversa o manca de un cualia o ata","u":"me no ia comprende; la can no es en la jardin","da":"ikke","de":"nicht","en":"not","es":"no","fr":"ne ... pas"}
-{"L":"no","C":["cj"],"u":"me vole esta, no acel","en":"not, and not"}
+{"L":"no","C":["cj"],"u":"me vole esta, no acel","en":"not, and not","fr":"pas"}
 {"L":"no","C":["esc"],"d":"donante un responde negativa a la demanda o declara presedente; ance ajuntada a la fini de un frase per cambia lo a un demanda","n":"En `tu labora en la scola, no?`, `no?` sujesta ce la parlor crede ja ce la responde es `si` e desira mera confirma esta.","v":"si","da":"nej","de":"nein","en":"no; (question tag) eh?, isn't it?, don't you?, haven't they? (etc., typically expecting the answer yes)","fr":"non"}
-{"L":"no esta e no acel","C":["esp"],"en":"neither this nor that"}
-{"L":"no plu ca","C":["esp"],"en":"no more than, merely, simply, just"}
-{"T":"r","L":"no","C":["n","arte"],"d":"un forma de drama tradisional de Nion con musica e dansa e atores mascida, cual ia evolui de rituos de la relijio xinto","en":"noh (drama)"}
-{"T":"r","L":"Noa","C":["n","rel"],"d":"(en la Biblia) la patriarca presentada como la desendente des de Adam, e la fabricor de un arca con cual el ia salva sua familia e un duple de cada animal cuando Dio ia deluvia la Tera","i":"#","en":"Noah"}
-{"T":"r","L":"nobelio","C":["n","cim"],"d":"la elemento cimical con numero atomal 102, un metal radioativa","s":"No","en":"nobelium (element)"}
-{"T":"r","L":"nobil","C":["a","gov","ist"],"d":"pertinente a o parteninte a la clase sosial eritada con grado alta; con cualias personal o prinsipes moral eselente","en":"noble, well-born, high-born"}
-{"L":"nobil","C":["n"],"en":"noble, nobleman, peer, gentleman"}
-{"L":"nobiles","C":["n","pl"],"en":"nobles, nobility"}
-{"L":"nobili","C":["vnt"],"en":"ennoble"}
-{"L":"nobili","C":["vt"],"en":"ennoble"}
-{"L":"nobilia","C":["n"],"en":"nobility"}
-{"T":"r","L":"noca","C":["n","anat"],"d":"un parte de la dito a la junta do la oso es prosima a la surfas, spesial do la dito es juntada a la mano; un protende de la junta carpal o tarsal de un animal","i":"#","en":"knuckle; fetlock"}
-{"T":"r","L":"noda","C":["vt","util"],"d":"torse (un corda o sinta) a sirca e streti lo per fisa lo a un otra ojeto, o a la corda mesma","en":"knot, tie a knot in"}
-{"L":"noda","C":["n"],"d":"un anelo tensada de corda o sinta; un punto do un curva traversa se o un otra curva; un aparato liada a un rede de computadores","i":"#","en":"knot, node, burl; lump (in throat from emotion); node (graph, computing, etc)"}
-{"L":"noda de capeles","C":["n"],"i":"#","en":"topknot"}
-{"L":"noda limfal","C":["n"],"en":"lymph node"}
-{"L":"noda liscante","C":["n"],"en":"slipknot"}
-{"L":"noda papilin","C":["n"],"en":"bow"}
-{"L":"nodosa","C":["a"],"en":"knotty, gnarled, gnarly, nodose"}
-{"T":"r","L":"nodulo","C":["n","bio"],"d":"un infla peti o un agrega de selulas en la corpo, tipal nonormal; un bulto peti e ronda de materia distinguida de sua ambiente; un infla sur la radis de un legum, conteninte baterias cual asorbe nitrojen","en":"nodule"}
-{"L":"nodulal","C":["a"],"en":"nodular"}
+{"L":"no esta e no acel","C":["esp"],"en":"neither this nor that","fr":"ni... ni"}
+{"L":"no plu ca","C":["esp"],"en":"no more than, merely, simply, just","fr":"ni plus ni moins que"}
+{"T":"r","L":"no","C":["n","arte"],"d":"un forma de drama tradisional de Nion con musica e dansa e atores mascida, cual ia evolui de rituos de la relijio xinto","en":"noh (drama)","fr":"théâtre nô"}
+{"T":"r","L":"Noa","C":["n","rel"],"d":"(en la Biblia) la patriarca presentada como la desendente des de Adam, e la fabricor de un arca con cual el ia salva sua familia e un duple de cada animal cuando Dio ia deluvia la Tera","i":"#","en":"Noah","fr":"Noé"}
+{"T":"r","L":"nobelio","C":["n","cim"],"d":"la elemento cimical con numero atomal 102, un metal radioativa","s":"No","en":"nobelium (element)","fr":"nobélium (élément)"}
+{"T":"r","L":"nobil","C":["a","gov","ist"],"d":"pertinente a o parteninte a la clase sosial eritada con grado alta; con cualias personal o prinsipes moral eselente","en":"noble, well-born, high-born","fr":"noble"}
+{"L":"nobil","C":["n"],"en":"noble, nobleman, peer, gentleman","fr":"noble, gentilhomme"}
+{"L":"nobiles","C":["n","pl"],"en":"nobles, nobility","fr":"noblesse"}
+{"L":"nobili","C":["vnt"],"en":"ennoble","fr":"être anobli"}
+{"L":"nobili","C":["vt"],"en":"ennoble","fr":"anoblir"}
+{"L":"nobilia","C":["n"],"en":"nobility","fr":"noblesse (état)"}
+{"T":"r","L":"noca","C":["n","anat"],"d":"un parte de la dito a la junta do la oso es prosima a la surfas, spesial do la dito es juntada a la mano; un protende de la junta carpal o tarsal de un animal","i":"#","en":"knuckle; fetlock","fr":"articulation"}
+{"T":"r","L":"noda","C":["vt","util"],"d":"torse (un corda o sinta) a sirca e streti lo per fisa lo a un otra ojeto, o a la corda mesma","en":"knot, tie a knot in","fr":"nouer, faire un nœud à"}
+{"L":"noda","C":["n"],"d":"un anelo tensada de corda o sinta; un punto do un curva traversa se o un otra curva; un aparato liada a un rede de computadores","i":"#","en":"knot, node, burl; lump (in throat from emotion); node (graph, computing, etc)","fr":"nœud"}
+{"L":"noda de capeles","C":["n"],"i":"#","en":"topknot","fr":"chignon"}
+{"L":"noda limfal","C":["n"],"en":"lymph node","fr":"nœud lymphatique"}
+{"L":"noda liscante","C":["n"],"en":"slipknot","fr":"nœud coulant"}
+{"L":"noda papilin","C":["n"],"en":"bow","fr":"nœud papillon"}
+{"L":"nodosa","C":["a"],"en":"knotty, gnarled, gnarly, nodose","fr":"noueux"}
+{"T":"r","L":"nodulo","C":["n","bio"],"d":"un infla peti o un agrega de selulas en la corpo, tipal nonormal; un bulto peti e ronda de materia distinguida de sua ambiente; un infla sur la radis de un legum, conteninte baterias cual asorbe nitrojen","en":"nodule","fr":"nodule"}
+{"L":"nodulal","C":["a"],"en":"nodular","fr":"nodulaire"}
 {"T":"r","L":"noia","C":["vt"],"d":"(un parla monotonosa o sin pausa) fa ce (algun) deveni fatigada e noninteresada","en":"bore, tire, stultify","fr":"ennuyer"}
-{"L":"noia","C":["n"],"en":"boredom, tedium, ennui"}
-{"L":"noiada","C":["a"],"en":"bored"}
+{"L":"noia","C":["n"],"en":"boredom, tedium, ennui","fr":"ennui, monotonie, langueur, lassitude, maussaderie, mélancolie"}
+{"L":"noiada","C":["a"],"en":"bored","fr":"ennuyé, las"}
 {"L":"noiante","C":["a"],"an":"aburríu, aburrible, fadiosu, pesáu","da":"kedelig, trættende","de":"langweilig","en":"tiresome, boring, tedious, dull, humdrum, jejune","es":"aburrido, tedioso, fastidioso, pesado","fr":"ennuyeux","it":"noioso","nl":"saai","pt":"enjoado, aborrecido, tedioso"}
-{"L":"noior","C":["n"],"en":"bore"}
-{"T":"r","L":"-noide","C":["sf","a","med","uma"],"d":"mente, spirito","en":"-noid (mind)"}
+{"L":"noior","C":["n"],"en":"bore","fr":"importun, raseur, casse-pied, enquiquineur"}
+{"T":"r","L":"-noide","C":["sf","a","med","uma"],"d":"mente, spirito","en":"-noid (mind)","fr":"-noïde"}
 {"T":"r","L":"nom","C":["n","ling"],"d":"un parola o grupo de parolas cual identifia unica un person, animal, cosa, asosia, etc; (en gramatica) un sustantivo","da":"navn","de":"Name","en":"name, moniker, monicker; noun","eo":"nomo; sustantivo","es":"nombre, designación","fr":"nom"}
-{"L":"nom de arcivo","C":["n"],"en":"folder name, directory name"}
-{"L":"nom de fix","C":["n"],"en":"filename"}
-{"L":"nom de gera","C":["n"],"en":"nom de guerre"}
-{"L":"nom de usor","C":["n"],"en":"username"}
-{"L":"nom falsa","C":["n"],"en":"alias, pseudonym, pen name, nom de plume"}
-{"L":"nom familial","C":["n"],"en":"family name, surname"}
-{"L":"nom individua","C":["n"],"en":"first name"}
-{"L":"nom madral","C":["n"],"en":"matronym"}
-{"L":"nom nonsposida","C":["n"],"en":"maiden name, unmarried name"}
-{"L":"nom orijinal","C":["n"],"en":"original name, maiden name, birth name"}
-{"L":"nom padral","C":["n"],"en":"patronym"}
-{"L":"nom propre","C":["n"],"en":"proper noun"}
-{"L":"nom teatral","C":["n"],"en":"stage name"}
-{"L":"autonomida","C":["a"],"en":"self-proclaimed, self-styled"}
-{"L":"con nom falsa","C":["a"],"en":"pseudonymous"}
-{"L":"es nomida","C":["v"],"en":"be named, be called"}
+{"L":"nom de arcivo","C":["n"],"en":"folder name, directory name","fr":"nom de dossier"}
+{"L":"nom de fix","C":["n"],"en":"filename","fr":"nom de fichier"}
+{"L":"nom de gera","C":["n"],"en":"nom de guerre","fr":"nom de guerre"}
+{"L":"nom de usor","C":["n"],"en":"username","fr":"nom d\"utilisateur"}
+{"L":"nom falsa","C":["n"],"en":"alias, pseudonym, pen name, nom de plume","fr":"pseudonyme, nom de plume"}
+{"L":"nom familial","C":["n"],"en":"family name, surname","fr":"nom de famille"}
+{"L":"nom individua","C":["n"],"en":"first name","fr":"prénom"}
+{"L":"nom madral","C":["n"],"en":"matronym","fr":"nom de la mère"}
+{"L":"nom nonsposida","C":["n"],"en":"maiden name, unmarried name","fr":"nom de jeune fille"}
+{"L":"nom orijinal","C":["n"],"en":"original name, maiden name, birth name","fr":"nom de jeune fille, nom de naissance"}
+{"L":"nom padral","C":["n"],"en":"patronym","fr":"patronyme"}
+{"L":"nom propre","C":["n"],"en":"proper noun","fr":"nom propre"}
+{"L":"nom teatral","C":["n"],"en":"stage name","fr":"nom de scène"}
+{"L":"autonomida","C":["a"],"en":"self-proclaimed, self-styled","fr":"autoproclamé, qui se donne lui-même le nom de"}
+{"L":"con nom falsa","C":["a"],"en":"pseudonymous","fr":"alias"}
+{"L":"es nomida","C":["v"],"en":"be named, be called","fr":"s'appeller, se nommer"}
 {"L":"la X malnomida","C":["a"],"en":"the so-called X (disparaging)"}
-{"L":"malnomida","C":["a"],"en":"misnamed; so-called (disparaging)"}
-{"L":"malnomida","C":["n"],"en":"misnomer"}
+{"L":"malnomida","C":["a"],"en":"misnamed; so-called (disparaging)","fr":"mal nommé"}
+{"L":"malnomida","C":["n"],"en":"misnomer","fr":"terme impropre"}
 {"L":"nomeria","C":["n","info"],"en":"namespace"}
-{"L":"nomes","C":["n","pl"],"en":"names, nomenclature"}
-{"L":"nometa","C":["n"],"en":"nickname, sobriquet, soubriquet"}
-{"L":"nomi","C":["vt"],"u":"on nomi esta forma un esagon","en":"name, call, give a name to; appoint"}
-{"L":"nomi per","C":["v"],"en":"name for, name after"}
-{"L":"nomida","C":["a"],"en":"named, called"}
-{"L":"nomida X","C":["n"],"en":"named X, called X, known as X"}
-{"L":"nomin","C":["a"],"d":"usada en un modo simil a un nom","en":"nounal, substantival"}
-{"L":"nonomida","C":["a"],"en":"unnamed, nameless"}
+{"L":"nomes","C":["n","pl"],"en":"names, nomenclature","fr":"liste de noms, nomenclature"}
+{"L":"nometa","C":["n"],"en":"nickname, sobriquet, soubriquet","fr":"petit nom, sobriquet, surnom"}
+{"L":"nomi","C":["vt"],"u":"on nomi esta forma un esagon","en":"name, call, give a name to; appoint","fr":"appeler, nommer, donner le nom de; nommer, désigner, choisir"}
+{"L":"nomi per","C":["v"],"en":"name for, name after","fr":"nommer pour"}
+{"L":"nomida","C":["a"],"en":"named, called","fr":"appelé, nommé"}
+{"L":"nomida X","C":["n"],"en":"named X, called X, known as X","fr":"appelé X, connu sous le nom de X"}
+{"L":"nomin","C":["a"],"d":"usada en un modo simil a un nom","en":"nounal, substantival","fr":"nominal"}
+{"L":"nonomida","C":["a"],"en":"unnamed, nameless","fr":"sans nom"}
 {"L":"par nom","C":["a"],"en":"nominal"}
-{"L":"posnomal","C":["a"],"en":"postnominal (grammar)"}
-{"L":"posnomal","C":["n"],"en":"postnominal (grammar)"}
-{"L":"prenomal","C":["a"],"en":"prenominal (grammar)"}
-{"L":"prenomal","C":["n"],"en":"prenominal (grammar)"}
-{"L":"renomi","C":["vt"],"en":"rename"}
-{"L":"sin nom","C":["a"],"en":"nameless, anonymous"}
-{"T":"r","L":"nomada","C":["a","uma"],"d":"pertinente a un membro de un popla ci no ave un abitada permanente, e ci viaja de loca a loca per trova pastos fresca per sua bestias; (metafor) vagante, no restante en un loca per tempo longa","en":"nomadic, itinerant"}
-{"L":"nomada","C":["n"],"en":"nomad, itinerant, traveler|ll"}
-{"L":"nomadisme","C":["n"],"en":"nomadism"}
-{"T":"r","L":"nomina","C":["vt","gov"],"d":"proposa formal (algun) como aspiror per un posto o premio","en":"nominate","eo":"nomumi"}
-{"L":"nomina","C":["n"],"en":"nomination"}
-{"L":"nominada","C":["n"],"en":"nominee"}
-{"T":"r","L":"nominalisme","C":["n","fil"],"d":"la crede ce ideas jeneral e mera nomes sin realia corespondente","en":"nominalism"}
-{"L":"nominaliste","C":["n"],"en":"nominalist"}
-{"T":"r","L":"nominativa","C":["a","ling"],"en":"nominative (grammar)"}
-{"L":"nominativa","C":["n"],"d":"un caso gramatical cual indica la sujeto de un verbo","en":"nominative (grammar)"}
-{"T":"r","L":"non-","C":["pf"],"d":"ajuntada a un ajetivo per reversa la cualia, o a un nom verbal per indica la manca de la ata o state","n":"Ante N, `non-` simpli a `no-`.","u":"nonjusta; noncrede; nonesesada","en":"un-, in-, non- (added to adjectives and nouns: opposite characteristic, or absence of an action or state)"}
-{"T":"r","L":"nonagon","C":["a","mat"],"d":"(un forma plana) con nove lados reta e nove angulos","en":"nonagonal, enneagonal (nine-sided)"}
-{"L":"nonagon","C":["n"],"en":"nonagon, enneagon"}
+{"L":"posnomal","C":["a"],"en":"postnominal (grammar)","fr":"postnominal"}
+{"L":"posnomal","C":["n"],"en":"postnominal (grammar)","fr":"postnominal"}
+{"L":"prenomal","C":["a"],"en":"prenominal (grammar)","fr":"prénominal"}
+{"L":"prenomal","C":["n"],"en":"prenominal (grammar)","fr":"prénominal"}
+{"L":"renomi","C":["vt"],"en":"rename","fr":"renommer"}
+{"L":"sin nom","C":["a"],"en":"nameless, anonymous","fr":"sans nom, anonyme"}
+{"T":"r","L":"nomada","C":["a","uma"],"d":"pertinente a un membro de un popla ci no ave un abitada permanente, e ci viaja de loca a loca per trova pastos fresca per sua bestias; (metafor) vagante, no restante en un loca per tempo longa","en":"nomadic, itinerant","fr":"nomade, itinérant"}
+{"L":"nomada","C":["n"],"en":"nomad, itinerant, traveler|ll","fr":"nomade"}
+{"L":"nomadisme","C":["n"],"en":"nomadism","fr":"nomadisme"}
+{"T":"r","L":"nomina","C":["vt","gov"],"d":"proposa formal (algun) como aspiror per un posto o premio","en":"nominate","eo":"nomumi","fr":"désigner, proposer, nommer, soumettre"}
+{"L":"nomina","C":["n"],"en":"nomination","fr":"nomination, désignation"}
+{"L":"nominada","C":["n"],"en":"nominee","fr":"candidat officiel, candidat désigné"}
+{"T":"r","L":"nominalisme","C":["n","fil"],"d":"la crede ce ideas jeneral e mera nomes sin realia corespondente","en":"nominalism","fr":"nominalisme"}
+{"L":"nominaliste","C":["n"],"en":"nominalist","fr":"nominaliste"}
+{"T":"r","L":"nominativa","C":["a","ling"],"en":"nominative (grammar)","fr":"nominatif (grammaire)"}
+{"L":"nominativa","C":["n"],"d":"un caso gramatical cual indica la sujeto de un verbo","en":"nominative (grammar)","fr":"nominatif (grammaire)"}
+{"T":"r","L":"non-","C":["pf"],"d":"ajuntada a un ajetivo per reversa la cualia, o a un nom verbal per indica la manca de la ata o state","n":"Ante N, `non-` simpli a `no-`.","u":"nonjusta; noncrede; nonesesada","en":"un-, in-, non- (added to adjectives and nouns: opposite characteristic, or absence of an action or state)","fr":"in-, im-, il-, non"}
+{"T":"r","L":"nonagon","C":["a","mat"],"d":"(un forma plana) con nove lados reta e nove angulos","en":"nonagonal, enneagonal (nine-sided)","fr":"ennéagone"}
+{"L":"nonagon","C":["n"],"en":"nonagon, enneagon","fr":"ennéagone"}
 {"T":"r","L":"norde","C":["a","tera"],"d":"(un loca o parte de loca) situada en la dirije indicada par la ago de un busola; (un person o venta) veninte de esta dirije","n":"Un parola como `norde` o `sude` ave un letera major cuando lo apare en la nom propre de un loca, tipal per distingui esta de otra locas con nomes simil (`America Norde`). Lo ave un letera minor cuando lo refere mera a un parte acaso de un loca nomida (`Europa este`, `Paris sude`).","en":"north, northern, upstate","fr":"nord"}
 {"L":"norde","C":["n"],"da":"nord","de":"Nord","en":"north","es":"norte","fr":"nord"}
-{"L":"norde-este","C":["a"],"en":"northeast, northeasterly"}
-{"L":"norde-este","C":["n"],"en":"northeast"}
-{"L":"norde-norde-este","C":["a"],"en":"north-northeast"}
-{"L":"norde-norde-este","C":["n"],"en":"north-northeast"}
-{"L":"norde-norde-ueste","C":["a"],"en":"north-northwest"}
-{"L":"norde-norde-ueste","C":["n"],"en":"north-northwest"}
-{"L":"norde-sentral","C":["a"],"en":"central north"}
-{"L":"norde-ueste","C":["a"],"en":"northwest, northwesterly"}
-{"L":"norde-ueste","C":["n"],"en":"northwest"}
-{"L":"a norde","C":["av"],"en":"northward, northwards"}
-{"L":"a norde de","C":["prep"],"en":"to the north of"}
-{"L":"Mar Norde","C":["n","jeo"],"d":"un estende de la Mar Atlantica entre la costa de Britan Grande e la resta de Europa ueste","i":"#","en":"North Sea"}
-{"T":"r","L":"nordica","C":["a","dem"],"d":"pertinente a la rejion composada de Danmarc, Sveria, Noria, Suomi, Island e la Isolas Faro; pertinente a la tipo fisical de persones comun de esta rejion, alta con capeles blonde, oios blu e pel pal","en":"Norse"}
-{"T":"r","L":"norepinefrina","C":["n","bio"],"d":"un ormon relasada par la medula de la glande suprarenal e par la nervos simpatica como un neurotransmetador","en":"norepinephrine, noradrenaline, noradrenalin (hormone)"}
-{"T":"r","L":"nori","C":["n","cos"],"d":"un tipo de alge, comeda cuando lo es o fresca o secida","en":"nori, laver, slake (seaweed)"}
-{"T":"r","L":"Noria","C":["n","jeo"],"c":"Oslo","d":"un pais montaniosa en Europa norde-ueste, con costas a la Mar Norsce e la Mar Artica","i":"#","en":"Norway"}
-{"L":"norsce","C":["a"],"en":"Norwegian"}
-{"L":"Mar Norsce","C":["n","jeo"],"d":"un mar a ueste de Noria, un parte de la Mar Atlantica","i":"#","en":"Norwegian Sea"}
+{"L":"norde-este","C":["a"],"en":"northeast, northeasterly","fr":"nord-est"}
+{"L":"norde-este","C":["n"],"en":"northeast","fr":"nord-est"}
+{"L":"norde-norde-este","C":["a"],"en":"north-northeast","fr":"nord-nord-est"}
+{"L":"norde-norde-este","C":["n"],"en":"north-northeast","fr":"nord-nord-est"}
+{"L":"norde-norde-ueste","C":["a"],"en":"north-northwest","fr":"nord-nord-ouest"}
+{"L":"norde-norde-ueste","C":["n"],"en":"north-northwest","fr":"nors-nord-ouest"}
+{"L":"norde-sentral","C":["a"],"en":"central north","fr":"centre nord"}
+{"L":"norde-ueste","C":["a"],"en":"northwest, northwesterly","fr":"nord-ouest"}
+{"L":"norde-ueste","C":["n"],"en":"northwest","fr":"nord-ouest"}
+{"L":"a norde","C":["av"],"en":"northward, northwards","fr":"vers le nord"}
+{"L":"a norde de","C":["prep"],"en":"to the north of","fr":"au nord de"}
+{"L":"Mar Norde","C":["n","jeo"],"d":"un estende de la Mar Atlantica entre la costa de Britan Grande e la resta de Europa ueste","i":"#","en":"North Sea","fr":"mer du Nord"}
+{"T":"r","L":"nordica","C":["a","dem"],"d":"pertinente a la rejion composada de Danmarc, Sveria, Noria, Suomi, Island e la Isolas Faro; pertinente a la tipo fisical de persones comun de esta rejion, alta con capeles blonde, oios blu e pel pal","en":"Norse","fr":"nordique"}
+{"T":"r","L":"norepinefrina","C":["n","bio"],"d":"un ormon relasada par la medula de la glande suprarenal e par la nervos simpatica como un neurotransmetador","en":"norepinephrine, noradrenaline, noradrenalin (hormone)","fr":"noradrénaline"}
+{"T":"r","L":"nori","C":["n","cos"],"d":"un tipo de alge, comeda cuando lo es o fresca o secida","en":"nori, laver, slake (seaweed)","fr":"nori"}
+{"T":"r","L":"Noria","C":["n","jeo"],"c":"Oslo","d":"un pais montaniosa en Europa norde-ueste, con costas a la Mar Norsce e la Mar Artica","i":"#","en":"Norway","fr":"Norvège"}
+{"L":"norsce","C":["a"],"en":"Norwegian","fr":"norvégien"}
+{"L":"Mar Norsce","C":["n","jeo"],"d":"un mar a ueste de Noria, un parte de la Mar Atlantica","i":"#","en":"Norwegian Sea","fr":"mer de Norvège"}
 {"T":"r","L":"norma","C":["n","mat"],"d":"alga cosa comun, tipal o model; un modo de condui comun o espetada de un grupo sosial","da":"standard","de":"Maßstab","en":"norm, standard; par (golf)","es":"norma, criterio, modela, patrón, estándar","fr":"norme"}
 {"L":"du su la norma","C":["esp"],"en":"eagle (two below par)"}
 {"L":"tre su la norma","C":["esp"],"en":"albatross (three below par)"}
 {"L":"un su la norma","C":["esp"],"en":"birdie (one below par)"}
 {"L":"un supra la norma","C":["esp"],"en":"bogey (one above par)"}
-{"L":"nonormal","C":["a"],"en":"abnormal, aberrant, odd, strange, irregular"}
-{"L":"nonormal","C":["n"],"en":"abnormality, aberration, irregularity"}
-{"L":"nonormalia","C":["n"],"en":"abnormality (state)"}
-{"L":"nonorminte","C":["a"],"en":"non-normative"}
+{"L":"nonormal","C":["a"],"en":"abnormal, aberrant, odd, strange, irregular","fr":"anormal, aberrant, étrange, insolite, inaccoutumé, bizarre"}
+{"L":"nonormal","C":["n"],"en":"abnormality, aberration, irregularity","fr":"anormalité, aberration, étrangeté"}
+{"L":"nonormalia","C":["n"],"en":"abnormality (state)","fr":"anormalité, étrangeté (état)"}
+{"L":"nonorminte","C":["a"],"en":"non-normative","fr":"hors-norme"}
 {"L":"normal","C":["a"],"da":"normal, ordinær, usædvanlig","de":"normal, gewöhnlich","en":"normal, ordinary, usual, standard, normative, conventional, regular","es":"normal, ordinario, usual","fr":"normal"}
-{"L":"normal","C":["av"],"en":"normally, ordinarily, usually"}
-{"L":"normali","C":["vnt"],"en":"normalize|is, institutionalize|is, canonicalize|is"}
-{"L":"normali","C":["vt"],"en":"normalize|is, institutionalize|is, canonicalize|is"}
-{"L":"normali","C":["n"],"en":"normalization|is, institutionalization|is, canonicalization|is"}
-{"L":"normalia","C":["n"],"en":"normality, normalcy, regularity, ordinariness, commonness, commonality"}
-{"L":"normas","C":["n","pl"],"en":"code, ethos"}
-{"L":"normas de condui","C":["n","pl"],"en":"code of behavior|ur"}
-{"L":"normas moral","C":["n","pl"],"en":"moral code, ethics"}
-{"L":"normi","C":["vt"],"en":"standardize|is"}
-{"L":"normi","C":["n"],"en":"standardization|is"}
-{"L":"norminte","C":["a"],"en":"standardizing|is, normative"}
-{"L":"sunormal","C":["a"],"en":"subnormal; below par"}
-{"L":"supranormal","C":["a"],"en":"supernormal; above par"}
-{"T":"r","L":"normande","C":["a","dem"],"d":"pertinente a un popla ci ia coloni Normandia en Frans norde-ueste sirca 912 ec, e ia deveni un potia grande en la sentenio 11; pertinente a sua lingua, un dialeto de franses","i":"#","en":"Norman"}
-{"L":"normande","C":["n"],"en":"Norman"}
-{"L":"Normandia","C":["n"],"en":"Normandy"}
-{"T":"r","L":"normoblasto","C":["n","bio"],"d":"un tipo normal de eritroblasto","en":"normoblast (blood cell)"}
+{"L":"normal","C":["av"],"en":"normally, ordinarily, usually","fr":"normalement"}
+{"L":"normali","C":["vnt"],"en":"normalize|is, institutionalize|is, canonicalize|is","fr":"se normaliser"}
+{"L":"normali","C":["vt"],"en":"normalize|is, institutionalize|is, canonicalize|is","fr":"normaliser"}
+{"L":"normali","C":["n"],"en":"normalization|is, institutionalization|is, canonicalization|is","fr":"normalisation"}
+{"L":"normalia","C":["n"],"en":"normality, normalcy, regularity, ordinariness, commonness, commonality","fr":"normalité, régularité"}
+{"L":"normas","C":["n","pl"],"en":"code, ethos","fr":"normes, convention, règlement"}
+{"L":"normas de condui","C":["n","pl"],"en":"code of behavior|ur","fr":"code de conduite"}
+{"L":"normas moral","C":["n","pl"],"en":"moral code, ethics","fr":"code moral, éthique"}
+{"L":"normi","C":["vt"],"en":"standardize|is","fr":"standardiser"}
+{"L":"normi","C":["n"],"en":"standardization|is","fr":"standardisation"}
+{"L":"norminte","C":["a"],"en":"standardizing|is, normative","fr":"normatif"}
+{"L":"sunormal","C":["a"],"en":"subnormal; below par","fr":"inférieur à la normale"}
+{"L":"supranormal","C":["a"],"en":"supernormal; above par","fr":"supérieur à la normale"}
+{"T":"r","L":"normande","C":["a","dem"],"d":"pertinente a un popla ci ia coloni Normandia en Frans norde-ueste sirca 912 ec, e ia deveni un potia grande en la sentenio 11; pertinente a sua lingua, un dialeto de franses","i":"#","en":"Norman","fr":"normand"}
+{"L":"normande","C":["n"],"en":"Norman","fr":"Normand"}
+{"L":"Normandia","C":["n"],"en":"Normandy","fr":"Normandie"}
+{"T":"r","L":"normoblasto","C":["n","bio"],"d":"un tipo normal de eritroblasto","en":"normoblast (blood cell)","fr":"normoblaste, érythroblaste"}
 {"T":"r","L":"nos","C":["pron"],"d":"usada par un parlor per refere a un grupo de cual el es un parte; me e tu/vos; me e el/los","da":"vi","de":"wir","en":"we, us","es":"nosotros","fr":"nous"}
-{"L":"la nosa","C":["pron"],"en":"ours"}
+{"L":"la nosa","C":["pron"],"en":"ours","fr":"le nôtre, la nôtre, les nôtres"}
 {"L":"nosa","C":["d"],"en":"our","fr":"notre, nos"}
-{"T":"r","L":"nosebo","C":["a","med"],"d":"(un trata medical) causante un efeto negativa a la sania par la influe psicolojial de espetas negativa","en":"nocebo (medical)"}
-{"L":"nosebo","C":["n"],"en":"nocebo (medical)"}
-{"T":"r","L":"nosiva","C":["a","med"],"d":"causante dana o feri","en":"noxious, toxic, virulent, harmful, pernicious, prejudicial, deleterious, detrimental"}
-{"L":"nonosiva","C":["a"],"en":"benign, non-toxic, harmless, innocuous"}
-{"L":"nosivia","C":["n"],"en":"harmfulness, toxicity, virulence"}
-{"T":"r","L":"nosolojia","C":["n","med"],"d":"la ramo de medica cual clasi maladias","en":"nosology"}
-{"L":"nosolojiste","C":["n"],"en":"nosologist"}
-{"T":"r","L":"nostaljia","C":["n","uma"],"d":"un anela per la pasada, tipal per un eda o loca con lias felis","en":"nostalgia"}
-{"L":"nostaljial","C":["a"],"en":"nostalgic"}
+{"T":"r","L":"nosebo","C":["a","med"],"d":"(un trata medical) causante un efeto negativa a la sania par la influe psicolojial de espetas negativa","en":"nocebo (medical)","fr":"effet placebo"}
+{"L":"nosebo","C":["n"],"en":"nocebo (medical)","fr":"effet placebo"}
+{"T":"r","L":"nosiva","C":["a","med"],"d":"causante dana o feri","en":"noxious, toxic, virulent, harmful, pernicious, prejudicial, deleterious, detrimental","fr":"nocif, toxique, dangereux, délétère, funeste, malfaisant, mauvais, néfaste, nuisible, pernicieux, préjudiciable"}
+{"L":"nonosiva","C":["a"],"en":"benign, non-toxic, harmless, innocuous","fr":"inoffensif, sans danger, bénin"}
+{"L":"nosivia","C":["n"],"en":"harmfulness, toxicity, virulence","fr":"nocivité, toxicité"}
+{"T":"r","L":"nosolojia","C":["n","med"],"d":"la ramo de medica cual clasi maladias","en":"nosology","fr":"nosologie"}
+{"L":"nosolojiste","C":["n"],"en":"nosologist","fr":"nosologiste"}
+{"T":"r","L":"nostaljia","C":["n","uma"],"d":"un anela per la pasada, tipal per un eda o loca con lias felis","en":"nostalgia","fr":"nostalgie"}
+{"L":"nostaljial","C":["a"],"en":"nostalgic","fr":"nostalgique"}
 {"T":"r","L":"nota","C":["vt"],"d":"scrive un rejistra corta de (un fato, tema o pensa) per aida recorda","da":"bemærke","de":"merken, bemerken","en":"note, make a note of; minute; mention","es":"notar","fr":"noter, remarquer, observer"}
 {"L":"nota","C":["n"],"d":"un rejistra corta scriveda per aida recorda; un letera o mesaje corta scriveda; (en musica) un tono musical de altia spesifada; un sinia scriveda cual representa un tal tono","da":"note","de":"Notiz, Anmerkung","en":"note, annotation; memorandum, memo, message, short letter; notice (displayed information); note (music)","es":"nota, anotación, apunte","fr":"note"}
-{"L":"nota basa","C":["n"],"en":"footnote"}
-{"L":"nota bon","C":["esc"],"en":"by the way, nota bene"}
-{"L":"nota codal","C":["n"],"en":"endnote"}
-{"L":"nota de reseta","C":["n"],"en":"receipt"}
-{"L":"nota de validi","C":["n"],"en":"certificate"}
-{"L":"ja notada","C":["a"],"en":"already mentioned, aforementioned"}
-{"L":"nonotada","C":["a"],"en":"unnoted, unnoticed"}
-{"L":"nonotada","C":["n"],"en":"oversight"}
-{"L":"notable","C":["a"],"en":"notable, mentionable, noteworthy, noticeable, remarkable, considerable"}
-{"L":"notable","C":["av"],"en":"notably, noticeably, remarkably, considerably, substantially"}
-{"L":"notada","C":["a"],"en":"noted"}
-{"L":"notas","C":["n","pl"],"en":"notes; minutes (of meeting)"}
-{"L":"notor","C":["n"],"en":"noter, notetaker; secretary, minute taker"}
+{"L":"nota basa","C":["n"],"en":"footnote","fr":"note de bas de page"}
+{"L":"nota bon","C":["esc"],"en":"by the way, nota bene","fr":"nota bene"}
+{"L":"nota codal","C":["n"],"en":"endnote","fr":"note de fin"}
+{"L":"nota de reseta","C":["n"],"en":"receipt","fr":"reçu, facture"}
+{"L":"nota de validi","C":["n"],"en":"certificate","fr":"certificat, certification"}
+{"L":"ja notada","C":["a"],"en":"already mentioned, aforementioned","fr":"déjà mentionné"}
+{"L":"nonotada","C":["a"],"en":"unnoted, unnoticed","fr":"non remarqué"}
+{"L":"nonotada","C":["n"],"en":"oversight","fr":"inadvertance"}
+{"L":"notable","C":["a"],"en":"notable, mentionable, noteworthy, noticeable, remarkable, considerable","fr":"notable, remarquable"}
+{"L":"notable","C":["av"],"en":"notably, noticeably, remarkably, considerably, substantially","fr":"considérablement, remarquablement, notablement"}
+{"L":"notada","C":["a"],"en":"noted","fr":"noté, remarqué"}
+{"L":"notas","C":["n","pl"],"en":"notes; minutes (of meeting)","fr":"notes"}
+{"L":"notor","C":["n"],"en":"noter, notetaker; secretary, minute taker","fr":"preneur de notes, secrétaire"}
 {"T":"r","L":"notario","C":["n","gov"],"d":"un person con autoria per fa alga prosedes legal, tipal la scrive o validi de contratas, atas o otra documentos per usa par otra autoriosas","en":"notary, scrivener, solicitor's clerk","fr":"notaire"}
 {"T":"r","L":"notatecla","C":["n","vn"],"d":"un program cual rejistra, tipal furtiva, la serie de teclas usada","en":"keylogger"}
 {"T":"r","L":"note","C":["n"],"d":"la periodo de oscuria en cada 24 oras; la tempo entre la reposa de sol e la leva de sol","da":"nat","de":"Nacht","en":"night","es":"noche","fr":"nuit"}
@@ -21074,7 +21073,7 @@
 {"T":"r","L":"portaclave","C":["n","vn"],"d":"un anelo de metal a cual on fisa claves per reteni los en grupo","en":"keyring, keychain"}
 {"T":"r","L":"portacoda","C":["n","vn"],"d":"un banda sirculo de elastica covreda con stofa, usada per fisa la capeles","en":"hair tie, scrunchie"}
 {"T":"r","L":"portacontenador","C":["n","vn"],"d":"un barcon cual transporta benes en contenadores grande","en":"container ship"}
-{"T":"r","L":"portacopa","C":["n","vn"],"d":"un aparato per teni un copa plastica o otra contenador de bevi","en":"cup holder"}
+{"T":"r","L":"portacopa","C":["n","vn"],"d":"un person ci pleni e distribui copas de bevida en un rituo; un aparato per teni un copa plastica o otra contenador de bevi","en":"cupbearer; cup holder"}
 {"T":"r","L":"portacua","C":["n","vn"],"d":"un contenador longa e streta de cual animales bevi","i":"#","en":"water trough"}
 {"L":"portacua de avias","C":["n"],"en":"bird bath"}
 {"T":"r","L":"portaculpa","C":["n","vn"],"d":"un portapeca","en":"scapegoat, fall guy, patsy"}
@@ -23329,6 +23328,7 @@
 {"L":"cartuli","C":["a"],"v":"Sacartvelo","en":"Georgian (person, language)","es":"georgiano"}
 {"L":"cartuli","C":["n","dem"],"en":"Georgian (person, language)","es":"georgiano"}
 {"T":"r","L":"sace","C":["n","cos"],"d":"un bevida alcolosa preparada de ris fermentada, orijinante en Nion","en":"sake (drink)"}
+{"T":"r","L":"Sachsen","C":["n","jeo"],"d":"un rejion de Deutxland norde e sentral; un duxia en la eda medieval","en":"Saxony (German region)"}
 {"T":"r","L":"saci","C":["n","mam"],"d":"un simia de la tropicos de America con pelo ru e coda longa, brosin e nonprensil","i":"#","t":"Pithecia","en":"saki monkey"}
 {"T":"r","L":"saco","C":["n","util"],"d":"un contenador de material flexable, con un abri a la alta, usada per porta cosas","i":"#","da":"sæk, taske","de":"Sack","en":"bag, sack, sac, tote","eo":"sako","es":"saco, costal, bolsa, talega, maleta, zurrón, morral","fr":"sac","it":"sacco, borsa","nl":"zak","pt":"saco, bolsa, mala, pacote"}
 {"L":"saco de arena","C":["n"],"en":"sandbag"}
@@ -23687,8 +23687,7 @@
 {"T":"r","L":"Saskatchewan","C":["n","jeo"],"d":"un provinse de Canada sentral","p":"sascátxewan","en":"Saskatchewan (Canadian province)"}
 {"T":"r","L":"sasofon","C":["n","mus"],"d":"un strumento de venta, fabricada de metal con un beco con sola un anxa","i":"#","en":"saxophone, sax"}
 {"L":"sasofoniste","C":["n"],"en":"saxophonist"}
-{"T":"r","L":"Sason","C":["n","jeo"],"d":"un rejion de Deutxland norde e sentral; un duxia en la eda medieval","en":"Saxony (German region)"}
-{"L":"sason","C":["a","dem","ist"],"d":"pertinente a la popla germanica cual ia abita partes de Deutxland sentral e norde de la eda de la romanes, de ci multe ia coloni England sude en la sentenios 5 e 6; pertinente a la lingua de esta popla","i":"#","en":"Saxon"}
+{"T":"r","L":"sason","C":["a","dem","ist"],"d":"pertinente a la popla germanica cual ia abita partes de Deutxland sentral e norde de la eda de la romanes, de ci multe ia coloni England sude en la sentenios 5 e 6; pertinente a la lingua de esta popla","i":"#","en":"Saxon"}
 {"L":"sason","C":["n"],"en":"Saxon"}
 {"T":"r","L":"satai","C":["n","cos"],"d":"un plato de Asia sude, composada de pesetas de carne grilida sur un lansieta e servida con un salsa spisida cual conteni tipal aracides","i":"#","en":"satay (food)"}
 {"T":"r","L":"Satan","C":["n","rel","mit"],"d":"la nom de la spirito xef de malia en iudisme, cristianisme e islam","i":"#","en":"Satan"}
@@ -23820,6 +23819,8 @@
 {"L":"sceti","C":["n"],"en":"skateboarding"}
 {"L":"scetor","C":["n"],"en":"skateboarder"}
 {"T":"r","L":"scetx","C":["n","arte"],"d":"un sena comica corta, tipal como parte de un presenta o program plu longa","en":"sketch, skit (comedy)"}
+{"T":"r","L":"Schwaben","C":["n","jeo"],"d":"un rejion de Deutxland sude-ueste","i":"xvaben","p":"xvaben","de":"Schwaben","en":"Swabia (German region)","es":"Suabia"}
+{"L":"schwabes","C":["a"],"en":"Swabian"}
 {"T":"r","L":"sci","C":["n","spo"],"d":"cada de du pesos longa e magra de un materia flexable, juntada su la pedes per lisca sur neva","i":"#","da":"ski","de":"Schi","en":"ski; skiing","eo":"skio","es":"esquí","fr":"(un) ski; (le) ski","it":"sci","nl":"ski","pt":"esqui"}
 {"L":"sci","C":["vt"],"en":"ski","fr":"skier"}
 {"L":"sci acual","C":["vt"],"en":"waterski"}
@@ -28017,9 +28018,6 @@
 {"T":"r","L":"uadi","C":["n","tera"],"d":"un vale o foson cual es seca estra la saison pluvosa","en":"wadi (valley)","es":"uadi"}
 {"T":"r","L":"uafel","C":["n","cos"],"d":"un torta peti con esterna cracosa, fornida en un padela con surfas con forma de favo, e comeda con bur o xirope","i":"#","en":"waffle (food)","es":"gofre"}
 {"T":"r","L":"ualabi","C":["n","mam"],"d":"un membro de un spesie de cangaru peti","t":"Macropodidae","en":"wallaby","es":"ualabí"}
-{"T":"r","L":"Ualonia","C":["n","jeo"],"d":"la parte de Beljia sude en cual la popla parla franses o un dialeto de franses","i":"#","en":"Wallonia","es":"Valonia"}
-{"L":"ualon","C":["a"],"en":"Walloon","es":"valón"}
-{"L":"ualon","C":["n"],"en":"Walloon","es":"valón"}
 {"T":"r","L":"uampum","C":["n","ist"],"d":"perletas, tipal forminte un cadena, usada par alga tribus de americanes orijinal como un media de intercambia o per rejistra avenis","i":"#","en":"wampum (beads)","es":"wampum"}
 {"T":"r","L":"uapiti","C":["n","mam"],"d":"un servo roja grande de America Norde","i":"#","t":"Cervus canadensis","en":"elk (US), wapiti","es":"uapití, wapití, ciervo canadiense"}
 {"T":"r","L":"uarfarin","C":["n","cim","med"],"d":"un composada usada per mata ratas e como un medisin per trata trombose","en":"warfarin (drug)","es":"warfarina (medicamento)"}
@@ -28431,9 +28429,9 @@
 {"L":"vale maral","C":["n"],"en":"oceanic trench"}
 {"L":"vale tetonical","C":["n"],"en":"rift valley"}
 {"L":"valeta","C":["n"],"en":"dell, glen"}
-{"T":"r","L":"Valensia","C":["n","jeo"],"d":"un site a la costa este de Espania","en":"Valencia"}
-{"L":"Comunia Valensian","C":["n","jeo"],"i":"Valensia","en":"Valencian Community"}
-{"L":"Provinse Valensia","C":["n","jeo"],"en":"Province of Valencia"}
+{"T":"r","L":"Valencia","C":["n","jeo"],"d":"un site a la costa este de Espania","p":"valénsia","en":"Valencia"}
+{"L":"Comunia Valencian","C":["n","jeo"],"i":"Valensia","en":"Valencian Community"}
+{"L":"Provinse Valencia","C":["n","jeo"],"en":"Province of Valencia"}
 {"T":"r","L":"valente","C":["a","cim","bio"],"d":"pertinente a la eletrones en o disponable a un lia cimical; (en jenetica) composada de un cuantia spesifada de cromosomas","en":"valent"}
 {"L":"valentia","C":["n"],"en":"valence, valency","fr":"valence"}
 {"T":"r","L":"valeriana","C":["n","pla"],"d":"un planta, tipal con grupos de flores peti rosa o blanca, valuada per sua cualias medical","i":"#","t":"Valeriana officinalis","en":"valerian (plant)","fr":"valériane"}
@@ -29333,6 +29331,9 @@
 {"T":"r","L":"vultur","C":["n","avia"],"d":"un avia grande con testa e colo calva, ci come tipal caronia","i":"#","t":"Aegypiinae, Cathartidae","en":"vulture"}
 {"T":"r","L":"vulva","C":["n","anat"],"d":"la jenitales esterna de un fema","i":"#","en":"vulva (anatomy)"}
 {"T":"r","L":"w","C":["sim"],"d":"la letera 23 de la alfabeta roman","p":"wa","en":"w","es":"w"}
+{"T":"r","L":"Wallonie","C":["n","jeo"],"d":"la parte de Beljia sude en cual la popla parla franses o un dialeto de franses","i":"ualonia","p":"ualoní","en":"Wallonia","es":"Valonia"}
+{"L":"wallon","C":["a"],"en":"Walloon","es":"valón"}
+{"L":"wallon","C":["n"],"en":"Walloon","es":"valón"}
 {"T":"r","L":"Warszawa","C":["n","jeo"],"d":"la site capital de Polsca","p":"varxava","en":"Warsaw","es":"Varsovia"}
 {"T":"r","L":"Washington","C":["n","jeo"],"d":"un stato en la SUA norde-ueste, bordante Canada e la Mar Pasifica; la site capital de la SUA","p":"wáxington","en":"Washington (US state, city)","es":"Washington (ciudad, estado de los EE.UU.)"}
 {"T":"r","L":"Wien","C":["n","jeo"],"d":"la site capital de Osteraic","p":"vin","en":"Vienna","es":"Viena"}
@@ -29606,8 +29607,6 @@
 {"L":"xuxa","C":["n"],"en":"whisper; prompt; rustle, rustling, froufrou","eo":"flustro; sufloro; susuro","fr":"chuchotement"}
 {"L":"xuxor","C":["n"],"en":"whisperer; prompter"}
 {"T":"r","L":"xva","C":["n","ling"],"d":"un vocal media e sentral; (en scrive ivri) un sinia vocal cual sembla un dupunto scriveda su un letera","s":"ə","en":"schwa (vowel); shva, shewa' (Hebrew vowel sign)","eo":"ŝvao","fr":"schwa, chva"}
-{"T":"r","L":"Xvaben","C":["n","jeo"],"d":"un rejion de Deutxland sude-ueste","i":"#","de":"Schwaben","en":"Swabia (German region)","es":"Suabia"}
-{"L":"xvabes","C":["a"],"en":"Swabian"}
 {"T":"r","L":"y","C":["sim"],"d":"la letera 25 de la alfabeta roman","p":"ya","en":"y","es":"y"}
 {"T":"r","L":"York Nova","C":["n","jeo"],"d":"un stato en la SUA norde-este, con bordas a la Mar Atlantica e la Lago Ontario","en":"New York State (US state)","es":"Estado de Nueva York"}
 {"T":"r","L":"Yucatan","C":["n","jeo"],"d":"un stato en Mexico sude-este","en":"Yucatán (Mexican state)","es":"Estado de Yucatán"}
