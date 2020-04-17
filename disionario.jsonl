@@ -15881,8 +15881,8 @@
 {"T":"r","L":"marci","C":["n","gov","ist"],"d":"(en alga nasiones european) un nobil de grado supra un conte e su un duxe","en":"marquess, marquis, margrave","fr":"marquis"}
 {"L":"marcesa","C":["n"],"en":"marchioness, marquise","fr":"marquise"}
 {"L":"marcia","C":["n"],"d":"(istorial) la area renada par un marci","en":"march (land)","fr":"marquisat"}
-{"T":"r","L":"marea","C":["vnt","med"],"d":"ave un sensa de jira e perde de ecuilibra","en":"feel dizzy, feel giddy, feel woozy; (head) swim","fr":"attraper le mal de mer, avoir le mal de mer, être nauséeux, avoir la nausée"}
-{"L":"marea","C":["vt"],"en":"make dizzy","fr":"donner le mal de mer à, donner la nausée à, rendre nauséeux"}
+{"T":"r","L":"marea","C":["vnt","med"],"d":"ave un sensa de jira e perde de ecuilibra","en":"feel dizzy, feel giddy, feel woozy; (head) swim","fr":"attraper le mal de mer, avoir le mal de mer, être nauséeux, avoir la nausée; avoir la tête qui tourne"}
+{"L":"marea","C":["vt"],"en":"make dizzy","fr":"donner le mal de mer à, donner la nausée à, rendre nauséeux; faire tourner la tête"}
 {"L":"mareada","C":["a"],"en":"dizzy, giddy, groggy, woozy","fr":"qui a le mal de mer, nauséeux"}
 {"L":"mareante","C":["a"],"en":"dizzying","fr":"qui donne le mal de mer, nauséeux"}
 {"T":"r","L":"marea","C":["n","ast","tera"],"d":"la leva e cade de la mar par la atrae de la Luna e la Sol","da":"tidevand","de":"Gezeiten","en":"tide","es":"marea, corriente, pleamar","fr":"marée"}
@@ -18558,492 +18558,493 @@
 {"L":"optometriste","C":["n"],"en":"optometrist, optician, oculist","fr":"opticien, oculiste, optométriste, ophtalmologiste, orthoptiste"}
 {"T":"r","L":"-or","C":["sf","n"],"d":"ajuntada per nomi un person ci fa la ata de un verbo, produi o usa un nom, o aplica la cualia de un ajetivo, tipal como sua emplea","u":"joglor; xapor; modernor","en":"-er (person)","fr":"-eur (personne)"}
 {"T":"r","L":"ora","C":["n"],"d":"un periodo de tempo egal a un dudes-cuatri de un dia e note, e dividable a 60 minutos; un punto de tempo espresada en forma de esta periodos","da":"time","de":"Stunde","en":"hour; time (by clock)","es":"hora","fr":"heure"}
-{"L":"a la ora sete","C":["av"],"en":"at seven o'clock"}
-{"L":"ora de adormi","C":["n"],"en":"bedtime"}
-{"L":"ora de come","C":["n"],"en":"mealtime, dinnertime, suppertime"}
-{"L":"ora de labora","C":["n"],"en":"man-hour"}
-{"L":"ora de presa","C":["n"],"en":"rush hour, peak hour"}
-{"L":"ora de retira","C":["n"],"en":"curfew"}
-{"L":"ora de te","C":["n"],"en":"teatime"}
-{"L":"ora favoreda","C":["n"],"en":"prime time"}
-{"T":"r","L":"oraculo","C":["n","mit"],"d":"(en edas antica) un prete mas o fema ci ia funsiona como un media per solisita avisas, conselas o predises de la dios; (metafor) un person regardada como un autoria nonfalinte sur alga cosa","en":"oracle"}
-{"L":"oraculal","C":["a"],"en":"oracular"}
+{"L":"a la ora sete","C":["av"],"en":"at seven o'clock","fr":"à sept heures"}
+{"L":"ora de adormi","C":["n"],"en":"bedtime","fr":"heure de se coucher, heure de dormir, heure d'aller au lit"}
+{"L":"ora de come","C":["n"],"en":"mealtime, dinnertime, suppertime","fr":"heure de manger, heure du dîner, heure du souper"}
+{"L":"ora de labora","C":["n"],"en":"man-hour","fr":"heure de travail, (au pluriel) horaire de travail"}
+{"L":"ora de presa","C":["n"],"en":"rush hour, peak hour","fr":"heure de pointe, heure d'affluence"}
+{"L":"ora de retira","C":["n"],"en":"curfew","fr":"couvre-feu"}
+{"L":"ora de te","C":["n"],"en":"teatime","fr":"heure du thé, heure du goûter"}
+{"L":"ora favoreda","C":["n"],"en":"prime time","fr":"heure de grande écoute, première partie de soirée"}
+{"T":"r","L":"oraculo","C":["n","mit"],"d":"(en edas antica) un prete mas o fema ci ia funsiona como un media per solisita avisas, conselas o predises de la dios; (metafor) un person regardada como un autoria nonfalinte sur alga cosa","en":"oracle","fr":"oracle"}
+{"L":"oraculal","C":["a"],"en":"oracular","fr":"oraculaire"}
 {"T":"r","L":"-orafia","C":["sf","n","med"],"d":"suturi","en":"-orrhaphy (medical)"}
-{"T":"r","L":"orangutan","C":["n","mam"],"d":"un primate grande, xef solitar, con pelo longa e rojin, brasos longa, e manos e pedes oncin, nativa de Borneo e Sumatra","i":"#","t":"Pongo","en":"orangutan"}
+{"T":"r","L":"orangutan","C":["n","mam"],"d":"un primate grande, xef solitar, con pelo longa e rojin, brasos longa, e manos e pedes oncin, nativa de Borneo e Sumatra","i":"#","t":"Pongo","en":"orangutan","fr":"orang-outan"}
 {"T":"r","L":"oranio","C":["n","pla","cos"],"d":"un arbor perene con folias cuorin, orijinante en Asia sude-este, cual produi oranias","i":"#","t":"Citrus sinensis","en":"orange tree","es":"naranjo","fr":"oranger"}
-{"L":"orani","C":["vnt"],"en":"turn orange"}
-{"L":"orani","C":["vt"],"en":"turn orange"}
-{"L":"orania","C":["a","col"],"d":"con color briliante rojin-jala","i":"#","da":"orange","de":"orange","en":"orange (color|ur)","es":"naranja","fr":"orangé"}
-{"L":"orania","C":["n"],"d":"un fruta grande, ronda e jusosa con casca spesa e briliante rojin-jala","da":"appelsin","de":"Orange","en":"orange (fruit)","fr":"orange"}
-{"L":"orania amarga","C":["n"],"t":"Citrus × aurantium","en":"bitter orange"}
-{"L":"oranieria","C":["n"],"d":"un inverneria per cultiva oranios","en":"orangery"}
-{"L":"oranin","C":["a"],"en":"orangey"}
-{"L":"oranin brun","C":["a"],"en":"tawny"}
-{"T":"r","L":"oratorio","C":["n","rel"],"d":"un egleseta, tipal per usa privata","en":"oratory"}
-{"T":"r","L":"orbicula","C":["n","anat","med"],"d":"la musculo sirca la oio cual clui la palpebras","en":"orbicularis oculi (muscle)"}
-{"T":"r","L":"orbita","C":["vt","ast","anat"],"d":"(un ojeto o veculo spasial) move en curso curva sirca un stela, planeta o luna","en":"orbit"}
-{"L":"orbita","C":["n"],"en":"orbit; eye socket"}
-{"L":"orbital","C":["a"],"en":"orbital"}
-{"L":"orbitador","C":["n"],"en":"orbiter"}
-{"L":"suorbital","C":["a"],"en":"suborbital"}
-{"T":"r","L":"orca","C":["n","mam"],"d":"un balena con dentes grande e marcas distinguinte de blanca e negra","i":"#","t":"Orcinus orca","en":"orca, killer whale"}
-{"T":"r","L":"orcectomia","C":["n","med"],"d":"un sirurjia per estrae un testiculo","en":"orchectomy (surgery)"}
-{"T":"r","L":"orcestra","C":["n","mus"],"d":"un grupo grande de musicistes, tipal combinante strumentos de cordeta, venta e percute, e tipal juante musica clasica","i":"#","en":"orchestra"}
-{"L":"orcestra de jaz","C":["n"],"en":"big band, jazz orchestra"}
-{"L":"orcestra de salon","C":["n"],"en":"chamber orchestra"}
-{"L":"orcestra simfonial","C":["n"],"en":"concert band"}
-{"L":"orcestral","C":["a"],"en":"orchestral"}
-{"L":"orcestri","C":["vt"],"en":"orchestrate"}
-{"L":"orcestri","C":["n"],"en":"orchestration"}
-{"T":"r","L":"orcidea","C":["n","pla"],"d":"un planta con flores complicada e tipal ostentosa o strana formida, con labio grande, valuada como orna","i":"#","t":"Orchidaceae","en":"orchid"}
-{"T":"r","L":"orco","C":["n","arte","mit"],"d":"un membro de un rasa mital de organismes umanin, descriveda como fea, gerosa e malvolente, orijinante en la obras de JRR Tolkien","i":"#","en":"orc (mythology)"}
-{"L":"orceta","C":["n"],"en":"goblin, gremlin"}
+{"L":"orani","C":["vnt"],"en":"turn orange","fr":"prendre la couleur orange"}
+{"L":"orani","C":["vt"],"en":"turn orange","fr":"donner la couleur orange, teindre en orange"}
+{"L":"orania","C":["a","col"],"d":"con color briliante rojin-jala","i":"#","da":"orange","de":"orange","en":"orange (color|ur)","es":"naranja","fr":"orange, orangé"}
+{"L":"orania","C":["n"],"d":"un fruta grande, ronda e jusosa con casca spesa e briliante rojin-jala","da":"appelsin","de":"Orange","en":"orange (fruit)","fr":"orange (fuit)"}
+{"L":"orania amarga","C":["n"],"t":"Citrus × aurantium","en":"bitter orange","fr":"orange amère"}
+{"L":"oranieria","C":["n"],"d":"un inverneria per cultiva oranios","en":"orangery","fr":"orangerie, orangeraie"}
+{"L":"oranin","C":["a"],"en":"orangey","fr":"orangé, d'orange, qui ressemble à l'orange"}
+{"L":"oranin brun","C":["a"],"en":"tawny","fr":"orange foncé"}
+{"T":"r","L":"oratorio","C":["n","rel"],"d":"un egleseta, tipal per usa privata","en":"oratory","fr":"oratoire"}
+{"T":"r","L":"orbicula","C":["n","anat","med"],"d":"la musculo sirca la oio cual clui la palpebras","en":"orbicularis oculi (muscle)","fr":"orbiculaire"}
+{"T":"r","L":"orbita","C":["vt","ast","anat"],"d":"(un ojeto o veculo spasial) move en curso curva sirca un stela, planeta o luna","en":"orbit","fr":"être en orbite"}
+{"L":"orbita","C":["n"],"en":"orbit; eye socket","fr":"orbite"}
+{"L":"orbital","C":["a"],"en":"orbital","fr":"orbital"}
+{"L":"orbitador","C":["n"],"en":"orbiter","fr":"navette spatiale"}
+{"L":"suorbital","C":["a"],"en":"suborbital","fr":"suborbital"}
+{"T":"r","L":"orca","C":["n","mam"],"d":"un balena con dentes grande e marcas distinguinte de blanca e negra","i":"#","t":"Orcinus orca","en":"orca, killer whale","fr":"orque"}
+{"T":"r","L":"orcectomia","C":["n","med"],"d":"un sirurjia per estrae un testiculo","en":"orchectomy (surgery)","fr":"orchidectomie"}
+{"T":"r","L":"orcestra","C":["n","mus"],"d":"un grupo grande de musicistes, tipal combinante strumentos de cordeta, venta e percute, e tipal juante musica clasica","i":"#","en":"orchestra","fr":"orchestre"}
+{"L":"orcestra de jaz","C":["n"],"en":"big band, jazz orchestra","fr":"orchestre de jazz"}
+{"L":"orcestra de salon","C":["n"],"en":"chamber orchestra","fr":"orchestre de chambre"}
+{"L":"orcestra simfonial","C":["n"],"en":"concert band","fr":"orchestre symphonique"}
+{"L":"orcestral","C":["a"],"en":"orchestral","fr":"orchestral"}
+{"L":"orcestri","C":["vt"],"en":"orchestrate","fr":"orchestrer"}
+{"L":"orcestri","C":["n"],"en":"orchestration","fr":"orchestration"}
+{"T":"r","L":"orcidea","C":["n","pla"],"d":"un planta con flores complicada e tipal ostentosa o strana formida, con labio grande, valuada como orna","i":"#","t":"Orchidaceae","en":"orchid","fr":"orchidée"}
+{"T":"r","L":"orco","C":["n","arte","mit"],"d":"un membro de un rasa mital de organismes umanin, descriveda como fea, gerosa e malvolente, orijinante en la obras de JRR Tolkien","i":"#","en":"orc (mythology)","fr":"orc"}
+{"L":"orceta","C":["n"],"en":"goblin, gremlin","fr":"gobelin, gremlin"}
 {"T":"r","L":"ordina","C":["vt","rel","mus"],"d":"pone (cosas, persones o nomes) en un serie usosa, como par grandia, prestijia, la alfabeta, etc; pone (cosas o persones) en categorias usosa; pone cosas en un modo plasente o bela; encarga (algun) con la cargas de un prete o otra rol relijiosa","en":"order, sort, sequence, arrange, rank, grade, prioritize|is; tidy, neaten, groom; ordain (religious)","fr":"ranger, classer; ordonner (prêtre)"}
-{"L":"ordina","C":["n"],"da":"sekvens","de":"Reihenfolge","en":"order (including monks), arrangement (including music), sequence, configuration; ordination (religious)","es":"secuencia, orden","fr":"ordre"}
-{"L":"ordina de la dia","C":["n"],"en":"order of the day, agenda"}
-{"L":"ordina de viaja","C":["n"],"en":"itinerary, travel plans"}
-{"L":"ordina mundal nova","C":["n"],"en":"new world order"}
-{"L":"ordina sua plumas","C":["v"],"en":"preen"}
-{"L":"ordina se","C":["v"],"en":"preen, primp"}
-{"L":"desordina","C":["vt"],"en":"mess up, make a mess of, muss, rumple, dishevel, clutter"}
-{"L":"desordina","C":["n"],"en":"disorder, disarray, clutter, mess, muzz"}
-{"L":"desordinada","C":["a"],"en":"messy, untidy, disorderly, sloppy, slovenly, scruffy, bedraggled, dishevelled, unkempt"}
-{"L":"en ordina","C":["av"],"en":"in order, respectively"}
-{"L":"nonordinada","C":["a"],"en":"irregular, out of order, disorganized|is, unsorted, untucked"}
-{"L":"ordinada","C":["a"],"en":"ordered, orderly, neat, tidy, trim, shipshape, smart, dressy"}
-{"L":"ordinal","C":["a"],"en":"ordinal"}
-{"L":"preordina","C":["vt"],"en":"prearrange, preordain"}
-{"L":"reordina","C":["vt"],"en":"reorder, rearrange, put back in order, tidy up, clear up"}
-{"L":"suordina","C":["vt"],"en":"subordinate"}
-{"L":"suordina","C":["n"],"en":"subordination; suborder (biology)"}
-{"L":"suordinada","C":["a"],"en":"subordinate, secondary, vice-, deputy"}
-{"L":"suordinada","C":["n"],"en":"deputy, commissary"}
-{"L":"supraordina","C":["n"],"en":"superorder (biology)"}
-{"L":"supraordinada","C":["a"],"en":"superordinate"}
-{"T":"r","L":"ordovisian","C":["a","tera"],"d":"pertinente a la periodo du de la paleozoica, entre la cambrian e silurian","en":"Ordovician (geology)"}
-{"L":"ordovisian","C":["n"],"en":"Ordovician (geology)"}
+{"L":"ordina","C":["n"],"da":"sekvens","de":"Reihenfolge","en":"order (including monks), arrangement (including music), sequence, configuration; ordination (religious)","es":"secuencia, orden","fr":"ordre, rangement, classement; ordre, ordination"}
+{"L":"ordina de la dia","C":["n"],"en":"order of the day, agenda","fr":"ordre du jour, agenda"}
+{"L":"ordina de viaja","C":["n"],"en":"itinerary, travel plans","fr":"itinéraire, planification d'un voyage"}
+{"L":"ordina mundal nova","C":["n"],"en":"new world order","fr":"nouvel ordre mondial"}
+{"L":"ordina sua plumas","C":["v"],"en":"preen","fr":"se lisser les plumes"}
+{"L":"ordina se","C":["v"],"en":"preen, primp","fr":"se pomponner, se bichonner, se pavaner"}
+{"L":"desordina","C":["vt"],"en":"mess up, make a mess of, muss, rumple, dishevel, clutter","fr":"déranger, mettre en désordre, mettre le désordre dans, mettre sens dessus dessous, décoiffer, mettre le fouillis, mettre le bazar, bouleverser, chambouler, retourner"}
+{"L":"desordina","C":["n"],"en":"disorder, disarray, clutter, mess, muzz","fr":"fouillis, désordre, bazar, fatras, pagaille, bouleversement"}
+{"L":"desordinada","C":["a"],"en":"messy, untidy, disorderly, sloppy, slovenly, scruffy, bedraggled, dishevelled, unkempt","fr":"dérangé, en désordre, sens dessus dessous, décoiffé, en fouillis, en bazar, bouleversé, chamboulé, retourné"}
+{"L":"en ordina","C":["av"],"en":"in order, respectively","fr":"en ordre, dans l'ordre, respectivement"}
+{"L":"nonordinada","C":["a"],"en":"irregular, out of order, disorganized|is, unsorted, untucked","fr":"en désordre, désorganisé, sans ordre, sans organisation, non classé, non rangé, débraillé"}
+{"L":"ordinada","C":["a"],"en":"ordered, orderly, neat, tidy, trim, shipshape, smart, dressy","fr":"ordonné, en  ordre, rangé, bien rangé, bien arrangé, élégant, bien mis, soigné"}
+{"L":"ordinal","C":["a"],"en":"ordinal","fr":"ordinal"}
+{"L":"preordina","C":["vt"],"en":"prearrange, preordain","fr":"préorganiser, préarranger, préordonner"}
+{"L":"reordina","C":["vt"],"en":"reorder, rearrange, put back in order, tidy up, clear up","fr":"réorganiser, réordonner"}
+{"L":"suordina","C":["vt"],"en":"subordinate","fr":"subordonner"}
+{"L":"suordina","C":["n"],"en":"subordination; suborder (biology)","fr":"subordination; sous-ordre"}
+{"L":"suordinada","C":["a"],"en":"subordinate, secondary, vice-, deputy","fr":"subordonné, secondaire, vice-, -adjoint"}
+{"L":"suordinada","C":["n"],"en":"deputy, commissary","fr":"adjoint, délégué, suppléant, subordonné"}
+{"L":"supraordina","C":["n"],"en":"superorder (biology)","fr":"super-ordre,superordre"}
+{"L":"supraordinada","C":["a"],"en":"superordinate","fr":"superordonné"}
+{"T":"r","L":"ordovisian","C":["a","tera"],"d":"pertinente a la periodo du de la paleozoica, entre la cambrian e silurian","en":"Ordovician (geology)","fr":"ordovicien"}
+{"L":"ordovisian","C":["n"],"en":"Ordovician (geology)","fr":"Ordovicien"}
 {"T":"r","L":"orea","C":["n","anat"],"d":"la organo de oia e ecuilibra en umanas e otra vertebratos, spesial sua parte esterna; la organo cual sensa sonas en otra animales","i":"#","da":"øre","de":"Ohr","en":"ear","es":"oreja, oído","fr":"oreille"}
-{"L":"orea asoluta","C":["n"],"en":"perfect pitch"}
-{"L":"orea esterna","C":["n"],"en":"outer ear, pinna, auricle"}
-{"L":"orea interna","C":["n"],"en":"inner ear"}
-{"L":"con oretas","C":["a"],"en":"tabbed"}
-{"L":"oreal","C":["a"],"en":"aural, of the ear; auditory, audial"}
-{"L":"oreta","C":["n"],"en":"bootstrap (for pulling boot on); tab (of page)"}
-{"T":"r","L":"orealeta","C":["n","vest"],"d":"un joala portada sur la lobe o borda de la orea","i":"#","en":"earring"}
-{"T":"r","L":"oregano","C":["n","pla","cos"],"d":"un planta bonodorosa con folias usada como un spise en cosini; esta spise","i":"#","t":"Origanum vulgare","en":"oregano (plant, spice)"}
-{"T":"r","L":"Oregon","C":["n","jeo"],"d":"un stato en la SUA norde-ueste","en":"Oregon (US state)"}
-{"T":"r","L":"orexina","C":["n","bio"],"d":"cada de la du ormones produida par la ipotalamo de mamales cual pertine a la regula de apetito e dormi","en":"orexin (hormone)"}
-{"T":"r","L":"orfan","C":["a","uma"],"d":"un enfante de ci sua jenitores es mor","i":"#","en":"orphan, waif"}
-{"L":"orfan","C":["n"],"en":"orphan, foundling"}
-{"L":"orfaneria","C":["n"],"en":"orphanage"}
-{"L":"orfani","C":["vnt"],"en":"orphan"}
-{"L":"orfani","C":["vt"],"en":"orphan"}
-{"T":"r","L":"organdi","C":["n","vest"],"d":"un stofa magra, rijida e diafana, de coton, seda o otra fibres","en":"organdy, organza (fabric)"}
-{"T":"r","L":"organica","C":["a","bio"],"d":"pertinente a, o derivada de, materia biolojial; produida sin pestiside","en":"organic"}
-{"L":"nonorganica","C":["a"],"en":"inorganic"}
-{"T":"r","L":"organisme","C":["n","bio"],"d":"un animal, un planta, o un vivente uniselulal","en":"organism"}
+{"L":"orea asoluta","C":["n"],"en":"perfect pitch","fr":"oreille absolue"}
+{"L":"orea esterna","C":["n"],"en":"outer ear, pinna, auricle","fr":"oreille externe"}
+{"L":"orea interna","C":["n"],"en":"inner ear","fr":"oreille interne"}
+{"L":"con oretas","C":["a"],"en":"tabbed","fr":"à onglets"}
+{"L":"oreal","C":["a"],"en":"aural, of the ear; auditory, audial","fr":"auriculaire (de l'oreille), auditif"}
+{"L":"oreta","C":["n"],"en":"bootstrap (for pulling boot on); tab (of page)","fr":"languette, onglet, marque-page, intercalaire"}
+{"T":"r","L":"orealeta","C":["n","vest"],"d":"un joala portada sur la lobe o borda de la orea","i":"#","en":"earring","fr":"boucle d'oreille"}
+{"T":"r","L":"oregano","C":["n","pla","cos"],"d":"un planta bonodorosa con folias usada como un spise en cosini; esta spise","i":"#","t":"Origanum vulgare","en":"oregano (plant, spice)","fr":"origan"}
+{"T":"r","L":"Oregon","C":["n","jeo"],"d":"un stato en la SUA norde-ueste","en":"Oregon (US state)","fr":"Orégon (État des USA)"}
+{"T":"r","L":"orexina","C":["n","bio"],"d":"cada de la du ormones produida par la ipotalamo de mamales cual pertine a la regula de apetito e dormi","en":"orexin (hormone)","fr":"orexine"}
+{"T":"r","L":"orfan","C":["a","uma"],"d":"un enfante de ci sua jenitores es mor","i":"#","en":"orphan, waif","fr":"orphelin"}
+{"L":"orfan","C":["n"],"en":"orphan, foundling","fr":"orphelin"}
+{"L":"orfaneria","C":["n"],"en":"orphanage","fr":"orphelinat"}
+{"L":"orfani","C":["vnt"],"en":"orphan","fr":"devenir orphelin"}
+{"L":"orfani","C":["vt"],"en":"orphan","fr":"rendre orphelin"}
+{"T":"r","L":"organdi","C":["n","vest"],"d":"un stofa magra, rijida e diafana, de coton, seda o otra fibres","en":"organdy, organza (fabric)","fr":"organdi"}
+{"T":"r","L":"organica","C":["a","bio"],"d":"pertinente a, o derivada de, materia biolojial; produida sin pestiside","en":"organic","fr":"biologique, bio"}
+{"L":"nonorganica","C":["a"],"en":"inorganic","fr":"non biologique, non bio"}
+{"T":"r","L":"organisme","C":["n","bio"],"d":"un animal, un planta, o un vivente uniselulal","en":"organism","fr":"organisme"}
 {"T":"r","L":"organiza","C":["vt","gov"],"d":"coordina la ativias de (un person o grupo) per funsiona como un unia per ateni intendes o goles spesifada","da":"organisere","de":"organisieren","en":"organize|is, arrange, mount","es":"organizar","fr":"organiser"}
 {"L":"organiza","C":["n"],"da":"klub, forening, samfund","en":"organization|is, arrangement, setup, configuration; institute, society, club, entity","es":"organización; club, sociedad","fr":"organisation; société, club"}
-{"L":"organiza nongovernal","C":["n"],"en":"non-governmental organization|is, NGO"}
-{"L":"desorganiza","C":["vt"],"en":"disorganize|is"}
-{"L":"desorganiza","C":["n"],"en":"disorganization|is"}
-{"L":"desorganizada","C":["a"],"en":"disorganized|is, ragtag, scatterbrain, scatty, sloppy"}
-{"L":"organizal","C":["a"],"en":"organizational|is"}
-{"L":"organizor","C":["n"],"en":"organizer|is, producer, impresario"}
-{"L":"reorganiza","C":["vt"],"en":"reorganize|is"}
-{"L":"reorganiza","C":["n"],"en":"reorganization|is, shakedown, shakeup"}
-{"L":"supraorganiza","C":["n"],"en":"umbrella organization|is, umbrella group"}
+{"L":"organiza nongovernal","C":["n"],"en":"non-governmental organization|is, NGO","fr":"organisation non gouvernementale"}
+{"L":"desorganiza","C":["vt"],"en":"disorganize|is","fr":"désorganiser"}
+{"L":"desorganiza","C":["n"],"en":"disorganization|is","fr":"désorganisation"}
+{"L":"desorganizada","C":["a"],"en":"disorganized|is, ragtag, scatterbrain, scatty, sloppy","fr":"désorganisé, farfelu, désordonné"}
+{"L":"organizal","C":["a"],"en":"organizational|is","fr":"organisationnel"}
+{"L":"organizor","C":["n"],"en":"organizer|is, producer, impresario","fr":"organisateur, producteur, imprésario"}
+{"L":"reorganiza","C":["vt"],"en":"reorganize|is","fr":"réorganiser"}
+{"L":"reorganiza","C":["n"],"en":"reorganization|is, shakedown, shakeup","fr":"réorganisation"}
+{"L":"supraorganiza","C":["n"],"en":"umbrella organization|is, umbrella group","fr":"organisation parapluie"}
 {"T":"r","L":"organo","C":["n","bio","mus"],"d":"un parte de un organisme, partal autonom, e con rol spesialida; un strumento musical de teclas, con tubos e pedales","i":"#","da":"organ","de":"Organ; Orgel","en":"organ (anatomy, music)","es":"órgano","fr":"organe; orgue"}
-{"L":"organal","C":["a"],"d":"pertinente a un organo","en":"organic"}
-{"L":"organeta","C":["n"],"en":"organelle (biology)"}
-{"L":"organo de enrola","C":["n"],"en":"barrel organ, hurdy-gurdy"}
-{"L":"organo de vapor","C":["n"],"en":"calliope"}
-{"L":"organiste","C":["n"],"en":"organist"}
-{"L":"organos","C":["n","pl"],"en":"organs; offal, giblets"}
-{"L":"organos sesal","C":["n"],"en":"sexual organs"}
-{"T":"r","L":"organofosforosa","C":["n","cim"],"d":"un composada organica sinteseda cual conteni fosfor, tipal un pestiside o venena","en":"organophosphorus (substance)"}
-{"T":"r","L":"organotrof","C":["a","bio"],"d":"(un microbio) oteninte idrojen o eletrones de fundas organica","en":"organotrophic (biology)"}
-{"L":"organotrof","C":["n"],"en":"organotroph"}
-{"L":"organotrofia","C":["n"],"en":"organotrophia"}
-{"T":"r","L":"orgasma","C":["vnt","bio","uma"],"d":"ateni la culmina de stimula sesal, marcada par sentis de plaser consentrada en la jenitales","en":"orgasm"}
-{"L":"orgasma","C":["n"],"en":"orgasm","es":"orgasmo"}
-{"L":"orgasmal","C":["a"],"en":"orgasmic (of orgasm)"}
-{"L":"orgasmosa","C":["a"],"en":"orgasmic (orgasming)"}
+{"L":"organal","C":["a"],"d":"pertinente a un organo","en":"organic","fr":"organique"}
+{"L":"organeta","C":["n"],"en":"organelle (biology)","fr":"organite"}
+{"L":"organo de enrola","C":["n"],"en":"barrel organ, hurdy-gurdy","fr":"orgue de barbarie"}
+{"L":"organo de vapor","C":["n"],"en":"calliope","fr":"calliope, orgue à vapeur, piano à vapeur."}
+{"L":"organiste","C":["n"],"en":"organist","fr":"organiste"}
+{"L":"organos","C":["n","pl"],"en":"organs; offal, giblets","fr":"organes; abats"}
+{"L":"organos sesal","C":["n"],"en":"sexual organs","fr":"organes sexuels"}
+{"T":"r","L":"organofosforosa","C":["n","cim"],"d":"un composada organica sinteseda cual conteni fosfor, tipal un pestiside o venena","en":"organophosphorus (substance)","fr":"organophosphoré"}
+{"T":"r","L":"organotrof","C":["a","bio"],"d":"(un microbio) oteninte idrojen o eletrones de fundas organica","en":"organotrophic (biology)","fr":"organotrophe"}
+{"L":"organotrof","C":["n"],"en":"organotroph","fr":"organotrophe"}
+{"L":"organotrofia","C":["n"],"en":"organotrophia","fr":"organotrophie"}
+{"T":"r","L":"orgasma","C":["vnt","bio","uma"],"d":"ateni la culmina de stimula sesal, marcada par sentis de plaser consentrada en la jenitales","en":"orgasm","fr":"atteindre l'orgasme, avoir un orgasme"}
+{"L":"orgasma","C":["n"],"en":"orgasm","es":"orgasmo","fr":"orgasme"}
+{"L":"orgasmal","C":["a"],"en":"orgasmic (of orgasm)","fr":"orgasmique"}
+{"L":"orgasmosa","C":["a"],"en":"orgasmic (orgasming)","fr":"orgasmique"}
 {"T":"r","L":"orgulo","C":["n","uma"],"d":"un senti de plaser o sasia grande, derivada de sua propre atenis, o de los con ci on es asosiada, o de cualias o posesedas cual otra persones amira","da":"stolthed, selvfølelse","de":"Stolz","en":"pride, hubris","es":"orgullo","fr":"fierté, orgueil"}
-{"L":"orgulo vana","C":["n"],"en":"vainglory"}
-{"L":"es orgulosa de","C":["v"],"en":"be proud of, glory in"}
-{"L":"orgulosa","C":["a"],"en":"proud, prideful"}
-{"L":"vana orgulosa","C":["a"],"en":"vainglorious"}
-{"T":"r","L":"oria","C":["a","dem"],"d":"pertinente a la popla major de la stato barati Orissa, o a sua lingua relatada a bangla","en":"Oriya (person, language)"}
-{"L":"oria","C":["n"],"en":"Oriya (person, language)"}
-{"T":"r","L":"orienta","C":["vt"],"d":"alinia o posa (alga cosa) relativa a la puntos de la busola o a otra cosas spesifada; ajusta o cambia (alga cosa) per conveni a situas o nesesas spesifada","en":"orient, orientate"}
-{"L":"orienta","C":["n"],"en":"orientation"}
-{"L":"desorienta","C":["vnt"],"en":"disorient, disorientate"}
-{"L":"desorienta","C":["n"],"en":"disorientation"}
-{"L":"reorienta","C":["vt"],"en":"reorient, reorientate"}
-{"T":"r","L":"origami","C":["n","arte"],"d":"la arte nion de plia paper per crea figures ornosa","i":"#","en":"origami"}
+{"L":"orgulo vana","C":["n"],"en":"vainglory","fr":"vanité"}
+{"L":"es orgulosa de","C":["v"],"en":"be proud of, glory in","fr":"être fier de, se glorifier de"}
+{"L":"orgulosa","C":["a"],"en":"proud, prideful","fr":"fier, orgueilleux"}
+{"L":"vana orgulosa","C":["a"],"en":"vainglorious","fr":"vaniteux"}
+{"T":"r","L":"oria","C":["a","dem"],"d":"pertinente a la popla major de la stato barati Orissa, o a sua lingua relatada a bangla","en":"Oriya (person, language)","fr":"oriya, d'Orissa, d'Odisha"}
+{"L":"oria","C":["n"],"en":"Oriya (person, language)","fr":"Oriya; odia, oriya (langue)"}
+{"T":"r","L":"orienta","C":["vt"],"d":"alinia o posa (alga cosa) relativa a la puntos de la busola o a otra cosas spesifada; ajusta o cambia (alga cosa) per conveni a situas o nesesas spesifada","en":"orient, orientate","fr":"orienter"}
+{"L":"orienta","C":["n"],"en":"orientation","fr":"orientation"}
+{"L":"desorienta","C":["vnt"],"en":"disorient, disorientate","fr":"être désorienté"}
+{"L":"desorienta","C":["n"],"en":"disorientation","fr":"désorientation"}
+{"L":"reorienta","C":["vt"],"en":"reorient, reorientate","fr":"réorienter"}
+{"T":"r","L":"origami","C":["n","arte"],"d":"la arte nion de plia paper per crea figures ornosa","i":"#","en":"origami","fr":"origami"}
 {"T":"r","L":"orijina","C":["vnt","uma"],"d":"comensa en o veni de un loca o tempo o modo spesifada","en":"originate; date (from)","fr":"prendre naissance, provenir, émaner; dater (de)"}
-{"L":"orijina","C":["vt"],"en":"originate, be the origin of"}
-{"L":"orijina","C":["n","uma"],"d":"la punto de cual algun o alga cosa comensa o veni","da":"kilde, oprindelse","de":"Quelle","en":"origin, source, provenance, fount, fountainhead","es":"fuente, origen, procedencia","fr":"origine"}
-{"L":"american orijinal","C":["a"],"en":"Native American, American Indian, Amerindian"}
-{"L":"american orijinal","C":["n"],"en":"Native American, American Indian, Amerindian"}
-{"L":"australian orijinal","C":["a"],"en":"Australian Aborigine"}
-{"L":"australian orijinal","C":["n"],"en":"Australian Aborigine"}
-{"L":"es orijinal de","C":["v"],"en":"be originally from, originate in"}
-{"L":"nonorijinal","C":["a"],"en":"unoriginal, banal, trite"}
+{"L":"orijina","C":["vt"],"en":"originate, be the origin of","fr":"être à l'origine de, donner naissance à, être la source de"}
+{"L":"orijina","C":["n","uma"],"d":"la punto de cual algun o alga cosa comensa o veni","da":"kilde, oprindelse","de":"Quelle","en":"origin, source, provenance, fount, fountainhead","es":"fuente, origen, procedencia","fr":"origine, source, provenance"}
+{"L":"american orijinal","C":["a"],"en":"Native American, American Indian, Amerindian","fr":"amérindien"}
+{"L":"american orijinal","C":["n"],"en":"Native American, American Indian, Amerindian","fr":"Amérindien, Indien d'Amérique"}
+{"L":"australian orijinal","C":["a"],"en":"Australian Aborigine","fr":"aborigène"}
+{"L":"australian orijinal","C":["n"],"en":"Australian Aborigine","fr":"Aborigène (d'Australie)"}
+{"L":"es orijinal de","C":["v"],"en":"be originally from, originate in","fr":"être originaire de, prendre son origine dans"}
+{"L":"nonorijinal","C":["a"],"en":"unoriginal, banal, trite","fr":"qui n'est pas original, banal, rebattu"}
 {"L":"orijinal","C":["a"],"da":"original, oprindelig","de":"ursprünglich","en":"original, native, aboriginal, autochthonous; original (work, idea)","es":"original, no imitativo","fr":"original"}
-{"L":"orijinal","C":["av"],"en":"originally; né, née"}
-{"L":"orijinal","C":["n"],"en":"original (not a copy)"}
-{"L":"orijinor","C":["n"],"en":"originator"}
-{"T":"r","L":"Orinoco, Rio","C":["n","jeo"],"d":"un rio en America Sude norde cual comensa en Venezuela sude-este e fini en la Mar Atlantica","i":"Rio-Orinoco","en":"Orinoco River"}
-{"T":"r","L":"oriol","C":["n","avia"],"d":"un avia en familia de storno cual come fruta e insetos, e de cual la mas ave tipal plumas negra e briliante jala; un avia american en familia de turdo, con plumas negra e jala o orania","i":"#","t":"Oriolus, Icterus","en":"oriole (bird)"}
-{"T":"r","L":"Orion","C":["n","ast","mit"],"d":"(en mitos elinica) un xasor jigante ci ia es cambiada a un constela pos mori; un constela representante el a la ecuator de la sielo","i":"#","en":"Orion (mythology, constellation)"}
-{"T":"r","L":"oriteropo","C":["n","mam"],"d":"un mamal noturna e tunelinte de Africa, con oreas longa, beco tubo, e lingua longa e estendable per come formicas e termites","i":"#","t":"Orycteropus afer","en":"aardvark"}
-{"T":"r","L":"orix","C":["n","mam"],"d":"un antilope nativa de zonas secida de Africa e Asia, con marcas oscur a la fas, e cornos longa e puntida","i":"#","t":"Oryx","en":"oryx (antelope)"}
+{"L":"orijinal","C":["av"],"en":"originally; né, née","fr":"originellement; né, née"}
+{"L":"orijinal","C":["n"],"en":"original (not a copy)","fr":"original (pas une copie)"}
+{"L":"orijinor","C":["n"],"en":"originator","fr":"initiateur, auteur, créateur, concepteur, inventeur, instigateur"}
+{"T":"r","L":"Orinoco, Rio","C":["n","jeo"],"d":"un rio en America Sude norde cual comensa en Venezuela sude-este e fini en la Mar Atlantica","i":"Rio-Orinoco","en":"Orinoco River","fr":"Orénoque (fleuve)"}
+{"T":"r","L":"oriol","C":["n","avia"],"d":"un avia en familia de storno cual come fruta e insetos, e de cual la mas ave tipal plumas negra e briliante jala; un avia american en familia de turdo, con plumas negra e jala o orania","i":"#","t":"Oriolus, Icterus","en":"oriole (bird)","fr":"loriot (oiseau)"}
+{"T":"r","L":"Orion","C":["n","ast","mit"],"d":"(en mitos elinica) un xasor jigante ci ia es cambiada a un constela pos mori; un constela representante el a la ecuator de la sielo","i":"#","en":"Orion (mythology, constellation)","fr":"Orion"}
+{"T":"r","L":"oriteropo","C":["n","mam"],"d":"un mamal noturna e tunelinte de Africa, con oreas longa, beco tubo, e lingua longa e estendable per come formicas e termites","i":"#","t":"Orycteropus afer","en":"aardvark","fr":"oryctérope du Cap, cochon de terre"}
+{"T":"r","L":"orix","C":["n","mam"],"d":"un antilope nativa de zonas secida de Africa e Asia, con marcas oscur a la fas, e cornos longa e puntida","i":"#","t":"Oryx","en":"oryx (antelope)","fr":"oryx"}
 {"T":"r","L":"orizon","C":["n","fis","tera","arte"],"d":"la linia longo cual la sielo pare toca la tera o la tetos de construidas","en":"horizon, skyline","fr":"horizon"}
-{"L":"orizon de avenis","C":["n"],"en":"event horizon"}
+{"L":"orizon de avenis","C":["n"],"en":"event horizon","fr":"horizon (des événements)"}
 {"L":"orizonal","C":["a"],"d":"paralel a, o pertinente a, la orizon; (un paje o scermo) plu larga ca alta","da":"horisontal","de":"horizontal","en":"horizontal; landscape (orientation)","es":"horizontal","fr":"horizontal"}
-{"L":"orizonalia","C":["n"],"en":"horizontalness, horizontality"}
-{"T":"r","L":"orjia","C":["n","uma"],"d":"un selebra nonrestrinjeda, tipal incluinte un suprabunda de alcol e ativia sesal; (metafor) cualce ativia en cual on regala se sin restrinje","en":"orgy; spree (metaphor)"}
-{"L":"orjia de mata","C":["n"],"en":"killing spree"}
-{"L":"orjial","C":["a"],"en":"orgiastic"}
-{"T":"r","L":"orlo","C":["n","vest"],"d":"la borda pliada e coseda de un veste o stofa","en":"hem; hemline"}
-{"T":"r","L":"ormese","C":["n","med","bio"],"d":"un responde biolojial, jeneral bon, a esposas minor a toxinas","en":"hormesis (biology)"}
-{"T":"r","L":"ormon","C":["n","bio"],"d":"un materia regulante, produida en un organisme e transportada en licuidas como sangue o sava per stimula respondes de selulas spesifada; un materia sinteseda simil","en":"hormone"}
-{"L":"ormon tiroidal","C":["n","bio","med"],"d":"un ormon secreteda par la tiroide cual regula la crese e la rapidia de metaboli","en":"thyroid hormone"}
-{"L":"ormonal","C":["a"],"en":"hormonal"}
-{"L":"ormonin","C":["a"],"en":"hormonelike"}
-{"T":"r","L":"orna","C":["vt","arci","arte"],"d":"decora (un cosa) par ajunta motifes complicada o partes nonesensal","en":"decorate, adorn, emblazon"}
-{"L":"orna","C":["n"],"da":"dekoration, ornament","de":"Schmuck","en":"decoration, ornament, adornment; dingbat (typography)","es":"ornamento, adorno, decoración","fr":"ornement"}
-{"L":"orna apical","C":["n"],"en":"finial"}
-{"L":"orna par perfora","C":["n"],"en":"openwork"}
-{"L":"ornal","C":["a"],"en":"decorative, ornamental"}
-{"L":"ornas real","C":["n","pl"],"en":"regalia"}
-{"L":"orneta","C":["n"],"en":"bauble, trinket, trifle, gewgaw, knickknack, curio, souvenir, tchotchke"}
-{"L":"ornosa","C":["a"],"en":"ornate, baroque, florid, rococo, swash; gaudy, tawdry"}
-{"T":"r","L":"ornito-","C":["pf","tecn","bio"],"d":"avia","en":"ornitho-"}
-{"T":"r","L":"ornitolojia","C":["n","bio"],"d":"la studia siensal de avias","en":"ornithology"}
-{"L":"ornitolojial","C":["a"],"en":"ornithological"}
-{"L":"ornitolojiste","C":["n"],"en":"ornithologist"}
-{"T":"r","L":"ornitorinco","C":["n","mam"],"d":"un mamal semiacual cual reprodui par ovos, con beco formida como lo de un pato, pedes membranosa e pelo densa, trovada sola en Australia","i":"#","t":"Ornithorhynchus anatinus","en":"platypus"}
-{"T":"r","L":"oro","C":["a","col"],"d":"con la color jala briliante de la metal oro","i":"#","en":"gold, golden (color)","fr":"doré"}
+{"L":"orizonalia","C":["n"],"en":"horizontalness, horizontality","fr":"horizontalité"}
+{"T":"r","L":"orjia","C":["n","uma"],"d":"un selebra nonrestrinjeda, tipal incluinte un suprabunda de alcol e ativia sesal; (metafor) cualce ativia en cual on regala se sin restrinje","en":"orgy; spree (metaphor)","fr":"orgie; frénésie"}
+{"L":"orjia de mata","C":["n"],"en":"killing spree","fr":"folie meurtrière"}
+{"L":"orjial","C":["a"],"en":"orgiastic","fr":"orgiaque"}
+{"T":"r","L":"orlo","C":["n","vest"],"d":"la borda pliada e coseda de un veste o stofa","en":"hem; hemline","fr":"ourlet"}
+{"T":"r","L":"ormese","C":["n","med","bio"],"d":"un responde biolojial, jeneral bon, a esposas minor a toxinas","en":"hormesis (biology)","fr":"hormèse"}
+{"T":"r","L":"ormon","C":["n","bio"],"d":"un materia regulante, produida en un organisme e transportada en licuidas como sangue o sava per stimula respondes de selulas spesifada; un materia sinteseda simil","en":"hormone","fr":"hormone"}
+{"L":"ormon tiroidal","C":["n","bio","med"],"d":"un ormon secreteda par la tiroide cual regula la crese e la rapidia de metaboli","en":"thyroid hormone","fr":"hormone thyroïdienne"}
+{"L":"ormonal","C":["a"],"en":"hormonal","fr":"hormonal"}
+{"L":"ormonin","C":["a"],"en":"hormonelike","fr":"similaire à une hormone, de type hormonal"}
+{"T":"r","L":"orna","C":["vt","arci","arte"],"d":"decora (un cosa) par ajunta motifes complicada o partes nonesensal","en":"decorate, adorn, emblazon","fr":"décorer, orner, parer, ornementer, garnir, enjoliver, égayer, embellir"}
+{"L":"orna","C":["n"],"da":"dekoration, ornament","de":"Schmuck","en":"decoration, ornament, adornment; dingbat (typography)","es":"ornamento, adorno, decoración","fr":"ornement, décoration, parure"}
+{"L":"orna apical","C":["n"],"en":"finial","fr":"fleuron, faîteau, épi de faîtage, élément décoratif"}
+{"L":"orna par perfora","C":["n"],"en":"openwork","fr":"ajour"}
+{"L":"ornal","C":["a"],"en":"decorative, ornamental","fr":"décoratif, ornemental"}
+{"L":"ornas real","C":["n","pl"],"en":"regalia","fr":"insignes royaux"}
+{"L":"orneta","C":["n"],"en":"bauble, trinket, trifle, gewgaw, knickknack, curio, souvenir, tchotchke","fr":"bibelot, souvenir"}
+{"L":"ornosa","C":["a"],"en":"ornate, baroque, florid, rococo, swash; gaudy, tawdry","fr":"orné, décoré, fleuri"}
+{"T":"r","L":"ornito-","C":["pf","tecn","bio"],"d":"avia","en":"ornitho-","fr":"ornitho-"}
+{"T":"r","L":"ornitolojia","C":["n","bio"],"d":"la studia siensal de avias","en":"ornithology","fr":"ornithologie"}
+{"L":"ornitolojial","C":["a"],"en":"ornithological","fr":"ornithologique"}
+{"L":"ornitolojiste","C":["n"],"en":"ornithologist","fr":"ornithologue"}
+{"T":"r","L":"ornitorinco","C":["n","mam"],"d":"un mamal semiacual cual reprodui par ovos, con beco formida como lo de un pato, pedes membranosa e pelo densa, trovada sola en Australia","i":"#","t":"Ornithorhynchus anatinus","en":"platypus","fr":"ornithorynque"}
+{"T":"r","L":"oro","C":["a","col"],"d":"con la color jala briliante de la metal oro","i":"#","en":"gold, golden (color)","fr":"doré, or"}
 {"L":"oro","C":["n","cim","arte"],"d":"la elemento cimical con numero atomal 79, un metal valuada per sua usa en joalas e per garantia la valua de mone","s":"Au (aurum)","da":"guld","de":"Gold","en":"gold (element)","es":"oro","fr":"or"}
 {"L":"de oro","C":["a"],"en":"golden, (made of) gold","fr":"d'or, en or"}
-{"L":"ori","C":["vnt"],"en":"turn to gold, become golden"}
-{"L":"ori","C":["vt"],"v":"dora","en":"make golden, gold-plate"}
-{"L":"orida","C":["a"],"en":"gold-plated, gold-filled"}
-{"L":"oror","C":["n"],"en":"goldsmith"}
-{"L":"orosa","C":["a"],"en":"golden, (made of) gold"}
-{"T":"r","L":"orojenia","C":["n","tera"],"d":"la prosedes jeolojial cual formi montanias","en":"orogeny"}
-{"T":"r","L":"orolojia","C":["n"],"d":"la studia de la mesura de tempo; la arte de fabrica orolojos","en":"horology"}
+{"L":"ori","C":["vnt"],"en":"turn to gold, become golden","fr":"se transformer en or, devenir de l'or"}
+{"L":"ori","C":["vt"],"v":"dora","en":"make golden, gold-plate","fr":"dorer, transformer en or, plaquer d'or"}
+{"L":"orida","C":["a"],"en":"gold-plated, gold-filled","fr":"plaqué or, recouvert d'or, rempli d'or"}
+{"L":"oror","C":["n"],"en":"goldsmith","fr":"orfèvre"}
+{"L":"orosa","C":["a"],"en":"golden, (made of) gold","fr":"en or, doré"}
+{"T":"r","L":"orojenia","C":["n","tera"],"d":"la prosedes jeolojial cual formi montanias","en":"orogeny","fr":"orogénèse, orogenèse"}
+{"T":"r","L":"orolojia","C":["n"],"d":"la studia de la mesura de tempo; la arte de fabrica orolojos","en":"horology","fr":"horlogerie"}
 {"T":"r","L":"orolojo","C":["n","util"],"d":"un aparato per mesura la tempo, indicante oras, minutos e cisa secondos","i":"#","da":"ur","de":"Uhr","en":"clock","es":"reloj","fr":"horloge"}
-{"L":"orolojo de acua","C":["n"],"en":"water clock, clepsydra"}
+{"L":"orolojo de acua","C":["n"],"en":"water clock, clepsydra","fr":"clepsydre"}
 {"L":"orolojo de arena","C":["n"],"i":"#","da":"timeglas","de":"Stundenglas","en":"hourglass, eggtimer","es":"reloj de arena","fr":"sablier"}
-{"L":"orolojo de sol","C":["n"],"i":"#","en":"sundial"}
-{"L":"Orolojo","C":["n","ast"],"d":"un constela minor en la sielo sude","en":"Horologium (constellation)"}
-{"L":"con la orolojo","C":["a"],"en":"clockwise"}
-{"L":"contra la orolojo","C":["a"],"en":"counterclockwise, anticlockwise"}
-{"L":"orolojeta","C":["n"],"i":"#","en":"watch, wristwatch, pocketwatch"}
-{"L":"orolojor","C":["n"],"en":"clockmaker, watchmaker"}
-{"T":"r","L":"oromo","C":["a","dem"],"d":"pertinente a un popla de Africa este ci es la etnico la plu grande en Itiopia, o a sua lingua","en":"Oromo (person, language)"}
-{"L":"oromo","C":["n"],"en":"Oromo (person, language)"}
-{"T":"r","L":"oroscopo","C":["n","mit"],"d":"un predise de la futur de algun, fundida sur la locas relativa de la stelas e planetas a sua nase","en":"horoscope"}
-{"T":"r","L":"ortensia","C":["n","pla"],"d":"un arboreta o planta trepante, con testas ronda de floretas peti","i":"#","t":"Hydrangea","en":"hydrangea (plant)"}
+{"L":"orolojo de sol","C":["n"],"i":"#","en":"sundial","fr":"cadran solaire"}
+{"L":"Orolojo","C":["n","ast"],"d":"un constela minor en la sielo sude","en":"Horologium (constellation)","fr":"Horloge (constellation)"}
+{"L":"con la orolojo","C":["a"],"en":"clockwise","fr":"dans le sens des aiguilles d'une montre"}
+{"L":"contra la orolojo","C":["a"],"en":"counterclockwise, anticlockwise","fr":"dans le sens trigonométrique, dans le sens inverse des aiguilles d'une montre"}
+{"L":"orolojeta","C":["n"],"i":"#","en":"watch, wristwatch, pocketwatch","fr":"montre, montre-bracelet, bracelet-montre, montre à gousset"}
+{"L":"orolojor","C":["n"],"en":"clockmaker, watchmaker","fr":"horloger"}
+{"T":"r","L":"oromo","C":["a","dem"],"d":"pertinente a un popla de Africa este ci es la etnico la plu grande en Itiopia, o a sua lingua","en":"Oromo (person, language)","fr":"oromo"}
+{"L":"oromo","C":["n"],"en":"Oromo (person, language)","fr":"Oromo (personne); oromo (langue)"}
+{"T":"r","L":"oroscopo","C":["n","mit"],"d":"un predise de la futur de algun, fundida sur la locas relativa de la stelas e planetas a sua nase","en":"horoscope","fr":"horoscope"}
+{"T":"r","L":"ortensia","C":["n","pla"],"d":"un arboreta o planta trepante, con testas ronda de floretas peti","i":"#","t":"Hydrangea","en":"hydrangea (plant)","fr":"hortensia"}
 {"T":"r","L":"orteo","C":["n","anat"],"d":"cada de la sinco ditos de la pede; la parte de un sapato o calsa cual covre estas","i":"#","v":"dito de pede","en":"toe","fr":"orteil"}
-{"T":"r","L":"ortica","C":["n","pla"],"d":"un planta erbin, con folias sierin covreda con capeletas picante","i":"#","t":"Urtica","en":"nettle"}
-{"T":"r","L":"orticultur","C":["n","uma","cos"],"d":"la arte o pratica de cultiva e maneja jardines o ortos","en":"horticulture"}
-{"L":"orticultural","C":["a"],"en":"horticultural"}
-{"L":"orticulturiste","C":["n"],"en":"horticulturist"}
-{"T":"r","L":"orto","C":["n","cos"],"d":"un cultiveria cual produi vejetales e frutas per la mercato","i":"#","en":"market garden, truck farm, orchard"}
-{"L":"orteta","C":["n"],"en":"kitchen garden, vegetable garden, vegetable patch"}
-{"T":"r","L":"orto-","C":["pf","tecn"],"d":"reta, vertical","en":"ortho- (straight)"}
-{"T":"r","L":"ortodontia","C":["n","med"],"d":"la trata de cualias nonormal en dentes e mandibulas","en":"orthodontics, orthodontia"}
-{"L":"ortodontial","C":["a"],"en":"orthodontic"}
-{"L":"ortodontiste","C":["n"],"en":"orthodontist"}
-{"T":"r","L":"ortodox","C":["a","rel","gov"],"d":"(un person o sua credes) conformante a lo cual on aseta tradisional como vera o bon; manteninte tradisiones","en":"orthodox, conventional"}
-{"L":"nonortodox","C":["a"],"en":"unorthodox, unconventional"}
-{"L":"nonortodox","C":["n"],"en":"maverick"}
-{"L":"ortodoxia","C":["n"],"en":"orthodoxy"}
-{"T":"r","L":"ortogonal","C":["a","mat"],"d":"composada de angulos reta; (un varia) statistical nondependente","en":"orthogonal"}
-{"T":"r","L":"ortografia","C":["n","ling"],"d":"la spele normal o tradisional de un lingua","en":"orthography"}
-{"L":"ortografial","C":["a"],"en":"orthographic"}
-{"T":"r","L":"ortonectido","C":["n"],"d":"un membro de un filo peti de animales multe simple, parasitos de nonvertebratos de mar","i":"#","t":"Orthonectida","en":"orthonectid (organism)"}
-{"T":"r","L":"ortonis","C":["n","avia"],"d":"un avia cantante de Australasia, con dorso negra e brun e coda puntida con un spina, preferente abita sur la tera","i":"#","t":"Orthonyx","en":"logrunner (bird)"}
-{"T":"r","L":"ortopedia","C":["n","med"],"d":"la ramo de medica cual studia la repara de malformis de osos o musculos","en":"orthopedics|ae, orthopedy|ae"}
-{"L":"ortopedial","C":["a"],"en":"orthopedic|ae"}
-{"L":"ortopediste","C":["n"],"en":"orthopedist|ae"}
-{"T":"r","L":"ortxata","C":["n","cos"],"d":"un bevida dulse, preparada de ris, txufa o amando, acua, zucar, canela, e cisa lete.","en":"horchata, orxata"}
-{"T":"r","L":"orzo","C":["n","pla","cos"],"d":"un sereal con capelones ru estendente de la spigas, xef usada per prepara bir o como comeda de bestias","i":"#","t":"Hordeum vulgare","en":"barley"}
-{"L":"orzo descascida","C":["n"],"en":"pearl barley"}
-{"T":"r","L":"osa","C":["vt","uma"],"d":"es sufisinte corajosa per fa (alga cosa)","en":"dare, venture","es":"atreverse a, osar"}
-{"L":"osa","C":["n"],"en":"daring, audacity, boldness, pluck","es":"atrevimiento, osadía, audacia, valentía"}
-{"L":"osante","C":["a"],"en":"daring, audacious, bold, plucky","es":"osado, intrépido, audaz"}
-{"L":"ososia","C":["n"],"en":"chutzpah; derring-do","es":"descaro, desfachatez"}
-{"T":"r","L":"-osa","C":["sf","a"],"d":"plen de o con multe de (un cosa o cualia)","u":"zucarosa","en":"-ful, -ous, -y (full of, containing much or many)"}
-{"T":"r","L":"-osa","C":["sf","n","cim"],"d":"zucar o otra carboidrato","en":"-ose (chemistry)"}
-{"T":"r","L":"osale","C":["n","pla"],"d":"un planta european con folias flexin, usada en cosini","i":"#","t":"Rumex","en":"sorrel (plant)"}
-{"T":"r","L":"oscan","C":["a","dem","ist"],"d":"pertinente a un popla de Italia antica, o a sua lingua estinguida","i":"#","en":"Oscan (person, language)"}
-{"L":"oscan","C":["n"],"en":"Oscan (person, language)"}
+{"T":"r","L":"ortica","C":["n","pla"],"d":"un planta erbin, con folias sierin covreda con capeletas picante","i":"#","t":"Urtica","en":"nettle","fr":"ortie"}
+{"T":"r","L":"orticultur","C":["n","uma","cos"],"d":"la arte o pratica de cultiva e maneja jardines o ortos","en":"horticulture","fr":"horticulture"}
+{"L":"orticultural","C":["a"],"en":"horticultural","fr":"horticole"}
+{"L":"orticulturiste","C":["n"],"en":"horticulturist","fr":"horticulteur"}
+{"T":"r","L":"orto","C":["n","cos"],"d":"un cultiveria cual produi vejetales e frutas per la mercato","i":"#","en":"market garden, truck farm, orchard","fr":"culture maraîchère, maraîchage, verger"}
+{"L":"orteta","C":["n"],"en":"kitchen garden, vegetable garden, vegetable patch","fr":"jardin potager"}
+{"T":"r","L":"orto-","C":["pf","tecn"],"d":"reta, vertical","en":"ortho- (straight)","fr":"ortho-"}
+{"T":"r","L":"ortodontia","C":["n","med"],"d":"la trata de cualias nonormal en dentes e mandibulas","en":"orthodontics, orthodontia","fr":"orthodontie"}
+{"L":"ortodontial","C":["a"],"en":"orthodontic","fr":"orthodontique"}
+{"L":"ortodontiste","C":["n"],"en":"orthodontist","fr":"orthodontiste"}
+{"T":"r","L":"ortodox","C":["a","rel","gov"],"d":"(un person o sua credes) conformante a lo cual on aseta tradisional como vera o bon; manteninte tradisiones","en":"orthodox, conventional","fr":"orthodoxe, conventionnel"}
+{"L":"nonortodox","C":["a"],"en":"unorthodox, unconventional","fr":"non orthodoxe, non conventionnel"}
+{"L":"nonortodox","C":["n"],"en":"maverick","fr":"non-conformiste, franc-tireur"}
+{"L":"ortodoxia","C":["n"],"en":"orthodoxy","fr":"orthodoxie"}
+{"T":"r","L":"ortogonal","C":["a","mat"],"d":"composada de angulos reta; (un varia) statistical nondependente","en":"orthogonal","fr":"orthogonal"}
+{"T":"r","L":"ortografia","C":["n","ling"],"d":"la spele normal o tradisional de un lingua","en":"orthography","fr":"orthographe"}
+{"L":"ortografial","C":["a"],"en":"orthographic","fr":"orthographique"}
+{"T":"r","L":"ortonectido","C":["n"],"d":"un membro de un filo peti de animales multe simple, parasitos de nonvertebratos de mar","i":"#","t":"Orthonectida","en":"orthonectid (organism)","fr":"orthonectide"}
+{"T":"r","L":"ortonis","C":["n","avia"],"d":"un avia cantante de Australasia, con dorso negra e brun e coda puntida con un spina, preferente abita sur la tera","i":"#","t":"Orthonyx","en":"logrunner (bird)","fr":"orthonyx"}
+{"T":"r","L":"ortopedia","C":["n","med"],"d":"la ramo de medica cual studia la repara de malformis de osos o musculos","en":"orthopedics|ae, orthopedy|ae","fr":"orthopédie"}
+{"L":"ortopedial","C":["a"],"en":"orthopedic|ae","fr":"orthopédique"}
+{"L":"ortopediste","C":["n"],"en":"orthopedist|ae","fr":"orthopédiste"}
+{"T":"r","L":"ortxata","C":["n","cos"],"d":"un bevida dulse, preparada de ris, txufa o amando, acua, zucar, canela, e cisa lete.","en":"horchata, orxata","fr":"horchata, orxata"}
+{"T":"r","L":"orzo","C":["n","pla","cos"],"d":"un sereal con capelones ru estendente de la spigas, xef usada per prepara bir o como comeda de bestias","i":"#","t":"Hordeum vulgare","en":"barley","fr":"orge"}
+{"L":"orzo descascida","C":["n"],"en":"pearl barley","fr":"orge perlé"}
+{"T":"r","L":"osa","C":["vt","uma"],"d":"es sufisinte corajosa per fa (alga cosa)","en":"dare, venture","es":"atreverse a, osar","fr":"oser, avoir le courage de, se risquer à, s'aventurer à, s'enhardir à"}
+{"L":"osa","C":["n"],"en":"daring, audacity, boldness, pluck","es":"atrevimiento, osadía, audacia, valentía","fr":"audace, hardiesse, courage, intrépidité"}
+{"L":"osante","C":["a"],"en":"daring, audacious, bold, plucky","es":"osado, intrépido, audaz","fr":"audacieux, intrépide, hardi, courageux"}
+{"L":"ososia","C":["n"],"en":"chutzpah; derring-do","es":"descaro, desfachatez","fr":"bravoure, prouesse, intrépidité"}
+{"T":"r","L":"-osa","C":["sf","a"],"d":"plen de o con multe de (un cosa o cualia)","u":"zucarosa","en":"-ful, -ous, -y (full of, containing much or many)","fr":"-eux"}
+{"T":"r","L":"-osa","C":["sf","n","cim"],"d":"zucar o otra carboidrato","en":"-ose (chemistry)","fr":"-ose (chimie)"}
+{"T":"r","L":"osale","C":["n","pla"],"d":"un planta european con folias flexin, usada en cosini","i":"#","t":"Rumex","en":"sorrel (plant)","fr":"oseille (plante)"}
+{"T":"r","L":"oscan","C":["a","dem","ist"],"d":"pertinente a un popla de Italia antica, o a sua lingua estinguida","i":"#","en":"Oscan (person, language)","fr":"osque"}
+{"L":"oscan","C":["n"],"en":"Oscan (person, language)","fr":"Osque (personne); osque (langue)"}
 {"T":"r","L":"oscur","C":["a","fis"],"d":"con poca o no lus; (un color) prosima a negra; ascondeda de conose, o conoseda par poca persones","da":"mørk; uklar","de":"dunkel; obskur","en":"dark, dim, dusky, gloomy; obscure, little-known","es":"oscuro, obscuro, opaco, sombrío, sin brillo, deslustrado; desconocido, ofuscado, inaudito","fr":"obscur (sombre, inconnu)"}
-{"L":"oscur","C":["n"],"en":"dark, darkness, gloom"}
-{"L":"nonoscurida","C":["a"],"en":"unobscured"}
-{"L":"oscuri","C":["vnt"],"en":"darken, dim, obscure, remove light; obfuscate"}
-{"L":"oscuri","C":["vt"],"en":"darken, dim, obscure, remove light; obfuscate"}
-{"L":"oscuria","C":["n"],"en":"darkness, obscurity (quality)"}
-{"L":"oscurisme","C":["n"],"en":"obscurantism"}
-{"L":"oscuriste","C":["n"],"en":"obscurantist"}
-{"T":"r","L":"-ose","C":["sf","n","med"],"d":"maladia o prosede medical","en":"-osis (medical)"}
-{"T":"r","L":"Oseania","C":["n","jeo"],"d":"un parte de la Tera cual enclui la isolas de la Mar Pasifica e mares bordante","i":"#","en":"Oceania"}
-{"T":"r","L":"oseanografia","C":["n","tera"],"d":"la siensa de la cualias e fenomenos fisical e biolojial de la mares","en":"oceanography"}
-{"L":"oseanografial","C":["a"],"en":"oceanographic"}
-{"L":"oseanografiste","C":["n"],"en":"oceanographer"}
-{"T":"r","L":"oselote","C":["n","mam"],"d":"un gato savaje con pelo brunin jala, marcada con manxas blanca, nativa de America Sude e Sentral","i":"#","t":"Leopardus pardalis","en":"ocelot (wild cat)"}
-{"T":"r","L":"oserva","C":["vt"],"d":"persepi (alga cosa) e rejistra lo como sinifiante; regarda atendente (un person o cosa); segue (un obliga sosial, legal, moral o relijial); partisipa en (un rituo)","da":"bemærke","en":"observe, watch, sight, reconnoitre","es":"observar, detectar"}
-{"L":"oserva","C":["n"],"en":"observation, reconnaissance, recon, sighting"}
-{"L":"oservable","C":["a"],"en":"observable"}
-{"L":"oservada","C":["a"],"en":"unobserved"}
-{"L":"oservante","C":["a"],"en":"watching, observant"}
-{"L":"oserveria","C":["n"],"en":"observatory"}
-{"L":"oservor","C":["n"],"en":"observer, spectator, bystander, onlooker"}
-{"L":"oservor de avias","C":["n"],"en":"birdwatcher, birder"}
-{"T":"r","L":"osese","C":["vt","uma"],"d":"preocupa o pleni la mente de (algun) en modo continuante","en":"obsess, fixate, infatuate"}
-{"L":"osese","C":["n"],"en":"obsession, fixation, infatuation"}
-{"L":"oseseda","C":["a"],"en":"obsessed, infatuated, besotted"}
-{"L":"osesente","C":["a"],"en":"obsessive"}
-{"L":"osesor","C":["n"],"en":"obsessive"}
+{"L":"oscur","C":["n"],"en":"dark, darkness, gloom","fr":"obscur, obscurité"}
+{"L":"nonoscurida","C":["a"],"en":"unobscured","fr":"non obscurci"}
+{"L":"oscuri","C":["vnt"],"en":"darken, dim, obscure, remove light; obfuscate","fr":"s'obscurcir, s'assombrir, s'éteindre (lumière), s'occulter"}
+{"L":"oscuri","C":["vt"],"en":"darken, dim, obscure, remove light; obfuscate","fr":"obscurcir, assombrir, éteindre (la lumière), masquer, brouiller, occulter"}
+{"L":"oscuria","C":["n"],"en":"darkness, obscurity (quality)","fr":"obscurité (qualité)"}
+{"L":"oscurisme","C":["n"],"en":"obscurantism","fr":"obscurantisme"}
+{"L":"oscuriste","C":["n"],"en":"obscurantist","fr":"obscurantiste"}
+{"T":"r","L":"-ose","C":["sf","n","med"],"d":"maladia o prosede medical","en":"-osis (medical)","fr":"-ose"}
+{"T":"r","L":"Oseania","C":["n","jeo"],"d":"un parte de la Tera cual enclui la isolas de la Mar Pasifica e mares bordante","i":"#","en":"Oceania","fr":"Océanie"}
+{"T":"r","L":"oseanografia","C":["n","tera"],"d":"la siensa de la cualias e fenomenos fisical e biolojial de la mares","en":"oceanography","fr":"océanographie"}
+{"L":"oseanografial","C":["a"],"en":"oceanographic","fr":"océanographique"}
+{"L":"oseanografiste","C":["n"],"en":"oceanographer","fr":"océanographe"}
+{"T":"r","L":"oselote","C":["n","mam"],"d":"un gato savaje con pelo brunin jala, marcada con manxas blanca, nativa de America Sude e Sentral","i":"#","t":"Leopardus pardalis","en":"ocelot (wild cat)","fr":"ocelot"}
+{"T":"r","L":"oserva","C":["vt"],"d":"persepi (alga cosa) e rejistra lo como sinifiante; regarda atendente (un person o cosa); segue (un obliga sosial, legal, moral o relijial); partisipa en (un rituo)","da":"bemærke","en":"observe, watch, sight, reconnoitre","es":"observar, detectar","fr":"observer, examiner, regarder, surveiller"}
+{"L":"oserva","C":["n"],"en":"observation, reconnaissance, recon, sighting","fr":"observation, surveillance, examen (action)"}
+{"L":"nonoservada","C":["a"],"en":"unobserved","fr":"non surveillé, non observé"}
+{"L":"oservable","C":["a"],"en":"observable","fr":"observable"}
+{"L":"oservada","C":["a"],"en":"observed","fr":"observé, surveillé, examiné"}
+{"L":"oservante","C":["a"],"en":"watching, observant","fr":"regardant, attentif, observant, scrupuleux"}
+{"L":"oserveria","C":["n"],"en":"observatory","fr":"observatoire"}
+{"L":"oservor","C":["n"],"en":"observer, spectator, bystander, onlooker","fr":"observateur, surveillant, examinateur"}
+{"L":"oservor de avias","C":["n"],"en":"birdwatcher, birder","fr":"ornithologue amateur"}
+{"T":"r","L":"osese","C":["vt","uma"],"d":"preocupa o pleni la mente de (algun) en modo continuante","en":"obsess, fixate, infatuate","fr":"obséder"}
+{"L":"osese","C":["n"],"en":"obsession, fixation, infatuation","fr":"obsession, engouement, passion"}
+{"L":"oseseda","C":["a"],"en":"obsessed, infatuated, besotted","fr":"obsédé, entiché, épris"}
+{"L":"osesente","C":["a"],"en":"obsessive","fr":"obsédant"}
+{"L":"osesor","C":["n"],"en":"obsessive","fr":"obsédé, maniaque"}
 {"T":"r","L":"Osetia","C":["n"],"d":"un rejion en Caucaso sentral","en":"Ossetia"}
 {"L":"osetin","C":["a","dem"],"en":"Ossetian (person, language)"}
 {"L":"osetin","C":["n"],"en":"Ossetian (person, language)"}
-{"T":"r","L":"osidase","C":["n","bio","cim"],"d":"un enzima cual catalise un reata de osidi-redui","en":"oxidase"}
-{"T":"r","L":"osidiana","C":["n","tera"],"d":"un roca volcanal, dur e oscur","en":"obsidian (rock)"}
+{"T":"r","L":"osidase","C":["n","bio","cim"],"d":"un enzima cual catalise un reata de osidi-redui","en":"oxidase","fr":"oxydase"}
+{"T":"r","L":"osidiana","C":["n","tera"],"d":"un roca volcanal, dur e oscur","en":"obsidian (rock)","fr":"obsidienne"}
 {"T":"r","L":"osido","C":["n","cim"],"d":"un composada de osijen e un otra elemento o grupo","en":"oxide","fr":"oxyde"}
-{"L":"osido de aluminio","C":["n"],"en":"aluminum|aluminium oxide, alumina"}
-{"L":"osido de calsio","C":["n"],"en":"calcium oxide"}
-{"L":"osido de fero","C":["n"],"en":"iron oxide"}
-{"L":"osido de magnesio","C":["n"],"en":"magnesium oxide, magnesia"}
-{"L":"antiosidinte","C":["a"],"en":"antioxidant"}
-{"L":"antiosidinte","C":["n"],"en":"antioxidant"}
-{"L":"nonosidinte","C":["a"],"en":"rustproof, stainless"}
-{"L":"osidi","C":["vnt"],"en":"rust, oxidize|is, tarnish"}
-{"L":"osidi","C":["vt"],"en":"rust, oxidize|is, tarnish"}
+{"L":"osido de aluminio","C":["n"],"en":"aluminum|aluminium oxide, alumina","fr":"alumine, oxyde d'aluminium"}
+{"L":"osido de calsio","C":["n"],"en":"calcium oxide","fr":"chaux vive, oxyde de calcium"}
+{"L":"osido de fero","C":["n"],"en":"iron oxide","fr":"oxyde de fer"}
+{"L":"osido de magnesio","C":["n"],"en":"magnesium oxide, magnesia","fr":"magnésie, oxyde de magnésium"}
+{"L":"antiosidinte","C":["a"],"en":"antioxidant","fr":"antioxydant"}
+{"L":"antiosidinte","C":["n"],"en":"antioxidant","fr":"antioxydant"}
+{"L":"nonosidinte","C":["a"],"en":"rustproof, stainless","fr":"inoxydable"}
+{"L":"osidi","C":["vnt"],"en":"rust, oxidize|is, tarnish","fr":"s'oxyder"}
+{"L":"osidi","C":["vt"],"en":"rust, oxidize|is, tarnish","fr":"oxyder"}
 {"L":"osidi","C":["n"],"i":"#","da":"rust, korrosion","de":"Rost","en":"rust, corrosion, oxidation, tarnish","es":"moho, óxido, corrosión, orín","fr":"rouille"}
-{"L":"osidi-redui","C":["n"],"en":"reduction-oxidation, redox"}
-{"L":"osidinte","C":["a"],"en":"rusting, rusty"}
-{"T":"r","L":"osidoredutase","C":["n","bio","cim"],"d":"un enzima cual catalise reatas de osidi o redui","en":"oxidoreductase"}
+{"L":"osidi-redui","C":["n"],"en":"reduction-oxidation, redox","fr":"oxydo-réduction"}
+{"L":"osidinte","C":["a"],"en":"rusting, rusty","fr":"qui rouille, rouillé"}
+{"T":"r","L":"osidoredutase","C":["n","bio","cim"],"d":"un enzima cual catalise reatas de osidi o redui","en":"oxidoreductase","fr":"oxydoréductase"}
 {"T":"r","L":"osijen","C":["n","cim"],"d":"la elemento cimical con numero atomal 8, un gas sin color e odor, e la composante de aira nesesada par organismes","s":"O","da":"ilt","de":"Sauerstoff","en":"oxygen","es":"oxígeno","fr":"oxygène"}
-{"L":"osijeni","C":["vt"],"en":"oxygenate"}
-{"T":"r","L":"osila","C":["vnt","fis"],"d":"move o penduli de ala a asi, o orizonal o vertical","en":"oscillate, rock, sway, pitch, bob, teeter"}
-{"L":"osila","C":["vt","fis"],"en":"oscillate, rock, sway, pitch, bob, teeter"}
-{"L":"osila","C":["n"],"en":"oscillation, swaying"}
-{"L":"osilador","C":["n"],"en":"oscillator"}
-{"L":"osilante","C":["a"],"en":"oscillating, rocking, swaying, pitching"}
-{"L":"osileta","C":["vnt"],"en":"bob gently; curtsy"}
-{"L":"osileta","C":["n"],"en":"bob, curtsy"}
-{"T":"r","L":"osiloscopio","C":["n","util"],"d":"un aparato per vide osilas eletrical a un tubo catodal","i":"#","en":"oscilloscope"}
-{"T":"r","L":"osimoro","C":["a","ling"],"d":"(un espresa) juntante termas contradisente, como `amarga-dulse` o `solitar en un fola`","en":"oxymoronic"}
-{"L":"osimoro","C":["n"],"en":"oxymoron"}
-{"T":"r","L":"osio","C":["n","spo","uma"],"d":"tempo libre per recrea, destensa o plaser","en":"leisure"}
-{"L":"osiosa","C":["a"],"en":"leisurely, idle, lazy"}
-{"L":"osiosa","C":["av"],"en":"at leisure, idly, lazily"}
-{"T":"r","L":"osipital","C":["a","anat"],"d":"pertinente a la retro de la testa o cranio","en":"occipital"}
-{"L":"lobe osipital","C":["n"],"en":"occipital lobe"}
-{"L":"oso osipital","C":["n"],"en":"occipital bone"}
-{"T":"r","L":"osisolda","C":["vt","util"],"d":"junta (pesos metal) par caldi los usante un soldador con flama de osijen e asetilen","en":"weld"}
-{"L":"osisolda","C":["n"],"en":"oxy-fuel welding, oxyacetylene welding, gas welding"}
-{"L":"osisoldador","C":["n"],"i":"#","en":"welding torch, oxyacetylene torch"}
-{"T":"r","L":"ositalia","C":["vt","util"],"d":"talia (alga cosa) par caldi lo con flama de osijen e asetilen","en":"cut with a torch"}
-{"L":"ositalia","C":["n"],"en":"oxy-fuel cutting, oxyacetylene cutting"}
-{"L":"ositaliador","C":["n"],"en":"cutting torch"}
-{"T":"r","L":"ositan","C":["a","dem"],"d":"un colie de dialetos romanica de Frans sude e rejiones visina en Espania e Italia","en":"Occitan (language)"}
-{"L":"ositan","C":["n"],"en":"Occitan (language)"}
-{"T":"r","L":"osite","C":["n","bio"],"d":"un selula en un ovario cual pote developa per formi un ovo","en":"oocyte (biology)"}
-{"T":"r","L":"ositosina","C":["n","bio"],"d":"un ormon relasada par la ipofise cual aumenta la contraes de la utero en pari e stimula la secrete de lete en la dutos de seno","en":"oxytocin (hormone)"}
-{"T":"r","L":"osiuro","C":["n"],"d":"un nematodo peti cual es un parasito interna de vertebratos","t":"Enterobius vermicularis","en":"pinworm"}
-{"T":"r","L":"osiurose","C":["n","med"],"d":"un infeta par osiuro","en":"pinworm infection, enterobiasis"}
-{"T":"r","L":"osmanan","C":["a","ist"],"d":"pertinente a la dinastia turces de Osman 1, o a sua ramo de la turceses, o a la impero de sua seguores","i":"#","en":"Ottoman, Osmanian, Osmanli (empire)"}
-{"L":"osmanan","C":["n"],"en":"Ottoman, Osmanian, Osmanli (empire)"}
-{"T":"r","L":"osmio","C":["n","cim"],"d":"la elemento cimical con numero atomal 76","s":"Os","en":"osmium (element)"}
-{"T":"r","L":"osmol","C":["n","cim"],"d":"un unia de presa osmosal","en":"osmole"}
-{"T":"r","L":"osmolalia","C":["n","cim"],"d":"la consentra de un disolve, espresada como la cuantia de particulas de la disolveda per cilogram de la disolvente","en":"osmolality"}
-{"T":"r","L":"osmose","C":["n","fis"],"d":"la pasa de moleculas de un disolvente tra un membrana semipermeable, de un disolve min consentrada a un plu consentrada, egalinte la consentras a ambos lados; (metafor) la asorbe gradal o nonconsensa de informa","en":"osmosis"}
-{"L":"osmosal","C":["a"],"en":"osmotic"}
+{"L":"osijeni","C":["vt"],"en":"oxygenate","fr":"oxygéner"}
+{"T":"r","L":"osila","C":["vnt","fis"],"d":"move o penduli de ala a asi, o orizonal o vertical","en":"oscillate, rock, sway, pitch, bob, teeter","fr":"osciller, être bercé, (se) balancer, tanguer, (se) ballotter, vaciller"}
+{"L":"osila","C":["vt","fis"],"en":"oscillate, rock, sway, pitch, bob, teeter","fr":"bercer, balancer, faire osciller, faire tanguer, ballotter, faire vaciller"}
+{"L":"osila","C":["n"],"en":"oscillation, swaying","fr":"oscillation, balancement, bercement, tangage, ballottage, vacillement"}
+{"L":"osilador","C":["n"],"en":"oscillator","fr":"oscillateur"}
+{"L":"osilante","C":["a"],"en":"oscillating, rocking, swaying, pitching","fr":"oscillant, balançant, berçant, tanguant, vacillant, ballottant"}
+{"L":"osileta","C":["vnt"],"en":"bob gently; curtsy","fr":"dodeliner, trembloter, vibrer"}
+{"L":"osileta","C":["n"],"en":"bob, curtsy","fr":"petite oscillation, tremblement, vibration, vibrement"}
+{"T":"r","L":"osiloscopio","C":["n","util"],"d":"un aparato per vide osilas eletrical a un tubo catodal","i":"#","en":"oscilloscope","fr":"oscilloscope"}
+{"T":"r","L":"osimoro","C":["a","ling"],"d":"(un espresa) juntante termas contradisente, como `amarga-dulse` o `solitar en un fola`","en":"oxymoronic","fr":"oxymorique"}
+{"L":"osimoro","C":["n"],"en":"oxymoron","fr":"oxymore"}
+{"T":"r","L":"osio","C":["n","spo","uma"],"d":"tempo libre per recrea, destensa o plaser","en":"leisure","fr":"loisir, oisiveté"}
+{"L":"osiosa","C":["a"],"en":"leisurely, idle, lazy","fr":"oisif, inactif, paresseux"}
+{"L":"osiosa","C":["av"],"en":"at leisure, idly, lazily","fr":"à loisir, oisivement, paresseusement"}
+{"T":"r","L":"osipital","C":["a","anat"],"d":"pertinente a la retro de la testa o cranio","en":"occipital","fr":"occipital"}
+{"L":"lobe osipital","C":["n"],"en":"occipital lobe","fr":"lobe occipital"}
+{"L":"oso osipital","C":["n"],"en":"occipital bone","fr":"os occipital"}
+{"T":"r","L":"osisolda","C":["vt","util"],"d":"junta (pesos metal) par caldi los usante un soldador con flama de osijen e asetilen","en":"weld","fr":"souder"}
+{"L":"osisolda","C":["n"],"en":"oxy-fuel welding, oxyacetylene welding, gas welding","fr":"soudure, soudure autogène"}
+{"L":"osisoldador","C":["n"],"i":"#","en":"welding torch, oxyacetylene torch","fr":"chalumeau à souder"}
+{"T":"r","L":"ositalia","C":["vt","util"],"d":"talia (alga cosa) par caldi lo con flama de osijen e asetilen","en":"cut with a torch","fr":"découper au chalumeau"}
+{"L":"ositalia","C":["n"],"en":"oxy-fuel cutting, oxyacetylene cutting","fr":"découpage au chalumeau, oxycoupage"}
+{"L":"ositaliador","C":["n"],"en":"cutting torch","fr":"chalumeau à découper"}
+{"T":"r","L":"ositan","C":["a","dem"],"d":"un colie de dialetos romanica de Frans sude e rejiones visina en Espania e Italia","en":"Occitan (language)","fr":"occitan"}
+{"L":"ositan","C":["n"],"en":"Occitan (language)","fr":"occitan"}
+{"T":"r","L":"osite","C":["n","bio"],"d":"un selula en un ovario cual pote developa per formi un ovo","en":"oocyte (biology)","fr":"ovocyte"}
+{"T":"r","L":"ositosina","C":["n","bio"],"d":"un ormon relasada par la ipofise cual aumenta la contraes de la utero en pari e stimula la secrete de lete en la dutos de seno","en":"oxytocin (hormone)","fr":"ocytocine"}
+{"T":"r","L":"osiuro","C":["n"],"d":"un nematodo peti cual es un parasito interna de vertebratos","t":"Enterobius vermicularis","en":"pinworm","fr":"oxyure"}
+{"T":"r","L":"osiurose","C":["n","med"],"d":"un infeta par osiuro","en":"pinworm infection, enterobiasis","fr":"oxyurose"}
+{"T":"r","L":"osmanan","C":["a","ist"],"d":"pertinente a la dinastia turces de Osman 1, o a sua ramo de la turceses, o a la impero de sua seguores","i":"#","en":"Ottoman, Osmanian, Osmanli (empire)","fr":"ottoman"}
+{"L":"osmanan","C":["n"],"en":"Ottoman, Osmanian, Osmanli (empire)","fr":"Ottoman"}
+{"T":"r","L":"osmio","C":["n","cim"],"d":"la elemento cimical con numero atomal 76","s":"Os","en":"osmium (element)","fr":"osmium (élément)"}
+{"T":"r","L":"osmol","C":["n","cim"],"d":"un unia de presa osmosal","en":"osmole","fr":"osmole"}
+{"T":"r","L":"osmolalia","C":["n","cim"],"d":"la consentra de un disolve, espresada como la cuantia de particulas de la disolveda per cilogram de la disolvente","en":"osmolality","fr":"osmolalité"}
+{"T":"r","L":"osmose","C":["n","fis"],"d":"la pasa de moleculas de un disolvente tra un membrana semipermeable, de un disolve min consentrada a un plu consentrada, egalinte la consentras a ambos lados; (metafor) la asorbe gradal o nonconsensa de informa","en":"osmosis","fr":"osmose"}
+{"L":"osmosal","C":["a"],"en":"osmotic","fr":"osmotique"}
 {"T":"r","L":"oso","C":["n","anat"],"d":"cada de la pesos de texeda dur e blancin cual composa la sceleto de umanas e otra vertebratos; la materia estas es composada","i":"#","da":"ben, knogle","de":"Bein, Knochen","en":"bone","es":"hueso","fr":"os"}
-{"L":"oso de anca","C":["n"],"en":"hipbone"}
-{"L":"oso de colar","C":["n"],"en":"clavicle, collarbone"}
-{"L":"oso de jena","C":["n"],"en":"cheekbone"}
-{"L":"oso de pex","C":["n"],"en":"fishbone"}
-{"L":"oso de spala","C":["n"],"en":"scapula, shoulderblade"}
-{"L":"oso de talo","C":["n"],"en":"anklebone"}
-{"L":"oso medulosa","C":["n"],"en":"marrowbone"}
-{"L":"interosal","C":["a"],"en":"interosseous"}
-{"L":"oseria","C":["n"],"en":"ossuary"}
-{"L":"osi","C":["vnt"],"en":"ossify"}
-{"L":"osi","C":["vt"],"en":"ossify"}
-{"L":"osi","C":["n"],"en":"ossification"}
-{"L":"osida","C":["a"],"en":"ossified"}
-{"L":"osos crusada","C":["n","pl"],"i":"#","en":"crossbones"}
-{"L":"ososa","C":["a"],"en":"bony, scraggly, scrawny"}
-{"T":"r","L":"ospisio","C":["n","med"],"d":"un abiteria cual cura maladas, tipal prosima a mori","en":"hospice, care home"}
-{"T":"r","L":"ospita","C":["vt","uma"],"d":"bonveni e diverti (visitores) en sua casa, vila o pais; (un loca) furni la recursos per (un aveni)","en":"host, hold (event)"}
-{"L":"ospitada","C":["n"],"en":"guest"}
-{"L":"ospitador","C":["n"],"en":"host (computer)"}
-{"L":"ospitia","C":["n"],"en":"hospitality"}
-{"L":"ospitor","C":["n"],"en":"host, hostess"}
-{"L":"ospitor de avion","C":["n"],"en":"air steward, air stewardess, air hostess, flight attendant"}
-{"L":"ospitor de conversa","C":["n"],"en":"chat-show host, talk-show host"}
-{"T":"r","L":"ospitafix","C":["n","vn"],"d":"un servi enlinia per teni e comparti fixes","en":"file-hosting service, cloud storage service, cyberlocker"}
+{"L":"oso de anca","C":["n"],"en":"hipbone","fr":"os de la hanche, os iliaque, os coxal"}
+{"L":"oso de colar","C":["n"],"en":"clavicle, collarbone","fr":"clavicule"}
+{"L":"oso de jena","C":["n"],"en":"cheekbone","fr":"pommette"}
+{"L":"oso de pex","C":["n"],"en":"fishbone","fr":"arête"}
+{"L":"oso de spala","C":["n"],"en":"scapula, shoulderblade","fr":"omoplate"}
+{"L":"oso de talo","C":["n"],"en":"anklebone","fr":"astragale"}
+{"L":"oso medulosa","C":["n"],"en":"marrowbone","fr":"os à moelle"}
+{"L":"interosal","C":["a"],"en":"interosseous","fr":"interosseux"}
+{"L":"oseria","C":["n"],"en":"ossuary","fr":"ossuaire"}
+{"L":"osi","C":["vnt"],"en":"ossify","fr":"s'ossifier"}
+{"L":"osi","C":["vt"],"en":"ossify","fr":"ossifier"}
+{"L":"osi","C":["n"],"en":"ossification","fr":"ossification"}
+{"L":"osida","C":["a"],"en":"ossified","fr":"ossifié"}
+{"L":"osos crusada","C":["n","pl"],"i":"#","en":"crossbones","fr":"ossements croisés, os en croix, os croisés"}
+{"L":"ososa","C":["a"],"en":"bony, scraggly, scrawny","fr":"osseux, décharné, squelettique, qui a la peau sur les os"}
+{"T":"r","L":"ospisio","C":["n","med"],"d":"un abiteria cual cura maladas, tipal prosima a mori","en":"hospice, care home","fr":"hospice"}
+{"T":"r","L":"ospita","C":["vt","uma"],"d":"bonveni e diverti (visitores) en sua casa, vila o pais; (un loca) furni la recursos per (un aveni)","en":"host, hold (event)","fr":"accueillir, recevoir, héberger"}
+{"L":"ospitada","C":["n"],"en":"guest","fr":"invité"}
+{"L":"ospitador","C":["n"],"en":"host (computer)","fr":"hôte (informatique)"}
+{"L":"ospitia","C":["n"],"en":"hospitality","fr":"hospitalité"}
+{"L":"ospitor","C":["n"],"en":"host, hostess","fr":"hôte, hôtesse"}
+{"L":"ospitor de avion","C":["n"],"en":"air steward, air stewardess, air hostess, flight attendant","fr":"steward, hôtesse de l'air, agent de bord"}
+{"L":"ospitor de conversa","C":["n"],"en":"chat-show host, talk-show host","fr":"animateur"}
+{"T":"r","L":"ospitafix","C":["n","vn"],"d":"un servi enlinia per teni e comparti fixes","en":"file-hosting service, cloud storage service, cyberlocker","fr":"service d'hébergement de fichiers"}
 {"T":"r","L":"ospital","C":["n","arci","med"],"d":"un instituida cual furni cura e trata medical e sirurjial a persones malada o ferida","i":"#","da":"hospital","de":"Krankenhaus","en":"hospital","es":"hospital","fr":"hôpital"}
-{"L":"ospital de madres","C":["n"],"en":"maternity hospital"}
-{"L":"ospitaleta","C":["n"],"en":"sanatorium, sanitorium"}
-{"L":"ospitali","C":["vt"],"en":"hospitalize|is"}
-{"L":"ospitali","C":["n"],"en":"hospitalization|is"}
-{"L":"ospitalor","C":["n"],"en":"hospital nurse, hospital worker"}
+{"L":"ospital de madres","C":["n"],"en":"maternity hospital","fr":"maternité"}
+{"L":"ospitaleta","C":["n"],"en":"sanatorium, sanitorium","fr":"sanatorium"}
+{"L":"ospitali","C":["vt"],"en":"hospitalize|is","fr":"hospitaliser"}
+{"L":"ospitali","C":["n"],"en":"hospitalization|is","fr":"hospitalisation"}
+{"L":"ospitalor","C":["n"],"en":"hospital nurse, hospital worker","fr":"infirmier, infirmière, membre du personnel hospitalier"}
 {"T":"r","L":"ostaculo","C":["n"],"d":"un cosa cual impedi progresa","da":"forhindring, afspæring","de":"Hindernis","en":"obstacle, barrier, hurdle","es":"obstáculo, barrera, valla","fr":"obstacle, barrière"}
-{"T":"r","L":"ostaje","C":["n","gov"],"d":"un person saisida per garantia la obedi de un comanda, per esemplo asta un envia de mone o relasa de prisonidas","en":"hostage"}
-{"T":"r","L":"ostenta","C":["vt","uma"],"d":"mostra sua cualias, capasias o atenis en modo intendeda per evoca amira o invia","en":"show off, flaunt, emblazon"}
-{"L":"ostenta","C":["n"],"en":"ostentation, affectation, pomp"}
-{"L":"ostentosa","C":["a"],"en":"ostentatious, pompous, pretentious, grandiloquent, turgid, bombastic; flamboyant, showy, fancy, affected"}
-{"L":"testo ostentosa","C":["n"],"en":"fustian (pompous text)"}
-{"T":"r","L":"osteolojia","C":["n","bio"],"d":"la studia de la strutur e funsiona de osos e la sceleto","en":"osteology"}
-{"L":"osteolojiste","C":["n"],"en":"osteologist"}
-{"T":"r","L":"osteopatia","C":["n","med"],"d":"la trata de disturbas medical par la manipula e masaje de la osos, juntas e musculos","en":"osteopathy"}
-{"L":"osteopatial","C":["a"],"en":"osteopathic"}
-{"L":"osteopatiste","C":["n"],"en":"osteopath"}
-{"T":"r","L":"osteoporose","C":["n","med"],"d":"un maladia en cual la osos deveni frajil, tipal la resulta de cambias ormonal o la manca de calsio o vitamina D","en":"osteoporosis"}
-{"T":"r","L":"Osteraic","C":["n","jeo"],"c":"Wien","d":"un pais montaniosa sin costa, en Europa sentral","i":"#","en":"Austria"}
-{"L":"osteraices","C":["a"],"en":"Austrian"}
-{"L":"osteraices","C":["n"],"en":"Austrian"}
-{"T":"r","L":"ostetrica","C":["n","med"],"d":"la ramo de medica e sirurjia cual studia e trata femes parinte e enfantes nasente","en":"obstetrics"}
-{"L":"ostetrical","C":["a"],"en":"obstetrical, obstetric, perinatal"}
-{"L":"ostetriciste","C":["n"],"en":"obstetrician"}
-{"T":"r","L":"ostia","C":["n","rel"],"d":"un biscoto magra cual representa pan santida en la eucaristia","en":"host (Eucharist)"}
-{"T":"r","L":"ostina","C":["vnt","uma"],"d":"continua an si on esperia problemes o falis","en":"persist, persevere"}
-{"L":"ostina","C":["n"],"en":"persistence, perseverance, obstinacy, stubbornness, tenacity"}
-{"L":"ostinosa","C":["a"],"en":"obstinate, stubborn, persistent, tenacious, dogged, determined, headstrong, adamant, hard-headed, hell-bent, obdurate, ornery, pig-headed, unshakable|unshakeable"}
-{"T":"r","L":"ostomia","C":["n","med"],"d":"un crea sirurjial de un stoma artifis en la corpo o un organo","i":"#","en":"ostomy (surgical opening)"}
-{"T":"r","L":"ostra","C":["n","mol"],"d":"un de alga bivalvos con concas ru, comeda como un deleta o elevada per perlas","i":"#","t":"Ostreidae","en":"oyster"}
-{"T":"r","L":"ostrogoto","C":["a","dem","ist"],"d":"pertinente a un popla de gotos ci ia concista Italia en la sentenios 5 e 6, o a sua lingua","en":"Ostrogothic"}
-{"L":"ostrogoto","C":["n"],"en":"Ostrogoth"}
-{"T":"r","L":"ostror","C":["n","avia"],"d":"un avia costal vadante, con plumas intera negra o blanca-negra e beco orania-roja, xef comente moluscos","i":"#","t":"Haematopus","en":"oystercatcher (bird)"}
-{"T":"r","L":"otagon","C":["a","mat"],"d":"(un forma plana) con oto lados reta e oto angulos","en":"octagonal"}
-{"L":"otagon","C":["n"],"en":"octagon"}
-{"T":"r","L":"otano","C":["n","cim"],"d":"un idrocarbono flamable e sin color","en":"octane"}
-{"T":"r","L":"otante","C":["n","mat","ast"],"d":"un oti de la perimetre de un sirculo, o la area encluida par esta e du radios de la sirculo; un strumento antica con esta forma, usada en astronomia e naviga","en":"octant"}
-{"L":"Otante","C":["n","ast"],"d":"un constela minor en la sielo sude","en":"Octans (constellation)"}
-{"T":"r","L":"otarda","C":["n","avia"],"d":"un avia grande e spesa, capas de core rapida","i":"#","t":"Otis","en":"bustard (bird)"}
-{"T":"r","L":"otario","C":["n","mam"],"d":"un mamal acual con corpo idrodinamical e pedes developada como aletas, cual come pexes e reveni a tera per reposa o reprodui","i":"#","t":"Otariidae","en":"eared seal, fur seal"}
-{"T":"r","L":"otava","C":["n","mus"],"d":"un interval de oto grados diatonica entre du tonos con la mesma nom, de cual la cuantia de vibras per secondo de la plu alta es la duple de la plu basa","en":"octave"}
+{"T":"r","L":"ostaje","C":["n","gov"],"d":"un person saisida per garantia la obedi de un comanda, per esemplo asta un envia de mone o relasa de prisonidas","en":"hostage","fr":"otage"}
+{"T":"r","L":"ostenta","C":["vt","uma"],"d":"mostra sua cualias, capasias o atenis en modo intendeda per evoca amira o invia","en":"show off, flaunt, emblazon","fr":"afficher, exhiber, arborer, montrer avec ostentation, montrer ostensiblement, de manière ostentatoire"}
+{"L":"ostenta","C":["n"],"en":"ostentation, affectation, pomp","fr":"ostentation, exhibition, pompe"}
+{"L":"ostentosa","C":["a"],"en":"ostentatious, pompous, pretentious, grandiloquent, turgid, bombastic; flamboyant, showy, fancy, affected","fr":"ostentateur, ostensible, ostentatoire, prétentieux, pompeux"}
+{"L":"testo ostentosa","C":["n"],"en":"fustian (pompous text)","fr":"texte grandiloquent, texte pompeux"}
+{"T":"r","L":"osteolojia","C":["n","bio"],"d":"la studia de la strutur e funsiona de osos e la sceleto","en":"osteology","fr":"ostéologie"}
+{"L":"osteolojiste","C":["n"],"en":"osteologist","fr":"ostéologue"}
+{"T":"r","L":"osteopatia","C":["n","med"],"d":"la trata de disturbas medical par la manipula e masaje de la osos, juntas e musculos","en":"osteopathy","fr":"ostéopathie"}
+{"L":"osteopatial","C":["a"],"en":"osteopathic","fr":"ostéopathique"}
+{"L":"osteopatiste","C":["n"],"en":"osteopath","fr":"ostéopathe"}
+{"T":"r","L":"osteoporose","C":["n","med"],"d":"un maladia en cual la osos deveni frajil, tipal la resulta de cambias ormonal o la manca de calsio o vitamina D","en":"osteoporosis","fr":"ostéoporose"}
+{"T":"r","L":"Osteraic","C":["n","jeo"],"c":"Wien","d":"un pais montaniosa sin costa, en Europa sentral","i":"#","en":"Austria","fr":"Autriche"}
+{"L":"osteraices","C":["a"],"en":"Austrian","fr":"autrichien"}
+{"L":"osteraices","C":["n"],"en":"Austrian","fr":"Autrichien"}
+{"T":"r","L":"ostetrica","C":["n","med"],"d":"la ramo de medica e sirurjia cual studia e trata femes parinte e enfantes nasente","en":"obstetrics","fr":"obstétrique"}
+{"L":"ostetrical","C":["a"],"en":"obstetrical, obstetric, perinatal","fr":"obstétrical"}
+{"L":"ostetriciste","C":["n"],"en":"obstetrician","fr":"obstétricien"}
+{"T":"r","L":"ostia","C":["n","rel"],"d":"un biscoto magra cual representa pan santida en la eucaristia","en":"host (Eucharist)","fr":"hostie"}
+{"T":"r","L":"ostina","C":["vnt","uma"],"d":"continua an si on esperia problemes o falis","en":"persist, persevere","fr":"persévérer, persister, insister, poursuivre, s'acharner, s'obstiner, continuer avec opiniâtreté"}
+{"L":"ostina","C":["n"],"en":"persistence, perseverance, obstinacy, stubbornness, tenacity","fr":"ténacité, persévérance, obstination, opiniâtreté"}
+{"L":"ostinosa","C":["a"],"en":"obstinate, stubborn, persistent, tenacious, dogged, determined, headstrong, adamant, hard-headed, hell-bent, obdurate, ornery, pig-headed, unshakable|unshakeable","fr":"tenace, persévérant, obstiné, opiniâtre, acharné, constant, endurant, entêté, têtu"}
+{"T":"r","L":"ostomia","C":["n","med"],"d":"un crea sirurjial de un stoma artifis en la corpo o un organo","i":"#","en":"ostomy (surgical opening)","fr":"stomie"}
+{"T":"r","L":"ostra","C":["n","mol"],"d":"un de alga bivalvos con concas ru, comeda como un deleta o elevada per perlas","i":"#","t":"Ostreidae","en":"oyster","fr":"huître"}
+{"T":"r","L":"ostrogoto","C":["a","dem","ist"],"d":"pertinente a un popla de gotos ci ia concista Italia en la sentenios 5 e 6, o a sua lingua","en":"Ostrogothic","fr":"ostrogoth"}
+{"L":"ostrogoto","C":["n"],"en":"Ostrogoth","fr":"Ostrogoth"}
+{"T":"r","L":"ostror","C":["n","avia"],"d":"un avia costal vadante, con plumas intera negra o blanca-negra e beco orania-roja, xef comente moluscos","i":"#","t":"Haematopus","en":"oystercatcher (bird)","fr":"huîtrier (oiseau)"}
+{"T":"r","L":"otagon","C":["a","mat"],"d":"(un forma plana) con oto lados reta e oto angulos","en":"octagonal","fr":"octogone"}
+{"L":"otagon","C":["n"],"en":"octagon","fr":"octogone"}
+{"T":"r","L":"otano","C":["n","cim"],"d":"un idrocarbono flamable e sin color","en":"octane","fr":"octane"}
+{"T":"r","L":"otante","C":["n","mat","ast"],"d":"un oti de la perimetre de un sirculo, o la area encluida par esta e du radios de la sirculo; un strumento antica con esta forma, usada en astronomia e naviga","en":"octant","fr":"octant (instrument)"}
+{"L":"Otante","C":["n","ast"],"d":"un constela minor en la sielo sude","en":"Octans (constellation)","fr":"Octant (constellation)"}
+{"T":"r","L":"otarda","C":["n","avia"],"d":"un avia grande e spesa, capas de core rapida","i":"#","t":"Otis","en":"bustard (bird)","fr":"outarde, grande outarde, outarde barbue (oiseau)"}
+{"T":"r","L":"otario","C":["n","mam"],"d":"un mamal acual con corpo idrodinamical e pedes developada como aletas, cual come pexes e reveni a tera per reposa o reprodui","i":"#","t":"Otariidae","en":"eared seal, fur seal","fr":"otarie"}
+{"T":"r","L":"otava","C":["n","mus"],"d":"un interval de oto grados diatonica entre du tonos con la mesma nom, de cual la cuantia de vibras per secondo de la plu alta es la duple de la plu basa","en":"octave","fr":"octave"}
 {"T":"r","L":"otel","C":["n","arci"],"d":"un instituida cual furni un abiteria tempora, comes e otra servis a viajores e turistes","i":"#","da":"hotel, kro","de":"Hotel, Gasthof","en":"hotel, inn, hostelry","es":"hotel, posada, mesón, fonda","fr":"hôtel"}
-{"L":"otel de jovenes","C":["n"],"en":"youth hostel"}
-{"L":"oteleta","C":["n"],"en":"guest house, boarding house, bed and breakfast, B&B"}
-{"L":"otelor","C":["n"],"en":"hotelier, hotelkeeper, innkeeper"}
-{"T":"r","L":"oteni","C":["vt","mone"],"d":"deveni la posesor de (alga cosa), tipal par compra lo","da":"få, tage, opnå","de":"bekommen","en":"obtain, acquire, get, procure; assume (responsibility)","es":"obtener, adquirir, lograr, conseguir, ganar, alcanzar","fr":"obtenir, acquérir"}
-{"L":"oteni","C":["n"],"en":"acquisition, procurement"}
-{"L":"nonotenable","C":["a"],"en":"unavailable, unobtainable"}
-{"L":"otenable","C":["a"],"en":"obtainable, available"}
-{"L":"otenida","C":["n"],"en":"acquisition"}
-{"L":"otenor","C":["n"],"en":"procurer; pimp"}
-{"T":"r","L":"otica","C":["n","fis"],"d":"la studia siensal de vide e la condui de lus, o de la transmete e refleta de otra formas de radia","en":"optics"}
-{"L":"otica de fibres","C":["n"],"en":"fiber|re optics"}
-{"L":"otical","C":["a"],"en":"optical"}
-{"L":"oticiste","C":["n"],"en":"optical scientist"}
-{"T":"r","L":"otigalon","C":["n"],"d":"un oti de un galon","en":"pint (unit of capacity)"}
-{"T":"r","L":"otimisme","C":["n","uma","fil"],"d":"un tende de vide la aspeta la plu bon de cosas o persones, o de crede ce avenis va es bon e susedosa; un fida de la futur","en":"optimism"}
-{"L":"otimiste","C":["a"],"en":"optimistic, sanguine, upbeat"}
-{"L":"otimiste","C":["n"],"en":"optimist"}
-{"T":"r","L":"otite","C":["n","med"],"d":"un inflama de la orea","en":"otitis"}
-{"L":"otite esterna","C":["n"],"en":"otitis externa"}
-{"L":"otite media","C":["n"],"en":"otitis media"}
-{"L":"otite interna","C":["n"],"en":"otitis interna, labyrinthitis"}
+{"L":"otel de jovenes","C":["n"],"en":"youth hostel","fr":"auberge de jeunesse"}
+{"L":"oteleta","C":["n"],"en":"guest house, boarding house, bed and breakfast, B&B","fr":"chambre d'hôte, pension, gîte"}
+{"L":"otelor","C":["n"],"en":"hotelier, hotelkeeper, innkeeper","fr":"hôtelier"}
+{"T":"r","L":"oteni","C":["vt","mone"],"d":"deveni la posesor de (alga cosa), tipal par compra lo","da":"få, tage, opnå","de":"bekommen","en":"obtain, acquire, get, procure; assume (responsibility)","es":"obtener, adquirir, lograr, conseguir, ganar, alcanzar","fr":"obtenir, acquérir, se procurer; assumer"}
+{"L":"oteni","C":["n"],"en":"acquisition, procurement","fr":"acquisition, obtention"}
+{"L":"nonotenable","C":["a"],"en":"unavailable, unobtainable","fr":"indisponible, inaccessible, introuvable"}
+{"L":"otenable","C":["a"],"en":"obtainable, available","fr":"disponible, accessible"}
+{"L":"otenida","C":["n"],"en":"acquisition","fr":"acquisition (chose)"}
+{"L":"otenor","C":["n"],"en":"procurer; pimp","fr":"acquéreur, obtenteur"}
+{"T":"r","L":"otica","C":["n","fis"],"d":"la studia siensal de vide e la condui de lus, o de la transmete e refleta de otra formas de radia","en":"optics","fr":"optique"}
+{"L":"otica de fibres","C":["n"],"en":"fiber|re optics","fr":"fibre optique"}
+{"L":"otical","C":["a"],"en":"optical","fr":"optique"}
+{"L":"oticiste","C":["n"],"en":"optical scientist","fr":"opticien"}
+{"T":"r","L":"otigalon","C":["n"],"d":"un oti de un galon","en":"pint (unit of capacity)","fr":"pinte (unité de capacité)"}
+{"T":"r","L":"otimisme","C":["n","uma","fil"],"d":"un tende de vide la aspeta la plu bon de cosas o persones, o de crede ce avenis va es bon e susedosa; un fida de la futur","en":"optimism","fr":"optimism"}
+{"L":"otimiste","C":["a"],"en":"optimistic, sanguine, upbeat","fr":"optimiste, positif, enjoué, joyeux"}
+{"L":"otimiste","C":["n"],"en":"optimist","fr":"optimiste"}
+{"T":"r","L":"otite","C":["n","med"],"d":"un inflama de la orea","en":"otitis","fr":"otite"}
+{"L":"otite esterna","C":["n"],"en":"otitis externa","fr":"otite externe"}
+{"L":"otite media","C":["n"],"en":"otitis media","fr":"otite moyenne"}
+{"L":"otite interna","C":["n"],"en":"otitis interna, labyrinthitis","fr":"otite interne, labyrinthite, névrite vestibulaire"}
 {"T":"r","L":"oto","C":["d","mat"],"d":"2 multiplida par 4; la numero entre sete e nove","da":"otte","de":"acht","en":"eight","es":"ocho","fr":"huit"}
 {"L":"oto","C":["a"],"en":"eighth (ordinal)","fr":"huitième"}
-{"L":"oto-","C":["pf","tecn"],"d":"oto","en":"octo-"}
-{"L":"otal","C":["a","info"],"d":"pertinente a un sistem de aritmetica fundida sur la numero oto","en":"octal (base eight)"}
-{"L":"oti","C":["vnt"],"en":"split into eight"}
-{"L":"oti","C":["vt"],"en":"split into eighths"}
-{"L":"oti","C":["n"],"en":"eighth (fraction)"}
-{"L":"oti-","C":["pf","tecn"],"d":"un oti de","en":"eighth-"}
-{"L":"otida","C":["a"],"en":"octavo (book size)"}
-{"L":"otuple","C":["n"],"en":"octet"}
-{"T":"r","L":"otobre","C":["n"],"d":"la mense des de la calendario gregorian","en":"October","eo":"oktobro"}
-{"T":"r","L":"otodon","C":["n","mam"],"d":"un familia de rodentes de la sude-ueste de America Sude, noturna, sosial, tunelinte e erbivor","i":"#","t":"octodontidae","en":"octodont (rodent)"}
-{"T":"r","L":"otojemelo","C":["a","bio"],"en":"octuplet"}
-{"L":"otojemelo","C":["n"],"d":"un de oto enfantes naseda a la mesma pari","en":"octuplet"}
-{"T":"r","L":"otolarinjolojia","C":["n","med"],"d":"la studia de maladias de la orea e garga","en":"otolaryngology"}
-{"L":"otolarinjolojiste","C":["n"],"en":"otolaryngologist"}
-{"T":"r","L":"otolito","C":["n","anat"],"d":"un calculo pico en la orea interna de vertebratos, cual permete sensa gravita e move","en":"otolith (anatomy)"}
-{"T":"r","L":"otolojia","C":["n","med"],"d":"la studia de la anatomia e maladias de la orea","en":"otology"}
-{"L":"otolojiste","C":["n"],"en":"otologist"}
-{"T":"r","L":"otomi","C":["a","dem"],"d":"pertinente a un popla de Mexico sentral, o a sua lingua","en":"Otomi (person, language)"}
-{"L":"otomi","C":["n"],"en":"Otomi (person, language)"}
-{"T":"r","L":"otoscopio","C":["n","util","med"],"d":"un aparato per esamina la timpan e duto de la orea esterna, tipal con lampa e lentes","i":"#","en":"otoscope, auriscope, aural speculum (medical)"}
-{"L":"otoscopi","C":["n"],"en":"otoscopy"}
-{"T":"r","L":"otra","C":["a","pren"],"d":"(un person o cosa) diferente o distinguida; no la mesma","da":"anden, hinanden, hverandre","de":"andere","en":"other; latter (of two, when the former has already been mentioned)","es":"otro","fr":"autre"}
-{"L":"a otra parte","C":["av"],"en":"elsewhere; apart, separately"}
-{"L":"a otra tempos","C":["av"],"en":"at other times; formerly"}
-{"L":"a otra ves","C":["av"],"en":"on another occasion; otherwise"}
-{"L":"la un la otra","C":["av"],"v":"lunlotra","en":"each other, one another"}
-{"L":"la un o la otra","C":["pron"],"en":"either, either one, either one or the other"}
-{"L":"la un pos la otra","C":["av"],"en":"one after the other, each in turn; one behind the other, in tandem"}
-{"L":"no la un e no la otra","C":["pron"],"en":"neither, neither one nor the other"}
-{"L":"otra ca","C":["prep"],"en":"other than"}
-{"L":"otras","C":["pron"],"en":"others"}
-{"L":"un otra","C":["d"],"en":"another"}
-{"L":"un otra","C":["pron"],"en":"another"}
+{"L":"oto-","C":["pf","tecn"],"d":"oto","en":"octo-","fr":"octo"}
+{"L":"otal","C":["a","info"],"d":"pertinente a un sistem de aritmetica fundida sur la numero oto","en":"octal (base eight)","fr":"octal (en base 8)"}
+{"L":"oti","C":["vnt"],"en":"split into eight","fr":"se partager en huit, se diviser en huit"}
+{"L":"oti","C":["vt"],"en":"split into eighths","fr":"partager en  huit, diviser en huit"}
+{"L":"oti","C":["n"],"en":"eighth (fraction)","fr":"huitième (fraction)"}
+{"L":"oti-","C":["pf","tecn"],"d":"un oti de","en":"eighth-","fr":"huitième de"}
+{"L":"otida","C":["a"],"en":"octavo (book size)","fr":"in-octavo"}
+{"L":"otuple","C":["n"],"en":"octet","fr":"octet; octuor"}
+{"T":"r","L":"otobre","C":["n"],"d":"la mense des de la calendario gregorian","en":"October","eo":"oktobro","fr":"octobre"}
+{"T":"r","L":"otodon","C":["n","mam"],"d":"un familia de rodentes de la sude-ueste de America Sude, noturna, sosial, tunelinte e erbivor","i":"#","t":"octodontidae","en":"octodont (rodent)","fr":"octodon (rongeur)"}
+{"T":"r","L":"otojemelo","C":["a","bio"],"en":"octuplet","fr":"octuplé"}
+{"L":"otojemelo","C":["n"],"d":"un de oto enfantes naseda a la mesma pari","en":"octuplet","fr":"octuplé"}
+{"T":"r","L":"otolarinjolojia","C":["n","med"],"d":"la studia de maladias de la orea e garga","en":"otolaryngology","fr":"otolaryngologie"}
+{"L":"otolarinjolojiste","C":["n"],"en":"otolaryngologist","fr":"otolaryngologue"}
+{"T":"r","L":"otolito","C":["n","anat"],"d":"un calculo pico en la orea interna de vertebratos, cual permete sensa gravita e move","en":"otolith (anatomy)","fr":"otolithe, statoconie, otoconie, statolithe, poussière d'oreille, cristaux (anatomie)"}
+{"T":"r","L":"otolojia","C":["n","med"],"d":"la studia de la anatomia e maladias de la orea","en":"otology","fr":"otologie"}
+{"L":"otolojiste","C":["n"],"en":"otologist","fr":"otologue, otologiste"}
+{"T":"r","L":"otomi","C":["a","dem"],"d":"pertinente a un popla de Mexico sentral, o a sua lingua","en":"Otomi (person, language)","fr":"otomi"}
+{"L":"otomi","C":["n"],"en":"Otomi (person, language)","fr":"Otomi (personne); otomi (langue)"}
+{"T":"r","L":"otoscopio","C":["n","util","med"],"d":"un aparato per esamina la timpan e duto de la orea esterna, tipal con lampa e lentes","i":"#","en":"otoscope, auriscope, aural speculum (medical)","fr":"otoscope"}
+{"L":"otoscopi","C":["n"],"en":"otoscopy","fr":"otoscopie"}
+{"T":"r","L":"otra","C":["a","pren"],"d":"(un person o cosa) diferente o distinguida; no la mesma","da":"anden, hinanden, hverandre","de":"andere","en":"other; latter (of two, when the former has already been mentioned)","es":"otro","fr":"autre, nouveau"}
+{"L":"a otra parte","C":["av"],"en":"elsewhere; apart, separately","fr":"ailleurs; à part, séparément"}
+{"L":"a otra tempos","C":["av"],"en":"at other times; formerly","fr":"à un autre moment; précédemment, d'abord, auparavant, antérieurement, anciennement, autrefois, auparavant, jadis, jusque-là, jusqu'alors"}
+{"L":"a otra ves","C":["av"],"en":"on another occasion; otherwise","fr":"une autre fois, à une autre occasion; par ailleurs, autrement"}
+{"L":"la un la otra","C":["av"],"v":"lunlotra","en":"each other, one another","fr":"réciproquement, l'un l'autre, mutuellement"}
+{"L":"la un o la otra","C":["pron"],"en":"either, either one, either one or the other","fr":"l'un ou l'autre, soit l'un soit l'autre"}
+{"L":"la un pos la otra","C":["av"],"en":"one after the other, each in turn; one behind the other, in tandem","fr":"à la suite, l'un après l'autre, l'un derrière l'autre, chacun à tour de rôle, chacun à son tour"}
+{"L":"no la un e no la otra","C":["pron"],"en":"neither, neither one nor the other","fr":"ni l'un ni l'autre, aucun des deux"}
+{"L":"otra ca","C":["prep"],"en":"other than","fr":"autre que"}
+{"L":"otras","C":["pron"],"en":"others","fr":"les autres, d'autres, autrui"}
+{"L":"un otra","C":["d"],"en":"another","fr":"un autre, une autre"}
+{"L":"un otra","C":["pron"],"en":"another","fr":"un autre, une autre"}
 {"T":"r","L":"oval","C":["a","mat"],"d":"con forma ronda e cuasi longida, simil a un ovo; con la forma cual resulta cuando un plana talia un cono a angulo nonreta","da":"oval, ellipse","de":"Oval","en":"oval, ovate, elliptical","es":"óvalo, elipse","fr":"ovale"}
-{"L":"oval","C":["n"],"en":"oval, ellipse"}
-{"T":"r","L":"ovario","C":["n","anat"],"d":"un de la du organos fema de reprodui en cual ovos es produida; (en botanica) la fondo cavetin de la carpel de un flor, conteninte ovulos","en":"ovary"}
-{"L":"ovarial","C":["a"],"en":"ovarian"}
+{"L":"oval","C":["n"],"en":"oval, ellipse","fr":"ovale, ellipse, elliptique"}
+{"T":"r","L":"ovario","C":["n","anat"],"d":"un de la du organos fema de reprodui en cual ovos es produida; (en botanica) la fondo cavetin de la carpel de un flor, conteninte ovulos","en":"ovary","fr":"ovaire"}
+{"L":"ovarial","C":["a"],"en":"ovarian","fr":"ovarien"}
 {"T":"r","L":"ovea","C":["n","mam","cos"],"d":"un mamal domada e remasticante, con pelo de lana densa, elevada per sua lana e carne","i":"#","t":"Ovis aries","da":"får","de":"Schaf","en":"sheep","es":"ovejas","fr":"ovin, mouton, brebis"}
-{"L":"ovea fema","C":["n"],"en":"ewe, female sheep"}
-{"L":"ovea gidante","C":["n"],"en":"leading sheep, bellwether"}
-{"L":"Ovea","C":["n","ast"],"s":"♈","en":"Aries (constellation)"}
-{"L":"ovea mas","C":["n"],"en":"ram, male sheep"}
-{"L":"oveal","C":["a"],"en":"ovine"}
-{"L":"oveta","C":["n"],"en":"lamb"}
-{"T":"r","L":"ovi-","C":["pf","tecn"],"d":"ovo","en":"ovi- (egg)"}
-{"T":"r","L":"oviduto","C":["n","anat"],"d":"la tubo tra cual un ovo pasa de un ovario","en":"oviduct (anatomy)"}
-{"T":"r","L":"ovipari","C":["vnt","bio"],"d":"produi enfantes par ovos poneda par la fema","en":"lay eggs, be oviparous"}
-{"L":"ovipari","C":["n"],"en":"spawn, frogspawn"}
-{"L":"oviparia","C":["n"],"en":"oviparity"}
-{"L":"oviparinte","C":["a"],"en":"oviparous, egg-laying"}
-{"T":"r","L":"oviraptor","C":["n","dino"],"d":"un dinosauro bipede de la tarda de la cretasica, con mandibula sin dentes, e brasos longa con ditos con garas","i":"#","t":"Oviraptor","en":"oviraptor (dinosaur)"}
-{"T":"r","L":"ovn","C":["c","mit"],"d":"ojeto volante nonidentifiada","i":"#","en":"UFO"}
+{"L":"ovea fema","C":["n"],"en":"ewe, female sheep","fr":"brebis"}
+{"L":"ovea gidante","C":["n"],"en":"leading sheep, bellwether","fr":"chef de file, chef de troupeau, leader"}
+{"L":"Ovea","C":["n","ast"],"s":"♈","en":"Aries (constellation)","fr":"Bélier (constellation)"}
+{"L":"ovea mas","C":["n"],"en":"ram, male sheep","fr":"bélier"}
+{"L":"oveal","C":["a"],"en":"ovine","fr":"ovin"}
+{"L":"oveta","C":["n"],"en":"lamb","fr":"agneau, mouton"}
+{"T":"r","L":"ovi-","C":["pf","tecn"],"d":"ovo","en":"ovi- (egg)","fr":"ovi-, ovo-"}
+{"T":"r","L":"oviduto","C":["n","anat"],"d":"la tubo tra cual un ovo pasa de un ovario","en":"oviduct (anatomy)","fr":"oviducte, trompe ovarienne, trompe utérine"}
+{"T":"r","L":"ovipari","C":["vnt","bio"],"d":"produi enfantes par ovos poneda par la fema","en":"lay eggs, be oviparous","fr":"être ovipare"}
+{"L":"ovipari","C":["n"],"en":"spawn, frogspawn","fr":"ovipare"}
+{"L":"oviparia","C":["n"],"en":"oviparity","fr":"oviparité"}
+{"L":"oviparinte","C":["a"],"en":"oviparous, egg-laying","fr":"ovipare"}
+{"T":"r","L":"oviraptor","C":["n","dino"],"d":"un dinosauro bipede de la tarda de la cretasica, con mandibula sin dentes, e brasos longa con ditos con garas","i":"#","t":"Oviraptor","en":"oviraptor (dinosaur)","fr":"oviraptor (dinosaure)"}
+{"T":"r","L":"ovn","C":["c","mit"],"d":"ojeto volante nonidentifiada","i":"#","en":"UFO","fr":"OVNI, objet volant non identifié"}
 {"T":"r","L":"ovo","C":["n","bio"],"d":"un ojeto ronda o oval, produida par un avia, retil, pex o nonvertebrato, tipal conteninte un embrio; un ovo nonfertilida, tipal de un gal, usada como un comeda; (en biolojia) la selula fema de reprodui en animales e plantas","i":"#","da":"æg","de":"Ei","en":"egg, ovum","es":"huevo","fr":"œuf"}
-{"L":"ovo bolida","C":["n"],"en":"boiled egg"}
-{"L":"ovo de piolio","C":["n"],"en":"nit"}
-{"L":"ovo fritada","C":["n"],"i":"#","en":"fried egg"}
-{"L":"ovin","C":["a"],"en":"egglike, egg-shaped, ovoid"}
-{"L":"ovos bateda","C":["n"],"i":"#","en":"scrambled eggs"}
-{"L":"ovos de pex","C":["n"],"en":"caviar, roe"}
-{"T":"r","L":"ovovivipari","C":["vnt","bio"],"d":"produi enfantes par ovos de cual la enfantes sorti cuando ancora en la corpo de la madre, como en alga serpentes","en":"be ovoviviparous (lay eggs within oneself)"}
-{"L":"ovoviviparia","C":["n"],"en":"ovoviviparity"}
-{"L":"ovoviviparinte","C":["a"],"en":"ovoviviparous"}
-{"T":"r","L":"ovulo","C":["n","bio"],"d":"un ovo peti o nonmatur; (en un planta) la parte de la ovario cual conteni la selula fema de reprodui e cual deveni la seme pos fertili","en":"ovule (biology)"}
-{"L":"ovuli","C":["vt"],"en":"ovulate"}
-{"L":"ovuli","C":["n"],"en":"ovulation"}
-{"T":"r","L":"ozon","C":["n","cim"],"d":"un gas nonstable, nosiva, sin color, con odor agu e capasias forte de osidi, formida de osijen par descargas eletrical o lus ultravioleta","en":"ozone","es":"ozono"}
-{"L":"ozonal sana","C":["a"],"en":"ozone-friendly"}
-{"T":"r","L":"p","C":["sim"],"d":"la letera 16 de la alfabeta roman","p":"pe","en":"p"}
-{"T":"r","L":"p","C":["c"],"d":"paje, pajes","en":"p., pp."}
-{"T":"r","L":"pacarana","C":["n","mam"],"d":"un rodente de America Sude simil a un cavia, con pelo oscur brun, bandas blanca, e coda corta e pelosa","i":"#","t":"Dinomys branickii","en":"pacarana (rodent)"}
-{"T":"r","L":"paci-","C":["pf","tecn"],"d":"densa, spesa","en":"pachy- (thick)"}
-{"T":"r","L":"pacidermo","C":["n","mam"],"d":"un mamal grande con pel spesa, como un elefante, rinosero o ipopotamo","en":"pachyderm","es":"paquidermo"}
-{"T":"r","L":"Pacistan","C":["n","jeo"],"c":"Islamabad","d":"un pais en Asia sude a norde-ueste de Barat","i":"#","en":"Pakistan","es":"Pakistán, Paquistán"}
-{"L":"pacistani","C":["a"],"en":"Pakistani","es":"pakistaní, paquistaní"}
-{"L":"pacistani","C":["n"],"en":"Pakistani","es":"pakistaní, paquistaní"}
-{"T":"r","L":"paco","C":["n","util"],"d":"un contenador e sua contenidas","i":"#","da":"samling, bunke","de":"Bündel","en":"pack, bundle, kit","es":"paquete, atado, montón, grupo","fr":"paquet"}
-{"L":"despaci","C":["vt"],"en":"unpack","es":"desempacar, desempaquetar"}
-{"L":"despaci","C":["n"],"en":"unpacking"}
-{"L":"paceta","C":["n"],"da":"pakke","de":"Paket","en":"package, packet, parcel; deck, pack (cards)","es":"paquete, fardo, bulto, cajetilla, paquetillo","fr":"paquet"}
-{"L":"paceta de proba","C":["n"],"en":"test kit"}
-{"L":"paceta de survive","C":["n"],"en":"survival kit"}
-{"L":"paci","C":["vnt"],"en":"pack, become packed"}
-{"L":"paci","C":["vt"],"en":"pack, package, bundle"}
-{"L":"paci","C":["n"],"en":"packing"}
-{"L":"pacida","C":["a"],"en":"packed, packaged, bundled"}
-{"L":"prepaci","C":["vt"],"en":"prepackage"}
-{"L":"repaci","C":["vt"],"en":"repack, repackage"}
+{"L":"ovo bolida","C":["n"],"en":"boiled egg","fr":"œuf dur"}
+{"L":"ovo de piolio","C":["n"],"en":"nit","fr":"lente"}
+{"L":"ovo fritada","C":["n"],"i":"#","en":"fried egg","fr":"œuf à la coque"}
+{"L":"ovin","C":["a"],"en":"egglike, egg-shaped, ovoid","fr":"en forme d'œuf, ovoïde, oviforme"}
+{"L":"ovos bateda","C":["n"],"i":"#","en":"scrambled eggs","fr":"œuf brouillé"}
+{"L":"ovos de pex","C":["n"],"en":"caviar, roe","fr":"caviar, œufs de lompe"}
+{"T":"r","L":"ovovivipari","C":["vnt","bio"],"d":"produi enfantes par ovos de cual la enfantes sorti cuando ancora en la corpo de la madre, como en alga serpentes","en":"be ovoviviparous (lay eggs within oneself)","fr":"être ovovivipare"}
+{"L":"ovoviviparia","C":["n"],"en":"ovoviviparity","fr":"ovoviviparité"}
+{"L":"ovoviviparinte","C":["a"],"en":"ovoviviparous","fr":"ovovivipare"}
+{"T":"r","L":"ovulo","C":["n","bio"],"d":"un ovo peti o nonmatur; (en un planta) la parte de la ovario cual conteni la selula fema de reprodui e cual deveni la seme pos fertili","en":"ovule (biology)","fr":"ovule"}
+{"L":"ovuli","C":["vt"],"en":"ovulate","fr":"ovuler"}
+{"L":"ovuli","C":["n"],"en":"ovulation","fr":"ovulation"}
+{"T":"r","L":"ozon","C":["n","cim"],"d":"un gas nonstable, nosiva, sin color, con odor agu e capasias forte de osidi, formida de osijen par descargas eletrical o lus ultravioleta","en":"ozone","es":"ozono","fr":"ozone"}
+{"L":"ozonal sana","C":["a"],"en":"ozone-friendly","fr":"qui préserve la couche d'ozone, qui protège la couche d'ozone"}
+{"T":"r","L":"p","C":["sim"],"d":"la letera 16 de la alfabeta roman","p":"pe","en":"p","fr":"p (lettre de l'alphabet)"}
+{"T":"r","L":"p","C":["c"],"d":"paje, pajes","en":"p., pp.","fr":"p. (page)"}
+{"T":"r","L":"pacarana","C":["n","mam"],"d":"un rodente de America Sude simil a un cavia, con pelo oscur brun, bandas blanca, e coda corta e pelosa","i":"#","t":"Dinomys branickii","en":"pacarana (rodent)","fr":"pacarana (rongeur)"}
+{"T":"r","L":"paci-","C":["pf","tecn"],"d":"densa, spesa","en":"pachy- (thick)","fr":"pachy-"}
+{"T":"r","L":"pacidermo","C":["n","mam"],"d":"un mamal grande con pel spesa, como un elefante, rinosero o ipopotamo","en":"pachyderm","es":"paquidermo","fr":"pachyderme"}
+{"T":"r","L":"Pacistan","C":["n","jeo"],"c":"Islamabad","d":"un pais en Asia sude a norde-ueste de Barat","i":"#","en":"Pakistan","es":"Pakistán, Paquistán","fr":"Pakistan"}
+{"L":"pacistani","C":["a"],"en":"Pakistani","es":"pakistaní, paquistaní","fr":"pakistanais"}
+{"L":"pacistani","C":["n"],"en":"Pakistani","es":"pakistaní, paquistaní","fr":"Pakistanais"}
+{"T":"r","L":"paco","C":["n","util"],"d":"un contenador e sua contenidas","i":"#","da":"samling, bunke","de":"Bündel","en":"pack, bundle, kit","es":"paquete, atado, montón, grupo","fr":"paquet, trousse, ensemble, nécessaire"}
+{"L":"despaci","C":["vt"],"en":"unpack","es":"desempacar, desempaquetar","fr":"dépaqueter, déballer, défaire"}
+{"L":"despaci","C":["n"],"en":"unpacking","fr":"dépaquetage, ouverture, déballage"}
+{"L":"paceta","C":["n"],"da":"pakke","de":"Paket","en":"package, packet, parcel; deck, pack (cards)","es":"paquete, fardo, bulto, cajetilla, paquetillo","fr":"paquet, colis; paquet (cartes)"}
+{"L":"paceta de proba","C":["n"],"en":"test kit","fr":"kit de test, matériel de test"}
+{"L":"paceta de survive","C":["n"],"en":"survival kit","fr":"trousse de survie, kit de survie, matériel de survie"}
+{"L":"paci","C":["vnt"],"en":"pack, become packed","fr":"s'empaqueter, devenir empaqueté"}
+{"L":"paci","C":["vt"],"en":"pack, package, bundle","fr":"empaqueter, emballer"}
+{"L":"paci","C":["n"],"en":"packing","fr":"empaquetage, emballage"}
+{"L":"pacida","C":["a"],"en":"packed, packaged, bundled","fr":"empaqueté, emballé"}
+{"L":"prepaci","C":["vt"],"en":"prepackage","fr":"pré-empaqueter, pré-emballer"}
+{"L":"repaci","C":["vt"],"en":"repack, repackage","fr":"réempaqueter, réemballer"}
 {"T":"r","L":"padela","C":["n","util","cos"],"d":"un casola basa con manico longa","i":"#","da":"pande (køkkenredskab)","de":"Pfanne","en":"pan, fry pan, frying pan, skillet","es":"cacerola, cazuela, cazo, sartén","fr":"poêle"}
 {"L":"padela de crepes","C":["n"],"i":"#","en":"crêpe pan, omelet|omelette pan"}
 {"L":"padela de grili","C":["n"],"en":"griddle","es":"plancha de cocina"}
@@ -20190,6 +20191,7 @@
 {"L":"nonpertine","C":["n"],"en":"irrelevance"}
 {"L":"nonpertinente","C":["a"],"en":"irrelevant, invalid, inapplicable, extraneous"}
 {"L":"pertinente","C":["a"],"en":"pertinent, relevant, valid"}
+{"L":"pertinente","C":["n"],"en":"matter, subject, affair, concern"}
 {"T":"r","L":"pertuse","C":["n","med"],"d":"un maladia comunicable causada par un bateria, cual afeta plu la enfantes, marcada par tose convulsante, segueda par un sona forte de un enspira rapida","en":"pertussis, whooping cough"}
 {"T":"r","L":"Peru","C":["n","jeo"],"c":"Lima","d":"un pais en America Sude a la costa de la Mar Pasifica, e cual conteni un parte de la Andes","i":"#","p":"perú","en":"Peru"}
 {"L":"peruan","C":["a"],"en":"Peruvian"}
