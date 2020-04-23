@@ -3,7 +3,7 @@
 {"T":"s","d":"indicante la punto de refere en un relata","u":"tu sta tro prosima a la borda; la pen parteni a me; la forma de Italia es simil a un gama; pensa a un numero; a la min","en":"(in relation) to","eo":"al","es":"a","fr":"à","he":"ל-","ru":"к; дательный падеж; на (в выражениях сравнения)"}
 {"T":"s","d":"indicante la loca, resetor o state cual on ateni o vole ateni par un move o cambia","u":"el desira viaja a la Luna; de ves a ves; me va dona un oso a tua can; la idea pare bon a me; la sorsor ia cambia se a un capra; on va eleje tu a presidente; el ia pinti sua mures a jala; tradui un poesia a elefen","da":"til, mod, hen imod","de":"nach, zu","en":"in the direction of, to, toward, towards, unto","eo":"al, direkte al","es":"a, en dirección, a hacia, hasta, para, rumbo a, para con","fr":"à, vers","gl":"a, ata, cara a, para, rumbo a, para con","he":"ל-; מסמן שינוי למצב חדש (צביעה בלבן, בחירה לנשיא)","ru":"на (как направление); дательный падеж; в (при глаголах превращения в, изменения в)"}
 {"T":"s","d":"indicante un ata cual on asinia a la ojeto presedente","n":"Nota la difere entre `me instrui el a comprende` (cual sinifia `me instrui el afin _el_ comprende`) e `me instrui el per comprende` (cual sinifia `me instrui el afin _me_ comprende`).","u":"el comanda la soldatos a ataca la fortres","en":"(influencing another) to (do something)","es":"con el objeto de, (influir a alguien para que haga algo)","fr":"à","he":"ל-, למען המטרה ..."}
-{"T":"s","d":"clarinte ce un otra preposada, direta seguente, indica un loca cual on ateni o vole ateni","n":"En `me pone la libros en la saco`, la sinifia de `pone` sufisi per clari ce la libros no comensa en la saco. Ma si `me move los en la saco`, cisa los es ja ala e me fa no plu ca un ajusta. `Me move los a en la saco` dise clar ce los vade a la saco.","u":"la gato ia salta a sur la table; me pone la libros (a) en la saco","en":"(clarifying, if necessary, that the following preposition indicates motion towards a location)","eo":"-n (en -n, sur -n)","es":"(clarifica, si es necesario, que la preposición siguiente indica movimiento hacia un punto)","he":"ל-, בכיוון ל-"}
+{"T":"s","d":"clarinte ce un otra preposada, direta seguente, indica un loca cual on ateni o vole ateni","n":"En `me pone la libros en la saco`, la sinifia de `pone` sufisi per clari ce la libros no comensa en la saco. Ma si `me move los en la saco`, cisa los es ja ala e me fa no plu ca un ajusta. `Me move los a en la saco` dise clar ce los vade a la saco.","u":"la gato ia salta a sur la table; me pone la libros (a) en la saco","en":"(clarifying, if necessary, that the following preposition indicates motion towards a location)","eo":"-n (en -n, sur -n)","es":"(clarifica, si es necesario, que la preposición siguiente indica movimiento hacia un punto)","fr":"(précise que la préposition qui suit comporte un mouvement vers un lieu)","he":"ל-, בכיוון ל-"}
 {"T":"s","d":"cambiante un otra preposada, direta seguente e no segueda par un nom, a un averbo","n":"`A ante` sinifia `ante esta o acel tempo o loca`, dependente de la contesto. `Move a su` sinifia `desende`.","u":"la saco es a supra; me va pone la saco a supra; la gato ia salta a su; el ia resenia la teatral a pos","v":"ante, contra, cuando, do, en, entre, pos, sirca, su, supra, sur","en":"(converting the following preposition into an adverb indicating location or motion)","eo":"-e, -en (poste, supren, malsupren)","es":"(convierte la preposición siguiente en un adverbio indicando localización o movimiento)","fr":"(convertit la préposition qui suit en un adverbe indiquant le lieu ou le mouvement)","he":"הופך מילת יחס לתואר הפועל"}
 {"T":"r","L":"a","C":["esc"],"d":"espresante ce on es surprendeda, ce on comprende subita, o un otra reata simil","en":"ah, aha","eo":"ha","es":"ah, ajá","fr":"ah, ha","he":"אה","ru":"ааа, ага"}
 {"T":"r","L":"a-","C":["pf","tecn"],"d":"non-, sin; en dirije a","o":"de elenica a- (no, sin)","en":"a-","es":"a-","fr":"a-, an-; a-","he":"(סיומת טכנית) ללא, בלי; בכיוון של"}
@@ -19642,120 +19642,120 @@
 {"L":"suprapasada","C":["a"],"en":"surpassed, overshadowed, dwarfed","fr":"surpassé"}
 {"L":"suprapasante","C":["a"],"en":"surpassing, exceeding, excessive, preeminent, profuse, inordinate","fr":"surpassant, excessif"}
 {"T":"r","L":"pasada","C":["a"],"d":"completida, finida; presedente, plu temprana","en":"past, previous, former, earlier, ex-","fr":"passé"}
-{"L":"pasada","C":["av"],"en":"previously, formerly, once"}
-{"L":"pasada","C":["n"],"da":"fortid","de":"Vergangenheits","en":"past (time, tense), yore; preterite","es":"pasado (tiempo anterior)"}
-{"L":"pasada perfeta","C":["n","ling"],"en":"past perfect, pluperfect"}
-{"L":"en la pasada","C":["av"],"en":"in the past; out of the way"}
+{"L":"pasada","C":["av"],"en":"previously, formerly, once","fr":"dans le passé, avant, auparavant, jadis, précédemment, plus tôt, naguère, autrefois"}
+{"L":"pasada","C":["n"],"da":"fortid","de":"Vergangenheits","en":"past (time, tense), yore; preterite","es":"pasado (tiempo anterior)","fr":"passé"}
+{"L":"pasada perfeta","C":["n","ling"],"en":"past perfect, pluperfect","fr":"passé composé"}
+{"L":"en la pasada","C":["av"],"en":"in the past; out of the way","fr":"dans le passé"}
 {"L":"en la pasada distante","C":["av"],"da":"for længe siden","de":"vor langem","en":"in the distant past, long ago","es":"hace mucho tiempo","fr":"depuis longtemps, il y a longtemps","gl":"fai moito tempo"}
-{"L":"en la semana pasada","C":["av"],"en":"last week"}
-{"L":"plu bon ca pasada","C":["a"],"en":"better than ever"}
+{"L":"en la semana pasada","C":["av"],"en":"last week","fr":"la semaine dernière"}
+{"L":"plu bon ca pasada","C":["a"],"en":"better than ever","fr":"mieux que jamais"}
 {"T":"r","L":"pasaje","C":["n"],"d":"la ata de move tra, su, supra o ultra alga cosa, en via de un loca a un otra; un viaja o permete per viaja; un via interna o streta; un parte de un testo o musica","en":"passage (travel, text, music); passageway","fr":"passage"}
-{"L":"pasaje de frontera","C":["n"],"en":"border crossing"}
+{"L":"pasaje de frontera","C":["n"],"en":"border crossing","fr":"passage de frontière"}
 {"L":"pasaje de traversa","C":["n"],"i":"#","en":"pedestrian crossing, crosswalk","fr":"passage piéton"}
-{"L":"dona pasaje a","C":["vt"],"en":"give a lift to, give a ride to"}
-{"L":"pasajor","C":["n"],"en":"passenger"}
-{"L":"pasajor secreta","C":["n"],"en":"stowaway"}
-{"L":"supasaje","C":["n"],"en":"underpass"}
+{"L":"dona pasaje a","C":["vt"],"en":"give a lift to, give a ride to","fr":"emmener, prendre comme passager, conduire"}
+{"L":"pasajor","C":["n"],"en":"passenger","fr":"passager"}
+{"L":"pasajor secreta","C":["n"],"en":"stowaway","fr":"passager clandestin"}
+{"L":"supasaje","C":["n"],"en":"underpass","fr":"passage souterrain, tunnel"}
 {"T":"r","L":"pasaporto","C":["n","vn","gov"],"d":"un documento ofisial donada par un governa cual indica la identia de la posesor e sua sitadania, e permete ce el viaja a e de paises stranjer su la proteje de la governa","da":"pas (til rejsebrug)","de":"Pass","en":"passport","eo":"pasporto","es":"pasaporte, salvoconducto","fr":"passeport"}
-{"T":"r","L":"pasaro","C":["n","avia"],"d":"un avia peti de la mundo vea, tipal con plumas brun e gris; un otra avia cual sembla esta en grandia o color","i":"#","t":"Passeridae","en":"sparrow","eo":"pasero"}
-{"L":"pasaro american","C":["n","ani","avia"],"i":"#","t":"Emberizidae","en":"New World sparrow"}
-{"L":"pasaro de neva","C":["n","ani","avia"],"i":"#","t":"Montifingilla","en":"snow finch"}
-{"L":"pasarin","C":["a"],"en":"sparrowlike"}
-{"L":"pasarin","C":["n"],"en":"passerine, perching bird"}
-{"T":"r","L":"pasatempo","C":["n","vn"],"d":"un ata cual on fa en sua tempo libre","en":"hobby, pastime, recreation"}
-{"T":"r","L":"pascal","C":["n","fis"],"d":"la unia internasional de presa","en":"pascal (unit of pressure)"}
-{"T":"r","L":"pascua","C":["n","rel"],"d":"la festa la plu importante de cristianisme, cual selebra la revive de Jesus Cristo","en":"Easter"}
-{"L":"pascual","C":["a"],"en":"Easter"}
-{"L":"Isola Pascua","C":["n","jeo"],"d":"un isola en la Mar Pasifica sude-este, a ueste de e governada par Txile, famosa per sua scultas grande de testas umana","i":"#","v":"Rapanui","en":"Easter Island, Rapa Nui"}
-{"T":"r","L":"pasea","C":["vnt"],"d":"move usante sua pedes, en modo min rapida ca core","i":"#","da":"gå","de":"gehen (zu Fuss), spazieren","en":"walk, stroll","es":"andar, caminar, recorrer a pie, pasear","fr":"marcher, se promener"}
-{"L":"pasea","C":["vt"],"en":"walk, take for a walk"}
-{"L":"pasea","C":["n"],"en":"walk"}
-{"L":"pasea de ganso","C":["n"],"en":"goosestep"}
-{"L":"pasea en spasio","C":["n"],"i":"#","en":"spacewalk"}
-{"L":"pasea grande","C":["v"],"en":"stride"}
-{"L":"pasea grandiosa","C":["v"],"en":"strut"}
-{"L":"pasea laborosa","C":["v"],"en":"trudge, plod, trek"}
-{"L":"pasea laborosa","C":["n"],"en":"trudge, plod, trek"}
-{"L":"pasea lenta","C":["v"],"en":"stroll, amble, saunter"}
-{"L":"pasea longa","C":["v"],"en":"hike, trek"}
-{"L":"pasea longa","C":["n"],"en":"hike, trek"}
-{"L":"pasea lunal","C":["v"],"en":"moonwalk (dance)"}
-{"L":"pasea lunal","C":["n"],"en":"moonwalk (dance)"}
-{"L":"pasea ostentosa","C":["v"],"en":"sashay"}
-{"L":"modo de pasea","C":["n"],"en":"gait"}
-{"L":"paseacorda","C":["n"],"i":"#","en":"rope walker, tightrope walker, funambulist"}
-{"L":"paseador","C":["n"],"i":"#","en":"treadmill (wheel, exercise machine)"}
-{"L":"paseante","C":["a"],"en":"walking, peripatetic; andante (music)"}
-{"L":"paseor","C":["n"],"en":"walker, pedestrian"}
-{"L":"paseor nova","C":["n"],"en":"toddler"}
-{"L":"paseria","C":["n"],"i":"#","en":"walkway, footpath, catwalk"}
-{"L":"paseria de plances","C":["n"],"i":"#","en":"boardwalk"}
-{"L":"paseria rolante","C":["n"],"en":"moving walkway, travelator"}
-{"L":"paseta","C":["vnt"],"en":"tiptoe, walk on one's toes"}
-{"L":"repasea","C":["vnt"],"en":"walk back"}
-{"T":"r","L":"paseamania","C":["n"],"d":"la pasatempo de pasea per distantias longa, tipal tra campania o forestas","en":"hiking"}
-{"L":"paseamanica","C":["n"],"en":"hiker"}
-{"T":"r","L":"pasiente","C":["a","uma"],"d":"capas de tolera un retarda o sufri sin deveni coler o turbada","en":"patient, easygoing"}
-{"L":"pasiente","C":["n"],"d":"un person ci reseta o es preparada per reseta trata medical; (en gramatica) la rol semantical de un formula nomin cual indica la cosa afetada par la ata de un verbo","en":"patient"}
-{"L":"pasiente esterna","C":["n"],"en":"outpatient"}
-{"L":"pasiente ospitalida","C":["n"],"en":"inpatient"}
-{"L":"nonpasiente","C":["a"],"en":"impatient"}
-{"L":"nonpasientia","C":["n"],"en":"impatience"}
-{"L":"pasientia","C":["n"],"da":"tålmodighed","de":"Geduld","en":"patience","es":"paciencia","fr":"patience"}
-{"T":"r","L":"pasifica","C":["a","tera"],"d":"pertinente a la Mar Pasifica o a la paises con costas a lo","en":"Pacific"}
-{"L":"Mar Pasifica","C":["n","jeo"],"d":"la mar la plu grande, entre America a la este e Asia e Australia a la ueste","i":"#","en":"Pacific Ocean"}
-{"L":"transpasifica","C":["a"],"en":"transpacific"}
-{"T":"r","L":"pasiflora","C":["n","pla"],"d":"un planta trepante de zonas calda, con flores cual misionores ia interprete como simboles de la crusi de Jesus Cristo","i":"#","t":"Passiflora","en":"passion flower"}
-{"T":"r","L":"pasigrafia","C":["n","ling"],"d":"un sistem de scrive en cual cada simbol representa un conseta, en loca de un parola o serie de sonas, intendeda como un lingua internasional o filosofial","en":"pasigraphy (writing system)"}
-{"T":"r","L":"pasion","C":["n","uma"],"d":"un emosia forte e cuasi noncontrolable; un desira sesal intensa; un zelo intensa","en":"passion"}
-{"L":"nonpasionosa","C":["a"],"en":"passionless, dispassionate"}
-{"L":"pasioni","C":["vt"],"en":"impassion"}
-{"L":"pasionosa","C":["a"],"en":"passionate, impassioned, torrid"}
-{"T":"r","L":"pasiva","C":["a","ling","gov"],"d":"asetante o permetente lo cual aveni o lo cual otras fa, sin resiste o responde ativa; (un verbo) indicante un ata cual es fada a sua sujeto","en":"passive"}
-{"L":"pasiva","C":["n"],"en":"passive (grammar)"}
-{"L":"pasivi","C":["vnt"],"d":"(un sustantia) deveni min afetada o corodeda par la ambiente","en":"passivate"}
-{"L":"pasivi","C":["n"],"en":"passivation"}
-{"L":"pasivia","C":["n"],"en":"passivity"}
-{"T":"r","L":"paso","C":["n"],"d":"un move de un pede ante la otra cuando on pasea o core; un ata en un serie dirijeda a un gol","en":"step, footstep, pace, tread; stage (of progress)"}
-{"L":"fa un mal paso","C":["v"],"en":"stumble, trip, misstep, make a mistake, make a faux pas"}
-{"L":"fa un paso","C":["v"],"en":"step, take a step, tread, pace"}
-{"L":"mal paso","C":["n"],"en":"misstep, faux pas"}
-{"L":"par pasos","C":["a"],"en":"step-by-step"}
-{"L":"par pasos","C":["av"],"en":"step by step"}
-{"L":"paseta","C":["n"],"en":"tiny step"}
-{"L":"pason","C":["n"],"en":"stride, big step"}
-{"T":"r","L":"paspie","C":["n","mus"],"d":"un dansa simil a un minueto rapida, popular en la sentenios 17 e 18","en":"passepied (dance)"}
+{"T":"r","L":"pasaro","C":["n","avia"],"d":"un avia peti de la mundo vea, tipal con plumas brun e gris; un otra avia cual sembla esta en grandia o color","i":"#","t":"Passeridae","en":"sparrow","eo":"pasero","fr":"moineau, passereau"}
+{"L":"pasaro american","C":["n","ani","avia"],"i":"#","t":"Emberizidae","en":"New World sparrow","fr":"bruant, emberize"}
+{"L":"pasaro de neva","C":["n","ani","avia"],"i":"#","t":"Montifringilla","en":"snow finch","fr":"niverolle alpine"}
+{"L":"pasarin","C":["a"],"en":"sparrowlike","fr":"semblable à un moineau"}
+{"L":"pasarin","C":["n"],"en":"passerine, perching bird","fr":"passereau"}
+{"T":"r","L":"pasatempo","C":["n","vn"],"d":"un ata cual on fa en sua tempo libre","en":"hobby, pastime, recreation","fr":"passe-temps, loisir, récréation"}
+{"T":"r","L":"pascal","C":["n","fis"],"d":"la unia internasional de presa","en":"pascal (unit of pressure)","fr":"pascal (unité de mesure de pression)"}
+{"T":"r","L":"pascua","C":["n","rel"],"d":"la festa la plu importante de cristianisme, cual selebra la revive de Jesus Cristo","en":"Easter","fr":"Pâques"}
+{"L":"pascual","C":["a"],"en":"Easter","fr":"pascal"}
+{"L":"Isola Pascua","C":["n","jeo"],"d":"un isola en la Mar Pasifica sude-este, a ueste de e governada par Txile, famosa per sua scultas grande de testas umana","i":"#","v":"Rapanui","en":"Easter Island, Rapa Nui","fr":"île de Pâques, Rapa Nui"}
+{"T":"r","L":"pasea","C":["vnt"],"d":"move usante sua pedes, en modo min rapida ca core","i":"#","da":"gå","de":"gehen (zu Fuss), spazieren","en":"walk, stroll","es":"andar, caminar, recorrer a pie, pasear","fr":"marcher, se promener, cheminer, déambuler"}
+{"L":"pasea","C":["vt"],"en":"walk, take for a walk","fr":"emmener promener, promener, se promener avec, faire chemin avec, cheminer avec, déambuler avec"}
+{"L":"pasea","C":["n"],"en":"walk","fr":"marche, promenade, cheminement, déambulation"}
+{"L":"pasea de ganso","C":["n"],"en":"goosestep","fr":"pas de l'oie"}
+{"L":"pasea en spasio","C":["n"],"i":"#","en":"spacewalk","fr":"sortie dans l'espace"}
+{"L":"pasea grande","C":["v"],"en":"stride","fr":"marcher à grand pas"}
+{"L":"pasea grandiosa","C":["v"],"en":"strut","fr":"parader, (se) pavaner, s'afficher"}
+{"L":"pasea laborosa","C":["v"],"en":"trudge, plod, trek","fr":"avoir peine à marcher, crapahuter, marcher péniblement, avancer péniblement"}
+{"L":"pasea laborosa","C":["n"],"en":"trudge, plod, trek","fr":"marche pénible, randonnée"}
+{"L":"pasea lenta","C":["v"],"en":"stroll, amble, saunter","fr":"flâner, marcher lentement, déambuler"}
+{"L":"pasea longa","C":["v"],"en":"hike, trek","fr":"faire une longue marche, faire une randonnée, faire une excursion"}
+{"L":"pasea longa","C":["n"],"en":"hike, trek","fr":"longue marche, randonnée, excursion"}
+{"L":"pasea lunal","C":["v"],"en":"moonwalk (dance)","fr":"faire un (mouvement de) moonwalk (danse)"}
+{"L":"pasea lunal","C":["n"],"en":"moonwalk (dance)","fr":"moonwalk (danse)"}
+{"L":"pasea ostentosa","C":["v"],"en":"sashay","fr":"(se) pavaner, s'exhiber, aller se montrer"}
+{"L":"modo de pasea","C":["n"],"en":"gait","fr":"démarche, façon de marcher, allure"}
+{"L":"paseacorda","C":["n"],"i":"#","en":"rope walker, tightrope walker, funambulist","fr":"funambule"}
+{"L":"paseador","C":["n"],"i":"#","en":"treadmill (wheel, exercise machine)","fr":"tapis roulant, tapis de marche, tapis de course, tapis de jogging"}
+{"L":"paseante","C":["a"],"en":"walking, peripatetic; andante (music)","fr":"marchant, se promenant; andante (musique)"}
+{"L":"paseor","C":["n"],"en":"walker, pedestrian","fr":"piéton, marcheur, randonneur"}
+{"L":"paseor nova","C":["n"],"en":"toddler","fr":"tout-petit, enfant qui commence à marcher"}
+{"L":"paseria","C":["n"],"i":"#","en":"walkway, footpath, catwalk","fr":"podium, piste, catwalk, allée, passerelle, défilé, couloir"}
+{"L":"paseria de plances","C":["n"],"i":"#","en":"boardwalk","fr":"trottoir de bois, passage en bois, passerelle, promenade en bois"}
+{"L":"paseria rolante","C":["n"],"en":"moving walkway, travelator","fr":"trottoir roulant, tapis roulant, trottoir mécanique"}
+{"L":"paseta","C":["vnt"],"en":"tiptoe, walk on one's toes","fr":"marcher sur la pointe des pieds"}
+{"L":"repasea","C":["vnt"],"en":"walk back","fr":"faire une marche de retour, retourner"}
+{"T":"r","L":"paseamania","C":["n"],"d":"la pasatempo de pasea per distantias longa, tipal tra campania o forestas","en":"hiking","fr":"randonnée"}
+{"L":"paseamanica","C":["n"],"en":"hiker","fr":"randonneur"}
+{"T":"r","L":"pasiente","C":["a","uma"],"d":"capas de tolera un retarda o sufri sin deveni coler o turbada","en":"patient, easygoing","fr":"patient, endurant"}
+{"L":"pasiente","C":["n"],"d":"un person ci reseta o es preparada per reseta trata medical; (en gramatica) la rol semantical de un formula nomin cual indica la cosa afetada par la ata de un verbo","en":"patient","fr":"patient"}
+{"L":"pasiente esterna","C":["n"],"en":"outpatient","fr":"patient non hospitalisé, patient externe"}
+{"L":"pasiente ospitalida","C":["n"],"en":"inpatient","fr":"patient hospitalisé"}
+{"L":"nonpasiente","C":["a"],"en":"impatient","fr":"impatient"}
+{"L":"nonpasientia","C":["n"],"en":"impatience","fr":"impatience"}
+{"L":"pasientia","C":["n"],"da":"tålmodighed","de":"Geduld","en":"patience","es":"paciencia","fr":"patience, endurance"}
+{"T":"r","L":"pasifica","C":["a","tera"],"d":"pertinente a la Mar Pasifica o a la paises con costas a lo","en":"Pacific","fr":"pacifique"}
+{"L":"Mar Pasifica","C":["n","jeo"],"d":"la mar la plu grande, entre America a la este e Asia e Australia a la ueste","i":"#","en":"Pacific Ocean","fr":"océan Pacifique"}
+{"L":"transpasifica","C":["a"],"en":"transpacific","fr":"transpacifique"}
+{"T":"r","L":"pasiflora","C":["n","pla"],"d":"un planta trepante de zonas calda, con flores cual misionores ia interprete como simboles de la crusi de Jesus Cristo","i":"#","t":"Passiflora","en":"passion flower","fr":"passiflore"}
+{"T":"r","L":"pasigrafia","C":["n","ling"],"d":"un sistem de scrive en cual cada simbol representa un conseta, en loca de un parola o serie de sonas, intendeda como un lingua internasional o filosofial","en":"pasigraphy (writing system)","fr":"pasigraphie (système d'écriture)"}
+{"T":"r","L":"pasion","C":["n","uma"],"d":"un emosia forte e cuasi noncontrolable; un desira sesal intensa; un zelo intensa","en":"passion","fr":"passion"}
+{"L":"nonpasionosa","C":["a"],"en":"passionless, dispassionate","fr":"dépassionné, sans passion"}
+{"L":"pasioni","C":["vt"],"en":"impassion","fr":"passionner"}
+{"L":"pasionosa","C":["a"],"en":"passionate, impassioned, torrid","fr":"passionné"}
+{"T":"r","L":"pasiva","C":["a","ling","gov"],"d":"asetante o permetente lo cual aveni o lo cual otras fa, sin resiste o responde ativa; (un verbo) indicante un ata cual es fada a sua sujeto","en":"passive","fr":"passif"}
+{"L":"pasiva","C":["n"],"en":"passive (grammar)","fr":"passif (grammaire)"}
+{"L":"pasivi","C":["vnt"],"d":"(un sustantia) deveni min afetada o corodeda par la ambiente","en":"passivate","fr":"passiver"}
+{"L":"pasivi","C":["n"],"en":"passivation","fr":"passivation"}
+{"L":"pasivia","C":["n"],"en":"passivity","fr":"passivité"}
+{"T":"r","L":"paso","C":["n"],"d":"un move de un pede ante la otra cuando on pasea o core; un ata en un serie dirijeda a un gol","en":"step, footstep, pace, tread; stage (of progress)","fr":"pas; stade, étape, niveau (progrès)"}
+{"L":"fa un mal paso","C":["v"],"en":"stumble, trip, misstep, make a mistake, make a faux pas","fr":"faire un faux pas"}
+{"L":"fa un paso","C":["v"],"en":"step, take a step, tread, pace","fr":"faire un pas"}
+{"L":"mal paso","C":["n"],"en":"misstep, faux pas","fr":"faux pas"}
+{"L":"par pasos","C":["a"],"en":"step-by-step","fr":"graduel, progressif"}
+{"L":"par pasos","C":["av"],"en":"step by step","fr":"pas à pas, (étape) par étape, petit à petit, graduellement, progressivement, de proche en proche"}
+{"L":"paseta","C":["n"],"en":"tiny step","fr":"petit pas"}
+{"L":"pason","C":["n"],"en":"stride, big step","fr":"grande enjambée"}
+{"T":"r","L":"paspie","C":["n","mus"],"d":"un dansa simil a un minueto rapida, popular en la sentenios 17 e 18","en":"passepied (dance)","fr":"passe-pied (musique, danse)"}
 {"T":"r","L":"pasta","C":["n","cos","util"],"d":"un materia densa, mol e umida, tipal produida par misca ingredientes seca con un licuida; un tal materia usada per produi pan, tortas, talietas, etc","i":"#","da":"pasta (tykt flydende materiale); pasta, nudler","de":"Brei, Teig; Nudeln","en":"paste; dough, pasta","es":"espagueti, tallarín, fideo, pasta; engrudo, pasta adhesiva","fr":"pâte; pâtes"}
-{"L":"pasta aplicable","C":["n"],"en":"spread, paste, pâté"}
-{"L":"pasta arenin","C":["n"],"en":"shortcrust pastry"}
-{"L":"pasta de dentes","C":["n"],"i":"#","en":"toothpaste"}
-{"L":"pasta de frita","C":["n"],"en":"batter"}
-{"L":"pasta de modeli","C":["n"],"en":"plasticine, modeling|ll clay"}
-{"L":"pasta de torta","C":["n"],"en":"cake mix, cake batter"}
-{"L":"pasta dulse","C":["n"],"en":"pastry"}
-{"L":"pasta folin","C":["n"],"en":"filo pastry, thin pastry"}
-{"T":"r","L":"pastel","C":["a","col"],"d":"con un tinje de color delicata","en":"pastel"}
-{"L":"pastel","C":["n"],"en":"pastel"}
-{"L":"pastel de sira","C":["n"],"en":"crayon"}
-{"T":"r","L":"pasteuri","C":["vt","med","cos"],"d":"caldi (lete, vino, etc), o sterili lo en otra modo, per redui la cuantia de baterias","en":"pasteurize|is"}
-{"L":"pasteuri","C":["n"],"en":"pasteurization|is"}
-{"L":"nonpasteurida","C":["a"],"en":"unpasteurized|is"}
-{"L":"pasteurida","C":["a"],"en":"pasteurized|is"}
-{"T":"r","L":"pastinaca","C":["n","pla","cos"],"d":"un radis vejetal cual es crema, longa e diminuinte, con sabor dulse; la planta cual produi esta","i":"#","t":"Pastinaca sativa","en":"parsnip"}
-{"T":"r","L":"pastix","C":["n","arte","mus"],"d":"un obra de arte o musica cual imita un otra obra, artiste o periodo; un obra cual es composada de pesos prendeda de fontes diversa","en":"pastiche, pasticcio; mashup"}
-{"T":"r","L":"pasto","C":["n","tera"],"d":"un area de tera covreda con erbas e otra plantas corta per nuri animales como boves, oveas, etc","i":"#","en":"pasture, pasturage"}
-{"L":"come a pasto","C":["v"],"en":"graze"}
-{"L":"pastor","C":["n"],"en":"herder, herdsman, herdswoman, shepherd, shepherdess; pastor"}
-{"L":"Pastor","C":["n","ast"],"en":"Boötes (constellation)"}
-{"L":"pastoral","C":["a"],"en":"pastoral, rural"}
-{"L":"pastoral","C":["n","arte","mus"],"en":"pastoral (art)"}
-{"L":"pastoria","C":["n"],"en":"pastoralism, herding"}
-{"L":"usa tro multe la pasto","C":["v"],"en":"overgraze"}
-{"T":"r","L":"pastrami","C":["n","cos"],"d":"carne de bove fumida, forte spisida e tipal magra taliada","i":"#","en":"pastrami (food)"}
-{"T":"r","L":"Patagonia","C":["n","jeo"],"d":"un plano grande e seca, estendente de la rio de Colorado en Arjentina sentral a la Streta Magallanes e de la Andes a la costa atlantica","i":"#","en":"Patagonia"}
+{"L":"pasta aplicable","C":["n"],"en":"spread, paste, pâté","fr":"pâte, pommade"}
+{"L":"pasta arenin","C":["n"],"en":"shortcrust pastry","fr":"pâte brisée, pâte sablée"}
+{"L":"pasta de dentes","C":["n"],"i":"#","en":"toothpaste","fr":"(pâte) dentifrice"}
+{"L":"pasta de frita","C":["n"],"en":"batter","fr":"pâte à frire"}
+{"L":"pasta de modeli","C":["n"],"en":"plasticine, modeling|ll clay","fr":"pâte à modeler"}
+{"L":"pasta de torta","C":["n"],"en":"cake mix, cake batter","fr":"préparation pour gâteau, pâte à gâteau, pâte à cake"}
+{"L":"pasta dulse","C":["n"],"en":"pastry","fr":"pâtisserie"}
+{"L":"pasta folin","C":["n"],"en":"filo pastry, thin pastry","fr":"pâte feuilletée"}
+{"T":"r","L":"pastel","C":["a","col"],"d":"con un tinje de color delicata","en":"pastel","fr":"pastel"}
+{"L":"pastel","C":["n"],"en":"pastel","fr":"pastel"}
+{"L":"pastel de sira","C":["n"],"en":"crayon","fr":"pastel"}
+{"T":"r","L":"pasteuri","C":["vt","med","cos"],"d":"caldi (lete, vino, etc), o sterili lo en otra modo, per redui la cuantia de baterias","en":"pasteurize|is","fr":"pasteuriser"}
+{"L":"pasteuri","C":["n"],"en":"pasteurization|is","fr":"pasteurisation"}
+{"L":"nonpasteurida","C":["a"],"en":"unpasteurized|is","fr":"non pasteurisé, cru"}
+{"L":"pasteurida","C":["a"],"en":"pasteurized|is","fr":"pasteurisé"}
+{"T":"r","L":"pastinaca","C":["n","pla","cos"],"d":"un radis vejetal cual es crema, longa e diminuinte, con sabor dulse; la planta cual produi esta","i":"#","t":"Pastinaca sativa","en":"parsnip","fr":"panais"}
+{"T":"r","L":"pastix","C":["n","arte","mus"],"d":"un obra de arte o musica cual imita un otra obra, artiste o periodo; un obra cual es composada de pesos prendeda de fontes diversa","en":"pastiche, pasticcio; mashup","fr":"pastiche, mélange, pot-pourri"}
+{"T":"r","L":"pasto","C":["n","tera"],"d":"un area de tera covreda con erbas e otra plantas corta per nuri animales como boves, oveas, etc","i":"#","en":"pasture, pasturage","fr":"pâturage"}
+{"L":"come a pasto","C":["v"],"en":"graze","fr":"paître, pâturer"}
+{"L":"pastor","C":["n"],"en":"herder, herdsman, herdswoman, shepherd, shepherdess; pastor","fr":"berger, pâtre"}
+{"L":"Pastor","C":["n","ast"],"en":"Boötes (constellation)","fr":"Bouvier (constellation)"}
+{"L":"pastoral","C":["a"],"en":"pastoral, rural","fr":"pastoral"}
+{"L":"pastoral","C":["n","arte","mus"],"en":"pastoral (art)","fr":"pastorale (art)"}
+{"L":"pastoria","C":["n"],"en":"pastoralism, herding","fr":"pastoralisme, pacage"}
+{"L":"usa tro multe la pasto","C":["v"],"en":"overgraze","fr":"surpâturer"}
+{"T":"r","L":"pastrami","C":["n","cos"],"d":"carne de bove fumida, forte spisida e tipal magra taliada","i":"#","en":"pastrami (food)","fr":"pastrami (cuisine)"}
+{"T":"r","L":"Patagonia","C":["n","jeo"],"d":"un plano grande e seca, estendente de la rio de Colorado en Arjentina sentral a la Streta Magallanes e de la Andes a la costa atlantica","i":"#","en":"Patagonia","fr":"Patagonie"}
 {"T":"r","L":"patata","C":["n","pla","cos"],"d":"un tuber amidonosa cual es un de la cultivadas la plu importante, coceda e comeda como un vejetal; la planta cual produi esta","i":"#","t":"Solanum tuberosum","da":"kartoffel","de":"Kartoffel","en":"potato","es":"patata, papa","fr":"pomme de terre"}
-{"L":"patata dulse","C":["n","pla","cos"],"i":"#","t":"Ipomoea batatas","en":"sweet potato"}
-{"L":"patata fornida","C":["n"],"en":"baked potato, jacket potato"}
+{"L":"patata dulse","C":["n","pla","cos"],"i":"#","t":"Ipomoea batatas","en":"sweet potato","fr":"patate douce"}
+{"L":"patata fornida","C":["n"],"en":"baked potato, jacket potato","fr":"pommes de terre au four"}
 {"L":"patatas fritada","C":["n","pl"],"en":"French fries, fries, chips (UK)","fr":"frites"}
 {"T":"r","L":"pate","C":["n","cos"],"d":"un pasta rica e saborosa, preparada de ingredientes axida a picos o maxada, comun carne o pex spisida","en":"pâté","fr":"pâté"}
 {"T":"r","L":"patenta","C":["vt","gov"],"d":"oteni de un autoria governal un lisensa, direto o titulo per (un inventada) per un periodo, tipal la direto per fa, usa o vende la inventada","en":"patent"}
