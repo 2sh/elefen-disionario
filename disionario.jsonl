@@ -19758,80 +19758,80 @@
 {"L":"patata fornida","C":["n"],"en":"baked potato, jacket potato","fr":"pommes de terre au four"}
 {"L":"patatas fritada","C":["n","pl"],"en":"French fries, fries, chips (UK)","fr":"frites"}
 {"T":"r","L":"pate","C":["n","cos"],"d":"un pasta rica e saborosa, preparada de ingredientes axida a picos o maxada, comun carne o pex spisida","en":"pâté","fr":"pâté"}
-{"T":"r","L":"patenta","C":["vt","gov"],"d":"oteni de un autoria governal un lisensa, direto o titulo per (un inventada) per un periodo, tipal la direto per fa, usa o vende la inventada","en":"patent"}
-{"L":"patenta","C":["n"],"en":"patent"}
-{"T":"r","L":"paternalisme","C":["n","gov"],"d":"la politica de restrinje la libria e obligas de sua suordinadas o dependentes per benefica los","en":"paternalism (philosophy)"}
-{"L":"paternaliste","C":["a"],"en":"paternalistic"}
-{"T":"r","L":"-patia","C":["sf","n","med"],"d":"dole o otra state medical","en":"-pathy (illness)"}
-{"L":"-patica","C":["sf","a","med"],"en":"-pathic, -pathetic"}
-{"T":"r","L":"patin","C":["n","spo"],"d":"un bota con lamina a la fondo, usada per move sur jelo; un bota o aparato con cuatro o plu rotas peti, usada per move sur un surfas dur","i":"#","en":"skate"}
-{"L":"patin de rotas","C":["n"],"i":"#","en":"rollerskate"}
-{"L":"patineria","C":["n"],"en":"ice rink"}
+{"T":"r","L":"patenta","C":["vt","gov"],"d":"oteni de un autoria governal un lisensa, direto o titulo per (un inventada) per un periodo, tipal la direto per fa, usa o vende la inventada","en":"patent","fr":"obtenir le permis de, obtenir l'autorisation de, obtenir une licence pour, obtenir un brevet pour, faire breveter"}
+{"L":"patenta","C":["n"],"en":"patent","fr":"permis, autorisation, licence, brevet"}
+{"T":"r","L":"paternalisme","C":["n","gov"],"d":"la politica de restrinje la libria e obligas de sua suordinadas o dependentes per benefica los","en":"paternalism (philosophy)","fr":"paternalisme"}
+{"L":"paternaliste","C":["a"],"en":"paternalistic","fr":"paternaliste"}
+{"T":"r","L":"-patia","C":["sf","n","med"],"d":"dole o otra state medical","en":"-pathy (illness)","fr":"-pathie"}
+{"L":"-patica","C":["sf","a","med"],"en":"-pathic, -pathetic","fr":"-pathe, -pathique"}
+{"T":"r","L":"patin","C":["n","spo"],"d":"un bota con lamina a la fondo, usada per move sur jelo; un bota o aparato con cuatro o plu rotas peti, usada per move sur un surfas dur","i":"#","en":"skate","fr":"patin (à roulettes, à glace), roller"}
+{"L":"patin de rotas","C":["n"],"i":"#","en":"rollerskate","fr":"patin à roulettes, roller"}
+{"L":"patineria","C":["n"],"en":"ice rink","fr":"patinoire"}
 {"L":"patineta","C":["n"],"i":"#","en":"scooter, kick scooter, push scooter","fr":"trottinette"}
-{"L":"patinetor","C":["n"],"en":"scooter user"}
-{"L":"patini","C":["vt"],"en":"skate; skid"}
-{"L":"patinor","C":["n"],"en":"skater"}
-{"T":"r","L":"patina","C":["n","cim"],"d":"un peleta verde o brun a la surfas de bronze o otra metal","en":"patina (sheen)"}
-{"T":"r","L":"patio","C":["n","arci"],"d":"un area, tipal paveda, estra o ensircada par un casa, serca o otra construida","i":"#","en":"courtyard, (enclosed) yard"}
-{"L":"patio de cultiveria","C":["n"],"en":"barnyard, farmyard"}
-{"L":"patio de enfantes","C":["n"],"en":"playground, play area"}
-{"T":"r","L":"pato","C":["n","avia"],"d":"un avia de acua con beco larga, gamas corta e pedes membranosa","i":"#","t":"Anatidae","en":"duck"}
-{"L":"pato real","C":["n","avia"],"i":"#","en":"mallard"}
-{"L":"pateta","C":["n","avia"],"en":"duckling"}
-{"L":"pati","C":["vnt"],"en":"waddle; toddle (young child)"}
-{"T":"r","L":"pato-","C":["pf","tecn"],"d":"maladia","en":"patho- (illness)"}
-{"T":"r","L":"patojen","C":["a","med"],"d":"(un bateria, virus o otra microbio) capas de causa un maladia","en":"pathogenic"}
-{"L":"patojen","C":["n"],"en":"pathogen, germ"}
-{"L":"nonpatojen","C":["a"],"en":"non-pathogenic"}
-{"T":"r","L":"patojenese","C":["n","med"],"d":"la modo en cual un maladia developa","en":"pathogenesis"}
-{"L":"patojenesal","C":["a"],"en":"pathogenetic"}
-{"T":"r","L":"patolojia","C":["n","med"],"d":"la siensa de la causas e efetos de maladia","en":"pathology"}
-{"L":"patolojial","C":["a"],"en":"pathological"}
-{"L":"patolojiste","C":["n"],"en":"pathologist"}
-{"T":"r","L":"patriarca","C":["n","uma"],"d":"la om xef de un familia o tribu","en":"patriarch"}
-{"L":"patriarcia","C":["n"],"en":"patriarchy"}
-{"L":"patriarcial","C":["a"],"en":"patriarchal"}
-{"T":"r","L":"patrilinia","C":["n"],"d":"un linia de familia cual segue la padres","en":"patrilineage"}
-{"L":"patrilinial","C":["a"],"en":"patrilineal"}
-{"T":"r","L":"patrilocal","C":["a","uma"],"d":"(un sposia) en cual la sposes abita con la familia de la sposo","en":"patrilocal"}
-{"T":"r","L":"patriota","C":["a","gov"],"d":"avente o espresante un dedica a e suporta forte per sua pais o nasion","en":"patriotic"}
-{"L":"patriota","C":["n"],"en":"patriot"}
-{"L":"nonpatriota","C":["a"],"en":"unpatriotic"}
-{"L":"patriotisme","C":["n"],"en":"patriotism"}
-{"T":"r","L":"patrisio","C":["a","ist"],"d":"(en Roma antica) parteninte a la familias composante la popla roman ante la developa de la clase de comunores, o (plu tarda) a la clase alta de sitadanes roman con direto de membria en la Senato","en":"patrician"}
-{"L":"patrisio","C":["n"],"en":"patrician"}
-{"T":"r","L":"patron","C":["n","util"],"d":"un peso formida de metal, lenio, plastica, carta, paper o otra materia, usada per gida la crea de formas cuando on pinti, talia, fora, etc","en":"pattern, template (for cutting or drawing round, etc)"}
-{"T":"r","L":"patrulia","C":["vt","gov"],"d":"garda o atende (un area) par pasea o viaja sirca o tra lo","en":"patrol"}
-{"L":"patrulia","C":["n"],"en":"patrol"}
-{"L":"patrulia furtiva","C":["vt"],"en":"prowl"}
-{"L":"patrulior","C":["n"],"en":"patroller, patrolman"}
-{"L":"patrulior estralegal","C":["n"],"en":"vigilante"}
-{"T":"r","L":"patxinco","C":["n","spo"],"d":"un forma nion de la jua pinbal","i":"#","en":"pachinko (pinball)"}
-{"T":"r","L":"patxisi","C":["n","spo"],"d":"un jua barati de table per cuatro persones, en cual peones move sirca un curso con forma de crus, seguente lansas de dados o concas de cauri","i":"#","en":"pachisi, parcheesi, ludo (game)"}
-{"T":"r","L":"paund","C":["n","mone"],"d":"la unia de mone en la Rena Unida","en":"pound (currency), sterling"}
-{"T":"r","L":"pausa","C":["vnt"],"d":"(un ata o parla) sesa tempora","da":"holde pause, standse","en":"pause, adjourn; wait; stop (overnight or before resuming)"}
-{"L":"pausa","C":["vt"],"en":"pause, adjourn; wait; stop (overnight or before resuming)"}
-{"L":"pausa","C":["n"],"en":"pause, hiatus, break (from activity), adjournment, abeyance, stop-off, stopover, intermission, letup; wait, standby"}
-{"L":"loca de pausa","C":["n"],"en":"stop, stopping place (along a journey)"}
-{"L":"nonpausante","C":["a"],"en":"unpausing, non-stop"}
-{"L":"pausada","C":["a"],"en":"paused, adjourned, in abeyance"}
-{"L":"sin pausa","C":["a"],"en":"without pause, continual, incessant, non-stop"}
-{"T":"r","L":"pavana","C":["n","mus"],"d":"un dansa lenta e diniosa de la sentenios 16 e 17; un musica per esta","en":"pavane (dance, music)"}
-{"T":"r","L":"pave","C":["vt","arci"],"d":"covre (un area) con beton, asfalto, petras o brices","en":"pave"}
-{"L":"pave","C":["n"],"en":"paving (slabs, asphalt, cobbles)"}
-{"L":"nonpaveda","C":["a"],"en":"unpaved"}
-{"L":"paveda","C":["a"],"en":"paved"}
-{"L":"repave","C":["vt"],"en":"repave"}
-{"T":"r","L":"pavilion","C":["n","arci"],"d":"un construi tipal peti, per un usa spesial como consertas o presentas teatral, tipal locada en un jardin o parce; un tenda grande per un aveni spesial","i":"#","en":"pavilion"}
-{"T":"r","L":"pavlova","C":["n","cos"],"d":"un deser composada de un funda o casca de merenge, plenida con crema bateda e frutas, nomida per Anna Pavlova, un dansor rusce","i":"#","en":"pavlova (dessert)"}
+{"L":"patinetor","C":["n"],"en":"scooter user","fr":"utilisateur de trottinette"}
+{"L":"patini","C":["vnt"],"en":"skate; skid","fr":"patiner, faire du patin, faire de la glisse"}
+{"L":"patinor","C":["n"],"en":"skater","fr":"patineur"}
+{"T":"r","L":"patina","C":["n","cim"],"d":"un peleta verde o brun a la surfas de bronze o otra metal","en":"patina (sheen)","fr":"patine, lustre"}
+{"T":"r","L":"patio","C":["n","arci"],"d":"un area, tipal paveda, estra o ensircada par un casa, serca o otra construida","i":"#","en":"courtyard, (enclosed) yard","fr":"cour, cour intérieure, patio, parvis"}
+{"L":"patio de cultiveria","C":["n"],"en":"barnyard, farmyard","fr":"cour de ferme"}
+{"L":"patio de enfantes","C":["n"],"en":"playground, play area","fr":"cour de récréation, aire de jeux, terrain de jeux"}
+{"T":"r","L":"pato","C":["n","avia"],"d":"un avia de acua con beco larga, gamas corta e pedes membranosa","i":"#","t":"Anatidae","en":"duck","fr":"canard"}
+{"L":"pato real","C":["n","avia"],"i":"#","en":"mallard","fr":"(canard) colvert"}
+{"L":"pateta","C":["n","avia"],"en":"duckling","fr":"caneton"}
+{"L":"pati","C":["vnt"],"en":"waddle; toddle (young child)","fr":"se dandiner"}
+{"T":"r","L":"pato-","C":["pf","tecn"],"d":"maladia","en":"patho- (illness)","fr":"patho-"}
+{"T":"r","L":"patojen","C":["a","med"],"d":"(un bateria, virus o otra microbio) capas de causa un maladia","en":"pathogenic","fr":"pathogène"}
+{"L":"patojen","C":["n"],"en":"pathogen, germ","fr":"pathogène"}
+{"L":"nonpatojen","C":["a"],"en":"non-pathogenic","fr":"non pathogène"}
+{"T":"r","L":"patojenese","C":["n","med"],"d":"la modo en cual un maladia developa","en":"pathogenesis","fr":"pathogenèse, pathogénie"}
+{"L":"patojenesal","C":["a"],"en":"pathogenetic","fr":"pathogénétique, pathogénique"}
+{"T":"r","L":"patolojia","C":["n","med"],"d":"la siensa de la causas e efetos de maladia","en":"pathology","fr":"pathologie"}
+{"L":"patolojial","C":["a"],"en":"pathological","fr":"pathologique"}
+{"L":"patolojiste","C":["n"],"en":"pathologist","fr":"pathologiste"}
+{"T":"r","L":"patriarca","C":["n","uma"],"d":"la om xef de un familia o tribu","en":"patriarch","fr":"patriarche"}
+{"L":"patriarcia","C":["n"],"en":"patriarchy","fr":"patriarchie"}
+{"L":"patriarcial","C":["a"],"en":"patriarchal","fr":"patriarcal"}
+{"T":"r","L":"patrilinia","C":["n"],"d":"un linia de familia cual segue la padres","en":"patrilineage","fr":"patrilinéarité"}
+{"L":"patrilinial","C":["a"],"en":"patrilineal","fr":"patrilinéaire"}
+{"T":"r","L":"patrilocal","C":["a","uma"],"d":"(un sposia) en cual la sposes abita con la familia de la sposo","en":"patrilocal","fr":"patrilocal"}
+{"T":"r","L":"patriota","C":["a","gov"],"d":"avente o espresante un dedica a e suporta forte per sua pais o nasion","en":"patriotic","fr":"patriote, patriotique"}
+{"L":"patriota","C":["n"],"en":"patriot","fr":"patriote"}
+{"L":"nonpatriota","C":["a"],"en":"unpatriotic","fr":"non patriote, non patriotique"}
+{"L":"patriotisme","C":["n"],"en":"patriotism","fr":"patriotisme"}
+{"T":"r","L":"patrisio","C":["a","ist"],"d":"(en Roma antica) parteninte a la familias composante la popla roman ante la developa de la clase de comunores, o (plu tarda) a la clase alta de sitadanes roman con direto de membria en la Senato","en":"patrician","fr":"patricien"}
+{"L":"patrisio","C":["n"],"en":"patrician","fr":"patricien"}
+{"T":"r","L":"patron","C":["n","util"],"d":"un peso formida de metal, lenio, plastica, carta, paper o otra materia, usada per gida la crea de formas cuando on pinti, talia, fora, etc","en":"pattern, template (for cutting or drawing round, etc)","fr":"patron"}
+{"T":"r","L":"patrulia","C":["vt","gov"],"d":"garda o atende (un area) par pasea o viaja sirca o tra lo","en":"patrol","fr":"patrouiller"}
+{"L":"patrulia","C":["n"],"en":"patrol","fr":"patrouille"}
+{"L":"patrulia furtiva","C":["vt"],"en":"prowl","fr":"rôder"}
+{"L":"patrulior","C":["n"],"en":"patroller, patrolman","fr":"patrouilleur"}
+{"L":"patrulior estralegal","C":["n"],"en":"vigilante","fr":"patrouille civile, milice"}
+{"T":"r","L":"patxinco","C":["n","spo"],"d":"un forma nion de la jua pinbal","i":"#","en":"pachinko (pinball)","fr":"pachinko (sorte de flipper)"}
+{"T":"r","L":"patxisi","C":["n","spo"],"d":"un jua barati de table per cuatro persones, en cual peones move sirca un curso con forma de crus, seguente lansas de dados o concas de cauri","i":"#","en":"pachisi, parcheesi, ludo (game)","fr":"pachisi (jeu indien)"}
+{"T":"r","L":"paund","C":["n","mone"],"d":"la unia de mone en la Rena Unida","en":"pound (currency), sterling","fr":"livre sterling (monnaie)"}
+{"T":"r","L":"pausa","C":["vnt"],"d":"(un ata o parla) sesa tempora","da":"holde pause, standse","en":"pause, adjourn; wait; stop (overnight or before resuming)","fr":"s'arrêter, faire une pause, s'interrompre, attendre, faire un arrêt, se mettre en veille"}
+{"L":"pausa","C":["vt"],"en":"pause, adjourn; wait; stop (overnight or before resuming)","fr":"arrêter, mettre en pause, suspendre, interrompre, stopper, mettre en veille"}
+{"L":"pausa","C":["n"],"en":"pause, hiatus, break (from activity), adjournment, abeyance, stop-off, stopover, intermission, letup; wait, standby","fr":"pause, interruption, mise en attente, veille"}
+{"L":"loca de pausa","C":["n"],"en":"stop, stopping place (along a journey)","fr":"arrêt, étape (d'un voyage)"}
+{"L":"nonpausante","C":["a"],"en":"unpausing, non-stop","fr":"continu, en continu, ininterrompu, incessant, sans arrêt"}
+{"L":"pausada","C":["a"],"en":"paused, adjourned, in abeyance","fr":"interrompu, en pause, stoppé"}
+{"L":"sin pausa","C":["a"],"en":"without pause, continual, incessant, non-stop","fr":"sans pause, continu, incessant, ininterrompu, non-stop"}
+{"T":"r","L":"pavana","C":["n","mus"],"d":"un dansa lenta e diniosa de la sentenios 16 e 17; un musica per esta","en":"pavane (dance, music)","fr":"pavane (musique, danse)"}
+{"T":"r","L":"pave","C":["vt","arci"],"d":"covre (un area) con beton, asfalto, petras o brices","en":"pave","fr":"paver, goudronner, bitumer, asphalter, bétonner"}
+{"L":"pave","C":["n"],"en":"paving (slabs, asphalt, cobbles)","fr":"pavage, dallage, bitumage, asphaltage, pavement, bétonnage"}
+{"L":"nonpaveda","C":["a"],"en":"unpaved","fr":"non pavé, non goudronné"}
+{"L":"paveda","C":["a"],"en":"paved","fr":"pavé, goudronné"}
+{"L":"repave","C":["vt"],"en":"repave","fr":"repaver, regoudronné"}
+{"T":"r","L":"pavilion","C":["n","arci"],"d":"un construi tipal peti, per un usa spesial como consertas o presentas teatral, tipal locada en un jardin o parce; un tenda grande per un aveni spesial","i":"#","en":"pavilion","fr":"kiosque à musique, chapiteau"}
+{"T":"r","L":"pavlova","C":["n","cos"],"d":"un deser composada de un funda o casca de merenge, plenida con crema bateda e frutas, nomida per Anna Pavlova, un dansor rusce","i":"#","en":"pavlova (dessert)","fr":"pavlova (dessert)"}
 {"T":"r","L":"pavo","C":["n","avia"],"d":"un avia grande, tipal domada, de America Norde, con testa calva, valuada como un comeda, spesial per natal e la festa de grasia","i":"#","t":"Meleagris gallopavo","da":"kalkun","de":"Truthahn","en":"turkey","es":"pavo, guajolote","fr":"dindon, dinde"}
-{"L":"pavon","C":["n","ani","avia"],"d":"un avia grande, de cual la plumas de taie mas es longa e briliante tinjeda","i":"#","t":"Pavo, Pavo cristatus","en":"peafowl, peacock, peahen"}
-{"L":"Pavon","C":["n","ast"],"en":"Pavo (constellation)"}
-{"T":"r","L":"paxtu","C":["a","dem"],"d":"pertinente a la popla de Afganistan e rejiones norde de Pacistan, o a sua lingua","en":"Pashtun (person); Pashto (language)"}
-{"L":"paxtu","C":["n"],"en":"Pashtun (person); Pashto (language)"}
-{"T":"r","L":"pc","C":["c"],"d":"personal computador","en":"PC"}
-{"L":"pc de table","C":["n"],"en":"desktop PC"}
-{"T":"r","L":"pd","C":["c"],"d":"per dise","en":"i.e., that is to say, namely"}
+{"L":"pavon","C":["n","ani","avia"],"d":"un avia grande, de cual la plumas de taie mas es longa e briliante tinjeda","i":"#","t":"Pavo, Pavo cristatus","en":"peafowl, peacock, peahen","fr":"paon"}
+{"L":"Pavon","C":["n","ast"],"en":"Pavo (constellation)","fr":"Paon (constellation)"}
+{"T":"r","L":"paxtu","C":["a","dem"],"d":"pertinente a la popla de Afganistan e rejiones norde de Pacistan, o a sua lingua","en":"Pashtun (person); Pashto (language)","fr":"pachtoune (personne); pachto (langue)"}
+{"L":"paxtu","C":["n"],"en":"Pashtun (person); Pashto (language)","fr":"Pachtoune (personne); pachto (langue)"}
+{"T":"r","L":"pc","C":["c"],"d":"personal computador","en":"PC","fr":"PC (ordinateur personnel)"}
+{"L":"pc de table","C":["n"],"en":"desktop PC","fr":"ordinateur de bureau"}
+{"T":"r","L":"pd","C":["c"],"d":"per dise","en":"i.e., that is to say, namely","fr":"c'est-à-dire, autrement dit, à savoir, en d'autres termes, entendez, je veux dire, soit"}
 {"T":"r","L":"pe","C":["c"],"d":"per esemplo","en":"e.g., for example"}
 {"T":"r","L":"peaje","C":["n","mone"],"d":"un paia per usa un via o ponte","en":"toll (payment)"}
 {"L":"peajeria","C":["n"],"en":"toll plaza, toll station, tollbooth"}
@@ -21056,9 +21056,9 @@
 {"L":"nonporosa","C":["a"],"en":"non-porous"}
 {"L":"porosa","C":["a"],"en":"porous"}
 {"T":"r","L":"porco","C":["n","mam","cos"],"d":"un mamal omnivor con capelones e un beco plata per escava en la tera, domada e elevada per sua carne","i":"#","t":"Sus","da":"gris, svin","de":"Schwein","en":"pig, hog, swine; (insult) slob","eo":"porko","es":"cerdo, puerco, cochino, marrano, chancho","fr":"porc, cochon","it":"maiale","nl":"varken, zwijn","pt":"porco, leitão"}
-{"L":"porco fema","C":["n"],"en":"sow"}
-{"L":"porco mas","C":["n"],"en":"hog, boar"}
-{"L":"porco savaje","C":["n"],"en":"wild pig, razorback"}
+{"L":"porco fema","C":["n"],"en":"female pig, sow"}
+{"L":"porco mas","C":["n"],"en":"male pig, boar"}
+{"L":"porco savaje","C":["n"],"t":"Sus scrofa","en":"boar, wild pig, feral pig, razorback"}
 {"L":"porceria","C":["n"],"en":"pig sty, pigpen"}
 {"L":"porceta","C":["n"],"en":"piglet; piggy bank"}
 {"L":"porcin","C":["a"],"en":"piglike, porcine"}
@@ -23301,6 +23301,7 @@
 {"T":"r","L":"ruta","C":["n","pla"],"d":"un arboreta perene e sempreverde con folias lobosa, amarga e odorosa cual on usa en medica erbal","t":"Ruta","en":"rue"}
 {"T":"r","L":"rutenio","C":["n","cim"],"d":"la elemento cimical con numero atomal 44","s":"Ru","en":"ruthenium (element)"}
 {"T":"r","L":"ruterfordio","C":["n","cim"],"d":"la elemento cimical con numero atomal 104, radioativa e nonstable","s":"Rf","en":"rutherfordium (element)"}
+{"T":"r","L":"rutilo","C":["n","pex"],"d":"un pex de la familia _Cyprinidae_, trovada en la acua dulse e marin de Europa e Asia ueste","t":"Rutilus rutilus","en":"common roach"}
 {"T":"r","L":"s","C":["sim"],"d":"la letera 19 de la alfabeta roman","p":"es","en":"s","es":"s"}
 {"L":"con forma de S","C":["a"],"en":"S-shaped","es":"con forma de ese"}
 {"T":"r","L":"s","C":["c"],"d":"sirca","en":"c., approx.","eo":"ĉ., ĉirkaŭ","es":"aprox."}
