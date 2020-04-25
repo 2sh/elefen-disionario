@@ -7523,7 +7523,7 @@
 {"L":"descura","C":["vt"],"en":"neglect","fr":"négliger","he":"להזניח"}
 {"L":"descura","C":["n"],"da":"ligegyldighed, forsømmelse","de":"Vernachlässigung","en":"negligence, apathy, dereliction","es":"negligencia, apatía, descuido, abandono, indiferencia, indolencia","fr":"négligence, incurie","he":"הזנחה, הפקרה, רשלנות"}
 {"L":"descurada","C":["a"],"en":"neglected, overgrown, derelict","fr":"négligé, abandonné, oublié, délaissé","he":"מוזנח, מופקר"}
-{"L":"descurante","C":["a"],"en":"negligent, neglectful, derelict","fr":"négligent, inappliqué, inattentif","he":"רשלני"}
+{"L":"descurante","C":["a"],"en":"negligent, neglectful, irresponsible, derelict","fr":"négligent, inappliqué, inattentif","he":"רשלני"}
 {"L":"me no cura","C":["esc"],"en":"I don't care (disinterest)","fr":"Je m'en fiche, Peu me chaut, Peu m'importe","he":"לא אכפת לי"}
 {"L":"noncurante","C":["a"],"en":"uncaring, indifferent, blasé","fr":"indifférent, blasé, désabusé, détaché","he":"לא-אכפתי, אדיש"}
 {"L":"noncurantia","C":["n"],"en":"indifference","fr":"indifférence, détachement","he":"אי-אכפתיות, אדישות"}
@@ -9109,6 +9109,7 @@
 {"L":"efeto de Doppler","C":["n"],"d":"un cambia en frecuentia de sona, lus o otra ondas cuando la fonte e la oservor move a via de lunlotra","en":"Doppler effect","fr":"effet Doppler","he":"אפקט דופלר"}
 {"L":"efeto de moda","C":["n"],"en":"bandwagon effect","fr":"effet de mode","he":"אפקט העדר"}
 {"L":"efeto invernerial","C":["n"],"en":"greenhouse effect","fr":"effet de serre","he":"אפקט החממה"}
+{"L":"efeto ladal","C":["n"],"en":"side effect, repercussion"}
 {"L":"efeto spesial","C":["n"],"en":"special effect","fr":"effet spécial, effets spéciaux","he":"אפקט מיוחד"}
 {"L":"efetosa","C":["a"],"d":"causante un efeto major o multe efetos","v":"eficas","en":"effective, to great effect (intentionally or otherwise)","fr":"efficace, efficient, performant","he":"מרשים, אימפקטי, בעל אפקט משמעותי"}
 {"L":"efetosia","C":["n"],"en":"effectiveness","fr":"efficacité, efficience","he":"היכולת ליצור אפקט משמעותי"}
@@ -12227,7 +12228,7 @@
 {"L":"genoves","C":["n","dem"],"en":"Genoese","fr":"Génois (personne); génois (langue)"}
 {"T":"r","L":"Georgia","C":["n","jeo"],"d":"un stato en la SUA sude-este","p":"djordja","en":"Georgia (US state)","fr":"Georgie (État des USA)"}
 {"T":"r","L":"gepardo","C":["n","mam"],"d":"un gato grande, manxada, e multe rapida de Africa e partes de Asia","i":"#","t":"Acinonyx jubatus","en":"cheetah","fr":"guépard"}
-{"T":"r","L":"gera","C":["vnt","gov"],"d":"partisipa en un disputa con armas entre nasiones, statos o grupos diferente","en":"war, make war, wage war","fr":"faire la guerre"}
+{"T":"r","L":"gera","C":["vnt","gov"],"d":"partisipa en un disputa con armas entre nasiones, statos o grupos diferente","en":"war, make war, wage war, fight a war","fr":"faire la guerre"}
 {"L":"gera","C":["n"],"da":"krig","de":"Krieg","en":"war, warfare","es":"guerra","fr":"guerre"}
 {"L":"gera biolojial","C":["n"],"en":"biological warfare","fr":"guerre bactériologique"}
 {"L":"gera cimical","C":["n"],"en":"chemical warfare","fr":"guerre chimique"}
@@ -19832,89 +19833,89 @@
 {"T":"r","L":"pc","C":["c"],"d":"personal computador","en":"PC","fr":"PC (ordinateur personnel)"}
 {"L":"pc de table","C":["n"],"en":"desktop PC","fr":"ordinateur de bureau"}
 {"T":"r","L":"pd","C":["c"],"d":"per dise","en":"i.e., that is to say, namely","fr":"c'est-à-dire, autrement dit, à savoir, en d'autres termes, entendez, je veux dire, soit"}
-{"T":"r","L":"pe","C":["c"],"d":"per esemplo","en":"e.g., for example"}
-{"T":"r","L":"peaje","C":["n","mone"],"d":"un paia per usa un via o ponte","en":"toll (payment)"}
-{"L":"peajeria","C":["n"],"en":"toll plaza, toll station, tollbooth"}
-{"T":"r","L":"peca","C":["vnt","rel"],"d":"un ata regardada como un fali, ofende o omete seria, o un viole de lege divin","en":"sin"}
-{"L":"peca","C":["n"],"en":"sin, infraction"}
-{"L":"peceta","C":["vnt"],"en":"commit a misdemeanor|ur"}
-{"L":"peceta","C":["n"],"en":"peccadillo, misdemeanor|ur, minor infraction, indiscretion"}
-{"L":"pecor","C":["n"],"en":"sinner"}
-{"L":"pecosa","C":["a"],"en":"sinful"}
-{"L":"pecosia","C":["n"],"en":"sinfulness"}
-{"T":"r","L":"pecan","C":["n","pla","cos"],"d":"un noza lisa e brun con cor comable; un arbor cual produi esta","i":"#","t":"Carya","en":"pecan, hickory (tree, nut)"}
-{"T":"r","L":"pecari","C":["n","mam"],"d":"un mamal porcin e sosial, trovada de la SUA sude-ueste asta Paraguai","i":"#","t":"Tayassuidae","en":"peccary (animal)"}
-{"T":"r","L":"peco","C":["n","cos"],"d":"un te negra de cualia alta, preparada de folias joven","en":"pekoe (tea)"}
-{"T":"r","L":"pectina","C":["n","cim"],"d":"un polisacarido jelatin, trovada en frutas matur","en":"pectin (substance)"}
-{"T":"r","L":"pedagojia","C":["n"],"d":"la metodo e pratica de ensenia, tipal como un sujeto academial o conseta teorial","en":"pedagogy"}
-{"L":"pedagojial","C":["a"],"en":"pedagogic, pedagogical"}
+{"T":"r","L":"pe","C":["c"],"d":"per esemplo","en":"e.g., for example","fr":"par exemple"}
+{"T":"r","L":"peaje","C":["n","mone"],"d":"un paia per usa un via o ponte","en":"toll (payment)","fr":"péage (paiement)"}
+{"L":"peajeria","C":["n"],"en":"toll plaza, toll station, tollbooth","fr":"(poste de) péage, barrière de péage"}
+{"T":"r","L":"peca","C":["vnt","rel"],"d":"un ata regardada como un fali, ofende o omete seria, o un viole de lege divin","en":"sin","fr":"pécher, fauter"}
+{"L":"peca","C":["n"],"en":"sin, infraction","fr":"péché, infraction"}
+{"L":"peceta","C":["vnt"],"en":"commit a misdemeanor|ur","fr":"commettre une peccadille, infraction, incartade"}
+{"L":"peceta","C":["n"],"en":"peccadillo, misdemeanor|ur, minor infraction, indiscretion","fr":"peccadille, infraction, incartade"}
+{"L":"pecor","C":["n"],"en":"sinner","fr":"pécheur, pécheresse"}
+{"L":"pecosa","C":["a"],"en":"sinful","fr":"pécheur, coupable, immoral, impie, peccamineux"}
+{"L":"pecosia","C":["n"],"en":"sinfulness","fr":"culpabilité, état de péché"}
+{"T":"r","L":"pecan","C":["n","pla","cos"],"d":"un noza lisa e brun con cor comable; un arbor cual produi esta","i":"#","t":"Carya","en":"pecan, hickory (tree, nut)","fr":"pécan (arbre, noix)"}
+{"T":"r","L":"pecari","C":["n","mam"],"d":"un mamal porcin e sosial, trovada de la SUA sude-ueste asta Paraguai","i":"#","t":"Tayassuidae","en":"peccary (animal)","fr":"pécari"}
+{"T":"r","L":"peco","C":["n","cos"],"d":"un te negra de cualia alta, preparada de folias joven","en":"pekoe (tea)","fr":"pekoe (thé)"}
+{"T":"r","L":"pectina","C":["n","cim"],"d":"un polisacarido jelatin, trovada en frutas matur","en":"pectin (substance)","fr":"pectine"}
+{"T":"r","L":"pedagojia","C":["n"],"d":"la metodo e pratica de ensenia, tipal como un sujeto academial o conseta teorial","en":"pedagogy","fr":"pédagogie"}
+{"L":"pedagojial","C":["a"],"en":"pedagogic, pedagogical","fr":"pédagogique"}
 {"T":"r","L":"pedal","C":["n","util"],"d":"un lever operada par un pede, usada per controla o propulsa un veculo, aparato o strumento","i":"#","da":"pedal","de":"Pedal","en":"pedal","es":"pedal","fr":"pédale"}
-{"L":"pedali","C":["vt"],"en":"pedal"}
-{"T":"r","L":"pedante","C":["a","uma"],"d":"tro atendente a detalias e regulas minor","en":"pedantic, fussy"}
-{"L":"pedante","C":["n"],"en":"pedant, nitpicker"}
-{"L":"es pedante","C":["v"],"en":"be pedantic, quibble, split hairs, nitpick"}
-{"L":"pedantia","C":["n"],"en":"pedantry, nitpicking, pettifogging"}
+{"L":"pedali","C":["vnt"],"en":"pedal","fr":"pédaler"}
+{"T":"r","L":"pedante","C":["a","uma"],"d":"tro atendente a detalias e regulas minor","en":"pedantic, fussy","fr":"pinailleur, pointilleux, tatillon, maniaque, vétilleux, chipoteur, chicaneur"}
+{"L":"pedante","C":["n"],"en":"pedant, nitpicker","fr":"pinailleur, maniaque, tatillon, chicaneur, ergoteur, enculeur de mouches"}
+{"L":"es pedante","C":["v"],"en":"be pedantic, quibble, split hairs, nitpick","fr":"être pinailleur, pinailler, couper les cheveux en quatre, ergoter, chicaner, chipoter"}
+{"L":"pedantia","C":["n"],"en":"pedantry, nitpicking, pettifogging","fr":"maniaquerie, pinaillage, pinaillerie, ergotage"}
 {"T":"r","L":"pede","C":["n","anat"],"d":"la parte la plu basa de la gama, su la talo, sur cual un person sta o pasea; la organo simil en otra animales; la funda simil de un vaso o vitro; la parte simil de un table; un mesura de longia egal a 30,48 cm; un unia de metre en poesia","i":"#","da":"fod","de":"Fuss","en":"foot, base","es":"pie","fr":"pied"}
-{"L":"pede de monte","C":["n"],"en":"foothill"}
-{"L":"pede de paje","C":["n"],"en":"footer"}
-{"L":"pede fronte","C":["n"],"en":"forefoot"}
-{"L":"pede membranosa","C":["a"],"en":"webbed foot, webfoot"}
-{"L":"con pedes nuda","C":["av"],"en":"barefoot"}
-{"L":"par pede","C":["av"],"en":"on foot, by foot"}
-{"L":"pedeta","C":["n"],"i":"#","en":"paw","es":"pata"}
-{"L":"pedi","C":["vt"],"en":"kick"}
-{"L":"pedi","C":["n"],"en":"kick"}
-{"L":"pedi cadente","C":["vt"],"en":"dropkick (martial arts)"}
-{"L":"pedi prima","C":["v"],"en":"kick off"}
-{"L":"pedi prima","C":["n"],"en":"kickoff"}
-{"L":"pedor","C":["n"],"en":"kicker"}
-{"L":"ses pedes","C":["n","pl"],"en":"fathom (unit of length)"}
-{"L":"su pede","C":["av"],"en":"underfoot"}
-{"L":"sur cuatro pedes","C":["a"],"en":"(animal) on all fours"}
-{"T":"r","L":"pedestal","C":["n","arci"],"d":"la funda par cual un sculta, obelisce, colona, lavabo o vason es suportada","i":"#","en":"pedestal","eo":"piedestalo, soklo"}
-{"T":"r","L":"pediatria","C":["n","med"],"d":"la ramo de medica cual pertine a enfantes e sua maladias","en":"pediatrics|ae"}
-{"L":"pediatrica","C":["a"],"en":"pediatric|ae"}
-{"L":"pediatriste","C":["n"],"i":"#","en":"pediatrician|ae"}
+{"L":"pede de monte","C":["n"],"en":"foothill","fr":"piémont, pied de montagne"}
+{"L":"pede de paje","C":["n"],"en":"footer","fr":"pied de page"}
+{"L":"pede fronte","C":["n"],"en":"forefoot","fr":"devant du pied, avant du pied, partie antérieure du pied"}
+{"L":"pede membranosa","C":["a"],"en":"webbed foot, webfoot","fr":"pied palmé"}
+{"L":"con pedes nuda","C":["av"],"en":"barefoot","fr":"pieds nus, nu-pieds"}
+{"L":"par pede","C":["av"],"en":"on foot, by foot","fr":"à pied"}
+{"L":"pedeta","C":["n"],"i":"#","en":"paw","es":"pata","fr":"patte"}
+{"L":"pedi","C":["vt"],"en":"kick","fr":"donner un coup de pied à"}
+{"L":"pedi","C":["n"],"en":"kick","fr":"coup de pied"}
+{"L":"pedi cadente","C":["vt"],"en":"dropkick (martial arts)","fr":"saut chassé"}
+{"L":"pedi prima","C":["v"],"en":"kick off","fr":"donner le coup d'envoi"}
+{"L":"pedi prima","C":["n"],"en":"kickoff","fr":"coup d'envoi"}
+{"L":"pedor","C":["n"],"en":"kicker","fr":"botteur, buteur, tireur"}
+{"L":"ses pedes","C":["n","pl"],"en":"fathom (unit of length)","fr":"brasse (ancienne mesure de la longueur des deux bras étendus)"}
+{"L":"su pede","C":["av"],"en":"underfoot","fr":"sous pied, sous le pied, aux pieds, sous les pieds"}
+{"L":"sur cuatro pedes","C":["a"],"en":"(animal) on all fours","fr":"à quatre pattes"}
+{"T":"r","L":"pedestal","C":["n","arci"],"d":"la funda par cual un sculta, obelisce, colona, lavabo o vason es suportada","i":"#","en":"pedestal","eo":"piedestalo, soklo","fr":"piédestal, socle"}
+{"T":"r","L":"pediatria","C":["n","med"],"d":"la ramo de medica cual pertine a enfantes e sua maladias","en":"pediatrics|ae","fr":"pédiatrie"}
+{"L":"pediatrica","C":["a"],"en":"pediatric|ae","fr":"pédiatrique"}
+{"L":"pediatriste","C":["n"],"i":"#","en":"pediatrician|ae","fr":"pédiatre"}
 {"T":"r","L":"pedicura","C":["n","vest"],"d":"la trata cosmetica de la pedes e la ungias de orteos","i":"#","en":"pedicure","fr":"pédicure"}
-{"T":"r","L":"pedionom","C":["n","avia"],"d":"un avia con coda corta, simil a un coturnix, de la savanas de Australia sude-esta","i":"#","t":"Pedionomus torquatus","en":"plains-wanderer (bird)"}
-{"T":"r","L":"pedo-","C":["pf","tecn"],"d":"enfantes","en":"pedo-|ae (child)"}
-{"T":"r","L":"pedofilia","C":["n","uma"],"d":"un atrae sesal a enfantes","en":"pedophilia|ae"}
-{"L":"pedofilia omosesal","C":["n"],"en":"pederasty|paederasty"}
-{"L":"pedofilica","C":["a"],"en":"pedophilic|ae"}
-{"L":"pedofilica","C":["n"],"en":"pedophile|paedophile"}
-{"L":"pedofilica omosesal","C":["n"],"en":"pederast|paederast"}
-{"T":"r","L":"Pegaso","C":["n","mit","ast"],"d":"un cavalo mital volante con alas; un constela en la sielo norde","i":"#","en":"Pegasus (mythology, constellation)"}
+{"T":"r","L":"pedionom","C":["n","avia"],"d":"un avia con coda corta, simil a un coturnix, de la savanas de Australia sude-esta","i":"#","t":"Pedionomus torquatus","en":"plains-wanderer (bird)","fr":"pédionome errant, hémipode à collier (oiseau)"}
+{"T":"r","L":"pedo-","C":["pf","tecn"],"d":"enfantes","en":"pedo-|ae (child)","fr":"pédo- (enfant)"}
+{"T":"r","L":"pedofilia","C":["n","uma"],"d":"un atrae sesal a enfantes","en":"pedophilia|ae","fr":"pédophilie"}
+{"L":"pedofilia omosesal","C":["n"],"en":"pederasty|paederasty","fr":"pédérastie"}
+{"L":"pedofilica","C":["a"],"en":"pedophilic|ae","fr":"pédophile"}
+{"L":"pedofilica","C":["n"],"en":"pedophile|paedophile","fr":"pédophile"}
+{"L":"pedofilica omosesal","C":["n"],"en":"pederast|paederast","fr":"pédéraste"}
+{"T":"r","L":"Pegaso","C":["n","mit","ast"],"d":"un cavalo mital volante con alas; un constela en la sielo norde","i":"#","en":"Pegasus (mythology, constellation)","fr":"Pégase (mythologie, constellation)"}
 {"T":"r","L":"pel","C":["n","anat"],"d":"la strato magra de texeda cual formi la covrente natural esterna de la corpo de un person o animal; esta texeda, tanada o preparada per usa, a veses con pelo o lana ancora afisada","i":"#","da":"skind","de":"Haut","en":"skin, hide, pelt, integument","es":"piel","fr":"peau"}
-{"L":"pel colxada","C":["n"],"en":"cellulite"}
-{"L":"pel cru","C":["n"],"en":"rawhide"}
-{"L":"pel de capra","C":["n"],"en":"goatskin"}
-{"L":"pel de gal","C":["n"],"en":"goose bumps, goose flesh"}
-{"L":"pel de ovea","C":["n"],"en":"sheepskin"}
-{"L":"pel de porco","C":["n"],"en":"pigskin"}
-{"L":"pel de servo","C":["n"],"en":"buckskin"}
-{"L":"pel de urso","C":["n"],"en":"bearskin"}
-{"L":"pel de vino","C":["n"],"i":"#","en":"wineskin"}
-{"L":"pel mor","C":["n"],"en":"dead skin, slough, eschar"}
-{"L":"despeli","C":["vt"],"en":"skin, flay, excoriate, flense, flake"}
-{"L":"despelida","C":["a"],"en":"skinless, skinned"}
-{"L":"peleta","C":["n"],"da":"film (tynd lag)","de":"Häutchen, Schicht","en":"film (thin skin)","es":"película, membrana, tela, filme"}
-{"L":"peleta aderente","C":["n"],"en":"cling film, cling wrap, Saran wrap"}
-{"L":"su pel","C":["a"],"en":"subcutaneous"}
-{"T":"r","L":"pelagra","C":["n","med"],"d":"un maladia resultante de un nonsufisi de niasina o triptofan, causante dermatite sever, diarea e dementia","en":"pellagra (medical)"}
-{"T":"r","L":"pelican","C":["n","avia"],"d":"un avia de acua, grande e sosial, con beco longa, plumas blanca o gris, e un pox de garga estendable per catura pexes","i":"#","t":"Pelicanus","en":"pelican"}
-{"L":"pelicanin","C":["a"],"en":"pelicanlike"}
-{"T":"r","L":"pelo","C":["n","anat"],"d":"la capeles corta, magra e suave de alga animales; la capeles cual crese sur la fas o corpo umana; la capeles o fibres a la surfas de stofa o cuoro suave; la posa de fibres en lenio, paper, etc","i":"#","v":"capel","en":"fur, coat (animal), body hair (human); pile, nap (of fabric), grain (of wood)"}
-{"L":"pelo de jenas","C":["n","pl"],"i":"#","en":"sideburns, sideboards"}
-{"L":"bal de pelo","C":["n"],"en":"hairball"}
-{"L":"contra la pelo","C":["n"],"en":"against the grain"}
-{"L":"pelin","C":["a"],"en":"furry, furlike"}
-{"L":"pelosa","C":["a"],"en":"furry, hairy, hirsute, shaggy"}
-{"T":"r","L":"peltre","C":["n","cim"],"d":"un metal gris, aliada de stanio con cupre e antimonio","en":"pewter (metal)"}
-{"T":"r","L":"pelux","C":["n","vest"],"d":"un stofa lusosa de seda, coton, lana o un combina de estas, con pelo longa e suave","en":"plush (fabric)"}
-{"L":"peluxeta","C":["n"],"en":"down, fluff, fuzz, lint"}
-{"L":"peluxetin","C":["a"],"en":"downy, fluffy, fleecy"}
-{"T":"r","L":"pelvis","C":["n","anat"],"d":"la strutur grande de oso prosima a la funda de la spina a cual la gamas es ajuntada","en":"pelvis"}
-{"L":"pelvisal","C":["a"],"en":"pelvic"}
+{"L":"pel colxada","C":["n"],"en":"cellulite","fr":"cellulite"}
+{"L":"pel cru","C":["n"],"en":"rawhide","fr":"cuir brut"}
+{"L":"pel de capra","C":["n"],"en":"goatskin","fr":"peau de chèvre"}
+{"L":"pel de gal","C":["n"],"en":"goose bumps, goose flesh","fr":"chair de poule"}
+{"L":"pel de ovea","C":["n"],"en":"sheepskin","fr":"peau de mouton"}
+{"L":"pel de porco","C":["n"],"en":"pigskin","fr":"peau de porc, peau de cochon"}
+{"L":"pel de servo","C":["n"],"en":"buckskin","fr":"peau de daim, daim"}
+{"L":"pel de urso","C":["n"],"en":"bearskin","fr":"peau d'ours"}
+{"L":"pel de vino","C":["n"],"i":"#","en":"wineskin","fr":"outre"}
+{"L":"pel mor","C":["n"],"en":"dead skin, slough, eschar","fr":"peau morte, escarre"}
+{"L":"despeli","C":["vt"],"en":"skin, flay, excoriate, flense, flake","fr":"peler, écorcher, dépecer, écailler"}
+{"L":"despelida","C":["a"],"en":"skinless, skinned","fr":"sans peau, pelé, écorché, dépecé, écaillé"}
+{"L":"peleta","C":["n"],"da":"film (tynd lag)","de":"Häutchen, Schicht","en":"film (thin skin)","es":"película, membrana, tela, filme","fr":"pellicule"}
+{"L":"peleta aderente","C":["n"],"en":"cling film, cling wrap, Saran wrap","fr":"film alimentaire, film étirable, film plastique"}
+{"L":"su pel","C":["a"],"en":"subcutaneous","fr":"sous-cutané"}
+{"T":"r","L":"pelagra","C":["n","med"],"d":"un maladia resultante de un nonsufisi de niasina o triptofan, causante dermatite sever, diarea e dementia","en":"pellagra (medical)","fr":"pellagre"}
+{"T":"r","L":"pelican","C":["n","avia"],"d":"un avia de acua, grande e sosial, con beco longa, plumas blanca o gris, e un pox de garga estendable per catura pexes","i":"#","t":"Pelicanus","en":"pelican","fr":"pélican"}
+{"L":"pelicanin","C":["a"],"en":"pelicanlike","fr":"semblable au pélican"}
+{"T":"r","L":"pelo","C":["n","anat"],"d":"la capeles corta, magra e suave de alga animales; la capeles cual crese sur la fas o corpo umana; la capeles o fibres a la surfas de stofa o cuoro suave; la posa de fibres en lenio, paper, etc","i":"#","v":"capel","en":"fur, coat (animal), body hair (human); pile, nap (of fabric), grain (of wood)","fr":"fourrure, poils; velours, peluche, molleton, fibre"}
+{"L":"pelo de jenas","C":["n","pl"],"i":"#","en":"sideburns, sideboards","fr":"favoris, rouflaquettes, pattes"}
+{"L":"bal de pelo","C":["n"],"en":"hairball","fr":"boule de poil, touffe de poil"}
+{"L":"contra la pelo","C":["n"],"en":"against the grain","fr":"à rebrousse-poil, à contre-courant, à contre-sens, à contresens, dans le mauvais sens"}
+{"L":"pelin","C":["a"],"en":"furry, furlike","fr":"ressemblant à de la fourrure"}
+{"L":"pelosa","C":["a"],"en":"furry, hairy, hirsute, shaggy","fr":"poilu, de fourrure"}
+{"T":"r","L":"peltre","C":["n","cim"],"d":"un metal gris, aliada de stanio con cupre e antimonio","en":"pewter (metal)","fr":"étain"}
+{"T":"r","L":"pelux","C":["n","vest"],"d":"un stofa lusosa de seda, coton, lana o un combina de estas, con pelo longa e suave","en":"plush (fabric)","fr":"peluche (tissu)"}
+{"L":"peluxeta","C":["n"],"en":"down, fluff, fuzz, lint","fr":"duvet, peluche"}
+{"L":"peluxetin","C":["a"],"en":"downy, fluffy, fleecy","fr":"pelucheux"}
+{"T":"r","L":"pelvis","C":["n","anat"],"d":"la strutur grande de oso prosima a la funda de la spina a cual la gamas es ajuntada","en":"pelvis","fr":"pelvis, bassin"}
+{"L":"pelvisal","C":["a"],"en":"pelvic","fr":"pelvien"}
 {"T":"r","L":"pemfigo","C":["n","med"],"d":"un maladia de la pel marcada par bulas acuosa","en":"pemphigus (medical)"}
 {"T":"r","L":"pen","C":["n","util"],"d":"un strumento de metal, plastica o pluma per scrive o desinia con inca","i":"#","da":"pen","de":"Feder","en":"pen","es":"pluma","fr":"stylo, plume (pour écrire)"}
 {"L":"pen de bal","C":["n"],"en":"ballpoint pen, biro"}
@@ -21997,6 +21998,7 @@
 {"L":"punto pedante","C":["n"],"en":"quibble"}
 {"L":"punto-virgula","C":["n","nn"],"en":"semicolon"}
 {"L":"a punto de","C":["prep"],"en":"on the point of, about to, just, just about to"}
+{"L":"de punto a punto","C":["a"],"en":"point-to-point, end-to-end"}
 {"L":"dupunto","C":["n"],"en":"colon"}
 {"L":"fa un punto","C":["v"],"en":"stitch"}
 {"L":"mediapunto","C":["n"],"en":"midpoint"}
@@ -22121,6 +22123,7 @@
 {"L":"radioativia","C":["n"],"en":"radioactivity, fallout","fr":"radioactivité"}
 {"T":"r","L":"radiocarbono","C":["n","cim"],"d":"un isotopo radioativa de carbono","en":"radiocarbon"}
 {"L":"radiocarbonal","C":["a"],"en":"radiocarbon"}
+{"T":"r","L":"radiocolar","C":["n","util"],"d":"un colar portada par un animal afin on trasa sua moves","en":"radio collar, tracking collar"}
 {"T":"r","L":"radiocomunica","C":["vt","info"],"d":"comunica par ondas de radio","en":"radio"}
 {"L":"radiocomunica","C":["n"],"en":"radiocommunication"}
 {"T":"r","L":"radiograf","C":["n","med","util"],"d":"un aparato cual usa radia eletromagnetal de enerjia grande e ondas multe corta, cual pote pasa tra multe materias opaca a lus, tipal usada par medicistes per deteta maladias o otra disturbas en la corpo umana","i":"#","en":"X-ray machine"}
@@ -22691,7 +22694,7 @@
 {"L":"represante","C":["a"],"en":"repressive"}
 {"T":"r","L":"representa","C":["vt","gov"],"d":"descrive o imaji (un person o cosa), tipal sua natur esensal; es encargada per ata o parla per (algun)","da":"representere","de":"vertreten","en":"represent, stand for, characterize|is, portray, depict","eo":"reprezenti, prezenti","es":"representar","fr":"représenter","it":"rappresentare","nl":"voorstellen","pt":"representar, responder por"}
 {"L":"representa","C":["n"],"en":"representation, characterization|is, portrayal, depiction; notation"}
-{"L":"malrepresenta","C":["vt"],"en":"misrepresent"}
+{"L":"malrepresenta","C":["vt"],"en":"misrepresent, mischaracterize|is"}
 {"L":"malrepresenta","C":["n"],"en":"misrepresentation, travesty"}
 {"L":"nonrepresentante","C":["a"],"en":"unrepresentative"}
 {"L":"representante","C":["a"],"en":"representative"}
@@ -23020,7 +23023,7 @@
 {"L":"risca biolojial","C":["n"],"en":"biological hazard, biohazard"}
 {"L":"risca de credito","C":["n"],"en":"credit risk, credit score"}
 {"L":"risca la acaso","C":["v"],"en":"take a chance, take pot luck"}
-{"L":"riscada","C":["a"],"en":"vulnerable (species)"}
+{"L":"riscada","C":["a"],"en":"at risk, at stake; vulnerable (species)"}
 {"L":"riscosa","C":["a"],"en":"risky; risqué, racy, suggestive, titillating"}
 {"T":"r","L":"risole","C":["n","cos"],"d":"un misca presada de carne e spises, stratida con pesetas de pan e fritada","en":"rissole (food)"}
 {"T":"r","L":"risoto","C":["n","cos"],"d":"un plato italian, de ris coceda en bulion con otra ingredientes como carne e vejetales","en":"risotto (food)"}
@@ -24466,7 +24469,7 @@
 {"L":"serebral","C":["a"],"en":"cerebral","fr":"cérébral"}
 {"L":"serebreta","C":["n"],"en":"cerebellum","fr":"cervelet"}
 {"L":"serebretal","C":["a"],"en":"cerebellar","fr":"cérébelleux"}
-{"L":"serebri","C":["vt"],"en":"rack one's brain, think hard about, puzzle over","eo":"cerbumi pri"}
+{"L":"serebri","C":["vt"],"en":"rack one's brain, think hard about, puzzle over, brainstorm","eo":"cerbumi pri"}
 {"T":"r","L":"serebrospinal","C":["a","bio"],"d":"pertinente a la serebro e la medula spinal","en":"cerebrospinal","fr":"cérébrospinal"}
 {"T":"r","L":"serenada","C":["vt","mus"],"i":"#","en":"serenade"}
 {"L":"serenada","C":["n"],"d":"un musica cantada o juada estra un casa a note, tipal par un om per sua amada","en":"serenade","fr":"sérénade"}
@@ -24796,6 +24799,7 @@
 {"L":"nondesifrable","C":["a"],"en":"indecipherable"}
 {"L":"sifri","C":["vt"],"en":"encode, encipher, encrypt"}
 {"L":"sifri","C":["n"],"en":"encryption, encoding"}
+{"L":"sifri de punto a punto","C":["n"],"en":"end-to-end encryption"}
 {"T":"r","L":"sigar","C":["n"],"d":"un silindre de tabaco, enrolada en folias de tabaco per fumi","i":"#","en":"cigar"}
 {"L":"sigareta","C":["n"],"d":"un silindre de tabaco magra taliada, enrolada en paper per fumi","i":"#","da":"cigaret","de":"Zigarette","en":"cigarette, fag","eo":"cigaredo","es":"cigarrillo, pitillo, cigarro","fr":"cigarette","it":"sigaretta","nl":"sigaret","pt":"cigarro"}
 {"L":"sigareta de canaba","C":["n"],"i":"#","en":"cannabis cigarette, reefer"}
