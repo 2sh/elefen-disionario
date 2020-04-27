@@ -871,6 +871,7 @@
 {"L":"altia de tono","C":["n","mus"],"en":"pitch","fr":"hauteur, ton (musique)","he":"גובה הצליל"}
 {"L":"la altas e la basas","C":["n","pl"],"en":"the highs and lows, the ups and downs, vicissitudes","fr":"les hauts et les bas, les vicissitudes","he":"תהפוכות"}
 {"L":"la plu alta","C":["a"],"en":"highest, tallest, topmost, uppermost","fr":"le faîte, le sommet, la cime","he":"הכי גבוה"}
+{"L":"la tore ave 400 metres de altia","C":["esp"],"en":"the tower is 400 metres tall"}
 {"L":"plu alta","C":["a"],"en":"higher, taller, upper","fr":"plus haut, plus élevé","he":"גבוה יותר"}
 {"L":"sua altia","C":["n"],"en":"his highness, her highness","fr":"son altesse, sa majesté","he":"הוד מלכותו/מלכותה"}
 {"T":"r","L":"altai","C":["a"],"en":"Altai, Altay (person, language)","fr":"altaï (personne, langue)","he":"אלטאי, שפה אלטאית"}
@@ -1306,6 +1307,8 @@
 {"L":"anios pasada","C":["n","pl"],"en":"years gone by, yesteryear","fr":"années passées","he":"שנים עברו"}
 {"L":"bon anio nova","C":["esc"],"en":"happy new year","fr":"bonne année"}
 {"L":"duanial","C":["a"],"d":"aveninte a un ves en cada duple de anios","en":"biennial","fr":"biennal","he":"דו-שנתי"}
+{"L":"enfante con/de 2 anios","C":["n"],"en":"two-year-old child"}
+{"L":"me ave 35 anios","C":["esp"],"en":"I am 35 years old, I am 35"}
 {"T":"r","L":"anion","C":["n","cim"],"d":"un ion con carga negativa","en":"anion (chemistry)","fr":"anion","he":"(כימיה) אניון"}
 {"T":"r","L":"anis","C":["n","pla","cos","med"],"d":"un planta mediteranean en familia de persil, cultivada per sua semes; esta semes, usada en cosini e medisin","i":"#","t":"Pimpinella anisum","en":"anise, aniseed (plant)","fr":"anis","he":"אניס (צמח)"}
 {"L":"seme de anis","C":["n"],"en":"aniseed (seed)","he":"זרע האניס"}
@@ -1458,17 +1461,17 @@
 {"L":"aortal","C":["a"],"en":"aortic","fr":"aortique","he":"שקשור לאב העורקים"}
 {"T":"r","L":"aortite","C":["n","med"],"d":"un inflama de la mur de la aorta","o":"de elinica aorte (aorta) + -ites","en":"aortitis","fr":"aortite","he":"דלקת אב העורקים"}
 {"T":"r","L":"aoto","C":["n","mam"],"d":"un simia noturna con oios grande, trovada en America Sude","i":"#","t":"Aotus","en":"night monkey, owl monkey, douroucouli","fr":"douroucouli, aotus (primate nocturne)","he":"דורוקולי, קוף הלילה"}
-{"T":"r","L":"ap","C":["n","info"],"d":"un program desiniada per fa taxes per aida sua usor","en":"application, app (software)","es":"aplicación","fr":"application","he":"אפליקציה, ישומון"}
-{"T":"r","L":"Apalatxia","C":["n","jeo"],"d":"un rejion montaniosa en la SUA este","en":"Appalachia","es":"Apalaches","fr":"Appalaches","he":"אזור הרי האפלצ'ים"}
-{"L":"apalatxian","C":["a","jeo"],"en":"Appalachian","es":"apalache","fr":"appalachien","he":"אפלצ'י"}
-{"L":"Montes Apalatxian","C":["n","pl","jeo"],"i":"#","en":"Appalachian Mountains","es":"Montes Apalaches","fr":"Appalaches (monts)","he":"הרי האפלצ'ים"}
-{"T":"r","L":"aparato","C":["n"],"d":"un ojeto construida o ajustada per un intende spesifada, tipal tecnical; un util o macina simple o peti ma injeniosa","en":"device, gadget, piece of apparatus","es":"aparato, artefacto, artilugio, dispositivo","fr":"appareil","he":"מכשיר, מתקן, התקן, חפיץ"}
-{"L":"aparato de puleas","C":["n"],"en":"block and tackle","es":"aparejo de poleas, sistema de poleas","fr":"système de poulies","he":"גלגלת הרמה"}
-{"L":"aparato dental","C":["n"],"en":"brace (teeth)","es":"aparato dental, aparato de dientes","fr":"appareil dentaire","he":"גשר לשיניים"}
-{"L":"aparato fisada","C":["n"],"en":"fixture","es":"dispositivo fijo, instalación","fr":"appareil fixé, installation","he":"מתקן קבוע"}
+{"T":"r","L":"ap","C":["n","info"],"d":"un program desiniada per fa taxes per aida sua usor","de":"Anwendung, App (Software)","en":"application, app (software)","es":"aplicación","fr":"application","he":"אפליקציה, ישומון"}
+{"T":"r","L":"Apalatxia","C":["n","jeo"],"d":"un rejion montaniosa en la SUA este","de":"Appalachen","en":"Appalachia","es":"Apalaches","fr":"Appalaches","he":"אזור הרי האפלצ'ים"}
+{"L":"apalatxian","C":["a","jeo"],"de":"appalachisch","en":"Appalachian","es":"apalache","fr":"appalachien","he":"אפלצ'י"}
+{"L":"Montes Apalatxian","C":["n","pl","jeo"],"i":"#","de":"Appalachen-Gebirge","en":"Appalachian Mountains","es":"Montes Apalaches","fr":"Appalaches (monts)","he":"הרי האפלצ'ים"}
+{"T":"r","L":"aparato","C":["n"],"d":"un ojeto construida o ajustada per un intende spesifada, tipal tecnical; un util o macina simple o peti ma injeniosa","de":"Gerät, Apparat","en":"device, gadget, piece of apparatus","es":"aparato, artefacto, artilugio, dispositivo","fr":"appareil","he":"מכשיר, מתקן, התקן, חפיץ"}
+{"L":"aparato de puleas","C":["n"],"de":"Flaschenzug","en":"block and tackle","es":"aparejo de poleas, sistema de poleas","fr":"système de poulies","he":"גלגלת הרמה"}
+{"L":"aparato dental","C":["n"],"de":"Zahnspange","en":"brace (teeth)","es":"aparato dental, aparato de dientes","fr":"appareil dentaire","he":"גשר לשיניים"}
+{"L":"aparato fisada","C":["n"],"de":"Installation","en":"fixture","es":"dispositivo fijo, instalación","fr":"appareil fixé, installation","he":"מתקן קבוע"}
 {"L":"aparateta","C":["n","info"],"en":"thingy, thingummy, thingamajig, thingamabob, whatsit, wossname, whatchamacallit, doodad, doodah, doobry, doohickey, hickey; widget, gizmo, control (user interface)","es":"chisme, cosa, cosita","fr":"machin, truc","he":"מה-שמו"}
-{"L":"aparatos","C":["n","pl"],"en":"apparatus, equipment, hardware, tackle, rigging, paraphernalia","es":"aparatos, equipos, hardware, aparejos","fr":"matériel, appareillage, équipement","he":"ציוד, חומרה, מנגנון"}
-{"L":"aparatos de pexa","C":["n"],"en":"fishing tackle","es":"aparejos de pescar, equipo de pesca","fr":"articles de pêche, équipement de pêche","he":"ציוד לדייג"}
+{"L":"aparatos","C":["n","pl"],"de":"Ap­pa­ra­tur, Ausrüstung","en":"apparatus, equipment, hardware, tackle, rigging, paraphernalia","es":"aparatos, equipos, hardware, aparejos","fr":"matériel, appareillage, équipement","he":"ציוד, חומרה, מנגנון"}
+{"L":"aparatos de pexa","C":["n"],"de":"Angelzeug","en":"fishing tackle","es":"aparejos de pescar, equipo de pesca","fr":"articles de pêche, équipement de pêche","he":"ציוד לדייג"}
 {"L":"aparatos de vela","C":["n"],"en":"tackle (ship)","es":"aparejo de la nave","fr":"équipement de voile","he":"ציוד למפרש"}
 {"T":"r","L":"apare","C":["vnt"],"d":"deveni vidable o notable","en":"appear, become visible, show up, turn up, surface","es":"aparecer","fr":"apparaître","he":"להופיע, להתגלות, לצוץ"}
 {"L":"apare","C":["vt"],"en":"cause to appear, manifest, conjure (up)","es":"hacer aparecer","fr":"faire apparaître","he":"לגרום להופיע, לגלות"}
@@ -1978,6 +1981,7 @@
 {"L":"nonasentuada","C":["a"],"en":"unstressed, atonic","fr":"inaccentué, non accentué, atone","he":"לא מודגש"}
 {"T":"r","L":"aser","C":["n","cim"],"d":"un aliada de fero con carbono e tipal otra elementos, dur, forte e gris o bluin gris, usada como un materia en construi e fabrica","da":"stål","de":"Stahl","en":"steel; frizzen (gun)","es":"acero","fr":"acier","he":"פלדה"}
 {"L":"aser nonosidinte","C":["n"],"en":"stainless steel, inox steel","fr":"acier inoxydable","he":"פלדת אל-חלד"}
+{"L":"aserin","C":["a"],"en":"steely"}
 {"T":"r","L":"asero","C":["n","pla"],"d":"un arbor con folias lobosa, frutas con alas, e folias briliante en autono, usada per lenio e per xirope","i":"#","t":"Acer","en":"maple","fr":"érable","he":"אדר, מייפל (עץ)"}
 {"L":"asera","C":["n"],"en":"maple fruit, maple key, samara","fr":"samare (botanique)","he":"פרי עץ המייפל"}
 {"T":"r","L":"asesal","C":["a","bio"],"d":"sin seso o sentis sesal; no reproduinte par la fusa de gametas o organos sesal","o":"de elinica a- (sin) + latina sexus (seso)","en":"asexual, non-sexual","fr":"asexué, asexuel","he":"א-מיני"}
@@ -3580,7 +3584,7 @@
 {"T":"r","L":"bonbon","C":["n","cos"],"d":"un confeto peti covreda con xocolada","i":"#","en":"bonbon (confectionery)","fr":"chocolat (confiserie)","he":"בונבון (ממתק)"}
 {"T":"r","L":"bondaje","C":["n"],"d":"un pratica sesal cual envolve la lia o restrinje de un person","en":"bondage (sexual)","fr":"bondage","he":"קשירה (מינית)"}
 {"T":"r","L":"bondi","C":["vnt","spo"],"d":"core saltante; salta repetente, tipal sur un trampolin o materas","en":"bound, bounce, lope","fr":"bondir","he":"לקפץ, להקפיץ"}
-{"L":"bondi","C":["n"],"en":"bound","fr":"bon","he":"הקפצה"}
+{"L":"bondi","C":["n"],"en":"bound","fr":"bond","he":"הקפצה"}
 {"L":"rebondi","C":["vnt"],"d":"move rapida a via de un surfas pos colpa lo; (lus) deveni refletada de un surfas","da":"springe, hoppe","de":"aufprallen","en":"rebound, bounce back, ricochet","eo":"resalti","es":"rebotar, botar, saltar, brincar, dar saltos, dar brincos","fr":"rebondir","he":"לקפוץ בחזרה","it":"rimbalzare","nl":"stuiteren","pt":"saltar, dar saltos"}
 {"T":"r","L":"boneta","C":["n","vest"],"d":"un xapo per femes, comun liada su la mento, con un borda cual ensirca la fas","en":"bonnet (hat)"}
 {"T":"r","L":"bongo","C":["n","mus"],"d":"cada de un duple de tambures peti, tipal tenida entre la jenos e tocada par la ditos","i":"#","en":"bongo (drum)","fr":"bongo (instrument de musique, percussion)","he":"בונגו (תוף)"}
@@ -4388,7 +4392,7 @@
 {"T":"r","L":"Canada","C":["n","jeo"],"c":"Ottawa","d":"un pais en la norde de America Norde, a norde de la SUA, e la pais du de la plu grandes de mundo","i":"#","en":"Canada","fr":"Canada","he":"קנדה"}
 {"L":"canadian","C":["a"],"en":"Canadian","fr":"canadien","he":"קנדי"}
 {"L":"canadian","C":["n"],"en":"Canadian","fr":"Canadien (personne)","he":"קנדי"}
-{"T":"r","L":"canal","C":["n"],"d":"un rio artifis, construida per permete ce barcones viaja tra tera o per gida acua per iriga; un duto tubo en un planta o animal, per move o conteni comedas, licuida o aira","i":"#","da":"kanal, grøft","de":"Kanal","en":"canal, channel, ditch, duct, flume; channel (television, etc.)","es":"canal, acequia","fr":"canal","gl":"canle","he":"תעלה, שוחה, ערוץ, אפיק"}
+{"T":"r","L":"canal","C":["n"],"d":"un rio artifis, construida per permete ce barcones viaja tra tera o per gida acua per iriga; un duto tubo en un planta o animal, per move o conteni comedas, licuida o aira","i":"#","da":"kanal, grøft","de":"Kanal","en":"canal, channel, ditch, duct, flume; channel, station (television, etc.)","es":"canal, acequia","fr":"canal","gl":"canle","he":"תעלה, שוחה, ערוץ, אפיק"}
 {"L":"canal suteran","C":["n"],"en":"underground channel, culvert","fr":"canal souterrain","he":"תעלה תת-קרקעית"}
 {"L":"canaleta","C":["n"],"en":"gutter (street, roof); sluiceway","fr":"caniveau, rigole","he":"מרזב; מזחילה (בכביש)"}
 {"T":"r","L":"Canan","C":["n","ist","jeo"],"d":"un rejion antica de Filastin a ueste de la Rio Urdun, notada en la Biblia","en":"Canaan (biblical region)","fr":"Canaan","he":"כנען"}
@@ -4885,7 +4889,7 @@
 {"T":"r","L":"castanieta","C":["n","mus"],"d":"un strumento peti, composada de du pesos concava de lenio, ivor o plastica, juntada par un corda e clicada contra lunlotra par la ditos","i":"#","en":"castanets","fr":"castagnettes","he":"קסטנייטה, ערמונית (כלי נגינה)"}
 {"T":"r","L":"castel","C":["n","arci"],"d":"un construida grande, fortida contra ataca par mures spesa, merlones, tores, e cisa un foso; (metafor) un casa grande e gloriosa, tipal parteninte a un nobil; un peso de xace cual sembla un tore merlonida","i":"#","en":"castle","fr":"château","he":"טירה, מצודה, מבצר; (שחמט) צריח"}
 {"L":"castel de salta","C":["n"],"en":"bouncy castle","fr":"jeu gonflable (structure gonflable pour enfants)","he":"טירה מתנפחת"}
-{"T":"r","L":"Castilla","C":["n","jeo"],"d":"un rejion en Espania norde-sentral; un rena autonom en la eda medieval","i":"castelia","p":"castíe","en":"Castile (Spanish region)","fr":"Castille","he":"קסטיליה"}
+{"T":"r","L":"Castilla","C":["n","jeo"],"d":"un rejion en Espania norde-sentral; un rena autonom en la eda medieval","i":"castelia","p":"castía","en":"Castile (Spanish region)","fr":"Castille","he":"קסטיליה"}
 {"L":"castellan","C":["a","dem"],"d":"pertinente a la popla de Espania norde-sentral, o a sua dialeto de espaniol cual es ance la model jeneral per espaniol en Espania","p":"casteán","en":"Castellano, Castilian (person, language)","fr":"castillan","he":"קסטיליאני"}
 {"L":"castellan","C":["n"],"en":"Castellano, Castilian (person, language)","fr":"Castillan (personne), le castillan (langue)","he":"קסטיליאני, קסטיליאנית (ניב ספרדי)"}
 {"T":"r","L":"castor","C":["n","mam"],"d":"un rodente grande e semiacual con coda larga, notada per sua abitua de rode tra troncos de arbores per come la cortex e construi pararios e abitadas","i":"#","t":"Castor","en":"beaver","fr":"castor","he":"בונה (מכרסם)"}
@@ -5115,6 +5119,7 @@
 {"T":"r","L":"ci","C":["pron"],"d":"(demandante) cual person; (suordinante) introduinte un suproposa ajetivin cual dona plu informa sur un person o persones (o animales personin) cual on ia indica direta a ante","n":"","u":"ci es tu?; el ia demanda ci me ia vide; la om ci senta en la auto es mea avo; me conose la fem con ci tu ia parla","da":"hvem","de":"wer; der, die (relativ)","en":"who, whom (interrogative, relative)","es":"quien, quienes, el que, la que, los que, las que","fr":"qui, que","he":"ש-, אשר (לבני-אדם וחיות מחמד); מי, את מי"}
 {"L":"de ci ... sua","C":["esp"],"u":"la fem de ci tu ia trova sua clave es mea fia","en":"whose","fr":"dont","he":"של מי"}
 {"T":"r","L":"ci","C":["n","ling"],"d":"la letera 22 de la alfabeta elinica","s":"Χ χ","en":"chi (Greek letter)","fr":"khi (lettre grecque)","he":"כי (האות העשרים ושתיים באלפבית היווני)"}
+{"L":"ci-ro","C":["n","rel"],"d":"un cristogram cual suprapone la leteras elinica ci e ro","en":"chi rho, chrismon"}
 {"T":"r","L":"cianti","C":["n","cos"],"d":"un vino seca e roja, produida en Toscana en Italia","en":"chianti (wine)","fr":"chianti (vin)","he":"קיאנטי (יין)"}
 {"T":"r","L":"ciasma","C":["n","bio"],"d":"la punto do cromosomas duplida resta contatante en la fase prima de meiose","en":"chiasma (genetics)","fr":"chiasma (génétique)","he":"(גנטיקה) כיאזמה, תצלובת"}
 {"T":"r","L":"cibuts","C":["n"],"d":"un comunia iudi en Israel, tipal un cultiveria","en":"kibbutz","fr":"kibboutz","he":"קיבוץ"}
@@ -5365,6 +5370,7 @@
 {"T":"r","L":"coan","C":["n","rel"],"d":"un nareta o rompetesta, usada en zen per mostra la noncapasia de lojica e provoca lumina spirital","en":"koan (Zen)","fr":"koan","he":"קואן (זן בודהיזם)"}
 {"T":"r","L":"coarde","C":["a"],"d":"intera sin coraje, despetable temosa","en":"cowardly, gutless; wimpy, spineless","fr":"lâche, couard, poltron, pusillanime, froussard, pleutre, trouillard","he":"פחדני"}
 {"L":"coarde","C":["n"],"en":"coward; wimp","fr":"lâche, couard, poltron, froussard, pleutre, trouillard, poule mouillée","he":"פחדן"}
+{"L":"coardi","C":["vnt"],"en":"become cowardly, show cowardice, wimp out"}
 {"L":"coardia","C":["n"],"en":"cowardice","fr":"lâcheté, couardise, poltronnerie, pusillanimité, pleutrerie","he":"פחדנות"}
 {"T":"r","L":"coasal","C":["a","util"],"d":"con ase compartida; (un cordon) composada de du condutadores consentral, separada par un isolador","en":"coaxial","fr":"coaxial","he":"קואקסיאלי"}
 {"T":"r","L":"coautor","C":["n","arte"],"d":"un person ci comparti la taxe de scrive un article o libro","en":"coauthor","fr":"coauteur","he":"מחבר שותף"}
@@ -7156,8 +7162,9 @@
 {"L":"cristiania","C":["n"],"n":"`Cristiania` indica fundal la cualia de un person cristian, ma on usa lo ance como un nom alternativa per la relijio `cristianisme`.","en":"Christianity (characteristic; religion)"}
 {"L":"cristianisme","C":["n"],"en":"Christianity","es":"Cristianismo","fr":"christianisme","he":"נצרות"}
 {"L":"mundo cristian","C":["n"],"en":"Christendom","fr":"chrétienté","he":"עולם הנצרות"}
-{"T":"r","L":"Cristo","C":["n","rel"],"d":"la titulo, tipal tratada como un nom, donada a Jesus de Nasira, traduida de la parola ivri per `maxia`","en":"Christ","es":"Cristo","fr":"Christ","he":"ישו"}
+{"T":"r","L":"Cristo","C":["n","rel"],"d":"la titulo, tipal tratada como un nom, donada a Jesus de Nasira, traduida de la parola ivri per `maxia`","u":"Jesus Cristo","en":"Christ","es":"Cristo","fr":"Christ","he":"ישו"}
 {"L":"Anticristo","C":["n","rel"],"en":"Antichrist","fr":"l'antéchrist","he":"אנטיכריסט"}
+{"T":"r","L":"cristogram","C":["n","rel"],"d":"un simbol o corti representante la nom de Jesus Cristo","en":"christogram"}
 {"T":"r","L":"criterio","C":["n","fil"],"d":"un prinsipe, model o norma par cual on fa un judi o deside","en":"criterion (pl. criteria)","fr":"critère","he":"קריטריון, אמת מידה"}
 {"T":"r","L":"Criti","C":["n","jeo"],"d":"un isola elinica en la Mar Mediteraneo este, e la loca de la sivilia Minoan de la milenio du aec","i":"#","en":"Crete","es":"Creta","fr":"Crète","he":"כרתים"}
 {"L":"critica","C":["a"],"en":"Cretan","es":"cretense","fr":"crétois","he":"שקשור לכרתים"}
@@ -7416,7 +7423,7 @@
 {"L":"culieri","C":["vt"],"en":"(transfer by) spoon","fr":"transporter (quelque chose) avec une cuillère","he":"להשתמש בכף"}
 {"L":"culierin","C":["a"],"en":"spoonlike, spoon-shaped","fr":"en forme de cuillère","he":"בצורת כף, כפית"}
 {"L":"culieron","C":["n"],"i":"#","en":"ladle","fr":"louche","he":"תרווד, מצקת"}
-{"T":"r","L":"culmina","C":["vnt"],"d":"ateni la punto la plu alta, fisical o metafor","en":"culminate, climax, peak, crest","es":"cumbre, pico, tope, culmen, cima, acme","fr":"culminer, dominer, plafonner, surplomber","he":"להגיע לפסגה, להגיע לשיא"}
+{"T":"r","L":"culmina","C":["vnt"],"d":"ateni la punto la plu alta, fisical o metafor","en":"culminate, climax, peak, crest, come to a head","es":"cumbre, pico, tope, culmen, cima, acme","fr":"culminer, dominer, plafonner, surplomber","he":"להגיע לפסגה, להגיע לשיא"}
 {"L":"culmina","C":["n"],"da":"top, tinde","de":"Oberteil, Wipfel","en":"culmination, climax, peak, summit, top, crest; paragon; punchline","fr":"point culminant, sommet, cime, crête, faîte, pic","he":"פסגה, שיא, צמרת"}
 {"L":"culmina con","C":["v"],"en":"culminate with, be surmounted with, be topped with","fr":"culminer avec, être surmonté de","he":"לסיים עם"}
 {"L":"culmina de arbor","C":["n"],"en":"treetop","fr":"faîte d'un arbre, cime d'un arbre","he":"צמרת עץ"}
@@ -7432,7 +7439,7 @@
 {"L":"culpable","C":["a"],"da":"skyldig","de":"schuldig","en":"guilty, blameworthy, culpable, responsible, liable","es":"culpable, reo, delincuente","fr":"coupable, blâmable, condamnable, criminel","he":"אשם"}
 {"L":"culpablia","C":["n"],"en":"guilt, responsibility, liability","fr":"culpabilité","he":"אשמה"}
 {"L":"desculpa","C":["vt"],"en":"exculpate, exonerate, vindicate, acquit, clear","fr":"disculper","he":"לזכות"}
-{"L":"desculpa","C":["n"],"en":"exoneration, vindication, acquittal","fr":"disculpation, acquittement, justification, réhabilitation, rémission, relaxe, absolution","he":"זיכוי (מאשמה)"}
+{"L":"desculpa","C":["n"],"en":"exoneration, vindication, acquittal; excuse","fr":"disculpation, acquittement, justification, réhabilitation, rémission, relaxe, absolution","he":"זיכוי (מאשמה)"}
 {"L":"desculpada","C":["a"],"en":"exonerated","fr":"disculpé, acquitté, innocenté, blanchi, justifié, réhabilité","he":"זכאי, מזוכה"}
 {"L":"es desculpada","C":["v"],"en":"be exonerated, be acquitted, get off","fr":"être acquitté, être disculpé, être innocenté, être blanchi, être justifié, être réhabilité","he":"לצאת זכאי"}
 {"L":"nonculpable","C":["a"],"en":"blameless, innocent (of crime), not guilty","fr":"innocent, non coupable, irréprochable","he":"חף מפשע"}
@@ -7808,9 +7815,9 @@
 {"T":"r","L":"deisme","C":["n"],"d":"un crede a la esiste de un esente suprema, tipal un creor ci no interveni en la mundo","en":"deism","es":"deísmo","fr":"déisme","he":"דאיזם"}
 {"L":"deiste","C":["a"],"en":"deistic, deist","es":"deísta","fr":"déiste","he":"דאיסטי"}
 {"L":"deiste","C":["n"],"en":"deist","es":"deísta","fr":"déiste","he":"דאיסט"}
-{"T":"r","L":"dejenera","C":["vnt","med"],"d":"perde sua bon state o cualias normal; diminui fisical, mental o moral","en":"degenerate, deteriorate, run down, decay","fr":"dégénérer","he":"להידרדר, להתנוון; להתבלות","ru":"вырождаться, опускаться; переходить, перерождаться (во что-либо)"}
-{"L":"dejenera","C":["n"],"en":"degeneration, decay, decadence","fr":"dégénération, dégénérescence","he":"הידרדרות, דרדור, התנוונות, דקדנס, ניוון; התבלות, בליה","ru":"вырождение, упадок; перерождение (мед)"}
-{"L":"dejenerada","C":["a"],"en":"degenerated, degenerate, decadent","fr":"dégénéré, décadent","he":"מנוון, דקדנטי; בלוי"}
+{"T":"r","L":"dejenera","C":["vnt","med"],"d":"perde sua bon state o cualias normal; diminui fisical, mental o moral","en":"degenerate, deteriorate, corrupt, run down, decay","fr":"dégénérer","he":"להידרדר, להתנוון; להתבלות","ru":"вырождаться, опускаться; переходить, перерождаться (во что-либо)"}
+{"L":"dejenera","C":["n"],"en":"degeneration, decay, decadence, corruption","fr":"dégénération, dégénérescence","he":"הידרדרות, דרדור, התנוונות, דקדנס, ניוון; התבלות, בליה","ru":"вырождение, упадок; перерождение (мед)"}
+{"L":"dejenerada","C":["a"],"en":"degenerated, degenerate, decadent, corrupt","fr":"dégénéré, décadent","he":"מנוון, דקדנטי; בלוי"}
 {"T":"r","L":"dejeta","C":["vt"],"d":"sutrae o elimina (un person o cosa) cual on no regarda como usosa o desirada","en":"throw away, discard, dump, dispose of, get rid of, jettison; dismiss (notification)","fr":"jeter (pour se débarrasser)","he":"לזרוק, להשליך, להיפטר; לדחות (הודעה)","ru":"сбрасывать, отбрасывать (как ненужное), отвергать"}
 {"L":"dejeta","C":["n"],"en":"disposal","fr":"rejet, élimination, décharge","he":"זריקה (לפח), השלכה, היפטרות; דחייה (של הודעה)"}
 {"L":"dejetable","C":["a"],"en":"disposable; rubbish, trashy, of poor quality","fr":"jetable; de qualité médiocre","he":"(לשימוש) חד פעמי"}
@@ -9313,7 +9320,7 @@
 {"L":"eliofilica","C":["a"],"en":"heliophilic","fr":"héliophile","he":"(ביולוגיה) נמשך לאור השמש"}
 {"L":"eliofilica","C":["n"],"en":"heliophile","fr":"héliophile","he":"(ביולוגיה) נמשך לאור השמש"}
 {"T":"r","L":"eliosentrisme","C":["n","ast"],"d":"la model moderna de la sistem solal, con la Sol como sua sentro","en":"heliocentrism, heliocentricism"}
-{"T":"r","L":"eliosentriste","C":["a"],"en":"heliocentric","fr":"héliocentrique","he":"הליוצנטרי"}
+{"L":"eliosentriste","C":["a"],"en":"heliocentric","fr":"héliocentrique","he":"הליוצנטרי"}
 {"T":"r","L":"eliotropo","C":["a"],"d":"un purpur pal","en":"heliotrope (color|ur)","fr":"héliotrope, violet (couleur)","he":"סגול בהיר"}
 {"L":"eliotropo","C":["n","pla"],"d":"un planta en familia de boraja, cultivada per sua flores blu o purpur cual es usada en parfum","en":"heliotrope (plant)","fr":"héliotrope (plante)","he":"עוקץ העקרב (צמח)"}
 {"T":"r","L":"eliporto","C":["n"],"d":"un airoporto per elicotores","en":"heliport","fr":"héliport","he":"שדה תעופה למסוקים"}
@@ -12856,6 +12863,7 @@
 {"T":"r","L":"iard","C":["n","mat"],"d":"un unia de longia nonmetral, egal a 36 ditones o 0,9144 metres","en":"yard (unit of length)","fr":"yard, verge (unité de longueur anglo-saxonne)"}
 {"T":"r","L":"-iase","C":["sf","n","med"],"d":"maladia","en":"-iase (disease)","fr":"-iase (maladie)"}
 {"T":"r","L":"iate","C":["n","vec"],"d":"un barcon de grandia media, con o sin velas e cabina, usada per corsa o viaja per plaser","i":"#","en":"yacht; cruiser (pleasure boat)","eo":"jakto","es":"yate","fr":"yacht"}
+{"L":"iateria","C":["n"],"en":"marina"}
 {"L":"iator","C":["n"],"en":"yachtsman, yachtswoman","eo":"jaktisto","fr":"pilote d'un yacht, yachtsman, yachtswoman"}
 {"T":"r","L":"-iatria","C":["sf","n","med","uma"],"d":"dotores e trata medical","en":"-iatry","fr":"-iatrie"}
 {"L":"-iatrica","C":["sf","a","med","uma"],"en":"-iatric","fr":"-iatrique"}
@@ -14176,7 +14184,9 @@
 {"T":"r","L":"jeomorfolojia","C":["n","tera"],"d":"la studia de la cualias fisical de la surfas de la Tera e la relatas de estas con sua strutures jeolojial","en":"geomorphology","fr":"géomorphologie"}
 {"T":"r","L":"jeopolitica","C":["n","gov"],"d":"politica, spesial relatas internasional, como afetada par jeografia","en":"geopolitics","fr":"géopolitique"}
 {"L":"jeopolitical","C":["a"],"en":"geopolitic, geopolitical","fr":"géopolitique"}
-{"T":"r","L":"jeosentral","C":["a","ast"],"d":"con la Tera como sua sentro, como en astronomia antica; (en astronomia) mesurada en relata a la sentro de la Sol","en":"geocentric","fr":"géocentrique"}
+{"T":"r","L":"jeosentral","C":["a"],"d":"(en astronomia) mesurada en relata a la sentro de la Sol","en":"geocentric","fr":"jéocentrique"}
+{"T":"r","L":"jeosentrisme","C":["a","ast"],"d":"un model de la sistem sola con la Tera como sua sentro, como en astronomia antica","en":"geocentrism","fr":"géocentrisme"}
+{"L":"jeosentriste","C":["a"],"en":"geocentric","fr":"géocentrique"}
 {"T":"r","L":"jeosincrona","C":["a","ast"],"d":"(la orbita de un satelite) con un periodo de jira sincrona con la jira de la Tera","en":"geosynchronous","fr":"géosynchrone"}
 {"T":"r","L":"jeostable","C":["a","ast"],"d":"(un satelite artifis) movente en orbita jeosincrona en la plana de la ecuator, e tal no movente en relata a un punto fisada sur la surfas","en":"geostationary","fr":"géostationnaire"}
 {"T":"r","L":"jeotermal","C":["a","tera"],"d":"pertinente a o produida par la caldia interna de la Tera","en":"geothermal","fr":"géothermique"}
@@ -15133,6 +15143,7 @@
 {"L":"linguiste","C":["n"],"en":"linguist","fr":"linguiste"}
 {"L":"lingua prima","C":["n"],"en":"first language, native language, native tongue, mother tongue","fr":"langue natale"}
 {"T":"r","L":"linguaje","C":["n","ling"],"d":"la stilo de vocabulo e frases elejeda per espresa en parla o scrive","en":"language (style), wording","fr":"style, langage, (niveau de) langue, élocution, façon de s'exprimer, vocabulaire"}
+{"L":"linguaje de corpo","C":["n"],"en":"body language"}
 {"T":"r","L":"linguine","C":["n","cos"],"d":"pasta con forma de bandas streta","i":"#","en":"linguine (food)","fr":"linguine (pâtes)"}
 {"T":"r","L":"linguistica","C":["n","ling"],"d":"la siensa de linguas e sua strutur, incluinte la studia de morfolojia, sintatica, fonetica e semantica","en":"linguistics","fr":"linguistique"}
 {"L":"linguistica computal","C":["n","ling"],"en":"computational linguistics","fr":"linguistique informatique"}
@@ -20223,8 +20234,8 @@
 {"L":"pervertinte","C":["a"],"en":"perverting, perversive"}
 {"T":"r","L":"perxa","C":["n","util"],"d":"un cosa sur cual un avia atera o reposa, tipal un ramo de un arbor o un bara en un caje; un loca, tipal alta o perilosa, sur cual un person o cosa sta o senta","en":"perch (support)"}
 {"L":"perxi","C":["vt"],"en":"perch"}
-{"T":"r","L":"pesa","C":["vt","fis"],"d":"ave un masa relativa de (un cuantia spesifada); determina la masa de (un person o cosa)","en":"weigh (have weight, measure weight)","fr":"peser"}
-{"L":"pesa","C":["n"],"da":"vægt","de":"Gewicht","en":"weight (measure, object)","es":"peso"}
+{"T":"r","L":"pesa","C":["vt","fis"],"d":"ave un masa relativa de (un cuantia spesifada); determina la masa de (un person o cosa)","u":"me pesa la libro; la libro pesa un cilogram","en":"weigh (have weight, measure weight)","fr":"peser"}
+{"L":"pesa","C":["n"],"u":"la libro ave un cilogram de pesa; on ia ajunta pesas per afonda la barcon","da":"vægt","de":"Gewicht","en":"weight (measure, object)","es":"peso"}
 {"L":"pesador","C":["n"],"en":"scales, weighing machine"}
 {"L":"peseria","C":["n"],"en":"weigh-house"}
 {"L":"pesosa","C":["a"],"da":"tung, tungtvejende","de":"schwer","en":"heavy, ponderous, hefty","es":"pesado","fr":"lourd"}
@@ -20752,6 +20763,7 @@
 {"L":"plia vosal","C":["n"],"en":"vocal fold, vocal cord (anatomy)","fr":"pli vocal, corde vocale"}
 {"L":"desplia","C":["vt"],"p":"desplía","en":"unfold","fr":"déplier; déployer"}
 {"L":"pliable","C":["a"],"en":"foldable, folding, collapsible, pliable, pliant","fr":"pliable"}
+{"L":"pliada","C":["a"],"en":"folded, creased; (page) dog-eared"}
 {"L":"plieta","C":["vt"],"en":"wrinkle, shrivel, crumple, crimp, wither, pucker, purse, furrow","fr":"rider, froisser, plisser"}
 {"L":"plieta","C":["n"],"da":"rynke, fold","de":"Runzel","en":"wrinkle, crinkle, crimp, pucker, furrow","eo":"sulketo","es":"arruga, pliegue, doblez, surco","fr":"ride","it":"piega","nl":"rimpel, plooi","pt":"prega, sulco"}
 {"L":"plieta sua fronte","C":["esp"],"en":"furrow one's brow","fr":"plisser le front"}
@@ -27042,6 +27054,7 @@
 {"T":"r","L":"termos","C":["n","cos"],"d":"un contenador cual manteni la caldia o fria de un bevida o otra licuida par un mur duple cual enclui un vacua","i":"#","en":"thermos, vacuum flask, Dewar flask"}
 {"T":"r","L":"termostato","C":["n","util"],"d":"un aparato cual regula automata la temperatur, o cual ativi un otra aparato cuando la temperatur ateni un grado spesifada","en":"thermostat"}
 {"T":"r","L":"teror","C":["n","uma"],"d":"un senti intensa de teme, xoca o repulsa","en":"terror, horror"}
+{"L":"antiteroriste","C":["a"],"en":"antiterrorist, antiterrorism"}
 {"L":"terori","C":["vt"],"en":"terrify, horrify; terrorize|is, tyrannize|is"}
 {"L":"terorinte","C":["a"],"en":"terrifying, horrifying, bloodcurdling, spine-chilling"}
 {"L":"terorisme","C":["n"],"en":"terrorism"}
@@ -27193,7 +27206,7 @@
 {"L":"tinjente","C":["a"],"en":"tinting, tinging","fr":"teintant"}
 {"L":"tinjente","C":["n"],"en":"dye, stain (substance)","fr":"teinture"}
 {"T":"r","L":"tinocor","C":["n","avia"],"d":"un avia de America Sude ci sembla un perdis peti con plumas brun","i":"#","t":"Thinocoridae","en":"seed-snipe (bird)","fr":"thinocore"}
-{"T":"r","L":"tintina","C":["vnt"],"d":"fa un sona clar e peti, con tono alta","en":"tinkle, jingle, jangle, clang, clank, clink; ring (phone, doorbell)","fr":"tinter; sonner (téléphone)"}
+{"T":"r","L":"tintina","C":["vnt"],"d":"fa un sona clar e peti, con tono alta","en":"tinkle, jingle, jangle, ping, clang, clank, clink; ring (phone, doorbell)","fr":"tinter; sonner (téléphone)"}
 {"L":"tintina","C":["n"],"en":"tinkle, jingle, jangle, clang, clank, clink, clangor|ur"}
 {"T":"r","L":"tintura","C":["n","med"],"d":"un medisin produida par disolve un droga en alcol; un cuantia peti de alga cosa","en":"tincture (medicine)"}
 {"T":"r","L":"tipi","C":["n","arci","uma"],"d":"un tenda cono portable, fabricada de peles, stofa o lona sur un strutur de palos","i":"#","en":"tipi, teepee, tepee (tent)"}
@@ -27831,11 +27844,11 @@
 {"L":"retrova","C":["vt"],"en":"find again, find back, recover"}
 {"L":"trovable","C":["a"],"en":"discoverable, to be found","eo":"trovebla"}
 {"T":"r","L":"trucioio","C":["n","vn","arte"],"d":"un ilude de vide en arte, tipal donante la aspeta de tre dimensiones a un detalia depintada","en":"trompe-l'oeil, optical illusion","fr":"trompe-l'œil"}
-{"T":"r","L":"truco","C":["n","spo","gov"],"d":"un ata o scema destrosa, intendeda per engana algun o es plu astuta ca algun; un ata destrosa presentada per diverti; un modo de scrive intendeda per produi un efeto spesial en un parla o obra de leteratur","da":"trick","de":"Schlich, Trick","en":"trick, ploy; gimmick, schtick; device (literary)","es":"truco, trampa, travesura, treta, ardid, maña","fr":"truc","it":"trucco","nl":"truc","pt":"truque, treta, trampa, brincadeira de mal gosto"}
+{"T":"r","L":"truco","C":["n","spo","gov"],"d":"un ata o scema destrosa, intendeda per engana algun o es plu astuta ca algun; un ata destrosa presentada per diverti; un modo de scrive intendeda per produi un efeto spesial en un parla o obra de leteratur; un solve injeniosa en programi un computador","da":"trick","de":"Schlich, Trick","en":"trick, ploy; gimmick, schtick; device (literary); hack (programming trick)","es":"truco, trampa, travesura, treta, ardid, maña","fr":"truc","it":"trucco","nl":"truc","pt":"truque, treta, trampa, brincadeira de mal gosto"}
 {"L":"truco de majia","C":["n"],"en":"magic trick","fr":"tour de magie"}
 {"L":"truco de mano","C":["n"],"en":"legerdemain","fr":"tour de main"}
 {"L":"truco perilosa","C":["n"],"en":"stunt"}
-{"L":"truci","C":["vt"],"en":"trick","fr":"truquer"}
+{"L":"truci","C":["vt"],"en":"trick; conjure, achieve via trickery","fr":"truquer"}
 {"L":"trucia","C":["n"],"en":"trickery"}
 {"L":"trucor","C":["n"],"en":"trickster","fr":"truqueur"}
 {"L":"trucor de cartas","C":["n"],"en":"cardsharp, cardshark"}
