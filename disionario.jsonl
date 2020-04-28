@@ -865,13 +865,12 @@
 {"L":"alti","C":["vnt"],"en":"rise, soar","fr":"monter, grimper","he":"לעלות, להתרומם"}
 {"L":"alti","C":["vt"],"en":"lift, raise, elevate, heighten; exalt; promote","fr":"élever, relever, monter","he":"לעלות, לרומם; לקדם"}
 {"L":"alti","C":["n"],"en":"rise; exaltation; promotion","fr":"ascension, essor, montée","he":"עלייה, התרוממות; התעלות; קידום"}
-{"L":"altia","C":["n"],"an":"altor, altitú","da":"højde","de":"Höhe","en":"height, altitude, elevation; highness, majesty","es":"altura, altitud","fr":"hauteur, altitude, taille","he":"גובה, פיסגה, צמרת, רום"}
+{"L":"altia","C":["n"],"u":"la tore ave 400 metres de altia; un tore con 400 metres de altia","an":"altor, altitú","da":"højde","de":"Höhe","en":"height, altitude, elevation; highness, majesty","es":"altura, altitud","fr":"hauteur, altitude, taille","he":"גובה, פיסגה, צמרת, רום"}
 {"L":"altia","C":["esc"],"en":"your highness, your majesty","fr":"altesse, majesté","he":"הוד מלכותך"}
 {"L":"altia de ex","C":["n","arte"],"en":"x-height (typography)","he":"גובה האות x"}
 {"L":"altia de tono","C":["n","mus"],"en":"pitch","fr":"hauteur, ton (musique)","he":"גובה הצליל"}
 {"L":"la altas e la basas","C":["n","pl"],"en":"the highs and lows, the ups and downs, vicissitudes","fr":"les hauts et les bas, les vicissitudes","he":"תהפוכות"}
 {"L":"la plu alta","C":["a"],"en":"highest, tallest, topmost, uppermost","fr":"le faîte, le sommet, la cime","he":"הכי גבוה"}
-{"L":"la tore ave 400 metres de altia","C":["esp"],"en":"the tower is 400 metres tall"}
 {"L":"plu alta","C":["a"],"en":"higher, taller, upper","fr":"plus haut, plus élevé","he":"גבוה יותר"}
 {"L":"sua altia","C":["n"],"en":"his highness, her highness","fr":"son altesse, sa majesté","he":"הוד מלכותו/מלכותה"}
 {"T":"r","L":"altai","C":["a"],"en":"Altai, Altay (person, language)","fr":"altaï (personne, langue)","he":"אלטאי, שפה אלטאית"}
@@ -14045,6 +14044,8 @@
 {"T":"r","L":"jaz","C":["a"],"d":"pertinente a un tipo de musica inventada par americanes negra, marcada par improvisa, sincopa e tipal un ritmo forte","en":"jazz","fr":"de jazz"}
 {"L":"jaz","C":["n"],"en":"jazz","fr":"jazz"}
 {"L":"jaz tradisional","C":["n"],"i":"#","en":"traditional jazz, dixieland","fr":"jazz traditionnel"}
+{"L":"jaziste","C":["n"],"en":"jazz player, jazz musician"}
+{"L":"jazor","C":["n"],"en":"jazz connoisseur; hepcat, hipster (member of the jazz subculture of the 1940s and 1950s)"}
 {"T":"r","L":"Jazair","C":["n","jeo"],"c":"Jazair","d":"un pais en Africa norde-ueste, a la costa de la Mar Mediteraneo; la site capital de esta","i":"#","en":"Algeria; Algiers","fr":"Algérie (pays); Alger (ville)"}
 {"L":"jazairi","C":["a"],"en":"Algerian","fr":"algérien (d'Algérie); algérois (d'Alger)"}
 {"L":"jazairi","C":["n"],"en":"Algerian","fr":"Algérien (d'Algérie); Algérois (d'Alger)"}
@@ -20015,11 +20016,11 @@
 {"T":"r","L":"pepsin","C":["n","bio"],"d":"la enzima xef de dijesta en la stomaco, cual rompe protenas a polipeptidos","en":"pepsin (enzyme)","fr":"pepsine"}
 {"T":"r","L":"peptido","C":["n","cim"],"d":"un composada de du o plu aminoasidas liada en un cadena","en":"peptide (chemistry)","fr":"peptide"}
 {"T":"r","L":"per","C":["prep"],"d":"con intende de; beneficante","g":"preposadas#per","n":"No confusa `per` e `par`. `Per` introdui un intende; `par` introdui un causa.","u":"nos labora per mone; viaja per vide la mundo; vestida per un sera de dansa; el ia scrive la libro per sua madre","v":"par, tra","da":"for, til","de":"für","en":"for (an intended reason or beneficiary); in order to, to","eo":"por, pro, en ĉiu","es":"para, por (a beneficio de; destinado para; con el propósito de)","fr":"pour"}
-{"T":"s","d":"intercambiada con","u":"tu ia paia tro per acel computador; me ia compra lo per mil euros; grasias per tua mesaje","de":"(in Austausch) für","en":"for, in exchange for, in return for","es":"por (en lugar de)","fr":"pour, à la place de, en échange de"}
-{"T":"s","d":"(en mesuras de rapidia e simil) en cada (de la unias spesifada)","u":"viaja a sento cilometres per ora","en":"for every, per (in measurements of speed, etc.)","fr":"par"}
+{"T":"s","d":"intercambiada con","u":"tu ia paia tro per acel computador; me ia compra lo per mil euros; grasias per tua mesaje","de":"(in Austausch) für","en":"for, in exchange for, in return for","es":"por (en lugar de)","fr":"pour, à la place de, en échange de, en place de"}
+{"T":"s","d":"(en mesuras de rapidia e simil) en cada (de la unias spesifada)","u":"viaja a sento cilometres per ora","en":"for every, per (in measurements of speed, etc.)","fr":"par (vitesse)"}
 {"T":"s","d":"suportante o representante (un promove)","u":"vota per la proposa; me parla per mea ami","en":"for, on behalf of; pro (in favour of)","fr":"pour, en faveur de, pro"}
-{"T":"s","d":"indicante la longia de un periodo de tempo o distantia tra cual on intende pasa","n":"E `per` e `tra` introdui espresas de tempo o distantia: `per` sujesta mera un intende; `tra` sujesta ce la esperia ia aveni vera.","u":"me vade a via per un semana; el va bisicli per tre menses","en":"for (an intended distance or duration)","eo":"-n, por","fr":"pendant"}
-{"T":"s","d":"no plu tarda ca (un tempo spesifada)","u":"me va ariva per cuatri pos nove; la labora va es completa per la fini de la anio","de":"bis","en":"by (an intended date or time)","es":"para","fr":"d'ici à, pour","it":"per, entro","pt":"até"}
+{"T":"s","d":"indicante la longia de un periodo de tempo o distantia tra cual on intende pasa","n":"E `per` e `tra` introdui espresas de tempo o distantia: `per` sujesta mera un intende; `tra` sujesta ce la esperia ia aveni vera.","u":"me vade a via per un semana; el va bisicli per tre menses","en":"for (an intended distance or duration)","eo":"-n, por","fr":"pendant, durant (temps); sur (distance)"}
+{"T":"s","d":"no plu tarda ca (un tempo spesifada)","u":"me va ariva per cuatri pos nove; la labora va es completa per la fini de la anio","de":"bis","en":"by (an intended date or time)","es":"para","fr":"d'ici à, pour, jusqu'à","it":"per, entro","pt":"até"}
 {"L":"per ci","C":["esp"],"en":"for whom (relative)","fr":"pour qui, pour lequel, pour laquelle (relatif)"}
 {"L":"per cual","C":["esp"],"en":"for which (relative)","fr":"pour quoi (relatif)"}
 {"L":"per si","C":["sj"],"en":"in case","fr":"au cas où, pour le cas où"}
@@ -20032,208 +20033,208 @@
 {"L":"percute","C":["n"],"en":"percussion","fr":"percussion"}
 {"L":"percutiste","C":["n"],"en":"percussionist","fr":"percussionniste"}
 {"T":"r","L":"perde","C":["vt"],"d":"sesa ave o reteni (un cosa); deveni privada de (un person o cosa); ariva tro tarda per usa (un veculo)","da":"tabe, miste, forlægge","de":"verlieren","en":"lose, misplace; miss (bus, connection, etc.)","es":"perder, extraviar, malacomodar, colocar mal","fr":"perdre"}
-{"L":"perde","C":["n"],"en":"loss"}
-{"L":"perde completa","C":["n"],"en":"complete loss, write-off"}
-{"L":"perde de consensia","C":["n"],"en":"blackout, loss of consciousness"}
-{"L":"perde de lus","C":["n"],"en":"blackout"}
-{"L":"bon perde","C":["esc"],"en":"good riddance"}
-{"L":"nonperdente","C":["a"],"en":"lossless (compression)"}
-{"L":"perdeda","C":["a"],"en":"lost, stray (dog, cat), astray"}
-{"L":"perdeda a mar","C":["a"],"en":"lost at sea, shipwrecked"}
-{"L":"perdeda a mar","C":["n"],"en":"castaway"}
-{"L":"perdeda en batalia","C":["a"],"en":"missing in action, MIA"}
-{"L":"perdente","C":["a"],"en":"losing; lossy (compression)"}
-{"L":"perdor","C":["n"],"en":"loser"}
-{"T":"r","L":"perdis","C":["n","avia"],"d":"un fasian xasada con coda corta e plumas brun","i":"#","t":"Phasianidae","en":"partridge"}
-{"L":"perdis blanca","C":["n","ani","avia"],"d":"un fasian de zonas artica e montaniosa, con gamas e pedes plumosa cual cambia tipal a blanca en la inverno","i":"#","t":"Lagopus","en":"ptarmigan"}
-{"T":"r","L":"peregrina","C":["vnt","rel"],"d":"viaja o vaga de loca a loca; viaja a un loca asosiada con un person o cosa bon conoseda o respetada","en":"peregrinate, make a pilgrimage"}
-{"L":"peregrina","C":["n"],"en":"peregrination, pilgrimage"}
-{"L":"peregrinor","C":["n","avia"],"d":"un person ci peregrina; un falcon forte ci abita xef montes e falesas costal","i":"#","t":"Falco peregrinus","en":"pilgrim; peregrine falcon"}
-{"T":"r","L":"perene","C":["a","bio","tera"],"d":"permanente tra tempo longa, o sempre reveninte; (un planta) vivente tra plu ca un anio; (un person) sempre ocupada par un rol o modo de vive spesifada; (un rieta o fonte) fluente tra la anio intera","en":"perennial"}
-{"L":"perene","C":["n"],"en":"perennial"}
+{"L":"perde","C":["n"],"en":"loss","fr":"perte"}
+{"L":"perde completa","C":["n"],"en":"complete loss, write-off","fr":"perte sèche, radiation"}
+{"L":"perde de consensia","C":["n"],"en":"blackout, loss of consciousness","fr":"perte de conscience, perte de connaissance, syncope"}
+{"L":"perde de lus","C":["n"],"en":"blackout","fr":"obscurcissement, panne d'électricité, coupure de courant"}
+{"L":"bon perde","C":["esc"],"en":"good riddance","fr":"bon débarras!, bon vent!"}
+{"L":"nonperdente","C":["a"],"en":"lossless (compression)","fr":"sans perte (de données)"}
+{"L":"perdeda","C":["a"],"en":"lost, stray (dog, cat), astray","fr":"perdu, errant (chien, chat), égaré, dans l'erreur, désorienté"}
+{"L":"perdeda a mar","C":["a"],"en":"lost at sea, shipwrecked","fr":"perdu en mer, naufragé"}
+{"L":"perdeda a mar","C":["n"],"en":"castaway","fr":"naufragé"}
+{"L":"perdeda en batalia","C":["a"],"en":"missing in action, MIA","fr":"disparu au combat, porté disparu"}
+{"L":"perdente","C":["a"],"en":"losing; lossy (compression)","fr":"avec perte"}
+{"L":"perdor","C":["n"],"en":"loser","fr":"perdant"}
+{"T":"r","L":"perdis","C":["n","avia"],"d":"un fasian xasada con coda corta e plumas brun","i":"#","t":"Phasianidae","en":"partridge","fr":"perdrix, perdreau"}
+{"L":"perdis blanca","C":["n","ani","avia"],"d":"un fasian de zonas artica e montaniosa, con gamas e pedes plumosa cual cambia tipal a blanca en la inverno","i":"#","t":"Lagopus","en":"ptarmigan","fr":"lagopède"}
+{"T":"r","L":"peregrina","C":["vnt","rel"],"d":"viaja o vaga de loca a loca; viaja a un loca asosiada con un person o cosa bon conoseda o respetada","en":"peregrinate, make a pilgrimage","fr":"pérégriner, vagabonder, vaguer, faire un pèlerinage"}
+{"L":"peregrina","C":["n"],"en":"peregrination, pilgrimage","fr":"pèlerinage, pérégrination"}
+{"L":"peregrinor","C":["n","avia"],"d":"un person ci peregrina; un falcon forte ci abita xef montes e falesas costal","i":"#","t":"Falco peregrinus","en":"pilgrim; peregrine falcon","fr":"pèlerin; faucon pèlerin"}
+{"T":"r","L":"perene","C":["a","bio","tera"],"d":"permanente tra tempo longa, o sempre reveninte; (un planta) vivente tra plu ca un anio; (un person) sempre ocupada par un rol o modo de vive spesifada; (un rieta o fonte) fluente tra la anio intera","en":"perennial","fr":"pérenne, vivace"}
+{"L":"perene","C":["n"],"en":"perennial","fr":"plante vivace"}
 {"T":"r","L":"perfeta","C":["a","fil"],"d":"con tota la elementos o cualias nesesada o desirada; tan bon como posible; sin alga fali o defeto; intera coreta; multe conveninte; esata","en":"perfect, flawless, immaculate, quintessential","fr":"parfait"}
-{"L":"perfeta","C":["av"],"en":"perfectly, by heart"}
+{"L":"perfeta","C":["av"],"en":"perfectly, by heart","fr":"parfaitement, par cœur"}
 {"L":"nonperfeta","C":["a"],"en":"imperfect, defective","fr":"défaut, imperfection"}
-{"L":"nonperfeta","C":["n"],"en":"imperfection, defect, flaw"}
-{"L":"perfeti","C":["vnt"],"en":"perfect"}
-{"L":"perfeti","C":["vt"],"en":"perfect"}
-{"L":"perfetia","C":["n"],"en":"perfection"}
-{"L":"perfetisme","C":["n"],"en":"perfectionism"}
-{"L":"perfetiste","C":["a"],"en":"perfectionist, punctilious"}
-{"L":"perfetiste","C":["n"],"en":"perfectionist"}
-{"T":"r","L":"perfora","C":["vt"],"d":"(un ojeto puntida e agu) vade en o tra (un cosa); fa (un fora) con un strumento agu; fa un fora en (la oreas, nas o otra parte de corpo) per porta joalas en lo; crea un fora o tunel tra; forsa o corti un via tra","en":"perforate, pierce, puncture, riddle, run through, punch (hole)"}
-{"L":"perfora","C":["n"],"en":"perforation, puncture"}
-{"L":"perfora lombal","C":["n"],"en":"lumbar puncture, spinal tap"}
-{"L":"nonperforada","C":["a"],"en":"unperforated, imperforate"}
-{"L":"perforador","C":["n"],"en":"perforator, punch"}
-{"T":"r","L":"pergamin","C":["n","util"],"d":"un materia rijida, plata e magra, fabricada de la pel preparada de un animal e usada como un surfas durante per scrive en edas antica e medieval; un manoscrito scriveda sur esta materia; un paper tratada per sembla esta materia e usada como un paralampa, un surfas per scrive, e en forni","en":"parchment"}
-{"L":"pergamin de boveta","C":["n"],"en":"vellum"}
-{"L":"enrola de pergamin","C":["n"],"en":"scroll"}
-{"T":"r","L":"pergola","C":["n","arci"],"d":"un arco en un jardin o parce, construida de un sceleto covreda con plantas trepante; un alcova ombrida en un jardin, con lados e teto formida par arbores o plantas trepante sur un sceleto de lenio","i":"#","en":"pergola, arbor|ur"}
-{"T":"r","L":"peri","C":["vt"],"d":"usa o consuma estravagante, sin cura, o sin resulta intendeda; fali usa bon o completa; usa en modo fol; permete ce (un oportun) pasa o es perdeda","da":"spilde, misbruge","de":"verschwenden","en":"waste, misuse, squander","es":"malgastar, desperdiciar, derrochar, disipar, desgastar, gastar","fr":"gaspiller"}
-{"L":"peri","C":["n"],"en":"waste"}
-{"L":"nonperosa","C":["a"],"en":"efficient, cost-effective"}
-{"L":"nonperosa de enerjia","C":["a"],"en":"energy-efficient"}
-{"L":"nonperosia","C":["n"],"en":"efficiency, performance, cost-effectiveness"}
-{"L":"perosa","C":["a"],"en":"wasteful, inefficient, prodigal, profligate"}
-{"L":"perosia","C":["n"],"en":"wastefulness, inefficiency"}
-{"T":"r","L":"peri-","C":["pf","tecn"],"d":"sirca, prosima","en":"peri- (around)"}
-{"T":"r","L":"pericardio","C":["n","anat"],"d":"la membrana encluinte la cor","en":"pericardium (anatomy)"}
-{"T":"r","L":"pericardite","C":["n","med"],"d":"un inflama de la pericardio","en":"pericarditis (medical)"}
-{"T":"r","L":"perielio","C":["n","ast"],"d":"la punto en la orbita de un planeta, asteroide o cometa do lo es la plu prosima a la Sol","en":"perihelion (astronomy)"}
-{"T":"r","L":"periferia","C":["n"],"d":"la borda o limitas esterna de un area o ojeto; un rol min importante en un ativia, grupo o sujeto","en":"periphery"}
-{"L":"periferial","C":["a"],"en":"peripheral, distal; obviative"}
-{"T":"r","L":"perifrase","C":["vt","ling"],"d":"espresa (un sinifia) par parolas nondireta o multiple","en":"periphrase"}
-{"L":"perifrase","C":["n"],"en":"periphrasis, circumlocution, circuitousness"}
-{"L":"perifrasente","C":["a"],"en":"periphrastic, circumlocutory, circuitous"}
-{"T":"r","L":"perijeo","C":["n","ast"],"d":"la punto en la orbita de la Luna o un satelite do lo es la plu prosima a la Tera","en":"perigee (astronomy)"}
-{"T":"r","L":"peril","C":["n"],"d":"la posible de sufri dana o feri; un person o cosa cual pote causa dana o feri; la posible de un aveni nondesirada o nonplasente","da":"fare, trussel","de":"Gefahr","en":"danger, hazard, peril, jeopardy","es":"peligro, riesgo"}
-{"L":"perili","C":["vt"],"en":"endanger, imperil, jeopardize|is, compromise"}
-{"L":"perilida","C":["a"],"en":"endangered, at risk"}
-{"L":"perilosa","C":["a"],"en":"dangerous, hazardous, perilous, precarious"}
-{"T":"r","L":"perila","C":["n","pla"],"d":"un planta asian en familia de menta, con usas en medica e cosina","i":"#","t":"Perilla","en":"perilla (plant)"}
-{"T":"r","L":"perimetre","C":["n","mat","gov"],"d":"un linia continuante cual formi la borda de un forma jeometrial cluida; la borda de un forma jeometrial sirculo; la distantia sirca alga cosa; la borda de un area o ojeto; la borda defendeda de un base militar","en":"perimeter, circumference, girth"}
-{"T":"r","L":"perineo","C":["n","anat"],"d":"la area de corpo entre la ano e la scroto o vulva","en":"perineum (anatomy)"}
+{"L":"nonperfeta","C":["n"],"en":"imperfection, defect, flaw","fr":"imperfection, défaut, faille, lacune, tare"}
+{"L":"perfeti","C":["vnt"],"en":"perfect","fr":"se perfectionner"}
+{"L":"perfeti","C":["vt"],"en":"perfect","fr":"perfectionner"}
+{"L":"perfetia","C":["n"],"en":"perfection","fr":"perfection"}
+{"L":"perfetisme","C":["n"],"en":"perfectionism","fr":"perfectionnisme"}
+{"L":"perfetiste","C":["a"],"en":"perfectionist, punctilious","fr":"perfectionniste, pointilleux, minutieux, scrupuleux, soigneux"}
+{"L":"perfetiste","C":["n"],"en":"perfectionist","fr":"perfectionniste"}
+{"T":"r","L":"perfora","C":["vt"],"d":"(un ojeto puntida e agu) vade en o tra (un cosa); fa (un fora) con un strumento agu; fa un fora en (la oreas, nas o otra parte de corpo) per porta joalas en lo; crea un fora o tunel tra; forsa o corti un via tra","en":"perforate, pierce, puncture, riddle, run through, punch (hole)","fr":"perforer, percer, trouer, traverser, forer, piquer, poinçonner"}
+{"L":"perfora","C":["n"],"en":"perforation, puncture","fr":"perforation, trouée, percement, traversée, ponction, poinçonnage"}
+{"L":"perfora lombal","C":["n"],"en":"lumbar puncture, spinal tap","fr":"ponction lombaire"}
+{"L":"nonperforada","C":["a"],"en":"unperforated, imperforate","fr":"non perforé"}
+{"L":"perforador","C":["n"],"en":"perforator, punch","fr":"perforateur, poinçon"}
+{"T":"r","L":"pergamin","C":["n","util"],"d":"un materia rijida, plata e magra, fabricada de la pel preparada de un animal e usada como un surfas durante per scrive en edas antica e medieval; un manoscrito scriveda sur esta materia; un paper tratada per sembla esta materia e usada como un paralampa, un surfas per scrive, e en forni","en":"parchment","fr":"parchemin"}
+{"L":"pergamin de boveta","C":["n"],"en":"vellum","fr":"vélin"}
+{"L":"enrola de pergamin","C":["n"],"en":"scroll","fr":"rouleau (de parchemin)"}
+{"T":"r","L":"pergola","C":["n","arci"],"d":"un arco en un jardin o parce, construida de un sceleto covreda con plantas trepante; un alcova ombrida en un jardin, con lados e teto formida par arbores o plantas trepante sur un sceleto de lenio","i":"#","en":"pergola, arbor|ur","fr":"pergola, tonnelle, gloriette, charmille"}
+{"T":"r","L":"peri","C":["vt"],"d":"usa o consuma estravagante, sin cura, o sin resulta intendeda; fali usa bon o completa; usa en modo fol; permete ce (un oportun) pasa o es perdeda","da":"spilde, misbruge","de":"verschwenden","en":"waste, misuse, squander","es":"malgastar, desperdiciar, derrochar, disipar, desgastar, gastar","fr":"gaspiller, dilapider"}
+{"L":"peri","C":["n"],"en":"waste","fr":"gaspillage, dilapidation"}
+{"L":"nonperosa","C":["a"],"en":"efficient, cost-effective","fr":"sans gaspillage, économique, rentable, économe, efficace, efficient, avantageux, peu coûteux, performant"}
+{"L":"nonperosa de enerjia","C":["a"],"en":"energy-efficient","fr":"sans déperdition d'énergie, économe en énergie, éco-énergétique, économe en énergie, à bon rendement énergétique"}
+{"L":"nonperosia","C":["n"],"en":"efficiency, performance, cost-effectiveness","fr":"efficacité, économie, rentabilité"}
+{"L":"perosa","C":["a"],"en":"wasteful, inefficient, prodigal, profligate","fr":"inefficace, gourmand"}
+{"L":"perosia","C":["n"],"en":"wastefulness, inefficiency","fr":"gaspillage, inefficacité"}
+{"T":"r","L":"peri-","C":["pf","tecn"],"d":"sirca, prosima","en":"peri- (around)","fr":"péri-"}
+{"T":"r","L":"pericardio","C":["n","anat"],"d":"la membrana encluinte la cor","en":"pericardium (anatomy)","fr":"péricarde"}
+{"T":"r","L":"pericardite","C":["n","med"],"d":"un inflama de la pericardio","en":"pericarditis (medical)","fr":"péricardite (médecine)"}
+{"T":"r","L":"perielio","C":["n","ast"],"d":"la punto en la orbita de un planeta, asteroide o cometa do lo es la plu prosima a la Sol","en":"perihelion (astronomy)","fr":"périhélie"}
+{"T":"r","L":"periferia","C":["n"],"d":"la borda o limitas esterna de un area o ojeto; un rol min importante en un ativia, grupo o sujeto","en":"periphery","fr":"périphérie"}
+{"L":"periferial","C":["a"],"en":"peripheral, distal; obviative","fr":"périphérique"}
+{"T":"r","L":"perifrase","C":["vt","ling"],"d":"espresa (un sinifia) par parolas nondireta o multiple","en":"periphrase","fr":"périphraser, faire une périphrase pour dire"}
+{"L":"perifrase","C":["n"],"en":"periphrasis, circumlocution, circuitousness","fr":"périphrase, circonlocution"}
+{"L":"perifrasente","C":["a"],"en":"periphrastic, circumlocutory, circuitous","fr":"périphrastique"}
+{"T":"r","L":"perijeo","C":["n","ast"],"d":"la punto en la orbita de la Luna o un satelite do lo es la plu prosima a la Tera","en":"perigee (astronomy)","fr":"périgée"}
+{"T":"r","L":"peril","C":["n"],"d":"la posible de sufri dana o feri; un person o cosa cual pote causa dana o feri; la posible de un aveni nondesirada o nonplasente","da":"fare, trussel","de":"Gefahr","en":"danger, hazard, peril, jeopardy","es":"peligro, riesgo","fr":"péril, danger"}
+{"L":"perili","C":["vt"],"en":"endanger, imperil, jeopardize|is, compromise","fr":"mettre en danger, mettre en péril, compromettre, exposer"}
+{"L":"perilida","C":["a"],"en":"endangered, at risk","fr":"mis en danger, mis en péril, compromis, exposé"}
+{"L":"perilosa","C":["a"],"en":"dangerous, hazardous, perilous, precarious","fr":"périlleux, dangereux, hasardeux, précaire"}
+{"T":"r","L":"perila","C":["n","pla"],"d":"un planta asian en familia de menta, con usas en medica e cosina","i":"#","t":"Perilla","en":"perilla (plant)","fr":"perilla"}
+{"T":"r","L":"perimetre","C":["n","mat","gov"],"d":"un linia continuante cual formi la borda de un forma jeometrial cluida; la borda de un forma jeometrial sirculo; la distantia sirca alga cosa; la borda de un area o ojeto; la borda defendeda de un base militar","en":"perimeter, circumference, girth","fr":"périmètre, circonférence"}
+{"T":"r","L":"perineo","C":["n","anat"],"d":"la area de corpo entre la ano e la scroto o vulva","en":"perineum (anatomy)","fr":"périnée"}
 {"T":"r","L":"periodo","C":["n","tera"],"d":"un sesion de tempo; un parte de la vive de un person, nasion o sivilia, con cualia spesifada; (en jeolojia) un divide major de tempo, plu ca un epoca ma min ca un era","da":"periode, epoke, æra","de":"Zeitrechnung, Epoche","en":"period, spell","es":"período, era, época","fr":"période, époque, âge"}
-{"L":"periodo de condena","C":["n"],"en":"sentence (prison)"}
-{"L":"periodo de incuba","C":["n"],"en":"incubation period"}
-{"L":"periodo de ofisia","C":["n"],"en":"term of office, tenure"}
-{"L":"nonperiodal","C":["a"],"da":"uregelmæssig, sporadisk","en":"irregular, sporadic, intermittent, infrequent"}
-{"L":"periodal","C":["a"],"da":"periodisk, regelmæssig","en":"periodic, regular","es":"periódico, regular"}
-{"T":"r","L":"periodontia","C":["n","med"],"d":"la ramo de odontia cual studia la strutures ensircante e suportante la dentes","en":"periodontology, periodontics"}
-{"L":"periodontiste","C":["n"],"en":"periodontist"}
-{"T":"r","L":"periorbita","C":["n","anat"],"d":"la area sirca la oio e la orbita","en":"periorbita (anatomy)"}
-{"T":"r","L":"periscopio","C":["n","util"],"d":"un tubo conteninte mirores o prismas, permetente ce on regarda ojetos de un loca plu alta","i":"#","en":"periscope"}
-{"L":"periscopial","C":["a"],"en":"periscopic"}
-{"T":"r","L":"peristalsia","C":["n","bio"],"d":"la constrinje e relasa nonvolente de la musculos de un intestin, esofago o otra canal, creante un move ondin cual puia la contenidas a ante","en":"peristalsis (biology)"}
-{"L":"peristalsica","C":["a"],"en":"peristaltic"}
-{"T":"r","L":"peritoneo","C":["n","anat"],"d":"la membrana serosa cual fore la caveta de la adomen e covre la organos adomenal","en":"peritoneum (anatomy)"}
-{"T":"r","L":"perjura","C":["vnt","gov"],"d":"menti intendente cuando on atesta a un corte","en":"perjure"}
-{"L":"perjura","C":["n"],"en":"perjury"}
-{"L":"perjuror","C":["n"],"en":"perjurer"}
-{"T":"r","L":"perla","C":["n","vest"],"d":"un masa dur, sfera e briliante, tipal blanca o bluin gris, formida en la conca de un ostra o otra bivalvo, valuada como un jem; un imita artifis de esta","i":"#","en":"pearl"}
-{"L":"perla de zucar","C":["n"],"en":"sugarplum"}
-{"L":"perleta","C":["n"],"en":"bead"}
-{"L":"perlin","C":["a"],"en":"pearly"}
-{"T":"r","L":"perma","C":["vt","vest"],"d":"prepara (la capeles) en ondas o risas e trata (los) con cimicales afin la stilo permane per alga menses","en":"perm"}
-{"L":"perma","C":["n"],"en":"perm, permanent wave (hair)"}
-{"T":"r","L":"permajelada","C":["n"],"d":"un strato de tera cual es jelada tra la anio intera","en":"permafrost"}
-{"T":"r","L":"permane","C":["vnt"],"d":"continua esiste; resta en la loca cual on ia ocupa; resta pos cuando otras o otra partes ia es completida, usada o tratada","en":"be permanent, remain, continue, stay, overstay, linger"}
-{"L":"permane","C":["n"],"en":"permanence"}
-{"L":"nonpermanente","C":["a"],"en":"impermanent, short-term"}
-{"L":"nonpermanentia","C":["n"],"en":"impermanence"}
+{"L":"periodo de condena","C":["n"],"en":"sentence (prison)","fr":"sanction"}
+{"L":"periodo de incuba","C":["n"],"en":"incubation period","fr":"période d'incubation"}
+{"L":"periodo de ofisia","C":["n"],"en":"term of office, tenure","fr":"durée de mandat"}
+{"L":"nonperiodal","C":["a"],"da":"uregelmæssig, sporadisk","en":"irregular, sporadic, intermittent, infrequent","fr":"non périodique, irrégulier, sporadique, aléatoire"}
+{"L":"periodal","C":["a"],"da":"periodisk, regelmæssig","en":"periodic, regular","es":"periódico, regular","fr":"périodique, régulier, cyclique"}
+{"T":"r","L":"periodontia","C":["n","med"],"d":"la ramo de odontia cual studia la strutures ensircante e suportante la dentes","en":"periodontology, periodontics","fr":"parodontie, parodontologie"}
+{"L":"periodontiste","C":["n"],"en":"periodontist","fr":"parodontologue"}
+{"T":"r","L":"periorbita","C":["n","anat"],"d":"la area sirca la oio e la orbita","en":"periorbita (anatomy)","fr":"périorbite"}
+{"T":"r","L":"periscopio","C":["n","util"],"d":"un tubo conteninte mirores o prismas, permetente ce on regarda ojetos de un loca plu alta","i":"#","en":"periscope","fr":"périscope"}
+{"L":"periscopial","C":["a"],"en":"periscopic","fr":"périscopique"}
+{"T":"r","L":"peristalsia","C":["n","bio"],"d":"la constrinje e relasa nonvolente de la musculos de un intestin, esofago o otra canal, creante un move ondin cual puia la contenidas a ante","en":"peristalsis (biology)","fr":"péristaltisme"}
+{"L":"peristalsica","C":["a"],"en":"peristaltic","fr":"péristaltique"}
+{"T":"r","L":"peritoneo","C":["n","anat"],"d":"la membrana serosa cual fore la caveta de la adomen e covre la organos adomenal","en":"peritoneum (anatomy)","fr":"péritoine"}
+{"T":"r","L":"perjura","C":["vnt","gov"],"d":"menti intendente cuando on atesta a un corte","en":"perjure","fr":"se parjurer"}
+{"L":"perjura","C":["n"],"en":"perjury","fr":"parjure"}
+{"L":"perjuror","C":["n"],"en":"perjurer","fr":"parjure"}
+{"T":"r","L":"perla","C":["n","vest"],"d":"un masa dur, sfera e briliante, tipal blanca o bluin gris, formida en la conca de un ostra o otra bivalvo, valuada como un jem; un imita artifis de esta","i":"#","en":"pearl","fr":"perle"}
+{"L":"perla de zucar","C":["n"],"en":"sugarplum","fr":"sucre d'orge"}
+{"L":"perleta","C":["n"],"en":"bead","fr":"perle"}
+{"L":"perlin","C":["a"],"en":"pearly","fr":"perlé"}
+{"T":"r","L":"perma","C":["vt","vest"],"d":"prepara (la capeles) en ondas o risas e trata (los) con cimicales afin la stilo permane per alga menses","en":"perm","fr":"faire une permanente (coiffure)"}
+{"L":"perma","C":["n"],"en":"perm, permanent wave (hair)","fr":"permanente"}
+{"T":"r","L":"permajelada","C":["n"],"d":"un strato de tera cual es jelada tra la anio intera","en":"permafrost","fr":"permafrost"}
+{"T":"r","L":"permane","C":["vnt"],"d":"continua esiste; resta en la loca cual on ia ocupa; resta pos cuando otras o otra partes ia es completida, usada o tratada","en":"be permanent, remain, continue, stay, overstay, linger","fr":"demeurer, rester, continuer, persister, perdurer"}
+{"L":"permane","C":["n"],"en":"permanence","fr":"continuité, permanence, durée, demeure"}
+{"L":"nonpermanente","C":["a"],"en":"impermanent, short-term","fr":"impermanent, de courte durée, éphémère, momentané, passager, provisoire, temporaire, transitoire"}
+{"L":"nonpermanentia","C":["n"],"en":"impermanence","fr":"impermanence, caractère provisoire, caractère temporaire"}
 {"L":"permanente","C":["a"],"da":"permanent","de":"dauernd","en":"permanent, long-term, indelible","es":"permanente, duradero, perpetuo","fr":"permanent, constant"}
-{"L":"permanentia","C":["n"],"en":"permanence"}
-{"T":"r","L":"permea","C":["vt","cim"],"d":"entra a e estende tra (alga cosa); es presente e evidente tra tota de","en":"permeate, pervade, percolate, suffuse, riddle"}
-{"L":"permea","C":["n"],"en":"permeation, perfusion"}
-{"L":"nonpermeable","C":["a"],"en":"impermeable, impervious, hermetic, waterproof, airtight"}
-{"L":"permeable","C":["a"],"en":"permeable"}
-{"L":"permeada","C":["a"],"en":"permeated; ingrown (nail)"}
-{"L":"permeada","C":["n"],"en":"filtrate"}
-{"L":"permeante","C":["a"],"en":"permeating, pervading, pervasive"}
-{"L":"semipermeable","C":["a"],"en":"semipermeable"}
-{"T":"r","L":"permete","C":["vt","gov"],"d":"dona autori o acorda a (algun) per fa alga cosa; no preveni o proibi","u":"me permete ce tu reposa; me permete tu a reposa; me permete un reposa a tu","da":"lade, tillade","de":"erlauben","en":"permit, allow, let, authorize|is, grant; condone","es":"permitir, dejar, conceder, admitir","fr":"permettre"}
-{"L":"permete","C":["n"],"en":"permission, authorization|is, right, license|ce"}
-{"L":"permete a se","C":["v"],"en":"allow oneself (to do), afford (to do)"}
-{"L":"permete entra","C":["v"],"en":"admit, allow entry"}
-{"L":"permete poesial","C":["n"],"en":"poetic license|ce"}
-{"L":"permete ce on vota","C":["v"],"en":"enfranchise"}
-{"L":"es permeteda","C":["v"],"en":"be permitted, be allowed"}
-{"L":"nonpermeteda","C":["a"],"en":"disallowed, forbidden, unauthorized|is"}
-{"L":"nonpermeteda","C":["n"],"en":"no-no"}
-{"L":"permeteda","C":["a"],"en":"allowed, permitted, allowable, permissible"}
-{"L":"permetente","C":["a"],"en":"permitting"}
-{"L":"permetente ce","C":["sj"],"en":"although, granted that"}
-{"T":"r","L":"permian","C":["a","tera"],"d":"pertinente a la periodo final de la paleozoica, entre sirca 290 milion anios e 245 milion anios ante aora","en":"Permian (geology)"}
-{"L":"permian","C":["n"],"en":"Permian (geology)"}
-{"T":"r","L":"permuta","C":["vt","mat"],"d":"cambia la ordina o organiza de","en":"permutate"}
-{"L":"permuta","C":["n"],"en":"permutation"}
-{"T":"r","L":"pero","C":["n","pla"],"d":"un arbor cual produi peras","t":"Pyrus","en":"pear (tree)"}
-{"L":"pera","C":["n","pla","cos"],"d":"un fruta comable, jala-verde o brun-verde, tipal magra a la alta e plu larga a la basa, con sabor dulse","i":"#","en":"pear (fruit)"}
-{"L":"perin","C":["a"],"en":"pearlike, pear-shaped"}
-{"T":"r","L":"perosido","C":["n","cim"],"d":"un composada de du atomes de osijen liada con lunlotra en sua molecula o como un anion","en":"peroxide"}
-{"L":"idrojen perosido","C":["n"],"en":"hydrogen peroxide"}
-{"T":"r","L":"perosisoma","C":["n","bio"],"d":"un organeta peti en la sitoplasma de multe selulas cual conteni enzimas cual redui idrojen perosido","en":"peroxisome (biology)"}
-{"T":"r","L":"perpendicular","C":["a","mat"],"d":"a un angulo de 90° en relata a un linia, plana o surfas; vertical","en":"perpendicular"}
-{"L":"perpendicular","C":["n"],"en":"perpendicular"}
-{"T":"r","L":"persegue","C":["vt","gov"],"d":"fa ce (algun) sufri odia e maltrata, tipal per sua raza o credes relijial o political; molesta o irita (algun) persistente","en":"persecute"}
-{"L":"persegue","C":["n"],"en":"persecution"}
-{"L":"perseguor","C":["n"],"en":"persecutor"}
-{"T":"r","L":"persentil","C":["n","uma"],"d":"cada de sento grupos egal en cual on pote divide un popla par la valua de un variable","en":"percentile"}
-{"T":"r","L":"persento","C":["n","mat"],"d":"(en espresas de grado o cuantia) un parte en cada sento","en":"percent, percentage point"}
-{"L":"sincodes persentos","C":["n"],"en":"fifty percent"}
-{"T":"r","L":"Perseo","C":["n","ast","mit"],"d":"(en mitos elinica) la fio de Zeus e Danae, un eroe selebrada per multe atenis; (en astronomia) un constela grande en la emisfera norde cual inclui un parte densa de la Via Lete","i":"#","en":"Perseus (mythology, constellation)"}
-{"T":"r","L":"persepi","C":["vt","bio","uma"],"d":"es consensa de (informa colieda par la sensas)","da":"opfatte","de":"wahrnehmen","en":"perceive, notice, realize|is, detect, discern","es":"percibir, detectar, descubrir","fr":"percevoir"}
-{"L":"persepi","C":["n"],"en":"perception; interpretation, point of view"}
-{"L":"persepi estrasensal","C":["n"],"en":"extrasensory perception, ESP"}
-{"L":"apena persepable","C":["a"],"en":"barely perceptible, faint"}
-{"L":"fa ce on persepi","C":["v"],"en":"call attention to, draw attention to"}
-{"L":"fasil persepable","C":["a"],"en":"salient, conspicuous, standing out"}
-{"L":"malpersepi","C":["vt"],"en":"misperceive, mistake for"}
-{"L":"malpersepi","C":["n"],"en":"misperception, (optical) illusion"}
-{"L":"malpersepida","C":["a"],"en":"illusional"}
-{"L":"nonpersepable","C":["a"],"en":"imperceptible, unnoticeable"}
-{"L":"persepable","C":["a"],"en":"perceptible, noticeable, tangible"}
-{"L":"persepal","C":["a"],"en":"perceptual"}
-{"L":"persepida","C":["n"],"en":"percept"}
-{"L":"persepinte","C":["a"],"en":"perceptive, discerning, incisive, trenchant"}
-{"T":"r","L":"Persia","C":["n","jeo","ist"],"d":"un pais antica en Asia sude-ueste, oji nomida Iran","en":"Persia (ancient region)"}
-{"L":"Golfo Persian","C":["n","jeo"],"d":"un golfo entre Arabia e Iran","i":"#","en":"Persian Gulf"}
-{"L":"persian","C":["a"],"en":"Persian"}
-{"T":"r","L":"persil","C":["n","pla","cos"],"d":"un planta duanial con flores blanca e folias bonodorosa, usada como un erba en cosini","i":"#","t":"Petroselinum crispum","en":"parsley (plant)"}
-{"T":"r","L":"persiste","C":["vnt"],"d":"continua esiste; continua firma o ostinosa con un opina o curso de ata an con difisiles, oposas o falis","en":"persist, persevere, linger, stick (around)"}
-{"L":"persiste","C":["vt"],"en":"persist, persevere, linger"}
-{"L":"persiste","C":["n"],"en":"persistence, perseverance, tenacity"}
-{"L":"persistente","C":["a"],"en":"persistent, lingering, tenacious"}
+{"L":"permanentia","C":["n"],"en":"permanence","fr":"permanence, continuité, constance"}
+{"T":"r","L":"permea","C":["vt","cim"],"d":"entra a e estende tra (alga cosa); es presente e evidente tra tota de","en":"permeate, pervade, percolate, suffuse, riddle","fr":"diffuser dans, imprégner, pénétrer, s'infiltrer dans, se répandre dans"}
+{"L":"permea","C":["n"],"en":"permeation, perfusion","fr":"diffusion, imprégnation, pénétration, infiltration"}
+{"L":"nonpermeable","C":["a"],"en":"impermeable, impervious, hermetic, waterproof, airtight","fr":"imperméable, étanche, hermétique"}
+{"L":"permeable","C":["a"],"en":"permeable","fr":"perméable, poreux"}
+{"L":"permeada","C":["a"],"en":"permeated; ingrown (nail)","fr":"imprégné, infiltré, pénétré; incarné (ongle)"}
+{"L":"permeada","C":["n"],"en":"filtrate","fr":"filtrat"}
+{"L":"permeante","C":["a"],"en":"permeating, pervading, pervasive","fr":"imprégnant, s'infiltrant, ambiant, diffusant, envahissant"}
+{"L":"semipermeable","C":["a"],"en":"semipermeable","fr":"semiperméable"}
+{"T":"r","L":"permete","C":["vt","gov"],"d":"dona autori o acorda a (algun) per fa alga cosa; no preveni o proibi","u":"me permete ce tu reposa; me permete tu a reposa; me permete un reposa a tu","da":"lade, tillade","de":"erlauben","en":"permit, allow, let, authorize|is, grant; condone","es":"permitir, dejar, conceder, admitir","fr":"permettre, autoriser, laisser, donner le droit, donner la permission"}
+{"L":"permete","C":["n"],"en":"permission, authorization|is, right, license|ce","fr":"permission, autorisation, permis, droit"}
+{"L":"permete a se","C":["v"],"en":"allow oneself (to do), afford (to do)","fr":"se permettre, se donner la permission, se laisser, s'octroyer"}
+{"L":"permete entra","C":["v"],"en":"admit, allow entry","fr":"laisser entrer"}
+{"L":"permete poesial","C":["n"],"en":"poetic license|ce","fr":"licence poétique"}
+{"L":"permete ce on vota","C":["v"],"en":"enfranchise","fr":"donner le droit de vote, accorder le droit de vote"}
+{"L":"es permeteda","C":["v"],"en":"be permitted, be allowed","fr":"avoir le droit de, avoir le permis de, avoir l'autorisation de, être autorisé à"}
+{"L":"nonpermeteda","C":["a"],"en":"disallowed, forbidden, unauthorized|is","fr":"interdit, prohibé, non autorisé, non permis, refusé"}
+{"L":"nonpermeteda","C":["n"],"en":"no-no","fr":"interdiction, prohibition, refus"}
+{"L":"permeteda","C":["a"],"en":"allowed, permitted, allowable, permissible","fr":"permis, autorisé, autorisable"}
+{"L":"permetente","C":["a"],"en":"permitting","fr":"autorisant"}
+{"L":"permetente ce","C":["sj"],"en":"although, granted that","fr":"étant acquis que, de sorte que"}
+{"T":"r","L":"permian","C":["a","tera"],"d":"pertinente a la periodo final de la paleozoica, entre sirca 290 milion anios e 245 milion anios ante aora","en":"Permian (geology)","fr":"permien"}
+{"L":"permian","C":["n"],"en":"Permian (geology)","fr":"Permien"}
+{"T":"r","L":"permuta","C":["vt","mat"],"d":"cambia la ordina o organiza de","en":"permutate","fr":"permuter"}
+{"L":"permuta","C":["n"],"en":"permutation","fr":"permutation"}
+{"T":"r","L":"pero","C":["n","pla"],"d":"un arbor cual produi peras","t":"Pyrus","en":"pear (tree)","fr":"poirier"}
+{"L":"pera","C":["n","pla","cos"],"d":"un fruta comable, jala-verde o brun-verde, tipal magra a la alta e plu larga a la basa, con sabor dulse","i":"#","en":"pear (fruit)","fr":"poire"}
+{"L":"perin","C":["a"],"en":"pearlike, pear-shaped","fr":"en forme de poire, semblable à une poire"}
+{"T":"r","L":"perosido","C":["n","cim"],"d":"un composada de du atomes de osijen liada con lunlotra en sua molecula o como un anion","en":"peroxide","fr":"peroxyde"}
+{"L":"idrojen perosido","C":["n"],"en":"hydrogen peroxide","fr":"eau oxygénée, peroxyde d'hydrogène"}
+{"T":"r","L":"perosisoma","C":["n","bio"],"d":"un organeta peti en la sitoplasma de multe selulas cual conteni enzimas cual redui idrojen perosido","en":"peroxisome (biology)","fr":"peroxysome"}
+{"T":"r","L":"perpendicular","C":["a","mat"],"d":"a un angulo de 90° en relata a un linia, plana o surfas; vertical","en":"perpendicular","fr":"perpendiculaire"}
+{"L":"perpendicular","C":["n"],"en":"perpendicular","fr":"perpendiculaire"}
+{"T":"r","L":"persegue","C":["vt","gov"],"d":"fa ce (algun) sufri odia e maltrata, tipal per sua raza o credes relijial o political; molesta o irita (algun) persistente","en":"persecute","fr":"persécuter"}
+{"L":"persegue","C":["n"],"en":"persecution","fr":"persécution"}
+{"L":"perseguor","C":["n"],"en":"persecutor","fr":"persécuteur"}
+{"T":"r","L":"persentil","C":["n","uma"],"d":"cada de sento grupos egal en cual on pote divide un popla par la valua de un variable","en":"percentile","fr":"centile"}
+{"T":"r","L":"persento","C":["n","mat"],"d":"(en espresas de grado o cuantia) un parte en cada sento","en":"percent, percentage point","fr":"pourcentage"}
+{"L":"sincodes persentos","C":["n"],"en":"fifty percent","fr":"50 %, cinquante pour cent"}
+{"T":"r","L":"Perseo","C":["n","ast","mit"],"d":"(en mitos elinica) la fio de Zeus e Danae, un eroe selebrada per multe atenis; (en astronomia) un constela grande en la emisfera norde cual inclui un parte densa de la Via Lete","i":"#","en":"Perseus (mythology, constellation)","fr":"Persée (mythologie, constellation)"}
+{"T":"r","L":"persepi","C":["vt","bio","uma"],"d":"es consensa de (informa colieda par la sensas)","da":"opfatte","de":"wahrnehmen","en":"perceive, notice, realize|is, detect, discern","es":"percibir, detectar, descubrir","fr":"percevoir, discerner, remarquer, détecter, distinguer, sentir, ressentir"}
+{"L":"persepi","C":["n"],"en":"perception; interpretation, point of view","fr":"perception, interprétation, point de vue, opinion, sentiment"}
+{"L":"persepi estrasensal","C":["n"],"en":"extrasensory perception, ESP","fr":"perception extrasensorielle"}
+{"L":"apena persepable","C":["a"],"en":"barely perceptible, faint","fr":"à peine perceptible, subtil, fin, ténu, léger"}
+{"L":"fa ce on persepi","C":["v"],"en":"call attention to, draw attention to","fr":"attirer l'attention sur, faire porter l'attention sur, faire remarquer"}
+{"L":"fasil persepable","C":["a"],"en":"salient, conspicuous, standing out","fr":"visible, manifeste, voyant, marquant, remarquable, flagrant, notable"}
+{"L":"malpersepi","C":["vt"],"en":"misperceive, mistake for","fr":"avoir une mauvaise perception de, faire une erreur sur"}
+{"L":"malpersepi","C":["n"],"en":"misperception, (optical) illusion","fr":"mauvaise perception, illusion (optique)"}
+{"L":"malpersepida","C":["a"],"en":"illusional","fr":"mal perçu, illusoire, trompeur"}
+{"L":"nonpersepable","C":["a"],"en":"imperceptible, unnoticeable","fr":"imperceptible, indécelable, indiscernable"}
+{"L":"persepable","C":["a"],"en":"perceptible, noticeable, tangible","fr":"perceptible, discernable, tangible, visible"}
+{"L":"persepal","C":["a"],"en":"perceptual","fr":"perceptif, de la perception"}
+{"L":"persepida","C":["n"],"en":"percept","fr":"perception (chose perçue)"}
+{"L":"persepinte","C":["a"],"en":"perceptive, discerning, incisive, trenchant","fr":"perspicace, sagace"}
+{"T":"r","L":"Persia","C":["n","jeo","ist"],"d":"un pais antica en Asia sude-ueste, oji nomida Iran","en":"Persia (ancient region)","fr":"Perse"}
+{"L":"Golfo Persian","C":["n","jeo"],"d":"un golfo entre Arabia e Iran","i":"#","en":"Persian Gulf","fr":"golfe Persique"}
+{"L":"persian","C":["a"],"en":"Persian","fr":"perse"}
+{"T":"r","L":"persil","C":["n","pla","cos"],"d":"un planta duanial con flores blanca e folias bonodorosa, usada como un erba en cosini","i":"#","t":"Petroselinum crispum","en":"parsley (plant)","fr":"persil"}
+{"T":"r","L":"persiste","C":["vnt"],"d":"continua esiste; continua firma o ostinosa con un opina o curso de ata an con difisiles, oposas o falis","en":"persist, persevere, linger, stick (around)","fr":"persister, persévérer"}
+{"L":"persiste","C":["vt"],"en":"persist, persevere, linger","fr":"faire durer, faire continuer"}
+{"L":"persiste","C":["n"],"en":"persistence, perseverance, tenacity","fr":"persévérance, ténacité, opiniâtreté"}
+{"L":"persistente","C":["a"],"en":"persistent, lingering, tenacious","fr":"persévérant, tenace, opiniâtre"}
 {"T":"r","L":"person","C":["n","fil","uma"],"d":"un umana videda como un individua; un organisme con consensia simil a un umana","da":"person","de":"Person, Mensch","en":"person","es":"persona, ser humano","fr":"personne"}
-{"L":"person comun","C":["n"],"en":"common person, everyman, man in the street"}
-{"L":"person de mundo","C":["n"],"en":"socialite"}
-{"L":"person importante","C":["n"],"en":"important person, personage"}
-{"L":"person matur","C":["n"],"en":"grown-up, adult"}
-{"L":"person nondesirada","C":["n"],"en":"persona non grata"}
-{"L":"despersonali","C":["vnt"],"en":"depersonalize|is"}
-{"L":"despersonali","C":["vt"],"en":"depersonalize|is"}
-{"L":"interpersonal","C":["a"],"en":"interpersonal"}
-{"L":"no person","C":["pron"],"en":"no one, nobody"}
-{"L":"nonpersonal","C":["a"],"en":"impersonal"}
-{"L":"per person","C":["a"],"en":"per person, per capita, per head"}
-{"L":"personal","C":["a"],"en":"personal"}
-{"L":"personali","C":["vnt"],"en":"personalize|is, customize|is"}
-{"L":"personali","C":["vt"],"en":"personalize|is, customize|is"}
-{"L":"personali","C":["n"],"en":"personalization|is, customization|is"}
-{"L":"persones","C":["n","pl"],"en":"people (individuals), persons, folk; staff (of organization|is)"}
-{"L":"persones disponable","C":["n","pl"],"en":"available people, manpower"}
-{"L":"personi","C":["vnt"],"en":"personify"}
-{"L":"personi","C":["vt"],"en":"personify"}
-{"L":"personi","C":["n"],"en":"personification, epitome"}
-{"L":"personin","C":["a"],"en":"personlike"}
-{"T":"r","L":"personalia","C":["n","uma"],"d":"un combina de cualias cual formi la natur distinguinte de un person","en":"personality"}
-{"L":"personalia alternativa","C":["n"],"en":"alternative personality, alter ego"}
-{"T":"r","L":"perspetiva","C":["n","arte"],"d":"un modo de regarda alga cosa; un vista de alga cosa; un modo de desinia sur un surfas cual dona un impresa tridimensional","i":"#","en":"perspective"}
-{"L":"perspetivisme","C":["n","fil"],"d":"la teoria ce sabe es nonevitable limitada par la perspetiva de la individua","en":"perspectivism"}
-{"L":"perspetiviste","C":["a"],"en":"perspectivist"}
-{"L":"perspetiviste","C":["n"],"en":"perspectivist"}
-{"T":"r","L":"pertine","C":["vnt"],"d":"(un cualia) es asosiada o relatada con","en":"pertain, relate, apply, be relevant, be associated, have to do with"}
-{"L":"pertine","C":["n"],"en":"pertinence, relevance"}
-{"L":"lo pertine a","C":["esp"],"en":"it's a case of, it's a matter of, it's a question of, it's to do with"}
-{"L":"nonpertine","C":["n"],"en":"irrelevance"}
-{"L":"nonpertinente","C":["a"],"en":"irrelevant, invalid, inapplicable, extraneous"}
-{"L":"pertinente","C":["a"],"en":"pertinent, relevant, valid"}
-{"L":"pertinente","C":["n"],"en":"matter, subject, affair, concern"}
-{"T":"r","L":"pertuse","C":["n","med"],"d":"un maladia comunicable causada par un bateria, cual afeta plu la enfantes, marcada par tose convulsante, segueda par un sona forte de un enspira rapida","en":"pertussis, whooping cough"}
-{"T":"r","L":"Peru","C":["n","jeo"],"c":"Lima","d":"un pais en America Sude a la costa de la Mar Pasifica, e cual conteni un parte de la Andes","i":"#","p":"perú","en":"Peru"}
-{"L":"peruan","C":["a"],"en":"Peruvian"}
-{"L":"peruan","C":["n","dem"],"en":"Peruvian"}
-{"T":"r","L":"peruca","C":["n","vest"],"d":"un covrente per la testa, fabricada de capeles real o artifis, tipal portada par persones ci atenta asconde sua calvia, e par judores e avocatos en Britan","i":"#","en":"wig, toupee"}
-{"L":"peruceta","C":["n"],"en":"hairpiece, hair attachment"}
-{"L":"perucor","C":["n"],"en":"perruquier, wigmaker"}
-{"T":"r","L":"perverti","C":["vt","uma"],"d":"gida (algun) de lo cual es regardada como coreta, natural, asetable o legal","en":"pervert"}
-{"L":"perverti","C":["n"],"en":"perversion"}
-{"L":"pervertida","C":["a"],"en":"perverse, perverted"}
-{"L":"pervertida","C":["n"],"en":"pervert"}
-{"L":"pervertinte","C":["a"],"en":"perverting, perversive"}
-{"T":"r","L":"perxa","C":["n","util"],"d":"un cosa sur cual un avia atera o reposa, tipal un ramo de un arbor o un bara en un caje; un loca, tipal alta o perilosa, sur cual un person o cosa sta o senta","en":"perch (support)"}
-{"L":"perxi","C":["vt"],"en":"perch"}
+{"L":"person comun","C":["n"],"en":"common person, everyman, man in the street","fr":"tout un chacun, homme|personne ordinaire, commun des mortels, citoyen lambda, homme de la rue, monsieur tout le monde"}
+{"L":"person de mundo","C":["n"],"en":"socialite","fr":"mondain, homme du monde"}
+{"L":"person importante","C":["n"],"en":"important person, personage","fr":"personne importante, notable, gros bonnet, huile, (grosse) légume, notabilité, personnalité, ponte, sommité"}
+{"L":"person matur","C":["n"],"en":"grown-up, adult","fr":"adulte"}
+{"L":"person nondesirada","C":["n"],"en":"persona non grata","fr":"persona non grata, indésirable"}
+{"L":"despersonali","C":["vnt"],"en":"depersonalize|is","fr":"se dépersonnaliser, perdre sa personnalité"}
+{"L":"despersonali","C":["vt"],"en":"depersonalize|is","fr":"dépersonnaliser"}
+{"L":"interpersonal","C":["a"],"en":"interpersonal","fr":"interpersonnel"}
+{"L":"no person","C":["pron"],"en":"no one, nobody","fr":"personne, personne ... ne, pas un chat, nul ... ne"}
+{"L":"nonpersonal","C":["a"],"en":"impersonal","fr":"impersonnel, sans âme"}
+{"L":"per person","C":["a"],"en":"per person, per capita, per head","fr":"par personne"}
+{"L":"personal","C":["a"],"en":"personal","fr":"personnel, intime, privé, particulier"}
+{"L":"personali","C":["vnt"],"en":"personalize|is, customize|is","fr":"se personnaliser"}
+{"L":"personali","C":["vt"],"en":"personalize|is, customize|is","fr":"personnaliser"}
+{"L":"personali","C":["n"],"en":"personalization|is, customization|is","fr":"personnalisation"}
+{"L":"persones","C":["n","pl"],"en":"people (individuals), persons, folk; staff (of organization|is)","fr":"gens; équipe, personnel"}
+{"L":"persones disponable","C":["n","pl"],"en":"available people, manpower","fr":"personnes disponibles, main d'œuvre, ressources humaines, personnel, effectifs, moyens humains"}
+{"L":"personi","C":["vnt"],"en":"personify","fr":"personnifier"}
+{"L":"personi","C":["vt"],"en":"personify","fr":"personnifier"}
+{"L":"personi","C":["n"],"en":"personification, epitome","fr":"personnification"}
+{"L":"personin","C":["a"],"en":"personlike","fr":"semblable à une personne"}
+{"T":"r","L":"personalia","C":["n","uma"],"d":"un combina de cualias cual formi la natur distinguinte de un person","en":"personality","fr":"personnalité"}
+{"L":"personalia alternativa","C":["n"],"en":"alternative personality, alter ego","fr":"alter ego, bras droit, second"}
+{"T":"r","L":"perspetiva","C":["n","arte"],"d":"un modo de regarda alga cosa; un vista de alga cosa; un modo de desinia sur un surfas cual dona un impresa tridimensional","i":"#","en":"perspective","fr":"perspective, point de vue, façon de voir, vision, regard"}
+{"L":"perspetivisme","C":["n","fil"],"d":"la teoria ce sabe es nonevitable limitada par la perspetiva de la individua","en":"perspectivism","fr":"perspectivisme"}
+{"L":"perspetiviste","C":["a"],"en":"perspectivist","fr":"perspectiviste"}
+{"L":"perspetiviste","C":["n"],"en":"perspectivist","fr":"perspectiviste"}
+{"T":"r","L":"pertine","C":["vnt"],"d":"(un cualia) es asosiada o relatada con","en":"pertain, relate, apply, be relevant, be associated, have to do with","fr":"appartenir à, s'appliquer à, relever de, être associé à, se rapporter à, être en relation avec"}
+{"L":"pertine","C":["n"],"en":"pertinence, relevance","fr":"rapport, relation"}
+{"L":"lo pertine a","C":["esp"],"en":"it's a case of, it's a matter of, it's a question of, it's to do with","fr":"cela concerne, c'est un cas de, c'est une question de, cela a à voir avec"}
+{"L":"nonpertine","C":["n"],"en":"irrelevance","fr":"non-pertinence, non-relation"}
+{"L":"nonpertinente","C":["a"],"en":"irrelevant, invalid, inapplicable, extraneous","fr":"sans relation avec, étranger à, non pertinent, hors-sujet"}
+{"L":"pertinente","C":["a"],"en":"pertinent, relevant, valid","fr":"pertinent, valable, à propos"}
+{"L":"pertinente","C":["n"],"en":"matter, subject, affair, concern","fr":"matière, sujet, affaire, préoccupation"}
+{"T":"r","L":"pertuse","C":["n","med"],"d":"un maladia comunicable causada par un bateria, cual afeta plu la enfantes, marcada par tose convulsante, segueda par un sona forte de un enspira rapida","en":"pertussis, whooping cough","fr":"coqueluche"}
+{"T":"r","L":"Peru","C":["n","jeo"],"c":"Lima","d":"un pais en America Sude a la costa de la Mar Pasifica, e cual conteni un parte de la Andes","i":"#","p":"perú","en":"Peru","fr":"Pérou"}
+{"L":"peruan","C":["a"],"en":"Peruvian","fr":"péruvien"}
+{"L":"peruan","C":["n","dem"],"en":"Peruvian","fr":"Péruvien"}
+{"T":"r","L":"peruca","C":["n","vest"],"d":"un covrente per la testa, fabricada de capeles real o artifis, tipal portada par persones ci atenta asconde sua calvia, e par judores e avocatos en Britan","i":"#","en":"wig, toupee","fr":"perruque"}
+{"L":"peruceta","C":["n"],"en":"hairpiece, hair attachment","fr":"postiche, perruque, moumoute"}
+{"L":"perucor","C":["n"],"en":"perruquier, wigmaker","fr":"perruquier"}
+{"T":"r","L":"perverti","C":["vt","uma"],"d":"gida (algun) de lo cual es regardada como coreta, natural, asetable o legal","en":"pervert","fr":"pervertir, détourner, dévoyer"}
+{"L":"perverti","C":["n"],"en":"perversion","fr":"perversion"}
+{"L":"pervertida","C":["a"],"en":"perverse, perverted","fr":"perverti, pervers"}
+{"L":"pervertida","C":["n"],"en":"pervert","fr":"pervers"}
+{"L":"pervertinte","C":["a"],"en":"perverting, perversive","fr":"pervertissant"}
+{"T":"r","L":"perxa","C":["n","util"],"d":"un cosa sur cual un avia atera o reposa, tipal un ramo de un arbor o un bara en un caje; un loca, tipal alta o perilosa, sur cual un person o cosa sta o senta","en":"perch (support)","fr":"perchoir"}
+{"L":"perxi","C":["vt"],"en":"perch","fr":"(se) percher"}
 {"T":"r","L":"pesa","C":["vt","fis"],"d":"ave un masa relativa de (un cuantia spesifada); determina la masa de (un person o cosa)","u":"me pesa la libro; la libro pesa un cilogram","en":"weigh (have weight, measure weight)","fr":"peser"}
 {"L":"pesa","C":["n"],"u":"la libro ave un cilogram de pesa; on ia ajunta pesas per afonda la barcon","da":"vægt","de":"Gewicht","en":"weight (measure, object)","es":"peso"}
 {"L":"pesador","C":["n"],"en":"scales, weighing machine"}
