@@ -1622,34 +1622,34 @@
 {"L":"arania de rede embutin","C":["n"],"de":"Trichternetzspinne","en":"funnelweb spider","fr":"araignée à toile-entonnoir","he":"עכביש משפך"}
 {"L":"aranieta","C":["n"],"de":"Babyspinne","en":"baby spider","fr":"bébé araignée, petit d'araignée","he":"עכביש צעיר"}
 {"L":"aranin","C":["a"],"de":"spinnenartig, spinnenförmig, arachnoid","en":"spidery, arachnoid","fr":"en forme d'araignée","he":"עכבישי"}
-{"T":"r","L":"aranja","C":["vt","mus"],"d":"ajusta (un obra musical) per presenta par strumentos o voses nova","en":"arrange (music)","fr":"arranger (musique)","he":"(מוזיקה) לעבד"}
-{"L":"aranja","C":["n"],"en":"arrangement","fr":"arrangement (musique)","he":"(מוזיקה) עיבוד"}
-{"L":"aranjor","C":["n"],"en":"arranger","fr":"arrangeur (musique)","he":"(מוזיקה) מעבד"}
-{"T":"r","L":"arauac","C":["a","dem"],"d":"pertinente a un grupo de poplas nativa de America Sude e la Caribe, o a sua linguas","en":"Arawak, Arawakan"}
-{"L":"arauac","C":["n"],"en":"Arawak (person, language)"}
-{"T":"r","L":"arbitra","C":["vt","gov"],"d":"(un person o grupo autonom) fa un judi o acorda autoriosa sur (un demanda o problem)","en":"arbitrate on, mediate on","fr":"arbitrer","he":"לתווך, לפשר, לגשר"}
-{"L":"arbitra","C":["n"],"en":"arbitration, mediation","fr":"arbitrage, médiation","he":"גישור"}
-{"L":"arbitror","C":["n"],"da":"dommer","de":"Schiedsrichter","en":"referee, umpire, official, arbiter, arbitrator","es":"árbitro, referee, juez","fr":"arbitre","he":"מגשר; (ספורט) שופט"}
-{"T":"r","L":"arbitraje","C":["n","gov"],"d":"la compra e vende simultan de titulos, mone o benes en mercatos diversa, o en formas derivada, per esplota la custas diversa","en":"arbitrage","fr":"arbitrage (économie)","he":"ארביטראז'"}
+{"T":"r","L":"aranja","C":["vt","mus"],"d":"ajusta (un obra musical) per presenta par strumentos o voses nova","de":"arrangieren (Musik)","en":"arrange (music)","fr":"arranger (musique)","he":"(מוזיקה) לעבד"}
+{"L":"aranja","C":["n"],"de":"Arrangement (Musik)","en":"arrangement","fr":"arrangement (musique)","he":"(מוזיקה) עיבוד"}
+{"L":"aranjor","C":["n"],"de":"Arrangeur (Musik)","en":"arranger","fr":"arrangeur (musique)","he":"(מוזיקה) מעבד"}
+{"T":"r","L":"arauac","C":["a","dem"],"d":"pertinente a un grupo de poplas nativa de America Sude e la Caribe, o a sua linguas","de":"arawakisch","en":"Arawak, Arawakan"}
+{"L":"arauac","C":["n"],"de":"Arawak, Aruak (Person, Sprache)","en":"Arawak (person, language)"}
+{"T":"r","L":"arbitra","C":["vt","gov"],"d":"(un person o grupo autonom) fa un judi o acorda autoriosa sur (un demanda o problem)","de":"schlichten, vermitteln","en":"arbitrate on, mediate on","fr":"arbitrer","he":"לתווך, לפשר, לגשר"}
+{"L":"arbitra","C":["n"],"de":"Schlichtung, Vermittlung, Mediation","en":"arbitration, mediation","fr":"arbitrage, médiation","he":"גישור"}
+{"L":"arbitror","C":["n"],"da":"dommer","de":"Schiedsrichter, Obmann, Vermittler, Schlichter","en":"referee, umpire, official, arbiter, arbitrator","es":"árbitro, referee, juez","fr":"arbitre","he":"מגשר; (ספורט) שופט"}
+{"T":"r","L":"arbitraje","C":["n","gov"],"d":"la compra e vende simultan de titulos, mone o benes en mercatos diversa, o en formas derivada, per esplota la custas diversa","de":"Arbitrage","en":"arbitrage","fr":"arbitrage (économie)","he":"ארביטראז'"}
 {"T":"r","L":"arbor","C":["n","pla"],"d":"un planta leniosa, tipal con tronco singular cual crese alta e ave ramos ladal alga distante de la tera","da":"træ","de":"Baum","en":"tree","es":"árbol","fr":"arbre","he":"עץ"}
-{"L":"arbor de pan","C":["n","pla"],"d":"un arbor grande perene, cultivada sur la isolas de la Mar Pasifica e la Mar Caribe; la fruta de esta, grande, ronda e amidonosa, usada como un vejetal e a veses como un sustitua per farina","i":"#","t":"Artocarpus altilis","en":"breadfruit","fr":"arbre à pain","he":"עץ הלחם"}
-{"L":"arbor joven","C":["n"],"en":"young tree, sapling","fr":"arbrisseau, jeune arbre","he":"שתיל, נטע"}
-{"L":"arboral","C":["a"],"en":"arboreal","fr":"arboricole","he":"שקשור לעצים"}
-{"L":"arboreria","C":["n"],"en":"arboretum","fr":"arboretum","he":"גן בוטני"}
-{"L":"arboreta","C":["n"],"da":"busk","de":"Busch","en":"bush, shrub","es":"arbusto, mata, matorral, breñal","fr":"arbre, arbuste, arbrisseau","he":"שיח"}
-{"L":"arboreta de rosa","C":["n"],"en":"rosebush","fr":"rosier","he":"שיח שושנים"}
-{"L":"arboretas","C":["n","pl"],"en":"bushes, shrubbery","fr":"arbustes, buissons","he":"שיחים"}
-{"L":"arboretin","C":["a"],"en":"shrublike, shrubby","fr":"arbustif","he":"דמוי שיח"}
-{"L":"arborin","C":["a"],"en":"treelike","fr":"dendriforme, semblable à un arbre","he":"דמוי עץ"}
-{"T":"r","L":"arboran","C":["n","avia"],"d":"un corvo asian con coda longa e plumas negra o brun e gris","i":"#","t":"Crypsirina, Dendrocitta, Platysmurus, Temnurus","en":"treepie (bird)","fr":"témia (oiseau)","he":"סוג של ציפור"}
-{"T":"r","L":"arbuto","C":["n","pla"],"d":"un planta perene en familia de erica; la fruta de esta","i":"#","t":"Arbutus, Epigaea","en":"arbutus (plant, fruit)","fr":"arbousier (plante); arbouse (fruit)","he":"קטלב (צמח)"}
-{"T":"r","L":"arca","C":["n","rel"],"d":"(en la Biblia) la barcon construida par Noa per proteje sua familia e un duple de cada tipo de animal contra la deluvia; un barcon grande con fondo plana; un caxa cual conteni la tora en un sinagoga","en":"ark","eo":"arkeo","fr":"arche","he":"תיבת נוח; ארון הקודש"}
-{"L":"arca de la acorda","C":["n"],"en":"ark of the covenant","fr":"arche d'alliance","he":"ארון הברית"}
-{"T":"r","L":"arcabus","C":["n","ist"],"d":"un tipo temprana de fusil portable, suportada sur un trepede o un suporta forcin","i":"#","en":"arquebus, hackbut","fr":"arquebuse","he":"ארקבוז (רובה עתיק)"}
-{"T":"r","L":"arcada","C":["n"],"d":"un coredor covreda, con arcos o botecas longo un o ambos lados","en":"arcade","fr":"arcade","he":"ארקדה, מעבר מקומר"}
-{"T":"r","L":"arcanjel","C":["n","rel","mit"],"d":"un anjel major","en":"archangel","fr":"archange","he":"המלאך הראשי"}
-{"T":"r","L":"arcea","C":["n","bio"],"d":"microbios simil a baterias par grandia e simplia de strutur, ma con organiza moleculal multe diferente, regardada como un grupo entre baterias e eucariotas","en":"archaeon, archaea, archaebacterium (organism)","fr":"archée, archéobactérie (biologie)","he":"(ביולוגיה) ארכאון"}
-{"T":"r","L":"arcenemi","C":["n"],"d":"un person ci oposa un person o cosa en modo estrema e unica","p":"arcenemí","en":"archenemy, nemesis","fr":"ennemi juré","he":"אויב מושבע, יריב מר"}
+{"L":"arbor de pan","C":["n","pla"],"d":"un arbor grande perene, cultivada sur la isolas de la Mar Pasifica e la Mar Caribe; la fruta de esta, grande, ronda e amidonosa, usada como un vejetal e a veses como un sustitua per farina","i":"#","t":"Artocarpus altilis","de":"Brotfruchtbaum","en":"breadfruit","fr":"arbre à pain","he":"עץ הלחם"}
+{"L":"arbor joven","C":["n"],"de":"junger Baum, Setzling, Setzholz","en":"young tree, sapling","fr":"arbrisseau, jeune arbre","he":"שתיל, נטע"}
+{"L":"arboral","C":["a"],"de":"Baum..., auf Bäumen lebend","en":"arboreal","fr":"arboricole","he":"שקשור לעצים"}
+{"L":"arboreria","C":["n"],"de":"Arboretum","en":"arboretum","fr":"arboretum","he":"גן בוטני"}
+{"L":"arboreta","C":["n"],"da":"busk","de":"Busch, Strauch","en":"bush, shrub","es":"arbusto, mata, matorral, breñal","fr":"arbre, arbuste, arbrisseau","he":"שיח"}
+{"L":"arboreta de rosa","C":["n"],"de":"Rosenstrauch, Ro­sen­stock","en":"rosebush","fr":"rosier","he":"שיח שושנים"}
+{"L":"arboretas","C":["n","pl"],"de":"Gebüsch, Sträucher","en":"bushes, shrubbery","fr":"arbustes, buissons","he":"שיחים"}
+{"L":"arboretin","C":["a"],"de":"buschig, strauchartig","en":"shrublike, shrubby","fr":"arbustif","he":"דמוי שיח"}
+{"L":"arborin","C":["a"],"de":"baumartig, baumförmig, baumähnlich","en":"treelike","fr":"dendriforme, semblable à un arbre","he":"דמוי עץ"}
+{"T":"r","L":"arboran","C":["n","avia"],"d":"un corvo asian con coda longa e plumas negra o brun e gris","i":"#","t":"Crypsirina, Dendrocitta, Platysmurus, Temnurus","de":"Rakettschwanzelster, Baumelster (Vögel)","en":"treepie (bird)","fr":"témia (oiseau)","he":"סוג של ציפור"}
+{"T":"r","L":"arbuto","C":["n","pla"],"d":"un planta perene en familia de erica; la fruta de esta","i":"#","t":"Arbutus, Epigaea","de":"Erdbeerbaum, Arbutus (Pflanze, Frucht)","en":"arbutus (plant, fruit)","fr":"arbousier (plante); arbouse (fruit)","he":"קטלב (צמח)"}
+{"T":"r","L":"arca","C":["n","rel"],"d":"(en la Biblia) la barcon construida par Noa per proteje sua familia e un duple de cada tipo de animal contra la deluvia; un barcon grande con fondo plana; un caxa cual conteni la tora en un sinagoga","de":"Arche","en":"ark","eo":"arkeo","fr":"arche","he":"תיבת נוח; ארון הקודש"}
+{"L":"arca de la acorda","C":["n"],"de":"Bundeslade, Bundestruhe (Bibel)","en":"ark of the covenant","fr":"arche d'alliance","he":"ארון הברית"}
+{"T":"r","L":"arcabus","C":["n","ist"],"d":"un tipo temprana de fusil portable, suportada sur un trepede o un suporta forcin","i":"#","de":"Arkebus, Hakenbüchse","en":"arquebus, hackbut","fr":"arquebuse","he":"ארקבוז (רובה עתיק)"}
+{"T":"r","L":"arcada","C":["n"],"d":"un coredor covreda, con arcos o botecas longo un o ambos lados","de":"Arkade, Arkaden, Arkatur, Bogengang, Laubengang (Architektur)","en":"arcade","fr":"arcade","he":"ארקדה, מעבר מקומר"}
+{"T":"r","L":"arcanjel","C":["n","rel","mit"],"d":"un anjel major","de":"Erzengel","en":"archangel","fr":"archange","he":"המלאך הראשי"}
+{"T":"r","L":"arcea","C":["n","bio"],"d":"microbios simil a baterias par grandia e simplia de strutur, ma con organiza moleculal multe diferente, regardada como un grupo entre baterias e eucariotas","de":"Archaeon (Archaeen), Archaea, Archaebakterium (Biologie)","en":"archaeon, archaea, archaebacterium (organism)","fr":"archée, archéobactérie (biologie)","he":"(ביולוגיה) ארכאון"}
+{"T":"r","L":"arcenemi","C":["n"],"d":"un person ci oposa un person o cosa en modo estrema e unica","p":"arcenemí","de":"Erzfeind, Nemesis","en":"archenemy, nemesis","fr":"ennemi juré","he":"אויב מושבע, יריב מר"}
 {"T":"r","L":"arceo-","C":["pf","tecn"],"d":"antica","en":"archeo-|ae","fr":"archéo-","he":"(קידומת טכנית) עתיק"}
 {"T":"r","L":"arceognato","C":["n","ins"],"d":"un inseto peti e multe primitiva","t":"Archaeognatha","en":"archeognatha|ae","fr":"archéognathe (insecte)"}
 {"T":"r","L":"arceolojia","C":["n","uma","ist"],"d":"la studia de istoria e preistoria umana par la escava de locas e la analise de fabricadas e otra restantes fisical","en":"archeology|ae","fr":"archéologie","he":"ארכאולוגיה"}
@@ -6910,6 +6910,7 @@
 {"T":"r","L":"covrecasola","C":["n","vn"],"d":"un covrente per un casola","en":"saucepan lid","fr":"couvercle (de casserole, de marmite, de poêle...)","he":"מכסה לסיר"}
 {"T":"r","L":"covrecolo","C":["n","vn"],"d":"un tela o peso de armur cual covre la colo","en":"neckscarf; gorget (throat protector)","fr":"écharpe; gorgerin (pièce d'armure couvrant la gorge)","he":"חם צוואר; שריון לצוואר"}
 {"T":"r","L":"covrecuxin","C":["n","vn"],"d":"un covrente de stofa per un cuxin","en":"cushion cover, pillowcase","fr":"housse (de coussin), taie d'oreiller","he":"ציפית לכרית"}
+{"T":"r","L":"covrefas","C":["n","vn"],"d":"un tela o masca cual covre la fas, spesial la nas e boca per redui la sperde de maladia","en":"face covering"}
 {"T":"r","L":"covrefenetra","C":["n","vn"],"d":"cada de du paneles xarnierida a un fenetra, cluable per securia o privatia o per redui la lus entrante","en":"shutter","fr":"volet, persienne","he":"תריס"}
 {"T":"r","L":"covregama","C":["n","vn","vest"],"d":"un veste forte per proteje un gama","en":"legging (protective)","fr":"legging","he":"טייטס מגן"}
 {"T":"r","L":"covrejeno","C":["n","vn","vest"],"d":"un covrente per proteje un jeno, usada par sportores","en":"kneepad","fr":"genouillère","he":"מגן ברך"}
@@ -20598,65 +20599,65 @@
 {"L":"placa de veculo","C":["n"],"en":"vehicle registration plate, license|ce plate, number plate","fr":"plaque numérologique"}
 {"L":"placa dental","C":["n"],"en":"dental plaque","fr":"plaque dentaire"}
 {"L":"placa tetonical","C":["n"],"en":"tectonic plate","fr":"plaque tectonique"}
-{"T":"r","L":"placozon","C":["n"],"d":"un membro de un filo de nonvertebratos la plu fundal","i":"#","t":"Placazoa","en":"placozoon (pl. placozoa) (organism)"}
+{"T":"r","L":"placozon","C":["n"],"d":"un membro de un filo de nonvertebratos la plu fundal","i":"#","t":"Placazoa","en":"placozoon (pl. placozoa) (organism)","fr":"placozoaire"}
 {"T":"r","L":"plaia","C":["n","tera"],"d":"la tera longo la borda de un mar o lago; un costa con calculos o arena, tipal prosima a la mar, entre la marcas de acua basa e acua alta","i":"#","ca":"platja","da":"strand, strandbred","de":"Strand","en":"beach, shore, seashore","eo":"plaĝo, strando","es":"playa, ribera, costa, orilla","fr":"plage","it":"spiaggia, costa","ja":"浜","nl":"strand","pt":"praia","ru":"пляж"}
-{"T":"r","L":"plajia","C":["vt","arte"],"d":"prende (un obra o idea de un otra person) e finje ce lo es sua propre","en":"plagiarize|is"}
-{"L":"plajia","C":["n"],"en":"plagiarism"}
-{"L":"plajior","C":["n"],"en":"plagiarist"}
+{"T":"r","L":"plajia","C":["vt","arte"],"d":"prende (un obra o idea de un otra person) e finje ce lo es sua propre","en":"plagiarize|is","fr":"plagier"}
+{"L":"plajia","C":["n"],"en":"plagiarism","fr":"plagia"}
+{"L":"plajior","C":["n"],"en":"plagiarist","fr":"plagiaire"}
 {"T":"r","L":"plana","C":["a","mat"],"d":"lisa e sin bultos, indentes o inclinas grande; (un area de tera) sin colinas; (un area de acua) calma e sin ondas; no inclinada","v":"plata","de":"eben, waagerecht","en":"flat (not bumpy), plane, planar, level; smooth, even, flush","fr":"plan, plat"}
 {"L":"plana","C":["n"],"da":"flade","de":"Ebene, Fläche","en":"plane (surface); counter, worktop (surface)","eo":"ebenaĵo","es":"plano","fr":"plan, plat","it":"piano","nl":"vlak","pt":"plano"}
-{"L":"plana sajital","C":["n"],"en":"sagittal plane (anatomy)"}
-{"L":"nonplana","C":["a"],"en":"uneven, wobbly, bobbly"}
-{"L":"planador","C":["n"],"i":"#","en":"plane, planing tool, planer"}
-{"L":"plani","C":["vnt"],"en":"flatten, plane, level, become even"}
-{"L":"plani","C":["vt"],"en":"flatten, plane, level, make even"}
-{"L":"planida","C":["a"],"en":"flattened"}
-{"L":"planida a la polos","C":["a"],"en":"oblate"}
-{"T":"r","L":"planaria","C":["n"],"d":"cualce de un jenero de platielmintos peti, capas de rejenera se","t":"Planaria","en":"planarian (worm)"}
-{"T":"r","L":"plance","C":["n","arci"],"d":"un peso de lenio longa, streta e plana; un peso simil de un otra materia","i":"#","da":"bord","de":"Brett","en":"plank, board, batten","eo":"breto","es":"tabla, tablero, mesa, placa, plancha","fr":"planche","it":"tavola, tavolo","nl":"plank","pt":"placa, tabuleiro, quadro, prancha"}
-{"L":"plance compresada","C":["n"],"en":"hardboard"}
-{"L":"plance de embarca","C":["n"],"en":"gangplank, gangway"}
-{"L":"plance de jeso","C":["n"],"en":"drywall, plasterboard, sheetrock, wallboard"}
-{"L":"plance de lava","C":["n"],"en":"washboard"}
-{"L":"plance de neva","C":["n"],"en":"snowboard"}
-{"L":"plance de solo","C":["n"],"en":"floorboard"}
-{"L":"plance de surfa","C":["n"],"i":"#","en":"surfboard"}
-{"L":"plance de vela","C":["n"],"i":"#","en":"sailboard"}
-{"L":"planceta","C":["n"],"en":"board (small)"}
-{"L":"planceta de ceso","C":["n"],"en":"cheese board"}
-{"L":"planceta de clip","C":["n"],"en":"clipboard"}
-{"L":"planceta de pan","C":["n"],"en":"bread board"}
-{"L":"planceta de talia","C":["n"],"en":"cutting board"}
-{"L":"planci","C":["vt"],"en":"board, board up"}
-{"T":"r","L":"plancton","C":["n","bio"],"d":"organismes pico cual flota o vaga en la mar o en acua dulse, composada xef de diatomeas, protozones, crustaseos peti e la ovos e larvas de animales plu grande","en":"plankton"}
+{"L":"plana sajital","C":["n"],"en":"sagittal plane (anatomy)","fr":"plan sagittal"}
+{"L":"nonplana","C":["a"],"en":"uneven, wobbly, bobbly","fr":"irrégulier, bancal, onduleux, ondulé"}
+{"L":"planador","C":["n"],"i":"#","en":"plane, planing tool, planer","fr":"rabot"}
+{"L":"plani","C":["vnt"],"en":"flatten, plane, level, become even","fr":"s'aplanir, devenir plat"}
+{"L":"plani","C":["vt"],"en":"flatten, plane, level, make even","fr":"aplanir, raboter, rendre plat"}
+{"L":"planida","C":["a"],"en":"flattened","fr":"aplani, raboté, aplati"}
+{"L":"planida a la polos","C":["a"],"en":"oblate","fr":"aplati aux pôles"}
+{"T":"r","L":"planaria","C":["n"],"d":"cualce de un jenero de platielmintos peti, capas de rejenera se","t":"Planaria","en":"planarian (worm)","fr":"planaire"}
+{"T":"r","L":"plance","C":["n","arci"],"d":"un peso de lenio longa, streta e plana; un peso simil de un otra materia","i":"#","da":"bord","de":"Brett","en":"plank, board, batten","eo":"breto","es":"tabla, tablero, mesa, placa, plancha","fr":"planche, latte","it":"tavola, tavolo","nl":"plank","pt":"placa, tabuleiro, quadro, prancha"}
+{"L":"plance compresada","C":["n"],"en":"hardboard","fr":"panneau d'aggloméré, isorel"}
+{"L":"plance de embarca","C":["n"],"en":"gangplank, gangway","fr":"passerelle"}
+{"L":"plance de jeso","C":["n"],"en":"drywall, plasterboard, sheetrock, wallboard","fr":"plaques de plâtre, placoplâtre"}
+{"L":"plance de lava","C":["n"],"en":"washboard","fr":"planche à laver"}
+{"L":"plance de neva","C":["n"],"en":"snowboard","fr":"snowboard, planche de neige, planche à neige"}
+{"L":"plance de solo","C":["n"],"en":"floorboard","fr":"dalle de plancher, planche de plancher (pluriel:) plancher, parquet"}
+{"L":"plance de surfa","C":["n"],"i":"#","en":"surfboard","fr":"planche de surf, planche nautique"}
+{"L":"plance de vela","C":["n"],"i":"#","en":"sailboard","fr":"planche à voile"}
+{"L":"planceta","C":["n"],"en":"board (small)","fr":"planchette, latte"}
+{"L":"planceta de ceso","C":["n"],"en":"cheese board","fr":"plateau de fromages"}
+{"L":"planceta de clip","C":["n"],"en":"clipboard","fr":"planchette à pince"}
+{"L":"planceta de pan","C":["n"],"en":"bread board","fr":"planche à pain"}
+{"L":"planceta de talia","C":["n"],"en":"cutting board","fr":"planche à découper"}
+{"L":"planci","C":["vt"],"en":"board, board up","fr":"embarquer sur"}
+{"T":"r","L":"plancton","C":["n","bio"],"d":"organismes pico cual flota o vaga en la mar o en acua dulse, composada xef de diatomeas, protozones, crustaseos peti e la ovos e larvas de animales plu grande","en":"plankton","fr":"plancton"}
 {"T":"r","L":"planeta","C":["n","ast"],"d":"un masa grande en spasio cual move en un orbita elise sirca un stela","da":"planet","de":"Planet","en":"planet","eo":"planedo","es":"planeta","fr":"planète","it":"pianeta","nl":"planeet","pt":"planeta"}
-{"L":"interplanetal","C":["a"],"en":"interplanetary"}
-{"L":"planetal","C":["a"],"en":"planetary"}
-{"L":"planeteria","C":["n"],"en":"planetarium"}
-{"L":"planeterieta","C":["n"],"en":"orrery (solar system model)"}
-{"L":"planeteta","C":["n"],"en":"minor planet, asteroid"}
-{"L":"planeton","C":["n"],"en":"giant planet"}
-{"L":"planeton de gas","C":["n"],"en":"gas giant"}
-{"T":"r","L":"planetesimo","C":["n","ast"],"d":"un planeta pico; un masa en spasio cual no pote uni con otras par gravita per formi un planeta","en":"planetesimal"}
-{"T":"r","L":"planetolojia","C":["n"],"d":"la studia de planetas","en":"planetology"}
-{"L":"planetolojiste","C":["n"],"en":"planetologist"}
-{"T":"r","L":"plano","C":["n","tera"],"d":"un rejion grande de tera plana sin multe arbores","i":"#","ca":"pla","de":"Ebene","en":"plain, pampas, flatland","eo":"ebenaĵo","es":"llano","fr":"plaine","ja":"平野","pt":"plano","ru":"равнина"}
-{"L":"plano alta","C":["n"],"en":"plateau, high plain, mesa, altiplano, paramo, tableland"}
-{"L":"plano continental","C":["n"],"en":"continental shelf"}
-{"L":"plano deluvial","C":["n"],"en":"floodplain"}
-{"T":"r","L":"planta","C":["vt","bio"],"d":"pone (un planta o simil) en la tera","en":"plant"}
+{"L":"interplanetal","C":["a"],"en":"interplanetary","fr":"interplanétaire"}
+{"L":"planetal","C":["a"],"en":"planetary","fr":"planétaire"}
+{"L":"planeteria","C":["n"],"en":"planetarium","fr":"planétarium"}
+{"L":"planeterieta","C":["n"],"en":"orrery (solar system model)","fr":"planétaire, petit planétarium"}
+{"L":"planeteta","C":["n"],"en":"minor planet, asteroid","fr":"planète mineure, astéroïde"}
+{"L":"planeton","C":["n"],"en":"giant planet","fr":"planète géante"}
+{"L":"planeton de gas","C":["n"],"en":"gas giant","fr":"planète gazeuse"}
+{"T":"r","L":"planetesimo","C":["n","ast"],"d":"un planeta pico; un masa en spasio cual no pote uni con otras par gravita per formi un planeta","en":"planetesimal","fr":"planétésimal"}
+{"T":"r","L":"planetolojia","C":["n"],"d":"la studia de planetas","en":"planetology","fr":"planétologie"}
+{"L":"planetolojiste","C":["n"],"en":"planetologist","fr":"planétologue"}
+{"T":"r","L":"plano","C":["n","tera"],"d":"un rejion grande de tera plana sin multe arbores","i":"#","ca":"pla","de":"Ebene","en":"plain, pampas, flatland","eo":"ebenaĵo","es":"llano","fr":"plaine, vallée","ja":"平野","pt":"plano","ru":"равнина"}
+{"L":"plano alta","C":["n"],"en":"plateau, high plain, mesa, altiplano, paramo, tableland","fr":"plateau"}
+{"L":"plano continental","C":["n"],"en":"continental shelf","fr":"plateau continental"}
+{"L":"plano deluvial","C":["n"],"en":"floodplain","fr":"vallée inondable, plaine inondable"}
+{"T":"r","L":"planta","C":["vt","bio"],"d":"pone (un planta o simil) en la tera","en":"plant","fr":"planter"}
 {"L":"planta","C":["n","bio"],"d":"un organisme como arbores, arboretas, erbas, filises e moses, cual asorbe acua e materia nonorganal tra sua radises e fotosintese nurintes en sua folias, usante la pigmento verde clorofila","da":"plante","de":"Pflanze","en":"plant; planting","eo":"planto","es":"planta","fr":"plante","it":"pianta, vegetale","nl":"plant","pt":"planta"}
-{"L":"desplanta","C":["vt"],"en":"dig up, uproot"}
-{"L":"desplantador","C":["n"],"i":"#","en":"trowel"}
-{"L":"planta infestante","C":["n"],"en":"weed"}
-{"L":"plantal","C":["a"],"en":"plant-related, vegetational"}
-{"L":"plantas","C":["n","pl"],"en":"plants, vegetation, flora, greenery"}
-{"L":"plantosa","C":["a"],"en":"verdant, lush"}
-{"L":"plantosia","C":["n"],"en":"verdure"}
-{"T":"r","L":"planta","C":["n","anat"],"d":"la fondo de la pede","i":"#","en":"sole (foot)"}
-{"L":"planta de sapato","C":["n"],"en":"sole (shoe)"}
-{"L":"planta interna","C":["n"],"en":"innersole, insole"}
-{"L":"plantal","C":["a"],"en":"plantar (of the sole)"}
+{"L":"desplanta","C":["vt"],"en":"dig up, uproot","fr":"cueillir, déraciner, déterrer"}
+{"L":"desplantador","C":["n"],"i":"#","en":"trowel","fr":"déplantoir"}
+{"L":"planta infestante","C":["n"],"en":"weed","fr":"plante invasive"}
+{"L":"plantal","C":["a"],"en":"plant-related, vegetational","fr":"végétal, de plante"}
+{"L":"plantas","C":["n","pl"],"en":"plants, vegetation, flora, greenery","fr":"végétation, flore"}
+{"L":"plantosa","C":["a"],"en":"verdant, lush","fr":"verdoyant, luxuriant"}
+{"L":"plantosia","C":["n"],"en":"verdure","fr":"luxuriance, verdure"}
+{"T":"r","L":"planta","C":["n","anat"],"d":"la fondo de la pede","i":"#","en":"sole (foot)","fr":"plante (de pied)"}
+{"L":"planta de sapato","C":["n"],"en":"sole (shoe)","fr":"semelle"}
+{"L":"planta interna","C":["n"],"en":"innersole, insole","fr":"semelle intérieure"}
+{"L":"plantal","C":["a"],"en":"plantar (of the sole)","fr":"plantaire"}
 {"T":"r","L":"plantago","C":["n","pla"],"d":"un planta corta con roseta de folias e flor spinin verde e magra","t":"Plantago","en":"plantain, fleawort (plant)"}
 {"T":"r","L":"plantano","C":["n","pla","cos"],"d":"un tipo de banana amidonosa, usada como un vejetal coceda; un planta arborin cual produi esta","i":"#","t":"Musa acuminata, Musa balbisiana","en":"plantain (plant, fruit)"}
 {"T":"r","L":"plantigrada","C":["a","bio"],"d":"(un mamal) paseante sur la plantas de la pedes, como un umana o un urso","en":"plantigrade (biology)"}
