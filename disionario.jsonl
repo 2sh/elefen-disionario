@@ -1634,7 +1634,7 @@
 {"T":"r","L":"arbor","C":["n","pla"],"d":"un planta leniosa, tipal con tronco singular cual crese alta e ave ramos ladal alga distante de la tera","da":"træ","de":"Baum","en":"tree","es":"árbol","fr":"arbre","he":"עץ"}
 {"L":"arbor de pan","C":["n","pla"],"d":"un arbor grande perene, cultivada sur la isolas de la Mar Pasifica e la Mar Caribe; la fruta de esta, grande, ronda e amidonosa, usada como un vejetal e a veses como un sustitua per farina","i":"#","t":"Artocarpus altilis","de":"Brotfruchtbaum","en":"breadfruit","fr":"arbre à pain","he":"עץ הלחם"}
 {"L":"arbor joven","C":["n"],"de":"junger Baum, Setzling, Setzholz","en":"young tree, sapling","fr":"arbrisseau, jeune arbre","he":"שתיל, נטע"}
-{"L":"arboral","C":["a"],"de":"Baum..., auf Bäumen lebend","en":"arboreal","fr":"arboricole","he":"שקשור לעצים"}
+{"L":"arboral","C":["a"],"de":"Baum-, auf Bäumen lebend","en":"arboreal","fr":"arboricole","he":"שקשור לעצים"}
 {"L":"arboreria","C":["n"],"de":"Arboretum","en":"arboretum","fr":"arboretum","he":"גן בוטני"}
 {"L":"arboreta","C":["n"],"da":"busk","de":"Busch, Strauch","en":"bush, shrub","es":"arbusto, mata, matorral, breñal","fr":"arbre, arbuste, arbrisseau","he":"שיח"}
 {"L":"arboreta de rosa","C":["n"],"de":"Rosenstrauch, Ro­sen­stock","en":"rosebush","fr":"rosier","he":"שיח שושנים"}
@@ -1650,37 +1650,37 @@
 {"T":"r","L":"arcanjel","C":["n","rel","mit"],"d":"un anjel major","de":"Erzengel","en":"archangel","fr":"archange","he":"המלאך הראשי"}
 {"T":"r","L":"arcea","C":["n","bio"],"d":"microbios simil a baterias par grandia e simplia de strutur, ma con organiza moleculal multe diferente, regardada como un grupo entre baterias e eucariotas","de":"Archaeon (Archaeen), Archaea, Archaebakterium (Biologie)","en":"archaeon, archaea, archaebacterium (organism)","fr":"archée, archéobactérie (biologie)","he":"(ביולוגיה) ארכאון"}
 {"T":"r","L":"arcenemi","C":["n"],"d":"un person ci oposa un person o cosa en modo estrema e unica","p":"arcenemí","de":"Erzfeind, Nemesis","en":"archenemy, nemesis","fr":"ennemi juré","he":"אויב מושבע, יריב מר"}
-{"T":"r","L":"arceo-","C":["pf","tecn"],"d":"antica","en":"archeo-|ae","fr":"archéo-","he":"(קידומת טכנית) עתיק"}
-{"T":"r","L":"arceognato","C":["n","ins"],"d":"un inseto peti e multe primitiva","t":"Archaeognatha","en":"archeognatha|ae","fr":"archéognathe (insecte)"}
-{"T":"r","L":"arceolojia","C":["n","uma","ist"],"d":"la studia de istoria e preistoria umana par la escava de locas e la analise de fabricadas e otra restantes fisical","en":"archeology|ae","fr":"archéologie","he":"ארכאולוגיה"}
-{"L":"arceolojial","C":["a"],"en":"archeological|ae","fr":"archéologique","he":"ארכאולוגי"}
-{"L":"arceolojiste","C":["n"],"en":"archeologist|ae","fr":"archéologue","he":"ארכאולוג"}
-{"T":"r","L":"arceopterix","C":["n","avia","dino"],"d":"la fosil la plu antica conoseda de un avia de la tarda de la jurasica, un organisme con plumas, alas e osos cavetin como un avia moderna, ma con dentes, coda ososa e gamas como un spesie de dinosauro peti","i":"#","t":"Archaeopteryx","en":"archaeopteryx","fr":"archéoptéryx","he":"ארכאופטריקס"}
-{"T":"r","L":"arcetipo","C":["n","arte","mit"],"d":"un esemplo multe tipal de un person o cosa spesifada; un orijinal cual on ia imita; un simbol o motif en leteratur, arte o mitolojia","en":"archetype","fr":"archétype","he":"ארכיטיפ, אב-טיפוס"}
-{"L":"arcetipal","C":["a"],"en":"archetypal","fr":"archétypal, archétypique","he":"אבטיפוסי"}
-{"T":"r","L":"arci-","C":["pf","tecn"],"d":"xef, major","en":"archi-, arch- (chief)","es":"archi-, arqui-","fr":"archi-","he":"(קידומת טכנית) ראשי, עיקרי"}
-{"T":"r","L":"arcibispo","C":["n","rel"],"d":"un bispo major","en":"archbishop","es":"arzobispo","fr":"archevêque","he":"ארכיבישופ"}
-{"L":"arcibispia","C":["n"],"en":"archbishopric, archdiocese","es":"arzobispado","fr":"archidiocèse","he":"ארכיבישופות"}
-{"T":"r","L":"arciduxe","C":["n","gov"],"d":"un duxe xef","en":"archduke","es":"archiduque","fr":"archiduc","he":"ארכידוכס"}
-{"L":"arciduxesa","C":["n"],"en":"archduchess","es":"archiduquesa","fr":"archiduchesse"}
-{"T":"r","L":"arcipelago","C":["n","tera"],"d":"un grupo o cadena de isolas","en":"archipelago","es":"archipiélago","fr":"archipel","he":"ארכיפלג"}
-{"T":"r","L":"arciprete","C":["n","rel"],"d":"la prete xef de un grupo relijiosa","en":"high priest, high priestess","es":"arcipreste","fr":"archiprêtre","he":"כהן גדול"}
-{"L":"arcipretesa","C":["n"],"en":"high priestess"}
-{"T":"r","L":"arciteta","C":["n","arte"],"d":"la arte o pratica de desinia e construi construidas; un strutur fisical o lojical cual es complicada o desiniada en modo atendente","ar":"عمارة","en":"architecture","es":"arquitectura","eu":"arkitektura","fr":"architecture","he":"ארכיטקטורה, אדריכלות","ru":"архитектура"}
-{"L":"arcitetal","C":["a"],"en":"architectural","es":"arquitectónico","fr":"architectural","he":"ארכיטקטי, אדריכלי"}
-{"L":"arciteti","C":["vt"],"en":"design (something's appearance and function)"}
-{"L":"arcitetor","C":["n"],"en":"architect, designer","es":"arquitecto","fr":"architecte","he":"ארכיטקט, אדריכל"}
-{"T":"r","L":"arcitrava","C":["n","arte"],"d":"un faxon major, reposante sur la culminas de colonas; un moldur sirca un fenetra, porte o arco","i":"#","en":"architrave","es":"arquitrabe","fr":"architrave","he":"ארכיטרב (קורת אבן אופקית על שורת עמודים)"}
-{"T":"r","L":"arcivo","C":["n","info"],"d":"un colie de informa rejistrada; un portapaper; (en un computador) un spesie de fix cual grupi otra fixes o suarcivos","da":"fil, arkiv, journal, fortegnelse","de":"Akte, Protokoll, Aufzeichnung","en":"record (information), register, log; file, folder, document wallet; folder, directory","es":"archivo, carpeta, cartera de documentos, fichero, lista, legajo, expediente, registro","fr":"archive, dossier","he":"רשומה"}
-{"L":"arcivador","C":["n"],"en":"file cabinet, filing cabinet","es":"archivador","fr":"classeur, fichier","he":"ארון מסמכים"}
-{"L":"arcivador de revisas","C":["n"],"en":"version control system, revision control system","es":"sistema de control de versiones, sistema de control de revisión","fr":"système de contrôle des versions, système de contrôle des révisions","he":"מערכת ניהול גרסאות"}
-{"L":"arcival","C":["a"],"en":"archival","es":"de archivo","fr":"archivistique","he":"ארכיוני"}
-{"L":"arciveria","C":["n"],"en":"archive, depository, record office, repository, registry","es":"archivo, depósito, oficina de registro, depósito, repositorio, registro","fr":"bureau des archives, dépôt, bureau d'enregistrement","he":"ארכיון"}
-{"L":"arcivi","C":["vt"],"en":"archive, log, chronicle, file","es":"archivar, registrar","fr":"archiver, classer","he":"לתעד, לתייק, לשמור בארכיון"}
-{"L":"arciviste","C":["n"],"en":"archivist","es":"archivero, archivista","fr":"archiviste","he":"ארכיונאי"}
-{"L":"arcivos anial","C":["n"],"en":"annals","es":"anales","fr":"annales","he":"ספרי השנים"}
-{"L":"malarcivi","C":["vt"],"en":"misfile","es":"archivar incorrectamente","fr":"mal classer, mal archiver","he":"לתייק במקום הלא נכון"}
-{"L":"suarcivo","C":["n","info"],"en":"subfolder, subdirectory","es":"subcarpeta, subdirectorio","fr":"sous-dossier","he":"תת-ספריה"}
+{"T":"r","L":"arceo-","C":["pf","tecn"],"d":"antica","de":"Archäo-","en":"archeo-|ae","fr":"archéo-","he":"(קידומת טכנית) עתיק"}
+{"T":"r","L":"arceognato","C":["n","ins"],"d":"un inseto peti e multe primitiva","t":"Archaeognatha","de":"Felsenspringer","en":"archeognatha|ae","fr":"archéognathe (insecte)"}
+{"T":"r","L":"arceolojia","C":["n","uma","ist"],"d":"la studia de istoria e preistoria umana par la escava de locas e la analise de fabricadas e otra restantes fisical","de":"Archäologie","en":"archeology|ae","fr":"archéologie","he":"ארכאולוגיה"}
+{"L":"arceolojial","C":["a"],"de":"archäologisch","en":"archeological|ae","fr":"archéologique","he":"ארכאולוגי"}
+{"L":"arceolojiste","C":["n"],"de":"Archäologe","en":"archeologist|ae","fr":"archéologue","he":"ארכאולוג"}
+{"T":"r","L":"arceopterix","C":["n","avia","dino"],"d":"la fosil la plu antica conoseda de un avia de la tarda de la jurasica, un organisme con plumas, alas e osos cavetin como un avia moderna, ma con dentes, coda ososa e gamas como un spesie de dinosauro peti","i":"#","t":"Archaeopteryx","de":"Archaeopteryx","en":"archaeopteryx","fr":"archéoptéryx","he":"ארכאופטריקס"}
+{"T":"r","L":"arcetipo","C":["n","arte","mit"],"d":"un esemplo multe tipal de un person o cosa spesifada; un orijinal cual on ia imita; un simbol o motif en leteratur, arte o mitolojia","de":"Archetyp, Archetypus, Typus","en":"archetype","fr":"archétype","he":"ארכיטיפ, אב-טיפוס"}
+{"L":"arcetipal","C":["a"],"de":"archetypisch","en":"archetypal","fr":"archétypal, archétypique","he":"אבטיפוסי"}
+{"T":"r","L":"arci-","C":["pf","tecn"],"d":"xef, major","de":"Erz-, Archi- (Haupt-)","en":"archi-, arch- (chief)","es":"archi-, arqui-","fr":"archi-","he":"(קידומת טכנית) ראשי, עיקרי"}
+{"T":"r","L":"arcibispo","C":["n","rel"],"d":"un bispo major","de":"Erzbischof","en":"archbishop","es":"arzobispo","fr":"archevêque","he":"ארכיבישופ"}
+{"L":"arcibispia","C":["n"],"de":"Erzbistum, Erzdiözese","en":"archbishopric, archdiocese","es":"arzobispado","fr":"archidiocèse","he":"ארכיבישופות"}
+{"T":"r","L":"arciduxe","C":["n","gov"],"d":"un duxe xef","de":"Erzherzog","en":"archduke","es":"archiduque","fr":"archiduc","he":"ארכידוכס"}
+{"L":"arciduxesa","C":["n"],"de":"Erzherzogin","en":"archduchess","es":"archiduquesa","fr":"archiduchesse"}
+{"T":"r","L":"arcipelago","C":["n","tera"],"d":"un grupo o cadena de isolas","de":"Archipel","en":"archipelago","es":"archipiélago","fr":"archipel","he":"ארכיפלג"}
+{"T":"r","L":"arciprete","C":["n","rel"],"d":"la prete xef de un grupo relijiosa","de":"Hohepriester","en":"high priest, high priestess","es":"arcipreste","fr":"archiprêtre","he":"כהן גדול"}
+{"L":"arcipretesa","C":["n"],"de":"Hohepriesterin","en":"high priestess"}
+{"T":"r","L":"arciteta","C":["n","arte"],"d":"la arte o pratica de desinia e construi construidas; un strutur fisical o lojical cual es complicada o desiniada en modo atendente","ar":"عمارة","de":"Architektur","en":"architecture","es":"arquitectura","eu":"arkitektura","fr":"architecture","he":"ארכיטקטורה, אדריכלות","ru":"архитектура"}
+{"L":"arcitetal","C":["a"],"de":"architektonisch","en":"architectural","es":"arquitectónico","fr":"architectural","he":"ארכיטקטי, אדריכלי"}
+{"L":"arciteti","C":["vt"],"de":"entwerfen, planen, gestalten, designen","en":"design (something's appearance and function)"}
+{"L":"arcitetor","C":["n"],"de":"Architekt, Designer","en":"architect, designer","es":"arquitecto","fr":"architecte","he":"ארכיטקט, אדריכל"}
+{"T":"r","L":"arcitrava","C":["n","arte"],"d":"un faxon major, reposante sur la culminas de colonas; un moldur sirca un fenetra, porte o arco","i":"#","de":"Architrav, Epistyl","en":"architrave","es":"arquitrabe","fr":"architrave","he":"ארכיטרב (קורת אבן אופקית על שורת עמודים)"}
+{"T":"r","L":"arcivo","C":["n","info"],"d":"un colie de informa rejistrada; un portapaper; (en un computador) un spesie de fix cual grupi otra fixes o suarcivos","da":"fil, arkiv, journal, fortegnelse","de":"Akte, Protokoll, Aufzeichnung; Datei, Ordner, Verzeichnis; Datensatz","en":"record (information), register, log; file, folder, document wallet; folder, directory","es":"archivo, carpeta, cartera de documentos, fichero, lista, legajo, expediente, registro","fr":"archive, dossier","he":"רשומה"}
+{"L":"arcivador","C":["n"],"de":"Aktenschrank, Aktenablage","en":"file cabinet, filing cabinet","es":"archivador","fr":"classeur, fichier","he":"ארון מסמכים"}
+{"L":"arcivador de revisas","C":["n"],"de":"Versionskontrollsystem, Versionsverwaltung, Revisionskontrollsystem","en":"version control system, revision control system","es":"sistema de control de versiones, sistema de control de revisión","fr":"système de contrôle des versions, système de contrôle des révisions","he":"מערכת ניהול גרסאות"}
+{"L":"arcival","C":["a"],"de":"Akten-, Datei-, Archiv-, archivalisch","en":"archival","es":"de archivo","fr":"archivistique","he":"ארכיוני"}
+{"L":"arciveria","C":["n"],"de":"Archiv, Registratur, Repositorium, Register","en":"archive, depository, record office, repository, registry","es":"archivo, depósito, oficina de registro, depósito, repositorio, registro","fr":"bureau des archives, dépôt, bureau d'enregistrement","he":"ארכיון"}
+{"L":"arcivi","C":["vt"],"de":"archivieren, protokollieren, aufzeichnen, ablegen","en":"archive, log, chronicle, file","es":"archivar, registrar","fr":"archiver, classer","he":"לתעד, לתייק, לשמור בארכיון"}
+{"L":"arciviste","C":["n"],"de":"Archivar","en":"archivist","es":"archivero, archivista","fr":"archiviste","he":"ארכיונאי"}
+{"L":"arcivos anial","C":["n"],"de":"An­na­len, Jahrbücher","en":"annals","es":"anales","fr":"annales","he":"ספרי השנים"}
+{"L":"malarcivi","C":["vt"],"de":"falsch ablegen","en":"misfile","es":"archivar incorrectamente","fr":"mal classer, mal archiver","he":"לתייק במקום הלא נכון"}
+{"L":"suarcivo","C":["n","info"],"de":"Unterordner, Unterverzeichnis","en":"subfolder, subdirectory","es":"subcarpeta, subdirectorio","fr":"sous-dossier","he":"תת-ספריה"}
 {"T":"r","L":"arcivolta","C":["n","arte"],"d":"un banda de moldures simil a un arcitrava, longo la curva su un arco","en":"archivolt, voussure (architecture)","es":"arquivolta","fr":"voussure, archivolte (architecture)","he":"ארכיוולט"}
 {"T":"r","L":"arco","C":["n","mat","arte","util"],"d":"un parte de la perimetre de un sirculo o otra curva; un forma o strutur curva; la curso curvinte de un ojeto movente; un curso developante en un nara; un strutur curva cual estende simetre supra un abri, tipal suportante un teto, ponte o mur; un descarga eletrical luminosa entre du puntos; un arma per xuta flexas, tipal fabricada de un peso curva de lenio, de cual sua finis es juntada par un corda tensada; un basto longa portante filos tensada, usada per jua strumentos de cordetas","i":"#, arco-construi","da":"bue","de":"Gewölbe; Bogen","en":"arc (geometry, electrical, narrative); arch, archway (architecture); bow (weapon, music)","es":"arco","fr":"arche, arc","he":"קשת"}
 {"L":"arco apoiante","C":["n"],"i":"#","en":"flying buttress","es":"arbotante","fr":"arcboutant","he":"קשתות דואות"}
@@ -20658,209 +20658,209 @@
 {"L":"planta de sapato","C":["n"],"en":"sole (shoe)","fr":"semelle"}
 {"L":"planta interna","C":["n"],"en":"innersole, insole","fr":"semelle intérieure"}
 {"L":"plantal","C":["a"],"en":"plantar (of the sole)","fr":"plantaire"}
-{"T":"r","L":"plantago","C":["n","pla"],"d":"un planta corta con roseta de folias e flor spinin verde e magra","t":"Plantago","en":"plantain, fleawort (plant)"}
-{"T":"r","L":"plantano","C":["n","pla","cos"],"d":"un tipo de banana amidonosa, usada como un vejetal coceda; un planta arborin cual produi esta","i":"#","t":"Musa acuminata, Musa balbisiana","en":"plantain (plant, fruit)"}
-{"T":"r","L":"plantigrada","C":["a","bio"],"d":"(un mamal) paseante sur la plantas de la pedes, como un umana o un urso","en":"plantigrade (biology)"}
-{"T":"r","L":"plase","C":["vt","uma"],"d":"fa ce (algun) senti felis e sasiada","ca":"plaure","da":"nydelse, fornøjelse","de":"bitten","en":"please; humor|ur","eo":"plaĉi","es":"placer","fr":"plaire","it":"piacere","ja":"よろこぶ","pt":"agradecer"}
-{"L":"plase","C":["n"],"en":"pleasingness, pleasantness, agreeableness"}
-{"L":"desplase","C":["vt"],"en":"displease"}
-{"L":"desplase","C":["n"],"en":"displeasure"}
-{"L":"desplasente","C":["a"],"en":"disagreeable, unpleasant, displeasing, nasty, horrid, horrible, distasteful, sordid"}
-{"L":"lo plase me","C":["esp"],"en":"it pleases me, I like it"}
-{"L":"nonplasente","C":["a"],"en":"unpleasant, disagreeable"}
-{"L":"plaseda","C":["a"],"en":"pleased"}
-{"L":"plasente","C":["a"],"en":"pleasing, pleasant, agreeable, welcome, complaisant, tasteful"}
-{"T":"r","L":"plasebo","C":["a","med"],"d":"(un trata medical) sin efeto nosiva, e prescriveda per sua benefica psicolojial","en":"placebo (medical)"}
-{"L":"plasebo","C":["n"],"en":"placebo (medical)"}
-{"T":"r","L":"plasenta","C":["n","anat"],"d":"un organo sirculo e plata en la utero de mamales ensinta cual nuri la feto tra la corda ombilical","en":"placenta; afterbirth"}
-{"L":"plasental","C":["a"],"en":"placental"}
+{"T":"r","L":"plantago","C":["n","pla"],"d":"un planta corta con roseta de folias e flor spinin verde e magra","t":"Plantago","en":"plantain, fleawort (plant)","fr":"plantain"}
+{"T":"r","L":"plantano","C":["n","pla","cos"],"d":"un tipo de banana amidonosa, usada como un vejetal coceda; un planta arborin cual produi esta","i":"#","t":"Musa acuminata, Musa balbisiana","en":"plantain (plant, fruit)","fr":"bananier plantain; banane plantain, banane à cuire"}
+{"T":"r","L":"plantigrada","C":["a","bio"],"d":"(un mamal) paseante sur la plantas de la pedes, como un umana o un urso","en":"plantigrade (biology)","fr":"plantigrade"}
+{"T":"r","L":"plase","C":["vt","uma"],"d":"fa ce (algun) senti felis e sasiada","ca":"plaure","da":"nydelse, fornøjelse","de":"bitten","en":"please; humor|ur","eo":"plaĉi","es":"placer","fr":"plaire à, attirer, charmer, agréer à, ravir, satisfaire","it":"piacere","ja":"よろこぶ","pt":"agradecer"}
+{"L":"plase","C":["n"],"en":"pleasingness, pleasantness, agreeableness","fr":"attrait, attirance, charme, plaisir, plaisance, agrément, ravissement, satisfaction"}
+{"L":"desplase","C":["vt"],"en":"displease","fr":"déplaire, dégoûter, repousser"}
+{"L":"desplase","C":["n"],"en":"displeasure","fr":"déplaisir, dégoût, répulsion"}
+{"L":"desplasente","C":["a"],"en":"disagreeable, unpleasant, displeasing, nasty, horrid, horrible, distasteful, sordid","fr":"déplaisant, désagréable, dégoûtant, repoussant"}
+{"L":"lo plase me","C":["esp"],"en":"it pleases me, I like it","fr":"cela me plaît, cela m'agrée, j'aime cela, cela m'attire"}
+{"L":"nonplasente","C":["a"],"en":"unpleasant, disagreeable","fr":"sans attrait, sans charme"}
+{"L":"plaseda","C":["a"],"en":"pleased","fr":"ravi, satisfait, charmé"}
+{"L":"plasente","C":["a"],"en":"pleasing, pleasant, agreeable, welcome, complaisant, tasteful","fr":"plaisant, attirant, charmant, agréable, ravissant, satisfaisant"}
+{"T":"r","L":"plasebo","C":["a","med"],"d":"(un trata medical) sin efeto nosiva, e prescriveda per sua benefica psicolojial","en":"placebo (medical)","fr":"placebo"}
+{"L":"plasebo","C":["n"],"en":"placebo (medical)","fr":"placebo"}
+{"T":"r","L":"plasenta","C":["n","anat"],"d":"un organo sirculo e plata en la utero de mamales ensinta cual nuri la feto tra la corda ombilical","en":"placenta; afterbirth","fr":"placenta"}
+{"L":"plasental","C":["a"],"en":"placental","fr":"placentaire"}
 {"T":"r","L":"plaser","C":["n","uma"],"d":"un senti de joia o sasia felis","da":"nydelse, fornøjelse","de":"Vergnügen","en":"pleasure, enjoyment","eo":"plezuro","fr":"plaisir","nl":"plezier","pt":"prazer","ru":"доставить удовольствие, угодить"}
-{"L":"plaser odiosa","C":["n"],"en":"Schadenfreude"}
-{"L":"plaser vergoniosa","C":["n"],"en":"guilty pleasure"}
-{"L":"nonplaserosa","C":["a"],"en":"unpleasurable, unenjoyable"}
-{"L":"plaserosa","C":["a"],"en":"pleasurable, enjoyable"}
-{"T":"r","L":"-plasia","C":["sf","n","med"],"d":"masa, crese","en":"-plasia (growth)"}
-{"T":"r","L":"plasma","C":["n","tecn","med","fis"],"d":"(en medica) la licuida sin color de sangue, limfa o lete; (en fisica) un gas ionida con iones positiva e eletrones libre en un proportio cual produi un carga eletrical prosiminte a zero, tipal a temperatures basa o alta","en":"plasma (medical, gas)"}
-{"T":"r","L":"-plasma","C":["sf","n","med"],"d":"masa, crese","en":"-plasm (growth)"}
-{"L":"-plasmica","C":["sf","a","med"],"en":"-plasmic"}
-{"T":"r","L":"plasmasite","C":["n","bio"],"d":"un selula blanca de sangue cual secrete cuantias grande de anticorpos","en":"plasmacyte (biology)"}
-{"T":"r","L":"plasmide","C":["n","bio"],"d":"un molecula peti de adn, separada de la adn cromosomal, capas de reprodui autonom, e comun en baterias","en":"plasmid"}
-{"T":"r","L":"plasmodio","C":["n","med"],"d":"un protozon parasital de un jenero cual inclui los cual causa malaria","i":"#","en":"plasmodium (organism)"}
-{"T":"r","L":"-plastia","C":["sf","n","med"],"d":"sirurjia reconstruinte","en":"-plasty (surgery)"}
-{"L":"-plastica","C":["sf","a","med"],"en":"-plastic (surgical)"}
-{"T":"r","L":"plastica","C":["a","cim","util"],"d":"pertinente a o fabricada de un materia artifis preparada de polimer organica, cual on pote moldi a formas diversa","en":"plastic"}
+{"L":"plaser odiosa","C":["n"],"en":"Schadenfreude","fr":"joie maligne, malin plaisir"}
+{"L":"plaser vergoniosa","C":["n"],"en":"guilty pleasure","fr":"plaisir coupable"}
+{"L":"nonplaserosa","C":["a"],"en":"unpleasurable, unenjoyable","fr":"déplaisant"}
+{"L":"plaserosa","C":["a"],"en":"pleasurable, enjoyable","fr":"agréable"}
+{"T":"r","L":"-plasia","C":["sf","n","med"],"d":"masa, crese","en":"-plasia (growth)","fr":"-plasie"}
+{"T":"r","L":"plasma","C":["n","tecn","med","fis"],"d":"(en medica) la licuida sin color de sangue, limfa o lete; (en fisica) un gas ionida con iones positiva e eletrones libre en un proportio cual produi un carga eletrical prosiminte a zero, tipal a temperatures basa o alta","en":"plasma (medical, gas)","fr":"plasma"}
+{"T":"r","L":"-plasma","C":["sf","n","med"],"d":"masa, crese","en":"-plasm (growth)","fr":"-plasme"}
+{"L":"-plasmica","C":["sf","a","med"],"en":"-plasmic","fr":"-plasmique"}
+{"T":"r","L":"plasmasite","C":["n","bio"],"d":"un selula blanca de sangue cual secrete cuantias grande de anticorpos","en":"plasmacyte (biology)","fr":"plasmocyte, plasmacyte"}
+{"T":"r","L":"plasmide","C":["n","bio"],"d":"un molecula peti de adn, separada de la adn cromosomal, capas de reprodui autonom, e comun en baterias","en":"plasmid","fr":"plasmide"}
+{"T":"r","L":"plasmodio","C":["n","med"],"d":"un protozon parasital de un jenero cual inclui los cual causa malaria","i":"#","en":"plasmodium (organism)","fr":"plasmodium"}
+{"T":"r","L":"-plastia","C":["sf","n","med"],"d":"sirurjia reconstruinte","en":"-plasty (surgery)","fr":"-plastie"}
+{"L":"-plastica","C":["sf","a","med"],"en":"-plastic (surgical)","fr":"-plastique"}
+{"T":"r","L":"plastica","C":["a","cim","util"],"d":"pertinente a o fabricada de un materia artifis preparada de polimer organica, cual on pote moldi a formas diversa","en":"plastic","fr":"plastique"}
 {"L":"plastica","C":["n"],"da":"plastik","de":"Kunststoff, Plastik","en":"plastic","eo":"plastiko","es":"plástico","fr":"plastique","it":"plastica","nl":"plastic","pt":"plástico"}
-{"L":"plastica abrasante","C":["n"],"en":"shrink wrap"}
-{"L":"plastica de bolas","C":["n"],"en":"bubblewrap"}
-{"L":"plastica de vitro","C":["n"],"en":"glass-reinforced plastic, fiberglass|re"}
-{"L":"plastica polalida","C":["n"],"en":"polaroid"}
-{"T":"r","L":"plasto","C":["n","bio"],"d":"cada de un clase de organetas peti en la sitoplasma de la selulas de plantas, conteninte pigmento o nurinte","en":"plastid (biology)"}
-{"T":"r","L":"plata","C":["a"],"d":"(un cosa) con poca spesia en compara con sua otra du dimensiones","v":"plana","ca":"pla","da":"flad, plan","de":"flach, platt","en":"flat (level and thin), flattened, thin; plain (text file)","es":"llano, plano, chato, aplastado, liso","fr":"plat","it":"piatto","ja":"平たい","nl":"vlak","pt":"plano, chato, liso","ru":"плоский"}
-{"L":"plata","C":["n"],"d":"un peso plata de metal o otra materia, tipal usada per junta o forti, o como un parte de un macina","en":"plate, platen"}
-{"L":"plata de cupre","C":["n"],"en":"copperplate (engraving)"}
-{"L":"plata de forno","C":["n"],"i":"#","en":"sheet pan"}
-{"L":"plata jirante","C":["n"],"en":"turntable (rail)"}
-{"L":"plata per biscotos","C":["n"],"en":"cookie sheet"}
-{"L":"plati","C":["vnt"],"en":"flatten"}
-{"L":"plati","C":["vt"],"en":"flatten"}
-{"L":"platida","C":["a"],"en":"flattened, oblate"}
-{"L":"platin","C":["a"],"en":"flattish"}
-{"T":"r","L":"plataforma","C":["n","arci"],"d":"un surfas levada sur cual persones o cosas pote sta; un solo levada usada par parlores, atores, etc afin los pote es videda par sua regardores; un strutur levada longo la lado de un ferovia do pasajores pote entra a e sorti de trenes; un strutur levada supra la mar de cual on pote oteni fontes de olio o gas","ca":"andana","de":"Bahnsteig","en":"platform, podium, rostrum, dais, catwalk","eo":"platformo, kajo","es":"andén","fr":"quai","ja":"プラットフォーム","pt":"plataforma","ru":"платформа"}
-{"L":"plataforma de petrolio","C":["n"],"en":"oil platform, oil rig"}
-{"L":"plataforma de predica","C":["n"],"en":"pulpit"}
-{"L":"plataforma rolante","C":["n"],"en":"rolling platform, dolly"}
-{"T":"r","L":"platan","C":["n","pla"],"d":"un asero alta de la emisfera norde","i":"#","t":"Platanus","en":"plane tree, sycamore (tree)"}
-{"T":"r","L":"platdeutx","C":["a","ling"],"en":"Plattdeutsch, Low Saxon, Low German (language)"}
-{"L":"platdeutx","C":["n"],"d":"la lingua parlada orijinal en Deutxland norde, aora cuasi estinguida","en":"Plattdeutsch, Low Saxon, Low German (language)"}
-{"T":"r","L":"platielminto","C":["n"],"d":"un membro de un filo de biladales simple, sin sesiones, con corpo mol e sin organos spesialida per respira o sirculi de sangue","i":"#","t":"Platyhelminthes","en":"platyhelminth, flatworm"}
-{"T":"r","L":"platino","C":["n","cim"],"d":"la elemento cimical con numero atomal 78, un metal blanca arjentin e multe valuada","s":"Pt","en":"platinum"}
-{"T":"r","L":"platizon","C":["n"],"d":"un membro de un clado major de tota animales, estra sponjas, placozones e alga otra organismes rara o estinguida","en":"platyzoon (pl. platyzoa) (organism)"}
+{"L":"plastica abrasante","C":["n"],"en":"shrink wrap","fr":"film rétractable"}
+{"L":"plastica de bolas","C":["n"],"en":"bubblewrap","fr":"papier bulle"}
+{"L":"plastica de vitro","C":["n"],"en":"glass-reinforced plastic, fiberglass|re","fr":"fibre de verre"}
+{"L":"plastica polalida","C":["n"],"en":"polaroid","fr":"polaroïd"}
+{"T":"r","L":"plasto","C":["n","bio"],"d":"cada de un clase de organetas peti en la sitoplasma de la selulas de plantas, conteninte pigmento o nurinte","en":"plastid (biology)","fr":"plaste, plastide"}
+{"T":"r","L":"plata","C":["a"],"d":"(un cosa) con poca spesia en compara con sua otra du dimensiones","v":"plana","ca":"pla","da":"flad, plan","de":"flach, platt","en":"flat (level and thin), flattened, thin; plain (text file)","es":"llano, plano, chato, aplastado, liso","fr":"plat, plan, aplati, mince; ordinaire (fichier texte)","it":"piatto","ja":"平たい","nl":"vlak","pt":"plano, chato, liso","ru":"плоский"}
+{"L":"plata","C":["n"],"d":"un peso plata de metal o otra materia, tipal usada per junta o forti, o como un parte de un macina","en":"plate, platen","fr":"plaque"}
+{"L":"plata de cupre","C":["n"],"en":"copperplate (engraving)","fr":"plaque de cuivre"}
+{"L":"plata de forno","C":["n"],"i":"#","en":"sheet pan","fr":"plaque de four"}
+{"L":"plata jirante","C":["n"],"en":"turntable (rail)","fr":"plaque tournante"}
+{"L":"plata per biscotos","C":["n"],"en":"cookie sheet","fr":"plaque de cuisson, plaque à biscuits, plaque à pâtisserie, plaque à gâteaux"}
+{"L":"plati","C":["vnt"],"en":"flatten","fr":"s'aplatir, devenir plat, s'aplanir"}
+{"L":"plati","C":["vt"],"en":"flatten","fr":"aplatir, rendre plat, aplanir"}
+{"L":"platida","C":["a"],"en":"flattened, oblate","fr":"aplati, aplani"}
+{"L":"platin","C":["a"],"en":"flattish","fr":"pratiquement plat, comme plat, plutôt plat"}
+{"T":"r","L":"plataforma","C":["n","arci"],"d":"un surfas levada sur cual persones o cosas pote sta; un solo levada usada par parlores, atores, etc afin los pote es videda par sua regardores; un strutur levada longo la lado de un ferovia do pasajores pote entra a e sorti de trenes; un strutur levada supra la mar de cual on pote oteni fontes de olio o gas","ca":"andana","de":"Bahnsteig","en":"platform, podium, rostrum, dais, catwalk","eo":"platformo, kajo","es":"andén","fr":"quai, plateforme, podium, scène, tréteaux, tribune, chaire, estrade","ja":"プラットフォーム","pt":"plataforma","ru":"платформа"}
+{"L":"plataforma de petrolio","C":["n"],"en":"oil platform, oil rig","fr":"plateforme pétrolière"}
+{"L":"plataforma de predica","C":["n"],"en":"pulpit","fr":"chaire, tribune, pupitre"}
+{"L":"plataforma rolante","C":["n"],"en":"rolling platform, dolly","fr":"chariot, benne, berline, wagonnet"}
+{"T":"r","L":"platan","C":["n","pla"],"d":"un asero alta de la emisfera norde","i":"#","t":"Platanus","en":"plane tree, sycamore (tree)","fr":"platane"}
+{"T":"r","L":"platdeutx","C":["a","ling"],"en":"Plattdeutsch, Low Saxon, Low German (language)","fr":"bas saxon, bas allemand"}
+{"L":"platdeutx","C":["n"],"d":"la lingua parlada orijinal en Deutxland norde, aora cuasi estinguida","en":"Plattdeutsch, Low Saxon, Low German (language)","fr":"bas allemand"}
+{"T":"r","L":"platielminto","C":["n"],"d":"un membro de un filo de biladales simple, sin sesiones, con corpo mol e sin organos spesialida per respira o sirculi de sangue","i":"#","t":"Platyhelminthes","en":"platyhelminth, flatworm","fr":"platode, ver plat, platyhelminthe"}
+{"T":"r","L":"platino","C":["n","cim"],"d":"la elemento cimical con numero atomal 78, un metal blanca arjentin e multe valuada","s":"Pt","en":"platinum","fr":"platine"}
+{"T":"r","L":"platizon","C":["n"],"d":"un membro de un clado major de tota animales, estra sponjas, placozones e alga otra organismes rara o estinguida","en":"platyzoon (pl. platyzoa) (organism)","fr":"platyzoaire"}
 {"T":"r","L":"plato","C":["n","util"],"d":"un contenador basa, tipal ronda, con fondo plana, per coce o servi comedas; un comeda servida en esta","i":"#","ca":"plat","da":"fad, tallerken","de":"Schüssel, Teller","en":"plate, dish; course","eo":"telero, plato","es":"plato, platón","fr":"assiette, plat","it":"piatto","ja":"皿","nl":"schotel, bord","pt":"prato","ru":"тарелка, блюдо"}
-{"L":"plato de disco","C":["n"],"i":"#","en":"turntable"}
-{"L":"plato de la dia","C":["n"],"en":"dish of the day"}
-{"L":"plato de lenio","C":["n"],"en":"trencher"}
-{"L":"plato de Petri","C":["n"],"i":"#","en":"Petri dish"}
-{"L":"plato miscada","C":["n"],"en":"mixed dish, salmagundi"}
-{"L":"plato prima","C":["n"],"en":"starter, first course"}
-{"L":"lava la platos","C":["esp"],"en":"wash the dishes, wash up, do the washing-up"}
+{"L":"plato de disco","C":["n"],"i":"#","en":"turntable","fr":"tourne-disque, plateau de disque"}
+{"L":"plato de la dia","C":["n"],"en":"dish of the day","fr":"plat du jour"}
+{"L":"plato de lenio","C":["n"],"en":"trencher","fr":"planche à découper"}
+{"L":"plato de Petri","C":["n"],"i":"#","en":"Petri dish","fr":"boîte de Petri"}
+{"L":"plato miscada","C":["n"],"en":"mixed dish, salmagundi","fr":"plat composé, salmigondis"}
+{"L":"plato prima","C":["n"],"en":"starter, first course","fr":"entrée, hors-d'œuvre"}
+{"L":"lava la platos","C":["esp"],"en":"wash the dishes, wash up, do the washing-up","fr":"faire la vaisselle, faire la plonge"}
 {"L":"plateta","C":["n"],"ca":"platet","de":"Untertasse","en":"saucer","eo":"subtaso","es":"platillo","fr":"soucoupe","ja":"皿","pt":"pires","ru":"блюдце"}
 {"L":"platon","C":["n"],"ca":"safata","da":"bakke (til servering)","de":"Tablett","en":"platter, tray","eo":"pleto","es":"bandeja, batea, charola, fuente","fr":"plat, plateau","it":"vassoio","ja":"皿","nl":"dienblad, schenkblad","pt":"bandeja, travessa","ru":"большое блюдо"}
-{"L":"platon de esflue","C":["n"],"en":"output tray"}
-{"L":"platos de forno","C":["n"],"en":"ovenware"}
-{"T":"r","L":"Platon","C":["n","fil"],"d":"un filosofiste de Elas antica, multe importante en la developa de filosofia european","en":"Plato (philosopher)"}
-{"L":"platonisme","C":["n","fil"],"en":"Platonism"}
-{"L":"platoniste","C":["a"],"en":"Platonistic"}
-{"L":"platoniste","C":["n"],"en":"Platonist"}
-{"T":"r","L":"platonica","C":["a"],"d":"(ama o amia) intima e amosa ma no sesal","en":"platonic"}
-{"T":"r","L":"plaza","C":["n","arci"],"d":"un area publica e abrida, intera o partal ensircada par construidas; un area publica usada per vende e compra benes","i":"#","ca":"plaça","da":"kvadrat, firkant, plads","de":"Platz","en":"plaza, (town) square","es":"plaza","fr":"place","it":"piazza","ja":"プラザ、スクウェア","nl":"vierkant","pt":"praça","ru":"площадь"}
-{"T":"r","L":"plecotero","C":["n","ins"],"d":"un inseto primitiva e comun, cual no tolera acua contaminada","t":"Plecoptera","en":"plecoptera"}
-{"T":"r","L":"plectro","C":["n","mus"],"d":"un peso magra e plata de plastica o otra materia cuasi flexable, usada per toca la cordetas de un strumento como la gitar; un parte simil per toca la cordetas de un strumento como la clavesimbal","i":"#","en":"plectrum"}
-{"T":"r","L":"-plejia","C":["sf","n","med"],"d":"paralise","en":"-plegia (paralysis)"}
-{"L":"-plejica","C":["sf","a","med"],"en":"-plegic"}
-{"T":"r","L":"plen","C":["a"],"d":"conteninte tan multe como posible","ca":"ple","da":"fuld, fyldt","de":"voll","en":"full, filled, gravid, teeming","eo":"plena","es":"pleno, completo, lleno","fr":"plein","it":"pieno","ja":"いっぱいの","nl":"vol","pt":"pleno, cheio","ru":"полный"}
-{"L":"plen","C":["av"],"en":"fully"}
-{"L":"duiplen","C":["a"],"en":"half full"}
-{"L":"es plen de","C":["v"],"en":"be full of, abound in, teem with, be rife with, be fraught with, be riddled with"}
-{"L":"partal plen","C":["a"],"en":"half full"}
-{"L":"pleni","C":["vnt"],"ca":"omplir","de":"füllen","en":"fill, stuff, pad, stock, cram, engorge","eo":"pleniĝi, plenigi","es":"llenar","fr":"remplir","ja":"満たす","pt":"encher","ru":"наполнять"}
-{"L":"pleni","C":["vt"],"en":"fill, stuff, pad, stock, cram, engorge"}
-{"L":"pleni","C":["n"],"en":"filling, stuffing (action)"}
-{"L":"pleni la spasio","C":["v"],"en":"fill in the blank"}
-{"L":"plenia","C":["n"],"en":"fullness, satiety"}
-{"L":"plenida","C":["a"],"en":"filled; fed up (with), having had enough (of)"}
-{"L":"plenida","C":["n"],"d":"un spasio intera plenida con materia; un spasio plenida con aira en un strutur","en":"plenum (filled space)"}
-{"L":"pleninte","C":["a"],"en":"filling"}
-{"L":"pleninte","C":["n"],"en":"filling, stuffing (substance); filler, stopgap, expletive"}
-{"L":"repleni","C":["vnt"],"en":"refill, replenish, restock; backfill"}
-{"L":"repleni","C":["vt"],"en":"refill, replenish, restock; backfill"}
-{"L":"repleni","C":["n"],"en":"refill, replenishment"}
-{"T":"r","L":"pleniboca","C":["n","vn"],"d":"un cuantia, tipal de comeda o bevida, cual pleni la boca; un rompelingua","en":"mouthful; tongue twister"}
-{"T":"r","L":"plenibraso","C":["n","vn"],"d":"un cuantia portada par ambos brasos","en":"armful, armload"}
-{"T":"r","L":"plenimano","C":["n","vn"],"d":"un cuantia cual pleni un mano","en":"handful"}
-{"T":"r","L":"plenioio","C":["n","vn"],"d":"un cuantia de sustantia cual colpa un oio; (metafor) un person o cosa cual saisi la oio","en":"eyeful"}
-{"T":"r","L":"pleniorea","C":["n","vn"],"d":"un ruido forte","en":"earful"}
-{"T":"r","L":"plenipunio","C":["n","vn"],"d":"un cuantia cual pleni un punio","en":"fistful"}
-{"T":"r","L":"plenisaco","C":["n","vn"],"d":"un cuantia cual pleni un saco","en":"bagful"}
-{"T":"r","L":"pleo-","C":["pf","tecn"],"d":"plu ca normal","en":"pleo- (more)"}
-{"T":"r","L":"plesiosauro","C":["n","ret"],"d":"un retil maral, grande e estinguida de la mesozoica, con corpo plata e larga, gamas como remos grande, coda longa e flexable, e testa peti","i":"#","t":"Plesiosauria","en":"plesiosaur"}
-{"T":"r","L":"pleso","C":["n","anat"],"d":"un rede complicada de nervos o dutos en la corpo","en":"plexus (anatomy)"}
-{"T":"r","L":"plestosene","C":["a","tera"],"d":"pertinente a la epoca prima de la cuatronaria, entre la pliosene e olosene","en":"Pleistocene (geology)"}
-{"L":"plestosene","C":["n"],"en":"Pleistocene (geology)"}
-{"T":"r","L":"pleura","C":["n","anat"],"d":"cada de la du membranas serosa cual fore la torax e envelopa la pulmones en umanas e otra mamales; (en zolojia) la parte ladal en un corpo animal","en":"pleura (anatomy)"}
-{"L":"pleural","C":["a"],"en":"pleural"}
-{"T":"r","L":"pleurite","C":["n","med"],"d":"un inflama de la pleuras, causante respira dolosa","en":"pleuritis, pleurisy (medical)"}
-{"T":"r","L":"plia","C":["vt"],"d":"curvi (alga cosa plana e flexable) sur se afin un parte covre un otra","da":"folde","de":"falten","en":"fold, bend, crease, tuck","eo":"faldi","es":"doblar(se), plegar(se)","fr":"plier","it":"piegare","nl":"vouwen, plooien","pt":"dobrar, embrulhar"}
-{"L":"plia","C":["n"],"da":"rynke, fold","de":"Runzel","en":"fold, bend, crease, tuck; furrow; sulcus","es":"arruga, pliegue, doblez, surco","fr":"ride","it":"piega","nl":"rimpel, plooi","pt":"prega, sulco"}
-{"L":"plia de codo","C":["n"],"en":"crook of the arm"}
-{"L":"plia de jeno","C":["n"],"en":"crook of the leg, back of the knee; genuflection, genuflexion"}
-{"L":"plia de jenos","C":["n"],"en":"curtsy"}
-{"L":"plia de tempo","C":["n"],"en":"time warp"}
-{"L":"plia sua jenos","C":["esp"],"en":"curtsy","fr":"faire la révérence; plier les genoux"}
-{"L":"plia sua oios","C":["esp"],"i":"#","en":"squint, half-close one's eyes","fr":"cligner des yeux"}
-{"L":"plia un jeno","C":["esp"],"en":"genuflect"}
+{"L":"platon de esflue","C":["n"],"en":"output tray","fr":"bac de sortie"}
+{"L":"platos de forno","C":["n"],"en":"ovenware","fr":"plats à four, plats qui vont au four"}
+{"T":"r","L":"Platon","C":["n","fil"],"d":"un filosofiste de Elas antica, multe importante en la developa de filosofia european","en":"Plato (philosopher)","fr":"Platon"}
+{"L":"platonisme","C":["n","fil"],"en":"Platonism","fr":"platonisme"}
+{"L":"platoniste","C":["a"],"en":"Platonistic","fr":"platonicien"}
+{"L":"platoniste","C":["n"],"en":"Platonist","fr":"platonicien"}
+{"T":"r","L":"platonica","C":["a"],"d":"(ama o amia) intima e amosa ma no sesal","en":"platonic","fr":"platonique"}
+{"T":"r","L":"plaza","C":["n","arci"],"d":"un area publica e abrida, intera o partal ensircada par construidas; un area publica usada per vende e compra benes","i":"#","ca":"plaça","da":"kvadrat, firkant, plads","de":"Platz","en":"plaza, (town) square","es":"plaza","fr":"place, esplanade","it":"piazza","ja":"プラザ、スクウェア","nl":"vierkant","pt":"praça","ru":"площадь"}
+{"T":"r","L":"plecotero","C":["n","ins"],"d":"un inseto primitiva e comun, cual no tolera acua contaminada","t":"Plecoptera","en":"plecoptera","fr":"plécoptère, mouche de pierre"}
+{"T":"r","L":"plectro","C":["n","mus"],"d":"un peso magra e plata de plastica o otra materia cuasi flexable, usada per toca la cordetas de un strumento como la gitar; un parte simil per toca la cordetas de un strumento como la clavesimbal","i":"#","en":"plectrum","fr":"plectre, médiator"}
+{"T":"r","L":"-plejia","C":["sf","n","med"],"d":"paralise","en":"-plegia (paralysis)","fr":"-plégie"}
+{"L":"-plejica","C":["sf","a","med"],"en":"-plegic","fr":"-plégique"}
+{"T":"r","L":"plen","C":["a"],"d":"conteninte tan multe como posible","ca":"ple","da":"fuld, fyldt","de":"voll","en":"full, filled, gravid, teeming","eo":"plena","es":"pleno, completo, lleno","fr":"plein, complet, rempli","it":"pieno","ja":"いっぱいの","nl":"vol","pt":"pleno, cheio","ru":"полный"}
+{"L":"plen","C":["av"],"en":"fully","fr":"complètement, pleinement, entièrement, totalement"}
+{"L":"duiplen","C":["a"],"en":"half full","fr":"à moitié plein"}
+{"L":"es plen de","C":["v"],"en":"be full of, abound in, teem with, be rife with, be fraught with, be riddled with","fr":"être plein de, regorger de, abonder en, déborder de"}
+{"L":"partal plen","C":["a"],"en":"half full","fr":"à moitié plein"}
+{"L":"pleni","C":["vnt"],"ca":"omplir","de":"füllen","en":"fill, stuff, pad, stock, cram, engorge","eo":"pleniĝi, plenigi","es":"llenar","fr":"se remplir, s'emplir","ja":"満たす","pt":"encher","ru":"наполнять"}
+{"L":"pleni","C":["vt"],"en":"fill, stuff, pad, stock, cram, engorge","fr":"remplir, emplir, fourrer"}
+{"L":"pleni","C":["n"],"en":"filling, stuffing (action)","fr":"remplissage, fourrage"}
+{"L":"pleni la spasio","C":["v"],"en":"fill in the blank","fr":"emplir l'espace, remplir l'espace, combler, saturer"}
+{"L":"plenia","C":["n"],"en":"fullness, satiety","fr":"satiété, plénitude, réplétion, abondance, saturation"}
+{"L":"plenida","C":["a"],"en":"filled; fed up (with), having had enough (of)","fr":"rempli, farci, garni; exaspéré"}
+{"L":"plenida","C":["n"],"d":"un spasio intera plenida con materia; un spasio plenida con aira en un strutur","en":"plenum (filled space)","fr":"plein, plénum, chambre d'expansion"}
+{"L":"pleninte","C":["a"],"en":"filling","fr":"remplissant"}
+{"L":"pleninte","C":["n"],"en":"filling, stuffing (substance); filler, stopgap, expletive","fr":"remplissage, farce, garniture"}
+{"L":"repleni","C":["vnt"],"en":"refill, replenish, restock; backfill","fr":"se remplir, se réemplir, se réapprovisionner, se regarnir"}
+{"L":"repleni","C":["vt"],"en":"refill, replenish, restock; backfill","fr":"remplir, réemplir, réapprovisionner, regarnir"}
+{"L":"repleni","C":["n"],"en":"refill, replenishment","fr":"réapprovisionnement, regarnissage, remplissage"}
+{"T":"r","L":"pleniboca","C":["n","vn"],"d":"un cuantia, tipal de comeda o bevida, cual pleni la boca; un rompelingua","en":"mouthful; tongue twister","fr":"bouchée double, pleine bouchée, plein la bouche"}
+{"T":"r","L":"plenibraso","C":["n","vn"],"d":"un cuantia portada par ambos brasos","en":"armful, armload","fr":"pleine brassée, plein les bras"}
+{"T":"r","L":"plenimano","C":["n","vn"],"d":"un cuantia cual pleni un mano","en":"handful","fr":"pleine poignée, plein les mains"}
+{"T":"r","L":"plenioio","C":["n","vn"],"d":"un cuantia de sustantia cual colpa un oio; (metafor) un person o cosa cual saisi la oio","en":"eyeful","fr":"plein les yeux"}
+{"T":"r","L":"pleniorea","C":["n","vn"],"d":"un ruido forte","en":"earful","fr":"plein les oreilles"}
+{"T":"r","L":"plenipunio","C":["n","vn"],"d":"un cuantia cual pleni un punio","en":"fistful","fr":"pleine poignée"}
+{"T":"r","L":"plenisaco","C":["n","vn"],"d":"un cuantia cual pleni un saco","en":"bagful","fr":"plein le sac"}
+{"T":"r","L":"pleo-","C":["pf","tecn"],"d":"plu ca normal","en":"pleo- (more)","fr":"pléo-"}
+{"T":"r","L":"plesiosauro","C":["n","ret"],"d":"un retil maral, grande e estinguida de la mesozoica, con corpo plata e larga, gamas como remos grande, coda longa e flexable, e testa peti","i":"#","t":"Plesiosauria","en":"plesiosaur","fr":"plésiosaure"}
+{"T":"r","L":"pleso","C":["n","anat"],"d":"un rede complicada de nervos o dutos en la corpo","en":"plexus (anatomy)","fr":"plexus"}
+{"T":"r","L":"plestosene","C":["a","tera"],"d":"pertinente a la epoca prima de la cuatronaria, entre la pliosene e olosene","en":"Pleistocene (geology)","fr":"pléistocène"}
+{"L":"plestosene","C":["n"],"en":"Pleistocene (geology)","fr":"Pléistocène"}
+{"T":"r","L":"pleura","C":["n","anat"],"d":"cada de la du membranas serosa cual fore la torax e envelopa la pulmones en umanas e otra mamales; (en zolojia) la parte ladal en un corpo animal","en":"pleura (anatomy)","fr":"plèvre"}
+{"L":"pleural","C":["a"],"en":"pleural","fr":"pleural"}
+{"T":"r","L":"pleurite","C":["n","med"],"d":"un inflama de la pleuras, causante respira dolosa","en":"pleuritis, pleurisy (medical)","fr":"pleurésie, pleurite"}
+{"T":"r","L":"plia","C":["vt"],"d":"curvi (alga cosa plana e flexable) sur se afin un parte covre un otra","da":"folde","de":"falten","en":"fold, bend, crease, tuck","eo":"faldi","es":"doblar(se), plegar(se)","fr":"plier, courber","it":"piegare","nl":"vouwen, plooien","pt":"dobrar, embrulhar"}
+{"L":"plia","C":["n"],"da":"rynke, fold","de":"Runzel","en":"fold, bend, crease, tuck; furrow; sulcus","es":"arruga, pliegue, doblez, surco","fr":"ride, pli, pliure, courbure","it":"piega","nl":"rimpel, plooi","pt":"prega, sulco"}
+{"L":"plia de codo","C":["n"],"en":"crook of the arm","fr":"pli du coude, creux du coude; coudée"}
+{"L":"plia de jeno","C":["n"],"en":"crook of the leg, back of the knee; genuflection, genuflexion","fr":"pli du genou, creux poplité; génuflexion"}
+{"L":"plia de jenos","C":["n"],"en":"curtsy","fr":"révérence, agenouillement, génuflexion, mise à genoux"}
+{"L":"plia de tempo","C":["n"],"en":"time warp","fr":"courbure temporelle, courbe du temps"}
+{"L":"plia sua jenos","C":["esp"],"en":"curtsy","fr":"s'agenouller, faire la révérence; plier les genoux"}
+{"L":"plia sua oios","C":["esp"],"i":"#","en":"squint, half-close one's eyes","fr":"cligner des yeux, plisser les yeux"}
+{"L":"plia un jeno","C":["esp"],"en":"genuflect","fr":"mettre un genou à terre"}
 {"L":"plia vosal","C":["n"],"en":"vocal fold, vocal cord (anatomy)","fr":"pli vocal, corde vocale"}
 {"L":"desplia","C":["vt"],"p":"desplía","en":"unfold","fr":"déplier; déployer"}
 {"L":"pliable","C":["a"],"en":"foldable, folding, collapsible, pliable, pliant","fr":"pliable"}
-{"L":"pliada","C":["a"],"en":"folded, creased; (page) dog-eared"}
+{"L":"pliada","C":["a"],"en":"folded, creased; (page) dog-eared","fr":"plié, replié, froissé, corné"}
 {"L":"plieta","C":["vt"],"en":"wrinkle, shrivel, crumple, crimp, wither, pucker, purse, furrow","fr":"rider, froisser, plisser"}
-{"L":"plieta","C":["n"],"da":"rynke, fold","de":"Runzel","en":"wrinkle, crinkle, crimp, pucker, furrow","eo":"sulketo","es":"arruga, pliegue, doblez, surco","fr":"ride","it":"piega","nl":"rimpel, plooi","pt":"prega, sulco"}
+{"L":"plieta","C":["n"],"da":"rynke, fold","de":"Runzel","en":"wrinkle, crinkle, crimp, pucker, furrow","eo":"sulketo","es":"arruga, pliegue, doblez, surco","fr":"ride, ridule, froissement, pliure, sillon","it":"piega","nl":"rimpel, plooi","pt":"prega, sulco"}
 {"L":"plieta sua fronte","C":["esp"],"en":"furrow one's brow","fr":"plisser le front"}
-{"L":"plietosa","C":["a"],"en":"wrinkled, shriveled|ll, wizened, crumpled, crinkled, crinkly, puckered, puckery, plissé","fr":"ridé"}
-{"T":"r","L":"pliades","C":["n","pl","mit"],"d":"(en mitos elinica) la sete fias de Atlas e Plione, xasada par Orion asta cuando Zeus ia cambia los a un grupo de stelas; un grupo de stelas en la Bove","en":"Pleiades (mythology, stars)"}
-{"T":"r","L":"pliosene","C":["a","tera"],"d":"pertinente a la epoca final de la tersiaria, entre la miosene e la plestosene","en":"Pliocene (anatomy)"}
-{"L":"pliosene","C":["n"],"en":"Pliocene (anatomy)","fr":"pliocène"}
+{"L":"plietosa","C":["a"],"en":"wrinkled, shriveled|ll, wizened, crumpled, crinkled, crinkly, puckered, puckery, plissé","fr":"ridé, plissé, ratatiné, froissé, froncé"}
+{"T":"r","L":"pliades","C":["n","pl","mit"],"d":"(en mitos elinica) la sete fias de Atlas e Plione, xasada par Orion asta cuando Zeus ia cambia los a un grupo de stelas; un grupo de stelas en la Bove","en":"Pleiades (mythology, stars)","fr":"Pléiades"}
+{"T":"r","L":"pliosene","C":["a","tera"],"d":"pertinente a la epoca final de la tersiaria, entre la miosene e la plestosene","en":"Pliocene","fr":"pliocène"}
+{"L":"pliosene","C":["n"],"en":"Pliocene","fr":"Pliocène"}
 {"T":"r","L":"plisa","C":["vt","vest"],"d":"un plia duple o multiple en un veste o otra stofa, tenida par cose la culmina o la lado","en":"pleat (stitched fold)","fr":"plisser, froncer (un tissu par couture)"}
 {"L":"plisa","C":["n"],"i":"#","en":"pleat","fr":"pli, fronce"}
 {"T":"r","L":"plomo","C":["n","cim"],"d":"la elemento cimical con numero atomal 82, un metal pesosa, formable, e bluin gris","s":"Pb (plumbum)","da":"bly","de":"Blei","en":"lead","eo":"plumbo","es":"plomo","fr":"plomb","it":"piombo","nl":"lood","pt":"chumbo"}
-{"L":"plomin","C":["a"],"en":"leaden"}
+{"L":"plomin","C":["a"],"en":"leaden","fr":"comme du plomb"}
 {"L":"plomor","C":["n"],"en":"plumber","fr":"plombier"}
-{"L":"sin plomo","C":["a"],"en":"unleaded"}
+{"L":"sin plomo","C":["a"],"en":"unleaded","fr":"sans plomb"}
 {"T":"r","L":"plora","C":["vt","uma"],"d":"produi larmas, tipal con sanglotas o crias per espresa dole, angusa o tristia","i":"#","da":"græde, hulke","de":"weinen","en":"cry, weep, bawl","eo":"plori","es":"llorar","fr":"pleurer","it":"piangere","nl":"huilen","pt":"chorar"}
-{"L":"plora","C":["n"],"en":"cry"}
-{"L":"ploreta","C":["vt"],"en":"whimper","fr":"gémir"}
-{"L":"ploreta","C":["n"],"en":"whimper","fr":"gémissement"}
-{"L":"plorosa","C":["n"],"en":"crybaby"}
+{"L":"plora","C":["n"],"en":"cry","fr":"pleur, larmes"}
+{"L":"ploreta","C":["vt"],"en":"whimper","fr":"gémir, pleurnicher, larmoyer"}
+{"L":"ploreta","C":["n"],"en":"whimper","fr":"gémissement, pleurnicherie, pleurnichage, larmoiement"}
+{"L":"plorosa","C":["n"],"en":"crybaby","fr":"pleureuse, pleurnicheur, pleunichard, chialeur"}
 {"T":"r","L":"ploton","C":["n","gov"],"d":"un sudivide de un compania de soldatos","en":"platoon","fr":"peloton"}
 {"T":"r","L":"plu","C":["d"],"d":"un cuantia, grandia o grado ajuntada a un cuantia, grandia o grado esistente o normal","u":"plu tempo; plu problemes; un plu peso de torta","da":"mere, flere","en":"more, additional, extra, further, other, another","fr":"plus de; encore un; supplémentaire, nouveau, autre"}
-{"L":"plu","C":["av"],"u":"plu fria ca","ca":"més","da":"mere, -ere","de":"mehr","en":"more; any more, any further, any longer; in addition, besides, moreover, furthermore","eo":"pli","es":"mas","fr":"plus","ja":"もっと","pt":"mais","ru":"больше"}
-{"L":"plu","C":["cj"],"en":"plus (arithmetic)"}
-{"L":"plu ... plu","C":["esp"],"u":"plu me deveni vea, min me recorda; plu me leje, min me sabe; plu me senta, plu me deveni fria","en":"the more ... the more","eo":"ju pli ... des pli"}
-{"L":"plu ca nesesada","C":["a"],"en":"more than necessary, excessive, superfluous, redundant, overkill, supernumerary"}
-{"L":"plu ca sempre","C":["esp"],"en":"more than ever"}
+{"L":"plu","C":["av"],"u":"plu fria ca","ca":"més","da":"mere, -ere","de":"mehr","en":"more; any more, any further, any longer; in addition, besides, moreover, furthermore","eo":"pli","es":"mas","fr":"plus, plus longtemps; en plus, de plus, en outre","ja":"もっと","pt":"mais","ru":"больше"}
+{"L":"plu","C":["cj"],"en":"plus (arithmetic)","fr":"plus (mathématiques)"}
+{"L":"plu ... plu","C":["esp"],"u":"plu me deveni vea, min me recorda; plu me leje, min me sabe; plu me senta, plu me deveni fria","en":"the more ... the more","eo":"ju pli ... des pli","fr":"plus ... plus"}
+{"L":"plu ca nesesada","C":["a"],"en":"more than necessary, excessive, superfluous, redundant, overkill, supernumerary","fr":"superfétatoire, plus que nécessaire, superflu, excessif, surabondant"}
+{"L":"plu ca sempre","C":["esp"],"en":"more than ever","fr":"plus que jamais"}
 {"L":"plu e plu","C":["av"],"ca":"més i més","de":"mehr und mehr","en":"more and more, ever more","eo":"pli kaj pli, ĉiam pli","es":"más y más","fr":"de plus en plus","ja":"多くより多く","pt":"mais e mais","ru":"всё больше и больше"}
 {"L":"plu o min","C":["av"],"ca":"més o menys","de":"mehr oder weniger","en":"more or less, approximately","eo":"pli-malpli","es":"más o menos","fr":"plus ou moins","ja":"多いか少いか","pt":"mais ou menos","ru":"более или менее"}
-{"L":"a la plu","C":["av"],"da":"mest, ikke mere end","de":"nicht mehr als","en":"at most","es":"a lo más, cuando más, no más que, lo máximo","fr":"au plus","gl":"todo o máis, cando máis, non máis que, o máximo"}
-{"L":"la plu","C":["av"],"u":"la dia la plu longa; mea ami la plu cara","da":"mest, flest, -este","de":"meist, -ste","en":"the most, the maximum","fr":"le plus"}
-{"L":"la plu de","C":["esp"],"u":"la plu de persones","en":"most, the majority of","es":"la mayoría de, la máxima cantidad de, la mayor parte de","fr":"la plupart de, le plus de, la plus grande partie de"}
-{"L":"no plu","C":["av"],"en":"no longer, no more, not any more (time)"}
+{"L":"a la plu","C":["av"],"da":"mest, ikke mere end","de":"nicht mehr als","en":"at most","es":"a lo más, cuando más, no más que, lo máximo","fr":"au plus, au maximum","gl":"todo o máis, cando máis, non máis que, o máximo"}
+{"L":"la plu","C":["av"],"u":"la dia la plu longa; mea ami la plu cara","da":"mest, flest, -este","de":"meist, -ste","en":"the most, the maximum","fr":"le plus, le maximum"}
+{"L":"la plu de","C":["esp"],"u":"la plu de persones","en":"most, the majority of","es":"la mayoría de, la máxima cantidad de, la mayor parte de","fr":"la plupart de, le plus de, la plus grande partie de, la majeure partie de"}
+{"L":"no plu","C":["av"],"en":"no longer, no more, not any more (time)","fr":"ne ... plus"}
 {"L":"per la plu","C":["av"],"ca":"en la major part","de":"meistens","en":"mostly, for the most part","eo":"plejparte","es":"en su mayor parte","fr":"pour la plupart","ja":"多くは","pt":"na maioria, na maior parte","ru":"большей частью, преимущественно"}
-{"T":"r","L":"pluf","C":["n","onom"],"d":"la sona de un cosa colpante o cadente en licuida; la sona de alga cosa mol colpante o cadente sur un surfas dur","en":"splash, plop, splat"}
-{"L":"pluf","C":["esc"],"en":"splash, plop, splat"}
-{"L":"plufi","C":["vnt"],"en":"splash, plop, splat; dabble (in water)"}
-{"L":"plufi","C":["vt"],"en":"splash, plop, splat; dabble (in water)"}
-{"T":"r","L":"pluma","C":["n","anat"],"d":"un de la formas cresente de la pel de un avia, composada de un spina vacua bordada par spinetas capelin","i":"#","da":"fjer","de":"Feder","en":"feather, quill","eo":"plumo","es":"pluma","fr":"plume","it":"penna","nl":"veer","pt":"pena"}
-{"L":"pluma nonmatur","C":["n","anat"],"en":"pinfeather"}
-{"L":"pluma covrente","C":["n","anat"],"en":"covert"}
-{"L":"pluma reminte","C":["n","anat"],"en":"remige, flight feather"}
+{"T":"r","L":"pluf","C":["n","onom"],"d":"la sona de un cosa colpante o cadente en licuida; la sona de alga cosa mol colpante o cadente sur un surfas dur","en":"splash, plop, splat","fr":"plouf"}
+{"L":"pluf","C":["esc"],"en":"splash, plop, splat","fr":"plouf!"}
+{"L":"plufi","C":["vnt"],"en":"splash, plop, splat; dabble (in water)","fr":"s'éclabousser, s'asperger"}
+{"L":"plufi","C":["vt"],"en":"splash, plop, splat; dabble (in water)","fr":"éclabousser, asperger"}
+{"T":"r","L":"pluma","C":["n","anat"],"d":"un de la formas cresente de la pel de un avia, composada de un spina vacua bordada par spinetas capelin","i":"#","da":"fjer","de":"Feder","en":"feather, quill","eo":"plumo","es":"pluma","fr":"plume, penne","it":"penna","nl":"veer","pt":"pena"}
+{"L":"pluma nonmatur","C":["n","anat"],"en":"pinfeather","fr":"duvet"}
+{"L":"pluma covrente","C":["n","anat"],"en":"covert","fr":"tectrice (plume d'oiseau)"}
+{"L":"pluma reminte","C":["n","anat"],"en":"remige, flight feather","fr":"remige, plume de vol"}
 {"L":"desplumi","C":["vt"],"en":"pluck (feathers)","fr":"déplumer, plumer"}
-{"L":"plen plumida","C":["a"],"en":"fully feathered, fully fledged"}
-{"L":"plumas","C":["n","pl"],"en":"feathers, plumage"}
-{"L":"plumi","C":["vt"],"en":"feather, fletch","fr":"couvrir de plumes"}
+{"L":"plen plumida","C":["a"],"en":"fully feathered, fully fledged","fr":"rempli de plumes, garni de plumes"}
+{"L":"plumas","C":["n","pl"],"en":"feathers, plumage","fr":"plumage"}
+{"L":"plumi","C":["vt"],"en":"feather, fletch","fr":"couvrir de plumes, garnir de plumes, remplir de plumes"}
 {"L":"plumin","C":["a"],"en":"feathery, featherlike, pinnate","fr":"plumeux"}
 {"L":"plumon","C":["n"],"en":"plume (feathers, smoke)","fr":"panache (plumes, fumée)"}
 {"L":"plumon de despolvi","C":["n"],"i":"#","en":"feather duster"}
 {"L":"plumosa","C":["a"],"en":"feathery (full of feathers)","fr":"emplumé"}
-{"T":"r","L":"plumasedin","C":["n","avia"],"d":"un avia de America Sentral con plumas sedin, cual come moscas","i":"#","t":"Ptilogonatidae","en":"silky-flycatcher (bird)"}
-{"T":"r","L":"plumbago","C":["n","pla"],"d":"un arboreta perene e florinte de rejiones calda e cultivada a otra locas como un planta ornal","i":"#","t":"Plumbago","en":"plumbago (plant)"}
-{"T":"r","L":"plumeria","C":["n","pla"],"d":"un arbor tropical con flores bonodorinte","i":"#","t":"Plumeria","en":"plumeria, frangipani (tree)"}
+{"T":"r","L":"plumasedin","C":["n","avia"],"d":"un avia de America Sentral con plumas sedin, cual come moscas","i":"#","t":"Ptilogonatidae","en":"silky-flycatcher (bird)","fr":"ptilogon (oiseau)"}
+{"T":"r","L":"plumbago","C":["n","pla"],"d":"un arboreta perene e florinte de rejiones calda e cultivada a otra locas como un planta ornal","i":"#","t":"Plumbago","en":"plumbago (plant)","fr":"plumbago, plombago (plante)"}
+{"T":"r","L":"plumeria","C":["n","pla"],"d":"un arbor tropical con flores bonodorinte","i":"#","t":"Plumeria","en":"plumeria, frangipani (tree)","fr":"pluméria, frangipanier"}
 {"T":"r","L":"plural","C":["a","ling"],"d":"plu ca un; (en gramatica) indicante un cuantia plu ca un o (en linguas con sustantivos dual) plu ca du","en":"plural","fr":"pluriel"}
 {"L":"plural","C":["n"],"en":"plural","fr":"pluriel"}
-{"L":"plurali","C":["vnt"],"en":"pluralize|is"}
-{"L":"plurali","C":["vt"],"en":"pluralize|is"}
-{"L":"pluralia","C":["n"],"en":"plurality"}
-{"L":"pluralisme","C":["n"],"d":"un sistem de du o plu grupos colaborante","en":"pluralism"}
-{"L":"pluraliste","C":["n"],"en":"pluralist"}
+{"L":"plurali","C":["vnt"],"en":"pluralize|is","fr":"se mettre au pluriel"}
+{"L":"plurali","C":["vt"],"en":"pluralize|is","fr":"mettre au pluriel"}
+{"L":"pluralia","C":["n"],"en":"plurality","fr":"pluralité"}
+{"L":"pluralisme","C":["n"],"d":"un sistem de du o plu grupos colaborante","en":"pluralism","fr":"pluralisme"}
+{"L":"pluraliste","C":["n"],"en":"pluralist","fr":"pluraliste"}
 {"T":"r","L":"Pluto","C":["n","ast","mit"],"d":"un planeta nanin cual orbita la Sol; (en mitos elinica) la dio de la sumundo","en":"Pluto (mythology, planet)","fr":"Pluton"}
-{"T":"r","L":"plutocrata","C":["n","mone","gov"],"d":"un person de ci sua potia deriva de sua ricia","en":"plutocrat"}
-{"L":"plutocratia","C":["n"],"en":"plutocracy"}
-{"T":"r","L":"plutonio","C":["n","cim"],"d":"la elemento cimical con numero atomal 94","s":"Pu","en":"plutonium"}
+{"T":"r","L":"plutocrata","C":["n","mone","gov"],"d":"un person de ci sua potia deriva de sua ricia","en":"plutocrat","fr":"ploutocrate"}
+{"L":"plutocratia","C":["n"],"en":"plutocracy","fr":"ploutocratie"}
+{"T":"r","L":"plutonio","C":["n","cim"],"d":"la elemento cimical con numero atomal 94","s":"Pu","en":"plutonium","fr":"plutonium"}
 {"T":"r","L":"pluve","C":["vnt","tera"],"i":"#","en":"rain","eo":"pluvi","fr":"pleuvoir"}
 {"L":"pluve","C":["n"],"d":"acua condensada de la atmosfera cual cade vidable en gotas individua","ca":"pluja","da":"regn","de":"Regen","en":"rain, rainfall","eo":"pluvo","es":"lluvia","fr":"pluie","it":"pioggia","ja":"雨","nl":"regen","pt":"chuva","ru":"дождь"}
-{"L":"lo pluve","C":["esp"],"en":"it's raining"}
-{"L":"pluveta","C":["vnt"],"en":"shower, drizzle","fr":"bruiner"}
+{"L":"lo pluve","C":["esp"],"en":"it's raining","fr":"il pleut"}
+{"L":"pluveta","C":["vnt"],"en":"shower, drizzle","fr":"bruiner, pleuvioter"}
 {"L":"pluveta","C":["n"],"en":"shower, drizzle","fr":"bruine, crachin"}
-{"L":"pluveta lamposa","C":["n"],"en":"thundershower"}
+{"L":"pluveta lamposa","C":["n"],"en":"thundershower","fr":"averse, orage"}
 {"L":"pluvon","C":["n"],"en":"rainstorm, downpour, cloudburst, soaker","fr":"pluie battante"}
 {"L":"pluvosa","C":["a"],"en":"rainy, wet, inclement","fr":"pluvieux"}
 {"T":"r","L":"pluvial","C":["n","avia"],"d":"un avia vadante e sosial, con beco corta","i":"#","t":"Pluvialis","en":"plover (bird)","fr":"pluvier"}
-{"L":"pluvial de Egipte","C":["n","ani","avia"],"i":"pluvial-de-egipte","t":"Pluvianus aegyptius","en":"Egyptian plover"}
-{"L":"pluvial de Magalan","C":["n","ani","avia"],"i":"pluvial-de-magalan","t":"Pluvianellus socialis","en":"Magellanic plover"}
-{"T":"r","L":"pm","C":["c"],"d":"pos mediadia","en":"p.m."}
-{"T":"r","L":"-pnea","C":["sf","n","med"],"d":"respira","en":"-pnea (breathing)"}
-{"T":"r","L":"pneumatica","C":["n","fis"],"d":"un ramo de injenia cual usa gases compresada, comun aira","en":"pneumatics"}
-{"L":"pneumatical","C":["a"],"en":"pneumatic"}
-{"T":"r","L":"pneumato-","C":["pf","tecn"],"d":"aira, respira, spirito","en":"pneumato- (air)"}
-{"T":"r","L":"pneumo-","C":["pf","tecn"],"d":"aira, respira, pulmones","en":"pneumo- (air)"}
+{"L":"pluvial de Egipte","C":["n","ani","avia"],"i":"pluvial-de-egipte","t":"Pluvianus aegyptius","en":"Egyptian plover","fr":"pluvian fluviatile, pluvian d'Égypte, pluvian du Nil"}
+{"L":"pluvial de Magalan","C":["n","ani","avia"],"i":"pluvial-de-magalan","t":"Pluvianellus socialis","en":"Magellanic plover","fr":"pluvianelle magellanique, pluvianeau de Magellan"}
+{"T":"r","L":"pm","C":["c"],"d":"pos mediadia","en":"p.m.","fr":"de l'après-midi"}
+{"T":"r","L":"-pnea","C":["sf","n","med"],"d":"respira","en":"-pnea (breathing)","fr":"-pnée"}
+{"T":"r","L":"pneumatica","C":["n","fis"],"d":"un ramo de injenia cual usa gases compresada, comun aira","en":"pneumatics","fr":"pneumatique"}
+{"L":"pneumatical","C":["a"],"en":"pneumatic","fr":"pneumatique"}
+{"T":"r","L":"pneumato-","C":["pf","tecn"],"d":"aira, respira, spirito","en":"pneumato- (air)","fr":"pneumato-"}
+{"T":"r","L":"pneumo-","C":["pf","tecn"],"d":"aira, respira, pulmones","en":"pneumo- (air)","fr":"pneumo-"}
 {"T":"r","L":"pneumonia","C":["n","med"],"d":"un inflama de la pulmon causada par un infeta par baterias o viruses","en":"pneumonia","fr":"pneumonie"}
 {"T":"r","L":"poca","C":["d"],"d":"un cuantia peti de","n":"","ca":"poc","da":"få, lidt","de":"wenig, wenige, bisschen","en":"few (in number), little (quantity)","eo":"malmulta, malmulte da","es":"poco, pocos","fr":"peu de","it":"poco, pochi","ja":"少し","nl":"weinig, beetje, amper","pt":"pouco, poucos","ru":"мало"}
 {"L":"poca","C":["av"],"en":"(only a) little, not much"}
