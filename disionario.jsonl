@@ -20863,33 +20863,33 @@
 {"T":"r","L":"pneumo-","C":["pf","tecn"],"d":"aira, respira, pulmones","en":"pneumo- (air)","fr":"pneumo-"}
 {"T":"r","L":"pneumonia","C":["n","med"],"d":"un inflama de la pulmon causada par un infeta par baterias o viruses","en":"pneumonia","fr":"pneumonie"}
 {"T":"r","L":"poca","C":["d"],"d":"un cuantia peti de","n":"","ca":"poc","da":"få, lidt","de":"wenig, wenige, bisschen","en":"few (in number), little (quantity)","eo":"malmulta, malmulte da","es":"poco, pocos","fr":"peu de, un peu de, une petite quantité de","it":"poco, pochi","ja":"少し","nl":"weinig, beetje, amper","pt":"pouco, poucos","ru":"мало"}
-{"L":"poca","C":["av"],"en":"(only a) little, not much","fr":"un peu"}
-{"L":"poca","C":["pron"],"en":"little, few (singular or plural)","fr":"peu"}
-{"L":"pocas","C":["pron","pl"],"en":"(people or things, optional plural pronoun)","fr":"peu (pluriel)"}
-{"L":"poca min","C":["a"],"en":"(only a) little less, few less","fr":"un peu moins de"}
-{"L":"poca min","C":["av"],"en":"(only a) little less","fr":"un peu moins"}
-{"L":"poca plu","C":["a"],"en":"(only a) little more, few more","fr":"un peu plus de"}
-{"L":"poca plu","C":["av"],"en":"(only a) little more","fr":"un peu plus"}
-{"L":"poci","C":["vnt"],"en":"reduce in quantity","fr":"se réduire"}
-{"L":"poci","C":["vt"],"en":"reduce in quantity","fr":"réduire"}
-{"L":"tan poca como posible","C":["esp"],"en":"as few as possible, as little as possible","fr":"le moins possible, aussi peu que possible"}
-{"T":"r","L":"pocer","C":["n","spo"],"d":"un jua de cartas, juada par du o plu persones ci aposta sur la valua de la cartas cual ia es distribuida a los","en":"poker (card game)","fr":"poker"}
-{"L":"poceror","C":["n"],"en":"poker player","fr":"joueur de poker"}
-{"T":"r","L":"podcasta","C":["vt","info"],"d":"cada en un serie de fixes audio dijital, disponable a la interede per escuta a un computador o telefoneta","en":"podcast","fr":"podcaster, archiver (sur internet)"}
-{"L":"podcasta","C":["n"],"en":"podcast","fr":"podcast, archive (sur internet)"}
-{"T":"r","L":"podolojia","C":["n","med"],"d":"la trata de la pedes e sua maladias","en":"podiatry, chiropody","fr":"podologie"}
-{"L":"podolojiste","C":["n"],"en":"podiatrist, chiropodist","fr":"podologue, pédicure"}
-{"T":"r","L":"podometre","C":["n","util"],"d":"un strumento per estima la distantia traversada par pede par recorda la cuantia de pasos","en":"pedometer","fr":"podomètre"}
+{"L":"poca","C":["av"],"de":"wenig, ein bisschen, nicht sehr, nicht viel","en":"(only a) little, not much","fr":"un peu"}
+{"L":"poca","C":["pron"],"de":"wenig, wenige","en":"little, few (singular or plural)","fr":"peu"}
+{"L":"pocas","C":["pron","pl"],"de":"wenige","en":"(people or things, optional plural pronoun)","fr":"peu (pluriel)"}
+{"L":"poca min","C":["a"],"de":"etwas weniger","en":"(only a) little less, few less","fr":"un peu moins de"}
+{"L":"poca min","C":["av"],"de":"etwas weniger","en":"(only a) little less","fr":"un peu moins"}
+{"L":"poca plu","C":["a"],"de":"etwas mehr","en":"(only a) little more, few more","fr":"un peu plus de"}
+{"L":"poca plu","C":["av"],"de":"etwas mehr, wenig mehr","en":"(only a) little more","fr":"un peu plus"}
+{"L":"poci","C":["vnt"],"de":"schrumpfen, weniger werden","en":"reduce in quantity","fr":"se réduire"}
+{"L":"poci","C":["vt"],"de":"reduzieren, verringern","en":"reduce in quantity","fr":"réduire"}
+{"L":"tan poca como posible","C":["esp"],"de":"so wenig wie möglich, so wenige wie möglich","en":"as few as possible, as little as possible","fr":"le moins possible, aussi peu que possible"}
+{"T":"r","L":"pocer","C":["n","spo"],"d":"un jua de cartas, juada par du o plu persones ci aposta sur la valua de la cartas cual ia es distribuida a los","de":"Poker","en":"poker (card game)","fr":"poker"}
+{"L":"poceror","C":["n"],"de":"Pokerspieler","en":"poker player","fr":"joueur de poker"}
+{"T":"r","L":"podcasta","C":["vt","info"],"d":"cada en un serie de fixes audio dijital, disponable a la interede per escuta a un computador o telefoneta","de":"podcasten, einen Podcast machen","en":"podcast","fr":"podcaster, archiver (sur internet)"}
+{"L":"podcasta","C":["n"],"de":"Podcast","en":"podcast","fr":"podcast, archive (sur internet)"}
+{"T":"r","L":"podolojia","C":["n","med"],"d":"la trata de la pedes e sua maladias","de":"Fußheilkunde, Fußpflege, Podologie","en":"podiatry, chiropody","fr":"podologie"}
+{"L":"podolojiste","C":["n"],"de":"Fußspezialist, Fußpfleger, Podologe","en":"podiatrist, chiropodist","fr":"podologue, pédicure"}
+{"T":"r","L":"podometre","C":["n","util"],"d":"un strumento per estima la distantia traversada par pede par recorda la cuantia de pasos","de":"Pedometer, Schrittzähler","en":"pedometer","fr":"podomètre"}
 {"T":"r","L":"poesia","C":["n","ling"],"d":"un obra de leteratur cual usa stilo e ritmo per espresa sentis e ideas","ca":"poesia","da":"digt (på vers)","de":"Gedicht, Poesie","en":"poem, verse; poetry","eo":"poemo, poezio","es":"poema, poesia","fr":"poésie","it":"poesia","ja":"詩","nl":"gedicht","pt":"poema, poesia","ru":"стих, поэзия"}
-{"L":"poesia de lamenta","C":["n"],"en":"elegy","fr":"élégie, poésie élégiaque"}
-{"L":"mal poesia","C":["n"],"en":"bad poetry, doggerel","fr":"mauvaise poésie, vers de mirliton"}
-{"L":"poesial","C":["a"],"en":"poetic","fr":"poétique"}
-{"L":"poesin","C":["a"],"en":"poetic, picturesque","fr":"poétique"}
-{"L":"poesiste","C":["n"],"en":"poet","fr":"poète"}
-{"T":"r","L":"pogrom","C":["n","gov"],"d":"un masacra organizada de un etnico, spesial lo de iudis en Rusia o Europa este","en":"pogrom (massacre)","fr":"pogrom"}
-{"T":"r","L":"poi","C":["n","cos"],"d":"un plato polinesian, preparada de un radis fermentada de taro, cual es fornida e bateda per formi un pasta","en":"poi (food)","fr":"poï (aliment, cuisine hawaïenne)"}
-{"T":"r","L":"-poiese","C":["sf","n","med"],"d":"formi","en":"-poiesis (forming)","fr":"-poièse"}
-{"T":"r","L":"poitin","C":["n","cos"],"d":"un bevida alcolosa eres, nonlegal preparada, tipal de patatas","en":"poteen, potheen (drink)","fr":"poitín, poteen (boisson irlandaise)"}
+{"L":"poesia de lamenta","C":["n"],"de":"Klagelied, Elegie","en":"elegy","fr":"élégie, poésie élégiaque"}
+{"L":"mal poesia","C":["n"],"de":"Knittelvers, schlechtes Gedicht, schlechte Poesie","en":"bad poetry, doggerel","fr":"mauvaise poésie, vers de mirliton"}
+{"L":"poesial","C":["a"],"de":"poetisch, dichterisch","en":"poetic","fr":"poétique"}
+{"L":"poesin","C":["a"],"de":"poetisch, malerisch, pittoresk","en":"poetic, picturesque","fr":"poétique"}
+{"L":"poesiste","C":["n"],"de":"Dichter, Poet","en":"poet","fr":"poète"}
+{"T":"r","L":"pogrom","C":["n","gov"],"d":"un masacra organizada de un etnico, spesial lo de iudis en Rusia o Europa este","de":"Pogrom","en":"pogrom (massacre)","fr":"pogrom"}
+{"T":"r","L":"poi","C":["n","cos"],"d":"un plato polinesian, preparada de un radis fermentada de taro, cual es fornida e bateda per formi un pasta","de":"Poi (Gericht)","en":"poi (food)","fr":"poï (aliment, cuisine hawaïenne)"}
+{"T":"r","L":"-poiese","C":["sf","n","med"],"d":"formi","de":"-poiesis, -poiese (Erschaffung, Entstehung)","en":"-poiesis (forming)","fr":"-poièse"}
+{"T":"r","L":"poitin","C":["n","cos"],"d":"un bevida alcolosa eres, nonlegal preparada, tipal de patatas","de":"Poitin, Poteen, Potcheen (Schnaps)","en":"poteen, potheen (drink)","fr":"poitín, poteen (boisson irlandaise)"}
 {"T":"r","L":"polacio","C":["n","pex"],"d":"un pex verdin brun e comable en familia de gado, con mandibula basa protendente","t":"Pollachius","en":"pollock","fr":"lieu (poisson), lieu jaune, lieu noir"}
 {"T":"r","L":"polca","C":["n","mus"],"d":"un dansa vivosa en tempo duple, orijinante en Boemia","i":"#","en":"polka (dance)","fr":"polka"}
 {"T":"r","L":"polder","C":["n","tera"],"d":"un peso de tera basa reclamada de la mar o un rio e protejeda par paramares, spesial en Nederland","en":"polder (reclaimed land)","fr":"polder"}
@@ -21014,7 +21014,7 @@
 {"L":"polvin","C":["a"],"en":"powdery","fr":"poudreux"}
 {"L":"polvosa","C":["a"],"en":"dusty","fr":"poudré, poudreux, en poudre, poussiéreux, en poussière"}
 {"T":"r","L":"pomatostomo","C":["n","avia"],"d":"un avia de Australia e Gine Nova con plumas sombre, beco curva, e coda longa","i":"#","t":"Pomatostomus","en":"Australian babbler (bird)","fr":"pomatostome (oiseau)"}
-{"T":"r","L":"pomelo","C":["n","pla","cos"],"d":"un arbor orijinante en Barbados; la fruta sitrica grande, ronda e jala de esta, con pulpa jusosa e asida","i":"#","t":"Citrus × paradisi","en":"grapefruit (fruit, tree)","fr":"pamplemousse"}
+{"T":"r","L":"pomelo","C":["n","pla","cos"],"d":"un arbor orijinante en Barbados; la fruta sitrica grande, ronda e jala de esta, con pulpa jusosa e asida","i":"#","t":"Citrus × paradisi","en":"grapefruit (fruit, tree)","fr":"pamplemoussier; pamplemousse, pomelo"}
 {"T":"r","L":"pomis","C":["n","tera"],"d":"un roca volcanal porosa e lejera, formida cuando un spuma de lava vitrin solidi rapida","en":"pumice (rock)","fr":"pierre ponce"}
 {"T":"r","L":"pomo","C":["n","pla"],"d":"un arbor en familia de rosa cual produi pomas","t":"Malus","en":"apple (tree)","es":"manzano","fr":"pommier"}
 {"L":"poma","C":["n","pla","cos"],"d":"un fruta ronda, con pel magra roja o verde e pulpa cracosa","i":"#","da":"æble","de":"Apfel","en":"apple (fruit)","es":"manzana","fr":"pomme"}
@@ -21044,7 +21044,7 @@
 {"T":"r","L":"ponte","C":["n","arci"],"d":"un strutur cual suporta un rua, rueta, ferovia o canal supra e ultra un rio, canion, rua, ferovia o otra ostaculo; un plataforma alta e encluida sur un barcon, de do la capitan e ofisiores dirije la opera de la barcon","i":"#","ca":"pont","da":"bro","de":"Brücke","en":"bridge","eo":"ponto","es":"puente","fr":"pont","it":"ponte","ja":"橋","nl":"brug","pt":"ponte","ru":"мост"}
 {"L":"ponte de pasea","C":["n"],"en":"footbridge","fr":"pont piétonnier"}
 {"L":"ponte de pontones","C":["n"],"en":"pontoon (bridge)","fr":"pont flottant, ponton"}
-{"L":"ponte levable","C":["n"],"i":"#","en":"drawbridge, lift bridge","fr":"pont levable"}
+{"L":"ponte levable","C":["n"],"i":"#","en":"drawbridge, lift bridge","fr":"pont-levis, pont levant, pont à bascule, pont mobile"}
 {"L":"ponte suspendeda","C":["n"],"en":"suspension bridge","fr":"pont suspendu"}
 {"L":"ponteta","C":["n"],"en":"scaffolding; scaffold (gallows)"}
 {"L":"ponti","C":["vt"],"en":"bridge","fr":"faire un pont, construire un pont, ponter"}
@@ -21079,7 +21079,7 @@
 {"L":"suprapopla","C":["n"],"en":"overpopulation","fr":"surpeuplement"}
 {"L":"suprapoplada","C":["a"],"en":"overpopulated","fr":"surpeuplé"}
 {"T":"r","L":"poplo","C":["n","pla"],"d":"un arbor alta e rapida cresente, usada per sua lenio e pulpa, e como un paraventa","i":"#","t":"Populus","en":"poplar (tree)","fr":"peuplier"}
-{"L":"poplo tremante","C":["n","pla"],"i":"#","en":"aspen","fr":"tremble"}
+{"L":"poplo tremante","C":["n","pla"],"i":"#","en":"aspen","fr":"tremble (arbre)"}
 {"T":"r","L":"popular","C":["a"],"d":"gustada, amada, amirada o joiada par multe persones; conveninte a la prefere de persones comun, en contrasta con lo de espertas o inteletosas; (un crede o disposa) mantenida par la majoria de persones comun","en":"popular","fr":"populaire"}
 {"L":"nonpopular","C":["a"],"en":"unpopular","fr":"impopulaire"}
 {"L":"populari","C":["vnt"],"en":"popularize|is","fr":"devenir populaire, se populariser, se vulgariser"}
@@ -21098,120 +21098,120 @@
 {"L":"porcin","C":["a"],"en":"piglike, porcine","fr":"porcin, comme un cochon, comme un porc"}
 {"L":"porcor","C":["n"],"en":"swineherd","fr":"porcher"}
 {"T":"r","L":"porcospina","C":["n","mam"],"d":"un rodente grande con spinas sur sua corpo e coda","i":"#","t":"Hystricomorpha","en":"porcupine","fr":"porc-épic"}
-{"T":"r","L":"porfir","C":["n","tera"],"d":"un roca magmal dur, conteninte cristales","en":"porphyry (rock)"}
-{"T":"r","L":"porfirin","C":["n","cim"],"d":"cualce de un clase de pigmentos (incluinte eme e clorofila) de cual sua moleculas sembla un anelo plata, a veses con un atom de metal a la sentro","en":"porphyrin (chemistry)"}
-{"T":"r","L":"porifero","C":["n"],"d":"un membro de un filo de animales multiselulal, incluinte la sponjas, cual ave corpos plen de pores e canales cual permete ce acua sirculi tra los","i":"#","t":"Porifera","en":"porifer (organism)"}
-{"T":"r","L":"porina","C":["n","bio"],"d":"un protena capas de traversa un membrana selulal e funsiona como un por","en":"porin"}
-{"T":"r","L":"porno","C":["a"],"d":"(nonformal) pornografial","en":"(colloquial) porn"}
-{"L":"porno","C":["n"],"en":"porn; porno, porn film"}
-{"T":"r","L":"pornografia","C":["n","uma"],"d":"naras, imajes, fotos o filmas con descrives o mostras de atas sesal, intendeda per stimula sentis erotica","en":"pornography, smut"}
-{"L":"pornografial","C":["a"],"en":"pornographic"}
-{"L":"pornografiste","C":["n"],"en":"pornographer"}
-{"T":"r","L":"poro","C":["n","pla","cos"],"d":"un planta en familia de onion, con folias plata e partal supraponeda cual formi un bulbo longa e silindre, comeda como un vejetal","i":"#","t":"Allium ampeloprasum","en":"leek (plant, vegetable)"}
-{"T":"r","L":"-porose","C":["sf","n","med"],"d":"porosa","en":"-porosis (medical)"}
-{"T":"r","L":"porselana","C":["n","arci"],"d":"un seramica blanca, vitrida e diafana","en":"porcelain, china"}
-{"T":"r","L":"porta","C":["vt"],"d":"suporta e move (un person o cosa) de un loca a un otra; ave (un veste o orna) sur sua corpo","ca":"portar","da":"bære","de":"tragen","en":"carry, bear, convey, tote; wear","eo":"porti","es":"llevar, cargar, portar","fr":"porter","it":"portare","ja":"着る、着衣する","nl":"dragen","pt":"levar, carregar, portar; usar, vestir","ru":"нести; носить (одежду)"}
-{"L":"porta","C":["n"],"en":"carrying, portage"}
-{"L":"porta de trapa","C":["n"],"en":"trap door"}
-{"L":"portable","C":["a"],"en":"portable, mobile; wearable"}
-{"L":"portable","C":["n"],"en":"portable computer, laptop"}
-{"L":"portada","C":["a"],"en":"carried; worn"}
-{"L":"portada par aira","C":["a"],"en":"airborne"}
-{"L":"portador","C":["n"],"en":"stand, holder, support"}
-{"L":"portor","C":["n"],"ca":"porter","de":"Pförtner","en":"porter, bellboy, bellhop; caddie (golf); pallbearer; carrier, vector (disease)","eo":"portisto","es":"mozo","fr":"porteur","ja":"運び屋さん","pt":"portador","ru":"носильщик"}
-{"T":"r","L":"portabagaje","C":["n","vn"],"d":"un spasio encluida a retro de un auto per porta bagaje o otra ojetos","i":"#","en":"boot, trunk (of vehicle)"}
-{"T":"r","L":"portabal","C":["n","vn"],"d":"un cavil peti con testa concava, poneda en la tera per suporta un bal de golf cual on va colpa","en":"tee (golf)"}
-{"T":"r","L":"portabebe","C":["n","vn"],"d":"un spesie de saco usada sur peto o dorso per porta bebes","i":"#","en":"baby sling, babycarrier"}
-{"T":"r","L":"portabroca","C":["n","vn"],"d":"un abrasador spesialida per teni un ojeto silindre","en":"chuck (gripping tool)"}
-{"T":"r","L":"portabulbo","C":["n","vn"],"d":"un asetador per teni un bulbo de lus","i":"#","en":"light socket, light fixture"}
-{"T":"r","L":"portacandela","C":["n","vn"],"d":"un suportador per un o plu candelas","i":"#","ca":"candeler","de":"Kerzenhalter","en":"candleholder, candlestick, sconce","eo":"kandelingo","es":"candelero","fr":"bougeoir","ja":"ロウソク立て","pt":"castiçal, candelabro","ru":"подсвечник"}
-{"T":"r","L":"portacaxon","C":["n","vn"],"d":"un strutur sur cual un caxon o corpo reposa ante entera o seni","en":"bier"}
-{"T":"r","L":"portaclave","C":["n","vn"],"d":"un anelo de metal a cual on fisa claves per reteni los en grupo","en":"keyring, keychain"}
-{"T":"r","L":"portacoda","C":["n","vn"],"d":"un banda sirculo de elastica covreda con stofa, usada per fisa la capeles","en":"hair tie, scrunchie"}
-{"T":"r","L":"portacontenador","C":["n","vn"],"d":"un barcon cual transporta benes en contenadores grande","en":"container ship"}
-{"T":"r","L":"portacopa","C":["n","vn"],"d":"un person ci pleni e distribui copas de bevida en un rituo; un aparato per teni un copa plastica o otra contenador de bevi","en":"cupbearer; cup holder"}
-{"T":"r","L":"portacua","C":["n","vn"],"d":"un contenador longa e streta de cual animales bevi","i":"#","en":"water trough"}
-{"L":"portacua de avias","C":["n"],"en":"bird bath"}
-{"T":"r","L":"portaculpa","C":["n","vn"],"d":"un portapeca","en":"scapegoat, fall guy, patsy"}
-{"T":"r","L":"portadetrito","C":["n","vn"],"d":"un contenador multe grande per detrito de construi o otra dejetada","en":"skip, dumpster"}
-{"T":"r","L":"portadato","C":["n","vn"],"d":"un aparato per reteni datos en, o usada con, un computador","en":"data storage device, drive"}
-{"T":"r","L":"portafeno","C":["n","vn"],"d":"un contenador longa e streta de cual animales come","i":"#","en":"trough, manger"}
-{"T":"r","L":"portaferida","C":["n","vn"],"d":"un strutur de du palos con un lona longa entre los, usada per porta persones ferida o mor","i":"#","en":"stretcher"}
-{"L":"portaferida rolante","C":["n"],"i":"#","en":"(hospital) trolley, gurney"}
-{"T":"r","L":"portaflexa","C":["n","vn"],"d":"un contenador en cual un arcor porta flexas","en":"quiver"}
-{"T":"r","L":"portaflor","C":["n","vn"],"d":"un contenador peti, tipal de plastica o losa, en cual on crese un planta","i":"#","ca":"test","de":"Blumenvase","en":"flowerpot","eo":"florpoto","es":"tiesto, maceta","fr":"pot à fleurs","ja":"花瓶","pt":"vaso, jarro, vaso de planta, vaso de flor, pote de flor","ru":"цветочный горшок"}
+{"T":"r","L":"porfir","C":["n","tera"],"d":"un roca magmal dur, conteninte cristales","en":"porphyry (rock)","fr":"porphyre"}
+{"T":"r","L":"porfirin","C":["n","cim"],"d":"cualce de un clase de pigmentos (incluinte eme e clorofila) de cual sua moleculas sembla un anelo plata, a veses con un atom de metal a la sentro","en":"porphyrin (chemistry)","fr":"porphyrine"}
+{"T":"r","L":"porifero","C":["n"],"d":"un membro de un filo de animales multiselulal, incluinte la sponjas, cual ave corpos plen de pores e canales cual permete ce acua sirculi tra los","i":"#","t":"Porifera","en":"porifer (organism)","fr":"éponge, spongiaire (organisme)"}
+{"T":"r","L":"porina","C":["n","bio"],"d":"un protena capas de traversa un membrana selulal e funsiona como un por","en":"porin","fr":"porine"}
+{"T":"r","L":"porno","C":["a"],"d":"(nonformal) pornografial","en":"(colloquial) porn","fr":"porno,  pornographque"}
+{"L":"porno","C":["n"],"en":"porn; porno, porn film","fr":"porno, film porno, film pornographique"}
+{"T":"r","L":"pornografia","C":["n","uma"],"d":"naras, imajes, fotos o filmas con descrives o mostras de atas sesal, intendeda per stimula sentis erotica","en":"pornography, smut","fr":"pornographie"}
+{"L":"pornografial","C":["a"],"en":"pornographic","fr":"pornographque"}
+{"L":"pornografiste","C":["n"],"en":"pornographer","fr":"pornographe"}
+{"T":"r","L":"poro","C":["n","pla","cos"],"d":"un planta en familia de onion, con folias plata e partal supraponeda cual formi un bulbo longa e silindre, comeda como un vejetal","i":"#","t":"Allium ampeloprasum","en":"leek (plant, vegetable)","fr":"poireau"}
+{"T":"r","L":"-porose","C":["sf","n","med"],"d":"porosa","en":"-porosis (medical)","fr":"-porose (médecine)"}
+{"T":"r","L":"porselana","C":["n","arci"],"d":"un seramica blanca, vitrida e diafana","en":"porcelain, china","fr":"porcelaine"}
+{"T":"r","L":"porta","C":["vt"],"d":"suporta e move (un person o cosa) de un loca a un otra; ave (un veste o orna) sur sua corpo","ca":"portar","da":"bære","de":"tragen","en":"carry, bear, convey, tote; wear","eo":"porti","es":"llevar, cargar, portar","fr":"porter, transporter, véhiculer, amener, emmener, acheminer, convoyer","it":"portare","ja":"着る、着衣する","nl":"dragen","pt":"levar, carregar, portar; usar, vestir","ru":"нести; носить (одежду)"}
+{"L":"porta","C":["n"],"en":"carrying, portage","fr":"port, transport"}
+{"L":"portable","C":["a"],"en":"portable, mobile; wearable","fr":"portable, mobile"}
+{"L":"portable","C":["n"],"en":"portable computer, laptop","fr":"ordinateur portable"}
+{"L":"portada","C":["a"],"en":"carried; worn","fr":"porté, usé"}
+{"L":"portada par aira","C":["a"],"en":"airborne","fr":"par transport aérien, acheminé par avion"}
+{"L":"portador","C":["n"],"en":"stand, holder, support","fr":"support"}
+{"L":"portor","C":["n"],"ca":"porter","de":"Pförtner","en":"porter, bellboy, bellhop; caddie (golf); pallbearer; carrier, vector (disease)","eo":"portisto","es":"mozo","fr":"porteur, livreur; vecteur (de maladie)","ja":"運び屋さん","pt":"portador","ru":"носильщик"}
+{"T":"r","L":"portabagaje","C":["n","vn"],"d":"un spasio encluida a retro de un auto per porta bagaje o otra ojetos","i":"#","en":"boot, trunk (of vehicle)","fr":"porte-bagage"}
+{"T":"r","L":"portabal","C":["n","vn"],"d":"un cavil peti con testa concava, poneda en la tera per suporta un bal de golf cual on va colpa","en":"tee (golf)","fr":"tee (golf)"}
+{"T":"r","L":"portabebe","C":["n","vn"],"d":"un spesie de saco usada sur peto o dorso per porta bebes","i":"#","en":"baby sling, babycarrier","fr":"porte-bébé"}
+{"T":"r","L":"portabroca","C":["n","vn"],"d":"un abrasador spesialida per teni un ojeto silindre","en":"chuck (gripping tool)","fr":"mandrin (outil)"}
+{"T":"r","L":"portabulbo","C":["n","vn"],"d":"un asetador per teni un bulbo de lus","i":"#","en":"light socket, light fixture","fr":"douille (d'ampoule)"}
+{"T":"r","L":"portacandela","C":["n","vn"],"d":"un suportador per un o plu candelas","i":"#","ca":"candeler","de":"Kerzenhalter","en":"candleholder, candlestick, sconce","eo":"kandelingo","es":"candelero","fr":"chandelier, bougeoir","ja":"ロウソク立て","pt":"castiçal, candelabro","ru":"подсвечник"}
+{"T":"r","L":"portacaxon","C":["n","vn"],"d":"un strutur sur cual un caxon o corpo reposa ante entera o seni","en":"bier","fr":"bière, cercueil"}
+{"T":"r","L":"portaclave","C":["n","vn"],"d":"un anelo de metal a cual on fisa claves per reteni los en grupo","en":"keyring, keychain","fr":"porte-clés"}
+{"T":"r","L":"portacoda","C":["n","vn"],"d":"un banda sirculo de elastica covreda con stofa, usada per fisa la capeles","en":"hair tie, scrunchie","fr":"chouchou, élastique à cheveux, attache pour cheveux"}
+{"T":"r","L":"portacontenador","C":["n","vn"],"d":"un barcon cual transporta benes en contenadores grande","en":"container ship","fr":"cargo porte-conteneurs, navire porte-conteneurs"}
+{"T":"r","L":"portacopa","C":["n","vn"],"d":"un person ci pleni e distribui copas de bevida en un rituo; un aparato per teni un copa plastica o otra contenador de bevi","en":"cupbearer; cup holder","fr":"échanson; porte-gobelet, support de tasse, coupelle"}
+{"T":"r","L":"portacua","C":["n","vn"],"d":"un contenador longa e streta de cual animales bevi","i":"#","en":"water trough","fr":"abreuvoir"}
+{"L":"portacua de avias","C":["n"],"en":"bird bath","fr":"abreuvoir pour oiseaux"}
+{"T":"r","L":"portaculpa","C":["n","vn"],"d":"un portapeca","en":"scapegoat, fall guy, patsy","fr":"bouc-émissaire"}
+{"T":"r","L":"portadetrito","C":["n","vn"],"d":"un contenador multe grande per detrito de construi o otra dejetada","en":"skip, dumpster","fr":"benne à ordures"}
+{"T":"r","L":"portadato","C":["n","vn"],"d":"un aparato per reteni datos en, o usada con, un computador","en":"data storage device, drive","fr":"périphérique de stockage de données, disque dur, disque dur externe, clé usb"}
+{"T":"r","L":"portafeno","C":["n","vn"],"d":"un contenador longa e streta de cual animales come","i":"#","en":"trough, manger","fr":"auge, mangeoire"}
+{"T":"r","L":"portaferida","C":["n","vn"],"d":"un strutur de du palos con un lona longa entre los, usada per porta persones ferida o mor","i":"#","en":"stretcher","fr":"civière, brancard"}
+{"L":"portaferida rolante","C":["n"],"i":"#","en":"(hospital) trolley, gurney","fr":"lit roulant, lit d'hôpital"}
+{"T":"r","L":"portaflexa","C":["n","vn"],"d":"un contenador en cual un arcor porta flexas","en":"quiver","fr":"carquois"}
+{"T":"r","L":"portaflor","C":["n","vn"],"d":"un contenador peti, tipal de plastica o losa, en cual on crese un planta","i":"#","ca":"test","de":"Blumenvase","en":"flowerpot","eo":"florpoto","es":"tiesto, maceta","fr":"pot de fleurs","ja":"花瓶","pt":"vaso, jarro, vaso de planta, vaso de flor, pote de flor","ru":"цветочный горшок"}
 {"T":"r","L":"portafolio","C":["n","vn"],"d":"un contenador plata per paperes nonfisada; un contenador plu profonda e con manico, per porta libros o documentos","ca":"cartera","de":"Mappe","en":"portfolio, briefcase","eo":"teko","es":"cartera, protafolio","fr":"serviette, porte-documents","ja":"ブリーフケース","pt":"pasta","ru":"портфель"}
-{"T":"r","L":"portaganto","C":["n","vn"],"d":"un alcova cluable en fronte de un veculo, usada per reteni ojetos peti","en":"glovebox, glove compartment"}
-{"T":"r","L":"portagrafito","C":["n","vn"],"d":"un lapis con grafito cual on pote estende macinal e recambia","en":"mechanical pencil, propelling pencil, clutch pencil"}
-{"T":"r","L":"portainca","C":["n","vn"],"d":"un caxa per botelas de inca e otra strumentos de scrive","en":"inkpot, inkstand"}
-{"T":"r","L":"portainserta","C":["n","vn"],"d":"la tronceta de un arbor o arboreta cual reseta un inserta","en":"stock (for graft)"}
+{"T":"r","L":"portaganto","C":["n","vn"],"d":"un alcova cluable en fronte de un veculo, usada per reteni ojetos peti","en":"glovebox, glove compartment","fr":"boîte à gants"}
+{"T":"r","L":"portagrafito","C":["n","vn"],"d":"un lapis con grafito cual on pote estende macinal e recambia","en":"mechanical pencil, propelling pencil, clutch pencil","fr":"porte-mine"}
+{"T":"r","L":"portainca","C":["n","vn"],"d":"un caxa per botelas de inca e otra strumentos de scrive","en":"inkpot, inkstand","fr":"encrier"}
+{"T":"r","L":"portainserta","C":["n","vn"],"d":"la tronceta de un arbor o arboreta cual reseta un inserta","en":"stock (for graft)","fr":"porte-greffe"}
 {"T":"r","L":"portajoala","C":["n","vn"],"d":"un caxa per joalas","ca":"capsa de joies","de":"Schmuckkästchen","en":"jewelry|jewellery case, jewelry|jewellery box, casket","eo":"juvelujo","es":"caja de joyas","fr":"boîte de bijoux","ja":"宝石箱","pt":"caixa de jóias","ru":"шкатулка, футляр (для украшений)"}
-{"T":"r","L":"portala","C":["n","bio"],"d":"un covrente de la alas de alga insetos","en":"elytra, wing cover"}
-{"T":"r","L":"portalia","C":["n","vn"],"d":"un sintur ornal con lias elastica per teni calsas, usada como vesteta de fem","p":"portalía","en":"suspender belt (UK), garter belt (US)"}
-{"T":"r","L":"portalibro","C":["n","vn"],"d":"un table alta con surfas inclinada per teni la libro o notas de cual on leje a vose","i":"#","en":"bookstand, lectern"}
-{"T":"r","L":"portamento","C":["n","mus"],"d":"un lisca de un nota a un otra, en canta o en jua un strumento de cordetas con un arco","en":"portamento, pitch bend (music)"}
+{"T":"r","L":"portala","C":["n","bio"],"d":"un covrente de la alas de alga insetos","en":"elytra, wing cover","fr":"élytre"}
+{"T":"r","L":"portalia","C":["n","vn"],"d":"un sintur ornal con lias elastica per teni calsas, usada como vesteta de fem","p":"portalía","en":"suspender belt (UK), garter belt (US)","fr":"porte-jaretelles"}
+{"T":"r","L":"portalibro","C":["n","vn"],"d":"un table alta con surfas inclinada per teni la libro o notas de cual on leje a vose","i":"#","en":"bookstand, lectern","fr":"pupitre, lutrin"}
+{"T":"r","L":"portamento","C":["n","mus"],"d":"un lisca de un nota a un otra, en canta o en jua un strumento de cordetas con un arco","en":"portamento, pitch bend (music)","fr":"portamento, glissando"}
 {"T":"r","L":"portamone","C":["n","vn"],"d":"un contenador peti e pliable per mone e cartas de credito","i":"#","ca":"cartera","de":"Portemonee, Brieftasche, Geldbörse","en":"wallet, purse, billfold","eo":"monujo","es":"billetero, monedero","fr":"portefeuille","ja":"財布","pt":"carteira (de dinheiro)","ru":"кошелек, бумажник"}
-{"T":"r","L":"portamortero","C":["n","vn","util"],"d":"un plance peti e cuadro con un manico a su, usada par bricores per teni mortero","en":"mortarboard"}
-{"T":"r","L":"portaovo","C":["n","vn"],"d":"un taso peti per teni un ovo bolida cuando on come lo","i":"#","en":"eggcup"}
-{"T":"r","L":"portapaper","C":["n","vn"],"d":"un libro, o contenador de carton, per teni paperes","i":"#","en":"folder"}
-{"L":"portapaper de anelos","C":["n"],"en":"ring binder"}
-{"T":"r","L":"portapeca","C":["n","vn"],"d":"(en la Biblia) un capra a cual la prete xef iudi ia pone simbolin la pecas de la iudis; un person culpada per la crimines o eras de otras","en":"scapegoat, sacrificial lamb, whipping boy"}
-{"T":"r","L":"portapen","C":["n","vn"],"d":"un strutur per teni penes cuando los no es usada","en":"pen holder"}
-{"T":"r","L":"portapil","C":["n","vn"],"d":"un caxa peti e silindre, per reteni piles","en":"pillbox"}
-{"T":"r","L":"portapistol","C":["n","vn"],"d":"un contenador per un pistol, tipal de cuoro e portada a un sintur o su la braso","en":"holster"}
-{"T":"r","L":"portaplanta","C":["n","vn"],"d":"un contenador ornal en cual on crese plantas","en":"planter"}
-{"T":"r","L":"portasene","C":["n","vn"],"d":"un plato peti per senes de tabaco e restas de sigareta","i":"#","en":"ashtray"}
-{"T":"r","L":"portaseno","C":["n","vn"],"d":"un vesteta de fem cual suporta la senos","i":"#","en":"bra, brassiere"}
-{"L":"portaseno de bicini","C":["n"],"en":"bikini top"}
-{"L":"portaseno tubo","C":["n"],"en":"bandeau top"}
-{"L":"sin portaseno","C":["a"],"en":"braless"}
-{"T":"r","L":"portaseso","C":["n","vn"],"d":"un protejente per la jenitales mas, tipal usada par sportores; un covrente a fronte de calsones de omes en la sentenios 15 e 16","en":"jockstrap; dance belt; codpiece"}
-{"T":"r","L":"portasigareta","C":["n","vn"],"d":"un tubo magra per teni un sigareta afin on fumi lo sin toca direta","en":"cigarette holder"}
-{"T":"r","L":"portaspada","C":["n","vn"],"d":"un gaina per la lama de un spada o daga","en":"scabbard"}
-{"T":"r","L":"portaspino","C":["n","vn"],"d":"un cuxin peti usada par cosores per teni spinos","en":"pincushion"}
-{"T":"r","L":"portatela","C":["n","vn"],"d":"un bara o serie de baras de cual on pende telas de bani","en":"towel rack, towel rail"}
-{"T":"r","L":"portatorxa","C":["n","vn"],"d":"un person ci porta un torxa en un rituo; (metafor) un gidor ci inspira otras a labora per un gol","en":"torchbearer"}
-{"T":"r","L":"portatronco","C":["n","vn"],"d":"un suportador metal per lenio ardente en un ximineria, tipal un de un duple","en":"andiron (holding logs in a fire)"}
-{"T":"r","L":"portaveste","C":["n","vn"],"d":"un strutur sur cual on pende vestes per seci o airi los","en":"clothes rack, clothes rail, clothes rod, clothes pole, clothes horse, clothes airer"}
-{"T":"r","L":"portavion","C":["n","vn"],"d":"un barcon grande de gera do aviones pote enaira e atera","i":"#","en":"aircraft carrier"}
-{"T":"r","L":"portavose","C":["n","vn"],"d":"un person ci fa anunsias per un otra person o grupo","en":"spokesperson, spokesman, spokeswoman"}
-{"L":"portavose de sindicato","C":["n"],"en":"union steward, shop steward"}
-{"T":"r","L":"portaxapo","C":["n","vn"],"d":"un caxa, tipal ronda, per reteni un xapo","en":"hatbox"}
+{"T":"r","L":"portamortero","C":["n","vn","util"],"d":"un plance peti e cuadro con un manico a su, usada par bricores per teni mortero","en":"mortarboard","fr":"mortier (chapeau)"}
+{"T":"r","L":"portaovo","C":["n","vn"],"d":"un taso peti per teni un ovo bolida cuando on come lo","i":"#","en":"eggcup","fr":"coquetier"}
+{"T":"r","L":"portapaper","C":["n","vn"],"d":"un libro, o contenador de carton, per teni paperes","i":"#","en":"folder","fr":"dossier"}
+{"L":"portapaper de anelos","C":["n"],"en":"ring binder","fr":"reliure à anneaux"}
+{"T":"r","L":"portapeca","C":["n","vn"],"d":"(en la Biblia) un capra a cual la prete xef iudi ia pone simbolin la pecas de la iudis; un person culpada per la crimines o eras de otras","en":"scapegoat, sacrificial lamb, whipping boy","fr":"bouc émissaire"}
+{"T":"r","L":"portapen","C":["n","vn"],"d":"un strutur per teni penes cuando los no es usada","en":"pen holder","fr":"porte-stylo"}
+{"T":"r","L":"portapil","C":["n","vn"],"d":"un caxa peti e silindre, per reteni piles","en":"pillbox","fr":"pilulier, boîte à pilules"}
+{"T":"r","L":"portapistol","C":["n","vn"],"d":"un contenador per un pistol, tipal de cuoro e portada a un sintur o su la braso","en":"holster","fr":"étui de revolver, étui de pistolet"}
+{"T":"r","L":"portaplanta","C":["n","vn"],"d":"un contenador ornal en cual on crese plantas","en":"planter","fr":"jardinière"}
+{"T":"r","L":"portasene","C":["n","vn"],"d":"un plato peti per senes de tabaco e restas de sigareta","i":"#","en":"ashtray","fr":"cendrier"}
+{"T":"r","L":"portaseno","C":["n","vn"],"d":"un vesteta de fem cual suporta la senos","i":"#","en":"bra, brassiere","fr":"soutien-gorge"}
+{"L":"portaseno de bicini","C":["n"],"en":"bikini top","fr":"haut de bikini"}
+{"L":"portaseno tubo","C":["n"],"en":"bandeau top","fr":"bustier"}
+{"L":"sin portaseno","C":["a"],"en":"braless","fr":"sans soutien-gorge"}
+{"T":"r","L":"portaseso","C":["n","vn"],"d":"un protejente per la jenitales mas, tipal usada par sportores; un covrente a fronte de calsones de omes en la sentenios 15 e 16","en":"jockstrap; dance belt; codpiece","fr":"coquille; cache-sexe"}
+{"T":"r","L":"portasigareta","C":["n","vn"],"d":"un tubo magra per teni un sigareta afin on fumi lo sin toca direta","en":"cigarette holder","fr":"porte-cigarette"}
+{"T":"r","L":"portaspada","C":["n","vn"],"d":"un gaina per la lama de un spada o daga","en":"scabbard","fr":"fourreau (gaine d'épée)"}
+{"T":"r","L":"portaspino","C":["n","vn"],"d":"un cuxin peti usada par cosores per teni spinos","en":"pincushion","fr":"pelote à épingles, pelote d'épingles"}
+{"T":"r","L":"portatela","C":["n","vn"],"d":"un bara o serie de baras de cual on pende telas de bani","en":"towel rack, towel rail","fr":"porte-serviette"}
+{"T":"r","L":"portatorxa","C":["n","vn"],"d":"un person ci porta un torxa en un rituo; (metafor) un gidor ci inspira otras a labora per un gol","en":"torchbearer","fr":"porte-flambeau, porteur de flambeau, porteur du flambeau"}
+{"T":"r","L":"portatronco","C":["n","vn"],"d":"un suportador metal per lenio ardente en un ximineria, tipal un de un duple","en":"andiron (holding logs in a fire)","fr":"chenet"}
+{"T":"r","L":"portaveste","C":["n","vn"],"d":"un strutur sur cual on pende vestes per seci o airi los","en":"clothes rack, clothes rail, clothes rod, clothes pole, clothes horse, clothes airer","fr":"penderie"}
+{"T":"r","L":"portavion","C":["n","vn"],"d":"un barcon grande de gera do aviones pote enaira e atera","i":"#","en":"aircraft carrier","fr":"porte-avion, porte-avions"}
+{"T":"r","L":"portavose","C":["n","vn"],"d":"un person ci fa anunsias per un otra person o grupo","en":"spokesperson, spokesman, spokeswoman","fr":"porte-parole"}
+{"L":"portavose de sindicato","C":["n"],"en":"union steward, shop steward","fr":"délégué syndical"}
+{"T":"r","L":"portaxapo","C":["n","vn"],"d":"un caxa, tipal ronda, per reteni un xapo","en":"hatbox","fr":"boîte à chapeau"}
 {"T":"r","L":"porte","C":["n","arci"],"d":"un peso de lenio, vitro o otra materia cual impedi la entra a un construida, sala, veculo o armario; la abri mesma tra cual on entra","i":"#","ca":"porta","da":"dør","en":"door","eo":"pordo","es":"puerta","fr":"porte","it":"porta","ja":"ドア・玄関","nl":"deur","pt":"porta","ru":"дверь"}
-{"L":"porte caruselin","C":["n"],"en":"revolving door"}
-{"L":"porte contra esplodes","C":["n"],"en":"blast door"}
-{"L":"porte de asede","C":["n"],"en":"hatch"}
-{"L":"porte de rede","C":["n"],"en":"screen door"}
-{"L":"porte-fenetra","C":["n","nn"],"i":"#","en":"French window, French door"}
-{"L":"porte retro","C":["n"],"en":"back door, tailgate"}
-{"L":"porte xef","C":["n"],"en":"front door"}
-{"L":"con porte retro","C":["a"],"en":"hatchback (car)"}
-{"L":"porteta","C":["n"],"en":"gate (field, garden), gateway; wicket (gate, cricket)"}
-{"L":"porteta de peaje","C":["n"],"en":"tollgate"}
-{"L":"porton","C":["n"],"i":"#","en":"portal, gate (castle, town); sluice, sluice gate, floodgate (of lock)"}
-{"T":"r","L":"portico","C":["n","arci"],"d":"un strutur composada de un teto suportada par colones, tipal usada como un estende de un construida plu grande","i":"#","en":"portico, porch"}
+{"L":"porte caruselin","C":["n"],"en":"revolving door","fr":"porte tambour, porte tournante"}
+{"L":"porte contra esplodes","C":["n"],"en":"blast door","fr":"porte anti-souffle"}
+{"L":"porte de asede","C":["n"],"en":"hatch","fr":"trappe, écoutille"}
+{"L":"porte de rede","C":["n"],"en":"screen door","fr":"porte mousticaire"}
+{"L":"porte de trapa","C":["n"],"en":"trap door","fr":"trappe"}
+{"L":"porte-fenetra","C":["n","nn"],"i":"#","en":"French window, French door","fr":"porte-fenêtre"}
+{"L":"porte retro","C":["n"],"en":"back door, tailgate","fr":"porte arrière, porte de derrière, porte dérobée, hayon"}
+{"L":"porte xef","C":["n"],"en":"front door","fr":"porte principale, porte d'entrée, porte avant"}
+{"L":"con porte retro","C":["a"],"en":"hatchback (car)","fr":"berline avec hayon arrière (voiture)"}
+{"L":"porteta","C":["n"],"en":"gate (field, garden), gateway; wicket (gate, cricket)","fr":"portillon, passerelle"}
+{"L":"porteta de peaje","C":["n"],"en":"tollgate","fr":"péage"}
+{"L":"porton","C":["n"],"i":"#","en":"portal, gate (castle, town); sluice, sluice gate, floodgate (of lock)","fr":"portail, entrée, porte (d'une ville); écluse"}
+{"T":"r","L":"portico","C":["n","arci"],"d":"un strutur composada de un teto suportada par colones, tipal usada como un estende de un construida plu grande","i":"#","en":"portico, porch","fr":"portique, porche"}
 {"T":"r","L":"porto","C":["n","arci","info"],"d":"un loca costal do barcos pote trova proteje; un vila o site sirca esta loca; un abri en un computador per ajunta otra aparatos","i":"#","da":"havn","de":"Hafen","en":"port, harbor|ur, seaport; port (computer)","eo":"haveno","es":"puerto","fr":"port","it":"porto","nl":"haven","pt":"porto"}
-{"L":"porto de visita","C":["n"],"en":"port of call"}
-{"L":"porto spasial","C":["n"],"en":"spaceport (science fiction)"}
-{"L":"anteporto","C":["n"],"en":"outer harbor|ur"}
-{"L":"Porto Rica","C":["n","jeo"],"d":"un isola en la Mar Caribe e un comunia en asosia volente con la SUA","i":"porto-rica","en":"Puerto Rico"}
-{"L":"portorican","C":["a"],"en":"Puerto Rican, Puertorican"}
-{"L":"portorican","C":["n"],"en":"Puerto Rican, Puertorican"}
-{"T":"r","L":"porto","C":["n","cos"],"d":"un vino forte e dulse de roja oscur, orijinante en Portugal, tipal bevida pos un comeda","en":"port (wine)"}
-{"T":"r","L":"Portugal","C":["n","jeo"],"c":"Lisboa","d":"un pais en la parte ueste de la penisola iberian en Europa sude-ueste","i":"#","en":"Portugal"}
-{"L":"portuges","C":["a"],"en":"Portuguese"}
-{"L":"portuges","C":["n","dem"],"en":"Portuguese"}
-{"T":"r","L":"portulaca","C":["n","pla"],"d":"un planta peti con folias pulposa cual crese en locas moiada","i":"#","t":"Portulaca","en":"portulaca, purslane (plant)"}
-{"T":"r","L":"pos","C":["prep"],"d":"a, o prosima a, la retro de (alga cosa), o plu retro ca lo; seguente (en un ordina o prosegue); min avansada ca","g":"preposadas#pos","u":"la gato dormi pos la sofa","ca":"darrere de","da":"bagved bag, bagved","de":"hinter","en":"behind (in space or sequence)","eo":"malantaŭ","es":"detrás de, tras","fr":"derrière","it":"dietro a","ja":"の後ろに・で","nl":"achter","pt":"atrás de","ru":"после, через"}
-{"T":"s","d":"movente per ateni la retro de (alga cosa)","n":"Per espresa esta en modo plu clar, on pote dise `a pos`.","u":"la gato core pos la sofa","en":"(moving) to behind, to the back of"}
-{"T":"s","d":"en la tempo seguente (alga cosa)","g":"preposadas#pos","n":"Per introdui un proposa suordinada, usa `pos cuando` en loca. La averbo con la sinifia `a un tempo plu tarda` es `a pos`.","u":"desembre veni pos novembre; nos esperia la tona pos la lampo; me va reveni pos du dias; pos come, el ia dormi","v":"cuando","ca":"després de","da":"efter, siden","de":"nach","en":"after, later than, since; in (e.g. one week's time)","eo":"post","es":"después de","fr":"après","it":"dopo","nl":"na","pt":"após, depois de","ru":"после, за"}
-{"L":"pos-","C":["pf"],"d":"pos, plu tarda","u":"posenebria; posalveolal","en":"post- (happening later or located behind)"}
-{"L":"a pos","C":["prep"],"u":"la gato ia core a pos la sofa","en":"behind, to behind"}
-{"L":"a pos","C":["av"],"d":"a la retro (de un cosa sujestada par la contesto); movente en dirije a la retro; movente en la dirije cual on no fasa; en la tempo seguente","en":"behind, at the back, at the rear; (moving) to the back; backward, backwards; (time) afterward, afterwards, later, then, next, subsequently, since","eo":"malantaŭe; malantaŭen; poste","es":"detrás, después"}
-{"L":"e a pos?","C":["esc"],"en":"and then?, and what happened next?"}
-{"L":"de pos","C":["prep"],"u":"mea madre abita asi de pos la mori de sua sposo","en":"from behind; since (time)"}
-{"L":"de pos","C":["av"],"en":"from behind; since then, ever since"}
-{"L":"pos du dias","C":["esp"],"en":"after two days, two days later"}
+{"L":"porto de visita","C":["n"],"en":"port of call","fr":"escale, port d'escale"}
+{"L":"porto spasial","C":["n"],"en":"spaceport (science fiction)","fr":"port spatial, astroport, base spatiale"}
+{"L":"anteporto","C":["n"],"en":"outer harbor|ur","fr":"avant-port"}
+{"L":"Porto Rica","C":["n","jeo"],"d":"un isola en la Mar Caribe e un comunia en asosia volente con la SUA","i":"porto-rica","en":"Puerto Rico","fr":"Porto-Rico"}
+{"L":"portorican","C":["a"],"en":"Puerto Rican, Puertorican","fr":"portoricain"}
+{"L":"portorican","C":["n"],"en":"Puerto Rican, Puertorican","fr":"Portoricain"}
+{"T":"r","L":"porto","C":["n","cos"],"d":"un vino forte e dulse de roja oscur, orijinante en Portugal, tipal bevida pos un comeda","en":"port (wine)","fr":"porto (vin)"}
+{"T":"r","L":"Portugal","C":["n","jeo"],"c":"Lisboa","d":"un pais en la parte ueste de la penisola iberian en Europa sude-ueste","i":"#","en":"Portugal","fr":"Portugal"}
+{"L":"portuges","C":["a"],"en":"Portuguese","fr":"portugais"}
+{"L":"portuges","C":["n","dem"],"en":"Portuguese","fr":"Portugais (personne); portugais (langue)"}
+{"T":"r","L":"portulaca","C":["n","pla"],"d":"un planta peti con folias pulposa cual crese en locas moiada","i":"#","t":"Portulaca","en":"portulaca, purslane (plant)","fr":"pourpier"}
+{"T":"r","L":"pos","C":["prep"],"d":"a, o prosima a, la retro de (alga cosa), o plu retro ca lo; seguente (en un ordina o prosegue); min avansada ca","g":"preposadas#pos","u":"la gato dormi pos la sofa","ca":"darrere de","da":"bagved bag, bagved","de":"hinter","en":"behind (in space or sequence)","eo":"malantaŭ","es":"detrás de, tras","fr":"derrière, après, à la suite de","it":"dietro a","ja":"の後ろに・で","nl":"achter","pt":"atrás de","ru":"после, через"}
+{"T":"s","d":"movente per ateni la retro de (alga cosa)","n":"Per espresa esta en modo plu clar, on pote dise `a pos`.","u":"la gato core pos la sofa","en":"(moving) to behind, to the back of","fr":"après, derrière (mouvement)"}
+{"T":"s","d":"en la tempo seguente (alga cosa)","g":"preposadas#pos","n":"Per introdui un proposa suordinada, usa `pos cuando` en loca. La averbo con la sinifia `a un tempo plu tarda` es `a pos`.","u":"desembre veni pos novembre; nos esperia la tona pos la lampo; me va reveni pos du dias; pos come, el ia dormi","v":"cuando","ca":"després de","da":"efter, siden","de":"nach","en":"after, later than, since; in (e.g. one week's time)","eo":"post","es":"después de","fr":"après, à la suite de","it":"dopo","nl":"na","pt":"após, depois de","ru":"после, за"}
+{"L":"pos-","C":["pf"],"d":"pos, plu tarda","u":"posenebria; posalveolal","en":"post- (happening later or located behind)","fr":"post-"}
+{"L":"a pos","C":["prep"],"u":"la gato ia core a pos la sofa","en":"behind, to behind","fr":"derrière"}
+{"L":"a pos","C":["av"],"d":"a la retro (de un cosa sujestada par la contesto); movente en dirije a la retro; movente en la dirije cual on no fasa; en la tempo seguente","en":"behind, at the back, at the rear; (moving) to the back; backward, backwards; (time) afterward, afterwards, later, then, next, subsequently, since","eo":"malantaŭe; malantaŭen; poste","es":"detrás, después","fr":"après, ensuite, alors"}
+{"L":"e a pos?","C":["esc"],"en":"and then?, and what happened next?","fr":"et après? et alors?"}
+{"L":"de pos","C":["prep"],"u":"mea madre abita asi de pos la mori de sua sposo","en":"from behind; since (time)","fr":"depuis"}
+{"L":"de pos","C":["av"],"en":"from behind; since then, ever since","fr":"depuis, depuis lors"}
+{"L":"pos du dias","C":["esp"],"en":"after two days, two days later","fr":"deux jours après"}
 {"T":"r","L":"posa","C":["vt"],"d":"pone (un person o cosa) en un modo o loca spesifada; pone (cosas) en un ordina bon, bela o usosa","en":"pose, posture, position, arrange, lay out, deploy, configure"}
 {"L":"posa","C":["n"],"en":"pose, posture, position, arrangement, layout, deployment, configuration"}
 {"L":"malposada","C":["a"],"en":"badly positioned; offside, offsides (sport)"}
