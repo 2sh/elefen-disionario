@@ -5329,6 +5329,7 @@
 {"L":"cloador","C":["n"],"en":"nail gun","es":"pistola de clavos","fr":"pistolet à clous, cloueuse","he":"אקדח מסמרים"}
 {"L":"cloeta","C":["n"],"en":"tack","es":"chincheta","fr":"clou, punaise","he":"נעץ"}
 {"L":"cloi","C":["vt"],"p":"cloï","en":"nail","es":"clavar","fr":"clouer","he":"למסמר"}
+{"L":"cloin","C":["a"],"p":"cloïn","en":"nail-like, nail-shaped"}
 {"T":"r","L":"cloaca","C":["n","bio"],"d":"un canal o tubo cual condui licuidas a via, tipal pluve o acua usada; la caveta a la fini de la duto de dijesta de la plu de vertebratos, per relasa feces e spermas o ovos","en":"drain, sewer; cloaca (anatomy)","es":"alcantarilla, desagüe, cloaca (anatomía)","fr":"cloaque (anatomie)","he":"ביוב; (אנטומיה) פתח הביב, קלואקה"}
 {"T":"r","L":"clone","C":["vt","med"],"d":"produi nonsesal un organisme, selula o grupo de selulas de (un asendente) a cual los es jenetical identica; desinia un computador cual pote simili esata la funsiona de (un otra)","en":"clone","fr":"cloner","he":"לשבט; לשכפל, לשעתק"}
 {"L":"clone","C":["n"],"en":"cloning (action); clone (product)","fr":"clonage; clone","he":"שיבוט; שכפול, שעתוק"}
@@ -20994,22 +20995,22 @@
 {"L":"politici","C":["vnt"],"de":"politisieren, sich politisieren","en":"politicize","fr":"se politiser"}
 {"L":"politici","C":["vt"],"de":"politisieren","en":"politicize","fr":"politiser"}
 {"L":"politiciste","C":["n"],"de":"Politiker","en":"politician","fr":"politicien, politicienne"}
-{"T":"r","L":"poliuretan","C":["n","cim"],"d":"un resina sintesal en cual la unias de polimer es liada par grupos de uretan, usada xef en pintas, vernises, aderentes e spumas","en":"polyurethane","fr":"polyuréthane"}
-{"T":"r","L":"polivalente","C":["a","cim","med"],"d":"con multe formas, fasetas o funsionas; (en cimica) con valentia de tre o plu; (en medica) con la capasia de ata contra plu ca un venena o de dona imunia contra plu ca un varia de un microbio","en":"polyvalent","fr":"polyvalent"}
-{"T":"r","L":"polo","C":["n","ast","mat","bio","fis"],"d":"cada de la du locas (norde o sude) a la surfas de la Tera o otra ojeto sielal cual es la finis de la ase de jira; (en jeometria) cada de la du puntos a cual la ase de un sfera crusa la surfas; (en biolojia) un fini de la ase major de un selula, organo o parte; un de la du puntos a la surfas de un magnete do la fortes magnetal es la plu intensa; un de la du terminas (positiva e negativa) de un selula eletrica, pila o macina; un de du prinsipes o ideas cual oposa o contradise lunlotra","da":"pol","en":"pole (magnetic, etc.)","fr":"pôle"}
-{"L":"polo de sielo","C":["n"],"en":"celestial pole","fr":"pôle céleste"}
-{"L":"Polo Norde","C":["n","jeo"],"en":"North Pole","fr":"pôle Nord"}
-{"L":"Polo Sude","C":["n","jeo"],"en":"South Pole","fr":"pôle Sud"}
-{"L":"despolali","C":["vnt"],"en":"depolarize|is","fr":"se dépolariser"}
-{"L":"despolali","C":["vt"],"en":"depolarize|is","fr":"dépolariser"}
-{"L":"despolali","C":["n"],"en":"depolarization|is","fr":"dépolarisation"}
-{"L":"polal","C":["a"],"en":"polar","fr":"polaire"}
-{"L":"polali","C":["vnt"],"en":"polarize|is","fr":"se polariser"}
-{"L":"polali","C":["vt"],"en":"polarize|is","fr":"polariser"}
-{"L":"polali","C":["n"],"en":"polarization|is","fr":"polarisation"}
+{"T":"r","L":"poliuretan","C":["n","cim"],"d":"un resina sintesal en cual la unias de polimer es liada par grupos de uretan, usada xef en pintas, vernises, aderentes e spumas","de":"Polyurethane","en":"polyurethane","fr":"polyuréthane"}
+{"T":"r","L":"polivalente","C":["a","cim","med"],"d":"con multe formas, fasetas o funsionas; (en cimica) con valentia de tre o plu; (en medica) con la capasia de ata contra plu ca un venena o de dona imunia contra plu ca un varia de un microbio","de":"mehrwertig, vielwertig, polyvalent","en":"polyvalent","fr":"polyvalent"}
+{"T":"r","L":"polo","C":["n","ast","mat","bio","fis"],"d":"cada de la du locas (norde o sude) a la surfas de la Tera o otra ojeto sielal cual es la finis de la ase de jira; (en jeometria) cada de la du puntos a cual la ase de un sfera crusa la surfas; (en biolojia) un fini de la ase major de un selula, organo o parte; un de la du puntos a la surfas de un magnete do la fortes magnetal es la plu intensa; un de la du terminas (positiva e negativa) de un selula eletrica, pila o macina; un de du prinsipes o ideas cual oposa o contradise lunlotra","da":"pol","de":"Pol","en":"pole (magnetic, etc.)","fr":"pôle"}
+{"L":"polo de sielo","C":["n"],"de":"Himmelspol","en":"celestial pole","fr":"pôle céleste"}
+{"L":"Polo Norde","C":["n","jeo"],"de":"Nordpol","en":"North Pole","fr":"pôle Nord"}
+{"L":"Polo Sude","C":["n","jeo"],"de":"Südpol","en":"South Pole","fr":"pôle Sud"}
+{"L":"despolali","C":["vnt"],"de":"sich depolarisieren, sich entpolarisieren","en":"depolarize|is","fr":"se dépolariser"}
+{"L":"despolali","C":["vt"],"de":"depolarisieren, entpolarisieren","en":"depolarize|is","fr":"dépolariser"}
+{"L":"despolali","C":["n"],"de":"Depolarisation, Depolarisierung, Entpolarisierung","en":"depolarization|is","fr":"dépolarisation"}
+{"L":"polal","C":["a"],"de":"polar","en":"polar","fr":"polaire"}
+{"L":"polali","C":["vnt"],"de":"sich polarisieren","en":"polarize|is","fr":"se polariser"}
+{"L":"polali","C":["vt"],"de":"polarisieren","en":"polarize|is","fr":"polariser"}
+{"L":"polali","C":["n"],"de":"Polarisierung, Polarisation","en":"polarization|is","fr":"polarisation"}
 {"L":"polalia","C":["n"],"da":"polaritet","de":"Polarität","en":"polarity (electric, magnetic)","eo":"poluseco","es":"polaridad","fr":"polarité","it":"polarità","nl":"polariteit","pt":"polaridade"}
-{"T":"r","L":"polo","C":["n","spo"],"d":"un sporte simil a hoci de campo, juada sur cavalos con un martel longa, orijinante en Asia","i":"#","en":"polo (sport)","fr":"polo (sport)"}
-{"L":"polo de acua","C":["n"],"en":"water polo","fr":"water-polo"}
+{"T":"r","L":"polo","C":["n","spo"],"d":"un sporte simil a hoci de campo, juada sur cavalos con un martel longa, orijinante en Asia","i":"#","de":"Polo (Sport)","en":"polo (sport)","fr":"polo (sport)"}
+{"L":"polo de acua","C":["n"],"de":"Wasserball","en":"water polo","fr":"water-polo"}
 {"T":"r","L":"polonesa","C":["n","mus"],"d":"un dansa formal, orijinante en Polsca, cual sembla un prosegue lenta","en":"polonaise (dance)","fr":"polonaise (danse)"}
 {"T":"r","L":"polonio","C":["n","cim"],"d":"la elemento cimical con numero atomal 84, un metal radioativa","s":"Po","en":"polonium (element)","fr":"polonium"}
 {"T":"r","L":"polpo","C":["n","mol"],"d":"un molusco sefalopodo con oto brasos con ventosas, corpo mol e sacin, e mandibulas becin e forte","i":"#","t":"Octopoda","en":"octopus","fr":"poulpe"}
@@ -21543,7 +21544,7 @@
 {"T":"r","L":"prisma","C":["n","fis","mat"],"d":"un forma solida de cual sua du finis es formas retilinial simil, egal e paralel, e de cual sua lados es paralelogrames; un ojeto de vitro o simil en esta forma, tipal un cual separa lus blanca a un spetro de colores","i":"#","en":"prism","fr":"prisme"}
 {"L":"prismal","C":["a"],"en":"prismatic","fr":"prismatique"}
 {"T":"r","L":"prison","C":["n","gov"],"d":"un construida en cual persones es legal tenida como un puni per sua crimines o cuando los espeta es prosededa; un loca per teni tempora persones acusada de un crimin","i":"#","da":"fængsel","de":"Gefängnis","en":"prison, jail, jailhouse, gaol, cellblock, clink, lockup, penitentiary","eo":"malliberejo","es":"prisión, cárcel","fr":"prison, geôle","it":"prigione, carcere","nl":"gevangenis","pt":"prisão, cadeia"}
-{"L":"prison botelin","C":["n"],"en":"oubliette","fr":"oubliettes"}
+{"L":"prison botelin","C":["n"],"d":"un prison de cual sua sola porte es un buco en la sofito alta","en":"oubliette, bottle dungeon","fr":"oubliettes"}
 {"L":"prison de barcon","C":["n"],"en":"brig"}
 {"L":"prison suteran","C":["n"],"en":"dungeon","fr":"cachot"}
 {"L":"prisoni","C":["vt"],"en":"imprison, jail, incarcerate","fr":"emprisonner, incarcérer, mettre en prison"}
@@ -21568,97 +21569,97 @@
 {"T":"r","L":"proa","C":["n","vec"],"d":"la parte fronte de un barcon, spesial la parte supra la nivel de la acua","i":"proa-2","en":"bow, prow (of ship)","fr":"proue (d'un bateau)"}
 {"T":"r","L":"proa","C":["n","vec"],"d":"un tipo de barcon de vela, orijinante en Malaisia e Indonesia, tipal con un vela grande triangulo e un balansador","i":"#","en":"proa, perahu (sailboat)","fr":"prao (voilier multicoque)"}
 {"T":"r","L":"proba","C":["vt","fis","cim","bio"],"d":"esamina, usa o fa (un cosa nova o diferente) per vide esce lo es produosa, conveninte o plasente","v":"atenta","da":"smage; prøve, teste","de":"schmecken; prüfen, probieren","en":"try, try out, try on (clothes), trial, test, check; taste","eo":"probi; gustumi","es":"gustar, probar, saborear, degustar, paladear","fr":"mettre à l'essai, prouver; goûter, sentir (le goût de)","it":"sentire, gustare","nl":"smaken, proeven","pt":"provar, saborear"}
-{"L":"proba","C":["n"],"en":"try, trial, test, check, screen; taste (action)","fr":"test, épreuve, essai"}
-{"L":"longa probada","C":["a"],"en":"tried and tested, time-tested"}
-{"L":"nonprobada","C":["a"],"en":"untried, untested; unscreened"}
+{"L":"proba","C":["n"],"en":"try, trial, test, check, screen; taste (action)","fr":"test, épreuve, essai, fait de goûter"}
+{"L":"longa probada","C":["a"],"en":"tried and tested, time-tested","fr":"longuement éprouvé, éprouvé de longue date"}
+{"L":"nonprobada","C":["a"],"en":"untried, untested; unscreened","fr":"non testé, non contrôlé"}
 {"L":"proba e era","C":["n"],"en":"trial and error","fr":"tâtonnement expérimental, méthode essai e erreur, méthode essai-erreur (pédagogie)","he":"ניסוי וטעייה"}
-{"L":"probada","C":["a"],"en":"tried, tested; tasted"}
+{"L":"probada","C":["a"],"en":"tried, tested; tasted","fr":"contrôlé, testé"}
 {"T":"r","L":"probable","C":["a","fil"],"d":"statistical o lojical espetada en un situa spesifada","da":"sandsynlig","de":"wahrscheinlich","en":"probable, likely","eo":"probabla, verŝajna","es":"probable","fr":"probable","it":"probabile","nl":"waarschijnlijk","pt":"provável"}
 {"L":"probable","C":["av"],"en":"probably","eo":"verŝajne","fr":"probablement"}
-{"L":"probable","C":["n"],"en":"probability, chance (something likely)"}
-{"L":"nonprobable","C":["a"],"en":"improbable, unlikely"}
-{"L":"nonprobable","C":["n"],"en":"improbability, long shot (something unlikely)"}
-{"L":"nonprobablia","C":["n"],"en":"improbability (quality)"}
-{"L":"probablia","C":["n"],"en":"probability, likelihood, chances, odds (quality, statistic)"}
-{"T":"r","L":"probiotica","C":["n","med"],"d":"un medisin cual promove la crese de alga microbios en la sistem de dijesta","en":"probiotic"}
+{"L":"probable","C":["n"],"en":"probability, chance (something likely)","fr":"probabilité"}
+{"L":"nonprobable","C":["a"],"en":"improbable, unlikely","fr":"improbable"}
+{"L":"nonprobable","C":["n"],"en":"improbability, long shot (something unlikely)","fr":"improbabilité, pari risqué"}
+{"L":"nonprobablia","C":["n"],"en":"improbability (quality)","fr":"improbabilité (qualité)"}
+{"L":"probablia","C":["n"],"en":"probability, likelihood, chances, odds (quality, statistic)","fr":"probabilité, chances (qualité, statistique)"}
+{"T":"r","L":"probiotica","C":["n","med"],"d":"un medisin cual promove la crese de alga microbios en la sistem de dijesta","en":"probiotic","fr":"probiotique"}
 {"T":"r","L":"problem","C":["n"],"d":"un situa, tipal nosiva o perilosa, cual nesesa un solve","da":"problem","de":"Problem","en":"problem; difficulty, issue, setback, drawback, kink, snag","eo":"problemo","es":"problema","fr":"problème","it":"problema","nl":"probleem","pt":"problema"}
-{"L":"crea un problem","C":["v"],"en":"create a problem, pose a problem"}
-{"L":"no problem","C":["esc"],"en":"no problem, you're welcome, don't mention it"}
-{"L":"no plu un problem","C":["esp"],"en":"no longer a problem, out of the way"}
-{"L":"problemosa","C":["a"],"en":"problematic, worrisome"}
-{"T":"r","L":"proboside","C":["n","bio","anat"],"d":"la parte longa de la boca de alga insetos, usada per suca nurintes, tipal tubo, flexable e estendable","i":"#","en":"proboscis (anatomy)"}
-{"T":"r","L":"procaina","C":["n","med"],"d":"un composada derivada de asida benzoica, usada per anestese","en":"procaine, novocaine (anesthetic|anaesthetic)"}
-{"T":"r","L":"procariota","C":["n","bio"],"d":"un organisme pico e uniselulal (como un bateria) cual no ave un nucleo con membrana, e no ave otra organetas spesialida","en":"prokaryote (organism)"}
-{"T":"r","L":"proclama","C":["vt","gov"],"d":"anunsia ofisial o publica; declara forte (alga cosa) sur cual on opina ce lo es importante","da":"meddele, bekendtgøre","de":"ankündigen","en":"proclaim, declaim, announce, recite, issue","eo":"proklami","es":"anunciar, proclamar, promulgar","fr":"annoncer","it":"annunciare","nl":"aankondigen","pt":"anunciar, proclamar"}
-{"L":"proclama","C":["n"],"en":"proclamation, announcement, edict, ordinance, pronouncement"}
-{"L":"proclama papal","C":["n"],"en":"papal bull"}
-{"L":"proclamor","C":["n"],"en":"announcer, crier, barker, bellman"}
-{"T":"r","L":"proconsul","C":["n","gov"],"d":"(en Roma antica) la governor de un provinse; la governor de un colonia moderna","en":"proconsul"}
-{"T":"r","L":"proctolojia","C":["n","med"],"d":"la ramo de medica cual studia la ano e reto","en":"proctology"}
-{"L":"proctolojiste","C":["n"],"en":"proctologist"}
-{"T":"r","L":"proctoscopio","C":["n","med","util"],"d":"un util medical con lampa per esamina la ano e reto","en":"proctoscope"}
-{"L":"proctoscopi","C":["n"],"en":"proctoscopy"}
-{"T":"r","L":"prodroga","C":["n","med"],"d":"un composada biolojial nonativa cual pote es metabolida en la corpo per produi un droga o medisin","en":"prodrug"}
-{"T":"r","L":"produi","C":["vt","gov"],"d":"fabrica (un cosa) de partes o materias; crea o formi (un cosa) par un prosede fisical, cimical o biolojial; crea (un cosa) par capasia mental o creosa","en":"produce"}
-{"L":"produi","C":["n"],"en":"production"}
-{"L":"produi a stranjer","C":["v"],"en":"outsource"}
-{"L":"produi a stranjer","C":["n"],"en":"outsourcing"}
-{"L":"produi en serie","C":["n"],"en":"mass production"}
-{"L":"produi interna bruta","C":["n"],"en":"gross domestic product, GDP"}
-{"L":"nonproduosa","C":["a"],"en":"unproductive, ineffective, ineffectual, inefficacious"}
-{"L":"nonproduosia","C":["n"],"en":"unproductiveness, ineffectiveness, ineffectuality, inefficacy"}
-{"L":"produida","C":["n"],"en":"product, handiwork"}
-{"L":"produida ladal","C":["n"],"en":"by-product, byproduct"}
-{"L":"produidas","C":["n","pl"],"en":"products, produce"}
-{"L":"produor","C":["n"],"en":"producer"}
-{"L":"produor dirijal","C":["n"],"en":"executive producer"}
-{"L":"produor-dirijor","C":["n","nn"],"en":"producer-director"}
-{"L":"produosa","C":["a"],"en":"productive, prolific, bountiful, effective, effectual, efficacious"}
-{"L":"produosia","C":["n"],"en":"productiveness, productivity, effectiveness, effectuality, efficacy"}
-{"L":"suproduida","C":["n"],"en":"by-product, byproduct"}
-{"T":"r","L":"profase","C":["n","bio"],"d":"la fase prima de la divide de selulas","en":"prophase"}
-{"T":"r","L":"profesa","C":["n","gov"],"d":"un carera cual nesesa un instrui estendeda e un documento ofisial de serti","en":"profession"}
-{"L":"nonprofesal","C":["a"],"en":"unprofessional"}
-{"L":"nonprofesal","C":["n"],"en":"non-professional, layman, layperson"}
-{"L":"profesal","C":["a"],"en":"professional"}
-{"L":"profesalisme","C":["n"],"en":"professionalism"}
+{"L":"crea un problem","C":["v"],"en":"create a problem, pose a problem","fr":"poser problème"}
+{"L":"no problem","C":["esc"],"en":"no problem, you're welcome, don't mention it","fr":"pas de problème, ce n'est pas grave, de rien, n'en parlons plus"}
+{"L":"no plu un problem","C":["esp"],"en":"no longer a problem, out of the way","fr":"ce n'est plus un problème, le problème est réglé, la voie est libre"}
+{"L":"problemosa","C":["a"],"en":"problematic, worrisome","fr":"préoccupant, problématique, qui pose problème"}
+{"T":"r","L":"proboside","C":["n","bio","anat"],"d":"la parte longa de la boca de alga insetos, usada per suca nurintes, tipal tubo, flexable e estendable","i":"#","en":"proboscis (anatomy)","fr":"trompe (d'un insecte)"}
+{"T":"r","L":"procaina","C":["n","med"],"d":"un composada derivada de asida benzoica, usada per anestese","en":"procaine, novocaine (anesthetic|anaesthetic)","fr":"procaïne, novocaïne (anesthésique)"}
+{"T":"r","L":"procariota","C":["n","bio"],"d":"un organisme pico e uniselulal (como un bateria) cual no ave un nucleo con membrana, e no ave otra organetas spesialida","en":"prokaryote (organism)","fr":"procaryote (organisme)"}
+{"T":"r","L":"proclama","C":["vt","gov"],"d":"anunsia ofisial o publica; declara forte (alga cosa) sur cual on opina ce lo es importante","da":"meddele, bekendtgøre","de":"ankündigen","en":"proclaim, declaim, announce, recite, issue","eo":"proklami","es":"anunciar, proclamar, promulgar","fr":"annoncer, proclamer, promulguer","it":"annunciare","nl":"aankondigen","pt":"anunciar, proclamar"}
+{"L":"proclama","C":["n"],"en":"proclamation, announcement, edict, ordinance, pronouncement","fr":"annonce, proclamation, promulgation, édit, ordonnance"}
+{"L":"proclama papal","C":["n"],"en":"papal bull","fr":"bulle papale"}
+{"L":"proclamor","C":["n"],"en":"announcer, crier, barker, bellman","fr":"héraut, proclamateur, annonciateur"}
+{"T":"r","L":"proconsul","C":["n","gov"],"d":"(en Roma antica) la governor de un provinse; la governor de un colonia moderna","en":"proconsul","fr":"proconsul"}
+{"T":"r","L":"proctolojia","C":["n","med"],"d":"la ramo de medica cual studia la ano e reto","en":"proctology","fr":"proctologie"}
+{"L":"proctolojiste","C":["n"],"en":"proctologist","fr":"proctologue"}
+{"T":"r","L":"proctoscopio","C":["n","med","util"],"d":"un util medical con lampa per esamina la ano e reto","en":"proctoscope","fr":"proctoscope"}
+{"L":"proctoscopi","C":["n"],"en":"proctoscopy","fr":"proctoscopie"}
+{"T":"r","L":"prodroga","C":["n","med"],"d":"un composada biolojial nonativa cual pote es metabolida en la corpo per produi un droga o medisin","en":"prodrug","fr":"prodrogue, promédicament, précurseur de substance active"}
+{"T":"r","L":"produi","C":["vt","gov"],"d":"fabrica (un cosa) de partes o materias; crea o formi (un cosa) par un prosede fisical, cimical o biolojial; crea (un cosa) par capasia mental o creosa","en":"produce","fr":"produire"}
+{"L":"produi","C":["n"],"en":"production","fr":"production (processus)"}
+{"L":"produi a stranjer","C":["v"],"en":"outsource","fr":"produire à l'étranger, délocaliser, externaliser"}
+{"L":"produi a stranjer","C":["n"],"en":"outsourcing","fr":"production à l'étranger, délocalisation, externalisation"}
+{"L":"produi en serie","C":["n"],"en":"mass production","fr":"production en série"}
+{"L":"produi interna bruta","C":["n"],"en":"gross domestic product, GDP","fr":"produit intérieur brut, PIB"}
+{"L":"nonproduosa","C":["a"],"en":"unproductive, ineffective, ineffectual, inefficacious","fr":"improductif, inefficace, peu performant, qui a un faible rendement"}
+{"L":"nonproduosia","C":["n"],"en":"unproductiveness, ineffectiveness, ineffectuality, inefficacy","fr":"improductivité, inefficacité, inefficience, faible productivité, faible efficacité, faible performance, faible rendement"}
+{"L":"produida","C":["n"],"en":"product, handiwork","fr":"produit"}
+{"L":"produida ladal","C":["n"],"en":"by-product, byproduct","fr":"produit dérivé"}
+{"L":"produidas","C":["n","pl"],"en":"products, produce","fr":"produits, production (résultat)"}
+{"L":"produor","C":["n"],"en":"producer","fr":"producteur"}
+{"L":"produor dirijal","C":["n"],"en":"executive producer","fr":"producteur exécutif, chef de production"}
+{"L":"produor-dirijor","C":["n","nn"],"en":"producer-director","fr":"producteur-réalisateur"}
+{"L":"produosa","C":["a"],"en":"productive, prolific, bountiful, effective, effectual, efficacious","fr":"productif, prolifique, efficace, fécond"}
+{"L":"produosia","C":["n"],"en":"productiveness, productivity, effectiveness, effectuality, efficacy","fr":"productivité, créativité, fécondité, efficacité"}
+{"L":"suproduida","C":["n"],"en":"by-product, byproduct","fr":"sous-produit"}
+{"T":"r","L":"profase","C":["n","bio"],"d":"la fase prima de la divide de selulas","en":"prophase","fr":"prophase"}
+{"T":"r","L":"profesa","C":["n","gov"],"d":"un carera cual nesesa un instrui estendeda e un documento ofisial de serti","en":"profession","fr":"profession"}
+{"L":"nonprofesal","C":["a"],"en":"unprofessional","fr":"non professionnel"}
+{"L":"nonprofesal","C":["n"],"en":"non-professional, layman, layperson","fr":"non-professionnel, amateur"}
+{"L":"profesal","C":["a"],"en":"professional","fr":"professionnel"}
+{"L":"profesalisme","C":["n"],"en":"professionalism","fr":"professionnalisme"}
 {"T":"r","L":"profesor","C":["n","gov"],"d":"un mestre o ensenior con un diploma avansada, tipal en un universia","ca":"professor","de":"Professor","en":"professor, academic, academician, don, faculty member, prof","eo":"profesoro","es":"profesor","fr":"professeur","ja":"教授","pt":"catedrático","ru":"профессор"}
-{"L":"profesores","C":["n","pl"],"en":"professors, faculty (members)"}
-{"L":"profesoria","C":["n"],"en":"professorship (post, period)"}
-{"T":"r","L":"profeta","C":["n","rel"],"d":"un person regardada como un mestre inspirada o un proclamor de la vole de un dio; un person ci promove o parla como un previdor sur un crede, caso o teoria; un person ci previde o declara sua capasia de previde avenis","en":"prophet"}
-{"T":"r","L":"profil","C":["n"],"d":"un contorno de alga cosa regardada de un lado, tipal la fas de un person; un descrive corta de un person o organiza; un analise de la cualias e condui de un person per evalua o predise sua capasias o intendes","en":"profile"}
-{"L":"profili","C":["vnt"],"en":"profile"}
-{"L":"profili","C":["vt"],"en":"profile"}
-{"L":"profilor","C":["n"],"en":"profiler"}
-{"T":"r","L":"profita","C":["vnt","mone"],"d":"un benefica finansial, tipal la difere entre la cuantia ganiada e la cuantia usada per compra, opera o produi alga cosa; (metafor) un vantaje o benefica jeneral","en":"profit"}
+{"L":"profesores","C":["n","pl"],"en":"professors, faculty (members)","fr":"professeurs, équipe pédagogique"}
+{"L":"profesoria","C":["n"],"en":"professorship (post, period)","fr":"professorat"}
+{"T":"r","L":"profeta","C":["n","rel"],"d":"un person regardada como un mestre inspirada o un proclamor de la vole de un dio; un person ci promove o parla como un previdor sur un crede, caso o teoria; un person ci previde o declara sua capasia de previde avenis","en":"prophet","fr":"prophète"}
+{"T":"r","L":"profil","C":["n"],"d":"un contorno de alga cosa regardada de un lado, tipal la fas de un person; un descrive corta de un person o organiza; un analise de la cualias e condui de un person per evalua o predise sua capasias o intendes","en":"profile","fr":"profil"}
+{"L":"profili","C":["vnt"],"en":"profile","fr":"faire|tracer un profil"}
+{"L":"profili","C":["vt"],"en":"profile","fr":"faire|tracer le profil de"}
+{"L":"profilor","C":["n"],"en":"profiler","fr":"profileur"}
+{"T":"r","L":"profita","C":["vnt","mone"],"d":"un benefica finansial, tipal la difere entre la cuantia ganiada e la cuantia usada per compra, opera o produi alga cosa; (metafor) un vantaje o benefica jeneral","en":"profit","fr":"faire un profit"}
 {"L":"profita","C":["n"],"da":"fortjeneste, profit, gevinst","de":"Gewinn","en":"profit, gain","eo":"profito, gajno","es":"beneficio, ganancia, provecho, utilidad, lucro","fr":"bénéfice, profit","it":"profitto, utile","nl":"profijt, voordeel, winst","pt":"lucro, ganho, benefício"}
-{"L":"profita de","C":["v"],"en":"profit from, take advantage of, cash in on"}
-{"L":"profita e perde","C":["n"],"en":"profit and loss, boom and bust"}
-{"L":"profita nonlegal","C":["v"],"en":"profiteer"}
-{"L":"profita nonlegal","C":["n"],"en":"profiteering"}
-{"L":"profita subita","C":["n"],"en":"bonanza, windfall"}
-{"L":"crimin no profita","C":["esp"],"en":"crime does not pay"}
-{"L":"nonprofitante","C":["a"],"en":"non-profit"}
-{"L":"nonprofitosa","C":["a"],"en":"unprofitable"}
-{"L":"profitor","C":["n"],"en":"profiter, profiteer"}
-{"L":"profitosa","C":["a"],"en":"profitable, lucrative"}
-{"T":"r","L":"profiterol","C":["n","cos"],"d":"un bal peti de pasta dulse, plenida con crema e covreda con salsa de xocolada, comeda como un deser","en":"profiterole"}
-{"T":"r","L":"profonda","C":["a"],"d":"estendente a un distantia grande de la culmina o la surfas; (un state, cualia o emosia) multe grande, intensa o sever; (un person o declara) mostrante un comprende o intui grande; (un tema o pensa) esijente multe studia o pensa","da":"dyb","de":"tief","en":"deep, profound, in-depth","es":"profundo, hondo","fr":"profond","it":"profondo","nl":"diep","pt":"profundo"}
+{"L":"profita de","C":["v"],"en":"profit from, take advantage of, cash in on","fr":"profiter de"}
+{"L":"profita e perde","C":["n"],"en":"profit and loss, boom and bust","fr":"pertes et profits"}
+{"L":"profita nonlegal","C":["v"],"en":"profiteer","fr":"tirer profit de, tirer parti de, spéculer"}
+{"L":"profita nonlegal","C":["n"],"en":"profiteering","fr":"spéculation"}
+{"L":"profita subita","C":["n"],"en":"bonanza, windfall","fr":"bénéfices exceptionnels, profits exceptionnels"}
+{"L":"crimin no profita","C":["esp"],"en":"crime does not pay","fr":"le crime ne paie pas"}
+{"L":"nonprofitante","C":["a"],"en":"non-profit","fr":"sans but lucratif, bénévole"}
+{"L":"nonprofitosa","C":["a"],"en":"unprofitable","fr":"non rentable, déficitaire, peu rentable, peu lucratif"}
+{"L":"profitor","C":["n"],"en":"profiter, profiteer","fr":"profiteur"}
+{"L":"profitosa","C":["a"],"en":"profitable, lucrative","fr":"lucratif"}
+{"T":"r","L":"profiterol","C":["n","cos"],"d":"un bal peti de pasta dulse, plenida con crema e covreda con salsa de xocolada, comeda como un deser","en":"profiterole","fr":"profiterole"}
+{"T":"r","L":"profonda","C":["a"],"d":"estendente a un distantia grande de la culmina o la surfas; (un state, cualia o emosia) multe grande, intensa o sever; (un person o declara) mostrante un comprende o intui grande; (un tema o pensa) esijente multe studia o pensa","da":"dyb","de":"tief","en":"deep, profound, in-depth","es":"profundo, hondo","fr":"profond, en profondeur, abyssal, insondable","it":"profondo","nl":"diep","pt":"profundo"}
 {"L":"profonda","C":["av"],"en":"deeply, profoundly","fr":"profondément"}
-{"L":"profonda","C":["n"],"en":"deep, depths, chasm"}
-{"L":"nonprofonda","C":["a"],"en":"shallow"}
-{"L":"profondi","C":["vnt"],"en":"deepen"}
-{"L":"profondi","C":["vt"],"en":"deepen"}
-{"L":"profondia","C":["n"],"da":"dybde","de":"Tiefe","en":"deepness, depth, profundity; draft, draught (of ship)","eo":"profundeco","es":"profundidad, hondura","fr":"profondeur","it":"profondità","nl":"diepte","pt":"profundidade"}
-{"L":"profondon","C":["n"],"en":"abyss, chasm"}
-{"T":"r","L":"prognose","C":["n","med"],"d":"la curso probable de un maladia; un predise de la resulta probable de un situa","en":"prognosis"}
-{"T":"r","L":"program","C":["n","info"],"d":"un desinia o projeta per un prosede, con listas de avenis intendeda; un presenta en radio o televisa; un serie de instruis codigida per la opera de un computador o otra aparato","da":"program","de":"Programm","en":"program|programme, schedule; program, application (software)","eo":"programo","es":"programa, plan","fr":"programme","it":"programma","nl":"program","pt":"programa"}
-{"L":"program de calcula","C":["n"],"en":"spreadsheet"}
-{"L":"program de concurso","C":["n"],"en":"quiz show, game show"}
-{"L":"program de conversa","C":["n"],"en":"chat show, talk show"}
+{"L":"profonda","C":["n"],"en":"deep, depths, chasm","fr":"profondeur, abysses, abîme, gouffre"}
+{"L":"nonprofonda","C":["a"],"en":"shallow","fr":"peu profond, sans profondeur"}
+{"L":"profondi","C":["vnt"],"en":"deepen","fr":"s'approfondir, se creuser"}
+{"L":"profondi","C":["vt"],"en":"deepen","fr":"approfondir, creuser"}
+{"L":"profondia","C":["n"],"da":"dybde","de":"Tiefe","en":"deepness, depth, profundity; draft, draught (of ship)","eo":"profundeco","es":"profundidad, hondura","fr":"profondeur; tirant d'eau (d'un navire)","it":"profondità","nl":"diepte","pt":"profundidade"}
+{"L":"profondon","C":["n"],"en":"abyss, chasm","fr":"abysses, abîme, gouffre"}
+{"T":"r","L":"prognose","C":["n","med"],"d":"la curso probable de un maladia; un predise de la resulta probable de un situa","en":"prognosis","fr":"pronostic, diagnostic"}
+{"T":"r","L":"program","C":["n","info"],"d":"un desinia o projeta per un prosede, con listas de avenis intendeda; un presenta en radio o televisa; un serie de instruis codigida per la opera de un computador o otra aparato","da":"program","de":"Programm","en":"program|programme, schedule; program, application (software)","eo":"programo","es":"programa, plan","fr":"programme, programmation","it":"programma","nl":"program","pt":"programa"}
+{"L":"program de calcula","C":["n"],"en":"spreadsheet","fr":"feuille de calcul, tableur"}
+{"L":"program de concurso","C":["n"],"en":"quiz show, game show","fr":"quiz télévisé, jeu télévisé, émission de jeu"}
+{"L":"program de conversa","C":["n"],"en":"chat show, talk show","fr":"émission de  débat, débat télévisé"}
 {"L":"program de desinia","C":["n"],"en":"graphics program"}
 {"L":"program de labora","C":["n"],"en":"work schedule, roster, rota"}
-{"L":"program de realia","C":["n"],"en":"reality show"}
+{"L":"program de realia","C":["n"],"en":"reality show","fr":"télé-réalité"}
 {"L":"program de scrive","C":["n"],"en":"word-processing program, word processor"}
 {"L":"program ueb","C":["n"],"en":"web application"}
 {"L":"desprogrami","C":["vt"],"en":"deprogram|deprogramme, remove brainwashing from"}
