@@ -1493,7 +1493,7 @@
 {"L":"aparte sin asendador","C":["n"],"de":"Wohnung, die nur per Treppe (nicht per Aufzug) erreichbar ist","en":"walk-up","es":"apartamento sin ascensor","fr":"appartement sans ascenseur","he":"דירה בלי מעלית"}
 {"T":"r","L":"apatia","C":["n","uma"],"d":"un asentia de interesa, zelo o cura","o":"de elinica a- (no, sin) + patheia (sufri, senti)","de":"Teilnahmslosigkeit, Apathie","en":"apathy","es":"apatía","fr":"apathie","he":"אפתיה, אדישות"}
 {"L":"apatica","C":["a"],"de":"teilnahmslos, apathisch","en":"apathetic","es":"apático","fr":"apathique","he":"אפתי, אדיש"}
-{"T":"r","L":"apatosauro","C":["n","dino"],"d":"un dinosauro erbivor enorme de la jurasica, con coda e colo longa","i":"#","o":"de elinica apate (engana) + sauros (lezardo)","t":"Apatosaurus","de":"Apatosaurus, Brontosaurus","en":"apatosaurus, brontosaurus","fr":"apatosaure","he":"אפטוזאורוס"}
+{"T":"r","L":"apatosauro","C":["n","dino"],"d":"un dinosauro erbivor enorme de la jurasica, con coda e colo longa","i":"#","o":"de elinica apate (engana) + sauros (lezardo)","t":"Apatosaurus","de":"Apatosaurus","en":"apatosaurus","fr":"apatosaure","he":"אפטוזאורוס"}
 {"T":"r","L":"apatxe","C":["a","dem"],"d":"pertinente a un popla de la americanes orijinal ci vive xef en Mexico Nova e Arizona en la SUA sude-ueste, o a sua lingua","de":"bezogen auf die Apachen oder ihre Sprache","en":"Apache (person, language)","es":"apache (persona, lengua)","fr":"apache","he":"שקשור לשבט האפצ'י"}
 {"L":"apatxe","C":["n"],"de":"Apache (Person, Sprache)","en":"Apache (person, language)","es":"apache (persona, lengua)","fr":"Apache (personne), apache (langue)","he":"שבט האפצ'י"}
 {"T":"r","L":"apela","C":["vt","gov"],"d":"fa un solisita seria o urjente, tipal a la popla jeneral; solisita, a un corte de lege alta, un reversa de un deside par un corte basa","n":"La ojeto, si espresada, es la parolas usada.","de":"appellieren, dringend bitten (um etwas), Berufung einlegen","en":"appeal, say in appeal","fr":"faire appel au sujet de","he":"לפנות לציבור; לערער"}
@@ -3826,6 +3826,7 @@
 {"T":"r","L":"broncodilatante","C":["n","med"],"d":"un medisin per dilata la broncos","en":"bronchodilator","fr":"bronchodilatateur","he":"מרחיב סימפונות (תרופה)"}
 {"T":"r","L":"broncoscopio","C":["n","med"],"d":"un corda de fibres otical cual on introdui en la tracea per esamina la broncos","en":"bronchoscope","fr":"bronchoscope","he":"ברונכוסקופ"}
 {"L":"broncoscopi","C":["n"],"en":"bronchoscopy","fr":"bronchoscopie","he":"ברונכוסקופיה"}
+{"T":"r","L":"brontosauro","C":["n","dino"],"d":"un dinosauro erbivor enorme de la jurasica, con coda e colo longa","t":"Brontosaurus","de":"Brontosaurus","en":"brontosaurus","fr":"brontosaure"}
 {"T":"r","L":"bronze","C":["n","cim"],"d":"un aliada de cupre e stanio, con color jalin brun; un pel brunida par la sol","en":"bronze; tan, suntan","fr":"bronze","he":"ארד, ברונזה; שיזוף"}
 {"L":"bronze dorada","C":["n"],"en":"gilded bronze, vermeil","fr":"bronze doré","he":"ארד מוזהב"}
 {"L":"bronzi","C":["vnt"],"en":"tan","fr":"bronzer, hâler, brunir","he":"להשתזף"}
@@ -9928,13 +9929,13 @@
 {"L":"erijeda","C":["a"],"en":"erect, pricked up","fr":"érigé, dressé, édifié","he":"זקוף"}
 {"T":"r","L":"eriso","C":["n","mam"],"d":"un mamal peti e noturna de la mundo vea, con pelo spinosa e gamas corta, e capas de enrola se como un bal per defende se","i":"#","t":"Erinaceinae","en":"hedgehog","fr":"hérisson","he":"קיפוד"}
 {"L":"eriso-de-mar","C":["n","ani"],"d":"un ecinodermato con conca sfera o plata, covreda con spinas movable, con un boca a la fondo","i":"#","t":"Echinoidea","en":"sea urchin, uni","fr":"oursin","he":"קיפוד ים"}
-{"T":"r","L":"erita","C":["vt","gov","mone"],"d":"reseta (mone, propria o un titulo) cuando la proprior presedente mori; reseta (un cualia) jenetical de sua jenitores o asendentes","en":"inherit","fr":"hériter"}
-{"L":"erita","C":["n"],"en":"inheritance, heritage, heredity, patrimony, birthright, legacy","fr":"héritage, patrimoine","it":"eredità"}
-{"L":"deserita","C":["vt"],"en":"disinherit","fr":"déshériter","it":"diseredare"}
-{"L":"eritable","C":["a"],"en":"heritable, inheritable","fr":"héritable"}
-{"L":"eritada","C":["a"],"en":"inherited","fr":"hérité"}
-{"L":"eritada de familia","C":["n"],"en":"heirloom","fr":"héritage"}
-{"L":"erital","C":["a"],"en":"hereditary","fr":"héréditaire"}
+{"T":"r","L":"erita","C":["vt","gov","mone"],"d":"reseta (mone, propria o un titulo) cuando la proprior presedente mori; reseta (un cualia) jenetical de sua jenitores o asendentes","en":"inherit","fr":"hériter","he":"לרשת"}
+{"L":"erita","C":["n"],"en":"inheritance, heritage, heredity, patrimony, birthright, legacy","fr":"héritage, patrimoine","he":"ירושה, מורשה, עיזבון; מורשת; תורשה","it":"eredità"}
+{"L":"deserita","C":["vt"],"en":"disinherit","fr":"déshériter","he":"לנשל","it":"diseredare"}
+{"L":"eritable","C":["a"],"en":"heritable, inheritable","fr":"héritable","he":"שעובר בירושה; שעובר בתורשה, גנטי"}
+{"L":"eritada","C":["a"],"en":"inherited","fr":"hérité","he":"ירש"}
+{"L":"eritada de familia","C":["n"],"en":"heirloom","fr":"héritage","he":"ירושה (חפץ או נכס)"}
+{"L":"erital","C":["a"],"en":"hereditary","fr":"héréditaire","he":"שקשור לירושה; תורשתי"}
 {"L":"eritisme","C":["n"],"d":"la teoria ce la majoria de la cualias de viventes, spesial de umanas, es eritada","en":"inheritism","fr":"innéisme"}
 {"L":"eritiste","C":["n"],"en":"inheritist","fr":"innéiste"}
 {"L":"eritor","C":["n"],"en":"heir, heiress, heritor, heritrix, scion","fr":"héritier"}
@@ -14298,47 +14299,47 @@
 {"L":"jireta","C":["n"],"de":"Kreisel","en":"spinning top","fr":"toupie"}
 {"L":"jireta de mano","C":["n"],"de":"Handkreisel, Fidget Spinner","en":"hand top, fidget spinner","fr":"toupie"}
 {"L":"jireta ivri","C":["n"],"i":"#","de":"Dreidel, Dreidl","en":"dreidel"}
-{"T":"r","L":"jirabroca","C":["n","vn"],"d":"un util de fora, con manivel e caveta per teni un broca","en":"brace (of brace and bit)","fr":"vilebrequin"}
-{"T":"r","L":"jirafa","C":["n","mam"],"d":"un mamal grande de Africa con colo longa e pelo de pesos brun separada par linias plu pal","i":"#","t":"Giraffa camelopardalis","en":"giraffe","fr":"girafe"}
-{"L":"Jirafa","C":["n","ast"],"d":"un constela de la sielo norde","en":"Camelopardalis (constellation)","fr":"Girafe (constellation)"}
-{"T":"r","L":"jiro","C":["n","anat"],"d":"un plia o cresta entre du fesures a la surfas de la serebro","en":"gyrus (anatomy)","fr":"circonvolution cérébrale"}
-{"T":"r","L":"jiroscopio","C":["n","util"],"d":"un aparato composada de un rota o disco montada per jira rapida sirca un ase capas de cambia sua dirije, usada per manteni stablia","i":"#","en":"gyroscope","fr":"gyroscope"}
-{"T":"r","L":"joala","C":["n","vest"],"d":"un ojeto per orna la corpo, tipal incluinte un o plu jemes, como un anelo, brasaleta, colareta o orealeta","v":"jem","en":"piece of jewelry|jewellery, jewel","fr":"bijou"}
-{"L":"joala majiosa","C":["n"],"en":"amulet, talisman","fr":"amulette"}
-{"L":"joala perforante","C":["n"],"en":"piercing","fr":"piercing"}
-{"L":"joalas","C":["n","pl"],"en":"jewelry|jewellery","fr":"bijoux"}
-{"L":"joaleria","C":["n"],"en":"jewelry|jewellery store, jeweler's|ll shop","fr":"joaillerie, bijouterie"}
-{"L":"joalor","C":["n"],"en":"jeweler|ll","fr":"bijoutier, joaillier"}
-{"T":"r","L":"joce","C":["n","spo"],"d":"un cavalor ci compete en corsas, tipal como un carera","i":"#","en":"jockey","fr":"jockey"}
-{"T":"r","L":"jogla","C":["vt","spo"],"d":"lansa e catura repetente (bales o otra ojetos), tipal per diverti","i":"#","en":"juggle","fr":"jongler"}
-{"L":"joglor","C":["n"],"en":"juggler","fr":"jongleur"}
-{"T":"r","L":"joia","C":["vt","uma"],"d":"senti plaser o felisia en (un ativia o aveni)","en":"enjoy, rejoice, be joyous, have fun","fr":"se réjouir"}
-{"L":"joia","C":["n"],"en":"joy, fun, enjoyment, frivolity, gaiety","fr":"joie"}
-{"L":"joia","C":["esc"],"en":"cheers, enjoy"}
-{"L":"joiosa","C":["a"],"en":"joyous, joyful, merry, fun, exuberant, ebullient, exultant, gleeful, mirthful","fr":"joyeux, gai, allègre, enjoué, plein d'entrain, guilleret"}
-{"L":"sin joia","C":["a"],"en":"joyless","fr":"triste, morne, affligé, malheureux, sombre, désenchanté, maussade, neurasthénique"}
-{"T":"r","L":"joistic","C":["n","vec","info"],"d":"un controlador per aviones; un controlador per juas video","i":"#","en":"joystick","fr":"manche à balai (aviation); manette de jeu, joystick"}
-{"T":"r","L":"joncila","C":["n","pla"],"d":"un narsiso con grupos de flores jala, peti e bonodorosa, de Europa sude e Africa norde-este","i":"#","t":"Narcissus jonquilla","en":"jonquil (plant)","fr":"jonquille"}
-{"T":"r","L":"Jonguo","C":["n","jeo"],"c":"Beijing","d":"un pais en Asia este, la plu poplada e la pais tre de la plu grandes de mundo","i":"#","v":"Xina","en":"China","fr":"Chine"}
-{"L":"jonguo","C":["a"],"en":"Chinese","fr":"chinois"}
-{"L":"jonguo","C":["n","dem"],"en":"Chinese","fr":"Chinois"}
-{"T":"r","L":"Jorjia","C":["n","jeo"],"d":"un otra nom per Sacartvelo","i":"Sacartvelo","v":"Sacartvelo","en":"Georgia (Caucasus)","fr":"Géorgie"}
-{"L":"jorjian","C":["a"],"en":"Georgian (person, language)","fr":"géorgien"}
-{"L":"jorjian","C":["n"],"en":"Georgian (person, language)","fr":"Géorgien (personne); géorgien (langue)"}
-{"T":"r","L":"jornal","C":["n","arte","info"],"d":"un publici periodal, conteninte articles e imajes sur un tema o campo spesifada; un arcivo dial de novas e avenis","i":"#","da":"magasin (blad), avis","de":"Zeitschrift, Zeitung","en":"journal, magazine, gazette","es":"revista, periódico, diario","fr":"journal, magazine"}
-{"L":"jornal de ativia","C":["n"],"en":"log (software)"}
-{"L":"jornal de contas","C":["n"],"en":"daybook, journal (accounting)","fr":"livre de compte"}
-{"L":"jornal de prosegues","C":["n"],"en":"proceedings (society)"}
-{"L":"jornal de scandal","C":["n"],"en":"tabloid newspaper","fr":"journal à sensation"}
-{"L":"jornal de viaja","C":["n"],"en":"log, logbook","fr":"journal de voyage"}
-{"L":"jornal dial","C":["n"],"i":"#","en":"newspaper","fr":"journal, quotidien"}
-{"L":"jornal personal","C":["n"],"en":"diary","fr":"journal intime"}
-{"L":"jornaleria","C":["n"],"en":"newsstand, newsagent (shop)","fr":"kiosque à journaux, marchand de journaux"}
-{"L":"jornalisme","C":["n"],"en":"journalism","fr":"journalisme"}
-{"L":"jornalisme fotografial","C":["n"],"en":"photojournalism","fr":"photojournalisme"}
-{"L":"jornaliste","C":["a"],"en":"journalistic","fr":"journalistique, éditorial"}
-{"L":"jornaliste","C":["n"],"en":"journalist, correspondent, newspaperman, newspaperwoman","fr":"journaliste"}
-{"L":"jornalistes","C":["n","pl"],"en":"journalists, media, press","fr":"presse, journaux, médias, éditorialistes"}
+{"T":"r","L":"jirabroca","C":["n","vn"],"d":"un util de fora, con manivel e caveta per teni un broca","de":"Bohrkurbel, Bohrwinde, Kurbelbohrmaschine, Brustleier (Handbohrmaschine)","en":"brace (of brace and bit)","fr":"vilebrequin"}
+{"T":"r","L":"jirafa","C":["n","mam"],"d":"un mamal grande de Africa con colo longa e pelo de pesos brun separada par linias plu pal","i":"#","t":"Giraffa camelopardalis","de":"Giraffe","en":"giraffe","fr":"girafe"}
+{"L":"Jirafa","C":["n","ast"],"d":"un constela de la sielo norde","de":"Giraffe, Kamelopard (Sternbild)","en":"Camelopardalis (constellation)","fr":"Girafe (constellation)"}
+{"T":"r","L":"jiro","C":["n","anat"],"d":"un plia o cresta entre du fesures a la surfas de la serebro","de":"Gyrus, Hirnwindung (Anatomie)","en":"gyrus (anatomy)","fr":"circonvolution cérébrale"}
+{"T":"r","L":"jiroscopio","C":["n","util"],"d":"un aparato composada de un rota o disco montada per jira rapida sirca un ase capas de cambia sua dirije, usada per manteni stablia","i":"#","de":"Gyroskop, Kreiselinstrument, Kreiselstabilisator","en":"gyroscope","fr":"gyroscope"}
+{"T":"r","L":"joala","C":["n","vest"],"d":"un ojeto per orna la corpo, tipal incluinte un o plu jemes, como un anelo, brasaleta, colareta o orealeta","v":"jem","de":"Schmuck, Schmuckstück, Juwel, Preziose, Kleinod, Juwelierarbeit","en":"piece of jewelry|jewellery, jewel","fr":"bijou"}
+{"L":"joala majiosa","C":["n"],"de":"Amulett, Talisman, Glücksbringer","en":"amulet, talisman","fr":"amulette"}
+{"L":"joala perforante","C":["n"],"de":"Piercing","en":"piercing","fr":"piercing"}
+{"L":"joalas","C":["n","pl"],"de":"Schmuck, Juwelen","en":"jewelry|jewellery","fr":"bijoux"}
+{"L":"joaleria","C":["n"],"de":"Juwelierladen, Juweliergeschäft, Schmuckgeschäft","en":"jewelry|jewellery store, jeweler's|ll shop","fr":"joaillerie, bijouterie"}
+{"L":"joalor","C":["n"],"de":"Juwelier","en":"jeweler|ll","fr":"bijoutier, joaillier"}
+{"T":"r","L":"joce","C":["n","spo"],"d":"un cavalor ci compete en corsas, tipal como un carera","i":"#","de":"Jockey","en":"jockey","fr":"jockey"}
+{"T":"r","L":"jogla","C":["vt","spo"],"d":"lansa e catura repetente (bales o otra ojetos), tipal per diverti","i":"#","de":"jonglieren","en":"juggle","fr":"jongler"}
+{"L":"joglor","C":["n"],"de":"Jongleur","en":"juggler","fr":"jongleur"}
+{"T":"r","L":"joia","C":["vt","uma"],"d":"senti plaser o felisia en (un ativia o aveni)","de":"genießen, sich erfreuen (an), Spaß haben (mit), sich amüsieren","en":"enjoy, rejoice, be joyous, have fun","fr":"se réjouir"}
+{"L":"joia","C":["n"],"de":"Freude, Spaß, Vergnügen, Frivolität, Fröhlichkeit","en":"joy, fun, enjoyment, frivolity, gaiety","fr":"joie"}
+{"L":"joia","C":["esc"],"de":"prost, zum Wohl, lass es dir schmecken, viel Spaß!","en":"cheers, enjoy"}
+{"L":"joiosa","C":["a"],"de":"fröhlich, freudig, lustig, vergnügt, frohlockend, heiter, überschwänglich, überschäumend","en":"joyous, joyful, merry, fun, exuberant, ebullient, exultant, gleeful, mirthful","fr":"joyeux, gai, allègre, enjoué, plein d'entrain, guilleret"}
+{"L":"sin joia","C":["a"],"de":"freudlos","en":"joyless","fr":"triste, morne, affligé, malheureux, sombre, désenchanté, maussade, neurasthénique"}
+{"T":"r","L":"joistic","C":["n","vec","info"],"d":"un controlador per aviones; un controlador per juas video","i":"#","de":"Joystick","en":"joystick","fr":"manche à balai (aviation); manette de jeu, joystick"}
+{"T":"r","L":"joncila","C":["n","pla"],"d":"un narsiso con grupos de flores jala, peti e bonodorosa, de Europa sude e Africa norde-este","i":"#","t":"Narcissus jonquilla","de":"Jonquille","en":"jonquil (plant)","fr":"jonquille"}
+{"T":"r","L":"Jonguo","C":["n","jeo"],"c":"Beijing","d":"un pais en Asia este, la plu poplada e la pais tre de la plu grandes de mundo","i":"#","v":"Xina","de":"China","en":"China","fr":"Chine"}
+{"L":"jonguo","C":["a"],"de":"chinesisch","en":"Chinese","fr":"chinois"}
+{"L":"jonguo","C":["n","dem"],"de":"Chinesisch (Sprache), Chinese","en":"Chinese","fr":"Chinois"}
+{"T":"r","L":"Jorjia","C":["n","jeo"],"d":"un otra nom per Sacartvelo","i":"Sacartvelo","v":"Sacartvelo","de":"Georgien","en":"Georgia (Caucasus)","fr":"Géorgie"}
+{"L":"jorjian","C":["a"],"de":"georgisch","en":"Georgian (person, language)","fr":"géorgien"}
+{"L":"jorjian","C":["n"],"de":"Georgier, Georgisch (Sprache)","en":"Georgian (person, language)","fr":"Géorgien (personne); géorgien (langue)"}
+{"T":"r","L":"jornal","C":["n","arte","info"],"d":"un publici periodal, conteninte articles e imajes sur un tema o campo spesifada; un arcivo dial de novas e avenis","i":"#","da":"magasin (blad), avis","de":"Zeitschrift, Zeitung, Magazin","en":"journal, magazine, gazette","es":"revista, periódico, diario","fr":"journal, magazine"}
+{"L":"jornal de ativia","C":["n"],"de":"Log, Protokoll (Software)","en":"log (software)"}
+{"L":"jornal de contas","C":["n"],"de":"Kassenbuch, Kassabuch (Buchhaltung)","en":"daybook, journal (accounting)","fr":"livre de compte"}
+{"L":"jornal de prosegues","C":["n"],"de":"Tagungsband, Tagungsbericht, Proceedings, Tätigkeitsbericht","en":"proceedings (society)"}
+{"L":"jornal de scandal","C":["n"],"de":"Boulevardzeitung, Boulevardblatt","en":"tabloid newspaper","fr":"journal à sensation"}
+{"L":"jornal de viaja","C":["n"],"de":"Logbuch, Bordbuch, Bordtagebuch","en":"log, logbook","fr":"journal de voyage"}
+{"L":"jornal dial","C":["n"],"i":"#","de":"Tageszeitung, Zeitung","en":"newspaper","fr":"journal, quotidien"}
+{"L":"jornal personal","C":["n"],"de":"Tagebuch","en":"diary","fr":"journal intime"}
+{"L":"jornaleria","C":["n"],"de":"Zeitungskiosk, Kiosk, Zeitungsladen, Zeitungsgeschäft","en":"newsstand, newsagent (shop)","fr":"kiosque à journaux, marchand de journaux"}
+{"L":"jornalisme","C":["n"],"de":"Journalismus, Journalistik, Publizistik","en":"journalism","fr":"journalisme"}
+{"L":"jornalisme fotografial","C":["n"],"de":"Fotojournalismus","en":"photojournalism","fr":"photojournalisme"}
+{"L":"jornaliste","C":["a"],"de":"journalistisch","en":"journalistic","fr":"journalistique, éditorial"}
+{"L":"jornaliste","C":["n"],"de":"Journalist, Korrespondent","en":"journalist, correspondent, newspaperman, newspaperwoman","fr":"journaliste"}
+{"L":"jornalistes","C":["n","pl"],"de":"Journalisten, Medien, Presse","en":"journalists, media, press","fr":"presse, journaux, médias, éditorialistes"}
 {"T":"r","L":"jotun","C":["n","mit"],"d":"(en mitolojia norsce) un membro de un raza de jigantes ci ia oposa tipal la dios de la aesir e spesial la dio Tor","en":"jotun, jotunn, jötunn, jötnar","fr":"jötunn"}
 {"T":"r","L":"jovedi","C":["n"],"d":"la dia entre mercurdi e venerdi en cada semana","en":"Thursday","eo":"ĵaŭdo","fr":"jeudi"}
 {"T":"r","L":"joven","C":["a","bio"],"d":"de un eda nonadulte; con cualias comun per persones nonadulte","da":"ung","de":"jung","en":"young, youthful; boyish, girlish","es":"joven","fr":"jeune"}
@@ -21804,339 +21805,339 @@
 {"L":"proprior","C":["n"],"ca":"propietari","de":"Besitzer","en":"owner, proprietor, landlord, landlady","eo":"posedanto","es":"dueño","fr":"propriétaire","ja":"オーナー","pt":"proprietário, dono","ru":"владелец, хозяин"}
 {"L":"proprior de casa","C":["n"],"en":"homeowner","fr":"propriétaire"}
 {"L":"proprior esplotante","C":["n"],"en":"slumlord","fr":"propriétaire exploitant"}
-{"T":"r","L":"propriosepi","C":["vnt"],"en":"propriocept"}
-{"L":"propriosepi","C":["n"],"d":"la sensa de la relata e move de la partes de sua propre corpo","en":"proprioception (sense of one's own movement and orientation)"}
-{"T":"r","L":"propulsa","C":["vt","fis","vec"],"d":"fa ce (un cosa) move en un dirije, comun a ante; furni la enerjia per move (un cosa)","en":"propel, power, drive"}
-{"L":"propulsa","C":["n"],"en":"propulsion"}
-{"L":"propulsa par jeto","C":["n"],"en":"jet propulsion"}
-{"L":"autopropulsa","C":["vt"],"en":"self-propel"}
-{"L":"autopropulsa","C":["n"],"en":"self-propulsion"}
-{"L":"propulsada","C":["a"],"en":"propelled, powered"}
-{"L":"propulsante","C":["n"],"en":"propellant"}
-{"T":"r","L":"prosa","C":["n","ling"],"d":"lingua parlada o scriveda en sua forma comun, sin strutur poesial","en":"prose"}
-{"L":"prosal","C":["a"],"en":"prose"}
-{"L":"prosin","C":["a"],"en":"prosaic"}
-{"T":"r","L":"prosede","C":["vt","gov"],"d":"fa un serie de atas sur (un person o cosa) per ateni un gol o produi un otra cosa","en":"process"}
-{"L":"prosede","C":["n"],"da":"proces, procedure","de":"Prozess; Verfahren","en":"process, procedure","eo":"procedo, proceduro","es":"procedimiento, proceder, método","fr":"épreuve; processus","it":"processo; procedimento","nl":"proces; procede","pt":"processo, procedimento"}
-{"L":"prosede complicada","C":["n"],"en":"complicated process, rigmarole"}
-{"L":"prosede legal","C":["n"],"da":"retsag","en":"legal process, trial, lawsuit"}
-{"L":"prosedador","C":["n"],"en":"processor"}
-{"L":"prosederia","C":["n"],"en":"processing plant"}
-{"L":"reprosede","C":["vt"],"en":"reprocess"}
-{"L":"reprosede","C":["n"],"en":"reprocessing"}
-{"T":"r","L":"prosegue","C":["vnt"],"d":"move a ante en modo ordinada, tipal como parte de un rituo o festa","en":"proceed, process (move in procession)"}
-{"L":"prosegue","C":["n"],"en":"procession"}
-{"L":"prosegue funeral","C":["n"],"en":"funeral procession, cortège"}
-{"T":"r","L":"prosero","C":["n","anat","med"],"d":"un musculo de la fas, entre la oios","en":"procerus"}
-{"T":"r","L":"prosima","C":["a"],"d":"a un distantia corta; a un tempo no distante en la futur; aprosima; (un ami) multe bon conoseda","da":"nær(t), tæt (på)","de":"nah, nahe","en":"near, nearby, proximal, close (including friend)","eo":"proksima","es":"cerca, proxima (en o a poca distancia)","fr":"près (de)","it":"vicino","nl":"na","pt":"próximo, cerca"}
-{"L":"prosima","C":["av"],"en":"nearby, thereabouts, in the vicinity"}
-{"L":"de prosima","C":["av"],"en":"from close up, point-blank"}
-{"L":"prosimi","C":["vnt"],"en":"near, come near, approach"}
-{"L":"prosimi","C":["vt"],"en":"bring nearer, cause to approach"}
-{"L":"prosimi","C":["n"],"en":"approach (including to a problem)"}
-{"L":"prosimi furtiva","C":["v"],"en":"sneak up, sidle up, approach stealthily"}
-{"L":"prosimia","C":["n"],"en":"proximity, nearness, closeness, contiguity"}
-{"L":"prosiminte","C":["a"],"en":"impending, imminent, upcoming"}
-{"T":"r","L":"prosion","C":["n","mam"],"d":"un mamal grisin brun de America, con fas volpin con masca negra, e con coda anelosa, notada per sua tende de lava sua comedas entre sua du pedes anterior","i":"#","t":"Procyon lotor","en":"raccoon, racoon"}
-{"T":"r","L":"prostaglandina","C":["n","bio"],"d":"cada de un grupo de composadas de asidas grasosa con efetos ormonin, spesial la promove de contraes de la utero","en":"prostaglandin (biology)"}
-{"T":"r","L":"prostata","C":["n","anat"],"d":"un glande sirca la colo de la vesica en mamales mas, cual relasa un licuida cual formi un parte de semin","en":"prostate"}
-{"T":"r","L":"prostese","C":["n","med"],"d":"un parte artifis de corpo, per esemplo un gama, braso, cor o seno","i":"#","en":"prosthesis, prosthetic"}
-{"L":"prostese dental","C":["n"],"en":"dentures, false teeth"}
-{"L":"prostesal","C":["a"],"en":"prosthetic"}
-{"T":"r","L":"prostitui","C":["vt","uma"],"d":"ofre (algun) per ativia sesal paiada","en":"prostitute"}
-{"L":"prostitui","C":["n"],"en":"prostitution"}
-{"L":"fem prostituida","C":["n"],"en":"hooker, whore, harlot, streetwalker, strumpet, trollop"}
-{"L":"prostituida","C":["n"],"en":"prostitute"}
-{"L":"prostituida pasada","C":["n"],"en":"reformed prostitute, magdalen"}
-{"L":"prostituor","C":["n"],"d":"un person ci maneja prostituidas o trova clientes per los","en":"pimp"}
-{"T":"r","L":"protactinio","C":["n","cim"],"d":"la elemento cimical con numero atomal 91, un metal radioativa","s":"Pa","en":"protactinium (element)"}
-{"T":"r","L":"protagoniste","C":["n","arte"],"d":"la carater xef o un de la carateres major en un nara, tipal con bon intendes","en":"protagonist"}
-{"T":"r","L":"protea","C":["n","pla"],"d":"un arboreta perene con flores cono grande, ensircada par brateas briliante colorida, nativa de Africa sude","i":"#","t":"Protea","en":"protea (plant)"}
-{"L":"protea jigante","C":["n","pla"],"t":"Protea cynaroides","en":"giant protea, king protea, king sugar bush, honeypot"}
-{"T":"r","L":"protease","C":["n","bio","cim"],"d":"un enzima cual redui protenas e peptidos","en":"protease"}
-{"T":"r","L":"proteje","C":["vt","gov"],"d":"preveni la feri o dana de (un person o cosa)","da":"beskytte, forsvare","de":"schützen","en":"protect, defend, shield, shelter","eo":"protekti","es":"protejer, defender","fr":"protéger","it":"proteggere, difendere","nl":"beschermen","pt":"protejer, defender"}
-{"L":"proteje","C":["n"],"en":"protection, precaution, aegis"}
-{"L":"nonprotejeda","C":["a"],"en":"unprotected"}
-{"L":"protejeda","C":["a"],"en":"protected, sheltered"}
-{"L":"protejeda","C":["n"],"en":"protectorate"}
-{"L":"protejente","C":["a"],"en":"protecting, protective"}
-{"L":"protejisme","C":["n"],"en":"protectionism"}
-{"L":"protejiste","C":["n"],"en":"protectionist"}
-{"L":"protejor","C":["n"],"en":"protector"}
-{"L":"protejoria","C":["n"],"en":"protectorate"}
+{"T":"r","L":"propriosepi","C":["vnt"],"en":"propriocept","fr":"avoir le sens de la proprioception"}
+{"L":"propriosepi","C":["n"],"d":"la sensa de la relata e move de la partes de sua propre corpo","en":"proprioception (sense of one's own movement and orientation)","fr":"proprioception"}
+{"T":"r","L":"propulsa","C":["vt","fis","vec"],"d":"fa ce (un cosa) move en un dirije, comun a ante; furni la enerjia per move (un cosa)","en":"propel, power, drive","fr":"propulser, faire mouvoir, faire marcher"}
+{"L":"propulsa","C":["n"],"en":"propulsion","fr":"propulsion"}
+{"L":"propulsa par jeto","C":["n"],"en":"jet propulsion","fr":"propulsion par réaction"}
+{"L":"autopropulsa","C":["vt"],"en":"self-propel","fr":"s'autopropulser"}
+{"L":"autopropulsa","C":["n"],"en":"self-propulsion","fr":"autopropulsion"}
+{"L":"propulsada","C":["a"],"en":"propelled, powered","fr":"propulsé, mu"}
+{"L":"propulsante","C":["n"],"en":"propellant","fr":"source d'énergie"}
+{"T":"r","L":"prosa","C":["n","ling"],"d":"lingua parlada o scriveda en sua forma comun, sin strutur poesial","en":"prose","fr":"prose"}
+{"L":"prosal","C":["a"],"en":"prose","fr":"en prose, prosaïque"}
+{"L":"prosin","C":["a"],"en":"prosaic","fr":"en prose, prosaïque"}
+{"T":"r","L":"prosede","C":["vt","gov"],"d":"fa un serie de atas sur (un person o cosa) per ateni un gol o produi un otra cosa","en":"process","fr":"opérer, procéder"}
+{"L":"prosede","C":["n"],"da":"proces, procedure","de":"Prozess; Verfahren","en":"process, procedure","eo":"procedo, proceduro","es":"procedimiento, proceder, método","fr":"épreuve; processus, cours, marche, opération, procédure","it":"processo; procedimento","nl":"proces; procede","pt":"processo, procedimento"}
+{"L":"prosede complicada","C":["n"],"en":"complicated process, rigmarole","fr":"processus complexe, embrouillamini, imbroglio"}
+{"L":"prosede legal","C":["n"],"da":"retsag","en":"legal process, trial, lawsuit","fr":"procès"}
+{"L":"prosedador","C":["n"],"en":"processor","fr":"processeur"}
+{"L":"prosederia","C":["n"],"en":"processing plant","fr":"usine de traitement"}
+{"L":"reprosede","C":["vt"],"en":"reprocess","fr":"recommencer l'opération"}
+{"L":"reprosede","C":["n"],"en":"reprocessing","fr":"recommencement de l'opération"}
+{"T":"r","L":"prosegue","C":["vnt"],"d":"move a ante en modo ordinada, tipal como parte de un rituo o festa","en":"proceed, process (move in procession)","fr":"faire une procession, défiler, faire un cortège"}
+{"L":"prosegue","C":["n"],"en":"procession","fr":"procession, défilé, cortège"}
+{"L":"prosegue funeral","C":["n"],"en":"funeral procession, cortège","fr":"cortège funèbre"}
+{"T":"r","L":"prosero","C":["n","anat","med"],"d":"un musculo de la fas, entre la oios","en":"procerus","fr":"muscle procerus, muscle pyramidal du nez"}
+{"T":"r","L":"prosima","C":["a"],"d":"a un distantia corta; a un tempo no distante en la futur; aprosima; (un ami) multe bon conoseda","da":"nær(t), tæt (på)","de":"nah, nahe","en":"near, nearby, proximal, close (including friend)","eo":"proksima","es":"cerca, proxima (en o a poca distancia)","fr":"proche, voisin, avoisinant, approximatif","it":"vicino","nl":"na","pt":"próximo, cerca"}
+{"L":"prosima","C":["av"],"en":"nearby, thereabouts, in the vicinity","fr":"à proximité, près, dans le voisinage, non loin, environ, approximativement"}
+{"L":"de prosima","C":["av"],"en":"from close up, point-blank","fr":"de près, de très près, à bout portant"}
+{"L":"prosimi","C":["vnt"],"en":"near, come near, approach","fr":"s'approcher, approcher, se rapprocher"}
+{"L":"prosimi","C":["vt"],"en":"bring nearer, cause to approach","fr":"rapprocher, resserrer"}
+{"L":"prosimi","C":["n"],"en":"approach (including to a problem)","fr":"approche"}
+{"L":"prosimi furtiva","C":["v"],"en":"sneak up, sidle up, approach stealthily","fr":"s'approcher sans se faire repérer, s'approcher furtivement, incognito"}
+{"L":"prosimia","C":["n"],"en":"proximity, nearness, closeness, contiguity","fr":"proximité, voisinage, contiguïté"}
+{"L":"prosiminte","C":["a"],"en":"impending, imminent, upcoming","fr":"imminent, qui se rapproche, qui est en train d'arriver, proche, prochain"}
+{"T":"r","L":"prosion","C":["n","mam"],"d":"un mamal grisin brun de America, con fas volpin con masca negra, e con coda anelosa, notada per sua tende de lava sua comedas entre sua du pedes anterior","i":"#","t":"Procyon lotor","en":"raccoon, racoon","fr":"raton laveur"}
+{"T":"r","L":"prostaglandina","C":["n","bio"],"d":"cada de un grupo de composadas de asidas grasosa con efetos ormonin, spesial la promove de contraes de la utero","en":"prostaglandin (biology)","fr":"prostaglandine"}
+{"T":"r","L":"prostata","C":["n","anat"],"d":"un glande sirca la colo de la vesica en mamales mas, cual relasa un licuida cual formi un parte de semin","en":"prostate","fr":"prostate"}
+{"T":"r","L":"prostese","C":["n","med"],"d":"un parte artifis de corpo, per esemplo un gama, braso, cor o seno","i":"#","en":"prosthesis, prosthetic","fr":"prothèse"}
+{"L":"prostese dental","C":["n"],"en":"dentures, false teeth","fr":"prothèse dentaire"}
+{"L":"prostesal","C":["a"],"en":"prosthetic","fr":"prothésique"}
+{"T":"r","L":"prostitui","C":["vt","uma"],"d":"ofre (algun) per ativia sesal paiada","en":"prostitute","fr":"prostituer"}
+{"L":"prostitui","C":["n"],"en":"prostitution","fr":"prostitution"}
+{"L":"fem prostituida","C":["n"],"en":"hooker, whore, harlot, streetwalker, strumpet, trollop","fr":"prostituée"}
+{"L":"prostituida","C":["n"],"en":"prostitute","fr":"prostituée, prostitué"}
+{"L":"prostituida pasada","C":["n"],"en":"reformed prostitute, magdalen","fr":"ancienne prostituée"}
+{"L":"prostituor","C":["n"],"d":"un person ci maneja prostituidas o trova clientes per los","en":"pimp","fr":"proxénète, entremetteur"}
+{"T":"r","L":"protactinio","C":["n","cim"],"d":"la elemento cimical con numero atomal 91, un metal radioativa","s":"Pa","en":"protactinium (element)","fr":"protactinium (élément)"}
+{"T":"r","L":"protagoniste","C":["n","arte"],"d":"la carater xef o un de la carateres major en un nara, tipal con bon intendes","en":"protagonist","fr":"protagoniste"}
+{"T":"r","L":"protea","C":["n","pla"],"d":"un arboreta perene con flores cono grande, ensircada par brateas briliante colorida, nativa de Africa sude","i":"#","t":"Protea","en":"protea (plant)","fr":"protée (plante)"}
+{"L":"protea jigante","C":["n","pla"],"t":"Protea cynaroides","en":"giant protea, king protea, king sugar bush, honeypot","fr":"protée royale"}
+{"T":"r","L":"protease","C":["n","bio","cim"],"d":"un enzima cual redui protenas e peptidos","en":"protease","fr":"protéase"}
+{"T":"r","L":"proteje","C":["vt","gov"],"d":"preveni la feri o dana de (un person o cosa)","da":"beskytte, forsvare","de":"schützen","en":"protect, defend, shield, shelter","eo":"protekti","es":"protejer, defender","fr":"protéger, défendre","it":"proteggere, difendere","nl":"beschermen","pt":"protejer, defender"}
+{"L":"proteje","C":["n"],"en":"protection, precaution, aegis","fr":"protection, défense"}
+{"L":"nonprotejeda","C":["a"],"en":"unprotected","fr":"sans protection"}
+{"L":"protejeda","C":["a"],"en":"protected, sheltered","fr":"protégé, défendu"}
+{"L":"protejeda","C":["n"],"en":"protectorate","fr":"protégé"}
+{"L":"protejente","C":["a"],"en":"protecting, protective","fr":"protecteur"}
+{"L":"protejisme","C":["n"],"en":"protectionism","fr":"protectionnisme"}
+{"L":"protejiste","C":["n"],"en":"protectionist","fr":"protectionniste"}
+{"L":"protejor","C":["n"],"en":"protector","fr":"protecteur"}
+{"L":"protejoria","C":["n"],"en":"protectorate","fr":"protectorat"}
 {"T":"r","L":"protele","C":["n","mam"],"d":"un mamal noturna de Africa, con bandas negra, en familia de iena, ci come xef termites","i":"#","t":"Proteles cristatus","en":"aardwolf (animal)"}
-{"T":"r","L":"protena","C":["n","cim","bio"],"d":"cada de un clase de composadas organica de un o plu cadenas longa de aminoasidas e cual es un parte esensal de tota organismes","en":"protein"}
-{"T":"r","L":"protende","C":["vnt","bio"],"d":"estende de un surfas","en":"protrude, project, extend, jut, stand out, stick out, bulge"}
-{"L":"protende","C":["vt"],"en":"protrude, project, extend, jut, stand out, stick out, bulge"}
-{"L":"protende","C":["n"],"en":"protrusion, protuberance, prominence, projection, appendage, bulge, nub; tenon (of dovetail joint); process (anatomy)"}
-{"L":"protendente","C":["a"],"en":"protruding, prominent"}
-{"T":"r","L":"proteom","C":["n","bio"],"d":"la colie completa de protenas cual pote es espresada par un jenom, selula, texeda o organisme","en":"proteome"}
-{"T":"r","L":"proteomica","C":["n","bio"],"d":"la studia de proteomes e sua funsionas","en":"proteomics"}
-{"T":"r","L":"protesta","C":["vt","gov"],"d":"espresa publica un oposa forte a (un politica de la autoriosas)","i":"#","en":"protest, object, demonstrate, picket; rail, fulminate","fr":"protester"}
-{"L":"protesta","C":["n"],"da":"protest","de":"Protest","en":"protest, protestation, objection, demonstration, demo (political)","eo":"protesto","es":"protesta, objeción","fr":"protestation; manifestation","it":"obiezione","nl":"protest","pt":"protesto, objeção"}
-{"L":"protesta par juna","C":["n"],"en":"hunger strike"}
-{"L":"protesta par senta","C":["n"],"en":"sit-in"}
-{"L":"protestante","C":["a"],"en":"protesting; protestant"}
-{"L":"protestante","C":["n"],"en":"protestant"}
-{"L":"protestantisme","C":["n"],"en":"protestantism"}
-{"L":"protestor","C":["n"],"en":"protester, picketer"}
-{"T":"r","L":"protista","C":["n","bio"],"d":"un rena de organismes cual composa la plu de organismes uniselulal","t":"Protista","en":"protist (organism)"}
-{"T":"r","L":"proto-","C":["pf","tecn"],"d":"prima, asendente","en":"proto- (first)"}
-{"T":"r","L":"protocol","C":["n","gov"],"d":"la prosedes o sistem de regulas ofisial","en":"protocol (rules)"}
-{"T":"r","L":"proton","C":["n","fis"],"d":"un particula suatomal stable cual esiste en tota nucleos atomal, con carga positiva egal a lo de la eletron ma con sinia oposante","en":"proton"}
-{"L":"antiproton","C":["n"],"en":"antiproton"}
-{"T":"r","L":"protoplasma","C":["n","bio"],"d":"la materia sin color cual formi la parte vivente de un selula, incluinte la sitoplasma, nucleo o otra organetas","en":"protoplasm (biology)"}
-{"T":"r","L":"protostomio","C":["n"],"d":"un membro de un clado de animales biladal, cual difere de la deuterostomios en la developa de la embrio","t":"Protostomia","en":"protostome (organism)"}
-{"T":"r","L":"prototipo","C":["n","util"],"d":"la model prima de un cosa, tipal un macina, de cual otra formas es developada o copiada; la esemplo la plu tipal de un clase de organismes, ojetos de astronomia, etc","en":"prototype"}
-{"L":"prototipal","C":["a"],"en":"prototypical, prototypal"}
-{"T":"r","L":"protozon","C":["n"],"d":"un animal pico e uniselulal de la rena protista","i":"#","t":"Protozoa","en":"protozoon (pl. protozoa), protozoan (organism)"}
-{"L":"antiprotozonal","C":["n","med"],"d":"un medisin per mata protozones","en":"antiprotozoal"}
-{"L":"protozonal","C":["a"],"en":"protozoic"}
-{"T":"r","L":"Provensa","C":["n","jeo"],"d":"un provinse pasada de Frans sude-este a la costa de la Mar Mediteraneo, a este de la Rio Ron","i":"#","en":"Provence (French region)"}
-{"L":"provensal","C":["a"],"en":"Provençal (person, language)"}
-{"L":"provensal","C":["n"],"en":"Provençal (person, language)"}
-{"T":"r","L":"proverbo","C":["n","arte"],"d":"un dise corta e consisa, jeneral usada, cual declara un vera jeneral o ofre consela","en":"proverb, adage"}
-{"L":"proverbal","C":["a"],"en":"proverbial"}
-{"T":"r","L":"provinse","C":["n","gov"],"d":"un parte major de alga nasiones o imperos","da":"provins, landsdel, delstat","de":"Provinz, Bundesstaat","en":"province, prefecture, state","eo":"provinco","es":"provincia, prefectura, estado","fr":"province","it":"provincia; stato; cantone; regione, provincia","nl":"provincie, prefectuur","pt":"estado, província"}
-{"L":"provinsal","C":["a"],"en":"provincial; unsophisticated"}
-{"L":"provinsalisme","C":["n"],"en":"provincialism"}
-{"T":"r","L":"provitamina","C":["n","bio"],"d":"un materia cual pote es convertida a un vitamina","en":"provitamin"}
-{"T":"r","L":"provoca","C":["vt","uma"],"d":"stimula (un reata o emosia, tipal forte o nonbonvenida) en algun, spesial coleria e atas de coleria","en":"provoke, instigate, foment, incite, stir up, prompt, engender"}
-{"L":"provoca","C":["n"],"en":"provocation, instigation"}
-{"L":"provocante","C":["a"],"en":"provoking, provocative"}
-{"L":"provocor","C":["n"],"en":"provocateur, instigator, agitator, enabler, mover"}
-{"L":"provocor de gera","C":["n"],"en":"warmonger"}
-{"T":"r","L":"provolone","C":["n","cos"],"d":"un ceso italian, mol e fumida","en":"provolone (cheese)"}
-{"T":"r","L":"proxi","C":["n","info"],"d":"un servador cual ata como un media per demandas de clientes ci xerca recursos de otra servadores","en":"proxy server (computer)"}
+{"T":"r","L":"protena","C":["n","cim","bio"],"d":"cada de un clase de composadas organica de un o plu cadenas longa de aminoasidas e cual es un parte esensal de tota organismes","en":"protein","fr":"protéine"}
+{"T":"r","L":"protende","C":["vnt","bio"],"d":"estende de un surfas","en":"protrude, project, extend, jut, stand out, stick out, bulge","fr":"faire saillie, sortir, dépasser, saillir, déborder"}
+{"L":"protende","C":["vt"],"en":"protrude, project, extend, jut, stand out, stick out, bulge","fr":"faire sortir, faire dépasser, faire déborder"}
+{"L":"protende","C":["n"],"en":"protrusion, protuberance, prominence, projection, appendage, bulge, nub; tenon (of dovetail joint); process (anatomy)","fr":"protubérance, saillie, proéminence, appendice, renflement, nœud; tenon"}
+{"L":"protendente","C":["a"],"en":"protruding, prominent","fr":"proéminent, faisant saillie, débordant"}
+{"T":"r","L":"proteom","C":["n","bio"],"d":"la colie completa de protenas cual pote es espresada par un jenom, selula, texeda o organisme","en":"proteome","fr":"protéome"}
+{"T":"r","L":"proteomica","C":["n","bio"],"d":"la studia de proteomes e sua funsionas","en":"proteomics","fr":"protéomique"}
+{"T":"r","L":"protesta","C":["vt","gov"],"d":"espresa publica un oposa forte a (un politica de la autoriosas)","i":"#","en":"protest, object, demonstrate, picket; rail, fulminate","fr":"protester, manifester, contester, objecter; pester, fulminer, récriminer, s'insurger"}
+{"L":"protesta","C":["n"],"da":"protest","de":"Protest","en":"protest, protestation, objection, demonstration, demo (political)","eo":"protesto","es":"protesta, objeción","fr":"protestation, contestation, objection, récrimination, insurrection, manifestation","it":"obiezione","nl":"protest","pt":"protesto, objeção"}
+{"L":"protesta par juna","C":["n"],"en":"hunger strike","fr":"grève de la faim"}
+{"L":"protesta par senta","C":["n"],"en":"sit-in","fr":"sit-in"}
+{"L":"protestante","C":["a"],"en":"protesting; protestant","fr":"protestant, contestant, manifestant; pestant, fulminant"}
+{"L":"protestante","C":["n"],"en":"protestant","fr":"protestant"}
+{"L":"protestantisme","C":["n"],"en":"protestantism","fr":"protestantisme"}
+{"L":"protestor","C":["n"],"en":"protester, picketer","fr":"contestateur, gréviste, manifestant"}
+{"T":"r","L":"protista","C":["n","bio"],"d":"un rena de organismes cual composa la plu de organismes uniselulal","t":"Protista","en":"protist (organism)","fr":"protiste (organisme)"}
+{"T":"r","L":"proto-","C":["pf","tecn"],"d":"prima, asendente","en":"proto- (first)","fr":"proto-"}
+{"T":"r","L":"protocol","C":["n","gov"],"d":"la prosedes o sistem de regulas ofisial","en":"protocol (rules)","fr":"protocole"}
+{"T":"r","L":"proton","C":["n","fis"],"d":"un particula suatomal stable cual esiste en tota nucleos atomal, con carga positiva egal a lo de la eletron ma con sinia oposante","en":"proton","fr":"proton"}
+{"L":"antiproton","C":["n"],"en":"antiproton","fr":"antiproton"}
+{"T":"r","L":"protoplasma","C":["n","bio"],"d":"la materia sin color cual formi la parte vivente de un selula, incluinte la sitoplasma, nucleo o otra organetas","en":"protoplasm (biology)","fr":"protoplasme"}
+{"T":"r","L":"protostomio","C":["n"],"d":"un membro de un clado de animales biladal, cual difere de la deuterostomios en la developa de la embrio","t":"Protostomia","en":"protostome (organism)","fr":"protostome (organisme)"}
+{"T":"r","L":"prototipo","C":["n","util"],"d":"la model prima de un cosa, tipal un macina, de cual otra formas es developada o copiada; la esemplo la plu tipal de un clase de organismes, ojetos de astronomia, etc","en":"prototype","fr":"prototype"}
+{"L":"prototipal","C":["a"],"en":"prototypical, prototypal","fr":"prototype, prototypique"}
+{"T":"r","L":"protozon","C":["n"],"d":"un animal pico e uniselulal de la rena protista","i":"#","t":"Protozoa","en":"protozoon (pl. protozoa), protozoan (organism)","fr":"protozoaire"}
+{"L":"antiprotozonal","C":["n","med"],"d":"un medisin per mata protozones","en":"antiprotozoal","fr":"antiprotozoaire"}
+{"L":"protozonal","C":["a"],"en":"protozoic","fr":"protozoïque"}
+{"T":"r","L":"Provensa","C":["n","jeo"],"d":"un provinse pasada de Frans sude-este a la costa de la Mar Mediteraneo, a este de la Rio Ron","i":"#","en":"Provence (French region)","fr":"Provence"}
+{"L":"provensal","C":["a"],"en":"Provençal (person, language)","fr":"provençal"}
+{"L":"provensal","C":["n"],"en":"Provençal (person, language)","fr":"Provençal (personne); provençal (langue)"}
+{"T":"r","L":"proverbo","C":["n","arte"],"d":"un dise corta e consisa, jeneral usada, cual declara un vera jeneral o ofre consela","en":"proverb, adage","fr":"proverbe, dicton, adage, maxime"}
+{"L":"proverbal","C":["a"],"en":"proverbial","fr":"proverbial"}
+{"T":"r","L":"provinse","C":["n","gov"],"d":"un parte major de alga nasiones o imperos","da":"provins, landsdel, delstat","de":"Provinz, Bundesstaat","en":"province, prefecture, state","eo":"provinco","es":"provincia, prefectura, estado","fr":"province, région, département","it":"provincia; stato; cantone; regione, provincia","nl":"provincie, prefectuur","pt":"estado, província"}
+{"L":"provinsal","C":["a"],"en":"provincial; unsophisticated","fr":"provincial, de la province"}
+{"L":"provinsalisme","C":["n"],"en":"provincialism","fr":"provincialisme"}
+{"T":"r","L":"provitamina","C":["n","bio"],"d":"un materia cual pote es convertida a un vitamina","en":"provitamin","fr":"provitamine"}
+{"T":"r","L":"provoca","C":["vt","uma"],"d":"stimula (un reata o emosia, tipal forte o nonbonvenida) en algun, spesial coleria e atas de coleria","en":"provoke, instigate, foment, incite, stir up, prompt, engender","fr":"provoquer, fomenter, inciter, engendrer"}
+{"L":"provoca","C":["n"],"en":"provocation, instigation","fr":"provocation, instigation, incitation"}
+{"L":"provocante","C":["a"],"en":"provoking, provocative","fr":"provocateur, instigateur, incitateur, fomentateur"}
+{"L":"provocor","C":["n"],"en":"provocateur, instigator, agitator, enabler, mover","fr":"provocateur, instigateur, agitateur"}
+{"L":"provocor de gera","C":["n"],"en":"warmonger","fr":"fauteur de guerre"}
+{"T":"r","L":"provolone","C":["n","cos"],"d":"un ceso italian, mol e fumida","en":"provolone (cheese)","fr":"provolone (fromage)"}
+{"T":"r","L":"proxi","C":["n","info"],"d":"un servador cual ata como un media per demandas de clientes ci xerca recursos de otra servadores","en":"proxy server (computer)","fr":"serveur proxi (informatique)"}
 {"T":"r","L":"pruno","C":["n","pla","cos"],"d":"un arbor caduca cual produi prunas","i":"#","t":"Prunus","en":"plum (tree)","es":"ciruelo","fr":"prunier","it":"prugno","pt":"ameixeira"}
-{"L":"pruna","C":["a","col"],"d":"con color rojin purpur","i":"#","en":"plum (color|ur)"}
+{"L":"pruna","C":["a","col"],"d":"con color rojin purpur","i":"#","en":"plum (color|ur)","fr":"prune (couleur)"}
 {"L":"pruna","C":["n"],"d":"un fruta oval e pulposa cual es purpur, rojin o jala cuando matur e conteni un seme platin e puntida","da":"blomme","de":"Pflaume","en":"plum (fruit)","eo":"pruno","es":"ciruela","fr":"prune","it":"prugna","nl":"pruim","pt":"ameixa"}
-{"L":"pruna seca","C":["n"],"en":"prune, dried plum"}
-{"T":"r","L":"pruri","C":["vnt","med"],"d":"ave o causa un sensa iritante a la pel, cual crea un desira de rasca","en":"itch"}
-{"L":"pruri","C":["n"],"en":"itch"}
-{"L":"prurinte","C":["a"],"en":"itchy"}
-{"T":"r","L":"Prusen","C":["n","jeo"],"d":"un rena pasada de Deutxland, orijinal un pais peti a la costa sude-este de la Mar Baltica","i":"#","en":"Prussia"}
-{"L":"prusen","C":["a"],"en":"Prussian"}
-{"L":"prusen","C":["n"],"en":"Prussian"}
-{"T":"r","L":"ps","C":["c"],"d":"pos scrive","en":"PS, postscript"}
-{"T":"r","L":"psefolojia","C":["n","gov"],"d":"la studia statistical de elejes e tendes de vota","en":"psephology"}
-{"L":"psefolojial","C":["a"],"en":"psephological"}
-{"L":"psefolojiste","C":["n"],"en":"psephologist"}
-{"T":"r","L":"pseudo-","C":["pf","tecn"],"d":"falsa, no real; semblante o imitante","en":"pseudo-"}
-{"T":"r","L":"pseudoistoria","C":["n","ist"],"d":"istoria falsa o usante metodos nonsiensal","en":"pseudohistory"}
-{"T":"r","L":"pseudopodo","C":["n","anat"],"d":"un protende tempora de la surfas de un selula amebin per move e come","en":"pseudopod, pseudopodium (pl. pseudopodia) (anatomy)"}
-{"T":"r","L":"psi","C":["n"],"d":"la letera 23 de la alfabeta elinica","s":"Ψ ψ","en":"psi (Greek letter)"}
-{"T":"r","L":"psice","C":["n","uma","mit"],"d":"la spirito o mente umana","en":"psyche, mind"}
-{"L":"psical","C":["a"],"en":"psychic (of the psyche)"}
-{"T":"r","L":"psiciatria","C":["n","uma"],"d":"la studia e trata de dementia, disturba de emosia, e condui nonormal, spesial par dotores medical","en":"psychiatry"}
-{"L":"psiciatrica","C":["a"],"en":"psychiatric, psychiatrical"}
-{"L":"psiciatriste","C":["n"],"en":"psychiatrist"}
-{"T":"r","L":"psicica","C":["a","mit"],"d":"pertinente a capasias o esperias cual no pare esplicable par leges natural, tipal los cual envolve telepatia o clarvide","en":"psychic (paranormal)"}
-{"T":"r","L":"psico-","C":["pf","tecn"],"d":"mente","en":"psycho-"}
-{"T":"r","L":"psicoanalesica","C":["a","uma"],"d":"pertinente a medisines cual stimula la mente","en":"psychoanaleptic"}
-{"L":"psicoanalesica","C":["n"],"en":"psychoanaleptic"}
-{"T":"r","L":"psicoanalise","C":["vt","uma"],"i":"#","en":"psychoanalyze|ys"}
-{"L":"psicoanalise","C":["n"],"d":"un sistem de teoria e terapia psicolojial cual intende trata disturbas mental par tira problemes nonconsensa a la mente consensa, orijinal fundida par Sigmund Freud","en":"psychoanalysis"}
-{"L":"psicoanalisal","C":["a"],"en":"psychoanalytic, psychoanalytical"}
-{"L":"psicoanaliste","C":["n"],"en":"psychoanalyst"}
-{"T":"r","L":"psicoativa","C":["a"],"d":"(un droga) afetante la mente","en":"psychoactive"}
-{"T":"r","L":"psicobiolojia","C":["n","bio"],"d":"la ramo de siensa cual studia la funda biolojial de condui e fenomenos mental","en":"psychobiology"}
-{"T":"r","L":"psicofarmacolojia","C":["n","med"],"d":"la ramo de siensa cual studia la efetos de drogas a la mente e la condui","en":"psychopharmacology"}
-{"L":"psicofarmacolojial","C":["a"],"en":"psychopharmacological"}
-{"L":"psicofarmacolojiste","C":["n"],"en":"psychopharmacologist"}
-{"T":"r","L":"psicojen","C":["a","uma"],"d":"con un orijina psicolojial, contrastante con causas fisical","en":"psychogenic (of psychological origin)"}
-{"T":"r","L":"psicolesica","C":["a","med"],"d":"pertinente a medisines cual calmi la mente","en":"psycholeptic (medical)"}
-{"T":"r","L":"psicolinguistica","C":["n","ling"],"d":"la studia de la funsiona de la mente en la persepi, produi e aprende de linguas","en":"psycholinguistics"}
-{"T":"r","L":"psicolojia","C":["n","uma"],"d":"la studia siensal de la mente umana e sua funsionas, spesial los cual afeta condui en un contesto spesifada","en":"psychology"}
-{"L":"psicolojial","C":["a"],"en":"psychological"}
-{"L":"psicolojisme","C":["n"],"d":"un tende de interprete avenis o razonas en modo tro psicolojial","en":"psychologism (philosophy)"}
-{"L":"psicolojiste","C":["n"],"en":"psychologist"}
-{"T":"r","L":"psicomotor","C":["a","uma"],"d":"pertinente a la orijina de move en la mente consensa","en":"psychomotor"}
-{"T":"r","L":"psicopatia","C":["n","uma"],"d":"un disturba mental cual inclui condui sosial nonormal, tendes combatosa, e la asentia parente de emosias como simpatia e culpablia","en":"psychopathy"}
-{"L":"psicopatica","C":["a"],"en":"psychopathic"}
-{"L":"psicopatica","C":["n"],"en":"psychopath"}
-{"T":"r","L":"psicopatolojia","C":["n","uma"],"d":"la studia siensal de disturbas mental","en":"psychopathology"}
-{"T":"r","L":"psicose","C":["n","uma"],"d":"un disturba mental grave en cual razona, persepis e emosias es desfisada de realia esterna","en":"psychosis"}
-{"L":"antipsicosica","C":["n","med"],"d":"un medisin per redui la sintomes de psicose","en":"antipsychotic"}
-{"L":"psicosica","C":["a"],"en":"psychotic"}
-{"T":"r","L":"psicosesal","C":["a"],"d":"pertinente a la aspetas psicolojial de la libido","en":"psychosexual"}
-{"T":"r","L":"psicosomatica","C":["a","med"],"d":"(un maladia fisical) causada o malida par fenomenos mental como stresa o desacorda interna","en":"psychosomatic"}
-{"T":"r","L":"psicososial","C":["a"],"d":"pertinente a la interata de roles sosial e la pensa e condui de un individua","en":"psychosocial"}
-{"T":"r","L":"psicoterapia","C":["n","uma"],"d":"la trata de disturbas mental par modos psicolojial en loca de modos medical","en":"psychotherapy"}
-{"L":"psicoterapiste","C":["n"],"en":"psychotherapist"}
-{"T":"r","L":"psicotropial","C":["a","med"],"d":"pertinente a medisines cual afeta la state mental de un person","en":"psychotropic"}
-{"T":"r","L":"psilosibina","C":["n","cim"],"d":"un alusinojen, estraeda de alga xampiniones","en":"psilocybin (drug)"}
-{"T":"r","L":"psoas","C":["n","anat","med"],"d":"cada de du musculos liante la lombo a la gama","en":"psoas (muscle)"}
-{"T":"r","L":"psoriase","C":["n","med"],"d":"un maladia de la pel, marcada par areas roja, scamosa e prurinte","en":"psoriasis (medical)"}
-{"T":"r","L":"ptero-","C":["pf","tecn"],"d":"con forma de ala, o pertinente a un ala","en":"ptero- (wing)"}
-{"T":"r","L":"pterodatilo","C":["n","dino"],"d":"un pterosauro de la tarda de la jurasica, con testa e colo longa e magra e coda multe corta","i":"#","t":"Pterodactylus","en":"pterodactyl"}
-{"T":"r","L":"pterosauro","C":["n","ret"],"d":"un retil estinguida con sangue calda e capas de vola, de la jurasica e cretasica, con alas membranosa suportada par un dito cuatro grande estendeda","t":"Pterosuria","en":"pterosaur"}
-{"T":"r","L":"Ptolemeo","C":["n"],"d":"un astronomiste elinica antica; cada re en un dinastia de Misre eliniste","en":"Ptolemy (astronomer, dynasty)"}
-{"L":"ptolemean","C":["a","ast","ist"],"d":"pertinente a Ptolemeo o a sua teorias; pertinente a la Ptolemeos de Misre antica","en":"Ptolemean, Ptolemaic"}
-{"T":"r","L":"pubica","C":["a","anat"],"d":"pertinente a la du osos cual formi la lados de la pelvis","en":"pubic"}
-{"L":"pubica","C":["n"],"en":"pubis"}
-{"L":"oso pubica","C":["n","anat"],"en":"pubic bone"}
-{"L":"pelo pubica","C":["n","anat"],"en":"pubic hair"}
-{"T":"r","L":"publica","C":["a","gov"],"d":"pertinente a la popla como un grupo intera; abrida a o compartida par tota persones de un rejion o pais; furnida par la governa e no par un compania autonom o comersial; envolveda en la ativias de la comunia, spesial en la governa; conoseda par multe persones, famosa; aveninte en la vide posible de cualcun, no privata","da":"offentlig","de":"öffentlich","en":"public","eo":"publika","es":"público","fr":"public","it":"pubblico","nl":"openbaar publiek, openbaar","pt":"público"}
-{"L":"autopublici","C":["vt"],"en":"self-publish"}
-{"L":"nonpublicida","C":["a"],"en":"unpublished"}
-{"L":"publici","C":["vnt"],"en":"be published, be released, be issued; air; drop (online)"}
+{"L":"pruna seca","C":["n"],"en":"prune, dried plum","fr":"pruneau"}
+{"T":"r","L":"pruri","C":["vnt","med"],"d":"ave o causa un sensa iritante a la pel, cual crea un desira de rasca","en":"itch","fr":"avoir une démangeaison"}
+{"L":"pruri","C":["n"],"en":"itch","fr":"démangeaison, picotement"}
+{"L":"prurinte","C":["a"],"en":"itchy","fr":"qui gratte, irritant, qui démange"}
+{"T":"r","L":"Prusen","C":["n","jeo"],"d":"un rena pasada de Deutxland, orijinal un pais peti a la costa sude-este de la Mar Baltica","i":"#","en":"Prussia","fr":"Prusse"}
+{"L":"prusen","C":["a"],"en":"Prussian","fr":"prussien"}
+{"L":"prusen","C":["n"],"en":"Prussian","fr":"Prussien"}
+{"T":"r","L":"ps","C":["c"],"d":"pos scrive","en":"PS, postscript","fr":"post-scriptum"}
+{"T":"r","L":"psefolojia","C":["n","gov"],"d":"la studia statistical de elejes e tendes de vota","en":"psephology","fr":"statistique électorale, analyse statistique des élections et des sondages, pséphologie, sondage d'opinion"}
+{"L":"psefolojial","C":["a"],"en":"psephological","fr":"pséphologique, qui étudie les élections et les sondages"}
+{"L":"psefolojiste","C":["n"],"en":"psephologist","fr":"pséphologue, membre d'un institut de sondages, sondeur"}
+{"T":"r","L":"pseudo-","C":["pf","tecn"],"d":"falsa, no real; semblante o imitante","en":"pseudo-","fr":"pseudo-"}
+{"T":"r","L":"pseudoistoria","C":["n","ist"],"d":"istoria falsa o usante metodos nonsiensal","en":"pseudohistory","fr":"pseudohistoire"}
+{"T":"r","L":"pseudopodo","C":["n","anat"],"d":"un protende tempora de la surfas de un selula amebin per move e come","en":"pseudopod, pseudopodium (pl. pseudopodia) (anatomy)","fr":"pseudopode"}
+{"T":"r","L":"psi","C":["n"],"d":"la letera 23 de la alfabeta elinica","s":"Ψ ψ","en":"psi (Greek letter)","fr":"psi (lettre grecque)"}
+{"T":"r","L":"psice","C":["n","uma","mit"],"d":"la spirito o mente umana","en":"psyche, mind","fr":"psyché"}
+{"L":"psical","C":["a"],"en":"psychic (of the psyche)","fr":"psychique, de la psyché"}
+{"T":"r","L":"psiciatria","C":["n","uma"],"d":"la studia e trata de dementia, disturba de emosia, e condui nonormal, spesial par dotores medical","en":"psychiatry","fr":"psychiatrie"}
+{"L":"psiciatrica","C":["a"],"en":"psychiatric, psychiatrical","fr":"psychiatrique"}
+{"L":"psiciatriste","C":["n"],"en":"psychiatrist","fr":"psychiatre"}
+{"T":"r","L":"psicica","C":["a","mit"],"d":"pertinente a capasias o esperias cual no pare esplicable par leges natural, tipal los cual envolve telepatia o clarvide","en":"psychic (paranormal)","fr":"parapsychique, paranormal"}
+{"T":"r","L":"psico-","C":["pf","tecn"],"d":"mente","en":"psycho-","fr":"psycho-"}
+{"T":"r","L":"psicoanalesica","C":["a","uma"],"d":"pertinente a medisines cual stimula la mente","en":"psychoanaleptic","fr":"psychoanaleptique"}
+{"L":"psicoanalesica","C":["n"],"en":"psychoanaleptic","fr":"psychoanaleptique"}
+{"T":"r","L":"psicoanalise","C":["vt","uma"],"i":"#","en":"psychoanalyze|ys","fr":"psychanalyser"}
+{"L":"psicoanalise","C":["n"],"d":"un sistem de teoria e terapia psicolojial cual intende trata disturbas mental par tira problemes nonconsensa a la mente consensa, orijinal fundida par Sigmund Freud","en":"psychoanalysis","fr":"psychanalyse"}
+{"L":"psicoanalisal","C":["a"],"en":"psychoanalytic, psychoanalytical","fr":"psychanalytique"}
+{"L":"psicoanaliste","C":["n"],"en":"psychoanalyst","fr":"psychanalyste"}
+{"T":"r","L":"psicoativa","C":["a"],"d":"(un droga) afetante la mente","en":"psychoactive","fr":"psychoactif, psychotrope"}
+{"T":"r","L":"psicobiolojia","C":["n","bio"],"d":"la ramo de siensa cual studia la funda biolojial de condui e fenomenos mental","en":"psychobiology","fr":"neurosciences cognitives"}
+{"T":"r","L":"psicofarmacolojia","C":["n","med"],"d":"la ramo de siensa cual studia la efetos de drogas a la mente e la condui","en":"psychopharmacology","fr":"psychopharmacologie"}
+{"L":"psicofarmacolojial","C":["a"],"en":"psychopharmacological","fr":"psychopharmacologique"}
+{"L":"psicofarmacolojiste","C":["n"],"en":"psychopharmacologist","fr":"psychopharmacologue"}
+{"T":"r","L":"psicojen","C":["a","uma"],"d":"con un orijina psicolojial, contrastante con causas fisical","en":"psychogenic (of psychological origin)","fr":"psychogène, d'origine psychique"}
+{"T":"r","L":"psicolesica","C":["a","med"],"d":"pertinente a medisines cual calmi la mente","en":"psycholeptic (medical)","fr":"psycholeptique"}
+{"T":"r","L":"psicolinguistica","C":["n","ling"],"d":"la studia de la funsiona de la mente en la persepi, produi e aprende de linguas","en":"psycholinguistics","fr":"psycholinguistique"}
+{"T":"r","L":"psicolojia","C":["n","uma"],"d":"la studia siensal de la mente umana e sua funsionas, spesial los cual afeta condui en un contesto spesifada","en":"psychology","fr":"psychologie"}
+{"L":"psicolojial","C":["a"],"en":"psychological","fr":"psychologique"}
+{"L":"psicolojisme","C":["n"],"d":"un tende de interprete avenis o razonas en modo tro psicolojial","en":"psychologism (philosophy)","fr":"psychologisme"}
+{"L":"psicolojiste","C":["n"],"en":"psychologist","fr":"psychologue"}
+{"T":"r","L":"psicomotor","C":["a","uma"],"d":"pertinente a la orijina de move en la mente consensa","en":"psychomotor","fr":"psychomoteur"}
+{"T":"r","L":"psicopatia","C":["n","uma"],"d":"un disturba mental cual inclui condui sosial nonormal, tendes combatosa, e la asentia parente de emosias como simpatia e culpablia","en":"psychopathy","fr":"psychopathie"}
+{"L":"psicopatica","C":["a"],"en":"psychopathic","fr":"psychopathique"}
+{"L":"psicopatica","C":["n"],"en":"psychopath","fr":"psychopathe"}
+{"T":"r","L":"psicopatolojia","C":["n","uma"],"d":"la studia siensal de disturbas mental","en":"psychopathology","fr":"psychopathologie"}
+{"T":"r","L":"psicose","C":["n","uma"],"d":"un disturba mental grave en cual razona, persepis e emosias es desfisada de realia esterna","en":"psychosis","fr":"psychose"}
+{"L":"antipsicosica","C":["n","med"],"d":"un medisin per redui la sintomes de psicose","en":"antipsychotic","fr":"antipsychotique"}
+{"L":"psicosica","C":["a"],"en":"psychotic","fr":"psychotique"}
+{"T":"r","L":"psicosesal","C":["a"],"d":"pertinente a la aspetas psicolojial de la libido","en":"psychosexual","fr":"psychosexuel"}
+{"T":"r","L":"psicosomatica","C":["a","med"],"d":"(un maladia fisical) causada o malida par fenomenos mental como stresa o desacorda interna","en":"psychosomatic","fr":"psychosomatique"}
+{"T":"r","L":"psicososial","C":["a"],"d":"pertinente a la interata de roles sosial e la pensa e condui de un individua","en":"psychosocial","fr":"psychosocial"}
+{"T":"r","L":"psicoterapia","C":["n","uma"],"d":"la trata de disturbas mental par modos psicolojial en loca de modos medical","en":"psychotherapy","fr":"psychothérapie"}
+{"L":"psicoterapiste","C":["n"],"en":"psychotherapist","fr":"psychothérapiste"}
+{"T":"r","L":"psicotropial","C":["a","med"],"d":"pertinente a medisines cual afeta la state mental de un person","en":"psychotropic","fr":"psychotrope"}
+{"T":"r","L":"psilosibina","C":["n","cim"],"d":"un alusinojen, estraeda de alga xampiniones","en":"psilocybin (drug)","fr":"psilocybine"}
+{"T":"r","L":"psoas","C":["n","anat","med"],"d":"cada de du musculos liante la lombo a la gama","en":"psoas (muscle)","fr":"psoas (muscle)"}
+{"T":"r","L":"psoriase","C":["n","med"],"d":"un maladia de la pel, marcada par areas roja, scamosa e prurinte","en":"psoriasis (medical)","fr":"psoriasis"}
+{"T":"r","L":"ptero-","C":["pf","tecn"],"d":"con forma de ala, o pertinente a un ala","en":"ptero- (wing)","fr":"ptéro-"}
+{"T":"r","L":"pterodatilo","C":["n","dino"],"d":"un pterosauro de la tarda de la jurasica, con testa e colo longa e magra e coda multe corta","i":"#","t":"Pterodactylus","en":"pterodactyl","fr":"ptérodactyle"}
+{"T":"r","L":"pterosauro","C":["n","ret"],"d":"un retil estinguida con sangue calda e capas de vola, de la jurasica e cretasica, con alas membranosa suportada par un dito cuatro grande estendeda","t":"Pterosuria","en":"pterosaur","fr":"ptérosaure"}
+{"T":"r","L":"Ptolemeo","C":["n"],"d":"un astronomiste elinica antica; cada re en un dinastia de Misre eliniste","en":"Ptolemy (astronomer, dynasty)","fr":"Ptolémée"}
+{"L":"ptolemean","C":["a","ast","ist"],"d":"pertinente a Ptolemeo o a sua teorias; pertinente a la Ptolemeos de Misre antica","en":"Ptolemean, Ptolemaic","fr":"ptoléméen, ptolémaïque"}
+{"T":"r","L":"pubica","C":["a","anat"],"d":"pertinente a la du osos cual formi la lados de la pelvis","en":"pubic","fr":"pubien"}
+{"L":"pubica","C":["n"],"en":"pubis","fr":"pubis"}
+{"L":"oso pubica","C":["n","anat"],"en":"pubic bone","fr":"pubis, os pubien"}
+{"L":"pelo pubica","C":["n","anat"],"en":"pubic hair","fr":"poil pubien"}
+{"T":"r","L":"publica","C":["a","gov"],"d":"pertinente a la popla como un grupo intera; abrida a o compartida par tota persones de un rejion o pais; furnida par la governa e no par un compania autonom o comersial; envolveda en la ativias de la comunia, spesial en la governa; conoseda par multe persones, famosa; aveninte en la vide posible de cualcun, no privata","da":"offentlig","de":"öffentlich","en":"public","eo":"publika","es":"público","fr":"public, commun, partagé","it":"pubblico","nl":"openbaar publiek, openbaar","pt":"público"}
+{"L":"autopublici","C":["vt"],"en":"self-publish","fr":"autopublier, autoéditer"}
+{"L":"nonpublicida","C":["a"],"en":"unpublished","fr":"autopublié, autoédité"}
+{"L":"publici","C":["vnt"],"en":"be published, be released, be issued; air; drop (online)","fr":"se faire publier, publier"}
 {"L":"publici","C":["vt"],"en":"publish, release, issue; air, broadcast; post (online)","es":"publicar","fr":"publier"}
-{"L":"publici","C":["n"],"en":"publication, release, edition, issue; posting","es":"publicación"}
-{"L":"publicia","C":["n"],"en":"publicness, publicity"}
-{"L":"publiciste","C":["n"],"en":"publicist"}
-{"L":"publicor","C":["n"],"en":"publisher"}
-{"L":"republici","C":["vt"],"en":"republish"}
-{"T":"r","L":"pueblo","C":["a"],"d":"pertinente a la poplas diversa de americanes orijinal de la SUA sude-ueste","en":"pueblo"}
-{"L":"pueblo","C":["n"],"d":"un comunia de americanes orijinal, tipal composada de casas multinivelal de adobe","en":"pueblo (Native American community)"}
-{"T":"r","L":"puia","C":["vt"],"d":"move o presa (un person o cosa), tipal con la manos; presa (un boton o simil) per sua efeto","ca":"empènyer","da":"fremdrive","de":"stoßen","en":"push (trolley, button)","eo":"puŝi","es":"empujar","fr":"pousser","ja":"押す","pt":"empurrar","ru":"давить, надавливать"}
-{"L":"puieta","C":["vt"],"en":"poke, nudge, jog, prod, prompt"}
-{"L":"puieta","C":["n"],"en":"poke, nudge, jog, prod, prompt"}
+{"L":"publici","C":["n"],"en":"publication, release, edition, issue; posting","es":"publicación","fr":"publication"}
+{"L":"publicia","C":["n"],"en":"publicness, publicity","fr":"publicité, fait de publier, fait d'être publié"}
+{"L":"publiciste","C":["n"],"en":"publicist","fr":"publiciste, publicitaire, agent, attaché de presse, chargé de communication"}
+{"L":"publicor","C":["n"],"en":"publisher","fr":"éditeur"}
+{"L":"republici","C":["vt"],"en":"republish","fr":"republier, rééditer"}
+{"T":"r","L":"pueblo","C":["a"],"d":"pertinente a la poplas diversa de americanes orijinal de la SUA sude-ueste","en":"pueblo","fr":"des peuples autochtones du sud-ouest des USA"}
+{"L":"pueblo","C":["n"],"d":"un comunia de americanes orijinal, tipal composada de casas multinivelal de adobe","en":"pueblo (Native American community)","fr":"pueblo (communauté autochtone des USA)"}
+{"T":"r","L":"puia","C":["vt"],"d":"move o presa (un person o cosa), tipal con la manos; presa (un boton o simil) per sua efeto","ca":"empènyer","da":"fremdrive","de":"stoßen","en":"push (trolley, button)","eo":"puŝi","es":"empujar","fr":"pousser, appuyer sur, presser, cliquer","ja":"押す","pt":"empurrar","ru":"давить, надавливать"}
+{"L":"puieta","C":["vt"],"en":"poke, nudge, jog, prod, prompt","fr":"donner une pichenette, donner une chiquenaude, tapoter, faire une petite tape"}
+{"L":"puieta","C":["n"],"en":"poke, nudge, jog, prod, prompt","fr":"pichenette, chiquenaude, tapotement, (petite) tape"}
 {"T":"r","L":"pulea","C":["n","util"],"d":"un rota con borda ranurida sirca cual un corda pasa, cual cambia la dirije de un fortia aplicada a la corda e es xef usada per leva cosas pesosa","i":"#","da":"remskive, trisse","de":"Rolle","en":"pulley","eo":"pulio","es":"polea, garrucha","fr":"poulie","it":"puleggia","nl":"katrol","pt":"polia"}
-{"T":"r","L":"pulga","C":["n","artr"],"d":"un inseto peti, sin alas e capas de salta, cual nuri se con la sangue de mamales e avias; (en un jua) un disco peti cual on atenta salta a un gol par presa sua bordas con un disco plu grande","i":"#","t":"Siphonaptera","en":"flea; tiddlywink"}
+{"T":"r","L":"pulga","C":["n","artr"],"d":"un inseto peti, sin alas e capas de salta, cual nuri se con la sangue de mamales e avias; (en un jua) un disco peti cual on atenta salta a un gol par presa sua bordas con un disco plu grande","i":"#","t":"Siphonaptera","en":"flea; tiddlywink","fr":"puce"}
 {"T":"r","L":"pulmon","C":["n","anat"],"d":"cada de un duple de organos situada en la caxa toraxal, composada de sacos flexable con pasajes raminte en cual aira es tirada afin osijen pote entra a la sangue e diosido de carbono pote sorti","i":"#","da":"lunge","de":"Lunge","en":"lung","eo":"pulmo","es":"pulmón","fr":"poumon","it":"polmone","nl":"long","pt":"pulmão"}
-{"L":"pulmonal","C":["a"],"en":"pulmonary"}
-{"T":"r","L":"pulpa","C":["n","cos"],"d":"un masa mol, moiada e sin forma; la parte mol de un fruta; un masa mol e moiada de fibres derivada de trapos o lenio, usada per fabrica paper; la texeda vascular cual pleni la caveta interna de un dente e sua canales de radis","en":"pulp (including dental), mush, pap, slop; flesh (fruit)"}
-{"L":"pulpi","C":["vnt"],"en":"pulp"}
-{"L":"pulpi","C":["vt"],"en":"pulp"}
-{"L":"pulposa","C":["a"],"en":"pulpy, fleshy (fruit)"}
-{"T":"r","L":"pulsa","C":["vnt","bio"],"d":"(arterias) palpita ritmosa cuando la sangue move tra los, en modo cual on senti en la polso o la colo; (sona, eletrica, lus o otra onda) vibra, o alterna rapida entre presentia e asentia; (musica o otra ritmo) vibra o palpita","en":"pulse, pulsate; beat (music); blink, flash (light)"}
-{"L":"pulsa","C":["n"],"en":"pulse, pulsation; beat (music)"}
-{"L":"pulsa asentuada","C":["n"],"en":"downbeat"}
-{"L":"pulsa inversada","C":["n"],"en":"backbeat"}
-{"L":"pulsante","C":["a"],"en":"pulsing, pulsating, vibrant"}
-{"T":"r","L":"pulsar","C":["n","ast"],"d":"un ojeto sielal, probable un stela neutronal rapida jirante, cual emete periodal ondas de radio o otra radia eletromagnetal a un frecuentia de asta mil pulsas per secondo","en":"pulsar (astronomy)"}
-{"T":"r","L":"pum","C":["n"],"d":"un sona forte e subita; (en bascetbal) un xuta en cual un juor puxa la bal tra la sesto","en":"bang, crash, thud, thump, pop (sound); slam dunk (basketball)"}
-{"L":"pum","C":["esc"],"en":"bang, crash, thud, thump, pop, wham, kaboom"}
-{"L":"pumi","C":["vnt"],"en":"bang, slam, clap, pop, thud; slam-dunk"}
-{"L":"pumi","C":["vt"],"en":"bang, slam, clap, pop, thud; slam-dunk"}
-{"T":"r","L":"puma","C":["n","mam"],"d":"un gato savaje grande, trovada de Canada asta Patagonia","i":"#","t":"Felis concolor","en":"puma, cougar, mountain lion, panther, catamount"}
-{"T":"r","L":"punc","C":["a","mus"],"d":"pertinente a un forma de musica forte, rapida e coleriosa, popular en la desenios de 1970 e 1980, o a la cultur de sua presentores e fanes","i":"#","en":"punk (music)"}
-{"L":"punc","C":["n"],"en":"punk, punk rock (music)"}
-{"L":"puncor","C":["n"],"en":"punk, punk rocker"}
-{"T":"r","L":"puni","C":["vt","gov"],"d":"forsa un resulta negativa a (algun) como venja per un ofende, tipal como parte de un codigo o norma legal o moral","da":"straffe","de":"strafen","en":"punish, penalize","eo":"puni","es":"castigar","fr":"punir","it":"punire","nl":"straffen","pt":"punir, castigar, admoestar"}
-{"L":"puni","C":["n"],"en":"punishment, penalty, sanction; penalty (football)"}
-{"L":"puni avertinte","C":["n"],"en":"exemplary punishment"}
-{"L":"puni de mori","C":["n"],"en":"death penalty, capital punishment"}
-{"L":"puni eterna","C":["n"],"en":"damnation, perdition"}
-{"L":"nonpunida","C":["a"],"en":"unpunished"}
-{"L":"punable","C":["a"],"en":"punishable"}
-{"L":"puninte","C":["a"],"en":"punishing, punitive"}
-{"T":"r","L":"punica","C":["a","dem","ist"],"d":"pertinente a Cartago antica","en":"Punic, Carthaginian"}
+{"L":"pulmonal","C":["a"],"en":"pulmonary","fr":"pulmonaire"}
+{"T":"r","L":"pulpa","C":["n","cos"],"d":"un masa mol, moiada e sin forma; la parte mol de un fruta; un masa mol e moiada de fibres derivada de trapos o lenio, usada per fabrica paper; la texeda vascular cual pleni la caveta interna de un dente e sua canales de radis","en":"pulp (including dental), mush, pap, slop; flesh (fruit)","fr":"pulpe, chair (d'un fruit)"}
+{"L":"pulpi","C":["vnt"],"en":"pulp","fr":"se réduire en pulpe"}
+{"L":"pulpi","C":["vt"],"en":"pulp","fr":"réduire pulpe"}
+{"L":"pulposa","C":["a"],"en":"pulpy, fleshy (fruit)","fr":"pulpeux, charnu (fruit)"}
+{"T":"r","L":"pulsa","C":["vnt","bio"],"d":"(arterias) palpita ritmosa cuando la sangue move tra los, en modo cual on senti en la polso o la colo; (sona, eletrica, lus o otra onda) vibra, o alterna rapida entre presentia e asentia; (musica o otra ritmo) vibra o palpita","en":"pulse, pulsate; beat (music); blink, flash (light)","fr":"pulser, faire une pulsation, scintiller, battre, alterner, palpiter"}
+{"L":"pulsa","C":["n"],"en":"pulse, pulsation; beat (music)","fr":"pulsation, battement, palpitation, scintillement; tempo, pulsation (musique)"}
+{"L":"pulsa asentuada","C":["n"],"en":"downbeat","fr":"temps fort"}
+{"L":"pulsa inversada","C":["n"],"en":"backbeat","fr":"contretemps"}
+{"L":"pulsante","C":["a"],"en":"pulsing, pulsating, vibrant","fr":"périodique, cadencé, en cadence, qui palpite, qui pulse, qui bat"}
+{"T":"r","L":"pulsar","C":["n","ast"],"d":"un ojeto sielal, probable un stela neutronal rapida jirante, cual emete periodal ondas de radio o otra radia eletromagnetal a un frecuentia de asta mil pulsas per secondo","en":"pulsar (astronomy)","fr":"pulsar"}
+{"T":"r","L":"pum","C":["n"],"d":"un sona forte e subita; (en bascetbal) un xuta en cual un juor puxa la bal tra la sesto","en":"bang, crash, thud, thump, pop (sound); slam dunk (basketball)","fr":"grand boum, détonation, explosion, déflagration"}
+{"L":"pum","C":["esc"],"en":"bang, crash, thud, thump, pop, wham, kaboom","fr":"crac, boum, pan, bing, bang"}
+{"L":"pumi","C":["vnt"],"en":"bang, slam, clap, pop, thud; slam-dunk","fr":"éclater, détoner, exploser, déflagrer, tonner"}
+{"L":"pumi","C":["vt"],"en":"bang, slam, clap, pop, thud; slam-dunk","fr":"faire éclater, faire exploser, faire tonner"}
+{"T":"r","L":"puma","C":["n","mam"],"d":"un gato savaje grande, trovada de Canada asta Patagonia","i":"#","t":"Felis concolor","en":"puma, cougar, mountain lion, panther, catamount","fr":"puma, cougar"}
+{"T":"r","L":"punc","C":["a","mus"],"d":"pertinente a un forma de musica forte, rapida e coleriosa, popular en la desenios de 1970 e 1980, o a la cultur de sua presentores e fanes","i":"#","en":"punk (music)","fr":"punk"}
+{"L":"punc","C":["n"],"en":"punk, punk rock (music)","fr":"punk, rock punk (musique)"}
+{"L":"puncor","C":["n"],"en":"punk, punk rocker","fr":"punk, rocker punk"}
+{"T":"r","L":"puni","C":["vt","gov"],"d":"forsa un resulta negativa a (algun) como venja per un ofende, tipal como parte de un codigo o norma legal o moral","da":"straffe","de":"strafen","en":"punish, penalize","eo":"puni","es":"castigar","fr":"punir, sanctionner, châtier, admonester, pénaliser, réprimer, corriger, sévir","it":"punire","nl":"straffen","pt":"punir, castigar, admoestar"}
+{"L":"puni","C":["n"],"en":"punishment, penalty, sanction; penalty (football)","fr":"punition, pénalité, sanction, peine; penalty (football)"}
+{"L":"puni avertinte","C":["n"],"en":"exemplary punishment","fr":"sanction pour l'exemple"}
+{"L":"puni de mori","C":["n"],"en":"death penalty, capital punishment","fr":"peine capitale"}
+{"L":"puni eterna","C":["n"],"en":"damnation, perdition","fr":"damnation"}
+{"L":"nonpunida","C":["a"],"en":"unpunished","fr":"non sanctionné, impuni"}
+{"L":"punable","C":["a"],"en":"punishable","fr":"sanctionnable, punissable, passible d'une peine"}
+{"L":"puninte","C":["a"],"en":"punishing, punitive","fr":"punitif, en sanction"}
+{"T":"r","L":"punica","C":["a","dem","ist"],"d":"pertinente a Cartago antica","en":"Punic, Carthaginian","fr":"punique, carthaginois"}
 {"T":"r","L":"punio","C":["n","anat"],"d":"la mano de un person cuando la ditos es curvida e tensada a la palma e forte tenida ala, tipal per colpa algun o teni alga cosa","i":"#","da":"næve","de":"Faust","en":"fist","eo":"pugno","es":"puño","fr":"poing","it":"pugno","nl":"vuist","pt":"punho"}
-{"L":"punio ferin","C":["n"],"en":"iron fist"}
-{"T":"r","L":"punta","C":["vnt"],"d":"(un arma o camera) es dirijeda a un ojeto","da":"sigte (pege mod noget)","de":"zielen","en":"point, be aimed","eo":"celi","es":"apuntar, asestar, dirigir, aspirar","fr":"viser, braquer, pointer","it":"puntare","nl":"mikken","pt":"apontar, aspirar"}
-{"L":"punta","C":["vt"],"en":"point, aim, bring to bear"}
-{"L":"punta","C":["n"],"en":"aim"}
-{"L":"malpunta","C":["vnt"],"en":"misaim"}
-{"L":"malpunta","C":["vt"],"en":"misaim"}
-{"T":"r","L":"puntilapis","C":["n","vn"],"d":"un aparato cual agi un lapis par jira lo contra un lama","en":"pencil sharpener"}
-{"T":"r","L":"punto","C":["n","util"],"d":"la fini agu de un util, arma o otra ojeto; un marca peti e ronda; un numero o detalia en un discute o lista; un unia de valua ganiable en la curso de un jua; un marca de puntua cual indica la fini de un frase completa; un anelo de filo resultante de un pasa de la ago en cose o tricota","en":"point, tip, dot, spot; vertex; item, entry; point (scoring); full stop, period; stitch (sewing)"}
-{"L":"punto atacable","C":["n"],"en":"vulnerability, weak point"}
-{"L":"punto cablin","C":["n"],"en":"cable stitch"}
-{"L":"punto calda","C":["n"],"en":"hotspot"}
-{"L":"punto crusada","C":["n"],"en":"cross-stitch"}
-{"L":"punto de cambia","C":["n"],"en":"turning point, watershed"}
-{"L":"punto de comensa","C":["n"],"en":"starting point"}
-{"L":"punto de controla","C":["n"],"en":"checkpoint"}
-{"L":"punto de dito","C":["n"],"en":"fingertip"}
-{"L":"punto de fini","C":["n"],"en":"endpoint"}
-{"L":"punto de jua","C":["n"],"en":"game point (tennis)"}
-{"L":"punto de max","C":["n"],"en":"match point (tennis)"}
-{"L":"punto de rompe","C":["n"],"en":"breaking point; break point (tennis)"}
-{"L":"punto de refere","C":["n"],"en":"point of reference, landmark"}
-{"L":"punto de vista","C":["n"],"en":"viewpoint, point of view, outlook, perspective"}
-{"L":"punto G","C":["n"],"en":"G-spot (anatomy)"}
-{"L":"punto longa","C":["n"],"en":"tack (stitch)"}
-{"L":"punto negra","C":["n"],"en":"blackhead, comedo (acne)"}
-{"L":"punto pedante","C":["n"],"en":"quibble"}
-{"L":"punto-virgula","C":["n","nn"],"en":"semicolon"}
-{"L":"a punto de","C":["prep"],"en":"on the point of, about to, just, just about to"}
-{"L":"de punto a punto","C":["a"],"en":"point-to-point, end-to-end"}
-{"L":"dupunto","C":["n"],"en":"colon"}
-{"L":"fa un punto","C":["v"],"en":"stitch"}
-{"L":"mediapunto","C":["n"],"en":"midpoint"}
-{"L":"punteta","C":["n"],"en":"freckle"}
-{"L":"punti","C":["vnt"],"en":"sharpen, make pointed"}
-{"L":"punti","C":["vt"],"en":"sharpen, make pointed"}
-{"L":"puntida","C":["a"],"en":"pointed, pointy, sharp"}
-{"L":"puntisme","C":["n"],"d":"un tecnica de depinta impresiste cual usa puntos peti de colores pur","i":"#","en":"pointillism (art)"}
-{"L":"puntiste","C":["n"],"en":"pointillist"}
-{"L":"punton","C":["n"],"en":"bullet, bullet point (typography)"}
-{"L":"puntos","C":["n","pl"],"da":"pointtal, scoring","de":"Punktzahl","en":"points, score, grade","eo":"poentaro","es":"cuenta, escor, puntuación, puntaje, calificación","fr":"points","it":"punteggio","nl":"score","pt":"escore, placar, resultado, pontuação, pontos"}
-{"L":"puntosa","C":["a"],"en":"dotted, spotty, spotted, speckled, spangled, studded, patterned with dots"}
-{"L":"trepunto","C":["n"],"en":"ellipsis, dot-dot-dot"}
-{"T":"r","L":"puntua","C":["vt","ling"],"d":"ajunta marcas como puntos, virgulas e brasetas a (un testo scriveda) per separa frases e sua partes e per clari sinifias","en":"punctuate","es":"puntuar"}
-{"L":"puntua","C":["n"],"en":"punctuation"}
-{"T":"r","L":"puntual","C":["a"],"d":"arivante o comensante a la tempo acordada","ca":"a temps, puntual(ment)","da":"rettidig","de":"pünktlich, zeitig","en":"punctual, prompt, on time, in time","eo":"akurata","es":"oportuno, pronto, puntual, listo, presto, a tiempo","fr":"à temps","gl":"oportuno, pronto, puntual, listo, presto, a tempo","ja":"ちょうど","pt":"na hora, em tempo, pontualmente","ru":"вовремя"}
-{"L":"puntualia","C":["n"],"en":"punctuality, promptness"}
-{"T":"r","L":"pupa","C":["n","util","bio"],"d":"un model peti de un umana, tipal usada como un jueta; un model de un person spesifada cual on dana o destrui per protesta o espresa coleria; un inseto en sua forma nonmatur e nonativa, entre larva e adulte","i":"#","da":"dukke","de":"Puppe","en":"doll, effigy; pupa (insect)","eo":"pupo","es":"muñeca, muñeco, muppet, mupet, monito, marioneta","fr":"poupée","it":"bambola","nl":"pop","pt":"boneca"}
-{"L":"pupa de palia","C":["n"],"en":"straw doll, corn dolly, corn mother"}
-{"L":"pupa de trapo","C":["n"],"i":"#","en":"rag doll"}
-{"L":"pupeta","C":["n"],"i":"#","en":"puppet"}
-{"L":"pupetia","C":["n"],"en":"puppetry"}
-{"L":"pupetin","C":["a"],"en":"puppetlike, dummy"}
-{"L":"pupetor","C":["n"],"en":"puppeteer"}
-{"L":"pupi","C":["vnt"],"en":"pupate"}
-{"L":"pupi","C":["n"],"en":"pupation"}
-{"T":"r","L":"pupil","C":["n","anat"],"d":"la abri sirculo e negra en la sentro de la iris de la oio, cual varia sua grandia per regula la cuantia de lus ateninte la retina","en":"pupil (eye)"}
-{"T":"r","L":"pur","C":["a","cim","uma"],"d":"no miscada con un otra materia; sin contamina; no plu ca spesifada; asteninte de ativia sesal","da":"ren (ægte)","de":"rein","en":"pure, mere; chaste, unadulterated, uncontaminated, pristine","eo":"pura","es":"puro, no adulterado, no contaminado, prístino","fr":"pur","it":"puro","nl":"zuiver","pt":"puro, perfeito, sem mácula, imaculado"}
-{"L":"pur","C":["av"],"en":"purely, merely"}
-{"L":"nonpur","C":["a"],"en":"impure, unclean"}
-{"L":"nonpuria","C":["n"],"en":"impurity"}
-{"L":"purador","C":["n"],"en":"purifier"}
-{"L":"puri","C":["vnt"],"en":"purify"}
-{"L":"puri","C":["vt"],"en":"purify"}
-{"L":"puri","C":["n"],"en":"purification"}
-{"L":"puria","C":["n"],"en":"cleanliness, purity"}
-{"L":"puria sesal","C":["n"],"en":"chastity"}
-{"L":"puriacua","C":["n"],"en":"water purifier"}
-{"L":"puriaira","C":["n"],"en":"air purifier"}
-{"L":"purisme","C":["n"],"d":"un adere osesente a regulas tradisional","en":"purism"}
-{"L":"puriste","C":["a"],"en":"puristic"}
-{"L":"puriste","C":["n"],"en":"purist"}
-{"T":"r","L":"purda","C":["n"],"d":"la costum en alga sosias muslim e indu de separa femes de omes e stranjeres, tipal par un cortina","en":"purdah (female seclusion)"}
-{"T":"r","L":"pure","C":["vt","cos"],"d":"produi un materia cremosa e lisa par crase, maxa o licuidi frutas o vejetales","en":"puree (cookery)"}
-{"L":"pure","C":["n"],"en":"puree (cookery)"}
-{"L":"pure de fruta","C":["n"],"i":"#","en":"smoothie"}
-{"L":"pure de poma","C":["n"],"en":"apple sauce, apple puree"}
-{"T":"r","L":"purga","C":["vt","uma"],"d":"elimina de (algun) emosias, memorias o states nondesirada; sutrae un grupo de persones videda como nondesirada de (un loca o organiza) en modo subita o violente","en":"purge"}
-{"L":"purga","C":["n"],"en":"purge"}
-{"L":"purga de emosias","C":["n"],"en":"catharsis"}
-{"L":"purgante","C":["a"],"en":"purging, cathartic"}
-{"T":"r","L":"purgatorio","C":["n","rel"],"d":"(en catolicisme) un loca o state de sufri abitada par la spiritos de pecores ci debe espia sua pecas ante entra a la sielo","en":"purgatory"}
-{"T":"r","L":"puritan","C":["a","rel"],"d":"parteninte a la grupo de protestantes engles de la sentenios 16 e 17 ci ia opina ce la reformi de la Eglesa de England su rea Elizabeth es noncompleta, e ia atenta simpli e regula la formas de adora","en":"Puritan"}
-{"L":"puritan","C":["n"],"en":"Puritan"}
-{"L":"puritanisme","C":["n"],"en":"Puritanism (Christianity)"}
+{"L":"punio ferin","C":["n"],"en":"iron fist","fr":"poignée de fer"}
+{"T":"r","L":"punta","C":["vnt"],"d":"(un arma o camera) es dirijeda a un ojeto","da":"sigte (pege mod noget)","de":"zielen","en":"point, be aimed","eo":"celi","es":"apuntar, asestar, dirigir, aspirar","fr":"avoir un but, avoir un objectif, être motivé","it":"puntare","nl":"mikken","pt":"apontar, aspirar"}
+{"L":"punta","C":["vt"],"en":"point, aim, bring to bear","fr":"viser, braquer, pointer, diriger, avoir pour objectif, avoir comme dessein"}
+{"L":"punta","C":["n"],"en":"aim","fr":"but, objectif, dessein"}
+{"L":"malpunta","C":["vnt"],"en":"misaim","fr":"avoir un mauvais but, se tromper de but"}
+{"L":"malpunta","C":["vt"],"en":"misaim","fr":"mauvais but, mauvais dessein"}
+{"T":"r","L":"puntilapis","C":["n","vn"],"d":"un aparato cual agi un lapis par jira lo contra un lama","en":"pencil sharpener","fr":"taille-crayon"}
+{"T":"r","L":"punto","C":["n","util"],"d":"la fini agu de un util, arma o otra ojeto; un marca peti e ronda; un numero o detalia en un discute o lista; un unia de valua ganiable en la curso de un jua; un marca de puntua cual indica la fini de un frase completa; un anelo de filo resultante de un pasa de la ago en cose o tricota","en":"point, tip, dot, spot; vertex; item, entry; point (scoring); full stop, period; stitch (sewing)","fr":"point, article, entrée, point final"}
+{"L":"punto atacable","C":["n"],"en":"vulnerability, weak point","fr":"point faible, talon d'Achille"}
+{"L":"punto cablin","C":["n"],"en":"cable stitch","fr":"point de torsade"}
+{"L":"punto calda","C":["n"],"en":"hotspot","fr":"haut lieu, zone sensible, point sensible"}
+{"L":"punto crusada","C":["n"],"en":"cross-stitch","fr":"point de croix"}
+{"L":"punto de cambia","C":["n"],"en":"turning point, watershed","fr":"tournant, ligne de partage des eaux"}
+{"L":"punto de comensa","C":["n"],"en":"starting point","fr":"point de départ"}
+{"L":"punto de controla","C":["n"],"en":"checkpoint","fr":"poste de contrôle"}
+{"L":"punto de dito","C":["n"],"en":"fingertip","fr":"bout des doigts"}
+{"L":"punto de fini","C":["n"],"en":"endpoint","fr":"point final, point d'arrivée"}
+{"L":"punto de jua","C":["n"],"en":"game point (tennis)","fr":"balle de jeu (tennis)"}
+{"L":"punto de max","C":["n"],"en":"match point (tennis)","fr":"balle de match (tennis)"}
+{"L":"punto de rompe","C":["n"],"en":"breaking point; break point (tennis)","fr":"point de rupture; balle de break"}
+{"L":"punto de refere","C":["n"],"en":"point of reference, landmark","fr":"repère"}
+{"L":"punto de vista","C":["n"],"en":"viewpoint, point of view, outlook, perspective","fr":"point de vue, belvédère, perspective, poste d'observation, table d'orientation"}
+{"L":"punto G","C":["n"],"en":"G-spot (anatomy)","fr":"point G"}
+{"L":"punto longa","C":["n"],"en":"tack (stitch)","fr":"faufilage"}
+{"L":"punto negra","C":["n"],"en":"blackhead, comedo (acne)","fr":"point noir, comédon"}
+{"L":"punto pedante","C":["n"],"en":"quibble","fr":"point de détail, chicanerie, chinoiserie, chipotage, chipoterie, pointille, pointillerie, ergotage"}
+{"L":"punto-virgula","C":["n","nn"],"en":"semicolon","fr":"point-virgule (typographie)"}
+{"L":"a punto de","C":["prep"],"en":"on the point of, about to, just, just about to","fr":"sur le point de"}
+{"L":"de punto a punto","C":["av"],"en":"point-to-point, end-to-end","fr":"point à point, de bout en bout"}
+{"L":"dupunto","C":["n"],"en":"colon","fr":"deux-points (typographie)"}
+{"L":"fa un punto","C":["v"],"en":"stitch","fr":"faire un point (couture)"}
+{"L":"mediapunto","C":["n"],"en":"midpoint","fr":"point médiant (typographie)"}
+{"L":"punteta","C":["n"],"en":"freckle","fr":"tache de rousseur"}
+{"L":"punti","C":["vnt"],"en":"sharpen, make pointed","fr":"s'appointer, s'appointir, être taillé en pointe, devenir pointu, s'aiguiser, s'affûter, s'affiler"}
+{"L":"punti","C":["vt"],"en":"sharpen, make pointed","fr":"appointer, tailler en pointe, rendre pointu, aiguiser, affûter, affiler"}
+{"L":"puntida","C":["a"],"en":"pointed, pointy, sharp","fr":"pointu, aigu, aiguisé, piquant, acéré"}
+{"L":"puntisme","C":["n"],"d":"un tecnica de depinta impresiste cual usa puntos peti de colores pur","i":"#","en":"pointillism (art)","fr":"pointillisme"}
+{"L":"puntiste","C":["n"],"en":"pointillist","fr":"pointilliste"}
+{"L":"punton","C":["n"],"en":"bullet, bullet point (typography)","fr":"puce (typographie)"}
+{"L":"puntos","C":["n","pl"],"da":"pointtal, scoring","de":"Punktzahl","en":"points, score, grade","eo":"poentaro","es":"cuenta, escor, puntuación, puntaje, calificación","fr":"points, score, classement","it":"punteggio","nl":"score","pt":"escore, placar, resultado, pontuação, pontos"}
+{"L":"puntosa","C":["a"],"en":"dotted, spotty, spotted, speckled, spangled, studded, patterned with dots","fr":"pointé"}
+{"L":"trepunto","C":["n"],"en":"ellipsis, dot-dot-dot","fr":"point de suspension"}
+{"T":"r","L":"puntua","C":["vt","ling"],"d":"ajunta marcas como puntos, virgulas e brasetas a (un testo scriveda) per separa frases e sua partes e per clari sinifias","en":"punctuate","es":"puntuar","fr":"ponctuer"}
+{"L":"puntua","C":["n"],"en":"punctuation","fr":"ponctuation"}
+{"T":"r","L":"puntual","C":["a"],"d":"arivante o comensante a la tempo acordada","ca":"a temps, puntual(ment)","da":"rettidig","de":"pünktlich, zeitig","en":"punctual, prompt, on time, in time","eo":"akurata","es":"oportuno, pronto, puntual, listo, presto, a tiempo","fr":"ponctuel, ponctuellement, à temps, à l'heure, avec exactitude","gl":"oportuno, pronto, puntual, listo, presto, a tempo","ja":"ちょうど","pt":"na hora, em tempo, pontualmente","ru":"вовремя"}
+{"L":"puntualia","C":["n"],"en":"punctuality, promptness","fr":"ponctualité, exactitude"}
+{"T":"r","L":"pupa","C":["n","util","bio"],"d":"un model peti de un umana, tipal usada como un jueta; un model de un person spesifada cual on dana o destrui per protesta o espresa coleria; un inseto en sua forma nonmatur e nonativa, entre larva e adulte","i":"#","da":"dukke","de":"Puppe","en":"doll, effigy; pupa (insect)","eo":"pupo","es":"muñeca, muñeco, muppet, mupet, monito, marioneta","fr":"poupée, effigie; nymphe (insecte)","it":"bambola","nl":"pop","pt":"boneca"}
+{"L":"pupa de palia","C":["n"],"en":"straw doll, corn dolly, corn mother","fr":"poupée de paille, poupée de son"}
+{"L":"pupa de trapo","C":["n"],"i":"#","en":"rag doll","fr":"poupée de chiffon"}
+{"L":"pupeta","C":["n"],"i":"#","en":"puppet","fr":"marionnette, pantin"}
+{"L":"pupetia","C":["n"],"en":"puppetry","fr":"art de la marionnette, art du marionnettiste"}
+{"L":"pupetin","C":["a"],"en":"puppetlike, dummy","fr":"semblable à une marionnette, semblable à un pantin"}
+{"L":"pupetor","C":["n"],"en":"puppeteer","fr":"marionnettiste"}
+{"L":"pupi","C":["vnt"],"en":"pupate","fr":"se nymphoser, devenir une nymphe (insecte), se métamorphoser (insecte), se chrysalider"}
+{"L":"pupi","C":["n"],"en":"pupation","fr":"nymphose, métamorphose (insecte)"}
+{"T":"r","L":"pupil","C":["n","anat"],"d":"la abri sirculo e negra en la sentro de la iris de la oio, cual varia sua grandia per regula la cuantia de lus ateninte la retina","en":"pupil (eye)","fr":"pupille (œil)"}
+{"T":"r","L":"pur","C":["a","cim","uma"],"d":"no miscada con un otra materia; sin contamina; no plu ca spesifada; asteninte de ativia sesal","da":"ren (ægte)","de":"rein","en":"pure, mere; chaste, unadulterated, uncontaminated, pristine","eo":"pura","es":"puro, no adulterado, no contaminado, prístino","fr":"pur, inaltéré, vierge, immaculé, intact, originel, d'origine, impeccable","it":"puro","nl":"zuiver","pt":"puro, perfeito, sem mácula, imaculado"}
+{"L":"pur","C":["av"],"en":"purely, merely","fr":"purement, simplement"}
+{"L":"nonpur","C":["a"],"en":"impure, unclean","fr":"impur, souillé, sale, malpropre"}
+{"L":"nonpuria","C":["n"],"en":"impurity","fr":"impureté"}
+{"L":"purador","C":["n"],"en":"purifier","fr":"purificateur"}
+{"L":"puri","C":["vnt"],"en":"purify","fr":"se purifier, s'assainir, s'épurer, se clarifier, se nettoyer, décanter"}
+{"L":"puri","C":["vt"],"en":"purify","fr":"purifier, assainir, épurer, clarifier, nettoyer"}
+{"L":"puri","C":["n"],"en":"purification","fr":"purification, assainissement, épuration, clarification, nettoyage"}
+{"L":"puria","C":["n"],"en":"cleanliness, purity","fr":"pureté, propreté"}
+{"L":"puria sesal","C":["n"],"en":"chastity","fr":"chasteté"}
+{"L":"puriacua","C":["n"],"en":"water purifier","fr":"purificateur d'eau"}
+{"L":"puriaira","C":["n"],"en":"air purifier","fr":"purificateur d'air"}
+{"L":"purisme","C":["n"],"d":"un adere osesente a regulas tradisional","en":"purism","fr":"purisme"}
+{"L":"puriste","C":["a"],"en":"puristic","fr":"puriste"}
+{"L":"puriste","C":["n"],"en":"purist","fr":"puriste"}
+{"T":"r","L":"purda","C":["n"],"d":"la costum en alga sosias muslim e indu de separa femes de omes e stranjeres, tipal par un cortina","en":"purdah (female seclusion)","fr":"purdah"}
+{"T":"r","L":"pure","C":["vt","cos"],"d":"produi un materia cremosa e lisa par crase, maxa o licuidi frutas o vejetales","en":"puree (cookery)","fr":"écraser en purée, faire une purée de (cuisine)"}
+{"L":"pure","C":["n"],"en":"puree (cookery)","fr":"purée"}
+{"L":"pure de fruta","C":["n"],"i":"#","en":"smoothie","fr":"smoothie, fruits mixés"}
+{"L":"pure de poma","C":["n"],"en":"apple sauce, apple puree","fr":"compote de pommes"}
+{"T":"r","L":"purga","C":["vt","uma"],"d":"elimina de (algun) emosias, memorias o states nondesirada; sutrae un grupo de persones videda como nondesirada de (un loca o organiza) en modo subita o violente","en":"purge","fr":"purger"}
+{"L":"purga","C":["n"],"en":"purge","fr":"purge"}
+{"L":"purga de emosias","C":["n"],"en":"catharsis","fr":"catharsis, thérapie d'extériorisation des traumatismes"}
+{"L":"purgante","C":["a"],"en":"purging, cathartic","fr":"purificateur, cathartique"}
+{"T":"r","L":"purgatorio","C":["n","rel"],"d":"(en catolicisme) un loca o state de sufri abitada par la spiritos de pecores ci debe espia sua pecas ante entra a la sielo","en":"purgatory","fr":"purgatoire"}
+{"T":"r","L":"puritan","C":["a","rel"],"d":"parteninte a la grupo de protestantes engles de la sentenios 16 e 17 ci ia opina ce la reformi de la Eglesa de England su rea Elizabeth es noncompleta, e ia atenta simpli e regula la formas de adora","en":"Puritan","fr":"puritain"}
+{"L":"puritan","C":["n"],"en":"Puritan","fr":"puritain"}
+{"L":"puritanisme","C":["n"],"en":"Puritanism (Christianity)","fr":"puritanisme"}
 {"T":"r","L":"purpur","C":["a","col"],"d":"con color entre roja e blu","i":"#","da":"purpur","de":"purpurrot","en":"purple, livid (color|ur)","eo":"purpura","es":"púrpura, morado","fr":"pourpre","it":"porpora (n)","nl":"paars, purper","pt":"púrpura"}
-{"L":"purpuri","C":["vnt"],"en":"turn purple, turn livid"}
-{"L":"purpuri","C":["vt"],"en":"turn purple, turn livid"}
-{"L":"purpuria","C":["n"],"en":"lividity"}
-{"L":"purpurin","C":["a"],"en":"purplish"}
-{"T":"r","L":"purpura","C":["n","med"],"d":"un malcolori roja o purpur de la pel cual no pali cuando presada","en":"purpura (medical)"}
-{"T":"r","L":"pus","C":["n","med"],"d":"un licuida densa e jalin o verdin, produida en texeda infetada, composada de selulas blanca mor, baterias e otra materias","en":"pus (substance)"}
-{"L":"pusosa","C":["a"],"en":"purulent"}
-{"T":"r","L":"pustula","C":["n","med"],"d":"un bula peti sur la pel cual conteni pus","en":"pustule, pimple, spot, zit"}
-{"T":"r","L":"puta","C":["n","uma"],"d":"(ofendente) un prostituida o otra fem regardada como promiscua o nonplasente","en":"(insult) whore, slut, bitch, bastard, harlot, strumpet, trollop"}
-{"L":"putin","C":["a"],"en":"whorish"}
-{"L":"puto","C":["n"],"d":"(ofendente) un prostituida o otra om videda como promiscua o nonplasente","en":"(insult) sod, bastard, manwhore"}
-{"T":"r","L":"putong","C":["a","ling"],"d":"la forma normal de xines moderna, fundida sur la dialeto de Beijing","en":"Putonghua, Mandarin Chinese (language)"}
-{"L":"putong","C":["n"],"en":"Putonghua, Mandarin Chinese (language)"}
-{"T":"r","L":"putri","C":["vnt","bio"],"d":"(materia organica) descomposa par la ativia de bateria e fungos","da":"rådne","de":"verfaulen, vermodern","en":"rot, decay, addle, fester, putrefy","eo":"putriĝi","es":"pudrirse, corromperse, decaer, podrirse","fr":"pourrir","it":"marcire","nl":"rotten, vergaan, bederven","pt":"apodrecer, estragarse, deteriorarse"}
-{"L":"putri","C":["n"],"en":"rot, decay, putrefaction"}
-{"L":"nonputrable","C":["a"],"en":"imperishable, non-perishable"}
-{"L":"putrable","C":["a"],"en":"perishable"}
-{"L":"putrida","C":["a"],"en":"putrid, rotten, decayed, rancid"}
-{"L":"putrida","C":["n"],"en":"rotten matter"}
-{"T":"r","L":"puxa","C":["vt"],"d":"puia (un person o cosa) en modo bruta e noncurante","en":"shove, ram, thrust, sweep, jostle, manhandle","fr":"enfoncer, bousculer"}
-{"L":"puxa","C":["n"],"en":"shove, thrust"}
-{"L":"puxador","C":["n"],"en":"thruster"}
-{"T":"r","L":"puzel","C":["n","spo"],"d":"un pasatempo composada de un imaje primida sur carton o lenio e taliada en pesos de formas diversa cual on debe reasembla","i":"#","en":"jigsaw puzzle","es":"rompecabezas"}
-{"T":"r","L":"q","C":["sim"],"d":"la letera 17 de la alfabeta roman","p":"qua","en":"q","es":"q"}
-{"T":"r","L":"Qahira","C":["n","jeo"],"d":"la site capital de Misre","en":"Cairo","es":"Cairo"}
+{"L":"purpuri","C":["vnt"],"en":"turn purple, turn livid","fr":"s'empourprer"}
+{"L":"purpuri","C":["vt"],"en":"turn purple, turn livid","fr":"empourprer"}
+{"L":"purpuria","C":["n"],"en":"lividity","fr":"pourpre (qualité)"}
+{"L":"purpurin","C":["a"],"en":"purplish","fr":"pourpré, violacé, violet, violine"}
+{"T":"r","L":"purpura","C":["n","med"],"d":"un malcolori roja o purpur de la pel cual no pali cuando presada","en":"purpura (medical)","fr":"purpura (médecine)"}
+{"T":"r","L":"pus","C":["n","med"],"d":"un licuida densa e jalin o verdin, produida en texeda infetada, composada de selulas blanca mor, baterias e otra materias","en":"pus (substance)","fr":"pus (substance)"}
+{"L":"pusosa","C":["a"],"en":"purulent","fr":"purulent"}
+{"T":"r","L":"pustula","C":["n","med"],"d":"un bula peti sur la pel cual conteni pus","en":"pustule, pimple, spot, zit","fr":"pustule, bouton"}
+{"T":"r","L":"puta","C":["n","uma"],"d":"(ofendente) un prostituida o otra fem regardada como promiscua o nonplasente","en":"(insult) whore, slut, bitch, bastard, harlot, strumpet, trollop","fr":"pute, putain"}
+{"L":"putin","C":["a"],"en":"whorish","fr":"semblable à une pute, semblable à une putain"}
+{"L":"puto","C":["n"],"d":"(ofendente) un prostituida o otra om videda como promiscua o nonplasente","en":"(insult) sod, bastard, manwhore","fr":"trou du cul, couillon, con, connard, ordure, salopard"}
+{"T":"r","L":"putong","C":["a","ling"],"d":"la forma normal de xines moderna, fundida sur la dialeto de Beijing","en":"Putonghua, Mandarin Chinese (language)","fr":"mandarin (langue)"}
+{"L":"putong","C":["n"],"en":"Putonghua, Mandarin Chinese (language)","fr":"mandarin (langue)"}
+{"T":"r","L":"putri","C":["vnt","bio"],"d":"(materia organica) descomposa par la ativia de bateria e fungos","da":"rådne","de":"verfaulen, vermodern","en":"rot, decay, addle, fester, putrefy","eo":"putriĝi","es":"pudrirse, corromperse, decaer, podrirse","fr":"pourrir, se putréfier, se décomposer","it":"marcire","nl":"rotten, vergaan, bederven","pt":"apodrecer, estragarse, deteriorarse"}
+{"L":"putri","C":["n"],"en":"rot, decay, putrefaction","fr":"putréfaction, décomposition"}
+{"L":"nonputrable","C":["a"],"en":"imperishable, non-perishable","fr":"imputrescible, inaltérable, incorruptible"}
+{"L":"putrable","C":["a"],"en":"perishable","fr":"putrescible, décomposable, compostable"}
+{"L":"putrida","C":["a"],"en":"putrid, rotten, decayed, rancid","fr":"pourri, décomposé"}
+{"L":"putrida","C":["n"],"en":"rotten matter","fr":"pourriture"}
+{"T":"r","L":"puxa","C":["vt"],"d":"puia (un person o cosa) en modo bruta e noncurante","en":"shove, ram, thrust, sweep, jostle, manhandle","fr":"bousculer, enfoncer, pousser (pour avancer), renverser, heurter"}
+{"L":"puxa","C":["n"],"en":"shove, thrust","fr":"bousculade"}
+{"L":"puxador","C":["n"],"en":"thruster","fr":"propulseur"}
+{"T":"r","L":"puzel","C":["n","spo"],"d":"un pasatempo composada de un imaje primida sur carton o lenio e taliada en pesos de formas diversa cual on debe reasembla","i":"#","en":"jigsaw puzzle","es":"rompecabezas","fr":"puzzle, casse-tête"}
+{"T":"r","L":"q","C":["sim"],"d":"la letera 17 de la alfabeta roman","p":"qua","en":"q","es":"q","fr":"q (lettre de l'alphabet)"}
+{"T":"r","L":"Qahira","C":["n","jeo"],"d":"la site capital de Misre","en":"Cairo","es":"Cairo","fr":"Le Caire"}
 {"T":"r","L":"Quebec","C":["n","jeo"],"d":"un provinse de Canada este, bordante la Golfo San Laurent e la Baia Hudson","i":"#","p":"cebec","en":"Quebec (Canadian province)","es":"Quebec","fr":"Québec"}
-{"L":"quebecan","C":["a"],"en":"Quebecois","es":"quebequés, quebequense"}
-{"L":"quebecan","C":["n","dem"],"en":"Quebecois","es":"quebequés, quebequense"}
+{"L":"quebecan","C":["a"],"en":"Quebecois","es":"quebequés, quebequense","fr":"québécois"}
+{"L":"quebecan","C":["n","dem"],"en":"Quebecois","es":"quebequés, quebequense","fr":"Québécois"}
 {"T":"r","L":"r","C":["sim"],"d":"la letera 18 de la alfabeta roman","p":"er","en":"r"}
 {"T":"r","L":"rabano","C":["n","pla","cos"],"d":"un radis comable, spesial un varia peti, sferin e roja; la planta en familia de col cual produi esta","i":"#","t":"Raphanus sativus","en":"radish (plant, root)","es":"rábano","fr":"radis"}
 {"L":"rabano blanca","C":["n","pla"],"d":"un rabano con radis grande, magra e blanca, tipal coceda en cosini asian, o usada per nuri bestias","i":"#","en":"daikon, mooli","es":"rábano blanco","fr":"radis blanc"}
