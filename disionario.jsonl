@@ -4375,22 +4375,22 @@
 {"L":"camusin","C":["a"],"en":"chamois-like","fr":"semblable à un chamois, chamoisé","he":"דמוי-עור צפיר"}
 {"L":"camusin","C":["n"],"en":"moleskin","fr":"chamoisine, moleskine","he":"סוג בד כותנה"}
 {"T":"r","L":"can","C":["n","mam"],"d":"un mamal carnivor domada, tipal con beco longa e ole eselente, usada per labora, sportes o como animal de casa","i":"#","t":"Canis familiaris","da":"hund","de":"Hund","en":"dog, pooch, mutt","es":"perro","fr":"chien","gl":"can","he":"כלב","it":"cane"}
-{"L":"can coleriosa","C":["n"],"en":"cur","fr":"cabot, chien agressif","he":"כלב אכזרי"}
-{"L":"can detetante","C":["n"],"en":"detection dog, sniffer dog","fr":"limier, chien renifleur"}
-{"L":"can de pastor","C":["n"],"i":"#","en":"sheepdog","fr":"chien de berger","he":"כלב רועים"}
-{"L":"can de pastor deutx","C":["n"],"i":"#","en":"German shepherd dog, Alsatian","fr":"berger allemand","he":"רועה גרמני (כלב)"}
-{"L":"can de pastor scotes","C":["n"],"en":"collie","fr":"colley, berger écossais","he":"קולי (כלב)"}
-{"L":"can-de-prado","C":["n","mam"],"d":"un scural sosial ci vive en tuneles juntada cual pote estende tra un area grande, abitante la savana de America Norde","i":"#","t":"Cynomys","en":"prairie dog (rodent)","fr":"chien de prairie (rongeur)","he":"נובחנית (מכרסם)"}
-{"L":"Can Grande","C":["n","ast"],"en":"Canis Major (constellation)","fr":"le Grand Chien (constellation)","he":"כלב גדול (קבוצת כוכבים)"}
-{"L":"can misera","C":["n"],"en":"cur","fr":"cabot, clébard","he":"כלב מסכן"}
-{"L":"Can Peti","C":["n","ast"],"en":"Canis Minor (constellation)","fr":"le Petit Chien (constellation)","he":"כלב קטן (קבוצת כוכבים)"}
-{"L":"can regalada","C":["n"],"en":"lapdog (dog, person)","fr":"toutou, petit chien (chien, personne)","he":"כלב קטן; אדם כנוע"}
-{"L":"caneria","C":["n"],"en":"kennel, doghouse","fr":"chenil","he":"כלביה; מלונה"}
-{"L":"Canes de Xasa","C":["n","pl","ast"],"en":"Canes Venatici (constellation)","fr":"les Chiens de chasse (constellation)","he":"כלבי ציד (קבוצת כוכבים)"}
-{"L":"caneta","C":["n"],"en":"puppy, pup, doggie, whelp","fr":"chiot, petit chien","he":"גור כלבים, כלבלב"}
-{"L":"canin","C":["a"],"en":"canine, doglike","fr":"canin, semblable à un chien","he":"כלבי"}
-{"T":"r","L":"cana","C":["n","pla"],"d":"un planta alta con folias magra en familia de erba, cual abita acua o pantanes; la tronceta vacua e juntada de esta o un planta simil; un palo simil, usada per pexa, orijinal fabricada de cana","i":"#","t":"Phragmites, Arundo {e multe otra jeneros","en":"reed, cane; rod (fishing)","fr":"roseau, canne (à pêche)","he":"קנה (צמח); חכה"}
-{"L":"cana de zucar","C":["n","pla"],"t":"Saccharum","en":"sugarcane","fr":"canne à sucre","he":"קנה סוכר"}
+{"L":"can coleriosa","C":["n"],"de":"Köter, aggressiver Hund","en":"cur","fr":"cabot, chien agressif","he":"כלב אכזרי"}
+{"L":"can detetante","C":["n"],"de":"Spürhund","en":"detection dog, sniffer dog","fr":"limier, chien renifleur"}
+{"L":"can de pastor","C":["n"],"i":"#","de":"Schäferhund","en":"sheepdog, sheep dog","fr":"chien de berger","he":"כלב רועים"}
+{"L":"can de pastor deutx","C":["n"],"i":"#","de":"deutscher Schäferhund","en":"German shepherd dog, Alsatian","fr":"berger allemand","he":"רועה גרמני (כלב)"}
+{"L":"can de pastor scotes","C":["n"],"de":"Collie","en":"collie","fr":"colley, berger écossais","he":"קולי (כלב)"}
+{"L":"can-de-prado","C":["n","mam"],"d":"un scural sosial ci vive en tuneles juntada cual pote estende tra un area grande, abitante la savana de America Norde","i":"#","t":"Cynomys","de":"Präriehund (Nagetier)","en":"prairie dog (rodent)","fr":"chien de prairie (rongeur)","he":"נובחנית (מכרסם)"}
+{"L":"Can Grande","C":["n","ast"],"de":"Großer Hund, Canis Major (Sternbild)","en":"Canis Major (constellation)","fr":"le Grand Chien (constellation)","he":"כלב גדול (קבוצת כוכבים)"}
+{"L":"can misera","C":["n"],"de":"Köter","en":"cur","fr":"cabot, clébard","he":"כלב מסכן"}
+{"L":"Can Peti","C":["n","ast"],"de":"Kleiner Hund, Canis Minor (Sternbild)","en":"Canis Minor (constellation)","fr":"le Petit Chien (constellation)","he":"כלב קטן (קבוצת כוכבים)"}
+{"L":"can regalada","C":["n"],"de":"Schoßhund, Schoßhündchen (Hund, Person)","en":"lapdog (dog, person)","fr":"toutou, petit chien (chien, personne)","he":"כלב קטן; אדם כנוע"}
+{"L":"caneria","C":["n"],"de":"Hundehütte, Hundezwinger","en":"kennel, doghouse","fr":"chenil","he":"כלביה; מלונה"}
+{"L":"Canes de Xasa","C":["n","pl","ast"],"de":"Jagdhunde, Canes Venatici (Sternbild)","en":"Canes Venatici (constellation)","fr":"les Chiens de chasse (constellation)","he":"כלבי ציד (קבוצת כוכבים)"}
+{"L":"caneta","C":["n"],"de":"Welpe, junger Hund, Hündchen","en":"puppy, pup, doggie, whelp","fr":"chiot, petit chien","he":"גור כלבים, כלבלב"}
+{"L":"canin","C":["a"],"de":"hundeähnlich, hündisch","en":"canine, doglike","fr":"canin, semblable à un chien","he":"כלבי"}
+{"T":"r","L":"cana","C":["n","pla"],"d":"un planta alta con folias magra en familia de erba, cual abita acua o pantanes; la tronceta vacua e juntada de esta o un planta simil; un palo simil, usada per pexa, orijinal fabricada de cana","i":"#","t":"Phragmites, Arundo {e multe otra jeneros","de":"Schilf, Schilfrohr, Pfahlrohr, Ried (Pflanzen); Angel, Angelrute","en":"reed, cane; rod (fishing)","fr":"roseau, canne (à pêche)","he":"קנה (צמח); חכה"}
+{"L":"cana de zucar","C":["n","pla"],"t":"Saccharum","de":"Zuckerrohr","en":"sugarcane","fr":"canne à sucre","he":"קנה סוכר"}
 {"T":"r","L":"canaba","C":["n","pla"],"d":"un planta alta con tronceta rijida e vertical e folias divideda e sierin; la fibre de esta, usada per fabrica cordas e stofas; un prepara secida de la flores o otra partes de esta planta, o un estraeda resinosa de esta, usada como un droga","i":"#","t":"Cannabis sativa","da":"hamp, canabis","de":"Hanf","en":"hemp, cannabis, marihuana, marijuana, pot (plant, material, drug)","es":"cáñamo, mariguana, canabis, sisal","fr":"chanvre, cannabis, marijuana","gl":"marihuana","he":"קנאביס (צמח); מריחואנה, גראס"}
 {"L":"canabor","C":["n"],"en":"cannabis user, pothead, stoner","fr":"consommateur de cannabis","he":"מעשן גראס, \"סטלן\""}
 {"T":"r","L":"canabinoide","C":["n","med"],"d":"cada de un grupo de composadas cual inclui la ingrediente ativa de canaba, usada como un medisin o un droga recreal","en":"cannabinoid (drug)","fr":"cannabinoïde (drogue)","he":"קנאבינואיד"}
@@ -6454,7 +6454,7 @@
 {"L":"controlador de primador","C":["n"],"en":"printer driver","fr":"pilote d'imprimante","he":"מנהל התקן למדפסת"}
 {"L":"controlante","C":["a"],"en":"controlling, in charge","fr":"en cours de contrôle","he":"שולט, קובע"}
 {"L":"controleria","C":["n"],"en":"control room","fr":"salle de contrôle","he":"חדר שליטה"}
-{"L":"controlor","C":["n"],"en":"controller (person)","fr":"contrôleur (personne)","he":"מבקר, מפקח, אחראי"}
+{"L":"controlor","C":["n"],"en":"controller, handler (person)","fr":"contrôleur (personne)","he":"מבקר, מפקח, אחראי"}
 {"L":"noncontrolable","C":["a"],"en":"uncontrollable, intractable; berserk, haywire, runaway, out of control","fr":"incontrôlable, ingérable, hors de contrôle","he":"בלתי נשלט"}
 {"L":"noncontrolada","C":["a"],"en":"uncontrolled","fr":"incontrôlé","he":"לא בפיקוח, לא מבוקר"}
 {"L":"prende controla de","C":["v"],"en":"take control of, take over, occupy","fr":"prendre le contrôle de, reprendre, occuper"}
@@ -9936,8 +9936,8 @@
 {"L":"eritada","C":["a"],"en":"inherited","fr":"hérité","he":"ירש"}
 {"L":"eritada de familia","C":["n"],"en":"heirloom","fr":"héritage","he":"ירושה (חפץ או נכס)"}
 {"L":"erital","C":["a"],"en":"hereditary","fr":"héréditaire","he":"שקשור לירושה; תורשתי"}
-{"L":"eritisme","C":["n"],"d":"la teoria ce la majoria de la cualias de viventes, spesial de umanas, es eritada","en":"inheritism","fr":"innéisme"}
-{"L":"eritiste","C":["n"],"en":"inheritist","fr":"innéiste"}
+{"L":"eritisme","C":["n"],"d":"la teoria ce la majoria de la cualias de viventes, spesial de umanas, es eritada","en":"hereditarianism","fr":"innéisme"}
+{"L":"eritiste","C":["n"],"en":"hereditarian","fr":"innéiste"}
 {"L":"eritor","C":["n"],"en":"heir, heiress, heritor, heritrix, scion","fr":"héritier"}
 {"L":"eritor legal","C":["n"],"en":"heir apparent","fr":"héritier légal"}
 {"T":"r","L":"eritema","C":["n","med"],"d":"un roji de la pel, tipal a multe areas peti, causada par un feri o irita cual ia dilata la capilares","en":"erythema (medical)","fr":"érythème (médecine)"}
@@ -14340,18 +14340,18 @@
 {"L":"jornaliste","C":["a"],"de":"journalistisch","en":"journalistic","fr":"journalistique, éditorial"}
 {"L":"jornaliste","C":["n"],"de":"Journalist, Korrespondent","en":"journalist, correspondent, newspaperman, newspaperwoman","fr":"journaliste"}
 {"L":"jornalistes","C":["n","pl"],"de":"Journalisten, Medien, Presse","en":"journalists, media, press","fr":"presse, journaux, médias, éditorialistes"}
-{"T":"r","L":"jotun","C":["n","mit"],"d":"(en mitolojia norsce) un membro de un raza de jigantes ci ia oposa tipal la dios de la aesir e spesial la dio Tor","en":"jotun, jotunn, jötunn, jötnar","fr":"jötunn"}
-{"T":"r","L":"jovedi","C":["n"],"d":"la dia entre mercurdi e venerdi en cada semana","en":"Thursday","eo":"ĵaŭdo","fr":"jeudi"}
-{"T":"r","L":"joven","C":["a","bio"],"d":"de un eda nonadulte; con cualias comun per persones nonadulte","da":"ung","de":"jung","en":"young, youthful; boyish, girlish","es":"joven","fr":"jeune"}
-{"L":"joven","C":["n"],"i":"#","en":"youth, young person, youngster, juvenile; guy, gal; cub (animal)","fr":"jeune"}
-{"L":"jovenal","C":["a"],"en":"juvenile, young people's","fr":"des jeunes, juvénil"}
-{"L":"jovenia","C":["n"],"en":"youth, youthfulness, girlhood, boyhood","fr":"jeunesse"}
-{"L":"jovenin","C":["a"],"en":"youthlike, juvenile (behavior|ur); youthful (appearance)","fr":"juvénile, jeune"}
-{"L":"la plu joven","C":["a"],"en":"youngest","fr":"cadet (le plus jeune)"}
-{"L":"plu joven","C":["a"],"en":"younger","fr":"plus jeune"}
-{"L":"rejoveni","C":["vnt"],"en":"rejuvenate","fr":"(se) rajeunir, devenir plus jeune"}
-{"L":"rejoveni","C":["vt"],"en":"rejuvenate","fr":"rafraîchir, rajeunir (transitif)"}
-{"L":"rejoveni","C":["n"],"en":"rejuvenation","fr":"rajeunissement"}
+{"T":"r","L":"jotun","C":["n","mit"],"d":"(en mitolojia norsce) un membro de un raza de jigantes ci ia oposa tipal la dios de la aesir e spesial la dio Tor","de":"Jötunn (Riese in der altnordischen Mythologie; Plural: Jötnar, Joten)","en":"jotun, jotunn, jötunn, jötnar","fr":"jötunn"}
+{"T":"r","L":"jovedi","C":["n"],"d":"la dia entre mercurdi e venerdi en cada semana","de":"Donnerstag","en":"Thursday","eo":"ĵaŭdo","fr":"jeudi"}
+{"T":"r","L":"joven","C":["a","bio"],"d":"de un eda nonadulte; con cualias comun per persones nonadulte","da":"ung","de":"jung, jugendlich; knabenhaft, mädchenhaft","en":"young, youthful; boyish, girlish","es":"joven","fr":"jeune"}
+{"L":"joven","C":["n"],"i":"#","de":"Jugendlicher, Jugendliche, Jüngling, junger Mensch; Junges (Tier), Jungtier","en":"youth, young person, youngster, juvenile; guy, gal; cub (animal)","fr":"jeune"}
+{"L":"jovenal","C":["a"],"de":"jugendlich, Jugend..., juvenil","en":"juvenile, young people's","fr":"des jeunes, juvénil"}
+{"L":"jovenia","C":["n"],"de":"Jugend, Jugendlichkeit","en":"youth, youthfulness, girlhood, boyhood","fr":"jeunesse"}
+{"L":"jovenin","C":["a"],"de":"jung, jugendlich (im Verhalten oder Aussehen, nicht unbedingt nach Jahren)","en":"youthlike, juvenile (behavior|ur); youthful (appearance)","fr":"juvénile, jeune"}
+{"L":"la plu joven","C":["a"],"de":"jüngster, jüngste","en":"youngest","fr":"cadet (le plus jeune)"}
+{"L":"plu joven","C":["a"],"de":"jünger","en":"younger","fr":"plus jeune"}
+{"L":"rejoveni","C":["vnt"],"de":"sich verjüngen, sich regenerieren","en":"rejuvenate","fr":"(se) rajeunir, devenir plus jeune"}
+{"L":"rejoveni","C":["vt"],"de":"verjüngen, regenerieren","en":"rejuvenate","fr":"rafraîchir, rajeunir (transitif)"}
+{"L":"rejoveni","C":["n"],"de":"Verjüngung, Regeneration, Regenerierung","en":"rejuvenation","fr":"rajeunissement"}
 {"T":"r","L":"jua","C":["vnt","spo","uma"],"d":"ata per diverti e recrea en loca de un intende seria o pratical","da":"spille","de":"spielen, Spass machen","en":"play, gambol, frolic; fool, trifle, dabble","es":"jugar, juguetear, recrearse, divertirse, retozar, travesear","fr":"jouer, s'amuser, se divertir, s'ébattre"}
 {"L":"jua","C":["vt"],"d":"partisipa en (un sporte o concurso); produi musica a (un strumento); presenta (un peso de musica)","en":"play (game, sport, music, instrument)","fr":"jouer à (un jeu); jouer de (un instrument de musique); jouer (une musique)"}
 {"L":"jua","C":["n"],"da":"spil (i sport o. lign.)","de":"Spiel","en":"game, recreation","es":"juego, deporte","fr":"jeu, récréation, divertissement, amusement"}
@@ -16205,7 +16205,7 @@
 {"L":"medias publica","C":["n","pl"],"en":"mass media","fr":"mass-médias"}
 {"L":"medias sever","C":["n","pl"],"en":"austerity measures","fr":"mesures d'austérité"}
 {"T":"r","L":"Media","C":["n","jeo","ist"],"d":"un rejion antica de Asia, a sude-ueste de la Mar Caspio","i":"#","en":"Media (ancient region)","fr":"Médie (régon antique)"}
-{"T":"r","L":"medica","C":["n","med"],"d":"la siensa o pratica de la diagnose, trata e preveni de maladia","en":"medicine (science, practice)","fr":"médecine"}
+{"T":"r","L":"medica","C":["n","med"],"d":"la siensa o pratica de la diagnose, trata e preveni de maladia","en":"medicine (science, practice), healthcare","fr":"médecine"}
 {"L":"medical","C":["a"],"en":"medical","fr":"médical, médicinal"}
 {"L":"medica erbal","C":["n"],"en":"herbal medicine, herbalism","fr":"herbe médicinale"}
 {"L":"mediciste","C":["n"],"en":"medic, doctor, physician","fr":"médecin, docteur, thérapeute"}
@@ -17736,9 +17736,9 @@
 {"L":"nerval","C":["a"],"en":"nervous (of the nerves)","fr":"nerveux (anatomie)"}
 {"L":"nervosa","C":["a"],"en":"nervous, jumpy","fr":"nerveux"}
 {"L":"nervosia","C":["n"],"en":"nervousness","fr":"nervosité"}
-{"T":"r","L":"nesesa","C":["vt","bio"],"d":"desira forte ave o fa (un cosa) car lo es multe importante o esensal","u":"el va nesesa un seja; me nesesa dormi; lo nesesa ce nos escuta","da":"behøve, kræve","de":"benötigen, erfordern","en":"need, require, lack; need to, have to, must (physical or essential); necessitate, entail","es":"necesitar, requerir, faltar, hacer falta","fr":"avoir besoin, nécessiter"}
+{"T":"r","L":"nesesa","C":["vt","bio"],"d":"desira forte ave o fa (un cosa) car lo es multe importante o esensal","u":"el va nesesa un seja; me nesesa dormi; lo nesesa ce nos escuta","da":"behøve, kræve","de":"benötigen, erfordern","en":"need, require, lack; need to, have to, must (physical or essential); necessitate, entail","es":"necesitar, requerir, faltar, hacer falta","fr":"avoir besoin de, nécessiter, manquer de"}
 {"L":"nesesa","C":["n"],"en":"need (state)","fr":"besoin, nécessité"}
-{"L":"nesesa adota","C":["vt"],"en":"resort to, have recourse to","fr":"avoir recours à"}
+{"L":"nesesa adota","C":["vt"],"en":"resort to, have recourse to","fr":"avoir recours à, recourir à"}
 {"L":"nesesada","C":["a"],"da":"nødvendig, tiltrængt","de":"notwendig, erforderlich","en":"needed, required, necessary, indispensable, must-have, requisite, incumbent","es":"necesario, requerido, necesitado","fr":"nécessaire"}
 {"L":"nesesada","C":["av"],"en":"necessarily","fr":"nécessairement"}
 {"L":"nesesada","C":["n"],"en":"necessity, need, requirement, must-have, must, prerequisite, wherewithal","fr":"nécessaire, indispensable"}
@@ -22138,204 +22138,204 @@
 {"T":"r","L":"Quebec","C":["n","jeo"],"d":"un provinse de Canada este, bordante la Golfo San Laurent e la Baia Hudson","i":"#","p":"cebec","en":"Quebec (Canadian province)","es":"Quebec","fr":"Québec"}
 {"L":"quebecan","C":["a"],"en":"Quebecois","es":"quebequés, quebequense","fr":"québécois"}
 {"L":"quebecan","C":["n","dem"],"en":"Quebecois","es":"quebequés, quebequense","fr":"Québécois"}
-{"T":"r","L":"r","C":["sim"],"d":"la letera 18 de la alfabeta roman","p":"er","en":"r"}
+{"T":"r","L":"r","C":["sim"],"d":"la letera 18 de la alfabeta roman","p":"er","en":"r","fr":"r (lettre de l'alphabet)"}
 {"T":"r","L":"rabano","C":["n","pla","cos"],"d":"un radis comable, spesial un varia peti, sferin e roja; la planta en familia de col cual produi esta","i":"#","t":"Raphanus sativus","en":"radish (plant, root)","es":"rábano","fr":"radis"}
 {"L":"rabano blanca","C":["n","pla"],"d":"un rabano con radis grande, magra e blanca, tipal coceda en cosini asian, o usada per nuri bestias","i":"#","en":"daikon, mooli","es":"rábano blanco","fr":"radis blanc"}
 {"L":"rabano forte","C":["n","pla"],"d":"un radis comable de un planta european en familia de col, tipal usada como un spise o salsa; la planta cual produi esta","i":"#","t":"Armoracia rusticana","ca":"rave rusticà, rave picant, rave boscà, rave de bestiar, rave de cavall, rave de porc, rave de riu, herba dels cantors","en":"horseradish","es":"rábano rusticano, rábano de caballo o rábano picante o raíz picante","fr":"raifort"}
 {"T":"r","L":"rabi","C":["n","rel"],"d":"un erudita o ensenior iudi, ci studia o ensenia tipal la lege iudi; un person nomida como un xef relijiosa iudi","ca":"rabí","de":"Rabbiner","en":"rabbi","eo":"rabeno","es":"rabino","fr":"rabbin","ja":"ラビ","pt":"rabino","ru":"раввин"}
-{"L":"rabal","C":["a"],"en":"rabbinical"}
+{"L":"rabal","C":["a"],"en":"rabbinical","fr":"rabbinique"}
 {"T":"r","L":"rabia","C":["n","med"],"d":"un maladia comunicable e matante de canes e otra mamales cual causa dementia e convulsas, comunicada par saliva a umanas","ca":"ràbia","en":"rabies","es":"rabia","fr":"rage"}
-{"L":"rabica","C":["a"],"ca":"rabiós","en":"rabid","es":"rabioso"}
+{"L":"rabica","C":["a"],"ca":"rabiós","en":"rabid","es":"rabioso","fr":"rabique"}
 {"T":"r","L":"raceta","C":["n","spo"],"d":"un tipo de baston con un moldur ronda o oval en cual cordetas es entretexeda, usada per tenis, badminton, scuax e otra sportes","i":"#","ca":"raqueta","da":"boldtræ, ketsjer, bat","de":"Schläger","en":"racket, racquet, bat, stick","eo":"rakedo, batilo","es":"palo, bastón, raqueta, bat (cualquier herramienta para golpear pelotas)","fr":"raquette, batte","it":"racchetta","nl":"knuppel, slaghout, stick, racket","pt":"bastão, taco, raquete"}
-{"L":"raceta de neva","C":["n","vest"],"en":"snowshoe","es":"raqueta de nieve"}
-{"T":"r","L":"raceta","C":["n","mus"],"d":"un strumento de venta corta e spesa con du anxas, usada en musica de la renase","i":"raceta-strumento","en":"rackett (musical instrument)","es":"rackett (isntrumento musical)"}
-{"T":"r","L":"racetabal","C":["n","spo"],"d":"un sporte juada con un bal peti e dur, un raceta con manico corta e un campo con cuatro mures","en":"racquetball (sport)","es":"raquetbol, ráquetbol"}
+{"L":"raceta de neva","C":["n","vest"],"en":"snowshoe","es":"raqueta de nieve","fr":"raquette de neige"}
+{"T":"r","L":"raceta","C":["n","mus"],"d":"un strumento de venta corta e spesa con du anxas, usada en musica de la renase","i":"raceta-strumento","en":"rackett (musical instrument)","es":"rackett (instrumento musical)","fr":"cervelas (instrument de musique)"}
+{"T":"r","L":"racetabal","C":["n","spo"],"d":"un sporte juada con un bal peti e dur, un raceta con manico corta e un campo con cuatro mures","en":"racquetball (sport)","es":"raquetbol, ráquetbol","fr":"racquetball, squash"}
 {"T":"r","L":"racite","C":["n","med"],"d":"un maladia de enfantes causada par un nonsufisi de vitamina D, marcada par calci nonperfeta, moli e contorse de la osos, tipal curvinte la gamas","en":"rickets, rachitis (medical)","es":"raquitismo, raquitis","fr":"rachis"}
-{"T":"r","L":"raconta","C":["vt","arte"],"d":"comunica (sua esperias), tipal en forma de nara","ca":"explicar, contar","de":"erzählen","en":"tell, relate","eo":"rakonti","es":"contar","fr":"raconter","ja":"伝える","pt":"contar, recontar","ru":"рассказывать"}
-{"L":"raconta","C":["n"],"en":"anecdote, memoir, account","es":"relato","fr":"récit"}
-{"L":"racontal","C":["a"],"en":"anecdotal","es":"anecdótico"}
-{"L":"racontor","C":["n"],"en":"raconteur","es":"anecdotista, cuentacuentos, cuentista"}
+{"T":"r","L":"raconta","C":["vt","arte"],"d":"comunica (sua esperias), tipal en forma de nara","ca":"explicar, contar","de":"erzählen","en":"tell, relate","eo":"rakonti","es":"contar","fr":"raconter, conter, narrer","ja":"伝える","pt":"contar, recontar","ru":"рассказывать"}
+{"L":"raconta","C":["n"],"en":"anecdote, memoir, account","es":"relato","fr":"récit, narration, compte-rendu, mémoire, anecdote"}
+{"L":"racontal","C":["a"],"en":"anecdotal","es":"anecdótico","fr":"narratif, anecdotique"}
+{"L":"racontor","C":["n"],"en":"raconteur","es":"anecdotista, cuentacuentos, cuentista","fr":"conteur, narrateur"}
 {"T":"r","L":"radar","C":["n","fis","util"],"d":"un sistem per deteta la presentia, dirije, distantia e rapidia de aviones, barcones e otra ojetos, par envia pulsas de ondas eletromagnetal cual deveni refletada","i":"#","ca":"radar","en":"radar","es":"radar","fr":"radar"}
-{"L":"radareria","C":["n"],"en":"radar post, radar station"}
-{"T":"r","L":"radia","C":["vnt","fis"],"d":"emete (enerjia, spesial lus o caldia) en la forma de raios o ondas; diverje o sperde de un punto sentral; evolui a formas diversa, ajustante a situas o modos de vive nova; transmete (un program o informa) par radio o televisa","en":"radiate, broadcast, beam","fr":"irradier"}
-{"L":"radia","C":["vt"],"en":"radiate, broadcast","fr":"irradier"}
-{"L":"radia","C":["n"],"en":"radiation, broadcasting; radiance","fr":"radiation"}
-{"L":"radiador","C":["n"],"en":"radiator","fr":"radiateur"}
-{"L":"radial","C":["a"],"en":"radial","fr":"radial"}
-{"L":"radiante","C":["a"],"en":"radiating, radiant, beaming, aglow"}
+{"L":"radareria","C":["n"],"en":"radar post, radar station","fr":"station de radar"}
+{"T":"r","L":"radia","C":["vnt","fis"],"d":"emete (enerjia, spesial lus o caldia) en la forma de raios o ondas; diverje o sperde de un punto sentral; evolui a formas diversa, ajustante a situas o modos de vive nova; transmete (un program o informa) par radio o televisa","en":"radiate, broadcast, beam","fr":"irradier, rayonner, émettre; se disperser, se propager, se répandre, s'étendre"}
+{"L":"radia","C":["vt"],"en":"radiate, broadcast","fr":"irradier, faire rayonner, émettre; disperser, propager, répandre, étendre"}
+{"L":"radia","C":["n"],"en":"radiation, broadcasting; radiance","fr":"rayonnement, irradiation, émission, radiance; rayon; propagation, extension, dispersion, expansion"}
+{"L":"radiador","C":["n"],"en":"radiator","fr":"radiateur, émetteur"}
+{"L":"radial","C":["a"],"en":"radial","fr":"de radiation, de rayonnement; radial"}
+{"L":"radiante","C":["a"],"en":"radiating, radiant, beaming, aglow","fr":"rayonnant, irradiant, se propageant, en expansion"}
 {"T":"r","L":"radian","C":["n","mat"],"d":"un unia de angulo, egal a un angulo a la sentro de un sirculo de cual sua arco ave un longia egal a la raio","ca":"radian, radiant","en":"radian (unit of angle)","fr":"radian"}
-{"T":"r","L":"radiato","C":["n"],"d":"un membro de un grupo tasonomial usada per clasi animales con simetria radial","i":"#","t":"Radiata","en":"radiate (jellyfish)"}
-{"T":"r","L":"radical","C":["n","cim"],"d":"(en cimica) un grupo de atomes cual ata como un unia en alga composadas","en":"radical (chemistry)"}
-{"L":"radical libre","C":["n"],"en":"free radical (chemistry)"}
-{"T":"r","L":"radiculopatia","C":["n","med"],"d":"un disturba medical en cual la radis de un nervo es compresada","en":"radiculopathy"}
+{"T":"r","L":"radiato","C":["n"],"d":"un membro de un grupo tasonomial usada per clasi animales con simetria radial","i":"#","t":"Radiata","en":"radiate (jellyfish)","fr":"radiaire"}
+{"T":"r","L":"radical","C":["n","cim"],"d":"(en cimica) un grupo de atomes cual ata como un unia en alga composadas","en":"radical (chemistry)","fr":"radical (chimie)"}
+{"L":"radical libre","C":["n"],"en":"free radical (chemistry)","fr":"radical libre (chimie)"}
+{"T":"r","L":"radiculopatia","C":["n","med"],"d":"un disturba medical en cual la radis de un nervo es compresada","en":"radiculopathy","fr":"radiculopathie, névralgie cervicobrachiale"}
 {"T":"r","L":"radio","C":["n","fis","util"],"d":"la transmete e reseta de ondas eletromagnetal de alga frecuentia, tipal los usada per transmete programes de parla o musica; un aparato per reseta esta programes; un aparato per reseta e envia mesajes entre persones, barcones, aviones, etc","i":"#","ca":"ràdio","da":"radio","de":"Radioapparat","en":"radio, wireless","eo":"radio, radioaparato","es":"radio, equipo inalámbrico","fr":"radio","it":"radio","nl":"radio","pt":"rádio, transmissor"}
-{"L":"radio-","C":["pf","tecn"],"d":"radia","en":"radio-"}
-{"L":"radio de amator","C":["n"],"en":"amateur radio, ham radio"}
+{"L":"radio-","C":["pf","tecn"],"d":"radia","en":"radio-","fr":"radio-"}
+{"L":"radio de amator","C":["n"],"en":"amateur radio, ham radio","fr":"radio amateur"}
 {"T":"r","L":"radio","C":["n","anat"],"d":"la oso la plu corta e spesa de la du osos de la braso umana; la oso corespondente en la gama anterior de un vertebrato o la ala de un avia","en":"radius (bone)","fr":"radius"}
 {"T":"r","L":"radio","C":["n","cim"],"d":"la elemento cimical con numero atomal 88, un metal radioativa rara","s":"Ra","en":"radium (chemistry)","fr":"radium"}
-{"T":"r","L":"radioastronomia","C":["n","ast"],"d":"la ramo de astronomia cual studia la radioemetes de ojetos sielal","en":"radio astronomy"}
-{"L":"radioastronomiste","C":["n"],"en":"radio astronomer"}
+{"T":"r","L":"radioastronomia","C":["n","ast"],"d":"la ramo de astronomia cual studia la radioemetes de ojetos sielal","en":"radio astronomy","fr":"radioastronomie"}
+{"L":"radioastronomiste","C":["n"],"en":"radio astronomer","fr":"radioastronome"}
 {"T":"r","L":"radioativa","C":["a","fis"],"d":"emetente radia o particulas ioninte","i":"#","en":"radioactive","fr":"radioactif"}
 {"L":"radioativia","C":["n"],"en":"radioactivity, fallout","fr":"radioactivité"}
-{"T":"r","L":"radiocarbono","C":["n","cim"],"d":"un isotopo radioativa de carbono","en":"radiocarbon"}
-{"L":"radiocarbonal","C":["a"],"en":"radiocarbon"}
-{"T":"r","L":"radiocolar","C":["n","util"],"d":"un colar portada par un animal afin on trasa sua moves","en":"radio collar, tracking collar"}
-{"T":"r","L":"radiocomunica","C":["vt","info"],"d":"comunica par ondas de radio","en":"radio"}
-{"L":"radiocomunica","C":["n"],"en":"radiocommunication"}
-{"T":"r","L":"radiograf","C":["n","med","util"],"d":"un aparato cual usa radia eletromagnetal de enerjia grande e ondas multe corta, cual pote pasa tra multe materias opaca a lus, tipal usada par medicistes per deteta maladias o otra disturbas en la corpo umana","i":"#","en":"X-ray machine"}
-{"L":"radiografi","C":["vt"],"en":"X-ray"}
-{"L":"radiografia","C":["n"],"en":"radiography"}
-{"T":"r","L":"radiogram","C":["n","med","util"],"d":"un imaje produida par un radiograf","i":"#","en":"X-ray image"}
-{"T":"r","L":"radioidentifia","C":["vt"],"d":"identifia (un ojeto) par un campo eletromagnetal cual deteta un transpondador sur la ojeto","en":"identify by RFID"}
-{"L":"radioidentifia","C":["n"],"en":"radio-identification, radio-frequency identification, RFID"}
-{"L":"eticeta radioidentifiable","C":["n"],"en":"RFID tag"}
-{"T":"r","L":"radiolojia","C":["n","med"],"d":"la siensa de usa radiografes per diagnose e trata maladias","en":"radiology"}
-{"L":"radiolojial","C":["a"],"en":"radiological"}
-{"L":"radiolojiste","C":["n"],"en":"radiologist"}
+{"T":"r","L":"radiocarbono","C":["n","cim"],"d":"un isotopo radioativa de carbono","en":"radiocarbon","fr":"radiocarbone"}
+{"L":"radiocarbonal","C":["a"],"en":"radiocarbon","fr":"du radiocarbone"}
+{"T":"r","L":"radiocolar","C":["n","util"],"d":"un colar portada par un animal afin on trasa sua moves","en":"radio collar, tracking collar","fr":"collier émetteur"}
+{"T":"r","L":"radiocomunica","C":["vt","info"],"d":"comunica par ondas de radio","en":"radio","fr":"communiquer par radio"}
+{"L":"radiocomunica","C":["n"],"en":"radiocommunication","fr":"radiocommunication"}
+{"T":"r","L":"radiograf","C":["n","med","util"],"d":"un aparato cual usa radia eletromagnetal de enerjia grande e ondas multe corta, cual pote pasa tra multe materias opaca a lus, tipal usada par medicistes per deteta maladias o otra disturbas en la corpo umana","i":"#","en":"X-ray machine","fr":"appareil de radiographie, rayons X, machine à radiographier"}
+{"L":"radiografi","C":["vt"],"en":"X-ray","fr":"radiographier, faire une radiographie"}
+{"L":"radiografia","C":["n"],"en":"radiography","fr":"radiographie (action)"}
+{"T":"r","L":"radiogram","C":["n","med","util"],"d":"un imaje produida par un radiograf","i":"#","en":"X-ray image","fr":"radiographie (image)"}
+{"T":"r","L":"radioidentifia","C":["vt"],"d":"identifia (un ojeto) par un campo eletromagnetal cual deteta un transpondador sur la ojeto","en":"identify by RFID","fr":"radio-identifier"}
+{"L":"radioidentifia","C":["n"],"en":"radio-identification, radio-frequency identification, RFID","fr":"radio-identification"}
+{"L":"eticeta radioidentifiable","C":["n"],"en":"RFID tag","fr":"radio-étiquette"}
+{"T":"r","L":"radiolojia","C":["n","med"],"d":"la siensa de usa radiografes per diagnose e trata maladias","en":"radiology","fr":"radiologie"}
+{"L":"radiolojial","C":["a"],"en":"radiological","fr":"radiologique"}
+{"L":"radiolojiste","C":["n"],"en":"radiologist","fr":"radiologue"}
 {"T":"r","L":"radiotelefon","C":["n","nn","util"],"en":"radiotelephone, radiophone, walkie-talkie","fr":"talkie-walkie"}
-{"T":"r","L":"radioterapia","C":["n","med"],"d":"la trata de maladias, tipal canser, par la usa de radiografes e aparatos simil","en":"radiotherapy"}
-{"T":"r","L":"radis","C":["n","bio","mat","mus","ling"],"d":"la parte de un planta cual afisa lo a la tera o a un suporta, e cual porta acua e nurintes a la resta de la planta; la causa o fonte ultima de alga cosa; la materia o natur esensal de alga cosa; la orijinas etnical o cultural de un familia; (en gramatica) un morfem de cual sua parolas es creada par la ajunta de afisas o otra cambias; (en musica) la nota fundal de un acorda; (en matematica) un numero cual, cuando multiplida par se a un cuantia de veses spesifada, produi un otra numero spesifada","i":"#","da":"rod","de":"Wurzel","en":"root","eo":"radiko","es":"raíz","fr":"racine","it":"radice","nl":"wortel","pt":"raiz"}
-{"L":"radis cuadral","C":["n"],"en":"square root"}
-{"L":"radis cuatro","C":["n"],"en":"fourth root"}
-{"L":"radis cubo","C":["n"],"en":"cube root"}
-{"L":"radis du","C":["n"],"en":"square root"}
-{"L":"radis major","C":["n"],"en":"taproot"}
+{"T":"r","L":"radioterapia","C":["n","med"],"d":"la trata de maladias, tipal canser, par la usa de radiografes e aparatos simil","en":"radiotherapy","fr":"radiothérapie"}
+{"T":"r","L":"radis","C":["n","bio","mat","mus","ling"],"d":"la parte de un planta cual afisa lo a la tera o a un suporta, e cual porta acua e nurintes a la resta de la planta; la causa o fonte ultima de alga cosa; la materia o natur esensal de alga cosa; la orijinas etnical o cultural de un familia; (en gramatica) un morfem de cual sua parolas es creada par la ajunta de afisas o otra cambias; (en musica) la nota fundal de un acorda; (en matematica) un numero cual, cuando multiplida par se a un cuantia de veses spesifada, produi un otra numero spesifada","i":"#","da":"rod","de":"Wurzel","en":"root","eo":"radiko","es":"raíz","fr":"racine; radical (grammaire)","it":"radice","nl":"wortel","pt":"raiz"}
+{"L":"radis cuadral","C":["n"],"en":"square root","fr":"racine carrée"}
+{"L":"radis cuatro","C":["n"],"en":"fourth root","fr":"racine quatrième"}
+{"L":"radis cubo","C":["n"],"en":"cube root","fr":"racine cubique"}
+{"L":"radis du","C":["n"],"en":"square root","fr":"racine carrée"}
+{"L":"radis major","C":["n"],"en":"taproot","fr":"racine principale"}
 {"L":"radis vejetal","C":["n"],"en":"root vegetable","fr":"légume tuberculeux, légume tubéreux"}
-{"L":"a radis","C":["av"],"en":"at root, basically, fundamentally"}
-{"L":"desradisi","C":["vnt"],"en":"uproot"}
+{"L":"a radis","C":["av"],"en":"at root, basically, fundamentally","fr":"à la racine, radicalement, à la base, fondamentalement"}
+{"L":"desradisi","C":["vnt"],"en":"uproot","fr":"se déraciner, être déraciné, perdre ses racines"}
 {"L":"desradisi","C":["vt"],"en":"uproot","fr":"déraciner"}
 {"L":"radisal","C":["a"],"en":"radical, fundamental, drastic","fr":"radical"}
 {"L":"radisi","C":["vnt"],"en":"take root","fr":"s'enraciner"}
-{"L":"radisi","C":["vt"],"en":"cause to take root, entrench, intrench, instill|instil, inculcate"}
-{"T":"r","L":"radon","C":["n","cim"],"d":"la elemento cimical con numero atomal 86, un gas radioativa rara","s":"Rn","en":"radon (element)"}
-{"T":"r","L":"rafia","C":["n","pla"],"d":"un palma nativa a Africa tropical, de cual la fibre de sua folias es usada per fabrica xapos, sestos e tapetos","i":"#","en":"raffia (plant)"}
-{"T":"r","L":"raga","C":["a","mus"],"en":"raga (music)"}
-{"L":"raga","C":["n"],"d":"un forma de musica barati, composada de un motif de notas con intervales tipal, ritmosa, e belis variosa, usada como la funda de improvisa","en":"raga (music)"}
-{"T":"r","L":"ragade","C":["n","med"],"d":"fesures o sicatrises en la pel, spesial a la angulos de la boca e nas","en":"rhagade"}
-{"T":"r","L":"raglan","C":["n","vest"],"d":"un tipo de manga cual continua en un peso asta la colo de la camisa, sin costur de spala","en":"raglan (sleeve)"}
-{"T":"r","L":"ragnaroc","C":["n","mit"],"d":"la batalia final entre la dios e la potias de malia en mitos scandinavian","en":"ragnarok, Götterdämmerung, twilight of the gods"}
-{"T":"r","L":"ragtaim","C":["a","mus"],"i":"#","en":"ragtime (music)"}
-{"L":"ragtaim","C":["n"],"d":"musica marcada par un melodia sincopada e acompania periodal asentuada, evoluida par musicistes negra american en la desenio de 1890 e tipal presentada a la piano","en":"ragtime (music)"}
+{"L":"radisi","C":["vt"],"en":"cause to take root, entrench, intrench, instill|instil, inculcate","fr":"enraciner, faire enraciner, inculquer"}
+{"T":"r","L":"radon","C":["n","cim"],"d":"la elemento cimical con numero atomal 86, un gas radioativa rara","s":"Rn","en":"radon (element)","fr":"radon (élément)"}
+{"T":"r","L":"rafia","C":["n","pla"],"d":"un palma nativa a Africa tropical, de cual la fibre de sua folias es usada per fabrica xapos, sestos e tapetos","i":"#","en":"raffia (plant)","fr":"raffia"}
+{"T":"r","L":"raga","C":["a","mus"],"en":"raga (music)","fr":"de raga"}
+{"L":"raga","C":["n"],"d":"un forma de musica barati, composada de un motif de notas con intervales tipal, ritmosa, e belis variosa, usada como la funda de improvisa","en":"raga (music)","fr":"raga (musique)"}
+{"T":"r","L":"ragade","C":["n","med"],"d":"fesures o sicatrises en la pel, spesial a la angulos de la boca e nas","en":"rhagade","fr":"rhagade, gerçure"}
+{"T":"r","L":"raglan","C":["n","vest"],"d":"un tipo de manga cual continua en un peso asta la colo de la camisa, sin costur de spala","en":"raglan (sleeve)","fr":"raglan (manche)"}
+{"T":"r","L":"ragnaroc","C":["n","mit"],"d":"la batalia final entre la dios e la potias de malia en mitos scandinavian","en":"ragnarok, Götterdämmerung, twilight of the gods","fr":"Ragnarök, crépuscule des dieux"}
+{"T":"r","L":"ragtaim","C":["a","mus"],"i":"#","en":"ragtime (music)","fr":"ragtime (musique)"}
+{"L":"ragtaim","C":["n"],"d":"musica marcada par un melodia sincopada e acompania periodal asentuada, evoluida par musicistes negra american en la desenio de 1890 e tipal presentada a la piano","en":"ragtime (music)","fr":"ragtime (musique)"}
 {"T":"r","L":"ragu","C":["n","cos"],"d":"un plato de carne taliada a pesos peti, lenta coceda con vejetales","p":"ragú","ca":"guisat","de":"Eintopf","en":"stew, ragout","eo":"stufaĵo, raguo","es":"guisado","fr":"ragoût","ja":"シチュー","pt":"cozido, ensopado, guisado","ru":"блюдо из тушёного мяса"}
 {"T":"r","L":"raia","C":["n","pex"],"d":"un pex larga e plata con un sceleto cartilajosa, pinas como alas, e coda longa e magra","i":"#","t":"Batoidea","en":"ray, skate (fish)","fr":"raie"}
-{"L":"raia de spina","C":["n","ani","pex"],"t":"Dasyatis pastinaca","en":"stingray"}
+{"L":"raia de spina","C":["n","ani","pex"],"t":"Dasyatis pastinaca","en":"stingray","fr":"raie pastenague, pastenague commune"}
 {"T":"r","L":"raio","C":["n","fis"],"d":"cada de la linias en cual lus, caldia o otra enerjia eletromagnetal pare radia de la Sol o cualce corpo luminosa, o tra un abri peti; (en matematica) cada de un grupo de linias reta cual pasa tra un punto; un linia reta de la sentro a la perimetre de un sirculo o sfera; un braso de un grupo ordinada con forma stelin; un linia de lampo","da":"stråle","de":"Strahl","en":"ray, beam (light); radius (circle); spoke (wheel); bolt (lightning)","eo":"radio; spoko; radius","es":"rayo","fr":"rayon","it":"raggio","nl":"straal","pt":"raio"}
-{"L":"raio de luna","C":["n"],"en":"moonbeam"}
-{"L":"raio de sol","C":["n"],"en":"sunbeam"}
-{"L":"raio gama","C":["n"],"en":"gamma ray"}
-{"L":"raio X","C":["n"],"en":"X-ray"}
-{"L":"raial","C":["a"],"en":"radial"}
-{"L":"raios diplomata","C":["n","pl"],"en":"pinstripes"}
-{"L":"raiosa","C":["a"],"en":"striped, striate, striated (including muscle); rifled (barrel of gun)"}
-{"T":"r","L":"raion","C":["n","vest"],"d":"un fibre per stofas, fabricada de selulosa rejenerada","en":"rayon (fibre)"}
-{"T":"r","L":"raja","C":["n","gov"],"d":"un re o prinse de Barat o otra paises de Asia sude-este","en":"raja, rajah (title)"}
-{"T":"r","L":"-raje","C":["sf","n","med"],"d":"esflue violente","en":"-rhage (medical)"}
-{"L":"-rajica","C":["sf","a","med"],"en":"-rhagic"}
+{"L":"raio de luna","C":["n"],"en":"moonbeam","fr":"rayon de lune"}
+{"L":"raio de sol","C":["n"],"en":"sunbeam","fr":"rayon de soleil"}
+{"L":"raio gama","C":["n"],"en":"gamma ray","fr":"rayon gamma"}
+{"L":"raio X","C":["n"],"en":"X-ray","fr":"rayon X"}
+{"L":"raial","C":["a"],"en":"radial","fr":"radial"}
+{"L":"raios diplomata","C":["n","pl"],"en":"pinstripes","fr":"fines rayures, costume rayé"}
+{"L":"raiosa","C":["a"],"en":"striped, striate, striated (including muscle); rifled (barrel of gun)","fr":"rayé, strié ; rayé (canon)"}
+{"T":"r","L":"raion","C":["n","vest"],"d":"un fibre per stofas, fabricada de selulosa rejenerada","en":"rayon (fibre)","fr":"rayonne (textile)"}
+{"T":"r","L":"raja","C":["n","gov"],"d":"un re o prinse de Barat o otra paises de Asia sude-este","en":"raja, rajah (title)","fr":"rajah"}
+{"T":"r","L":"-raje","C":["sf","n","med"],"d":"esflue violente","en":"-rhage (medical)","fr":"-rrage (médecine)"}
+{"L":"-rajica","C":["sf","a","med"],"en":"-rhagic","fr":"-rragique"}
 {"T":"r","L":"ral","C":["n","avia"],"d":"un avia con plumas gris e brun, tipal con beco longa e abitante areas plen de plantas a lado de lagos o mares; un avia relatada con plumas brun e beco corta, abitante savanas bruta, ci ave un vose notada per sua raspa","i":"#","t":"Rallidae","en":"rail, crake (bird)","fr":"râle (oiseau)"}
-{"T":"r","L":"ram","C":["n","info"],"d":"(en informatica) memoria de cual sua contenida es no sola lejable ma ance cambiable","en":"RAM (random-access memory)"}
-{"T":"r","L":"ramadan","C":["n","rel"],"d":"la mense nova de la calendario muslim, en cual muslimes juna","en":"Ramadan (Islam)"}
-{"T":"r","L":"rami","C":["n","spo"],"d":"un jua de cartas en cual on atenta formi grupos e segues de cartas","en":"rummy (card game)"}
-{"T":"r","L":"ramo","C":["n","bio"],"d":"la parte de un arbor cual crese de la tronco o de un ramo plu grande; un estende ladal de alga cosa; un ofisia de un compania grande cual funsiona local; un sudivide consetal de alga cosa, como un grupo de linguas o otra tema; un seta o grupo autonom de un relijio o otra asosia","i":"#","da":"gren","de":"Zweig","en":"branch; denomination; chapter (society, religious community); faction","eo":"ramo","es":"rama, ramificación, bifurcación, brote, ramo","fr":"branche","it":"ramo, braccio","nl":"tak","pt":"ramo, filial"}
-{"L":"desramador","C":["n"],"en":"billhook, pruning hook, lopper"}
-{"L":"desrami","C":["vt"],"en":"remove branches, prune, cane"}
-{"L":"nonramal","C":["a"],"en":"non-denominational, ecumenical"}
-{"L":"rameta","C":["n"],"en":"shoot"}
-{"L":"rami","C":["vnt"],"en":"branch"}
-{"L":"rami","C":["vt"],"en":"branch"}
-{"L":"rami","C":["n"],"en":"branching; ramification"}
-{"L":"ramin","C":["a"],"en":"branchlike"}
-{"L":"raminte","C":["a"],"en":"branching"}
-{"L":"ramon","C":["n"],"en":"bough"}
-{"T":"r","L":"rampa","C":["n","arci"],"d":"un inclina cual junta du niveles, como entre du niveles de un construida o un via inclinada per entra a o sorti de un via major","i":"#","en":"ramp, chute"}
+{"T":"r","L":"ram","C":["n","info"],"d":"(en informatica) memoria de cual sua contenida es no sola lejable ma ance cambiable","en":"RAM (random-access memory)","fr":"RAM (mémoire à accès non séquentiel), mémoire vive (d'un ordinateur)"}
+{"T":"r","L":"ramadan","C":["n","rel"],"d":"la mense nova de la calendario muslim, en cual muslimes juna","en":"Ramadan (Islam)","fr":"Ramadan"}
+{"T":"r","L":"rami","C":["n","spo"],"d":"un jua de cartas en cual on atenta formi grupos e segues de cartas","en":"rummy (card game)","fr":"rami (jeu de cartes)"}
+{"T":"r","L":"ramo","C":["n","bio"],"d":"la parte de un arbor cual crese de la tronco o de un ramo plu grande; un estende ladal de alga cosa; un ofisia de un compania grande cual funsiona local; un sudivide consetal de alga cosa, como un grupo de linguas o otra tema; un seta o grupo autonom de un relijio o otra asosia","i":"#","da":"gren","de":"Zweig","en":"branch; denomination; chapter (society, religious community); faction","eo":"ramo","es":"rama, ramificación, bifurcación, brote, ramo","fr":"branche, rameau, ramification; embranchement, section, division, secte, département","it":"ramo, braccio","nl":"tak","pt":"ramo, filial"}
+{"L":"desramador","C":["n"],"en":"billhook, pruning hook, lopper","fr":"serpe, coupe-branche"}
+{"L":"desrami","C":["vt"],"en":"remove branches, prune, cane","fr":"tailler, couper des branches"}
+{"L":"nonramal","C":["a"],"en":"non-denominational, ecumenical","fr":"non sectaire, tolérant, universel, œcuménique"}
+{"L":"rameta","C":["n"],"en":"shoot","fr":"rameau"}
+{"L":"rami","C":["vnt"],"en":"branch","fr":"se ramifier"}
+{"L":"rami","C":["vt"],"en":"branch","fr":"ramifier"}
+{"L":"rami","C":["n"],"en":"branching; ramification","fr":"embranchement, ramification"}
+{"L":"ramin","C":["a"],"en":"branchlike","fr":"en forme de branche"}
+{"L":"raminte","C":["a"],"en":"branching","fr":"se ramifiant, ramificateur"}
+{"L":"ramon","C":["n"],"en":"bough","fr":"grosse branche"}
+{"T":"r","L":"rampa","C":["n","arci"],"d":"un inclina cual junta du niveles, como entre du niveles de un construida o un via inclinada per entra a o sorti de un via major","i":"#","en":"ramp, chute","fr":"rampe, plan incliné, pente"}
 {"T":"r","L":"rampe","C":["vnt"],"d":"move a ante sur manos e jenos o par tira la corpo prosima a la tera; move lenta sur un surfas; move lenta e curante, spesial per evita deteta; (un planta) crese longo la tera o otra surfas par troncetas o ramos estendente","i":"#","da":"kravlel","de":"kriechen","en":"crawl, creep; sneak","eo":"rampi","es":"arrastrarse, gatear, andar a gatas, marchar lentamente","fr":"ramper","it":"strisciare","nl":"kruipen","pt":"arrastarse, rastejar"}
-{"L":"rampor","C":["n"],"en":"crawler, creeper (person, plant)"}
+{"L":"rampor","C":["n"],"en":"crawler, creeper (person, plant)","fr":"rampeur, rampant"}
 {"T":"r","L":"rana","C":["n","amf"],"d":"un amfibio sin coda con corpo corta e truncin, pel lisa e umida, e gamas multe longa per salta","i":"#","t":"Anura","da":"frø","de":"Frosch","en":"frog","eo":"rano","es":"rana","fr":"grenouille","it":"rana","nl":"kikker","pt":"râ"}
-{"L":"rana grande","C":["n"],"en":"bullfrog"}
+{"L":"rana grande","C":["n"],"en":"bullfrog","fr":"ouaouaron, wawaron, grenouille mugissante, grenouille-taureau"}
 {"L":"raneta","C":["n"],"i":"#","en":"tadpole, polliwog","fr":"têtard"}
-{"L":"ranin","C":["a"],"en":"froglike, froggy"}
-{"L":"ranin","C":["n"],"en":"breaststroke"}
-{"T":"r","L":"rand","C":["n","mone"],"d":"la unia de mone en Sudafrica","en":"rand (currency)"}
-{"T":"r","L":"rani","C":["n","gov"],"d":"un rea o prinsesa de Barat o otra paises de Asia sude-este","en":"rani, ranee (title)"}
+{"L":"ranin","C":["a"],"en":"froglike, froggy","fr":"qui rappelle la grenouille, imitant la grenouille, qui ressemble à une grenouille"}
+{"L":"ranin","C":["n"],"en":"breaststroke","fr":"brasse (nage)"}
+{"T":"r","L":"rand","C":["n","mone"],"d":"la unia de mone en Sudafrica","en":"rand (currency)","fr":"rand (monnaie)"}
+{"T":"r","L":"rani","C":["n","gov"],"d":"un rea o prinsesa de Barat o otra paises de Asia sude-este","en":"rani, ranee (title)","fr":"rani (équivalent féminin du titre raja)"}
 {"T":"r","L":"ranunculo","C":["n","pla"],"d":"un planta con flores peti, copin e briliante jala, comun en savanas e como un malerba en jardines","i":"#","t":"Ranunculus","en":"buttercup","fr":"renoncule, bouton d'or"}
-{"T":"r","L":"ranur","C":["n","tera","bio"],"d":"un abrida, talia o depresa longa e streta; un fora peti tra cual lus pasa en un camera; la depresa spiral de un disco de vinil","da":"fure","de":"Furche, Rinne","en":"slot, groove, aperture, slit, furrow, striation","eo":"sulko, kanelo","es":"surco, canal, acanaladura, rodada (en camino), estría, ranura, muesca, corte, rebaja","fr":"sillon","it":"solco","nl":"voor, groef","pt":"sulco, rego, canal, estria, ranhura"}
+{"T":"r","L":"ranur","C":["n","tera","bio"],"d":"un abrida, talia o depresa longa e streta; un fora peti tra cual lus pasa en un camera; la depresa spiral de un disco de vinil","da":"fure","de":"Furche, Rinne","en":"slot, groove, aperture, slit, furrow, striation","eo":"sulko, kanelo","es":"surco, canal, acanaladura, rodada (en camino), estría, ranura, muesca, corte, rebaja","fr":"sillon, rainure, entaille, fente, sillage","it":"solco","nl":"voor, groef","pt":"sulco, rego, canal, estria, ranhura"}
 {"L":"ranur de arado","C":["n"],"i":"#","en":"furrow","fr":"sillon"}
-{"L":"en ranur orizonal","C":["a"],"en":"letterboxed (video)"}
-{"L":"en ranur vertical","C":["a"],"en":"pillarboxed (video)"}
-{"L":"ranuri","C":["vt"],"en":"slit"}
-{"T":"r","L":"ranxo","C":["n","arci"],"d":"un eleveria grande, tipal en la SUA e Canada ueste, do boves e otra bestias es elevada; un casa de un nivel, con teto basa","en":"ranch"}
-{"L":"ranxor","C":["n"],"en":"rancher, cattle farmer"}
-{"T":"r","L":"rap","C":["a","mus"],"d":"un tipo de musica popular, introduida par musicistes afroamerican en cual parolas es narada en modo rapida e ritmosa supra un fondo de musica ancora rejistrada, tipal de strumentos eletronical","en":"rap (music)"}
-{"L":"rap","C":["n"],"en":"rap (music)"}
-{"L":"rapi","C":["vt"],"en":"rap (music)"}
-{"L":"rapor","C":["n"],"en":"rapper (music)"}
-{"T":"r","L":"Rapanui","C":["n","jeo"],"d":"un otra nom per la Isola Pascua","v":"Isola Pascua","en":"Rapa Nui, Easter Island"}
-{"L":"rapanui","C":["a"],"en":"rapanui"}
-{"L":"rapanui","C":["n"],"en":"rapanui"}
-{"T":"r","L":"rapela","C":["vnt","spo"],"d":"desende un surfas cuasi vertical, usante un corda duple enrolada sirca la corpo e fisada a un punto plu alta","i":"#","en":"rappel, abseil"}
+{"L":"en ranur orizonal","C":["a"],"en":"letterboxed (video)","fr":"letterboxé (affichage vidéo)"}
+{"L":"en ranur vertical","C":["a"],"en":"pillarboxed (video)","fr":"pillarboxé (affichage vidéo)"}
+{"L":"ranuri","C":["vt"],"en":"slit","fr":"rainurer, fendre, sillonner"}
+{"T":"r","L":"ranxo","C":["n","arci"],"d":"un eleveria grande, tipal en la SUA e Canada ueste, do boves e otra bestias es elevada; un casa de un nivel, con teto basa","en":"ranch","fr":"ranch"}
+{"L":"ranxor","C":["n"],"en":"rancher, cattle farmer","fr":"propriétaire de ranch"}
+{"T":"r","L":"rap","C":["a","mus"],"d":"un tipo de musica popular, introduida par musicistes afroamerican en cual parolas es narada en modo rapida e ritmosa supra un fondo de musica ancora rejistrada, tipal de strumentos eletronical","en":"rap (music)","fr":"rap, de rapeur"}
+{"L":"rap","C":["n"],"en":"rap (music)","fr":"rap"}
+{"L":"rapi","C":["vnt"],"en":"rap (music)","fr":"raper, rapper, faire du rap"}
+{"L":"rapor","C":["n"],"en":"rapper (music)","fr":"rapeur"}
+{"T":"r","L":"Rapanui","C":["n","jeo"],"d":"un otra nom per la Isola Pascua","v":"Isola Pascua","en":"Rapa Nui, Easter Island","fr":"Rapa Nui, île de Pâques"}
+{"L":"rapanui","C":["a"],"en":"rapanui","fr":"rapanui"}
+{"L":"rapanui","C":["n"],"en":"rapanui","fr":"Rapanui, habitant de Rapa Nui (personne); rapanui (langue)"}
+{"T":"r","L":"rapela","C":["vnt","spo"],"d":"desende un surfas cuasi vertical, usante un corda duple enrolada sirca la corpo e fisada a un punto plu alta","i":"#","en":"rappel, abseil","fr":"descendre en rappel"}
 {"T":"r","L":"rapida","C":["a"],"d":"aveninte en un tempo corta; movente de un punto a un otra en un tempo corta","ca":"ràpid","da":"hurtig, kvik","de":"schnell","en":"rapid, fast, quick, swift, punctual, prompt, fleet","eo":"rapida","es":"rápido, pronto, veloz, presto, vivo, de prisa","fr":"rapide, prompt, véloce","it":"rapida","ja":"素早く","nl":"nel, gau vlug, snel, gauw","pt":"de pressa, rápido, veloz, pronto","ru":"быстро"}
-{"L":"rapidi","C":["vnt"],"en":"speed up, accelerate, quicken; expedite, hasten","fr":"(s')accélérer"}
-{"L":"rapidi","C":["vt"],"en":"speed up, accelerate, quicken; expedite, hasten","fr":"accélérer"}
+{"L":"rapidi","C":["vnt"],"en":"speed up, accelerate, quicken; expedite, hasten","fr":"(s') accélérer, se presser, s'activer"}
+{"L":"rapidi","C":["vt"],"en":"speed up, accelerate, quicken; expedite, hasten","fr":"faire accélérer, presser, activer, faire activer"}
 {"L":"rapidi","C":["n"],"en":"acceleration","fr":"accélération"}
-{"L":"rapidia","C":["n"],"da":"hastighed","de":"Geschwindigkeit","en":"speed, velocity, rate, pace, tempo","eo":"rapido, rapideco","es":"velocidad, rapidez, presteza, prontitud","fr":"vitesse","it":"velocità","nl":"snelheid","pt":"velocidade"}
-{"T":"r","L":"rapidometre","C":["n","util"],"d":"un aparato cual indica la rapidia de un veculo","en":"speedometer, speedo"}
-{"T":"r","L":"rapsodia","C":["n","mus"],"d":"un composada strumental en un move estendeda, tipal marcada par emosia o zelo","en":"rhapsody"}
-{"T":"r","L":"rara","C":["a"],"d":"(un aveni, situa o state) no aveninte frecuente; no trovada en cuantias grande e donce interesante o valuada; noncomun; nonsufisinte","en":"rare, uncommon, scarce, infrequent","fr":"rare"}
-{"L":"rara","C":["av"],"ca":"poques vegades, rarament","da":"sjældent","de":"selten, rar","en":"rarely, seldom","eo":"malofte","es":"raramente, rara vez, raras veces, pocas veces, casi nunca, excepcionalmente","fr":"rarement","it":"raramente","ja":"滅多に","nl":"zelden","pt":"raramente, poucas vezes","ru":"редко"}
-{"L":"rara","C":["n"],"en":"rarity"}
+{"L":"rapidia","C":["n"],"da":"hastighed","de":"Geschwindigkeit","en":"speed, velocity, rate, pace, tempo","eo":"rapido, rapideco","es":"velocidad, rapidez, presteza, prontitud","fr":"rapidité, vitesse, vélocité, vivacité","it":"velocità","nl":"snelheid","pt":"velocidade"}
+{"T":"r","L":"rapidometre","C":["n","util"],"d":"un aparato cual indica la rapidia de un veculo","en":"speedometer, speedo","fr":"tachymètre, compteur de vitesse"}
+{"T":"r","L":"rapsodia","C":["n","mus"],"d":"un composada strumental en un move estendeda, tipal marcada par emosia o zelo","en":"rhapsody","fr":"rapsodie"}
+{"T":"r","L":"rara","C":["a"],"d":"(un aveni, situa o state) no aveninte frecuente; no trovada en cuantias grande e donce interesante o valuada; noncomun; nonsufisinte","en":"rare, uncommon, scarce, infrequent","fr":"rare, inusuel, inaccoutumé"}
+{"L":"rara","C":["av"],"ca":"poques vegades, rarament","da":"sjældent","de":"selten, rar","en":"rarely, seldom","eo":"malofte","es":"raramente, rara vez, raras veces, pocas veces, casi nunca, excepcionalmente","fr":"rarement, exceptionnellement, peu souvent, pas souvent, pas fréquemment","it":"raramente","ja":"滅多に","nl":"zelden","pt":"raramente, poucas vezes","ru":"редко"}
+{"L":"rara","C":["n"],"en":"rarity","fr":"rareté"}
 {"L":"rari","C":["vnt"],"en":"rarefy, diffuse, dilute","fr":"(se) raréfier"}
 {"L":"rari","C":["vt"],"en":"rarefy, diffuse, dilute","fr":"raréfier"}
-{"L":"raria","C":["n"],"en":"rareness, rarity"}
+{"L":"raria","C":["n"],"en":"rareness, rarity","fr":"rareté"}
 {"L":"rarida","C":["a"],"da":"sparsom, spredt, tynd","de":"verdünnt, spärlich, schwach","en":"rarefied, tenuous, diffuse, diluted, dilute, sparse, wispy","eo":"maldensa, difuzita","es":"tenue, difuso, diluido, leve, enrarecido","fr":"raréfié","it":"rado, diluito, rarefatto","nl":"schaars, dun","pt":"raro, diluído, difuso, diluto, esparço"}
-{"T":"r","L":"rasa","C":["vt","util"],"d":"corti completa con un lama o otra cosa; corti completa la barba o otra capeles","i":"#","da":"barbere","de":"rasieren","en":"shave","eo":"razi","es":"afeitar(se)","fr":"raser","it":"radersi, radere","nl":"zich scheren","pt":"barbearse, fazer a barba"}
+{"T":"r","L":"rasa","C":["vt","util"],"d":"corti completa con un lama o otra cosa; corti completa la barba o otra capeles","i":"#","da":"barbere","de":"rasieren","en":"shave","eo":"razi","es":"afeitar(se)","fr":"raser, se raser","it":"radersi, radere","nl":"zich scheren","pt":"barbearse, fazer a barba"}
 {"L":"rasa","C":["n"],"en":"shave","fr":"rasage"}
-{"L":"nonrasada","C":["a"],"en":"unshaven, unshorn"}
+{"L":"nonrasada","C":["a"],"en":"unshaven, unshorn","fr":"non rasé, hirsute"}
 {"L":"rasador","C":["n"],"i":"#","da":"barbermaskine","de":"Rasiermesser","en":"razor, shaver","eo":"razilo","es":"navaja de afeitar, hoja de afeitar, maquinilla de afeitar, rasuradora","fr":"rasoir","it":"rasoio","nl":"scheermes","pt":"navalha de barbear, lâmina de barbear, gilete"}
-{"T":"r","L":"rasca","C":["vt","tera","bio"],"d":"marca la surfas de (alga cosa) con un cosa agu o puntida; causa un feri longa o magra en la pel de; frota (un parte de corpo) con sua ungias de dito o con un cosa ru per lejeri un pruri; (un avia o animal, tipal un gal) usa sua beco o talones a (un surfas) per trova comedas","da":"ridse","en":"scratch, scrabble","fr":"rayer, érafler, égratigner"}
-{"L":"rasca","C":["n"],"da":"skramme","en":"scratch","es":"rasguño, arañazo, araño, raya, marca"}
-{"L":"rasca glasial","C":["n"],"en":"glacial striation"}
-{"L":"antirascal","C":["a"],"en":"anti-scratch, scratch-resistant"}
-{"T":"r","L":"rascasielo","C":["n","vn"],"d":"un construida multe alta","i":"#","en":"skyscraper"}
-{"T":"r","L":"rasiona","C":["vt","mone"],"d":"permete ce cada person ave sola un cuantia fisada de (un ben spesifada)","en":"ration, allocate"}
-{"L":"rasiona","C":["n","mone"],"d":"un cuantia fisada de un ben restrinjeda","en":"ration, allocation"}
-{"L":"rerasiona","C":["vt"],"en":"reallocate"}
+{"T":"r","L":"rasca","C":["vt","tera","bio"],"d":"marca la surfas de (alga cosa) con un cosa agu o puntida; causa un feri longa o magra en la pel de; frota (un parte de corpo) con sua ungias de dito o con un cosa ru per lejeri un pruri; (un avia o animal, tipal un gal) usa sua beco o talones a (un surfas) per trova comedas","da":"ridse","en":"scratch, scrabble","fr":"rayer, érafler, égratigner; griffer; gratter, se gratter"}
+{"L":"rasca","C":["n"],"da":"skramme","en":"scratch","es":"rasguño, arañazo, araño, raya, marca","fr":"rayure, éraflure, égratignure, griffure, grattage, grattement"}
+{"L":"rasca glasial","C":["n"],"en":"glacial striation","fr":"striure glaciaire, stries glaciaires"}
+{"L":"antirascal","C":["a"],"en":"anti-scratch, scratch-resistant","fr":"anti-rayures"}
+{"T":"r","L":"rascasielo","C":["n","vn"],"d":"un construida multe alta","i":"#","en":"skyscraper","fr":"gratte-ciel"}
+{"T":"r","L":"rasiona","C":["vt","mone"],"d":"permete ce cada person ave sola un cuantia fisada de (un ben spesifada)","en":"ration, allocate","fr":"rationner, répartir, distribuer, attribuer, allouer"}
+{"L":"rasiona","C":["n","mone"],"d":"un cuantia fisada de un ben restrinjeda","en":"ration, allocation","fr":"rationnement, attribution, distribution, répartition"}
+{"L":"rerasiona","C":["vt"],"en":"reallocate","fr":"réaffecter, réattribuer, réallouer, redistribuer"}
 {"T":"r","L":"raspa","C":["vt","util"],"d":"puia o tira un util dur o agu sur (un surfas o ojeto) per sutrae susia o otra materia; usa un util per sutrae (susia o otra materia) de alga cosa; frota o fa ce on frota a (un surfas ru o dur), causante dana o feri; move (un cosa) longo un otra, creante un ruido bruta; redui (alga cosa, tipal comeda) a pesetas par frota lo a un surfas ru o agu","en":"scrape, abrade, scuff, graze; chafe; grate, grind; gnash (teeth); rasp (sound)","fr":"râper"}
-{"L":"raspa","C":["n"],"en":"abrasion","fr":"abrasion"}
-{"L":"nonraspante","C":["a"],"en":"non-abrasive"}
-{"L":"raspador","C":["n"],"i":"#","en":"scraper, rasp, grater","fr":"râpe"}
-{"L":"raspante","C":["a"],"en":"scraping, abrasive; raspy","fr":"abrasif"}
-{"T":"r","L":"rastafari","C":["a","rel"],"d":"pertinente a la promove relijiosa de Jamaica cual crede ce la popla negra es la popla elejeda par Dio, ce imperor Haile Selassie de Itiopia ia es la maxia, e ce la popla negra va reveni ultima a Africa","en":"Rastafari, Rastafarian"}
-{"L":"rastafari","C":["n"],"i":"#","en":"Rastafari, Rastafarian"}
+{"L":"raspa","C":["n"],"en":"abrasion","fr":"abrasion, râpement"}
+{"L":"nonraspante","C":["a"],"en":"non-abrasive","fr":"non abrasif"}
+{"L":"raspador","C":["n"],"i":"#","en":"scraper, rasp, grater","fr":"râpe, grattoir"}
+{"L":"raspante","C":["a"],"en":"scraping, abrasive; raspy","fr":"abrasif, rugueux"}
+{"T":"r","L":"rastafari","C":["a","rel"],"d":"pertinente a la promove relijiosa de Jamaica cual crede ce la popla negra es la popla elejeda par Dio, ce imperor Haile Selassie de Itiopia ia es la maxia, e ce la popla negra va reveni ultima a Africa","en":"Rastafari, Rastafarian","fr":"rastafari, rasta"}
+{"L":"rastafari","C":["n"],"i":"#","en":"Rastafari, Rastafarian","fr":"rastafari, rasta"}
 {"T":"r","L":"rasto","C":["n","util"],"d":"un util composada de un palo con un bara con dentes como un peten, usada per tira erba, folias, tera o calculos; un util simil usada per tira cosas","i":"#","da":"rive","de":"Rechen","en":"rake (tool)","eo":"rastilo","es":"rastrillo, rastro","fr":"râteau","it":"rastrello","nl":"hark","pt":"ancinho"}
 {"L":"rasti","C":["vt"],"en":"rake, harrow","fr":"râtisser"}
-{"L":"raston","C":["n"],"en":"harrow"}
+{"L":"raston","C":["n"],"en":"harrow","fr":"herse"}
 {"T":"r","L":"rata","C":["n","mam"],"d":"un rodente cual sembla un mus grande, tipal con beco puntida e coda longa sin pelo","i":"#","t":"Rattus","en":"rat","fr":"rat"}
-{"L":"rateria","C":["n"],"en":"rathole, rat trap"}
-{"L":"ratin","C":["a"],"en":"ratlike, ratty"}
-{"T":"r","L":"ratan","C":["n","pla"],"d":"la troncetas magra e pliable de un palma, usada per fabrica bastos e mobilas; la palma cual produi esta","i":"#","t":"Calameae","en":"rattan (fiber|re, plant)"}
+{"L":"rateria","C":["n"],"en":"rathole, rat trap","fr":"trou à rat, ratière"}
+{"L":"ratin","C":["a"],"en":"ratlike, ratty","fr":"qui ressemble à un rat, qui fait penser à un rat"}
+{"T":"r","L":"ratan","C":["n","pla"],"d":"la troncetas magra e pliable de un palma, usada per fabrica bastos e mobilas; la palma cual produi esta","i":"#","t":"Calameae","en":"rattan (fiber|re, plant)","fr":"rotin"}
 {"T":"r","L":"ratatui","C":["n","cos"],"d":"un plato composada de oniones, zucetas, tomates, melonjena e peperon, soteda e coceda lenta en olio","en":"ratatouille (food)","fr":"ratatouille"}
-{"T":"r","L":"ratel","C":["n","mam"],"d":"un mamal simil a un texon, con dorso blanca o gris e fondo negra, nativa de Africa e Asia","t":"Mellivora capensis","en":"ratel, honey badger"}
+{"T":"r","L":"ratel","C":["n","mam"],"d":"un mamal simil a un texon, con dorso blanca o gris e fondo negra, nativa de Africa e Asia","t":"Mellivora capensis","en":"ratel, honey badger","fr":"ratel, zorille du Cap"}
 {"T":"r","L":"ravioli","C":["n","cos"],"d":"envelopas peti de pasta cual conteni carne moleda, ceso o vejetales, orijinante en Italia","i":"#","en":"ravioli (food)","fr":"ravioli"}
-{"T":"r","L":"raza","C":["n","bio","uma"],"d":"cada de la divides major proposada de umania, con cualias fisical diferente; (en biolojia) un popla en un spesie cual es distinguida en alga modo; un grupo de animales o plantas developada par eleje intendeda","da":"race","de":"Geschlecht, Stamm","en":"race, ethnic group, breed","eo":"raso","es":"raza","fr":"race","it":"razza, etnia","nl":"ras","pt":"raça, etnia"}
-{"L":"de raza miscada","C":["a"],"en":"of mixed race, mongrel, mestiza, mestizo"}
+{"T":"r","L":"raza","C":["n","bio","uma"],"d":"cada de la divides major proposada de umania, con cualias fisical diferente; (en biolojia) un popla en un spesie cual es distinguida en alga modo; un grupo de animales o plantas developada par eleje intendeda","da":"race","de":"Geschlecht, Stamm","en":"race, ethnic group, breed","eo":"raso","es":"raza","fr":"race, ethnie, espèce","it":"razza, etnia","nl":"ras","pt":"raça, etnia"}
+{"L":"de raza miscada","C":["a"],"en":"of mixed race, mongrel, mestiza, mestizo","fr":"métis"}
 {"L":"razal","C":["a"],"en":"racial","fr":"racial"}
 {"L":"razisme","C":["n"],"en":"racism","fr":"racisme"}
 {"L":"raziste","C":["n"],"en":"racist","fr":"raciste"}
-{"T":"r","L":"razona","C":["vt","fil"],"d":"pensa, comprende e judi par un prosede lojical; presenta (lojica e atestas) per atenta convinse","en":"reason, ratiocinate, argue","fr":"raisonner, argumenter"}
-{"L":"razona","C":["n"],"da":"ræsonnement","de":"Vernunft","en":"reasoning, rational thought, argument, case, reason, motive, purpose","eo":"rezono","es":"razonamiento, raciocinio, pensamiento racional","fr":"raison","it":"raziocinio, ragionamento","nl":"rede, vernuft","pt":"razão"}
-{"L":"razona bon","C":["v"],"en":"reason well, be right, be correct","fr":"avoir raison"}
-{"L":"razona coreta","C":["v"],"en":"reason correctly, be right, be correct","fr":"avoir raison"}
-{"L":"razona deduinte","C":["n"],"en":"deductive reasoning, syllogism","fr":"raisonnement déductif"}
-{"L":"razona falsa","C":["n"],"en":"fallacy, bad reasoning","he":"אמונה שגויה, אמונת שווא"}
+{"T":"r","L":"razona","C":["vt","fil"],"d":"pensa, comprende e judi par un prosede lojical; presenta (lojica e atestas) per atenta convinse","en":"reason, ratiocinate, argue","fr":"raisonner, réfléchir, argumenter, analyser, calculer, cogiter, ratiociner"}
+{"L":"razona","C":["n"],"da":"ræsonnement","de":"Vernunft","en":"reasoning, rational thought, argument, case, reason, motive, purpose","eo":"rezono","es":"razonamiento, raciocinio, pensamiento racional","fr":"raison, réflexion, analyse, calcul, cogitation, ratiocination, argumentation","it":"raziocinio, ragionamento","nl":"rede, vernuft","pt":"razão"}
+{"L":"razona bon","C":["v"],"en":"reason well, be right, be correct","fr":"raisonner correctement, avoir une bonne réflexion, tenir un bon raisonnement, avoir raison, avoir de bons arguments"}
+{"L":"razona coreta","C":["v"],"en":"reason correctly, be right, be correct","fr":"raisonner correctement, avoir une bonne réflexion, tenir un bon raisonnement, avoir raison, avoir de bons arguments"}
+{"L":"razona deduinte","C":["n"],"en":"deductive reasoning, syllogism","fr":"raisonnement déductif, syllogisme"}
+{"L":"razona falsa","C":["n"],"en":"fallacy, bad reasoning","fr":"mal raisonner, raisonner de travers, avoir de mauvais arguments, se tromper complètement","he":"אמונה שגויה, אמונת שווא"}
 {"L":"razona induinte","C":["n"],"en":"inductive reasoning","fr":"raisonnement inductif"}
-{"L":"nonrazonada","C":["a"],"en":"irrational (argument), unjustified"}
-{"L":"nonrazonante","C":["a"],"en":"irrational (person), unreasonable"}
-{"L":"razonada","C":["a"],"en":"rational (argument), reasoned"}
-{"L":"razonada","C":["n"],"en":"reasoned argument, piece of reasoning"}
-{"L":"razonal","C":["a"],"en":"rational (number)"}
-{"L":"razonalisme","C":["n"],"en":"rationalism"}
-{"L":"razonaliste","C":["a"],"en":"rationalist, rationalistic"}
-{"L":"razonante","C":["a"],"en":"rational (person), reasoning, reasonable, sapient"}
-{"L":"sin razona","C":["a"],"en":"for no reason, gratuitous; pointless, groundless"}
+{"L":"nonrazonada","C":["a"],"en":"irrational (argument), unjustified","fr":"irrationnel, injustifié, non rationnel, déraisonnable, insensé, incohérent (argument)"}
+{"L":"nonrazonante","C":["a"],"en":"irrational (person), unreasonable","fr":"irréfléchi, insensé, irrationnel, déraisonnable (personne)"}
+{"L":"razonada","C":["a"],"en":"rational (argument), reasoned","fr":"sensé, rationnel, raisonné, argumenté"}
+{"L":"razonada","C":["n"],"en":"reasoned argument, piece of reasoning","fr":"argument sensé, pensée réfléchie, raisonnement cohérent, bon argument"}
+{"L":"razonal","C":["a"],"en":"rational (number)","fr":"rationnel (nombre)"}
+{"L":"razonalisme","C":["n"],"en":"rationalism","fr":"rationalisme"}
+{"L":"razonaliste","C":["a"],"en":"rationalist, rationalistic","fr":"rationaliste"}
+{"L":"razonante","C":["a"],"en":"rational (person), reasoning, reasonable, sapient","fr":"sensé, rationnel, raisonnable, cohérent, réfléchi"}
+{"L":"sin razona","C":["a"],"en":"for no reason, gratuitous; pointless, groundless","fr":"sans raison, gratuitement, sans fondement"}
 {"T":"r","L":"re","C":["n","gov","spo"],"d":"la renor mas de un stato autonom, ci tipal eritante la rol par direto de nase (como un titulo); (en xace) la peso la plu importante; la carta de jua con la imaje de un re","i":"#","da":"konge","de":"König","en":"king","eo":"reĝo","es":"rey, monarca","fr":"roi (y compris échecs, cartes)","it":"re","nl":"koning","pt":"rei"}
 {"L":"rea","C":["n"],"d":"la renor fema de un stato autonom, tipal eritante la rol par direto de nase (como un titulo); la sposa de un re; (en xace) la peso la plu potiosa, ance nomida la dama; la carta de jua con la imaje de un rea, ance nomida la dama","i":"#","da":"dronning","de":"Königin","en":"queen","eo":"reĝino; damo (ŝako)","es":"reina","fr":"reine","it":"regina","nl":"koningin","pt":"rainha"}
 {"L":"real","C":["a"],"en":"royal, regal","fr":"royal"}
