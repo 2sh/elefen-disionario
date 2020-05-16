@@ -191,7 +191,7 @@
 {"T":"r","L":"Aconcagua, Monte","C":["n","jeo"],"d":"la monte la plu grande estra Asia, en la Andes de Arjentina","en":"Aconcagua","fr":"Aconcagua (mont)","he":"אקונגווה (הר בארגנטינה)"}
 {"T":"r","L":"aconito","C":["n","pla"],"d":"un planta venenosa con flores de forma elmin","i":"#","o":"de elinica akoniton","t":"Aconitum","en":"aconite, monkshood, wolfsbane (plant)","eo":"akonito","fr":"aconite","he":"אקוניטון (צמח)"}
 {"T":"r","L":"acorda","C":["vt","gov","ling"],"d":"ave la mesma opina (con algun) sur; es coerente (con alga cosa); dise ce on va (fa un ata)","u":"el ia acorda canta","da":"være enig, blive enig","de":"übereinstimmung","en":"agree to, consent, assent, accede, be in agreement (about), concur, accord; agree (grammar); match up, correspond, tally (with); be compatible","eo":"konsenti pri","es":"acordar, concordar, consentir, estar de acuerdo, ponerse de acuerdo","fr":"être d'accord, consentir","gl":"acordar, concordar, consentir, estar de acordo, poñerse de acordo","he":"להסכים; להתאים, להלום"}
-{"L":"acorda","C":["n","mus","ling"],"d":"armonia de opina; un grupo de notas armoniosa cual sona en junta; un cambia a la infleta de un parola, refletante un otra parola a cual lo relata","en":"agreement, accordance, consent, consensus, concord, congruence, congruity, compatibility; entente; chord (music)","eo":"konsento, konkordo, akordo, interkonsento; akordo","fr":"accord, accordage","he":"הסכמה, הסכם; התאמה, הלימה"}
+{"L":"acorda","C":["n","mus","ling"],"d":"armonia de opina; un grupo de notas armoniosa cual sona en junta; un cambia a la infleta de un parola, refletante un otra parola a cual lo relata","en":"agreement, pact; accordance, consent, consensus, concord, congruence, congruity, compatibility; entente; chord (music)","eo":"konsento, konkordo, akordo, interkonsento; akordo","fr":"accord, accordage","he":"הסכמה, הסכם; התאמה, הלימה"}
 {"L":"acorda con testa","C":["esp"],"en":"nod one's head","eo":"kapjesi","fr":"acquiescement, hochement de tête","he":"להנהן"}
 {"L":"acorda de coesiste","C":["n"],"en":"modus vivendi, agreement to coexist","fr":"modus vivendi, arrangement, compromis","he":"מודוס ויוונדי, הסכם בין צדדים חלוקים"}
 {"L":"acorda de nonrevela","C":["n"],"en":"non-disclosure agreement","fr":"accord de non-divulgation","he":"הסכם לשמירת סודיות"}
@@ -574,6 +574,7 @@
 {"L":"ajente de cambia","C":["n"],"d":"un person en un asioneria ci compra e vende titulos finansial per un otra","en":"stockbroker","eo":"borsagento","fr":"agent de change","he":"סוכן בורסה, ברוקר"}
 {"L":"ajente de imobila","C":["n"],"d":"un person ci vende o lua imobila per un otra","en":"estate agent, real estate agent, realtor","eo":"domagento, bienmakleristo","fr":"agent immobilier","he":"סוכן נדל\"ן"}
 {"L":"ajente de intercambia","C":["n"],"en":"broker, intermediary","fr":"courtier, intermédiaire","he":"מתווך, איש ביניים"}
+{"L":"ajente de libri con garantia","C":["n"],"en":"bail bondsman"}
 {"L":"ajente de potia","C":["n"],"en":"powerbroker","fr":"éminence grise","he":"מושך בחוטים, משפיע על פוליטיקאים או אנשי ממשל"}
 {"L":"ajente de sposi","C":["n"],"en":"matchmaker","fr":"agent matrimonial, marieur, entremetteur","he":"שדכן או שדכנית"}
 {"L":"ajente media","C":["n"],"d":"un person ci compra benes de produores e vende los a consumores","en":"middleman","eo":"peranto, revendisto","fr":"intermédiaire","he":"מתווך, איש ביניים"}
@@ -2188,7 +2189,7 @@
 {"L":"astuta de ueb","C":["a"],"en":"web-savvy","fr":"féru du web","he":"מתמצא באינטרנט"}
 {"L":"astutia","C":["n"],"en":"astuteness, cleverness, wittiness, wit, esprit, cunning, savvy, shrewdness, acumen","fr":"intelligence, vivacité d'esprit, ingéniosité","he":"פיקחות, תחכום, שנינות, פלפול, חריפות"}
 {"L":"astutia comersial","C":["n"],"en":"business acumen","fr":"sens des affaires","he":"חוש עסקי"}
-{"L":"es plu astuta ca","C":["v"],"en":"outwit, outsmart, outthink, outfox","fr":"être plus malin que","he":"להערים, לעלות בחוכמתו"}
+{"L":"es plu astuta ca","C":["v"],"en":"outwit, outsmart, outthink, outfox, outflank","fr":"être plus malin que","he":"להערים, לעלות בחוכמתו"}
 {"L":"tecnical astuta","C":["a"],"en":"tech-savvy","fr":"féru de technique","he":"מתמצא בטכנולוגיה"}
 {"T":"r","L":"asurda","C":["a","fil"],"d":"multe nonrazonada, nonlojical o nonconveninte; fol; causante rie o burla","en":"absurd, nonsensical, ludicrous, preposterous, ridiculous, risible, far-fetched","fr":"absurde, ridicule, insensé, stupide, inepte","he":"אבסורדי, מגוחך, לא הגיוני, שטותי"}
 {"L":"asurda","C":["n"],"en":"absurdity (something absurd), nonsense, drivel, flimflam, hogwash, poppycock","fr":"absurdité (chose absurde), ineptie, non-sense, sottise, bêtise","he":"דבר או רעיון אבסורדי, שטות"}
@@ -4391,38 +4392,38 @@
 {"L":"canin","C":["a"],"de":"hundeähnlich, hündisch","en":"canine, doglike","fr":"canin, semblable à un chien","he":"כלבי"}
 {"T":"r","L":"cana","C":["n","pla"],"d":"un planta alta con folias magra en familia de erba, cual abita acua o pantanes; la tronceta vacua e juntada de esta o un planta simil; un palo simil, usada per pexa, orijinal fabricada de cana","i":"#","t":"Phragmites, Arundo {e multe otra jeneros","de":"Schilf, Schilfrohr, Pfahlrohr, Ried (Pflanzen); Angel, Angelrute","en":"reed, cane; rod (fishing)","fr":"roseau, canne (à pêche)","he":"קנה (צמח); חכה"}
 {"L":"cana de zucar","C":["n","pla"],"t":"Saccharum","de":"Zuckerrohr","en":"sugarcane","fr":"canne à sucre","he":"קנה סוכר"}
-{"T":"r","L":"canaba","C":["n","pla"],"d":"un planta alta con tronceta rijida e vertical e folias divideda e sierin; la fibre de esta, usada per fabrica cordas e stofas; un prepara secida de la flores o otra partes de esta planta, o un estraeda resinosa de esta, usada como un droga","i":"#","t":"Cannabis sativa","da":"hamp, canabis","de":"Hanf","en":"hemp, cannabis, marihuana, marijuana, pot (plant, material, drug)","es":"cáñamo, mariguana, canabis, sisal","fr":"chanvre, cannabis, marijuana","gl":"marihuana","he":"קנאביס (צמח); מריחואנה, גראס"}
-{"L":"canabor","C":["n"],"en":"cannabis user, pothead, stoner","fr":"consommateur de cannabis","he":"מעשן גראס, \"סטלן\""}
-{"T":"r","L":"canabinoide","C":["n","med"],"d":"cada de un grupo de composadas cual inclui la ingrediente ativa de canaba, usada como un medisin o un droga recreal","en":"cannabinoid (drug)","fr":"cannabinoïde (drogue)","he":"קנאבינואיד"}
-{"T":"r","L":"canada","C":["a","dem"],"d":"pertinente a un lingua dravidian relatada a telugu, e la popla ci parla lo","en":"Kannada (person, language)","fr":"kannara","he":"קאנדה (שפה)"}
-{"L":"canada","C":["n"],"en":"Kannada (person, language)","fr":"Kannara (personne), kannara (langue)","he":"קאנדה (שפה)"}
-{"T":"r","L":"Canada","C":["n","jeo"],"c":"Ottawa","d":"un pais en la norde de America Norde, a norde de la SUA, e la pais du de la plu grandes de mundo","i":"#","en":"Canada","fr":"Canada","he":"קנדה"}
-{"L":"canadian","C":["a"],"en":"Canadian","fr":"canadien","he":"קנדי"}
-{"L":"canadian","C":["n"],"en":"Canadian","fr":"Canadien (personne)","he":"קנדי"}
-{"T":"r","L":"canal","C":["n"],"d":"un rio artifis, construida per permete ce barcones viaja tra tera o per gida acua per iriga; un duto tubo en un planta o animal, per move o conteni comedas, licuida o aira","i":"#","da":"kanal, grøft","de":"Kanal","en":"canal, channel, ditch, duct, flume; channel, station (television, etc.)","es":"canal, acequia","fr":"canal","gl":"canle","he":"תעלה, שוחה, ערוץ, אפיק"}
-{"L":"canal suteran","C":["n"],"en":"underground channel, culvert","fr":"canal souterrain","he":"תעלה תת-קרקעית"}
-{"L":"canaleta","C":["n"],"en":"gutter (street, roof); sluiceway","fr":"caniveau, rigole","he":"מרזב; מזחילה (בכביש)"}
-{"T":"r","L":"Canan","C":["n","ist","jeo"],"d":"un rejion antica de Filastin a ueste de la Rio Urdun, notada en la Biblia","en":"Canaan (biblical region)","fr":"Canaan","he":"כנען"}
-{"L":"cananes","C":["a"],"en":"Canaanite (person, language)","fr":"cananéen","he":"כנעני"}
-{"L":"cananes","C":["n","dem"],"en":"Canaanite (person, language)","fr":"Cananéen (personne), cananéen (langue)","he":"כנעני"}
-{"T":"r","L":"canape","C":["n","cos"],"d":"un peso peti de pan o pasta con salsa saborosa a sur, tipal servida con bevidas a un selebra formal","i":"#","en":"canapé","fr":"canapé, toast","he":"קאנפה (מאכל)"}
-{"T":"r","L":"canario","C":["n","avia"],"d":"un pinson african con canta melodiosa, tipal con plumas jala e verde, comun usada como animal de casa","i":"#","t":"Serinus","en":"canary","fr":"canari, serin","he":"כנרית (ציפור)"}
-{"L":"Isolas Canario","C":["n","pl","jeo"],"d":"un grupo de isolas e un rejion autonom de Espania, en la Mar Atlantica, a este de Africa","i":"#","en":"Canary Islands","fr":"îles Canaries","he":"האיים הקנריים"}
-{"T":"r","L":"canasta","C":["n","spo"],"d":"un jua de cartas, con du pacetas e du duples de juores, en cual on atenta colie cartas","en":"canasta (card game)","fr":"canasta","he":"קנסטה (משחק קלפים)"}
-{"T":"r","L":"cancan","C":["n","mus"],"d":"un dansa vivosa con pedis alta, orijinante en cabares de Paris en la sentenio 19, fada par femes en faldas e faldetas longa","i":"#","en":"cancan (dance)","fr":"cancan (danse)","he":"קאן-קאן (ריקוד)"}
-{"T":"r","L":"candela","C":["n","util","fis"],"d":"un silindre o bloco de sira o sebo con un mexa a la sentro cual produi lus cuando lo arde; la unia internasional per mesura intensia de lus","i":"#","da":"lys, kærte","de":"Kerze","en":"candle; candela, candlepower","es":"vela, candela, bujía, cirio","fr":"bougie","gl":"candea","he":"נר; קנדלה"}
-{"L":"candela roman","C":["n"],"en":"Roman candle (firework)"}
-{"T":"r","L":"candelabro","C":["n","arci"],"d":"un portacandela per un cuantia de candelas o lampas","i":"#","en":"candelabra, chandelier","fr":"chandelier, candélabre","he":"מנורת קנים"}
-{"T":"r","L":"canela","C":["n","pla"],"d":"un arbor de Asia sude; un spise bonodorosa produida de la cortex de esta","i":"#","t":"Cinnamomum","en":"cinnamon (plant, spice)","fr":"cannelle","he":"קינמון"}
-{"T":"r","L":"caneloni","C":["n","cos"],"d":"un pasta con la forma de tubos peti","en":"cannelloni","fr":"cannelloni","he":"קנלוני","it":"cannelloni"}
-{"T":"r","L":"cangaru","C":["n","mam"],"d":"un marsupio grande e erbivor con coda longa e potiosa e gamas posterior forte cual permete ce lo move par salta, trovada en Australia e Gine Nova","i":"#","p":"cangarú","t":"Macropus","en":"kangaroo","fr":"kangourou","he":"קנגרו"}
-{"L":"cangareta","C":["n"],"en":"joey","fr":"petit kangourou","he":"קנגורו צעיר"}
-{"L":"cangari","C":["vnt"],"en":"behave like a kangaroo","fr":"se comporter comme un kangourou","he":"להתנהג כמו קנגורו"}
-{"L":"cangari a enfantes","C":["v"],"en":"look after children, babysit","fr":"faire du baby-sitting","he":"לשמור על ילדים"}
-{"T":"r","L":"canibal","C":["n","uma"],"d":"un person ci come la carne de otra umanas; un animal cual come la carne de otras de sua propre spesie","en":"cannibal, anthropophage","fr":"cannibale","he":"קניבל"}
-{"L":"canibalisme","C":["n"],"en":"cannibalism","fr":"cannibalisme","he":"קניבליזם"}
-{"T":"r","L":"canido","C":["n","mam"],"d":"un membro de la familia de mamales cual inclui canes","t":"Canidae","en":"canid, canine","fr":"canidé","he":"כלבי (שייך למשפחת הכלביים)"}
-{"T":"r","L":"canion","C":["n","tera"],"d":"un vale grande, magra e basa, tipal con un rio; (metafor) un distantia grande entre du ideas o situas","i":"#","en":"canyon, gorge, ravine, chasm; gap (to be bridged metaphorically)","fr":"canyon, gorges, clue, cluse","gl":"canón (val)","he":"קניון, גיא; (מטפורה) תהום, פער"}
+{"T":"r","L":"canaba","C":["n","pla"],"d":"un planta alta con tronceta rijida e vertical e folias divideda e sierin; la fibre de esta, usada per fabrica cordas e stofas; un prepara secida de la flores o otra partes de esta planta, o un estraeda resinosa de esta, usada como un droga","i":"#","t":"Cannabis sativa","da":"hamp, canabis","de":"Hanf, Cannabis, Marihuana, Haschisch, Gras (Pflanze, Material, Droge)","en":"hemp, cannabis, marihuana, marijuana, pot (plant, material, drug)","es":"cáñamo, mariguana, canabis, sisal","fr":"chanvre, cannabis, marijuana","gl":"marihuana","he":"קנאביס (צמח); מריחואנה, גראס"}
+{"L":"canabor","C":["n"],"de":"Cannabiskonsument, Kiffer","en":"cannabis user, pothead, stoner","fr":"consommateur de cannabis","he":"מעשן גראס, \"סטלן\""}
+{"T":"r","L":"canabinoide","C":["n","med"],"d":"cada de un grupo de composadas cual inclui la ingrediente ativa de canaba, usada como un medisin o un droga recreal","de":"Cannabinoid (Droge)","en":"cannabinoid (drug)","fr":"cannabinoïde (drogue)","he":"קנאבינואיד"}
+{"T":"r","L":"canada","C":["a","dem"],"d":"pertinente a un lingua dravidian relatada a telugu, e la popla ci parla lo","de":"kanaresisch","en":"Kannada (person, language)","fr":"kannara","he":"קאנדה (שפה)"}
+{"L":"canada","C":["n"],"de":"Kannada (Person, Sprache), Kanaresisch","en":"Kannada (person, language)","fr":"Kannara (personne), kannara (langue)","he":"קאנדה (שפה)"}
+{"T":"r","L":"Canada","C":["n","jeo"],"c":"Ottawa","d":"un pais en la norde de America Norde, a norde de la SUA, e la pais du de la plu grandes de mundo","i":"#","de":"Kanada","en":"Canada","fr":"Canada","he":"קנדה"}
+{"L":"canadian","C":["a"],"de":"kanadisch","en":"Canadian","fr":"canadien","he":"קנדי"}
+{"L":"canadian","C":["n"],"de":"Kanadier","en":"Canadian","fr":"Canadien (personne)","he":"קנדי"}
+{"T":"r","L":"canal","C":["n"],"d":"un rio artifis, construida per permete ce barcones viaja tra tera o per gida acua per iriga; un duto tubo en un planta o animal, per move o conteni comedas, licuida o aira","i":"#","da":"kanal, grøft","de":"Kanal (Wasser, Fernsehen etc.), Graben, Bewässerungsgraben; Programm (Fernsehen, Radio)","en":"canal, channel, ditch, duct, flume; channel, station (television, etc.)","es":"canal, acequia","fr":"canal","gl":"canle","he":"תעלה, שוחה, ערוץ, אפיק"}
+{"L":"canal suteran","C":["n"],"de":"Düker, Dole, unterirdischer Kanal, unterirdische Wasserleitung","en":"underground channel, culvert","fr":"canal souterrain","he":"תעלה תת-קרקעית"}
+{"L":"canaleta","C":["n"],"de":"Rinnstein, Gosse, Entwässerungsrinne; Regenrinne, Dachrinne, Kandel","en":"gutter (street, roof); sluiceway","fr":"caniveau, rigole","he":"מרזב; מזחילה (בכביש)"}
+{"T":"r","L":"Canan","C":["n","ist","jeo"],"d":"un rejion antica de Filastin a ueste de la Rio Urdun, notada en la Biblia","de":"Kanaan (biblische Region)","en":"Canaan (biblical region)","fr":"Canaan","he":"כנען"}
+{"L":"cananes","C":["a"],"de":"kanaanitisch","en":"Canaanite (person, language)","fr":"cananéen","he":"כנעני"}
+{"L":"cananes","C":["n","dem"],"de":"Kanaaniter (Person), Kanaanitisch (Sprache)","en":"Canaanite (person, language)","fr":"Cananéen (personne), cananéen (langue)","he":"כנעני"}
+{"T":"r","L":"canape","C":["n","cos"],"d":"un peso peti de pan o pasta con salsa saborosa a sur, tipal servida con bevidas a un selebra formal","i":"#","de":"Canapé, Kanapee (Speise)","en":"canapé","fr":"canapé, toast","he":"קאנפה (מאכל)"}
+{"T":"r","L":"canario","C":["n","avia"],"d":"un pinson african con canta melodiosa, tipal con plumas jala e verde, comun usada como animal de casa","i":"#","t":"Serinus","de":"Kanarienvogel, Kanarie, Kanari","en":"canary","fr":"canari, serin","he":"כנרית (ציפור)"}
+{"L":"Isolas Canario","C":["n","pl","jeo"],"d":"un grupo de isolas e un rejion autonom de Espania, en la Mar Atlantica, a este de Africa","i":"#","de":"Kanarische Inseln, Kanaren","en":"Canary Islands","fr":"îles Canaries","he":"האיים הקנריים"}
+{"T":"r","L":"canasta","C":["n","spo"],"d":"un jua de cartas, con du pacetas e du duples de juores, en cual on atenta colie cartas","de":"Canasta (Kartenspiel)","en":"canasta (card game)","fr":"canasta","he":"קנסטה (משחק קלפים)"}
+{"T":"r","L":"cancan","C":["n","mus"],"d":"un dansa vivosa con pedis alta, orijinante en cabares de Paris en la sentenio 19, fada par femes en faldas e faldetas longa","i":"#","de":"Cancan (Tanz)","en":"cancan, can-can (dance)","fr":"cancan (danse)","he":"קאן-קאן (ריקוד)"}
+{"T":"r","L":"candela","C":["n","util","fis"],"d":"un silindre o bloco de sira o sebo con un mexa a la sentro cual produi lus cuando lo arde; la unia internasional per mesura intensia de lus","i":"#","da":"lys, kærte","de":"Kerze; Candela, Kerzenstärke (Einheiten)","en":"candle; candela, candlepower","es":"vela, candela, bujía, cirio","fr":"bougie","gl":"candea","he":"נר; קנדלה"}
+{"L":"candela roman","C":["n"],"de":"Römisches Licht, Römische Kerze (Feuerwerk)","en":"Roman candle (firework)"}
+{"T":"r","L":"candelabro","C":["n","arci"],"d":"un portacandela per un cuantia de candelas o lampas","i":"#","de":"Kandelaber, Girandole, Armleuchter, Kronleuchter, Lüster, Luster","en":"candelabra, chandelier","fr":"chandelier, candélabre","he":"מנורת קנים"}
+{"T":"r","L":"canela","C":["n","pla"],"d":"un arbor de Asia sude; un spise bonodorosa produida de la cortex de esta","i":"#","t":"Cinnamomum","de":"Zimt (Pflanze, Gewürz)","en":"cinnamon (plant, spice)","fr":"cannelle","he":"קינמון"}
+{"T":"r","L":"caneloni","C":["n","cos"],"d":"un pasta con la forma de tubos peti","de":"Cannelloni","en":"cannelloni","fr":"cannelloni","he":"קנלוני","it":"cannelloni"}
+{"T":"r","L":"cangaru","C":["n","mam"],"d":"un marsupio grande e erbivor con coda longa e potiosa e gamas posterior forte cual permete ce lo move par salta, trovada en Australia e Gine Nova","i":"#","p":"cangarú","t":"Macropus","de":"Känguru","en":"kangaroo","fr":"kangourou","he":"קנגרו"}
+{"L":"cangareta","C":["n"],"de":"junges Känguru","en":"joey","fr":"petit kangourou","he":"קנגורו צעיר"}
+{"L":"cangari","C":["vnt"],"de":"sich wie ein Känguru verhalten","en":"behave like a kangaroo","fr":"se comporter comme un kangourou","he":"להתנהג כמו קנגורו"}
+{"L":"cangari a enfantes","C":["v"],"de":"babysitten, auf Kinder aufpassen","en":"look after children, babysit","fr":"faire du baby-sitting","he":"לשמור על ילדים"}
+{"T":"r","L":"canibal","C":["n","uma"],"d":"un person ci come la carne de otra umanas; un animal cual come la carne de otras de sua propre spesie","de":"Kannibale, Menschenfresser, Anthropophage","en":"cannibal, anthropophage","fr":"cannibale","he":"קניבל"}
+{"L":"canibalisme","C":["n"],"de":"Kannibalismus, Anthropophagie","en":"cannibalism","fr":"cannibalisme","he":"קניבליזם"}
+{"T":"r","L":"canido","C":["n","mam"],"d":"un membro de la familia de mamales cual inclui canes","t":"Canidae","de":"Canidae, Caninae, hundeartiges Tier (Hunde, Füchse, Schakale etc.)","en":"canid, canine","fr":"canidé","he":"כלבי (שייך למשפחת הכלביים)"}
+{"T":"r","L":"canion","C":["n","tera"],"d":"un vale grande, magra e basa, tipal con un rio; (metafor) un distantia grande entre du ideas o situas","i":"#","de":"Canyon, Schlucht, Kluft; Abgrund (metaphorisch)","en":"canyon, gorge, ravine, chasm; gap (to be bridged metaphorically)","fr":"canyon, gorges, clue, cluse","gl":"canón (val)","he":"קניון, גיא; (מטפורה) תהום, פער"}
 {"T":"r","L":"canix","C":["n","mam"],"d":"un raza de can con pelo risa, tipal cortida en modo ornal","i":"#","en":"poodle","fr":"caniche","he":"פודל (כלב)"}
 {"T":"r","L":"canji","C":["n","ling"],"d":"un sistem de scrive nion, usante sinias xines","en":"kanji (writing system)","fr":"kanji (système d'écriture)","he":"קאנג'י"}
 {"T":"r","L":"cano","C":["n","util"],"d":"la parte silindre de un fusil","en":"barrel (gun)","fr":"canon (d'un fusil)","he":"קנה (רובה)"}
@@ -4662,7 +4663,7 @@
 {"T":"r","L":"carera","C":["n"],"d":"un profesa cual ocupa un periodo longa de la vive de un person, tipal nesesante dedica","en":"career, calling, occupation, job, profession, vocation, métier","fr":"carrière, profession, vocation, métier","he":"קריירה"}
 {"L":"careral","C":["a"],"en":"career-related","fr":"de carrière","he":"שקשור בקריירה"}
 {"L":"careror","C":["n"],"en":"career man, career woman","fr":"carriériste","he":"קרייריסט"}
-{"T":"r","L":"caresa","C":["vt"],"d":"toca o frota lejera e amante","en":"caress, stroke, fondle, pet","fr":"caresser, câliner","he":"ללטף"}
+{"T":"r","L":"caresa","C":["vt"],"d":"toca o frota lejera e amante","en":"caress, stroke, fondle, pet, neck, canoodle","fr":"caresser, câliner","he":"ללטף"}
 {"T":"r","L":"carga","C":["vt","vec"],"d":"pone cosas sur o en (un contenador o veculo); pone alga cosa en (un aparato) afin lo pote funsiona; furni enerjia eletrical a un pila o aparato con pila; (en informatica) move (un program o datos) a memoria plu fasil per asede","da":"byrde, ladning","de":"Ladung","en":"load, stow, ship; upload; charge (electrically); burden, afflict, subject, encumber, foist","fr":"charger","he":"להעמיס; (מחשבים) להעלות; להטעין, לטעון; להכביד"}
 {"L":"carga","C":["n"],"en":"load, burden, cargo, freight, shipment; upload; charge (electric)","es":"carga, peso, cargamento, impedimenta","fr":"charge","he":"העמסה, הטענה, טעינה; (מחשבים) העלאה; משא, עומס, מִטען (גם חשמלי); הכבדה"}
 {"L":"carga de labora","C":["n"],"en":"workload","fr":"charge de travail","he":"עומס עבודה"}
@@ -5817,7 +5818,7 @@
 {"L":"autocompatia","C":["n"],"en":"self-pity","fr":"l'apitoiement sur soi","he":"רחמים עצמיים"}
 {"L":"compatiable","C":["a"],"en":"pitiable, poor, worthy of compassion","fr":"digne de pitié, digne de compassion, émouvant, pitoyable, qui fait de la peine","he":"מעורר רחמים, מעורר חמלה"}
 {"L":"compatiosa","C":["a"],"en":"compassionate, humane, kind, kind-hearted, soft-hearted, warm-hearted, considerate, tender, sympathetic, selfless","fr":"compatissant, bienveillant","he":"רחום, נדיב, אנושי, מתחשב, סימפטי"}
-{"L":"noncompatiosa","C":["a"],"en":"not compassionate, inhumane, unkind, inconsiderate, unsympathetic, hard-hearted, cold-hearted","fr":"impitoyable, inhumain, insensible","he":"רע לב, חסר רחמים, חסר אנושיות, חסר התחשבות"}
+{"L":"noncompatiosa","C":["a"],"en":"not compassionate, inhumane, unkind, inconsiderate, unsympathetic, hard-hearted, cold-hearted, ruthless","fr":"impitoyable, inhumain, insensible","he":"רע לב, חסר רחמים, חסר אנושיות, חסר התחשבות"}
 {"L":"sin compatia","C":["a"],"en":"pitiless, merciless, inhumane, cut-throat","fr":"insensibilité, inhumanité, froideur, indifférence","he":"ללא רחמים, אכזרי"}
 {"T":"r","L":"compendio","C":["n"],"d":"un colie de informas consisa ma detaliosa sur un tema, tipal en un libro","en":"compendium","fr":"compendium, recueil, abrégé, précis, résumé, somme","he":"תקציר, סיכום"}
 {"L":"compendio de bestias","C":["n"],"en":"bestiary","fr":"bestiaire","he":"ספר חיות, בסטיארי"}
@@ -7486,7 +7487,7 @@
 {"T":"r","L":"cumbia","C":["n","mus"],"d":"un tipo de musica e dansa, orijinante en Colombia, simil a salsa","en":"cumbia (dance, music)","fr":"cumbia (danse, musique)","he":"קומביה (ריקוד, מוזיקה)"}
 {"T":"r","L":"cumcuat","C":["n","pla","cos"],"d":"un arbor de Asia; la fruta sitrica de esta, con casca dulse e comable, e pulpa asida","i":"#","t":"Fortunella","en":"kumquat","fr":"kumquat","he":"קומקוואט, תפוז סיני"}
 {"T":"r","L":"cumin","C":["n","pla","cos"],"d":"un planta peti e magra de Asia sentral e la Mediteraneo; la semes bonodorosa de esta, usada como un spise, tipal moleda e usada en cari","i":"#","t":"Cuminum cyminum","en":"cumin (plant, seed)","fr":"cumin","he":"כמון"}
-{"T":"r","L":"cumula","C":["vnt"],"d":"(cosas) deveni colieda en cuantia cresente","en":"accumulate, hoard, accrue","fr":"s'accumuler, s'amasser, se cumuler, s'amonceler, s'entasser, s'assembler","he":"להצטבר, להיאסף, להיערם"}
+{"T":"r","L":"cumula","C":["vnt"],"d":"(cosas) deveni colieda en cuantia cresente","en":"accumulate, hoard, accrue, build up","fr":"s'accumuler, s'amasser, se cumuler, s'amonceler, s'entasser, s'assembler","he":"להצטבר, להיאסף, להיערם"}
 {"L":"cumula","C":["n"],"en":"accumulation, accrual, backlog, build-up, pile-up","fr":"accumulation, amas, amassement, cumul, amoncèlement, tas, entassement, agglomération","he":"צבירה, איסוף, אגירה; הצטברות, מצבור, ערימה, מערום"}
 {"L":"cumula de neva","C":["n"],"en":"snowpack","fr":"manteau neigeux, tas de neige, amas de neige","he":"שלג עמוק"}
 {"L":"cumulador","C":["n"],"en":"accumulator (software, cryptography, energy)","fr":"accumulateur","he":"(מחשבים) צובר, אוגר"}
@@ -7813,9 +7814,9 @@
 {"L":"defia","C":["n"],"en":"defiance, challenge","fr":"affrontement, confrontation","he":"התרסה, קריאת תיגר","ru":"вызов, сложная задача, проблема"}
 {"L":"defiante","C":["a"],"en":"defiant, challenging, recalcitrant","fr":"provocateur","he":"מתריס, קורא תיגר","ru":"вызывающий (например о поведении), сложный (о проблеме, ситуации)"}
 {"L":"defior","C":["n"],"en":"challenger","fr":"challenger, quelqu'un qui relève un défi","he":"(אדם) קורא תיגר"}
-{"T":"r","L":"defini","C":["vt","ling"],"d":"declara o descrive esata la natur, estende o sinifia de; descrive o marca la borda o limitas de","en":"define, delineate","fr":"définir, décrire, préciser, caractériser, déterminer","he":"להגדיר","ru":"определять, характеризировать, задать, сформулировать, очертить сферу (влияния, распространени и тп)"}
+{"T":"r","L":"defini","C":["vt","ling"],"d":"declara o descrive esata la natur, estende o sinifia de; descrive o marca la borda o limitas de","en":"define, delineate, set","fr":"définir, décrire, préciser, caractériser, déterminer","he":"להגדיר","ru":"определять, характеризировать, задать, сформулировать, очертить сферу (влияния, распространени и тп)"}
 {"L":"defini","C":["n"],"en":"definition; clue (in word game)","fr":"définition, description, précision","he":"הגדרה","ru":"определение, формулировка; подсказка (в игре слов)"}
-{"L":"definida","C":["a"],"en":"defined, definite","fr":"défini, précisé","he":"מוגדר","ru":"определдённый, охарактеризованный, заданный, сформулированный"}
+{"L":"definida","C":["a"],"en":"defined, definite, set","fr":"défini, précisé","he":"מוגדר","ru":"определдённый, охарактеризованный, заданный, сформулированный"}
 {"L":"defininte","C":["a"],"en":"definitive","fr":"définissant, déterminant, précisant","he":"מקיף, שלם, דפניטיבי","ru":"окончательный, определённый, точно формулирующий"}
 {"L":"nondefinida","C":["a"],"en":"undefined, indefinite","fr":"indéfini","he":"לא מוגדר"}
 {"L":"predefini","C":["vt"],"en":"predefine","fr":"prédéfinir","he":"להגדיר מראש","ru":"предопределять"}
@@ -8238,6 +8239,7 @@
 {"L":"dia santa","C":["n"],"da":"jødisk lørdag","de":"Sabbat","en":"holy day, sabbath","es":"sábado judío, domíngo cristiano, viernes musulmán","fr":"jour saint, sabbat","he":"יום קדוש"}
 {"L":"a cada dia","C":["av"],"en":"every day","fr":"chaque jour, quotidiennement","he":"כל יום, בכל יום"}
 {"L":"a la otra dia","C":["av"],"en":"the other day","fr":"l'autre jour","he":"לפני כמה ימים"}
+{"L":"de dia zero","C":["a"],"d":"(un punto atacable de un program de computador) cual la mantenores no conose o no ia repara","en":"zero-day"}
 {"L":"de la dia","C":["a"],"en":"of the day, du jour","fr":"du jour","he":"של הזמן הזה, דהיום"}
 {"L":"dial","C":["a"],"en":"daily, diurnal (once a day); everyday, quotidian","fr":"diurne; quotidien","he":"יומי; כל יום"}
 {"L":"mediadia","C":["n"],"p":"mediadía","da":"middag","de":"Mittag","en":"midday, noon, noontime","es":"mediodía","fr":"midi","he":"צהריים, אמצע היום"}
@@ -9165,6 +9167,7 @@
 {"L":"egalinte","C":["n"],"en":"equalizer|is","fr":"égal, pair, semblable","he":"משווה (עושה שווה)"}
 {"L":"egalisme","C":["n"],"en":"egalitarianism","fr":"égalitarisme","he":"דגילה בשוויון, שוויונאות"}
 {"L":"egaliste","C":["a"],"en":"egalitarian","fr":"égalitaire, égalitariste","he":"דוגל בשוויון, שוויונאי"}
+{"L":"entre egales","C":["a"],"en":"among equals, peer-to-peer"}
 {"L":"nonegal","C":["a"],"en":"unequal, non-equivalent","fr":"inégal, non équivalent","he":"לא שווה"}
 {"L":"nonegali","C":["vnt"],"en":"become unequal","fr":"devenir inégal","he":"להיעשות לא שווה"}
 {"L":"nonegali","C":["vt"],"en":"make unequal","fr":"rendre inégal, créer une inégalité","he":"לגרום לאי-שוויון"}
@@ -9379,7 +9382,7 @@
 {"L":"embarasada","C":["a"],"en":"embarrassed, sheepish, awkward","fr":"embarrassé, décontenancé, déconcerté, penaud, honteux","he":"נבוך"}
 {"L":"embarasante","C":["a"],"en":"embarrassing, awkward","fr":"embarrassant, déconcertant, gênant","he":"מביך"}
 {"T":"r","L":"embarca","C":["vt","vec"],"d":"entra a (un veculo); comensa (un taxe o discute, tipal importante o difisil)","en":"embark, board, go aboard, entrain; undertake, address oneself to (task); broach, bring up (topic)","fr":"embarquer dans, s'embarquer dans, s'engager dans","he":"לעלות (לכלי תחבורה); להתחיל (משימה)"}
-{"L":"desembarca","C":["vt"],"en":"disembark, deplane","fr":"débarquer de","he":"לרדת (מכלי תחבורה)"}
+{"L":"desembarca","C":["vt"],"en":"disembark, deplane, detrain, get off, get out","fr":"débarquer de","he":"לרדת (מכלי תחבורה)"}
 {"T":"r","L":"embargo","C":["n","gov"],"d":"un proibi ofisial, tipal contra comersia con un nasion spesifada","en":"embargo","fr":"embargo","he":"אמברגו"}
 {"T":"r","L":"emberiza","C":["n","avia"],"d":"un avia cantante de la mundo vea en familia de pinson, ci come semes e ave plumas con bandas brun e un testa forte marcada","i":"#","t":"Emberiza, {etc","en":"bunting (bird)","fr":"bruant (oiseau)","he":"גיבתון (ציפור)"}
 {"T":"r","L":"embiotero","C":["n","ins"],"d":"un inseto tropical o sutropical, capas de produi seda de sua gamas fronte per crea un pox per abita","t":"Embioptera","en":"webspinner","fr":"embioptère","he":"אמביה (חרק)"}
@@ -10677,6 +10680,7 @@
 {"L":"fali moral","C":["n"],"en":"moral failure, moral lapse","fr":"faiblesse, vice, défaut, défaillance"}
 {"L":"fali paia","C":["v"],"en":"fail to pay, default on payment","fr":"être en défaut de paiement"}
 {"L":"fali para","C":["v"],"en":"fail to stop, overshoot","fr":"ne pas pouvoir s'arrêter, aller trop loin, dépasser"}
+{"L":"fali persepi","C":["v"],"en":"fail to notice, overlook"}
 {"L":"falinte","C":["a"],"en":"failing","fr":"défaillant"}
 {"L":"falor","C":["n"],"en":"failure (person)","fr":"faible, défaillant"}
 {"L":"nunca falinte","C":["a"],"en":"infallible","fr":"infaillible"}
@@ -15862,7 +15866,7 @@
 {"T":"r","L":"manteni","C":["vt"],"d":"fa ce (un cosa o situa) continua con la mesma cualia, tipal bon; furni la nesesadas per vive o funsiona a (un person o cosa)","da":"holde, beholde","de":"behalten","en":"maintain, keep (in the same state), preserve; monitor","es":"mantener, conservar, preservar","fr":"garder, conserver, maintenir, préserver; garder en observation, garder sous surveillance médicale"}
 {"L":"manteni","C":["n"],"en":"maintenance, preservation, upkeep","fr":"conservation, préservation, sauvegarde, maintien"}
 {"L":"mantenida","C":["a"],"en":"maintained, kept","fr":"maintenu, conservé, préservé, sauvegardé"}
-{"L":"mantenor","C":["n"],"en":"janitor, caretaker, maintenance engineer, groundskeeper, groundsman","fr":"agent de maintenance, gardien"}
+{"L":"mantenor","C":["n"],"en":"janitor, caretaker, maintenance engineer, groundskeeper, groundsman; maintainer (software)","fr":"agent de maintenance, gardien"}
 {"L":"mantenor de eglesa","C":["n"],"en":"sexton","fr":"sacristain, bedeau"}
 {"T":"r","L":"manticor","C":["n","mit"],"d":"un animal mital con corpo de leon, fas de umana, e picador de scorpion","i":"#","en":"manticore (mythology)","fr":"manticore, mantichore (mythologie)"}
 {"T":"r","L":"mantis","C":["n","artr"],"d":"un inseto xasante, con brasos pliada como manos preante","i":"#","t":"Mantodea","da":"knæler (insekt)","de":"Gottesanbeterin","en":"mantis (insect)","es":"mantis","fr":"mante religieuse (insecte)"}
@@ -15942,7 +15946,7 @@
 {"T":"r","L":"marea","C":["vnt","med"],"d":"ave un sensa de jira e perde de ecuilibra","en":"feel dizzy, feel giddy, feel woozy; (head) swim","fr":"attraper le mal de mer, avoir le mal de mer, être nauséeux, avoir la nausée; avoir la tête qui tourne"}
 {"L":"marea","C":["vt"],"en":"make dizzy","fr":"donner le mal de mer à, donner la nausée à, rendre nauséeux; faire tourner la tête"}
 {"L":"mareada","C":["a"],"en":"dizzy, giddy, groggy, woozy","fr":"qui a le mal de mer, nauséeux"}
-{"L":"mareante","C":["a"],"en":"dizzying","fr":"qui donne le mal de mer, nauséeux"}
+{"L":"mareante","C":["a"],"en":"dizzying, blinding","fr":"qui donne le mal de mer, nauséeux"}
 {"T":"r","L":"marea","C":["n","ast","tera"],"d":"la leva e cade de la mar par la atrae de la Luna e la Sol","da":"tidevand","de":"Gezeiten","en":"tide","es":"marea, corriente, pleamar","fr":"marée"}
 {"L":"marea alta","C":["n"],"en":"high tide","fr":"marée haute"}
 {"L":"marea basa","C":["n"],"en":"low tide","fr":"marée basse"}
@@ -17214,7 +17218,7 @@
 {"T":"r","L":"moscovio","C":["n","cim"],"d":"la elemento cimical con numero atomal 115","s":"Mc","en":"moscovium (element)","fr":"moscovium (élément)"}
 {"T":"r","L":"Moscva","C":["n","jeo"],"d":"la site capital de Rusia","en":"Moscow","fr":"Moscou"}
 {"T":"r","L":"mostarda","C":["n","pla","cos"],"d":"un planta con flores jala; un pasta jala o brun, preparada de la semes craseda de esta planta, usada como un spise","i":"#","t":"Brassica hirta, nigra, juncea","da":"sennep","de":"Senf","en":"mustard","es":"mostaza","fr":"moutarde"}
-{"T":"r","L":"mostra","C":["vt"],"d":"permete o fa ce (alga cosa) es vidable; ofre, esibi, presenta o produi (alga cosa) per oserva o esamina","da":"vise, udstille","de":"zeigen","en":"show, exhibit, display, reveal, demonstrate, illustrate","es":"mostrar, exhibir, enseñar, desplegar, exponer","fr":"montrer, exposer, exhiber, présenter, produire (devant un public)"}
+{"T":"r","L":"mostra","C":["vt"],"d":"permete o fa ce (alga cosa) es vidable; ofre, esibi, presenta o produi (alga cosa) per oserva o esamina","da":"vise, udstille","de":"zeigen","en":"show, exhibit, display, reveal, demonstrate, illustrate; play (video recording)","es":"mostrar, exhibir, enseñar, desplegar, exponer","fr":"montrer, exposer, exhiber, présenter, produire (devant un public)"}
 {"L":"mostra","C":["n"],"en":"exhibition, illustration, audition, demonstration, demo, sample, manifestation","fr":"exposition, présentation"}
 {"L":"mostra e dise","C":["v"],"en":"show and tell","fr":"présenter, faire un exposé"}
 {"L":"mostra e dise","C":["n"],"en":"show and tell","fr":"présentation, exposé"}
@@ -17228,7 +17232,7 @@
 {"L":"mostrante","C":["a"],"en":"illustrative","fr":"représentatif, illustratif, explicatif"}
 {"L":"nonmostrada","C":["a"],"en":"unshown, unscreened","fr":"non présenté, non représenté"}
 {"L":"premostra","C":["vt"],"en":"presage, augur, portend, foreshadow, forebode, bode","fr":"présager, augurer, préfigurer, montrer un signe avant-coureur de"}
-{"L":"remostra","C":["vt"],"en":"replay","fr":"rejouer, repasser, remontrer"}
+{"L":"remostra","C":["vt"],"en":"replay (video recording)","fr":"rejouer, repasser, remontrer"}
 {"T":"r","L":"motasila","C":["n","avia"],"d":"un avia cantante con coda longa cual el secute frecuente","i":"#","t":"Motacillidae","en":"wagtail (bird)","fr":"bergeronnette, hochequeue (oiseau)"}
 {"T":"r","L":"motel","C":["n","arci"],"d":"un otel desiniada per motoristes, tipal un construida longa de un o du niveles con un parce de autos direta a estra","i":"#","en":"motel","fr":"motel"}
 {"T":"r","L":"motif","C":["n","arte","mus"],"d":"un desinia decorante e tipal repeteda; un melodia o ritmo corta de cual pasajes de musica es plu developada","en":"motif, trope, (repeating) pattern","fr":"thème, thème musical, pattern"}
@@ -18755,7 +18759,7 @@
 {"L":"orijinal","C":["a"],"da":"original, oprindelig","de":"ursprünglich","en":"original, native, aboriginal, autochthonous; original (work, idea)","es":"original, no imitativo","fr":"original"}
 {"L":"orijinal","C":["av"],"en":"originally; né, née","fr":"originellement; né, née"}
 {"L":"orijinal","C":["n"],"en":"original (not a copy)","fr":"original (pas une copie)"}
-{"L":"orijinor","C":["n"],"en":"originator","fr":"initiateur, auteur, créateur, concepteur, inventeur, instigateur"}
+{"L":"orijinor","C":["n"],"en":"originator, forefather","fr":"initiateur, auteur, créateur, concepteur, inventeur, instigateur"}
 {"T":"r","L":"Orinoco, Rio","C":["n","jeo"],"d":"un rio en America Sude norde cual comensa en Venezuela sude-este e fini en la Mar Atlantica","i":"Rio-Orinoco","en":"Orinoco River","fr":"Orénoque (fleuve)"}
 {"T":"r","L":"oriol","C":["n","avia"],"d":"un avia en familia de storno cual come fruta e insetos, e de cual la mas ave tipal plumas negra e briliante jala; un avia american en familia de turdo, con plumas negra e jala o orania","i":"#","t":"Oriolus, Icterus","en":"oriole (bird)","fr":"loriot (oiseau)"}
 {"T":"r","L":"Orion","C":["n","ast","mit"],"d":"(en mitos elinica) un xasor jigante ci ia es cambiada a un constela pos mori; un constela representante el a la ecuator de la sielo","i":"#","en":"Orion (mythology, constellation)","fr":"Orion"}
@@ -20137,6 +20141,8 @@
 {"L":"periodo de condena","C":["n"],"en":"sentence (prison)","fr":"sanction"}
 {"L":"periodo de incuba","C":["n"],"en":"incubation period","fr":"période d'incubation"}
 {"L":"periodo de ofisia","C":["n"],"en":"term of office, tenure","fr":"durée de mandat"}
+{"L":"mediaperiodo","C":["n"],"en":"midterm"}
+{"L":"mediaperiodal","C":["a"],"en":"midterm"}
 {"L":"nonperiodal","C":["a"],"da":"uregelmæssig, sporadisk","en":"irregular, sporadic, intermittent, infrequent","fr":"non périodique, irrégulier, sporadique, aléatoire"}
 {"L":"periodal","C":["a"],"da":"periodisk, regelmæssig","en":"periodic, regular","es":"periódico, regular","fr":"périodique, régulier, cyclique"}
 {"T":"r","L":"periodontia","C":["n","med"],"d":"la ramo de odontia cual studia la strutures ensircante e suportante la dentes","en":"periodontology, periodontics","fr":"parodontie, parodontologie"}
@@ -21274,6 +21280,7 @@
 {"L":"posta airal","C":["n"],"en":"airmail","fr":"voie aérienne, poste aérienne"}
 {"L":"posta caracolin","C":["n"],"en":"snail mail","fr":"voie postale, envoi|courrier non urgent"}
 {"L":"posta de odia","C":["n"],"en":"hate mail","fr":"lettre de menaces, lettre d'insultes, lettre d'injures, courrier|message haineux"}
+{"L":"posta dejetable","C":["n"],"en":"junk mail"}
 {"L":"eposta","C":["vt"],"en":"email","fr":"envoyer un courrier électronique, envoyer|adresser un email"}
 {"L":"eposta","C":["n"],"en":"email","fr":"courriel, mail, courrier électronique"}
 {"L":"postal","C":["a"],"en":"postal","fr":"postal"}
@@ -22339,199 +22346,199 @@
 {"T":"r","L":"re","C":["n","gov","spo"],"d":"la renor mas de un stato autonom, ci tipal eritante la rol par direto de nase (como un titulo); (en xace) la peso la plu importante; la carta de jua con la imaje de un re","i":"#","da":"konge","de":"König","en":"king","eo":"reĝo","es":"rey, monarca","fr":"roi (y compris échecs, cartes)","it":"re","nl":"koning","pt":"rei"}
 {"L":"rea","C":["n"],"d":"la renor fema de un stato autonom, tipal eritante la rol par direto de nase (como un titulo); la sposa de un re; (en xace) la peso la plu potiosa, ance nomida la dama; la carta de jua con la imaje de un rea, ance nomida la dama","i":"#","da":"dronning","de":"Königin","en":"queen","eo":"reĝino; damo (ŝako)","es":"reina","fr":"reine","it":"regina","nl":"koningin","pt":"rainha"}
 {"L":"real","C":["a"],"en":"royal, regal","fr":"royal"}
-{"L":"real","C":["n","mone"],"d":"un person real; la unia de mone en Brasil","en":"royal; real (currency)","fr":"réal"}
+{"L":"real","C":["n","mone"],"d":"un person real; la unia de mone en Brasil","en":"royal; real (currency)","fr":"personne royale, réal"}
 {"L":"visre","C":["n"],"en":"viceroy","fr":"vice-roi"}
 {"L":"visrea","C":["n"],"en":"vicereine","fr":"vice-reine"}
-{"T":"r","L":"re","C":["n","mus"],"d":"la nota du de la scala de C major, D, en la sistem de solfejo","en":"re (musical note)","fr":"ré"}
-{"T":"r","L":"re-","C":["pf","v"],"d":"ajuntada a un verbo per ajunta la idea `denova`, `a retro` o `en la dirije oposante`","u":"recomensa, reinventa; reveni, redona","en":"re- (added to verbs: repetition or backward direction)"}
+{"T":"r","L":"re","C":["n","mus"],"d":"la nota du de la scala de C major, D, en la sistem de solfejo","en":"re (musical note)","fr":"ré (note de musique)"}
+{"T":"r","L":"re-","C":["pf","v"],"d":"ajuntada a un verbo per ajunta la idea `denova`, `a retro` o `en la dirije oposante`","u":"recomensa, reinventa; reveni, redona","en":"re- (added to verbs: repetition or backward direction)","fr":"re-"}
 {"T":"r","L":"rea","C":["n","avia"],"d":"un avia grande sin capasia de vole, de la savanas de America Sude, semblante un astruzo peti, con plumas grisin brun","i":"rea-avia","t":"Rhea","en":"rhea (bird)","fr":"nandou"}
-{"T":"r","L":"-rea","C":["sf","n","med"],"d":"esflue (medical)","en":"-rhea (outflow)"}
-{"T":"r","L":"real","C":["a","fil"],"d":"vera esistente como un cosa, o vera aveninte; no imajinada o suposada","da":"rigtig, aktuel","de":"wirklich, echt","en":"real, actual, tangible, proper","eo":"reala, efektiva","es":"real, verdadero, legítimo, actual, existente","fr":"réel","it":"reale","nl":"werkelijk","pt":"real, verdadeiro"}
-{"L":"autoreali","C":["vnt"],"en":"self-realize|is, self-actualize|is"}
-{"L":"autoreali","C":["n"],"en":"self-realization|is, self-actualization|is"}
-{"L":"en realia","C":["av"],"en":"in reality, in fact"}
-{"L":"nonreal","C":["a"],"en":"unreal, irreal, illusory"}
-{"L":"nonrealable","C":["a"],"en":"unfeasible, infeasible, unworkable, unviable, inviable"}
-{"L":"realable","C":["a"],"en":"feasible, workable, doable, achievable, viable"}
-{"L":"reali","C":["vnt"],"en":"become real, actualize|is, happen, take place"}
-{"L":"reali","C":["vt"],"en":"realize|is, make real, actualize|is, achieve, accomplish, do, effect, put into effect, enact, implement, bring about; honor|ur, fulfill|fulfil, observe (promise), answer (prayer)"}
-{"L":"reali","C":["n"],"en":"realization|is, achievement, actualization|is, accomplishment, enactment, implementation, fruition"}
+{"T":"r","L":"-rea","C":["sf","n","med"],"d":"esflue (medical)","en":"-rhea (outflow)","fr":"-rhée"}
+{"T":"r","L":"real","C":["a","fil"],"d":"vera esistente como un cosa, o vera aveninte; no imajinada o suposada","da":"rigtig, aktuel","de":"wirklich, echt","en":"real, actual, tangible, proper","eo":"reala, efektiva","es":"real, verdadero, legítimo, actual, existente","fr":"réel, vrai, véritable, tangible, existant","it":"reale","nl":"werkelijk","pt":"real, verdadeiro"}
+{"L":"autoreali","C":["vnt"],"en":"self-realize|is, self-actualize|is","fr":"s'autoréaliser"}
+{"L":"autoreali","C":["n"],"en":"self-realization|is, self-actualization|is","fr":"autoréalisation"}
+{"L":"en realia","C":["av"],"en":"in reality, in fact","fr":"en réalité, en fait"}
+{"L":"nonreal","C":["a"],"en":"unreal, irreal, illusory","fr":"irréel, illusoire, fantasmatique"}
+{"L":"nonrealable","C":["a"],"en":"unfeasible, infeasible, unworkable, unviable, inviable","fr":"irréalisable, impossible"}
+{"L":"realable","C":["a"],"en":"feasible, workable, doable, achievable, viable","fr":"réalisable, possible"}
+{"L":"reali","C":["vnt"],"en":"become real, actualize|is, happen, take place","fr":"se réaliser, devenir réel, s'accomplir, se produire, s'exaucer"}
+{"L":"reali","C":["vt"],"en":"realize|is, make real, actualize|is, achieve, accomplish, do, effect, put into effect, enact, implement, bring about; honor|ur, fulfill|fulfil, observe (promise), answer (prayer)","fr":"réaliser, rendre réel, accomplir, produire; remplir (un devoir), tenir (une promesse), répondre à (une demande), exaucer (un vœu)"}
+{"L":"reali","C":["n"],"en":"realization|is, achievement, actualization|is, accomplishment, enactment, implementation, fruition","fr":"réalisation, accomplissement"}
 {"L":"reali model","C":["n"],"en":"reference implementation"}
 {"L":"realia","C":["n"],"en":"reality","fr":"réalité"}
-{"L":"realida","C":["a"],"en":"realized|is, actualized|is, accomplished"}
-{"L":"realin","C":["a"],"en":"realistic"}
-{"L":"realisme","C":["n"],"en":"realism"}
-{"L":"realiste","C":["a"],"en":"realistic"}
-{"L":"realiste","C":["n"],"en":"realist"}
-{"L":"rereali","C":["vnt"],"en":"re-enact"}
-{"L":"rereali","C":["vt"],"en":"re-enact"}
-{"L":"rereali","C":["n"],"en":"re-enactment"}
-{"T":"r","L":"realpolitica","C":["n","gov"],"d":"un sistem de politica o prinsipes fundida plu sur consideras pratical ca sur consideras moral o ideolojial","en":"realpolitik"}
+{"L":"realida","C":["a"],"en":"realized|is, actualized|is, accomplished","fr":"réalisé, accompli, exaucé, produit"}
+{"L":"realin","C":["a"],"en":"realistic","fr":"réaliste"}
+{"L":"realisme","C":["n"],"en":"realism","fr":"réalisme"}
+{"L":"realiste","C":["a"],"en":"realistic","fr":"réaliste"}
+{"L":"realiste","C":["n"],"en":"realist","fr":"réaliste"}
+{"L":"rereali","C":["vnt"],"en":"re-enact","fr":"se reconstituer, se reproduire, se recréer, se remettre en vigueur"}
+{"L":"rereali","C":["vt"],"en":"re-enact","fr":"reconstituer, reproduire, recréer, remettre en vigueur"}
+{"L":"rereali","C":["n"],"en":"re-enactment","fr":"reconstitution, reproduction, remise en vigueur"}
+{"T":"r","L":"realpolitica","C":["n","gov"],"d":"un sistem de politica o prinsipes fundida plu sur consideras pratical ca sur consideras moral o ideolojial","en":"realpolitik","fr":"realpolitik"}
 {"T":"r","L":"reata","C":["vnt","fis","cim"],"d":"ata en un modo spesifada como la resulta de la ata de alga otra cosa; interata e cambia en modo cimical o fisical","en":"react","fr":"réagir"}
 {"L":"reata","C":["n"],"en":"reaction; reactance; fuss, brouhaha, ado","fr":"réaction"}
 {"L":"reata en cadena","C":["n"],"en":"chain reaction, domino effect","fr":"réaction en chaîne, effet domino"}
-{"L":"reata negativa","C":["v"],"en":"react negatively"}
-{"L":"reata negativa","C":["n"],"en":"negative reaction, backlash"}
-{"L":"reata tro forte","C":["v"],"en":"overreact"}
+{"L":"reata negativa","C":["v"],"en":"react negatively","fr":"réagir négativement"}
+{"L":"reata negativa","C":["n"],"en":"negative reaction, backlash","fr":"réaction négative, contrecoup"}
+{"L":"reata tro forte","C":["v"],"en":"overreact","fr":"surréagir"}
 {"L":"reatador","C":["n"],"en":"reactor (nuclear)","fr":"réacteur (nucléaire)"}
-{"L":"reatante","C":["a"],"en":"reactionary"}
-{"L":"reatante","C":["n","cim"],"en":"reagent"}
-{"L":"reator","C":["n"],"en":"reactor, reactionary (person)"}
-{"L":"reatosa","C":["a"],"en":"reactive, sensitive"}
-{"T":"r","L":"rebela","C":["vnt","gov"],"d":"oposa o resiste un governa o renor instituida, como un grupo e tipal con armas; oposa o resiste autoria, controla o costum","en":"rebel, mutiny, resist authority","fr":"se rebeller"}
-{"L":"rebela","C":["n"],"en":"rebellion, mutiny, resistance, insurrection, insurgency, sedition","fr":"rébellion"}
-{"L":"rebelante","C":["a"],"en":"rebelling, rebellious, mutinous, seditious"}
-{"L":"rebelor","C":["n"],"en":"rebel, mutineer","fr":"rebelle"}
+{"L":"reatante","C":["a"],"en":"reactionary","fr":"réactif; réactionnaire"}
+{"L":"reatante","C":["n","cim"],"en":"reagent","fr":"réactif"}
+{"L":"reator","C":["n"],"en":"reactor, reactionary (person)","fr":"réacteur, réactionnaire"}
+{"L":"reatosa","C":["a"],"en":"reactive, sensitive","fr":"réactif"}
+{"T":"r","L":"rebela","C":["vnt","gov"],"d":"oposa o resiste un governa o renor instituida, como un grupo e tipal con armas; oposa o resiste autoria, controla o costum","en":"rebel, mutiny, resist authority","fr":"se rebeller, se mutiner, résister, s'insurger, se révolter, se soulever"}
+{"L":"rebela","C":["n"],"en":"rebellion, mutiny, resistance, insurrection, insurgency, sedition","fr":"rébellion, mutinerie, insurrection, soulèvement, sédition, émeute"}
+{"L":"rebelante","C":["a"],"en":"rebelling, rebellious, mutinous, seditious","fr":"rebelle, mutin, séditieux"}
+{"L":"rebelor","C":["n"],"en":"rebel, mutineer","fr":"rebelle, mutin, insurgé, émeutier"}
 {"T":"r","L":"rebita","C":["n","util"],"d":"un spino o bulon corta de metal, usada per junta du pesos de metal par bate o presa un fini","i":"#","en":"rivet","fr":"rivet"}
 {"L":"rebiti","C":["vt"],"en":"rivet","fr":"riveter"}
 {"L":"rebitor","C":["n"],"en":"riveter"}
-{"T":"r","L":"recambia","C":["vt"],"d":"sustitui un cosa nova e simil per (un cosa gastada)","da":"erstatning, udskiftning","de":"Ersatz","en":"replace (an old item with a new one), supplant","eo":"anstataŭigi","fr":"remplacer"}
-{"L":"recambia","C":["n"],"en":"replacement (item)","es":"reemplazo, substitución","fr":"remplacement","it":"ricambio, sostituto","nl":"vervanging","pt":"reposição, susbstituição, recolocação"}
-{"L":"recambia la planta de","C":["v"],"en":"resole (shoe)"}
-{"L":"nonrecambiable","C":["a"],"en":"irreplaceable"}
-{"L":"recambiable","C":["a"],"en":"replaceable"}
-{"T":"r","L":"reclama","C":["vt","gov"],"d":"declara ce alga cosa es vera, tipal sin atestas; declara ce on ia gania o ateni (alga cosa); oteni la redona de (propria o titulo)","en":"claim, reclaim (property, title); assert","eo":"pretendi, reklamacii","fr":"réclamer","pt":"reclamar"}
-{"L":"reclama","C":["n"],"da":"påstand","de":"Behauptung","en":"claim, reclaim; assertion, contention","es":"demanda, reclamación, reclamo, pretensión","fr":"réclamation","it":"asserzione, pretesa","nl":"bewering"}
-{"L":"contrareclama","C":["n"],"en":"counterclaim"}
-{"L":"reclamor","C":["n"],"en":"claimant, pretender"}
-{"T":"r","L":"reclina","C":["vnt"],"d":"(un person) reposa en posa orizonal o cuasi orizonal","i":"#","da":"ligge","de":"liegen","en":"lie, recline","eo":"kuŝi","fr":"être couché"}
+{"T":"r","L":"recambia","C":["vt"],"d":"sustitui un cosa nova e simil per (un cosa gastada)","da":"erstatning, udskiftning","de":"Ersatz","en":"replace (an old item with a new one), supplant","eo":"anstataŭigi","fr":"remplacer, suppléer, supplanter, prendre la succession de, succéder à, prendre la place de"}
+{"L":"recambia","C":["n"],"en":"replacement (item)","es":"reemplazo, substitución","fr":"remplacement, supplétion, supplantation","it":"ricambio, sostituto","nl":"vervanging","pt":"reposição, susbstituição, recolocação"}
+{"L":"recambia la planta de","C":["v"],"en":"resole (shoe)","fr":"ressemeler"}
+{"L":"nonrecambiable","C":["a"],"en":"irreplaceable","fr":"irremplaçable"}
+{"L":"recambiable","C":["a"],"en":"replaceable","fr":"remplaçable"}
+{"T":"r","L":"reclama","C":["vt","gov"],"d":"declara ce alga cosa es vera, tipal sin atestas; declara ce on ia gania o ateni (alga cosa); oteni la redona de (propria o titulo)","en":"claim, reclaim (property, title); assert","eo":"pretendi, reklamacii","fr":"réclamer, récupérer (propriété, titre); affirmer","pt":"reclamar"}
+{"L":"reclama","C":["n"],"da":"påstand","de":"Behauptung","en":"claim, reclaim; assertion, contention","es":"demanda, reclamación, reclamo, pretensión","fr":"réclamation, demande, doléance, exigence, pétition, plainte, protestation, récrimination, requête, revendication","it":"asserzione, pretesa","nl":"bewering"}
+{"L":"contrareclama","C":["n"],"en":"counterclaim","fr":"contre-réclamation"}
+{"L":"reclamor","C":["n"],"en":"claimant, pretender","fr":"réclamateur, demandeur, plaignant"}
+{"T":"r","L":"reclina","C":["vnt"],"d":"(un person) reposa en posa orizonal o cuasi orizonal","i":"#","da":"ligge","de":"liegen","en":"lie, recline","eo":"kuŝi","fr":"se coucher, être couché"}
 {"L":"reclina","C":["vt"],"en":"lay, lay down","eo":"kuŝigi","fr":"coucher"}
 {"L":"reclina se","C":["v"],"en":"lie down, lie back","eo":"kuŝigi","fr":"se coucher"}
-{"T":"r","L":"recolie","C":["vt","uma"],"d":"prende e colie (alga cosa) par atas repetente; talia e colie (un cultiva) de un area de tera","i":"#","ca":"recollir","da":"høste","de":"auflesen, pflücken, ernten","en":"pick up, reap, harvest","eo":"repreni; rikolti","es":"cosechar, recolectar, segar, obtener, sacar, levantar cosecha; recoger","fr":"ramasser; récolter","it":"raccolto (general), vendemmia (grapes)","ja":"拾う","nl":"oogsten","pt":"apanhar, pegar; colher, fazer a colheita","ru":"подбирать, поднимать"}
-{"L":"recolie","C":["n"],"en":"harvest, crop, bounty, haul, roundup","fr":"récolte"}
-{"L":"recolie de reservas","C":["n"],"en":"fundraising, fundraiser (activity)"}
-{"L":"recolie profitosa","C":["n"],"en":"cash crop"}
-{"L":"recolie reservas","C":["v"],"en":"raise funds"}
-{"L":"recoliador","C":["n"],"en":"harvester (machine)"}
-{"L":"recolior","C":["n"],"en":"harvester (person)"}
-{"L":"recolior de reservas","C":["n"],"en":"fundraiser (person)"}
-{"T":"r","L":"recomenda","C":["vt","gov"],"d":"sujesta (un person o cosa) con aproba como conveninte per un intende o rol spesifada","ca":"recomanar","de":"empfehlen","en":"recommend","eo":"rekomendi","es":"recomendar","fr":"recommander","ja":"勧める","pt":"recomendar","ru":"рекомендовать"}
-{"L":"recomenda","C":["n"],"en":"recommendation","fr":"recommandation"}
-{"L":"recomenda forte","C":["v"],"en":"strongly recommend, urge, adjure"}
-{"L":"recomenda forte","C":["n"],"en":"strong recommendation"}
-{"T":"r","L":"recompensa","C":["vt","mone"],"d":"paia (algun) per sua perde o sufri; paia (algun) per sua labora","da":"belønne","de":"belohnen","en":"recompense, reward","eo":"rekompenci","es":"recompensar, premiar, compensar, gratificar, galardonar","fr":"récompenser","it":"ricompensa","nl":"belonen","pt":"recompensar"}
-{"L":"recompensa","C":["n"],"en":"recompense, reward, payback, payoff, yield","fr":"récompense"}
-{"T":"r","L":"reconose","C":["vt","uma"],"d":"persepi ce on conose ja (un person o cosa) de un encontra pasada; declara ce on conose la esiste, validia, legalia o contribui de","da":"erkende, genkende","de":"erkennen","en":"recognize|is, acknowledge, accredit; realize|is (understand)","eo":"rekoni","es":"reconocer","fr":"reconnaître","it":"riconoscere","nl":"herkennen","pt":"reconhocer"}
-{"L":"reconose","C":["n"],"en":"recognition, acknowledgement, accreditation; realization|is (understanding)","fr":"reconnaissance"}
-{"L":"reconose de fas","C":["n"],"en":"facial recognition"}
-{"L":"reconose la valua de","C":["v"],"en":"recognize|is the value of, appreciate"}
-{"L":"malreconose","C":["vt"],"en":"misrecognize|is, mistake for"}
-{"L":"nonreconosable","C":["a"],"en":"unrecognizable|is"}
+{"T":"r","L":"recolie","C":["vt","uma"],"d":"prende e colie (alga cosa) par atas repetente; talia e colie (un cultiva) de un area de tera","i":"#","ca":"recollir","da":"høste","de":"auflesen, pflücken, ernten","en":"pick up, reap, harvest","eo":"repreni; rikolti","es":"cosechar, recolectar, segar, obtener, sacar, levantar cosecha; recoger","fr":"ramasser; récolter, moissonner; recueillir, collecter, collectionner","it":"raccolto (general), vendemmia (grapes)","ja":"拾う","nl":"oogsten","pt":"apanhar, pegar; colher, fazer a colheita","ru":"подбирать, поднимать"}
+{"L":"recolie","C":["n"],"en":"harvest, crop, bounty, haul, roundup","fr":"récolte, moisson, collecte, recueil, collection"}
+{"L":"recolie de reservas","C":["n"],"en":"fundraising, fundraiser (activity)","fr":"colecte de fonds"}
+{"L":"recolie profitosa","C":["n"],"en":"cash crop","fr":"collecte d'argent"}
+{"L":"recolie reservas","C":["v"],"en":"raise funds","fr":"collecter des fonds"}
+{"L":"recoliador","C":["n"],"en":"harvester (machine)","fr":"moissonneuse (machine)"}
+{"L":"recolior","C":["n"],"en":"harvester (person)","fr":"moissonneur (personne)"}
+{"L":"recolior de reservas","C":["n"],"en":"fundraiser (person)","fr":"collecteur de fonds"}
+{"T":"r","L":"recomenda","C":["vt","gov"],"d":"sujesta (un person o cosa) con aproba como conveninte per un intende o rol spesifada","ca":"recomanar","de":"empfehlen","en":"recommend","eo":"rekomendi","es":"recomendar","fr":"recommander, appuyer, conseiller, préconiser, prescrire, présenter","ja":"勧める","pt":"recomendar","ru":"рекомендовать"}
+{"L":"recomenda","C":["n"],"en":"recommendation","fr":"recommandation, préconisation"}
+{"L":"recomenda forte","C":["v"],"en":"strongly recommend, urge, adjure","fr":"recommander fortement, exhorter, adjurer"}
+{"L":"recomenda forte","C":["n"],"en":"strong recommendation","fr":"exhortation, forte recommandation, forte incitation"}
+{"T":"r","L":"recompensa","C":["vt","mone"],"d":"paia (algun) per sua perde o sufri; paia (algun) per sua labora","da":"belønne","de":"belohnen","en":"recompense, reward","eo":"rekompenci","es":"recompensar, premiar, compensar, gratificar, galardonar","fr":"récompenser, primer, gratifier","it":"ricompensa","nl":"belonen","pt":"recompensar"}
+{"L":"recompensa","C":["n"],"en":"recompense, reward, payback, payoff, yield","fr":"récompense, prime, gratification"}
+{"T":"r","L":"reconose","C":["vt","uma"],"d":"persepi ce on conose ja (un person o cosa) de un encontra pasada; declara ce on conose la esiste, validia, legalia o contribui de","da":"erkende, genkende","de":"erkennen","en":"recognize|is, acknowledge, accredit; realize|is (understand)","eo":"rekoni","es":"reconocer","fr":"reconnaître, comprendre, prendre conscience de","it":"riconoscere","nl":"herkennen","pt":"reconhocer"}
+{"L":"reconose","C":["n"],"en":"recognition, acknowledgement, accreditation; realization|is (understanding)","fr":"reconnaissance, compréhension, prise de conscience"}
+{"L":"reconose de fas","C":["n"],"en":"facial recognition","fr":"reconnaissance faciale"}
+{"L":"reconose la valua de","C":["v"],"en":"recognize|is the value of, appreciate","fr":"reconnaître la  valeur de, apprécier"}
+{"L":"malreconose","C":["vt"],"en":"misrecognize|is, mistake for","fr":"méconnaître"}
+{"L":"nonreconosable","C":["a"],"en":"unrecognizable|is","fr":"méconnaissable"}
 {"L":"reconosable","C":["a"],"en":"recognizable|is","fr":"reconnaissable"}
 {"T":"r","L":"reconsilia","C":["vnt","gov","uma"],"d":"restora relatas amin entre; causa la coesiste armoniosa de; fa ce (un conta) coere con un otra, tipal par ajusta per intercambias comensada ma ancora no finida","en":"reconcile, make up","fr":"(se) réconcilier"}
 {"L":"reconsilia","C":["vt"],"en":"reconcile","fr":"réconcilier"}
 {"L":"reconsilia","C":["n"],"en":"reconciliation","fr":"réconciliation"}
 {"L":"reconsilior","C":["n"],"en":"mediator, peacemaker","fr":"conciliateur, médiateur"}
-{"T":"r","L":"recorda","C":["vt","uma"],"d":"retrae (un person o cosa cual on ia vide, conose o esperia) a sua consensia","v":"memori","da":"huske","de":"sich erinnern an","en":"remember, recall, recollect","eo":"memori, rememori","es":"recordar, acordarse, rememorar, remembrar","fr":"rappeler (un souvenir)","it":"ricordare","nl":"zich herinneren","pt":"recordar(se), lembrar(se)"}
-{"L":"recorda","C":["n"],"en":"recollection, recall, memory (particular)","fr":"souvenir"}
-{"L":"recorda falsa","C":["v"],"en":"confabulate"}
-{"L":"recorda falsa","C":["n"],"en":"confabulation, false memory"}
-{"L":"recorda felis","C":["vt"],"en":"reminisce"}
-{"L":"fa ce on recorda","C":["v"],"u":"el ia fa ce me recorda tua aniversario","en":"remind one of, call to mind; prompt (an actor)"}
-{"L":"recordante","C":["a"],"en":"reminding, redolent"}
-{"L":"recordante","C":["n"],"en":"reminder, souvenir, keepsake, memento"}
-{"L":"recordantes","C":["n","pl"],"en":"reminders, memorabilia"}
-{"T":"r","L":"recordo","C":["a","spo"],"d":"(en sporte e jua) la ateni la plu bon de sua tipo cual ia es ofisial mesurada e rejistrada","en":"record, record-breaking"}
-{"L":"recordo","C":["n"],"en":"record"}
-{"L":"en tempo recordo","C":["av"],"en":"in record time"}
-{"T":"r","L":"recore","C":["vnt","med"],"d":"aveni denova; (un person malada) sufri un mali pos un periodo de boni","en":"recur, reoccur, relapse","fr":"réapparaître"}
-{"L":"recore","C":["n"],"en":"recurrence, relapse, recidivism"}
-{"L":"recorente","C":["a"],"en":"recurrent, relapsing","fr":"récurrent"}
-{"L":"recoror","C":["n"],"en":"recidivist"}
-{"T":"r","L":"recorsa","C":["vnt","mat","ling","info"],"d":"aplica un prosede o defini repetente","en":"recurse"}
-{"L":"recorsa","C":["n"],"en":"recursion"}
-{"L":"recorsante","C":["a"],"en":"recursive"}
+{"T":"r","L":"recorda","C":["vt","uma"],"d":"retrae (un person o cosa cual on ia vide, conose o esperia) a sua consensia","v":"memori","da":"huske","de":"sich erinnern an","en":"remember, recall, recollect","eo":"memori, rememori","es":"recordar, acordarse, rememorar, remembrar","fr":"se rappeler (un souvenir), se souvenir de, se remémorer","it":"ricordare","nl":"zich herinneren","pt":"recordar(se), lembrar(se)"}
+{"L":"recorda","C":["n"],"en":"recollection, recall, memory (particular)","fr":"souvenir, mémoire, rappel"}
+{"L":"recorda falsa","C":["v"],"en":"confabulate","fr":"avoir un faux souvenir"}
+{"L":"recorda falsa","C":["n"],"en":"confabulation, false memory","fr":"faux souvenir"}
+{"L":"recorda felis","C":["vt"],"en":"reminisce","fr":"se remémorer, évoquer des bons souvenirs"}
+{"L":"fa ce on recorda","C":["v"],"u":"el ia fa ce me recorda tua aniversario","en":"remind one of, call to mind; prompt (an actor)","fr":"faire souvenir, rappeler (à quelqu'un); souffler (à un acteur)"}
+{"L":"recordante","C":["a"],"en":"reminding, redolent","fr":"rappelant, évoquant"}
+{"L":"recordante","C":["n"],"en":"reminder, souvenir, keepsake, memento","fr":"rappel, souvenir, mémento"}
+{"L":"recordantes","C":["n","pl"],"en":"reminders, memorabilia","fr":"souvenirs"}
+{"T":"r","L":"recordo","C":["a","spo"],"d":"(en sporte e jua) la ateni la plu bon de sua tipo cual ia es ofisial mesurada e rejistrada","en":"record, record-breaking","fr":"record"}
+{"L":"recordo","C":["n"],"en":"record","fr":"record"}
+{"L":"en tempo recordo","C":["av"],"en":"in record time","fr":"en temps record"}
+{"T":"r","L":"recore","C":["vnt","med"],"d":"aveni denova; (un person malada) sufri un mali pos un periodo de boni","en":"recur, reoccur, relapse","fr":"réapparaître, faire une récidive, récidiver, faire une rechute, rechuter"}
+{"L":"recore","C":["n"],"en":"recurrence, relapse, recidivism","fr":"réapparition, récidive, rechute"}
+{"L":"recorente","C":["a"],"en":"recurrent, relapsing","fr":"récurrent, récidivant"}
+{"L":"recoror","C":["n"],"en":"recidivist","fr":"récidiviste"}
+{"T":"r","L":"recorsa","C":["vnt","mat","ling","info"],"d":"aplica un prosede o defini repetente","en":"recurse","fr":"utiliser une fonction récursive"}
+{"L":"recorsa","C":["n"],"en":"recursion","fr":"récursion, récursivité"}
+{"L":"recorsante","C":["a"],"en":"recursive","fr":"récursif"}
 {"T":"r","L":"recovre","C":["vnt","med"],"d":"reveni a un state normal de sania o fortia","en":"recover, recuperate, get better, convalesce","fr":"se rétablir, récupérer"}
 {"L":"recovre","C":["n"],"en":"recovery, recuperation","fr":"rétablissement, récupération"}
 {"T":"r","L":"recurso","C":["n","mone","gov"],"d":"un furni de mone, materia, persones o otra benes cual un person o organiza pote usa per funsiona nonperosa; un fonte de aida en un situa difisil","en":"resource, facility, recourse","fr":"ressource"}
 {"L":"recursosa","C":["a"],"en":"resourceful","fr":"plein de ressources"}
 {"T":"r","L":"rede","C":["n","info","gov","util"],"d":"un peso de materia lejera texeda, fabricada de cordas, filos o simil, usada per catura pexes o otra animales; un ordina de linias orizonal e vertical crusante; un strutur interliada; un sistem complicada de vias; un sistem de persones o cosas interliada; un grupo de computadores interliada","i":"#","da":"net","de":"Netz","en":"net; network, nexus; mesh, screen, netting","eo":"reto","es":"red, malla, tejido de mallas","fr":"filet; réseau","it":"rete","nl":"net","pt":"rede"}
-{"L":"rede contra insetos","C":["n"],"en":"insect net"}
-{"L":"rede contra moscitos","C":["n"],"en":"mosquito net"}
+{"L":"rede contra insetos","C":["n"],"en":"insect net","fr":"moustiquaire"}
+{"L":"rede contra moscitos","C":["n"],"en":"mosquito net","fr":"moustiquaire"}
 {"L":"rede de arania","C":["n"],"i":"#","en":"spider's web, cobweb","fr":"toile d'araignée"}
-{"L":"rede de capeles","C":["n"],"en":"hairnet, snood"}
-{"L":"rede de compania","C":["n"],"en":"company network, corporate network"}
-{"L":"rede de draga","C":["n"],"en":"dragnet"}
-{"L":"Rede","C":["n","ast"],"en":"Reticulum (constellation)"}
-{"L":"rede mundal","C":["n"],"en":"worldwide web, internet"}
-{"L":"rede restrinjente","C":["n"],"en":"trammel net"}
-{"L":"interede","C":["n"],"en":"internet"}
-{"L":"interede de banda larga","C":["n"],"en":"broadband internet"}
-{"L":"redi","C":["vt"],"en":"network"}
-{"L":"redor","C":["n"],"en":"networker, network user"}
-{"T":"r","L":"redin","C":["n","util"],"d":"un banda longa e magra liada a un fini a la morso de un cavalo, tipal usada en duples per gida un cavalo","i":"#","en":"rein (strap)","fr":"rêne"}
-{"L":"redini","C":["vt"],"en":"rein"}
-{"T":"r","L":"redui","C":["vnt"],"d":"deveni plu peti en cuantia, grado o grandia","en":"reduce, decrease, decrement, lessen","fr":"réduire"}
+{"L":"rede de capeles","C":["n"],"en":"hairnet, snood","fr":"filet à cheveux"}
+{"L":"rede de compania","C":["n"],"en":"company network, corporate network","fr":"réseau d'entreprise"}
+{"L":"rede de draga","C":["n"],"en":"dragnet","fr":"filet, chalut"}
+{"L":"Rede","C":["n","ast"],"en":"Reticulum (constellation)","fr":"Réticule (constellation)"}
+{"L":"rede mundal","C":["n"],"en":"worldwide web, internet","fr":"internet"}
+{"L":"rede restrinjente","C":["n"],"en":"trammel net","fr":"trémail"}
+{"L":"interede","C":["n"],"en":"internet","fr":"internet"}
+{"L":"interede de banda larga","C":["n"],"en":"broadband internet","fr":"internet haut-débit"}
+{"L":"redi","C":["vt"],"en":"network","fr":"interconnecter"}
+{"L":"redor","C":["n"],"en":"networker, network user","fr":"utilisateur d'un réseau"}
+{"T":"r","L":"redin","C":["n","util"],"d":"un banda longa e magra liada a un fini a la morso de un cavalo, tipal usada en duples per gida un cavalo","i":"#","en":"rein (strap)","fr":"rêne, bride, licol, licou"}
+{"L":"redini","C":["vt"],"en":"rein","fr":"brider, tenir par la bride, contrôler, maîtriser, contenir, réfréner, retenir, freiner"}
+{"T":"r","L":"redui","C":["vnt"],"d":"deveni plu peti en cuantia, grado o grandia","en":"reduce, decrease, decrement, lessen","fr":"se réduire"}
 {"L":"redui","C":["vt"],"en":"reduce, decrease, scale down, scale back, lessen, curtail; turn down (volume)","fr":"réduire"}
 {"L":"redui","C":["n"],"en":"reduction, decrease, lessening, cutback","fr":"réduction"}
 {"L":"redui de empleadas","C":["n"],"en":"downsizing","fr":"réduction du personnel"}
-{"L":"redui de engrana","C":["n"],"en":"downshift"}
+{"L":"redui de engrana","C":["n"],"en":"downshift","fr":"rétrogradation"}
 {"L":"redui de imposta","C":["n"],"en":"tax cut, tax reduction","fr":"réduction d'impôt"}
 {"L":"redui empleadas","C":["v"],"en":"downsize","fr":"réduire le personnel"}
-{"L":"redui la custa","C":["v"],"en":"cheapen"}
-{"L":"redui la spende","C":["v"],"en":"reduce spending, cut back, retrench"}
-{"L":"reduisme","C":["n"],"en":"reductionism"}
-{"L":"reduiste","C":["n"],"en":"reductionist"}
-{"L":"nonreduable","C":["a"],"en":"irreducible"}
-{"L":"reduable","C":["a"],"en":"reducible"}
-{"L":"reduinte","C":["a"],"en":"reducing, reductive"}
-{"L":"reduisme","C":["n"],"en":"reductionism"}
+{"L":"redui la custa","C":["v"],"en":"cheapen","fr":"baisser le prix"}
+{"L":"redui la spende","C":["v"],"en":"reduce spending, cut back, retrench","fr":"réduire les dépenses"}
+{"L":"reduisme","C":["n"],"en":"reductionism","fr":"réductionnisme"}
+{"L":"reduiste","C":["n"],"en":"reductionist","fr":"réductionniste"}
+{"L":"nonreduable","C":["a"],"en":"irreducible","fr":"irréductible, non réductible"}
+{"L":"reduable","C":["a"],"en":"reducible","fr":"réductible"}
+{"L":"reduinte","C":["a"],"en":"reducing, reductive","fr":"réductif"}
+{"L":"reduisme","C":["n"],"en":"reductionism","fr":"réductionnisme"}
 {"T":"r","L":"reduvido","C":["n","artr"],"d":"un inseto de zonas tropical con gamas longa cual come o morde xef otra artropodos","i":"#","t":"Reduviidae","en":"assassin bug","fr":"réduve"}
-{"T":"r","L":"refere","C":["vt","info"],"d":"fa un nota o indica per dirije la atende de (un lejor o escutor)","u":"la autor refere a sua jovenia; la table de contenidas ia refere me a un paje nonesistente","en":"refer, allude"}
-{"L":"refere","C":["n"],"en":"reference, cross-reference, referral, allusion, mention; pointer (software)"}
-{"L":"refere a","C":["v"],"en":"refer to, reference, cross-reference, mention, allude to"}
-{"L":"desrefere","C":["vnt"],"en":"dereference (software)"}
-{"L":"desrefere","C":["vt"],"en":"dereference (software)"}
-{"L":"referente","C":["a"],"en":"referring"}
-{"L":"referente","C":["n"],"en":"reference"}
-{"L":"referente a","C":["prep"],"en":"referring to, apropos of"}
-{"T":"r","L":"referendo","C":["n","gov"],"d":"un vota jeneral par la votores sur un demanda political cual ia es pasada a los per un deside direta","en":"referendum, plebiscite"}
-{"L":"referendo per retira","C":["n"],"en":"recall election, recall referendum"}
-{"T":"r","L":"refina","C":["vt","cim"],"d":"perfeti; sutrae nonpures o elementos nondesirada de (un materia), tipal como un parte de un prosede industrial; boni (alga cosa) par cambias peti; fa ce (un idea, teoria o metodo) deveni plu sutil e esata","en":"refine, perfect","fr":"raffiner"}
-{"L":"refina","C":["n"],"en":"refinement; grace, poise","fr":"raffinage"}
-{"L":"nonrefinada","C":["a"],"en":"unrefined"}
-{"L":"refinada","C":["a"],"en":"refined; graceful, poised, elegant, gracious, sleek","fr":"raffiné"}
+{"T":"r","L":"refere","C":["vt","info"],"d":"fa un nota o indica per dirije la atende de (un lejor o escutor)","u":"la autor refere a sua jovenia; la table de contenidas ia refere me a un paje nonesistente","en":"refer, allude","fr":"référencer"}
+{"L":"refere","C":["n"],"en":"reference, cross-reference, referral, allusion, mention; pointer (software)","fr":"référence, allusion; pointeur, curseur"}
+{"L":"refere a","C":["v"],"en":"refer to, reference, cross-reference, mention, allude to","fr":"se référer à, faire référence à, faire allusion à"}
+{"L":"desrefere","C":["vnt"],"en":"dereference (software)","fr":"se déréférencer"}
+{"L":"desrefere","C":["vt"],"en":"dereference (software)","fr":"déréférencer"}
+{"L":"referente","C":["a"],"en":"referring","fr":"se référant, faisant référence"}
+{"L":"referente","C":["n"],"en":"reference","fr":"référence"}
+{"L":"referente a","C":["prep"],"en":"referring to, apropos of","fr":"se référant à, à propos de, au sujet de"}
+{"T":"r","L":"referendo","C":["n","gov"],"d":"un vota jeneral par la votores sur un demanda political cual ia es pasada a los per un deside direta","en":"referendum, plebiscite","fr":"référendum"}
+{"L":"referendo per retira","C":["n"],"en":"recall election, recall referendum","fr":"référendum révocatoire"}
+{"T":"r","L":"refina","C":["vt","cim"],"d":"perfeti; sutrae nonpures o elementos nondesirada de (un materia), tipal como un parte de un prosede industrial; boni (alga cosa) par cambias peti; fa ce (un idea, teoria o metodo) deveni plu sutil e esata","en":"refine, perfect","fr":"peaufiner, raffiner, parfaire, parachever, ciseler"}
+{"L":"refina","C":["n"],"en":"refinement; grace, poise","fr":"finition, peaufinage, raffinage, fignolage, mise au point, parachèvement, perfectionnement"}
+{"L":"nonrefinada","C":["a"],"en":"unrefined","fr":"non fini, non parachevé"}
+{"L":"refinada","C":["a"],"en":"refined; graceful, poised, elegant, gracious, sleek","fr":"peaufiné, ciselé, parachevé, fignolé; raffiné, élégant, gracieux, soigné, chic"}
 {"L":"refineria","C":["n"],"en":"refinery","fr":"raffinerie"}
-{"T":"r","L":"refleta","C":["vt","fis"],"d":"(un surfas o corpo) lansa a retro (caldia, lus o sona) sin asorbe lo; (un miror o otra surfas briliante) mostra un imaje de","en":"reflect"}
-{"L":"refleta","C":["n"],"i":"#","en":"reflection"}
-{"L":"nonrefletante","C":["a"],"en":"non-reflective"}
-{"L":"refletante","C":["a"],"en":"reflecting, reflective, introspective; reflexive (grammar)"}
-{"L":"autorefleta","C":["v"],"en":"self-reflect"}
-{"L":"autorefleta","C":["n"],"en":"self-reflection"}
-{"T":"r","L":"reflexe","C":["a","bio"],"d":"(un ata) fada sin pensa o intende; fada o aveninte en modo spontan","en":"reflexive, automatic"}
-{"L":"reflexe","C":["n"],"en":"reflex"}
-{"T":"r","L":"reflexolojia","C":["n","med"],"d":"un sistem de masaje per destensa e trata maladias, usante la teoria ce puntos spesial sur la pedes, manos e testa es liada a cada parte de la corpo","en":"reflexology"}
-{"L":"reflexolojial","C":["a"],"en":"reflexological"}
-{"L":"reflexolojiste","C":["n"],"en":"reflexologist"}
-{"T":"r","L":"reformi","C":["vt","gov","rel"],"d":"cambia (alga cosa, tipal un instituida o pratica sosial, political o economial) per boni lo; fa ce un person no condui plu como un criminor o en modo nonmoral o autodestruinte","en":"reform"}
-{"L":"reformi","C":["n"],"en":"reform, reformation"}
-{"L":"nonreformida","C":["a"],"en":"unreformed"}
-{"L":"reformeria","C":["n"],"en":"reformatory"}
-{"L":"reformida","C":["a"],"en":"reformed"}
-{"L":"reformisme","C":["n"],"en":"reformism"}
-{"L":"reformiste","C":["a"],"en":"reformist"}
-{"L":"reformiste","C":["n"],"en":"reformist"}
-{"T":"r","L":"reforti","C":["vt","util","arci","gov","uma"],"d":"forti o suporta, tipal con plu persones o materias; forti (un emosia, senti o abitua)","en":"reinforce, brace"}
-{"L":"reforti","C":["n"],"en":"reinforcement (action)"}
-{"L":"refortinte","C":["a"],"en":"reinforcing, strengthening, bracing"}
-{"L":"refortinte","C":["n"],"en":"reinforcement (person, thing); strengthener, gusset; booster (vaccination)"}
-{"T":"r","L":"refrata","C":["vt","fis"],"d":"(acua, aira o vitro) fa ce (un raio de lus) cambia sua dirije cuando lo entra a un angulo","en":"refract"}
-{"L":"refrata","C":["n"],"en":"refraction"}
-{"L":"refratal","C":["a"],"en":"refractive"}
-{"T":"r","L":"refren","C":["n","mus"],"d":"un linia o linias repeteda de un poesia o canta, tipal a la fini de cada strofe; la musica cual acompania esta; un comenta o cexa cual es frecuente repeteda","en":"refrain, chorus"}
-{"L":"refreneta","C":["n"],"en":"jingle"}
-{"T":"r","L":"refuja","C":["vt","gov"],"d":"proteje (algun o alga cosa) de feri o dana, spesial de persegue o de atacas par sua governa o militar","en":"shelter, give refuge to, give asylum to, harbor|ur"}
-{"L":"refuja","C":["n"],"en":"shelter, refuge, asylum, sanctuary"}
-{"L":"refuja se","C":["vnt"],"en":"take refuge"}
-{"L":"refujada","C":["n"],"en":"refugee"}
-{"L":"refujeria","C":["n"],"en":"shelter, refuge, asylum, sanctuary"}
-{"L":"refujeria contra esplodes","C":["n"],"en":"bomb shelter"}
-{"T":"r","L":"refusa","C":["vt","gov"],"d":"indica o mostra ce on no vole fa; indica ce on no vole aseta o dona; trata como nonvaluada; declara ce on no aseta la veria o esiste de","ca":"refusar","da":"afvise, nægte","de":"ablehnen","en":"refuse, reject, dismiss, deny, decline","eo":"rifuzi","es":"rechazar, desechar, descartar, negar, negarse, rehusar","fr":"refuser","it":"rifiutare","ja":"拒否する","nl":"verwerpen, weigeren","pt":"recusar","ru":"отвергать, отказываться (от)"}
-{"L":"refusa","C":["n"],"en":"refusal, rejection, denial"}
-{"T":"r","L":"refuta","C":["vt","fil"],"d":"mostra ce (un declara o teoria) es falsa o noncoreta","en":"refute, rebut"}
-{"L":"refuta","C":["n"],"en":"refutation, rebuttal"}
-{"L":"nonrefutable","C":["a"],"en":"irrefutable"}
-{"L":"refutable","C":["a"],"en":"refutable"}
+{"T":"r","L":"refleta","C":["vt","fis"],"d":"(un surfas o corpo) lansa a retro (caldia, lus o sona) sin asorbe lo; (un miror o otra surfas briliante) mostra un imaje de","en":"reflect","fr":"refléter"}
+{"L":"refleta","C":["n"],"i":"#","en":"reflection","fr":"réflection"}
+{"L":"nonrefletante","C":["a"],"en":"non-reflective","fr":"non réfléchissant"}
+{"L":"refletante","C":["a"],"en":"reflecting, reflective, introspective; reflexive (grammar)","fr":"réfléchissant, introverti, introspectif; réfléchi (grammaire)"}
+{"L":"autorefleta","C":["v"],"en":"self-reflect","fr":"réfléchir sur soi-même"}
+{"L":"autorefleta","C":["n"],"en":"self-reflection","fr":"auto-réflexion"}
+{"T":"r","L":"reflexe","C":["a","bio"],"d":"(un ata) fada sin pensa o intende; fada o aveninte en modo spontan","en":"reflexive, automatic","fr":"réflexe, automatique"}
+{"L":"reflexe","C":["n"],"en":"reflex","fr":"réflexe"}
+{"T":"r","L":"reflexolojia","C":["n","med"],"d":"un sistem de masaje per destensa e trata maladias, usante la teoria ce puntos spesial sur la pedes, manos e testa es liada a cada parte de la corpo","en":"reflexology","fr":"réflexologie"}
+{"L":"reflexolojial","C":["a"],"en":"reflexological","fr":"réflexologique"}
+{"L":"reflexolojiste","C":["n"],"en":"reflexologist","fr":"réflexologue"}
+{"T":"r","L":"reformi","C":["vt","gov","rel"],"d":"cambia (alga cosa, tipal un instituida o pratica sosial, political o economial) per boni lo; fa ce un person no condui plu como un criminor o en modo nonmoral o autodestruinte","en":"reform","fr":"réformer, améliorer, amender, rectifier, remanier, corriger"}
+{"L":"reformi","C":["n"],"en":"reform, reformation","fr":"réforme, amélioration, correction, amendement, rectification, remaniement"}
+{"L":"nonreformida","C":["a"],"en":"unreformed","fr":"non réformé, non remanié, non corrigé"}
+{"L":"reformeria","C":["n"],"en":"reformatory","fr":"maison de correction, maison de redressement, établissement d'éducation surveillée, centre d'éducation surveillée"}
+{"L":"reformida","C":["a"],"en":"reformed","fr":"réformé, corrigé"}
+{"L":"reformisme","C":["n"],"en":"reformism","fr":"réformisme"}
+{"L":"reformiste","C":["a"],"en":"reformist","fr":"réformiste"}
+{"L":"reformiste","C":["n"],"en":"reformist","fr":"réformiste"}
+{"T":"r","L":"reforti","C":["vt","util","arci","gov","uma"],"d":"forti o suporta, tipal con plu persones o materias; forti (un emosia, senti o abitua)","en":"reinforce, brace","fr":"renforcer, consolider"}
+{"L":"reforti","C":["n"],"en":"reinforcement (action)","fr":"renforcement, consolidation"}
+{"L":"refortinte","C":["a"],"en":"reinforcing, strengthening, bracing","fr":"qui consolide, de consolidation, de renforcement"}
+{"L":"refortinte","C":["n"],"en":"reinforcement (person, thing); strengthener, gusset; booster (vaccination)","fr":"renfort, renforcement, soutien, soutènement, consolidement; rappel (vaccination)"}
+{"T":"r","L":"refrata","C":["vt","fis"],"d":"(acua, aira o vitro) fa ce (un raio de lus) cambia sua dirije cuando lo entra a un angulo","en":"refract","fr":"réfracter"}
+{"L":"refrata","C":["n"],"en":"refraction","fr":"réfraction"}
+{"L":"refratal","C":["a"],"en":"refractive","fr":"réfracteur, réfractrice; réfractoire"}
+{"T":"r","L":"refren","C":["n","mus"],"d":"un linia o linias repeteda de un poesia o canta, tipal a la fini de cada strofe; la musica cual acompania esta; un comenta o cexa cual es frecuente repeteda","en":"refrain, chorus","fr":"refrain"}
+{"L":"refreneta","C":["n"],"en":"jingle","fr":"petit refrain, ritournelle, jingle"}
+{"T":"r","L":"refuja","C":["vt","gov"],"d":"proteje (algun o alga cosa) de feri o dana, spesial de persegue o de atacas par sua governa o militar","en":"shelter, give refuge to, give asylum to, harbor|ur","fr":"abriter, donner refuge à, donner asile à"}
+{"L":"refuja","C":["n"],"en":"shelter, refuge, asylum, sanctuary","fr":"abri, refuge, asile, sanctuaire"}
+{"L":"refuja se","C":["vnt"],"en":"take refuge","fr":"se réfugier, s'abriter, chercher refuge"}
+{"L":"refujada","C":["n"],"en":"refugee","fr":"réfugié"}
+{"L":"refujeria","C":["n"],"en":"shelter, refuge, asylum, sanctuary","fr":"abri, refuge, asile, sanctuaire"}
+{"L":"refujeria contra esplodes","C":["n"],"en":"bomb shelter","fr":"abri antibombardement"}
+{"T":"r","L":"refusa","C":["vt","gov"],"d":"indica o mostra ce on no vole fa; indica ce on no vole aseta o dona; trata como nonvaluada; declara ce on no aseta la veria o esiste de","ca":"refusar","da":"afvise, nægte","de":"ablehnen","en":"refuse, reject, dismiss, deny, decline","eo":"rifuzi","es":"rechazar, desechar, descartar, negar, negarse, rehusar","fr":"refuser, rejeter, dénier, décliner","it":"rifiutare","ja":"拒否する","nl":"verwerpen, weigeren","pt":"recusar","ru":"отвергать, отказываться (от)"}
+{"L":"refusa","C":["n"],"en":"refusal, rejection, denial","fr":"refus, rejet, dénégation"}
+{"T":"r","L":"refuta","C":["vt","fil"],"d":"mostra ce (un declara o teoria) es falsa o noncoreta","en":"refute, rebut","fr":"réfuter"}
+{"L":"refuta","C":["n"],"en":"refutation, rebuttal","fr":"réfutation"}
+{"L":"nonrefutable","C":["a"],"en":"irrefutable","fr":"irréfutable"}
+{"L":"refutable","C":["a"],"en":"refutable","fr":"réfutable"}
 {"T":"r","L":"regala","C":["vt","uma"],"d":"permete ce (algun) joia un plaser desirada; furni comedas, bevis, divertis, etc a (algun); es multe o tro multe jenerosa a (algun)","en":"treat, spoil, pamper, indulge, dote, coddle, mollycoddle, cosset, pander"}
 {"L":"regala","C":["n"],"en":"treat, bonus, lagniappe; encore"}
 {"L":"regalante","C":["a"],"en":"treating, spoiling, permissive"}
@@ -23351,7 +23358,7 @@
 {"L":"runal","C":["a"],"en":"runic"}
 {"T":"r","L":"rupi","C":["n","mone"],"d":"la unia fundal de mone de Barat, Pacistan, Srilanca, Nepal, Mauris e la Sexeles","en":"rupee (currency)"}
 {"T":"r","L":"rus","C":["n","uma"],"d":"un ata intendeda per engana algun","en":"ruse, trick, chicanery, prank, ploy, spoof, wile"}
-{"L":"es plu rusosa ca","C":["v"],"en":"outwit, outsmart, outthink, outfox"}
+{"L":"es plu rusosa ca","C":["v"],"en":"outwit, outsmart, outthink, outfox, outflank"}
 {"L":"rusor","C":["n"],"en":"trickster, prankster"}
 {"L":"rusosa","C":["a"],"en":"crafty, cunning, tricky, devious, artful, wily, sly, shady"}
 {"L":"rusosia","C":["n"],"en":"craftiness, cunning, cunningness, deviousness, guile, sleight, trickery"}
@@ -25069,7 +25076,7 @@
 {"T":"r","L":"sinifia","C":["vt","ling"],"d":"intende indica o refere a (un cosa o idea spesifada); vole dise; (un parola) es definida como","en":"mean, signify"}
 {"L":"sinifia","C":["n"],"da":"betydning, mening","de":"Sinn, Bedeutung","en":"meaning, sense, purport","es":"significado, sentido, significación","fr":"signification","it":"significato","nl":"betekenis, zin","pt":"significado, sentido, senso"}
 {"L":"sin sinifia","C":["a"],"en":"meaningless, senseless"}
-{"L":"sinifiosa","C":["a"],"en":"meaningful, significant, momentous"}
+{"L":"sinifiosa","C":["a"],"en":"meaningful, significant, momentous, pointed"}
 {"T":"r","L":"sinistra","C":["a"],"d":"a, o pertinente a, la lado cual es a ueste cuando on fasa a norde; pertinente a un person o grupo ci favore ideas libraliste, sosialiste o radical","ca":"esquerre","da":"venstre (-hånd)","de":"linke","en":"left (not right); port","eo":"maldekstra","es":"izquierda, siniestra","fr":"guache","it":"sinistra","ja":"左の","nl":"links","pt":"esquerda, sinistra","ru":"левый"}
 {"L":"sinistra","C":["n"],"en":"left"}
 {"L":"a sinistra","C":["av"],"en":"on the left"}
@@ -25449,6 +25456,7 @@
 {"T":"r","L":"soma","C":["vnt","mat"],"d":"ajunta (du o plu numeros o cuantias) a lunlotra per calcula sua valua intera","en":"add up (numbers)"}
 {"L":"soma","C":["vt"],"en":"add up (numbers)"}
 {"L":"soma","C":["n"],"da":"total, sum, helhed","de":"Gesamtsumme","en":"sum, total, addition, summation","eo":"sumo","es":"total, suma, agregado","fr":"total","it":"totale, somma","nl":"totaal","pt":"total, somatório, soma, resultado"}
+{"L":"soma de controla","C":["n"],"en":"checksum"}
 {"L":"somada","C":["a"],"en":"total"}
 {"L":"susoma","C":["n"],"en":"subtotal"}
 {"T":"r","L":"soma","C":["n","cos","rel"],"d":"un bevida enebriante, preparada de un planta e usada en rituos vedal antica","en":"soma (drink)"}
@@ -25751,7 +25759,7 @@
 {"T":"r","L":"sporofite","C":["n","bio"],"d":"la fase nonsesal de plantas, produinte la sporas de cual la gametofite deriva","en":"sporophyte"}
 {"T":"r","L":"sporte","C":["n","spo"],"d":"un ativia envolvente fortia, eserse e capasia, en cual un person o ecipo compete contra un otra o otras per la diverti de la partisipores o oservores","en":"sport","eo":"sporto"}
 {"L":"sportor","C":["n"],"en":"sportsperson, sportsman, sportswoman"}
-{"T":"r","L":"spos","C":["n","uma"],"d":"un person liada con un otra person par lege o rituos tradisional, comun per ama, copula, comparti furnis, aida mutua e a veses produi e eleva enfantes; la acompanior sesal de un animal","en":"spouse, husband, wife; mate"}
+{"T":"r","L":"spos","C":["n","uma"],"d":"un person liada con un otra person par lege o rituos tradisional, comun per ama, copula, comparti furnis, aida mutua e a veses produi e eleva enfantes; la acompanior sesal de un animal","en":"spouse, husband, wife, other half; mate"}
 {"L":"ante sposi","C":["a"],"en":"premarital, prenuptial"}
 {"L":"de sposa nova","C":["a"],"en":"bridal"}
 {"L":"de sposi","C":["a"],"en":"bridal"}
@@ -27070,7 +27078,7 @@
 {"T":"r","L":"terbio","C":["n","cim"],"d":"la elemento cimical con numero atomal 65, usada per fabrica semicondutadores","s":"Tb","en":"terbium (element)"}
 {"T":"r","L":"terebentin","C":["n","cim"],"d":"un olio distilada de la resina de alga arbores, usada en pintas, vernises e balsam","en":"turpentine"}
 {"T":"r","L":"teremin","C":["n","mus"],"d":"un strumento musical en cual du osiladores crea un tono, de cual sua altia e fortia es cambiada par moves de mano en la aira","i":"#","en":"theremin (musical instrument)"}
-{"T":"r","L":"tereno","C":["n","tera"],"d":"un area de tera e sua cualias fisical","da":"jord, land (egendom)","de":"Land","en":"terrain; grounds","es":"terreno, territorio, suelo","fr":"terrain, domaine","it":"terreno, proprietà immobiliare","nl":"land, landerij","pt":"terreno, lote"}
+{"T":"r","L":"tereno","C":["n","tera"],"d":"un area de tera e sua cualias fisical; un ambiente real e pratical de labora","da":"jord, land (egendom)","de":"Land","en":"terrain; grounds; (the) field (practical environment)","es":"terreno, territorio, suelo","fr":"terrain, domaine","it":"terreno, proprietà immobiliare","nl":"land, landerij","pt":"terreno, lote"}
 {"L":"tereno alta","C":["n"],"en":"highland, highlands"}
 {"L":"tereno basa","C":["n"],"en":"lowland, lowlands"}
 {"L":"tereno savaje","C":["n"],"en":"badlands"}
@@ -27259,6 +27267,7 @@
 {"T":"r","L":"tinocor","C":["n","avia"],"d":"un avia de America Sude ci sembla un perdis peti con plumas brun","i":"#","t":"Thinocoridae","en":"seed-snipe (bird)","fr":"thinocore"}
 {"T":"r","L":"tintina","C":["vnt"],"d":"fa un sona clar e peti, con tono alta","en":"tinkle, jingle, jangle, ping, clang, clank, clink; ring (phone, doorbell)","fr":"tinter; sonner (téléphone)"}
 {"L":"tintina","C":["n"],"en":"tinkle, jingle, jangle, clang, clank, clink, clangor|ur"}
+{"L":"tintinador","C":["n"],"en":"ringer, ringing mechanism"}
 {"T":"r","L":"tintura","C":["n","med"],"d":"un medisin produida par disolve un droga en alcol; un cuantia peti de alga cosa","en":"tincture (medicine)"}
 {"T":"r","L":"tipi","C":["n","arci","uma"],"d":"un tenda cono portable, fabricada de peles, stofa o lona sur un strutur de palos","i":"#","en":"tipi, teepee, tepee (tent)"}
 {"T":"r","L":"tipo","C":["n"],"d":"un categoria de persones o cosas cual ave cualias comun; un spesie de letera primida o mostrada sur scermo","da":"slags, art, type","de":"Art, Typ","en":"type, sort, kind; type (printing)","es":"clase, tipo, variedad, género, especie","fr":"type","it":"tipo","nl":"soort","pt":"tipo, gênero, espécie, variedade"}
@@ -29624,6 +29633,7 @@
 {"L":"xica noncortes","C":["n"],"en":"impudent girl, minx"}
 {"L":"xica ruidosa","C":["n"],"en":"boisterous girl, hoyden"}
 {"L":"xica vagante","C":["n"],"en":"street urchin, guttersnipe, gamine, ragamuffin","eo":"bubino"}
+{"L":"xiceta","C":["n"],"en":"little girl, little boy; (colloquial) girlie, girlfriend, GF, boyfriend, BF"}
 {"L":"xico","C":["n"],"d":"un enfante mas; (nonformal) un om","ca":"xaval","da":"dreng","de":"Junge","en":"boy; (colloquial) guy, bloke, chap, fellow, geezer (man)","eo":"knabo; ulo","es":"muchacho, muchacho, joven, chico, niño, mozo","fr":"garçon","it":"ragazzo","ja":"男の子","nl":"jongen","pt":"menino, garoto, rapaz","ru":"мальчик"}
 {"L":"xico de cor","C":["n"],"d":"la mas en un relata de ama ante sposi","en":"boyfriend","eo":"koramiko"}
 {"L":"xico de jornales","C":["n"],"en":"newsboy, paperboy"}
