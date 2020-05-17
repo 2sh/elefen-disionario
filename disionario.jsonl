@@ -4378,7 +4378,7 @@
 {"T":"r","L":"can","C":["n","mam"],"d":"un mamal carnivor domada, tipal con beco longa e ole eselente, usada per labora, sportes o como animal de casa","i":"#","t":"Canis familiaris","da":"hund","de":"Hund","en":"dog, pooch, mutt","es":"perro","fr":"chien","gl":"can","he":"כלב","it":"cane"}
 {"L":"can coleriosa","C":["n"],"de":"Köter, aggressiver Hund","en":"cur","fr":"cabot, chien agressif","he":"כלב אכזרי"}
 {"L":"can detetante","C":["n"],"de":"Spürhund","en":"detection dog, sniffer dog","fr":"limier, chien renifleur"}
-{"L":"can de pastor","C":["n"],"i":"#","de":"Schäferhund","en":"sheepdog, sheep dog","fr":"chien de berger","he":"כלב רועים"}
+{"L":"can de pastor","C":["n"],"i":"#","de":"Schäferhund","en":"sheepdog","fr":"chien de berger","he":"כלב רועים"}
 {"L":"can de pastor deutx","C":["n"],"i":"#","de":"deutscher Schäferhund","en":"German shepherd dog, Alsatian","fr":"berger allemand","he":"רועה גרמני (כלב)"}
 {"L":"can de pastor scotes","C":["n"],"de":"Collie","en":"collie","fr":"colley, berger écossais","he":"קולי (כלב)"}
 {"L":"can-de-prado","C":["n","mam"],"d":"un scural sosial ci vive en tuneles juntada cual pote estende tra un area grande, abitante la savana de America Norde","i":"#","t":"Cynomys","de":"Präriehund (Nagetier)","en":"prairie dog (rodent)","fr":"chien de prairie (rongeur)","he":"נובחנית (מכרסם)"}
@@ -4410,7 +4410,7 @@
 {"T":"r","L":"canario","C":["n","avia"],"d":"un pinson african con canta melodiosa, tipal con plumas jala e verde, comun usada como animal de casa","i":"#","t":"Serinus","de":"Kanarienvogel, Kanarie, Kanari","en":"canary","fr":"canari, serin","he":"כנרית (ציפור)"}
 {"L":"Isolas Canario","C":["n","pl","jeo"],"d":"un grupo de isolas e un rejion autonom de Espania, en la Mar Atlantica, a este de Africa","i":"#","de":"Kanarische Inseln, Kanaren","en":"Canary Islands","fr":"îles Canaries","he":"האיים הקנריים"}
 {"T":"r","L":"canasta","C":["n","spo"],"d":"un jua de cartas, con du pacetas e du duples de juores, en cual on atenta colie cartas","de":"Canasta (Kartenspiel)","en":"canasta (card game)","fr":"canasta","he":"קנסטה (משחק קלפים)"}
-{"T":"r","L":"cancan","C":["n","mus"],"d":"un dansa vivosa con pedis alta, orijinante en cabares de Paris en la sentenio 19, fada par femes en faldas e faldetas longa","i":"#","de":"Cancan (Tanz)","en":"cancan, can-can (dance)","fr":"cancan (danse)","he":"קאן-קאן (ריקוד)"}
+{"T":"r","L":"cancan","C":["n","mus"],"d":"un dansa vivosa con pedis alta, orijinante en cabares de Paris en la sentenio 19, fada par femes en faldas e faldetas longa","i":"#","de":"Cancan (Tanz)","en":"cancan (dance)","fr":"cancan (danse)","he":"קאן-קאן (ריקוד)"}
 {"T":"r","L":"candela","C":["n","util","fis"],"d":"un silindre o bloco de sira o sebo con un mexa a la sentro cual produi lus cuando lo arde; la unia internasional per mesura intensia de lus","i":"#","da":"lys, kærte","de":"Kerze; Candela, Kerzenstärke (Einheiten)","en":"candle; candela, candlepower","es":"vela, candela, bujía, cirio","fr":"bougie","gl":"candea","he":"נר; קנדלה"}
 {"L":"candela roman","C":["n"],"de":"Römisches Licht, Römische Kerze (Feuerwerk)","en":"Roman candle (firework)"}
 {"T":"r","L":"candelabro","C":["n","arci"],"d":"un portacandela per un cuantia de candelas o lampas","i":"#","de":"Kandelaber, Girandole, Armleuchter, Kronleuchter, Lüster, Luster","en":"candelabra, chandelier","fr":"chandelier, candélabre","he":"מנורת קנים"}
@@ -4424,49 +4424,49 @@
 {"L":"canibalisme","C":["n"],"de":"Kannibalismus, Anthropophagie","en":"cannibalism","fr":"cannibalisme","he":"קניבליזם"}
 {"T":"r","L":"canido","C":["n","mam"],"d":"un membro de la familia de mamales cual inclui canes","t":"Canidae","de":"Canidae, Caninae, hundeartiges Tier (Hunde, Füchse, Schakale etc.)","en":"canid, canine","fr":"canidé","he":"כלבי (שייך למשפחת הכלביים)"}
 {"T":"r","L":"canion","C":["n","tera"],"d":"un vale grande, magra e basa, tipal con un rio; (metafor) un distantia grande entre du ideas o situas","i":"#","de":"Canyon, Schlucht, Kluft; Abgrund (metaphorisch)","en":"canyon, gorge, ravine, chasm; gap (to be bridged metaphorically)","fr":"canyon, gorges, clue, cluse","gl":"canón (val)","he":"קניון, גיא; (מטפורה) תהום, פער"}
-{"T":"r","L":"canix","C":["n","mam"],"d":"un raza de can con pelo risa, tipal cortida en modo ornal","i":"#","en":"poodle","fr":"caniche","he":"פודל (כלב)"}
-{"T":"r","L":"canji","C":["n","ling"],"d":"un sistem de scrive nion, usante sinias xines","en":"kanji (writing system)","fr":"kanji (système d'écriture)","he":"קאנג'י"}
-{"T":"r","L":"cano","C":["n","util"],"d":"la parte silindre de un fusil","en":"barrel (gun)","fr":"canon (d'un fusil)","he":"קנה (רובה)"}
-{"L":"cano lisa","C":["n"],"en":"smooth bore","fr":"canon lisse","he":"קנה חלק קדח"}
-{"L":"cano raiosa","C":["n"],"en":"rifled bore","fr":"canon rayé","he":"קנה מחורק"}
-{"L":"canon","C":["n"],"i":"#","en":"cannon (gun)","fr":"canon (arme)","gl":"canón (arma)","he":"תותח"}
-{"L":"canonor","C":["n"],"en":"cannoneer, cannonier, artilleryman","fr":"canonnier, artilleur","he":"תותחן"}
-{"T":"r","L":"canoa","C":["n","vec"],"d":"un barco magra, sin cilia, con finis puntida, moveda par un remo o remos","i":"#","en":"canoe","fr":"canoë, canot","he":"קאנו, בוצית"}
-{"L":"canoa escavada","C":["n"],"en":"dugout","fr":"pirogue","he":"מחפורת, שוחה"}
-{"L":"canoisme","C":["n"],"p":"canoïsme","en":"canoeing","fr":"canoë, canoë-kayac","he":"שיט בקאנו"}
-{"L":"canoiste","C":["n"],"p":"canoïste","en":"canoeist","fr":"canoéiste","he":"שייט קאנו"}
-{"L":"vade par canoa","C":["v"],"en":"canoe","fr":"faire du canoë","he":"לשוט בקאנו"}
-{"T":"r","L":"canolo","C":["n","cos"],"d":"un deser sisilian, composada de un tubo fritada de pasta dulse con un pleninte cremosa","i":"#","en":"cannolo (dessert)","fr":"cannolo (dessert sicilien)","he":"קנולו (מאפה)"}
-{"L":"canolos","C":["n","pl"],"en":"cannoli","fr":"cannoli","he":"קנולי"}
-{"T":"r","L":"canon","C":["n","rel","mus"],"d":"un colie de libros santa; un colie de testos asetada como autentica; un musica con un melodia xef cual otra strumentos imita a intervales","da":"kanon","de":"Kanone","en":"canon (literature, music)","es":"cañón","fr":"canon (littérature, arts, musique)","he":"(ספרות, מוזיקה) קאנון"}
-{"L":"canonal","C":["a"],"en":"canonical","fr":"canonique","he":"קאנוני"}
-{"T":"r","L":"canonera","C":["n","vec"],"d":"un barcon peti e rapida con armas fisada, usada en rios e a costas","en":"gunboat","fr":"canonnière","he":"ספינת תותחים"}
-{"T":"r","L":"cansela","C":["vt"],"d":"deside o declara ce (un aveni intendeda) no va aveni; deside o declara ce (un validi o obliga) no continua plu; neutri o nega la forsa o efeto de (un cosa o situa); sutrae o vacui (testo, imajes, marcas o otra materia)","en":"cancel, revoke, abrogate, annul, repeal, belay, nix; erase, rub out, delete, expunge","fr":"annuler, révoquer, abroger, effacer, supprimer","he":"לבטל"}
-{"L":"cansela","C":["n"],"en":"cancellation, abrogation, erasure, annulment, revocation, write-off","fr":"annulation, abrogation, effacement, suppression, révocation","he":"ביטול"}
-{"L":"cansela sua enscrive","C":["v"],"en":"unsubscribe","fr":"désinscrire, désabonner","he":"לבטל הרשמה"}
-{"L":"canselable","C":["a"],"en":"cancelable|cancellable, revocable, erasable","fr":"annulable, effaçable, supprimable, révocable","he":"שניתן לביטול"}
-{"L":"canselador","C":["n"],"en":"canceler|ll (device)","fr":"annuleur","he":"מבטל (מכשיר)"}
-{"L":"noncanselable","C":["a"],"en":"irrevocable, unerasable, indelible","fr":"non-annulable, irrévocable, ineffaçable, indélébile","he":"שלא ניתן לביטול"}
-{"T":"r","L":"canselor","C":["n","gov"],"d":"un ofisial major nasional o legal; la xef de governa en alga nasiones, per esemplo Deutxland; un xef de universia en alga nasiones","en":"chancellor","fr":"chancelier","he":"קנצלר"}
-{"L":"canseloreria","C":["n"],"en":"chancellery, chancery","fr":"chancellerie","he":"בניין השגרירות; מעון הקנצלר"}
-{"T":"r","L":"canser","C":["n","med"],"d":"un maladia causada par un divide noncontrolada de selulas nonormal en un parte de la corpo; un tumor creada en esta modo","en":"cancer","fr":"cancer (médecine)","he":"סרטן (מחלה)"}
-{"L":"canserosa","C":["a"],"en":"cancerous, malignant","fr":"cancéreux, malin (masculin), maligne (féminin)","he":"סרטני, ממאיר"}
-{"L":"canserosia","C":["n"],"en":"malignancy","fr":"malignité","he":"ממאירות"}
-{"L":"noncanserosa","C":["a"],"en":"non-cancerous, benign","fr":"non-cancéreux, bénin","he":"לא סרטני, שפיר"}
-{"L":"precanserosa","C":["a"],"en":"precancerous","fr":"précancéreux","he":"קדם-סרטני"}
+{"T":"r","L":"canix","C":["n","mam"],"d":"un raza de can con pelo risa, tipal cortida en modo ornal","i":"#","de":"Pudel","en":"poodle","fr":"caniche","he":"פודל (כלב)"}
+{"T":"r","L":"canji","C":["n","ling"],"d":"un sistem de scrive nion, usante sinias xines","de":"Kanji (Schriftzeichen)","en":"kanji (writing system)","fr":"kanji (système d'écriture)","he":"קאנג'י"}
+{"T":"r","L":"cano","C":["n","util"],"d":"la parte silindre de un fusil","de":"Lauf (Schusswaffe)","en":"barrel (gun)","fr":"canon (d'un fusil)","he":"קנה (רובה)"}
+{"L":"cano lisa","C":["n"],"de":"Glattrohr (Waffentechnik)","en":"smooth bore","fr":"canon lisse","he":"קנה חלק קדח"}
+{"L":"cano raiosa","C":["n"],"de":"gezogener Lauf (Schusswaffe)","en":"rifled bore","fr":"canon rayé","he":"קנה מחורק"}
+{"L":"canon","C":["n"],"i":"#","de":"Kanone","en":"cannon (gun)","fr":"canon (arme)","gl":"canón (arma)","he":"תותח"}
+{"L":"canonor","C":["n"],"de":"Kanonier, Artillerist","en":"cannoneer, cannonier, artilleryman","fr":"canonnier, artilleur","he":"תותחן"}
+{"T":"r","L":"canoa","C":["n","vec"],"d":"un barco magra, sin cilia, con finis puntida, moveda par un remo o remos","i":"#","de":"Kanu, Paddelboot","en":"canoe","fr":"canoë, canot","he":"קאנו, בוצית"}
+{"L":"canoa escavada","C":["n"],"de":"Einbaum (Kanu)","en":"dugout","fr":"pirogue","he":"מחפורת, שוחה"}
+{"L":"canoisme","C":["n"],"p":"canoïsme","de":"Kanufahren, Paddeln","en":"canoeing","fr":"canoë, canoë-kayac","he":"שיט בקאנו"}
+{"L":"canoiste","C":["n"],"p":"canoïste","de":"Kanufahrer, Kanute","en":"canoeist","fr":"canoéiste","he":"שייט קאנו"}
+{"L":"vade par canoa","C":["v"],"de":"Kanu fahren, paddeln","en":"canoe","fr":"faire du canoë","he":"לשוט בקאנו"}
+{"T":"r","L":"canolo","C":["n","cos"],"d":"un deser sisilian, composada de un tubo fritada de pasta dulse con un pleninte cremosa","i":"#","de":"Cannolo (Gebäck)","en":"cannolo (dessert)","fr":"cannolo (dessert sicilien)","he":"קנולו (מאפה)"}
+{"L":"canolos","C":["n","pl"],"de":"Cannoli (Plural von Cannolo)","en":"cannoli","fr":"cannoli","he":"קנולי"}
+{"T":"r","L":"canon","C":["n","rel","mus"],"d":"un colie de libros santa; un colie de testos asetada como autentica; un musica con un melodia xef cual otra strumentos imita a intervales","da":"kanon","de":"Kanon (Literatur, Musik)","en":"canon (literature, music)","es":"cañón","fr":"canon (littérature, arts, musique)","he":"(ספרות, מוזיקה) קאנון"}
+{"L":"canonal","C":["a"],"de":"kanonisch","en":"canonical","fr":"canonique","he":"קאנוני"}
+{"T":"r","L":"canonera","C":["n","vec"],"d":"un barcon peti e rapida con armas fisada, usada en rios e a costas","de":"Kanonenboot","en":"gunboat","fr":"canonnière","he":"ספינת תותחים"}
+{"T":"r","L":"cansela","C":["vt"],"d":"deside o declara ce (un aveni intendeda) no va aveni; deside o declara ce (un validi o obliga) no continua plu; neutri o nega la forsa o efeto de (un cosa o situa); sutrae o vacui (testo, imajes, marcas o otra materia)","de":"absagen, aufheben, annullieren, widerrufen, streichen; ausradieren, löschen","en":"cancel, revoke, abrogate, annul, repeal, belay, nix; erase, rub out, delete, expunge","fr":"annuler, révoquer, abroger, effacer, supprimer","he":"לבטל"}
+{"L":"cansela","C":["n"],"de":"Absage, Streichung, Aufhebung, Stornierung, Storno, Annullierung, Widerruf, Löschung, Abschreibung","en":"cancellation, abrogation, erasure, annulment, revocation, write-off","fr":"annulation, abrogation, effacement, suppression, révocation","he":"ביטול"}
+{"L":"cansela sua enscrive","C":["v"],"de":"sich abmelden, (etwas) abbestellen, kündigen (Abo)","en":"unsubscribe","fr":"désinscrire, désabonner","he":"לבטל הרשמה"}
+{"L":"canselable","C":["a"],"de":"aufhebbar, widerrufbar, kündbar; löschbar","en":"cancelable|cancellable, revocable, erasable","fr":"annulable, effaçable, supprimable, révocable","he":"שניתן לביטול"}
+{"L":"canselador","C":["n"],"de":"Unterdrücker, Kompensator (technisches Gerät)","en":"canceler|ll (device)","fr":"annuleur","he":"מבטל (מכשיר)"}
+{"L":"noncanselable","C":["a"],"de":"unwiderruflich; unauslöschlich, dokumentenecht, nicht löschbar, unlöschbar","en":"irrevocable, unerasable, indelible","fr":"non-annulable, irrévocable, ineffaçable, indélébile","he":"שלא ניתן לביטול"}
+{"T":"r","L":"canselor","C":["n","gov"],"d":"un ofisial major nasional o legal; la xef de governa en alga nasiones, per esemplo Deutxland; un xef de universia en alga nasiones","de":"Kanzler","en":"chancellor","fr":"chancelier","he":"קנצלר"}
+{"L":"canseloreria","C":["n"],"de":"Kanzlei, Kanzleramt","en":"chancellery, chancery","fr":"chancellerie","he":"בניין השגרירות; מעון הקנצלר"}
+{"T":"r","L":"canser","C":["n","med"],"d":"un maladia causada par un divide noncontrolada de selulas nonormal en un parte de la corpo; un tumor creada en esta modo","de":"Krebs (Krankheit)","en":"cancer","fr":"cancer (médecine)","he":"סרטן (מחלה)"}
+{"L":"canserosa","C":["a"],"de":"krebserregend, karzinös, kanzerös, bösartig","en":"cancerous, malignant","fr":"cancéreux, malin (masculin), maligne (féminin)","he":"סרטני, ממאיר"}
+{"L":"canserosia","C":["n"],"de":"Malignität, Bösartigkeit (Medizin)","en":"malignancy","fr":"malignité","he":"ממאירות"}
+{"L":"noncanserosa","C":["a"],"de":"nicht krebserregend, gutartig, benigne","en":"non-cancerous, benign","fr":"non-cancéreux, bénin","he":"לא סרטני, שפיר"}
+{"L":"precanserosa","C":["a"],"de":"präkanzerös","en":"precancerous","fr":"précancéreux","he":"קדם-סרטני"}
 {"T":"r","L":"canta","C":["vt","mus"],"d":"crea (sonas musical) con la vose, spesial parolas con un melodia spesifada, a veses per diverti escutores","da":"synge","de":"singen","en":"sing, croon","es":"cantar","fr":"chanter","gl":"cantar","he":"לשיר, לזמר"}
-{"L":"canta","C":["n"],"en":"song","fr":"chanson","he":"שיר, זֶמר, מזמור"}
-{"L":"canta de avias","C":["n"],"en":"birdsong","fr":"chant d'oiseau","he":"שיר הציפור"}
-{"L":"canta de cuna","C":["n"],"en":"lullaby","fr":"comptine","he":"שיר ערש"}
-{"L":"canta de folclor","C":["n"],"en":"folk song","fr":"chanson folklorique","he":"שיר עם"}
-{"L":"canta de gondolor","C":["n"],"en":"barcarole","fr":"barcarole","he":"(מוזיקה) ברקרולה"}
-{"L":"canta de loda","C":["n"],"en":"song of praise, paean","fr":"cantique, hymne, psaume","he":"שיר הלל"}
-{"L":"canta de marinores","C":["n"],"en":"shanty, chanty","fr":"chanson de marin","he":"שיר מלחים"}
-{"L":"canta de natal","C":["n"],"en":"carol","fr":"chant de Noël","he":"שיר לחג המולד"}
-{"L":"canta grupal","C":["n"],"en":"group singing, songfest","fr":"chorale, chœur","he":"שירה בציבור"}
-{"L":"canta gregorian","C":["n"],"en":"Gregorian chant, plainchant, plainsong","fr":"chant grégorien, plain-chant","he":"מזמור גרגוריאני"}
-{"L":"canta lenta","C":["v"],"en":"chant","fr":"psalmodier","he":"(דת) לשיר מזמורים"}
-{"L":"canta lenta","C":["n"],"en":"chant","fr":"psalmodie","he":"(דת) מזמור"}
+{"L":"canta","C":["n"],"de":"Lied, Song, Gesang","en":"song","fr":"chanson","he":"שיר, זֶמר, מזמור"}
+{"L":"canta de avias","C":["n"],"de":"Vogelgesang","en":"birdsong","fr":"chant d'oiseau","he":"שיר הציפור"}
+{"L":"canta de cuna","C":["n"],"de":"Wiegenlied, Schlaflied","en":"lullaby","fr":"comptine","he":"שיר ערש"}
+{"L":"canta de folclor","C":["n"],"de":"Volkslied","en":"folk song","fr":"chanson folklorique","he":"שיר עם"}
+{"L":"canta de gondolor","C":["n"],"de":"Barkarole","en":"barcarole","fr":"barcarole","he":"(מוזיקה) ברקרולה"}
+{"L":"canta de loda","C":["n"],"de":"Loblied, Lobgesang, Preislied, Päan","en":"song of praise, paean","fr":"cantique, hymne, psaume","he":"שיר הלל"}
+{"L":"canta de marinores","C":["n"],"de":"Seemannslied, Matrosenlied, Shanty","en":"shanty, chanty","fr":"chanson de marin","he":"שיר מלחים"}
+{"L":"canta de natal","C":["n"],"de":"Weihnachtslied","en":"carol","fr":"chant de Noël","he":"שיר לחג המולד"}
+{"L":"canta grupal","C":["n"],"de":"Gruppengesang, gemeinsames Singen, Singfest","en":"group singing, songfest","fr":"chorale, chœur","he":"שירה בציבור"}
+{"L":"canta gregorian","C":["n"],"de":"gregorianischer Gesang, gregorianischer Choral, Choralgesang","en":"Gregorian chant, plainchant, plainsong","fr":"chant grégorien, plain-chant","he":"מזמור גרגוריאני"}
+{"L":"canta lenta","C":["v"],"de":"psalmodieren","en":"chant","fr":"psalmodier","he":"(דת) לשיר מזמורים"}
+{"L":"canta lenta","C":["n"],"de":"Psalmodie","en":"chant","fr":"psalmodie","he":"(דת) מזמור"}
 {"L":"canta melodiosa","C":["v"],"en":"warble","fr":"chantonner, gazouiller, roucouler","he":"(מוזיקה) לסלסל"}
 {"L":"canta melodiosa","C":["n"],"en":"warble","fr":"gazouillis, roucoulement","he":"(מוזיקה) סלסול"}
 {"L":"canta sincrona","C":["n"],"en":"mime, lip-sync","fr":"playback","he":"סינכרון שפתיים, פלייבק"}
@@ -9939,55 +9939,55 @@
 {"L":"eritada","C":["a"],"en":"inherited","fr":"hérité","he":"ירש"}
 {"L":"eritada de familia","C":["n"],"en":"heirloom","fr":"héritage","he":"ירושה (חפץ או נכס)"}
 {"L":"erital","C":["a"],"en":"hereditary","fr":"héréditaire","he":"שקשור לירושה; תורשתי"}
-{"L":"eritisme","C":["n"],"d":"la teoria ce la majoria de la cualias de viventes, spesial de umanas, es eritada","en":"hereditarianism","fr":"innéisme"}
-{"L":"eritiste","C":["n"],"en":"hereditarian","fr":"innéiste"}
-{"L":"eritor","C":["n"],"en":"heir, heiress, heritor, heritrix, scion","fr":"héritier"}
-{"L":"eritor legal","C":["n"],"en":"heir apparent","fr":"héritier légal"}
-{"T":"r","L":"eritema","C":["n","med"],"d":"un roji de la pel, tipal a multe areas peti, causada par un feri o irita cual ia dilata la capilares","en":"erythema (medical)","fr":"érythème (médecine)"}
-{"L":"eritema jelal","C":["n","med"],"en":"chilblain","fr":"engelure"}
-{"T":"r","L":"eritro-","C":["pf","tecn"],"d":"roja","en":"erythro- (red)","fr":"érythro- (rouge)"}
-{"T":"r","L":"eritroblasto","C":["n","bio"],"d":"un eritrosite nonmatur, conteninte un nucleo","en":"erythroblast (blood cell)","fr":"érythroblaste"}
-{"T":"r","L":"eritromisina","C":["n","med"],"d":"un antimicrobial usada per trata infetas causada par alga baterias, simil a penisilina","en":"erythromycin (antibiotic)","fr":"érythromycine (antibiotique)"}
-{"T":"r","L":"eritropoiese","C":["n","bio"],"d":"la produi de eritrosites","en":"erythropoiesis (biology)","fr":"érythropoïèse (biologie)"}
-{"T":"r","L":"eritrosite","C":["n","bio"],"d":"un selula roja de la sangue, cual transporta osijen e diosido de carbono a e de la texedas","en":"erythrocyte, red blood cell","fr":"globule rouge, érythrocyte"}
-{"T":"r","L":"ermino","C":["n","mam"],"d":"un mamal peti e carnivor en familia de mustela, con coda negra, peto e adomen blanca, e pelo de color de castanias ma tipal intera blanca en inverno","i":"#","t":"Mustela erminea","en":"ermine, stoat","fr":"hermine"}
-{"T":"r","L":"ernia","C":["vnt","med"],"d":"(un parte de un organo) protende tra la mur de la caveta conteninte, per esemplo la intestin a un punto debil de la mur de la adomen","en":"herniate","fr":"présenter une hernie"}
-{"L":"ernia","C":["n"],"en":"hernia, herniation, rupture","fr":"hernie"}
-{"L":"ernia femoral","C":["n"],"en":"femoral hernia","fr":"hernie fémorale"}
-{"L":"ernia iatal","C":["n"],"en":"hiatal hernia","fr":"hernie hiatale"}
-{"L":"ernia inguinal","C":["n"],"en":"inguinal hernia","fr":"hernie linguale"}
-{"L":"ernia ombilical","C":["n"],"en":"umbilical hernia","fr":"hernie ombilicale"}
-{"T":"r","L":"erode","C":["vt","tera"],"d":"(venta, acua o un otra fenomeno natural) causa la diminui gradal de (tera o roca) par frota continuante","en":"erode, wear away, wear down, weather","fr":"éroder, user, raviner, ronger"}
-{"L":"erode","C":["n"],"en":"erosion, attrition","fr":"érosion, usure, ravinement"}
-{"L":"erodente","C":["a"],"en":"eroding, erosive","fr":"érosif"}
-{"T":"r","L":"eroe","C":["n","arte","uma"],"d":"un person ci es amirada o idealida per sua coraje, atenis eselente o cualias nobil; la carater xef en un libro, filma o presenta teatral, tipal con bon cualias e ci lejores o regardores pote compatia; un person mital de cualias supraumana, comun de orijina semidivin","en":"hero, heroine, protagonist","fr":"héros, héroïne, protagoniste"}
-{"L":"antieroe","C":["n"],"en":"antihero, antiheroine","fr":"anti-héros, anti-héroïne"}
-{"L":"eroin","C":["a"],"p":"eroïn","en":"heroic","fr":"héroïque, comparable à un héros"}
-{"L":"eroisme","C":["n"],"p":"eroïsme","en":"heroism","fr":"héroïsme"}
-{"L":"supraeroe","C":["n"],"en":"superhero","fr":"superhéros, superhéroïne"}
-{"T":"r","L":"eroina","C":["n","med"],"d":"un paradole multe abituante, derivada de morfina, comun nonlegal usada per produi estasia","p":"eroïna","en":"heroin (drug)","fr":"héroïne"}
-{"T":"r","L":"erojen","C":["a","bio"],"d":"sensosa a stimula sesal","en":"erogenous","fr":"érogène"}
-{"T":"r","L":"eron","C":["n","avia"],"d":"un avia grande e vadante con gamas longa, colo longa con forma de S, e beco longa e puntida, cual come tipal pexes","i":"#","t":"Ardeidae","en":"heron","fr":"héron"}
-{"T":"r","L":"Eros","C":["n","mit"],"d":"(en mitos elinica) la dio de ama e desira sesal","en":"Eros (mythology)","fr":"Éros"}
-{"T":"r","L":"erotica","C":["a","uma"],"d":"tendente stimula desira sesal","en":"erotic, carnal","fr":"érotique, charnel, sensuel"}
-{"L":"autoerotica","C":["a"],"en":"autoerotic","fr":"autoérotique"}
-{"L":"eroticas","C":["n","pl"],"en":"erotica","fr":"art érotique"}
-{"T":"r","L":"erpes","C":["n","med"],"d":"cada de un grupo de maladias causada par alga viruses, afetante la pel, tipal con bulas, o la sistem de nervos","en":"herpes","fr":"herpès"}
-{"T":"r","L":"erpetolojia","C":["n","med"],"d":"la ramo de zolojia cual studia retiles e amfibios","en":"herpetology","fr":"herpétologie, ophiologie"}
-{"L":"erpetolojiste","C":["n"],"en":"herpetologist","fr":"herpétologue, ophiologue"}
-{"T":"r","L":"Ertra","C":["n","jeo"],"c":"Asmara","d":"un pais en Africa norde-este, a la Mar Roja","i":"#","en":"Eritrea","fr":"Érythrée"}
-{"L":"ertri","C":["a"],"en":"Eritrean","fr":"érythréen"}
-{"L":"ertri","C":["n"],"en":"Eritrean","fr":"Érythréen"}
-{"T":"r","L":"erudita","C":["a"],"d":"avente o mostrante sabes detaliosa sur sujetos academial","en":"erudite, learned, scholarly","fr":"érudit, très cultivé, très instruit"}
-{"L":"erudita","C":["n"],"en":"polymath, savant, scholar","fr":"érudit, savant"}
-{"L":"eruditia","C":["n"],"en":"erudition, learnedness, scholarliness, scholarship","fr":"érudition, grande culture, grand savoir"}
-{"T":"r","L":"eruga","C":["n","artr"],"d":"la larva de un papilio, cual ave un corpo vermin e sesionida con tre duples de gamas vera e otra duples de membros cual pare como gamas","i":"#","t":"Lepidoptera","en":"caterpillar","fr":"chenille"}
-{"L":"eruga de jeometrido","C":["n"],"en":"inchworm, looper","fr":"chenille de géométridé"}
-{"L":"eruga de seda","C":["n"],"t":"Bombyx mori","en":"silkworm","fr":"ver à soie"}
-{"L":"erugin","C":["a"],"en":"caterpillarlike","fr":"qui ressemble à une chenille"}
-{"T":"r","L":"eruta","C":["vnt","med","tera"],"d":"(un volcan) deveni ativa e ejeta lava, sene e gases; (un situa nondesirada) aveni subita e dramosa; (un maladia) apare subita sur la pel o otra parte de la corpo","en":"erupt; break out (in a rash)","fr":"être en éruption"}
-{"L":"eruta","C":["n"],"en":"eruption; outbreak; rash (medical)","fr":"éruption"}
-{"L":"eruta de dentes","C":["n"],"en":"teething","fr":"percée (de dents), poussée (de dents)"}
+{"L":"eritisme","C":["n"],"d":"la teoria ce la majoria de la cualias de viventes, spesial de umanas, es eritada","en":"hereditarianism","fr":"innéisme","he":"תורשתנות"}
+{"L":"eritiste","C":["n"],"en":"hereditarian","fr":"innéiste","he":"תורשתן"}
+{"L":"eritor","C":["n"],"en":"heir, heiress, heritor, heritrix, scion","fr":"héritier","he":"יורש"}
+{"L":"eritor legal","C":["n"],"en":"heir apparent","fr":"héritier légal","he":"יורש מוחלט"}
+{"T":"r","L":"eritema","C":["n","med"],"d":"un roji de la pel, tipal a multe areas peti, causada par un feri o irita cual ia dilata la capilares","en":"erythema (medical)","fr":"érythème (médecine)","he":"(רפואה) אדמנת"}
+{"L":"eritema jelal","C":["n","med"],"en":"chilblain","fr":"engelure","he":"שלפוחית קור"}
+{"T":"r","L":"eritro-","C":["pf","tecn"],"d":"roja","en":"erythro- (red)","fr":"érythro- (rouge)","he":"(קידומת טכנית) אדום"}
+{"T":"r","L":"eritroblasto","C":["n","bio"],"d":"un eritrosite nonmatur, conteninte un nucleo","en":"erythroblast (blood cell)","fr":"érythroblaste","he":"אריתרובלסט"}
+{"T":"r","L":"eritromisina","C":["n","med"],"d":"un antimicrobial usada per trata infetas causada par alga baterias, simil a penisilina","en":"erythromycin (antibiotic)","fr":"érythromycine (antibiotique)","he":"אריתרומיצין (אנטיביוטיקה)"}
+{"T":"r","L":"eritropoiese","C":["n","bio"],"d":"la produi de eritrosites","en":"erythropoiesis (biology)","fr":"érythropoïèse (biologie)","he":"אריתרופויזה"}
+{"T":"r","L":"eritrosite","C":["n","bio"],"d":"un selula roja de la sangue, cual transporta osijen e diosido de carbono a e de la texedas","en":"erythrocyte, red blood cell","fr":"globule rouge, érythrocyte","he":"תא-דם אדום, אריתרוציט"}
+{"T":"r","L":"ermino","C":["n","mam"],"d":"un mamal peti e carnivor en familia de mustela, con coda negra, peto e adomen blanca, e pelo de color de castanias ma tipal intera blanca en inverno","i":"#","t":"Mustela erminea","en":"ermine, stoat","fr":"hermine","he":"הרמין (בעל-חיים)"}
+{"T":"r","L":"ernia","C":["vnt","med"],"d":"(un parte de un organo) protende tra la mur de la caveta conteninte, per esemplo la intestin a un punto debil de la mur de la adomen","en":"herniate","fr":"présenter une hernie","he":"לגרום לבקע"}
+{"L":"ernia","C":["n"],"en":"hernia, herniation, rupture","fr":"hernie","he":"בקע, קילה, הרניה"}
+{"L":"ernia femoral","C":["n"],"en":"femoral hernia","fr":"hernie fémorale","he":"בקע פמורלי"}
+{"L":"ernia iatal","C":["n"],"en":"hiatal hernia","fr":"hernie hiatale","he":"בקע סרעפתי"}
+{"L":"ernia inguinal","C":["n"],"en":"inguinal hernia","fr":"hernie linguale","he":"בקע מפשעתי"}
+{"L":"ernia ombilical","C":["n"],"en":"umbilical hernia","fr":"hernie ombilicale","he":"בקע טבורי"}
+{"T":"r","L":"erode","C":["vt","tera"],"d":"(venta, acua o un otra fenomeno natural) causa la diminui gradal de (tera o roca) par frota continuante","en":"erode, wear away, wear down, weather","fr":"éroder, user, raviner, ronger","he":"לשחוק"}
+{"L":"erode","C":["n"],"en":"erosion, attrition","fr":"érosion, usure, ravinement","he":"שחיקה"}
+{"L":"erodente","C":["a"],"en":"eroding, erosive","fr":"érosif","he":"שוחק"}
+{"T":"r","L":"eroe","C":["n","arte","uma"],"d":"un person ci es amirada o idealida per sua coraje, atenis eselente o cualias nobil; la carater xef en un libro, filma o presenta teatral, tipal con bon cualias e ci lejores o regardores pote compatia; un person mital de cualias supraumana, comun de orijina semidivin","en":"hero, heroine, protagonist","fr":"héros, héroïne, protagoniste","he":"גיבור; דמות ראשית, פרוטגוניסט"}
+{"L":"antieroe","C":["n"],"en":"antihero, antiheroine","fr":"anti-héros, anti-héroïne","he":"אנטי-גיבור; אנטגוניסט"}
+{"L":"eroin","C":["a"],"p":"eroïn","en":"heroic","fr":"héroïque, comparable à un héros","he":"הרואי"}
+{"L":"eroisme","C":["n"],"p":"eroïsme","en":"heroism","fr":"héroïsme","he":"גבורה, הרואיזם"}
+{"L":"supraeroe","C":["n"],"en":"superhero","fr":"superhéros, superhéroïne","he":"גיבור-על"}
+{"T":"r","L":"eroina","C":["n","med"],"d":"un paradole multe abituante, derivada de morfina, comun nonlegal usada per produi estasia","p":"eroïna","en":"heroin (drug)","fr":"héroïne","he":"הרואין"}
+{"T":"r","L":"erojen","C":["a","bio"],"d":"sensosa a stimula sesal","en":"erogenous","fr":"érogène","he":"ארוגני"}
+{"T":"r","L":"eron","C":["n","avia"],"d":"un avia grande e vadante con gamas longa, colo longa con forma de S, e beco longa e puntida, cual come tipal pexes","i":"#","t":"Ardeidae","en":"heron","fr":"héron","he":"אנפה (ציפור)"}
+{"T":"r","L":"Eros","C":["n","mit"],"d":"(en mitos elinica) la dio de ama e desira sesal","en":"Eros (mythology)","fr":"Éros","he":"(מיתולוגיה) ארוס"}
+{"T":"r","L":"erotica","C":["a","uma"],"d":"tendente stimula desira sesal","en":"erotic, carnal","fr":"érotique, charnel, sensuel","he":"ארוטי, חושני"}
+{"L":"autoerotica","C":["a"],"en":"autoerotic","fr":"autoérotique","he":"אוטו-ארוטי"}
+{"L":"eroticas","C":["n","pl"],"en":"erotica","fr":"art érotique","he":"ארוטיקה"}
+{"T":"r","L":"erpes","C":["n","med"],"d":"cada de un grupo de maladias causada par alga viruses, afetante la pel, tipal con bulas, o la sistem de nervos","en":"herpes","fr":"herpès","he":"הרפס"}
+{"T":"r","L":"erpetolojia","C":["n","med"],"d":"la ramo de zolojia cual studia retiles e amfibios","en":"herpetology","fr":"herpétologie, ophiologie","he":"הרפטולוגיה"}
+{"L":"erpetolojiste","C":["n"],"en":"herpetologist","fr":"herpétologue, ophiologue","he":"הרפטולוג"}
+{"T":"r","L":"Ertra","C":["n","jeo"],"c":"Asmara","d":"un pais en Africa norde-este, a la Mar Roja","i":"#","en":"Eritrea","fr":"Érythrée","he":"אריתריאה"}
+{"L":"ertri","C":["a"],"en":"Eritrean","fr":"érythréen","he":"אריתראי"}
+{"L":"ertri","C":["n"],"en":"Eritrean","fr":"Érythréen","he":"אריתראי"}
+{"T":"r","L":"erudita","C":["a"],"d":"avente o mostrante sabes detaliosa sur sujetos academial","en":"erudite, learned, scholarly","fr":"érudit, très cultivé, très instruit","he":"מלומד, משכיל"}
+{"L":"erudita","C":["n"],"en":"polymath, savant, scholar","fr":"érudit, savant","he":"מלומד, משכיל, ידען"}
+{"L":"eruditia","C":["n"],"en":"erudition, learnedness, scholarliness, scholarship","fr":"érudition, grande culture, grand savoir","he":"למדנות, השכלה, ידענות"}
+{"T":"r","L":"eruga","C":["n","artr"],"d":"la larva de un papilio, cual ave un corpo vermin e sesionida con tre duples de gamas vera e otra duples de membros cual pare como gamas","i":"#","t":"Lepidoptera","en":"caterpillar","fr":"chenille","he":"זחל"}
+{"L":"eruga de jeometrido","C":["n"],"en":"inchworm, looper","fr":"chenille de géométridé","he":"זחל מודד"}
+{"L":"eruga de seda","C":["n"],"t":"Bombyx mori","en":"silkworm","fr":"ver à soie","he":"טוואי המשי"}
+{"L":"erugin","C":["a"],"en":"caterpillarlike","fr":"qui ressemble à une chenille","he":"דמוי זחל"}
+{"T":"r","L":"eruta","C":["vnt","med","tera"],"d":"(un volcan) deveni ativa e ejeta lava, sene e gases; (un situa nondesirada) aveni subita e dramosa; (un maladia) apare subita sur la pel o otra parte de la corpo","en":"erupt; break out (in a rash)","fr":"être en éruption","he":"להתפרץ"}
+{"L":"eruta","C":["n"],"en":"eruption; outbreak; rash (medical)","fr":"éruption","he":"התפרצות"}
+{"L":"eruta de dentes","C":["n"],"en":"teething","fr":"percée (de dents), poussée (de dents)","he":"צמיחת שיניים"}
 {"T":"r","L":"es","C":["vl"],"d":"ave la state, cualia, identia, natur, rol, loca, etc, spesifada","u":"tu es bela; lo es un jua","da":"være","de":"sein","en":"be, is, are, am","es":"ser, estar","fr":"être"}
 {"L":"esente","C":["a"],"en":"being"}
 {"L":"esente","C":["n"],"en":"being, creature, entity","fr":"(un) être"}
@@ -14064,6 +14064,7 @@
 {"T":"r","L":"jardin","C":["n","arci"],"d":"un area de tera, tipal prosima a un casa, usada per flores, frutas o vejetales; un area de erba corta e arboretas ornal","i":"#","da":"have","de":"Garten","en":"garden, lawn, yard","es":"jardín","fr":"jardin"}
 {"L":"jardin de enfantes","C":["n"],"en":"kindergarten, nursery, preschool","fr":"garderie, école maternelle"}
 {"L":"jardin de inverno","C":["n"],"en":"winter garden; sunroom","fr":"jardin d'hiver; véranda, verrière"}
+{"L":"jardineta","C":["n"],"en":"small garden, allotment"}
 {"L":"jardinor","C":["n","avia"],"d":"un person ci cultiva jardines; un avia de Australasia, de cual la mas construi abitual un nido ornada per atrae la fema","i":"#","t":"Ptilonorhynchidae","en":"gardener, landscaper; bowerbird","fr":"jardinier (personne); oiseau jardinier (oiseau)"}
 {"T":"r","L":"jasinto","C":["n","pla"],"d":"un planta en familia de lil, con folias corein e flores campanin en spigas compata","i":"#","t":"Hyacinthus","en":"hyacinth","fr":"jacinthe"}
 {"L":"jasinto de bosce","C":["n","pla"],"d":"un planta relatada a jasinto, con flores trompin e tipal blu o violeta","t":"Hyacinthoides","en":"wild hyacinth, common bluebell, English bluebell, bell bottle (plant)","fr":"jacinthe des bois"}
@@ -14347,7 +14348,7 @@
 {"T":"r","L":"jotun","C":["n","mit"],"d":"(en mitolojia norsce) un membro de un raza de jigantes ci ia oposa tipal la dios de la aesir e spesial la dio Tor","de":"Jötunn (Riese in der altnordischen Mythologie; Plural: Jötnar, Joten)","en":"jotun, jotunn, jötunn, jötnar","fr":"jötunn"}
 {"T":"r","L":"jovedi","C":["n"],"d":"la dia entre mercurdi e venerdi en cada semana","de":"Donnerstag","en":"Thursday","eo":"ĵaŭdo","fr":"jeudi"}
 {"T":"r","L":"joven","C":["a","bio"],"d":"de un eda nonadulte; con cualias comun per persones nonadulte","da":"ung","de":"jung, jugendlich; knabenhaft, mädchenhaft","en":"young, youthful; boyish, girlish","es":"joven","fr":"jeune"}
-{"L":"joven","C":["n"],"i":"#","de":"Jugendlicher, Jugendliche, Jüngling, junger Mensch; Junges (Tier), Jungtier","en":"youth, young person, youngster, juvenile; guy, gal; cub (animal)","fr":"jeune"}
+{"L":"joven","C":["n"],"i":"#","de":"Jugendlicher, Jugendliche, Jüngling, junger Mensch; Junges (Tier), Jungtier","en":"young person, youngster, kid, youth, juvenile; guy, gal; cub (animal)","fr":"jeune"}
 {"L":"jovenal","C":["a"],"de":"jugendlich, Jugend..., juvenil","en":"juvenile, young people's","fr":"des jeunes, juvénil"}
 {"L":"jovenia","C":["n"],"de":"Jugend, Jugendlichkeit","en":"youth, youthfulness, girlhood, boyhood","fr":"jeunesse"}
 {"L":"jovenin","C":["a"],"de":"jung, jugendlich (im Verhalten oder Aussehen, nicht unbedingt nach Jahren)","en":"youthlike, juvenile (behavior|ur); youthful (appearance)","fr":"juvénile, jeune"}
@@ -22484,14 +22485,14 @@
 {"L":"reduinte","C":["a"],"en":"reducing, reductive","fr":"réductif"}
 {"L":"reduisme","C":["n"],"en":"reductionism","fr":"réductionnisme"}
 {"T":"r","L":"reduvido","C":["n","artr"],"d":"un inseto de zonas tropical con gamas longa cual come o morde xef otra artropodos","i":"#","t":"Reduviidae","en":"assassin bug","fr":"réduve"}
-{"T":"r","L":"refere","C":["vt","info"],"d":"fa un nota o indica per dirije la atende de (un lejor o escutor)","u":"la autor refere a sua jovenia; la table de contenidas ia refere me a un paje nonesistente","en":"refer, allude","fr":"référencer"}
-{"L":"refere","C":["n"],"en":"reference, cross-reference, referral, allusion, mention; pointer (software)","fr":"référence, allusion; pointeur, curseur"}
-{"L":"refere a","C":["v"],"en":"refer to, reference, cross-reference, mention, allude to","fr":"se référer à, faire référence à, faire allusion à"}
+{"T":"r","L":"refere","C":["vt","info"],"d":"fa un nota o indica per dirije la atende de (un lejor o escutor)","u":"la autor refere a sua jovenia; la table de contenidas ia refere me a un paje nonesistente","en":"refer, allude","fr":"référencer, faire un renvoi"}
+{"L":"refere","C":["n"],"en":"reference, cross-reference, referral, allusion, mention; pointer (software)","fr":"référence, renvoi, allusion; pointeur, curseur"}
+{"L":"refere a","C":["v"],"en":"refer to, reference, cross-reference, mention, allude to","fr":"se référer à, faire référence à, faire allusion à, renvoyer à"}
 {"L":"desrefere","C":["vnt"],"en":"dereference (software)","fr":"se déréférencer"}
 {"L":"desrefere","C":["vt"],"en":"dereference (software)","fr":"déréférencer"}
-{"L":"referente","C":["a"],"en":"referring","fr":"se référant, faisant référence"}
-{"L":"referente","C":["n"],"en":"reference","fr":"référence"}
-{"L":"referente a","C":["prep"],"en":"referring to, apropos of","fr":"se référant à, à propos de, au sujet de"}
+{"L":"referente","C":["a"],"en":"referring","fr":"de référence, de renvoi"}
+{"L":"referente","C":["n"],"en":"reference","fr":"référence, renvoi"}
+{"L":"referente a","C":["prep"],"en":"referring to, apropos of","fr":"se référant à, renvoyant à, à propos de, au sujet de"}
 {"T":"r","L":"referendo","C":["n","gov"],"d":"un vota jeneral par la votores sur un demanda political cual ia es pasada a los per un deside direta","en":"referendum, plebiscite","fr":"référendum"}
 {"L":"referendo per retira","C":["n"],"en":"recall election, recall referendum","fr":"référendum révocatoire"}
 {"T":"r","L":"refina","C":["vt","cim"],"d":"perfeti; sutrae nonpures o elementos nondesirada de (un materia), tipal como un parte de un prosede industrial; boni (alga cosa) par cambias peti; fa ce (un idea, teoria o metodo) deveni plu sutil e esata","en":"refine, perfect","fr":"peaufiner, raffiner, parfaire, parachever, ciseler"}
@@ -22539,45 +22540,45 @@
 {"L":"refuta","C":["n"],"en":"refutation, rebuttal","fr":"réfutation"}
 {"L":"nonrefutable","C":["a"],"en":"irrefutable","fr":"irréfutable"}
 {"L":"refutable","C":["a"],"en":"refutable","fr":"réfutable"}
-{"T":"r","L":"regala","C":["vt","uma"],"d":"permete ce (algun) joia un plaser desirada; furni comedas, bevis, divertis, etc a (algun); es multe o tro multe jenerosa a (algun)","en":"treat, spoil, pamper, indulge, dote, coddle, mollycoddle, cosset, pander"}
-{"L":"regala","C":["n"],"en":"treat, bonus, lagniappe; encore"}
-{"L":"regalante","C":["a"],"en":"treating, spoiling, permissive"}
-{"L":"supraregala","C":["vt"],"en":"overindulge, binge"}
-{"T":"r","L":"regarda","C":["vt"],"d":"vide (un person o cosa) con interesa e atende; sta fasante e plu alta ca (un vista)","da":"se på","de":"schauen; aussehen","en":"look at, behold, regard; watch, view (film, sport); overlook (a view); take into account; deem, consider to be","eo":"rigardi","es":"mirar","fr":"voir","it":"guardare","nl":"kijken","pt":"olhar"}
-{"L":"regarda","C":["n"],"en":"look, glance, regard"}
-{"L":"regarda a su","C":["v"],"en":"look down"}
-{"L":"regarda a supra","C":["v"],"en":"look up"}
-{"L":"regarda a via","C":["v"],"en":"look away, avert one's gaze, avert one's eyes"}
-{"L":"regarda intensa","C":["v"],"en":"stare at, gawk at"}
-{"L":"regarda intensa","C":["n"],"en":"stare"}
-{"L":"regarda la oios de","C":["v"],"en":"look in the eye, make eye contact with"}
-{"L":"regarda miope","C":["v"],"en":"peer at"}
-{"L":"nonregardada","C":["a"],"en":"unregarded"}
-{"L":"regardante","C":["prep"],"en":"regarding, as regards, as for, apropos of"}
-{"L":"regarda un cosa como","C":["v"],"u":"on regarda el como un autor importante; me regarda tu como mea ami la plu prosima","en":"see something as, regard something as, consider something to be"}
-{"L":"regardeta","C":["vt"],"en":"glance at"}
-{"L":"regardeta","C":["n"],"en":"glance"}
+{"T":"r","L":"regala","C":["vt","uma"],"d":"permete ce (algun) joia un plaser desirada; furni comedas, bevis, divertis, etc a (algun); es multe o tro multe jenerosa a (algun)","en":"treat, spoil, pamper, indulge, dote, coddle, mollycoddle, cosset, pander","fr":"régaler, réjouir, gâter, choyer, dorloter, être aux petits soins avec"}
+{"L":"regala","C":["n"],"en":"treat, bonus, lagniappe; encore","fr":"indulgence, petits soins, prévenance, réjouissance, gâterie"}
+{"L":"regalante","C":["a"],"en":"treating, spoiling, permissive","fr":"qui régale, accueillant, prévenant"}
+{"L":"supraregala","C":["vt"],"en":"overindulge, binge","fr":"trop gâter"}
+{"T":"r","L":"regarda","C":["vt"],"d":"vide (un person o cosa) con interesa e atende; sta fasante e plu alta ca (un vista)","da":"se på","de":"schauen; aussehen","en":"look at, behold, regard; watch, view (film, sport); overlook (a view); take into account; deem, consider to be","eo":"rigardi","es":"mirar","fr":"regarder, jeter un coup d'œil, considérer","it":"guardare","nl":"kijken","pt":"olhar"}
+{"L":"regarda","C":["n"],"en":"look, glance, regard","fr":"regard"}
+{"L":"regarda a su","C":["v"],"en":"look down","fr":"regarder vers le bas, baisser les yeux vers"}
+{"L":"regarda a supra","C":["v"],"en":"look up","fr":"regarder vers le haut, lever les yeux vers"}
+{"L":"regarda a via","C":["v"],"en":"look away, avert one's gaze, avert one's eyes","fr":"regarder au loin"}
+{"L":"regarda intensa","C":["v"],"en":"stare at, gawk at","fr":"contempler, examiner, dévisager, observer, scruter"}
+{"L":"regarda intensa","C":["n"],"en":"stare","fr":"contemplation, examen, observation"}
+{"L":"regarda la oios de","C":["v"],"en":"look in the eye, make eye contact with","fr":"plonger dans le regard de"}
+{"L":"regarda miope","C":["v"],"en":"peer at","fr":"scruter"}
+{"L":"nonregardada","C":["a"],"en":"unregarded","fr":"inaperçu"}
+{"L":"regardante","C":["prep"],"en":"regarding, as regards, as for, apropos of","fr":"concernant, quant à, à propos de"}
+{"L":"regarda un cosa como","C":["v"],"u":"on regarda el como un autor importante; me regarda tu como mea ami la plu prosima","en":"see something as, regard something as, consider something to be","fr":"regarder comme, considérer comme"}
+{"L":"regardeta","C":["vt"],"en":"glance at","fr":"jeter un coup d'œil sur"}
+{"L":"regardeta","C":["n"],"en":"glance","fr":"coup d'œil"}
 {"L":"regardor","C":["n"],"en":"viewer (person)","fr":"spectateur"}
-{"L":"regardores","C":["n","pl"],"en":"audience","fr":"spectateurs, audience"}
-{"L":"reregarda","C":["vt"],"en":"look again, watch again, have another look at; watch back (a recording)"}
-{"L":"turna sua regarda a via","C":["v"],"en":"look away, avert one's gaze, avert one's eyes"}
-{"T":"r","L":"rege","C":["a","mus"],"d":"un forma de musica popular con un ritmo du cual es forte asentuada, orijinante en Jamaica","en":"reggae (music)"}
-{"L":"rege","C":["n"],"en":"reggae (music)"}
-{"T":"r","L":"regex","C":["n","info"],"d":"(en informatica) un serie de sinias spesial cual representa un motif de testo","en":"regular expression, regex (software)"}
-{"T":"r","L":"regla","C":["n","util"],"d":"un peso reta de plastica, metal o lenio, marcada a intervales periodal, per desinia linias reta o mesura distantias","en":"ruler, yardstick; straightedge"}
-{"L":"regla de calcula","C":["n"],"i":"#","en":"slide rule"}
-{"L":"regla enrolada","C":["n"],"en":"tape measure"}
-{"L":"regla T","C":["n"],"i":"#","en":"T-square"}
-{"T":"r","L":"regresa","C":["vnt","bio","ast","mat"],"d":"reveni a un state pasada o min developada; (en astronomia) move a retro; (en statistica) calcula la fator o fatores de la relata entre la promedia de un variable e la valuas corespondente de otra variables","en":"regress, backslide"}
-{"L":"regresa","C":["vt"],"en":"regress, cause to regress"}
-{"L":"regresa","C":["n"],"en":"regression"}
-{"L":"regresante","C":["a"],"en":"regressive"}
-{"T":"r","L":"regrete","C":["vt","uma"],"d":"es triste, repentinte o deludeda par causa de (un aveni), tipal si on ia causa la aveni","da":"beklage","de":"bedauern, bereuen","en":"regret, rue, be sorry for, apologize|is for","eo":"bedaŭri","es":"sentir, lamentar, arrepentirse de","fr":"regreter","it":"rimpiangere","nl":"spijten, betreuren","pt":"lamentar, ter persar"}
-{"L":"regrete","C":["n"],"en":"regret, remorse, compunction; apology"}
-{"L":"regretable","C":["a"],"en":"regrettable, unfortunate"}
-{"L":"regretable","C":["n"],"en":"regrettably, unfortunately"}
-{"L":"regretosa","C":["a"],"en":"rueful, wistful, apologetic"}
-{"L":"sin regrete","C":["a"],"en":"unregretful, impenitent"}
+{"L":"regardores","C":["n","pl"],"en":"audience","fr":"spectateurs, audience, public"}
+{"L":"reregarda","C":["vt"],"en":"look again, watch again, have another look at; watch back (a recording)","fr":"regarder une nouvelle fois, revoir, réinspecter"}
+{"L":"turna sua regarda a via","C":["v"],"en":"look away, avert one's gaze, avert one's eyes","fr":"tourner son regard au loin"}
+{"T":"r","L":"rege","C":["a","mus"],"d":"un forma de musica popular con un ritmo du cual es forte asentuada, orijinante en Jamaica","en":"reggae (music)","fr":"reggae"}
+{"L":"rege","C":["n"],"en":"reggae (music)","fr":"reggae"}
+{"T":"r","L":"regex","C":["n","info"],"d":"(en informatica) un serie de sinias spesial cual representa un motif de testo","en":"regular expression, regex (software)","fr":"expression régulière, regex"}
+{"T":"r","L":"regla","C":["n","util"],"d":"un peso reta de plastica, metal o lenio, marcada a intervales periodal, per desinia linias reta o mesura distantias","en":"ruler, yardstick; straightedge","fr":"règle (instrument)"}
+{"L":"regla de calcula","C":["n"],"i":"#","en":"slide rule","fr":"règle à calcul (instrument)"}
+{"L":"regla enrolada","C":["n"],"en":"tape measure","fr":"ruban à mesurer, mètre-ruban, ruban gradué"}
+{"L":"regla T","C":["n"],"i":"#","en":"T-square","fr":"té (sorte d'équerre)"}
+{"T":"r","L":"regresa","C":["vnt","bio","ast","mat"],"d":"reveni a un state pasada o min developada; (en astronomia) move a retro; (en statistica) calcula la fator o fatores de la relata entre la promedia de un variable e la valuas corespondente de otra variables","en":"regress, backslide","fr":"régresser, rétrograder"}
+{"L":"regresa","C":["vt"],"en":"regress, cause to regress","fr":"faire régresser, faire rétrograder"}
+{"L":"regresa","C":["n"],"en":"regression","fr":"régression"}
+{"L":"regresante","C":["a"],"en":"regressive","fr":"régressif, en marche arrière"}
+{"T":"r","L":"regrete","C":["vt","uma"],"d":"es triste, repentinte o deludeda par causa de (un aveni), tipal si on ia causa la aveni","da":"beklage","de":"bedauern, bereuen","en":"regret, rue, be sorry for, apologize|is for","eo":"bedaŭri","es":"sentir, lamentar, arrepentirse de","fr":"regréter","it":"rimpiangere","nl":"spijten, betreuren","pt":"lamentar, ter persar"}
+{"L":"regrete","C":["n"],"en":"regret, remorse, compunction; apology","fr":"regret, remords"}
+{"L":"regretable","C":["a"],"en":"regrettable, unfortunate","fr":"regrettable, malheureux"}
+{"L":"regretable","C":["n"],"en":"regrettably, unfortunately","fr":"malheureusement"}
+{"L":"regretosa","C":["a"],"en":"rueful, wistful, apologetic","fr":"nostalgique, triste, mélancolique"}
+{"L":"sin regrete","C":["a"],"en":"unregretful, impenitent","fr":"sans regret, impénitent"}
 {"T":"r","L":"regula","C":["vt","util"],"d":"controla o manteni la rapidia de (un macina o prosede) afin lo funsiona bon; controla o supravide (un compania o ativia comersial) par usa modeles o gidas ofisial","en":"regulate, arrange, regularize|is, modulate"}
 {"L":"regula","C":["n"],"da":"regel, regulering","de":"Regel","en":"rule, regulation, commandment","eo":"regulo","es":"regla, regulación, reglamento, precepto, orden","fr":"règle","it":"regola, regolamento","nl":"regel","pt":"regra, regulamento, norma"}
 {"L":"regula jeneral","C":["n"],"en":"general rule, rule of thumb, guideline"}
@@ -28575,7 +28576,7 @@
 {"L":"la plu valuada","C":["a"],"en":"most valuable, inestimable"}
 {"L":"sin valua","C":["a"],"en":"worthless, valueless, pissant"}
 {"L":"supravalua","C":["vt"],"en":"overrate, overvalue"}
-{"L":"suvalua","C":["vt"],"en":"underappreciate, underrate, undervalue"}
+{"L":"suvalua","C":["vt"],"en":"underappreciate, underrate, undervalue, take for granted"}
 {"L":"ultra valua","C":["a"],"en":"beyond value, invaluable, priceless"}
 {"L":"valuada","C":["a"],"en":"worthy, valued, valuable, meritorious, fine"}
 {"L":"valuadas","C":["n","pl"],"en":"valuables, riches","fr":"richesses"}
