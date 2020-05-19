@@ -4495,53 +4495,53 @@
 {"L":"capetor","C":["n"],"de":"Kapuzenträger (Person)","en":"hoodie (person)","fr":"encapuchonné","he":"לובש קפוצ'ון"}
 {"L":"capi","C":["vt"],"de":"verhüllen","en":"cape, cloak","fr":"couvrir, camoufler","he":"ללבוש שכמיה"}
 {"T":"r","L":"capa","C":["n","ling"],"d":"la letera des de la alfabeta elinica","s":"Κ κ","de":"Kappa (griechischer Buchstabe)","en":"kappa (Greek letter)","fr":"kappa (lettre grecque)","he":"קפא (אות יוונית)"}
-{"T":"r","L":"capara","C":["n","pla"],"d":"un arboreta de Europa sude, simil a un rubo; la brotos de esta, coceda e vinagrida e usada per sabori comedas","i":"#","t":"Capparis spinosa","en":"caper (plant, bud)","fr":"câprier, câpre","he":"צלף (צמח)"}
-{"T":"r","L":"capas","C":["a"],"d":"con la potia, sabe, metodos o bon momento per fa alga cosa","da":"dygtig, kompetent","de":"fähig","en":"able, capable, skilled, skillful|skilful, proficient, accomplished, adept, adroit, competent, professional, amenable, efficient","es":"capaz, hábil, competente","fr":"capable, apte, habile","he":"מסוגל, כשיר, מיומן"}
-{"L":"capas de era","C":["a"],"en":"capable of error, fallible","fr":"faillible","he":"שעשוי לטעות"}
-{"L":"capas de susede","C":["a"],"en":"capable of success, viable","fr":"viable, probant, pertinent, approprié","he":"ישומי, מעשי"}
-{"L":"capas de vola","C":["a"],"en":"able to fly, fledged"}
-{"L":"ave la capasia","C":["v"],"en":"be qualified","fr":"avoir la capacité de, l'aptitude à, être capable de, être apte à, être qualifié pour","he":"להיות מסוגל, להיות מוכשר, להיות מתאים"}
-{"L":"capasi","C":["vnt"],"en":"grow capable","fr":"se qualifier, acquérir une compétence, devenir capable, devenir apte, acquérir une qualification","he":"לרכוש מיומנות"}
-{"L":"capasi","C":["vt"],"en":"enable, empower","fr":"permettre, habiliter, rendre apte, rendre capable, qualifier, donner une compétence","he":"לאפשר"}
-{"L":"capasi","C":["n"],"en":"enabling, empowerment","fr":"aptitude, habilitation, capacité"}
-{"L":"capasia","C":["n"],"da":"evne, formåen, kapacitet","de":"Fähigkeit","en":"ability, capability, capacity, power, faculty (power); talent, skill, knack, gift; proficiency, competence, prowess, artistry; efficiency, performance","es":"habilidad, capacidad (para hacer algo)","fr":"capacité, aptitude, habilité, qualification","he":"מסוגלות, כושר, יכולת; כישרון, מיומנות, מומחיות"}
-{"L":"capasia eletrical","C":["n"],"en":"capacitance","fr":"capacité (électrique)","he":"(חשמל) קיבול, קיבוליות"}
-{"L":"descapasi","C":["vnt"],"en":"incapacitate, disable, impair, vitiate, cripple","fr":"procéder à une désactivation, à une invalidation, enlever l'habilitation","he":"להיפגם, להחליש"}
-{"L":"descapasi","C":["vt"],"en":"incapacitate, disable, impair, vitiate, cripple","fr":"rendre incapable, désactiver, invalider, déshabiliter","he":"לפגום, להחליש; להטיל מום"}
-{"L":"descapasia","C":["n"],"en":"disability, handicap, impairment","fr":"invalidité, handicap, déficience","he":"מוגבלות, נכות, לקות, ליקוי, פגם"}
-{"L":"descapasida","C":["a"],"en":"incapacitated, disabled, handicapped, impaired, crippled","fr":"déficient, inapte, invalide, handicapé","he":"מוגבל, לקוי, פגום"}
-{"L":"descapasida","C":["n"],"en":"disabled person, handicapped person; invalid","fr":"handicapé, déficient, invalide","he":"נכה, מוגבל"}
-{"L":"noncapas","C":["a"],"en":"unable, incapable, powerless, incompetent, inept, amateurish, unprofessional, hopeless, unqualified, unversed","fr":"incapable, incompétent, inapte, non qualifié, inexpérimenté","he":"לא מסוגל, לא מוסמך, חסר יכולת"}
-{"L":"noncapasia","C":["n"],"en":"inability, incompetence","fr":"incapacité, inaptitude, incompétence","he":"אי-יכולת, אי-כשירות"}
-{"L":"nondescapasida","C":["a"],"en":"unimpaired","fr":"non diminué, non déficient","he":"ללא פגם, ללא מוגבלות"}
-{"L":"recapasi","C":["vnt"],"en":"re-enable, rehabilitate","fr":"procéder à une réhabilitation, à une réactivation, à une requalification","he":"להשתקם"}
-{"L":"recapasi","C":["vt"],"en":"re-enable, rehabilitate","fr":"réhabiliter, requalifier, réactiver","he":"לאפשר שוב; לשקם"}
-{"L":"recapasi","C":["n"],"en":"rehabilitation","fr":"réhabilitation, requalification","he":"שיקום, השתקמות"}
-{"L":"tro capas","C":["a"],"en":"overqualified, overskilled","fr":"surqualifié","he":"בעל כישורים גבוהים מדי"}
-{"T":"r","L":"capel","C":["n","bio"],"d":"cada de la filos magra cual crese de la scalpo de umanas","da":"hår","de":"Haar","en":"hair (of the scalp, one strand)","es":"cabello, pelo","fr":"cheveu","he":"שערה"}
-{"L":"capeleria","C":["n"],"en":"barbershop, hair salon","fr":"salon de coiffure","he":"מספרה"}
+{"T":"r","L":"capara","C":["n","pla"],"d":"un arboreta de Europa sude, simil a un rubo; la brotos de esta, coceda e vinagrida e usada per sabori comedas","i":"#","t":"Capparis spinosa","de":"Kapernstrauch, echter Kapernstrauch, dorniger Kapernstrauch; Kaper (Frucht/Knospe)","en":"caper (plant, bud)","fr":"câprier, câpre","he":"צלף (צמח)"}
+{"T":"r","L":"capas","C":["a"],"d":"con la potia, sabe, metodos o bon momento per fa alga cosa","da":"dygtig, kompetent","de":"fähig, tüchtig, geschickt, gewandt, kompetent, bewandert, bewandt","en":"able, capable, skilled, skillful|skilful, proficient, accomplished, adept, adroit, competent, professional, amenable, efficient","es":"capaz, hábil, competente","fr":"capable, apte, habile","he":"מסוגל, כשיר, מיומן"}
+{"L":"capas de era","C":["a"],"de":"fehlbar","en":"capable of error, fallible","fr":"faillible","he":"שעשוי לטעות"}
+{"L":"capas de susede","C":["a"],"de":"machbar, realisierbar, durchführbar, erfolgversprechend","en":"capable of success, viable","fr":"viable, probant, pertinent, approprié","he":"ישומי, מעשי"}
+{"L":"capas de vola","C":["a"],"de":"flugfähig, flugtauglich, flügge","en":"able to fly, fledged"}
+{"L":"ave la capasia","C":["v"],"de":"qualifiziert sein, geeignet sein","en":"be qualified","fr":"avoir la capacité de, l'aptitude à, être capable de, être apte à, être qualifié pour","he":"להיות מסוגל, להיות מוכשר, להיות מתאים"}
+{"L":"capasi","C":["vnt"],"de":"sich qualifizieren, fähig werden, eine Fertigkeit erwerben","en":"grow capable","fr":"se qualifier, acquérir une compétence, devenir capable, devenir apte, acquérir une qualification","he":"לרכוש מיומנות"}
+{"L":"capasi","C":["vt"],"de":"befähigen, qualifizieren","en":"enable, empower","fr":"permettre, habiliter, rendre apte, rendre capable, qualifier, donner une compétence","he":"לאפשר"}
+{"L":"capasi","C":["n"],"de":"Befähigung, Qualifikation","en":"enabling, empowerment","fr":"aptitude, habilitation, capacité"}
+{"L":"capasia","C":["n"],"da":"evne, formåen, kapacitet","de":"Fähigkeit, Können, Befähigung, Fertigkeit, Tüchtigkeit; Talent, Begabung, Kompetenz; Leistungsfähigkeit","en":"ability, capability, capacity, power, faculty (power); talent, skill, knack, gift; proficiency, competence, prowess, artistry; efficiency, performance","es":"habilidad, capacidad (para hacer algo)","fr":"capacité, aptitude, habilité, qualification","he":"מסוגלות, כושר, יכולת; כישרון, מיומנות, מומחיות"}
+{"L":"capasia eletrical","C":["n"],"de":"(elektrische) Kapazität","en":"capacitance","fr":"capacité (électrique)","he":"(חשמל) קיבול, קיבוליות"}
+{"L":"descapasi","C":["vnt"],"de":"unfähig werden, beeinträchtigt werden, verkrüppeln","en":"incapacitate, disable, impair, vitiate, cripple","fr":"procéder à une désactivation, à une invalidation, enlever l'habilitation","he":"להיפגם, להחליש"}
+{"L":"descapasi","C":["vt"],"de":"unfähig machen, außer Gefecht setzen, ausschalten, beeinträchtigen, verkrüppeln","en":"incapacitate, disable, impair, vitiate, cripple","fr":"rendre incapable, désactiver, invalider, déshabiliter","he":"לפגום, להחליש; להטיל מום"}
+{"L":"descapasia","C":["n"],"de":"Behinderung, Beeinträchtigung, Unfähigkeit; Handikap, Handicap","en":"disability, handicap, impairment","fr":"invalidité, handicap, déficience","he":"מוגבלות, נכות, לקות, ליקוי, פגם"}
+{"L":"descapasida","C":["a"],"de":"behindert, versehrt, verkrüppelt, beeinträchtigt; unfähig geworden","en":"incapacitated, disabled, handicapped, impaired, crippled","fr":"déficient, inapte, invalide, handicapé","he":"מוגבל, לקוי, פגום"}
+{"L":"descapasida","C":["n"],"de":"Behinderter, behinderte Person; Invalide","en":"disabled person, handicapped person; invalid","fr":"handicapé, déficient, invalide","he":"נכה, מוגבל"}
+{"L":"noncapas","C":["a"],"de":"unfähig, untauglich, außerstande, unqualifiziert, inkompetent, nicht kompetent, ohnmächtig, linkisch, ungeschickt, dilettantisch, hoffnungslos","en":"unable, incapable, powerless, incompetent, inept, amateurish, unprofessional, hopeless, unqualified, unversed","fr":"incapable, incompétent, inapte, non qualifié, inexpérimenté","he":"לא מסוגל, לא מוסמך, חסר יכולת"}
+{"L":"noncapasia","C":["n"],"de":"Unfähigkeit, Inkompetenz","en":"inability, incompetence","fr":"incapacité, inaptitude, incompétence","he":"אי-יכולת, אי-כשירות"}
+{"L":"nondescapasida","C":["a"],"de":"unbeeinträchtigt","en":"unimpaired","fr":"non diminué, non déficient","he":"ללא פגם, ללא מוגבלות"}
+{"L":"recapasi","C":["vnt"],"de":"sich rehabilitieren, wieder fähig werden","en":"re-enable, rehabilitate","fr":"procéder à une réhabilitation, à une réactivation, à une requalification","he":"להשתקם"}
+{"L":"recapasi","C":["vt"],"de":"rehabilitieren, wieder befähigen, wieder fähig machen","en":"re-enable, rehabilitate","fr":"réhabiliter, requalifier, réactiver","he":"לאפשר שוב; לשקם"}
+{"L":"recapasi","C":["n"],"de":"Rehabilitierung","en":"rehabilitation","fr":"réhabilitation, requalification","he":"שיקום, השתקמות"}
+{"L":"tro capas","C":["a"],"de":"überqualifiziert","en":"overqualified, overskilled","fr":"surqualifié","he":"בעל כישורים גבוהים מדי"}
+{"T":"r","L":"capel","C":["n","bio"],"d":"cada de la filos magra cual crese de la scalpo de umanas","da":"hår","de":"Haar, Kopfhaar (ein einzelnes)","en":"hair (of the scalp, one strand)","es":"cabello, pelo","fr":"cheveu","he":"שערה"}
+{"L":"capeleria","C":["n"],"de":"Friseursalon, Friseurladen, Friseurgeschäft","en":"barbershop, hair salon","fr":"salon de coiffure","he":"מספרה"}
 {"L":"capeles","C":["n","pl"],"i":"#","de":"Haare, Haar","en":"hairs, hair (collectively)","fr":"cheveux, chevelure","he":"שיער, שערות"}
-{"L":"capeles brosin","C":["n","pl"],"i":"#","en":"flat-top","fr":"une coupe de cheveux à la brosse","he":"תספורת קצוצה"}
-{"L":"Capeles de Berenise","C":["n","pl","ast"],"en":"Coma Berenices (constellation)","fr":"Chevelure de Bérénice (constellation)","he":"שערות ברניקי (קבוצת כוכבים)"}
-{"L":"capeles de pajo","C":["n","pl"],"i":"#","en":"pageboy bob","he":"תספורת פטרייה"}
-{"L":"capeles erisin","C":["n","pl"],"i":"#","en":"spiked hair","he":"תספורת קוצים"}
-{"L":"capeles irocuoi","C":["n","pl"],"i":"#","en":"mohawk|mohican","he":"תספורת מוהיקן"}
-{"L":"capeles militar","C":["n","pl"],"i":"#","en":"military haircut, buzzcut, crewcut","he":"תספורת צבאית"}
-{"L":"capeles rastafari","C":["n","pl"],"i":"#","en":"dreadlocks","fr":"dreadlocks","he":"רסטות"}
-{"L":"capeles reta","C":["n","pl"],"i":"#","en":"straight hair","fr":"cheveux raides","he":"שיער חלק"}
-{"L":"capeles risa","C":["n","pl"],"i":"#","en":"curly hair","fr":"cheveux bouclés","he":"שיער מתולתל"}
-{"L":"capeleta","C":["n"],"d":"un capel de pelo; un filo delicata cual crese de la epiderma de un planta, o cual formi un parte de un selula vivente","v":"pelo","en":"facial hair, body hair (one strand)","fr":"poil","he":"שיער גוף"}
-{"L":"capeli","C":["vt"],"en":"add hair to","fr":"implanter des cheveux à, mettre des cheveux à","he":"להוסיף שיער (לשחקן או תחפושת)"}
-{"L":"capelin","C":["a"],"en":"hairlike","fr":"capillaire, semblable à un cheveu ou à des cheveux","he":"דמוי-שיער"}
-{"L":"capelon","C":["n"],"en":"bristle, awn, arista","fr":"soie, poil (zoologie)","he":"זיף"}
-{"L":"capelones","C":["n","pl"],"i":"#","en":"stubble","fr":"poils de barbe, barbe","he":"זיפים"}
-{"L":"capelonosa","C":["a"],"en":"stubbly","fr":"barbu","he":"זיפי"}
-{"L":"capelor","C":["n"],"en":"hairdresser, hairstylist, barber","fr":"coiffeur","he":"ספר, מעצב שיער"}
-{"L":"capelosa","C":["a"],"en":"hairy (head)","fr":"chevelu","he":"(ראש) מלא שיער"}
-{"L":"con capeles roja","C":["a"],"en":"red-haired, red-headed, ginger","fr":"roux","he":"ג'ינג'י"}
-{"L":"descapeli","C":["vt"],"en":"depilate, remove hair from","fr":"épiler","he":"להסיר שיער"}
-{"L":"descapelinte","C":["a"],"en":"depilatory","fr":"épilatoire","he":"מסיר שיער"}
-{"L":"par un capel","C":["av"],"en":"by a hair's breadth, barely","fr":"à un cheveu près, de justesse, il ne s'en est fallu que d'un cheveu","he":"בקושי"}
+{"L":"capeles brosin","C":["n","pl"],"i":"#","de":"Flattop (Bürstenfrisur)","en":"flat-top","fr":"une coupe de cheveux à la brosse","he":"תספורת קצוצה"}
+{"L":"Capeles de Berenise","C":["n","pl","ast"],"de":"Haar der Berenike, Coma Berenices (Sternbild)","en":"Coma Berenices (constellation)","fr":"Chevelure de Bérénice (constellation)","he":"שערות ברניקי (קבוצת כוכבים)"}
+{"L":"capeles de pajo","C":["n","pl"],"i":"#","de":"Pagenkopf, Etonschnitt (Kurzhaarfrisur)","en":"pageboy bob","he":"תספורת פטרייה"}
+{"L":"capeles erisin","C":["n","pl"],"i":"#","de":"Stachelhaar, Igelfrisur, Stachelfrisur, aufgestellte Haare","en":"spiked hair","he":"תספורת קוצים"}
+{"L":"capeles irocuoi","C":["n","pl"],"i":"#","de":"Irokesenschnitt","en":"mohawk|mohican","he":"תספורת מוהיקן"}
+{"L":"capeles militar","C":["n","pl"],"i":"#","de":"Maschinenschnitt, Bürstenschnitt, Meckifrisur, Igelschnitt, militärischer Kurzhaarschnitt","en":"military haircut, buzzcut, crewcut","he":"תספורת צבאית"}
+{"L":"capeles rastafari","C":["n","pl"],"i":"#","de":"Dreadlocks, Dreads, Filzlocken","en":"dreadlocks","fr":"dreadlocks","he":"רסטות"}
+{"L":"capeles reta","C":["n","pl"],"i":"#","de":"glattes Haar","en":"straight hair","fr":"cheveux raides","he":"שיער חלק"}
+{"L":"capeles risa","C":["n","pl"],"i":"#","de":"lockiges Haar, Locken","en":"curly hair","fr":"cheveux bouclés","he":"שיער מתולתל"}
+{"L":"capeleta","C":["n"],"d":"un capel de pelo; un filo delicata cual crese de la epiderma de un planta, o cual formi un parte de un selula vivente","v":"pelo","de":"Haar (im Gesicht oder am Körper, einzeln)","en":"facial hair, body hair (one strand)","fr":"poil","he":"שיער גוף"}
+{"L":"capeli","C":["vt"],"de":"Haare hinzufügen, behaaren","en":"add hair to","fr":"implanter des cheveux à, mettre des cheveux à","he":"להוסיף שיער (לשחקן או תחפושת)"}
+{"L":"capelin","C":["a"],"de":"haarförmig, haarähnlich","en":"hairlike","fr":"capillaire, semblable à un cheveu ou à des cheveux","he":"דמוי-שיער"}
+{"L":"capelon","C":["n"],"de":"Borste; Granne; Fühlerborste","en":"bristle, awn, arista","fr":"soie, poil (zoologie)","he":"זיף"}
+{"L":"capelones","C":["n","pl"],"i":"#","de":"Stoppeln, Bartstoppeln","en":"stubble","fr":"poils de barbe, barbe","he":"זיפים"}
+{"L":"capelonosa","C":["a"],"de":"stoppelig, stopplig","en":"stubbly","fr":"barbu","he":"זיפי"}
+{"L":"capelor","C":["n"],"de":"Friseur, Frisör, Coiffeur, Hairstylist","en":"hairdresser, hairstylist, barber","fr":"coiffeur","he":"ספר, מעצב שיער"}
+{"L":"capelosa","C":["a"],"de":"haarig, behaart","en":"hairy (head)","fr":"chevelu","he":"(ראש) מלא שיער"}
+{"L":"con capeles roja","C":["a"],"de":"rothaarig","en":"red-haired, red-headed, ginger","fr":"roux","he":"ג'ינג'י"}
+{"L":"descapeli","C":["vt"],"de":"depilieren, enthaaren","en":"depilate, remove hair from","fr":"épiler","he":"להסיר שיער"}
+{"L":"descapelinte","C":["a"],"de":"enthaarend, Enthaarungs...","en":"depilatory","fr":"épilatoire","he":"מסיר שיער"}
+{"L":"par un capel","C":["av"],"de":"um Haaresbreite, kaum, gerade noch, mit Mühe und Not","en":"by a hair's breadth, barely","fr":"à un cheveu près, de justesse, il ne s'en est fallu que d'un cheveu","he":"בקושי"}
 {"T":"r","L":"capibara","C":["n","mam"],"d":"un mamal de America Sude cual sembla un cavia jigante con gamas longa","i":"#","t":"Hydrochoerus hydrochaeris","en":"capybara (animal)","fr":"capybara, grand cabiaï (animal, rongeur )","he":"קפיבארה (מכרסם)"}
 {"T":"r","L":"capilar","C":["a","anat"],"d":"(un duto sangual) delicata, raminte, e forminte la rede entre la arterietas e la venetas","en":"capillary","fr":"capillaire","he":"נים"}
 {"L":"capilar","C":["n"],"en":"capillary","fr":"capillaire","he":"נים"}
@@ -22791,28 +22791,28 @@
 {"L":"malreputa","C":["n"],"en":"disrepute","fr":"mauvaise réputation"}
 {"L":"malreputada","C":["a"],"en":"disreputable, unsavory|ur, of ill repute","fr":"de mauvaise réputation, peu recommandable, tristement célèbre"}
 {"L":"reputada","C":["a"],"en":"reputed","fr":"réputé, fameux, célèbre, connu"}
-{"T":"r","L":"rescate","C":["n","mone","gov"],"d":"un cuantia de mone o otra paia esijeda o paiada per la relasa de un prisonida","en":"ransom"}
-{"L":"rescate finansial","C":["n"],"en":"bailout"}
-{"L":"rescati","C":["vt"],"d":"oteni la relasa de (un prisonida) par paia lo cual la caturor demanda","en":"ransom"}
-{"T":"r","L":"resenia","C":["vt"],"d":"analise e evalua (un teoria o obra) en un modo detaliada","en":"critique, review"}
-{"L":"resenia","C":["n"],"en":"critique, review"}
-{"L":"resenial","C":["a"],"en":"critical, analytically reviewed"}
-{"L":"resenior","C":["n"],"en":"reviewer, critic"}
-{"T":"r","L":"resente","C":["a"],"d":"aveninte, comensada o fada a no multe tempo ante aora; de un eda o periodo pasada no multe distante de la presente","en":"recent"}
+{"T":"r","L":"rescate","C":["n","mone","gov"],"d":"un cuantia de mone o otra paia esijeda o paiada per la relasa de un prisonida","en":"ransom","fr":"rançon"}
+{"L":"rescate finansial","C":["n"],"en":"bailout","fr":"sauvetage, renflouement, renflouage"}
+{"L":"rescati","C":["vt"],"d":"oteni la relasa de (un prisonida) par paia lo cual la caturor demanda","en":"ransom","fr":"rançonner"}
+{"T":"r","L":"resenia","C":["vt"],"d":"analise e evalua (un teoria o obra) en un modo detaliada","en":"critique, review","fr":"faire une critique, écrire une critique"}
+{"L":"resenia","C":["n"],"en":"critique, review","fr":"critique, analyse critique"}
+{"L":"resenial","C":["a"],"en":"critical, analytically reviewed","fr":"critique"}
+{"L":"resenior","C":["n"],"en":"reviewer, critic","fr":"critique (littéraire, musical, etc.) (personne)"}
+{"T":"r","L":"resente","C":["a"],"d":"aveninte, comensada o fada a no multe tempo ante aora; de un eda o periodo pasada no multe distante de la presente","en":"recent","fr":"récent"}
 {"L":"resente","C":["av"],"ca":"recentment, darrerament","da":"for nylig","de":"letztens, kürzlich, vor kurzem","en":"recently, lately, the other day","eo":"antaŭnelonge, lastatempe","es":"recientemente, ultimamente","fr":"dernièrement, récemment","it":"recentemente","ja":"最近","nl":"onlangs","pt":"recentemente, ultimamente","ru":"недавно"}
-{"L":"resente de scola","C":["a"],"en":"fresh from school"}
-{"L":"la plu resente","C":["av"],"u":"la plu resente, on ia vide el en via a la stasion","en":"most recently, last"}
-{"T":"r","L":"reserpina","C":["n","cim","med"],"d":"un droga usada per la trata de presa sangual alta","en":"reserpine"}
-{"T":"r","L":"reserva","C":["vt","mone"],"d":"no usa o dejeta (un cosa); reteni per usa futur; reteni (mone o otra valuadas) per usa futur; fa ce (un salon, seja, bileta, etc) es retenida per un person spesifada e no donada a cualce otra person","en":"reserve; save (money), scrimp, put aside; hoard, stash, stockpile; book (seat, table)","eo":"rezervi; ŝpari; mendi (lokon)"}
-{"L":"reserva","C":["n"],"da":"lager, reserve","de":"Vorrat, Lager","en":"store, cache, hoard, storehouse, depot, storage, stash, stockpile; savings, kitty, fund (money); booking, reservation (seat, table); reserve, reservation","eo":"rezervo","es":"almacén, depósito, acopio, reserva","fr":"magasin","it":"riserva; deposito","nl":"voorraad, magazijn","pt":"almoxarifado, depósito"}
-{"L":"reserva de amorti","C":["n"],"en":"sinking fund"}
-{"L":"reserva mone per","C":["v"],"en":"save money for, budget for"}
-{"L":"reservada","C":["a"],"en":"reserved, put aside, on layaway"}
-{"L":"reservada","C":["av"],"en":"in reserve"}
-{"L":"reservas","C":["n","pl"],"en":"reserves, stock (supplies)"}
-{"L":"reserviste","C":["n"],"en":"reservist"}
-{"T":"r","L":"reseta","C":["vt","uma"],"d":"oteni (un cosa) donada; bonveni formal (un visitor); developa (un maladia comunicable)","da":"modtage","de":"empfangen","en":"receive, get; receive, welcome (visitors); catch, contract (illness)","eo":"ricevi","es":"recibir","fr":"recever","it":"ricevere","nl":"ontvangen","pt":"receber"}
-{"L":"reseta","C":["n","cos"],"d":"un ata de reseta; un serie de instruis per prepara un comeda, incluinte un lista de la ingredientes","en":"reception; recipe"}
+{"L":"resente de scola","C":["a"],"en":"fresh from school","fr":"fraîchement sorti d'une école"}
+{"L":"la plu resente","C":["av"],"u":"la plu resente, on ia vide el en via a la stasion","en":"most recently, last","fr":"tout dernièrement, il y a très peu de temps"}
+{"T":"r","L":"reserpina","C":["n","cim","med"],"d":"un droga usada per la trata de presa sangual alta","en":"reserpine","fr":"réserpine"}
+{"T":"r","L":"reserva","C":["vt","mone"],"d":"no usa o dejeta (un cosa); reteni per usa futur; reteni (mone o otra valuadas) per usa futur; fa ce (un salon, seja, bileta, etc) es retenida per un person spesifada e no donada a cualce otra person","en":"reserve; save (money), scrimp, put aside; hoard, stash, stockpile; book (seat, table)","eo":"rezervi; ŝpari; mendi (lokon)","fr":"faire des réserves, réserver, conserver, économiser, mettre de côté, stocker, emmagasiner; réserver (faire une réservation)"}
+{"L":"reserva","C":["n"],"da":"lager, reserve","de":"Vorrat, Lager","en":"store, cache, hoard, storehouse, depot, storage, stash, stockpile; savings, kitty, fund (money); booking, reservation (seat, table); reserve, reservation","eo":"rezervo","es":"almacén, depósito, acopio, reserva","fr":"magasin, réserve, stock; économies; réservation","it":"riserva; deposito","nl":"voorraad, magazijn","pt":"almoxarifado, depósito"}
+{"L":"reserva de amorti","C":["n"],"en":"sinking fund","fr":"fonds d'amortissement, réserve financière"}
+{"L":"reserva mone per","C":["v"],"en":"save money for, budget for","fr":"économiser pour|en vue de"}
+{"L":"reservada","C":["a"],"en":"reserved, put aside, on layaway","fr":"réservé, mis de côté, mis en réserve, stocké, économisé"}
+{"L":"reservada","C":["av"],"en":"in reserve","fr":"en réserve"}
+{"L":"reservas","C":["n","pl"],"en":"reserves, stock (supplies)","fr":"réserves, stock"}
+{"L":"reserviste","C":["n"],"en":"reservist","fr":"réserviste"}
+{"T":"r","L":"reseta","C":["vt","uma"],"d":"oteni (un cosa) donada; bonveni formal (un visitor); developa (un maladia comunicable)","da":"modtage","de":"empfangen","en":"receive, get; receive, welcome (visitors); catch, contract (illness)","eo":"ricevi","es":"recibir","fr":"recevoir, accueillir; contracter (une maladie)","it":"ricevere","nl":"ontvangen","pt":"receber"}
+{"L":"reseta","C":["n","cos"],"d":"un ata de reseta; un serie de instruis per prepara un comeda, incluinte un lista de la ingredientes","en":"reception; recipe","fr":"réception, recette"}
 {"L":"nonresetante","C":["a"],"en":"unreceptive"}
 {"L":"resetador","C":["n"],"en":"receiver (device, biology)"}
 {"L":"resetante","C":["a"],"en":"receptive"}
