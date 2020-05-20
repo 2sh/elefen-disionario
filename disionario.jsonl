@@ -1191,6 +1191,7 @@
 {"T":"r","L":"ancora","C":["av"],"d":"asta e incluinte la presente o un tempo spesifada","an":"inda, entá","da":"stadigvæk, alligevel","de":"noch, schon","en":"still (ongoing); even (more, less)","es":"todavía, aún (desde antes hasta el tiempo mencionado inclusive)","fr":"encore","he":"עדיין"}
 {"L":"ancora no","C":["av"],"en":"still not, not yet","fr":"pas encore","he":"עדיין לא"}
 {"L":"ma ancora","C":["av"],"en":"but still, and yet, nevertheless, nonetheless, however","fr":"mais encore, et encore, et pourtant","he":"אבל עדיין, בכל אופן"}
+{"T":"r","L":"andalus","C":["n","ling"],"d":"dialeto de espaniol parlada en Andalusia; person orijinal de Andalusia","i":"#","en":"Andalusian (person, language)","fr":"Andalous","he":"אנדלוסיה"}
 {"T":"r","L":"Andalusia","C":["n","jeo"],"d":"un rejion autonom de Espania sude; un rena moro en la eda medieval","i":"#","en":"Andalusia (Spanish region)","fr":"Andalousie","he":"אנדלוסיה"}
 {"T":"r","L":"Andaman","C":["n","jeo"],"en":"Andaman","fr":"Andaman","he":"אנדמן"}
 {"L":"Isolas Andaman","C":["n","pl","jeo"],"d":"un grupo de isolas en la Golfo Bengala entre Barat e Miama","en":"Andaman Islands","fr":"îles Andaman","he":"איי אנדמן"}
